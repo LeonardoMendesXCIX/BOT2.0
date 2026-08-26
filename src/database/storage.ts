@@ -18,11 +18,17 @@ export interface PromoSchedule {
     active: boolean;
 }
 
+export interface UserStats {
+    text: number;
+    media: number;
+    total: number;
+}
+
 export interface BotStorage {
     states: Record<string, any>;
     cache: Record<string, any>;
     users: Record<string, string>;
-    groupStats: Record<string, Record<string, { text: number; media: number; total: number }>>;
+    groupStats: Record<string, Record<string, UserStats>>;
     scheduledMsgs: Array<{
         id: string;
         chatId: string;
@@ -37,27 +43,31 @@ export interface BotStorage {
     memoryCluster: Record<string, ClusterMessage[]>;
     lastJarvisIntervention: Record<string, number>;
     messageCountSinceLastJarvis: Record<string, number>;
-    botDisabled: Record<string, boolean>; // Master switch por grupo (!bot off / on)
-    closedGroups: Record<string, boolean>; // Grupo fechado / trancado para somente administradores
+    botDisabled: Record<string, boolean>;
+    closedGroups: Record<string, boolean>;
+    queuedWelcomes: Record<string, string[]>;
     promoSchedule: Record<string, PromoSchedule>;
-    welcomeMsgs: Record<string, { text: string; setBy: string; date: string }>;
-    welcomeReminders: Record<string, { text: string; setBy: string; date: string }>;
+    welcomeMsgs: Record<string, { text: string; setBy?: string; date?: string }>;
+    welcomeReminders: Record<string, { text: string; setBy?: string; date?: string }>;
     pendingBvReminders: Array<{ id: string; chatId: string; newMemberId: string; runAt: number }>;
     pendingPresentations: Array<{ id: string; chatId: string; memberId: string; memberNum: string; memberName: string; deadline: number }>;
-    activeTrolls: Record<string, { targetNum: string; targetJid: string; targetName: string; startedAt: number; deadline: number }>;
     groupSchedules: Record<string, { openTime?: string; closeTime?: string }>;
-    exitMsgs: Record<string, { text: string; setBy: string; date: string }>;
+    exitMsgs: Record<string, { text: string; setBy?: string; date?: string }>;
+    inativosMsgs: Record<string, { text: string; setBy?: string; date?: string }>;
     antilink: Record<string, boolean>;
     antifake: Record<string, boolean>;
     antiflood: Record<string, boolean>;
     antighost: Record<string, boolean>;
-    autoMemes: Record<string, boolean>;
+    antinsfw: Record<string, boolean>;
+    autoTranscribe: Record<string, boolean>;
+    antidelete: Record<string, boolean>;
+    messageBuffer: Record<string, Record<string, { text: string; sender: string; pushName: string; timestamp: number }>>;
     jarvisMode: Record<string, boolean>;
     bannedWords: Record<string, string[]>;
     groupRules: Record<string, string>;
     warnings: Record<string, Record<string, number>>;
     maxWarnings: Record<string, number>;
-    activeQuiz: Record<string, { question: string; answer: string; startedBy: string; date: number }>;
+    activeQuiz: Record<string, { question: string; answer: string; startedBy?: string; date?: number; timeout?: any }>;
     autoAnim: Record<string, boolean>;
     lastGroupActivity: Record<string, number>;
     autoAnimSent: Record<string, boolean>;
@@ -83,19 +93,23 @@ export class StorageManager {
             messageCountSinceLastJarvis: {},
             botDisabled: {},
             closedGroups: {},
+            queuedWelcomes: {},
             promoSchedule: {},
             welcomeMsgs: {},
             welcomeReminders: {},
             pendingBvReminders: [],
             pendingPresentations: [],
-            activeTrolls: {},
             groupSchedules: {},
             exitMsgs: {},
+            inativosMsgs: {},
             antilink: {},
             antifake: {},
             antiflood: {},
             antighost: {},
-            autoMemes: {},
+            antinsfw: {},
+            autoTranscribe: {},
+            antidelete: {},
+            messageBuffer: {},
             jarvisMode: {},
             bannedWords: {},
             groupRules: {},
@@ -108,7 +122,7 @@ export class StorageManager {
             disabledFeatures: {}
         };
         this.load();
-        
+
         setInterval(() => {
             if (this.pendingSave) {
                 this.saveSync();
@@ -134,8 +148,15 @@ export class StorageManager {
 
     public saveSync(): void {
         try {
-            fs.writeFile(STORAGE_FILE, JSON.stringify(this.data, null, 2), (err) => {
-                if (err) console.error('[ERRO STORAGE] Gravação assíncrona:', err.message);
+            const tmpFile = `${STORAGE_FILE}.tmp`;
+            fs.writeFile(tmpFile, JSON.stringify(this.data, null, 2), (err) => {
+                if (err) {
+                    console.error('[ERRO STORAGE] Gravação temporária:', err.message);
+                    return;
+                }
+                fs.rename(tmpFile, STORAGE_FILE, (renameErr) => {
+                    if (renameErr) console.error('[ERRO STORAGE] Renomeação atômica:', renameErr.message);
+                });
             });
         } catch (e: any) {
             console.error('[ERRO STORAGE]', e.message);
@@ -171,7 +192,7 @@ export class StorageManager {
 
         const now = new Date();
         const currentHHMM = now.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit', hour12: false });
-        
+
         if (promo.startTime <= promo.endTime) {
             return currentHHMM >= promo.startTime && currentHHMM < promo.endTime;
         } else {
@@ -228,12 +249,14 @@ export class StorageManager {
         if (!this.data.disabledFeatures) this.data.disabledFeatures = {};
         if (!this.data.disabledFeatures[chatId]) this.data.disabledFeatures[chatId] = {};
         this.data.disabledFeatures[chatId][featureKey] = !enabled;
-        
+
         if (featureKey === 'antilink') this.data.antilink[chatId] = enabled;
         if (featureKey === 'antifake') this.data.antifake[chatId] = enabled;
         if (featureKey === 'antiflood') this.data.antiflood[chatId] = enabled;
         if (featureKey === 'antighost') this.data.antighost[chatId] = enabled;
-        if (featureKey === 'meme') this.data.autoMemes[chatId] = enabled;
+        if (featureKey === 'antinsfw') this.data.antinsfw[chatId] = enabled;
+        if (featureKey === 'audio_transcribe') this.data.autoTranscribe[chatId] = enabled;
+        if (featureKey === 'antidelete') this.data.antidelete[chatId] = enabled;
         if (featureKey === 'jarvis') this.data.jarvisMode[chatId] = enabled;
         if (featureKey === 'auto') this.data.autoAnim[chatId] = enabled;
 
@@ -253,6 +276,7 @@ export class StorageManager {
 
         if (!this.data.warnings[chatId]) this.data.warnings[chatId] = {};
         this.data.warnings[chatId][targetNum] = (this.data.warnings[chatId][targetNum] || 0) + 1;
+
         const currentWarns = this.data.warnings[chatId][targetNum];
         this.flagSave();
 
@@ -263,7 +287,7 @@ export class StorageManager {
                 this.flagSave();
 
                 await sock.sendMessage(chatId, {
-                    text: `🚫 *JARVIS SECURITY (AUTO-BAN):*\n\nO integrante ${targetInfo.mentionTag} (*${targetInfo.pushName}*) atingiu o limite de ${currentWarns}/${limit} advertências e foi removido do grupo.\n📱 *Número:* ${targetInfo.formattedNum}\n📝 *Última infração:* ${reason}`,
+                    text: `🛡️ *JARVIS SECURITY (AUTO-BAN):*\n\nO integrante ${targetInfo.mentionTag} (*${targetInfo.pushName}*) atingiu o limite de ${currentWarns}/${limit} advertências e foi removido do grupo.\n📱 *Número:* ${targetInfo.formattedNum}\n📝 *Última infração:* ${reason}`,
                     mentions: [targetInfo.jid]
                 });
                 return;

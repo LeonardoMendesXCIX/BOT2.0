@@ -24,19 +24,23 @@ class StorageManager {
             messageCountSinceLastJarvis: {},
             botDisabled: {},
             closedGroups: {},
+            queuedWelcomes: {},
             promoSchedule: {},
             welcomeMsgs: {},
             welcomeReminders: {},
             pendingBvReminders: [],
             pendingPresentations: [],
-            activeTrolls: {},
             groupSchedules: {},
             exitMsgs: {},
+            inativosMsgs: {},
             antilink: {},
             antifake: {},
             antiflood: {},
             antighost: {},
-            autoMemes: {},
+            antinsfw: {},
+            autoTranscribe: {},
+            antidelete: {},
+            messageBuffer: {},
             jarvisMode: {},
             bannedWords: {},
             groupRules: {},
@@ -72,9 +76,16 @@ class StorageManager {
     }
     saveSync() {
         try {
-            fs_1.default.writeFile(STORAGE_FILE, JSON.stringify(this.data, null, 2), (err) => {
-                if (err)
-                    console.error('[ERRO STORAGE] Gravação assíncrona:', err.message);
+            const tmpFile = `${STORAGE_FILE}.tmp`;
+            fs_1.default.writeFile(tmpFile, JSON.stringify(this.data, null, 2), (err) => {
+                if (err) {
+                    console.error('[ERRO STORAGE] Gravação temporária:', err.message);
+                    return;
+                }
+                fs_1.default.rename(tmpFile, STORAGE_FILE, (renameErr) => {
+                    if (renameErr)
+                        console.error('[ERRO STORAGE] Renomeação atômica:', renameErr.message);
+                });
             });
         }
         catch (e) {
@@ -173,8 +184,12 @@ class StorageManager {
             this.data.antiflood[chatId] = enabled;
         if (featureKey === 'antighost')
             this.data.antighost[chatId] = enabled;
-        if (featureKey === 'meme')
-            this.data.autoMemes[chatId] = enabled;
+        if (featureKey === 'antinsfw')
+            this.data.antinsfw[chatId] = enabled;
+        if (featureKey === 'audio_transcribe')
+            this.data.autoTranscribe[chatId] = enabled;
+        if (featureKey === 'antidelete')
+            this.data.antidelete[chatId] = enabled;
         if (featureKey === 'jarvis')
             this.data.jarvisMode[chatId] = enabled;
         if (featureKey === 'auto')
@@ -196,7 +211,7 @@ class StorageManager {
                 delete this.data.warnings[chatId][targetNum];
                 this.flagSave();
                 await sock.sendMessage(chatId, {
-                    text: `🚫 *JARVIS SECURITY (AUTO-BAN):*\n\nO integrante ${targetInfo.mentionTag} (*${targetInfo.pushName}*) atingiu o limite de ${currentWarns}/${limit} advertências e foi removido do grupo.\n📱 *Número:* ${targetInfo.formattedNum}\n📝 *Última infração:* ${reason}`,
+                    text: `🛡️ *JARVIS SECURITY (AUTO-BAN):*\n\nO integrante ${targetInfo.mentionTag} (*${targetInfo.pushName}*) atingiu o limite de ${currentWarns}/${limit} advertências e foi removido do grupo.\n📱 *Número:* ${targetInfo.formattedNum}\n📝 *Última infração:* ${reason}`,
                     mentions: [targetInfo.jid]
                 });
                 return;

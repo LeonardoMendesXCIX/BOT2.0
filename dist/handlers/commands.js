@@ -9,16 +9,50 @@ const baileys_1 = require("@whiskeysockets/baileys");
 const rbac_1 = require("../config/rbac");
 const settings_1 = require("../config/settings");
 const ai_1 = require("../services/ai");
+const transcription_1 = require("../services/transcription");
+const imageGen_1 = require("../services/imageGen");
+const tts_1 = require("../services/tts");
 const horoscope_1 = require("../services/horoscope");
 const news_1 = require("../services/news");
 const football_1 = require("../services/football");
 const currency_1 = require("../services/currency");
 const wikipedia_1 = require("../services/wikipedia");
-const meme_1 = require("../services/meme");
 const sticker_1 = require("../utils/sticker");
 const user_1 = require("../utils/user");
 const axios_1 = __importDefault(require("axios"));
 const userMessageHistory = {};
+const aiCooldowns = {};
+function levenshteinDistance(a, b) {
+    const matrix = [];
+    for (let i = 0; i <= b.length; i++)
+        matrix[i] = [i];
+    for (let j = 0; j <= a.length; j++)
+        matrix[0][j] = j;
+    for (let i = 1; i <= b.length; i++) {
+        for (let j = 1; j <= a.length; j++) {
+            if (b.charAt(i - 1) === a.charAt(j - 1)) {
+                matrix[i][j] = matrix[i - 1][j - 1];
+            }
+            else {
+                matrix[i][j] = Math.min(matrix[i - 1][j - 1] + 1, matrix[i][j - 1] + 1, matrix[i - 1][j] + 1);
+            }
+        }
+    }
+    return matrix[b.length][a.length];
+}
+function findSuggestedCommand(inputCmd) {
+    const validCmds = Object.keys(settings_1.FEATURE_MAP);
+    let bestMatch = null;
+    let minDistance = 3;
+    for (const cmd of validCmds) {
+        const d = levenshteinDistance(inputCmd.toLowerCase(), cmd.toLowerCase());
+        if (d < minDistance && d > 0) {
+            minDistance = d;
+            bestMatch = cmd;
+        }
+    }
+    return bestMatch;
+}
 function getMessageText(msg) {
     const m = msg.message;
     if (!m)
@@ -45,12 +79,24 @@ async function handleCommand(sock, msg, storage) {
     const isGroup = chatId.endsWith('@g.us');
     const sender = key.participant || key.remoteJid || '';
     const userId = sender.split('@')[0].split(':')[0];
+    const state = storage.data.states[userId];
     const pushNameRaw = msg.pushName || '';
     const userInfo = (0, user_1.getUserInfo)(sender, pushNameRaw);
     const messageText = getMessageText(msg);
     const text = messageText.trim();
     const textLower = text.toLowerCase();
     const firstWord = text.split(/[\s+]+/)[0].toLowerCase();
+    // =========================================================================
+    // SILENCIAMENTO DE COMANDOS MULTIMÍDIA EXCLUSIVOS DO BOT-MUSICA-CLOUD
+    // (!p, !pp, !v, !play, !video, !playlist, !musica, etc.)
+    // =========================================================================
+    const IGNORED_MULTIMEDIA_PREFIXES = [
+        '!p', '!pp', '!v', '!play', '!video', '!playlist', '!musica', '!song', '!msc', '!tocar', '!ytmp3'
+    ];
+    if (IGNORED_MULTIMEDIA_PREFIXES.includes(firstWord) ||
+        IGNORED_MULTIMEDIA_PREFIXES.some(prefix => textLower.startsWith(prefix + ' ') || textLower.startsWith(prefix + '+'))) {
+        return; // Silêncio total: permite que o bot-musica-cloud responda sem interferência do BOT2.0
+    }
     // =========================================================================
     // 0. COMANDO MESTRE !bot on / !bot off (ISOLADO POR GRUPO)
     // =========================================================================
@@ -86,7 +132,23 @@ async function handleCommand(sock, msg, storage) {
     }
     // Se o bot estiver desativado neste grupo específico, ignora todas as mensagens e comandos exceto !bot on
     if (isGroup && storage.isBotDisabled(chatId)) {
+        if (text.startsWith('!')) {
+            console.log(`[AVISO] Bot em modo '!bot off' no grupo ${chatId}. Envie '!bot on' no grupo para reativar.`);
+        }
         return;
+    }
+    // =========================================================================
+    // CANCELAMENTO UNIVERSAL DE MENUS INTERATIVOS (!cancelar / sair)
+    // =========================================================================
+    if (['!cancelar', 'cancelar', 'sair', '!sair'].includes(textLower)) {
+        if (state && state.mode) {
+            delete storage.data.states[userId];
+            storage.flagSave();
+            await sock.sendMessage(chatId, {
+                text: `🛑 *Operação cancelada com sucesso.* Você pode enviar novos comandos quando quiser.`
+            }, { quoted: msg });
+            return;
+        }
     }
     // 1. Atualização Passiva de Atividade, Memória Cluster e Apresentações
     if (isGroup) {
@@ -102,24 +164,12 @@ async function handleCommand(sock, msg, storage) {
                 console.log(`[ANTI-GHOST] Apresentação confirmada para ${userInfo.pushName} (${userInfo.formattedNum})`);
             }
         }
-        // Sistema Troll: Resposta do alvo antes de 2 minutos
-        if (storage.data.activeTrolls && storage.data.activeTrolls[chatId]) {
-            const troll = storage.data.activeTrolls[chatId];
-            if ((0, rbac_1.checkMatch)(troll.targetNum, userInfo.number) && !key.fromMe) {
-                delete storage.data.activeTrolls[chatId];
-                storage.flagSave();
-                await sock.sendMessage(chatId, {
-                    text: `😂 *Jarvis:* Excelente! ${userInfo.mentionTag} (*${userInfo.pushName}*) respondeu à brincadeira com bom humor! 👏`,
-                    mentions: [userInfo.jid]
-                });
-            }
-        }
         // 🧠 CLUSTER DE MEMÓRIA EM TEMPO REAL (MÁXIMO 30 MINUTOS)
         if (text && !key.fromMe) {
             storage.addMessageToCluster(chatId, userInfo.number, userInfo.pushName, text);
         }
     }
-    const state = storage.data.states[userId];
+    // =========================================================================
     // =========================================================================
     // 2. INTERCEPTOR PASSIVO: FLUXO DE DIVULGAÇÃO PROGRAMADA (!divulga)
     // =========================================================================
@@ -317,28 +367,47 @@ async function handleCommand(sock, msg, storage) {
             });
         }
     }
-    // =========================================================================
+    // ===    // =========================================================================
     // 5. DETECTOR NATURAL DE PERGUNTAS SOBRE ADMINISTRADORES DO GRUPO
     // =========================================================================
     const isAdminQuery = /(quem\s+(é|eh|sao|são)\s+(os|o)?\s*(admin|admins|administrador|administradores|adm|adms)|quem\s+manda|admins\s+do\s+grupo|administradores\s+do\s+grupo|marcar\s+adms|chama\s+os\s+adms)/i.test(textLower) || ['!admins', '!adms'].includes(firstWord);
     if (isGroup && isAdminQuery && !storage.isFeatureDisabled(chatId, 'admins')) {
         try {
             const groupMeta = await sock.groupMetadata(chatId);
-            const admins = groupMeta.participants.filter(p => p.admin === 'admin' || p.admin === 'superadmin');
+            const botIdClean = sock.user?.id ? sock.user.id.split(':')[0].replace(/\D/g, '') : '';
+            const botLidClean = sock.user?.lid ? sock.user.lid.split(':')[0].replace(/\D/g, '') : '';
+            // Filtra administradores EXCETO O PRÓPRIO BOT
+            const admins = groupMeta.participants.filter(p => {
+                const isAdm = p.admin === 'admin' || p.admin === 'superadmin';
+                if (!isAdm)
+                    return false;
+                const pNum = p.id ? p.id.split('@')[0].split(':')[0].replace(/\D/g, '') : '';
+                const pLid = p.lid ? p.lid.split('@')[0].split(':')[0].replace(/\D/g, '') : '';
+                // Exclui o bot da listagem de administradores
+                if (botIdClean && ((0, rbac_1.checkMatch)(botIdClean, pNum) || (0, rbac_1.checkMatch)(botIdClean, pLid)))
+                    return false;
+                if (botLidClean && ((0, rbac_1.checkMatch)(botLidClean, pNum) || (0, rbac_1.checkMatch)(botLidClean, pLid)))
+                    return false;
+                return true;
+            });
             if (!admins || admins.length === 0) {
-                await sock.sendMessage(chatId, { text: 'ℹ️ Nenhum administrador localizado neste grupo.' }, { quoted: msg });
+                await sock.sendMessage(chatId, { text: 'ℹ️ Nenhum administrador humano localizado neste grupo.' }, { quoted: msg });
                 return;
             }
             let adminReport = `🛡️ *ADMINISTRADORES DO GRUPO* 🛡️\n\n`;
             const mentionsArr = [];
             admins.forEach((adm, idx) => {
-                const admInfo = (0, user_1.getUserInfo)(adm.id);
-                const badge = adm.admin === 'superadmin' ? '👑 Criador/SuperAdmin' : '⭐ Administrador';
-                adminReport += `${idx + 1}º 👉 ${admInfo.mentionTag} (*${admInfo.pushName}*) [${admInfo.formattedNum}] — ${badge}\n`;
-                mentionsArr.push(admInfo.jid);
+                const admInfo = (0, user_1.getUserInfo)(adm.id, adm.name || adm.notify || '');
+                const isCreator = (0, rbac_1.checkMatch)('5511927018683', admInfo.number) || (0, rbac_1.checkMatch)(rbac_1.RBAC.superAdmin, admInfo.number);
+                const badge = isCreator || adm.admin === 'superadmin' ? '👑 Criador/SuperAdmin' : '⭐ Administrador';
+                adminReport += `${idx + 1}º 👉 ${admInfo.nameAndNumber} — ${badge}\n`;
+                if (admInfo.jid)
+                    mentionsArr.push(admInfo.jid);
+                if (adm.id)
+                    mentionsArr.push(adm.id);
             });
             adminReport += `\n_Total: ${admins.length} administrador(es) ativos._`;
-            await sock.sendMessage(chatId, { text: adminReport, mentions: mentionsArr }, { quoted: msg });
+            await sock.sendMessage(chatId, { text: adminReport, mentions: Array.from(new Set(mentionsArr)) }, { quoted: msg });
             return;
         }
         catch (e) {
@@ -416,6 +485,46 @@ async function handleCommand(sock, msg, storage) {
                 }
             }
         }
+        // Transcrição Automática de Áudio (se ativada no grupo via !transcrever on)
+        const isAutoTranscribe = !storage.isFeatureDisabled(chatId, 'audio_transcribe') && storage.data.autoTranscribe?.[chatId] === true;
+        if (isAutoTranscribe && msg.message?.audioMessage && !key.fromMe && !storage.isGroupClosed(chatId)) {
+            try {
+                const audioBuffer = await (0, baileys_1.downloadMediaMessage)(msg, 'buffer', {});
+                if (audioBuffer) {
+                    const transcript = await (0, transcription_1.transcribeAudio)(audioBuffer);
+                    if (transcript && transcript.length > 3) {
+                        await sock.sendMessage(chatId, {
+                            text: `🎙️ *TRANSCRIÇÃO DE ÁUDIO AUTOMÁTICA*\n👤 *De:* *${userInfo.pushName}* (${userInfo.mentionTag})\n\n📝 *Texto:*\n"${transcript}"`,
+                            mentions: [userInfo.jid]
+                        }, { quoted: msg });
+                    }
+                }
+            }
+            catch (e) { }
+        }
+        // Armazenamento em Buffer para Anti-Delete (Últimas 300 mensagens)
+        if (msg.key.id && text) {
+            if (!storage.data.messageBuffer)
+                storage.data.messageBuffer = {};
+            if (!storage.data.messageBuffer[chatId])
+                storage.data.messageBuffer[chatId] = {};
+            storage.data.messageBuffer[chatId][msg.key.id] = {
+                sender: sender,
+                text: text,
+                pushName: userInfo.pushName,
+                timestamp: Date.now()
+            };
+        }
+        // Filtro Anti-Trava / Caracteres Invisíveis (> 35 caracteres invisíveis)
+        const zeroWidthCount = (text.match(/[\u200B-\u200D\uFEFF\u202A-\u202E]/g) || []).length;
+        if (zeroWidthCount > 35) {
+            try {
+                await sock.sendMessage(chatId, { delete: key });
+            }
+            catch (e) { }
+            await storage.applyWarning(sock, chatId, sender, 'Envio de mensagem com caracteres invisíveis/trava-zap', 2);
+            return;
+        }
         if (!storage.data.groupStats[chatId])
             storage.data.groupStats[chatId] = {};
         if (!storage.data.groupStats[chatId][userInfo.number]) {
@@ -439,7 +548,9 @@ async function handleCommand(sock, msg, storage) {
         }
         storage.flagSave();
     }
-    if (key.fromMe || !text)
+    if (!text)
+        return;
+    if (key.fromMe && !text.startsWith('!'))
         return;
     // =========================================================================
     // 7. MOTOR DE INTERAÇÃO AUTÔNOMA JARVIS (LENDO EM TEMPO REAL & CLUSTER 30MIN)
@@ -496,7 +607,7 @@ async function handleCommand(sock, msg, storage) {
     }
     const isNavigatingMenu = state && [
         'cadastro_waiting_id', 'cadastro_waiting_role', 'remover_waiting_id',
-        'bv_waiting_text', 'divulga_waiting_time', 'divulga_waiting_content',
+        'bv_waiting_text', 'divulga_waiting_time', 'divulga_waiting_content', 'inativos_confirm_removal', 'inativos_select_keep',
         'ma_menu_main', 'ma_opt1_confirm', 'ma_opt2_text', 'ma_opt2_type', 'ma_opt3_hours', 'ma_opt4_reps',
         'news_menu', 'news_city', 'news_topics_menu', 'horoscope_menu', 'horoscope_sign', 'weather_menu', 'weather_city', 'football_menu', 'football_query'
     ].includes(state.mode);
@@ -548,6 +659,169 @@ async function handleCommand(sock, msg, storage) {
         }
     }
     // ==========================================
+    // ==========================================
+    // ==========================================
+    // ==========================================
+    // RESPOSTA EM VOZ / TTS (!voz / !falar)
+    // ==========================================
+    if (['!voz', '!falar'].includes(firstWord)) {
+        const queryVoz = text.slice(firstWord.length).trim();
+        if (!queryVoz) {
+            await sock.sendMessage(chatId, {
+                text: `🗣️ *COMO USAR A VOZ DO JARVIS:*\n\nEnvie: \`!voz Digite aqui o texto que você quer que o Jarvis fale em áudio\`\n\n_O Jarvis gerará uma mensagem de voz em áudio no WhatsApp!_`
+            }, { quoted: msg });
+            return;
+        }
+        await sock.sendMessage(chatId, { text: `🗣️ *Jarvis:* Sintetizando áudio de voz...` }, { quoted: msg });
+        try {
+            const audioBuffer = await (0, tts_1.generateTTS)(queryVoz);
+            if (audioBuffer) {
+                await sock.sendMessage(chatId, {
+                    audio: audioBuffer,
+                    mimetype: 'audio/mp4',
+                    ptt: true
+                }, { quoted: msg });
+            }
+            else {
+                await sock.sendMessage(chatId, { text: '❌ Não foi possível sintetizar a voz no momento.' });
+            }
+        }
+        catch (e) {
+            await sock.sendMessage(chatId, { text: '❌ Erro no motor de voz.' });
+        }
+        return;
+    }
+    // ==========================================
+    // GERADOR DE IMAGENS POR IA (!desenhe / !criarimg)
+    // ==========================================
+    if (['!desenhe', '!criarimg', '!gerarimg'].includes(firstWord)) {
+        const promptText = text.slice(firstWord.length).trim();
+        if (!promptText) {
+            await sock.sendMessage(chatId, {
+                text: `🎨 *COMO USAR O GERADOR DE IMAGENS:*\n\nEnvie: \`!desenhe Um astronauta surfando em marte em estilo cyberpunk\`\n\n_A IA gerará uma imagem exclusiva em alta resolução!_`
+            }, { quoted: msg });
+            return;
+        }
+        // Cooldown de 15 segundos para membros comuns em comandos de IA
+        const userRole = parseInt((0, rbac_1.getUserRole)(userId, storage.data.users));
+        if (userRole < 2) {
+            const lastUse = aiCooldowns[userId]?.['image_gen'] || 0;
+            const elapsed = Date.now() - lastUse;
+            if (elapsed < 15000) {
+                const waitSec = Math.ceil((15000 - elapsed) / 1000);
+                await sock.sendMessage(chatId, {
+                    text: `⏳ *Jarvis:* Por favor, aguarde *${waitSec} segundos* antes de gerar outra imagem.`
+                }, { quoted: msg });
+                return;
+            }
+            if (!aiCooldowns[userId])
+                aiCooldowns[userId] = {};
+            aiCooldowns[userId]['image_gen'] = Date.now();
+        }
+        await sock.sendMessage(chatId, { text: `🎨 *Jarvis:* Gerando imagem em alta resolução com IA... Aguarde alguns instantes.` }, { quoted: msg });
+        try {
+            const imgBuffer = await (0, imageGen_1.generateAIImage)(promptText);
+            if (imgBuffer) {
+                await sock.sendMessage(chatId, {
+                    image: imgBuffer,
+                    caption: `🎨 *IMAGEM GERADA POR IA (JARVIS)*\n\n📝 *Prompt:* _${promptText}_\n👤 *Solicitado por:* *${userInfo.pushName}* (${userInfo.mentionTag})`,
+                    mentions: [userInfo.jid]
+                }, { quoted: msg });
+            }
+            else {
+                await sock.sendMessage(chatId, { text: '❌ Não foi possível gerar a imagem no momento. Tente novamente com outro prompt.' }, { quoted: msg });
+            }
+        }
+        catch (e) {
+            await sock.sendMessage(chatId, { text: '❌ Erro no motor de geração de imagens.' }, { quoted: msg });
+        }
+        return;
+    }
+    // ==========================================
+    // TRANSCRIÇÃO DE ÁUDIO COM GROQ WHISPER (!transcrever / !ouvir / !audio)
+    // ==========================================
+    if (['!transcrever', '!ouvir', '!audio'].includes(firstWord)) {
+        const targetMsg = msg.message?.extendedTextMessage?.contextInfo?.quotedMessage ? {
+            key: {
+                remoteJid: chatId,
+                id: msg.message.extendedTextMessage.contextInfo.stanzaId,
+                participant: msg.message.extendedTextMessage.contextInfo.participant
+            },
+            message: msg.message.extendedTextMessage.contextInfo.quotedMessage
+        } : msg;
+        const isAudio = targetMsg.message?.audioMessage;
+        if (!isAudio) {
+            await sock.sendMessage(chatId, {
+                text: `🎙️ *COMO TRANSCREVER ÁUDIO:*\n\nResponda a qualquer mensagem de voz ou áudio no grupo digitando: \`!transcrever\`\n\n_O Jarvis converterá o áudio em texto em menos de 1 segundo!_`
+            }, { quoted: msg });
+            return;
+        }
+        await sock.sendMessage(chatId, { text: `🎙️ *Jarvis:* Processando áudio via Whisper Neural...` }, { quoted: msg });
+        try {
+            const audioBuffer = await (0, baileys_1.downloadMediaMessage)(targetMsg, 'buffer', {});
+            if (audioBuffer) {
+                const transcript = await (0, transcription_1.transcribeAudio)(audioBuffer);
+                if (transcript) {
+                    const audioAuthor = targetMsg.key.participant || sender;
+                    const authorInfo = (0, user_1.getUserInfo)(audioAuthor);
+                    await sock.sendMessage(chatId, {
+                        text: `🎙️ *TRANSCRIÇÃO DE ÁUDIO (JARVIS WHISPER)* 🎙️\n\n👤 *De:* *${authorInfo.pushName}* (${authorInfo.mentionTag})\n\n📝 *Texto Transcrito:*\n"${transcript}"`,
+                        mentions: [authorInfo.jid]
+                    }, { quoted: msg });
+                }
+                else {
+                    await sock.sendMessage(chatId, { text: '❌ Não foi possível transcrever este áudio (áudio inaudível ou ruído excessivo).' }, { quoted: msg });
+                }
+            }
+        }
+        catch (e) {
+            await sock.sendMessage(chatId, { text: '❌ Erro ao baixar ou processar áudio.' }, { quoted: msg });
+        }
+        return;
+    }
+    // ==========================================
+    // AGENTE DE ENQUETES E VOTAÇÕES INTELIGENTES (!enquete / !votacao)
+    // ==========================================
+    if (['!enquete', '!votacao'].includes(firstWord)) {
+        if (!isGroup) {
+            await sock.sendMessage(chatId, { text: '❌ Enquetes só podem ser criadas dentro de grupos.' }, { quoted: msg });
+            return;
+        }
+        const userRole = parseInt((0, rbac_1.getUserRole)(userId, storage.data.users));
+        if (userRole < 1) {
+            await sock.sendMessage(chatId, { text: `❌ ${userInfo.pushName}, apenas membros autorizados podem criar enquetes.` }, { quoted: msg });
+            return;
+        }
+        const rawContent = text.slice(firstWord.length).trim();
+        if (!rawContent || !rawContent.includes('|')) {
+            await sock.sendMessage(chatId, {
+                text: `📊 *COMO CRIAR UMA ENQUETE INTELIGENTE:*\n\nEnvie:\n\`!enquete Pergunta da Enquete | Opção 1 | Opção 2 | Opção 3\`\n\n_Exemplo:_\n\`!enquete Qual o melhor dia para o churrasco? | Sexta | Sábado | Domingo\``
+            }, { quoted: msg });
+            return;
+        }
+        const parts = rawContent.split('|').map(s => s.trim()).filter(Boolean);
+        if (parts.length < 3) {
+            await sock.sendMessage(chatId, { text: '⚠️ Uma enquete precisa de pelo menos 1 pergunta e 2 opções separadas por barra (`|`).' }, { quoted: msg });
+            return;
+        }
+        const pollQuestion = parts[0];
+        const pollOptions = parts.slice(1, 12); // Até 11 opções suportadas
+        try {
+            await sock.sendMessage(chatId, {
+                poll: {
+                    name: `📊 ${pollQuestion}`,
+                    values: pollOptions,
+                    selectableCount: 1
+                }
+            });
+            console.log(`[ENQUETE] Enquete criada no grupo ${chatId}: "${pollQuestion}"`);
+        }
+        catch (e) {
+            console.error('[ERRO CRIAR ENQUETE]', e.message);
+            await sock.sendMessage(chatId, { text: '❌ Erro ao criar enquete no WhatsApp.' });
+        }
+        return;
+    }
     // COMANDO !divulga (PROGRAMAR DIVULGAÇÃO & HORÁRIO LIVRE DE LINKS)
     // ==========================================
     if (['!divulga', '!divulgar'].includes(firstWord)) {
@@ -595,94 +869,226 @@ async function handleCommand(sock, msg, storage) {
         return;
     }
     // ==========================================
-    // MEMES (!meme img / !meme)
+    // VARREDURA E LIMPEZA DE NÚMEROS ESTRANGEIROS (!antifake varrer / !limparfakes)
     // ==========================================
-    if (firstWord === '!meme') {
-        await sock.sendMessage(chatId, { text: `🔍 *Jarvis:* Localizando meme atualizado na rede...` }, { quoted: msg });
-        try {
-            const meme = await (0, meme_1.fetchMemeImage)();
-            if (meme && meme.buffer) {
-                await sock.sendMessage(chatId, {
-                    image: meme.buffer,
-                    caption: `😂 *MEME DO DIA*\n_${meme.title}_`
-                }, { quoted: msg });
+    if (['!antifake', '!ddi', '!limparfakes'].includes(firstWord)) {
+        const subCmd = text.slice(firstWord.length).trim().toLowerCase();
+        if (subCmd === 'varrer' || subCmd === 'limpar' || firstWord === '!limparfakes') {
+            if (!isGroup) {
+                await sock.sendMessage(chatId, { text: '❌ Este comando só pode ser usado em grupos.' }, { quoted: msg });
+                return;
             }
-            else {
-                await sock.sendMessage(chatId, { text: '❌ Não foi possível carregar um meme no momento. Tente novamente.' });
+            const userRole = parseInt((0, rbac_1.getUserRole)(userId, storage.data.users));
+            if (userRole < 2) {
+                await sock.sendMessage(chatId, { text: `❌ ${userInfo.pushName}, apenas administradores podem executar a varredura Anti-Fake.` }, { quoted: msg });
+                return;
             }
+            await sock.sendMessage(chatId, { text: `🔍 *Jarvis Security:* Iniciando varredura completa de números estrangeiros no grupo...` }, { quoted: msg });
+            try {
+                const groupMeta = await sock.groupMetadata(chatId);
+                const participantsList = groupMeta.participants || [];
+                const foreignList = [];
+                for (const p of participantsList) {
+                    const isAdmin = p.admin === 'admin' || p.admin === 'superadmin';
+                    if (isAdmin)
+                        continue; // Nunca remove administradores
+                    let raw = (0, user_1.extractRawNumber)(p.id);
+                    const isBr = raw.startsWith('55') && (raw.length === 12 || raw.length === 13);
+                    if (!isBr) {
+                        foreignList.push(p);
+                    }
+                }
+                if (foreignList.length === 0) {
+                    await sock.sendMessage(chatId, {
+                        text: `✅ *VARREDURA CONCLUÍDA:* Nenhum número estrangeiro ou fake foi localizado no grupo. Todos os membros ativos possuem DDI do Brasil (+55).`
+                    });
+                    return;
+                }
+                let removedCount = 0;
+                const removedNames = [];
+                for (const target of foreignList) {
+                    try {
+                        await sock.groupParticipantsUpdate(chatId, [target.id], 'remove');
+                        removedCount++;
+                        const info = (0, user_1.getUserInfo)(target.id, target.name || target.notify);
+                        removedNames.push(`• ${info.fullDisplay}`);
+                        await new Promise(r => setTimeout(r, 600)); // Pequeno delay de segurança
+                    }
+                    catch (errRemove) {
+                        console.error('[ERRO REMOVER FAKE NA VARREDURA]', errRemove.message);
+                    }
+                }
+                const summaryReport = `🛡️ *RELATÓRIO DE VARREDURA ANTI-FAKE* 🛡️\n\n` +
+                    `📊 *Total de Estrangeiros Removidos:* ${removedCount}\n\n` +
+                    `📋 *Integrantes Expulsos:*\n${removedNames.slice(0, 20).join('\n')}\n\n` +
+                    `_O grupo foi limpo e está protegido com tolerância zero para DDIs estrangeiros._`;
+                await sock.sendMessage(chatId, { text: summaryReport });
+            }
+            catch (errSweep) {
+                console.error('[ERRO VARREDURA ANTI-FAKE]', errSweep.message);
+                await sock.sendMessage(chatId, { text: '❌ Erro ao executar a varredura. Verifique se o bot é Administrador do grupo.' });
+            }
+            return;
         }
-        catch (e) {
-            await sock.sendMessage(chatId, { text: '❌ Erro ao buscar meme.' });
-        }
-        return;
     }
     // ==========================================
-    // TROLLAGEM (!troll a e !troll @membro)
+    // FIXAR MENSAGEM NO TOPO DO GRUPO (!fixar / !desfixar)
     // ==========================================
-    if (firstWord === '!troll') {
+    if (['!fixar', '!desfixar', '!pin', '!unpin'].includes(firstWord)) {
         if (!isGroup) {
             await sock.sendMessage(chatId, { text: '❌ Este comando só pode ser usado em grupos.' }, { quoted: msg });
             return;
         }
-        let targetJid = '';
-        let targetName = '';
-        let targetNum = '';
+        const userRole = parseInt((0, rbac_1.getUserRole)(userId, storage.data.users));
+        if (userRole < 2) {
+            await sock.sendMessage(chatId, { text: `❌ ${userInfo.pushName}, apenas administradores podem fixar/desfixar mensagens.` }, { quoted: msg });
+            return;
+        }
         const contextInfo = msg.message?.extendedTextMessage?.contextInfo;
-        const argText = text.slice(firstWord.length).trim();
-        if (argText.toLowerCase() === 'a' || argText.toLowerCase() === '+ a' || argText.toLowerCase() === '+a') {
-            try {
-                const groupMeta = await sock.groupMetadata(chatId);
-                const candidates = groupMeta.participants.filter(p => !(0, rbac_1.checkMatch)(p.id.split('@')[0], userId));
-                if (!candidates || candidates.length === 0) {
-                    await sock.sendMessage(chatId, { text: '❌ Nenhum participante disponível para a brincadeira.' });
-                    return;
-                }
-                const chosen = candidates[Math.floor(Math.random() * candidates.length)];
-                targetJid = chosen.id;
-                const info = (0, user_1.getUserInfo)(chosen.id);
-                targetNum = info.number;
-                targetName = info.pushName;
-            }
-            catch (e) {
-                await sock.sendMessage(chatId, { text: '❌ Não foi possível carregar a lista de membros.' });
-                return;
-            }
+        if (!contextInfo?.stanzaId) {
+            await sock.sendMessage(chatId, {
+                text: `📌 *COMO FIXAR MENSAGENS:*\n\nResponda à mensagem que deseja fixar no topo do grupo e envie: \`!fixar\`\n\n_Para remover a mensagem fixada, responda com:_ \`!desfixar\``
+            }, { quoted: msg });
+            return;
         }
-        else {
-            targetJid = contextInfo?.participant || (text.match(/@(\d+)/)?.[1] ? text.match(/@(\d+)/)[1] + '@s.whatsapp.net' : '');
-            if (!targetJid) {
-                await sock.sendMessage(chatId, {
-                    text: `⚠️ *COMO USAR O TROLL:*
-• \`!troll a\` - Trollar alguém aleatório do grupo
-• \`!troll @membro\` - Trollar um integrante específico`
-                }, { quoted: msg });
-                return;
-            }
-            const info = (0, user_1.getUserInfo)(targetJid);
-            targetNum = info.number;
-            targetName = info.pushName;
-        }
+        const targetKey = {
+            remoteJid: chatId,
+            id: contextInfo.stanzaId,
+            participant: contextInfo.participant
+        };
+        const isUnpin = firstWord === '!desfixar' || firstWord === '!unpin';
         try {
-            await sock.sendMessage(chatId, { text: `🎭 *Jarvis:* Elaborando trolagem personalizada com IA...` });
-            const promptTroll = `Gere uma piada/trolagem curta, engraçada, inofensiva e criativa para brincar com ${targetName} no WhatsApp. Regra: Máximo 2 linhas, bem-humorado com emojis.`;
-            const aiJoke = await (0, ai_1.callAI)(promptTroll);
-            const trollMsg = `🎭 *TROLAGEM DO DIA!* 🎭\n\n` +
-                `👉 @${targetNum} (*${targetName}*), ${aiJoke}\n\n` +
-                `⏳ _Você tem 2 minutos para responder à brincadeira no chat!_`;
-            if (!storage.data.activeTrolls)
-                storage.data.activeTrolls = {};
-            storage.data.activeTrolls[chatId] = {
-                targetNum: targetNum,
-                targetJid: targetJid,
-                targetName: targetName,
-                startedAt: Date.now(),
-                deadline: Date.now() + 2 * 60 * 1000
-            };
-            storage.flagSave();
-            await sock.sendMessage(chatId, { text: trollMsg, mentions: [targetJid] });
+            let durationSeconds = 604800; // 7 dias padrão
+            const subArg = text.slice(firstWord.length).trim().toLowerCase();
+            if (subArg === '24h' || subArg === '1d')
+                durationSeconds = 86400;
+            if (subArg === '30d' || subArg === '1m')
+                durationSeconds = 2592000;
+            await sock.sendMessage(chatId, {
+                pin: targetKey,
+                type: isUnpin ? 2 : 1,
+                time: isUnpin ? undefined : durationSeconds
+            });
+            await sock.sendMessage(chatId, {
+                text: isUnpin ? `📌 *Mensagem desfixada com sucesso do topo do grupo.*` : `📌 *MENSAGEM FIXADA COM SUCESSO NO TOPO DO GRUPO!*`
+            }, { quoted: msg });
+            console.log(`[FIXAR] Mensagem ${targetKey.id} ${isUnpin ? 'desfixada' : 'fixada'} no grupo ${chatId}`);
         }
         catch (e) {
-            await sock.sendMessage(chatId, { text: '❌ Erro ao disparar trolagem.' });
+            console.error('[ERRO FIXAR MENSAGEM]', e.message);
+            await sock.sendMessage(chatId, {
+                text: '❌ Erro ao fixar mensagem. Verifique se o bot é Administrador do grupo.'
+            }, { quoted: msg });
+        }
+        return;
+    }
+    // ==========================================
+    // APAGAR / REMOVER MENSAGEM NO GRUPO (!remove / !apagar / !del)
+    // ==========================================
+    if (['!remove', '!apagar', '!deletar', '!del'].includes(firstWord)) {
+        if (!isGroup) {
+            await sock.sendMessage(chatId, { text: '❌ Este comando só pode ser usado em grupos.' }, { quoted: msg });
+            return;
+        }
+        const userRole = parseInt((0, rbac_1.getUserRole)(userId, storage.data.users));
+        if (userRole < 2) {
+            await sock.sendMessage(chatId, { text: `❌ ${userInfo.pushName}, apenas administradores podem apagar mensagens do grupo.` }, { quoted: msg });
+            return;
+        }
+        const contextInfo = msg.message?.extendedTextMessage?.contextInfo;
+        if (!contextInfo?.stanzaId) {
+            await sock.sendMessage(chatId, {
+                text: `🗑️ *COMO APAGAR MENSAGENS:*\n\nResponda à mensagem que deseja apagar no grupo digitando: \`!remove\` (ou \`!apagar\` / \`!del\`)`
+            }, { quoted: msg });
+            return;
+        }
+        const targetKey = {
+            remoteJid: chatId,
+            id: contextInfo.stanzaId,
+            participant: contextInfo.participant
+        };
+        try {
+            await sock.sendMessage(chatId, { delete: targetKey });
+            try {
+                await sock.sendMessage(chatId, { delete: key });
+            }
+            catch (e) { }
+            console.log(`[REMOVE] Mensagem ${targetKey.id} apagada com sucesso por ${userInfo.pushName}`);
+        }
+        catch (e) {
+            console.error('[ERRO REMOVER MENSAGEM]', e.message);
+            await sock.sendMessage(chatId, {
+                text: '❌ Não foi possível apagar a mensagem. Verifique se o bot é Administrador do grupo.'
+            }, { quoted: msg });
+        }
+        return;
+    }
+    // ==========================================
+    // MARCAR TODOS OS MEMBROS (!todos / !all / !marcartodos)
+    // ==========================================
+    if (['!todos', '!all', '!marcartodos'].includes(firstWord)) {
+        if (!isGroup) {
+            await sock.sendMessage(chatId, { text: '❌ Este comando só pode ser usado em grupos.' }, { quoted: msg });
+            return;
+        }
+        const userRole = parseInt((0, rbac_1.getUserRole)(userId, storage.data.users));
+        if (userRole < 2) {
+            await sock.sendMessage(chatId, { text: `❌ ${userInfo.pushName}, apenas administradores podem marcar todos os integrantes.` }, { quoted: msg });
+            return;
+        }
+        const customMsg = text.slice(firstWord.length).trim();
+        const contextInfo = msg.message?.extendedTextMessage?.contextInfo;
+        const isQuotingMessage = !!(contextInfo && contextInfo.quotedMessage);
+        try {
+            const groupMeta = await sock.groupMetadata(chatId);
+            const participants = groupMeta.participants || [];
+            const participantsJids = participants.map(p => p.id);
+            // Alvo a ser citado (a mensagem respondida ou a mensagem do próprio comando)
+            const quoteTarget = isQuotingMessage ? {
+                key: {
+                    remoteJid: chatId,
+                    id: contextInfo.stanzaId,
+                    participant: contextInfo.participant
+                },
+                message: contextInfo.quotedMessage
+            } : msg;
+            if (isQuotingMessage && !customMsg) {
+                // Se marcou !todos respondendo a uma mensagem sem texto adicional: cita diretamente a mensagem com @todos @all
+                await sock.sendMessage(chatId, {
+                    text: `📢 @todos @all`,
+                    mentions: participantsJids
+                }, { quoted: quoteTarget });
+            }
+            else if (isQuotingMessage && customMsg) {
+                // Se respondeu a uma mensagem com texto adicional
+                await sock.sendMessage(chatId, {
+                    text: `*${customMsg}*\n\n📢 @todos @all`,
+                    mentions: participantsJids
+                }, { quoted: quoteTarget });
+            }
+            else if (customMsg) {
+                // Se enviou !todos com mensagem avulsa
+                let alertText = `📢 *CHAMADA GERAL DO GRUPO* 📢\n\n` +
+                    `📝 *Mensagem:*\n${customMsg}\n\n` +
+                    `👤 *Chamado por:* ${userInfo.fullDisplay}\n` +
+                    `📢 @todos @all`;
+                await sock.sendMessage(chatId, {
+                    text: alertText,
+                    mentions: participantsJids
+                });
+            }
+            else {
+                // !todos avulso simples
+                await sock.sendMessage(chatId, {
+                    text: `📢 @todos @all\n\n👤 *Chamado por:* ${userInfo.fullDisplay}`,
+                    mentions: participantsJids
+                });
+            }
+            console.log(`[!TODOS] ${participantsJids.length} membros marcados no grupo ${chatId} por ${userInfo.pushName}`);
+        }
+        catch (e) {
+            console.error('[ERRO MARCAR TODOS]', e.message);
+            await sock.sendMessage(chatId, { text: '❌ Erro ao marcar todos os integrantes.' }, { quoted: msg });
         }
         return;
     }
@@ -754,7 +1160,7 @@ async function handleCommand(sock, msg, storage) {
             if (!storage.data.groupSchedules)
                 storage.data.groupSchedules = {};
             if (!storage.data.groupSchedules[chatId])
-                storage.data.groupSchedules[chatId] = {};
+                storage.data.groupSchedules[chatId] = { openTime: '', closeTime: '' };
             if (firstWord === '!abrir') {
                 delete storage.data.groupSchedules[chatId].openTime;
                 storage.flagSave();
@@ -773,7 +1179,7 @@ async function handleCommand(sock, msg, storage) {
             if (!storage.data.groupSchedules)
                 storage.data.groupSchedules = {};
             if (!storage.data.groupSchedules[chatId])
-                storage.data.groupSchedules[chatId] = {};
+                storage.data.groupSchedules[chatId] = { openTime: '', closeTime: '' };
             if (firstWord === '!abrir') {
                 storage.data.groupSchedules[chatId].openTime = formattedTime;
                 storage.flagSave();
@@ -1090,34 +1496,183 @@ async function handleCommand(sock, msg, storage) {
         }
         return;
     }
+    // ==========================================
+    // MENSAGEM CUSTOMIZADA DE INATIVOS (!inativosmsg + [mensagem])
+    // ==========================================
+    if (['!inativosmsg', '!msginativos'].includes(firstWord)) {
+        if (!isGroup) {
+            await sock.sendMessage(chatId, { text: '❌ Este comando só pode ser usado em grupos.' }, { quoted: msg });
+            return;
+        }
+        const userRole = parseInt((0, rbac_1.getUserRole)(userId, storage.data.users));
+        if (userRole < 2) {
+            await sock.sendMessage(chatId, { text: `❌ ${userInfo.pushName}, apenas administradores podem configurar a mensagem de inativos.` }, { quoted: msg });
+            return;
+        }
+        let customText = '';
+        if (text.includes('+')) {
+            customText = text.slice(text.indexOf('+') + 1).trim();
+        }
+        else {
+            customText = text.slice(firstWord.length).trim();
+        }
+        if (!customText) {
+            const currentMsg = storage.data.inativosMsgs?.[chatId]?.text;
+            let info = `🧹 *MENSAGEM PÓS-LIMPEZA DE INATIVOS*\n\n`;
+            if (currentMsg) {
+                info += `📝 *Mensagem Atual Cadastrada:*\n"${currentMsg}"\n\n`;
+            }
+            else {
+                info += `ℹ️ Nenhuma mensagem personalizada cadastrada para este grupo (usando mensagem padrão).\n\n`;
+            }
+            info += `*Como definir uma nova mensagem:*\n` +
+                `\`!inativosmsg + [Sua mensagem personalizada aqui]\`\n\n` +
+                `_Exemplo:_\n\`!inativosmsg + Pessoal, acabamos de fazer uma limpeza de inativos! Quem não interagir será removido nas próximas limpezas.\``;
+            await sock.sendMessage(chatId, { text: info }, { quoted: msg });
+            return;
+        }
+        if (!storage.data.inativosMsgs)
+            storage.data.inativosMsgs = {};
+        storage.data.inativosMsgs[chatId] = {
+            text: customText,
+            setBy: userId,
+            date: new Date().toISOString()
+        };
+        storage.flagSave();
+        await sock.sendMessage(chatId, {
+            text: `✅ *MENSAGEM DE PÓS-LIMPEZA DEFINIDA COM SUCESSO!*\n\n` +
+                `Sempre que o comando \`!inativos\` for acionado, os membros inativos serão removidos e o bot disparará:\n\n` +
+                `"${customText}"`
+        }, { quoted: msg });
+        return;
+    }
+    // ==========================================
+    // VARREDURA E AUTO-REMOÇÃO DE INATIVOS (!inativos / !fantasmas)
+    // ==========================================
+    // ==========================================
+    // MENSAGEM CUSTOMIZADA DE INATIVOS (!inativosmsg + [mensagem])
+    // ==========================================
+    if (['!inativosmsg', '!msginativos'].includes(firstWord)) {
+        if (!isGroup) {
+            await sock.sendMessage(chatId, { text: '❌ Este comando só pode ser usado em grupos.' }, { quoted: msg });
+            return;
+        }
+        const userRole = parseInt((0, rbac_1.getUserRole)(userId, storage.data.users));
+        if (userRole < 2) {
+            await sock.sendMessage(chatId, { text: `❌ ${userInfo.pushName}, apenas administradores podem configurar a mensagem de inativos.` }, { quoted: msg });
+            return;
+        }
+        let customText = '';
+        if (text.includes('+')) {
+            customText = text.slice(text.indexOf('+') + 1).trim();
+        }
+        else {
+            customText = text.slice(firstWord.length).trim();
+        }
+        if (!customText) {
+            const currentMsg = storage.data.inativosMsgs?.[chatId]?.text;
+            let info = `🧹 *MENSAGEM PÓS-LIMPEZA DE INATIVOS*\n\n`;
+            if (currentMsg) {
+                info += `📝 *Mensagem Atual Cadastrada:*\n"${currentMsg}"\n\n`;
+            }
+            else {
+                info += `ℹ️ Nenhuma mensagem personalizada cadastrada para este grupo (usando mensagem padrão).\n\n`;
+            }
+            info += `*Como definir uma nova mensagem:*\n` +
+                `\`!inativosmsg + [Sua mensagem personalizada aqui]\`\n\n` +
+                `_Exemplo:_\n\`!inativosmsg + Pessoal, acabamos de fazer uma limpeza de inativos! Quem não interagir será removido nas próximas limpezas.\``;
+            await sock.sendMessage(chatId, { text: info }, { quoted: msg });
+            return;
+        }
+        if (!storage.data.inativosMsgs)
+            storage.data.inativosMsgs = {};
+        storage.data.inativosMsgs[chatId] = {
+            text: customText,
+            setBy: userId,
+            date: new Date().toISOString()
+        };
+        storage.flagSave();
+        await sock.sendMessage(chatId, {
+            text: `✅ *MENSAGEM DE PÓS-LIMPEZA DEFINIDA COM SUCESSO!*\n\n` +
+                `Sempre que o comando \`!inativos\` for acionado, os membros inativos serão removidos e o bot disparará:\n\n` +
+                `"${customText}"`
+        }, { quoted: msg });
+        return;
+    }
+    // ==========================================
+    // VARREDURA E AUTO-REMOÇÃO DE INATIVOS (!inativos / !fantasmas)
+    // ==========================================
     if (['!inativos', '!fantasmas'].includes(firstWord)) {
         if (!isGroup) {
             await sock.sendMessage(chatId, { text: '❌ Este comando só pode ser usado em grupos.' }, { quoted: msg });
+            return;
+        }
+        const userRole = parseInt((0, rbac_1.getUserRole)(userId, storage.data.users));
+        if (userRole < 2) {
+            await sock.sendMessage(chatId, { text: `❌ ${userInfo.pushName}, apenas administradores podem executar a limpeza de inativos.` }, { quoted: msg });
             return;
         }
         try {
             const groupMeta = await sock.groupMetadata(chatId);
             const participants = groupMeta.participants || [];
             const stats = storage.data.groupStats[chatId] || {};
-            const inactive = [];
+            const botId = sock.user?.id || '';
+            const rawBotNum = botId.split('@')[0].split(':')[0].replace(/\D/g, '');
+            const inactiveList = [];
             for (const p of participants) {
-                const pNum = p.id.split('@')[0].replace(/\D/g, '');
-                if (pNum && (!stats[pNum] || stats[pNum].total === 0)) {
-                    const uInfo = (0, user_1.getUserInfo)(p.id);
-                    inactive.push(`• *${uInfo.pushName}* (${uInfo.formattedNum})`);
+                const isAdm = p.admin === 'admin' || p.admin === 'superadmin';
+                if (isAdm)
+                    continue; // Nunca remove administradores
+                const pIdClean = p.id ? p.id.split('@')[0].split(':')[0].replace(/\D/g, '') : '';
+                const pLidClean = p.lid ? p.lid.split('@')[0].split(':')[0].replace(/\D/g, '') : '';
+                // Nunca remove o próprio bot
+                if ((rawBotNum && ((0, rbac_1.checkMatch)(rawBotNum, pIdClean) || (0, rbac_1.checkMatch)(rawBotNum, pLidClean))) ||
+                    (botId && p.id && p.id.startsWith(botId.split(':')[0]))) {
+                    continue;
+                }
+                const realPhoneNum = (p.id && p.id.endsWith('@s.whatsapp.net'))
+                    ? pIdClean
+                    : (user_1.lidMap[pIdClean] || user_1.lidMap[pLidClean] || '');
+                const pNum = realPhoneNum || pIdClean;
+                // Nunca remove o criador Leandro
+                if ((0, rbac_1.checkMatch)('5511927018683', pNum) || (0, rbac_1.checkMatch)(rbac_1.RBAC.superAdmin, pNum)) {
+                    continue;
+                }
+                // Checa se o membro tem mensagens registradas
+                const hasActivity = (stats[pNum] && stats[pNum].total > 0) || (realPhoneNum && stats[realPhoneNum] && stats[realPhoneNum].total > 0);
+                if (!hasActivity) {
+                    const pName = p.name || p.notify || p.verifiedName || '';
+                    const uInfo = (0, user_1.getUserInfo)(p.id, pName);
+                    inactiveList.push(uInfo);
                 }
             }
-            if (inactive.length === 0) {
-                await sock.sendMessage(chatId, { text: '👏 *Excelente!* Todos os membros do grupo possuem registro de atividade recente.' });
+            if (inactiveList.length === 0) {
+                await sock.sendMessage(chatId, {
+                    text: `👏 *Excelente!* Nenhum integrante inativo encontrado neste grupo. Todos os membros participaram das conversas!`
+                }, { quoted: msg });
                 return;
             }
-            const total = inactive.length;
-            const preview = inactive.slice(0, 25).join('\n');
-            const report = `👻 *MEMBROS INATIVOS / FANTASMAS (${total})*\n\n${preview}\n\n_${total > 25 ? `...e mais ${total - 25} membros.` : ''}_`;
-            await sock.sendMessage(chatId, { text: report });
+            // Salva o estado para confirmação interativa
+            storage.data.states[userId] = {
+                mode: 'inativos_confirm_removal',
+                targetChat: chatId,
+                inactiveList: inactiveList,
+                date: Date.now()
+            };
+            storage.flagSave();
+            let listReport = `👻 *MEMBROS INATIVOS / FANTASMAS (${inactiveList.length})* 👻\n` +
+                `🏢 *Grupo:* ${groupMeta.subject}\n\n`;
+            inactiveList.forEach((u, idx) => {
+                listReport += `${idx + 1} - ${u.nameAndNumber}\n`;
+            });
+            listReport += `\n⚠️ *Deseja remover todos os ${inactiveList.length} integrantes listados?*\n` +
+                `👉 Responda: *SIM* ou *NÃO*\n` +
+                `_(Para cancelar, envie: !cancelar)_`;
+            await sock.sendMessage(chatId, { text: listReport }, { quoted: msg });
         }
         catch (e) {
-            await sock.sendMessage(chatId, { text: '❌ Erro ao analisar inatividade.' });
+            console.error('[ERRO VARREDURA INATIVOS]', e.message);
+            await sock.sendMessage(chatId, { text: '❌ Erro ao analisar inatividade do grupo.' });
         }
         return;
     }
@@ -1647,9 +2202,6 @@ async function handleCommand(sock, msg, storage) {
             `📊 \`!status\` ou \`!painel\` - Painel de controle do grupo\n` +
             `⏰ Agendamento diário: \`!abrir 07:00\` | \`!fechar 22:00\`\n\n` +
             `*MEMES, TROLLAGEM & DIVERSÃO*\n` +
-            `😂 \`!meme img\` - Busca um meme atualizado na internet\n` +
-            `🎭 \`!troll a\` - Trollar membro aleatório (Timeout 2min)\n` +
-            `🎭 \`!troll @membro\` - Trollar membro específico\n` +
             `🎨 \`!s\` - Imagem/Vídeo para figurinha\n` +
             `🖼️ \`!s2img\` - Extrair imagem de figurinha\n` +
             `🧩 \`!quiz\` - Desafio Quiz | 📱 \`!qrcode\` - Criar QR Code\n` +
@@ -1665,8 +2217,6 @@ async function handleCommand(sock, msg, storage) {
                 `🇧🇷 \`!antifake on/off\` - Filtro DDI +55 (Remove números estrangeiros)\n` +
                 `👻 \`!antighost on/off\` - Remove quem não se apresentar em 10 minutos\n` +
                 `⚡ \`!antiflood on/off\` - Proteção contra spam/flood\n` +
-                `😂 \`!meme on/off\` - Memes automáticos a cada 2 horas\n` +
-                `🎭 \`!troll on/off\` - Ativar/Desativar comando troll\n` +
                 `🚨 \`!alerta\` - Gerenciar palavras censuradas\n` +
                 `⚠️ \`!warn @membro\` - Advertência manual (Auto-ban no limite de 2)\n` +
                 `📊 \`!warns @membro\` - Consultar saldo de advertências\n` +
@@ -1690,6 +2240,13 @@ async function handleCommand(sock, msg, storage) {
     // FALLBACK INTELIGENTE: COMANDO NÃO RECONHECIDO -> MARCA O CRIADOR
     // ==========================================
     if (firstWord.startsWith('!') && !isNavigatingMenu) {
+        const suggestion = findSuggestedCommand(firstWord);
+        if (suggestion) {
+            await sock.sendMessage(chatId, {
+                text: `💡 *Jarvis Sugestão:* Não encontrei o comando \`${firstWord}\`.\nVocê quis dizer \`${suggestion}\`?`
+            }, { quoted: msg });
+            return;
+        }
         await sock.sendMessage(chatId, {
             text: `🤖 *Jarvis:* Desculpe, não consegui entender esse comando. Vou pedir instruções ao meu criador Leandro (@+5511927018683).`,
             mentions: [settings_1.SETTINGS.CREATOR_JID]

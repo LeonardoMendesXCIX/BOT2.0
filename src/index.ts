@@ -10,17 +10,35 @@ import { StorageManager } from './database/storage';
 import { handleCommand } from './handlers/commands';
 import { setupGroupEvents } from './handlers/events';
 import { callAI } from './services/ai';
-import { fetchMemeImage } from './services/meme';
-import { getUserInfo } from './utils/user';
+import { getUserInfo, extractRawNumber } from './utils/user';
 import { checkMatch } from './config/rbac';
 
 process.env.TZ = 'America/Sao_Paulo';
 
-process.on('unhandledRejection', (reason) => {
-    console.log('[SISTEMA] Rejeição assíncrona interceptada:', reason);
+// Suprime dumps repetitivos de criptografia do libsignal no terminal
+const originalConsoleError = console.error;
+console.error = (...args: any[]) => {
+    const msg = args.map(a => a?.message || a?.toString() || '').join(' ');
+    if (msg.includes('MessageCounterError') || msg.includes('Failed to decrypt') || msg.includes('Bad MAC')) {
+        return;
+    }
+    originalConsoleError(...args);
+};
+
+process.on('unhandledRejection', (reason: any) => {
+    const errStr = reason?.message || reason?.toString() || '';
+    if (errStr.includes('Bad MAC') || errStr.includes('MessageCounterError') || errStr.includes('Failed to decrypt')) {
+        return;
+    }
+    console.log('[SISTEMA] Rejeição assíncrona interceptada:', reason?.message || reason);
 });
-process.on('uncaughtException', (error) => {
-    console.log('[ERRO CRÍTICO] Exceção não tratada:', error);
+
+process.on('uncaughtException', (error: any) => {
+    const errStr = error?.message || error?.toString() || '';
+    if (errStr.includes('Bad MAC') || errStr.includes('MessageCounterError') || errStr.includes('Failed to decrypt')) {
+        return;
+    }
+    console.log('[ERRO CRÍTICO] Exceção não tratada:', error?.message || error);
 });
 
 const storage = new StorageManager();
@@ -41,6 +59,7 @@ cron.schedule('0 * * * *', async () => {
         if (sched.hours.includes(currentHour)) {
             if (!sched.lastSent) sched.lastSent = {};
             const sentKey = `${dateStr}-${currentHour}`;
+
             if (!sched.lastSent[sentKey]) {
                 try {
                     await sockInstance?.sendMessage(sched.chatId, { text: sched.text });
@@ -71,9 +90,11 @@ cron.schedule('* * * * *', async () => {
             if (sched.openTime === currentHHMM && !storage.isFeatureDisabled(chatId, 'fechar_abrir')) {
                 try {
                     await sockInstance.groupSettingUpdate(chatId, 'not_announcement');
-                storage.setGroupClosed(chatId, false);
+                    storage.setGroupClosed(chatId, false);
                     await sockInstance.sendMessage(chatId, {
-                        text: `🔓 *BOM DIA! PROTOCOLO JARVIS DE ABERTURA:*\n\nO chat foi liberado para todos os membros conversarem conforme o horário programado (${sched.openTime}).`
+                        text: `🔓 *BOM DIA! PROTOCOLO JARVIS DE ABERTURA:*
+
+O chat foi liberado para todos os membros conversarem conforme o horário programado (${sched.openTime}).`
                     });
                     console.log(`[HORÁRIO AUTOMÁTICO] Grupo ${chatId} aberto às ${currentHHMM}`);
                 } catch (e: any) {
@@ -84,9 +105,11 @@ cron.schedule('* * * * *', async () => {
             if (sched.closeTime === currentHHMM && !storage.isFeatureDisabled(chatId, 'fechar_abrir')) {
                 try {
                     await sockInstance.groupSettingUpdate(chatId, 'announcement');
-                storage.setGroupClosed(chatId, true);
+                    storage.setGroupClosed(chatId, true);
                     await sockInstance.sendMessage(chatId, {
-                        text: `🔒 *BOA NOITE! PROTOCOLO JARVIS DE FECHAMENTO:*\n\nO chat foi fechado para descanso/manutenção conforme o horário programado (${sched.closeTime}). Apenas administradores podem enviar mensagens neste momento.`
+                        text: `🔒 *BOA NOITE! PROTOCOLO JARVIS DE FECHAMENTO:*
+
+O chat foi fechado para descanso/manutenção conforme o horário programado (${sched.closeTime}). Apenas administradores podem enviar mensagens neste momento.`
                     });
                     console.log(`[HORÁRIO AUTOMÁTICO] Grupo ${chatId} fechado às ${currentHHMM}`);
                 } catch (e: any) {
@@ -124,31 +147,7 @@ cron.schedule('* * * * *', async () => {
     }
 }, { timezone: "America/Sao_Paulo" });
 
-// Cron 3: Memes Automáticos a cada 2 Horas (Disparo em grupos ativos)
-cron.schedule('0 */2 * * *', async () => {
-    if (!sockInstance) return;
-    try {
-        const meme = await fetchMemeImage();
-        if (!meme || !meme.buffer) return;
-
-        for (const chatId in storage.data.groupStats) {
-            if (!chatId.endsWith('@g.us') || storage.isBotDisabled(chatId) || storage.isGroupClosed(chatId)) continue;
-            const isMemeDisabled = storage.isFeatureDisabled(chatId, 'meme') || storage.data.autoMemes?.[chatId] === false;
-            if (isMemeDisabled) continue;
-
-            try {
-                await sockInstance.sendMessage(chatId, {
-                    image: meme.buffer,
-                    caption: `😂 *MEME AUTOMÁTICO DAS 2 HORAS (JARVIS ENTERTAINMENT)*\n_${meme.title}_`
-                });
-            } catch (e) {}
-        }
-    } catch (err: any) {
-        console.error('[ERRO CRON MEMES]', err.message);
-    }
-}, { timezone: "America/Sao_Paulo" });
-
-// Cron 4: Limpeza e Purga Contínua dos Clusters de Memória (> 30 Minutos)
+// Cron 3: Limpeza e Purga Contínua dos Clusters de Memória (> 30 Minutos)
 cron.schedule('*/5 * * * *', () => {
     storage.purgeExpiredClusters();
 });
@@ -162,7 +161,16 @@ async function startBot() {
         logger: pino({ level: 'silent' }),
         printQRInTerminal: false,
         auth: state,
-        browser: ['JARVIS AUTONOMOUS', 'Chrome', '2.5.0']
+        syncFullHistory: false,
+        browser: ['JARVIS AUTONOMOUS', 'Chrome', '2.5.0'],
+        getMessage: async (key) => {
+            const msgId = key.id;
+            const chatId = key.remoteJid;
+            if (chatId && msgId && storage.data.messageBuffer?.[chatId]?.[msgId]) {
+                return { conversation: storage.data.messageBuffer[chatId][msgId].text };
+            }
+            return undefined;
+        }
     });
 
     sockInstance = sock;
@@ -178,17 +186,42 @@ async function startBot() {
 
         if (connection === 'close') {
             const shouldReconnect = (lastDisconnect?.error as any)?.output?.statusCode !== DisconnectReason.loggedOut;
-            console.log('[SISTEMA] Conexão fechada. Reconectando...', shouldReconnect);
-            if (shouldReconnect) startBot();
+            console.log('[SISTEMA] Conexão fechada. Reconectando em 3 segundos...', shouldReconnect);
+            if (shouldReconnect) {
+                setTimeout(() => startBot(), 3000);
+            }
         } else if (connection === 'open') {
-            console.log('[SISTEMA] JARVIS BOT2.0 (Versão 2.5.0 com Anti-Link Ban Imediato & Divulgações) conectado com sucesso!');
+            console.log('[SISTEMA] JARVIS BOT2.0 conectado com sucesso!');
+        }
+    });
+
+    // Listener Anti-Delete (Detecção de Mensagens Apagadas no Grupo)
+    sock.ev.on('messages.update', async (updates) => {
+        for (const update of updates) {
+            if (update.update?.messageStubType === 1 || (update.update as any)?.message === null) {
+                const chatId = update.key.remoteJid || '';
+                const msgId = update.key.id || '';
+
+                if (chatId.endsWith('@g.us') && !storage.isBotDisabled(chatId) && !storage.isFeatureDisabled(chatId, 'antidelete') && storage.data.antidelete?.[chatId] !== false) {
+                    const buffered = storage.data.messageBuffer?.[chatId]?.[msgId];
+                    if (buffered && (Date.now() - buffered.timestamp < 15 * 60 * 1000)) {
+                        const authorInfo = getUserInfo(buffered.sender);
+                        const deletedMsg = `🗑️ *ANTI-DELETE (MENSAGEM APAGADA DETECTADA)* 🗑️\n\n` +
+                                          `👤 *Autor:* ${authorInfo.nameAndNumber}\n` +
+                                          `💬 *Conteúdo Apagado:*\n"${buffered.text}"`;
+
+                        await sock.sendMessage(chatId, { text: deletedMsg, mentions: [authorInfo.jid] });
+                        delete storage.data.messageBuffer[chatId][msgId];
+                        storage.flagSave();
+                    }
+                }
+            }
         }
     });
 
     setupGroupEvents(sock, storage);
 
     sock.ev.on('messages.upsert', async (m) => {
-        if (m.type !== 'notify') return;
         for (const msg of m.messages) {
             try {
                 await handleCommand(sock, msg, storage);
@@ -201,6 +234,7 @@ async function startBot() {
     // Verificador 1: Sistema Anti-Ghost (10 minutos para apresentação)
     setInterval(async () => {
         if (!storage.data.pendingPresentations || storage.data.pendingPresentations.length === 0) return;
+
         const now = Date.now();
         const remaining: any[] = [];
 
@@ -209,6 +243,7 @@ async function startBot() {
                 try {
                     const chatId = item.chatId;
                     if (storage.isBotDisabled(chatId) || storage.isGroupClosed(chatId)) continue;
+
                     const isAntiGhostActive = !storage.isFeatureDisabled(chatId, 'antighost') && storage.data.antighost[chatId] !== false;
 
                     if (isAntiGhostActive) {
@@ -218,7 +253,7 @@ async function startBot() {
                         if (isStillInGroup) {
                             await sock.groupParticipantsUpdate(chatId, [item.memberId], 'remove');
                             await sock.sendMessage(chatId, {
-                                text: `🚫 *JARVIS SECURITY (ANTI-GHOST):*\n\n` +
+                                text: `👻 *JARVIS SECURITY (ANTI-GHOST):*\n\n` +
                                       `👤 *Membro:* @${item.memberNum} (*${item.memberName}*)\n` +
                                       `⏰ *Motivo:* Não enviou mensagem de apresentação no prazo de 10 minutos após entrar no grupo.\n\n` +
                                       `_O grupo mantém apenas integrantes participativos._`,
@@ -241,34 +276,12 @@ async function startBot() {
         }
     }, 30000);
 
-    // Verificador 2: Timeout da Função Troll (2 minutos sem resposta)
-    setInterval(async () => {
-        if (!storage.data.activeTrolls || Object.keys(storage.data.activeTrolls).length === 0) return;
-        const now = Date.now();
-
-        for (const chatId in storage.data.activeTrolls) {
-            if (storage.isBotDisabled(chatId) || storage.isGroupClosed(chatId)) continue;
-            const troll = storage.data.activeTrolls[chatId];
-            if (troll && now >= troll.deadline) {
-                try {
-                    delete storage.data.activeTrolls[chatId];
-                    storage.flagSave();
-
-                    await sock.sendMessage(chatId, {
-                        text: `😅 Não está afim de brincar, desculpe!`
-                    });
-                } catch (e: any) {
-                    console.error('[ERRO TIMEOUT TROLL]', e.message);
-                }
-            }
-        }
-    }, 15000);
-
-    // Verificador 3: Lembrete de Boas-Vindas (!bv - 15 minutos)
+    // Verificador 2: Lembrete de Boas-Vindas (!bv - 15 minutos com Verificação de Permanência)
     setInterval(async () => {
         if (!storage.data.pendingBvReminders || storage.data.pendingBvReminders.length === 0) return;
+
         const now = Date.now();
-        const remaining = [];
+        const remaining: Array<{ id: string; chatId: string; newMemberId: string; runAt: number }> = [];
 
         for (const reminder of storage.data.pendingBvReminders) {
             if (now >= reminder.runAt) {
@@ -277,22 +290,45 @@ async function startBot() {
                     if (storage.isBotDisabled(chatId) || storage.isFeatureDisabled(chatId, 'bv')) continue;
 
                     const bvConfig = storage.data.welcomeReminders ? storage.data.welcomeReminders[chatId] : null;
+
                     if (bvConfig && bvConfig.text) {
+                        const groupMeta = await sockInstance?.groupMetadata(chatId).catch(() => null);
+                        if (!groupMeta || !groupMeta.participants) {
+                            remaining.push(reminder);
+                            continue;
+                        }
+
+                        const rawMemberNum = extractRawNumber(reminder.newMemberId);
+                        const isStillInGroup = groupMeta.participants.some((p: any) => 
+                            p.id === reminder.newMemberId || 
+                            p.lid === reminder.newMemberId ||
+                            (p.id && checkMatch(p.id.split('@')[0], rawMemberNum)) ||
+                            (p.lid && checkMatch(p.lid.split('@')[0], rawMemberNum))
+                        );
+
+                        if (!isStillInGroup) {
+                            console.log(`[LEMBRETE BV CANCELADO] O membro +${rawMemberNum} não está mais no grupo ${chatId}.`);
+                            continue;
+                        }
+
                         const memberInfo = getUserInfo(reminder.newMemberId);
                         let userText = bvConfig.text.trim();
 
                         if (userText.includes('{membro}')) {
-                            userText = userText.replace(/\{membro\}/gi, `${memberInfo.mentionTag} (${memberInfo.pushName})`);
+                            userText = userText.replace(/\{membro\}/gi, memberInfo.nameAndNumber);
                         } else if (userText.includes('{nome}')) {
-                            userText = userText.replace(/\{nome\}/gi, memberInfo.pushName);
+                            userText = userText.replace(/\{nome\}/gi, memberInfo.pushName || memberInfo.formattedNum);
                         } else if (userText.includes('{numero}')) {
                             userText = userText.replace(/\{numero\}/gi, memberInfo.formattedNum);
                         } else {
-                            userText = `👋 ${memberInfo.mentionTag} (*${memberInfo.pushName}*)\n\n${userText}`;
+                            userText = `👋 ${memberInfo.nameAndNumber}\n\n${userText}`;
                         }
 
                         const fullText = `📢 @todos @all\n\n${userText}`;
-                        await sock.sendMessage(chatId, { text: fullText, mentions: [memberInfo.jid] });
+                        const allMentions = Array.from(new Set([memberInfo.jid, reminder.newMemberId])).filter(Boolean);
+
+                        await sockInstance?.sendMessage(chatId, { text: fullText, mentions: allMentions });
+                        console.log(`[LEMBRETE BV ENVIADO] Lembrete disparado para ${memberInfo.nameAndNumber} no grupo ${chatId}`);
                     }
                 } catch (e: any) {
                     console.error('[ERRO LEMBRETE BV]', e.message);
@@ -306,11 +342,12 @@ async function startBot() {
             storage.data.pendingBvReminders = remaining;
             storage.flagSave();
         }
-    }, 60000);
+    }, 30000);
 
-    // Verificador 4: Inatividade de 20 Minutos com Intervenção Contextual Jarvis
+    // Verificador 3: Inatividade de 20 Minutos com Intervenção Contextual Jarvis
     setInterval(async () => {
         if (!storage.data.autoAnim) return;
+
         const now = Date.now();
         const INACTIVITY_LIMIT = 20 * 60 * 1000;
 
