@@ -128,9 +128,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2027,
+        "text": 2028,
         "media": 268,
-        "total": 2295
+        "total": 2296
       },
       "252922705240205": {
         "text": 80,
@@ -1713,9 +1713,9 @@
         "total": 6
       },
       "1395881181241": {
-        "text": 104,
+        "text": 106,
         "media": 4,
-        "total": 108
+        "total": 110
       },
       "198595546501333": {
         "text": 2,
@@ -8986,8 +8986,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Precisa ir no médico",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bom dia",
         "Baby (179040627490824): e controlado vou hj ainda se der tempo",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Isso",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Toma qual?",
@@ -9485,7 +9483,9 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): @266048007835881 corre aqui",
         "Neto prime (238233849983072): 👀👀👀",
         "Bruno Aguiar (+1395881181241): Santiago,Rio Grande do Sul",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): 👀👀"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): 👀👀",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Ahh, pertinho até",
+        "Bruno Aguiar (+1395881181241): Uns 1000km kkkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -16130,6 +16130,18 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "👀👀",
         "timestamp": 1787859380200
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Ahh, pertinho até",
+        "timestamp": 1787859384867
+      },
+      {
+        "authorNum": "1395881181241",
+        "authorName": "Bruno Aguiar",
+        "text": "Uns 1000km kkkk",
+        "timestamp": 1787859408459
       }
     ],
     "120363428464897153@g.us": [],
@@ -16226,7 +16238,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20183,
+    "120363432018531082@g.us": 20185,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1493,
@@ -131528,6 +131540,18 @@
         "text": "👀👀",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787859380200
+      },
+      "AC97FCE8B0CACBF6A810FEC9A35F8E29": {
+        "sender": "53537388122141@lid",
+        "text": "Ahh, pertinho até",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787859384867
+      },
+      "ACE8475054E5A13326A8458F241CB9D2": {
+        "sender": "1395881181241@lid",
+        "text": "Uns 1000km kkkk",
+        "pushName": "Bruno Aguiar",
+        "timestamp": 1787859408459
       }
     },
     "120363428464897153@g.us": {
@@ -179357,7 +179381,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787859380200,
+    "120363432018531082@g.us": 1787859408459,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787859082635,
