@@ -125,14 +125,14 @@
         "total": 4972
       },
       "179040627490824": {
-        "text": 383,
+        "text": 384,
         "media": 76,
-        "total": 459
+        "total": 460
       },
       "145381035905262": {
-        "text": 2151,
+        "text": 2152,
         "media": 464,
-        "total": 2615
+        "total": 2616
       },
       "184237705699536": {
         "text": 524,
@@ -8972,7 +8972,9 @@
         "Leandro (+55 (11) 92701-8683): Boa noite/madrugada, se apresenta para nós!",
         "Leandro (+55 (11) 92701-8683): Bem vindo jovem! 🤝",
         "Leandro (+55 (11) 92701-8683): !inativos",
-        "Leandro (+55 (11) 92701-8683): !sa"
+        "Leandro (+55 (11) 92701-8683): !sa",
+        "Baby (179040627490824): foco e fe agora",
+        "Gabriel (145381035905262): Vai pra cima"
       ]
     },
     "120363428464897153@g.us": {
@@ -14974,6 +14976,18 @@
         "authorName": "Leandro",
         "text": "!sa",
         "timestamp": 1787808563935
+      },
+      {
+        "authorNum": "179040627490824",
+        "authorName": "Baby",
+        "text": "foco e fe agora",
+        "timestamp": 1787809120040
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Vai pra cima",
+        "timestamp": 1787809138999
       }
     ],
     "120363428464897153@g.us": [],
@@ -15070,7 +15084,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19636,
+    "120363432018531082@g.us": 19638,
     "120363428464897153@g.us": 5990,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1455,
@@ -127119,6 +127133,18 @@
         "text": "Bem vindo jovem! 🤝",
         "pushName": "Leandro",
         "timestamp": 1787804343266
+      },
+      "3EB023F1B3B15663429604": {
+        "sender": "179040627490824@lid",
+        "text": "foco e fe agora",
+        "pushName": "Baby",
+        "timestamp": 1787809120040
+      },
+      "AC3595A7522630FC255D8BE8978F17E6": {
+        "sender": "145381035905262@lid",
+        "text": "Vai pra cima",
+        "pushName": "Gabriel",
+        "timestamp": 1787809139006
       }
     },
     "120363428464897153@g.us": {
@@ -174453,7 +174479,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787809088610,
+    "120363432018531082@g.us": 1787809138999,
     "120363428464897153@g.us": 1787803264071,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787804659285,
