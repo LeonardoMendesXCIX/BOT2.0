@@ -1827,8 +1827,8 @@
       },
       "1395881181241": {
         "text": 111,
-        "media": 4,
-        "total": 115
+        "media": 5,
+        "total": 116
       },
       "198595546501333": {
         "text": 2,
@@ -2027,8 +2027,8 @@
       },
       "138483016421544": {
         "text": 2,
-        "media": 1,
-        "total": 3
+        "media": 2,
+        "total": 4
       },
       "213893834105067": {
         "text": 2,
@@ -2636,9 +2636,9 @@
         "total": 3
       },
       "193729163993156": {
-        "text": 1,
+        "text": 3,
         "media": 1,
-        "total": 2
+        "total": 4
       }
     },
     "120363428464897153@g.us": {
@@ -3282,9 +3282,9 @@
         "total": 512
       },
       "145381035905262": {
-        "text": 336,
+        "text": 338,
         "media": 118,
-        "total": 454
+        "total": 456
       },
       "53537388122141": {
         "text": 585,
@@ -9119,8 +9119,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "gigi✨ (60851868446964): Marxista",
-        "Souza (190864487919667): Ave Maria",
         "gigi✨ (60851868446964): Aqui tá 27",
         "Camila Designer (92629643563147): Jesus",
         "Souza (190864487919667): 70% de chances de chuva",
@@ -9618,7 +9616,9 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Bem-vindo jovem casado 🤝🫡",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): A ADM tá com seu facão amoladissimo",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Sempre né meu bem, aprendi com a mestre",
-        "Lailson Nathan. (272048228188398): Cirurgião?"
+        "Lailson Nathan. (272048228188398): Cirurgião?",
+        "F. RicaRdo sAnToS (193729163993156): Obrigado....pelas boas vindas, entrei e aos poucos interajo pelo trabalho.....e roubar figurinhas",
+        "F. RicaRdo sAnToS (193729163993156): Med geral por enquanto"
       ]
     },
     "120363428464897153@g.us": {
@@ -15288,7 +15288,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Jamais",
         "Gabriel (145381035905262): Credo, cruzes",
         "Gabriel (145381035905262): Nem é bonito né",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Teu relógio nunca deu esses 20 minutos?"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Teu relógio nunca deu esses 20 minutos?",
+        "Gabriel (145381035905262): Tá sempre atrasado"
       ]
     },
     "120363411233423709@g.us": {
@@ -16469,23 +16470,23 @@
         "authorName": "Lailson Nathan.",
         "text": "Cirurgião?",
         "timestamp": 1787864970491
+      },
+      {
+        "authorNum": "193729163993156",
+        "authorName": "F. RicaRdo sAnToS",
+        "text": "Obrigado....pelas boas vindas, entrei e aos poucos interajo pelo trabalho.....e roubar figurinhas",
+        "timestamp": 1787864996946
+      },
+      {
+        "authorNum": "193729163993156",
+        "authorName": "F. RicaRdo sAnToS",
+        "text": "Med geral por enquanto",
+        "timestamp": 1787865013316
       }
     ],
     "120363428464897153@g.us": [],
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Pelo menos vou conseguir falar com ele",
-        "timestamp": 1787863201213
-      },
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "#vidadecorretordeimoveis",
-        "timestamp": 1787863213536
-      },
       {
         "authorNum": "81991328395336",
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
@@ -16611,6 +16612,12 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Teu relógio nunca deu esses 20 minutos?",
         "timestamp": 1787864971980
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Tá sempre atrasado",
+        "timestamp": 1787865029188
       }
     ],
     "120363411233423709@g.us": [],
@@ -16625,10 +16632,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20442,
+    "120363432018531082@g.us": 20444,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1541,
+    "120363412288900422@g.us": 1542,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 20,
@@ -133455,6 +133462,18 @@
         "text": "Cirurgião?",
         "pushName": "Lailson Nathan.",
         "timestamp": 1787864970491
+      },
+      "ACC5ACE0B4E7D63854565FBC67933F75": {
+        "sender": "193729163993156@lid",
+        "text": "Obrigado....pelas boas vindas, entrei e aos poucos interajo pelo trabalho.....e roubar figurinhas",
+        "pushName": "F. RicaRdo sAnToS",
+        "timestamp": 1787864996946
+      },
+      "ACAD7013254DE8001C7854A3E884BC41": {
+        "sender": "193729163993156@lid",
+        "text": "Med geral por enquanto",
+        "pushName": "F. RicaRdo sAnToS",
+        "timestamp": 1787865013317
       }
     },
     "120363428464897153@g.us": {
@@ -179037,6 +179056,12 @@
         "text": "Teu relógio nunca deu esses 20 minutos?",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787864971980
+      },
+      "AC4F206B778606FE3D54F5EAED5185EC": {
+        "sender": "145381035905262@lid",
+        "text": "Tá sempre atrasado",
+        "pushName": "Gabriel",
+        "timestamp": 1787865029188
       }
     },
     "120363411233423709@g.us": {
@@ -181578,10 +181603,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787864987456,
+    "120363432018531082@g.us": 1787865035007,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787864971980,
+    "120363412288900422@g.us": 1787865029188,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
