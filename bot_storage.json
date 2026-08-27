@@ -104,8 +104,8 @@
       },
       "92629643563147": {
         "text": 1406,
-        "media": 1068,
-        "total": 2474
+        "media": 1069,
+        "total": 2475
       },
       "3126803329115": {
         "text": 87,
@@ -548,9 +548,9 @@
         "total": 91
       },
       "57707230945348": {
-        "text": 1101,
+        "text": 1104,
         "media": 198,
-        "total": 1299
+        "total": 1302
       },
       "152218690924790": {
         "text": 309,
@@ -1868,9 +1868,9 @@
         "total": 6
       },
       "129158944415753": {
-        "text": 23,
+        "text": 26,
         "media": 2,
-        "total": 25
+        "total": 28
       },
       "276003205152992": {
         "text": 5,
@@ -9161,7 +9161,13 @@
         "massagista tântrico (129158944415753): Seria um imenso prazer ter você como cliente",
         "Camila Designer (92629643563147): Mas eu não quero ser apenas cliente 😏😏😏",
         "massagista tântrico (129158944415753): Seremos oque você quiser bb",
-        "massagista tântrico (129158944415753): E só pedir que obedecerei"
+        "massagista tântrico (129158944415753): E só pedir que obedecerei",
+        "Rafael Moura (57707230945348): Boa tarde",
+        "Rafael Moura (57707230945348): Otima quinta a todos",
+        "massagista tântrico (129158944415753): Pode te chamar no pv",
+        "massagista tântrico (129158944415753): Rssd",
+        "Rafael Moura (57707230945348): Sem tempo de interagir, não me removam",
+        "massagista tântrico (129158944415753): Te mostra uma coisa 😉"
       ]
     },
     "120363428464897153@g.us": {
@@ -15401,6 +15407,42 @@
         "authorName": "massagista tântrico",
         "text": "E só pedir que obedecerei",
         "timestamp": 1787845157217
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Boa tarde",
+        "timestamp": 1787845174027
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Otima quinta a todos",
+        "timestamp": 1787845176284
+      },
+      {
+        "authorNum": "129158944415753",
+        "authorName": "massagista tântrico",
+        "text": "Pode te chamar no pv",
+        "timestamp": 1787845179665
+      },
+      {
+        "authorNum": "129158944415753",
+        "authorName": "massagista tântrico",
+        "text": "Rssd",
+        "timestamp": 1787845181301
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Sem tempo de interagir, não me removam",
+        "timestamp": 1787845184674
+      },
+      {
+        "authorNum": "129158944415753",
+        "authorName": "massagista tântrico",
+        "text": "Te mostra uma coisa 😉",
+        "timestamp": 1787845186297
       }
     ],
     "120363428464897153@g.us": [],
@@ -15497,7 +15539,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19842,
+    "120363432018531082@g.us": 19848,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -128763,6 +128805,42 @@
         "text": "E só pedir que obedecerei",
         "pushName": "massagista tântrico",
         "timestamp": 1787845157217
+      },
+      "ACAE96D72D368AAE5A5C6AA7E1AD6C5F": {
+        "sender": "57707230945348@lid",
+        "text": "Boa tarde",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787845174027
+      },
+      "ACF84CAB0FA6C85A85068A86D79341C0": {
+        "sender": "57707230945348@lid",
+        "text": "Otima quinta a todos",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787845176284
+      },
+      "A5CB13FF2AF5ED0AA1E199E7DB2CE4F8": {
+        "sender": "129158944415753@lid",
+        "text": "Pode te chamar no pv",
+        "pushName": "massagista tântrico",
+        "timestamp": 1787845179666
+      },
+      "A58B4722FEFC84DD9EC132AC66309A5B": {
+        "sender": "129158944415753@lid",
+        "text": "Rssd",
+        "pushName": "massagista tântrico",
+        "timestamp": 1787845181301
+      },
+      "AC82702B9AB61DD731511EE281989F53": {
+        "sender": "57707230945348@lid",
+        "text": "Sem tempo de interagir, não me removam",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787845184674
+      },
+      "A570ABB7D7B4BDA53760BEFF8A0A1A4E": {
+        "sender": "129158944415753@lid",
+        "text": "Te mostra uma coisa 😉",
+        "pushName": "massagista tântrico",
+        "timestamp": 1787845186298
       }
     },
     "120363428464897153@g.us": {
@@ -176514,7 +176592,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787845157217,
+    "120363432018531082@g.us": 1787845186297,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
