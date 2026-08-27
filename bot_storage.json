@@ -2002,9 +2002,9 @@
         "total": 5
       },
       "102641279483997": {
-        "text": 13,
+        "text": 14,
         "media": 4,
-        "total": 17
+        "total": 18
       },
       "85311069618236": {
         "text": 17,
@@ -8893,7 +8893,8 @@
         "Leandro (+55 (11) 92701-8683): Tô indo",
         "Leandro (+55 (11) 92701-8683): 🥰",
         "Leandro (+55 (11) 92701-8683): !msgradm",
-        "Leandro (+55 (11) 92701-8683): !msgradm 🚫 O {membro} foi removido por descumprir as regras!"
+        "Leandro (+55 (11) 92701-8683): !msgradm 🚫 O {membro} foi removido por descumprir as regras!",
+        "AlanRogerio Faustino (102641279483997): Bora trabalhar"
       ]
     },
     "120363428464897153@g.us": {
@@ -14936,10 +14937,10 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "!msgradm 🚫 O {membro} foi removido por descumprir as regras!",
-        "timestamp": 1787812237849
+        "authorNum": "102641279483997",
+        "authorName": "AlanRogerio Faustino",
+        "text": "Bora trabalhar",
+        "timestamp": 1787814104884
       }
     ],
     "120363428464897153@g.us": [],
@@ -14964,7 +14965,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19645,
+    "120363432018531082@g.us": 19646,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1456,
@@ -127061,6 +127062,12 @@
         "text": "🥰",
         "pushName": "Leandro",
         "timestamp": 1787809504668
+      },
+      "AC23425A63F2762F26E8E5CD91AAF118": {
+        "sender": "102641279483997@lid",
+        "text": "Bora trabalhar",
+        "pushName": "AlanRogerio Faustino",
+        "timestamp": 1787814104885
       }
     },
     "120363428464897153@g.us": {
@@ -174662,7 +174669,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787814100473,
+    "120363432018531082@g.us": 1787814104884,
     "120363428464897153@g.us": 1787810938788,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787814068637,
