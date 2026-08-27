@@ -2187,8 +2187,8 @@
       },
       "155503636275307": {
         "text": 62,
-        "media": 22,
-        "total": 84
+        "media": 23,
+        "total": 85
       },
       "67035866357875": {
         "text": 84,
@@ -2566,9 +2566,9 @@
         "total": 20
       },
       "190864487919667": {
-        "text": 149,
+        "text": 150,
         "media": 27,
-        "total": 176
+        "total": 177
       },
       "82227819987089": {
         "text": 2,
@@ -3297,9 +3297,9 @@
     },
     "120363412288900422@g.us": {
       "81991328395336": {
-        "text": 406,
+        "text": 408,
         "media": 112,
-        "total": 518
+        "total": 520
       },
       "5511927018683": {
         "text": 435,
@@ -3312,9 +3312,9 @@
         "total": 460
       },
       "53537388122141": {
-        "text": 624,
+        "text": 626,
         "media": 49,
-        "total": 673
+        "total": 675
       },
       "120363412288900422": {
         "text": 1,
@@ -9149,7 +9149,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Casado com toda essa chatice",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Acho que se refere a você Lay 👀",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Foooogo no parquinhoooooo",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Aguardando chamar no Pv 👀\n@all",
@@ -9648,7 +9647,8 @@
         "Pedro Henrique (172868239380659): Oxe mora em favela?",
         "Caroline (118395236282617): Moro no fim do mundo 😞",
         "Souza (190864487919667): Triste",
-        "Neto prime (238233849983072): Resolvendo umas coisas jaja volta !?"
+        "Neto prime (238233849983072): Resolvendo umas coisas jaja volta !?",
+        "Souza (190864487919667): Ah bom"
       ]
     },
     "120363428464897153@g.us": {
@@ -15379,7 +15379,11 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Somos duas, tô acompanhando isso ai",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Remoção poupa o tempo dos adms",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): A primeira com celiete e jeferson",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Sim. Agora Nyna, Neto e eu"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Sim. Agora Nyna, Neto e eu",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Só se esqueceram que eu sou Adm lá né",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Quem iludiu o neto que ela volta",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Ele colocou lá no grupo",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Eu vi"
       ]
     },
     "120363411233423709@g.us": {
@@ -15845,12 +15849,6 @@
   },
   "memoryCluster": {
     "120363432018531082@g.us": [
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Grupo faleceu foi?",
-        "timestamp": 1787868310821
-      },
       {
         "authorNum": "233161007071346",
         "authorName": "Milena B. Costa",
@@ -16510,6 +16508,12 @@
         "authorName": "Neto prime",
         "text": "Resolvendo umas coisas jaja volta !?",
         "timestamp": 1787870091121
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Ah bom",
+        "timestamp": 1787870122383
       }
     ],
     "120363428464897153@g.us": [],
@@ -16868,6 +16872,30 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Sim. Agora Nyna, Neto e eu",
         "timestamp": 1787870109349
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Só se esqueceram que eu sou Adm lá né",
+        "timestamp": 1787870120945
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Quem iludiu o neto que ela volta",
+        "timestamp": 1787870131801
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Ele colocou lá no grupo",
+        "timestamp": 1787870137037
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Eu vi",
+        "timestamp": 1787870156385
       }
     ],
     "120363411233423709@g.us": [],
@@ -16883,10 +16911,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20722,
+    "120363432018531082@g.us": 20723,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1602,
+    "120363412288900422@g.us": 1606,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -135374,6 +135402,12 @@
         "text": "Resolvendo umas coisas jaja volta !?",
         "pushName": "Neto prime",
         "timestamp": 1787870091121
+      },
+      "AC56F52A51DE417D43E6311AC5C460B4": {
+        "sender": "190864487919667@lid",
+        "text": "Ah bom",
+        "pushName": "Souza",
+        "timestamp": 1787870122383
       }
     },
     "120363428464897153@g.us": {
@@ -181322,6 +181356,30 @@
         "text": "Sim. Agora Nyna, Neto e eu",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787870109349
+      },
+      "ACAF2714F02D67E5F70E963C78994B1C": {
+        "sender": "53537388122141@lid",
+        "text": "Só se esqueceram que eu sou Adm lá né",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787870120945
+      },
+      "ACE8D99A1F228C88E3A9923C67978F03": {
+        "sender": "81991328395336@lid",
+        "text": "Quem iludiu o neto que ela volta",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787870131802
+      },
+      "AC96E245DF761D1A046BBC14D824291B": {
+        "sender": "81991328395336@lid",
+        "text": "Ele colocou lá no grupo",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787870137037
+      },
+      "ACD7D155367370C58021D7984D97DD26": {
+        "sender": "53537388122141@lid",
+        "text": "Eu vi",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787870156385
       }
     },
     "120363411233423709@g.us": {
@@ -183877,10 +183935,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787870091121,
+    "120363432018531082@g.us": 1787870144076,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787870109349,
+    "120363412288900422@g.us": 1787870156385,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
