@@ -141,9 +141,9 @@
         "total": 1934
       },
       "81991328395336": {
-        "text": 3830,
+        "text": 3831,
         "media": 1296,
-        "total": 5126
+        "total": 5127
       },
       "179040627490824": {
         "text": 433,
@@ -341,9 +341,9 @@
         "total": 3
       },
       "163530946961491": {
-        "text": 397,
+        "text": 398,
         "media": 67,
-        "total": 464
+        "total": 465
       },
       "222595437858867": {
         "text": 474,
@@ -2621,9 +2621,9 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 30,
+        "text": 31,
         "media": 10,
-        "total": 40
+        "total": 41
       },
       "172868239380659": {
         "text": 39,
@@ -2647,8 +2647,8 @@
       },
       "205621945192508": {
         "text": 9,
-        "media": 1,
-        "total": 10
+        "media": 2,
+        "total": 11
       }
     },
     "120363428464897153@g.us": {
@@ -9134,7 +9134,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Souza (190864487919667): 👀",
         "Bruno Aguiar (+1395881181241): Seja bem vinda!!",
         "Neto prime (238233849983072): O samba gostei mas um couver de 60 reais é um ingresso kkkkk",
         "Camila Viana (188845719089205): Gente! Que lugar é esse que você foi? Rs",
@@ -9633,7 +9632,8 @@
         "Jennifer🦋 (205621945192508): Pode sim",
         "Gabriel (145381035905262): Só você",
         "Gabriel (145381035905262): Uma em cada grupo 😂😂😂",
-        "F. RicaRdo sAnToS (193729163993156): De Rocha agora"
+        "F. RicaRdo sAnToS (193729163993156): De Rocha agora",
+        "willian (163530946961491): Tiroso 😅😅😅"
       ]
     },
     "120363428464897153@g.us": {
@@ -15771,12 +15771,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "193729163993156",
-        "authorName": "F. RicaRdo sAnToS",
-        "text": "Med geral por enquanto",
-        "timestamp": 1787865013316
-      },
-      {
         "authorNum": "138483016421544",
         "authorName": "Luiz Fernando 👨🏽‍💻",
         "text": "Perdi alguma coisa por aqui",
@@ -16261,6 +16255,12 @@
         "authorName": "F. RicaRdo sAnToS",
         "text": "De Rocha agora",
         "timestamp": 1787866745709
+      },
+      {
+        "authorNum": "163530946961491",
+        "authorName": "willian",
+        "text": "Tiroso 😅😅😅",
+        "timestamp": 1787866820609
       }
     ],
     "120363428464897153@g.us": [],
@@ -16299,7 +16299,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20525,
+    "120363432018531082@g.us": 20526,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1543,
@@ -133621,6 +133621,12 @@
         "text": "De Rocha agora",
         "pushName": "F. RicaRdo sAnToS",
         "timestamp": 1787866745709
+      },
+      "AC23D09A465F2CBA38D3A59C58A33C63": {
+        "sender": "163530946961491@lid",
+        "text": "Tiroso 😅😅😅",
+        "pushName": "willian",
+        "timestamp": 1787866820610
       }
     },
     "120363428464897153@g.us": {
@@ -181764,7 +181770,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787866789969,
+    "120363432018531082@g.us": 1787866849135,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787865477162,
