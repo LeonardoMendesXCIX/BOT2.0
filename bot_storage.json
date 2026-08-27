@@ -1826,9 +1826,9 @@
         "total": 6
       },
       "1395881181241": {
-        "text": 111,
+        "text": 112,
         "media": 5,
-        "total": 116
+        "total": 117
       },
       "198595546501333": {
         "text": 2,
@@ -2566,9 +2566,9 @@
         "total": 20
       },
       "190864487919667": {
-        "text": 74,
+        "text": 80,
         "media": 17,
-        "total": 91
+        "total": 97
       },
       "82227819987089": {
         "text": 2,
@@ -9119,12 +9119,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Camila Designer (92629643563147): Como assim?🤣🤣🤣",
-        "Baby (179040627490824): Se desse ksksk",
-        "🎀  Ň𝐘ηａ🐆 (266048007835881): Eu não sei que coceira é essa que esse homem tem que ele entra e sai",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Quem?",
-        "🎀  Ň𝐘ηａ🐆 (266048007835881): Aki e um sol pra cada cabeça",
-        "🎀  Ň𝐘ηａ🐆 (266048007835881): Massagista",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Exato",
         "Camila Designer (92629643563147): Por que?🤣🤣🤣",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Aqui também",
@@ -9618,7 +9612,13 @@
         "willian (163530946961491): Misericórdia então eu devo me preocupar pensei que ela ia me chamar para jantar na casa dela hoje klkk",
         "Pedro Henrique (172868239380659): Tu vai ser o jantar",
         "Souza (190864487919667): KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK",
-        "Souza (190864487919667): Se fudeu"
+        "Souza (190864487919667): Se fudeu",
+        "Souza (190864487919667): Se",
+        "Souza (190864487919667): Fu",
+        "Souza (190864487919667): Deu",
+        "Souza (190864487919667): Ela achou teu erro",
+        "Souza (190864487919667): O que tu acha que ela não sabe",
+        "Souza (190864487919667): Ela sabe"
       ]
     },
     "120363428464897153@g.us": {
@@ -16393,6 +16393,42 @@
         "authorName": "Souza",
         "text": "Se fudeu",
         "timestamp": 1787865816218
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Se",
+        "timestamp": 1787865820075
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Fu",
+        "timestamp": 1787865822272
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Deu",
+        "timestamp": 1787865823279
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Ela achou teu erro",
+        "timestamp": 1787865834405
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "O que tu acha que ela não sabe",
+        "timestamp": 1787865843082
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Ela sabe",
+        "timestamp": 1787865845014
       }
     ],
     "120363428464897153@g.us": [],
@@ -16495,7 +16531,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20464,
+    "120363432018531082@g.us": 20470,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1543,
@@ -133456,6 +133492,42 @@
         "text": "Se fudeu",
         "pushName": "Souza",
         "timestamp": 1787865816218
+      },
+      "AC4B80F96A393B73A594261530BBB9D8": {
+        "sender": "190864487919667@lid",
+        "text": "Se",
+        "pushName": "Souza",
+        "timestamp": 1787865820075
+      },
+      "AC45C37A4A6AE97431D9FDB74C1C530A": {
+        "sender": "190864487919667@lid",
+        "text": "Fu",
+        "pushName": "Souza",
+        "timestamp": 1787865822273
+      },
+      "ACBCE8DBD01714C10199E53974BA57EC": {
+        "sender": "190864487919667@lid",
+        "text": "Deu",
+        "pushName": "Souza",
+        "timestamp": 1787865823279
+      },
+      "AC78E2F0736654A8EE31EC690F0B6A9F": {
+        "sender": "190864487919667@lid",
+        "text": "Ela achou teu erro",
+        "pushName": "Souza",
+        "timestamp": 1787865834405
+      },
+      "ACF7613E33AC61B0DE4F63ADCEFBEE0C": {
+        "sender": "190864487919667@lid",
+        "text": "O que tu acha que ela não sabe",
+        "pushName": "Souza",
+        "timestamp": 1787865843082
+      },
+      "AC8FEF2E38AA7F44F35CCF382DA9FBF8": {
+        "sender": "190864487919667@lid",
+        "text": "Ela sabe",
+        "pushName": "Souza",
+        "timestamp": 1787865845014
       }
     },
     "120363428464897153@g.us": {
@@ -181591,7 +181663,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787865816217,
+    "120363432018531082@g.us": 1787865852773,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787865477162,
