@@ -141,9 +141,9 @@
         "total": 1934
       },
       "81991328395336": {
-        "text": 3803,
+        "text": 3804,
         "media": 1286,
-        "total": 5089
+        "total": 5090
       },
       "179040627490824": {
         "text": 433,
@@ -241,9 +241,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2069,
+        "text": 2071,
         "media": 274,
-        "total": 2343
+        "total": 2345
       },
       "252922705240205": {
         "text": 80,
@@ -9104,7 +9104,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        ". (39402768232586): Meu nome é João Pedro \nTenho 19 anos \nSou de Belo Horizonte",
         "Camila Designer (92629643563147): Porque apagou João?",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Era a apresentação dele",
         ". (39402768232586): Desculpe achei que só podia mandar de visualização única",
@@ -9603,7 +9602,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): @54259127210155",
         "Gabriel Ohi (90130358485223): Sim kkkk",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Vc não! Mais falaram Aki sim hahah",
-        "Jonathan Bráulio (187097969348735): Por mais homens assim kkkkk"
+        "Jonathan Bráulio (187097969348735): Por mais homens assim kkkkk",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tô só de 👀👀👀"
       ]
     },
     "120363428464897153@g.us": {
@@ -15711,18 +15711,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Sou um amorzinho",
-        "timestamp": 1787860036703
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Reclame não",
-        "timestamp": 1787860041720
-      },
-      {
         "authorNum": "81991328395336",
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "@53537388122141",
@@ -16171,6 +16159,12 @@
         "authorName": "Jonathan Bráulio",
         "text": "Por mais homens assim kkkkk",
         "timestamp": 1787861835130
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Tô só de 👀👀👀",
+        "timestamp": 1787861852646
       }
     ],
     "120363428464897153@g.us": [],
@@ -16328,7 +16322,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20289,
+    "120363432018531082@g.us": 20290,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1516,
@@ -132247,6 +132241,12 @@
         "text": "Por mais homens assim kkkkk",
         "pushName": "Jonathan Bráulio",
         "timestamp": 1787861835130
+      },
+      "ACB582CC0F082A978DD0C11C08884F60": {
+        "sender": "53537388122141@lid",
+        "text": "Tô só de 👀👀👀",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787861852646
       }
     },
     "120363428464897153@g.us": {
@@ -180220,7 +180220,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787861835130,
+    "120363432018531082@g.us": 1787861863094,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787861646643,
