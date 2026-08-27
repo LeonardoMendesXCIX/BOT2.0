@@ -2453,9 +2453,9 @@
         "total": 5
       },
       "190864487919667": {
-        "text": 51,
+        "text": 52,
         "media": 15,
-        "total": 66
+        "total": 67
       },
       "82227819987089": {
         "text": 2,
@@ -3154,9 +3154,9 @@
         "total": 439
       },
       "53537388122141": {
-        "text": 557,
+        "text": 558,
         "media": 40,
-        "total": 597
+        "total": 598
       },
       "120363412288900422": {
         "text": 1,
@@ -8986,7 +8986,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Camila Designer (92629643563147): Dia Bruno!😘",
         "Camila Designer (92629643563147): 🥺🥺🥺",
         "Baby (179040627490824): vai indo",
         "Camila Designer (92629643563147): Quer falar sobre?",
@@ -9485,7 +9484,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Reclame não",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @53537388122141",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): A pronto, quem é? Se identifique no meu Pv aí",
-        "Souza (190864487919667): Até agora esse ser misterioso não se identificou"
+        "Souza (190864487919667): Até agora esse ser misterioso não se identificou",
+        "Souza (190864487919667): Tem alguém escrevendo uma bíblia"
       ]
     },
     "120363428464897153@g.us": {
@@ -15116,7 +15116,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Vei pooooodi",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): O que ela querm",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Entra no grupo",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Opa, foi mal, resolvi o problema"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Opa, foi mal, resolvi o problema",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Foi mal bot 🫶🏻"
       ]
     },
     "120363411233423709@g.us": {
@@ -15576,18 +15577,6 @@
   },
   "memoryCluster": {
     "120363432018531082@g.us": [
-      {
-        "authorNum": "111506477846600",
-        "authorName": "'   MƲRIԼԼƠ  🥶",
-        "text": "Percebi",
-        "timestamp": 1787858316613
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Facãozinho já rodou",
-        "timestamp": 1787858327910
-      },
       {
         "authorNum": "81991328395336",
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
@@ -16067,6 +16056,12 @@
         "authorName": "Souza",
         "text": "Até agora esse ser misterioso não se identificou",
         "timestamp": 1787860114343
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Tem alguém escrevendo uma bíblia",
+        "timestamp": 1787860164714
       }
     ],
     "120363428464897153@g.us": [],
@@ -16185,6 +16180,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Opa, foi mal, resolvi o problema",
         "timestamp": 1787860126483
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Foi mal bot 🫶🏻",
+        "timestamp": 1787860166575
       }
     ],
     "120363411233423709@g.us": [],
@@ -16199,10 +16200,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20217,
+    "120363432018531082@g.us": 20218,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1502,
+    "120363412288900422@g.us": 1503,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 18,
@@ -131692,6 +131693,12 @@
         "text": "Até agora esse ser misterioso não se identificou",
         "pushName": "Souza",
         "timestamp": 1787860114343
+      },
+      "ACF92DE3118F5339EDB69E0807DCAF0D": {
+        "sender": "190864487919667@lid",
+        "text": "Tem alguém escrevendo uma bíblia",
+        "pushName": "Souza",
+        "timestamp": 1787860164714
       }
     },
     "120363428464897153@g.us": {
@@ -177040,6 +177047,12 @@
         "text": "Opa, foi mal, resolvi o problema",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787860126483
+      },
+      "AC208B6E0EB926F6D51BBCE5B09F1144": {
+        "sender": "53537388122141@lid",
+        "text": "Foi mal bot 🫶🏻",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787860166575
       }
     },
     "120363411233423709@g.us": {
@@ -179569,10 +179582,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787860114343,
+    "120363432018531082@g.us": 1787860164714,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787860126483,
+    "120363412288900422@g.us": 1787860166575,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
