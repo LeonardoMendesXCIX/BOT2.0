@@ -241,9 +241,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2148,
+        "text": 2150,
         "media": 280,
-        "total": 2428
+        "total": 2430
       },
       "252922705240205": {
         "text": 80,
@@ -321,9 +321,9 @@
         "total": 6
       },
       "247635785080860": {
-        "text": 44,
+        "text": 45,
         "media": 2,
-        "total": 46
+        "total": 47
       },
       "182416270463028": {
         "text": 17,
@@ -9149,9 +9149,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Fazer dar certo só mais essa vez? Vish, quem foi que mandou? 👀\nIdentifique se no Pv 👀",
-        "Juliano Perlin (222595437858867): Pronto",
-        "Juliano Perlin (222595437858867): Ja querem tomar a cherósa de mim",
         "Juliano Perlin (222595437858867): 🥹",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Nem vemmmm 😂",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Oi Juuu",
@@ -9648,7 +9645,10 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Poxa, eu quero 😒",
         "Gleydson Souza (274384656834700): Vou guardar 1 pedaço pra vc aqui",
         "Pedro Henrique (172868239380659): Strogonoff",
-        "Jennifer🦋 (205621945192508): Tooooooopp"
+        "Jennifer🦋 (205621945192508): Tooooooopp",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Maravilha, obrigada",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Adoro também",
+        "Jane (247635785080860): Boa noite pessoal!!"
       ]
     },
     "120363428464897153@g.us": {
@@ -15860,30 +15860,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "118395236282617",
-        "authorName": "Caroline",
-        "text": "Frio frio frio",
-        "timestamp": 1787868670392
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Se mataaaaaaa",
-        "timestamp": 1787868678867
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Onde?",
-        "timestamp": 1787868685071
-      },
-      {
-        "authorNum": "118395236282617",
-        "authorName": "Caroline",
-        "text": "Aqui aonde eu moro",
-        "timestamp": 1787868707128
-      },
-      {
         "authorNum": "190864487919667",
         "authorName": "Souza",
         "text": "Queria",
@@ -16506,6 +16482,24 @@
         "authorName": "Jennifer🦋",
         "text": "Tooooooopp",
         "timestamp": 1787870451993
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Maravilha, obrigada",
+        "timestamp": 1787870519637
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Adoro também",
+        "timestamp": 1787870526058
+      },
+      {
+        "authorNum": "247635785080860",
+        "authorName": "Jane",
+        "text": "Boa noite pessoal!!",
+        "timestamp": 1787870556568
       }
     ],
     "120363428464897153@g.us": [],
@@ -16951,7 +16945,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20733,
+    "120363432018531082@g.us": 20736,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1616,
@@ -135508,6 +135502,24 @@
         "text": "Tooooooopp",
         "pushName": "Jennifer🦋",
         "timestamp": 1787870451993
+      },
+      "AC8856B1BE229972E5DD5DE37B66CA6D": {
+        "sender": "53537388122141@lid",
+        "text": "Maravilha, obrigada",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787870519696
+      },
+      "ACAEEB9C9134CA162ED0E190D3FE1F0D": {
+        "sender": "53537388122141@lid",
+        "text": "Adoro também",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787870526058
+      },
+      "AC217E48E15D84A9A219A6E18CBD5253": {
+        "sender": "247635785080860@lid",
+        "text": "Boa noite pessoal!!",
+        "pushName": "Jane",
+        "timestamp": 1787870556575
       }
     },
     "120363428464897153@g.us": {
@@ -184095,7 +184107,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787870464141,
+    "120363432018531082@g.us": 1787870556568,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787870469989,
