@@ -241,9 +241,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2151,
+        "text": 2152,
         "media": 280,
-        "total": 2431
+        "total": 2432
       },
       "252922705240205": {
         "text": 80,
@@ -256,9 +256,9 @@
         "total": 463
       },
       "262182034002040": {
-        "text": 1850,
+        "text": 1853,
         "media": 120,
-        "total": 1970
+        "total": 1973
       },
       "219245581488326": {
         "text": 4,
@@ -9154,9 +9154,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Gabriel Ohi (90130358485223): Sim kkkk",
-        "🎀  Ň𝐘ηａ🐆 (266048007835881): Vc não! Mais falaram Aki sim hahah",
-        "Jonathan Bráulio (187097969348735): Por mais homens assim kkkkk",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Tô só de 👀👀👀",
         "Gleydson Souza (274384656834700): Gente 14 foi de arrasta kkkkk. F",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): 👆🏻 não e que caixinha tava certa kkkkkkkkk",
@@ -9653,7 +9650,10 @@
         "Gabriel (145381035905262): @all  querem ver coisa bonita ?",
         "Pedro Henrique (172868239380659): Escudo do Palmeiras",
         "Caroline (118395236282617): Mostrar",
-        "Gabriel (145381035905262): Nada contra"
+        "Gabriel (145381035905262): Nada contra",
+        "Dany (262182034002040): Medo",
+        "Dany (262182034002040): Justo",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Mostra ai"
       ]
     },
     "120363428464897153@g.us": {
@@ -15899,18 +15899,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "247635785080860",
-        "authorName": "Jane",
-        "text": "Kkkkk",
-        "timestamp": 1787871306839
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Eu durmo lá 2 da manhã",
-        "timestamp": 1787871344592
-      },
-      {
         "authorNum": "274384656834700",
         "authorName": "Gleydson Souza",
         "text": "Q isso 2h ja to no 18° sono kkkkkk",
@@ -16047,6 +16035,24 @@
         "authorName": "Gabriel",
         "text": "Nada contra",
         "timestamp": 1787873011715
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Medo",
+        "timestamp": 1787873135245
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Justo",
+        "timestamp": 1787873140583
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Mostra ai",
+        "timestamp": 1787873153838
       }
     ],
     "120363428464897153@g.us": [],
@@ -16198,7 +16204,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20786,
+    "120363432018531082@g.us": 20789,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1650,
@@ -135073,6 +135079,24 @@
         "text": "Nada contra",
         "pushName": "Gabriel",
         "timestamp": 1787873011715
+      },
+      "3A54B5D33A7FC1616610": {
+        "sender": "262182034002040@lid",
+        "text": "Medo",
+        "pushName": "Dany",
+        "timestamp": 1787873135245
+      },
+      "3ACB7EF118455593AF89": {
+        "sender": "262182034002040@lid",
+        "text": "Justo",
+        "pushName": "Dany",
+        "timestamp": 1787873140583
+      },
+      "ACFC6FFA7733878BE5C6C77C6767BC63": {
+        "sender": "53537388122141@lid",
+        "text": "Mostra ai",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787873153838
       }
     },
     "120363428464897153@g.us": {
@@ -183864,7 +183888,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787873011715,
+    "120363432018531082@g.us": 1787873153838,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787872451366,
