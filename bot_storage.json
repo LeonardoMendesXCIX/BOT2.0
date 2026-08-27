@@ -23,19 +23,19 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1509,
+        "text": 1510,
         "media": 422,
-        "total": 1931
+        "total": 1932
       },
       "81991328395336": {
-        "text": 3763,
+        "text": 3764,
         "media": 1262,
-        "total": 5025
+        "total": 5026
       },
       "179040627490824": {
-        "text": 421,
+        "text": 423,
         "media": 81,
-        "total": 502
+        "total": 504
       },
       "145381035905262": {
         "text": 2152,
@@ -103,9 +103,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1416,
-        "media": 1075,
-        "total": 2491
+        "text": 1417,
+        "media": 1076,
+        "total": 2493
       },
       "3126803329115": {
         "text": 87,
@@ -1868,9 +1868,9 @@
         "total": 6
       },
       "129158944415753": {
-        "text": 41,
+        "text": 43,
         "media": 3,
-        "total": 44
+        "total": 46
       },
       "276003205152992": {
         "text": 5,
@@ -9216,7 +9216,9 @@
         "Dany (262182034002040): Boa tarde ☺️",
         "Dáfi (56603776680152): Boa tarde gente",
         "Baby (179040627490824): Oi povo",
-        "Celiete Souza (129373172711439): Voa @92629643563147 🔥"
+        "Celiete Souza (129373172711439): Voa @92629643563147 🔥",
+        "massagista tântrico (129158944415753): Sim chuva leve",
+        "Camila Designer (92629643563147): Acho que vou fazer um bate volta para o Rio esse fim de semana"
       ]
     },
     "120363428464897153@g.us": {
@@ -15738,6 +15740,18 @@
         "authorName": "Celiete Souza",
         "text": "Voa @92629643563147 🔥",
         "timestamp": 1787845984533
+      },
+      {
+        "authorNum": "129158944415753",
+        "authorName": "massagista tântrico",
+        "text": "Sim chuva leve",
+        "timestamp": 1787845994869
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Acho que vou fazer um bate volta para o Rio esse fim de semana",
+        "timestamp": 1787846001615
       }
     ],
     "120363428464897153@g.us": [],
@@ -15798,7 +15812,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19892,
+    "120363432018531082@g.us": 19894,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -129364,6 +129378,18 @@
         "text": "Voa @92629643563147 🔥",
         "pushName": "Celiete Souza",
         "timestamp": 1787845984533
+      },
+      "A5A81EC116BAEAF23D238169046100F9": {
+        "sender": "129158944415753@lid",
+        "text": "Sim chuva leve",
+        "pushName": "massagista tântrico",
+        "timestamp": 1787845994869
+      },
+      "2AAA6A1710337B9B6CC0": {
+        "sender": "92629643563147@lid",
+        "text": "Acho que vou fazer um bate volta para o Rio esse fim de semana",
+        "pushName": "Camila Designer",
+        "timestamp": 1787846001615
       }
     },
     "120363428464897153@g.us": {
@@ -177115,7 +177141,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787845984533,
+    "120363432018531082@g.us": 1787846025605,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
