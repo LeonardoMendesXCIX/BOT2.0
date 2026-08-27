@@ -151,9 +151,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2156,
+        "text": 2157,
         "media": 464,
-        "total": 2620
+        "total": 2621
       },
       "184237705699536": {
         "text": 524,
@@ -2561,9 +2561,9 @@
         "total": 2
       },
       "11171897864256": {
-        "text": 16,
+        "text": 18,
         "media": 1,
-        "total": 17
+        "total": 19
       },
       "190864487919667": {
         "text": 69,
@@ -9114,9 +9114,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "gigi✨ (60851868446964): 😂",
-        "massagista tântrico (129158944415753): Medrosa",
-        "Camila Designer (92629643563147): Não confio em mim, se me chamar posso parar no Rio 🤣🤣🤣",
         "Rafael Moura (57707230945348): Vc sabe o que é massagem tãntrica ne?",
         "Camila Designer (92629643563147): Lógico",
         "massagista tântrico (129158944415753): Sim sei sim",
@@ -9613,7 +9610,10 @@
         "🙃🙃🙃 (11171897864256): Dar justa vc causa 🤣🤣🤣🤣",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Oxi, só não ficar bebo",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Exatamente...",
-        "🎀  Ň𝐘ηａ🐆 (266048007835881): Treta so se for pra vc, apenas esclarecir algo. pq se tem uma coisa que eu sou e direta e verdadeira 😉"
+        "🎀  Ň𝐘ηａ🐆 (266048007835881): Treta so se for pra vc, apenas esclarecir algo. pq se tem uma coisa que eu sou e direta e verdadeira 😉",
+        "Gabriel (145381035905262): Vala minha nossa senhora",
+        "🙃🙃🙃 (11171897864256): Não posso bebe ,tem câmeras dar justa causa",
+        "🙃🙃🙃 (11171897864256): Tem pessoas que pagam pra mim mas não posso bebe"
       ]
     },
     "120363428464897153@g.us": {
@@ -15734,18 +15734,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "266048007835881",
-        "authorName": "🎀  Ň𝐘ηａ🐆",
-        "text": "Esse olho aí amiga e perigoso viu 🔪",
-        "timestamp": 1787862017441
-      },
-      {
-        "authorNum": "266048007835881",
-        "authorName": "🎀  Ň𝐘ηａ🐆",
-        "text": "Se entregando e não sabendo confessar kkkkkk",
-        "timestamp": 1787862046425
-      },
-      {
         "authorNum": "274384656834700",
         "authorName": "Gleydson Souza",
         "text": "Já aconteceu cmg",
@@ -16086,6 +16074,24 @@
         "authorName": "🎀  Ň𝐘ηａ🐆",
         "text": "Treta so se for pra vc, apenas esclarecir algo. pq se tem uma coisa que eu sou e direta e verdadeira 😉",
         "timestamp": 1787863804946
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Vala minha nossa senhora",
+        "timestamp": 1787863839572
+      },
+      {
+        "authorNum": "11171897864256",
+        "authorName": "🙃🙃🙃",
+        "text": "Não posso bebe ,tem câmeras dar justa causa",
+        "timestamp": 1787863857452
+      },
+      {
+        "authorNum": "11171897864256",
+        "authorName": "🙃🙃🙃",
+        "text": "Tem pessoas que pagam pra mim mas não posso bebe",
+        "timestamp": 1787863879247
       }
     ],
     "120363428464897153@g.us": [],
@@ -16182,7 +16188,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20351,
+    "120363432018531082@g.us": 20354,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1529,
@@ -132467,6 +132473,24 @@
         "text": "Treta so se for pra vc, apenas esclarecir algo. pq se tem uma coisa que eu sou e direta e verdadeira 😉",
         "pushName": "🎀  Ň𝐘ηａ🐆",
         "timestamp": 1787863804947
+      },
+      "AC61E05907EBB13076565C3D600384C2": {
+        "sender": "145381035905262@lid",
+        "text": "Vala minha nossa senhora",
+        "pushName": "Gabriel",
+        "timestamp": 1787863839572
+      },
+      "ACD8F27EEA880D084DF0C4D4FBF25C71": {
+        "sender": "11171897864256@lid",
+        "text": "Não posso bebe ,tem câmeras dar justa causa",
+        "pushName": "🙃🙃🙃",
+        "timestamp": 1787863857452
+      },
+      "AC29A40F6B5399DB4B4C2A5693A47431": {
+        "sender": "11171897864256@lid",
+        "text": "Tem pessoas que pagam pra mim mas não posso bebe",
+        "pushName": "🙃🙃🙃",
+        "timestamp": 1787863879247
       }
     },
     "120363428464897153@g.us": {
@@ -180518,7 +180542,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787863804946,
+    "120363432018531082@g.us": 1787863879247,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787863775083,
