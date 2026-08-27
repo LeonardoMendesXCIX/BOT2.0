@@ -2566,9 +2566,9 @@
         "total": 20
       },
       "190864487919667": {
-        "text": 118,
+        "text": 121,
         "media": 23,
-        "total": 141
+        "total": 144
       },
       "82227819987089": {
         "text": 2,
@@ -2582,8 +2582,8 @@
       },
       "187097969348735": {
         "text": 7,
-        "media": 1,
-        "total": 8
+        "media": 2,
+        "total": 9
       },
       "238233849983072": {
         "text": 38,
@@ -9149,8 +9149,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "'   MƲRIԼԼƠ  🥶 (111506477846600): De tu",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Pois é bom lembrar",
         "Souza (190864487919667): 👀",
         "'   MƲRIԼԼƠ  🥶 (111506477846600): 👀",
         "'   MƲRIԼԼƠ  🥶 (111506477846600): Vou lembrar",
@@ -9648,7 +9646,9 @@
         "Caroline (118395236282617): ahhh eu amo",
         "Caroline (118395236282617): Ar condicionado",
         "Souza (190864487919667): Sei nem o que é isso",
-        "Pedro Henrique (172868239380659): Mano, pelo DDD ela é RJ kko no caso, ela vai é sentir frio aqui kkk"
+        "Pedro Henrique (172868239380659): Mano, pelo DDD ela é RJ kko no caso, ela vai é sentir frio aqui kkk",
+        "Souza (190864487919667): Jennifer não tá afim de nada",
+        "Souza (190864487919667): E faz frio no RJ?"
       ]
     },
     "120363428464897153@g.us": {
@@ -15805,24 +15805,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Foi engraçado o ciumes nada haver dela haha",
-        "timestamp": 1787867344478
-      },
-      {
-        "authorNum": "163530946961491",
-        "authorName": "willian",
-        "text": "Ontem eu nem estava aqui não vi nada kkkk",
-        "timestamp": 1787867346431
-      },
-      {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Mas enfim",
-        "timestamp": 1787867347540
-      },
-      {
         "authorNum": "190864487919667",
         "authorName": "Souza",
         "text": "O nome dela é jennifer, eu encontrei ela no tiiiinder",
@@ -16373,6 +16355,18 @@
         "authorName": "Pedro Henrique",
         "text": "Mano, pelo DDD ela é RJ kko no caso, ela vai é sentir frio aqui kkk",
         "timestamp": 1787869119471
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Jennifer não tá afim de nada",
+        "timestamp": 1787869144474
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "E faz frio no RJ?",
+        "timestamp": 1787869153497
       }
     ],
     "120363428464897153@g.us": [],
@@ -16507,7 +16501,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20646,
+    "120363432018531082@g.us": 20648,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1561,
@@ -134548,6 +134542,18 @@
         "text": "Mano, pelo DDD ela é RJ kko no caso, ela vai é sentir frio aqui kkk",
         "pushName": "Pedro Henrique",
         "timestamp": 1787869119471
+      },
+      "AC7D3C80C93AD7032E7BE788176FD37E": {
+        "sender": "190864487919667@lid",
+        "text": "Jennifer não tá afim de nada",
+        "pushName": "Souza",
+        "timestamp": 1787869144475
+      },
+      "AC8FE691DCAF0092AA4DCC460B530886": {
+        "sender": "190864487919667@lid",
+        "text": "E faz frio no RJ?",
+        "pushName": "Souza",
+        "timestamp": 1787869153497
       }
     },
     "120363428464897153@g.us": {
@@ -182805,7 +182811,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787869122584,
+    "120363432018531082@g.us": 1787869153497,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787869124224,
