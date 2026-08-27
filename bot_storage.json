@@ -103,9 +103,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1428,
+        "text": 1429,
         "media": 1077,
-        "total": 2505
+        "total": 2506
       },
       "3126803329115": {
         "text": 87,
@@ -128,9 +128,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 1978,
+        "text": 1979,
         "media": 258,
-        "total": 2236
+        "total": 2237
       },
       "252922705240205": {
         "text": 80,
@@ -2453,9 +2453,9 @@
         "total": 5
       },
       "190864487919667": {
-        "text": 14,
+        "text": 15,
         "media": 4,
-        "total": 18
+        "total": 19
       },
       "82227819987089": {
         "text": 1,
@@ -9274,7 +9274,10 @@
         "Souza (190864487919667): Já lavei, como um bom dono de casa",
         "gigi✨ (60851868446964): Marxista",
         "Souza (190864487919667): Ave Maria",
-        "gigi✨ (60851868446964): Aqui tá 27"
+        "gigi✨ (60851868446964): Aqui tá 27",
+        "Camila Designer (92629643563147): Jesus",
+        "Souza (190864487919667): 70% de chances de chuva",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Cadê a vela?"
       ]
     },
     "120363428464897153@g.us": {
@@ -15342,24 +15345,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Muito bem",
-        "timestamp": 1787844900218
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Massagem virtual",
-        "timestamp": 1787844917911
-      },
-      {
-        "authorNum": "129158944415753",
-        "authorName": "massagista tântrico",
-        "text": "Venha fazer sua. Massagem bb",
-        "timestamp": 1787844922328
-      },
-      {
         "authorNum": "129158944415753",
         "authorName": "massagista tântrico",
         "text": "Rssd",
@@ -16048,6 +16033,24 @@
         "authorName": "gigi✨",
         "text": "Aqui tá 27",
         "timestamp": 1787846700068
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Jesus",
+        "timestamp": 1787846706115
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "70% de chances de chuva",
+        "timestamp": 1787846709887
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Cadê a vela?",
+        "timestamp": 1787846734097
       }
     ],
     "120363428464897153@g.us": [],
@@ -16065,7 +16068,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19945,
+    "120363432018531082@g.us": 19948,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -129949,6 +129952,24 @@
         "text": "Aqui tá 27",
         "pushName": "gigi✨",
         "timestamp": 1787846700069
+      },
+      "2A8A2DB52557DFC83184": {
+        "sender": "92629643563147@lid",
+        "text": "Jesus",
+        "pushName": "Camila Designer",
+        "timestamp": 1787846706116
+      },
+      "ACCCAF0F768F9693D4C6C43C55BFA11A": {
+        "sender": "190864487919667@lid",
+        "text": "70% de chances de chuva",
+        "pushName": "Souza",
+        "timestamp": 1787846709887
+      },
+      "AC0A500BB6E781E711A7827F033F70FA": {
+        "sender": "53537388122141@lid",
+        "text": "Cadê a vela?",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787846734097
       }
     },
     "120363428464897153@g.us": {
@@ -177700,7 +177721,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787846700068,
+    "120363432018531082@g.us": 1787846734097,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
