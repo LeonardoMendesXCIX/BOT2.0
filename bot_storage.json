@@ -2721,9 +2721,9 @@
         "total": 1
       },
       "92629643563147": {
-        "text": 491,
+        "text": 492,
         "media": 298,
-        "total": 789
+        "total": 790
       },
       "122552932372575": {
         "text": 0,
@@ -2926,9 +2926,9 @@
         "total": 1
       },
       "266048007835881": {
-        "text": 91,
+        "text": 92,
         "media": 48,
-        "total": 139
+        "total": 140
       },
       "123120354635955": {
         "text": 1,
@@ -3001,9 +3001,9 @@
         "total": 15
       },
       "120044990287992": {
-        "text": 110,
+        "text": 111,
         "media": 6,
-        "total": 116
+        "total": 117
       },
       "71120413843690": {
         "text": 2,
@@ -12119,9 +12119,6 @@
         "Leandro (+55 (11) 92701-8683): Mais tarde, quando o kbaré abrir, tu se apresenta @66743926038604"
       ],
       "26/08/2026": [
-        "Clayton 🇳🇬 (155503636275307): Vou manda uma foto pode",
-        "Bruno Aguiar (+1395881181241): Pelados kkk",
-        "DANIGXX (136408815665242): Não",
         "Camila Designer (92629643563147): Simmmm",
         "DANIGXX (136408815665242): Deixa elas",
         "Celiete Souza (129373172711439): Lembrei de algo",
@@ -12618,7 +12615,10 @@
         "Neto prime (238233849983072): Tem que fazer uma chamada de vídeo logo kkkkkk",
         "Vini 👑🏁🙌⚽ (270377049690114): Deixa o homi gostoso assim igual tu na foto???? meuamigo",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Eu achei que eu era doida ele e mais que eu kkkk",
-        "negoh🐻 (120044990287992): Eu confiei nela"
+        "negoh🐻 (120044990287992): Eu confiei nela",
+        "negoh🐻 (120044990287992): Tu gosta é 😂😂",
+        "🎀  Ň𝐘ηａ🐆 (266048007835881): menti já e sacanagem.....",
+        "Camila Designer (92629643563147): Dois loucos se encontrando 🥰🥰🥰"
       ]
     },
     "120363409727467494@g.us": {
@@ -14848,24 +14848,6 @@
     ],
     "120363428464897153@g.us": [
       {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Corajoso ele",
-        "timestamp": 1787793400781
-      },
-      {
-        "authorNum": "238233849983072",
-        "authorName": "Neto prime",
-        "text": "Mas na cama tem que ser submissa hahahaha concorda ?",
-        "timestamp": 1787793405027
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Depende",
-        "timestamp": 1787793420933
-      },
-      {
         "authorNum": "238233849983072",
         "authorName": "Neto prime",
         "text": "Quem dera, meu cupido tá com raiva de mim kkkkkk não tô conquistando nem meu cachorro que as vezes foge kkkkkkk",
@@ -15368,6 +15350,24 @@
         "authorName": "negoh🐻",
         "text": "Eu confiei nela",
         "timestamp": 1787795195926
+      },
+      {
+        "authorNum": "120044990287992",
+        "authorName": "negoh🐻",
+        "text": "Tu gosta é 😂😂",
+        "timestamp": 1787795225055
+      },
+      {
+        "authorNum": "266048007835881",
+        "authorName": "🎀  Ň𝐘ηａ🐆",
+        "text": "menti já e sacanagem.....",
+        "timestamp": 1787795229560
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Dois loucos se encontrando 🥰🥰🥰",
+        "timestamp": 1787795231659
       }
     ],
     "120363409727467494@g.us": [],
@@ -15421,7 +15421,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 19575,
-    "120363428464897153@g.us": 5650,
+    "120363428464897153@g.us": 5653,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1422,
     "120363411233423709@g.us": 5,
@@ -160231,6 +160231,24 @@
         "text": "Eu confiei nela",
         "pushName": "negoh🐻",
         "timestamp": 1787795195926
+      },
+      "AC090CE0231BE030ADE6044ACE9C51EE": {
+        "sender": "120044990287992@lid",
+        "text": "Tu gosta é 😂😂",
+        "pushName": "negoh🐻",
+        "timestamp": 1787795225055
+      },
+      "AC409E3D6F24A59314B2C21A7AA04ED8": {
+        "sender": "266048007835881@lid",
+        "text": "menti já e sacanagem.....",
+        "pushName": "🎀  Ň𝐘ηａ🐆",
+        "timestamp": 1787795229560
+      },
+      "2AD7E802A7A57D68D0F9": {
+        "sender": "92629643563147@lid",
+        "text": "Dois loucos se encontrando 🥰🥰🥰",
+        "pushName": "Camila Designer",
+        "timestamp": 1787795231659
       }
     },
     "120363409727467494@g.us": {
@@ -172168,7 +172186,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787794981779,
-    "120363428464897153@g.us": 1787795195926,
+    "120363428464897153@g.us": 1787795231659,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787793125283,
     "120363411233423709@g.us": 1787113553426,
