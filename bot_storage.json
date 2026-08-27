@@ -33,9 +33,9 @@
         "total": 4975
       },
       "179040627490824": {
-        "text": 413,
+        "text": 414,
         "media": 80,
-        "total": 493
+        "total": 494
       },
       "145381035905262": {
         "text": 2152,
@@ -254,8 +254,8 @@
       },
       "60851868446964": {
         "text": 1217,
-        "media": 1423,
-        "total": 2640
+        "media": 1424,
+        "total": 2641
       },
       "270377049690114": {
         "text": 36,
@@ -1713,9 +1713,9 @@
         "total": 6
       },
       "1395881181241": {
-        "text": 92,
+        "text": 93,
         "media": 4,
-        "total": 96
+        "total": 97
       },
       "198595546501333": {
         "text": 2,
@@ -8965,7 +8965,9 @@
         "Baby (179040627490824): eu largo o cll as 9 depois disso so fico na cama",
         "Baby (179040627490824): ai n ksksks",
         "Baby (179040627490824): queria ta assim hj",
-        "Baby (179040627490824): tendo dormir as 9 mais fazer o q ne"
+        "Baby (179040627490824): tendo dormir as 9 mais fazer o q ne",
+        "Baby (179040627490824): xiiiii",
+        "Bruno Aguiar (+1395881181241): Bom dia \nMelhoras 🙏🏽🙏🏽"
       ]
     },
     "120363428464897153@g.us": {
@@ -15306,6 +15308,18 @@
         "authorName": "Baby",
         "text": "tendo dormir as 9 mais fazer o q ne",
         "timestamp": 1787826466704
+      },
+      {
+        "authorNum": "179040627490824",
+        "authorName": "Baby",
+        "text": "xiiiii",
+        "timestamp": 1787826506275
+      },
+      {
+        "authorNum": "1395881181241",
+        "authorName": "Bruno Aguiar",
+        "text": "Bom dia \nMelhoras 🙏🏽🙏🏽",
+        "timestamp": 1787826514110
       }
     ],
     "120363428464897153@g.us": [],
@@ -15323,7 +15337,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19706,
+    "120363432018531082@g.us": 19708,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1456,
@@ -127789,6 +127803,18 @@
         "text": "tendo dormir as 9 mais fazer o q ne",
         "pushName": "Baby",
         "timestamp": 1787826466705
+      },
+      "3EB0CF2E0CB61B6FFC5F1F": {
+        "sender": "179040627490824@lid",
+        "text": "xiiiii",
+        "pushName": "Baby",
+        "timestamp": 1787826506275
+      },
+      "AC891313C26459340966BD7D9273BF4D": {
+        "sender": "1395881181241@lid",
+        "text": "Bom dia \nMelhoras 🙏🏽🙏🏽",
+        "pushName": "Bruno Aguiar",
+        "timestamp": 1787826514110
       }
     },
     "120363428464897153@g.us": {
@@ -175390,7 +175416,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787826466704,
+    "120363432018531082@g.us": 1787826514110,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787814068637,
