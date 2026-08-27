@@ -33,9 +33,9 @@
         "total": 5030
       },
       "179040627490824": {
-        "text": 426,
-        "media": 88,
-        "total": 514
+        "text": 427,
+        "media": 89,
+        "total": 516
       },
       "145381035905262": {
         "text": 2152,
@@ -2453,9 +2453,9 @@
         "total": 5
       },
       "190864487919667": {
-        "text": 9,
+        "text": 11,
         "media": 4,
-        "total": 13
+        "total": 15
       },
       "82227819987089": {
         "text": 1,
@@ -9265,7 +9265,10 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Lindoo",
         "Camila Designer (92629643563147): Aqui amanheceu com muita chuva, agora que deu uma parada, mas o tempo está mais fresquinho",
         "Baby (179040627490824): Tá 17 aq",
-        "Souza (190864487919667): Necessito de chuva"
+        "Souza (190864487919667): Necessito de chuva",
+        "Souza (190864487919667): 25° com sensação de 31° aqui",
+        "Baby (179040627490824): Oloko ksksks",
+        "Souza (190864487919667): Brasília, bem vindo ao forno"
       ]
     },
     "120363428464897153@g.us": {
@@ -15333,30 +15336,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Uia",
-        "timestamp": 1787844822150
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Já almoçaram meu povo?",
-        "timestamp": 1787844830968
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "@92629643563147",
-        "timestamp": 1787844831031
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Quase",
-        "timestamp": 1787844842182
-      },
-      {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
         "text": "Lugar dos meus sonhos 😮‍💨",
@@ -16021,6 +16000,24 @@
         "authorName": "Souza",
         "text": "Necessito de chuva",
         "timestamp": 1787846609652
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "25° com sensação de 31° aqui",
+        "timestamp": 1787846632139
+      },
+      {
+        "authorNum": "179040627490824",
+        "authorName": "Baby",
+        "text": "Oloko ksksks",
+        "timestamp": 1787846642018
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Brasília, bem vindo ao forno",
+        "timestamp": 1787846651520
       }
     ],
     "120363428464897153@g.us": [],
@@ -16038,7 +16035,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19936,
+    "120363432018531082@g.us": 19939,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -129868,6 +129865,24 @@
         "text": "Necessito de chuva",
         "pushName": "Souza",
         "timestamp": 1787846609652
+      },
+      "AC26DBAA3AEA2C4ACF65D3C1840063BF": {
+        "sender": "190864487919667@lid",
+        "text": "25° com sensação de 31° aqui",
+        "pushName": "Souza",
+        "timestamp": 1787846632139
+      },
+      "AC60C6D628B246E4DC0DFF0D79F64A3B": {
+        "sender": "179040627490824@lid",
+        "text": "Oloko ksksks",
+        "pushName": "Baby",
+        "timestamp": 1787846642018
+      },
+      "AC73EC63DF030E3D5981B891BE0BA3F0": {
+        "sender": "190864487919667@lid",
+        "text": "Brasília, bem vindo ao forno",
+        "pushName": "Souza",
+        "timestamp": 1787846651520
       }
     },
     "120363428464897153@g.us": {
@@ -177619,7 +177634,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787846617541,
+    "120363432018531082@g.us": 1787846656531,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
