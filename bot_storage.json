@@ -28,9 +28,9 @@
         "total": 1934
       },
       "81991328395336": {
-        "text": 3767,
+        "text": 3768,
         "media": 1262,
-        "total": 5029
+        "total": 5030
       },
       "179040627490824": {
         "text": 425,
@@ -103,9 +103,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1427,
+        "text": 1428,
         "media": 1077,
-        "total": 2504
+        "total": 2505
       },
       "3126803329115": {
         "text": 87,
@@ -253,9 +253,9 @@
         "total": 3
       },
       "60851868446964": {
-        "text": 1234,
+        "text": 1235,
         "media": 1433,
-        "total": 2667
+        "total": 2668
       },
       "270377049690114": {
         "text": 36,
@@ -2453,9 +2453,9 @@
         "total": 5
       },
       "190864487919667": {
-        "text": 6,
+        "text": 7,
         "media": 4,
-        "total": 10
+        "total": 11
       },
       "82227819987089": {
         "text": 1,
@@ -3501,8 +3501,8 @@
       },
       "81991328395336": {
         "text": 7,
-        "media": 112,
-        "total": 119
+        "media": 117,
+        "total": 124
       },
       "145381035905262": {
         "text": 7,
@@ -9259,7 +9259,11 @@
         "Souza (190864487919667): Queria chuva",
         "Souza (190864487919667): Quero frio",
         "Camila Designer (92629643563147): Que lindo ☺️",
-        "Dany (262182034002040): Papos e papos exato"
+        "Dany (262182034002040): Papos e papos exato",
+        "Souza (190864487919667): Sombrinha e energético",
+        "gigi✨ (60851868446964): Simm",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Lindoo",
+        "Camila Designer (92629643563147): Aqui amanheceu com muita chuva, agora que deu uma parada, mas o tempo está mais fresquinho"
       ]
     },
     "120363428464897153@g.us": {
@@ -15979,6 +15983,30 @@
         "authorName": "Dany",
         "text": "Papos e papos exato",
         "timestamp": 1787846549494
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Sombrinha e energético",
+        "timestamp": 1787846565662
+      },
+      {
+        "authorNum": "60851868446964",
+        "authorName": "gigi✨",
+        "text": "Simm",
+        "timestamp": 1787846575892
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Lindoo",
+        "timestamp": 1787846591222
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Aqui amanheceu com muita chuva, agora que deu uma parada, mas o tempo está mais fresquinho",
+        "timestamp": 1787846600387
       }
     ],
     "120363428464897153@g.us": [],
@@ -15996,7 +16024,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19930,
+    "120363432018531082@g.us": 19934,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -129790,6 +129818,30 @@
         "text": "Papos e papos exato",
         "pushName": "Dany",
         "timestamp": 1787846549494
+      },
+      "AC385153F0224B920D49992F7A374F63": {
+        "sender": "190864487919667@lid",
+        "text": "Sombrinha e energético",
+        "pushName": "Souza",
+        "timestamp": 1787846565662
+      },
+      "AC803D33DD60DA9A340D300ADCCDBB2F": {
+        "sender": "60851868446964@lid",
+        "text": "Simm",
+        "pushName": "gigi✨",
+        "timestamp": 1787846575893
+      },
+      "AC04CD6A4EFA66CA22FF0E04FDAFD0C8": {
+        "sender": "81991328395336@lid",
+        "text": "Lindoo",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787846591222
+      },
+      "2ADA0EDD05B727ED1699": {
+        "sender": "92629643563147@lid",
+        "text": "Aqui amanheceu com muita chuva, agora que deu uma parada, mas o tempo está mais fresquinho",
+        "pushName": "Camila Designer",
+        "timestamp": 1787846600387
       }
     },
     "120363428464897153@g.us": {
@@ -177541,7 +177593,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787846550282,
+    "120363432018531082@g.us": 1787846600387,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
@@ -177552,7 +177604,7 @@
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1787803320850,
-    "120363409024805409@g.us": 1787845393049
+    "120363409024805409@g.us": 1787846560246
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
