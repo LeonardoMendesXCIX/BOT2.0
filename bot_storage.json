@@ -152,8 +152,8 @@
       },
       "145381035905262": {
         "text": 2168,
-        "media": 466,
-        "total": 2634
+        "media": 467,
+        "total": 2635
       },
       "184237705699536": {
         "text": 524,
@@ -341,9 +341,9 @@
         "total": 3
       },
       "163530946961491": {
-        "text": 401,
+        "text": 403,
         "media": 67,
-        "total": 468
+        "total": 470
       },
       "222595437858867": {
         "text": 474,
@@ -2566,9 +2566,9 @@
         "total": 20
       },
       "190864487919667": {
-        "text": 87,
+        "text": 91,
         "media": 17,
-        "total": 104
+        "total": 108
       },
       "82227819987089": {
         "text": 2,
@@ -9139,11 +9139,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "🎀  Ň𝐘ηａ🐆 (266048007835881): Venhaaaa",
-        "🎀  Ň𝐘ηａ🐆 (266048007835881): Bem vindo",
-        "Neto prime (238233849983072): Eu tu não chama né @266048007835881",
-        "Neto prime (238233849983072): Rummm",
-        "jefersonjgs25 (85264194134079): Obrigado",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Corretor do caraio",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Samambaia sul",
         "jefersonjgs25 (85264194134079): Alguém aqui de Pernambuco?",
@@ -9638,7 +9633,12 @@
         "Souza (190864487919667): Bem vinda",
         "Souza (190864487919667): Menino rápido",
         "Gabriel (145381035905262): Rapaiz a @233161007071346 é toda engraçadinha, mas é uma oncinha",
-        "Souza (190864487919667): Quem?"
+        "Souza (190864487919667): Quem?",
+        "Souza (190864487919667): Gente",
+        "Souza (190864487919667): Eu só associo o nome quando eu vejo uma foto",
+        "Souza (190864487919667): Só conheço 2 pessoas nesse grupo",
+        "Souza (190864487919667): De resto é tudo estranho",
+        "willian (163530946961491): Mas irmão essas daí que são perigosas são traiçoeira kkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -16429,6 +16429,36 @@
         "authorName": "Souza",
         "text": "Quem?",
         "timestamp": 1787867467843
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Gente",
+        "timestamp": 1787867470775
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Eu só associo o nome quando eu vejo uma foto",
+        "timestamp": 1787867477629
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Só conheço 2 pessoas nesse grupo",
+        "timestamp": 1787867490245
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "De resto é tudo estranho",
+        "timestamp": 1787867494258
+      },
+      {
+        "authorNum": "163530946961491",
+        "authorName": "willian",
+        "text": "Mas irmão essas daí que são perigosas são traiçoeira kkk",
+        "timestamp": 1787867495864
       }
     ],
     "120363428464897153@g.us": [],
@@ -16461,7 +16491,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20564,
+    "120363432018531082@g.us": 20569,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1543,
@@ -134010,6 +134040,36 @@
         "text": "Quem?",
         "pushName": "Souza",
         "timestamp": 1787867467844
+      },
+      "AC6FFA3EB260FB8BF8C2DD6BFC2F400D": {
+        "sender": "190864487919667@lid",
+        "text": "Gente",
+        "pushName": "Souza",
+        "timestamp": 1787867470775
+      },
+      "ACBF3A991DB635223BEDBF4EA8EE558C": {
+        "sender": "190864487919667@lid",
+        "text": "Eu só associo o nome quando eu vejo uma foto",
+        "pushName": "Souza",
+        "timestamp": 1787867477629
+      },
+      "AC346378E6D75171C36EB98A4689C129": {
+        "sender": "190864487919667@lid",
+        "text": "Só conheço 2 pessoas nesse grupo",
+        "pushName": "Souza",
+        "timestamp": 1787867490245
+      },
+      "ACB8144AD17CAF1F2F7267CF997A7CEE": {
+        "sender": "190864487919667@lid",
+        "text": "De resto é tudo estranho",
+        "pushName": "Souza",
+        "timestamp": 1787867494259
+      },
+      "AC971A6FA3E9CE6761F8CA0269FB4D2F": {
+        "sender": "163530946961491@lid",
+        "text": "Mas irmão essas daí que são perigosas são traiçoeira kkk",
+        "pushName": "willian",
+        "timestamp": 1787867495864
       }
     },
     "120363428464897153@g.us": {
@@ -182159,7 +182219,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787867467843,
+    "120363432018531082@g.us": 1787867495864,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787865477162,
