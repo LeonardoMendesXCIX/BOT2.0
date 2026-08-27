@@ -128,9 +128,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2054,
+        "text": 2055,
         "media": 273,
-        "total": 2327
+        "total": 2328
       },
       "252922705240205": {
         "text": 80,
@@ -233,9 +233,9 @@
         "total": 441
       },
       "222595437858867": {
-        "text": 470,
-        "media": 50,
-        "total": 520
+        "text": 472,
+        "media": 51,
+        "total": 523
       },
       "83280154103884": {
         "text": 36,
@@ -8991,9 +8991,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Eclética a gata",
-        "Baby (179040627490824): acustico",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Muito pelo contrário, respondo todo mundo de boa. Sou parceira",
         "gigi✨ (60851868446964): Juros",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Amanhã é sextou, mas por enquanto, não",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): NÃO",
@@ -9490,7 +9487,10 @@
         "Juliano Perlin (222595437858867): 🥹",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Nem vemmmm 😂",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Oi Juuu",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Ainda bem que quem tem que  gosta da minha chatice é ele né ?\nAté já acostumou"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Ainda bem que quem tem que  gosta da minha chatice é ele né ?\nAté já acostumou",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): 👀👀👀👀",
+        "Juliano Perlin (222595437858867): Vcs nao ficam dando em cima da minha cherósa q a faca pega vcs😠",
+        "Juliano Perlin (222595437858867): Oii coisa cheirósa😍"
       ]
     },
     "120363428464897153@g.us": {
@@ -15588,24 +15588,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Jamais!!!",
-        "timestamp": 1787859069291
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "@266048007835881 corre aqui",
-        "timestamp": 1787859085154
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "@53537388122141 está apaixonada igual você",
-        "timestamp": 1787859093909
-      },
-      {
         "authorNum": "1395881181241",
         "authorName": "Bruno Aguiar",
         "text": "Hj aqui no sul ta bom pra uma gelada quase 30 graus🥵🥵🍻🍻",
@@ -16018,6 +16000,24 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Ainda bem que quem tem que  gosta da minha chatice é ele né ?\nAté já acostumou",
         "timestamp": 1787860868652
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "👀👀👀👀",
+        "timestamp": 1787860885686
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Vcs nao ficam dando em cima da minha cherósa q a faca pega vcs😠",
+        "timestamp": 1787860887905
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Oii coisa cheirósa😍",
+        "timestamp": 1787860925802
       }
     ],
     "120363428464897153@g.us": [],
@@ -16151,7 +16151,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20240,
+    "120363432018531082@g.us": 20243,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1506,
@@ -131776,6 +131776,24 @@
         "text": "Ainda bem que quem tem que  gosta da minha chatice é ele né ?\nAté já acostumou",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787860868652
+      },
+      "AC20EDD04BDF54AE766408F776CB4022": {
+        "sender": "53537388122141@lid",
+        "text": "👀👀👀👀",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787860885686
+      },
+      "AC3208A7FFFB339945A553C4D25DC6A7": {
+        "sender": "222595437858867@lid",
+        "text": "Vcs nao ficam dando em cima da minha cherósa q a faca pega vcs😠",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1787860887905
+      },
+      "ACBE6D4B358134742C8360F9EFFF8464": {
+        "sender": "222595437858867@lid",
+        "text": "Oii coisa cheirósa😍",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1787860925803
       }
     },
     "120363428464897153@g.us": {
@@ -179689,7 +179707,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787860879743,
+    "120363432018531082@g.us": 1787860925802,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787860657102,
