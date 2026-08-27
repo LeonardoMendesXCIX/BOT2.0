@@ -2626,9 +2626,9 @@
         "total": 16
       },
       "172868239380659": {
-        "text": 8,
-        "media": 2,
-        "total": 10
+        "text": 10,
+        "media": 3,
+        "total": 13
       },
       "170455038193841": {
         "text": 1,
@@ -9114,8 +9114,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Rafael Moura (57707230945348): E bem vindo a quem entrou",
-        "Camila Designer (92629643563147): Onde você mora no Rio @129158944415753",
         "massagista tântrico (129158944415753): Copacabana",
         "Camila Designer (92629643563147): Vai me hospedar?",
         "massagista tântrico (129158944415753): Claro",
@@ -9613,7 +9611,9 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Que bom, somos duas! E não, não quero seu presente de Deus 😂",
         "Pedro Henrique (172868239380659): Gente",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Tavendo sua  infantilidade... Que horas q eu falei q ele era meu presente de Deus ? Mulher descansa amadurece ...",
-        "🎀  Ň𝐘ηａ🐆 (266048007835881): Se tu quer chamar atenção de algum homem Aki não vai ser com essa infantilidade e esses posicionamento não..."
+        "🎀  Ň𝐘ηａ🐆 (266048007835881): Se tu quer chamar atenção de algum homem Aki não vai ser com essa infantilidade e esses posicionamento não...",
+        "Pedro Henrique (172868239380659): Briga, briga",
+        "Pedro Henrique (172868239380659): Briga por estado diferente, gostei"
       ]
     },
     "120363428464897153@g.us": {
@@ -15737,18 +15737,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Amiga, eu não quero ele não, fique a vontade pra você",
-        "timestamp": 1787862353689
-      },
-      {
-        "authorNum": "274384656834700",
-        "authorName": "Gleydson Souza",
-        "text": "Claro tomei advertência mas aproveitei pra falar tudo que tinha guardado kkkkk",
-        "timestamp": 1787862391835
-      },
-      {
         "authorNum": "187097969348735",
         "authorName": "Jonathan Bráulio",
         "text": "Eu tô quase chegando nesse nível",
@@ -16071,6 +16059,18 @@
         "authorName": "🎀  Ň𝐘ηａ🐆",
         "text": "Se tu quer chamar atenção de algum homem Aki não vai ser com essa infantilidade e esses posicionamento não...",
         "timestamp": 1787864152161
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Briga, briga",
+        "timestamp": 1787864178162
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Briga por estado diferente, gostei",
+        "timestamp": 1787864193389
       }
     ],
     "120363428464897153@g.us": [],
@@ -16179,7 +16179,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20359,
+    "120363432018531082@g.us": 20361,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1532,
@@ -132512,6 +132512,18 @@
         "text": "Se tu quer chamar atenção de algum homem Aki não vai ser com essa infantilidade e esses posicionamento não...",
         "pushName": "🎀  Ň𝐘ηａ🐆",
         "timestamp": 1787864152161
+      },
+      "AC5954E69582290DAD6B00D4364C1D5B": {
+        "sender": "172868239380659@lid",
+        "text": "Briga, briga",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787864178162
+      },
+      "ACAF1DDF42DBD000C22919D3712DF4DD": {
+        "sender": "172868239380659@lid",
+        "text": "Briga por estado diferente, gostei",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787864193389
       }
     },
     "120363428464897153@g.us": {
@@ -180581,7 +180593,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787864152161,
+    "120363432018531082@g.us": 1787864197485,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787864023257,
