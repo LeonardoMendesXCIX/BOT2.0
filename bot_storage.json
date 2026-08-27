@@ -104,8 +104,8 @@
       },
       "92629643563147": {
         "text": 1449,
-        "media": 1081,
-        "total": 2530
+        "media": 1082,
+        "total": 2531
       },
       "3126803329115": {
         "text": 87,
@@ -2473,14 +2473,14 @@
         "total": 1
       },
       "238233849983072": {
-        "text": 14,
+        "text": 15,
         "media": 0,
-        "total": 14
+        "total": 15
       },
       "75797868064796": {
-        "text": 2,
+        "text": 3,
         "media": 2,
-        "total": 4
+        "total": 5
       },
       "153764728184839": {
         "text": 0,
@@ -2488,9 +2488,9 @@
         "total": 1
       },
       "188845719089205": {
-        "text": 10,
+        "text": 14,
         "media": 0,
-        "total": 10
+        "total": 14
       }
     },
     "120363428464897153@g.us": {
@@ -9398,7 +9398,12 @@
         "Neto prime (238233849983072): Kkkkkkk",
         "Camila Viana (188845719089205): Realmente, na maioria dos bares acima da média o valor é esse ae",
         "Alexandre Bastos (75797868064796): Lá e caro",
-        "Neto prime (238233849983072): Demais kkk"
+        "Neto prime (238233849983072): Demais kkk",
+        "Camila Viana (188845719089205): Mas da próxima vez,  vai na Lapa rs",
+        "Camila Viana (188845719089205): Bar do Omar",
+        "Neto prime (238233849983072): Vou agora pra Brasília … vida aí é caro as coisas @266048007835881 kkkkkk",
+        "Camila Viana (188845719089205): Bafo do Prainha",
+        "Alexandre Bastos (75797868064796): Muito bom la"
       ]
     },
     "120363428464897153@g.us": {
@@ -15657,6 +15662,36 @@
         "authorName": "Neto prime",
         "text": "Demais kkk",
         "timestamp": 1787856312659
+      },
+      {
+        "authorNum": "188845719089205",
+        "authorName": "Camila Viana",
+        "text": "Mas da próxima vez,  vai na Lapa rs",
+        "timestamp": 1787856318962
+      },
+      {
+        "authorNum": "188845719089205",
+        "authorName": "Camila Viana",
+        "text": "Bar do Omar",
+        "timestamp": 1787856338733
+      },
+      {
+        "authorNum": "238233849983072",
+        "authorName": "Neto prime",
+        "text": "Vou agora pra Brasília … vida aí é caro as coisas @266048007835881 kkkkkk",
+        "timestamp": 1787856346120
+      },
+      {
+        "authorNum": "188845719089205",
+        "authorName": "Camila Viana",
+        "text": "Bafo do Prainha",
+        "timestamp": 1787856346545
+      },
+      {
+        "authorNum": "75797868064796",
+        "authorName": "Alexandre Bastos",
+        "text": "Muito bom la",
+        "timestamp": 1787856349522
       }
     ],
     "120363428464897153@g.us": [],
@@ -15681,7 +15716,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20039,
+    "120363432018531082@g.us": 20044,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -130130,6 +130165,36 @@
         "text": "Demais kkk",
         "pushName": "Neto prime",
         "timestamp": 1787856312659
+      },
+      "A533B76773B19B534601101A687C0E41": {
+        "sender": "188845719089205@lid",
+        "text": "Mas da próxima vez,  vai na Lapa rs",
+        "pushName": "Camila Viana",
+        "timestamp": 1787856318962
+      },
+      "A5844E1D3F325F7299F4A8E953F1FC00": {
+        "sender": "188845719089205@lid",
+        "text": "Bar do Omar",
+        "pushName": "Camila Viana",
+        "timestamp": 1787856338734
+      },
+      "2AA60F942691D57100DC": {
+        "sender": "238233849983072@lid",
+        "text": "Vou agora pra Brasília … vida aí é caro as coisas @266048007835881 kkkkkk",
+        "pushName": "Neto prime",
+        "timestamp": 1787856346120
+      },
+      "A519DD49645150F03AA5426DBE3A6810": {
+        "sender": "188845719089205@lid",
+        "text": "Bafo do Prainha",
+        "pushName": "Camila Viana",
+        "timestamp": 1787856346545
+      },
+      "AC82ED15235ECD7BDDAD7EF17F9992AE": {
+        "sender": "75797868064796@lid",
+        "text": "Muito bom la",
+        "pushName": "Alexandre Bastos",
+        "timestamp": 1787856349522
       }
     },
     "120363428464897153@g.us": {
@@ -177887,7 +177952,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787856312659,
+    "120363432018531082@g.us": 1787856349522,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
