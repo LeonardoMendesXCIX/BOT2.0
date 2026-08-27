@@ -33,9 +33,9 @@
         "total": 4975
       },
       "179040627490824": {
-        "text": 400,
+        "text": 401,
         "media": 80,
-        "total": 480
+        "total": 481
       },
       "145381035905262": {
         "text": 2152,
@@ -8952,7 +8952,8 @@
         "Baby (179040627490824): n me ajuda so se eu tomar bastante e olha la",
         "Baby (179040627490824): Zolpidem",
         "Baby (179040627490824): eu faso com trufra ajuda um pouco",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Entendi"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Entendi",
+        "Baby (179040627490824): a cs tava tudo escura quando foi ver ja era 6 da manha"
       ]
     },
     "120363428464897153@g.us": {
@@ -15215,6 +15216,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Entendi",
         "timestamp": 1787826053479
+      },
+      {
+        "authorNum": "179040627490824",
+        "authorName": "Baby",
+        "text": "a cs tava tudo escura quando foi ver ja era 6 da manha",
+        "timestamp": 1787826095815
       }
     ],
     "120363428464897153@g.us": [],
@@ -15232,7 +15239,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19693,
+    "120363432018531082@g.us": 19694,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1456,
@@ -127620,6 +127627,12 @@
         "text": "Entendi",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787826053479
+      },
+      "3EB0199BFDF5B902554C7D": {
+        "sender": "179040627490824@lid",
+        "text": "a cs tava tudo escura quando foi ver ja era 6 da manha",
+        "pushName": "Baby",
+        "timestamp": 1787826095816
       }
     },
     "120363428464897153@g.us": {
@@ -175221,7 +175234,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787826053479,
+    "120363432018531082@g.us": 1787826095815,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787814068637,
