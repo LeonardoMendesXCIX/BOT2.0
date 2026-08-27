@@ -29,8 +29,8 @@
       },
       "81991328395336": {
         "text": 3792,
-        "media": 1276,
-        "total": 5068
+        "media": 1277,
+        "total": 5069
       },
       "179040627490824": {
         "text": 433,
@@ -128,9 +128,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2043,
-        "media": 269,
-        "total": 2312
+        "text": 2044,
+        "media": 270,
+        "total": 2314
       },
       "252922705240205": {
         "text": 80,
@@ -2454,8 +2454,8 @@
       },
       "190864487919667": {
         "text": 50,
-        "media": 14,
-        "total": 64
+        "media": 15,
+        "total": 65
       },
       "82227819987089": {
         "text": 2,
@@ -8986,8 +8986,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "gigi✨ (60851868446964): Brigada 🩷",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bom diaaa meu bem",
         "Camila Designer (92629643563147): Bom dia!😘",
         "Camila Designer (92629643563147): Bem e você?☺️",
         "Camila Designer (92629643563147): Dia Bruno!😘",
@@ -9485,7 +9483,9 @@
         "Bruno Aguiar (+1395881181241): Esperança é a última que morre 😂😂😂",
         "Souza (190864487919667): Se eu não te conhecesse tão bem",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): É, me conhece bem até demais, não é mesmo?\nMas pq? Não sou um monstro né?",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Sou um amorzinho"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Sou um amorzinho",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Reclame não",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @53537388122141"
       ]
     },
     "120363428464897153@g.us": {
@@ -15575,18 +15575,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "111506477846600",
-        "authorName": "'   MƲRIԼԼƠ  🥶",
-        "text": "Nuss",
-        "timestamp": 1787858241645
-      },
-      {
-        "authorNum": "111506477846600",
-        "authorName": "'   MƲRIԼԼƠ  🥶",
-        "text": "Agressividade",
-        "timestamp": 1787858255966
-      },
-      {
         "authorNum": "266048007835881",
         "authorName": "🎀  Ň𝐘ηａ🐆",
         "text": "Obrigada amiga cãozinho kkk",
@@ -16071,6 +16059,18 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Sou um amorzinho",
         "timestamp": 1787860036703
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Reclame não",
+        "timestamp": 1787860041720
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "@53537388122141",
+        "timestamp": 1787860065164
       }
     ],
     "120363428464897153@g.us": [],
@@ -16197,7 +16197,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20213,
+    "120363432018531082@g.us": 20215,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1500,
@@ -131666,6 +131666,18 @@
         "text": "Sou um amorzinho",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787860036703
+      },
+      "AC8858AEAAB9378460D3E52E699D4497": {
+        "sender": "53537388122141@lid",
+        "text": "Reclame não",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787860041720
+      },
+      "AC9F797F532B39478D5FA21A98E0211F": {
+        "sender": "81991328395336@lid",
+        "text": "@53537388122141",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787860065164
       }
     },
     "120363428464897153@g.us": {
@@ -179531,7 +179543,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787860036703,
+    "120363432018531082@g.us": 1787860065164,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787859975917,
