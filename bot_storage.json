@@ -28,9 +28,9 @@
         "total": 1934
       },
       "81991328395336": {
-        "text": 3795,
+        "text": 3796,
         "media": 1281,
-        "total": 5076
+        "total": 5077
       },
       "179040627490824": {
         "text": 433,
@@ -548,9 +548,9 @@
         "total": 91
       },
       "57707230945348": {
-        "text": 1113,
+        "text": 1114,
         "media": 198,
-        "total": 1311
+        "total": 1312
       },
       "152218690924790": {
         "text": 309,
@@ -1713,9 +1713,9 @@
         "total": 6
       },
       "1395881181241": {
-        "text": 108,
+        "text": 109,
         "media": 4,
-        "total": 112
+        "total": 113
       },
       "198595546501333": {
         "text": 2,
@@ -2453,9 +2453,9 @@
         "total": 5
       },
       "190864487919667": {
-        "text": 55,
+        "text": 56,
         "media": 17,
-        "total": 72
+        "total": 73
       },
       "82227819987089": {
         "text": 2,
@@ -8991,8 +8991,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "gigi✨ (60851868446964): Foda de mais",
-        "Lailson Nathan. (272048228188398): Bom dia turma.",
         "Bruno Aguiar (+1395881181241): Bom dia!!!",
         "Dany (262182034002040): Adms é menor de idade o ~rc \n@53537388122141 @81991328395336 @145381035905262 @54259127210155",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): !ban @224722000318513",
@@ -9490,7 +9488,9 @@
         "Rafael Moura (57707230945348): Nao to falando disso",
         "Rafael Moura (57707230945348): E sim desses correios ai",
         "Rafael Moura (57707230945348): Na moral isso ta chatão já",
-        "Rafael Moura (57707230945348): Pega e fala na cara"
+        "Rafael Moura (57707230945348): Pega e fala na cara",
+        "Rafael Moura (57707230945348): Ficam de falsidade nesse negocio. No inicio era legal pela resenha",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Uns gosta em"
       ]
     },
     "120363428464897153@g.us": {
@@ -15588,18 +15588,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "!ban",
-        "timestamp": 1787859248084
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Vá com Deus 👋🏻",
-        "timestamp": 1787859255854
-      },
-      {
         "authorNum": "190864487919667",
         "authorName": "Souza",
         "text": "👀",
@@ -16042,6 +16030,18 @@
         "authorName": "Rafael Moura",
         "text": "Pega e fala na cara",
         "timestamp": 1787861029670
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Ficam de falsidade nesse negocio. No inicio era legal pela resenha",
+        "timestamp": 1787861056891
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Uns gosta em",
+        "timestamp": 1787861059674
       }
     ],
     "120363428464897153@g.us": [],
@@ -16175,7 +16175,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20251,
+    "120363432018531082@g.us": 20253,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1506,
@@ -131866,6 +131866,18 @@
         "text": "Pega e fala na cara",
         "pushName": "Rafael Moura",
         "timestamp": 1787861029670
+      },
+      "AC5EE1A8246B7097DEFFBB0D012BC52A": {
+        "sender": "57707230945348@lid",
+        "text": "Ficam de falsidade nesse negocio. No inicio era legal pela resenha",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787861056891
+      },
+      "AC10A01012A0AC7E03D54C6901265E79": {
+        "sender": "81991328395336@lid",
+        "text": "Uns gosta em",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787861059674
       }
     },
     "120363428464897153@g.us": {
@@ -179779,7 +179791,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787861029670,
+    "120363432018531082@g.us": 1787861059674,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787860657102,
