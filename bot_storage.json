@@ -28,9 +28,9 @@
         "total": 1924
       },
       "81991328395336": {
-        "text": 3737,
+        "text": 3738,
         "media": 1256,
-        "total": 4993
+        "total": 4994
       },
       "179040627490824": {
         "text": 420,
@@ -103,9 +103,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1393,
-        "media": 1057,
-        "total": 2450
+        "text": 1394,
+        "media": 1058,
+        "total": 2452
       },
       "3126803329115": {
         "text": 87,
@@ -1868,9 +1868,9 @@
         "total": 6
       },
       "129158944415753": {
-        "text": 6,
+        "text": 7,
         "media": 2,
-        "total": 8
+        "total": 9
       },
       "276003205152992": {
         "text": 5,
@@ -9072,7 +9072,9 @@
         "massagista tântrico (129158944415753): Estou a disposição",
         "Camila Designer (92629643563147): Sejam todos bem vindos!☺️",
         "Camila Designer (92629643563147): Nos conte mais sobre essa massagem? Quanto tempo está na área?",
-        "massagista tântrico (129158944415753): A 11 anos já"
+        "massagista tântrico (129158944415753): A 11 anos já",
+        "Camila Designer (92629643563147): Que legal! E o seu corpo faz parte da sua profissão?👀",
+        "massagista tântrico (129158944415753): Simm"
       ]
     },
     "120363428464897153@g.us": {
@@ -15233,6 +15235,18 @@
         "authorName": "massagista tântrico",
         "text": "A 11 anos já",
         "timestamp": 1787841225186
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Que legal! E o seu corpo faz parte da sua profissão?👀",
+        "timestamp": 1787841260061
+      },
+      {
+        "authorNum": "129158944415753",
+        "authorName": "massagista tântrico",
+        "text": "Simm",
+        "timestamp": 1787841275676
       }
     ],
     "120363428464897153@g.us": [],
@@ -15257,7 +15271,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19783,
+    "120363432018531082@g.us": 19785,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1466,
@@ -128181,6 +128195,18 @@
         "text": "A 11 anos já",
         "pushName": "massagista tântrico",
         "timestamp": 1787841225186
+      },
+      "2AB98DE27D8FC7F4C76F": {
+        "sender": "92629643563147@lid",
+        "text": "Que legal! E o seu corpo faz parte da sua profissão?👀",
+        "pushName": "Camila Designer",
+        "timestamp": 1787841260063
+      },
+      "A5A0A271CCD60FA12AC37418C57C2310": {
+        "sender": "129158944415753@lid",
+        "text": "Simm",
+        "pushName": "massagista tântrico",
+        "timestamp": 1787841275676
       }
     },
     "120363428464897153@g.us": {
@@ -175854,7 +175880,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787841225186,
+    "120363432018531082@g.us": 1787841278504,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787829200713,
