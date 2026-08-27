@@ -2721,9 +2721,9 @@
         "total": 1
       },
       "92629643563147": {
-        "text": 480,
-        "media": 277,
-        "total": 757
+        "text": 481,
+        "media": 278,
+        "total": 759
       },
       "122552932372575": {
         "text": 0,
@@ -2926,9 +2926,9 @@
         "total": 1
       },
       "266048007835881": {
-        "text": 72,
+        "text": 73,
         "media": 38,
-        "total": 110
+        "total": 111
       },
       "123120354635955": {
         "text": 1,
@@ -12099,8 +12099,6 @@
         "Leandro (+55 (11) 92701-8683): Mais tarde, quando o kbaré abrir, tu se apresenta @66743926038604"
       ],
       "26/08/2026": [
-        "Guilherme souza (241553943601214): Qual vídeo 👀",
-        "Camila Designer (92629643563147): Vocês ficam sem camisa na rua",
         "gigi✨ (60851868446964): Q prr é essa",
         "Celiete Souza (129373172711439): De onde tu é",
         "DANIGXX (136408815665242): Shortinho do pijama antes rsrs",
@@ -12598,7 +12596,9 @@
         "Camila Designer (92629643563147): Apenas agarre oportunidades",
         "negoh🐻 (120044990287992): O tanquinho tá pronto pra lavar a roupa",
         "Neto prime (238233849983072): Agarrar as oportunidades, um avião, ou um Guanabara hahahaha a",
-        "Neto prime (238233849983072): @266048007835881  eu sou fraco demais, vou acabar caindo no teu golpe kkkkk"
+        "Neto prime (238233849983072): @266048007835881  eu sou fraco demais, vou acabar caindo no teu golpe kkkkk",
+        "Camila Designer (92629643563147): Caia no golpe e seja feliz",
+        "🎀  Ň𝐘ηａ🐆 (266048007835881): Golpe eu ? .... O sortudo que me conquistar ele tem que agradecer a Deus todos os dias"
       ]
     },
     "120363409727467494@g.us": {
@@ -14690,18 +14690,6 @@
       {
         "authorNum": "145381035905262",
         "authorName": "Gabriel",
-        "text": "O que tem aver ? \n\nNão entendi não, e quem fala que sou rico é vocês",
-        "timestamp": 1787791756907
-      },
-      {
-        "authorNum": "272048228188398",
-        "authorName": "Lailson Nathan.",
-        "text": "Ele é humano e gosta de se divertir também uai.",
-        "timestamp": 1787791793356
-      },
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
         "text": "O povo cisma com uns negócios que tá doido",
         "timestamp": 1787791826029
       },
@@ -14905,12 +14893,6 @@
       }
     ],
     "120363428464897153@g.us": [
-      {
-        "authorNum": "270377049690114",
-        "authorName": "Vini 👑🏁🙌⚽",
-        "text": "Que isso moreno calma",
-        "timestamp": 1787791818281
-      },
       {
         "authorNum": "120044990287992",
         "authorName": "negoh🐻",
@@ -15582,58 +15564,22 @@
         "authorName": "Neto prime",
         "text": "@266048007835881  eu sou fraco demais, vou acabar caindo no teu golpe kkkkk",
         "timestamp": 1787793590015
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Caia no golpe e seja feliz",
+        "timestamp": 1787793605819
+      },
+      {
+        "authorNum": "266048007835881",
+        "authorName": "🎀  Ň𝐘ηａ🐆",
+        "text": "Golpe eu ? .... O sortudo que me conquistar ele tem que agradecer a Deus todos os dias",
+        "timestamp": 1787793621248
       }
     ],
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "!ajuda",
-        "timestamp": 1787791528757
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "!ajuda",
-        "timestamp": 1787791617428
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "!status",
-        "timestamp": 1787791655049
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Pronto, todos os comandos estão aí",
-        "timestamp": 1787791713403
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Inclusive os de música",
-        "timestamp": 1787791717282
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Mas estou mexendo no bot, provavelmente alguns comandos vou tirar para vir comandos novos",
-        "timestamp": 1787791740193
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "O correio anônimo vai ser integrado ao bot",
-        "timestamp": 1787791754098
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Assim vamos saber de onde está vindo as mensagens",
-        "timestamp": 1787791763904
-      },
       {
         "authorNum": "5511927018683",
         "authorName": "Leandro",
@@ -15797,7 +15743,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 19557,
-    "120363428464897153@g.us": 5579,
+    "120363428464897153@g.us": 5581,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1422,
     "120363411233423709@g.us": 5,
@@ -160080,6 +160026,18 @@
         "text": "@266048007835881  eu sou fraco demais, vou acabar caindo no teu golpe kkkkk",
         "pushName": "Neto prime",
         "timestamp": 1787793590015
+      },
+      "2A03D28E7CA0A544C179": {
+        "sender": "92629643563147@lid",
+        "text": "Caia no golpe e seja feliz",
+        "pushName": "Camila Designer",
+        "timestamp": 1787793605819
+      },
+      "ACE7838DE18C42A9DA88905E5F8B550E": {
+        "sender": "266048007835881@lid",
+        "text": "Golpe eu ? .... O sortudo que me conquistar ele tem que agradecer a Deus todos os dias",
+        "pushName": "🎀  Ň𝐘ηａ🐆",
+        "timestamp": 1787793621249
       }
     },
     "120363409727467494@g.us": {
@@ -171981,7 +171939,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787793525306,
-    "120363428464897153@g.us": 1787793590015,
+    "120363428464897153@g.us": 1787793621248,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787793125283,
     "120363411233423709@g.us": 1787113553426,
