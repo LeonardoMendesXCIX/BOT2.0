@@ -241,9 +241,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2181,
+        "text": 2182,
         "media": 286,
-        "total": 2467
+        "total": 2468
       },
       "252922705240205": {
         "text": 80,
@@ -2626,9 +2626,9 @@
         "total": 68
       },
       "172868239380659": {
-        "text": 73,
+        "text": 74,
         "media": 12,
-        "total": 85
+        "total": 86
       },
       "170455038193841": {
         "text": 1,
@@ -9154,8 +9154,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Rafael Moura (57707230945348): Mas pensei errado",
-        "Rafael Moura (57707230945348): 🤣",
         "Lailson Nathan. (272048228188398): O filhote de urubu aí...",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Gente do céu... Nunca nem falei com o cara e vem querer se meter comigo por macho",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Logo eu",
@@ -9653,7 +9651,9 @@
         "Juliano Perlin (222595437858867): Kkkk",
         "Pedro Henrique (172868239380659): Sim",
         "Caroline (118395236282617): Kkkkkkkkkkk",
-        "Souza (190864487919667): Pois desache"
+        "Souza (190864487919667): Pois desache",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): @222595437858867",
+        "Pedro Henrique (172868239380659): Pensei que era sério F"
       ]
     },
     "120363428464897153@g.us": {
@@ -15922,30 +15922,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Ala",
-        "timestamp": 1787873193982
-      },
-      {
-        "authorNum": "262182034002040",
-        "authorName": "Dany",
-        "text": "Ala ele",
-        "timestamp": 1787873199521
-      },
-      {
-        "authorNum": "262182034002040",
-        "authorName": "Dany",
-        "text": "Começou",
-        "timestamp": 1787873203043
-      },
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Acabamos de entregar pra um cliente hoje! \n\nQue energia, que casa, quis compartilhar com vocês também",
-        "timestamp": 1787873206923
-      },
-      {
         "authorNum": "262182034002040",
         "authorName": "Dany",
         "text": "Bela casa!",
@@ -16562,6 +16538,18 @@
         "authorName": "Souza",
         "text": "Pois desache",
         "timestamp": 1787874992823
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "@222595437858867",
+        "timestamp": 1787875020430
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Pensei que era sério F",
+        "timestamp": 1787875026990
       }
     ],
     "120363428464897153@g.us": [],
@@ -16719,7 +16707,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20897,
+    "120363432018531082@g.us": 20899,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1673,
@@ -136254,6 +136242,18 @@
         "text": "Pois desache",
         "pushName": "Souza",
         "timestamp": 1787874992824
+      },
+      "AC7E18BFAD0C6F70AFA9AFFB8B04FC99": {
+        "sender": "53537388122141@lid",
+        "text": "@222595437858867",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787875020431
+      },
+      "ACDD882EF4B123E469E5D5C8F474AF68": {
+        "sender": "172868239380659@lid",
+        "text": "Pensei que era sério F",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787875026990
       }
     },
     "120363428464897153@g.us": {
@@ -185183,7 +185183,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787874992823,
+    "120363432018531082@g.us": 1787875026990,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787874989315,
