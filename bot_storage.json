@@ -136,14 +136,14 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1517,
+        "text": 1518,
         "media": 424,
-        "total": 1941
+        "total": 1942
       },
       "81991328395336": {
-        "text": 3861,
+        "text": 3862,
         "media": 1305,
-        "total": 5166
+        "total": 5167
       },
       "179040627490824": {
         "text": 433,
@@ -241,9 +241,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2182,
-        "media": 286,
-        "total": 2468
+        "text": 2183,
+        "media": 287,
+        "total": 2470
       },
       "252922705240205": {
         "text": 80,
@@ -346,9 +346,9 @@
         "total": 479
       },
       "222595437858867": {
-        "text": 495,
+        "text": 496,
         "media": 53,
-        "total": 548
+        "total": 549
       },
       "83280154103884": {
         "text": 36,
@@ -2627,8 +2627,8 @@
       },
       "172868239380659": {
         "text": 74,
-        "media": 12,
-        "total": 86
+        "media": 13,
+        "total": 87
       },
       "170455038193841": {
         "text": 1,
@@ -9154,11 +9154,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Lailson Nathan. (272048228188398): O filhote de urubu aí...",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Gente do céu... Nunca nem falei com o cara e vem querer se meter comigo por macho",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Logo eu",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Comigo tem essa não",
-        "Pedro Henrique (172868239380659): O mais engraçado é que são DDD diferente brigando",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Deixo pra morta de fome",
         "Pedro Henrique (172868239380659): O cara tbm é de Brasília?",
         "Pedro Henrique (172868239380659): Pq pelo DDD ela é de Brasília",
@@ -9653,7 +9648,12 @@
         "Caroline (118395236282617): Kkkkkkkkkkk",
         "Souza (190864487919667): Pois desache",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): @222595437858867",
-        "Pedro Henrique (172868239380659): Pensei que era sério F"
+        "Pedro Henrique (172868239380659): Pensei que era sério F",
+        "Celiete Souza (129373172711439): Adoro ela",
+        "Juliano Perlin (222595437858867): Bem vinda",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Parece um pouco com a Sabrina ou tô enxergando demais",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Cês não viram nada. Cês nem viram no RH\n@81991328395336",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Amiga????"
       ]
     },
     "120363428464897153@g.us": {
@@ -15922,12 +15922,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "262182034002040",
-        "authorName": "Dany",
-        "text": "Bela casa!",
-        "timestamp": 1787873240281
-      },
-      {
         "authorNum": "145381035905262",
         "authorName": "Gabriel",
         "text": "Eu falei, que era bonito",
@@ -16550,6 +16544,36 @@
         "authorName": "Pedro Henrique",
         "text": "Pensei que era sério F",
         "timestamp": 1787875026990
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Adoro ela",
+        "timestamp": 1787875050621
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Bem vinda",
+        "timestamp": 1787875053027
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Parece um pouco com a Sabrina ou tô enxergando demais",
+        "timestamp": 1787875059551
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Cês não viram nada. Cês nem viram no RH\n@81991328395336",
+        "timestamp": 1787875068232
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Amiga????",
+        "timestamp": 1787875078542
       }
     ],
     "120363428464897153@g.us": [],
@@ -16707,7 +16731,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20899,
+    "120363432018531082@g.us": 20904,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1673,
@@ -136254,6 +136278,36 @@
         "text": "Pensei que era sério F",
         "pushName": "Pedro Henrique",
         "timestamp": 1787875026990
+      },
+      "AC407C5C58079B7725D079563BC79625": {
+        "sender": "129373172711439@lid",
+        "text": "Adoro ela",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787875050621
+      },
+      "ACB772DE0050329CB343B72AA4879F42": {
+        "sender": "222595437858867@lid",
+        "text": "Bem vinda",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1787875053027
+      },
+      "ACDD16F66A58B4ABEA0CF3F54F850147": {
+        "sender": "81991328395336@lid",
+        "text": "Parece um pouco com a Sabrina ou tô enxergando demais",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787875059552
+      },
+      "AC7754D51955601E02FC7D745FE6DB42": {
+        "sender": "53537388122141@lid",
+        "text": "Cês não viram nada. Cês nem viram no RH\n@81991328395336",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787875068232
+      },
+      "ACEDA334AE396FEDB52FFF7E37C7D602": {
+        "sender": "53537388122141@lid",
+        "text": "Amiga????",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787875078542
       }
     },
     "120363428464897153@g.us": {
@@ -185183,7 +185237,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787875026990,
+    "120363432018531082@g.us": 1787875078542,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787874989315,
