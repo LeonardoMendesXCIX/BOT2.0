@@ -3144,9 +3144,9 @@
     },
     "120363412288900422@g.us": {
       "81991328395336": {
-        "text": 375,
+        "text": 376,
         "media": 107,
-        "total": 482
+        "total": 483
       },
       "5511927018683": {
         "text": 435,
@@ -3159,9 +3159,9 @@
         "total": 439
       },
       "53537388122141": {
-        "text": 561,
-        "media": 40,
-        "total": 601
+        "text": 562,
+        "media": 41,
+        "total": 603
       },
       "120363412288900422": {
         "text": 1,
@@ -15126,7 +15126,9 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Almojanta",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): 🫡",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Depende do horário",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Lá vem eu"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Lá vem eu",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): O rapaz que reclamou da apresentação,ele se apresentou ou saiu?",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Não se apresentou e eu removi"
       ]
     },
     "120363411233423709@g.us": {
@@ -15588,24 +15590,6 @@
   },
   "memoryCluster": {
     "120363432018531082@g.us": [
-      {
-        "authorNum": "266048007835881",
-        "authorName": "🎀  Ň𝐘ηａ🐆",
-        "text": "@238233849983072 arrocha ai",
-        "timestamp": 1787859566477
-      },
-      {
-        "authorNum": "266048007835881",
-        "authorName": "🎀  Ň𝐘ηａ🐆",
-        "text": "Nao tenho tempo pra competição não",
-        "timestamp": 1787859580684
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Fixar",
-        "timestamp": 1787859588280
-      },
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
@@ -16173,6 +16157,18 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Lá vem eu",
         "timestamp": 1787861375293
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "O rapaz que reclamou da apresentação,ele se apresentou ou saiu?",
+        "timestamp": 1787861398266
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Não se apresentou e eu removi",
+        "timestamp": 1787861411253
       }
     ],
     "120363411233423709@g.us": [],
@@ -16203,7 +16199,7 @@
     "120363432018531082@g.us": 20273,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1507,
+    "120363412288900422@g.us": 1509,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 20,
@@ -177401,6 +177397,18 @@
         "text": "Lá vem eu",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787861375293
+      },
+      "ACBA69B0632816F88180CD797AD30462": {
+        "sender": "81991328395336@lid",
+        "text": "O rapaz que reclamou da apresentação,ele se apresentou ou saiu?",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787861398266
+      },
+      "ACC3266DF075611BA6ABD3ECBFB628E2": {
+        "sender": "53537388122141@lid",
+        "text": "Não se apresentou e eu removi",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787861411253
       }
     },
     "120363411233423709@g.us": {
@@ -179945,7 +179953,7 @@
     "120363432018531082@g.us": 1787861377503,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787861375293,
+    "120363412288900422@g.us": 1787861413999,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
