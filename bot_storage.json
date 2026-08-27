@@ -241,9 +241,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2169,
-        "media": 283,
-        "total": 2452
+        "text": 2170,
+        "media": 284,
+        "total": 2454
       },
       "252922705240205": {
         "text": 80,
@@ -2186,9 +2186,9 @@
         "total": 91
       },
       "155503636275307": {
-        "text": 64,
+        "text": 65,
         "media": 25,
-        "total": 89
+        "total": 90
       },
       "67035866357875": {
         "text": 84,
@@ -9154,8 +9154,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Pedro Henrique (172868239380659): Não ouse",
-        "🙃🙃🙃 (11171897864256): Cansado , suporta aquele povo no bar",
         "Pedro Henrique (172868239380659): Eu pensei, eu pensamos..",
         "🙃🙃🙃 (11171897864256): E um restaurante e tem o barzinho",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Uai, bebe que passa",
@@ -9653,7 +9651,9 @@
         "Juliano Perlin (222595437858867): To vendo que vou pra SC e nao vou voltar mais😍",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Por pouco não toma ban",
         "Gabriel (145381035905262): Muito papo meu, vai lá, pegue seu rumo, ela te espera",
-        "Clayton 🇳🇬 (155503636275307): De sorte então gatona"
+        "Clayton 🇳🇬 (155503636275307): De sorte então gatona",
+        "Clayton 🇳🇬 (155503636275307): Como foi seu dia Sabrina",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tranquilinho e o seu? Como foi?"
       ]
     },
     "120363428464897153@g.us": {
@@ -15914,12 +15914,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "262182034002040",
-        "authorName": "Dany",
-        "text": "Pois é, rapaz, se havia dúvidas sobre o quanto amo ouvi-la e a admiro, agora não há mais né? Hahahahha",
-        "timestamp": 1787872235280
-      },
-      {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
         "text": "Que a sua batata está assando 🤣🤣🤣",
@@ -16284,6 +16278,18 @@
         "authorName": "Clayton 🇳🇬",
         "text": "De sorte então gatona",
         "timestamp": 1787873915165
+      },
+      {
+        "authorNum": "155503636275307",
+        "authorName": "Clayton 🇳🇬",
+        "text": "Como foi seu dia Sabrina",
+        "timestamp": 1787874031352
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Tranquilinho e o seu? Como foi?",
+        "timestamp": 1787874043184
       }
     ],
     "120363428464897153@g.us": [],
@@ -16399,7 +16405,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20840,
+    "120363432018531082@g.us": 20842,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1665,
@@ -135592,6 +135598,18 @@
         "text": "De sorte então gatona",
         "pushName": "Clayton 🇳🇬",
         "timestamp": 1787873915165
+      },
+      "AC311ABA055A12ACBD67D7323FC21388": {
+        "sender": "155503636275307@lid",
+        "text": "Como foi seu dia Sabrina",
+        "pushName": "Clayton 🇳🇬",
+        "timestamp": 1787874031352
+      },
+      "AC0EB125FA5EB3E1D59B026082BF105D": {
+        "sender": "53537388122141@lid",
+        "text": "Tranquilinho e o seu? Como foi?",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787874043184
       }
     },
     "120363428464897153@g.us": {
@@ -184473,7 +184491,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787873975923,
+    "120363432018531082@g.us": 1787874043184,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787873916387,
