@@ -2516,9 +2516,9 @@
         "total": 78
       },
       "81991328395336": {
-        "text": 546,
-        "media": 153,
-        "total": 699
+        "text": 547,
+        "media": 154,
+        "total": 701
       },
       "99338701258949": {
         "text": 499,
@@ -2586,9 +2586,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 363,
+        "text": 365,
         "media": 68,
-        "total": 431
+        "total": 433
       },
       "120363428464897153": {
         "text": 11,
@@ -2927,8 +2927,8 @@
       },
       "266048007835881": {
         "text": 153,
-        "media": 66,
-        "total": 219
+        "media": 67,
+        "total": 220
       },
       "123120354635955": {
         "text": 1,
@@ -3001,9 +3001,9 @@
         "total": 15
       },
       "120044990287992": {
-        "text": 156,
+        "text": 157,
         "media": 7,
-        "total": 163
+        "total": 164
       },
       "71120413843690": {
         "text": 2,
@@ -12124,10 +12124,6 @@
         "Leandro (+55 (11) 92701-8683): Mais tarde, quando o kbaré abrir, tu se apresenta @66743926038604"
       ],
       "26/08/2026": [
-        "Leandro (+55 (11) 92701-8683): Relaxa, é mensagem atrasada",
-        "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Que susto",
-        "Leandro (+55 (11) 92701-8683): Ele deu um bugzin",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Óia eleeeee",
         "Camila Designer (92629643563147): Ficaria melhor sem camisa 😏😏😏",
         "Celiete Souza (129373172711439): Boa noite",
         "Celiete Souza (129373172711439): Gente",
@@ -12623,7 +12619,11 @@
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Tão falando aí kkk",
         "Celiete Souza (129373172711439): Aiai",
         "Neto prime (238233849983072): Meu privado tá liberado se quiser    Formalizar viu kkkkkkkkkk",
-        "Celiete Souza (129373172711439): Eu tenho usado quando estou cansada"
+        "Celiete Souza (129373172711439): Eu tenho usado quando estou cansada",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Domaram a onça?",
+        "Leandro (+55 (11) 92701-8683): Mentiraa",
+        "Leandro (+55 (11) 92701-8683): Quem foi o kbra valente?",
+        "negoh🐻 (120044990287992): Tô caindo de sono"
       ]
     },
     "120363409727467494@g.us": {
@@ -14833,18 +14833,6 @@
     ],
     "120363428464897153@g.us": [
       {
-        "authorNum": "238233849983072",
-        "authorName": "Neto prime",
-        "text": "Aqui é assim kkkkkk",
-        "timestamp": 1787797097253
-      },
-      {
-        "authorNum": "238233849983072",
-        "authorName": "Neto prime",
-        "text": "Ela não brinca em serviço kkkk",
-        "timestamp": 1787797134224
-      },
-      {
         "authorNum": "266048007835881",
         "authorName": "🎀  Ň𝐘ηａ🐆",
         "text": "Tô achando que essa menina é minha filha kkkkk",
@@ -15143,6 +15131,30 @@
         "authorName": "Celiete Souza",
         "text": "Eu tenho usado quando estou cansada",
         "timestamp": 1787798861005
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Domaram a onça?",
+        "timestamp": 1787798926431
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Mentiraa",
+        "timestamp": 1787798947777
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Quem foi o kbra valente?",
+        "timestamp": 1787798959823
+      },
+      {
+        "authorNum": "120044990287992",
+        "authorName": "negoh🐻",
+        "text": "Tô caindo de sono",
+        "timestamp": 1787798962469
       }
     ],
     "120363409727467494@g.us": [],
@@ -15172,7 +15184,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 19609,
-    "120363428464897153@g.us": 5841,
+    "120363428464897153@g.us": 5845,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1433,
     "120363411233423709@g.us": 5,
@@ -161290,6 +161302,30 @@
         "text": "Eu tenho usado quando estou cansada",
         "pushName": "Celiete Souza",
         "timestamp": 1787798861005
+      },
+      "AC705C83D47DF36F29E4DC641B735AA2": {
+        "sender": "81991328395336@lid",
+        "text": "Domaram a onça?",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787798926432
+      },
+      "A5C4E0D3D120900961128F1FF8353A46": {
+        "sender": "54259127210155@lid",
+        "text": "Mentiraa",
+        "pushName": "Leandro",
+        "timestamp": 1787798947777
+      },
+      "A5FA8207A245CCC42F4D84489B7F79B2": {
+        "sender": "54259127210155@lid",
+        "text": "Quem foi o kbra valente?",
+        "pushName": "Leandro",
+        "timestamp": 1787798959823
+      },
+      "AC3C759CD2CC94287984E02367D31B8E": {
+        "sender": "120044990287992@lid",
+        "text": "Tô caindo de sono",
+        "pushName": "negoh🐻",
+        "timestamp": 1787798962469
       }
     },
     "120363409727467494@g.us": {
@@ -173287,7 +173323,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787798461001,
-    "120363428464897153@g.us": 1787798914536,
+    "120363428464897153@g.us": 1787798962469,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787797187001,
     "120363411233423709@g.us": 1787113553426,
