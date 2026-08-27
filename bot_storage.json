@@ -128,9 +128,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2021,
+        "text": 2022,
         "media": 267,
-        "total": 2288
+        "total": 2289
       },
       "252922705240205": {
         "text": 80,
@@ -2474,8 +2474,8 @@
       },
       "238233849983072": {
         "text": 31,
-        "media": 2,
-        "total": 33
+        "media": 3,
+        "total": 34
       },
       "75797868064796": {
         "text": 4,
@@ -8986,8 +8986,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Bruno Aguiar (+1395881181241): Bom dia",
-        "Baby (179040627490824): Toma remédio e N tá fazendo mais efeito",
         "Baby (179040627490824): Bom",
         "Paulo (175655757050100): Bommmm diaaaa 🙏",
         "gigi✨ (60851868446964): Bom dia gente",
@@ -9485,7 +9483,9 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Jamais!!!",
         "Camila Designer (92629643563147): @266048007835881 corre aqui",
         "Camila Designer (92629643563147): @53537388122141 está apaixonada igual você",
-        "Bruno Aguiar (+1395881181241): Hj aqui no sul ta bom pra uma gelada quase 30 graus🥵🥵🍻🍻"
+        "Bruno Aguiar (+1395881181241): Hj aqui no sul ta bom pra uma gelada quase 30 graus🥵🥵🍻🍻",
+        "Neto prime (238233849983072): Quintou, quase sextou ! Kkkkkk",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tu é de onde? Sou de Floripa, SC"
       ]
     },
     "120363428464897153@g.us": {
@@ -15568,18 +15568,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Oioioi",
-        "timestamp": 1787857339251
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Se apresentou Murillo?",
-        "timestamp": 1787857358784
-      },
-      {
         "authorNum": "238233849983072",
         "authorName": "Neto prime",
         "text": "Sim sim pequena distribuidora kkkkk",
@@ -16112,6 +16100,18 @@
         "authorName": "Bruno Aguiar",
         "text": "Hj aqui no sul ta bom pra uma gelada quase 30 graus🥵🥵🍻🍻",
         "timestamp": 1787859134197
+      },
+      {
+        "authorNum": "238233849983072",
+        "authorName": "Neto prime",
+        "text": "Quintou, quase sextou ! Kkkkkk",
+        "timestamp": 1787859143265
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Tu é de onde? Sou de Floripa, SC",
+        "timestamp": 1787859161001
       }
     ],
     "120363428464897153@g.us": [],
@@ -16208,7 +16208,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20172,
+    "120363432018531082@g.us": 20174,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1493,
@@ -131444,6 +131444,18 @@
         "text": "Hj aqui no sul ta bom pra uma gelada quase 30 graus🥵🥵🍻🍻",
         "pushName": "Bruno Aguiar",
         "timestamp": 1787859134197
+      },
+      "2A000B8ABCB781DF41B3": {
+        "sender": "238233849983072@lid",
+        "text": "Quintou, quase sextou ! Kkkkkk",
+        "pushName": "Neto prime",
+        "timestamp": 1787859143265
+      },
+      "ACDD29EDC0C138C720DCD43CD2B92F4E": {
+        "sender": "53537388122141@lid",
+        "text": "Tu é de onde? Sou de Floripa, SC",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787859161002
       }
     },
     "120363428464897153@g.us": {
@@ -179273,7 +179285,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787859134197,
+    "120363432018531082@g.us": 1787859161001,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787859082635,
