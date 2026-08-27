@@ -28,9 +28,9 @@
         "total": 1934
       },
       "81991328395336": {
-        "text": 3768,
-        "media": 1264,
-        "total": 5032
+        "text": 3771,
+        "media": 1265,
+        "total": 5036
       },
       "179040627490824": {
         "text": 428,
@@ -103,9 +103,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1429,
+        "text": 1431,
         "media": 1077,
-        "total": 2506
+        "total": 2508
       },
       "3126803329115": {
         "text": 87,
@@ -254,8 +254,8 @@
       },
       "60851868446964": {
         "text": 1238,
-        "media": 1435,
-        "total": 2673
+        "media": 1436,
+        "total": 2674
       },
       "270377049690114": {
         "text": 36,
@@ -9278,7 +9278,10 @@
         "Camila Designer (92629643563147): Jesus",
         "Souza (190864487919667): 70% de chances de chuva",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Cadê a vela?",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Óia quem tá aqui\nBem vindo, moço"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Óia quem tá aqui\nBem vindo, moço",
+        "Camila Designer (92629643563147): 🤣🤣🤣🤣",
+        "Camila Designer (92629643563147): Esse vê até as semanas",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): O massagista saiu"
       ]
     },
     "120363428464897153@g.us": {
@@ -15346,36 +15349,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Se o brinde for você eu pego um jatinho agora 😏😏😏",
-        "timestamp": 1787844997399
-      },
-      {
-        "authorNum": "129158944415753",
-        "authorName": "massagista tântrico",
-        "text": "Venha então bb",
-        "timestamp": 1787845013381
-      },
-      {
-        "authorNum": "129158944415753",
-        "authorName": "massagista tântrico",
-        "text": "Não irá se arrepender",
-        "timestamp": 1787845018140
-      },
-      {
-        "authorNum": "129158944415753",
-        "authorName": "massagista tântrico",
-        "text": "Ficará satisfeita",
-        "timestamp": 1787845025102
-      },
-      {
-        "authorNum": "129158944415753",
-        "authorName": "massagista tântrico",
-        "text": "E pedirá mais",
-        "timestamp": 1787845031820
-      },
-      {
         "authorNum": "129158944415753",
         "authorName": "massagista tântrico",
         "text": "Seria um imenso prazer ter você como cliente",
@@ -16040,6 +16013,24 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Óia quem tá aqui\nBem vindo, moço",
         "timestamp": 1787846797148
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "🤣🤣🤣🤣",
+        "timestamp": 1787846831899
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Esse vê até as semanas",
+        "timestamp": 1787846851826
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "O massagista saiu",
+        "timestamp": 1787846857027
       }
     ],
     "120363428464897153@g.us": [],
@@ -16057,7 +16048,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19949,
+    "120363432018531082@g.us": 19952,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -129965,6 +129956,24 @@
         "text": "Óia quem tá aqui\nBem vindo, moço",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787846797148
+      },
+      "2AB6FDE7EA71324B1447": {
+        "sender": "92629643563147@lid",
+        "text": "🤣🤣🤣🤣",
+        "pushName": "Camila Designer",
+        "timestamp": 1787846831901
+      },
+      "2AF0AD5442E8D7473486": {
+        "sender": "92629643563147@lid",
+        "text": "Esse vê até as semanas",
+        "pushName": "Camila Designer",
+        "timestamp": 1787846851826
+      },
+      "AC73E0F4FFE0429C0A9D6429AAF6F127": {
+        "sender": "81991328395336@lid",
+        "text": "O massagista saiu",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787846857027
       }
     },
     "120363428464897153@g.us": {
@@ -177716,7 +177725,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787846805886,
+    "120363432018531082@g.us": 1787846864391,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
