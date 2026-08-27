@@ -2626,9 +2626,9 @@
         "total": 47
       },
       "172868239380659": {
-        "text": 46,
+        "text": 47,
         "media": 10,
-        "total": 56
+        "total": 57
       },
       "170455038193841": {
         "text": 1,
@@ -2647,8 +2647,8 @@
       },
       "205621945192508": {
         "text": 16,
-        "media": 5,
-        "total": 21
+        "media": 6,
+        "total": 22
       },
       "208958782488665": {
         "text": 6,
@@ -3312,9 +3312,9 @@
         "total": 456
       },
       "53537388122141": {
-        "text": 597,
+        "text": 598,
         "media": 47,
-        "total": 644
+        "total": 645
       },
       "120363412288900422": {
         "text": 1,
@@ -9149,7 +9149,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "'   MƲRIԼԼƠ  🥶 (111506477846600): 🤣 🤣",
         "'   MƲRIԼԼƠ  🥶 (111506477846600): De tu",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Pois é bom lembrar",
         "Souza (190864487919667): 👀",
@@ -9648,7 +9647,8 @@
         "Souza (190864487919667): Vai ficar é queimada de tanto sol",
         "Caroline (118395236282617): ahhh eu amo",
         "Caroline (118395236282617): Ar condicionado",
-        "Souza (190864487919667): Sei nem o que é isso"
+        "Souza (190864487919667): Sei nem o que é isso",
+        "Pedro Henrique (172868239380659): Mano, pelo DDD ela é RJ kko no caso, ela vai é sentir frio aqui kkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -15337,7 +15337,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Adora",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): O que aconteceu Lay?",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Ela quer testa meu réu primário",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Tu fala com a Tainá?"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Tu fala com a Tainá?",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Não, não falo. Nem o número dela eu tenho kkkk"
       ]
     },
     "120363411233423709@g.us": {
@@ -15803,18 +15804,6 @@
   },
   "memoryCluster": {
     "120363432018531082@g.us": [
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Tu para que quase fui de arrasta",
-        "timestamp": 1787867307135
-      },
-      {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Ahhhh poxa",
-        "timestamp": 1787867317359
-      },
       {
         "authorNum": "57707230945348",
         "authorName": "Rafael Moura",
@@ -16378,6 +16367,12 @@
         "authorName": "Souza",
         "text": "Sei nem o que é isso",
         "timestamp": 1787869087220
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Mano, pelo DDD ela é RJ kko no caso, ela vai é sentir frio aqui kkk",
+        "timestamp": 1787869119471
       }
     ],
     "120363428464897153@g.us": [],
@@ -16484,6 +16479,12 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Tu fala com a Tainá?",
         "timestamp": 1787869085604
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Não, não falo. Nem o número dela eu tenho kkkk",
+        "timestamp": 1787869124224
       }
     ],
     "120363411233423709@g.us": [],
@@ -16506,10 +16507,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20645,
+    "120363432018531082@g.us": 20646,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1560,
+    "120363412288900422@g.us": 1561,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -134541,6 +134542,12 @@
         "text": "Sei nem o que é isso",
         "pushName": "Souza",
         "timestamp": 1787869087220
+      },
+      "AC83A2080FB87A3450E73170C8C31795": {
+        "sender": "172868239380659@lid",
+        "text": "Mano, pelo DDD ela é RJ kko no caso, ela vai é sentir frio aqui kkk",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787869119471
       }
     },
     "120363428464897153@g.us": {
@@ -180237,6 +180244,12 @@
         "text": "Tu fala com a Tainá?",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787869085604
+      },
+      "AC95795D4E2E7F41C2FE772DDF1E14FE": {
+        "sender": "53537388122141@lid",
+        "text": "Não, não falo. Nem o número dela eu tenho kkkk",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787869124224
       }
     },
     "120363411233423709@g.us": {
@@ -182792,10 +182805,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787869087220,
+    "120363432018531082@g.us": 1787869122584,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787869085604,
+    "120363412288900422@g.us": 1787869124224,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
