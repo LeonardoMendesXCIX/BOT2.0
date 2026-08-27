@@ -128,9 +128,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 1999,
+        "text": 2001,
         "media": 261,
-        "total": 2260
+        "total": 2262
       },
       "252922705240205": {
         "text": 80,
@@ -2498,9 +2498,9 @@
         "total": 3
       },
       "111506477846600": {
-        "text": 8,
-        "media": 2,
-        "total": 10
+        "text": 10,
+        "media": 3,
+        "total": 13
       },
       "253691454091366": {
         "text": 2,
@@ -8986,7 +8986,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Leandro (+55 (11) 92701-8683): Tá vendo? Uma troca justa, você faz outros tipos de comida e eu a japonesa 😌",
         "Leandro (+55 (11) 92701-8683): E eu pensando que ela já tinha ido dormes",
         "Leandro (+55 (11) 92701-8683): 👁️👁️",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Eu?",
@@ -9482,7 +9481,11 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Pensei que era o Rafael Moura q tinha saído e entrado de novo \nMas é Rafael Moreira",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Detalhe: RJ também",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Bem vindo",
-        "Rafael Moreira (253691454091366): Preguiça"
+        "Rafael Moreira (253691454091366): Preguiça",
+        "'   MƲRIԼԼƠ  🥶 (111506477846600): Obrigado",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Uai, precisa se apresentar, moço",
+        "'   MƲRIԼԼƠ  🥶 (111506477846600): Ngm me conhece não, tão confundindo",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindo"
       ]
     },
     "120363428464897153@g.us": {
@@ -16038,6 +16041,30 @@
         "authorName": "Rafael Moreira",
         "text": "Preguiça",
         "timestamp": 1787857874071
+      },
+      {
+        "authorNum": "111506477846600",
+        "authorName": "'   MƲRIԼԼƠ  🥶",
+        "text": "Obrigado",
+        "timestamp": 1787857881952
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Uai, precisa se apresentar, moço",
+        "timestamp": 1787857887011
+      },
+      {
+        "authorNum": "111506477846600",
+        "authorName": "'   MƲRIԼԼƠ  🥶",
+        "text": "Ngm me conhece não, tão confundindo",
+        "timestamp": 1787857901248
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Bem vindo",
+        "timestamp": 1787857902645
       }
     ],
     "120363428464897153@g.us": [],
@@ -16081,7 +16108,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20108,
+    "120363432018531082@g.us": 20112,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1482,
@@ -130932,6 +130959,30 @@
         "text": "Preguiça",
         "pushName": "Rafael Moreira",
         "timestamp": 1787857874071
+      },
+      "AC35C9C250649B8AE37730CCFB5C1F4B": {
+        "sender": "111506477846600@lid",
+        "text": "Obrigado",
+        "pushName": "'   MƲRIԼԼƠ  🥶",
+        "timestamp": 1787857881952
+      },
+      "AC42947C1C673BE2F934F5ED8B1A2393": {
+        "sender": "53537388122141@lid",
+        "text": "Uai, precisa se apresentar, moço",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787857887011
+      },
+      "ACD82882EBC0638C50CC6086FDCB4AB2": {
+        "sender": "111506477846600@lid",
+        "text": "Ngm me conhece não, tão confundindo",
+        "pushName": "'   MƲRIԼԼƠ  🥶",
+        "timestamp": 1787857901248
+      },
+      "AC24AA3580CC14E8AC9FE726F251E570": {
+        "sender": "53537388122141@lid",
+        "text": "Bem vindo",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787857902645
       }
     },
     "120363428464897153@g.us": {
@@ -178707,7 +178758,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787857877069,
+    "120363432018531082@g.us": 1787857903358,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787857771747,
