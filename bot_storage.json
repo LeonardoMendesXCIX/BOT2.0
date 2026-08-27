@@ -2473,14 +2473,14 @@
         "total": 1
       },
       "238233849983072": {
-        "text": 12,
+        "text": 14,
         "media": 0,
-        "total": 12
+        "total": 14
       },
       "75797868064796": {
-        "text": 1,
+        "text": 2,
         "media": 2,
-        "total": 3
+        "total": 4
       },
       "153764728184839": {
         "text": 0,
@@ -2488,9 +2488,9 @@
         "total": 1
       },
       "188845719089205": {
-        "text": 9,
+        "text": 10,
         "media": 0,
-        "total": 9
+        "total": 10
       }
     },
     "120363428464897153@g.us": {
@@ -9395,7 +9395,10 @@
         "Neto prime (238233849983072): Heineken 22 reais kkkkk",
         "Camila Viana (188845719089205): Isso aí 🙃",
         "Neto prime (238233849983072): Long neck",
-        "Neto prime (238233849983072): Kkkkkkk"
+        "Neto prime (238233849983072): Kkkkkkk",
+        "Camila Viana (188845719089205): Realmente, na maioria dos bares acima da média o valor é esse ae",
+        "Alexandre Bastos (75797868064796): Lá e caro",
+        "Neto prime (238233849983072): Demais kkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -15636,6 +15639,24 @@
         "authorName": "Neto prime",
         "text": "Kkkkkkk",
         "timestamp": 1787856285759
+      },
+      {
+        "authorNum": "188845719089205",
+        "authorName": "Camila Viana",
+        "text": "Realmente, na maioria dos bares acima da média o valor é esse ae",
+        "timestamp": 1787856299681
+      },
+      {
+        "authorNum": "75797868064796",
+        "authorName": "Alexandre Bastos",
+        "text": "Lá e caro",
+        "timestamp": 1787856303118
+      },
+      {
+        "authorNum": "238233849983072",
+        "authorName": "Neto prime",
+        "text": "Demais kkk",
+        "timestamp": 1787856312659
       }
     ],
     "120363428464897153@g.us": [],
@@ -15660,7 +15681,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20036,
+    "120363432018531082@g.us": 20039,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -130091,6 +130112,24 @@
         "text": "Kkkkkkk",
         "pushName": "Neto prime",
         "timestamp": 1787856285759
+      },
+      "A5DA6C06F0973C2F2BE17DA8111B84D1": {
+        "sender": "188845719089205@lid",
+        "text": "Realmente, na maioria dos bares acima da média o valor é esse ae",
+        "pushName": "Camila Viana",
+        "timestamp": 1787856299681
+      },
+      "ACAE5A54A77D8A7C19781C9960BC99FF": {
+        "sender": "75797868064796@lid",
+        "text": "Lá e caro",
+        "pushName": "Alexandre Bastos",
+        "timestamp": 1787856303118
+      },
+      "2AF385697163784555DB": {
+        "sender": "238233849983072@lid",
+        "text": "Demais kkk",
+        "pushName": "Neto prime",
+        "timestamp": 1787856312659
       }
     },
     "120363428464897153@g.us": {
@@ -177848,7 +177887,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787856286549,
+    "120363432018531082@g.us": 1787856312659,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
