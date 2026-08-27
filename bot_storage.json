@@ -3522,14 +3522,14 @@
     },
     "120363409024805409@g.us": {
       "179040627490824": {
-        "text": 3,
+        "text": 4,
         "media": 3,
-        "total": 6
+        "total": 7
       },
       "5511927018683": {
-        "text": 7,
+        "text": 10,
         "media": 2,
-        "total": 9
+        "total": 12
       },
       "30486281900223": {
         "text": 1,
@@ -14948,7 +14948,9 @@
         "th (30486281900223): alguma novinha p fazer um seqxu",
         "Leandro (+55 (11) 92701-8683): !ban",
         "Baby (179040627490824): kskss",
-        "Leandro (+55 (11) 92701-8683): !del"
+        "Leandro (+55 (11) 92701-8683): !del",
+        "Baby (179040627490824): foi com arros e farinha ksksk",
+        "Leandro (+55 (11) 92701-8683): Kbra véi xarope"
       ]
     }
   },
@@ -15015,6 +15017,18 @@
         "authorName": "Leandro",
         "text": "!del",
         "timestamp": 1787808880177
+      },
+      {
+        "authorNum": "179040627490824",
+        "authorName": "Baby",
+        "text": "foi com arros e farinha ksksk",
+        "timestamp": 1787808892385
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Kbra véi xarope",
+        "timestamp": 1787808910093
       }
     ]
   },
@@ -15032,7 +15046,7 @@
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 17,
-    "120363409024805409@g.us": 8
+    "120363409024805409@g.us": 10
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -174296,6 +174310,18 @@
         "text": "kskss",
         "pushName": "Baby",
         "timestamp": 1787808876095
+      },
+      "3EB0D5F4CBAE88423F9073": {
+        "sender": "179040627490824@lid",
+        "text": "foi com arros e farinha ksksk",
+        "pushName": "Baby",
+        "timestamp": 1787808892385
+      },
+      "A5E5C1597FB9F5251F3DA800AF0AC07F": {
+        "sender": "54259127210155@lid",
+        "text": "Kbra véi xarope",
+        "pushName": "Leandro",
+        "timestamp": 1787808910093
       }
     }
   },
@@ -174389,7 +174415,7 @@
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1787803320850,
-    "120363409024805409@g.us": 1787808880177
+    "120363409024805409@g.us": 1787808910093
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
