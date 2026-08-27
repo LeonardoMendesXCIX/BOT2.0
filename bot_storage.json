@@ -649,9 +649,9 @@
         "total": 91
       },
       "57707230945348": {
-        "text": 1100,
+        "text": 1101,
         "media": 198,
-        "total": 1298
+        "total": 1299
       },
       "152218690924790": {
         "text": 309,
@@ -2722,8 +2722,8 @@
       },
       "92629643563147": {
         "text": 505,
-        "media": 307,
-        "total": 812
+        "media": 308,
+        "total": 813
       },
       "122552932372575": {
         "text": 0,
@@ -3140,9 +3140,9 @@
         "total": 463
       },
       "5511927018683": {
-        "text": 411,
+        "text": 414,
         "media": 74,
-        "total": 485
+        "total": 488
       },
       "145381035905262": {
         "text": 320,
@@ -8413,7 +8413,6 @@
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Cai  de paraquedas Aki e já descobri meio mundo de coisas kkkkkk"
       ],
       "26/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Kkkk",
         "Celiete Souza (129373172711439): Vai doce mesmo né kkk",
         "Gabriel Ohi (90130358485223): Eu gosto de café doce kkkkk igual eu",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Cabelo e unhas",
@@ -8912,7 +8911,8 @@
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Sem sal e tu cão",
         "Caroline (118395236282617): Lindo demais",
         "Lailson Nathan. (272048228188398): Acho que você não tomou seu remédio kkk",
-        "Juliano Perlin (222595437858867): Uma criança falando kkkkk"
+        "Juliano Perlin (222595437858867): Uma criança falando kkkkk",
+        "Rafael Moura (57707230945348): Alguem traduz ?"
       ]
     },
     "120363428464897153@g.us": {
@@ -14327,7 +14327,9 @@
         "Gabriel (145381035905262): Você é o cara",
         "Leandro (+55 (11) 92701-8683): Só conheço ele 😎👉🏼👉🏼",
         "Leandro (+55 (11) 92701-8683): !botmusica off",
-        "Leandro (+55 (11) 92701-8683): !botmusica on"
+        "Leandro (+55 (11) 92701-8683): !botmusica on",
+        "Leandro (+55 (11) 92701-8683): !fixar",
+        "Leandro (+55 (11) 92701-8683): !fixar"
       ]
     },
     "120363411233423709@g.us": {
@@ -14814,6 +14816,12 @@
         "authorName": "Juliano Perlin",
         "text": "Uma criança falando kkkkk",
         "timestamp": 1787796749898
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Alguem traduz ?",
+        "timestamp": 1787796793284
       }
     ],
     "120363428464897153@g.us": [
@@ -15725,6 +15733,18 @@
         "authorName": "Leandro",
         "text": "!botmusica on",
         "timestamp": 1787796740290
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!fixar",
+        "timestamp": 1787796763195
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!fixar",
+        "timestamp": 1787796771484
       }
     ],
     "120363411233423709@g.us": [],
@@ -15745,10 +15765,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19591,
+    "120363432018531082@g.us": 19592,
     "120363428464897153@g.us": 5780,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1429,
+    "120363412288900422@g.us": 1431,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 13
@@ -127536,6 +127556,12 @@
         "text": "Uma criança falando kkkkk",
         "pushName": "Juliano Perlin",
         "timestamp": 1787796749900
+      },
+      "AC407DA7C6BE72DCE7471B94689E80FA": {
+        "sender": "57707230945348@lid",
+        "text": "Alguem traduz ?",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787796793284
       }
     },
     "120363428464897153@g.us": {
@@ -171192,6 +171218,18 @@
         "text": "!botmusica on",
         "pushName": "Leandro",
         "timestamp": 1787796740290
+      },
+      "A5DE3305404F0BB389E4EB36E76B3551": {
+        "sender": "54259127210155@lid",
+        "text": "!fixar",
+        "pushName": "Leandro",
+        "timestamp": 1787796763195
+      },
+      "A5A9B1A9DFA47EC8AB95E9CC31189CDB": {
+        "sender": "54259127210155@lid",
+        "text": "!fixar",
+        "pushName": "Leandro",
+        "timestamp": 1787796771484
       }
     },
     "120363411233423709@g.us": {
@@ -173368,10 +173406,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787796749898,
-    "120363428464897153@g.us": 1787796659409,
+    "120363432018531082@g.us": 1787796793284,
+    "120363428464897153@g.us": 1787796771064,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787796740290,
+    "120363412288900422@g.us": 1787796785009,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
