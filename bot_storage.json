@@ -104,8 +104,8 @@
       },
       "92629643563147": {
         "text": 1457,
-        "media": 1097,
-        "total": 2554
+        "media": 1098,
+        "total": 2555
       },
       "3126803329115": {
         "text": 87,
@@ -1713,9 +1713,9 @@
         "total": 6
       },
       "1395881181241": {
-        "text": 102,
+        "text": 103,
         "media": 4,
-        "total": 106
+        "total": 107
       },
       "198595546501333": {
         "text": 2,
@@ -8986,7 +8986,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Baby (179040627490824): Bom dia bruno",
         "Bruno Aguiar (+1395881181241): Bom dia",
         "Baby (179040627490824): Toma remédio e N tá fazendo mais efeito",
         "Baby (179040627490824): Bom",
@@ -9485,7 +9484,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Tô precisando",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Jamais!!!",
         "Camila Designer (92629643563147): @266048007835881 corre aqui",
-        "Camila Designer (92629643563147): @53537388122141 está apaixonada igual você"
+        "Camila Designer (92629643563147): @53537388122141 está apaixonada igual você",
+        "Bruno Aguiar (+1395881181241): Hj aqui no sul ta bom pra uma gelada quase 30 graus🥵🥵🍻🍻"
       ]
     },
     "120363428464897153@g.us": {
@@ -15570,18 +15570,6 @@
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Oi gente",
-        "timestamp": 1787857306197
-      },
-      {
-        "authorNum": "266048007835881",
-        "authorName": "🎀  Ň𝐘ηａ🐆",
-        "text": "Oieee",
-        "timestamp": 1787857313238
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Oioioi",
         "timestamp": 1787857339251
       },
@@ -16118,6 +16106,12 @@
         "authorName": "Camila Designer",
         "text": "@53537388122141 está apaixonada igual você",
         "timestamp": 1787859093909
+      },
+      {
+        "authorNum": "1395881181241",
+        "authorName": "Bruno Aguiar",
+        "text": "Hj aqui no sul ta bom pra uma gelada quase 30 graus🥵🥵🍻🍻",
+        "timestamp": 1787859134197
       }
     ],
     "120363428464897153@g.us": [],
@@ -16214,7 +16208,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20171,
+    "120363432018531082@g.us": 20172,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1493,
@@ -131444,6 +131438,12 @@
         "text": "@53537388122141 está apaixonada igual você",
         "pushName": "Camila Designer",
         "timestamp": 1787859093909
+      },
+      "AC01A266B9C9F89219A394E1E5338863": {
+        "sender": "1395881181241@lid",
+        "text": "Hj aqui no sul ta bom pra uma gelada quase 30 graus🥵🥵🍻🍻",
+        "pushName": "Bruno Aguiar",
+        "timestamp": 1787859134197
       }
     },
     "120363428464897153@g.us": {
@@ -179273,7 +179273,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787859093909,
+    "120363432018531082@g.us": 1787859134197,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787859082635,
