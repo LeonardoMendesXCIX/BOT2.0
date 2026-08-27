@@ -646,9 +646,9 @@
         "total": 1
       },
       "93970126397545": {
-        "text": 7,
+        "text": 8,
         "media": 0,
-        "total": 7
+        "total": 8
       },
       "180823189889026": {
         "text": 2,
@@ -2581,9 +2581,9 @@
         "total": 3
       },
       "187097969348735": {
-        "text": 1,
+        "text": 4,
         "media": 1,
-        "total": 2
+        "total": 5
       },
       "238233849983072": {
         "text": 36,
@@ -3621,9 +3621,9 @@
         "total": 4
       },
       "65894092943452": {
-        "text": 6,
+        "text": 7,
         "media": 0,
-        "total": 6
+        "total": 7
       },
       "274594556604661": {
         "text": 1,
@@ -9104,10 +9104,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Pode manda dos 2 jeito \nVai dá preferência da pessoa",
-        ". (39402768232586): Ta bom",
-        ". (39402768232586): Ok",
-        "Patrick (198908642906227): Prazer Patrick tenho 24 anos sou de Santa Maria de jetiba ES",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindo",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindo",
         "massagista tântrico (129158944415753): Obrigado favo de mel",
@@ -9603,7 +9599,11 @@
         "🎀  Ň𝐘ηａ🐆 (266048007835881): 👆🏻 não e que caixinha tava certa kkkkkkkkk",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Esse olho aí amiga e perigoso viu 🔪",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Se entregando e não sabendo confessar kkkkkk",
-        "Gleydson Souza (274384656834700): Já aconteceu cmg"
+        "Gleydson Souza (274384656834700): Já aconteceu cmg",
+        "Jonathan Bráulio (187097969348735): Meu pavio é mt curto",
+        "Jonathan Bráulio (187097969348735): Nn tenho paciência nenhuma",
+        "Jonathan Bráulio (187097969348735): Ainda mais quando se trata de McDonald's",
+        "🗝️🔒 (93970126397545): Kkkkkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -15711,24 +15711,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Aguardando chamar no Pv 👀\n@all",
-        "timestamp": 1787860335185
-      },
-      {
-        "authorNum": "266048007835881",
-        "authorName": "🎀  Ň𝐘ηａ🐆",
-        "text": "Preguiça dessas mulher que não tem coragem de chegar no homem fica aí nessa humilhação nessa caixinha...",
-        "timestamp": 1787860361076
-      },
-      {
-        "authorNum": "266048007835881",
-        "authorName": "🎀  Ň𝐘ηａ🐆",
-        "text": "Melhoremmmmmmmmmm",
-        "timestamp": 1787860365955
-      },
-      {
         "authorNum": "120363432018531082",
         "authorName": "",
         "text": "@53537388122141",
@@ -16129,6 +16111,30 @@
         "authorName": "Gleydson Souza",
         "text": "Já aconteceu cmg",
         "timestamp": 1787862117693
+      },
+      {
+        "authorNum": "187097969348735",
+        "authorName": "Jonathan Bráulio",
+        "text": "Meu pavio é mt curto",
+        "timestamp": 1787862148388
+      },
+      {
+        "authorNum": "187097969348735",
+        "authorName": "Jonathan Bráulio",
+        "text": "Nn tenho paciência nenhuma",
+        "timestamp": 1787862155746
+      },
+      {
+        "authorNum": "187097969348735",
+        "authorName": "Jonathan Bráulio",
+        "text": "Ainda mais quando se trata de McDonald's",
+        "timestamp": 1787862161823
+      },
+      {
+        "authorNum": "93970126397545",
+        "authorName": "🗝️🔒",
+        "text": "Kkkkkk",
+        "timestamp": 1787862166997
       }
     ],
     "120363428464897153@g.us": [],
@@ -16238,7 +16244,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20295,
+    "120363432018531082@g.us": 20299,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1516,
@@ -132193,6 +132199,30 @@
         "text": "Já aconteceu cmg",
         "pushName": "Gleydson Souza",
         "timestamp": 1787862117693
+      },
+      "ACB6D8958A1EDAD00A05C7AA8FB2A3A4": {
+        "sender": "187097969348735@lid",
+        "text": "Meu pavio é mt curto",
+        "pushName": "Jonathan Bráulio",
+        "timestamp": 1787862148388
+      },
+      "AC245527DC248482228E8498770CF0FD": {
+        "sender": "187097969348735@lid",
+        "text": "Nn tenho paciência nenhuma",
+        "pushName": "Jonathan Bráulio",
+        "timestamp": 1787862155746
+      },
+      "ACDD44A5645B2733A525862CA8FBAFBE": {
+        "sender": "187097969348735@lid",
+        "text": "Ainda mais quando se trata de McDonald's",
+        "pushName": "Jonathan Bráulio",
+        "timestamp": 1787862161824
+      },
+      "3A80783EF448E34A8009": {
+        "sender": "93970126397545@lid",
+        "text": "Kkkkkk",
+        "pushName": "🗝️🔒",
+        "timestamp": 1787862166998
       }
     },
     "120363428464897153@g.us": {
@@ -180166,7 +180196,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787862117693,
+    "120363432018531082@g.us": 1787862166997,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787861646643,
@@ -180176,7 +180206,7 @@
     "120363050678635389@g.us": 1787134308039,
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
-    "120363411246936023@g.us": 1787861947872,
+    "120363411246936023@g.us": 1787862168417,
     "120363409024805409@g.us": 1787858703981
   },
   "autoAnimSent": {
