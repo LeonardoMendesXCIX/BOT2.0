@@ -656,9 +656,9 @@
         "total": 2
       },
       "90130358485223": {
-        "text": 83,
+        "text": 84,
         "media": 11,
-        "total": 94
+        "total": 95
       },
       "57707230945348": {
         "text": 1117,
@@ -1466,9 +1466,9 @@
         "total": 157
       },
       "266048007835881": {
-        "text": 580,
+        "text": 581,
         "media": 265,
-        "total": 845
+        "total": 846
       },
       "123120354635955": {
         "text": 4,
@@ -2581,9 +2581,9 @@
         "total": 3
       },
       "187097969348735": {
-        "text": 0,
+        "text": 1,
         "media": 1,
-        "total": 1
+        "total": 2
       },
       "238233849983072": {
         "text": 36,
@@ -9104,9 +9104,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "massagista tântrico (129158944415753): Será muito bem vinda",
-        "massagista tântrico (129158944415753): Será muito bem vinda",
-        "Breno (234324976738434): Breno Gabriel \n24 anos\nGoiânia (GO) \nSatisfação !",
         ". (39402768232586): Meu nome é João Pedro \nTenho 19 anos \nSou de Belo Horizonte",
         "Camila Designer (92629643563147): Porque apagou João?",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Era a apresentação dele",
@@ -9603,7 +9600,10 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Nam, grupo vai continuar normal\nFicaram inativos pq queriam",
         "Gabriel Ohi (90130358485223): Eu sei",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Sabe que tô zuando também né",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): @54259127210155"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): @54259127210155",
+        "Gabriel Ohi (90130358485223): Sim kkkk",
+        "🎀  Ň𝐘ηａ🐆 (266048007835881): Vc não! Mais falaram Aki sim hahah",
+        "Jonathan Bráulio (187097969348735): Por mais homens assim kkkkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -16153,6 +16153,24 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "@54259127210155",
         "timestamp": 1787861805656
+      },
+      {
+        "authorNum": "90130358485223",
+        "authorName": "Gabriel Ohi",
+        "text": "Sim kkkk",
+        "timestamp": 1787861827647
+      },
+      {
+        "authorNum": "266048007835881",
+        "authorName": "🎀  Ň𝐘ηａ🐆",
+        "text": "Vc não! Mais falaram Aki sim hahah",
+        "timestamp": 1787861828724
+      },
+      {
+        "authorNum": "187097969348735",
+        "authorName": "Jonathan Bráulio",
+        "text": "Por mais homens assim kkkkk",
+        "timestamp": 1787861835130
       }
     ],
     "120363428464897153@g.us": [],
@@ -16310,7 +16328,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20286,
+    "120363432018531082@g.us": 20289,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1516,
@@ -132211,6 +132229,24 @@
         "text": "@54259127210155",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787861805656
+      },
+      "AC88A13F8BC043B77360CC6F33CF9C4D": {
+        "sender": "90130358485223@lid",
+        "text": "Sim kkkk",
+        "pushName": "Gabriel Ohi",
+        "timestamp": 1787861827647
+      },
+      "ACB0EF3A61895635A06022154DE9C887": {
+        "sender": "266048007835881@lid",
+        "text": "Vc não! Mais falaram Aki sim hahah",
+        "pushName": "🎀  Ň𝐘ηａ🐆",
+        "timestamp": 1787861828724
+      },
+      "AC8A6E2436FF49F1F25B4E273A567424": {
+        "sender": "187097969348735@lid",
+        "text": "Por mais homens assim kkkkk",
+        "pushName": "Jonathan Bráulio",
+        "timestamp": 1787861835130
       }
     },
     "120363428464897153@g.us": {
@@ -180184,7 +180220,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787861805656,
+    "120363432018531082@g.us": 1787861835130,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787861646643,
