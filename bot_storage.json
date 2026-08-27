@@ -2927,8 +2927,8 @@
       },
       "266048007835881": {
         "text": 28,
-        "media": 26,
-        "total": 54
+        "media": 27,
+        "total": 55
       },
       "123120354635955": {
         "text": 1,
@@ -3001,9 +3001,9 @@
         "total": 15
       },
       "120044990287992": {
-        "text": 56,
+        "text": 57,
         "media": 4,
-        "total": 60
+        "total": 61
       },
       "71120413843690": {
         "text": 2,
@@ -3140,9 +3140,9 @@
         "total": 456
       },
       "5511927018683": {
-        "text": 372,
+        "text": 373,
         "media": 72,
-        "total": 444
+        "total": 445
       },
       "145381035905262": {
         "text": 314,
@@ -12099,7 +12099,6 @@
         "Leandro (+55 (11) 92701-8683): Mais tarde, quando o kbaré abrir, tu se apresenta @66743926038604"
       ],
       "26/08/2026": [
-        "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Como um morto vai passar bem? 😂🫠",
         "Henrique (66743926038604): Kkkkkkk",
         "Henrique (66743926038604): Aliás, ferimentos  graves  kkkkl",
         "Vini 👑🏁🙌⚽ (270377049690114): Essa bixa é doente tem como não kkkkkk 🤣🤣🤣🤣",
@@ -12598,7 +12597,8 @@
         "Camila Designer (92629643563147): Uma onça no calor e outra no frio",
         "Celiete Souza (129373172711439): Pode abrir",
         "Vini 👑🏁🙌⚽ (270377049690114): Aqui tá dboa tô de ventilador 😂",
-        "Leandro (+55 (11) 92701-8683): Melhor evitar a fadiga"
+        "Leandro (+55 (11) 92701-8683): Melhor evitar a fadiga",
+        "negoh🐻 (120044990287992): Vou mandar a foto do pinto aqui nesse cabaré"
       ]
     },
     "120363409727467494@g.us": {
@@ -14268,7 +14268,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): 😒",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Deixa quebrarem a cara",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Eu tô quieta na minha",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): @54259127210155 \nManda os comandos do bot aqui, por favor. Deixar fixado pra facilitar 👀"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): @54259127210155 \nManda os comandos do bot aqui, por favor. Deixar fixado pra facilitar 👀",
+        "Leandro (+55 (11) 92701-8683): !ajuda"
       ]
     },
     "120363411233423709@g.us": {
@@ -14993,30 +14994,6 @@
     ],
     "120363428464897153@g.us": [
       {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Nasceu minha bonequinha",
-        "timestamp": 1787789722180
-      },
-      {
-        "authorNum": "270377049690114",
-        "authorName": "Vini 👑🏁🙌⚽",
-        "text": "Pode sim opa",
-        "timestamp": 1787789722306
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Que fofa amigaaaa",
-        "timestamp": 1787789727567
-      },
-      {
-        "authorNum": "270377049690114",
-        "authorName": "Vini 👑🏁🙌⚽",
-        "text": "Eita que linda, que fofinhaaa",
-        "timestamp": 1787789735380
-      },
-      {
         "authorNum": "270377049690114",
         "authorName": "Vini 👑🏁🙌⚽",
         "text": "Presente de Deus!!! 🙌🏻🙌🏻❤️",
@@ -15621,6 +15598,12 @@
         "authorName": "Leandro",
         "text": "Melhor evitar a fadiga",
         "timestamp": 1787791501261
+      },
+      {
+        "authorNum": "120044990287992",
+        "authorName": "negoh🐻",
+        "text": "Vou mandar a foto do pinto aqui nesse cabaré",
+        "timestamp": 1787791540352
       }
     ],
     "120363409727467494@g.us": [],
@@ -15804,6 +15787,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "@54259127210155 \nManda os comandos do bot aqui, por favor. Deixar fixado pra facilitar 👀",
         "timestamp": 1787790732277
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!ajuda",
+        "timestamp": 1787791528757
       }
     ],
     "120363411233423709@g.us": [],
@@ -15818,15 +15807,15 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 19519,
-    "120363428464897153@g.us": 5453,
+    "120363428464897153@g.us": 5454,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1389,
+    "120363412288900422@g.us": 1390,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 7
   },
   "botDisabled": {
-    "120363412288900422@g.us": false,
+    "120363412288900422@g.us": true,
     "120363409727467494@g.us": false,
     "120363428464897153@g.us": false,
     "120363432018531082@g.us": false
@@ -159118,6 +159107,12 @@
         "text": "Melhor evitar a fadiga",
         "pushName": "Leandro",
         "timestamp": 1787791501261
+      },
+      "AC9F005D87784598A421C9774AAFED2E": {
+        "sender": "120044990287992@lid",
+        "text": "Vou mandar a foto do pinto aqui nesse cabaré",
+        "pushName": "negoh🐻",
+        "timestamp": 1787791540352
       }
     },
     "120363409727467494@g.us": {
@@ -168680,6 +168675,12 @@
         "text": "@54259127210155 \nManda os comandos do bot aqui, por favor. Deixar fixado pra facilitar 👀",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787790732277
+      },
+      "A5A373125349D021D513FC3BF90E9A77": {
+        "sender": "54259127210155@lid",
+        "text": "!ajuda",
+        "pushName": "Leandro",
+        "timestamp": 1787791528757
       }
     },
     "120363411233423709@g.us": {
@@ -170821,9 +170822,9 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787791501461,
-    "120363428464897153@g.us": 1787791509282,
+    "120363428464897153@g.us": 1787791549858,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787790970752,
+    "120363412288900422@g.us": 1787791539556,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
