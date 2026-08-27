@@ -2566,9 +2566,9 @@
         "total": 21
       },
       "190864487919667": {
-        "text": 158,
+        "text": 159,
         "media": 31,
-        "total": 189
+        "total": 190
       },
       "82227819987089": {
         "text": 2,
@@ -2626,9 +2626,9 @@
         "total": 68
       },
       "172868239380659": {
-        "text": 71,
+        "text": 72,
         "media": 11,
-        "total": 82
+        "total": 83
       },
       "170455038193841": {
         "text": 1,
@@ -9154,8 +9154,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Pedro Henrique (172868239380659): Eu queria era saber o início da treta",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Mulheres não comprem briga por homens",
         "Pedro Henrique (172868239380659): Já veio aqui?",
         "Pedro Henrique (172868239380659): Sim, se matem logo.",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Uma vez apenas no aeroporto de Brasília. Mas a muitos anos. Eu era pequena",
@@ -9653,7 +9651,9 @@
         "Souza (190864487919667): Só sei de uma coisa",
         "Souza (190864487919667): 21h",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Jajá kbaré",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Abre"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Abre",
+        "Pedro Henrique (172868239380659): O que?",
+        "Souza (190864487919667): Já tá tu descobre"
       ]
     },
     "120363428464897153@g.us": {
@@ -16522,6 +16522,18 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Abre",
         "timestamp": 1787874822440
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "O que?",
+        "timestamp": 1787874868290
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Já tá tu descobre",
+        "timestamp": 1787874880153
       }
     ],
     "120363428464897153@g.us": [],
@@ -16655,7 +16667,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20887,
+    "120363432018531082@g.us": 20889,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1669,
@@ -136130,6 +136142,18 @@
         "text": "Abre",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787874822441
+      },
+      "ACCFDC45D27B69DEE5C4EB6B4265FFE9": {
+        "sender": "172868239380659@lid",
+        "text": "O que?",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787874868290
+      },
+      "AC10300F099EE53873E79D7BA4866B4F": {
+        "sender": "190864487919667@lid",
+        "text": "Já tá tu descobre",
+        "pushName": "Souza",
+        "timestamp": 1787874880153
       }
     },
     "120363428464897153@g.us": {
@@ -185035,7 +185059,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787874822440,
+    "120363432018531082@g.us": 1787874880153,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787874702269,
