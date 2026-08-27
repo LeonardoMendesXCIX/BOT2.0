@@ -341,9 +341,9 @@
         "total": 3
       },
       "163530946961491": {
-        "text": 393,
+        "text": 394,
         "media": 62,
-        "total": 455
+        "total": 456
       },
       "222595437858867": {
         "text": 474,
@@ -2626,9 +2626,9 @@
         "total": 39
       },
       "172868239380659": {
-        "text": 31,
+        "text": 33,
         "media": 9,
-        "total": 40
+        "total": 42
       },
       "170455038193841": {
         "text": 1,
@@ -9124,9 +9124,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "willian (163530946961491): Camila iludindo o cara, ele até saiu kkk",
-        "Camila Designer (92629643563147): Vou nada, tenho uma filha, vai que vou e não volto",
-        "Souza (190864487919667): KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK",
         "Camila Designer (92629643563147): Não posso seguir meus impulsos",
         "Camila Designer (92629643563147): Por isso não chamo ninguém no PV",
         "Souza (190864487919667): Vai que se apaixona né?",
@@ -9623,6 +9620,9 @@
         "Milena B. Costa (233161007071346): Mas ele voltou a vida",
         "Pedro Henrique (172868239380659): Vc tem seguro de vida ?",
         "Gabriel (145381035905262): Peça perdão por seus pecados, se despede de nós aqui, mas avisa o dia e hora do velório",
+        "willian (163530946961491): Sim",
+        "Pedro Henrique (172868239380659): Tu sabe se tu morrer teu filho recebe né?",
+        "Pedro Henrique (172868239380659): Então....",
         "willian (163530946961491): Sim"
       ]
     },
@@ -15761,48 +15761,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "266048007835881",
-        "authorName": "🎀  Ň𝐘ηａ🐆",
-        "text": "Ser verdadeira e um dos princípios mais bonito que tem em uma mulher",
-        "timestamp": 1787864348932
-      },
-      {
-        "authorNum": "266048007835881",
-        "authorName": "🎀  Ň𝐘ηａ🐆",
-        "text": "Pelo jeito vc não tem",
-        "timestamp": 1787864354148
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Kkkkkkkkkkkkkkkk cara, nem falar com o princeso eu falo, nunca troquei uma sequer palavra pra querer ele não",
-        "timestamp": 1787864356651
-      },
-      {
-        "authorNum": "274384656834700",
-        "authorName": "Gleydson Souza",
-        "text": "Porra daora depois bora marcar pra tomar umas so do entorno de Brasília.",
-        "timestamp": 1787864356982
-      },
-      {
-        "authorNum": "272048228188398",
-        "authorName": "Lailson Nathan.",
-        "text": "Os cara estão afim mesmo.",
-        "timestamp": 1787864365074
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Massa também",
-        "timestamp": 1787864374012
-      },
-      {
-        "authorNum": "266048007835881",
-        "authorName": "🎀  Ň𝐘ηａ🐆",
-        "text": "Me ausentando Aki Ddeixa eu terminar minha faxina",
-        "timestamp": 1787864378117
-      },
-      {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Sei nem quem foi. Te juro 😂",
@@ -16419,6 +16377,24 @@
         "authorName": "willian",
         "text": "Sim",
         "timestamp": 1787866141363
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Tu sabe se tu morrer teu filho recebe né?",
+        "timestamp": 1787866159716
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Então....",
+        "timestamp": 1787866161991
+      },
+      {
+        "authorNum": "163530946961491",
+        "authorName": "willian",
+        "text": "Sim",
+        "timestamp": 1787866180815
       }
     ],
     "120363428464897153@g.us": [],
@@ -16511,7 +16487,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20484,
+    "120363432018531082@g.us": 20487,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1543,
@@ -133593,6 +133569,24 @@
         "text": "Sim",
         "pushName": "willian",
         "timestamp": 1787866141363
+      },
+      "AC44DFA88C8A44C905513E005ACBC0D8": {
+        "sender": "172868239380659@lid",
+        "text": "Tu sabe se tu morrer teu filho recebe né?",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787866159716
+      },
+      "ACBBC2F4137DEB3EB30634BC97E66CE4": {
+        "sender": "172868239380659@lid",
+        "text": "Então....",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787866161991
+      },
+      "AC919674A8021AF131D5142AB6FF85A1": {
+        "sender": "163530946961491@lid",
+        "text": "Sim",
+        "pushName": "willian",
+        "timestamp": 1787866180815
       }
     },
     "120363428464897153@g.us": {
@@ -181736,7 +181730,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787866146565,
+    "120363432018531082@g.us": 1787866180815,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787865477162,
