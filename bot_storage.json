@@ -141,9 +141,9 @@
         "total": 1941
       },
       "81991328395336": {
-        "text": 3856,
+        "text": 3857,
         "media": 1303,
-        "total": 5159
+        "total": 5160
       },
       "179040627490824": {
         "text": 433,
@@ -226,9 +226,9 @@
         "total": 105
       },
       "118395236282617": {
-        "text": 399,
+        "text": 400,
         "media": 143,
-        "total": 542
+        "total": 543
       },
       "248773146108144": {
         "text": 24,
@@ -241,9 +241,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2176,
+        "text": 2177,
         "media": 285,
-        "total": 2461
+        "total": 2462
       },
       "252922705240205": {
         "text": 80,
@@ -9154,9 +9154,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Pedro Henrique (172868239380659): DDD 48 é santa Catarina?",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Sim, sou de Florianópolis",
-        "Pedro Henrique (172868239380659): Massa",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Será que é a pessoa que tô pensando",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Brasília?",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Mulher e tão difícil admitir... Casa vez tu só se queima ... Falr a verdade não e vergonhoso não",
@@ -9653,7 +9650,10 @@
         "Dany (262182034002040): Aqui vai ficar mais sol no FDS",
         "Dany (262182034002040): Amém",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Queria",
-        "Clayton 🇳🇬 (155503636275307): Amem kkk chega de frio em sao paulo"
+        "Clayton 🇳🇬 (155503636275307): Amem kkk chega de frio em sao paulo",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): VOCÊS QUANDO TOMA A DECISÃO DE SAIR AQUI DO GRUPO,SAIA NA CERTEZA QUE NÃO ACEITAMOS MAIS !!",
+        "Caroline (118395236282617): Claro",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): @all"
       ]
     },
     "120363428464897153@g.us": {
@@ -16407,6 +16407,24 @@
         "authorName": "Clayton 🇳🇬",
         "text": "Amem kkk chega de frio em sao paulo",
         "timestamp": 1787874525748
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "VOCÊS QUANDO TOMA A DECISÃO DE SAIR AQUI DO GRUPO,SAIA NA CERTEZA QUE NÃO ACEITAMOS MAIS !!",
+        "timestamp": 1787874545302
+      },
+      {
+        "authorNum": "118395236282617",
+        "authorName": "Caroline",
+        "text": "Claro",
+        "timestamp": 1787874556143
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "@all",
+        "timestamp": 1787874566978
       }
     ],
     "120363428464897153@g.us": [],
@@ -16534,7 +16552,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20864,
+    "120363432018531082@g.us": 20867,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1668,
@@ -135871,6 +135889,24 @@
         "text": "Amem kkk chega de frio em sao paulo",
         "pushName": "Clayton 🇳🇬",
         "timestamp": 1787874525748
+      },
+      "AC76A123F28A2D091359E5A94E589324": {
+        "sender": "81991328395336@lid",
+        "text": "VOCÊS QUANDO TOMA A DECISÃO DE SAIR AQUI DO GRUPO,SAIA NA CERTEZA QUE NÃO ACEITAMOS MAIS !!",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787874545302
+      },
+      "AC39F240EE083427C0E5C9338D550B62": {
+        "sender": "118395236282617@lid",
+        "text": "Claro",
+        "pushName": "Caroline",
+        "timestamp": 1787874556143
+      },
+      "AC64F0F7DCD3AAB9D900F75B8961B09A": {
+        "sender": "53537388122141@lid",
+        "text": "@all",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787874566978
       }
     },
     "120363428464897153@g.us": {
@@ -184770,7 +184806,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787874525748,
+    "120363432018531082@g.us": 1787874566978,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787874348235,
