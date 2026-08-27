@@ -2473,14 +2473,14 @@
         "total": 1
       },
       "238233849983072": {
-        "text": 8,
+        "text": 9,
         "media": 0,
-        "total": 8
+        "total": 9
       },
       "75797868064796": {
-        "text": 0,
+        "text": 1,
         "media": 2,
-        "total": 2
+        "total": 3
       },
       "153764728184839": {
         "text": 0,
@@ -9388,7 +9388,9 @@
         "Souza (190864487919667): 👀",
         "Bruno Aguiar (+1395881181241): Seja bem vinda!!",
         "Neto prime (238233849983072): O samba gostei mas um couver de 60 reais é um ingresso kkkkk",
-        "Camila Viana (188845719089205): Gente! Que lugar é esse que você foi? Rs"
+        "Camila Viana (188845719089205): Gente! Que lugar é esse que você foi? Rs",
+        "Alexandre Bastos (75797868064796): Aqui tbm tudo de bom na Lapa,parque de madureira,pagode ,samba",
+        "Neto prime (238233849983072): Bar do Zeca e lá no boa praça"
       ]
     },
     "120363428464897153@g.us": {
@@ -15587,6 +15589,18 @@
         "authorName": "Camila Viana",
         "text": "Gente! Que lugar é esse que você foi? Rs",
         "timestamp": 1787856149030
+      },
+      {
+        "authorNum": "75797868064796",
+        "authorName": "Alexandre Bastos",
+        "text": "Aqui tbm tudo de bom na Lapa,parque de madureira,pagode ,samba",
+        "timestamp": 1787856226138
+      },
+      {
+        "authorNum": "238233849983072",
+        "authorName": "Neto prime",
+        "text": "Bar do Zeca e lá no boa praça",
+        "timestamp": 1787856235222
       }
     ],
     "120363428464897153@g.us": [],
@@ -15611,7 +15625,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20029,
+    "120363432018531082@g.us": 20031,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -130000,6 +130014,18 @@
         "text": "Gente! Que lugar é esse que você foi? Rs",
         "pushName": "Camila Viana",
         "timestamp": 1787856149030
+      },
+      "AC84A9351D82450FC6BB944C2E8AEE4C": {
+        "sender": "75797868064796@lid",
+        "text": "Aqui tbm tudo de bom na Lapa,parque de madureira,pagode ,samba",
+        "pushName": "Alexandre Bastos",
+        "timestamp": 1787856226139
+      },
+      "2AB1E12545E8AF9EC353": {
+        "sender": "238233849983072@lid",
+        "text": "Bar do Zeca e lá no boa praça",
+        "pushName": "Neto prime",
+        "timestamp": 1787856235222
       }
     },
     "120363428464897153@g.us": {
@@ -177757,7 +177783,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787856162361,
+    "120363432018531082@g.us": 1787856235222,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
