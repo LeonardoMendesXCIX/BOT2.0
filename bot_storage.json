@@ -341,9 +341,9 @@
         "total": 3
       },
       "163530946961491": {
-        "text": 394,
+        "text": 396,
         "media": 65,
-        "total": 459
+        "total": 461
       },
       "222595437858867": {
         "text": 474,
@@ -9134,7 +9134,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "🎀  Ň𝐘ηａ🐆 (266048007835881): Quer, que todo mundo Aki arrumei um namorado",
         "Neto prime (238233849983072): A gente já se arrumou né vida",
         "Neto prime (238233849983072): Hahahaha",
         "Camila Designer (92629643563147): Gente remove essa tentação por favor! Não quero me corromper 🫣🫣🫣",
@@ -9633,7 +9632,8 @@
         "Jennifer🦋 (205621945192508): Oii boa noite",
         "Jennifer🦋 (205621945192508): Obgda",
         "Pedro Henrique (172868239380659): Já vou ir fazer amizade com você, vai que ganhou açaí com peixe",
-        "Gabriel🙅🏻‍♂️💸 (151582733820115): Boa noite pode PV"
+        "Gabriel🙅🏻‍♂️💸 (151582733820115): Boa noite pode PV",
+        "willian (163530946961491): Não né mas é fiel a uma só"
       ]
     },
     "120363428464897153@g.us": {
@@ -15771,24 +15771,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Ahh, que massa!",
-        "timestamp": 1787864569131
-      },
-      {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Eu pensei que vcs estavam zoando uma a outra",
-        "timestamp": 1787864570286
-      },
-      {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Mas pensei errado",
-        "timestamp": 1787864573728
-      },
-      {
         "authorNum": "57707230945348",
         "authorName": "Rafael Moura",
         "text": "🤣",
@@ -16441,6 +16423,12 @@
         "authorName": "Gabriel🙅🏻‍♂️💸",
         "text": "Boa noite pode PV",
         "timestamp": 1787866365499
+      },
+      {
+        "authorNum": "163530946961491",
+        "authorName": "willian",
+        "text": "Não né mas é fiel a uma só",
+        "timestamp": 1787866375144
       }
     ],
     "120363428464897153@g.us": [],
@@ -16527,7 +16515,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20507,
+    "120363432018531082@g.us": 20508,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1543,
@@ -133741,6 +133729,12 @@
         "text": "Boa noite pode PV",
         "pushName": "Gabriel🙅🏻‍♂️💸",
         "timestamp": 1787866365499
+      },
+      "AC14A652C1CF64CE1D7562930B1350EE": {
+        "sender": "163530946961491@lid",
+        "text": "Não né mas é fiel a uma só",
+        "pushName": "willian",
+        "timestamp": 1787866375144
       }
     },
     "120363428464897153@g.us": {
@@ -181884,7 +181878,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787866372796,
+    "120363432018531082@g.us": 1787866400881,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787865477162,
