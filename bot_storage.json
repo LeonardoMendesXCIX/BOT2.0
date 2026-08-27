@@ -103,9 +103,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1394,
+        "text": 1395,
         "media": 1058,
-        "total": 2452
+        "total": 2453
       },
       "3126803329115": {
         "text": 87,
@@ -1868,9 +1868,9 @@
         "total": 6
       },
       "129158944415753": {
-        "text": 7,
+        "text": 8,
         "media": 2,
-        "total": 9
+        "total": 10
       },
       "276003205152992": {
         "text": 5,
@@ -9074,7 +9074,9 @@
         "Camila Designer (92629643563147): Nos conte mais sobre essa massagem? Quanto tempo está na área?",
         "massagista tântrico (129158944415753): A 11 anos já",
         "Camila Designer (92629643563147): Que legal! E o seu corpo faz parte da sua profissão?👀",
-        "massagista tântrico (129158944415753): Simm"
+        "massagista tântrico (129158944415753): Simm",
+        "Camila Designer (92629643563147): Meu Deus, preciso conhecer o Rio 🤣🤣🤣",
+        "massagista tântrico (129158944415753): Será muito bem vinda"
       ]
     },
     "120363428464897153@g.us": {
@@ -15247,6 +15249,18 @@
         "authorName": "massagista tântrico",
         "text": "Simm",
         "timestamp": 1787841275676
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Meu Deus, preciso conhecer o Rio 🤣🤣🤣",
+        "timestamp": 1787841289643
+      },
+      {
+        "authorNum": "129158944415753",
+        "authorName": "massagista tântrico",
+        "text": "Será muito bem vinda",
+        "timestamp": 1787841302243
       }
     ],
     "120363428464897153@g.us": [],
@@ -15255,14 +15269,7 @@
     "120363411233423709@g.us": [],
     "120363428079168524@g.us": [],
     "120363411246936023@g.us": [],
-    "120363409024805409@g.us": [
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Bom dia a todos! @all",
-        "timestamp": 1787839342860
-      }
-    ]
+    "120363409024805409@g.us": []
   },
   "lastJarvisIntervention": {
     "120363409727467494@g.us": 1786781516987,
@@ -15271,7 +15278,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19785,
+    "120363432018531082@g.us": 19787,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1466,
@@ -128207,6 +128214,18 @@
         "text": "Simm",
         "pushName": "massagista tântrico",
         "timestamp": 1787841275676
+      },
+      "2AAE9541924C66EC659E": {
+        "sender": "92629643563147@lid",
+        "text": "Meu Deus, preciso conhecer o Rio 🤣🤣🤣",
+        "pushName": "Camila Designer",
+        "timestamp": 1787841289643
+      },
+      "A5DEBBB0C8CED96597FB529745282575": {
+        "sender": "129158944415753@lid",
+        "text": "Será muito bem vinda",
+        "pushName": "massagista tântrico",
+        "timestamp": 1787841302243
       }
     },
     "120363428464897153@g.us": {
@@ -175880,7 +175899,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787841278504,
+    "120363432018531082@g.us": 1787841302243,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787829200713,
