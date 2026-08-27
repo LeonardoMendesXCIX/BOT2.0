@@ -221,8 +221,15 @@ async function startBot() {
 
     setupGroupEvents(sock, storage);
 
+    // =====================================================================
+    // CORREÇÃO APLICADA AQUI (Filtro Anti-Loop Infinito)
+    // =====================================================================
     sock.ev.on('messages.upsert', async (m) => {
         for (const msg of m.messages) {
+            // Ignora mensagens enviadas pelo próprio bot (fromMe) para evitar o loop infinito
+            // e ignora mensagens vazias (notificações de sistema/status).
+            if (msg.key.fromMe || !msg.message) continue;
+
             try {
                 await handleCommand(sock, msg, storage);
             } catch (err: any) {
