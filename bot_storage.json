@@ -1466,9 +1466,9 @@
         "total": 157
       },
       "266048007835881": {
-        "text": 579,
+        "text": 580,
         "media": 264,
-        "total": 843
+        "total": 844
       },
       "123120354635955": {
         "text": 4,
@@ -2566,9 +2566,9 @@
         "total": 5
       },
       "190864487919667": {
-        "text": 64,
+        "text": 65,
         "media": 17,
-        "total": 81
+        "total": 82
       },
       "82227819987089": {
         "text": 2,
@@ -3273,8 +3273,8 @@
       },
       "53537388122141": {
         "text": 569,
-        "media": 43,
-        "total": 612
+        "media": 44,
+        "total": 613
       },
       "120363412288900422": {
         "text": 1,
@@ -9104,7 +9104,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Camila Designer (92629643563147): Sejam todos bem vindos!☺️",
         "Camila Designer (92629643563147): Nos conte mais sobre essa massagem? Quanto tempo está na área?",
         "massagista tântrico (129158944415753): A 11 anos já",
         "Camila Designer (92629643563147): Que legal! E o seu corpo faz parte da sua profissão?👀",
@@ -9603,7 +9602,8 @@
         "Souza (190864487919667): Já",
         "Gabriel Ohi (90130358485223): Viraram camisa de saudades kkkkkkk",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): F",
-        "Gabriel Ohi (90130358485223): Faleceram kkkkk um minuto de silêncio pra esse povo"
+        "Gabriel Ohi (90130358485223): Faleceram kkkkk um minuto de silêncio pra esse povo",
+        "Souza (190864487919667): Já quero é ir embora"
       ]
     },
     "120363428464897153@g.us": {
@@ -15247,7 +15247,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Já adiantei logo",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Eu jogo",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Aprendeu com a mestre",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Parabéns chefe"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Parabéns chefe",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Alguém explica?"
       ]
     },
     "120363411233423709@g.us": {
@@ -15712,24 +15713,6 @@
       {
         "authorNum": "81991328395336",
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "😹😹",
-        "timestamp": 1787859837833
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Também quero saber",
-        "timestamp": 1787859857770
-      },
-      {
-        "authorNum": "1395881181241",
-        "authorName": "Bruno Aguiar",
-        "text": "Pois é kkk",
-        "timestamp": 1787859865703
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "@92629643563147",
         "timestamp": 1787859884184
       },
@@ -16170,6 +16153,12 @@
         "authorName": "Gabriel Ohi",
         "text": "Faleceram kkkkk um minuto de silêncio pra esse povo",
         "timestamp": 1787861628086
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Já quero é ir embora",
+        "timestamp": 1787861665815
       }
     ],
     "120363428464897153@g.us": [],
@@ -16306,6 +16295,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Parabéns chefe",
         "timestamp": 1787861546276
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Alguém explica?",
+        "timestamp": 1787861646643
       }
     ],
     "120363411233423709@g.us": [],
@@ -16333,10 +16328,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20280,
+    "120363432018531082@g.us": 20281,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1515,
+    "120363412288900422@g.us": 1516,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 20,
@@ -132198,6 +132193,12 @@
         "text": "Faleceram kkkkk um minuto de silêncio pra esse povo",
         "pushName": "Gabriel Ohi",
         "timestamp": 1787861628086
+      },
+      "AC48E29D4C68CFB9426FC163B49C0377": {
+        "sender": "190864487919667@lid",
+        "text": "Já quero é ir embora",
+        "pushName": "Souza",
+        "timestamp": 1787861665815
       }
     },
     "120363428464897153@g.us": {
@@ -177624,6 +177625,12 @@
         "text": "Parabéns chefe",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787861546276
+      },
+      "AC3B0313CE54BD6343B90E9B98091895": {
+        "sender": "53537388122141@lid",
+        "text": "Alguém explica?",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787861646643
       }
     },
     "120363411233423709@g.us": {
@@ -180165,10 +180172,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787861628086,
+    "120363432018531082@g.us": 1787861665815,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787861621395,
+    "120363412288900422@g.us": 1787861646643,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
