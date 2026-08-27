@@ -241,9 +241,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2144,
+        "text": 2147,
         "media": 280,
-        "total": 2424
+        "total": 2427
       },
       "252922705240205": {
         "text": 80,
@@ -9149,9 +9149,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Foooogo no parquinhoooooo",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Aguardando chamar no Pv 👀\n@all",
-        "🎀  Ň𝐘ηａ🐆 (266048007835881): Preguiça dessas mulher que não tem coragem de chegar no homem fica aí nessa humilhação nessa caixinha...",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Melhoremmmmmmmmmm",
         " (120363432018531082): @53537388122141",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @53537388122141",
@@ -9648,7 +9645,10 @@
         "Souza (190864487919667): Triste",
         "Neto prime (238233849983072): Resolvendo umas coisas jaja volta !?",
         "Souza (190864487919667): Ah bom",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tem certeza moço? 👀"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tem certeza moço? 👀",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Boa noite, pessoas",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Como vocês estão?",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Que tem de janta na casa de vocês aí?"
       ]
     },
     "120363428464897153@g.us": {
@@ -15858,24 +15858,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "153764728184839",
-        "authorName": "Eduardo",
-        "text": "Tá podendo mandar foto feia dessa no grupo?",
-        "timestamp": 1787868483816
-      },
-      {
-        "authorNum": "262456945414267",
-        "authorName": "Beatriz Ferreira 🦅",
-        "text": "Misericórdia",
-        "timestamp": 1787868504118
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Estudar quando chegar em casa",
-        "timestamp": 1787868509805
-      },
-      {
         "authorNum": "81991328395336",
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "A gente sofre por um diploma viu",
@@ -16480,6 +16462,24 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Tem certeza moço? 👀",
         "timestamp": 1787870264833
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Boa noite, pessoas",
+        "timestamp": 1787870296432
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Como vocês estão?",
+        "timestamp": 1787870300025
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Que tem de janta na casa de vocês aí?",
+        "timestamp": 1787870316269
       }
     ],
     "120363428464897153@g.us": [],
@@ -16925,7 +16925,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20724,
+    "120363432018531082@g.us": 20727,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1614,
@@ -135428,6 +135428,24 @@
         "text": "Tem certeza moço? 👀",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787870264833
+      },
+      "ACF7A85123C91AC67EBB07F1BC44FCBB": {
+        "sender": "53537388122141@lid",
+        "text": "Boa noite, pessoas",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787870296432
+      },
+      "AC31B0BF1232A25CCDB90F866B430E10": {
+        "sender": "53537388122141@lid",
+        "text": "Como vocês estão?",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787870300025
+      },
+      "ACA1B9E3B49CAEAFA70B54A5C24038B2": {
+        "sender": "53537388122141@lid",
+        "text": "Que tem de janta na casa de vocês aí?",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787870316269
       }
     },
     "120363428464897153@g.us": {
@@ -184003,7 +184021,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787870287944,
+    "120363432018531082@g.us": 1787870316269,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787870194929,
