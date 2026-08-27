@@ -34,8 +34,8 @@
       },
       "179040627490824": {
         "text": 425,
-        "media": 86,
-        "total": 511
+        "media": 88,
+        "total": 513
       },
       "145381035905262": {
         "text": 2152,
@@ -103,9 +103,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1422,
+        "text": 1423,
         "media": 1077,
-        "total": 2499
+        "total": 2500
       },
       "3126803329115": {
         "text": 87,
@@ -143,9 +143,9 @@
         "total": 440
       },
       "262182034002040": {
-        "text": 1832,
+        "text": 1834,
         "media": 118,
-        "total": 1950
+        "total": 1952
       },
       "219245581488326": {
         "text": 4,
@@ -253,9 +253,9 @@
         "total": 3
       },
       "60851868446964": {
-        "text": 1231,
+        "text": 1232,
         "media": 1428,
-        "total": 2659
+        "total": 2660
       },
       "270377049690114": {
         "text": 36,
@@ -9235,7 +9235,10 @@
         "Camila Designer (92629643563147): Que gracinha! 🥰",
         "gigi✨ (60851868446964): Sim foi foi uma hora kkkk",
         "Camila Designer (92629643563147): Não tenho ninguém pra fazer ligação pra mim🥺🥺🥺🥺🥺🥺",
-        "Baby (179040627490824): E só chama alguém"
+        "Baby (179040627490824): E só chama alguém",
+        "Dany (262182034002040): Embaixo apareceu 4h49m de ligação gzuz",
+        "Camila Designer (92629643563147): Foi isso kkk",
+        "gigi✨ (60851868446964): Pqe acabou a bateria kkkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -15303,18 +15306,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Quibebe \nE porco assado",
-        "timestamp": 1787844504990
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Churrasco?",
-        "timestamp": 1787844516414
-      },
-      {
         "authorNum": "129158944415753",
         "authorName": "massagista tântrico",
         "text": "Exatamente",
@@ -15859,6 +15850,24 @@
         "authorName": "Baby",
         "text": "E só chama alguém",
         "timestamp": 1787846252995
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Embaixo apareceu 4h49m de ligação gzuz",
+        "timestamp": 1787846304315
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Foi isso kkk",
+        "timestamp": 1787846314418
+      },
+      {
+        "authorNum": "60851868446964",
+        "authorName": "gigi✨",
+        "text": "Pqe acabou a bateria kkkk",
+        "timestamp": 1787846320280
       }
     ],
     "120363428464897153@g.us": [],
@@ -15876,7 +15885,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19911,
+    "120363432018531082@g.us": 19914,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -129556,6 +129565,24 @@
         "text": "E só chama alguém",
         "pushName": "Baby",
         "timestamp": 1787846252995
+      },
+      "3A5D3D549FC083849331": {
+        "sender": "262182034002040@lid",
+        "text": "Embaixo apareceu 4h49m de ligação gzuz",
+        "pushName": "Dany",
+        "timestamp": 1787846304315
+      },
+      "2A253E8CE46155610B92": {
+        "sender": "92629643563147@lid",
+        "text": "Foi isso kkk",
+        "pushName": "Camila Designer",
+        "timestamp": 1787846314418
+      },
+      "ACE7B55844BE29A19E569E65960229E6": {
+        "sender": "60851868446964@lid",
+        "text": "Pqe acabou a bateria kkkk",
+        "pushName": "gigi✨",
+        "timestamp": 1787846320280
       }
     },
     "120363428464897153@g.us": {
@@ -177307,7 +177334,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787846283317,
+    "120363432018531082@g.us": 1787846343528,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
