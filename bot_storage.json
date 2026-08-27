@@ -241,9 +241,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2116,
+        "text": 2117,
         "media": 277,
-        "total": 2393
+        "total": 2394
       },
       "252922705240205": {
         "text": 80,
@@ -2026,9 +2026,9 @@
         "total": 2
       },
       "138483016421544": {
-        "text": 2,
-        "media": 2,
-        "total": 4
+        "text": 4,
+        "media": 3,
+        "total": 7
       },
       "213893834105067": {
         "text": 2,
@@ -2566,9 +2566,9 @@
         "total": 20
       },
       "190864487919667": {
-        "text": 69,
+        "text": 70,
         "media": 17,
-        "total": 86
+        "total": 87
       },
       "82227819987089": {
         "text": 2,
@@ -9119,9 +9119,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "gigi✨ (60851868446964): Aqui tá 27",
-        "Camila Designer (92629643563147): Jesus",
-        "Souza (190864487919667): 70% de chances de chuva",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Cadê a vela?",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Óia quem tá aqui\nBem vindo, moço",
         "Camila Designer (92629643563147): 🤣🤣🤣🤣",
@@ -9618,7 +9615,10 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Sempre né meu bem, aprendi com a mestre",
         "Lailson Nathan. (272048228188398): Cirurgião?",
         "F. RicaRdo sAnToS (193729163993156): Obrigado....pelas boas vindas, entrei e aos poucos interajo pelo trabalho.....e roubar figurinhas",
-        "F. RicaRdo sAnToS (193729163993156): Med geral por enquanto"
+        "F. RicaRdo sAnToS (193729163993156): Med geral por enquanto",
+        "Luiz Fernando 👨🏽‍💻 (138483016421544): Perdi alguma coisa por aqui",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Pode pv Leandro? Por favor",
+        "Souza (190864487919667): Buenas noites"
       ]
     },
     "120363428464897153@g.us": {
@@ -16482,6 +16482,24 @@
         "authorName": "F. RicaRdo sAnToS",
         "text": "Med geral por enquanto",
         "timestamp": 1787865013316
+      },
+      {
+        "authorNum": "138483016421544",
+        "authorName": "Luiz Fernando 👨🏽‍💻",
+        "text": "Perdi alguma coisa por aqui",
+        "timestamp": 1787865087986
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Pode pv Leandro? Por favor",
+        "timestamp": 1787865096018
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Buenas noites",
+        "timestamp": 1787865103343
       }
     ],
     "120363428464897153@g.us": [],
@@ -16632,7 +16650,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20444,
+    "120363432018531082@g.us": 20447,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1542,
@@ -133474,6 +133492,24 @@
         "text": "Med geral por enquanto",
         "pushName": "F. RicaRdo sAnToS",
         "timestamp": 1787865013317
+      },
+      "AC88DCE4AAFD7646B0ECEACBC814BF3B": {
+        "sender": "138483016421544@lid",
+        "text": "Perdi alguma coisa por aqui",
+        "pushName": "Luiz Fernando 👨🏽‍💻",
+        "timestamp": 1787865087987
+      },
+      "ACC6B3057ECA325D581F35613A77A23C": {
+        "sender": "53537388122141@lid",
+        "text": "Pode pv Leandro? Por favor",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787865096018
+      },
+      "AC3253D5FD6740593281BAAFB3E73F5E": {
+        "sender": "190864487919667@lid",
+        "text": "Buenas noites",
+        "pushName": "Souza",
+        "timestamp": 1787865103344
       }
     },
     "120363428464897153@g.us": {
@@ -181603,7 +181639,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787865065638,
+    "120363432018531082@g.us": 1787865103343,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787865029188,
