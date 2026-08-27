@@ -1353,9 +1353,9 @@
         "total": 157
       },
       "266048007835881": {
-        "text": 576,
+        "text": 578,
         "media": 264,
-        "total": 840
+        "total": 842
       },
       "123120354635955": {
         "text": 4,
@@ -8991,7 +8991,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Ala, outro",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Começou foi cedo hoje",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Bom dia hospício mais feliz",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Esse povo Aki já dorme já pensando na discórdia do outro dia nessas caixinhas sem futuro kkkkk",
@@ -9490,7 +9489,8 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Até tu se acostuma \nAqui \nTu Endoida",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Hj tá é calmo",
         "Souza (190864487919667): Ave Maria",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Tão tudo medicados ou terapia em dia"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Tão tudo medicados ou terapia em dia",
+        "🎀  Ň𝐘ηａ🐆 (266048007835881): Essas caixinha só jesus"
       ]
     },
     "120363428464897153@g.us": {
@@ -15588,12 +15588,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "1395881181241",
-        "authorName": "Bruno Aguiar",
-        "text": "Uns 1000km kkkk",
-        "timestamp": 1787859408459
-      },
-      {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Kkkkkk pô, galera de SP, RJ, nordeste... Da pra dizer que é perto kkkkk",
@@ -16078,6 +16072,12 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Tão tudo medicados ou terapia em dia",
         "timestamp": 1787861204292
+      },
+      {
+        "authorNum": "266048007835881",
+        "authorName": "🎀  Ň𝐘ηａ🐆",
+        "text": "Essas caixinha só jesus",
+        "timestamp": 1787861238440
       }
     ],
     "120363428464897153@g.us": [],
@@ -16187,7 +16187,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20266,
+    "120363432018531082@g.us": 20267,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1506,
@@ -131968,6 +131968,12 @@
         "text": "Tão tudo medicados ou terapia em dia",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787861204292
+      },
+      "ACEBBEE47627D4D04BC894A920EEE2CC": {
+        "sender": "266048007835881@lid",
+        "text": "Essas caixinha só jesus",
+        "pushName": "🎀  Ň𝐘ηａ🐆",
+        "timestamp": 1787861238440
       }
     },
     "120363428464897153@g.us": {
@@ -179881,7 +179887,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787861204292,
+    "120363432018531082@g.us": 1787861238440,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787861168499,
