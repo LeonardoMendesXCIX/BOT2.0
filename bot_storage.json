@@ -256,9 +256,9 @@
         "total": 463
       },
       "262182034002040": {
-        "text": 1865,
+        "text": 1866,
         "media": 121,
-        "total": 1986
+        "total": 1987
       },
       "219245581488326": {
         "text": 4,
@@ -2626,9 +2626,9 @@
         "total": 68
       },
       "172868239380659": {
-        "text": 65,
+        "text": 66,
         "media": 11,
-        "total": 76
+        "total": 77
       },
       "170455038193841": {
         "text": 1,
@@ -9154,7 +9154,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "🙃🙃🙃 (11171897864256): Não posso bebe ,tem câmeras dar justa causa",
         "🙃🙃🙃 (11171897864256): Tem pessoas que pagam pra mim mas não posso bebe",
         "🙃🙃🙃 (11171897864256): Só posso receber o dinheiro",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Que bom, somos duas! E não, não quero seu presente de Deus 😂",
@@ -9653,7 +9652,8 @@
         "Gleydson Souza (274384656834700): Organizar evento e uma merda kkkk",
         "Pedro Henrique (172868239380659): Com calor",
         "Clayton 🇳🇬 (155503636275307): Sim sim",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Somos dois"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Somos dois",
+        "Pedro Henrique (172868239380659): Quero é chuva"
       ]
     },
     "120363428464897153@g.us": {
@@ -16334,6 +16334,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Somos dois",
         "timestamp": 1787874215707
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Quero é chuva",
+        "timestamp": 1787874264615
       }
     ],
     "120363428464897153@g.us": [],
@@ -16461,7 +16467,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20852,
+    "120363432018531082@g.us": 20853,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1667,
@@ -135726,6 +135732,12 @@
         "text": "Somos dois",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787874215707
+      },
+      "ACD69C9103D40FB546B69B7A2312EB16": {
+        "sender": "172868239380659@lid",
+        "text": "Quero é chuva",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787874264615
       }
     },
     "120363428464897153@g.us": {
@@ -184619,7 +184631,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787874223356,
+    "120363432018531082@g.us": 1787874270209,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787874181544,
