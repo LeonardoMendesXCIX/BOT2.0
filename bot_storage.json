@@ -103,9 +103,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1411,
+        "text": 1412,
         "media": 1070,
-        "total": 2481
+        "total": 2482
       },
       "3126803329115": {
         "text": 87,
@@ -1868,9 +1868,9 @@
         "total": 6
       },
       "129158944415753": {
-        "text": 34,
+        "text": 36,
         "media": 2,
-        "total": 36
+        "total": 38
       },
       "276003205152992": {
         "text": 5,
@@ -3491,8 +3491,8 @@
       },
       "81991328395336": {
         "text": 7,
-        "media": 110,
-        "total": 117
+        "media": 112,
+        "total": 119
       },
       "145381035905262": {
         "text": 7,
@@ -9185,7 +9185,10 @@
         "Camila Designer (92629643563147): Vai me hospedar?",
         "massagista tântrico (129158944415753): Claro",
         "massagista tântrico (129158944415753): Convidada de honra",
-        "massagista tântrico (129158944415753): Ainda te mando passagem aerea"
+        "massagista tântrico (129158944415753): Ainda te mando passagem aerea",
+        "Camila Designer (92629643563147): Preciso voltar viva pra casa, tenho uma filha de 8 anos 🤣🤣🤣",
+        "massagista tântrico (129158944415753): Te farei uma deliciosa massagem",
+        "massagista tântrico (129158944415753): Por tudo seu corpinho"
       ]
     },
     "120363428464897153@g.us": {
@@ -15563,6 +15566,24 @@
         "authorName": "massagista tântrico",
         "text": "Ainda te mando passagem aerea",
         "timestamp": 1787845361847
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Preciso voltar viva pra casa, tenho uma filha de 8 anos 🤣🤣🤣",
+        "timestamp": 1787845371284
+      },
+      {
+        "authorNum": "129158944415753",
+        "authorName": "massagista tântrico",
+        "text": "Te farei uma deliciosa massagem",
+        "timestamp": 1787845382860
+      },
+      {
+        "authorNum": "129158944415753",
+        "authorName": "massagista tântrico",
+        "text": "Por tudo seu corpinho",
+        "timestamp": 1787845388748
       }
     ],
     "120363428464897153@g.us": [],
@@ -15659,7 +15680,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19866,
+    "120363432018531082@g.us": 19869,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -129069,6 +129090,24 @@
         "text": "Ainda te mando passagem aerea",
         "pushName": "massagista tântrico",
         "timestamp": 1787845361847
+      },
+      "2A133707206C1B195181": {
+        "sender": "92629643563147@lid",
+        "text": "Preciso voltar viva pra casa, tenho uma filha de 8 anos 🤣🤣🤣",
+        "pushName": "Camila Designer",
+        "timestamp": 1787845371285
+      },
+      "A53795146E9C373FCE96815481106B68": {
+        "sender": "129158944415753@lid",
+        "text": "Te farei uma deliciosa massagem",
+        "pushName": "massagista tântrico",
+        "timestamp": 1787845382860
+      },
+      "A5D93EEFBD7A9B263B7B58ADB26D5274": {
+        "sender": "129158944415753@lid",
+        "text": "Por tudo seu corpinho",
+        "pushName": "massagista tântrico",
+        "timestamp": 1787845388748
       }
     },
     "120363428464897153@g.us": {
@@ -176820,7 +176859,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787845361847,
+    "120363432018531082@g.us": 1787845388748,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
@@ -176831,7 +176870,7 @@
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1787803320850,
-    "120363409024805409@g.us": 1787844571817
+    "120363409024805409@g.us": 1787845393049
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
