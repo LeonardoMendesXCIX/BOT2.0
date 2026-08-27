@@ -128,9 +128,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2033,
+        "text": 2035,
         "media": 268,
-        "total": 2301
+        "total": 2303
       },
       "252922705240205": {
         "text": 80,
@@ -8986,8 +8986,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Baby (179040627490824): n",
-        "Baby (179040627490824): pior q n o cll ta desligado",
         "Baby (179040627490824): acabei de ligar o pc",
         "Baby (179040627490824): vai no medico ver isso gigi",
         "Baby (179040627490824): fiquei encarando o teto",
@@ -9485,7 +9483,9 @@
         "🎀  Ň𝐘ηａ🐆 (266048007835881): @238233849983072 arrocha ai",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Nao tenho tempo pra competição não",
         "Souza (190864487919667): Fixar",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Vão fazer a boa ou não? Decidem aí\nLenga lenga"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Vão fazer a boa ou não? Decidem aí\nLenga lenga",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tá fixado kkk acho que é pq você entrou depois",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Vou mandar sempre o link aqui"
       ]
     },
     "120363428464897153@g.us": {
@@ -15568,18 +15568,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Te conheço em",
-        "timestamp": 1787857811312
-      },
-      {
-        "authorNum": "111506477846600",
-        "authorName": "'   MƲRIԼԼƠ  🥶",
-        "text": "Será",
-        "timestamp": 1787857822717
-      },
-      {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Te conheço também 👀",
@@ -16160,6 +16148,18 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Vão fazer a boa ou não? Decidem aí\nLenga lenga",
         "timestamp": 1787859601560
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Tá fixado kkk acho que é pq você entrou depois",
+        "timestamp": 1787859619712
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Vou mandar sempre o link aqui",
+        "timestamp": 1787859625913
       }
     ],
     "120363428464897153@g.us": [],
@@ -16244,7 +16244,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20194,
+    "120363432018531082@g.us": 20196,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1493,
@@ -131612,6 +131612,18 @@
         "text": "Vão fazer a boa ou não? Decidem aí\nLenga lenga",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787859601560
+      },
+      "ACD3F23B3D5795A866AB7144E95D566C": {
+        "sender": "53537388122141@lid",
+        "text": "Tá fixado kkk acho que é pq você entrou depois",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787859619713
+      },
+      "AC577408E8A4C515A33CE8F5EA178113": {
+        "sender": "53537388122141@lid",
+        "text": "Vou mandar sempre o link aqui",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787859625913
       }
     },
     "120363428464897153@g.us": {
@@ -179441,7 +179453,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787859601560,
+    "120363432018531082@g.us": 1787859625913,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787859082635,
