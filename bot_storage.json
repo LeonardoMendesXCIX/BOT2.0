@@ -241,9 +241,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2165,
+        "text": 2166,
         "media": 282,
-        "total": 2447
+        "total": 2448
       },
       "252922705240205": {
         "text": 80,
@@ -9154,7 +9154,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Boa tarde",
         "🙃🙃🙃 (11171897864256): Tranquilo",
         "🙃🙃🙃 (11171897864256): Tranquilo?",
         "🙃🙃🙃 (11171897864256): Blz",
@@ -9653,7 +9652,8 @@
         "Gabriel (145381035905262): Tu é muito elegante @53537388122141  mas a casa tem o charme. Foi mal 😂😂",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Gamou",
         "Souza (190864487919667): Cheguei",
-        "Souza (190864487919667): Com fome"
+        "Souza (190864487919667): Com fome",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): A casa é linda mesmo\nEu morando aí ia ser combo completo 😂😂😂"
       ]
     },
     "120363428464897153@g.us": {
@@ -16259,6 +16259,12 @@
         "authorName": "Souza",
         "text": "Com fome",
         "timestamp": 1787873639703
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "A casa é linda mesmo\nEu morando aí ia ser combo completo 😂😂😂",
+        "timestamp": 1787873656051
       }
     ],
     "120363428464897153@g.us": [],
@@ -16404,7 +16410,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20828,
+    "120363432018531082@g.us": 20829,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1664,
@@ -135525,6 +135531,12 @@
         "text": "Com fome",
         "pushName": "Souza",
         "timestamp": 1787873639704
+      },
+      "ACBCED9C46AC1165292D5D76EF149976": {
+        "sender": "53537388122141@lid",
+        "text": "A casa é linda mesmo\nEu morando aí ia ser combo completo 😂😂😂",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787873656051
       }
     },
     "120363428464897153@g.us": {
@@ -184400,7 +184412,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787873639703,
+    "120363432018531082@g.us": 1787873656051,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787873603321,
