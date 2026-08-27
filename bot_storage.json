@@ -256,9 +256,9 @@
         "total": 463
       },
       "262182034002040": {
-        "text": 1856,
+        "text": 1857,
         "media": 121,
-        "total": 1977
+        "total": 1978
       },
       "219245581488326": {
         "text": 4,
@@ -3317,9 +3317,9 @@
         "total": 482
       },
       "53537388122141": {
-        "text": 647,
+        "text": 648,
         "media": 50,
-        "total": 697
+        "total": 698
       },
       "120363412288900422": {
         "text": 1,
@@ -9154,7 +9154,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Gleydson Souza (274384656834700): Já aconteceu cmg",
         "Jonathan Bráulio (187097969348735): Meu pavio é mt curto",
         "Jonathan Bráulio (187097969348735): Nn tenho paciência nenhuma",
         "Jonathan Bráulio (187097969348735): Ainda mais quando se trata de McDonald's",
@@ -9653,7 +9652,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Ala",
         "Dany (262182034002040): Ala ele",
         "Dany (262182034002040): Começou",
-        "Gabriel (145381035905262): Acabamos de entregar pra um cliente hoje! \n\nQue energia, que casa, quis compartilhar com vocês também"
+        "Gabriel (145381035905262): Acabamos de entregar pra um cliente hoje! \n\nQue energia, que casa, quis compartilhar com vocês também",
+        "Dany (262182034002040): Bela casa!"
       ]
     },
     "120363428464897153@g.us": {
@@ -15432,7 +15432,8 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Exato",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Assino embaixo e encima",
         "Gabriel (145381035905262): Positivo e operante",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): 🫡"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): 🫡",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Aguardem um pouquinho o processo ai"
       ]
     },
     "120363411233423709@g.us": {
@@ -15899,12 +15900,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Hj msm fui durmi a tarde",
-        "timestamp": 1787871424110
-      },
-      {
         "authorNum": "274384656834700",
         "authorName": "Gleydson Souza",
         "text": "Meu sonho kkkkk",
@@ -16077,65 +16072,17 @@
         "authorName": "Gabriel",
         "text": "Acabamos de entregar pra um cliente hoje! \n\nQue energia, que casa, quis compartilhar com vocês também",
         "timestamp": 1787873206923
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Bela casa!",
+        "timestamp": 1787873240281
       }
     ],
     "120363428464897153@g.us": [],
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Ignore a cachorrada",
-        "timestamp": 1787871307818
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "@81991328395336 \n@54259127210155 \nO que vocês acham sobre isso aqui?",
-        "timestamp": 1787871406406
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Por mim, é ban em todo mundo e fds",
-        "timestamp": 1787871418680
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Até pq tá todo mundo caçando confusão igual",
-        "timestamp": 1787871429423
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "O que a diretora decidi tá decidido",
-        "timestamp": 1787871448742
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "🫡",
-        "timestamp": 1787871453545
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Eu amiga?",
-        "timestamp": 1787871472872
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Mais eu nunca vi a Sabrina fazer nada a ela",
-        "timestamp": 1787871486138
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Não vou mentir",
-        "timestamp": 1787871490478
-      },
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
@@ -16213,6 +16160,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "🫡",
         "timestamp": 1787872451366
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Aguardem um pouquinho o processo ai",
+        "timestamp": 1787873305856
       }
     ],
     "120363411233423709@g.us": [],
@@ -16228,10 +16181,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20794,
+    "120363432018531082@g.us": 20795,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1650,
+    "120363412288900422@g.us": 1651,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -135151,6 +135104,12 @@
         "text": "Acabamos de entregar pra um cliente hoje! \n\nQue energia, que casa, quis compartilhar com vocês também",
         "pushName": "Gabriel",
         "timestamp": 1787873206923
+      },
+      "3A5E8A2D7619D5951DCD": {
+        "sender": "262182034002040@lid",
+        "text": "Bela casa!",
+        "pushName": "Dany",
+        "timestamp": 1787873240282
       }
     },
     "120363428464897153@g.us": {
@@ -181387,6 +181346,12 @@
         "text": "🫡",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787872451366
+      },
+      "ACAB850ADBF65C2512BDEFC88C2E41E6": {
+        "sender": "53537388122141@lid",
+        "text": "Aguardem um pouquinho o processo ai",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787873305856
       }
     },
     "120363411233423709@g.us": {
@@ -183942,10 +183907,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787873212561,
+    "120363432018531082@g.us": 1787873240281,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787873228902,
+    "120363412288900422@g.us": 1787873305856,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
