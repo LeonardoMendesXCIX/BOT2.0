@@ -141,9 +141,9 @@
         "total": 1934
       },
       "81991328395336": {
-        "text": 3818,
+        "text": 3819,
         "media": 1292,
-        "total": 5110
+        "total": 5111
       },
       "179040627490824": {
         "text": 433,
@@ -241,9 +241,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2103,
+        "text": 2105,
         "media": 275,
-        "total": 2378
+        "total": 2380
       },
       "252922705240205": {
         "text": 80,
@@ -2621,14 +2621,14 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 20,
+        "text": 22,
         "media": 3,
-        "total": 23
+        "total": 25
       },
       "172868239380659": {
-        "text": 21,
-        "media": 5,
-        "total": 26
+        "text": 22,
+        "media": 6,
+        "total": 28
       },
       "170455038193841": {
         "text": 1,
@@ -9114,12 +9114,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Camila Designer (92629643563147): Que gracinha! 🥰",
-        "gigi✨ (60851868446964): Sim foi foi uma hora kkkk",
-        "Camila Designer (92629643563147): Não tenho ninguém pra fazer ligação pra mim🥺🥺🥺🥺🥺🥺",
-        "Baby (179040627490824): E só chama alguém",
-        "Dany (262182034002040): Embaixo apareceu 4h49m de ligação gzuz",
-        "Camila Designer (92629643563147): Foi isso kkk",
         "gigi✨ (60851868446964): Pqe acabou a bateria kkkk",
         "Camila Designer (92629643563147): Deixa eu entender um ligou para o outro e alguém dormiu? Kkkk",
         "gigi✨ (60851868446964): Eu dormi kkkk",
@@ -9613,7 +9607,13 @@
         "Pedro Henrique (172868239380659): O mais engraçado é que são DDD diferente brigando",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Deixo pra morta de fome",
         "Pedro Henrique (172868239380659): O cara tbm é de Brasília?",
-        "Pedro Henrique (172868239380659): Pq pelo DDD ela é de Brasília"
+        "Pedro Henrique (172868239380659): Pq pelo DDD ela é de Brasília",
+        "Gleydson Souza (274384656834700): Na vdd e uma querendo puxar briga e a outra so falando vdd",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): É nada",
+        "Gleydson Souza (274384656834700): Kkkkk",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Qual que tava falando verdade?",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): A figurinha da discórdia",
+        "Pedro Henrique (172868239380659): Kkkkk kkkkkkkkkk porra aí é foda"
       ]
     },
     "120363428464897153@g.us": {
@@ -16283,6 +16283,42 @@
         "authorName": "Pedro Henrique",
         "text": "Pq pelo DDD ela é de Brasília",
         "timestamp": 1787864624243
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Na vdd e uma querendo puxar briga e a outra so falando vdd",
+        "timestamp": 1787864636657
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "É nada",
+        "timestamp": 1787864636935
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Kkkkk",
+        "timestamp": 1787864641133
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Qual que tava falando verdade?",
+        "timestamp": 1787864651039
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "A figurinha da discórdia",
+        "timestamp": 1787864659813
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Kkkkk kkkkkkkkkk porra aí é foda",
+        "timestamp": 1787864661042
       }
     ],
     "120363428464897153@g.us": [],
@@ -16439,7 +16475,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20407,
+    "120363432018531082@g.us": 20413,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1540,
@@ -133059,6 +133095,42 @@
         "text": "Pq pelo DDD ela é de Brasília",
         "pushName": "Pedro Henrique",
         "timestamp": 1787864624243
+      },
+      "AC88D9E947FECDF302BBFF9ED24B74AA": {
+        "sender": "274384656834700@lid",
+        "text": "Na vdd e uma querendo puxar briga e a outra so falando vdd",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787864636657
+      },
+      "AC33550B149874C4398FA7CA75E90E1E": {
+        "sender": "53537388122141@lid",
+        "text": "É nada",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787864636935
+      },
+      "AC26486C3411150DC181F29E3EB12C0C": {
+        "sender": "274384656834700@lid",
+        "text": "Kkkkk",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787864641133
+      },
+      "AC94400E1B1B6954F05715A6E8E697B5": {
+        "sender": "53537388122141@lid",
+        "text": "Qual que tava falando verdade?",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787864651039
+      },
+      "ACEB284F452E2BF1B2FBDC78C8DD0101": {
+        "sender": "81991328395336@lid",
+        "text": "A figurinha da discórdia",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787864659813
+      },
+      "AC9EA66DA15C2C4CB81815CB5A3EF476": {
+        "sender": "172868239380659@lid",
+        "text": "Kkkkk kkkkkkkkkk porra aí é foda",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787864661042
       }
     },
     "120363428464897153@g.us": {
@@ -181176,7 +181248,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787864624243,
+    "120363432018531082@g.us": 1787864661042,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787864476741,
