@@ -1514,9 +1514,9 @@
         "total": 62
       },
       "219881320521868": {
-        "text": 7,
+        "text": 9,
         "media": 0,
-        "total": 7
+        "total": 9
       },
       "141335227023483": {
         "text": 3,
@@ -8418,8 +8418,6 @@
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Cai  de paraquedas Aki e já descobri meio mundo de coisas kkkkkk"
       ],
       "26/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bora, te passo meu Pix",
-        "Gabriel Ohi (90130358485223): Quanto? Kkkk",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Baratinho até, 200 reais tudo\nManda 300 pra mim passar no mercado comprar algo pra comer 👉🏻👈🏻😂",
         "Dany (262182034002040): EXATO!",
         "Dany (262182034002040): O café já é sem açúcar",
@@ -8917,7 +8915,9 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Tu quer uma mulher pra dividir tudo",
         "gigi✨ (60851868446964): Mmmm",
         "gigi✨ (60851868446964): Kkk",
-        "gigi✨ (60851868446964): @#"
+        "gigi✨ (60851868446964): @#",
+        "Tauana Souza (219881320521868): Boa noite! 😚 Chegando pra interagir rsrs",
+        "Tauana Souza (219881320521868): Alguém do Maranhão, Pará, Tocantins?"
       ]
     },
     "120363428464897153@g.us": {
@@ -14729,18 +14729,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "118395236282617",
-        "authorName": "Caroline",
-        "text": "A voz dele e perfeita",
-        "timestamp": 1787796081755
-      },
-      {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "Zoio bonito",
-        "timestamp": 1787796102978
-      },
-      {
         "authorNum": "266048007835881",
         "authorName": "🎀  Ň𝐘ηａ🐆",
         "text": "Já vim assim de fábrica 🐅",
@@ -14805,6 +14793,18 @@
         "authorName": "gigi✨",
         "text": "@#",
         "timestamp": 1787797435360
+      },
+      {
+        "authorNum": "219881320521868",
+        "authorName": "Tauana Souza",
+        "text": "Boa noite! 😚 Chegando pra interagir rsrs",
+        "timestamp": 1787797944667
+      },
+      {
+        "authorNum": "219881320521868",
+        "authorName": "Tauana Souza",
+        "text": "Alguém do Maranhão, Pará, Tocantins?",
+        "timestamp": 1787797961702
       }
     ],
     "120363428464897153@g.us": [
@@ -15261,7 +15261,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19597,
+    "120363432018531082@g.us": 19599,
     "120363428464897153@g.us": 5803,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1433,
@@ -127088,6 +127088,18 @@
         "text": "@#",
         "pushName": "gigi✨",
         "timestamp": 1787797435360
+      },
+      "ACB14499EE9FE9A5D9893DC87547952B": {
+        "sender": "219881320521868@lid",
+        "text": "Boa noite! 😚 Chegando pra interagir rsrs",
+        "pushName": "Tauana Souza",
+        "timestamp": 1787797944667
+      },
+      "AC2738198B073D550AC62CD3EE5DC2E8": {
+        "sender": "219881320521868@lid",
+        "text": "Alguém do Maranhão, Pará, Tocantins?",
+        "pushName": "Tauana Souza",
+        "timestamp": 1787797961702
       }
     },
     "120363428464897153@g.us": {
@@ -173082,7 +173094,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787797810155,
+    "120363432018531082@g.us": 1787797961702,
     "120363428464897153@g.us": 1787797909218,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787797187001,
