@@ -103,9 +103,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1408,
-        "media": 1069,
-        "total": 2477
+        "text": 1409,
+        "media": 1070,
+        "total": 2479
       },
       "3126803329115": {
         "text": 87,
@@ -548,9 +548,9 @@
         "total": 91
       },
       "57707230945348": {
-        "text": 1105,
+        "text": 1106,
         "media": 198,
-        "total": 1303
+        "total": 1304
       },
       "152218690924790": {
         "text": 309,
@@ -1868,9 +1868,9 @@
         "total": 6
       },
       "129158944415753": {
-        "text": 29,
+        "text": 30,
         "media": 2,
-        "total": 31
+        "total": 32
       },
       "276003205152992": {
         "text": 5,
@@ -9174,7 +9174,10 @@
         "gigi✨ (60851868446964): 😂",
         "massagista tântrico (129158944415753): Medrosa",
         "Camila Designer (92629643563147): Não confio em mim, se me chamar posso parar no Rio 🤣🤣🤣",
-        "Rafael Moura (57707230945348): Vc sabe o que é massagem tãntrica ne?"
+        "Rafael Moura (57707230945348): Vc sabe o que é massagem tãntrica ne?",
+        "Camila Designer (92629643563147): Lógico",
+        "massagista tântrico (129158944415753): Sim sei sim",
+        "Rafael Moura (57707230945348): Aproveita que passagem pro Rj não é cara"
       ]
     },
     "120363428464897153@g.us": {
@@ -15492,6 +15495,24 @@
         "authorName": "Rafael Moura",
         "text": "Vc sabe o que é massagem tãntrica ne?",
         "timestamp": 1787845219680
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Lógico",
+        "timestamp": 1787845226111
+      },
+      {
+        "authorNum": "129158944415753",
+        "authorName": "massagista tântrico",
+        "text": "Sim sei sim",
+        "timestamp": 1787845228552
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Aproveita que passagem pro Rj não é cara",
+        "timestamp": 1787845244430
       }
     ],
     "120363428464897153@g.us": [],
@@ -15588,7 +15609,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19855,
+    "120363432018531082@g.us": 19858,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -128932,6 +128953,24 @@
         "text": "Vc sabe o que é massagem tãntrica ne?",
         "pushName": "Rafael Moura",
         "timestamp": 1787845219680
+      },
+      "2A76814E2641CE671072": {
+        "sender": "92629643563147@lid",
+        "text": "Lógico",
+        "pushName": "Camila Designer",
+        "timestamp": 1787845226111
+      },
+      "A532A7146B766728DB5E3D2EF6073E08": {
+        "sender": "129158944415753@lid",
+        "text": "Sim sei sim",
+        "pushName": "massagista tântrico",
+        "timestamp": 1787845228552
+      },
+      "AC7D4E6B1645AA43133D4D9C1F5C388B": {
+        "sender": "57707230945348@lid",
+        "text": "Aproveita que passagem pro Rj não é cara",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787845244430
       }
     },
     "120363428464897153@g.us": {
@@ -176683,7 +176722,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787845219680,
+    "120363432018531082@g.us": 1787845250967,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
