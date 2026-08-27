@@ -28,9 +28,9 @@
         "total": 1924
       },
       "81991328395336": {
-        "text": 3739,
+        "text": 3741,
         "media": 1256,
-        "total": 4995
+        "total": 4997
       },
       "179040627490824": {
         "text": 420,
@@ -103,9 +103,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1397,
+        "text": 1399,
         "media": 1059,
-        "total": 2456
+        "total": 2458
       },
       "3126803329115": {
         "text": 87,
@@ -2433,9 +2433,9 @@
         "total": 1
       },
       "39402768232586": {
-        "text": 2,
+        "text": 3,
         "media": 1,
-        "total": 3
+        "total": 4
       },
       "23163446493420": {
         "text": 1,
@@ -9095,7 +9095,12 @@
         "massagista tântrico (129158944415753): Será muito bem vinda",
         "Breno (234324976738434): Breno Gabriel \n24 anos\nGoiânia (GO) \nSatisfação !",
         ". (39402768232586): Meu nome é João Pedro \nTenho 19 anos \nSou de Belo Horizonte",
-        "Camila Designer (92629643563147): Porque apagou João?"
+        "Camila Designer (92629643563147): Porque apagou João?",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Era a apresentação dele",
+        ". (39402768232586): Desculpe achei que só podia mandar de visualização única",
+        "Camila Designer (92629643563147): Não, pode mandar normal!",
+        "Camila Designer (92629643563147): E uma foto ☺️",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Pode manda dos 2 jeito \nVai dá preferência da pessoa"
       ]
     },
     "120363428464897153@g.us": {
@@ -15304,6 +15309,36 @@
         "authorName": "Camila Designer",
         "text": "Porque apagou João?",
         "timestamp": 1787841601105
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Era a apresentação dele",
+        "timestamp": 1787841632897
+      },
+      {
+        "authorNum": "39402768232586",
+        "authorName": ".",
+        "text": "Desculpe achei que só podia mandar de visualização única",
+        "timestamp": 1787841636353
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Não, pode mandar normal!",
+        "timestamp": 1787841647456
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "E uma foto ☺️",
+        "timestamp": 1787841657171
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Pode manda dos 2 jeito \nVai dá preferência da pessoa",
+        "timestamp": 1787841658276
       }
     ],
     "120363428464897153@g.us": [],
@@ -15321,7 +15356,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19791,
+    "120363432018531082@g.us": 19796,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1466,
@@ -128281,6 +128316,36 @@
         "text": "Porque apagou João?",
         "pushName": "Camila Designer",
         "timestamp": 1787841601105
+      },
+      "ACA1119603D8B621980B8B93423500B7": {
+        "sender": "81991328395336@lid",
+        "text": "Era a apresentação dele",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787841632897
+      },
+      "3A8EB0F91B0279F7D3A7": {
+        "sender": "39402768232586@lid",
+        "text": "Desculpe achei que só podia mandar de visualização única",
+        "pushName": ".",
+        "timestamp": 1787841636353
+      },
+      "2A636DD24887468367DB": {
+        "sender": "92629643563147@lid",
+        "text": "Não, pode mandar normal!",
+        "pushName": "Camila Designer",
+        "timestamp": 1787841647456
+      },
+      "2A154F7FF87D2CF09877": {
+        "sender": "92629643563147@lid",
+        "text": "E uma foto ☺️",
+        "pushName": "Camila Designer",
+        "timestamp": 1787841657171
+      },
+      "ACA2FA9C2AD34BF56DA2FA20C5BB9363": {
+        "sender": "81991328395336@lid",
+        "text": "Pode manda dos 2 jeito \nVai dá preferência da pessoa",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787841658276
       }
     },
     "120363428464897153@g.us": {
@@ -175954,7 +176019,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787841601105,
+    "120363432018531082@g.us": 1787841658276,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787829200713,
