@@ -404,9 +404,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1607,
+        "text": 1608,
         "media": 318,
-        "total": 1925
+        "total": 1926
       },
       "252600633041077": {
         "text": 1,
@@ -8919,7 +8919,9 @@
         "Leandro (+55 (11) 92701-8683): Mal sabe você que eu domino em fazer comida japonesa 🤭",
         "Gabriel (145381035905262): Bó"
       ],
-      "27/08/2026": []
+      "27/08/2026": [
+        "Leandro (+55 (11) 92701-8683): Tá vendo? Uma troca justa, você faz outros tipos de comida e eu a japonesa 😌"
+      ]
     },
     "120363428464897153@g.us": {
       "15/08/2026": [
@@ -14812,6 +14814,12 @@
         "authorName": "Gabriel",
         "text": "Bó",
         "timestamp": 1787799580573
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Tá vendo? Uma troca justa, você faz outros tipos de comida e eu a japonesa 😌",
+        "timestamp": 1787799692974
       }
     ],
     "120363428464897153@g.us": [
@@ -15153,7 +15161,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19611,
+    "120363432018531082@g.us": 19612,
     "120363428464897153@g.us": 5853,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1433,
@@ -127058,6 +127066,12 @@
         "text": "Bó",
         "pushName": "Gabriel",
         "timestamp": 1787799580573
+      },
+      "A5029630F37A412BFD6F976D79405E87": {
+        "sender": "54259127210155@lid",
+        "text": "Tá vendo? Uma troca justa, você faz outros tipos de comida e eu a japonesa 😌",
+        "pushName": "Leandro",
+        "timestamp": 1787799692974
       }
     },
     "120363428464897153@g.us": {
@@ -173352,7 +173366,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787799666739,
+    "120363432018531082@g.us": 1787799692974,
     "120363428464897153@g.us": 1787799322772,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787797187001,
