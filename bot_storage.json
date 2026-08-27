@@ -2621,9 +2621,9 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 46,
+        "text": 47,
         "media": 11,
-        "total": 57
+        "total": 58
       },
       "172868239380659": {
         "text": 59,
@@ -3302,9 +3302,9 @@
     },
     "120363412288900422@g.us": {
       "81991328395336": {
-        "text": 414,
+        "text": 415,
         "media": 113,
-        "total": 527
+        "total": 528
       },
       "5511927018683": {
         "text": 435,
@@ -3317,9 +3317,9 @@
         "total": 471
       },
       "53537388122141": {
-        "text": 641,
+        "text": 642,
         "media": 50,
-        "total": 691
+        "total": 692
       },
       "120363412288900422": {
         "text": 1,
@@ -9154,7 +9154,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Tão tudo medicados ou terapia em dia",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Essas caixinha só jesus",
         "Souza (190864487919667): Vamos respirar",
         "Souza (190864487919667): Hoje é quinta",
@@ -9653,7 +9652,8 @@
         "Jane (247635785080860): Kkkkk",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Eu durmo lá 2 da manhã",
         "Gleydson Souza (274384656834700): Q isso 2h ja to no 18° sono kkkkkk",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Hj msm fui durmi a tarde"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Hj msm fui durmi a tarde",
+        "Gleydson Souza (274384656834700): Meu sonho kkkkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -15415,7 +15415,9 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): @81991328395336 \n@54259127210155 \nO que vocês acham sobre isso aqui?",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Por mim, é ban em todo mundo e fds",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Até pq tá todo mundo caçando confusão igual",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): O que a diretora decidi tá decidido"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): O que a diretora decidi tá decidido",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): 🫡",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Eu amiga?"
       ]
     },
     "120363411233423709@g.us": {
@@ -16282,17 +16284,17 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Hj msm fui durmi a tarde",
         "timestamp": 1787871424110
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Meu sonho kkkkk",
+        "timestamp": 1787871463320
       }
     ],
     "120363428464897153@g.us": [],
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Não, tá lá",
-        "timestamp": 1787869654883
-      },
       {
         "authorNum": "81991328395336",
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
@@ -16598,6 +16600,18 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "O que a diretora decidi tá decidido",
         "timestamp": 1787871448742
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "🫡",
+        "timestamp": 1787871453545
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Eu amiga?",
+        "timestamp": 1787871472872
       }
     ],
     "120363411233423709@g.us": [],
@@ -16613,10 +16627,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20765,
+    "120363432018531082@g.us": 20766,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1633,
+    "120363412288900422@g.us": 1635,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -135362,6 +135376,12 @@
         "text": "Hj msm fui durmi a tarde",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787871424111
+      },
+      "AC2E6FC4593DF2907FB18130EDF74A2D": {
+        "sender": "274384656834700@lid",
+        "text": "Meu sonho kkkkk",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787871463320
       }
     },
     "120363428464897153@g.us": {
@@ -181496,6 +181516,18 @@
         "text": "O que a diretora decidi tá decidido",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787871448743
+      },
+      "AC7C994CC4B5B532C9BC3DF5F3F404FE": {
+        "sender": "81991328395336@lid",
+        "text": "🫡",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787871453546
+      },
+      "ACE0862B56ADF9984A60C0F29A194344": {
+        "sender": "53537388122141@lid",
+        "text": "Eu amiga?",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787871472872
       }
     },
     "120363411233423709@g.us": {
@@ -184051,10 +184083,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787871424110,
+    "120363432018531082@g.us": 1787871463320,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787871448742,
+    "120363412288900422@g.us": 1787871472872,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
