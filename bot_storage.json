@@ -141,9 +141,9 @@
         "total": 1934
       },
       "81991328395336": {
-        "text": 3831,
+        "text": 3833,
         "media": 1296,
-        "total": 5127
+        "total": 5129
       },
       "179040627490824": {
         "text": 433,
@@ -661,9 +661,9 @@
         "total": 95
       },
       "57707230945348": {
-        "text": 1123,
+        "text": 1125,
         "media": 199,
-        "total": 1322
+        "total": 1324
       },
       "152218690924790": {
         "text": 309,
@@ -9134,8 +9134,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Bruno Aguiar (+1395881181241): Seja bem vinda!!",
-        "Neto prime (238233849983072): O samba gostei mas um couver de 60 reais é um ingresso kkkkk",
         "Camila Viana (188845719089205): Gente! Que lugar é esse que você foi? Rs",
         "Alexandre Bastos (75797868064796): Aqui tbm tudo de bom na Lapa,parque de madureira,pagode ,samba",
         "Neto prime (238233849983072): Bar do Zeca e lá no boa praça",
@@ -9633,7 +9631,9 @@
         "Gabriel (145381035905262): Só você",
         "Gabriel (145381035905262): Uma em cada grupo 😂😂😂",
         "F. RicaRdo sAnToS (193729163993156): De Rocha agora",
-        "willian (163530946961491): Tiroso 😅😅😅"
+        "willian (163530946961491): Tiroso 😅😅😅",
+        "Rafael Moura (57707230945348): Gente hoje foi foda",
+        "Rafael Moura (57707230945348): So agora cheguei em casa"
       ]
     },
     "120363428464897153@g.us": {
@@ -16261,6 +16261,18 @@
         "authorName": "willian",
         "text": "Tiroso 😅😅😅",
         "timestamp": 1787866820609
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Gente hoje foi foda",
+        "timestamp": 1787866877572
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "So agora cheguei em casa",
+        "timestamp": 1787866881472
       }
     ],
     "120363428464897153@g.us": [],
@@ -16299,7 +16311,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20526,
+    "120363432018531082@g.us": 20528,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1543,
@@ -133627,6 +133639,18 @@
         "text": "Tiroso 😅😅😅",
         "pushName": "willian",
         "timestamp": 1787866820610
+      },
+      "ACDA73CCC88F05D82EF2D34BA323AD1E": {
+        "sender": "57707230945348@lid",
+        "text": "Gente hoje foi foda",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787866877572
+      },
+      "AC75C488D63ECB3F80180ED76027C5E8": {
+        "sender": "57707230945348@lid",
+        "text": "So agora cheguei em casa",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787866881472
       }
     },
     "120363428464897153@g.us": {
@@ -181770,7 +181794,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787866849135,
+    "120363432018531082@g.us": 1787866881472,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787865477162,
