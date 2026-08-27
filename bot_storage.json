@@ -2621,9 +2621,9 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 31,
+        "text": 32,
         "media": 10,
-        "total": 41
+        "total": 42
       },
       "172868239380659": {
         "text": 39,
@@ -9139,7 +9139,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Camila Viana (188845719089205): Isso aí 🙃",
         "Neto prime (238233849983072): Long neck",
         "Neto prime (238233849983072): Kkkkkkk",
         "Camila Viana (188845719089205): Realmente, na maioria dos bares acima da média o valor é esse ae",
@@ -9638,7 +9637,8 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Ela saiu por conta do ciúme imaginário",
         "Jessica (208958782488665): 💥 BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Queremos conhecer você! ✨\n\n💬 Nome:Jéssica \n🎂 Idade:30+ ....\n📍 De onde sou:sp\n\n*🫶🏻 Seja bem-vindo(a)!*\n\n✨ Sinta-se à vontade para interagir, conhecer a galera e faz",
         " (120363432018531082): 💥 BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Queremos conhecer você! ✨\n\n💬 Nome:Jéssica \n🎂 Idade:30+ ....\n📍 De onde sou:sp\n\n*🫶🏻 Seja bem-vindo(a)!*\n\n✨ Sinta-se à vontade para interagir, conhecer a galera e faz",
-        "Rafael Moura (57707230945348): Bem vinda Jessica"
+        "Rafael Moura (57707230945348): Bem vinda Jessica",
+        "Gleydson Souza (274384656834700): Bem vinda"
       ]
     },
     "120363428464897153@g.us": {
@@ -16278,6 +16278,12 @@
         "authorName": "Rafael Moura",
         "text": "Bem vinda Jessica",
         "timestamp": 1787866986777
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Bem vinda",
+        "timestamp": 1787866994218
       }
     ],
     "120363428464897153@g.us": [],
@@ -16316,7 +16322,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20533,
+    "120363432018531082@g.us": 20534,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1543,
@@ -133680,6 +133686,12 @@
         "text": "Bem vinda Jessica",
         "pushName": "Rafael Moura",
         "timestamp": 1787866986777
+      },
+      "ACF8173D228291563B7DE3D443A88C8F": {
+        "sender": "274384656834700@lid",
+        "text": "Bem vinda",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787866994218
       }
     },
     "120363428464897153@g.us": {
@@ -181823,7 +181835,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787866986777,
+    "120363432018531082@g.us": 1787866994218,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787865477162,
