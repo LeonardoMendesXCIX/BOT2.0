@@ -33,9 +33,9 @@
         "total": 4975
       },
       "179040627490824": {
-        "text": 397,
+        "text": 399,
         "media": 80,
-        "total": 477
+        "total": 479
       },
       "145381035905262": {
         "text": 2152,
@@ -8948,7 +8948,9 @@
         "Baby (179040627490824): e controlado vou hj ainda se der tempo",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Isso",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Toma qual?",
-        "gigi✨ (60851868446964): Toma chá de maracujá é muito bom"
+        "gigi✨ (60851868446964): Toma chá de maracujá é muito bom",
+        "Baby (179040627490824): n me ajuda so se eu tomar bastante e olha la",
+        "Baby (179040627490824): Zolpidem"
       ]
     },
     "120363428464897153@g.us": {
@@ -15205,6 +15207,18 @@
         "authorName": "gigi✨",
         "text": "Toma chá de maracujá é muito bom",
         "timestamp": 1787825894004
+      },
+      {
+        "authorNum": "179040627490824",
+        "authorName": "Baby",
+        "text": "n me ajuda so se eu tomar bastante e olha la",
+        "timestamp": 1787825951091
+      },
+      {
+        "authorNum": "179040627490824",
+        "authorName": "Baby",
+        "text": "Zolpidem",
+        "timestamp": 1787825964359
       }
     ],
     "120363428464897153@g.us": [],
@@ -15222,7 +15236,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19689,
+    "120363432018531082@g.us": 19691,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1456,
@@ -127586,6 +127600,18 @@
         "text": "Toma chá de maracujá é muito bom",
         "pushName": "gigi✨",
         "timestamp": 1787825894004
+      },
+      "3EB0EBCC90BF1BCACC65B2": {
+        "sender": "179040627490824@lid",
+        "text": "n me ajuda so se eu tomar bastante e olha la",
+        "pushName": "Baby",
+        "timestamp": 1787825951091
+      },
+      "3EB0CC87A143CDDA550761": {
+        "sender": "179040627490824@lid",
+        "text": "Zolpidem",
+        "pushName": "Baby",
+        "timestamp": 1787825964359
       }
     },
     "120363428464897153@g.us": {
@@ -175187,7 +175213,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787825905211,
+    "120363432018531082@g.us": 1787825964359,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787814068637,
