@@ -242,8 +242,8 @@
       },
       "53537388122141": {
         "text": 2168,
-        "media": 282,
-        "total": 2450
+        "media": 283,
+        "total": 2451
       },
       "252922705240205": {
         "text": 80,
@@ -346,9 +346,9 @@
         "total": 479
       },
       "222595437858867": {
-        "text": 482,
+        "text": 483,
         "media": 53,
-        "total": 535
+        "total": 536
       },
       "83280154103884": {
         "text": 36,
@@ -2187,8 +2187,8 @@
       },
       "155503636275307": {
         "text": 62,
-        "media": 23,
-        "total": 85
+        "media": 25,
+        "total": 87
       },
       "67035866357875": {
         "text": 84,
@@ -9154,7 +9154,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "🎀  Ň𝐘ηａ🐆 (266048007835881): Que treta, vai viver",
         "🙃🙃🙃 (11171897864256): De boa pensando se eu vou trabalhar hoje",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Minha nossa senhora",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Uai, pq não iria?",
@@ -9653,7 +9652,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Meu sonho",
         "Dany (262182034002040): BAGATELA! Coisa pouca 🫠🫠",
         "Dany (262182034002040): Sonho",
-        "Gleydson Souza (274384656834700): Esse combo ai é um sonho kkkkk"
+        "Gleydson Souza (274384656834700): Esse combo ai é um sonho kkkkk",
+        "Juliano Perlin (222595437858867): To vendo que vou pra SC e nao vou voltar mais😍"
       ]
     },
     "120363428464897153@g.us": {
@@ -15913,18 +15913,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "274384656834700",
-        "authorName": "Gleydson Souza",
-        "text": "Escuto as vezes apenas",
-        "timestamp": 1787872005828
-      },
-      {
-        "authorNum": "274384656834700",
-        "authorName": "Gleydson Souza",
-        "text": "E aonde?",
-        "timestamp": 1787872014229
-      },
-      {
         "authorNum": "145381035905262",
         "authorName": "Gabriel",
         "text": "Porra, agora vi que tu gosta mesmo",
@@ -16295,6 +16283,12 @@
         "authorName": "Gleydson Souza",
         "text": "Esse combo ai é um sonho kkkkk",
         "timestamp": 1787873793809
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "To vendo que vou pra SC e nao vou voltar mais😍",
+        "timestamp": 1787873833795
       }
     ],
     "120363428464897153@g.us": [],
@@ -16434,7 +16428,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20836,
+    "120363432018531082@g.us": 20837,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1664,
@@ -135603,6 +135597,12 @@
         "text": "Esse combo ai é um sonho kkkkk",
         "pushName": "Gleydson Souza",
         "timestamp": 1787873793809
+      },
+      "AC5685A19412D69A1CE1279764C2DFDB": {
+        "sender": "222595437858867@lid",
+        "text": "To vendo que vou pra SC e nao vou voltar mais😍",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1787873833795
       }
     },
     "120363428464897153@g.us": {
@@ -184478,7 +184478,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787873793809,
+    "120363432018531082@g.us": 1787873861136,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787873767745,
