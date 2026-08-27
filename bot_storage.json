@@ -33,9 +33,9 @@
         "total": 5036
       },
       "179040627490824": {
-        "text": 432,
+        "text": 433,
         "media": 90,
-        "total": 522
+        "total": 523
       },
       "145381035905262": {
         "text": 2152,
@@ -103,9 +103,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1431,
+        "text": 1432,
         "media": 1077,
-        "total": 2508
+        "total": 2509
       },
       "3126803329115": {
         "text": 87,
@@ -1353,9 +1353,9 @@
         "total": 157
       },
       "266048007835881": {
-        "text": 532,
+        "text": 534,
         "media": 243,
-        "total": 775
+        "total": 777
       },
       "123120354635955": {
         "text": 4,
@@ -2454,8 +2454,8 @@
       },
       "190864487919667": {
         "text": 19,
-        "media": 6,
-        "total": 25
+        "media": 7,
+        "total": 26
       },
       "82227819987089": {
         "text": 1,
@@ -9292,7 +9292,11 @@
         "Souza (190864487919667): Só uma piscina agora",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Olha as ideias 🙄",
         "Baby (179040627490824): Seria uma boa",
-        "Souza (190864487919667): Joga essas nuvens pra cá"
+        "Souza (190864487919667): Joga essas nuvens pra cá",
+        "🎀  Ň𝐘ηａ🐆 (266048007835881): Essa Camila e o cão mesmo como pode",
+        "Camila Designer (92629643563147): Como assim?🤣🤣🤣",
+        "Baby (179040627490824): Se desse ksksk",
+        "🎀  Ň𝐘ηａ🐆 (266048007835881): Eu não sei que coceira é essa que esse homem tem que ele entra e sai"
       ]
     },
     "120363428464897153@g.us": {
@@ -15362,18 +15366,6 @@
       {
         "authorNum": "57707230945348",
         "authorName": "Rafael Moura",
-        "text": "Aproveita que passagem pro Rj não é cara",
-        "timestamp": 1787845244430
-      },
-      {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Voltar aqui pro meu inferno que me colocaram hj, quem sabe mais tarde fico livre 🤣",
-        "timestamp": 1787845278422
-      },
-      {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
         "text": "E bem vindo a quem entrou",
         "timestamp": 1787845282809
       },
@@ -15994,6 +15986,30 @@
         "authorName": "Souza",
         "text": "Joga essas nuvens pra cá",
         "timestamp": 1787847030821
+      },
+      {
+        "authorNum": "266048007835881",
+        "authorName": "🎀  Ň𝐘ηａ🐆",
+        "text": "Essa Camila e o cão mesmo como pode",
+        "timestamp": 1787847050756
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Como assim?🤣🤣🤣",
+        "timestamp": 1787847055817
+      },
+      {
+        "authorNum": "179040627490824",
+        "authorName": "Baby",
+        "text": "Se desse ksksk",
+        "timestamp": 1787847069058
+      },
+      {
+        "authorNum": "266048007835881",
+        "authorName": "🎀  Ň𝐘ηａ🐆",
+        "text": "Eu não sei que coceira é essa que esse homem tem que ele entra e sai",
+        "timestamp": 1787847078728
       }
     ],
     "120363428464897153@g.us": [],
@@ -16011,7 +16027,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19963,
+    "120363432018531082@g.us": 19967,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -130003,6 +130019,30 @@
         "text": "Joga essas nuvens pra cá",
         "pushName": "Souza",
         "timestamp": 1787847030821
+      },
+      "ACB25499B552428A3813A0A2D1A4D2B7": {
+        "sender": "266048007835881@lid",
+        "text": "Essa Camila e o cão mesmo como pode",
+        "pushName": "🎀  Ň𝐘ηａ🐆",
+        "timestamp": 1787847050756
+      },
+      "2A0993344EAD9027783B": {
+        "sender": "92629643563147@lid",
+        "text": "Como assim?🤣🤣🤣",
+        "pushName": "Camila Designer",
+        "timestamp": 1787847055817
+      },
+      "AC380F1D0423B99A7E8C0E74D0E31FCB": {
+        "sender": "179040627490824@lid",
+        "text": "Se desse ksksk",
+        "pushName": "Baby",
+        "timestamp": 1787847069058
+      },
+      "AC7CB056B1F27759B68A1EFAB9B7B4E0": {
+        "sender": "266048007835881@lid",
+        "text": "Eu não sei que coceira é essa que esse homem tem que ele entra e sai",
+        "pushName": "🎀  Ň𝐘ηａ🐆",
+        "timestamp": 1787847078728
       }
     },
     "120363428464897153@g.us": {
@@ -177754,7 +177794,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787847030821,
+    "120363432018531082@g.us": 1787847078728,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
