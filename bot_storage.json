@@ -341,9 +341,9 @@
         "total": 3
       },
       "163530946961491": {
-        "text": 398,
+        "text": 399,
         "media": 67,
-        "total": 465
+        "total": 466
       },
       "222595437858867": {
         "text": 474,
@@ -1826,9 +1826,9 @@
         "total": 6
       },
       "1395881181241": {
-        "text": 114,
+        "text": 115,
         "media": 5,
-        "total": 119
+        "total": 120
       },
       "198595546501333": {
         "text": 2,
@@ -9139,8 +9139,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Milena B. Costa (233161007071346): Bem vindo aos novatos(as)",
-        "Alexandre Bastos (75797868064796): Boa",
         "Milena B. Costa (233161007071346): Nem sempre ando por aqui, mas eventualmente eu chego :D",
         "Neto prime (238233849983072): Faleee ?",
         "Milena B. Costa (233161007071346): Bem assim kkkk",
@@ -9638,7 +9636,9 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Não vai não, removi",
         "Bruno Aguiar (+1395881181241): Seja bem vinda!",
         "Jennifer🦋 (205621945192508): Obrigada 🙂🙂",
-        "Jessica (208958782488665): Obrigada gente linda"
+        "Jessica (208958782488665): Obrigada gente linda",
+        "willian (163530946961491): Seja bem vinda moça",
+        "Bruno Aguiar (+1395881181241): Vc também é linda😊"
       ]
     },
     "120363428464897153@g.us": {
@@ -15779,12 +15779,6 @@
       {
         "authorNum": "163530946961491",
         "authorName": "willian",
-        "text": "Muito bem kkk",
-        "timestamp": 1787865422745
-      },
-      {
-        "authorNum": "163530946961491",
-        "authorName": "willian",
         "text": "Quando uma mulher te manda mensagem e fala que a tua batata tá assando, o que isso quer dizer?",
         "timestamp": 1787865619457
       },
@@ -16333,6 +16327,18 @@
         "authorName": "Jessica",
         "text": "Obrigada gente linda",
         "timestamp": 1787867213928
+      },
+      {
+        "authorNum": "163530946961491",
+        "authorName": "willian",
+        "text": "Seja bem vinda moça",
+        "timestamp": 1787867218086
+      },
+      {
+        "authorNum": "1395881181241",
+        "authorName": "Bruno Aguiar",
+        "text": "Vc também é linda😊",
+        "timestamp": 1787867242265
       }
     ],
     "120363428464897153@g.us": [],
@@ -16372,7 +16378,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20546,
+    "120363432018531082@g.us": 20548,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1543,
@@ -133813,6 +133819,18 @@
         "text": "Obrigada gente linda",
         "pushName": "Jessica",
         "timestamp": 1787867213928
+      },
+      "ACC3B3C97D18157A418FE2161B1F1935": {
+        "sender": "163530946961491@lid",
+        "text": "Seja bem vinda moça",
+        "pushName": "willian",
+        "timestamp": 1787867218086
+      },
+      "ACA82FB6ED2FDDA9E18D6F6CA6497A14": {
+        "sender": "1395881181241@lid",
+        "text": "Vc também é linda😊",
+        "pushName": "Bruno Aguiar",
+        "timestamp": 1787867242265
       }
     },
     "120363428464897153@g.us": {
@@ -181962,7 +181980,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787867213928,
+    "120363432018531082@g.us": 1787867242265,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787865477162,
