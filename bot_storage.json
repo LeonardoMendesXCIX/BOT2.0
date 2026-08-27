@@ -128,9 +128,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 1950,
+        "text": 1954,
         "media": 249,
-        "total": 2199
+        "total": 2203
       },
       "252922705240205": {
         "text": 80,
@@ -8942,7 +8942,9 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Boommm diaaaa",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Melhoras amiga",
         "gigi✨ (60851868446964): Brigada 🩷",
-        "Junior Ferreira (186466021941407): Bom dia"
+        "Junior Ferreira (186466021941407): Bom dia",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Precisa ir no médico",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bom dia"
       ]
     },
     "120363428464897153@g.us": {
@@ -15163,6 +15165,18 @@
         "authorName": "Junior Ferreira",
         "text": "Bom dia",
         "timestamp": 1787825754830
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Precisa ir no médico",
+        "timestamp": 1787825785332
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Bom dia",
+        "timestamp": 1787825788348
       }
     ],
     "120363428464897153@g.us": [],
@@ -15180,7 +15194,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19683,
+    "120363432018531082@g.us": 19685,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1456,
@@ -127508,6 +127522,18 @@
         "text": "Bom dia",
         "pushName": "Junior Ferreira",
         "timestamp": 1787825754830
+      },
+      "AC5C7AF0488776F0BD9190266121EAFF": {
+        "sender": "53537388122141@lid",
+        "text": "Precisa ir no médico",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787825785332
+      },
+      "ACFA4DCE9FA54448B8F003EBAC85573C": {
+        "sender": "53537388122141@lid",
+        "text": "Bom dia",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787825788348
       }
     },
     "120363428464897153@g.us": {
@@ -175109,7 +175135,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787825754830,
+    "120363432018531082@g.us": 1787825800377,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787814068637,
