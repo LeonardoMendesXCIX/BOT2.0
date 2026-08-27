@@ -136,9 +136,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1515,
+        "text": 1516,
         "media": 424,
-        "total": 1939
+        "total": 1940
       },
       "81991328395336": {
         "text": 3840,
@@ -9149,7 +9149,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Rafael Moura (57707230945348): Nao to falando disso",
         "Rafael Moura (57707230945348): E sim desses correios ai",
         "Rafael Moura (57707230945348): Na moral isso ta chatão já",
         "Rafael Moura (57707230945348): Pega e fala na cara",
@@ -9648,7 +9647,8 @@
         "Celiete Souza (129373172711439): 999 msgs",
         "Celiete Souza (129373172711439): Vocês está bem??",
         "Celiete Souza (129373172711439): Boa noite",
-        "Gleydson Souza (274384656834700): Boa"
+        "Gleydson Souza (274384656834700): Boa",
+        "Celiete Souza (129373172711439): Boa noite"
       ]
     },
     "120363428464897153@g.us": {
@@ -15861,18 +15861,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Ave Maria",
-        "timestamp": 1787868968442
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Vai ficar é queimada de tanto sol",
-        "timestamp": 1787868987619
-      },
-      {
         "authorNum": "118395236282617",
         "authorName": "Caroline",
         "text": "ahhh eu amo",
@@ -16501,6 +16489,12 @@
         "authorName": "Gleydson Souza",
         "text": "Boa",
         "timestamp": 1787870764622
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Boa noite",
+        "timestamp": 1787870789961
       }
     ],
     "120363428464897153@g.us": [],
@@ -16898,7 +16892,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20747,
+    "120363432018531082@g.us": 20748,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1617,
@@ -135539,6 +135533,12 @@
         "text": "Boa",
         "pushName": "Gleydson Souza",
         "timestamp": 1787870764622
+      },
+      "ACD7A8F8C3B476BB54FBF9F3300E970D": {
+        "sender": "129373172711439@lid",
+        "text": "Boa noite",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787870789961
       }
     },
     "120363428464897153@g.us": {
@@ -184132,7 +184132,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787870764622,
+    "120363432018531082@g.us": 1787870789961,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787870718844,
