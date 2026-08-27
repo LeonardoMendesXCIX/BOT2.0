@@ -1354,8 +1354,8 @@
       },
       "266048007835881": {
         "text": 543,
-        "media": 249,
-        "total": 792
+        "media": 251,
+        "total": 794
       },
       "123120354635955": {
         "text": 4,
@@ -2473,9 +2473,9 @@
         "total": 1
       },
       "238233849983072": {
-        "text": 9,
+        "text": 12,
         "media": 0,
-        "total": 9
+        "total": 12
       },
       "75797868064796": {
         "text": 1,
@@ -2488,9 +2488,9 @@
         "total": 1
       },
       "188845719089205": {
-        "text": 7,
+        "text": 9,
         "media": 0,
-        "total": 7
+        "total": 9
       }
     },
     "120363428464897153@g.us": {
@@ -9390,7 +9390,12 @@
         "Neto prime (238233849983072): O samba gostei mas um couver de 60 reais é um ingresso kkkkk",
         "Camila Viana (188845719089205): Gente! Que lugar é esse que você foi? Rs",
         "Alexandre Bastos (75797868064796): Aqui tbm tudo de bom na Lapa,parque de madureira,pagode ,samba",
-        "Neto prime (238233849983072): Bar do Zeca e lá no boa praça"
+        "Neto prime (238233849983072): Bar do Zeca e lá no boa praça",
+        "Camila Viana (188845719089205): Você veio pra ir nos tops haha",
+        "Neto prime (238233849983072): Heineken 22 reais kkkkk",
+        "Camila Viana (188845719089205): Isso aí 🙃",
+        "Neto prime (238233849983072): Long neck",
+        "Neto prime (238233849983072): Kkkkkkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -15601,6 +15606,36 @@
         "authorName": "Neto prime",
         "text": "Bar do Zeca e lá no boa praça",
         "timestamp": 1787856235222
+      },
+      {
+        "authorNum": "188845719089205",
+        "authorName": "Camila Viana",
+        "text": "Você veio pra ir nos tops haha",
+        "timestamp": 1787856264780
+      },
+      {
+        "authorNum": "238233849983072",
+        "authorName": "Neto prime",
+        "text": "Heineken 22 reais kkkkk",
+        "timestamp": 1787856268883
+      },
+      {
+        "authorNum": "188845719089205",
+        "authorName": "Camila Viana",
+        "text": "Isso aí 🙃",
+        "timestamp": 1787856275474
+      },
+      {
+        "authorNum": "238233849983072",
+        "authorName": "Neto prime",
+        "text": "Long neck",
+        "timestamp": 1787856284063
+      },
+      {
+        "authorNum": "238233849983072",
+        "authorName": "Neto prime",
+        "text": "Kkkkkkk",
+        "timestamp": 1787856285759
       }
     ],
     "120363428464897153@g.us": [],
@@ -15625,7 +15660,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20031,
+    "120363432018531082@g.us": 20036,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -130026,6 +130061,36 @@
         "text": "Bar do Zeca e lá no boa praça",
         "pushName": "Neto prime",
         "timestamp": 1787856235222
+      },
+      "A5C6C54CDF2D027314F45890D0EA14B1": {
+        "sender": "188845719089205@lid",
+        "text": "Você veio pra ir nos tops haha",
+        "pushName": "Camila Viana",
+        "timestamp": 1787856264780
+      },
+      "2A4B44262C4200D77559": {
+        "sender": "238233849983072@lid",
+        "text": "Heineken 22 reais kkkkk",
+        "pushName": "Neto prime",
+        "timestamp": 1787856268883
+      },
+      "A5F7F933102269B21E52728268A67802": {
+        "sender": "188845719089205@lid",
+        "text": "Isso aí 🙃",
+        "pushName": "Camila Viana",
+        "timestamp": 1787856275474
+      },
+      "2A5BC8D1BB141B09F4DA": {
+        "sender": "238233849983072@lid",
+        "text": "Long neck",
+        "pushName": "Neto prime",
+        "timestamp": 1787856284064
+      },
+      "2A6A6B4F270D40915B09": {
+        "sender": "238233849983072@lid",
+        "text": "Kkkkkkk",
+        "pushName": "Neto prime",
+        "timestamp": 1787856285759
       }
     },
     "120363428464897153@g.us": {
@@ -177783,7 +177848,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787856235222,
+    "120363432018531082@g.us": 1787856286549,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
