@@ -2348,9 +2348,9 @@
         "total": 1
       },
       "186466021941407": {
-        "text": 17,
+        "text": 19,
         "media": 2,
-        "total": 19
+        "total": 21
       },
       "270746316189724": {
         "text": 1,
@@ -3039,9 +3039,9 @@
     },
     "120363412288900422@g.us": {
       "81991328395336": {
-        "text": 359,
+        "text": 360,
         "media": 105,
-        "total": 464
+        "total": 465
       },
       "5511927018683": {
         "text": 435,
@@ -8989,7 +8989,9 @@
         "Camila Designer (92629643563147): Bom dia!☺️",
         "Camila Designer (92629643563147): É algo que tem te preocupado?",
         "Van Librelon (68247365931226): Bom.diaaaaaaaaaaaa",
-        "Bruno Aguiar (+1395881181241): Bom dia😘"
+        "Bruno Aguiar (+1395881181241): Bom dia😘",
+        "Junior Ferreira (186466021941407): Bom dia, Alguém de Pernambuco?",
+        "Junior Ferreira (186466021941407): Garota"
       ]
     },
     "120363428464897153@g.us": {
@@ -14576,7 +14578,8 @@
         "Leandro (+55 (11) 92701-8683): !inativos",
         "Leandro (+55 (11) 92701-8683): !megafone bom dia senhoras e senhores, como vocês notaram, agora temos o grupo de figurinhas, já para não ter bagunça no grupo conexão social, dúvidas basta nos contatar (Eu e a Lay @81991328395336)",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bom dia adms 🫡",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): O que acham de colocar ele novamente? Tava no grupo e foi removido por inatividade"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): O que acham de colocar ele novamente? Tava no grupo e foi removido por inatividade",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Quem e?"
       ]
     },
     "120363411233423709@g.us": {
@@ -15092,6 +15095,18 @@
         "authorName": "Bruno Aguiar",
         "text": "Bom dia😘",
         "timestamp": 1787828679293
+      },
+      {
+        "authorNum": "186466021941407",
+        "authorName": "Junior Ferreira",
+        "text": "Bom dia, Alguém de Pernambuco?",
+        "timestamp": 1787829006798
+      },
+      {
+        "authorNum": "186466021941407",
+        "authorName": "Junior Ferreira",
+        "text": "Garota",
+        "timestamp": 1787829010482
       }
     ],
     "120363428464897153@g.us": [],
@@ -15108,6 +15123,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "O que acham de colocar ele novamente? Tava no grupo e foi removido por inatividade",
         "timestamp": 1787828988518
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Quem e?",
+        "timestamp": 1787829022898
       }
     ],
     "120363411233423709@g.us": [],
@@ -15122,10 +15143,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19725,
+    "120363432018531082@g.us": 19727,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1458,
+    "120363412288900422@g.us": 1459,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 17,
@@ -127704,6 +127725,18 @@
         "text": "Bom dia😘",
         "pushName": "Bruno Aguiar",
         "timestamp": 1787828679293
+      },
+      "AC46567B1E4D5CB6C30418C8DF1ACBC4": {
+        "sender": "186466021941407@lid",
+        "text": "Bom dia, Alguém de Pernambuco?",
+        "pushName": "Junior Ferreira",
+        "timestamp": 1787829006798
+      },
+      "AC4635572A95CBBAF472431C7CEACAAE": {
+        "sender": "186466021941407@lid",
+        "text": "Garota",
+        "pushName": "Junior Ferreira",
+        "timestamp": 1787829010482
       }
     },
     "120363428464897153@g.us": {
@@ -172806,6 +172839,12 @@
         "text": "O que acham de colocar ele novamente? Tava no grupo e foi removido por inatividade",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787828988518
+      },
+      "ACCDFE7FC0433E48D1EF2973EB3CFE31": {
+        "sender": "81991328395336@lid",
+        "text": "Quem e?",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787829022898
       }
     },
     "120363411233423709@g.us": {
@@ -175317,10 +175356,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787828868595,
+    "120363432018531082@g.us": 1787829010482,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787828988518,
+    "120363412288900422@g.us": 1787829022898,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
