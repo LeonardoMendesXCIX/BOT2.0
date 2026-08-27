@@ -8,7 +8,8 @@ export interface UserDisplayInfo {
     mentionTag: string;
 }
 
-const contactCache: Record<string, { name: string; time: number }> = {};
+// CORREÇÃO: exportado para permitir persistência e consulta externa
+export const contactCache: Record<string, { name: string; time: number }> = {};
 export const lidMap: Record<string, string> = {};
 
 export function updateLidMapping(participants: any[]): void {
@@ -84,9 +85,7 @@ export function getUserInfo(userIdOrMention: string, pushNameHint: string = ''):
 
     const isCreator = rawNum === '5511927018683' || rawNum === '54259127210155';
 
-    let pushName = '';
     if (isCreator) {
-        pushName = 'Leandro';
         return {
             jid: cleanJid,
             number: '5511927018683',
@@ -98,7 +97,7 @@ export function getUserInfo(userIdOrMention: string, pushNameHint: string = ''):
         };
     }
 
-    pushName = pushNameHint ? pushNameHint.trim() : '';
+    let pushName = pushNameHint ? pushNameHint.trim() : '';
     if (!pushName && contactCache[rawNum] && (Date.now() - contactCache[rawNum].time < 86400000)) {
         pushName = contactCache[rawNum].name;
     }
