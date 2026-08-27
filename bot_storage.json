@@ -3434,9 +3434,9 @@
         "total": 136
       },
       "5511927018683": {
-        "text": 31,
+        "text": 35,
         "media": 3,
-        "total": 34
+        "total": 38
       },
       "30486281900223": {
         "text": 1,
@@ -3449,9 +3449,9 @@
         "total": 100
       },
       "145381035905262": {
-        "text": 3,
-        "media": 142,
-        "total": 145
+        "text": 5,
+        "media": 182,
+        "total": 187
       },
       "120363409024805409": {
         "text": 0,
@@ -14914,7 +14914,12 @@
         "Baby (179040627490824): Só as relíquias",
         "Leandro (+55 (11) 92701-8683): Esse é boa 😂",
         "Leandro (+55 (11) 92701-8683): !antiflood off",
-        "Leandro (+55 (11) 92701-8683): !antidelete off"
+        "Leandro (+55 (11) 92701-8683): !antidelete off",
+        "Gabriel (145381035905262): @54259127210155",
+        "Leandro (+55 (11) 92701-8683): Essa é épica 🤌🏼",
+        "Leandro (+55 (11) 92701-8683): !abrir 07:00",
+        "Leandro (+55 (11) 92701-8683): !fechar 02:00",
+        "Leandro (+55 (11) 92701-8683): !fechar"
       ]
     }
   },
@@ -14959,12 +14964,6 @@
     "120363428079168524@g.us": [],
     "120363411246936023@g.us": [],
     "120363409024805409@g.us": [
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Manda mais @179040627490824",
-        "timestamp": 1787809699201
-      },
       {
         "authorNum": "5511927018683",
         "authorName": "Leandro",
@@ -15138,6 +15137,36 @@
         "authorName": "Leandro",
         "text": "!antidelete off",
         "timestamp": 1787811397697
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "@54259127210155",
+        "timestamp": 1787811444318
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Essa é épica 🤌🏼",
+        "timestamp": 1787811464011
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!abrir 07:00",
+        "timestamp": 1787811476653
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!fechar 02:00",
+        "timestamp": 1787811492696
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!fechar",
+        "timestamp": 1787811504356
       }
     ]
   },
@@ -15155,7 +15184,7 @@
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 17,
-    "120363409024805409@g.us": 43
+    "120363409024805409@g.us": 48
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -15168,7 +15197,8 @@
     "120363432018531082@g.us": false,
     "120363428662766282@g.us": true,
     "120363428079168524@g.us": false,
-    "120363411246936023@g.us": true
+    "120363411246936023@g.us": true,
+    "120363409024805409@g.us": true
   },
   "queuedWelcomes": {
     "120363428464897153@g.us": [
@@ -15260,6 +15290,10 @@
     "120363428464897153@g.us": {
       "openTime": "21:00",
       "closeTime": "03:00"
+    },
+    "120363409024805409@g.us": {
+      "openTime": "07:00",
+      "closeTime": "02:00"
     }
   },
   "exitMsgs": {},
@@ -174674,6 +174708,36 @@
         "text": "!antidelete off",
         "pushName": "Leandro",
         "timestamp": 1787811397697
+      },
+      "ACAC55E8266C0E1AD9CDD77A1D0B0230": {
+        "sender": "145381035905262@lid",
+        "text": "@54259127210155",
+        "pushName": "Gabriel",
+        "timestamp": 1787811444319
+      },
+      "A5F6EE5FD8BA1902D56F274AB10FE959": {
+        "sender": "54259127210155@lid",
+        "text": "Essa é épica 🤌🏼",
+        "pushName": "Leandro",
+        "timestamp": 1787811464023
+      },
+      "A565A71FE0ED25CFAD677204089EB900": {
+        "sender": "54259127210155@lid",
+        "text": "!abrir 07:00",
+        "pushName": "Leandro",
+        "timestamp": 1787811476653
+      },
+      "A5F777191DF29CB482E63AEAB0B17190": {
+        "sender": "54259127210155@lid",
+        "text": "!fechar 02:00",
+        "pushName": "Leandro",
+        "timestamp": 1787811492696
+      },
+      "A55D93C06D092CF2AEE4834B0F0791C7": {
+        "sender": "54259127210155@lid",
+        "text": "!fechar",
+        "pushName": "Leandro",
+        "timestamp": 1787811504356
       }
     }
   },
@@ -174770,7 +174834,7 @@
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1787803320850,
-    "120363409024805409@g.us": 1787811421936
+    "120363409024805409@g.us": 1787811511627
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
