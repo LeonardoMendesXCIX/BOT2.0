@@ -103,9 +103,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1426,
+        "text": 1427,
         "media": 1077,
-        "total": 2503
+        "total": 2504
       },
       "3126803329115": {
         "text": 87,
@@ -143,9 +143,9 @@
         "total": 440
       },
       "262182034002040": {
-        "text": 1838,
+        "text": 1839,
         "media": 118,
-        "total": 1956
+        "total": 1957
       },
       "219245581488326": {
         "text": 4,
@@ -254,8 +254,8 @@
       },
       "60851868446964": {
         "text": 1234,
-        "media": 1432,
-        "total": 2666
+        "media": 1433,
+        "total": 2667
       },
       "270377049690114": {
         "text": 36,
@@ -2453,9 +2453,9 @@
         "total": 5
       },
       "190864487919667": {
-        "text": 3,
-        "media": 3,
-        "total": 6
+        "text": 6,
+        "media": 4,
+        "total": 10
       },
       "82227819987089": {
         "text": 1,
@@ -9254,7 +9254,12 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Terrível",
         "Dany (262182034002040): Teve uma ligação que dormimos nos falando também hahahahha",
         "Camila Designer (92629643563147): Aqui está com chuvinha hoje, parou agora kkk",
-        "Souza (190864487919667): Ish"
+        "Souza (190864487919667): Ish",
+        "Souza (190864487919667): Não tem uma nuvem no céu",
+        "Souza (190864487919667): Queria chuva",
+        "Souza (190864487919667): Quero frio",
+        "Camila Designer (92629643563147): Que lindo ☺️",
+        "Dany (262182034002040): Papos e papos exato"
       ]
     },
     "120363428464897153@g.us": {
@@ -15944,6 +15949,36 @@
         "authorName": "Souza",
         "text": "Ish",
         "timestamp": 1787846517115
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Não tem uma nuvem no céu",
+        "timestamp": 1787846531771
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Queria chuva",
+        "timestamp": 1787846539336
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Quero frio",
+        "timestamp": 1787846541490
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Que lindo ☺️",
+        "timestamp": 1787846545792
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Papos e papos exato",
+        "timestamp": 1787846549494
       }
     ],
     "120363428464897153@g.us": [],
@@ -15961,7 +15996,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19925,
+    "120363432018531082@g.us": 19930,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -129725,6 +129760,36 @@
         "text": "Ish",
         "pushName": "Souza",
         "timestamp": 1787846517115
+      },
+      "ACE53E95BB91E82404A321E3E1AA43A2": {
+        "sender": "190864487919667@lid",
+        "text": "Não tem uma nuvem no céu",
+        "pushName": "Souza",
+        "timestamp": 1787846531771
+      },
+      "AC32B76505CD97BD0CCE4E4027583169": {
+        "sender": "190864487919667@lid",
+        "text": "Queria chuva",
+        "pushName": "Souza",
+        "timestamp": 1787846539336
+      },
+      "AC6C3F4534D60539B7D7829C1DA271B5": {
+        "sender": "190864487919667@lid",
+        "text": "Quero frio",
+        "pushName": "Souza",
+        "timestamp": 1787846541491
+      },
+      "2A49B9061FF62AA03C7E": {
+        "sender": "92629643563147@lid",
+        "text": "Que lindo ☺️",
+        "pushName": "Camila Designer",
+        "timestamp": 1787846545792
+      },
+      "3A539A43BD076E6432C1": {
+        "sender": "262182034002040@lid",
+        "text": "Papos e papos exato",
+        "pushName": "Dany",
+        "timestamp": 1787846549494
       }
     },
     "120363428464897153@g.us": {
@@ -177476,7 +177541,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787846517115,
+    "120363432018531082@g.us": 1787846550282,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
