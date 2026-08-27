@@ -128,9 +128,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 1990,
+        "text": 1991,
         "media": 260,
-        "total": 2250
+        "total": 2251
       },
       "252922705240205": {
         "text": 80,
@@ -1353,9 +1353,9 @@
         "total": 157
       },
       "266048007835881": {
-        "text": 561,
+        "text": 563,
         "media": 258,
-        "total": 819
+        "total": 821
       },
       "123120354635955": {
         "text": 4,
@@ -2473,9 +2473,9 @@
         "total": 1
       },
       "238233849983072": {
-        "text": 27,
+        "text": 29,
         "media": 2,
-        "total": 29
+        "total": 31
       },
       "75797868064796": {
         "text": 4,
@@ -2488,14 +2488,19 @@
         "total": 1
       },
       "188845719089205": {
-        "text": 16,
+        "text": 17,
         "media": 0,
-        "total": 16
+        "total": 17
       },
       "85264194134079": {
         "text": 2,
         "media": 1,
         "total": 3
+      },
+      "111506477846600": {
+        "text": 0,
+        "media": 1,
+        "total": 1
       }
     },
     "120363428464897153@g.us": {
@@ -9446,7 +9451,11 @@
         "Neto prime (238233849983072): Bares 13,00",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Oi gente",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Oieee",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Oioioi"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Oioioi",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Se apresentou Murillo?",
+        "Neto prime (238233849983072): Sim sim pequena distribuidora kkkkk",
+        "🎀  Ň𝐘ηａ🐆 (266048007835881): @238233849983072 vende a 600 avulso?",
+        "Neto prime (238233849983072): Sim"
       ]
     },
     "120363428464897153@g.us": {
@@ -15964,6 +15973,30 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Oioioi",
         "timestamp": 1787857339251
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Se apresentou Murillo?",
+        "timestamp": 1787857358784
+      },
+      {
+        "authorNum": "238233849983072",
+        "authorName": "Neto prime",
+        "text": "Sim sim pequena distribuidora kkkkk",
+        "timestamp": 1787857365657
+      },
+      {
+        "authorNum": "266048007835881",
+        "authorName": "🎀  Ň𝐘ηａ🐆",
+        "text": "@238233849983072 vende a 600 avulso?",
+        "timestamp": 1787857376710
+      },
+      {
+        "authorNum": "238233849983072",
+        "authorName": "Neto prime",
+        "text": "Sim",
+        "timestamp": 1787857382479
       }
     ],
     "120363428464897153@g.us": [],
@@ -15995,7 +16028,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20082,
+    "120363432018531082@g.us": 20086,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1480,
@@ -130696,6 +130729,30 @@
         "text": "Oioioi",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787857339251
+      },
+      "AC94724FB99BE0AF028BD6E9D6AAC0A0": {
+        "sender": "53537388122141@lid",
+        "text": "Se apresentou Murillo?",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787857358784
+      },
+      "2A95EFE399D350A414E9": {
+        "sender": "238233849983072@lid",
+        "text": "Sim sim pequena distribuidora kkkkk",
+        "pushName": "Neto prime",
+        "timestamp": 1787857365657
+      },
+      "ACC9886473C3B1A0751771642B5D0376": {
+        "sender": "266048007835881@lid",
+        "text": "@238233849983072 vende a 600 avulso?",
+        "pushName": "🎀  Ň𝐘ηａ🐆",
+        "timestamp": 1787857376711
+      },
+      "2A5E078605AFA25681B9": {
+        "sender": "238233849983072@lid",
+        "text": "Sim",
+        "pushName": "Neto prime",
+        "timestamp": 1787857382479
       }
     },
     "120363428464897153@g.us": {
@@ -178459,7 +178516,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787857339251,
+    "120363432018531082@g.us": 1787857382479,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787857014697,
