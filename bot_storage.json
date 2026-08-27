@@ -1467,8 +1467,8 @@
       },
       "266048007835881": {
         "text": 587,
-        "media": 270,
-        "total": 857
+        "media": 271,
+        "total": 858
       },
       "123120354635955": {
         "text": 4,
@@ -2566,9 +2566,9 @@
         "total": 5
       },
       "190864487919667": {
-        "text": 65,
+        "text": 68,
         "media": 17,
-        "total": 82
+        "total": 85
       },
       "82227819987089": {
         "text": 2,
@@ -9104,9 +9104,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Bem vindos",
-        "Clayton 🇳🇬 (155503636275307): Bora almoçar meu povo lindo",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Ainda tou preparando",
         "Camila Designer (92629643563147): Eu também",
         "Clayton 🇳🇬 (155503636275307): Oque vai ter de bom",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Quibebe \nE porco assado",
@@ -9603,7 +9600,10 @@
         "Gleydson Souza (274384656834700): Jesus kkkk",
         "Jonathan Bráulio (187097969348735): Psr, é da aí pra pior",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Te digo o mesmo 😂\nEntão fique sozinho",
-        "Gleydson Souza (274384656834700): 👀👀"
+        "Gleydson Souza (274384656834700): 👀👀",
+        "Souza (190864487919667): Rapaz",
+        "Souza (190864487919667): Eu ia falar algo",
+        "Souza (190864487919667): Mas essa treta tá boa"
       ]
     },
     "120363428464897153@g.us": {
@@ -15712,24 +15712,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "Oii coisa cheirósa😍",
-        "timestamp": 1787860925802
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "A pronto, se lascaram vocês 👀",
-        "timestamp": 1787860937846
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Oioioooooi",
-        "timestamp": 1787860942732
-      },
-      {
         "authorNum": "57707230945348",
         "authorName": "Rafael Moura",
         "text": "Mds que ta havendo aqui",
@@ -16136,6 +16118,24 @@
         "authorName": "Gleydson Souza",
         "text": "👀👀",
         "timestamp": 1787862721786
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Rapaz",
+        "timestamp": 1787862750360
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Eu ia falar algo",
+        "timestamp": 1787862755282
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Mas essa treta tá boa",
+        "timestamp": 1787862761132
       }
     ],
     "120363428464897153@g.us": [],
@@ -16220,7 +16220,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20313,
+    "120363432018531082@g.us": 20316,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1517,
@@ -132277,6 +132277,24 @@
         "text": "👀👀",
         "pushName": "Gleydson Souza",
         "timestamp": 1787862721786
+      },
+      "ACC27877C92398C809597B6152CACC28": {
+        "sender": "190864487919667@lid",
+        "text": "Rapaz",
+        "pushName": "Souza",
+        "timestamp": 1787862750360
+      },
+      "AC2EA850D7CEA75E27D15E80B787DAA9": {
+        "sender": "190864487919667@lid",
+        "text": "Eu ia falar algo",
+        "pushName": "Souza",
+        "timestamp": 1787862755282
+      },
+      "AC3FEFBC9C8739D4EDEFECED025F5D87": {
+        "sender": "190864487919667@lid",
+        "text": "Mas essa treta tá boa",
+        "pushName": "Souza",
+        "timestamp": 1787862761132
       }
     },
     "120363428464897153@g.us": {
@@ -180256,7 +180274,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787862725696,
+    "120363432018531082@g.us": 1787862761132,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787862389737,
