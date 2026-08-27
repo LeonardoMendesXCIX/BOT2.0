@@ -138,9 +138,9 @@
         "total": 99
       },
       "233161007071346": {
-        "text": 397,
+        "text": 398,
         "media": 45,
-        "total": 442
+        "total": 443
       },
       "262182034002040": {
         "text": 1840,
@@ -2478,9 +2478,9 @@
         "total": 16
       },
       "75797868064796": {
-        "text": 3,
+        "text": 4,
         "media": 2,
-        "total": 5
+        "total": 6
       },
       "153764728184839": {
         "text": 0,
@@ -9406,7 +9406,9 @@
         "Alexandre Bastos (75797868064796): Muito bom la",
         "Neto prime (238233849983072): Acabou meu dinheiro  lá no quintalzinho kkkkk  acho que é lá no posto 3",
         "Milena B. Costa (233161007071346): Boa tarde, gentee",
-        "Milena B. Costa (233161007071346): Bem vindo aos novatos(as)"
+        "Milena B. Costa (233161007071346): Bem vindo aos novatos(as)",
+        "Alexandre Bastos (75797868064796): Boa",
+        "Milena B. Costa (233161007071346): Nem sempre ando por aqui, mas eventualmente eu chego :D"
       ]
     },
     "120363428464897153@g.us": {
@@ -15713,6 +15715,18 @@
         "authorName": "Milena B. Costa",
         "text": "Bem vindo aos novatos(as)",
         "timestamp": 1787856449190
+      },
+      {
+        "authorNum": "75797868064796",
+        "authorName": "Alexandre Bastos",
+        "text": "Boa",
+        "timestamp": 1787856486140
+      },
+      {
+        "authorNum": "233161007071346",
+        "authorName": "Milena B. Costa",
+        "text": "Nem sempre ando por aqui, mas eventualmente eu chego :D",
+        "timestamp": 1787856486419
       }
     ],
     "120363428464897153@g.us": [],
@@ -15737,7 +15751,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20047,
+    "120363432018531082@g.us": 20049,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -130234,6 +130248,18 @@
         "text": "Bem vindo aos novatos(as)",
         "pushName": "Milena B. Costa",
         "timestamp": 1787856449190
+      },
+      "AC4B73F191F3926E977C510F8C335A9C": {
+        "sender": "75797868064796@lid",
+        "text": "Boa",
+        "pushName": "Alexandre Bastos",
+        "timestamp": 1787856486140
+      },
+      "3EB067864E8983FEB02474": {
+        "sender": "233161007071346@lid",
+        "text": "Nem sempre ando por aqui, mas eventualmente eu chego :D",
+        "pushName": "Milena B. Costa",
+        "timestamp": 1787856486419
       }
     },
     "120363428464897153@g.us": {
@@ -177991,7 +178017,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787856449190,
+    "120363432018531082@g.us": 1787856486419,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
