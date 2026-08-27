@@ -3527,9 +3527,9 @@
         "total": 3
       },
       "5511927018683": {
-        "text": 1,
-        "media": 1,
-        "total": 2
+        "text": 5,
+        "media": 2,
+        "total": 7
       },
       "30486281900223": {
         "text": 0,
@@ -14942,7 +14942,8 @@
     "120363409024805409@g.us": {
       "27/08/2026": [
         "Baby (179040627490824): ???",
-        "Leandro (+55 (11) 92701-8683): Já entendeu o foco do grupo 🫡"
+        "Leandro (+55 (11) 92701-8683): Já entendeu o foco do grupo 🫡",
+        "Leandro (+55 (11) 92701-8683): !sa 🫶🏻 Seja bem-vindo(a)!*\n\n✨ Sinta-se à vontade para interagir e trocar figurinhas!\n\n❌ *PROIBIDO A INVASÃO DE PRIVADO, SEM AUTORIZAÇÃO* ❌\n\n{membro}"
       ]
     }
   },
@@ -14973,6 +14974,12 @@
         "authorName": "Leandro",
         "text": "Já entendeu o foco do grupo 🫡",
         "timestamp": 1787808385070
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!sa 🫶🏻 Seja bem-vindo(a)!*\n\n✨ Sinta-se à vontade para interagir e trocar figurinhas!\n\n❌ *PROIBIDO A INVASÃO DE PRIVADO, SEM AUTORIZAÇÃO* ❌\n\n{membro}",
+        "timestamp": 1787808705919
       }
     ]
   },
@@ -14990,7 +14997,7 @@
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 17,
-    "120363409024805409@g.us": 2
+    "120363409024805409@g.us": 3
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -15070,6 +15077,11 @@
       "text": "*Saudações!* {membro}\n\nParabéns pela sua decisão.\nVocê agora faz parte de um ambiente *pensado para quem escolheu estar entre o 1%.*",
       "setBy": "54259127210155",
       "date": "2026-08-26T19:49:38.720Z"
+    },
+    "120363409024805409@g.us": {
+      "text": "🫶🏻 Seja bem-vindo(a)!*\n\n✨ Sinta-se à vontade para interagir e trocar figurinhas!\n\n❌ *PROIBIDO A INVASÃO DE PRIVADO, SEM AUTORIZAÇÃO* ❌\n\n{membro}",
+      "setBy": "54259127210155",
+      "date": "2026-08-27T05:31:45.920Z"
     }
   },
   "welcomeReminders": {
@@ -174324,7 +174336,7 @@
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1787803320850,
-    "120363409024805409@g.us": 1787808673131
+    "120363409024805409@g.us": 1787808722957
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
