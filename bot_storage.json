@@ -151,9 +151,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2172,
+        "text": 2173,
         "media": 469,
-        "total": 2641
+        "total": 2642
       },
       "184237705699536": {
         "text": 524,
@@ -9154,7 +9154,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Acho que já inventa um bolo",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Nam, grupo vai continuar normal\nFicaram inativos pq queriam",
         "Gabriel Ohi (90130358485223): Eu sei",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Sabe que tô zuando também né",
@@ -9653,7 +9652,8 @@
         "🙃🙃🙃 (11171897864256): Ol",
         "Dany (262182034002040): Pois é, rapaz, se havia dúvidas sobre o quanto amo ouvi-la e a admiro, agora não há mais né? Hahahahha",
         "Camila Designer (92629643563147): Que a sua batata está assando 🤣🤣🤣",
-        "Dany (262182034002040): Ihhhh gente mds"
+        "Dany (262182034002040): Ihhhh gente mds",
+        "Gabriel (145381035905262): Muito bem"
       ]
     },
     "120363428464897153@g.us": {
@@ -15898,36 +15898,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Maravilha, obrigada",
-        "timestamp": 1787870519637
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Adoro também",
-        "timestamp": 1787870526058
-      },
-      {
-        "authorNum": "247635785080860",
-        "authorName": "Jane",
-        "text": "Boa noite pessoal!!",
-        "timestamp": 1787870556568
-      },
-      {
-        "authorNum": "274384656834700",
-        "authorName": "Gleydson Souza",
-        "text": "Boa",
-        "timestamp": 1787870565606
-      },
-      {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Boa noite!",
-        "timestamp": 1787870566411
-      },
-      {
         "authorNum": "118395236282617",
         "authorName": "Caroline",
         "text": "Boa",
@@ -16184,6 +16154,12 @@
         "authorName": "Dany",
         "text": "Ihhhh gente mds",
         "timestamp": 1787872301294
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Muito bem",
+        "timestamp": 1787872371154
       }
     ],
     "120363428464897153@g.us": [],
@@ -16413,7 +16389,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20781,
+    "120363432018531082@g.us": 20782,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1649,
@@ -135258,6 +135234,12 @@
         "text": "Ihhhh gente mds",
         "pushName": "Dany",
         "timestamp": 1787872301294
+      },
+      "ACF7C87F6390CB045D8E08C96E2B6251": {
+        "sender": "145381035905262@lid",
+        "text": "Muito bem",
+        "pushName": "Gabriel",
+        "timestamp": 1787872371154
       }
     },
     "120363428464897153@g.us": {
@@ -184043,7 +184025,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787872301294,
+    "120363432018531082@g.us": 1787872371154,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787872338723,
