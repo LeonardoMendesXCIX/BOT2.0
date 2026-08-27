@@ -3140,9 +3140,9 @@
         "total": 463
       },
       "5511927018683": {
-        "text": 414,
+        "text": 416,
         "media": 74,
-        "total": 488
+        "total": 490
       },
       "145381035905262": {
         "text": 320,
@@ -14329,7 +14329,9 @@
         "Leandro (+55 (11) 92701-8683): !botmusica off",
         "Leandro (+55 (11) 92701-8683): !botmusica on",
         "Leandro (+55 (11) 92701-8683): !fixar",
-        "Leandro (+55 (11) 92701-8683): !fixar"
+        "Leandro (+55 (11) 92701-8683): !fixar",
+        "Leandro (+55 (11) 92701-8683): @145381035905262",
+        "Leandro (+55 (11) 92701-8683): Tá tranquilo ou ocupado?"
       ]
     },
     "120363411233423709@g.us": {
@@ -14831,24 +14833,6 @@
       }
     ],
     "120363428464897153@g.us": [
-      {
-        "authorNum": "120044990287992",
-        "authorName": "negoh🐻",
-        "text": "Agora eu marco em um lugar e espero em outro",
-        "timestamp": 1787795347730
-      },
-      {
-        "authorNum": "238233849983072",
-        "authorName": "Neto prime",
-        "text": "Férias, vou me permitir uma semana de férias  em setembro",
-        "timestamp": 1787795355801
-      },
-      {
-        "authorNum": "238233849983072",
-        "authorName": "Neto prime",
-        "text": "Realmente",
-        "timestamp": 1787795371651
-      },
       {
         "authorNum": "238233849983072",
         "authorName": "Neto prime",
@@ -15655,6 +15639,18 @@
         "authorName": "Leandro",
         "text": "!fixar",
         "timestamp": 1787796771484
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "@145381035905262",
+        "timestamp": 1787797176680
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Tá tranquilo ou ocupado?",
+        "timestamp": 1787797187001
       }
     ],
     "120363411233423709@g.us": [],
@@ -15671,7 +15667,7 @@
     "120363432018531082@g.us": 19593,
     "120363428464897153@g.us": 5791,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1431,
+    "120363412288900422@g.us": 1433,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 13
@@ -171205,6 +171201,18 @@
         "text": "!fixar",
         "pushName": "Leandro",
         "timestamp": 1787796771484
+      },
+      "A5A34462D84D82E157E68938AD481CD7": {
+        "sender": "54259127210155@lid",
+        "text": "@145381035905262",
+        "pushName": "Leandro",
+        "timestamp": 1787797176684
+      },
+      "A5CE5D1BF1F136DE53E94907084648BA": {
+        "sender": "54259127210155@lid",
+        "text": "Tá tranquilo ou ocupado?",
+        "pushName": "Leandro",
+        "timestamp": 1787797187001
       }
     },
     "120363411233423709@g.us": {
@@ -173384,7 +173392,7 @@
     "120363432018531082@g.us": 1787797117195,
     "120363428464897153@g.us": 1787797134224,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787796785009,
+    "120363412288900422@g.us": 1787797187001,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
