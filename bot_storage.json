@@ -1826,9 +1826,9 @@
         "total": 6
       },
       "1395881181241": {
-        "text": 113,
+        "text": 114,
         "media": 5,
-        "total": 118
+        "total": 119
       },
       "198595546501333": {
         "text": 2,
@@ -2646,14 +2646,14 @@
         "total": 7
       },
       "205621945192508": {
-        "text": 9,
+        "text": 10,
         "media": 2,
-        "total": 11
+        "total": 12
       },
       "208958782488665": {
-        "text": 2,
+        "text": 3,
         "media": 1,
-        "total": 3
+        "total": 4
       }
     },
     "120363428464897153@g.us": {
@@ -9139,9 +9139,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Alexandre Bastos (75797868064796): Muito bom la",
-        "Neto prime (238233849983072): Acabou meu dinheiro  lá no quintalzinho kkkkk  acho que é lá no posto 3",
-        "Milena B. Costa (233161007071346): Boa tarde, gentee",
         "Milena B. Costa (233161007071346): Bem vindo aos novatos(as)",
         "Alexandre Bastos (75797868064796): Boa",
         "Milena B. Costa (233161007071346): Nem sempre ando por aqui, mas eventualmente eu chego :D",
@@ -9638,7 +9635,10 @@
         "Dany (262182034002040): Há diversas por aqui! Bem-vinda, conterrânea!",
         "Jessica (208958782488665): Eitaaa",
         "Bruno Aguiar (+1395881181241): Seja bem vinda!",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Não vai não, removi"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Não vai não, removi",
+        "Bruno Aguiar (+1395881181241): Seja bem vinda!",
+        "Jennifer🦋 (205621945192508): Obrigada 🙂🙂",
+        "Jessica (208958782488665): Obrigada gente linda"
       ]
     },
     "120363428464897153@g.us": {
@@ -16315,6 +16315,24 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Não vai não, removi",
         "timestamp": 1787867153336
+      },
+      {
+        "authorNum": "1395881181241",
+        "authorName": "Bruno Aguiar",
+        "text": "Seja bem vinda!",
+        "timestamp": 1787867173960
+      },
+      {
+        "authorNum": "205621945192508",
+        "authorName": "Jennifer🦋",
+        "text": "Obrigada 🙂🙂",
+        "timestamp": 1787867175659
+      },
+      {
+        "authorNum": "208958782488665",
+        "authorName": "Jessica",
+        "text": "Obrigada gente linda",
+        "timestamp": 1787867213928
       }
     ],
     "120363428464897153@g.us": [],
@@ -16354,7 +16372,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20543,
+    "120363432018531082@g.us": 20546,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1543,
@@ -133777,6 +133795,24 @@
         "text": "Não vai não, removi",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787867153336
+      },
+      "ACB89CE68E45EC52C462FD7D847F41E2": {
+        "sender": "1395881181241@lid",
+        "text": "Seja bem vinda!",
+        "pushName": "Bruno Aguiar",
+        "timestamp": 1787867173960
+      },
+      "AC87AC41FEFBF11733CD915E8A6E2021": {
+        "sender": "205621945192508@lid",
+        "text": "Obrigada 🙂🙂",
+        "pushName": "Jennifer🦋",
+        "timestamp": 1787867175659
+      },
+      "ACC3EFBE53E66045B1CC6AE7B8DF783F": {
+        "sender": "208958782488665@lid",
+        "text": "Obrigada gente linda",
+        "pushName": "Jessica",
+        "timestamp": 1787867213928
       }
     },
     "120363428464897153@g.us": {
@@ -181926,7 +181962,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787867168027,
+    "120363432018531082@g.us": 1787867213928,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787865477162,
