@@ -152,8 +152,8 @@
       },
       "145381035905262": {
         "text": 2176,
-        "media": 469,
-        "total": 2645
+        "media": 470,
+        "total": 2646
       },
       "184237705699536": {
         "text": 524,
@@ -241,9 +241,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2152,
-        "media": 280,
-        "total": 2432
+        "text": 2153,
+        "media": 281,
+        "total": 2434
       },
       "252922705240205": {
         "text": 80,
@@ -256,9 +256,9 @@
         "total": 463
       },
       "262182034002040": {
-        "text": 1853,
-        "media": 120,
-        "total": 1973
+        "text": 1856,
+        "media": 121,
+        "total": 1977
       },
       "219245581488326": {
         "text": 4,
@@ -3313,8 +3313,8 @@
       },
       "145381035905262": {
         "text": 350,
-        "media": 131,
-        "total": 481
+        "media": 132,
+        "total": 482
       },
       "53537388122141": {
         "text": 647,
@@ -9154,10 +9154,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Gleydson Souza (274384656834700): Gente 14 foi de arrasta kkkkk. F",
-        "🎀  Ň𝐘ηａ🐆 (266048007835881): 👆🏻 não e que caixinha tava certa kkkkkkkkk",
-        "🎀  Ň𝐘ηａ🐆 (266048007835881): Esse olho aí amiga e perigoso viu 🔪",
-        "🎀  Ň𝐘ηａ🐆 (266048007835881): Se entregando e não sabendo confessar kkkkkk",
         "Gleydson Souza (274384656834700): Já aconteceu cmg",
         "Jonathan Bráulio (187097969348735): Meu pavio é mt curto",
         "Jonathan Bráulio (187097969348735): Nn tenho paciência nenhuma",
@@ -9653,7 +9649,11 @@
         "Dany (262182034002040): Medo",
         "Dany (262182034002040): Justo",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mostra ai",
-        "Pedro Henrique (172868239380659): Sabe muito"
+        "Pedro Henrique (172868239380659): Sabe muito",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Ala",
+        "Dany (262182034002040): Ala ele",
+        "Dany (262182034002040): Começou",
+        "Gabriel (145381035905262): Acabamos de entregar pra um cliente hoje! \n\nQue energia, que casa, quis compartilhar com vocês também"
       ]
     },
     "120363428464897153@g.us": {
@@ -15899,12 +15899,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "274384656834700",
-        "authorName": "Gleydson Souza",
-        "text": "Q isso 2h ja to no 18° sono kkkkkk",
-        "timestamp": 1787871395266
-      },
-      {
         "authorNum": "81991328395336",
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Hj msm fui durmi a tarde",
@@ -16059,6 +16053,30 @@
         "authorName": "Pedro Henrique",
         "text": "Sabe muito",
         "timestamp": 1787873168171
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Ala",
+        "timestamp": 1787873193982
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Ala ele",
+        "timestamp": 1787873199521
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Começou",
+        "timestamp": 1787873203043
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Acabamos de entregar pra um cliente hoje! \n\nQue energia, que casa, quis compartilhar com vocês também",
+        "timestamp": 1787873206923
       }
     ],
     "120363428464897153@g.us": [],
@@ -16210,7 +16228,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20790,
+    "120363432018531082@g.us": 20794,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1650,
@@ -135109,6 +135127,30 @@
         "text": "Sabe muito",
         "pushName": "Pedro Henrique",
         "timestamp": 1787873168171
+      },
+      "AC55F930220EB6E2C83AC20BEFF18851": {
+        "sender": "53537388122141@lid",
+        "text": "Ala",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787873193982
+      },
+      "3A082A5B711063BBEE57": {
+        "sender": "262182034002040@lid",
+        "text": "Ala ele",
+        "pushName": "Dany",
+        "timestamp": 1787873199522
+      },
+      "3A8658054A6850F15CBB": {
+        "sender": "262182034002040@lid",
+        "text": "Começou",
+        "pushName": "Dany",
+        "timestamp": 1787873203043
+      },
+      "ACB59C46065556FC929B1F9462FD9F11": {
+        "sender": "145381035905262@lid",
+        "text": "Acabamos de entregar pra um cliente hoje! \n\nQue energia, que casa, quis compartilhar com vocês também",
+        "pushName": "Gabriel",
+        "timestamp": 1787873206923
       }
     },
     "120363428464897153@g.us": {
@@ -183900,10 +183942,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787873168171,
+    "120363432018531082@g.us": 1787873212561,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787872451366,
+    "120363412288900422@g.us": 1787873228902,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
