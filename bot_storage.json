@@ -141,9 +141,9 @@
         "total": 1934
       },
       "81991328395336": {
-        "text": 3833,
+        "text": 3834,
         "media": 1296,
-        "total": 5129
+        "total": 5130
       },
       "179040627490824": {
         "text": 433,
@@ -661,9 +661,9 @@
         "total": 95
       },
       "57707230945348": {
-        "text": 1125,
+        "text": 1126,
         "media": 199,
-        "total": 1324
+        "total": 1325
       },
       "152218690924790": {
         "text": 309,
@@ -9134,8 +9134,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Camila Viana (188845719089205): Gente! Que lugar é esse que você foi? Rs",
-        "Alexandre Bastos (75797868064796): Aqui tbm tudo de bom na Lapa,parque de madureira,pagode ,samba",
         "Neto prime (238233849983072): Bar do Zeca e lá no boa praça",
         "Camila Viana (188845719089205): Você veio pra ir nos tops haha",
         "Neto prime (238233849983072): Heineken 22 reais kkkkk",
@@ -9633,7 +9631,9 @@
         "F. RicaRdo sAnToS (193729163993156): De Rocha agora",
         "willian (163530946961491): Tiroso 😅😅😅",
         "Rafael Moura (57707230945348): Gente hoje foi foda",
-        "Rafael Moura (57707230945348): So agora cheguei em casa"
+        "Rafael Moura (57707230945348): So agora cheguei em casa",
+        "Rafael Moura (57707230945348): Jesus amado, acho que agora sim posso conversar um pouco",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Ela saiu por conta do ciúme imaginário"
       ]
     },
     "120363428464897153@g.us": {
@@ -15771,24 +15771,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "138483016421544",
-        "authorName": "Luiz Fernando 👨🏽‍💻",
-        "text": "Perdi alguma coisa por aqui",
-        "timestamp": 1787865087986
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Pode pv Leandro? Por favor",
-        "timestamp": 1787865096018
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Buenas noites",
-        "timestamp": 1787865103343
-      },
-      {
         "authorNum": "190864487919667",
         "authorName": "Souza",
         "text": "Partiu casa",
@@ -16273,6 +16255,18 @@
         "authorName": "Rafael Moura",
         "text": "So agora cheguei em casa",
         "timestamp": 1787866881472
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Jesus amado, acho que agora sim posso conversar um pouco",
+        "timestamp": 1787866897693
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Ela saiu por conta do ciúme imaginário",
+        "timestamp": 1787866903478
       }
     ],
     "120363428464897153@g.us": [],
@@ -16311,7 +16305,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20528,
+    "120363432018531082@g.us": 20530,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1543,
@@ -133651,6 +133645,18 @@
         "text": "So agora cheguei em casa",
         "pushName": "Rafael Moura",
         "timestamp": 1787866881472
+      },
+      "ACB68400C1F61661204AFFD06A2119BE": {
+        "sender": "57707230945348@lid",
+        "text": "Jesus amado, acho que agora sim posso conversar um pouco",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787866897693
+      },
+      "AC9513C68681ACA9867AE48D29D127E1": {
+        "sender": "81991328395336@lid",
+        "text": "Ela saiu por conta do ciúme imaginário",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787866903478
       }
     },
     "120363428464897153@g.us": {
@@ -181794,7 +181800,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787866881472,
+    "120363432018531082@g.us": 1787866903478,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787865477162,
