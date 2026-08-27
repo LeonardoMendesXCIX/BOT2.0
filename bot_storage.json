@@ -341,9 +341,9 @@
         "total": 3
       },
       "163530946961491": {
-        "text": 404,
+        "text": 405,
         "media": 69,
-        "total": 473
+        "total": 474
       },
       "222595437858867": {
         "text": 474,
@@ -9139,7 +9139,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Neto prime (238233849983072): Bares 13,00",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Oi gente",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Oieee",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Oioioi",
@@ -9638,7 +9637,8 @@
         "willian (163530946961491): Kkkk",
         "Pedro Henrique (172868239380659): Vou ganhar o açaí com peixe",
         "Souza (190864487919667): Kkkkkkkkkkkkkkkkkkkkkk",
-        "Jennifer🦋 (205621945192508): 🙃🙃🙃"
+        "Jennifer🦋 (205621945192508): 🙃🙃🙃",
+        "willian (163530946961491): Só loucura kkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -15777,18 +15777,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "272048228188398",
-        "authorName": "Lailson Nathan.",
-        "text": "Tá na merda kkkk",
-        "timestamp": 1787865869254
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "O que tu fez?",
-        "timestamp": 1787865874860
-      },
-      {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Pera ai\nQuem é a tua guria @163530946961491 ?",
@@ -16423,6 +16411,12 @@
         "authorName": "Jennifer🦋",
         "text": "🙃🙃🙃",
         "timestamp": 1787867664829
+      },
+      {
+        "authorNum": "163530946961491",
+        "authorName": "willian",
+        "text": "Só loucura kkk",
+        "timestamp": 1787867697782
       }
     ],
     "120363428464897153@g.us": [],
@@ -16439,14 +16433,7 @@
       }
     ],
     "120363409024805409@g.us": [],
-    "120363050678635389@g.us": [
-      {
-        "authorNum": "114173132415144",
-        "authorName": "Alaor Silva",
-        "text": "https://www.instagram.com/reel/DcjutXkTqp3/?igsi=Y3d1cjI1a3ducno=\nJESUS É FILHO DE LÚCIFER",
-        "timestamp": 1787865885764
-      }
-    ]
+    "120363050678635389@g.us": []
   },
   "lastJarvisIntervention": {
     "120363409727467494@g.us": 1786781516987,
@@ -16455,7 +16442,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20578,
+    "120363432018531082@g.us": 20579,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1543,
@@ -134088,6 +134075,12 @@
         "text": "🙃🙃🙃",
         "pushName": "Jennifer🦋",
         "timestamp": 1787867664829
+      },
+      "AC788B3F3CE753ED0F316E4BC5922A39": {
+        "sender": "163530946961491@lid",
+        "text": "Só loucura kkk",
+        "pushName": "willian",
+        "timestamp": 1787867697782
       }
     },
     "120363428464897153@g.us": {
@@ -182237,7 +182230,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787867678913,
+    "120363432018531082@g.us": 1787867697782,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787865477162,
