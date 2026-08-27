@@ -33,9 +33,9 @@
         "total": 4975
       },
       "179040627490824": {
-        "text": 415,
+        "text": 416,
         "media": 80,
-        "total": 495
+        "total": 496
       },
       "145381035905262": {
         "text": 2152,
@@ -103,9 +103,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1382,
+        "text": 1385,
         "media": 1054,
-        "total": 2436
+        "total": 2439
       },
       "3126803329115": {
         "text": 87,
@@ -8976,7 +8976,11 @@
         "gigi✨ (60851868446964): Brigada 🩷",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bom diaaa meu bem",
         "Camila Designer (92629643563147): Bom dia!😘",
-        "Camila Designer (92629643563147): Bem e você?☺️"
+        "Camila Designer (92629643563147): Bem e você?☺️",
+        "Camila Designer (92629643563147): Dia Bruno!😘",
+        "Camila Designer (92629643563147): 🥺🥺🥺",
+        "Baby (179040627490824): vai indo",
+        "Camila Designer (92629643563147): Quer falar sobre?"
       ]
     },
     "120363428464897153@g.us": {
@@ -15021,18 +15025,6 @@
       {
         "authorNum": "179040627490824",
         "authorName": "Baby",
-        "text": "Bom dia bruno",
-        "timestamp": 1787825560315
-      },
-      {
-        "authorNum": "1395881181241",
-        "authorName": "Bruno Aguiar",
-        "text": "Bom dia",
-        "timestamp": 1787825581808
-      },
-      {
-        "authorNum": "179040627490824",
-        "authorName": "Baby",
         "text": "Toma remédio e N tá fazendo mais efeito",
         "timestamp": 1787825599327
       },
@@ -15293,6 +15285,30 @@
         "authorName": "Camila Designer",
         "text": "Bem e você?☺️",
         "timestamp": 1787827348569
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Dia Bruno!😘",
+        "timestamp": 1787827361265
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "🥺🥺🥺",
+        "timestamp": 1787827378386
+      },
+      {
+        "authorNum": "179040627490824",
+        "authorName": "Baby",
+        "text": "vai indo",
+        "timestamp": 1787827388784
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Quer falar sobre?",
+        "timestamp": 1787827397515
       }
     ],
     "120363428464897153@g.us": [],
@@ -15310,7 +15326,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19717,
+    "120363432018531082@g.us": 19721,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1456,
@@ -15381,7 +15397,8 @@
       "225464408887542@lid",
       "84271553335549@lid",
       "102641279483997@lid",
-      "222595437858867@lid"
+      "222595437858867@lid",
+      "262182034002040@lid"
     ]
   },
   "promoSchedule": {},
@@ -127842,6 +127859,30 @@
         "text": "Bem e você?☺️",
         "pushName": "Camila Designer",
         "timestamp": 1787827348569
+      },
+      "2AB6C09AC8F378DD68E4": {
+        "sender": "92629643563147@lid",
+        "text": "Dia Bruno!😘",
+        "pushName": "Camila Designer",
+        "timestamp": 1787827361265
+      },
+      "2A72CDF11D9731A0A26B": {
+        "sender": "92629643563147@lid",
+        "text": "🥺🥺🥺",
+        "pushName": "Camila Designer",
+        "timestamp": 1787827378386
+      },
+      "3EB02E1129333DAA629CE6": {
+        "sender": "179040627490824@lid",
+        "text": "vai indo",
+        "pushName": "Baby",
+        "timestamp": 1787827388784
+      },
+      "2ADB8722655E421AE1EB": {
+        "sender": "92629643563147@lid",
+        "text": "Quer falar sobre?",
+        "pushName": "Camila Designer",
+        "timestamp": 1787827397516
       }
     },
     "120363428464897153@g.us": {
@@ -175443,7 +175484,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787827348569,
+    "120363432018531082@g.us": 1787827397515,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787814068637,
