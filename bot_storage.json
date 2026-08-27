@@ -241,9 +241,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2121,
+        "text": 2122,
         "media": 277,
-        "total": 2398
+        "total": 2399
       },
       "252922705240205": {
         "text": 80,
@@ -9129,7 +9129,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Camila Designer (92629643563147): Diga mais kkk",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Tá aí o motivo da saída",
         "Souza (190864487919667): Foi uma experiência boa não",
         "Camila Designer (92629643563147): O que aconteceu?",
@@ -9628,7 +9627,8 @@
         " (120363432018531082): Minha mãe Gabriel tem um 24 anos moro São Paulo",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Eu removi",
         "Gabriel (145381035905262): Se você não sabe imagina eu",
-        "Neto prime (238233849983072): Pq?"
+        "Neto prime (238233849983072): Pq?",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Me chame no Pv, por favor."
       ]
     },
     "120363428464897153@g.us": {
@@ -15768,18 +15768,6 @@
       {
         "authorNum": "172868239380659",
         "authorName": "Pedro Henrique",
-        "text": "Eu queria era saber o início da treta",
-        "timestamp": 1787864464332
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Mulheres não comprem briga por homens",
-        "timestamp": 1787864473937
-      },
-      {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
         "text": "Já veio aqui?",
         "timestamp": 1787864480825
       },
@@ -16412,6 +16400,12 @@
         "authorName": "Neto prime",
         "text": "Pq?",
         "timestamp": 1787866264165
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Me chame no Pv, por favor.",
+        "timestamp": 1787866280200
       }
     ],
     "120363428464897153@g.us": [],
@@ -16498,7 +16492,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20495,
+    "120363432018531082@g.us": 20496,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1543,
@@ -133640,6 +133634,12 @@
         "text": "Pq?",
         "pushName": "Neto prime",
         "timestamp": 1787866264165
+      },
+      "AC7399A720E1CEA28C35CB512C0EF78A": {
+        "sender": "53537388122141@lid",
+        "text": "Me chame no Pv, por favor.",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787866280200
       }
     },
     "120363428464897153@g.us": {
@@ -181783,7 +181783,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787866264248,
+    "120363432018531082@g.us": 1787866280200,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787865477162,
