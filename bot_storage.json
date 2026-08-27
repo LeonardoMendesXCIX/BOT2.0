@@ -1713,9 +1713,9 @@
         "total": 6
       },
       "1395881181241": {
-        "text": 94,
+        "text": 95,
         "media": 4,
-        "total": 98
+        "total": 99
       },
       "198595546501333": {
         "text": 2,
@@ -8988,7 +8988,8 @@
         "Camila Designer (92629643563147): Quer falar sobre?",
         "Camila Designer (92629643563147): Bom dia!☺️",
         "Camila Designer (92629643563147): É algo que tem te preocupado?",
-        "Van Librelon (68247365931226): Bom.diaaaaaaaaaaaa"
+        "Van Librelon (68247365931226): Bom.diaaaaaaaaaaaa",
+        "Bruno Aguiar (+1395881181241): Bom dia😘"
       ]
     },
     "120363428464897153@g.us": {
@@ -15032,30 +15033,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "Bom dia fofa😘",
-        "timestamp": 1787826653572
-      },
-      {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "Bom dia..boas melhoras🥰",
-        "timestamp": 1787826671849
-      },
-      {
-        "authorNum": "60851868446964",
-        "authorName": "gigi✨",
-        "text": "Vdd",
-        "timestamp": 1787826699097
-      },
-      {
-        "authorNum": "60851868446964",
-        "authorName": "gigi✨",
-        "text": "Brigada 🩷",
-        "timestamp": 1787826704555
-      },
-      {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Bom diaaa meu bem",
@@ -15114,6 +15091,12 @@
         "authorName": "Van Librelon",
         "text": "Bom.diaaaaaaaaaaaa",
         "timestamp": 1787828434691
+      },
+      {
+        "authorNum": "1395881181241",
+        "authorName": "Bruno Aguiar",
+        "text": "Bom dia😘",
+        "timestamp": 1787828679293
       }
     ],
     "120363428464897153@g.us": [],
@@ -15138,7 +15121,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19724,
+    "120363432018531082@g.us": 19725,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1457,
@@ -127713,6 +127696,12 @@
         "text": "Bom.diaaaaaaaaaaaa",
         "pushName": "Van Librelon",
         "timestamp": 1787828434691
+      },
+      "ACB8617F3EE92A1352C0712C23CC9F23": {
+        "sender": "1395881181241@lid",
+        "text": "Bom dia😘",
+        "pushName": "Bruno Aguiar",
+        "timestamp": 1787828679293
       }
     },
     "120363428464897153@g.us": {
@@ -175320,7 +175309,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787828512036,
+    "120363432018531082@g.us": 1787828679293,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787828295221,
