@@ -33,9 +33,9 @@
         "total": 4975
       },
       "179040627490824": {
-        "text": 414,
+        "text": 415,
         "media": 80,
-        "total": 494
+        "total": 495
       },
       "145381035905262": {
         "text": 2152,
@@ -253,9 +253,9 @@
         "total": 3
       },
       "60851868446964": {
-        "text": 1217,
+        "text": 1218,
         "media": 1424,
-        "total": 2641
+        "total": 2642
       },
       "270377049690114": {
         "text": 36,
@@ -8967,7 +8967,9 @@
         "Baby (179040627490824): queria ta assim hj",
         "Baby (179040627490824): tendo dormir as 9 mais fazer o q ne",
         "Baby (179040627490824): xiiiii",
-        "Bruno Aguiar (+1395881181241): Bom dia \nMelhoras 🙏🏽🙏🏽"
+        "Bruno Aguiar (+1395881181241): Bom dia \nMelhoras 🙏🏽🙏🏽",
+        "gigi✨ (60851868446964): Brigada",
+        "Baby (179040627490824): complicado"
       ]
     },
     "120363428464897153@g.us": {
@@ -15010,12 +15012,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "102641279483997",
-        "authorName": "AlanRogerio Faustino",
-        "text": "Esse dia só Deus sabe",
-        "timestamp": 1787824735256
-      },
-      {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
         "text": "Diaaaa",
@@ -15320,6 +15316,18 @@
         "authorName": "Bruno Aguiar",
         "text": "Bom dia \nMelhoras 🙏🏽🙏🏽",
         "timestamp": 1787826514110
+      },
+      {
+        "authorNum": "60851868446964",
+        "authorName": "gigi✨",
+        "text": "Brigada",
+        "timestamp": 1787826538613
+      },
+      {
+        "authorNum": "179040627490824",
+        "authorName": "Baby",
+        "text": "complicado",
+        "timestamp": 1787826554562
       }
     ],
     "120363428464897153@g.us": [],
@@ -15337,7 +15345,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19708,
+    "120363432018531082@g.us": 19710,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1456,
@@ -127815,6 +127823,18 @@
         "text": "Bom dia \nMelhoras 🙏🏽🙏🏽",
         "pushName": "Bruno Aguiar",
         "timestamp": 1787826514110
+      },
+      "AC3E49408F319B94A7293A567FFDF9FD": {
+        "sender": "60851868446964@lid",
+        "text": "Brigada",
+        "pushName": "gigi✨",
+        "timestamp": 1787826538613
+      },
+      "3EB0E5F063B469495C27DE": {
+        "sender": "179040627490824@lid",
+        "text": "complicado",
+        "pushName": "Baby",
+        "timestamp": 1787826554562
       }
     },
     "120363428464897153@g.us": {
@@ -175416,7 +175436,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787826514110,
+    "120363432018531082@g.us": 1787826554562,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787814068637,
