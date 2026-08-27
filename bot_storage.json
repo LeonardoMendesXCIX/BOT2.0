@@ -129,9 +129,9 @@
         "total": 1920
       },
       "81991328395336": {
-        "text": 3716,
+        "text": 3717,
         "media": 1247,
-        "total": 4963
+        "total": 4964
       },
       "179040627490824": {
         "text": 382,
@@ -1514,9 +1514,9 @@
         "total": 62
       },
       "219881320521868": {
-        "text": 12,
+        "text": 13,
         "media": 0,
-        "total": 12
+        "total": 13
       },
       "141335227023483": {
         "text": 3,
@@ -8418,8 +8418,6 @@
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Cai  de paraquedas Aki e já descobri meio mundo de coisas kkkkkk"
       ],
       "26/08/2026": [
-        "Leandro (+55 (11) 92701-8683): Tive que fazer um cambalacho aqui",
-        "Leandro (+55 (11) 92701-8683): 😅",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Ele tava loqueando em todos os grupos 🤡",
         "Dany (262182034002040): Não, não, tudo bem! Fui advertida 12 vezes nessa pane… 🥲🥲",
         "Dany (262182034002040): Me odeia só dizer na cara",
@@ -8917,7 +8915,9 @@
         "Gabriel (145381035905262): 😂😂",
         "Tauana Souza (219881320521868): Bommmmm",
         "Tauana Souza (219881320521868): Qual cidade?",
-        "Tauana Souza (219881320521868): Sou de Imperatriz"
+        "Tauana Souza (219881320521868): Sou de Imperatriz",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Caxias",
+        "Tauana Souza (219881320521868): Ahhh"
       ]
     },
     "120363428464897153@g.us": {
@@ -14847,27 +14847,21 @@
         "authorName": "Tauana Souza",
         "text": "Sou de Imperatriz",
         "timestamp": 1787798072030
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Caxias",
+        "timestamp": 1787798086230
+      },
+      {
+        "authorNum": "219881320521868",
+        "authorName": "Tauana Souza",
+        "text": "Ahhh",
+        "timestamp": 1787798092565
       }
     ],
     "120363428464897153@g.us": [
-      {
-        "authorNum": "266048007835881",
-        "authorName": "🎀  Ň𝐘ηａ🐆",
-        "text": "Que linda 🥰",
-        "timestamp": 1787796264330
-      },
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Não foi só pra ti kkkk",
-        "timestamp": 1787796270750
-      },
-      {
-        "authorNum": "120044990287992",
-        "authorName": "negoh🐻",
-        "text": "Ah bom",
-        "timestamp": 1787796287932
-      },
       {
         "authorNum": "120044990287992",
         "authorName": "negoh🐻",
@@ -15189,7 +15183,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19606,
+    "120363432018531082@g.us": 19608,
     "120363428464897153@g.us": 5804,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1433,
@@ -127064,6 +127058,18 @@
         "text": "Sou de Imperatriz",
         "pushName": "Tauana Souza",
         "timestamp": 1787798072030
+      },
+      "AC3D7A9AC2BBC8F88E7A2EC430F3F370": {
+        "sender": "81991328395336@lid",
+        "text": "Caxias",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787798086230
+      },
+      "AC7DF3BBE60F6C88B12DD7125BFBAA80": {
+        "sender": "219881320521868@lid",
+        "text": "Ahhh",
+        "pushName": "Tauana Souza",
+        "timestamp": 1787798092565
       }
     },
     "120363428464897153@g.us": {
@@ -173064,7 +173070,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787798072030,
+    "120363432018531082@g.us": 1787798092565,
     "120363428464897153@g.us": 1787798059281,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787797187001,
