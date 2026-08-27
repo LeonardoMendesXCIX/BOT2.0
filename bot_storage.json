@@ -104,8 +104,8 @@
       },
       "92629643563147": {
         "text": 1403,
-        "media": 1060,
-        "total": 2463
+        "media": 1062,
+        "total": 2465
       },
       "3126803329115": {
         "text": 87,
@@ -128,9 +128,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 1977,
+        "text": 1978,
         "media": 258,
-        "total": 2235
+        "total": 2236
       },
       "252922705240205": {
         "text": 80,
@@ -1868,9 +1868,9 @@
         "total": 6
       },
       "129158944415753": {
-        "text": 12,
+        "text": 13,
         "media": 2,
-        "total": 14
+        "total": 15
       },
       "276003205152992": {
         "text": 5,
@@ -9145,7 +9145,9 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Já almoçaram meu povo?",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @92629643563147",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Quase",
-        "Camila Designer (92629643563147): Lugar dos meus sonhos 😮‍💨"
+        "Camila Designer (92629643563147): Lugar dos meus sonhos 😮‍💨",
+        "massagista tântrico (129158944415753): Bora de massagem meu povo",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Muito bem"
       ]
     },
     "120363428464897153@g.us": {
@@ -15301,6 +15303,18 @@
         "authorName": "Camila Designer",
         "text": "Lugar dos meus sonhos 😮‍💨",
         "timestamp": 1787844865961
+      },
+      {
+        "authorNum": "129158944415753",
+        "authorName": "massagista tântrico",
+        "text": "Bora de massagem meu povo",
+        "timestamp": 1787844880247
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Muito bem",
+        "timestamp": 1787844900218
       }
     ],
     "120363428464897153@g.us": [],
@@ -15397,7 +15411,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19826,
+    "120363432018531082@g.us": 19828,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -128567,6 +128581,18 @@
         "text": "Lugar dos meus sonhos 😮‍💨",
         "pushName": "Camila Designer",
         "timestamp": 1787844865961
+      },
+      "A5EFE80EAAC5E394BA16A811EC490B24": {
+        "sender": "129158944415753@lid",
+        "text": "Bora de massagem meu povo",
+        "pushName": "massagista tântrico",
+        "timestamp": 1787844880247
+      },
+      "AC095E0B34FC664027422F0F4E2D4619": {
+        "sender": "53537388122141@lid",
+        "text": "Muito bem",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787844900218
       }
     },
     "120363428464897153@g.us": {
@@ -176318,7 +176344,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787844870224,
+    "120363432018531082@g.us": 1787844900218,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
