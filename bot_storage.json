@@ -226,9 +226,9 @@
         "total": 105
       },
       "118395236282617": {
-        "text": 398,
+        "text": 399,
         "media": 143,
-        "total": 541
+        "total": 542
       },
       "248773146108144": {
         "text": 24,
@@ -3317,9 +3317,9 @@
         "total": 491
       },
       "53537388122141": {
-        "text": 658,
-        "media": 50,
-        "total": 708
+        "text": 659,
+        "media": 51,
+        "total": 710
       },
       "120363412288900422": {
         "text": 1,
@@ -9154,7 +9154,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Pedro Henrique (172868239380659): Gente",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Tavendo sua  infantilidade... Que horas q eu falei q ele era meu presente de Deus ? Mulher descansa amadurece ...",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Se tu quer chamar atenção de algum homem Aki não vai ser com essa infantilidade e esses posicionamento não...",
         "Pedro Henrique (172868239380659): Briga, briga",
@@ -9653,7 +9652,8 @@
         "Pedro Henrique (172868239380659): Quero é chuva",
         "Juliano Perlin (222595437858867): Quero é sol. Chega de chuva",
         "Juliano Perlin (222595437858867): 🤣🤣",
-        "Juliano Perlin (222595437858867): Ta marcando chuva até segunda pra nós"
+        "Juliano Perlin (222595437858867): Ta marcando chuva até segunda pra nós",
+        "Caroline (118395236282617): Vem pra cá aqui tá chovendo"
       ]
     },
     "120363428464897153@g.us": {
@@ -15449,7 +15449,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): KKKKKKKKKKKKKKKKKK",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Show",
         "Gabriel (145381035905262): Agora a minha resposta",
-        "Gabriel (145381035905262): Peguem"
+        "Gabriel (145381035905262): Peguem",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Arrasou"
       ]
     },
     "120363411233423709@g.us": {
@@ -16358,6 +16359,12 @@
         "authorName": "Juliano Perlin",
         "text": "Ta marcando chuva até segunda pra nós",
         "timestamp": 1787874310456
+      },
+      {
+        "authorNum": "118395236282617",
+        "authorName": "Caroline",
+        "text": "Vem pra cá aqui tá chovendo",
+        "timestamp": 1787874350805
       }
     ],
     "120363428464897153@g.us": [],
@@ -16464,6 +16471,12 @@
         "authorName": "Gabriel",
         "text": "Peguem",
         "timestamp": 1787874173140
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Arrasou",
+        "timestamp": 1787874348235
       }
     ],
     "120363411233423709@g.us": [],
@@ -16479,10 +16492,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20856,
+    "120363432018531082@g.us": 20857,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1667,
+    "120363412288900422@g.us": 1668,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -135768,6 +135781,12 @@
         "text": "Ta marcando chuva até segunda pra nós",
         "pushName": "Juliano Perlin",
         "timestamp": 1787874310457
+      },
+      "ACC861461F55F0510F875D0268EB3C5E": {
+        "sender": "118395236282617@lid",
+        "text": "Vem pra cá aqui tá chovendo",
+        "pushName": "Caroline",
+        "timestamp": 1787874350806
       }
     },
     "120363428464897153@g.us": {
@@ -182106,6 +182125,12 @@
         "text": "Peguem",
         "pushName": "Gabriel",
         "timestamp": 1787874173140
+      },
+      "ACB0987007B64CC3A950158F07E7430B": {
+        "sender": "53537388122141@lid",
+        "text": "Arrasou",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787874348235
       }
     },
     "120363411233423709@g.us": {
@@ -184661,10 +184686,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787874310456,
+    "120363432018531082@g.us": 1787874350805,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787874181544,
+    "120363412288900422@g.us": 1787874348235,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
