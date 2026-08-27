@@ -102,9 +102,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1378,
+        "text": 1379,
         "media": 1054,
-        "total": 2432
+        "total": 2433
       },
       "3126803329115": {
         "text": 87,
@@ -8910,7 +8910,8 @@
         "Jô Freitas 🍀 (67035866357875): Bom dia",
         "Jô Freitas 🍀 (67035866357875): Quase finalizando 24h sem dormir e trabalhando",
         "Jô Freitas 🍀 (67035866357875): Só quero café, banho e cama",
-        "AlanRogerio Faustino (102641279483997): Esse dia só Deus sabe"
+        "AlanRogerio Faustino (102641279483997): Esse dia só Deus sabe",
+        "Camila Designer (92629643563147): Diaaaa"
       ]
     },
     "120363428464897153@g.us": {
@@ -14953,12 +14954,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "163530946961491",
-        "authorName": "willian",
-        "text": "Boom dia",
-        "timestamp": 1787823063647
-      },
-      {
         "authorNum": "67035866357875",
         "authorName": "Jô Freitas 🍀",
         "text": "Bom dia",
@@ -14981,6 +14976,12 @@
         "authorName": "AlanRogerio Faustino",
         "text": "Esse dia só Deus sabe",
         "timestamp": 1787824735256
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Diaaaa",
+        "timestamp": 1787825000712
       }
     ],
     "120363428464897153@g.us": [],
@@ -14998,7 +14999,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19657,
+    "120363432018531082@g.us": 19658,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1456,
@@ -127169,6 +127170,12 @@
         "text": "Esse dia só Deus sabe",
         "pushName": "AlanRogerio Faustino",
         "timestamp": 1787824735256
+      },
+      "2ADE5F2CA22CE6319336": {
+        "sender": "92629643563147@lid",
+        "text": "Diaaaa",
+        "pushName": "Camila Designer",
+        "timestamp": 1787825000713
       }
     },
     "120363428464897153@g.us": {
@@ -174770,7 +174777,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787824865987,
+    "120363432018531082@g.us": 1787825000712,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787814068637,
