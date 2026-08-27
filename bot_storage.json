@@ -2002,9 +2002,9 @@
         "total": 5
       },
       "102641279483997": {
-        "text": 14,
+        "text": 16,
         "media": 4,
-        "total": 18
+        "total": 20
       },
       "85311069618236": {
         "text": 17,
@@ -8897,7 +8897,9 @@
         "AlanRogerio Faustino (102641279483997): Bora trabalhar",
         "Leandro (+55 (11) 92701-8683): Bom dia jovem!",
         "Leandro (+55 (11) 92701-8683): Bom trabalho aí! 🫡",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Bom trabalho"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Bom trabalho",
+        "AlanRogerio Faustino (102641279483997): obrigado pra vc também",
+        "AlanRogerio Faustino (102641279483997): Obrigado pra vc também"
       ]
     },
     "120363428464897153@g.us": {
@@ -14942,12 +14944,6 @@
       {
         "authorNum": "5511927018683",
         "authorName": "Leandro",
-        "text": "Bom dia jovem!",
-        "timestamp": 1787814557750
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
         "text": "Bom trabalho aí! 🫡",
         "timestamp": 1787814567847
       },
@@ -14956,6 +14952,18 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Bom trabalho",
         "timestamp": 1787815058673
+      },
+      {
+        "authorNum": "102641279483997",
+        "authorName": "AlanRogerio Faustino",
+        "text": "obrigado pra vc também",
+        "timestamp": 1787816351761
+      },
+      {
+        "authorNum": "102641279483997",
+        "authorName": "AlanRogerio Faustino",
+        "text": "Obrigado pra vc também",
+        "timestamp": 1787816360334
       }
     ],
     "120363428464897153@g.us": [],
@@ -14973,7 +14981,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19649,
+    "120363432018531082@g.us": 19651,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1456,
@@ -127095,6 +127103,18 @@
         "text": "Bom trabalho",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787815058673
+      },
+      "ACBF8ACD603FC185448DA45A05FD114A": {
+        "sender": "102641279483997@lid",
+        "text": "obrigado pra vc também",
+        "pushName": "AlanRogerio Faustino",
+        "timestamp": 1787816351761
+      },
+      "AC398013114D7A8577A891418EC2F851": {
+        "sender": "102641279483997@lid",
+        "text": "Obrigado pra vc também",
+        "pushName": "AlanRogerio Faustino",
+        "timestamp": 1787816360334
       }
     },
     "120363428464897153@g.us": {
@@ -174696,7 +174716,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787815058672,
+    "120363432018531082@g.us": 1787816360334,
     "120363428464897153@g.us": 1787810938788,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787814068637,
