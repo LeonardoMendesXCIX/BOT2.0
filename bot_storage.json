@@ -141,9 +141,9 @@
         "total": 1934
       },
       "81991328395336": {
-        "text": 3826,
+        "text": 3828,
         "media": 1294,
-        "total": 5120
+        "total": 5122
       },
       "179040627490824": {
         "text": 433,
@@ -1511,9 +1511,9 @@
         "total": 4
       },
       "272048228188398": {
-        "text": 77,
+        "text": 78,
         "media": 15,
-        "total": 92
+        "total": 93
       },
       "55959196049495": {
         "text": 6,
@@ -3272,9 +3272,9 @@
     },
     "120363412288900422@g.us": {
       "81991328395336": {
-        "text": 380,
+        "text": 381,
         "media": 109,
-        "total": 489
+        "total": 490
       },
       "5511927018683": {
         "text": 435,
@@ -9119,7 +9119,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Souza (190864487919667): Já lavei, como um bom dono de casa",
         "gigi✨ (60851868446964): Marxista",
         "Souza (190864487919667): Ave Maria",
         "gigi✨ (60851868446964): Aqui tá 27",
@@ -9618,7 +9617,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindo",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Bem-vindo jovem casado 🤝🫡",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): A ADM tá com seu facão amoladissimo",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Sempre né meu bem, aprendi com a mestre"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Sempre né meu bem, aprendi com a mestre",
+        "Lailson Nathan. (272048228188398): Cirurgião?"
       ]
     },
     "120363428464897153@g.us": {
@@ -15287,7 +15287,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Se matar por macho?",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Jamais",
         "Gabriel (145381035905262): Credo, cruzes",
-        "Gabriel (145381035905262): Nem é bonito né"
+        "Gabriel (145381035905262): Nem é bonito né",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Teu relógio nunca deu esses 20 minutos?"
       ]
     },
     "120363411233423709@g.us": {
@@ -16462,17 +16463,17 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Sempre né meu bem, aprendi com a mestre",
         "timestamp": 1787864954849
+      },
+      {
+        "authorNum": "272048228188398",
+        "authorName": "Lailson Nathan.",
+        "text": "Cirurgião?",
+        "timestamp": 1787864970491
       }
     ],
     "120363428464897153@g.us": [],
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "@all  meu cliente é médico, aqueles que de aumento do garoto. \n\nAí ele não me atendia, não me respondia, liguei pra clínica e marquei uma consulta",
-        "timestamp": 1787863107420
-      },
       {
         "authorNum": "145381035905262",
         "authorName": "Gabriel",
@@ -16604,6 +16605,12 @@
         "authorName": "Gabriel",
         "text": "Nem é bonito né",
         "timestamp": 1787864467125
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Teu relógio nunca deu esses 20 minutos?",
+        "timestamp": 1787864971980
       }
     ],
     "120363411233423709@g.us": [],
@@ -16618,10 +16625,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20441,
+    "120363432018531082@g.us": 20442,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1540,
+    "120363412288900422@g.us": 1541,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 20,
@@ -133442,6 +133449,12 @@
         "text": "Sempre né meu bem, aprendi com a mestre",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787864954849
+      },
+      "AC3DC9570EA65219A858D4F1245E2D7F": {
+        "sender": "272048228188398@lid",
+        "text": "Cirurgião?",
+        "pushName": "Lailson Nathan.",
+        "timestamp": 1787864970491
       }
     },
     "120363428464897153@g.us": {
@@ -179018,6 +179031,12 @@
         "text": "Nem é bonito né",
         "pushName": "Gabriel",
         "timestamp": 1787864467125
+      },
+      "AC526A237B8E5451A51F985DA9315200": {
+        "sender": "81991328395336@lid",
+        "text": "Teu relógio nunca deu esses 20 minutos?",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787864971980
       }
     },
     "120363411233423709@g.us": {
@@ -181559,10 +181578,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787864956807,
+    "120363432018531082@g.us": 1787864987456,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787864476741,
+    "120363412288900422@g.us": 1787864971980,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
