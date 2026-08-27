@@ -2761,9 +2761,9 @@
         "total": 9
       },
       "129373172711439": {
-        "text": 742,
+        "text": 745,
         "media": 170,
-        "total": 912
+        "total": 915
       },
       "16007578021977": {
         "text": 50,
@@ -3146,13 +3146,13 @@
       },
       "145381035905262": {
         "text": 311,
-        "media": 96,
-        "total": 407
+        "media": 97,
+        "total": 408
       },
       "53537388122141": {
-        "text": 501,
+        "text": 505,
         "media": 31,
-        "total": 532
+        "total": 536
       },
       "120363412288900422": {
         "text": 1,
@@ -12099,8 +12099,6 @@
         "Leandro (+55 (11) 92701-8683): Mais tarde, quando o kbaré abrir, tu se apresenta @66743926038604"
       ],
       "26/08/2026": [
-        "Celiete Souza (129373172711439): É amigo",
-        "Dudu 🍀 (199248582861048): É só deixar o grupo pra bate papo",
         "Celiete Souza (129373172711439): ?",
         "negoh🐻 (120044990287992): Gaúcha linda da porra",
         "Vini 👑🏁🙌⚽ (270377049690114): Sou amarelo pô",
@@ -12598,7 +12596,9 @@
         "Camila Designer (92629643563147): Ficaria melhor sem camisa 😏😏😏",
         "Celiete Souza (129373172711439): Boa noite",
         "Celiete Souza (129373172711439): Gente",
-        "Camila Designer (92629643563147): Noite!❤️"
+        "Camila Designer (92629643563147): Noite!❤️",
+        "Celiete Souza (129373172711439): Quero dividir uma coisa com vcs",
+        "Celiete Souza (129373172711439): Posso?"
       ]
     },
     "120363409727467494@g.us": {
@@ -14234,7 +14234,11 @@
         "Gabriel (145381035905262): Isso",
         "Leandro (+55 (11) 92701-8683): Se eles querem arrumar confusão, vão conseguir",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): @145381035905262 usa a opção de inativos do bot\nRemove tudo de uma vez",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Se tiver funcionando de boa"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Se tiver funcionando de boa",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Mas ai é mole. Usando nossas dicas lá",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Aí pode né",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): 😒",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Copiando grupo, até eu"
       ]
     },
     "120363411233423709@g.us": {
@@ -14819,6 +14823,18 @@
         "authorName": "Camila Designer",
         "text": "Noite!❤️",
         "timestamp": 1787789642900
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Quero dividir uma coisa com vcs",
+        "timestamp": 1787789685233
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Posso?",
+        "timestamp": 1787789689045
       }
     ],
     "120363409727467494@g.us": [],
@@ -15074,6 +15090,30 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Se tiver funcionando de boa",
         "timestamp": 1787789642194
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Mas ai é mole. Usando nossas dicas lá",
+        "timestamp": 1787789665470
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Aí pode né",
+        "timestamp": 1787789667110
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "😒",
+        "timestamp": 1787789683181
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Copiando grupo, até eu",
+        "timestamp": 1787789690600
       }
     ],
     "120363411233423709@g.us": [],
@@ -15088,9 +15128,9 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 19463,
-    "120363428464897153@g.us": 5345,
+    "120363428464897153@g.us": 5347,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1355,
+    "120363412288900422@g.us": 1359,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 7
@@ -157410,6 +157450,18 @@
         "text": "Noite!❤️",
         "pushName": "Camila Designer",
         "timestamp": 1787789642900
+      },
+      "AC046113EE9499584E7A102A8393CDF8": {
+        "sender": "129373172711439@lid",
+        "text": "Quero dividir uma coisa com vcs",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787789685233
+      },
+      "AC8A0F0EA82DFA841D4E2BA43D0A5C5D": {
+        "sender": "129373172711439@lid",
+        "text": "Posso?",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787789689045
       }
     },
     "120363409727467494@g.us": {
@@ -166768,6 +166820,30 @@
         "text": "Se tiver funcionando de boa",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787789642194
+      },
+      "AC736DF676A0F8834C3E1233E785701C": {
+        "sender": "53537388122141@lid",
+        "text": "Mas ai é mole. Usando nossas dicas lá",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787789665470
+      },
+      "ACC4A68EEA04A412694BC2D8E324CF1F": {
+        "sender": "53537388122141@lid",
+        "text": "Aí pode né",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787789667110
+      },
+      "AC2B7AB31F8ACA4D910B3808BE866EB3": {
+        "sender": "53537388122141@lid",
+        "text": "😒",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787789683181
+      },
+      "AC1EC45D5E15CAAB70570751862E345A": {
+        "sender": "53537388122141@lid",
+        "text": "Copiando grupo, até eu",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787789690600
       }
     },
     "120363411233423709@g.us": {
@@ -168909,9 +168985,9 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787789619203,
-    "120363428464897153@g.us": 1787789642900,
+    "120363428464897153@g.us": 1787789689045,
     "120363409727467494@g.us": 1787764683861,
-    "120363412288900422@g.us": 1787789642194,
+    "120363412288900422@g.us": 1787789690600,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
