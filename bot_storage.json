@@ -2621,9 +2621,9 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 48,
+        "text": 50,
         "media": 11,
-        "total": 59
+        "total": 61
       },
       "172868239380659": {
         "text": 60,
@@ -9154,8 +9154,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Posso nem toma uma \nEstou a base de antibióticos",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): !inativos",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Vão com Deus meu povo 👋🏻",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Foi tudo de arraaaaasta",
         "Souza (190864487919667): Já",
@@ -9653,7 +9651,9 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Os gringo são teimoso",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Aqui cês não entra",
         "willian (163530946961491): Bora 😀",
-        "Pedro Henrique (172868239380659): Nunca nem vi"
+        "Pedro Henrique (172868239380659): Nunca nem vi",
+        "Gleydson Souza (274384656834700): Escuto as vezes apenas",
+        "Gleydson Souza (274384656834700): E aonde?"
       ]
     },
     "120363428464897153@g.us": {
@@ -15894,12 +15894,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Ah bom",
-        "timestamp": 1787870122383
-      },
-      {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Tem certeza moço? 👀",
@@ -16192,6 +16186,18 @@
         "authorName": "Pedro Henrique",
         "text": "Nunca nem vi",
         "timestamp": 1787871905152
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Escuto as vezes apenas",
+        "timestamp": 1787872005828
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "E aonde?",
+        "timestamp": 1787872014229
       }
     ],
     "120363428464897153@g.us": [],
@@ -16469,7 +16475,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20772,
+    "120363432018531082@g.us": 20774,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1645,
@@ -135260,6 +135266,18 @@
         "text": "Nunca nem vi",
         "pushName": "Pedro Henrique",
         "timestamp": 1787871905152
+      },
+      "ACCAA6EB428559E5CBBAB59489B0FBDF": {
+        "sender": "274384656834700@lid",
+        "text": "Escuto as vezes apenas",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787872005828
+      },
+      "AC02CC2FFC6F02CA9E04A261A1857131": {
+        "sender": "274384656834700@lid",
+        "text": "E aonde?",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787872014229
       }
     },
     "120363428464897153@g.us": {
@@ -184021,7 +184039,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787871905152,
+    "120363432018531082@g.us": 1787872014229,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787871957733,
