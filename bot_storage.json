@@ -2334,9 +2334,9 @@
         "total": 1
       },
       "108606972256452": {
-        "text": 26,
+        "text": 27,
         "media": 2,
-        "total": 28
+        "total": 29
       },
       "176957366992963": {
         "text": 8,
@@ -2721,9 +2721,9 @@
         "total": 1
       },
       "92629643563147": {
-        "text": 474,
-        "media": 272,
-        "total": 746
+        "text": 475,
+        "media": 273,
+        "total": 748
       },
       "122552932372575": {
         "text": 0,
@@ -2761,9 +2761,9 @@
         "total": 9
       },
       "129373172711439": {
-        "text": 809,
+        "text": 810,
         "media": 188,
-        "total": 997
+        "total": 998
       },
       "16007578021977": {
         "text": 50,
@@ -3001,9 +3001,9 @@
         "total": 15
       },
       "120044990287992": {
-        "text": 93,
+        "text": 94,
         "media": 4,
-        "total": 97
+        "total": 98
       },
       "71120413843690": {
         "text": 2,
@@ -3091,9 +3091,9 @@
         "total": 3
       },
       "108606972256452": {
-        "text": 1,
+        "text": 2,
         "media": 0,
-        "total": 1
+        "total": 2
       },
       "240540029333596": {
         "text": 3,
@@ -12099,9 +12099,6 @@
         "Leandro (+55 (11) 92701-8683): Mais tarde, quando o kbaré abrir, tu se apresenta @66743926038604"
       ],
       "26/08/2026": [
-        "x_x (246729295282232): Kd as solteiras kk",
-        "Celiete Souza (129373172711439): Todos são eu acho",
-        "gigi✨ (60851868446964): 👀",
         "Camila Designer (92629643563147): A pergunta seria quem está disponível",
         "Jose (+1645576491019): Não tem gente nao",
         "x_x (246729295282232): Quem está disponível?",
@@ -12598,7 +12595,10 @@
         "Celiete Souza (129373172711439): Vischi",
         "Camila Designer (92629643563147): Grupo dominado pelas mulheres",
         "Celiete Souza (129373172711439): O que tu acha @92629643563147",
-        "Neto prime (238233849983072): Vocês que mandam ?"
+        "Neto prime (238233849983072): Vocês que mandam ?",
+        "negoh🐻 (120044990287992): Meu pinto veiudo e forte",
+        "Celiete Souza (129373172711439): Nossos peitorais",
+        "Camila Designer (92629643563147): @238233849983072 entrou agora e demonstrou ser um homem sábio 😌"
       ]
     },
     "120363409727467494@g.us": {
@@ -15516,6 +15516,24 @@
         "authorName": "Neto prime",
         "text": "Vocês que mandam ?",
         "timestamp": 1787793307101
+      },
+      {
+        "authorNum": "120044990287992",
+        "authorName": "negoh🐻",
+        "text": "Meu pinto veiudo e forte",
+        "timestamp": 1787793317766
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Nossos peitorais",
+        "timestamp": 1787793332743
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "@238233849983072 entrou agora e demonstrou ser um homem sábio 😌",
+        "timestamp": 1787793337486
       }
     ],
     "120363409727467494@g.us": [],
@@ -15731,7 +15749,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 19553,
-    "120363428464897153@g.us": 5556,
+    "120363428464897153@g.us": 5559,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1422,
     "120363411233423709@g.us": 5,
@@ -15745,7 +15763,7 @@
     "120363432018531082@g.us": false
   },
   "closedGroups": {
-    "120363428464897153@g.us": true,
+    "120363428464897153@g.us": false,
     "120363432018531082@g.us": false,
     "120363428662766282@g.us": true,
     "120363428079168524@g.us": false,
@@ -15786,7 +15804,6 @@
       "266048007835881@lid",
       "219980373176429@lid",
       "180285564035215@lid",
-      "108606972256452@lid",
       "186023690641660@lid",
       "186466021941407@lid",
       "272623837691949@lid",
@@ -159853,6 +159870,24 @@
         "text": "Vocês que mandam ?",
         "pushName": "Neto prime",
         "timestamp": 1787793307101
+      },
+      "AC3D8267C0438894822E8665DF241D8F": {
+        "sender": "120044990287992@lid",
+        "text": "Meu pinto veiudo e forte",
+        "pushName": "negoh🐻",
+        "timestamp": 1787793317766
+      },
+      "AC2CD49644ABB644F72B85BE3BE97173": {
+        "sender": "129373172711439@lid",
+        "text": "Nossos peitorais",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787793332743
+      },
+      "2A22DCDA402A61A591AB": {
+        "sender": "92629643563147@lid",
+        "text": "@238233849983072 entrou agora e demonstrou ser um homem sábio 😌",
+        "pushName": "Camila Designer",
+        "timestamp": 1787793337486
       }
     },
     "120363409727467494@g.us": {
@@ -171753,8 +171788,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787793164173,
-    "120363428464897153@g.us": 1787793307101,
+    "120363432018531082@g.us": 1787793337845,
+    "120363428464897153@g.us": 1787793337969,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787793125283,
     "120363411233423709@g.us": 1787113553426,
