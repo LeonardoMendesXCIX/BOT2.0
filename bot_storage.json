@@ -129,9 +129,9 @@
         "total": 1919
       },
       "81991328395336": {
-        "text": 3702,
+        "text": 3703,
         "media": 1236,
-        "total": 4938
+        "total": 4939
       },
       "179040627490824": {
         "text": 381,
@@ -244,9 +244,9 @@
         "total": 431
       },
       "262182034002040": {
-        "text": 1800,
+        "text": 1802,
         "media": 115,
-        "total": 1915
+        "total": 1917
       },
       "219245581488326": {
         "text": 4,
@@ -354,9 +354,9 @@
         "total": 3
       },
       "60851868446964": {
-        "text": 1201,
+        "text": 1203,
         "media": 1388,
-        "total": 2589
+        "total": 2591
       },
       "270377049690114": {
         "text": 36,
@@ -8393,8 +8393,6 @@
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Cai  de paraquedas Aki e já descobri meio mundo de coisas kkkkkk"
       ],
       "26/08/2026": [
-        "Camila Designer (92629643563147): Hoje eu sou a mãe 😭😭😭😭",
-        "Baby (179040627490824): complicado",
         "Baby (179040627490824): oi gigi",
         "gigi✨ (60851868446964): Oiii",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Fez 7 aninhos",
@@ -8892,7 +8890,9 @@
         "gigi✨ (60851868446964): 🫦",
         "Dany (262182034002040): Vi vantagens Hahahha",
         "Dany (262182034002040): Bolinho",
-        "Dany (262182034002040): Amoooooo"
+        "Dany (262182034002040): Amoooooo",
+        "gigi✨ (60851868446964): Não como de chocolate",
+        "Dany (262182034002040): Por que??"
       ]
     },
     "120363428464897153@g.us": {
@@ -14929,39 +14929,21 @@
         "authorName": "Dany",
         "text": "Amoooooo",
         "timestamp": 1787790875673
+      },
+      {
+        "authorNum": "60851868446964",
+        "authorName": "gigi✨",
+        "text": "Não como de chocolate",
+        "timestamp": 1787790891026
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Por que??",
+        "timestamp": 1787790900711
       }
     ],
     "120363428464897153@g.us": [
-      {
-        "authorNum": "270377049690114",
-        "authorName": "Vini 👑🏁🙌⚽",
-        "text": "Eita que problema???",
-        "timestamp": 1787789023232
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Saúde",
-        "timestamp": 1787789032979
-      },
-      {
-        "authorNum": "270377049690114",
-        "authorName": "Vini 👑🏁🙌⚽",
-        "text": "Ah Melhoras aí",
-        "timestamp": 1787789043180
-      },
-      {
-        "authorNum": "270377049690114",
-        "authorName": "Vini 👑🏁🙌⚽",
-        "text": "🙌🏻🙌🏻",
-        "timestamp": 1787789045007
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Obgd",
-        "timestamp": 1787789051796
-      },
       {
         "authorNum": "270377049690114",
         "authorName": "Vini 👑🏁🙌⚽",
@@ -15823,7 +15805,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19502,
+    "120363432018531082@g.us": 19504,
     "120363428464897153@g.us": 5420,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1389,
@@ -127100,6 +127082,18 @@
         "text": "Amoooooo",
         "pushName": "Dany",
         "timestamp": 1787790875673
+      },
+      "ACDD228A91BF88A79CC065BB5D6D719C": {
+        "sender": "60851868446964@lid",
+        "text": "Não como de chocolate",
+        "pushName": "gigi✨",
+        "timestamp": 1787790891026
+      },
+      "3A7265F96868469E1AE3": {
+        "sender": "262182034002040@lid",
+        "text": "Por que??",
+        "pushName": "Dany",
+        "timestamp": 1787790900711
       }
     },
     "120363428464897153@g.us": {
@@ -170532,7 +170526,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787790875673,
+    "120363432018531082@g.us": 1787790919818,
     "120363428464897153@g.us": 1787790847924,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787790787624,
