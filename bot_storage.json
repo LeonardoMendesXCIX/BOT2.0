@@ -226,9 +226,9 @@
         "total": 105
       },
       "118395236282617": {
-        "text": 387,
+        "text": 389,
         "media": 142,
-        "total": 529
+        "total": 531
       },
       "248773146108144": {
         "text": 24,
@@ -2566,9 +2566,9 @@
         "total": 20
       },
       "190864487919667": {
-        "text": 124,
+        "text": 127,
         "media": 23,
-        "total": 147
+        "total": 150
       },
       "82227819987089": {
         "text": 2,
@@ -2646,9 +2646,9 @@
         "total": 7
       },
       "205621945192508": {
-        "text": 17,
+        "text": 19,
         "media": 6,
-        "total": 23
+        "total": 25
       },
       "208958782488665": {
         "text": 6,
@@ -9149,12 +9149,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "'   MƲRIԼԼƠ  🥶 (111506477846600): As vezes me confundiu",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Jamais",
-        "Camila Designer (92629643563147): @53537388122141 já vai assumir o @111506477846600 👀",
-        "'   MƲRIԼԼƠ  🥶 (111506477846600): Ué",
-        "'   MƲRIԼԼƠ  🥶 (111506477846600): 👀",
-        "Camila Designer (92629643563147): Quando briga demais assim já viu né",
         "Camila Designer (92629643563147): A @81991328395336 estava falando ontem sobre isso",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Nunquinha, tira seu cavalin da chuva mulher, pufavô",
         "Bruno Aguiar (+1395881181241): Tome uma bem gelada para acalmar kkk",
@@ -9648,7 +9642,13 @@
         "Souza (190864487919667): É a músicaaaaaaaa",
         "Bruno Aguiar (+1395881181241): Menos mal que não fui eu kkkk",
         "Souza (190864487919667): Queria a chuva",
-        "Gleydson Souza (274384656834700): Vdd kkkkk"
+        "Gleydson Souza (274384656834700): Vdd kkkkk",
+        "Caroline (118395236282617): Aqui tá um friozinho e chuva horrível",
+        "Souza (190864487919667): Amo",
+        "Jennifer🦋 (205621945192508): EU SEIIIIIIIIIIIIIIIIIIII",
+        "Caroline (118395236282617): aqui aonde eu moro e muito frio",
+        "Souza (190864487919667): ENTÃOOOOOOO",
+        "Jennifer🦋 (205621945192508): Kkkkkkkkkkkkkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -16383,6 +16383,42 @@
         "authorName": "Gleydson Souza",
         "text": "Vdd kkkkk",
         "timestamp": 1787869211186
+      },
+      {
+        "authorNum": "118395236282617",
+        "authorName": "Caroline",
+        "text": "Aqui tá um friozinho e chuva horrível",
+        "timestamp": 1787869214081
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Amo",
+        "timestamp": 1787869219858
+      },
+      {
+        "authorNum": "205621945192508",
+        "authorName": "Jennifer🦋",
+        "text": "EU SEIIIIIIIIIIIIIIIIIIII",
+        "timestamp": 1787869227781
+      },
+      {
+        "authorNum": "118395236282617",
+        "authorName": "Caroline",
+        "text": "aqui aonde eu moro e muito frio",
+        "timestamp": 1787869231296
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "ENTÃOOOOOOO",
+        "timestamp": 1787869234462
+      },
+      {
+        "authorNum": "205621945192508",
+        "authorName": "Jennifer🦋",
+        "text": "Kkkkkkkkkkkkkk",
+        "timestamp": 1787869235790
       }
     ],
     "120363428464897153@g.us": [],
@@ -16534,7 +16570,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20657,
+    "120363432018531082@g.us": 20663,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1565,
@@ -134641,6 +134677,42 @@
         "text": "Vdd kkkkk",
         "pushName": "Gleydson Souza",
         "timestamp": 1787869211187
+      },
+      "AC454089B7A7AE160FB5444283133064": {
+        "sender": "118395236282617@lid",
+        "text": "Aqui tá um friozinho e chuva horrível",
+        "pushName": "Caroline",
+        "timestamp": 1787869214081
+      },
+      "AC4561B79AE0D383EF737222C3139AB2": {
+        "sender": "190864487919667@lid",
+        "text": "Amo",
+        "pushName": "Souza",
+        "timestamp": 1787869219858
+      },
+      "ACF25C5472E5BDAF73C5B4E6152DF6B9": {
+        "sender": "205621945192508@lid",
+        "text": "EU SEIIIIIIIIIIIIIIIIIIII",
+        "pushName": "Jennifer🦋",
+        "timestamp": 1787869227781
+      },
+      "AC3B3F52F2CFB64C17FF5210AA7FC994": {
+        "sender": "118395236282617@lid",
+        "text": "aqui aonde eu moro e muito frio",
+        "pushName": "Caroline",
+        "timestamp": 1787869231296
+      },
+      "AC01FDADBF4F0246989CA4460EC758D9": {
+        "sender": "190864487919667@lid",
+        "text": "ENTÃOOOOOOO",
+        "pushName": "Souza",
+        "timestamp": 1787869234462
+      },
+      "AC2CC4D628416231E30FCCDFCA8B31E4": {
+        "sender": "205621945192508@lid",
+        "text": "Kkkkkkkkkkkkkk",
+        "pushName": "Jennifer🦋",
+        "timestamp": 1787869235790
       }
     },
     "120363428464897153@g.us": {
@@ -182922,7 +182994,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787869211186,
+    "120363432018531082@g.us": 1787869235790,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787869206626,
