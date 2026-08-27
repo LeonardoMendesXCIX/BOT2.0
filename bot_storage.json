@@ -128,9 +128,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2028,
+        "text": 2030,
         "media": 268,
-        "total": 2296
+        "total": 2298
       },
       "252922705240205": {
         "text": 80,
@@ -2474,8 +2474,8 @@
       },
       "238233849983072": {
         "text": 34,
-        "media": 3,
-        "total": 37
+        "media": 4,
+        "total": 38
       },
       "75797868064796": {
         "text": 4,
@@ -8986,7 +8986,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Baby (179040627490824): e controlado vou hj ainda se der tempo",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Isso",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Toma qual?",
         "gigi✨ (60851868446964): Toma chá de maracujá é muito bom",
@@ -9485,7 +9484,8 @@
         "Bruno Aguiar (+1395881181241): Santiago,Rio Grande do Sul",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): 👀👀",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Ahh, pertinho até",
-        "Bruno Aguiar (+1395881181241): Uns 1000km kkkk"
+        "Bruno Aguiar (+1395881181241): Uns 1000km kkkk",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Kkkkkk pô, galera de SP, RJ, nordeste... Da pra dizer que é perto kkkkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -16142,6 +16142,12 @@
         "authorName": "Bruno Aguiar",
         "text": "Uns 1000km kkkk",
         "timestamp": 1787859408459
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Kkkkkk pô, galera de SP, RJ, nordeste... Da pra dizer que é perto kkkkk",
+        "timestamp": 1787859439185
       }
     ],
     "120363428464897153@g.us": [],
@@ -16238,7 +16244,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20185,
+    "120363432018531082@g.us": 20186,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1493,
@@ -131552,6 +131558,12 @@
         "text": "Uns 1000km kkkk",
         "pushName": "Bruno Aguiar",
         "timestamp": 1787859408459
+      },
+      "ACDAB8CE8E11A2948AA2F31977ABC4FA": {
+        "sender": "53537388122141@lid",
+        "text": "Kkkkkk pô, galera de SP, RJ, nordeste... Da pra dizer que é perto kkkkk",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787859439185
       }
     },
     "120363428464897153@g.us": {
@@ -179381,7 +179393,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787859408459,
+    "120363432018531082@g.us": 1787859454424,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787859082635,
