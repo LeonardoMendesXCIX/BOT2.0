@@ -33,9 +33,9 @@
         "total": 4975
       },
       "179040627490824": {
-        "text": 391,
+        "text": 394,
         "media": 80,
-        "total": 471
+        "total": 474
       },
       "145381035905262": {
         "text": 2152,
@@ -8928,7 +8928,10 @@
         "Bruno Aguiar (+1395881181241): Bom dia",
         "Baby (179040627490824): Baaaa vai indo mais um dia q a insônia ganhou",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bah sinto muito...",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bom dia!"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bom dia!",
+        "Baby (179040627490824): Já tô Acostumado jogo eu dormo",
+        "Baby (179040627490824): 3 dias já",
+        "Baby (179040627490824): Bom dia bruno"
       ]
     },
     "120363428464897153@g.us": {
@@ -15065,6 +15068,24 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Bom dia!",
         "timestamp": 1787825513153
+      },
+      {
+        "authorNum": "179040627490824",
+        "authorName": "Baby",
+        "text": "Já tô Acostumado jogo eu dormo",
+        "timestamp": 1787825534360
+      },
+      {
+        "authorNum": "179040627490824",
+        "authorName": "Baby",
+        "text": "3 dias já",
+        "timestamp": 1787825540399
+      },
+      {
+        "authorNum": "179040627490824",
+        "authorName": "Baby",
+        "text": "Bom dia bruno",
+        "timestamp": 1787825560315
       }
     ],
     "120363428464897153@g.us": [],
@@ -15082,7 +15103,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19669,
+    "120363432018531082@g.us": 19672,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1456,
@@ -127326,6 +127347,24 @@
         "text": "Bom dia!",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787825513153
+      },
+      "ACD9E1FE5B36B56746DF45E28FFFE971": {
+        "sender": "179040627490824@lid",
+        "text": "Já tô Acostumado jogo eu dormo",
+        "pushName": "Baby",
+        "timestamp": 1787825534360
+      },
+      "AC525E29EEAFA7EE11DDBCEE3F138BCC": {
+        "sender": "179040627490824@lid",
+        "text": "3 dias já",
+        "pushName": "Baby",
+        "timestamp": 1787825540399
+      },
+      "AC2315480AFA830C2DCAA84C29EBE097": {
+        "sender": "179040627490824@lid",
+        "text": "Bom dia bruno",
+        "pushName": "Baby",
+        "timestamp": 1787825560315
       }
     },
     "120363428464897153@g.us": {
@@ -174927,7 +174966,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787825513153,
+    "120363432018531082@g.us": 1787825560315,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787814068637,
