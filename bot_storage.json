@@ -136,9 +136,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1514,
+        "text": 1515,
         "media": 424,
-        "total": 1938
+        "total": 1939
       },
       "81991328395336": {
         "text": 3840,
@@ -2621,9 +2621,9 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 43,
+        "text": 44,
         "media": 11,
-        "total": 54
+        "total": 55
       },
       "172868239380659": {
         "text": 56,
@@ -9149,7 +9149,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Juliano Perlin (222595437858867): Querem pega o meu caroço do abacate🥹",
         "Rafael Moura (57707230945348): Nao to falando disso",
         "Rafael Moura (57707230945348): E sim desses correios ai",
         "Rafael Moura (57707230945348): Na moral isso ta chatão já",
@@ -9648,7 +9647,8 @@
         "Gleydson Souza (274384656834700): Nada, so avisar quando chegar",
         "Celiete Souza (129373172711439): 999 msgs",
         "Celiete Souza (129373172711439): Vocês está bem??",
-        "Celiete Souza (129373172711439): Boa noite"
+        "Celiete Souza (129373172711439): Boa noite",
+        "Gleydson Souza (274384656834700): Boa"
       ]
     },
     "120363428464897153@g.us": {
@@ -15861,30 +15861,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "208958782488665",
-        "authorName": "Jessica",
-        "text": "Melhor deseja a amputação",
-        "timestamp": 1787868932620
-      },
-      {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Sabe muito",
-        "timestamp": 1787868938396
-      },
-      {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Não sou mal",
-        "timestamp": 1787868944235
-      },
-      {
-        "authorNum": "118395236282617",
-        "authorName": "Caroline",
-        "text": "Preciso disso",
-        "timestamp": 1787868959818
-      },
-      {
         "authorNum": "190864487919667",
         "authorName": "Souza",
         "text": "Ave Maria",
@@ -16519,6 +16495,12 @@
         "authorName": "Celiete Souza",
         "text": "Boa noite",
         "timestamp": 1787870720620
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Boa",
+        "timestamp": 1787870764622
       }
     ],
     "120363428464897153@g.us": [],
@@ -16916,7 +16898,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20746,
+    "120363432018531082@g.us": 20747,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1617,
@@ -135551,6 +135533,12 @@
         "text": "Boa noite",
         "pushName": "Celiete Souza",
         "timestamp": 1787870720620
+      },
+      "ACE42B8254136F6382D39AA205431316": {
+        "sender": "274384656834700@lid",
+        "text": "Boa",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787870764622
       }
     },
     "120363428464897153@g.us": {
@@ -184144,7 +184132,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787870724618,
+    "120363432018531082@g.us": 1787870764622,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787870718844,
