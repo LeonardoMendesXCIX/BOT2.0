@@ -251,9 +251,9 @@
         "total": 99
       },
       "233161007071346": {
-        "text": 403,
+        "text": 405,
         "media": 47,
-        "total": 450
+        "total": 452
       },
       "262182034002040": {
         "text": 1841,
@@ -2626,9 +2626,9 @@
         "total": 40
       },
       "172868239380659": {
-        "text": 34,
+        "text": 36,
         "media": 9,
-        "total": 43
+        "total": 45
       },
       "170455038193841": {
         "text": 1,
@@ -2641,9 +2641,9 @@
         "total": 5
       },
       "151582733820115": {
-        "text": 2,
+        "text": 3,
         "media": 2,
-        "total": 4
+        "total": 5
       },
       "205621945192508": {
         "text": 4,
@@ -9134,8 +9134,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Souza (190864487919667): Aí desandou depois",
-        "Camila Designer (92629643563147): Opa, esse DDD é aqui de perto 🤣🤣🤣",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Quer, que todo mundo Aki arrumei um namorado",
         "Neto prime (238233849983072): A gente já se arrumou né vida",
         "Neto prime (238233849983072): Hahahaha",
@@ -9633,7 +9631,9 @@
         "Gabriel🙅🏻‍♂️💸 (151582733820115): Oii",
         "Gleydson Souza (274384656834700): Bem vinda",
         "Jennifer🦋 (205621945192508): Oii boa noite",
-        "Jennifer🦋 (205621945192508): Obgda"
+        "Jennifer🦋 (205621945192508): Obgda",
+        "Pedro Henrique (172868239380659): Já vou ir fazer amizade com você, vai que ganhou açaí com peixe",
+        "Gabriel🙅🏻‍♂️💸 (151582733820115): Boa noite pode PV"
       ]
     },
     "120363428464897153@g.us": {
@@ -15771,18 +15771,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Acompanhando essa treta toda",
-        "timestamp": 1787864559427
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Capaz se a mulher morrer primeiro ele vai no velório com a outra",
-        "timestamp": 1787864563982
-      },
-      {
         "authorNum": "172868239380659",
         "authorName": "Pedro Henrique",
         "text": "Ahh, que massa!",
@@ -16441,6 +16429,18 @@
         "authorName": "Jennifer🦋",
         "text": "Obgda",
         "timestamp": 1787866339594
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Já vou ir fazer amizade com você, vai que ganhou açaí com peixe",
+        "timestamp": 1787866358110
+      },
+      {
+        "authorNum": "151582733820115",
+        "authorName": "Gabriel🙅🏻‍♂️💸",
+        "text": "Boa noite pode PV",
+        "timestamp": 1787866365499
       }
     ],
     "120363428464897153@g.us": [],
@@ -16527,7 +16527,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20505,
+    "120363432018531082@g.us": 20507,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1543,
@@ -133729,6 +133729,18 @@
         "text": "Obgda",
         "pushName": "Jennifer🦋",
         "timestamp": 1787866339594
+      },
+      "AC37D4832AFA46119B7CF79789D35650": {
+        "sender": "172868239380659@lid",
+        "text": "Já vou ir fazer amizade com você, vai que ganhou açaí com peixe",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787866358110
+      },
+      "ACD1F44A731503012B6009D3D0FF4890": {
+        "sender": "151582733820115@lid",
+        "text": "Boa noite pode PV",
+        "pushName": "Gabriel🙅🏻‍♂️💸",
+        "timestamp": 1787866365499
       }
     },
     "120363428464897153@g.us": {
@@ -181872,7 +181884,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787866339594,
+    "120363432018531082@g.us": 1787866372796,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787865477162,
