@@ -103,9 +103,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1438,
-        "media": 1077,
-        "total": 2515
+        "text": 1439,
+        "media": 1079,
+        "total": 2518
       },
       "3126803329115": {
         "text": 87,
@@ -2453,9 +2453,9 @@
         "total": 5
       },
       "190864487919667": {
-        "text": 25,
-        "media": 8,
-        "total": 33
+        "text": 26,
+        "media": 9,
+        "total": 35
       },
       "82227819987089": {
         "text": 1,
@@ -9317,7 +9317,9 @@
         "willian (163530946961491): Camila iludindo o cara, ele até saiu kkk",
         "Camila Designer (92629643563147): Vou nada, tenho uma filha, vai que vou e não volto",
         "Souza (190864487919667): KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK",
-        "Camila Designer (92629643563147): Não posso seguir meus impulsos"
+        "Camila Designer (92629643563147): Não posso seguir meus impulsos",
+        "Camila Designer (92629643563147): Por isso não chamo ninguém no PV",
+        "Souza (190864487919667): Vai que se apaixona né?"
       ]
     },
     "120363428464897153@g.us": {
@@ -15385,12 +15387,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Sigo a razão ou emoção?🤔🤔🤔",
-        "timestamp": 1787845460835
-      },
-      {
         "authorNum": "81991328395336",
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Recuperei minha figurinha",
@@ -16079,6 +16075,18 @@
         "authorName": "Camila Designer",
         "text": "Não posso seguir meus impulsos",
         "timestamp": 1787847259300
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Por isso não chamo ninguém no PV",
+        "timestamp": 1787847274730
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Vai que se apaixona né?",
+        "timestamp": 1787847284757
       }
     ],
     "120363428464897153@g.us": [],
@@ -16096,7 +16104,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19988,
+    "120363432018531082@g.us": 19990,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -130238,6 +130246,18 @@
         "text": "Não posso seguir meus impulsos",
         "pushName": "Camila Designer",
         "timestamp": 1787847259301
+      },
+      "2A6BC20F3A1B274C3CF6": {
+        "sender": "92629643563147@lid",
+        "text": "Por isso não chamo ninguém no PV",
+        "pushName": "Camila Designer",
+        "timestamp": 1787847274730
+      },
+      "AC15555FFA9D6B4351720D3F56D9BC8B": {
+        "sender": "190864487919667@lid",
+        "text": "Vai que se apaixona né?",
+        "pushName": "Souza",
+        "timestamp": 1787847284758
       }
     },
     "120363428464897153@g.us": {
@@ -177989,7 +178009,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787847259300,
+    "120363432018531082@g.us": 1787847284757,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
