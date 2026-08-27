@@ -3094,14 +3094,14 @@
         "total": 512
       },
       "145381035905262": {
-        "text": 325,
+        "text": 326,
         "media": 112,
-        "total": 437
+        "total": 438
       },
       "53537388122141": {
-        "text": 534,
+        "text": 537,
         "media": 38,
-        "total": 572
+        "total": 575
       },
       "120363412288900422": {
         "text": 1,
@@ -14733,7 +14733,11 @@
         "Gabriel (145381035905262): Pedindo pra colocar nele",
         "Gabriel (145381035905262): No grupo, quer voltar",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Coloquei",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Vamos ver como vai ser"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Vamos ver como vai ser",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Se sair ou ser removido",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Não volta mais",
+        "Gabriel (145381035905262): Comandem aí, tô off hoje",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Ok"
       ]
     },
     "120363411233423709@g.us": {
@@ -15303,6 +15307,30 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Vamos ver como vai ser",
         "timestamp": 1787844168577
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Se sair ou ser removido",
+        "timestamp": 1787844174374
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Não volta mais",
+        "timestamp": 1787844178535
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Comandem aí, tô off hoje",
+        "timestamp": 1787844195182
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Ok",
+        "timestamp": 1787844211472
       }
     ],
     "120363411233423709@g.us": [],
@@ -15320,7 +15348,7 @@
     "120363432018531082@g.us": 19816,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1474,
+    "120363412288900422@g.us": 1478,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 17,
@@ -173624,6 +173652,30 @@
         "text": "Vamos ver como vai ser",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787844168577
+      },
+      "ACD4D1BB8C63B90D2AE80D1DB20F21C3": {
+        "sender": "53537388122141@lid",
+        "text": "Se sair ou ser removido",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787844174374
+      },
+      "AC2088A87E2DE986F52BACFD28407A16": {
+        "sender": "53537388122141@lid",
+        "text": "Não volta mais",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787844178535
+      },
+      "AC1ADAF2CF7E569E096C3B7259CFC205": {
+        "sender": "145381035905262@lid",
+        "text": "Comandem aí, tô off hoje",
+        "pushName": "Gabriel",
+        "timestamp": 1787844195182
+      },
+      "AC05CE4DAA685B71C723278401B434B8": {
+        "sender": "53537388122141@lid",
+        "text": "Ok",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787844211472
       }
     },
     "120363411233423709@g.us": {
@@ -176150,7 +176202,7 @@
     "120363432018531082@g.us": 1787844122794,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787844168577,
+    "120363412288900422@g.us": 1787844211472,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
