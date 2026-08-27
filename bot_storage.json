@@ -302,9 +302,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1638,
+        "text": 1640,
         "media": 320,
-        "total": 1958
+        "total": 1960
       },
       "252600633041077": {
         "text": 1,
@@ -8894,7 +8894,9 @@
         "Leandro (+55 (11) 92701-8683): 🥰",
         "Leandro (+55 (11) 92701-8683): !msgradm",
         "Leandro (+55 (11) 92701-8683): !msgradm 🚫 O {membro} foi removido por descumprir as regras!",
-        "AlanRogerio Faustino (102641279483997): Bora trabalhar"
+        "AlanRogerio Faustino (102641279483997): Bora trabalhar",
+        "Leandro (+55 (11) 92701-8683): Bom dia jovem!",
+        "Leandro (+55 (11) 92701-8683): Bom trabalho aí! 🫡"
       ]
     },
     "120363428464897153@g.us": {
@@ -14941,6 +14943,18 @@
         "authorName": "AlanRogerio Faustino",
         "text": "Bora trabalhar",
         "timestamp": 1787814104884
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Bom dia jovem!",
+        "timestamp": 1787814557750
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Bom trabalho aí! 🫡",
+        "timestamp": 1787814567847
       }
     ],
     "120363428464897153@g.us": [],
@@ -14965,7 +14979,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19646,
+    "120363432018531082@g.us": 19648,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1456,
@@ -127068,6 +127082,18 @@
         "text": "Bora trabalhar",
         "pushName": "AlanRogerio Faustino",
         "timestamp": 1787814104885
+      },
+      "A558118B6E5D82CE8AAFFAC1F624B1E9": {
+        "sender": "54259127210155@lid",
+        "text": "Bom dia jovem!",
+        "pushName": "Leandro",
+        "timestamp": 1787814557750
+      },
+      "A57952129CD45D2F6243164AA0EE0988": {
+        "sender": "54259127210155@lid",
+        "text": "Bom trabalho aí! 🫡",
+        "pushName": "Leandro",
+        "timestamp": 1787814567847
       }
     },
     "120363428464897153@g.us": {
@@ -174669,7 +174695,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787814104884,
+    "120363432018531082@g.us": 1787814567847,
     "120363428464897153@g.us": 1787810938788,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787814068637,
