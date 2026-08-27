@@ -1354,8 +1354,8 @@
       },
       "266048007835881": {
         "text": 541,
-        "media": 247,
-        "total": 788
+        "media": 248,
+        "total": 789
       },
       "123120354635955": {
         "text": 4,
@@ -2473,9 +2473,9 @@
         "total": 1
       },
       "238233849983072": {
-        "text": 4,
+        "text": 7,
         "media": 0,
-        "total": 4
+        "total": 7
       },
       "75797868064796": {
         "text": 0,
@@ -2488,9 +2488,9 @@
         "total": 1
       },
       "188845719089205": {
-        "text": 3,
+        "text": 5,
         "media": 0,
-        "total": 3
+        "total": 5
       }
     },
     "120363428464897153@g.us": {
@@ -9378,7 +9378,12 @@
         "Souza (190864487919667): Rapaz",
         "Souza (190864487919667): Complicado esse pedido do camarada",
         "Neto prime (238233849983072): Só achei as coisas muito caras kkkk",
-        "Souza (190864487919667): 👀👀👀"
+        "Souza (190864487919667): 👀👀👀",
+        "Camila Viana (188845719089205): Você foi pra Zona Sul? 👀🤣",
+        "Neto prime (238233849983072): Sim 👍🏽",
+        "Neto prime (238233849983072): Eu acho kkkk",
+        "Neto prime (238233849983072): Fui pra Tijuca",
+        "Camila Viana (188845719089205): Não é Zona Sul, mas tbm não é um bairro barato rs"
       ]
     },
     "120363428464897153@g.us": {
@@ -15516,6 +15521,36 @@
         "authorName": "Souza",
         "text": "👀👀👀",
         "timestamp": 1787855783480
+      },
+      {
+        "authorNum": "188845719089205",
+        "authorName": "Camila Viana",
+        "text": "Você foi pra Zona Sul? 👀🤣",
+        "timestamp": 1787855833643
+      },
+      {
+        "authorNum": "238233849983072",
+        "authorName": "Neto prime",
+        "text": "Sim 👍🏽",
+        "timestamp": 1787855842848
+      },
+      {
+        "authorNum": "238233849983072",
+        "authorName": "Neto prime",
+        "text": "Eu acho kkkk",
+        "timestamp": 1787855850214
+      },
+      {
+        "authorNum": "238233849983072",
+        "authorName": "Neto prime",
+        "text": "Fui pra Tijuca",
+        "timestamp": 1787855854269
+      },
+      {
+        "authorNum": "188845719089205",
+        "authorName": "Camila Viana",
+        "text": "Não é Zona Sul, mas tbm não é um bairro barato rs",
+        "timestamp": 1787855874602
       }
     ],
     "120363428464897153@g.us": [],
@@ -15533,7 +15568,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20019,
+    "120363432018531082@g.us": 20024,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -129861,6 +129896,36 @@
         "text": "👀👀👀",
         "pushName": "Souza",
         "timestamp": 1787855783480
+      },
+      "A5479E1D0045801C5C80B7E253490CAA": {
+        "sender": "188845719089205@lid",
+        "text": "Você foi pra Zona Sul? 👀🤣",
+        "pushName": "Camila Viana",
+        "timestamp": 1787855833654
+      },
+      "2A1FCAF778BADEE950ED": {
+        "sender": "238233849983072@lid",
+        "text": "Sim 👍🏽",
+        "pushName": "Neto prime",
+        "timestamp": 1787855842849
+      },
+      "2A33264F3BFBC8932D8E": {
+        "sender": "238233849983072@lid",
+        "text": "Eu acho kkkk",
+        "pushName": "Neto prime",
+        "timestamp": 1787855850214
+      },
+      "2A25444CC45F2E022196": {
+        "sender": "238233849983072@lid",
+        "text": "Fui pra Tijuca",
+        "pushName": "Neto prime",
+        "timestamp": 1787855854269
+      },
+      "A581E2A6CD2A76D78365CCCA32767918": {
+        "sender": "188845719089205@lid",
+        "text": "Não é Zona Sul, mas tbm não é um bairro barato rs",
+        "pushName": "Camila Viana",
+        "timestamp": 1787855874602
       }
     },
     "120363428464897153@g.us": {
@@ -177612,7 +177677,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787855794483,
+    "120363432018531082@g.us": 1787855889501,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
