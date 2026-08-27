@@ -1,107 +1,14 @@
 {
   "states": {
-    "54259127210155": {
-      "mode": "inativos_confirm_removal",
-      "targetChat": "120363432018531082@g.us",
-      "inactiveList": [
-        {
-          "jid": "18653797982263@s.whatsapp.net",
-          "number": "18653797982263",
-          "formattedNum": "18653797982263",
-          "pushName": "",
-          "fullDisplay": "*Novo Membro* - @18653797982263",
-          "nameAndNumber": "*Novo Membro* - @18653797982263",
-          "mentionTag": "@18653797982263"
-        },
-        {
-          "jid": "217562323378203@s.whatsapp.net",
-          "number": "217562323378203",
-          "formattedNum": "217562323378203",
-          "pushName": "",
-          "fullDisplay": "*Novo Membro* - @217562323378203",
-          "nameAndNumber": "*Novo Membro* - @217562323378203",
-          "mentionTag": "@217562323378203"
-        },
-        {
-          "jid": "61822480695299@s.whatsapp.net",
-          "number": "61822480695299",
-          "formattedNum": "61822480695299",
-          "pushName": "",
-          "fullDisplay": "*Novo Membro* - @61822480695299",
-          "nameAndNumber": "*Novo Membro* - @61822480695299",
-          "mentionTag": "@61822480695299"
-        },
-        {
-          "jid": "86527166177503@s.whatsapp.net",
-          "number": "86527166177503",
-          "formattedNum": "86527166177503",
-          "pushName": "",
-          "fullDisplay": "*Novo Membro* - @86527166177503",
-          "nameAndNumber": "*Novo Membro* - @86527166177503",
-          "mentionTag": "@86527166177503"
-        },
-        {
-          "jid": "5055948312624@s.whatsapp.net",
-          "number": "5055948312624",
-          "formattedNum": "+5055948312624",
-          "pushName": "",
-          "fullDisplay": "+5055948312624",
-          "nameAndNumber": "+5055948312624",
-          "mentionTag": "@5055948312624"
-        },
-        {
-          "jid": "46721409269915@s.whatsapp.net",
-          "number": "46721409269915",
-          "formattedNum": "46721409269915",
-          "pushName": "",
-          "fullDisplay": "*Novo Membro* - @46721409269915",
-          "nameAndNumber": "*Novo Membro* - @46721409269915",
-          "mentionTag": "@46721409269915"
-        },
-        {
-          "jid": "15445423824946@s.whatsapp.net",
-          "number": "15445423824946",
-          "formattedNum": "15445423824946",
-          "pushName": "",
-          "fullDisplay": "*Novo Membro* - @15445423824946",
-          "nameAndNumber": "*Novo Membro* - @15445423824946",
-          "mentionTag": "@15445423824946"
-        },
-        {
-          "jid": "238564696662156@s.whatsapp.net",
-          "number": "238564696662156",
-          "formattedNum": "238564696662156",
-          "pushName": "",
-          "fullDisplay": "*Novo Membro* - @238564696662156",
-          "nameAndNumber": "*Novo Membro* - @238564696662156",
-          "mentionTag": "@238564696662156"
-        },
-        {
-          "jid": "15557210423306@s.whatsapp.net",
-          "number": "15557210423306",
-          "formattedNum": "15557210423306",
-          "pushName": "",
-          "fullDisplay": "*Novo Membro* - @15557210423306",
-          "nameAndNumber": "*Novo Membro* - @15557210423306",
-          "mentionTag": "@15557210423306"
-        },
-        {
-          "jid": "173624875073550@s.whatsapp.net",
-          "number": "173624875073550",
-          "formattedNum": "173624875073550",
-          "pushName": "",
-          "fullDisplay": "*Novo Membro* - @173624875073550",
-          "nameAndNumber": "*Novo Membro* - @173624875073550",
-          "mentionTag": "@173624875073550"
-        }
-      ],
-      "date": 1787804672212
-    },
     "145381035905262": {
       "mode": "football_menu"
     }
   },
-  "cache": {},
+  "cache": {
+    "names": {
+      "5511927018683": "Leandro"
+    }
+  },
   "users": {
     "81991328395336": "5",
     "145381035905262": "5",
@@ -120,9 +27,9 @@
         "total": 1920
       },
       "81991328395336": {
-        "text": 3721,
+        "text": 3722,
         "media": 1251,
-        "total": 4972
+        "total": 4973
       },
       "179040627490824": {
         "text": 387,
@@ -395,9 +302,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1628,
-        "media": 319,
-        "total": 1947
+        "text": 1630,
+        "media": 320,
+        "total": 1950
       },
       "252600633041077": {
         "text": 1,
@@ -3523,8 +3430,8 @@
     "120363409024805409@g.us": {
       "179040627490824": {
         "text": 5,
-        "media": 6,
-        "total": 11
+        "media": 14,
+        "total": 19
       },
       "5511927018683": {
         "text": 10,
@@ -8976,7 +8883,10 @@
         "Baby (179040627490824): foco e fe agora",
         "Gabriel (145381035905262): Vai pra cima",
         "Baby (179040627490824): n vai mn",
-        "Baby (179040627490824): ?_?"
+        "Baby (179040627490824): ?_?",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Vem cuida do teu baby",
+        "Leandro (+55 (11) 92701-8683): Tô indo",
+        "Leandro (+55 (11) 92701-8683): 🥰"
       ]
     },
     "120363428464897153@g.us": {
@@ -15002,6 +14912,24 @@
         "authorName": "Baby",
         "text": "?_?",
         "timestamp": 1787809195567
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Vem cuida do teu baby",
+        "timestamp": 1787809496097
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Tô indo",
+        "timestamp": 1787809502101
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "🥰",
+        "timestamp": 1787809504667
       }
     ],
     "120363428464897153@g.us": [],
@@ -15098,7 +15026,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19640,
+    "120363432018531082@g.us": 19643,
     "120363428464897153@g.us": 5990,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1455,
@@ -127165,6 +127093,24 @@
         "text": "?_?",
         "pushName": "Baby",
         "timestamp": 1787809195567
+      },
+      "ACD97CDC45209EC10329D12392828898": {
+        "sender": "81991328395336@lid",
+        "text": "Vem cuida do teu baby",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787809496097
+      },
+      "A5532B2819852CC6CFDD1C02CA57DE5B": {
+        "sender": "54259127210155@lid",
+        "text": "Tô indo",
+        "pushName": "Leandro",
+        "timestamp": 1787809502101
+      },
+      "A594246E66795C83B0FE95E5734A920A": {
+        "sender": "54259127210155@lid",
+        "text": "🥰",
+        "pushName": "Leandro",
+        "timestamp": 1787809504668
       }
     },
     "120363428464897153@g.us": {
@@ -174499,7 +174445,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787809254926,
+    "120363432018531082@g.us": 1787809504667,
     "120363428464897153@g.us": 1787803264071,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787804659285,
@@ -174510,7 +174456,7 @@
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1787803320850,
-    "120363409024805409@g.us": 1787809469837
+    "120363409024805409@g.us": 1787809520919
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
