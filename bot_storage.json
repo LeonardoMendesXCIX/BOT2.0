@@ -241,9 +241,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2078,
+        "text": 2079,
         "media": 274,
-        "total": 2352
+        "total": 2353
       },
       "252922705240205": {
         "text": 80,
@@ -256,9 +256,9 @@
         "total": 444
       },
       "262182034002040": {
-        "text": 1840,
-        "media": 118,
-        "total": 1958
+        "text": 1841,
+        "media": 119,
+        "total": 1960
       },
       "219245581488326": {
         "text": 4,
@@ -1466,9 +1466,9 @@
         "total": 157
       },
       "266048007835881": {
-        "text": 590,
+        "text": 591,
         "media": 274,
-        "total": 864
+        "total": 865
       },
       "123120354635955": {
         "text": 4,
@@ -2632,8 +2632,8 @@
       },
       "170455038193841": {
         "text": 1,
-        "media": 1,
-        "total": 2
+        "media": 2,
+        "total": 3
       }
     },
     "120363428464897153@g.us": {
@@ -9114,8 +9114,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "massagista tântrico (129158944415753): Não irá se arrepender",
-        "massagista tântrico (129158944415753): Ficará satisfeita",
         "massagista tântrico (129158944415753): E pedirá mais",
         "massagista tântrico (129158944415753): Seria um imenso prazer ter você como cliente",
         "Camila Designer (92629643563147): Mas eu não quero ser apenas cliente 😏😏😏",
@@ -9613,7 +9611,9 @@
         "🙃🙃🙃 (11171897864256): Blz",
         "Pedro Henrique (172868239380659): Tá tendo treta ? poha, cheguei tarde",
         "🙃🙃🙃 (11171897864256): Como estão todos??",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Por enquanto, acabou a treta"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Por enquanto, acabou a treta",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tranquilo e aí?",
+        "🎀  Ň𝐘ηａ🐆 (266048007835881): Que treta, vai viver"
       ]
     },
     "120363428464897153@g.us": {
@@ -15730,12 +15730,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Nam, grupo vai continuar normal\nFicaram inativos pq queriam",
-        "timestamp": 1787861764143
-      },
-      {
         "authorNum": "90130358485223",
         "authorName": "Gabriel Ohi",
         "text": "Eu sei",
@@ -16046,6 +16040,18 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Por enquanto, acabou a treta",
         "timestamp": 1787863549595
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Tranquilo e aí?",
+        "timestamp": 1787863559891
+      },
+      {
+        "authorNum": "266048007835881",
+        "authorName": "🎀  Ň𝐘ηａ🐆",
+        "text": "Que treta, vai viver",
+        "timestamp": 1787863570542
       }
     ],
     "120363428464897153@g.us": [],
@@ -16118,7 +16124,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20335,
+    "120363432018531082@g.us": 20337,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1525,
@@ -132307,6 +132313,18 @@
         "text": "Por enquanto, acabou a treta",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787863549595
+      },
+      "ACC60ADBFF4152B06DC0B7C17C5AEBE4": {
+        "sender": "53537388122141@lid",
+        "text": "Tranquilo e aí?",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787863559891
+      },
+      "ACFC68A603D9BBA5A831F45999315EB4": {
+        "sender": "266048007835881@lid",
+        "text": "Que treta, vai viver",
+        "pushName": "🎀  Ň𝐘ηａ🐆",
+        "timestamp": 1787863570542
       }
     },
     "120363428464897153@g.us": {
@@ -180334,7 +180352,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787863549595,
+    "120363432018531082@g.us": 1787863596630,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787863534146,
