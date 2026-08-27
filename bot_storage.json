@@ -130,8 +130,8 @@
       },
       "81991328395336": {
         "text": 3705,
-        "media": 1237,
-        "total": 4942
+        "media": 1238,
+        "total": 4943
       },
       "179040627490824": {
         "text": 381,
@@ -3140,9 +3140,9 @@
         "total": 456
       },
       "5511927018683": {
-        "text": 383,
+        "text": 385,
         "media": 72,
-        "total": 455
+        "total": 457
       },
       "145381035905262": {
         "text": 314,
@@ -8393,7 +8393,6 @@
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Cai  de paraquedas Aki e já descobri meio mundo de coisas kkkkkk"
       ],
       "26/08/2026": [
-        "🎀  Ň𝐘ηａ🐆 (266048007835881): Pior que ele e mesmo kkkkkk",
         "Juliano Perlin (222595437858867): Eu seria um bom pai🥹",
         "Baby (179040627490824): tem q se virar sozinho de um geito ou de outro",
         "Camila Designer (92629643563147): Quer ser o pai do meu futuro filho 😏🤣🤣🤣",
@@ -8892,7 +8891,8 @@
         "gigi✨ (60851868446964): Kkkk",
         "Juliano Perlin (222595437858867): Como sabe que fui eu🫣",
         "Juliano Perlin (222595437858867): 🤭",
-        "Gabriel (145381035905262): Tu deixa visível"
+        "Gabriel (145381035905262): Tu deixa visível",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @145381035905262"
       ]
     },
     "120363428464897153@g.us": {
@@ -14271,7 +14271,9 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): @54259127210155 \nManda os comandos do bot aqui, por favor. Deixar fixado pra facilitar 👀",
         "Leandro (+55 (11) 92701-8683): !ajuda",
         "Leandro (+55 (11) 92701-8683): !ajuda",
-        "Leandro (+55 (11) 92701-8683): !status"
+        "Leandro (+55 (11) 92701-8683): !status",
+        "Leandro (+55 (11) 92701-8683): Pronto, todos os comandos estão aí",
+        "Leandro (+55 (11) 92701-8683): Inclusive os de música"
       ]
     },
     "120363411233423709@g.us": {
@@ -14998,6 +15000,12 @@
         "authorName": "Gabriel",
         "text": "Tu deixa visível",
         "timestamp": 1787791569420
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "@145381035905262",
+        "timestamp": 1787791718773
       }
     ],
     "120363428464897153@g.us": [
@@ -15801,6 +15809,18 @@
         "authorName": "Leandro",
         "text": "!status",
         "timestamp": 1787791655049
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Pronto, todos os comandos estão aí",
+        "timestamp": 1787791713403
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Inclusive os de música",
+        "timestamp": 1787791717282
       }
     ],
     "120363411233423709@g.us": [],
@@ -15814,10 +15834,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19520,
+    "120363432018531082@g.us": 19521,
     "120363428464897153@g.us": 5462,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1392,
+    "120363412288900422@g.us": 1394,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 7
@@ -127193,6 +127213,12 @@
         "text": "Tu deixa visível",
         "pushName": "Gabriel",
         "timestamp": 1787791569420
+      },
+      "AC3D5F2E56359E36D8F2A20B9142FCB9": {
+        "sender": "81991328395336@lid",
+        "text": "@145381035905262",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787791718773
       }
     },
     "120363428464897153@g.us": {
@@ -168755,6 +168781,18 @@
         "text": "!status",
         "pushName": "Leandro",
         "timestamp": 1787791655049
+      },
+      "A55A9C1A060ED1A7761FC59F914420D5": {
+        "sender": "54259127210155@lid",
+        "text": "Pronto, todos os comandos estão aí",
+        "pushName": "Leandro",
+        "timestamp": 1787791713404
+      },
+      "A59DA2AC1EC66E44F0FD673E02CC1A18": {
+        "sender": "54259127210155@lid",
+        "text": "Inclusive os de música",
+        "pushName": "Leandro",
+        "timestamp": 1787791717282
       }
     },
     "120363411233423709@g.us": {
@@ -170895,10 +170933,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787791569420,
+    "120363432018531082@g.us": 1787791718773,
     "120363428464897153@g.us": 1787791672790,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787791684118,
+    "120363412288900422@g.us": 1787791717282,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
