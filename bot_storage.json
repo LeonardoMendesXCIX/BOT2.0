@@ -2566,9 +2566,9 @@
         "total": 20
       },
       "190864487919667": {
-        "text": 112,
+        "text": 115,
         "media": 22,
-        "total": 134
+        "total": 137
       },
       "82227819987089": {
         "text": 2,
@@ -2626,9 +2626,9 @@
         "total": 47
       },
       "172868239380659": {
-        "text": 43,
+        "text": 44,
         "media": 10,
-        "total": 53
+        "total": 54
       },
       "170455038193841": {
         "text": 1,
@@ -2652,8 +2652,8 @@
       },
       "208958782488665": {
         "text": 5,
-        "media": 4,
-        "total": 9
+        "media": 5,
+        "total": 10
       },
       "262456945414267": {
         "text": 9,
@@ -3297,9 +3297,9 @@
     },
     "120363412288900422@g.us": {
       "81991328395336": {
-        "text": 385,
+        "text": 386,
         "media": 111,
-        "total": 496
+        "total": 497
       },
       "5511927018683": {
         "text": 435,
@@ -3312,9 +3312,9 @@
         "total": 456
       },
       "53537388122141": {
-        "text": 594,
+        "text": 595,
         "media": 47,
-        "total": 641
+        "total": 642
       },
       "120363412288900422": {
         "text": 1,
@@ -9149,10 +9149,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "🎀  Ň𝐘ηａ🐆 (266048007835881): Obrigada amiga cãozinho kkk",
-        "'   MƲRIԼԼƠ  🥶 (111506477846600): Com os novato",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Aqui nós mete bala",
-        "'   MƲRIԼԼƠ  🥶 (111506477846600): Percebi",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Facãozinho já rodou",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Tu me mandou um link do teu grupo lembra",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Vou Aki já volto",
@@ -9648,7 +9644,11 @@
         "Caroline (118395236282617): Aqui aonde eu moro",
         "Souza (190864487919667): Queria",
         "Caroline (118395236282617): queria calor",
-        "Souza (190864487919667): Rapaz, caia em Brasília"
+        "Souza (190864487919667): Rapaz, caia em Brasília",
+        "Souza (190864487919667): Que tu vai sentir o forno",
+        "Jessica (208958782488665): Já que o povo mostrou neeh",
+        "Pedro Henrique (172868239380659): Queima senhor",
+        "Souza (190864487919667): Bonita"
       ]
     },
     "120363428464897153@g.us": {
@@ -15330,7 +15330,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Dizem que sim né 🤡",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): O gente...",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): O povo tá me tirando pra otária hoje",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Não é possível"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Não é possível",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Amei."
       ]
     },
     "120363411233423709@g.us": {
@@ -15796,18 +15797,6 @@
   },
   "memoryCluster": {
     "120363432018531082@g.us": [
-      {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Mas no cabaré eu acho que vai continuar 😏",
-        "timestamp": 1787867087758
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Muito bem vinda!",
-        "timestamp": 1787867111704
-      },
       {
         "authorNum": "262182034002040",
         "authorName": "Dany",
@@ -16365,6 +16354,30 @@
         "authorName": "Souza",
         "text": "Rapaz, caia em Brasília",
         "timestamp": 1787868879479
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Que tu vai sentir o forno",
+        "timestamp": 1787868885445
+      },
+      {
+        "authorNum": "208958782488665",
+        "authorName": "Jessica",
+        "text": "Já que o povo mostrou neeh",
+        "timestamp": 1787868886623
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Queima senhor",
+        "timestamp": 1787868900327
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Bonita",
+        "timestamp": 1787868915679
       }
     ],
     "120363428464897153@g.us": [],
@@ -16429,6 +16442,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Não é possível",
         "timestamp": 1787868795595
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Amei.",
+        "timestamp": 1787868912528
       }
     ],
     "120363411233423709@g.us": [],
@@ -16451,10 +16470,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20632,
+    "120363432018531082@g.us": 20636,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1553,
+    "120363412288900422@g.us": 1554,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -134408,6 +134427,30 @@
         "text": "Rapaz, caia em Brasília",
         "pushName": "Souza",
         "timestamp": 1787868879479
+      },
+      "AC0141F98CBF1562D59138EFC594097B": {
+        "sender": "190864487919667@lid",
+        "text": "Que tu vai sentir o forno",
+        "pushName": "Souza",
+        "timestamp": 1787868885445
+      },
+      "AC20D89B48B2C03EEB6FE8164FB688EE": {
+        "sender": "208958782488665@lid",
+        "text": "Já que o povo mostrou neeh",
+        "pushName": "Jessica",
+        "timestamp": 1787868886624
+      },
+      "AC3CE0E54C3AAAD22CB54158AC80A983": {
+        "sender": "172868239380659@lid",
+        "text": "Queima senhor",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787868900327
+      },
+      "ACB6324B8764AD23F83F384DD0581475": {
+        "sender": "190864487919667@lid",
+        "text": "Bonita",
+        "pushName": "Souza",
+        "timestamp": 1787868915679
       }
     },
     "120363428464897153@g.us": {
@@ -180062,6 +180105,12 @@
         "text": "Não é possível",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787868795595
+      },
+      "AC75ADB909506E75ED59D641015C28BE": {
+        "sender": "53537388122141@lid",
+        "text": "Amei.",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787868912528
       }
     },
     "120363411233423709@g.us": {
@@ -182617,10 +182666,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787868879479,
+    "120363432018531082@g.us": 1787868915679,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787868866394,
+    "120363412288900422@g.us": 1787868918162,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
