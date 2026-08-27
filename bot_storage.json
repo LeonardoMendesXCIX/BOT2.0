@@ -103,9 +103,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1439,
+        "text": 1440,
         "media": 1079,
-        "total": 2518
+        "total": 2519
       },
       "3126803329115": {
         "text": 87,
@@ -128,9 +128,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 1985,
+        "text": 1986,
         "media": 258,
-        "total": 2243
+        "total": 2244
       },
       "252922705240205": {
         "text": 80,
@@ -2454,8 +2454,8 @@
       },
       "190864487919667": {
         "text": 26,
-        "media": 9,
-        "total": 35
+        "media": 10,
+        "total": 36
       },
       "82227819987089": {
         "text": 1,
@@ -9319,7 +9319,9 @@
         "Souza (190864487919667): KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK",
         "Camila Designer (92629643563147): Não posso seguir meus impulsos",
         "Camila Designer (92629643563147): Por isso não chamo ninguém no PV",
-        "Souza (190864487919667): Vai que se apaixona né?"
+        "Souza (190864487919667): Vai que se apaixona né?",
+        "Camila Designer (92629643563147): Vai que eles apaixonam 🤣🤣🤣🤣",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tá perdendo os peitorais mulher"
       ]
     },
     "120363428464897153@g.us": {
@@ -16087,6 +16089,18 @@
         "authorName": "Souza",
         "text": "Vai que se apaixona né?",
         "timestamp": 1787847284757
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Vai que eles apaixonam 🤣🤣🤣🤣",
+        "timestamp": 1787847297414
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Tá perdendo os peitorais mulher",
+        "timestamp": 1787847302532
       }
     ],
     "120363428464897153@g.us": [],
@@ -16104,7 +16118,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19990,
+    "120363432018531082@g.us": 19992,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -130258,6 +130272,18 @@
         "text": "Vai que se apaixona né?",
         "pushName": "Souza",
         "timestamp": 1787847284758
+      },
+      "2A8BE4CCEFADF94482B5": {
+        "sender": "92629643563147@lid",
+        "text": "Vai que eles apaixonam 🤣🤣🤣🤣",
+        "pushName": "Camila Designer",
+        "timestamp": 1787847297414
+      },
+      "AC52D51CACA2A37F458EDD6100593248": {
+        "sender": "53537388122141@lid",
+        "text": "Tá perdendo os peitorais mulher",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787847302532
       }
     },
     "120363428464897153@g.us": {
@@ -178009,7 +178035,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787847284757,
+    "120363432018531082@g.us": 1787847304062,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
