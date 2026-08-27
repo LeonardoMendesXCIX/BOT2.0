@@ -103,9 +103,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1436,
+        "text": 1438,
         "media": 1077,
-        "total": 2513
+        "total": 2515
       },
       "3126803329115": {
         "text": 87,
@@ -228,9 +228,9 @@
         "total": 3
       },
       "163530946961491": {
-        "text": 378,
+        "text": 379,
         "media": 58,
-        "total": 436
+        "total": 437
       },
       "222595437858867": {
         "text": 467,
@@ -2453,9 +2453,9 @@
         "total": 5
       },
       "190864487919667": {
-        "text": 24,
-        "media": 7,
-        "total": 31
+        "text": 25,
+        "media": 8,
+        "total": 33
       },
       "82227819987089": {
         "text": 1,
@@ -9313,7 +9313,11 @@
         "Camila Designer (92629643563147): Eu não fiz nada gente, só queria uma massagem 🥺",
         "Souza (190864487919667): Chama o caba no privado",
         "Camila Designer (92629643563147): Acredita que ele foi e eu não respondi 🤣🤣🤣",
-        "Souza (190864487919667): Vai que ele realiza seus desejos"
+        "Souza (190864487919667): Vai que ele realiza seus desejos",
+        "willian (163530946961491): Camila iludindo o cara, ele até saiu kkk",
+        "Camila Designer (92629643563147): Vou nada, tenho uma filha, vai que vou e não volto",
+        "Souza (190864487919667): KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK",
+        "Camila Designer (92629643563147): Não posso seguir meus impulsos"
       ]
     },
     "120363428464897153@g.us": {
@@ -15381,24 +15385,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "129158944415753",
-        "authorName": "massagista tântrico",
-        "text": "Vai ficar molinha depois da massagem",
-        "timestamp": 1787845430494
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "A Camila provando do próprio veneno",
-        "timestamp": 1787845431474
-      },
-      {
-        "authorNum": "60851868446964",
-        "authorName": "gigi✨",
-        "text": "Essa figurinha era minha 😂😂",
-        "timestamp": 1787845438301
-      },
-      {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
         "text": "Sigo a razão ou emoção?🤔🤔🤔",
@@ -16069,6 +16055,30 @@
         "authorName": "Souza",
         "text": "Vai que ele realiza seus desejos",
         "timestamp": 1787847214278
+      },
+      {
+        "authorNum": "163530946961491",
+        "authorName": "willian",
+        "text": "Camila iludindo o cara, ele até saiu kkk",
+        "timestamp": 1787847237640
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Vou nada, tenho uma filha, vai que vou e não volto",
+        "timestamp": 1787847240996
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK",
+        "timestamp": 1787847255515
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Não posso seguir meus impulsos",
+        "timestamp": 1787847259300
       }
     ],
     "120363428464897153@g.us": [],
@@ -16086,7 +16096,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19984,
+    "120363432018531082@g.us": 19988,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -130204,6 +130214,30 @@
         "text": "Vai que ele realiza seus desejos",
         "pushName": "Souza",
         "timestamp": 1787847214278
+      },
+      "ACE84E9D58513200D0C2C333B4870F04": {
+        "sender": "163530946961491@lid",
+        "text": "Camila iludindo o cara, ele até saiu kkk",
+        "pushName": "willian",
+        "timestamp": 1787847237640
+      },
+      "2A23444F79E74C7A1B0A": {
+        "sender": "92629643563147@lid",
+        "text": "Vou nada, tenho uma filha, vai que vou e não volto",
+        "pushName": "Camila Designer",
+        "timestamp": 1787847240996
+      },
+      "ACF7508B834DA95AC3114C7C96136879": {
+        "sender": "190864487919667@lid",
+        "text": "KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK",
+        "pushName": "Souza",
+        "timestamp": 1787847255515
+      },
+      "2A5084EEA43CA6AFF59E": {
+        "sender": "92629643563147@lid",
+        "text": "Não posso seguir meus impulsos",
+        "pushName": "Camila Designer",
+        "timestamp": 1787847259301
       }
     },
     "120363428464897153@g.us": {
@@ -177955,7 +177989,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787847214278,
+    "120363432018531082@g.us": 1787847259300,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
