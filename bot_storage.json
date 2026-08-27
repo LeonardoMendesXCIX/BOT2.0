@@ -128,9 +128,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2047,
+        "text": 2049,
         "media": 271,
-        "total": 2318
+        "total": 2320
       },
       "252922705240205": {
         "text": 80,
@@ -8986,8 +8986,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Van Librelon (68247365931226): Bom.diaaaaaaaaaaaa",
-        "Bruno Aguiar (+1395881181241): Bom dia😘",
         "Junior Ferreira (186466021941407): Bom dia, Alguém de Pernambuco?",
         "Junior Ferreira (186466021941407): Garota",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Maravilhosa",
@@ -9485,7 +9483,9 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Sim, o bot é um ser humano e é casado com a dona do grupo 🤡\n@54259127210155 \n@81991328395336",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Bot foi chamado de chato",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Achei que era você, amiga",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Casado com toda essa chatice"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Casado com toda essa chatice",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Acho que se refere a você Lay 👀",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Foooogo no parquinhoooooo"
       ]
     },
     "120363428464897153@g.us": {
@@ -15580,18 +15580,6 @@
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Tu dizia que era meu parceiro de Bud",
-        "timestamp": 1787858495079
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Boa tarde meu amor 💖",
-        "timestamp": 1787858504424
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Boa tarde!",
         "timestamp": 1787858521120
       },
@@ -16074,6 +16062,18 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Casado com toda essa chatice",
         "timestamp": 1787860288043
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Acho que se refere a você Lay 👀",
+        "timestamp": 1787860296311
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Foooogo no parquinhoooooo",
+        "timestamp": 1787860309680
       }
     ],
     "120363428464897153@g.us": [],
@@ -16200,7 +16200,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20223,
+    "120363432018531082@g.us": 20225,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1503,
@@ -131729,6 +131729,18 @@
         "text": "Casado com toda essa chatice",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787860288043
+      },
+      "AC0394B8F8011660001D56972B4F0E6E": {
+        "sender": "53537388122141@lid",
+        "text": "Acho que se refere a você Lay 👀",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787860296311
+      },
+      "ACEB16C94B7658C1349CBBDD2D8E098B": {
+        "sender": "53537388122141@lid",
+        "text": "Foooogo no parquinhoooooo",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787860309680
       }
     },
     "120363428464897153@g.us": {
@@ -179612,7 +179624,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787860288043,
+    "120363432018531082@g.us": 1787860309680,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787860166575,
