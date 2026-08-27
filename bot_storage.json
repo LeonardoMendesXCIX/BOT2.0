@@ -33,9 +33,9 @@
         "total": 5036
       },
       "179040627490824": {
-        "text": 431,
+        "text": 432,
         "media": 90,
-        "total": 521
+        "total": 522
       },
       "145381035905262": {
         "text": 2152,
@@ -254,8 +254,8 @@
       },
       "60851868446964": {
         "text": 1239,
-        "media": 1437,
-        "total": 2676
+        "media": 1438,
+        "total": 2677
       },
       "270377049690114": {
         "text": 36,
@@ -1353,9 +1353,9 @@
         "total": 157
       },
       "266048007835881": {
-        "text": 530,
+        "text": 532,
         "media": 243,
-        "total": 773
+        "total": 775
       },
       "123120354635955": {
         "text": 4,
@@ -2453,9 +2453,9 @@
         "total": 5
       },
       "190864487919667": {
-        "text": 18,
+        "text": 19,
         "media": 6,
-        "total": 24
+        "total": 25
       },
       "82227819987089": {
         "text": 1,
@@ -9290,7 +9290,9 @@
         "Baby (179040627490824): Ksksks e complicado",
         "Baby (179040627490824): Complicado",
         "Souza (190864487919667): Só uma piscina agora",
-        "🎀  Ň𝐘ηａ🐆 (266048007835881): Olha as ideias 🙄"
+        "🎀  Ň𝐘ηａ🐆 (266048007835881): Olha as ideias 🙄",
+        "Baby (179040627490824): Seria uma boa",
+        "Souza (190864487919667): Joga essas nuvens pra cá"
       ]
     },
     "120363428464897153@g.us": {
@@ -15358,48 +15360,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "129158944415753",
-        "authorName": "massagista tântrico",
-        "text": "Rsss",
-        "timestamp": 1787845200617
-      },
-      {
-        "authorNum": "60851868446964",
-        "authorName": "gigi✨",
-        "text": "😂",
-        "timestamp": 1787845201219
-      },
-      {
-        "authorNum": "129158944415753",
-        "authorName": "massagista tântrico",
-        "text": "Medrosa",
-        "timestamp": 1787845209700
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Não confio em mim, se me chamar posso parar no Rio 🤣🤣🤣",
-        "timestamp": 1787845212381
-      },
-      {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Vc sabe o que é massagem tãntrica ne?",
-        "timestamp": 1787845219680
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Lógico",
-        "timestamp": 1787845226111
-      },
-      {
-        "authorNum": "129158944415753",
-        "authorName": "massagista tântrico",
-        "text": "Sim sei sim",
-        "timestamp": 1787845228552
-      },
-      {
         "authorNum": "57707230945348",
         "authorName": "Rafael Moura",
         "text": "Aproveita que passagem pro Rj não é cara",
@@ -16022,6 +15982,18 @@
         "authorName": "🎀  Ň𝐘ηａ🐆",
         "text": "Olha as ideias 🙄",
         "timestamp": 1787846998747
+      },
+      {
+        "authorNum": "179040627490824",
+        "authorName": "Baby",
+        "text": "Seria uma boa",
+        "timestamp": 1787847011500
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Joga essas nuvens pra cá",
+        "timestamp": 1787847030821
       }
     ],
     "120363428464897153@g.us": [],
@@ -16039,7 +16011,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19961,
+    "120363432018531082@g.us": 19963,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -130019,6 +129991,18 @@
         "text": "Olha as ideias 🙄",
         "pushName": "🎀  Ň𝐘ηａ🐆",
         "timestamp": 1787846998747
+      },
+      "AC4EEEDE7AA86C8D2720A8F5EE6856FF": {
+        "sender": "179040627490824@lid",
+        "text": "Seria uma boa",
+        "pushName": "Baby",
+        "timestamp": 1787847011500
+      },
+      "AC5EF915457A0A105CC1B4C0C7DC5EC6": {
+        "sender": "190864487919667@lid",
+        "text": "Joga essas nuvens pra cá",
+        "pushName": "Souza",
+        "timestamp": 1787847030821
       }
     },
     "120363428464897153@g.us": {
@@ -177770,7 +177754,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787846998747,
+    "120363432018531082@g.us": 1787847030821,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
