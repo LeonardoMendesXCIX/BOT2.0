@@ -2428,9 +2428,9 @@
         "total": 1
       },
       "234324976738434": {
-        "text": 0,
+        "text": 1,
         "media": 1,
-        "total": 1
+        "total": 2
       },
       "39402768232586": {
         "text": 5,
@@ -9114,7 +9114,8 @@
         "massagista tântrico (129158944415753): Obrigado favo de mel",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Sejam todos bem vindos ao *Hospício mais feliz*🤝😂🤌🏾",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Ben vindo",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Sejam todos bem vindos ao hospício gratiluz"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Sejam todos bem vindos ao hospício gratiluz",
+        "Breno (234324976738434): Obrigado"
       ]
     },
     "120363428464897153@g.us": {
@@ -15171,18 +15172,6 @@
       {
         "authorNum": "266048007835881",
         "authorName": "🎀  Ň𝐘ηａ🐆",
-        "text": "Esse povo Aki já dorme já pensando na discórdia do outro dia nessas caixinhas sem futuro kkkkk",
-        "timestamp": 1787840117552
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Como se mudasse a nossa vida 😂",
-        "timestamp": 1787840152060
-      },
-      {
-        "authorNum": "266048007835881",
-        "authorName": "🎀  Ň𝐘ηａ🐆",
         "text": "Num e kkkkk",
         "timestamp": 1787840223151
       },
@@ -15383,6 +15372,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Sejam todos bem vindos ao hospício gratiluz",
         "timestamp": 1787841892484
+      },
+      {
+        "authorNum": "234324976738434",
+        "authorName": "Breno",
+        "text": "Obrigado",
+        "timestamp": 1787841961725
       }
     ],
     "120363428464897153@g.us": [],
@@ -15400,7 +15395,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19805,
+    "120363432018531082@g.us": 19806,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1466,
@@ -128444,6 +128439,12 @@
         "text": "Sejam todos bem vindos ao hospício gratiluz",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787841892484
+      },
+      "3A78BE831C518D17B819": {
+        "sender": "234324976738434@lid",
+        "text": "Obrigado",
+        "pushName": "Breno",
+        "timestamp": 1787841961725
       }
     },
     "120363428464897153@g.us": {
@@ -176117,7 +176118,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787841925137,
+    "120363432018531082@g.us": 1787841961725,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787829200713,
