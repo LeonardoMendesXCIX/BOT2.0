@@ -226,9 +226,9 @@
         "total": 105
       },
       "118395236282617": {
-        "text": 382,
+        "text": 383,
         "media": 142,
-        "total": 524
+        "total": 525
       },
       "248773146108144": {
         "text": 24,
@@ -2566,9 +2566,9 @@
         "total": 20
       },
       "190864487919667": {
-        "text": 115,
+        "text": 116,
         "media": 22,
-        "total": 137
+        "total": 138
       },
       "82227819987089": {
         "text": 2,
@@ -9149,8 +9149,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Bruno Aguiar (+1395881181241): Boa tarde!",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tu dizia que era meu parceiro de Bud",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Boa tarde meu amor 💖",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Boa tarde!",
         "'   MƲRIԼԼƠ  🥶 (111506477846600): Ahhhh",
@@ -9648,7 +9646,9 @@
         "Souza (190864487919667): Bonita",
         "Jessica (208958782488665): Melhor deseja a amputação",
         "Pedro Henrique (172868239380659): Sabe muito",
-        "Pedro Henrique (172868239380659): Não sou mal"
+        "Pedro Henrique (172868239380659): Não sou mal",
+        "Caroline (118395236282617): Preciso disso",
+        "Souza (190864487919667): Ave Maria"
       ]
     },
     "120363428464897153@g.us": {
@@ -15801,18 +15801,6 @@
         "authorNum": "1395881181241",
         "authorName": "Bruno Aguiar",
         "text": "Seja bem vinda!",
-        "timestamp": 1787867149367
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Não vai não, removi",
-        "timestamp": 1787867153336
-      },
-      {
-        "authorNum": "1395881181241",
-        "authorName": "Bruno Aguiar",
-        "text": "Seja bem vinda!",
         "timestamp": 1787867173960
       },
       {
@@ -16384,6 +16372,18 @@
         "authorName": "Pedro Henrique",
         "text": "Não sou mal",
         "timestamp": 1787868944235
+      },
+      {
+        "authorNum": "118395236282617",
+        "authorName": "Caroline",
+        "text": "Preciso disso",
+        "timestamp": 1787868959818
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Ave Maria",
+        "timestamp": 1787868968442
       }
     ],
     "120363428464897153@g.us": [],
@@ -16476,7 +16476,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20639,
+    "120363432018531082@g.us": 20641,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1554,
@@ -134475,6 +134475,18 @@
         "text": "Não sou mal",
         "pushName": "Pedro Henrique",
         "timestamp": 1787868944235
+      },
+      "AC458AE5074C87372E54496A2D1FC6A3": {
+        "sender": "118395236282617@lid",
+        "text": "Preciso disso",
+        "pushName": "Caroline",
+        "timestamp": 1787868959819
+      },
+      "AC73D8C60A12583BA402F73FDEBD5DA9": {
+        "sender": "190864487919667@lid",
+        "text": "Ave Maria",
+        "pushName": "Souza",
+        "timestamp": 1787868968442
       }
     },
     "120363428464897153@g.us": {
@@ -182690,7 +182702,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787868947879,
+    "120363432018531082@g.us": 1787868968442,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787868918162,
