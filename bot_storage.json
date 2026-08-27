@@ -2446,6 +2446,11 @@
         "text": 1,
         "media": 1,
         "total": 2
+      },
+      "11171897864256": {
+        "text": 3,
+        "media": 0,
+        "total": 3
       }
     },
     "120363428464897153@g.us": {
@@ -9116,7 +9121,10 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Ben vindo",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Sejam todos bem vindos ao hospício gratiluz",
         "Breno (234324976738434): Obrigado",
-        "putaria 😇 (15823330607336): Obrigada linda 😙"
+        "putaria 😇 (15823330607336): Obrigada linda 😙",
+        "🙃🙃🙃 (11171897864256): Boa tarde",
+        "🙃🙃🙃 (11171897864256): Acordei agora",
+        "🙃🙃🙃 (11171897864256): Como estão?????"
       ]
     },
     "120363428464897153@g.us": {
@@ -15171,48 +15179,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "129158944415753",
-        "authorName": "massagista tântrico",
-        "text": "Ricardo 29 anos rio de janeiro",
-        "timestamp": 1787841002499
-      },
-      {
-        "authorNum": "120363432018531082",
-        "authorName": "",
-        "text": "Ricardo 29 anos rio de janeiro",
-        "timestamp": 1787841003510
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Oi @266048007835881 ☺️",
-        "timestamp": 1787841060031
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "@92629643563147 olha os peitoral",
-        "timestamp": 1787841086554
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Gente e ainda é massagista tântrico 👀👀👀",
-        "timestamp": 1787841116333
-      },
-      {
-        "authorNum": "129158944415753",
-        "authorName": "massagista tântrico",
-        "text": "Estou a disposição",
-        "timestamp": 1787841130154
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Sejam todos bem vindos!☺️",
-        "timestamp": 1787841153943
-      },
-      {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
         "text": "Nos conte mais sobre essa massagem? Quanto tempo está na área?",
@@ -15367,6 +15333,24 @@
         "authorName": "putaria 😇",
         "text": "Obrigada linda 😙",
         "timestamp": 1787842336873
+      },
+      {
+        "authorNum": "11171897864256",
+        "authorName": "🙃🙃🙃",
+        "text": "Boa tarde",
+        "timestamp": 1787842991335
+      },
+      {
+        "authorNum": "11171897864256",
+        "authorName": "🙃🙃🙃",
+        "text": "Acordei agora",
+        "timestamp": 1787842991499
+      },
+      {
+        "authorNum": "11171897864256",
+        "authorName": "🙃🙃🙃",
+        "text": "Como estão?????",
+        "timestamp": 1787842995622
       }
     ],
     "120363428464897153@g.us": [],
@@ -15384,7 +15368,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19807,
+    "120363432018531082@g.us": 19810,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1466,
@@ -128440,6 +128424,24 @@
         "text": "Obrigada linda 😙",
         "pushName": "putaria 😇",
         "timestamp": 1787842336873
+      },
+      "ACD76E016772394A7722362F25D25185": {
+        "sender": "11171897864256@lid",
+        "text": "Boa tarde",
+        "pushName": "🙃🙃🙃",
+        "timestamp": 1787842991337
+      },
+      "AC9C6BC6B71452E0AC37387320071E2C": {
+        "sender": "11171897864256@lid",
+        "text": "Acordei agora",
+        "pushName": "🙃🙃🙃",
+        "timestamp": 1787842991499
+      },
+      "ACAFF7F0E1BBBA620567607521200F79": {
+        "sender": "11171897864256@lid",
+        "text": "Como estão?????",
+        "pushName": "🙃🙃🙃",
+        "timestamp": 1787842995622
       }
     },
     "120363428464897153@g.us": {
@@ -176113,7 +176115,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787842345977,
+    "120363432018531082@g.us": 1787842995622,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787829200713,
