@@ -404,9 +404,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1608,
+        "text": 1610,
         "media": 318,
-        "total": 1926
+        "total": 1928
       },
       "252600633041077": {
         "text": 1,
@@ -3140,9 +3140,9 @@
         "total": 463
       },
       "5511927018683": {
-        "text": 416,
+        "text": 417,
         "media": 74,
-        "total": 490
+        "total": 491
       },
       "145381035905262": {
         "text": 320,
@@ -8920,7 +8920,9 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Leandro (+55 (11) 92701-8683): Tá vendo? Uma troca justa, você faz outros tipos de comida e eu a japonesa 😌"
+        "Leandro (+55 (11) 92701-8683): Tá vendo? Uma troca justa, você faz outros tipos de comida e eu a japonesa 😌",
+        "Leandro (+55 (11) 92701-8683): E eu pensando que ela já tinha ido dormes",
+        "Leandro (+55 (11) 92701-8683): 👁️👁️"
       ]
     },
     "120363428464897153@g.us": {
@@ -14340,6 +14342,9 @@
         "Leandro (+55 (11) 92701-8683): !fixar",
         "Leandro (+55 (11) 92701-8683): @145381035905262",
         "Leandro (+55 (11) 92701-8683): Tá tranquilo ou ocupado?"
+      ],
+      "27/08/2026": [
+        "Leandro (+55 (11) 92701-8683): Pqp 🤦🏻‍♂️"
       ]
     },
     "120363411233423709@g.us": {
@@ -14754,6 +14759,18 @@
         "authorName": "Leandro",
         "text": "Tá vendo? Uma troca justa, você faz outros tipos de comida e eu a japonesa 😌",
         "timestamp": 1787799692974
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "E eu pensando que ela já tinha ido dormes",
+        "timestamp": 1787800138434
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "👁️👁️",
+        "timestamp": 1787800146013
       }
     ],
     "120363428464897153@g.us": [
@@ -15053,7 +15070,14 @@
       }
     ],
     "120363409727467494@g.us": [],
-    "120363412288900422@g.us": [],
+    "120363412288900422@g.us": [
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Pqp 🤦🏻‍♂️",
+        "timestamp": 1787800159977
+      }
+    ],
     "120363411233423709@g.us": [],
     "120363428079168524@g.us": [],
     "120363411246936023@g.us": []
@@ -15065,10 +15089,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19612,
+    "120363432018531082@g.us": 19614,
     "120363428464897153@g.us": 5853,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1433,
+    "120363412288900422@g.us": 1434,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 13
@@ -126976,6 +127000,18 @@
         "text": "Tá vendo? Uma troca justa, você faz outros tipos de comida e eu a japonesa 😌",
         "pushName": "Leandro",
         "timestamp": 1787799692974
+      },
+      "A5B8CE2E0EFD75443B93CDE6A5446B77": {
+        "sender": "54259127210155@lid",
+        "text": "E eu pensando que ela já tinha ido dormes",
+        "pushName": "Leandro",
+        "timestamp": 1787800138434
+      },
+      "A57E4E6E0AB3D74E7C1E9A4F0205DDAC": {
+        "sender": "54259127210155@lid",
+        "text": "👁️👁️",
+        "pushName": "Leandro",
+        "timestamp": 1787800146014
       }
     },
     "120363428464897153@g.us": {
@@ -171094,6 +171130,12 @@
         "text": "Tá tranquilo ou ocupado?",
         "pushName": "Leandro",
         "timestamp": 1787797187001
+      },
+      "A506B0E051A9F7A248E50FA05D5B49C0": {
+        "sender": "54259127210155@lid",
+        "text": "Pqp 🤦🏻‍♂️",
+        "pushName": "Leandro",
+        "timestamp": 1787800159977
       }
     },
     "120363411233423709@g.us": {
@@ -173270,10 +173312,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787800104731,
+    "120363432018531082@g.us": 1787800146013,
     "120363428464897153@g.us": 1787799322772,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787797187001,
+    "120363412288900422@g.us": 1787800159977,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
