@@ -152,8 +152,8 @@
       },
       "145381035905262": {
         "text": 2168,
-        "media": 467,
-        "total": 2635
+        "media": 468,
+        "total": 2636
       },
       "184237705699536": {
         "text": 524,
@@ -2566,9 +2566,9 @@
         "total": 20
       },
       "190864487919667": {
-        "text": 91,
+        "text": 92,
         "media": 17,
-        "total": 108
+        "total": 109
       },
       "82227819987089": {
         "text": 2,
@@ -9139,7 +9139,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "🎀  Ň𝐘ηａ🐆 (266048007835881): Corretor do caraio",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Samambaia sul",
         "jefersonjgs25 (85264194134079): Alguém aqui de Pernambuco?",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): 🤷🏻‍♀️",
@@ -9638,7 +9637,8 @@
         "Souza (190864487919667): Eu só associo o nome quando eu vejo uma foto",
         "Souza (190864487919667): Só conheço 2 pessoas nesse grupo",
         "Souza (190864487919667): De resto é tudo estranho",
-        "willian (163530946961491): Mas irmão essas daí que são perigosas são traiçoeira kkk"
+        "willian (163530946961491): Mas irmão essas daí que são perigosas são traiçoeira kkk",
+        "Souza (190864487919667): Não pô, é que tu marcou a mulher, mas eu não sei quem é"
       ]
     },
     "120363428464897153@g.us": {
@@ -15777,18 +15777,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "272048228188398",
-        "authorName": "Lailson Nathan.",
-        "text": "Que ela sabe de tudo, já tem prints, já tem uma testemunha, já tem um advogado para te lascar, já tem um sequestrador para te levar.😂😂😂",
-        "timestamp": 1787865703397
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Que merda tu fez?",
-        "timestamp": 1787865726050
-      },
-      {
         "authorNum": "172868239380659",
         "authorName": "Pedro Henrique",
         "text": "Quer dizer que tu vai dormir no sofá",
@@ -16459,6 +16447,12 @@
         "authorName": "willian",
         "text": "Mas irmão essas daí que são perigosas são traiçoeira kkk",
         "timestamp": 1787867495864
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Não pô, é que tu marcou a mulher, mas eu não sei quem é",
+        "timestamp": 1787867527819
       }
     ],
     "120363428464897153@g.us": [],
@@ -16491,7 +16485,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20569,
+    "120363432018531082@g.us": 20570,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1543,
@@ -134070,6 +134064,12 @@
         "text": "Mas irmão essas daí que são perigosas são traiçoeira kkk",
         "pushName": "willian",
         "timestamp": 1787867495864
+      },
+      "AC4ED3FE02ABE463C3476293630240C6": {
+        "sender": "190864487919667@lid",
+        "text": "Não pô, é que tu marcou a mulher, mas eu não sei quem é",
+        "pushName": "Souza",
+        "timestamp": 1787867527820
       }
     },
     "120363428464897153@g.us": {
@@ -182219,7 +182219,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787867495864,
+    "120363432018531082@g.us": 1787867527819,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787865477162,
