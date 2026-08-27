@@ -28,9 +28,9 @@
         "total": 1924
       },
       "81991328395336": {
-        "text": 3745,
+        "text": 3746,
         "media": 1257,
-        "total": 5002
+        "total": 5003
       },
       "179040627490824": {
         "text": 420,
@@ -3094,9 +3094,9 @@
         "total": 512
       },
       "145381035905262": {
-        "text": 320,
-        "media": 110,
-        "total": 430
+        "text": 322,
+        "media": 111,
+        "total": 433
       },
       "53537388122141": {
         "text": 532,
@@ -9127,7 +9127,8 @@
         "🙃🙃🙃 (11171897864256): Como estão?????",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Bem",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindo!",
-        "🙃🙃🙃 (11171897864256): Obg"
+        "🙃🙃🙃 (11171897864256): Obg",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Bem vindos"
       ]
     },
     "120363428464897153@g.us": {
@@ -14722,7 +14723,9 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Tudo bem",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Última chance, se sair/ser removido, não entra mais",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Isso",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Ok"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Ok",
+        "Gabriel (145381035905262): Não posso dar atenção lá, até mais tarde",
+        "Gabriel (145381035905262): Vou entrar em reunião daqui a pouco, só aguardando"
       ]
     },
     "120363411233423709@g.us": {
@@ -15182,60 +15185,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Porque apagou João?",
-        "timestamp": 1787841601105
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Era a apresentação dele",
-        "timestamp": 1787841632897
-      },
-      {
-        "authorNum": "39402768232586",
-        "authorName": ".",
-        "text": "Desculpe achei que só podia mandar de visualização única",
-        "timestamp": 1787841636353
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Não, pode mandar normal!",
-        "timestamp": 1787841647456
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "E uma foto ☺️",
-        "timestamp": 1787841657171
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Pode manda dos 2 jeito \nVai dá preferência da pessoa",
-        "timestamp": 1787841658276
-      },
-      {
-        "authorNum": "39402768232586",
-        "authorName": ".",
-        "text": "Ta bom",
-        "timestamp": 1787841673591
-      },
-      {
-        "authorNum": "39402768232586",
-        "authorName": ".",
-        "text": "Ok",
-        "timestamp": 1787841683981
-      },
-      {
-        "authorNum": "198908642906227",
-        "authorName": "Patrick",
-        "text": "Prazer Patrick tenho 24 anos sou de Santa Maria de jetiba ES",
-        "timestamp": 1787841747539
-      },
-      {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Bem vindo",
@@ -15318,11 +15267,30 @@
         "authorName": "🙃🙃🙃",
         "text": "Obg",
         "timestamp": 1787843301112
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Bem vindos",
+        "timestamp": 1787843554928
       }
     ],
     "120363428464897153@g.us": [],
     "120363409727467494@g.us": [],
-    "120363412288900422@g.us": [],
+    "120363412288900422@g.us": [
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Não posso dar atenção lá, até mais tarde",
+        "timestamp": 1787843562654
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Vou entrar em reunião daqui a pouco, só aguardando",
+        "timestamp": 1787843579889
+      }
+    ],
     "120363411233423709@g.us": [],
     "120363428079168524@g.us": [],
     "120363411246936023@g.us": [],
@@ -15335,10 +15303,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19813,
+    "120363432018531082@g.us": 19814,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1466,
+    "120363412288900422@g.us": 1468,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 17,
@@ -128427,6 +128395,12 @@
         "text": "Obg",
         "pushName": "🙃🙃🙃",
         "timestamp": 1787843301112
+      },
+      "ACBC620D3BE2A33FD3ECA833F1D2B10B": {
+        "sender": "81991328395336@lid",
+        "text": "Bem vindos",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787843554928
       }
     },
     "120363428464897153@g.us": {
@@ -173577,6 +173551,18 @@
         "text": "Ok",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787829200713
+      },
+      "AC1423F020008F83B5A40C72FD2703BF": {
+        "sender": "145381035905262@lid",
+        "text": "Não posso dar atenção lá, até mais tarde",
+        "pushName": "Gabriel",
+        "timestamp": 1787843562654
+      },
+      "AC20DFB06E89141334E5D32233A3EED7": {
+        "sender": "145381035905262@lid",
+        "text": "Vou entrar em reunião daqui a pouco, só aguardando",
+        "pushName": "Gabriel",
+        "timestamp": 1787843579889
       }
     },
     "120363411233423709@g.us": {
@@ -176100,10 +176086,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787843301112,
+    "120363432018531082@g.us": 1787843554928,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787829200713,
+    "120363412288900422@g.us": 1787843579889,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
