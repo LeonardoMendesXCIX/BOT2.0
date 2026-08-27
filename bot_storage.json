@@ -103,9 +103,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1423,
+        "text": 1425,
         "media": 1077,
-        "total": 2500
+        "total": 2502
       },
       "3126803329115": {
         "text": 87,
@@ -253,9 +253,9 @@
         "total": 3
       },
       "60851868446964": {
-        "text": 1232,
-        "media": 1428,
-        "total": 2660
+        "text": 1233,
+        "media": 1429,
+        "total": 2662
       },
       "270377049690114": {
         "text": 36,
@@ -9238,7 +9238,10 @@
         "Baby (179040627490824): E só chama alguém",
         "Dany (262182034002040): Embaixo apareceu 4h49m de ligação gzuz",
         "Camila Designer (92629643563147): Foi isso kkk",
-        "gigi✨ (60851868446964): Pqe acabou a bateria kkkk"
+        "gigi✨ (60851868446964): Pqe acabou a bateria kkkk",
+        "Camila Designer (92629643563147): Deixa eu entender um ligou para o outro e alguém dormiu? Kkkk",
+        "gigi✨ (60851868446964): Eu dormi kkkk",
+        "Camila Designer (92629643563147): 👀👀👀"
       ]
     },
     "120363428464897153@g.us": {
@@ -15868,6 +15871,24 @@
         "authorName": "gigi✨",
         "text": "Pqe acabou a bateria kkkk",
         "timestamp": 1787846320280
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Deixa eu entender um ligou para o outro e alguém dormiu? Kkkk",
+        "timestamp": 1787846378239
+      },
+      {
+        "authorNum": "60851868446964",
+        "authorName": "gigi✨",
+        "text": "Eu dormi kkkk",
+        "timestamp": 1787846391122
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "👀👀👀",
+        "timestamp": 1787846398119
       }
     ],
     "120363428464897153@g.us": [],
@@ -15885,7 +15906,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19914,
+    "120363432018531082@g.us": 19917,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -129583,6 +129604,24 @@
         "text": "Pqe acabou a bateria kkkk",
         "pushName": "gigi✨",
         "timestamp": 1787846320280
+      },
+      "2A0E11055EE0823D4765": {
+        "sender": "92629643563147@lid",
+        "text": "Deixa eu entender um ligou para o outro e alguém dormiu? Kkkk",
+        "pushName": "Camila Designer",
+        "timestamp": 1787846378239
+      },
+      "ACC265A87929975BD87B0E47A0249DF6": {
+        "sender": "60851868446964@lid",
+        "text": "Eu dormi kkkk",
+        "pushName": "gigi✨",
+        "timestamp": 1787846391123
+      },
+      "2AF8A942330CB45C8F98": {
+        "sender": "92629643563147@lid",
+        "text": "👀👀👀",
+        "pushName": "Camila Designer",
+        "timestamp": 1787846398119
       }
     },
     "120363428464897153@g.us": {
@@ -177334,7 +177373,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787846343528,
+    "120363432018531082@g.us": 1787846398119,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
