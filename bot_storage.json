@@ -241,9 +241,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2119,
+        "text": 2120,
         "media": 277,
-        "total": 2396
+        "total": 2397
       },
       "252922705240205": {
         "text": 80,
@@ -3573,6 +3573,11 @@
         "text": 2,
         "media": 0,
         "total": 2
+      },
+      "114173132415144": {
+        "text": 1,
+        "media": 0,
+        "total": 1
       }
     },
     "120363285757434347@g.us": {
@@ -9119,7 +9124,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Aqui também",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): A pronto, acha que o grupo é bagunça",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Camila tu gosta do mal feito",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): 😂😂😂😂😂",
@@ -9618,7 +9622,8 @@
         "Souza (190864487919667): O que tu acha que ela não sabe",
         "Souza (190864487919667): Ela sabe",
         "Lailson Nathan. (272048228188398): Tá na merda kkkk",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): O que tu fez?"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): O que tu fez?",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Pera ai\nQuem é a tua guria @163530946961491 ?"
       ]
     },
     "120363428464897153@g.us": {
@@ -15654,7 +15659,10 @@
       "19/08/2026": []
     },
     "120363050678635389@g.us": {
-      "19/08/2026": []
+      "19/08/2026": [],
+      "27/08/2026": [
+        "Alaor Silva (114173132415144): https://www.instagram.com/reel/DcjutXkTqp3/?igsi=Y3d1cjI1a3ducno=\nJESUS É FILHO DE LÚCIFER"
+      ]
     },
     "120363285757434347@g.us": {
       "21/08/2026": []
@@ -15752,12 +15760,6 @@
   },
   "memoryCluster": {
     "120363432018531082@g.us": [
-      {
-        "authorNum": "266048007835881",
-        "authorName": "🎀  Ň𝐘ηａ🐆",
-        "text": "Tavendo sua  infantilidade... Que horas q eu falei q ele era meu presente de Deus ? Mulher descansa amadurece ...",
-        "timestamp": 1787864084622
-      },
       {
         "authorNum": "266048007835881",
         "authorName": "🎀  Ň𝐘ηａ🐆",
@@ -16441,29 +16443,17 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "O que tu fez?",
         "timestamp": 1787865874860
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Pera ai\nQuem é a tua guria @163530946961491 ?",
+        "timestamp": 1787865936204
       }
     ],
     "120363428464897153@g.us": [],
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Bicho feio da zorra \n\nE nem sabe tocar violão \n\nVou achar meus vídeos tocando violão e piano, pra vocês verem",
-        "timestamp": 1787863958288
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Eu tô querendo é remover a vagaba",
-        "timestamp": 1787864019898
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Só isso mesmo",
-        "timestamp": 1787864023257
-      },
       {
         "authorNum": "145381035905262",
         "authorName": "Gabriel",
@@ -16551,7 +16541,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20472,
+    "120363432018531082@g.us": 20473,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1543,
@@ -133561,6 +133551,12 @@
         "text": "O que tu fez?",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787865874860
+      },
+      "ACCCE7479C9D5D7811BF6330B4B3B445": {
+        "sender": "53537388122141@lid",
+        "text": "Pera ai\nQuem é a tua guria @163530946961491 ?",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787865936205
       }
     },
     "120363428464897153@g.us": {
@@ -181612,6 +181608,14 @@
         "pushName": "Leandro",
         "timestamp": 1787839342860
       }
+    },
+    "120363050678635389@g.us": {
+      "3ADB964860C8F1FACEA2": {
+        "sender": "114173132415144@lid",
+        "text": "https://www.instagram.com/reel/DcjutXkTqp3/?igsi=Y3d1cjI1a3ducno=\nJESUS É FILHO DE LÚCIFER",
+        "pushName": "Alaor Silva",
+        "timestamp": 1787865903036
+      }
     }
   },
   "jarvisMode": {
@@ -181696,7 +181700,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787865891900,
+    "120363432018531082@g.us": 1787865936204,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787865477162,
