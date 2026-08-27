@@ -2626,9 +2626,9 @@
         "total": 39
       },
       "172868239380659": {
-        "text": 27,
+        "text": 30,
         "media": 9,
-        "total": 36
+        "total": 39
       },
       "170455038193841": {
         "text": 1,
@@ -9124,9 +9124,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "🎀  Ň𝐘ηａ🐆 (266048007835881): Camila tu gosta do mal feito",
-        "🎀  Ň𝐘ηａ🐆 (266048007835881): 😂😂😂😂😂",
-        "Souza (190864487919667): Fogo no @",
         "Camila Designer (92629643563147): Ele entrou outras vezes?",
         "Souza (190864487919667): Bendita Brasília",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Tu n deixou ele ir no teu PV",
@@ -9623,7 +9620,10 @@
         "Lailson Nathan. (272048228188398): Tá na merda kkkk",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): O que tu fez?",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Pera ai\nQuem é a tua guria @163530946961491 ?",
-        "Gabriel (145381035905262): Tu vai de arrasta pra cima"
+        "Gabriel (145381035905262): Tu vai de arrasta pra cima",
+        "Pedro Henrique (172868239380659): Esse grupo já tem é casal ?",
+        "Pedro Henrique (172868239380659): Caramba",
+        "Pedro Henrique (172868239380659): Aí sim"
       ]
     },
     "120363428464897153@g.us": {
@@ -16431,6 +16431,24 @@
         "authorName": "Gabriel",
         "text": "Tu vai de arrasta pra cima",
         "timestamp": 1787866008301
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Esse grupo já tem é casal ?",
+        "timestamp": 1787866028654
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Caramba",
+        "timestamp": 1787866030117
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Aí sim",
+        "timestamp": 1787866033494
       }
     ],
     "120363428464897153@g.us": [],
@@ -16523,7 +16541,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20474,
+    "120363432018531082@g.us": 20477,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1543,
@@ -133545,6 +133563,24 @@
         "text": "Tu vai de arrasta pra cima",
         "pushName": "Gabriel",
         "timestamp": 1787866008301
+      },
+      "AC61C1DA8C25AEA1477B0FFC25B31EA2": {
+        "sender": "172868239380659@lid",
+        "text": "Esse grupo já tem é casal ?",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787866028654
+      },
+      "ACFEE8DB10BD5FC493F85D1AA8EF3974": {
+        "sender": "172868239380659@lid",
+        "text": "Caramba",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787866030117
+      },
+      "AC37FFB640166FD94645C09A6709ACBA": {
+        "sender": "172868239380659@lid",
+        "text": "Aí sim",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787866033495
       }
     },
     "120363428464897153@g.us": {
@@ -181688,7 +181724,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787866008301,
+    "120363432018531082@g.us": 1787866033494,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787865477162,
