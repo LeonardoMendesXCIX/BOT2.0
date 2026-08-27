@@ -661,9 +661,9 @@
         "total": 95
       },
       "57707230945348": {
-        "text": 1127,
+        "text": 1129,
         "media": 199,
-        "total": 1326
+        "total": 1328
       },
       "152218690924790": {
         "text": 309,
@@ -9139,8 +9139,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Camila Viana (188845719089205): Realmente, na maioria dos bares acima da média o valor é esse ae",
-        "Alexandre Bastos (75797868064796): Lá e caro",
         "Neto prime (238233849983072): Demais kkk",
         "Camila Viana (188845719089205): Mas da próxima vez,  vai na Lapa rs",
         "Camila Viana (188845719089205): Bar do Omar",
@@ -9638,7 +9636,9 @@
         "Rafael Moura (57707230945348): Bem vinda Jessica",
         "Gleydson Souza (274384656834700): Bem vinda",
         "Jessica (208958782488665): Vim pela fofoca",
-        "F. RicaRdo sAnToS (193729163993156): Bem vinda"
+        "F. RicaRdo sAnToS (193729163993156): Bem vinda",
+        "Rafael Moura (57707230945348): Ja acabou",
+        "Rafael Moura (57707230945348): Mas no cabaré eu acho que vai continuar 😏"
       ]
     },
     "120363428464897153@g.us": {
@@ -16272,6 +16272,18 @@
         "authorName": "F. RicaRdo sAnToS",
         "text": "Bem vinda",
         "timestamp": 1787867064043
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Ja acabou",
+        "timestamp": 1787867070792
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Mas no cabaré eu acho que vai continuar 😏",
+        "timestamp": 1787867087758
       }
     ],
     "120363428464897153@g.us": [],
@@ -16310,7 +16322,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20536,
+    "120363432018531082@g.us": 20538,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1543,
@@ -133692,6 +133704,18 @@
         "text": "Bem vinda",
         "pushName": "F. RicaRdo sAnToS",
         "timestamp": 1787867064043
+      },
+      "AC7BA5DCCE070B2DD98D8302F93DA0F0": {
+        "sender": "57707230945348@lid",
+        "text": "Ja acabou",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787867070792
+      },
+      "AC1A4BE984723905C756724E4CDC0F2C": {
+        "sender": "57707230945348@lid",
+        "text": "Mas no cabaré eu acho que vai continuar 😏",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787867087758
       }
     },
     "120363428464897153@g.us": {
@@ -181835,7 +181859,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787867064042,
+    "120363432018531082@g.us": 1787867087758,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787865477162,
