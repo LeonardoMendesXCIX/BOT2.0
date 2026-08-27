@@ -2626,9 +2626,9 @@
         "total": 47
       },
       "172868239380659": {
-        "text": 44,
+        "text": 46,
         "media": 10,
-        "total": 54
+        "total": 56
       },
       "170455038193841": {
         "text": 1,
@@ -2637,8 +2637,8 @@
       },
       "193729163993156": {
         "text": 9,
-        "media": 2,
-        "total": 11
+        "media": 3,
+        "total": 12
       },
       "151582733820115": {
         "text": 5,
@@ -2651,9 +2651,9 @@
         "total": 21
       },
       "208958782488665": {
-        "text": 5,
-        "media": 5,
-        "total": 10
+        "text": 6,
+        "media": 6,
+        "total": 12
       },
       "262456945414267": {
         "text": 9,
@@ -9149,9 +9149,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Facãozinho já rodou",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Tu me mandou um link do teu grupo lembra",
-        "🎀  Ň𝐘ηａ🐆 (266048007835881): Vou Aki já volto",
         "Bruno Aguiar (+1395881181241): Boa tarde!",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Tu dizia que era meu parceiro de Bud",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Boa tarde meu amor 💖",
@@ -9648,7 +9645,10 @@
         "Souza (190864487919667): Que tu vai sentir o forno",
         "Jessica (208958782488665): Já que o povo mostrou neeh",
         "Pedro Henrique (172868239380659): Queima senhor",
-        "Souza (190864487919667): Bonita"
+        "Souza (190864487919667): Bonita",
+        "Jessica (208958782488665): Melhor deseja a amputação",
+        "Pedro Henrique (172868239380659): Sabe muito",
+        "Pedro Henrique (172868239380659): Não sou mal"
       ]
     },
     "120363428464897153@g.us": {
@@ -15798,18 +15798,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "262182034002040",
-        "authorName": "Dany",
-        "text": "Há diversas por aqui! Bem-vinda, conterrânea!",
-        "timestamp": 1787867134036
-      },
-      {
-        "authorNum": "208958782488665",
-        "authorName": "Jessica",
-        "text": "Eitaaa",
-        "timestamp": 1787867134658
-      },
-      {
         "authorNum": "1395881181241",
         "authorName": "Bruno Aguiar",
         "text": "Seja bem vinda!",
@@ -16378,6 +16366,24 @@
         "authorName": "Souza",
         "text": "Bonita",
         "timestamp": 1787868915679
+      },
+      {
+        "authorNum": "208958782488665",
+        "authorName": "Jessica",
+        "text": "Melhor deseja a amputação",
+        "timestamp": 1787868932620
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Sabe muito",
+        "timestamp": 1787868938396
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Não sou mal",
+        "timestamp": 1787868944235
       }
     ],
     "120363428464897153@g.us": [],
@@ -16470,7 +16476,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20636,
+    "120363432018531082@g.us": 20639,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1554,
@@ -134451,6 +134457,24 @@
         "text": "Bonita",
         "pushName": "Souza",
         "timestamp": 1787868915679
+      },
+      "ACC0E180F86FBA1F14375B62F5CD0FE5": {
+        "sender": "208958782488665@lid",
+        "text": "Melhor deseja a amputação",
+        "pushName": "Jessica",
+        "timestamp": 1787868932620
+      },
+      "ACADEE5CA97B61A492D79D51BB708087": {
+        "sender": "172868239380659@lid",
+        "text": "Sabe muito",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787868938396
+      },
+      "AC0F4DCE6AE12912C47FC09F1BC98AA3": {
+        "sender": "172868239380659@lid",
+        "text": "Não sou mal",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787868944235
       }
     },
     "120363428464897153@g.us": {
@@ -182666,7 +182690,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787868915679,
+    "120363432018531082@g.us": 1787868947879,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787868918162,
