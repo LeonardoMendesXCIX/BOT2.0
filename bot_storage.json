@@ -241,9 +241,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2128,
+        "text": 2129,
         "media": 277,
-        "total": 2405
+        "total": 2406
       },
       "252922705240205": {
         "text": 80,
@@ -256,9 +256,9 @@
         "total": 457
       },
       "262182034002040": {
-        "text": 1842,
+        "text": 1844,
         "media": 119,
-        "total": 1961
+        "total": 1963
       },
       "219245581488326": {
         "text": 4,
@@ -1826,9 +1826,9 @@
         "total": 6
       },
       "1395881181241": {
-        "text": 112,
+        "text": 113,
         "media": 5,
-        "total": 117
+        "total": 118
       },
       "198595546501333": {
         "text": 2,
@@ -3656,9 +3656,9 @@
         "total": 4
       },
       "65894092943452": {
-        "text": 9,
+        "text": 10,
         "media": 0,
-        "total": 9
+        "total": 10
       },
       "274594556604661": {
         "text": 1,
@@ -9139,8 +9139,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Neto prime (238233849983072): Vou agora pra Brasília … vida aí é caro as coisas @266048007835881 kkkkkk",
-        "Camila Viana (188845719089205): Bafo do Prainha",
         "Alexandre Bastos (75797868064796): Muito bom la",
         "Neto prime (238233849983072): Acabou meu dinheiro  lá no quintalzinho kkkkk  acho que é lá no posto 3",
         "Milena B. Costa (233161007071346): Boa tarde, gentee",
@@ -9638,7 +9636,9 @@
         "Rafael Moura (57707230945348): Mas no cabaré eu acho que vai continuar 😏",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Muito bem vinda!",
         "Dany (262182034002040): Há diversas por aqui! Bem-vinda, conterrânea!",
-        "Jessica (208958782488665): Eitaaa"
+        "Jessica (208958782488665): Eitaaa",
+        "Bruno Aguiar (+1395881181241): Seja bem vinda!",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Não vai não, removi"
       ]
     },
     "120363428464897153@g.us": {
@@ -15708,7 +15708,8 @@
         "Gabriel (145381035905262): Estou tendo uma conversa com @65894092943452",
         "Jholl (55160449577096): Vdd",
         "Deiviti (76729607520481): A ideia atribuída a Aristóteles revela que excelência não nasce de um momento isolado de inspiração, mas da repetição consciente de boas escolhas. Um único ato pode demonstrar capacidade, porém é a co",
-        "Deiviti (76729607520481): Boa tarde a todos Natanael aqui"
+        "Deiviti (76729607520481): Boa tarde a todos Natanael aqui",
+        "Max Honnorato (65894092943452): Família lancei um vídeo sobre persistência lá no insta e eu acho que e relevante vai La @acomstrucao7"
       ]
     },
     "120363409024805409@g.us": {
@@ -16302,6 +16303,18 @@
         "authorName": "Jessica",
         "text": "Eitaaa",
         "timestamp": 1787867134658
+      },
+      {
+        "authorNum": "1395881181241",
+        "authorName": "Bruno Aguiar",
+        "text": "Seja bem vinda!",
+        "timestamp": 1787867149367
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Não vai não, removi",
+        "timestamp": 1787867153336
       }
     ],
     "120363428464897153@g.us": [],
@@ -16316,7 +16329,14 @@
     ],
     "120363411233423709@g.us": [],
     "120363428079168524@g.us": [],
-    "120363411246936023@g.us": [],
+    "120363411246936023@g.us": [
+      {
+        "authorNum": "65894092943452",
+        "authorName": "Max Honnorato",
+        "text": "Família lancei um vídeo sobre persistência lá no insta e eu acho que e relevante vai La @acomstrucao7",
+        "timestamp": 1787867167523
+      }
+    ],
     "120363409024805409@g.us": [],
     "120363050678635389@g.us": [
       {
@@ -16334,13 +16354,13 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20541,
+    "120363432018531082@g.us": 20543,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1543,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
-    "120363411246936023@g.us": 20,
+    "120363411246936023@g.us": 21,
     "120363409024805409@g.us": 57,
     "120363050678635389@g.us": 1
   },
@@ -16389,7 +16409,6 @@
       "92629643563147@lid",
       "155503636275307@lid",
       "136408815665242@lid",
-      "266048007835881@lid",
       "219980373176429@lid",
       "180285564035215@lid",
       "186466021941407@lid",
@@ -133746,6 +133765,18 @@
         "text": "Eitaaa",
         "pushName": "Jessica",
         "timestamp": 1787867134658
+      },
+      "AC9EAE70184514C52EEFC10E0DF2F84B": {
+        "sender": "1395881181241@lid",
+        "text": "Seja bem vinda!",
+        "pushName": "Bruno Aguiar",
+        "timestamp": 1787867149367
+      },
+      "AC0CABF091A970C8EA3E9F499F5A21F0": {
+        "sender": "53537388122141@lid",
+        "text": "Não vai não, removi",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787867153336
       }
     },
     "120363428464897153@g.us": {
@@ -181476,6 +181507,12 @@
         "text": "Boa tarde a todos Natanael aqui",
         "pushName": "Deiviti",
         "timestamp": 1787860570236
+      },
+      "A5A70A93D125323512C7443C159C3AC2": {
+        "sender": "65894092943452@lid",
+        "text": "Família lancei um vídeo sobre persistência lá no insta e eu acho que e relevante vai La @acomstrucao7",
+        "pushName": "Max Honnorato",
+        "timestamp": 1787867167523
       }
     },
     "120363409024805409@g.us": {
@@ -181889,7 +181926,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787867134658,
+    "120363432018531082@g.us": 1787867168027,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787865477162,
@@ -181899,7 +181936,7 @@
     "120363050678635389@g.us": 1787865885764,
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
-    "120363411246936023@g.us": 1787862212496,
+    "120363411246936023@g.us": 1787867167523,
     "120363409024805409@g.us": 1787858703981
   },
   "autoAnimSent": {
