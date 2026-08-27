@@ -28,9 +28,9 @@
         "total": 1934
       },
       "81991328395336": {
-        "text": 3766,
+        "text": 3767,
         "media": 1262,
-        "total": 5028
+        "total": 5029
       },
       "179040627490824": {
         "text": 425,
@@ -143,9 +143,9 @@
         "total": 440
       },
       "262182034002040": {
-        "text": 1835,
+        "text": 1837,
         "media": 118,
-        "total": 1953
+        "total": 1955
       },
       "219245581488326": {
         "text": 4,
@@ -253,9 +253,9 @@
         "total": 3
       },
       "60851868446964": {
-        "text": 1233,
+        "text": 1234,
         "media": 1431,
-        "total": 2664
+        "total": 2665
       },
       "270377049690114": {
         "text": 36,
@@ -2453,9 +2453,14 @@
         "total": 5
       },
       "190864487919667": {
-        "text": 0,
+        "text": 1,
         "media": 3,
-        "total": 3
+        "total": 4
+      },
+      "82227819987089": {
+        "text": 1,
+        "media": 0,
+        "total": 1
       }
     },
     "120363428464897153@g.us": {
@@ -9242,7 +9247,11 @@
         "Camila Designer (92629643563147): Deixa eu entender um ligou para o outro e alguém dormiu? Kkkk",
         "gigi✨ (60851868446964): Eu dormi kkkk",
         "Camila Designer (92629643563147): 👀👀👀",
-        "Dany (262182034002040): Eu e o Gus ficamos 10h em ligação na 2a vez que nos ligamos \nConectei no carregador umas 3x hahhahahah"
+        "Dany (262182034002040): Eu e o Gus ficamos 10h em ligação na 2a vez que nos ligamos \nConectei no carregador umas 3x hahhahahah",
+        "Dany (262182034002040): Mas é isso mesmo hahahah",
+        "Souza (190864487919667): Como estão de calor por aí na cidade de vocês?",
+        "gigi✨ (60851868446964): HAHAHAHAH",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Terrível"
       ]
     },
     "120363428464897153@g.us": {
@@ -15896,6 +15905,30 @@
         "authorName": "Dany",
         "text": "Eu e o Gus ficamos 10h em ligação na 2a vez que nos ligamos \nConectei no carregador umas 3x hahhahahah",
         "timestamp": 1787846407245
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Mas é isso mesmo hahahah",
+        "timestamp": 1787846460534
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Como estão de calor por aí na cidade de vocês?",
+        "timestamp": 1787846467598
+      },
+      {
+        "authorNum": "60851868446964",
+        "authorName": "gigi✨",
+        "text": "HAHAHAHAH",
+        "timestamp": 1787846469567
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Terrível",
+        "timestamp": 1787846476550
       }
     ],
     "120363428464897153@g.us": [],
@@ -15913,7 +15946,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19918,
+    "120363432018531082@g.us": 19922,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -129635,6 +129668,30 @@
         "text": "Eu e o Gus ficamos 10h em ligação na 2a vez que nos ligamos \nConectei no carregador umas 3x hahhahahah",
         "pushName": "Dany",
         "timestamp": 1787846407245
+      },
+      "3A9B661306AE560316FF": {
+        "sender": "262182034002040@lid",
+        "text": "Mas é isso mesmo hahahah",
+        "pushName": "Dany",
+        "timestamp": 1787846460534
+      },
+      "AC1196B2D3E8E3043C42CD79597BBF0A": {
+        "sender": "190864487919667@lid",
+        "text": "Como estão de calor por aí na cidade de vocês?",
+        "pushName": "Souza",
+        "timestamp": 1787846467599
+      },
+      "AC4DA373849FBA71F465BEAD7634A7E2": {
+        "sender": "60851868446964@lid",
+        "text": "HAHAHAHAH",
+        "pushName": "gigi✨",
+        "timestamp": 1787846469568
+      },
+      "ACF16F863E532D62A27E5B24A6380C09": {
+        "sender": "81991328395336@lid",
+        "text": "Terrível",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787846476550
       }
     },
     "120363428464897153@g.us": {
@@ -177386,7 +177443,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787846435970,
+    "120363432018531082@g.us": 1787846476550,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
