@@ -2761,9 +2761,9 @@
         "total": 9
       },
       "129373172711439": {
-        "text": 759,
-        "media": 170,
-        "total": 929
+        "text": 760,
+        "media": 171,
+        "total": 931
       },
       "16007578021977": {
         "text": 50,
@@ -3135,24 +3135,24 @@
     },
     "120363412288900422@g.us": {
       "81991328395336": {
-        "text": 343,
+        "text": 344,
         "media": 101,
-        "total": 444
+        "total": 445
       },
       "5511927018683": {
-        "text": 365,
-        "media": 68,
-        "total": 433
+        "text": 367,
+        "media": 69,
+        "total": 436
       },
       "145381035905262": {
         "text": 312,
-        "media": 99,
-        "total": 411
+        "media": 100,
+        "total": 412
       },
       "53537388122141": {
-        "text": 508,
-        "media": 31,
-        "total": 539
+        "text": 509,
+        "media": 32,
+        "total": 541
       },
       "120363412288900422": {
         "text": 1,
@@ -12099,7 +12099,6 @@
         "Leandro (+55 (11) 92701-8683): Mais tarde, quando o kbaré abrir, tu se apresenta @66743926038604"
       ],
       "26/08/2026": [
-        "Leandro (+55 (11) 92701-8683): Muitos grupos, 3 🌝",
         "gigi✨ (60851868446964): Tá bom miga",
         "negoh🐻 (120044990287992): Tá cedo",
         "Celiete Souza (129373172711439): Ficar kkkkk",
@@ -12598,7 +12597,8 @@
         "Juliano Perlin (222595437858867): Tu viu🤭",
         "Juliano Perlin (222595437858867): Eitaa🤭",
         "Juliano Perlin (222595437858867): Boa noitee",
-        "Juliano Perlin (222595437858867): Pode"
+        "Juliano Perlin (222595437858867): Pode",
+        "Celiete Souza (129373172711439): Já botei Juliano"
       ]
     },
     "120363409727467494@g.us": {
@@ -14244,7 +14244,10 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): E o salvador falou pra Luiza que tu era casada e só ia iludir um lá",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): A vai se catar com essa palhaçada",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Gente, eu tenho nem contatinho",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Imagine iludir"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Imagine iludir",
+        "Leandro (+55 (11) 92701-8683): Esse povo tá caçando assunto",
+        "Leandro (+55 (11) 92701-8683): Até a hora que arrumar",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Já tô me segurando, de verdade"
       ]
     },
     "120363411233423709@g.us": {
@@ -14943,22 +14946,16 @@
         "authorName": "Juliano Perlin",
         "text": "Pode",
         "timestamp": 1787790023169
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Já botei Juliano",
+        "timestamp": 1787790038566
       }
     ],
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Juro que não é 🤰🏻",
-        "timestamp": 1787788221127
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Brincadeira a parte",
-        "timestamp": 1787788247422
-      },
       {
         "authorNum": "5511927018683",
         "authorName": "Leandro",
@@ -15204,6 +15201,24 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Imagine iludir",
         "timestamp": 1787790019361
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Esse povo tá caçando assunto",
+        "timestamp": 1787790033934
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Até a hora que arrumar",
+        "timestamp": 1787790038813
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Já tô me segurando, de verdade",
+        "timestamp": 1787790052935
       }
     ],
     "120363411233423709@g.us": [],
@@ -15218,9 +15233,9 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 19463,
-    "120363428464897153@g.us": 5364,
+    "120363428464897153@g.us": 5365,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1365,
+    "120363412288900422@g.us": 1368,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 7
@@ -157654,6 +157669,12 @@
         "text": "Pode",
         "pushName": "Juliano Perlin",
         "timestamp": 1787790023169
+      },
+      "ACB54194882C86CB9608E00BC5143E1C": {
+        "sender": "129373172711439@lid",
+        "text": "Já botei Juliano",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787790038566
       }
     },
     "120363409727467494@g.us": {
@@ -167072,6 +167093,24 @@
         "text": "Imagine iludir",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787790019361
+      },
+      "A5CBCE92FAAB30E30926E4E3B2FB06EA": {
+        "sender": "54259127210155@lid",
+        "text": "Esse povo tá caçando assunto",
+        "pushName": "Leandro",
+        "timestamp": 1787790033934
+      },
+      "A52555758BC3F36051237EE275DB5E9E": {
+        "sender": "54259127210155@lid",
+        "text": "Até a hora que arrumar",
+        "pushName": "Leandro",
+        "timestamp": 1787790038813
+      },
+      "AC575005A44A7DAEE067C36356308231": {
+        "sender": "53537388122141@lid",
+        "text": "Já tô me segurando, de verdade",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787790052935
       }
     },
     "120363411233423709@g.us": {
@@ -169213,9 +169252,9 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787789781817,
-    "120363428464897153@g.us": 1787790023169,
+    "120363428464897153@g.us": 1787790048704,
     "120363409727467494@g.us": 1787764683861,
-    "120363412288900422@g.us": 1787790019361,
+    "120363412288900422@g.us": 1787790052935,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
