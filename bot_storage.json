@@ -2516,9 +2516,9 @@
         "total": 78
       },
       "81991328395336": {
-        "text": 569,
+        "text": 570,
         "media": 162,
-        "total": 731
+        "total": 732
       },
       "99338701258949": {
         "text": 499,
@@ -2721,9 +2721,9 @@
         "total": 1
       },
       "92629643563147": {
-        "text": 547,
-        "media": 347,
-        "total": 894
+        "text": 548,
+        "media": 349,
+        "total": 897
       },
       "122552932372575": {
         "text": 0,
@@ -2761,9 +2761,9 @@
         "total": 9
       },
       "129373172711439": {
-        "text": 882,
+        "text": 883,
         "media": 216,
-        "total": 1098
+        "total": 1099
       },
       "16007578021977": {
         "text": 50,
@@ -12759,7 +12759,9 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Bicha eu sou indecisa \nMas tu me superou",
         "Camila Designer (92629643563147): Qual sua resposta?",
         "Celiete Souza (129373172711439): Me vou \nAmanhã o bicho pega pro meu lado 🤦🏼‍♀️",
-        "Neto prime (238233849983072): Ela já respondeu sim"
+        "Neto prime (238233849983072): Ela já respondeu sim",
+        "Celiete Souza (129373172711439): Boa noite pestes 😘",
+        "Camila Designer (92629643563147): Ela não respondeu"
       ]
     },
     "120363409727467494@g.us": {
@@ -15617,6 +15619,18 @@
         "authorName": "Neto prime",
         "text": "Ela já respondeu sim",
         "timestamp": 1787802306927
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Boa noite pestes 😘",
+        "timestamp": 1787802311849
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Ela não respondeu",
+        "timestamp": 1787802319963
       }
     ],
     "120363409727467494@g.us": [],
@@ -15689,7 +15703,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 19620,
-    "120363428464897153@g.us": 5971,
+    "120363428464897153@g.us": 5973,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1454,
     "120363411233423709@g.us": 5,
@@ -162653,6 +162667,18 @@
         "text": "Ela já respondeu sim",
         "pushName": "Neto prime",
         "timestamp": 1787802306928
+      },
+      "AC0261696ADA2C139F77AC40157E319A": {
+        "sender": "129373172711439@lid",
+        "text": "Boa noite pestes 😘",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787802311849
+      },
+      "2A4A5ED6F1D427D9EDB1": {
+        "sender": "92629643563147@lid",
+        "text": "Ela não respondeu",
+        "pushName": "Camila Designer",
+        "timestamp": 1787802319963
       }
     },
     "120363409727467494@g.us": {
@@ -174782,7 +174808,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787801074245,
-    "120363428464897153@g.us": 1787802306927,
+    "120363428464897153@g.us": 1787802337179,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787801643008,
     "120363411233423709@g.us": 1787113553426,
