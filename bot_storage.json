@@ -1481,9 +1481,9 @@
         "total": 2
       },
       "57561571176651": {
-        "text": 31,
+        "text": 32,
         "media": 34,
-        "total": 65
+        "total": 66
       },
       "238977063862324": {
         "text": 27,
@@ -2621,9 +2621,9 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 32,
+        "text": 33,
         "media": 10,
-        "total": 42
+        "total": 43
       },
       "172868239380659": {
         "text": 40,
@@ -2646,9 +2646,9 @@
         "total": 7
       },
       "205621945192508": {
-        "text": 15,
-        "media": 3,
-        "total": 18
+        "text": 16,
+        "media": 4,
+        "total": 20
       },
       "208958782488665": {
         "text": 4,
@@ -2659,6 +2659,11 @@
         "text": 1,
         "media": 1,
         "total": 2
+      },
+      "207361708961911": {
+        "text": 0,
+        "media": 1,
+        "total": 1
       }
     },
     "120363428464897153@g.us": {
@@ -9144,10 +9149,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Neto prime (238233849983072): Sim sim pequena distribuidora kkkkk",
-        "🎀  Ň𝐘ηａ🐆 (266048007835881): @238233849983072 vende a 600 avulso?",
-        "Neto prime (238233849983072): Sim",
-        "🎀  Ň𝐘ηａ🐆 (266048007835881): Mais tipo pro pessoal beber aí né",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Importante e ter não interessa o tamanho kkkk",
         "'   MƲRIԼԼƠ  🥶 (111506477846600): Pensei q já me conheciam e eu ia passar batido",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Muita gente nova né kk grupo diferente",
@@ -9643,7 +9644,11 @@
         "Bruno Aguiar (+1395881181241): Tem que curtir e aproveitar a vida😉",
         "Jennifer🦋 (205621945192508): Deixa eu quietinha no meu canto😂😂😂😂😂😂😂",
         "Bruno Aguiar (+1395881181241): Não está mais aqui quem falou kkkk",
-        "Beatriz Ferreira 🦅 (262456945414267): Nome: Beatriz \nIdade: 30 anos \nDe onde sou: São Paulo"
+        "Beatriz Ferreira 🦅 (262456945414267): Nome: Beatriz \nIdade: 30 anos \nDe onde sou: São Paulo",
+        "Jennifer🦋 (205621945192508): KKKkkkkkkk",
+        "LUCIANO (57561571176651): Bv",
+        "Gleydson Souza (274384656834700): Bem vinda",
+        "... (207361708961911): Nome : Welinton Makkenzzy Rodrigues Santos tenho 17 anos sou daqui de Minas Gerais"
       ]
     },
     "120363428464897153@g.us": {
@@ -15782,12 +15787,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "233161007071346",
-        "authorName": "Milena B. Costa",
-        "text": "As baixinhas são as mais bravas",
-        "timestamp": 1787866218342
-      },
-      {
         "authorNum": "238233849983072",
         "authorName": "Neto prime",
         "text": "Porque a nyna saiu ? ???",
@@ -16350,6 +16349,30 @@
         "authorName": "Beatriz Ferreira 🦅",
         "text": "Nome: Beatriz \nIdade: 30 anos \nDe onde sou: São Paulo",
         "timestamp": 1787867998844
+      },
+      {
+        "authorNum": "205621945192508",
+        "authorName": "Jennifer🦋",
+        "text": "KKKkkkkkkk",
+        "timestamp": 1787868023596
+      },
+      {
+        "authorNum": "57561571176651",
+        "authorName": "LUCIANO",
+        "text": "Bv",
+        "timestamp": 1787868025088
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Bem vinda",
+        "timestamp": 1787868026603
+      },
+      {
+        "authorNum": "207361708961911",
+        "authorName": "...",
+        "text": "Nome : Welinton Makkenzzy Rodrigues Santos tenho 17 anos sou daqui de Minas Gerais",
+        "timestamp": 1787868030249
       }
     ],
     "120363428464897153@g.us": [],
@@ -16375,7 +16398,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20583,
+    "120363432018531082@g.us": 20587,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1543,
@@ -134038,6 +134061,30 @@
         "text": "Nome: Beatriz \nIdade: 30 anos \nDe onde sou: São Paulo",
         "pushName": "Beatriz Ferreira 🦅",
         "timestamp": 1787867998844
+      },
+      "AC514EACEEB5A960835B70BE2C06DDA1": {
+        "sender": "205621945192508@lid",
+        "text": "KKKkkkkkkk",
+        "pushName": "Jennifer🦋",
+        "timestamp": 1787868023596
+      },
+      "AC7734FBF4FC367307F44E6F2076FC12": {
+        "sender": "57561571176651@lid",
+        "text": "Bv",
+        "pushName": "LUCIANO",
+        "timestamp": 1787868025088
+      },
+      "AC9920161ED5B1CA7554AD379864D329": {
+        "sender": "274384656834700@lid",
+        "text": "Bem vinda",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787868026604
+      },
+      "AC93AD067020A77F4ED43B790D40A18C": {
+        "sender": "207361708961911@lid",
+        "text": "Nome : Welinton Makkenzzy Rodrigues Santos tenho 17 anos sou daqui de Minas Gerais",
+        "pushName": "...",
+        "timestamp": 1787868030249
       }
     },
     "120363428464897153@g.us": {
@@ -182187,7 +182234,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787868010666,
+    "120363432018531082@g.us": 1787868030249,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787865477162,
