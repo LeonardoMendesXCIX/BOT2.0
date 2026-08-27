@@ -142,8 +142,8 @@
       },
       "81991328395336": {
         "text": 3859,
-        "media": 1303,
-        "total": 5162
+        "media": 1304,
+        "total": 5163
       },
       "179040627490824": {
         "text": 433,
@@ -2626,9 +2626,9 @@
         "total": 68
       },
       "172868239380659": {
-        "text": 70,
+        "text": 71,
         "media": 11,
-        "total": 81
+        "total": 82
       },
       "170455038193841": {
         "text": 1,
@@ -9154,7 +9154,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Kkkkkkkkkkkkkkkk cara, nem falar com o princeso eu falo, nunca troquei uma sequer palavra pra querer ele não",
         "Gleydson Souza (274384656834700): Porra daora depois bora marcar pra tomar umas so do entorno de Brasília.",
         "Lailson Nathan. (272048228188398): Os cara estão afim mesmo.",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Massa também",
@@ -9653,7 +9652,8 @@
         "Jessica (208958782488665): Vishi gente calma",
         "Pedro Henrique (172868239380659): Tu me convidou pra chuva ué kkk",
         "Pedro Henrique (172868239380659): Pensei que era sério",
-        "Juliano Perlin (222595437858867): Sibda mais aí q chove quase direto kkkk"
+        "Juliano Perlin (222595437858867): Sibda mais aí q chove quase direto kkkk",
+        "Pedro Henrique (172868239380659): Eu só saio kkkkkkkkkkkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -16479,6 +16479,12 @@
         "authorName": "Juliano Perlin",
         "text": "Sibda mais aí q chove quase direto kkkk",
         "timestamp": 1787874633646
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Eu só saio kkkkkkkkkkkk",
+        "timestamp": 1787874647446
       }
     ],
     "120363428464897153@g.us": [],
@@ -16606,7 +16612,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20876,
+    "120363432018531082@g.us": 20877,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1668,
@@ -136015,6 +136021,12 @@
         "text": "Sibda mais aí q chove quase direto kkkk",
         "pushName": "Juliano Perlin",
         "timestamp": 1787874633646
+      },
+      "ACFFA9CC32897126DAD15A585CDC097B": {
+        "sender": "172868239380659@lid",
+        "text": "Eu só saio kkkkkkkkkkkk",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787874647446
       }
     },
     "120363428464897153@g.us": {
@@ -184914,7 +184926,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787874633646,
+    "120363432018531082@g.us": 1787874651439,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787874348235,
