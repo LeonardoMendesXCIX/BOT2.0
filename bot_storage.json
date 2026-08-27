@@ -253,9 +253,9 @@
         "total": 3
       },
       "60851868446964": {
-        "text": 1212,
+        "text": 1215,
         "media": 1413,
-        "total": 2625
+        "total": 2628
       },
       "270377049690114": {
         "text": 36,
@@ -8935,7 +8935,10 @@
         "Bruno Aguiar (+1395881181241): Bom dia",
         "Baby (179040627490824): Toma remédio e N tá fazendo mais efeito",
         "Baby (179040627490824): Bom",
-        "Paulo (175655757050100): Bommmm diaaaa 🙏"
+        "Paulo (175655757050100): Bommmm diaaaa 🙏",
+        "gigi✨ (60851868446964): Bom dia gente",
+        "gigi✨ (60851868446964): Hj ficarei off do grupo",
+        "gigi✨ (60851868446964): 🤒"
       ]
     },
     "120363428464897153@g.us": {
@@ -15114,6 +15117,24 @@
         "authorName": "Paulo",
         "text": "Bommmm diaaaa 🙏",
         "timestamp": 1787825622879
+      },
+      {
+        "authorNum": "60851868446964",
+        "authorName": "gigi✨",
+        "text": "Bom dia gente",
+        "timestamp": 1787825679856
+      },
+      {
+        "authorNum": "60851868446964",
+        "authorName": "gigi✨",
+        "text": "Hj ficarei off do grupo",
+        "timestamp": 1787825691067
+      },
+      {
+        "authorNum": "60851868446964",
+        "authorName": "gigi✨",
+        "text": "🤒",
+        "timestamp": 1787825702160
       }
     ],
     "120363428464897153@g.us": [],
@@ -15131,7 +15152,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19676,
+    "120363432018531082@g.us": 19679,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1456,
@@ -127417,6 +127438,24 @@
         "text": "Bommmm diaaaa 🙏",
         "pushName": "Paulo",
         "timestamp": 1787825622879
+      },
+      "AC4989EAC88AC883891A8AF7770737FA": {
+        "sender": "60851868446964@lid",
+        "text": "Bom dia gente",
+        "pushName": "gigi✨",
+        "timestamp": 1787825679856
+      },
+      "ACC87E5688193CBF503F2F5A8036673B": {
+        "sender": "60851868446964@lid",
+        "text": "Hj ficarei off do grupo",
+        "pushName": "gigi✨",
+        "timestamp": 1787825691067
+      },
+      "AC56BE728A03F55B00E5237A915BB0FD": {
+        "sender": "60851868446964@lid",
+        "text": "🤒",
+        "pushName": "gigi✨",
+        "timestamp": 1787825702160
       }
     },
     "120363428464897153@g.us": {
@@ -175018,7 +175057,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787825622878,
+    "120363432018531082@g.us": 1787825702160,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787814068637,
