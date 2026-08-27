@@ -253,9 +253,9 @@
         "total": 3
       },
       "60851868446964": {
-        "text": 1218,
+        "text": 1220,
         "media": 1424,
-        "total": 2642
+        "total": 2644
       },
       "270377049690114": {
         "text": 36,
@@ -8971,7 +8971,9 @@
         "gigi✨ (60851868446964): Brigada",
         "Baby (179040627490824): complicado",
         "Juliano Perlin (222595437858867): Bom dia fofa😘",
-        "Juliano Perlin (222595437858867): Bom dia..boas melhoras🥰"
+        "Juliano Perlin (222595437858867): Bom dia..boas melhoras🥰",
+        "gigi✨ (60851868446964): Vdd",
+        "gigi✨ (60851868446964): Brigada 🩷"
       ]
     },
     "120363428464897153@g.us": {
@@ -15342,6 +15344,18 @@
         "authorName": "Juliano Perlin",
         "text": "Bom dia..boas melhoras🥰",
         "timestamp": 1787826671849
+      },
+      {
+        "authorNum": "60851868446964",
+        "authorName": "gigi✨",
+        "text": "Vdd",
+        "timestamp": 1787826699097
+      },
+      {
+        "authorNum": "60851868446964",
+        "authorName": "gigi✨",
+        "text": "Brigada 🩷",
+        "timestamp": 1787826704555
       }
     ],
     "120363428464897153@g.us": [],
@@ -15359,7 +15373,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19712,
+    "120363432018531082@g.us": 19714,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1456,
@@ -127861,6 +127875,18 @@
         "text": "Bom dia..boas melhoras🥰",
         "pushName": "Juliano Perlin",
         "timestamp": 1787826671849
+      },
+      "AC88C9971BD180851F2664B806ABBA10": {
+        "sender": "60851868446964@lid",
+        "text": "Vdd",
+        "pushName": "gigi✨",
+        "timestamp": 1787826699097
+      },
+      "ACFEF15BF2B92DC52B0BC682652418B3": {
+        "sender": "60851868446964@lid",
+        "text": "Brigada 🩷",
+        "pushName": "gigi✨",
+        "timestamp": 1787826704555
       }
     },
     "120363428464897153@g.us": {
@@ -175462,7 +175488,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787826671849,
+    "120363432018531082@g.us": 1787826704555,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787814068637,
