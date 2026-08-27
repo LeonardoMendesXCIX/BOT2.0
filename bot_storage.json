@@ -32,9 +32,9 @@
         "total": 4975
       },
       "179040627490824": {
-        "text": 387,
+        "text": 388,
         "media": 80,
-        "total": 467
+        "total": 468
       },
       "145381035905262": {
         "text": 2152,
@@ -127,9 +127,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 1943,
+        "text": 1945,
         "media": 248,
-        "total": 2191
+        "total": 2193
       },
       "252922705240205": {
         "text": 80,
@@ -8916,7 +8916,10 @@
         "Jô Freitas 🍀 (67035866357875): Quase finalizando 24h sem dormir e trabalhando",
         "Jô Freitas 🍀 (67035866357875): Só quero café, banho e cama",
         "AlanRogerio Faustino (102641279483997): Esse dia só Deus sabe",
-        "Camila Designer (92629643563147): Diaaaa"
+        "Camila Designer (92629643563147): Diaaaa",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bommm diaaaa a @all vocês! Ótima quinta feira, abençoada pra todos 🙏🏼❤️",
+        "Baby (179040627490824): Bom dia @92629643563147 @53537388122141",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bom dia!!"
       ]
     },
     "120363428464897153@g.us": {
@@ -14987,6 +14990,24 @@
         "authorName": "Camila Designer",
         "text": "Diaaaa",
         "timestamp": 1787825000712
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Bommm diaaaa a @all vocês! Ótima quinta feira, abençoada pra todos 🙏🏼❤️",
+        "timestamp": 1787825394462
+      },
+      {
+        "authorNum": "179040627490824",
+        "authorName": "Baby",
+        "text": "Bom dia @92629643563147 @53537388122141",
+        "timestamp": 1787825410265
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Bom dia!!",
+        "timestamp": 1787825432655
       }
     ],
     "120363428464897153@g.us": [],
@@ -15004,7 +15025,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19658,
+    "120363432018531082@g.us": 19661,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1456,
@@ -127182,6 +127203,24 @@
         "text": "Diaaaa",
         "pushName": "Camila Designer",
         "timestamp": 1787825000713
+      },
+      "AC810BE9873561619799A5FBCF41AF37": {
+        "sender": "53537388122141@lid",
+        "text": "Bommm diaaaa a @all vocês! Ótima quinta feira, abençoada pra todos 🙏🏼❤️",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787825394462
+      },
+      "AC6C785ED0285D6A1B5C58719327A83B": {
+        "sender": "179040627490824@lid",
+        "text": "Bom dia @92629643563147 @53537388122141",
+        "pushName": "Baby",
+        "timestamp": 1787825410265
+      },
+      "AC140C672452BC7B8BC18DE7F1AE662F": {
+        "sender": "53537388122141@lid",
+        "text": "Bom dia!!",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787825432656
       }
     },
     "120363428464897153@g.us": {
@@ -174783,7 +174822,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787825000712,
+    "120363432018531082@g.us": 1787825432655,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787814068637,
