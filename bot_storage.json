@@ -128,9 +128,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 1966,
+        "text": 1967,
         "media": 255,
-        "total": 2221
+        "total": 2222
       },
       "252922705240205": {
         "text": 80,
@@ -1353,9 +1353,9 @@
         "total": 157
       },
       "266048007835881": {
-        "text": 520,
-        "media": 239,
-        "total": 759
+        "text": 522,
+        "media": 241,
+        "total": 763
       },
       "123120354635955": {
         "text": 4,
@@ -9051,7 +9051,9 @@
         "Leandro (+55 (11) 92701-8683): Como você está minha delícia?",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Morta de sono",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bom dia Leandro",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Ala, outro"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Ala, outro",
+        "🎀  Ň𝐘ηａ🐆 (266048007835881): Começou foi cedo hoje",
+        "🎀  Ň𝐘ηａ🐆 (266048007835881): Bom dia hospício mais feliz"
       ]
     },
     "120363428464897153@g.us": {
@@ -15146,6 +15148,18 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Ala, outro",
         "timestamp": 1787839901597
+      },
+      {
+        "authorNum": "266048007835881",
+        "authorName": "🎀  Ň𝐘ηａ🐆",
+        "text": "Começou foi cedo hoje",
+        "timestamp": 1787839920673
+      },
+      {
+        "authorNum": "266048007835881",
+        "authorName": "🎀  Ň𝐘ηａ🐆",
+        "text": "Bom dia hospício mais feliz",
+        "timestamp": 1787839937268
       }
     ],
     "120363428464897153@g.us": [],
@@ -15170,7 +15184,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19767,
+    "120363432018531082@g.us": 19769,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1466,
@@ -128004,6 +128018,18 @@
         "text": "Ala, outro",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787839901598
+      },
+      "ACB6AEB6F55357DE2B487CDB68EF6DBB": {
+        "sender": "266048007835881@lid",
+        "text": "Começou foi cedo hoje",
+        "pushName": "🎀  Ň𝐘ηａ🐆",
+        "timestamp": 1787839920674
+      },
+      "ACB0A79411E9329E55A06DEA2482C025": {
+        "sender": "266048007835881@lid",
+        "text": "Bom dia hospício mais feliz",
+        "pushName": "🎀  Ň𝐘ηａ🐆",
+        "timestamp": 1787839937268
       }
     },
     "120363428464897153@g.us": {
@@ -175677,7 +175703,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787839915891,
+    "120363432018531082@g.us": 1787839939446,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787829200713,
