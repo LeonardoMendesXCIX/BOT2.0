@@ -33,9 +33,9 @@
         "total": 4975
       },
       "179040627490824": {
-        "text": 390,
+        "text": 391,
         "media": 80,
-        "total": 470
+        "total": 471
       },
       "145381035905262": {
         "text": 2152,
@@ -8925,7 +8925,8 @@
         "Baby (179040627490824): ??",
         "Bruno Aguiar (+1395881181241): Bom dia",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem e você??",
-        "Bruno Aguiar (+1395881181241): Bom dia"
+        "Bruno Aguiar (+1395881181241): Bom dia",
+        "Baby (179040627490824): Baaaa vai indo mais um dia q a insônia ganhou"
       ]
     },
     "120363428464897153@g.us": {
@@ -15044,6 +15045,12 @@
         "authorName": "Bruno Aguiar",
         "text": "Bom dia",
         "timestamp": 1787825455030
+      },
+      {
+        "authorNum": "179040627490824",
+        "authorName": "Baby",
+        "text": "Baaaa vai indo mais um dia q a insônia ganhou",
+        "timestamp": 1787825473371
       }
     ],
     "120363428464897153@g.us": [],
@@ -15061,7 +15068,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19666,
+    "120363432018531082@g.us": 19667,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1456,
@@ -127287,6 +127294,12 @@
         "text": "Bom dia",
         "pushName": "Bruno Aguiar",
         "timestamp": 1787825455030
+      },
+      "AC14879671EF80F536271AE500BE64A8": {
+        "sender": "179040627490824@lid",
+        "text": "Baaaa vai indo mais um dia q a insônia ganhou",
+        "pushName": "Baby",
+        "timestamp": 1787825473371
       }
     },
     "120363428464897153@g.us": {
@@ -174888,7 +174901,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787825455030,
+    "120363432018531082@g.us": 1787825473371,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787814068637,
