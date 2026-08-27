@@ -128,9 +128,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2041,
+        "text": 2043,
         "media": 269,
-        "total": 2310
+        "total": 2312
       },
       "252922705240205": {
         "text": 80,
@@ -2454,8 +2454,8 @@
       },
       "190864487919667": {
         "text": 50,
-        "media": 13,
-        "total": 63
+        "media": 14,
+        "total": 64
       },
       "82227819987089": {
         "text": 2,
@@ -8986,8 +8986,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Juliano Perlin (222595437858867): Bom dia..boas melhoras🥰",
-        "gigi✨ (60851868446964): Vdd",
         "gigi✨ (60851868446964): Brigada 🩷",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bom diaaa meu bem",
         "Camila Designer (92629643563147): Bom dia!😘",
@@ -9485,7 +9483,9 @@
         " (120363432018531082): @92629643563147",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Então",
         "Bruno Aguiar (+1395881181241): Esperança é a última que morre 😂😂😂",
-        "Souza (190864487919667): Se eu não te conhecesse tão bem"
+        "Souza (190864487919667): Se eu não te conhecesse tão bem",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): É, me conhece bem até demais, não é mesmo?\nMas pq? Não sou um monstro né?",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Sou um amorzinho"
       ]
     },
     "120363428464897153@g.us": {
@@ -15577,30 +15577,6 @@
       {
         "authorNum": "111506477846600",
         "authorName": "'   MƲRIԼԼƠ  🥶",
-        "text": "Tô vendo n",
-        "timestamp": 1787858192310
-      },
-      {
-        "authorNum": "111506477846600",
-        "authorName": "'   MƲRIԼԼƠ  🥶",
-        "text": "🤣 🤣",
-        "timestamp": 1787858193056
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Todos sejam bem vindos!☺️",
-        "timestamp": 1787858198445
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Preciso nem avisar que eu roubei né?",
-        "timestamp": 1787858199069
-      },
-      {
-        "authorNum": "111506477846600",
-        "authorName": "'   MƲRIԼԼƠ  🥶",
         "text": "Nuss",
         "timestamp": 1787858241645
       },
@@ -16083,6 +16059,18 @@
         "authorName": "Souza",
         "text": "Se eu não te conhecesse tão bem",
         "timestamp": 1787859975794
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "É, me conhece bem até demais, não é mesmo?\nMas pq? Não sou um monstro né?",
+        "timestamp": 1787860001867
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Sou um amorzinho",
+        "timestamp": 1787860036703
       }
     ],
     "120363428464897153@g.us": [],
@@ -16209,7 +16197,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20211,
+    "120363432018531082@g.us": 20213,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1500,
@@ -131666,6 +131654,18 @@
         "text": "Se eu não te conhecesse tão bem",
         "pushName": "Souza",
         "timestamp": 1787859975795
+      },
+      "ACB830C13C2A7592DF33B57FD53B4D1B": {
+        "sender": "53537388122141@lid",
+        "text": "É, me conhece bem até demais, não é mesmo?\nMas pq? Não sou um monstro né?",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787860001867
+      },
+      "ACB1D49F9895FF2F5C56EBF78E0B717C": {
+        "sender": "53537388122141@lid",
+        "text": "Sou um amorzinho",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787860036703
       }
     },
     "120363428464897153@g.us": {
@@ -179531,7 +179531,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787859975794,
+    "120363432018531082@g.us": 1787860036703,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787859975917,
