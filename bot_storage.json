@@ -241,9 +241,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2063,
+        "text": 2064,
         "media": 274,
-        "total": 2337
+        "total": 2338
       },
       "252922705240205": {
         "text": 80,
@@ -1466,9 +1466,9 @@
         "total": 157
       },
       "266048007835881": {
-        "text": 578,
+        "text": 579,
         "media": 264,
-        "total": 842
+        "total": 843
       },
       "123120354635955": {
         "text": 4,
@@ -3272,9 +3272,9 @@
         "total": 439
       },
       "53537388122141": {
-        "text": 567,
+        "text": 569,
         "media": 42,
-        "total": 609
+        "total": 611
       },
       "120363412288900422": {
         "text": 1,
@@ -9104,7 +9104,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        " (120363432018531082): Ricardo 29 anos rio de janeiro",
         "Camila Designer (92629643563147): Oi @266048007835881 ☺️",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @92629643563147 olha os peitoral",
         "Camila Designer (92629643563147): Gente e ainda é massagista tântrico 👀👀👀",
@@ -9603,7 +9602,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Deve!",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Posso nem toma uma \nEstou a base de antibióticos",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): !inativos",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Vão com Deus meu povo 👋🏻"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Vão com Deus meu povo 👋🏻",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Foi tudo de arraaaaasta"
       ]
     },
     "120363428464897153@g.us": {
@@ -15245,7 +15245,9 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Ainda disse que tava preguiça de se apresentar",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Eu vendo isso:",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Já adiantei logo",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Eu jogo"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Eu jogo",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Aprendeu com a mestre",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Parabéns chefe"
       ]
     },
     "120363411233423709@g.us": {
@@ -15708,12 +15710,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Ish, depende de quem seja",
-        "timestamp": 1787859736423
-      },
-      {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
         "text": "Pode deixar que o coração dele está bonzinho 😌😌😌",
@@ -16162,6 +16158,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Vão com Deus meu povo 👋🏻",
         "timestamp": 1787861521765
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Foi tudo de arraaaaasta",
+        "timestamp": 1787861571466
       }
     ],
     "120363428464897153@g.us": [],
@@ -16286,6 +16288,18 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Eu jogo",
         "timestamp": 1787861477047
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Aprendeu com a mestre",
+        "timestamp": 1787861543740
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Parabéns chefe",
+        "timestamp": 1787861546276
       }
     ],
     "120363411233423709@g.us": [],
@@ -16313,10 +16327,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20275,
+    "120363432018531082@g.us": 20276,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1513,
+    "120363412288900422@g.us": 1515,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 20,
@@ -132148,6 +132162,12 @@
         "text": "Vão com Deus meu povo 👋🏻",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787861521765
+      },
+      "AC1E074B92912EF91E94DE8BDC8B36A7": {
+        "sender": "53537388122141@lid",
+        "text": "Foi tudo de arraaaaasta",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787861571466
       }
     },
     "120363428464897153@g.us": {
@@ -177562,6 +177582,18 @@
         "text": "Eu jogo",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787861477047
+      },
+      "AC41156F9CB8930DC913FCB91EC6E823": {
+        "sender": "53537388122141@lid",
+        "text": "Aprendeu com a mestre",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787861543740
+      },
+      "ACA2640FEE01D75605709B4275945359": {
+        "sender": "53537388122141@lid",
+        "text": "Parabéns chefe",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787861546276
       }
     },
     "120363411233423709@g.us": {
@@ -180103,10 +180135,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787861521765,
+    "120363432018531082@g.us": 1787861571466,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787861477047,
+    "120363412288900422@g.us": 1787861546276,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
