@@ -103,9 +103,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1405,
-        "media": 1066,
-        "total": 2471
+        "text": 1406,
+        "media": 1067,
+        "total": 2473
       },
       "3126803329115": {
         "text": 87,
@@ -1868,9 +1868,9 @@
         "total": 6
       },
       "129158944415753": {
-        "text": 20,
+        "text": 21,
         "media": 2,
-        "total": 22
+        "total": 23
       },
       "276003205152992": {
         "text": 5,
@@ -9157,7 +9157,9 @@
         "massagista tântrico (129158944415753): Venha então bb",
         "massagista tântrico (129158944415753): Não irá se arrepender",
         "massagista tântrico (129158944415753): Ficará satisfeita",
-        "massagista tântrico (129158944415753): E pedirá mais"
+        "massagista tântrico (129158944415753): E pedirá mais",
+        "massagista tântrico (129158944415753): Seria um imenso prazer ter você como cliente",
+        "Camila Designer (92629643563147): Mas eu não quero ser apenas cliente 😏😏😏"
       ]
     },
     "120363428464897153@g.us": {
@@ -15225,12 +15227,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Bem vindo!",
-        "timestamp": 1787843277049
-      },
-      {
         "authorNum": "11171897864256",
         "authorName": "🙃🙃🙃",
         "text": "Obg",
@@ -15385,6 +15381,18 @@
         "authorName": "massagista tântrico",
         "text": "E pedirá mais",
         "timestamp": 1787845031820
+      },
+      {
+        "authorNum": "129158944415753",
+        "authorName": "massagista tântrico",
+        "text": "Seria um imenso prazer ter você como cliente",
+        "timestamp": 1787845077756
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Mas eu não quero ser apenas cliente 😏😏😏",
+        "timestamp": 1787845097314
       }
     ],
     "120363428464897153@g.us": [],
@@ -15481,7 +15489,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19838,
+    "120363432018531082@g.us": 19840,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -128723,6 +128731,18 @@
         "text": "E pedirá mais",
         "pushName": "massagista tântrico",
         "timestamp": 1787845031822
+      },
+      "A59A64AB9829DAFED0CF79A3D71E0735": {
+        "sender": "129158944415753@lid",
+        "text": "Seria um imenso prazer ter você como cliente",
+        "pushName": "massagista tântrico",
+        "timestamp": 1787845077756
+      },
+      "2AE559F8A060E406328C": {
+        "sender": "92629643563147@lid",
+        "text": "Mas eu não quero ser apenas cliente 😏😏😏",
+        "pushName": "Camila Designer",
+        "timestamp": 1787845097314
       }
     },
     "120363428464897153@g.us": {
@@ -176474,7 +176494,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787845042079,
+    "120363432018531082@g.us": 1787845107484,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
