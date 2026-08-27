@@ -2566,9 +2566,9 @@
         "total": 20
       },
       "190864487919667": {
-        "text": 129,
+        "text": 131,
         "media": 24,
-        "total": 153
+        "total": 155
       },
       "82227819987089": {
         "text": 2,
@@ -3313,8 +3313,8 @@
       },
       "53537388122141": {
         "text": 606,
-        "media": 47,
-        "total": 653
+        "media": 48,
+        "total": 654
       },
       "120363412288900422": {
         "text": 1,
@@ -9149,8 +9149,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tô precisando",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Jamais!!!",
         "Camila Designer (92629643563147): @266048007835881 corre aqui",
         "Camila Designer (92629643563147): @53537388122141 está apaixonada igual você",
         "Bruno Aguiar (+1395881181241): Hj aqui no sul ta bom pra uma gelada quase 30 graus🥵🥵🍻🍻",
@@ -9648,7 +9646,9 @@
         "Jennifer🦋 (205621945192508): ENTÃOOOOOOOOOOOOO",
         "Souza (190864487919667): Vou morder tu já já",
         "Souza (190864487919667): Vai vendo",
-        "Jennifer🦋 (205621945192508): Kkkkkkkkkkkkkk"
+        "Jennifer🦋 (205621945192508): Kkkkkkkkkkkkkk",
+        "Souza (190864487919667): Tô com fome",
+        "Souza (190864487919667): Tem janta aí na casa de vocês não?"
       ]
     },
     "120363428464897153@g.us": {
@@ -15816,24 +15816,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Não pô, é que tu marcou a mulher, mas eu não sei quem é",
-        "timestamp": 1787867527819
-      },
-      {
-        "authorNum": "1395881181241",
-        "authorName": "Bruno Aguiar",
-        "text": "Olha ela kkkk",
-        "timestamp": 1787867550521
-      },
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Nem precisa né queridão",
-        "timestamp": 1787867553456
-      },
-      {
         "authorNum": "145381035905262",
         "authorName": "Gabriel",
         "text": "Tu tem vários kkkkk",
@@ -16402,6 +16384,18 @@
         "authorName": "Jennifer🦋",
         "text": "Kkkkkkkkkkkkkk",
         "timestamp": 1787869303413
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Tô com fome",
+        "timestamp": 1787869347663
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Tem janta aí na casa de vocês não?",
+        "timestamp": 1787869358021
       }
     ],
     "120363428464897153@g.us": [],
@@ -16595,7 +16589,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20667,
+    "120363432018531082@g.us": 20669,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1572,
@@ -134762,6 +134756,18 @@
         "text": "Kkkkkkkkkkkkkk",
         "pushName": "Jennifer🦋",
         "timestamp": 1787869303413
+      },
+      "ACD1EC2EF6BF25BAB4529CF86CC3C6F2": {
+        "sender": "190864487919667@lid",
+        "text": "Tô com fome",
+        "pushName": "Souza",
+        "timestamp": 1787869347664
+      },
+      "ACF95B08849D259782955C151451B508": {
+        "sender": "190864487919667@lid",
+        "text": "Tem janta aí na casa de vocês não?",
+        "pushName": "Souza",
+        "timestamp": 1787869358021
       }
     },
     "120363428464897153@g.us": {
@@ -183085,10 +183091,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787869307736,
+    "120363432018531082@g.us": 1787869358021,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787869330790,
+    "120363412288900422@g.us": 1787869351668,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
