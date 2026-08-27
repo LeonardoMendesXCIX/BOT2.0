@@ -241,9 +241,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2147,
+        "text": 2148,
         "media": 280,
-        "total": 2427
+        "total": 2428
       },
       "252922705240205": {
         "text": 80,
@@ -2621,9 +2621,9 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 37,
+        "text": 40,
         "media": 11,
-        "total": 48
+        "total": 51
       },
       "172868239380659": {
         "text": 54,
@@ -9149,9 +9149,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "🎀  Ň𝐘ηａ🐆 (266048007835881): Melhoremmmmmmmmmm",
-        " (120363432018531082): @53537388122141",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @53537388122141",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Gente kkkkkkk eu não dou patada\nEu converso normalmente com qualquer pessoa. Sou um amorzinho de pessoa\nMe conhecendo bem, vocês vão ver que sou bem gente boa 👀",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @53537388122141",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Obrigada o elogiooooo 🤌🏻",
@@ -9648,7 +9645,10 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Tem certeza moço? 👀",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Boa noite, pessoas",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Como vocês estão?",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Que tem de janta na casa de vocês aí?"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Que tem de janta na casa de vocês aí?",
+        "Gleydson Souza (274384656834700): Boa noite",
+        "Gleydson Souza (274384656834700): Lasanha",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Poxa, eu quero 😒"
       ]
     },
     "120363428464897153@g.us": {
@@ -16480,6 +16480,24 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Que tem de janta na casa de vocês aí?",
         "timestamp": 1787870316269
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Boa noite",
+        "timestamp": 1787870333376
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Lasanha",
+        "timestamp": 1787870336956
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Poxa, eu quero 😒",
+        "timestamp": 1787870347296
       }
     ],
     "120363428464897153@g.us": [],
@@ -16925,7 +16943,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20727,
+    "120363432018531082@g.us": 20730,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1614,
@@ -135446,6 +135464,24 @@
         "text": "Que tem de janta na casa de vocês aí?",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787870316269
+      },
+      "ACEFD5713D4EF8CC87E43A15C0C3505A": {
+        "sender": "274384656834700@lid",
+        "text": "Boa noite",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787870333376
+      },
+      "ACFC7E2DD033A02C08EA94DB0AC4B4A9": {
+        "sender": "274384656834700@lid",
+        "text": "Lasanha",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787870336957
+      },
+      "ACECB76C3F2F4BBA1F6704B96DEEFD4C": {
+        "sender": "53537388122141@lid",
+        "text": "Poxa, eu quero 😒",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787870347296
       }
     },
     "120363428464897153@g.us": {
@@ -184021,7 +184057,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787870316269,
+    "120363432018531082@g.us": 1787870356083,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787870194929,
