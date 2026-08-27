@@ -2721,9 +2721,9 @@
         "total": 1
       },
       "92629643563147": {
-        "text": 549,
-        "media": 349,
-        "total": 898
+        "text": 551,
+        "media": 351,
+        "total": 902
       },
       "122552932372575": {
         "text": 0,
@@ -2926,9 +2926,9 @@
         "total": 1
       },
       "266048007835881": {
-        "text": 204,
-        "media": 85,
-        "total": 289
+        "text": 206,
+        "media": 87,
+        "total": 293
       },
       "123120354635955": {
         "text": 1,
@@ -2951,9 +2951,9 @@
         "total": 15
       },
       "238233849983072": {
-        "text": 133,
+        "text": 134,
         "media": 7,
-        "total": 140
+        "total": 141
       },
       "43173162270816": {
         "text": 1,
@@ -12763,7 +12763,12 @@
         "Celiete Souza (129373172711439): Boa noite pestes 😘",
         "Camila Designer (92629643563147): Ela não respondeu",
         "Neto prime (238233849983072): Eu durmo e tu não fala kkkkk",
-        "🎀  Ň𝐘ηａ🐆 (266048007835881): Minha filha onça minha descrição já tá falando eu não sou fácil não viu kk"
+        "🎀  Ň𝐘ηａ🐆 (266048007835881): Minha filha onça minha descrição já tá falando eu não sou fácil não viu kk",
+        "🎀  Ň𝐘ηａ🐆 (266048007835881): SIMMMM CARAIOOOOO",
+        "Camila Designer (92629643563147): @266048007835881 Sim ou não?",
+        "Camila Designer (92629643563147): Pronto, vou dormir 🤣🤣🤣🤣",
+        "🎀  Ň𝐘ηａ🐆 (266048007835881): Vai te lascar porra",
+        "Neto prime (238233849983072): que bicha donzelaaaaa kkkkkkk"
       ]
     },
     "120363409727467494@g.us": {
@@ -15645,6 +15650,36 @@
         "authorName": "🎀  Ň𝐘ηａ🐆",
         "text": "Minha filha onça minha descrição já tá falando eu não sou fácil não viu kk",
         "timestamp": 1787802360601
+      },
+      {
+        "authorNum": "266048007835881",
+        "authorName": "🎀  Ň𝐘ηａ🐆",
+        "text": "SIMMMM CARAIOOOOO",
+        "timestamp": 1787802379854
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "@266048007835881 Sim ou não?",
+        "timestamp": 1787802383104
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Pronto, vou dormir 🤣🤣🤣🤣",
+        "timestamp": 1787802399121
+      },
+      {
+        "authorNum": "266048007835881",
+        "authorName": "🎀  Ň𝐘ηａ🐆",
+        "text": "Vai te lascar porra",
+        "timestamp": 1787802401851
+      },
+      {
+        "authorNum": "238233849983072",
+        "authorName": "Neto prime",
+        "text": "que bicha donzelaaaaa kkkkkkk",
+        "timestamp": 1787802412968
       }
     ],
     "120363409727467494@g.us": [],
@@ -15717,7 +15752,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 19620,
-    "120363428464897153@g.us": 5975,
+    "120363428464897153@g.us": 5980,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1454,
     "120363411233423709@g.us": 5,
@@ -162705,6 +162740,36 @@
         "text": "Minha filha onça minha descrição já tá falando eu não sou fácil não viu kk",
         "pushName": "🎀  Ň𝐘ηａ🐆",
         "timestamp": 1787802360601
+      },
+      "AC4E3A8C25D322D0800AC213683A2743": {
+        "sender": "266048007835881@lid",
+        "text": "SIMMMM CARAIOOOOO",
+        "pushName": "🎀  Ň𝐘ηａ🐆",
+        "timestamp": 1787802379855
+      },
+      "2A53212CDD920006AE75": {
+        "sender": "92629643563147@lid",
+        "text": "@266048007835881 Sim ou não?",
+        "pushName": "Camila Designer",
+        "timestamp": 1787802383104
+      },
+      "2AA378B5D2665945775A": {
+        "sender": "92629643563147@lid",
+        "text": "Pronto, vou dormir 🤣🤣🤣🤣",
+        "pushName": "Camila Designer",
+        "timestamp": 1787802399121
+      },
+      "AC6EB77E55B954FED2AF7153C93109EA": {
+        "sender": "266048007835881@lid",
+        "text": "Vai te lascar porra",
+        "pushName": "🎀  Ň𝐘ηａ🐆",
+        "timestamp": 1787802401851
+      },
+      "2A23945DD53D2F4D1813": {
+        "sender": "238233849983072@lid",
+        "text": "que bicha donzelaaaaa kkkkkkk",
+        "pushName": "Neto prime",
+        "timestamp": 1787802412968
       }
     },
     "120363409727467494@g.us": {
@@ -174834,7 +174899,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787801074245,
-    "120363428464897153@g.us": 1787802360601,
+    "120363428464897153@g.us": 1787802412968,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787801643008,
     "120363411233423709@g.us": 1787113553426,
