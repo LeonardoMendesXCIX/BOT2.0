@@ -548,9 +548,9 @@
         "total": 91
       },
       "57707230945348": {
-        "text": 1108,
+        "text": 1109,
         "media": 198,
-        "total": 1306
+        "total": 1307
       },
       "152218690924790": {
         "text": 309,
@@ -8991,7 +8991,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): NÃO",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Quero fazer uma relacionada as pessoas que eu mais amo, em homenagem. Mas algo pequeno\nPorém, mais pra frente",
         "Dany (262182034002040): Pop e pop rock 🥰",
         "Dany (262182034002040): Feliz aniversário 🥳🥳🥳 Felicidades e tudo de melhor 🥳🥰🥰",
@@ -9490,7 +9489,8 @@
         "Juliano Perlin (222595437858867): Vcs nao ficam dando em cima da minha cherósa q a faca pega vcs😠",
         "Juliano Perlin (222595437858867): Oii coisa cheirósa😍",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): A pronto, se lascaram vocês 👀",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Oioioooooi"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Oioioooooi",
+        "Rafael Moura (57707230945348): Mds que ta havendo aqui"
       ]
     },
     "120363428464897153@g.us": {
@@ -15588,18 +15588,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "238233849983072",
-        "authorName": "Neto prime",
-        "text": "Quintou, quase sextou ! Kkkkkk",
-        "timestamp": 1787859143265
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Tu é de onde? Sou de Floripa, SC",
-        "timestamp": 1787859161001
-      },
-      {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Mulher, Deus me defenderay",
@@ -16024,6 +16012,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Oioioooooi",
         "timestamp": 1787860942732
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Mds que ta havendo aqui",
+        "timestamp": 1787860962872
       }
     ],
     "120363428464897153@g.us": [],
@@ -16157,7 +16151,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20245,
+    "120363432018531082@g.us": 20246,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1506,
@@ -131812,6 +131806,12 @@
         "text": "Oioioooooi",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787860942732
+      },
+      "AC1EBA6F57AF8C18FDBFF8A5F7D530C0": {
+        "sender": "57707230945348@lid",
+        "text": "Mds que ta havendo aqui",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787860962872
       }
     },
     "120363428464897153@g.us": {
@@ -179725,7 +179725,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787860942732,
+    "120363432018531082@g.us": 1787860962872,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787860657102,
