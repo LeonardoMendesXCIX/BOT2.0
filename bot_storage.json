@@ -28,9 +28,9 @@
         "total": 1934
       },
       "81991328395336": {
-        "text": 3791,
+        "text": 3792,
         "media": 1271,
-        "total": 5062
+        "total": 5063
       },
       "179040627490824": {
         "text": 433,
@@ -128,9 +128,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2026,
+        "text": 2027,
         "media": 268,
-        "total": 2294
+        "total": 2295
       },
       "252922705240205": {
         "text": 80,
@@ -1713,9 +1713,9 @@
         "total": 6
       },
       "1395881181241": {
-        "text": 103,
+        "text": 104,
         "media": 4,
-        "total": 107
+        "total": 108
       },
       "198595546501333": {
         "text": 2,
@@ -2473,9 +2473,9 @@
         "total": 1
       },
       "238233849983072": {
-        "text": 33,
+        "text": 34,
         "media": 3,
-        "total": 36
+        "total": 37
       },
       "75797868064796": {
         "text": 4,
@@ -8986,9 +8986,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Melhoras amiga",
-        "gigi✨ (60851868446964): Brigada 🩷",
-        "Junior Ferreira (186466021941407): Bom dia",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Precisa ir no médico",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bom dia",
         "Baby (179040627490824): e controlado vou hj ainda se der tempo",
@@ -9485,7 +9482,10 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Vá com Deus 👋🏻",
         "Souza (190864487919667): 👀",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Muito apaixonada mesmo hein @92629643563147 ? 😂",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): @266048007835881 corre aqui"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): @266048007835881 corre aqui",
+        "Neto prime (238233849983072): 👀👀👀",
+        "Bruno Aguiar (+1395881181241): Santiago,Rio Grande do Sul",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): 👀👀"
       ]
     },
     "120363428464897153@g.us": {
@@ -15568,12 +15568,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "111506477846600",
-        "authorName": "'   MƲRIԼԼƠ  🥶",
-        "text": "Pensei q já me conheciam e eu ia passar batido",
-        "timestamp": 1787857553566
-      },
-      {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Muita gente nova né kk grupo diferente",
@@ -16118,6 +16112,24 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "@266048007835881 corre aqui",
         "timestamp": 1787859339393
+      },
+      {
+        "authorNum": "238233849983072",
+        "authorName": "Neto prime",
+        "text": "👀👀👀",
+        "timestamp": 1787859357293
+      },
+      {
+        "authorNum": "1395881181241",
+        "authorName": "Bruno Aguiar",
+        "text": "Santiago,Rio Grande do Sul",
+        "timestamp": 1787859370269
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "👀👀",
+        "timestamp": 1787859380200
       }
     ],
     "120363428464897153@g.us": [],
@@ -16214,7 +16226,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20180,
+    "120363432018531082@g.us": 20183,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1493,
@@ -131498,6 +131510,24 @@
         "text": "@266048007835881 corre aqui",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787859339393
+      },
+      "2AA1C2EF443D87C1DDD3": {
+        "sender": "238233849983072@lid",
+        "text": "👀👀👀",
+        "pushName": "Neto prime",
+        "timestamp": 1787859357293
+      },
+      "AC89013F706144D2AFBBADC0D0E75A6A": {
+        "sender": "1395881181241@lid",
+        "text": "Santiago,Rio Grande do Sul",
+        "pushName": "Bruno Aguiar",
+        "timestamp": 1787859370269
+      },
+      "ACEA9BA7873FE031758CB0974621E4DA": {
+        "sender": "53537388122141@lid",
+        "text": "👀👀",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787859380200
       }
     },
     "120363428464897153@g.us": {
@@ -179327,7 +179357,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787859340669,
+    "120363432018531082@g.us": 1787859380200,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787859082635,
