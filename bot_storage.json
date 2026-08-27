@@ -33,9 +33,9 @@
         "total": 4979
       },
       "179040627490824": {
-        "text": 416,
+        "text": 417,
         "media": 80,
-        "total": 496
+        "total": 497
       },
       "145381035905262": {
         "text": 2152,
@@ -128,9 +128,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 1961,
+        "text": 1962,
         "media": 251,
-        "total": 2212
+        "total": 2213
       },
       "252922705240205": {
         "text": 80,
@@ -9004,7 +9004,9 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): @all",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Gênero Musical favoritos: Mpb, rock, sertanejo e pagode\nRespondam meu povo @all",
         "gigi✨ (60851868446964): Todos",
-        "Milena B. Costa (233161007071346): Feliz aniversário 🌻🌻🌻"
+        "Milena B. Costa (233161007071346): Feliz aniversário 🌻🌻🌻",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Eclética a gata",
+        "Baby (179040627490824): acustico"
       ]
     },
     "120363428464897153@g.us": {
@@ -15157,17 +15159,23 @@
         "authorName": "Milena B. Costa",
         "text": "Feliz aniversário 🌻🌻🌻",
         "timestamp": 1787830186962
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Eclética a gata",
+        "timestamp": 1787830195522
+      },
+      {
+        "authorNum": "179040627490824",
+        "authorName": "Baby",
+        "text": "acustico",
+        "timestamp": 1787830198896
       }
     ],
     "120363428464897153@g.us": [],
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Bom dia adms 🫡",
-        "timestamp": 1787828295221
-      },
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
@@ -15235,7 +15243,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19740,
+    "120363432018531082@g.us": 19742,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1466,
@@ -127907,6 +127915,18 @@
         "text": "Feliz aniversário 🌻🌻🌻",
         "pushName": "Milena B. Costa",
         "timestamp": 1787830186963
+      },
+      "AC161DC175D08B395787565B5C5DAACB": {
+        "sender": "53537388122141@lid",
+        "text": "Eclética a gata",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787830195522
+      },
+      "3EB09F438CB17E873CA563": {
+        "sender": "179040627490824@lid",
+        "text": "acustico",
+        "pushName": "Baby",
+        "timestamp": 1787830198897
       }
     },
     "120363428464897153@g.us": {
@@ -175568,7 +175588,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787830186962,
+    "120363432018531082@g.us": 1787830198896,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787829200713,
