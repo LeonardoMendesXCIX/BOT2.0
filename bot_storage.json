@@ -2626,9 +2626,9 @@
         "total": 61
       },
       "172868239380659": {
-        "text": 61,
+        "text": 62,
         "media": 10,
-        "total": 71
+        "total": 72
       },
       "170455038193841": {
         "text": 1,
@@ -9154,7 +9154,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tô só de 👀👀👀",
         "Gleydson Souza (274384656834700): Gente 14 foi de arrasta kkkkk. F",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): 👆🏻 não e que caixinha tava certa kkkkkkkkk",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Esse olho aí amiga e perigoso viu 🔪",
@@ -9653,7 +9652,8 @@
         "Gabriel (145381035905262): Nada contra",
         "Dany (262182034002040): Medo",
         "Dany (262182034002040): Justo",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Mostra ai"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Mostra ai",
+        "Pedro Henrique (172868239380659): Sabe muito"
       ]
     },
     "120363428464897153@g.us": {
@@ -16053,6 +16053,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Mostra ai",
         "timestamp": 1787873153838
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Sabe muito",
+        "timestamp": 1787873168171
       }
     ],
     "120363428464897153@g.us": [],
@@ -16204,7 +16210,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20789,
+    "120363432018531082@g.us": 20790,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1650,
@@ -135097,6 +135103,12 @@
         "text": "Mostra ai",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787873153838
+      },
+      "ACB11B23EAEC8FAFF1F04209E85BCC97": {
+        "sender": "172868239380659@lid",
+        "text": "Sabe muito",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787873168171
       }
     },
     "120363428464897153@g.us": {
@@ -183888,7 +183900,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787873153838,
+    "120363432018531082@g.us": 1787873168171,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787872451366,
