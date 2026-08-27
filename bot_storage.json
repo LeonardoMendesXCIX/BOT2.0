@@ -29,13 +29,13 @@
       },
       "81991328395336": {
         "text": 3768,
-        "media": 1262,
-        "total": 5030
+        "media": 1264,
+        "total": 5032
       },
       "179040627490824": {
-        "text": 427,
+        "text": 428,
         "media": 89,
-        "total": 516
+        "total": 517
       },
       "145381035905262": {
         "text": 2152,
@@ -253,9 +253,9 @@
         "total": 3
       },
       "60851868446964": {
-        "text": 1235,
+        "text": 1237,
         "media": 1433,
-        "total": 2668
+        "total": 2670
       },
       "270377049690114": {
         "text": 36,
@@ -2453,9 +2453,9 @@
         "total": 5
       },
       "190864487919667": {
-        "text": 11,
+        "text": 14,
         "media": 4,
-        "total": 15
+        "total": 18
       },
       "82227819987089": {
         "text": 1,
@@ -9268,7 +9268,13 @@
         "Souza (190864487919667): Necessito de chuva",
         "Souza (190864487919667): 25° com sensação de 31° aqui",
         "Baby (179040627490824): Oloko ksksks",
-        "Souza (190864487919667): Brasília, bem vindo ao forno"
+        "Souza (190864487919667): Brasília, bem vindo ao forno",
+        "Baby (179040627490824): Eu já tô Acostumado ksks",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Aqui",
+        "Souza (190864487919667): Já lavei, como um bom dono de casa",
+        "gigi✨ (60851868446964): Marxista",
+        "Souza (190864487919667): Ave Maria",
+        "gigi✨ (60851868446964): Aqui tá 27"
       ]
     },
     "120363428464897153@g.us": {
@@ -15336,18 +15342,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Lugar dos meus sonhos 😮‍💨",
-        "timestamp": 1787844865961
-      },
-      {
-        "authorNum": "129158944415753",
-        "authorName": "massagista tântrico",
-        "text": "Bora de massagem meu povo",
-        "timestamp": 1787844880247
-      },
-      {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Muito bem",
@@ -16018,6 +16012,42 @@
         "authorName": "Souza",
         "text": "Brasília, bem vindo ao forno",
         "timestamp": 1787846651520
+      },
+      {
+        "authorNum": "179040627490824",
+        "authorName": "Baby",
+        "text": "Eu já tô Acostumado ksks",
+        "timestamp": 1787846668830
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Aqui",
+        "timestamp": 1787846679470
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Já lavei, como um bom dono de casa",
+        "timestamp": 1787846687611
+      },
+      {
+        "authorNum": "60851868446964",
+        "authorName": "gigi✨",
+        "text": "Marxista",
+        "timestamp": 1787846691836
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Ave Maria",
+        "timestamp": 1787846692656
+      },
+      {
+        "authorNum": "60851868446964",
+        "authorName": "gigi✨",
+        "text": "Aqui tá 27",
+        "timestamp": 1787846700068
       }
     ],
     "120363428464897153@g.us": [],
@@ -16035,7 +16065,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19939,
+    "120363432018531082@g.us": 19945,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -129883,6 +129913,42 @@
         "text": "Brasília, bem vindo ao forno",
         "pushName": "Souza",
         "timestamp": 1787846651520
+      },
+      "ACCF19766A65F509645CFA125C2C8805": {
+        "sender": "179040627490824@lid",
+        "text": "Eu já tô Acostumado ksks",
+        "pushName": "Baby",
+        "timestamp": 1787846668830
+      },
+      "AC4675EF99D375C534E94CCCBCEBA9D5": {
+        "sender": "81991328395336@lid",
+        "text": "Aqui",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787846679470
+      },
+      "AC6B810F89270FE02BCB5369DA87BE87": {
+        "sender": "190864487919667@lid",
+        "text": "Já lavei, como um bom dono de casa",
+        "pushName": "Souza",
+        "timestamp": 1787846687612
+      },
+      "AC09D13934C90D85A395729D4E7ABD4A": {
+        "sender": "60851868446964@lid",
+        "text": "Marxista",
+        "pushName": "gigi✨",
+        "timestamp": 1787846691837
+      },
+      "AC5038BC0A90C40CA04FAE41AEAD6BB4": {
+        "sender": "190864487919667@lid",
+        "text": "Ave Maria",
+        "pushName": "Souza",
+        "timestamp": 1787846692657
+      },
+      "AC10670333C10019560441DF2C651B0D": {
+        "sender": "60851868446964@lid",
+        "text": "Aqui tá 27",
+        "pushName": "gigi✨",
+        "timestamp": 1787846700069
       }
     },
     "120363428464897153@g.us": {
@@ -177634,7 +177700,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787846656531,
+    "120363432018531082@g.us": 1787846700068,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
