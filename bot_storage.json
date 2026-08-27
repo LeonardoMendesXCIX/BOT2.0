@@ -103,9 +103,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1409,
+        "text": 1411,
         "media": 1070,
-        "total": 2479
+        "total": 2481
       },
       "3126803329115": {
         "text": 87,
@@ -1868,9 +1868,9 @@
         "total": 6
       },
       "129158944415753": {
-        "text": 30,
+        "text": 31,
         "media": 2,
-        "total": 32
+        "total": 33
       },
       "276003205152992": {
         "text": 5,
@@ -9179,7 +9179,10 @@
         "massagista tântrico (129158944415753): Sim sei sim",
         "Rafael Moura (57707230945348): Aproveita que passagem pro Rj não é cara",
         "Rafael Moura (57707230945348): Voltar aqui pro meu inferno que me colocaram hj, quem sabe mais tarde fico livre 🤣",
-        "Rafael Moura (57707230945348): E bem vindo a quem entrou"
+        "Rafael Moura (57707230945348): E bem vindo a quem entrou",
+        "Camila Designer (92629643563147): Onde você mora no Rio @129158944415753",
+        "massagista tântrico (129158944415753): Copacabana",
+        "Camila Designer (92629643563147): Vai me hospedar?"
       ]
     },
     "120363428464897153@g.us": {
@@ -15527,6 +15530,24 @@
         "authorName": "Rafael Moura",
         "text": "E bem vindo a quem entrou",
         "timestamp": 1787845282809
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Onde você mora no Rio @129158944415753",
+        "timestamp": 1787845295628
+      },
+      {
+        "authorNum": "129158944415753",
+        "authorName": "massagista tântrico",
+        "text": "Copacabana",
+        "timestamp": 1787845321341
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Vai me hospedar?",
+        "timestamp": 1787845338186
       }
     ],
     "120363428464897153@g.us": [],
@@ -15623,7 +15644,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19860,
+    "120363432018531082@g.us": 19863,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -128997,6 +129018,24 @@
         "text": "E bem vindo a quem entrou",
         "pushName": "Rafael Moura",
         "timestamp": 1787845282809
+      },
+      "2A6AE68730F62675DDEB": {
+        "sender": "92629643563147@lid",
+        "text": "Onde você mora no Rio @129158944415753",
+        "pushName": "Camila Designer",
+        "timestamp": 1787845295628
+      },
+      "A5A8A78F844AC38F479781B8875D960C": {
+        "sender": "129158944415753@lid",
+        "text": "Copacabana",
+        "pushName": "massagista tântrico",
+        "timestamp": 1787845321341
+      },
+      "2A3D1DAB9489557D44C1": {
+        "sender": "92629643563147@lid",
+        "text": "Vai me hospedar?",
+        "pushName": "Camila Designer",
+        "timestamp": 1787845338186
       }
     },
     "120363428464897153@g.us": {
@@ -176748,7 +176787,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787845282809,
+    "120363432018531082@g.us": 1787845338186,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
