@@ -1353,9 +1353,9 @@
         "total": 157
       },
       "266048007835881": {
-        "text": 554,
+        "text": 556,
         "media": 255,
-        "total": 809
+        "total": 811
       },
       "123120354635955": {
         "text": 4,
@@ -2493,9 +2493,9 @@
         "total": 14
       },
       "85264194134079": {
-        "text": 1,
+        "text": 2,
         "media": 1,
-        "total": 2
+        "total": 3
       }
     },
     "120363428464897153@g.us": {
@@ -9434,7 +9434,9 @@
         "Neto prime (238233849983072): Eu tu não chama né @266048007835881",
         "Neto prime (238233849983072): Rummm",
         "jefersonjgs25 (85264194134079): Obrigado",
-        "🎀  Ň𝐘ηａ🐆 (266048007835881): Corretor do caraio"
+        "🎀  Ň𝐘ηａ🐆 (266048007835881): Corretor do caraio",
+        "🎀  Ň𝐘ηａ🐆 (266048007835881): Samambaia sul",
+        "jefersonjgs25 (85264194134079): Alguém aqui de Pernambuco?"
       ]
     },
     "120363428464897153@g.us": {
@@ -15879,6 +15881,18 @@
         "authorName": "🎀  Ň𝐘ηａ🐆",
         "text": "Corretor do caraio",
         "timestamp": 1787856864939
+      },
+      {
+        "authorNum": "266048007835881",
+        "authorName": "🎀  Ň𝐘ηａ🐆",
+        "text": "Samambaia sul",
+        "timestamp": 1787856908243
+      },
+      {
+        "authorNum": "85264194134079",
+        "authorName": "jefersonjgs25",
+        "text": "Alguém aqui de Pernambuco?",
+        "timestamp": 1787856909253
       }
     ],
     "120363428464897153@g.us": [],
@@ -15903,7 +15917,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20070,
+    "120363432018531082@g.us": 20072,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -130532,6 +130546,18 @@
         "text": "Corretor do caraio",
         "pushName": "🎀  Ň𝐘ηａ🐆",
         "timestamp": 1787856864939
+      },
+      "ACA5FF6C7B73439F40BC7FB4A2DB8601": {
+        "sender": "266048007835881@lid",
+        "text": "Samambaia sul",
+        "pushName": "🎀  Ň𝐘ηａ🐆",
+        "timestamp": 1787856908243
+      },
+      "AC3E033F8679A13C472334359ADFC4E2": {
+        "sender": "85264194134079@lid",
+        "text": "Alguém aqui de Pernambuco?",
+        "pushName": "jefersonjgs25",
+        "timestamp": 1787856909253
       }
     },
     "120363428464897153@g.us": {
@@ -178289,7 +178315,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787856879825,
+    "120363432018531082@g.us": 1787856909253,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
