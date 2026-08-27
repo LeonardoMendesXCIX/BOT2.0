@@ -241,9 +241,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2076,
+        "text": 2077,
         "media": 274,
-        "total": 2350
+        "total": 2351
       },
       "252922705240205": {
         "text": 80,
@@ -1466,9 +1466,9 @@
         "total": 157
       },
       "266048007835881": {
-        "text": 589,
+        "text": 590,
         "media": 273,
-        "total": 862
+        "total": 863
       },
       "123120354635955": {
         "text": 4,
@@ -2561,9 +2561,9 @@
         "total": 2
       },
       "11171897864256": {
-        "text": 7,
+        "text": 9,
         "media": 1,
-        "total": 8
+        "total": 10
       },
       "190864487919667": {
         "text": 68,
@@ -9114,9 +9114,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Massagem virtual",
-        "massagista tântrico (129158944415753): Venha fazer sua. Massagem bb",
-        "massagista tântrico (129158944415753): Rssd",
         "Camila Designer (92629643563147): Como dizia minha mãe, querer não é poder!🥺",
         "massagista tântrico (129158944415753): Terá brinde especial pra vc hoje rss",
         "Camila Designer (92629643563147): Se o brinde for você eu pego um jatinho agora 😏😏😏",
@@ -9613,7 +9610,10 @@
         "🙃🙃🙃 (11171897864256): Ola",
         "🙃🙃🙃 (11171897864256): Povo",
         "🙃🙃🙃 (11171897864256): Boa tarde",
-        "Gleydson Souza (274384656834700): Boa"
+        "Gleydson Souza (274384656834700): Boa",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Boa tarde",
+        "🙃🙃🙃 (11171897864256): Tranquilo",
+        "🙃🙃🙃 (11171897864256): Tranquilo?"
       ]
     },
     "120363428464897153@g.us": {
@@ -15728,18 +15728,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Já quero é ir embora",
-        "timestamp": 1787861665815
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Acho que já inventa um bolo",
-        "timestamp": 1787861695256
-      },
-      {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Nam, grupo vai continuar normal\nFicaram inativos pq queriam",
@@ -16014,17 +16002,29 @@
         "authorName": "Gleydson Souza",
         "text": "Boa",
         "timestamp": 1787863462161
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Boa tarde",
+        "timestamp": 1787863502191
+      },
+      {
+        "authorNum": "11171897864256",
+        "authorName": "🙃🙃🙃",
+        "text": "Tranquilo",
+        "timestamp": 1787863511731
+      },
+      {
+        "authorNum": "11171897864256",
+        "authorName": "🙃🙃🙃",
+        "text": "Tranquilo?",
+        "timestamp": 1787863518274
       }
     ],
     "120363428464897153@g.us": [],
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Alguém explica?",
-        "timestamp": 1787861646643
-      },
       {
         "authorNum": "145381035905262",
         "authorName": "Gabriel",
@@ -16080,7 +16080,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20328,
+    "120363432018531082@g.us": 20331,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1523,
@@ -132227,6 +132227,24 @@
         "text": "Boa",
         "pushName": "Gleydson Souza",
         "timestamp": 1787863462161
+      },
+      "AC2AF099E08599040728A43C3C9424CB": {
+        "sender": "53537388122141@lid",
+        "text": "Boa tarde",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787863502191
+      },
+      "AC3E049EEC001F8A5AF6E566F08A703F": {
+        "sender": "11171897864256@lid",
+        "text": "Tranquilo",
+        "pushName": "🙃🙃🙃",
+        "timestamp": 1787863511731
+      },
+      "AC6F50805DD29792302E3D74B0871282": {
+        "sender": "11171897864256@lid",
+        "text": "Tranquilo?",
+        "pushName": "🙃🙃🙃",
+        "timestamp": 1787863518274
       }
     },
     "120363428464897153@g.us": {
@@ -180242,7 +180260,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787863462161,
+    "120363432018531082@g.us": 1787863518274,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787863417074,
