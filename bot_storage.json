@@ -2586,9 +2586,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 362,
-        "media": 66,
-        "total": 428
+        "text": 363,
+        "media": 67,
+        "total": 430
       },
       "120363428464897153": {
         "text": 11,
@@ -2761,9 +2761,9 @@
         "total": 9
       },
       "129373172711439": {
-        "text": 848,
+        "text": 850,
         "media": 203,
-        "total": 1051
+        "total": 1053
       },
       "16007578021977": {
         "text": 50,
@@ -3001,9 +3001,9 @@
         "total": 15
       },
       "120044990287992": {
-        "text": 150,
+        "text": 152,
         "media": 6,
-        "total": 156
+        "total": 158
       },
       "71120413843690": {
         "text": 2,
@@ -12124,10 +12124,6 @@
         "Leandro (+55 (11) 92701-8683): Mais tarde, quando o kbaré abrir, tu se apresenta @66743926038604"
       ],
       "26/08/2026": [
-        "Vini 👑🏁🙌⚽ (270377049690114): Ah Melhoras aí",
-        "Vini 👑🏁🙌⚽ (270377049690114): 🙌🏻🙌🏻",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Obgd",
-        "Vini 👑🏁🙌⚽ (270377049690114): Dnda",
         "Vini 👑🏁🙌⚽ (270377049690114): KBARÉ ABERTO JÁ 😳👀🔥",
         "Camila Designer (92629643563147): Bora homens, mostrem seus peitorais!",
         "Camila Designer (92629643563147): Mas estamos melhor @81991328395336 ?",
@@ -12623,7 +12619,11 @@
         "Camila Designer (92629643563147): Nosso Kabaré está formando casais agora, acabou a putaria 🤣🤣🤣🤣",
         "Leandro (+55 (11) 92701-8683): Aí vai acabar com o empreendimento @81991328395336",
         "negoh🐻 (120044990287992): Nam a putaria continua",
-        "Neto prime (238233849983072): Kkkkkk"
+        "Neto prime (238233849983072): Kkkkkk",
+        "Celiete Souza (129373172711439): Amo o chaves, se tiver mais eu quero 🤣",
+        "negoh🐻 (120044990287992): Vc conhece o Putin?",
+        "negoh🐻 (120044990287992): O Putin sou eu",
+        "Leandro (+55 (11) 92701-8683): Só o presidente da Rússia"
       ]
     },
     "120363409727467494@g.us": {
@@ -14845,12 +14845,6 @@
     ],
     "120363428464897153@g.us": [
       {
-        "authorNum": "266048007835881",
-        "authorName": "🎀  Ň𝐘ηａ🐆",
-        "text": "Olha isso kkkkk",
-        "timestamp": 1787796835523
-      },
-      {
         "authorNum": "238233849983072",
         "authorName": "Neto prime",
         "text": "Lindão",
@@ -15131,6 +15125,30 @@
         "authorName": "Neto prime",
         "text": "Kkkkkk",
         "timestamp": 1787798617865
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Amo o chaves, se tiver mais eu quero 🤣",
+        "timestamp": 1787798625450
+      },
+      {
+        "authorNum": "120044990287992",
+        "authorName": "negoh🐻",
+        "text": "Vc conhece o Putin?",
+        "timestamp": 1787798637216
+      },
+      {
+        "authorNum": "120044990287992",
+        "authorName": "negoh🐻",
+        "text": "O Putin sou eu",
+        "timestamp": 1787798647442
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Só o presidente da Rússia",
+        "timestamp": 1787798647918
       }
     ],
     "120363409727467494@g.us": [],
@@ -15196,7 +15214,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 19609,
-    "120363428464897153@g.us": 5828,
+    "120363428464897153@g.us": 5832,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1433,
     "120363411233423709@g.us": 5,
@@ -161236,6 +161254,30 @@
         "text": "Kkkkkk",
         "pushName": "Neto prime",
         "timestamp": 1787798617865
+      },
+      "AC238B7CCE29A5CB8A00895C93EC9727": {
+        "sender": "129373172711439@lid",
+        "text": "Amo o chaves, se tiver mais eu quero 🤣",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787798625450
+      },
+      "AC3A6D468DBF97DF2CD0676842E18908": {
+        "sender": "120044990287992@lid",
+        "text": "Vc conhece o Putin?",
+        "pushName": "negoh🐻",
+        "timestamp": 1787798637216
+      },
+      "ACC9BD2C04D247ACE2DCE267511B1968": {
+        "sender": "120044990287992@lid",
+        "text": "O Putin sou eu",
+        "pushName": "negoh🐻",
+        "timestamp": 1787798647442
+      },
+      "A5176D5906F4E29267C2D59714DBA79F": {
+        "sender": "54259127210155@lid",
+        "text": "Só o presidente da Rússia",
+        "pushName": "Leandro",
+        "timestamp": 1787798647918
       }
     },
     "120363409727467494@g.us": {
@@ -173233,7 +173275,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787798461001,
-    "120363428464897153@g.us": 1787798618026,
+    "120363428464897153@g.us": 1787798651559,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787797187001,
     "120363411233423709@g.us": 1787113553426,
