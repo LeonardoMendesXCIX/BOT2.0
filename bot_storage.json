@@ -2626,9 +2626,9 @@
         "total": 52
       },
       "172868239380659": {
-        "text": 54,
+        "text": 55,
         "media": 10,
-        "total": 64
+        "total": 65
       },
       "170455038193841": {
         "text": 1,
@@ -9149,7 +9149,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @53537388122141",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Obrigada o elogiooooo 🤌🏻",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Fazer dar certo só mais essa vez? Vish, quem foi que mandou? 👀\nIdentifique se no Pv 👀",
         "Juliano Perlin (222595437858867): Pronto",
@@ -9648,7 +9647,8 @@
         "Gleydson Souza (274384656834700): Boa noite",
         "Gleydson Souza (274384656834700): Lasanha",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Poxa, eu quero 😒",
-        "Gleydson Souza (274384656834700): Vou guardar 1 pedaço pra vc aqui"
+        "Gleydson Souza (274384656834700): Vou guardar 1 pedaço pra vc aqui",
+        "Pedro Henrique (172868239380659): Strogonoff"
       ]
     },
     "120363428464897153@g.us": {
@@ -16504,6 +16504,12 @@
         "authorName": "Gleydson Souza",
         "text": "Vou guardar 1 pedaço pra vc aqui",
         "timestamp": 1787870381900
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Strogonoff",
+        "timestamp": 1787870399013
       }
     ],
     "120363428464897153@g.us": [],
@@ -16949,7 +16955,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20731,
+    "120363432018531082@g.us": 20732,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1614,
@@ -135494,6 +135500,12 @@
         "text": "Vou guardar 1 pedaço pra vc aqui",
         "pushName": "Gleydson Souza",
         "timestamp": 1787870381901
+      },
+      "ACA1E7245AEA49D56FAAFE0DC33E3476": {
+        "sender": "172868239380659@lid",
+        "text": "Strogonoff",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787870399013
       }
     },
     "120363428464897153@g.us": {
@@ -184069,7 +184081,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787870381900,
+    "120363432018531082@g.us": 1787870399013,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787870194929,
