@@ -241,9 +241,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2086,
+        "text": 2088,
         "media": 275,
-        "total": 2361
+        "total": 2363
       },
       "252922705240205": {
         "text": 80,
@@ -2626,9 +2626,9 @@
         "total": 17
       },
       "172868239380659": {
-        "text": 10,
+        "text": 11,
         "media": 4,
-        "total": 14
+        "total": 15
       },
       "170455038193841": {
         "text": 1,
@@ -3278,8 +3278,8 @@
       },
       "145381035905262": {
         "text": 334,
-        "media": 115,
-        "total": 449
+        "media": 116,
+        "total": 450
       },
       "53537388122141": {
         "text": 580,
@@ -9114,9 +9114,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Camila Designer (92629643563147): Vai me hospedar?",
-        "massagista tântrico (129158944415753): Claro",
-        "massagista tântrico (129158944415753): Convidada de honra",
         "massagista tântrico (129158944415753): Ainda te mando passagem aerea",
         "Camila Designer (92629643563147): Preciso voltar viva pra casa, tenho uma filha de 8 anos 🤣🤣🤣",
         "massagista tântrico (129158944415753): Te farei uma deliciosa massagem",
@@ -9613,7 +9610,10 @@
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Se tu quer chamar atenção de algum homem Aki não vai ser com essa infantilidade e esses posicionamento não...",
         "Pedro Henrique (172868239380659): Briga, briga",
         "Pedro Henrique (172868239380659): Briga por estado diferente, gostei",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Mas gente... quem falou que eu tava afim dele, foi você 😂"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Mas gente... quem falou que eu tava afim dele, foi você 😂",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): E eu que sou infantil",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Me erra",
+        "Pedro Henrique (172868239380659): DDD 48 é santa Catarina?"
       ]
     },
     "120363428464897153@g.us": {
@@ -15738,18 +15738,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "187097969348735",
-        "authorName": "Jonathan Bráulio",
-        "text": "Eu tô quase chegando nesse nível",
-        "timestamp": 1787862411506
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Mulher, eu quero é paz pra minha vida",
-        "timestamp": 1787862459159
-      },
-      {
         "authorNum": "266048007835881",
         "authorName": "🎀  Ň𝐘ηａ🐆",
         "text": "Relaxa ..... Eu gosto de prioridade O que é de todo mundo não me interessa não🫶🏻",
@@ -16078,6 +16066,24 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Mas gente... quem falou que eu tava afim dele, foi você 😂",
         "timestamp": 1787864208213
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "E eu que sou infantil",
+        "timestamp": 1787864235018
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Me erra",
+        "timestamp": 1787864239199
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "DDD 48 é santa Catarina?",
+        "timestamp": 1787864268888
       }
     ],
     "120363428464897153@g.us": [],
@@ -16192,7 +16198,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20362,
+    "120363432018531082@g.us": 20365,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1533,
@@ -132543,6 +132549,24 @@
         "text": "Mas gente... quem falou que eu tava afim dele, foi você 😂",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787864208214
+      },
+      "AC1D49DBBDAC6974CCDCC7227E9BDBC5": {
+        "sender": "53537388122141@lid",
+        "text": "E eu que sou infantil",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787864235018
+      },
+      "ACE2964C21A9C12906E371D3AAA0140A": {
+        "sender": "53537388122141@lid",
+        "text": "Me erra",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787864239199
+      },
+      "AC87D587071129C50C91CF8D733C8618": {
+        "sender": "172868239380659@lid",
+        "text": "DDD 48 é santa Catarina?",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787864268890
       }
     },
     "120363428464897153@g.us": {
@@ -180618,10 +180642,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787864223243,
+    "120363432018531082@g.us": 1787864268888,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787864224744,
+    "120363412288900422@g.us": 1787864229044,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
