@@ -103,9 +103,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1399,
+        "text": 1401,
         "media": 1060,
-        "total": 2459
+        "total": 2461
       },
       "3126803329115": {
         "text": 87,
@@ -2073,9 +2073,9 @@
         "total": 91
       },
       "155503636275307": {
-        "text": 61,
+        "text": 62,
         "media": 22,
-        "total": 83
+        "total": 84
       },
       "67035866357875": {
         "text": 84,
@@ -9130,7 +9130,9 @@
         "🙃🙃🙃 (11171897864256): Obg",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Bem vindos",
         "Clayton 🇳🇬 (155503636275307): Bora almoçar meu povo lindo",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Ainda tou preparando"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Ainda tou preparando",
+        "Camila Designer (92629643563147): Eu também",
+        "Clayton 🇳🇬 (155503636275307): Oque vai ter de bom"
       ]
     },
     "120363428464897153@g.us": {
@@ -15250,6 +15252,18 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Ainda tou preparando",
         "timestamp": 1787844117418
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Eu também",
+        "timestamp": 1787844376242
+      },
+      {
+        "authorNum": "155503636275307",
+        "authorName": "Clayton 🇳🇬",
+        "text": "Oque vai ter de bom",
+        "timestamp": 1787844378744
       }
     ],
     "120363428464897153@g.us": [],
@@ -15346,7 +15360,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19816,
+    "120363432018531082@g.us": 19818,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -128455,6 +128469,18 @@
         "text": "Ainda tou preparando",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787844117418
+      },
+      "2AED07781EC9AE3653D4": {
+        "sender": "92629643563147@lid",
+        "text": "Eu também",
+        "pushName": "Camila Designer",
+        "timestamp": 1787844376242
+      },
+      "ACE9012C4EAC58198DED26E27B482A0B": {
+        "sender": "155503636275307@lid",
+        "text": "Oque vai ter de bom",
+        "pushName": "Clayton 🇳🇬",
+        "timestamp": 1787844378744
       }
     },
     "120363428464897153@g.us": {
@@ -176206,7 +176232,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787844122794,
+    "120363432018531082@g.us": 1787844378744,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
