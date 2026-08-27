@@ -2453,9 +2453,9 @@
         "total": 5
       },
       "190864487919667": {
-        "text": 49,
+        "text": 50,
         "media": 13,
-        "total": 62
+        "total": 63
       },
       "82227819987089": {
         "text": 2,
@@ -3154,9 +3154,9 @@
         "total": 439
       },
       "53537388122141": {
-        "text": 554,
+        "text": 556,
         "media": 40,
-        "total": 594
+        "total": 596
       },
       "120363412288900422": {
         "text": 1,
@@ -8986,7 +8986,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Juliano Perlin (222595437858867): Bom dia fofa😘",
         "Juliano Perlin (222595437858867): Bom dia..boas melhoras🥰",
         "gigi✨ (60851868446964): Vdd",
         "gigi✨ (60851868446964): Brigada 🩷",
@@ -9485,7 +9484,8 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @92629643563147",
         " (120363432018531082): @92629643563147",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Então",
-        "Bruno Aguiar (+1395881181241): Esperança é a última que morre 😂😂😂"
+        "Bruno Aguiar (+1395881181241): Esperança é a última que morre 😂😂😂",
+        "Souza (190864487919667): Se eu não te conhecesse tão bem"
       ]
     },
     "120363428464897153@g.us": {
@@ -15113,7 +15113,8 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): 😂😂😂",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Puta que o pariu",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bicha feia da porra",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Vei pooooodi"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Vei pooooodi",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): O que ela querm"
       ]
     },
     "120363411233423709@g.us": {
@@ -15573,36 +15574,6 @@
   },
   "memoryCluster": {
     "120363432018531082@g.us": [
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Reconheço de looonge",
-        "timestamp": 1787858127329
-      },
-      {
-        "authorNum": "188845719089205",
-        "authorName": "Camila Viana",
-        "text": "Obrigada 🙃💜",
-        "timestamp": 1787858136300
-      },
-      {
-        "authorNum": "111506477846600",
-        "authorName": "'   MƲRIԼԼƠ  🥶",
-        "text": "Oloco, de longe kkkkk",
-        "timestamp": 1787858138500
-      },
-      {
-        "authorNum": "111506477846600",
-        "authorName": "'   MƲRIԼԼƠ  🥶",
-        "text": "N sei pq",
-        "timestamp": 1787858141937
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Tá vendo?",
-        "timestamp": 1787858145565
-      },
       {
         "authorNum": "111506477846600",
         "authorName": "'   MƲRIԼԼƠ  🥶",
@@ -16106,6 +16077,12 @@
         "authorName": "Bruno Aguiar",
         "text": "Esperança é a última que morre 😂😂😂",
         "timestamp": 1787859898931
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Se eu não te conhecesse tão bem",
+        "timestamp": 1787859975794
       }
     ],
     "120363428464897153@g.us": [],
@@ -16212,6 +16189,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Vei pooooodi",
         "timestamp": 1787859941852
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "O que ela querm",
+        "timestamp": 1787859971965
       }
     ],
     "120363411233423709@g.us": [],
@@ -16226,10 +16209,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20210,
+    "120363432018531082@g.us": 20211,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1499,
+    "120363412288900422@g.us": 1500,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 18,
@@ -131677,6 +131660,12 @@
         "text": "Esperança é a última que morre 😂😂😂",
         "pushName": "Bruno Aguiar",
         "timestamp": 1787859898931
+      },
+      "ACFD2FD21B2FB90F5CB8F01FC19839C5": {
+        "sender": "190864487919667@lid",
+        "text": "Se eu não te conhecesse tão bem",
+        "pushName": "Souza",
+        "timestamp": 1787859975795
       }
     },
     "120363428464897153@g.us": {
@@ -177007,6 +176996,12 @@
         "text": "Vei pooooodi",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787859941852
+      },
+      "ACB69BDC3D3F92D476225FBA329B6B9D": {
+        "sender": "53537388122141@lid",
+        "text": "O que ela querm",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787859971965
       }
     },
     "120363411233423709@g.us": {
@@ -179536,10 +179531,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787859961082,
+    "120363432018531082@g.us": 1787859975794,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787859941852,
+    "120363412288900422@g.us": 1787859975917,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
