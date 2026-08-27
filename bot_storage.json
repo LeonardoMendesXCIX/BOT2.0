@@ -2721,9 +2721,9 @@
         "total": 1
       },
       "92629643563147": {
-        "text": 493,
-        "media": 299,
-        "total": 792
+        "text": 494,
+        "media": 300,
+        "total": 794
       },
       "122552932372575": {
         "text": 0,
@@ -2926,9 +2926,9 @@
         "total": 1
       },
       "266048007835881": {
-        "text": 96,
+        "text": 98,
         "media": 48,
-        "total": 144
+        "total": 146
       },
       "123120354635955": {
         "text": 1,
@@ -2951,9 +2951,9 @@
         "total": 15
       },
       "238233849983072": {
-        "text": 51,
+        "text": 52,
         "media": 5,
-        "total": 56
+        "total": 57
       },
       "43173162270816": {
         "text": 1,
@@ -3001,9 +3001,9 @@
         "total": 15
       },
       "120044990287992": {
-        "text": 116,
+        "text": 119,
         "media": 6,
-        "total": 122
+        "total": 125
       },
       "71120413843690": {
         "text": 2,
@@ -12119,12 +12119,6 @@
         "Leandro (+55 (11) 92701-8683): Mais tarde, quando o kbaré abrir, tu se apresenta @66743926038604"
       ],
       "26/08/2026": [
-        "Leandro (+55 (11) 92701-8683): Boa noite e bem vindos novatos! @all",
-        "Camila Designer (92629643563147): @81991328395336 como o Kabaré ficou assim kkk",
-        ". (242841813000328): TBM",
-        "x_x (246729295282232): Boa noite",
-        "x_x (246729295282232): Oiê",
-        "Jose (+1645576491019): Agora vcs tem representar !!",
         "gigi✨ (60851868446964): Só mais tarde",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Meus clientes tão a todo vapor",
         "Camila Designer (92629643563147): Mas só você não rola ué kkk",
@@ -12618,7 +12612,13 @@
         "Neto prime (238233849983072): Realmente tem muito chão kkkkk",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Tem que me achar linda até feia ...",
         "negoh🐻 (120044990287992): Eu q fui pra sp atrás do amor da minha vida",
-        "negoh🐻 (120044990287992): Vivi 2 anos com ela"
+        "negoh🐻 (120044990287992): Vivi 2 anos com ela",
+        "negoh🐻 (120044990287992): Vacilei e vim embora",
+        "Camila Designer (92629643563147): Conte mais",
+        "Neto prime (238233849983072): Livramento dela kkkkk",
+        "negoh🐻 (120044990287992): O pior vacilo",
+        "negoh🐻 (120044990287992): Uma besteira",
+        "🎀  Ň𝐘ηａ🐆 (266048007835881): Eu tbm vivi um amor inesquecível... Onde conheci no Facebook fui casada por 10 anos tive um filho lindo"
       ]
     },
     "120363409727467494@g.us": {
@@ -15350,6 +15350,42 @@
         "authorName": "negoh🐻",
         "text": "Vivi 2 anos com ela",
         "timestamp": 1787795438405
+      },
+      {
+        "authorNum": "120044990287992",
+        "authorName": "negoh🐻",
+        "text": "Vacilei e vim embora",
+        "timestamp": 1787795445789
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Conte mais",
+        "timestamp": 1787795458889
+      },
+      {
+        "authorNum": "238233849983072",
+        "authorName": "Neto prime",
+        "text": "Livramento dela kkkkk",
+        "timestamp": 1787795467970
+      },
+      {
+        "authorNum": "120044990287992",
+        "authorName": "negoh🐻",
+        "text": "O pior vacilo",
+        "timestamp": 1787795468976
+      },
+      {
+        "authorNum": "120044990287992",
+        "authorName": "negoh🐻",
+        "text": "Uma besteira",
+        "timestamp": 1787795479342
+      },
+      {
+        "authorNum": "266048007835881",
+        "authorName": "🎀  Ň𝐘ηａ🐆",
+        "text": "Eu tbm vivi um amor inesquecível... Onde conheci no Facebook fui casada por 10 anos tive um filho lindo",
+        "timestamp": 1787795480823
       }
     ],
     "120363409727467494@g.us": [],
@@ -15403,7 +15439,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 19575,
-    "120363428464897153@g.us": 5670,
+    "120363428464897153@g.us": 5676,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1422,
     "120363411233423709@g.us": 5,
@@ -160333,6 +160369,42 @@
         "text": "Vivi 2 anos com ela",
         "pushName": "negoh🐻",
         "timestamp": 1787795438405
+      },
+      "AC350E5B7C95BC2CAC1F99E77C2FDFB5": {
+        "sender": "120044990287992@lid",
+        "text": "Vacilei e vim embora",
+        "pushName": "negoh🐻",
+        "timestamp": 1787795445789
+      },
+      "2AB7ACB1D4FBFDF16DF2": {
+        "sender": "92629643563147@lid",
+        "text": "Conte mais",
+        "pushName": "Camila Designer",
+        "timestamp": 1787795458889
+      },
+      "2A2CD37B10ACAFF0DE40": {
+        "sender": "238233849983072@lid",
+        "text": "Livramento dela kkkkk",
+        "pushName": "Neto prime",
+        "timestamp": 1787795467971
+      },
+      "AC91708631E1B9F5AF58CC39429DAA53": {
+        "sender": "120044990287992@lid",
+        "text": "O pior vacilo",
+        "pushName": "negoh🐻",
+        "timestamp": 1787795468976
+      },
+      "AC7CE0E3324C1FEF966195BC7E02452D": {
+        "sender": "120044990287992@lid",
+        "text": "Uma besteira",
+        "pushName": "negoh🐻",
+        "timestamp": 1787795479342
+      },
+      "ACF1727459BF843DAD6021157ADC1A0D": {
+        "sender": "266048007835881@lid",
+        "text": "Eu tbm vivi um amor inesquecível... Onde conheci no Facebook fui casada por 10 anos tive um filho lindo",
+        "pushName": "🎀  Ň𝐘ηａ🐆",
+        "timestamp": 1787795480823
       }
     },
     "120363409727467494@g.us": {
@@ -172270,7 +172342,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787794981779,
-    "120363428464897153@g.us": 1787795438405,
+    "120363428464897153@g.us": 1787795486057,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787793125283,
     "120363411233423709@g.us": 1787113553426,
