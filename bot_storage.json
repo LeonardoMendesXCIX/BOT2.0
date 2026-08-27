@@ -3522,9 +3522,9 @@
     },
     "120363409024805409@g.us": {
       "179040627490824": {
-        "text": 1,
-        "media": 2,
-        "total": 3
+        "text": 2,
+        "media": 3,
+        "total": 5
       },
       "5511927018683": {
         "text": 5,
@@ -3532,9 +3532,9 @@
         "total": 7
       },
       "30486281900223": {
-        "text": 0,
+        "text": 1,
         "media": 1,
-        "total": 1
+        "total": 2
       }
     }
   },
@@ -14943,7 +14943,9 @@
       "27/08/2026": [
         "Baby (179040627490824): ???",
         "Leandro (+55 (11) 92701-8683): Já entendeu o foco do grupo 🫡",
-        "Leandro (+55 (11) 92701-8683): !sa 🫶🏻 Seja bem-vindo(a)!*\n\n✨ Sinta-se à vontade para interagir e trocar figurinhas!\n\n❌ *PROIBIDO A INVASÃO DE PRIVADO, SEM AUTORIZAÇÃO* ❌\n\n{membro}"
+        "Leandro (+55 (11) 92701-8683): !sa 🫶🏻 Seja bem-vindo(a)!*\n\n✨ Sinta-se à vontade para interagir e trocar figurinhas!\n\n❌ *PROIBIDO A INVASÃO DE PRIVADO, SEM AUTORIZAÇÃO* ❌\n\n{membro}",
+        "Baby (179040627490824): comecou o bot ja",
+        "th (30486281900223): alguma novinha p fazer um seqxu"
       ]
     }
   },
@@ -14980,6 +14982,18 @@
         "authorName": "Leandro",
         "text": "!sa 🫶🏻 Seja bem-vindo(a)!*\n\n✨ Sinta-se à vontade para interagir e trocar figurinhas!\n\n❌ *PROIBIDO A INVASÃO DE PRIVADO, SEM AUTORIZAÇÃO* ❌\n\n{membro}",
         "timestamp": 1787808705919
+      },
+      {
+        "authorNum": "179040627490824",
+        "authorName": "Baby",
+        "text": "comecou o bot ja",
+        "timestamp": 1787808829054
+      },
+      {
+        "authorNum": "30486281900223",
+        "authorName": "th",
+        "text": "alguma novinha p fazer um seqxu",
+        "timestamp": 1787808857068
       }
     ]
   },
@@ -14997,7 +15011,7 @@
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 17,
-    "120363409024805409@g.us": 3
+    "120363409024805409@g.us": 5
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -174243,6 +174257,18 @@
         "text": "Já entendeu o foco do grupo 🫡",
         "pushName": "Leandro",
         "timestamp": 1787808385070
+      },
+      "3EB056E1894BC5625A5FC1": {
+        "sender": "179040627490824@lid",
+        "text": "comecou o bot ja",
+        "pushName": "Baby",
+        "timestamp": 1787808829055
+      },
+      "3A622571802DA0CC5C96": {
+        "sender": "30486281900223@lid",
+        "text": "alguma novinha p fazer um seqxu",
+        "pushName": "th",
+        "timestamp": 1787808857068
       }
     }
   },
@@ -174336,7 +174362,7 @@
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1787803320850,
-    "120363409024805409@g.us": 1787808722957
+    "120363409024805409@g.us": 1787808857068
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
