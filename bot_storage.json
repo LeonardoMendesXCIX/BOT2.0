@@ -404,9 +404,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1618,
+        "text": 1619,
         "media": 319,
-        "total": 1937
+        "total": 1938
       },
       "252600633041077": {
         "text": 1,
@@ -2505,8 +2505,8 @@
       },
       "30486281900223": {
         "text": 0,
-        "media": 1,
-        "total": 1
+        "media": 2,
+        "total": 2
       }
     },
     "120363428464897153@g.us": {
@@ -8950,7 +8950,8 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): O Max tá aqui \nOu o bot tá doido?",
         "Leandro (+55 (11) 92701-8683): Tá não",
         "Leandro (+55 (11) 92701-8683): Ele só contou na métrica",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Moço ou moça se apresentem"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Moço ou moça se apresentem",
+        "Leandro (+55 (11) 92701-8683): Boa noite/madrugada, se apresenta para nós!"
       ]
     },
     "120363428464897153@g.us": {
@@ -15000,6 +15001,12 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Moço ou moça se apresentem",
         "timestamp": 1787804099892
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Boa noite/madrugada, se apresenta para nós!",
+        "timestamp": 1787804315745
       }
     ],
     "120363428464897153@g.us": [
@@ -15156,7 +15163,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19632,
+    "120363432018531082@g.us": 19633,
     "120363428464897153@g.us": 5990,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1454,
@@ -127187,6 +127194,12 @@
         "text": "Moço ou moça se apresentem",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787804099892
+      },
+      "A5A0DA3B474ABE3FF8B1AC8F77BC95D6": {
+        "sender": "54259127210155@lid",
+        "text": "Boa noite/madrugada, se apresenta para nós!",
+        "pushName": "Leandro",
+        "timestamp": 1787804315745
       }
     },
     "120363428464897153@g.us": {
@@ -174453,7 +174466,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787804099892,
+    "120363432018531082@g.us": 1787804315745,
     "120363428464897153@g.us": 1787803264071,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787801643008,
