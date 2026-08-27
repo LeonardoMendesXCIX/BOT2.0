@@ -138,9 +138,9 @@
         "total": 99
       },
       "233161007071346": {
-        "text": 395,
+        "text": 396,
         "media": 45,
-        "total": 440
+        "total": 441
       },
       "262182034002040": {
         "text": 1840,
@@ -1354,8 +1354,8 @@
       },
       "266048007835881": {
         "text": 543,
-        "media": 252,
-        "total": 795
+        "media": 253,
+        "total": 796
       },
       "123120354635955": {
         "text": 4,
@@ -2473,9 +2473,9 @@
         "total": 1
       },
       "238233849983072": {
-        "text": 15,
+        "text": 16,
         "media": 0,
-        "total": 15
+        "total": 16
       },
       "75797868064796": {
         "text": 3,
@@ -9403,7 +9403,9 @@
         "Camila Viana (188845719089205): Bar do Omar",
         "Neto prime (238233849983072): Vou agora pra Brasília … vida aí é caro as coisas @266048007835881 kkkkkk",
         "Camila Viana (188845719089205): Bafo do Prainha",
-        "Alexandre Bastos (75797868064796): Muito bom la"
+        "Alexandre Bastos (75797868064796): Muito bom la",
+        "Neto prime (238233849983072): Acabou meu dinheiro  lá no quintalzinho kkkkk  acho que é lá no posto 3",
+        "Milena B. Costa (233161007071346): Boa tarde, gentee"
       ]
     },
     "120363428464897153@g.us": {
@@ -15692,6 +15694,18 @@
         "authorName": "Alexandre Bastos",
         "text": "Muito bom la",
         "timestamp": 1787856349522
+      },
+      {
+        "authorNum": "238233849983072",
+        "authorName": "Neto prime",
+        "text": "Acabou meu dinheiro  lá no quintalzinho kkkkk  acho que é lá no posto 3",
+        "timestamp": 1787856428935
+      },
+      {
+        "authorNum": "233161007071346",
+        "authorName": "Milena B. Costa",
+        "text": "Boa tarde, gentee",
+        "timestamp": 1787856438193
       }
     ],
     "120363428464897153@g.us": [],
@@ -15716,7 +15730,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20044,
+    "120363432018531082@g.us": 20046,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -130195,6 +130209,18 @@
         "text": "Muito bom la",
         "pushName": "Alexandre Bastos",
         "timestamp": 1787856349522
+      },
+      "2AA2F0D2AEBE9C91E376": {
+        "sender": "238233849983072@lid",
+        "text": "Acabou meu dinheiro  lá no quintalzinho kkkkk  acho que é lá no posto 3",
+        "pushName": "Neto prime",
+        "timestamp": 1787856428935
+      },
+      "3EB073A28C86D2E23EB00C": {
+        "sender": "233161007071346@lid",
+        "text": "Boa tarde, gentee",
+        "pushName": "Milena B. Costa",
+        "timestamp": 1787856438193
       }
     },
     "120363428464897153@g.us": {
@@ -177952,7 +177978,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787856374031,
+    "120363432018531082@g.us": 1787856438193,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
