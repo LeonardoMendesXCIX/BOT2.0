@@ -128,9 +128,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 1955,
+        "text": 1956,
         "media": 249,
-        "total": 2204
+        "total": 2205
       },
       "252922705240205": {
         "text": 80,
@@ -253,9 +253,9 @@
         "total": 3
       },
       "60851868446964": {
-        "text": 1216,
+        "text": 1217,
         "media": 1413,
-        "total": 2629
+        "total": 2630
       },
       "270377049690114": {
         "text": 36,
@@ -1653,9 +1653,9 @@
         "total": 1
       },
       "175655757050100": {
-        "text": 47,
+        "text": 48,
         "media": 3,
-        "total": 50
+        "total": 51
       },
       "243229014368421": {
         "text": 2,
@@ -8946,7 +8946,9 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Precisa ir no médico",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bom dia",
         "Baby (179040627490824): e controlado vou hj ainda se der tempo",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Isso"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Isso",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Toma qual?",
+        "gigi✨ (60851868446964): Toma chá de maracujá é muito bom"
       ]
     },
     "120363428464897153@g.us": {
@@ -15191,6 +15193,18 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Isso",
         "timestamp": 1787825861841
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Toma qual?",
+        "timestamp": 1787825870169
+      },
+      {
+        "authorNum": "60851868446964",
+        "authorName": "gigi✨",
+        "text": "Toma chá de maracujá é muito bom",
+        "timestamp": 1787825894004
       }
     ],
     "120363428464897153@g.us": [],
@@ -15208,7 +15222,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19687,
+    "120363432018531082@g.us": 19689,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1456,
@@ -127560,6 +127574,18 @@
         "text": "Isso",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787825861841
+      },
+      "AC112FD290FD7FD45167E75382A2FE2B": {
+        "sender": "53537388122141@lid",
+        "text": "Toma qual?",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787825870169
+      },
+      "AC06827699F664AD74C50868251057A3": {
+        "sender": "60851868446964@lid",
+        "text": "Toma chá de maracujá é muito bom",
+        "pushName": "gigi✨",
+        "timestamp": 1787825894004
       }
     },
     "120363428464897153@g.us": {
@@ -175161,7 +175187,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787825861841,
+    "120363432018531082@g.us": 1787825905211,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787814068637,
