@@ -244,9 +244,9 @@
         "total": 434
       },
       "262182034002040": {
-        "text": 1817,
+        "text": 1818,
         "media": 115,
-        "total": 1932
+        "total": 1933
       },
       "219245581488326": {
         "text": 4,
@@ -2721,9 +2721,9 @@
         "total": 1
       },
       "92629643563147": {
-        "text": 464,
+        "text": 465,
         "media": 263,
-        "total": 727
+        "total": 728
       },
       "122552932372575": {
         "text": 0,
@@ -2761,9 +2761,9 @@
         "total": 9
       },
       "129373172711439": {
-        "text": 798,
-        "media": 185,
-        "total": 983
+        "text": 799,
+        "media": 186,
+        "total": 985
       },
       "16007578021977": {
         "text": 50,
@@ -2951,9 +2951,9 @@
         "total": 15
       },
       "238233849983072": {
-        "text": 4,
+        "text": 6,
         "media": 1,
-        "total": 5
+        "total": 7
       },
       "43173162270816": {
         "text": 1,
@@ -12099,10 +12099,6 @@
         "Leandro (+55 (11) 92701-8683): Mais tarde, quando o kbaré abrir, tu se apresenta @66743926038604"
       ],
       "26/08/2026": [
-        "Celiete Souza (129373172711439): Parece que tá tirando da vaca 🧐",
-        "Henrique (66743926038604): Otario",
-        "gigi✨ (60851868446964): Ah",
-        "Celiete Souza (129373172711439): Não vou abrir",
         "Juliano Perlin (222595437858867): Bem q vc faz",
         "Vini 👑🏁🙌⚽ (270377049690114): Que diacho é isso",
         "Celiete Souza (129373172711439): Garanto que não kkkkkkk",
@@ -12598,7 +12594,11 @@
         "Camila Designer (92629643563147): Bem vindo!",
         "Neto prime (238233849983072): Obrigado 😊",
         "negoh🐻 (120044990287992): Tu vai enfartar",
-        "🎀  Ň𝐘ηａ🐆 (266048007835881): Sou ótima pra fazer amizade 🥹"
+        "🎀  Ň𝐘ηａ🐆 (266048007835881): Sou ótima pra fazer amizade 🥹",
+        "Camila Designer (92629643563147): @238233849983072 a apresentação aqui no Kabaré é diferenciada, você tem que se apresentar com foto do seu peitoral 😌",
+        "Celiete Souza (129373172711439): Concordo",
+        "Neto prime (238233849983072): Kkkkk sério ?",
+        "Neto prime (238233849983072): Kkkm"
       ]
     },
     "120363409727467494@g.us": {
@@ -15522,6 +15522,30 @@
         "authorName": "🎀  Ň𝐘ηａ🐆",
         "text": "Sou ótima pra fazer amizade 🥹",
         "timestamp": 1787792962544
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "@238233849983072 a apresentação aqui no Kabaré é diferenciada, você tem que se apresentar com foto do seu peitoral 😌",
+        "timestamp": 1787792966814
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Concordo",
+        "timestamp": 1787792978372
+      },
+      {
+        "authorNum": "238233849983072",
+        "authorName": "Neto prime",
+        "text": "Kkkkk sério ?",
+        "timestamp": 1787792981036
+      },
+      {
+        "authorNum": "238233849983072",
+        "authorName": "Neto prime",
+        "text": "Kkkm",
+        "timestamp": 1787792982700
       }
     ],
     "120363409727467494@g.us": [],
@@ -15737,7 +15761,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 19550,
-    "120363428464897153@g.us": 5521,
+    "120363428464897153@g.us": 5525,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1422,
     "120363411233423709@g.us": 5,
@@ -159631,6 +159655,30 @@
         "text": "Sou ótima pra fazer amizade 🥹",
         "pushName": "🎀  Ň𝐘ηａ🐆",
         "timestamp": 1787792962544
+      },
+      "2A497C9AB064A8760EFD": {
+        "sender": "92629643563147@lid",
+        "text": "@238233849983072 a apresentação aqui no Kabaré é diferenciada, você tem que se apresentar com foto do seu peitoral 😌",
+        "pushName": "Camila Designer",
+        "timestamp": 1787792966814
+      },
+      "AC3325787D02645A7D8C1E22E62F7262": {
+        "sender": "129373172711439@lid",
+        "text": "Concordo",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787792978372
+      },
+      "2AA8B80796D1CEA13164": {
+        "sender": "238233849983072@lid",
+        "text": "Kkkkk sério ?",
+        "pushName": "Neto prime",
+        "timestamp": 1787792981036
+      },
+      "2A87346FAE20CB01BC33": {
+        "sender": "238233849983072@lid",
+        "text": "Kkkm",
+        "pushName": "Neto prime",
+        "timestamp": 1787792982700
       }
     },
     "120363409727467494@g.us": {
@@ -171531,8 +171579,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787792896337,
-    "120363428464897153@g.us": 1787792962544,
+    "120363432018531082@g.us": 1787792968058,
+    "120363428464897153@g.us": 1787792984906,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787792796914,
     "120363411233423709@g.us": 1787113553426,
