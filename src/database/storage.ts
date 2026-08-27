@@ -11,9 +11,9 @@ export interface ClusterMessage {
 }
 
 export interface PromoSchedule {
-    startTime: string; // Ex: "20:00"
-    endTime: string;   // Ex: "21:00"
-    content: string;   // Texto/link da divulgação
+    startTime: string;
+    endTime: string;
+    content: string;
     setBy: string;
     active: boolean;
 }
@@ -53,6 +53,8 @@ export interface BotStorage {
     pendingPresentations: Array<{ id: string; chatId: string; memberId: string; memberNum: string; memberName: string; deadline: number }>;
     groupSchedules: Record<string, { openTime?: string; closeTime?: string }>;
     exitMsgs: Record<string, { text: string; setBy?: string; date?: string }>;
+    // NOVO: mensagens personalizadas de remoção por admin (!msgradm)
+    removalMsgs: Record<string, { text: string; setBy?: string; date?: string }>;
     inativosMsgs: Record<string, { text: string; setBy?: string; date?: string }>;
     antilink: Record<string, boolean>;
     antifake: Record<string, boolean>;
@@ -101,6 +103,7 @@ export class StorageManager {
             pendingPresentations: [],
             groupSchedules: {},
             exitMsgs: {},
+            removalMsgs: {},
             inativosMsgs: {},
             antilink: {},
             antifake: {},
@@ -263,11 +266,12 @@ export class StorageManager {
         this.flagSave();
     }
 
+    // CORREÇÃO: Advertências SEM auto-ban - a remoção é decisão exclusiva dos administradores
     public async applyWarning(
-        sock: WASocket, 
-        chatId: string, 
-        targetJid: string, 
-        reason: string, 
+        sock: WASocket,
+        chatId: string,
+        targetJid: string,
+        reason: string,
         limitDefault: number = 2
     ): Promise<void> {
         const targetNum = targetJid.split('@')[0].split(':')[0].replace(/\D/g, '');
@@ -280,28 +284,12 @@ export class StorageManager {
         const currentWarns = this.data.warnings[chatId][targetNum];
         this.flagSave();
 
-        if (currentWarns >= limit) {
-            try {
-                await sock.groupParticipantsUpdate(chatId, [targetInfo.jid], 'remove');
-                delete this.data.warnings[chatId][targetNum];
-                this.flagSave();
-
-                await sock.sendMessage(chatId, {
-                    text: `🛡️ *JARVIS SECURITY (AUTO-BAN):*\n\nO integrante ${targetInfo.mentionTag} (*${targetInfo.pushName}*) atingiu o limite de ${currentWarns}/${limit} advertências e foi removido do grupo.\n📱 *Número:* ${targetInfo.formattedNum}\n📝 *Última infração:* ${reason}`,
-                    mentions: [targetInfo.jid]
-                });
-                return;
-            } catch (err: any) {
-                console.error('[ERRO AUTO-BAN]', err.message);
-            }
-        }
-
         await sock.sendMessage(chatId, {
             text: `⚠️ *ADVERTÊNCIA REGISTRADA (${currentWarns}/${limit})*\n\n` +
-                  `👤 *Membro:* ${targetInfo.mentionTag} (*${targetInfo.pushName}*)\n` +
-                  `📱 *Número:* ${targetInfo.formattedNum}\n` +
-                  `📝 *Motivo:* ${reason}\n\n` +
-                  `_Jarvis Alerta: Ao atingir ${limit} advertências, o protocolo de remoção automática será acionado._`,
+                `👤 *Membro:* ${targetInfo.mentionTag} (*${targetInfo.pushName}*)\n` +
+                `📱 *Número:* ${targetInfo.formattedNum}\n` +
+                `📝 *Motivo:* ${reason}\n\n` +
+                `_Advertência registrada no sistema. A decisão de remover um integrante é exclusiva dos administradores do grupo._`,
             mentions: [targetInfo.jid]
         });
     }
