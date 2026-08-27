@@ -241,9 +241,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2175,
+        "text": 2176,
         "media": 285,
-        "total": 2460
+        "total": 2461
       },
       "252922705240205": {
         "text": 80,
@@ -9154,7 +9154,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): E eu que sou infantil",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Me erra",
         "Pedro Henrique (172868239380659): DDD 48 é santa Catarina?",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Sim, sou de Florianópolis",
@@ -9653,7 +9652,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Da não",
         "Pedro Henrique (172868239380659): Manda a localização",
         "Dany (262182034002040): Aqui vai ficar mais sol no FDS",
-        "Dany (262182034002040): Amém"
+        "Dany (262182034002040): Amém",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Queria"
       ]
     },
     "120363428464897153@g.us": {
@@ -16395,6 +16395,12 @@
         "authorName": "Dany",
         "text": "Amém",
         "timestamp": 1787874389970
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Queria",
+        "timestamp": 1787874435746
       }
     ],
     "120363428464897153@g.us": [],
@@ -16522,7 +16528,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20862,
+    "120363432018531082@g.us": 20863,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1668,
@@ -135847,6 +135853,12 @@
         "text": "Amém",
         "pushName": "Dany",
         "timestamp": 1787874389970
+      },
+      "ACC286C1809FEA7D9EDBD6803D5E5160": {
+        "sender": "53537388122141@lid",
+        "text": "Queria",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787874435746
       }
     },
     "120363428464897153@g.us": {
@@ -184746,7 +184758,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787874389970,
+    "120363432018531082@g.us": 1787874435746,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787874348235,
