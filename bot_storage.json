@@ -128,9 +128,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2037,
+        "text": 2040,
         "media": 268,
-        "total": 2305
+        "total": 2308
       },
       "252922705240205": {
         "text": 80,
@@ -1713,9 +1713,9 @@
         "total": 6
       },
       "1395881181241": {
-        "text": 107,
+        "text": 108,
         "media": 4,
-        "total": 111
+        "total": 112
       },
       "198595546501333": {
         "text": 2,
@@ -2453,9 +2453,9 @@
         "total": 5
       },
       "190864487919667": {
-        "text": 47,
+        "text": 49,
         "media": 12,
-        "total": 59
+        "total": 61
       },
       "82227819987089": {
         "text": 2,
@@ -3150,8 +3150,8 @@
       },
       "145381035905262": {
         "text": 326,
-        "media": 112,
-        "total": 438
+        "media": 113,
+        "total": 439
       },
       "53537388122141": {
         "text": 551,
@@ -3160,8 +3160,8 @@
       },
       "120363412288900422": {
         "text": 1,
-        "media": 0,
-        "total": 1
+        "media": 1,
+        "total": 2
       }
     },
     "120363411233423709@g.us": {
@@ -8986,8 +8986,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "gigi✨ (60851868446964): Brigada",
-        "Baby (179040627490824): complicado",
         "Juliano Perlin (222595437858867): Bom dia fofa😘",
         "Juliano Perlin (222595437858867): Bom dia..boas melhoras🥰",
         "gigi✨ (60851868446964): Vdd",
@@ -9485,7 +9483,9 @@
         "Souza (190864487919667): Também quero saber",
         "Bruno Aguiar (+1395881181241): Pois é kkk",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @92629643563147",
-        " (120363432018531082): @92629643563147"
+        " (120363432018531082): @92629643563147",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Então",
+        "Bruno Aguiar (+1395881181241): Esperança é a última que morre 😂😂😂"
       ]
     },
     "120363428464897153@g.us": {
@@ -15107,7 +15107,9 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): TA DOOOOOOIDO",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): EU QUERO PAAAAAAAZ",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Na cabeça deles tu entrou pra vigiar o Jeferson",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Mas enfie Jeferson também e rode"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Mas enfie Jeferson também e rode",
+        "Gabriel (145381035905262): Olha a praga que aparece",
+        " (120363412288900422): Olha a praga que aparece"
       ]
     },
     "120363411233423709@g.us": {
@@ -15567,12 +15569,6 @@
   },
   "memoryCluster": {
     "120363432018531082@g.us": [
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "@188845719089205",
-        "timestamp": 1787858096514
-      },
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
@@ -16094,6 +16090,18 @@
         "authorName": "",
         "text": "@92629643563147",
         "timestamp": 1787859886666
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Então",
+        "timestamp": 1787859895684
+      },
+      {
+        "authorNum": "1395881181241",
+        "authorName": "Bruno Aguiar",
+        "text": "Esperança é a última que morre 😂😂😂",
+        "timestamp": 1787859898931
       }
     ],
     "120363428464897153@g.us": [],
@@ -16164,6 +16172,18 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Mas enfie Jeferson também e rode",
         "timestamp": 1787859082635
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Olha a praga que aparece",
+        "timestamp": 1787859897583
+      },
+      {
+        "authorNum": "120363412288900422",
+        "authorName": "",
+        "text": "Olha a praga que aparece",
+        "timestamp": 1787859897868
       }
     ],
     "120363411233423709@g.us": [],
@@ -16178,10 +16198,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20208,
+    "120363432018531082@g.us": 20210,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1493,
+    "120363412288900422@g.us": 1495,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 18,
@@ -16226,7 +16246,6 @@
       "60851868446964@lid",
       "54284745990320@lid",
       "129373172711439@lid",
-      "176321510539493@lid",
       "120044990287992@lid",
       "219881320521868@lid",
       "131997934600240@lid",
@@ -131618,6 +131637,18 @@
         "text": "@92629643563147",
         "pushName": "",
         "timestamp": 1787859886666
+      },
+      "ACDD2FEBEDD05DF967199DDAD9BC1F06": {
+        "sender": "53537388122141@lid",
+        "text": "Então",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787859895684
+      },
+      "AC05B1FB3DD7FECCFF620403D50B09E3": {
+        "sender": "1395881181241@lid",
+        "text": "Esperança é a última que morre 😂😂😂",
+        "pushName": "Bruno Aguiar",
+        "timestamp": 1787859898931
       }
     },
     "120363428464897153@g.us": {
@@ -176918,6 +176949,12 @@
         "text": "Mas enfie Jeferson também e rode",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787859082635
+      },
+      "ACA92C8EA6EE9FA695D861A9F1C01922": {
+        "sender": "120363412288900422@g.us",
+        "text": "Olha a praga que aparece",
+        "pushName": "",
+        "timestamp": 1787859897868
       }
     },
     "120363411233423709@g.us": {
@@ -179447,10 +179484,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787859888288,
+    "120363432018531082@g.us": 1787859915248,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787859082635,
+    "120363412288900422@g.us": 1787859897868,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
