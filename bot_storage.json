@@ -334,9 +334,9 @@
         "total": 434
       },
       "222595437858867": {
-        "text": 462,
+        "text": 463,
         "media": 50,
-        "total": 512
+        "total": 513
       },
       "83280154103884": {
         "text": 36,
@@ -3140,9 +3140,9 @@
         "total": 463
       },
       "5511927018683": {
-        "text": 409,
+        "text": 411,
         "media": 74,
-        "total": 483
+        "total": 485
       },
       "145381035905262": {
         "text": 320,
@@ -8413,7 +8413,6 @@
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Cai  de paraquedas Aki e já descobri meio mundo de coisas kkkkkk"
       ],
       "26/08/2026": [
-        "Dany (262182034002040): Eu também prefiro, mas não tinha a opção 🫠",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Kkkk",
         "Celiete Souza (129373172711439): Vai doce mesmo né kkk",
         "Gabriel Ohi (90130358485223): Eu gosto de café doce kkkkk igual eu",
@@ -8912,7 +8911,8 @@
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Já vim assim de fábrica 🐅",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Sem sal e tu cão",
         "Caroline (118395236282617): Lindo demais",
-        "Lailson Nathan. (272048228188398): Acho que você não tomou seu remédio kkk"
+        "Lailson Nathan. (272048228188398): Acho que você não tomou seu remédio kkk",
+        "Juliano Perlin (222595437858867): Uma criança falando kkkkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -14325,7 +14325,9 @@
         "Leandro (+55 (11) 92701-8683): !status",
         "Leandro (+55 (11) 92701-8683): Corrigido! ✅",
         "Gabriel (145381035905262): Você é o cara",
-        "Leandro (+55 (11) 92701-8683): Só conheço ele 😎👉🏼👉🏼"
+        "Leandro (+55 (11) 92701-8683): Só conheço ele 😎👉🏼👉🏼",
+        "Leandro (+55 (11) 92701-8683): !botmusica off",
+        "Leandro (+55 (11) 92701-8683): !botmusica on"
       ]
     },
     "120363411233423709@g.us": {
@@ -14718,18 +14720,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "É comida agora?? Eu vi o que vocês não viram, e que continuem sem ver 🤭😏",
-        "timestamp": 1787794830832
-      },
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "@81991328395336  quando quer comida e tá demorando",
-        "timestamp": 1787794944870
-      },
-      {
         "authorNum": "240716089413724",
         "authorName": "Wagner Cabral",
         "text": "Essa tem até tatuagem de sobrenatural",
@@ -14818,6 +14808,12 @@
         "authorName": "Lailson Nathan.",
         "text": "Acho que você não tomou seu remédio kkk",
         "timestamp": 1787796625967
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Uma criança falando kkkkk",
+        "timestamp": 1787796749898
       }
     ],
     "120363428464897153@g.us": [
@@ -15717,6 +15713,18 @@
         "authorName": "Leandro",
         "text": "Só conheço ele 😎👉🏼👉🏼",
         "timestamp": 1787796676480
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!botmusica off",
+        "timestamp": 1787796731066
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!botmusica on",
+        "timestamp": 1787796740290
       }
     ],
     "120363411233423709@g.us": [],
@@ -15737,10 +15745,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19590,
+    "120363432018531082@g.us": 19591,
     "120363428464897153@g.us": 5780,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1427,
+    "120363412288900422@g.us": 1429,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 13
@@ -127522,6 +127530,12 @@
         "text": "Acho que você não tomou seu remédio kkk",
         "pushName": "Lailson Nathan.",
         "timestamp": 1787796625967
+      },
+      "ACD56656847CB3D2D302F198F7D2A5D0": {
+        "sender": "222595437858867@lid",
+        "text": "Uma criança falando kkkkk",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1787796749900
       }
     },
     "120363428464897153@g.us": {
@@ -171166,6 +171180,18 @@
         "text": "Só conheço ele 😎👉🏼👉🏼",
         "pushName": "Leandro",
         "timestamp": 1787796676480
+      },
+      "A530BD73750E9744F6CC483EBA1EF2B2": {
+        "sender": "54259127210155@lid",
+        "text": "!botmusica off",
+        "pushName": "Leandro",
+        "timestamp": 1787796731066
+      },
+      "A53D6D6DC4EDFD2E5081FAB15F7ED9A1": {
+        "sender": "54259127210155@lid",
+        "text": "!botmusica on",
+        "pushName": "Leandro",
+        "timestamp": 1787796740290
       }
     },
     "120363411233423709@g.us": {
@@ -173342,10 +173368,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787796670209,
+    "120363432018531082@g.us": 1787796749898,
     "120363428464897153@g.us": 1787796659409,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787796681993,
+    "120363412288900422@g.us": 1787796740290,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
