@@ -13,7 +13,6 @@ export function setupGroupEvents(sock: WASocket, storage: StorageManager): void 
 
             if (storage.isBotDisabled(chatId)) return;
 
-            // Aguarda 1.5 segundo para o WhatsApp sincronizar os metadados do novo integrante
             await new Promise(r => setTimeout(r, 1500));
 
             const groupMeta = await sock.groupMetadata(chatId).catch(() => null);
@@ -21,7 +20,6 @@ export function setupGroupEvents(sock: WASocket, storage: StorageManager): void 
                 updateLidMapping(groupMeta.participants);
             }
 
-            // Sincroniza o estado de grupo fechado com o status real do WhatsApp
             if (groupMeta) {
                 const isActuallyAnnouncement = groupMeta.announce === true;
                 if (isActuallyAnnouncement !== storage.isGroupClosed(chatId)) {
@@ -38,9 +36,9 @@ export function setupGroupEvents(sock: WASocket, storage: StorageManager): void 
                     let memberPushName = '';
 
                     if (groupMeta?.participants) {
-                        const found = groupMeta.participants.find(p => 
-                            p.id === newMemberId || 
-                            p.lid === newMemberId || 
+                        const found = groupMeta.participants.find(p =>
+                            p.id === newMemberId ||
+                            p.lid === newMemberId ||
                             p.id.split('@')[0] === newMemberId.split('@')[0] ||
                             (p.lid && p.lid.split('@')[0] === newMemberId.split('@')[0])
                         );
@@ -62,14 +60,13 @@ export function setupGroupEvents(sock: WASocket, storage: StorageManager): void 
                     const rawNum = extractRawNumber(realJid);
                     const memberInfo = getUserInfo(realJid, memberPushName);
 
-                    // Validação de número real brasileiro (+55, 12 ou 13 dígitos)
                     const isRealPhoneNumber = rawNum.length >= 10 && rawNum.length <= 13;
                     const isBrazilianPhone = rawNum.startsWith('55') && (rawNum.length === 12 || rawNum.length === 13);
-                    const isLidNumber = rawNum.length > 13; // Identificador interno LID criptográfico
+                    const isLidNumber = rawNum.length > 13;
 
-                    // A. Filtro Anti-Fake / DDI +55 (Remove números estrangeiros reais não-+55)
+                    // A. Filtro Anti-Fake / DDI +55
                     const isAntiFakeActive = storage.data.antifake?.[chatId] === true || (!storage.isFeatureDisabled(chatId, 'antifake') && storage.data.antifake?.[chatId] !== false);
-                    
+
                     if (isAntiFakeActive && isRealPhoneNumber && !isBrazilianPhone && !isLidNumber) {
                         try {
                             const botNum = sock.user?.id?.split(':')[0].replace(/\D/g, '') || '';
@@ -88,9 +85,9 @@ export function setupGroupEvents(sock: WASocket, storage: StorageManager): void 
 
                                 await sock.sendMessage(chatId, {
                                     text: `🛡️ *JARVIS SECURITY (ANTI-FAKE / DDI)* 🛡️\n\n` +
-                                          `👤 *Infrator:* ${displayName}\n` +
-                                          `📱 *Identificação:* ${ddiDisplay}\n` +
-                                          `📝 *Motivo:* Entrada bloqueada por possuir DDI estrangeiro não autorizado (apenas números do Brasil +55 são permitidos).`
+                                        `👤 *Infrator:* ${displayName}\n` +
+                                        `📱 *Identificação:* ${ddiDisplay}\n` +
+                                        `📝 *Motivo:* Entrada bloqueada por possuir DDI estrangeiro não autorizado (apenas números do Brasil +55 são permitidos).`
                                 });
                                 console.log(`[ANTI-FAKE] Número estrangeiro ${newMemberId} (+${rawNum}) removido do grupo ${chatId}.`);
                                 continue;
@@ -102,7 +99,7 @@ export function setupGroupEvents(sock: WASocket, storage: StorageManager): void 
                         }
                     }
 
-                    // B. Se o grupo estiver fechado para conversas no momento: guarda na fila para envio na reabertura
+                    // B. Grupo fechado: guarda na fila
                     const isGroupActuallyClosed = groupMeta?.announce === true || storage.isGroupClosed(chatId);
                     if (isGroupActuallyClosed) {
                         if (!storage.data.queuedWelcomes) storage.data.queuedWelcomes = {};
@@ -115,7 +112,7 @@ export function setupGroupEvents(sock: WASocket, storage: StorageManager): void 
                         continue;
                     }
 
-                    // C. Disparo Imediato da Saudação Automática (!sa) com formato 'Nome - +55...' no final
+                    // C. Saudação Automática (!sa)
                     if (!storage.isFeatureDisabled(chatId, 'sa')) {
                         const welcomeConfig = storage.data.welcomeMsgs ? storage.data.welcomeMsgs[chatId] : null;
                         const defaultWelcome = `Seja muito bem-vindo(a) ao grupo!`;
@@ -135,7 +132,6 @@ export function setupGroupEvents(sock: WASocket, storage: StorageManager): void 
                             processedText = processedText.replace(/\{numero\}/gi, memberInfo.formattedNum);
                         }
 
-                        // Garante que SEMPRE no final da mensagem personalizada puxe: Nome - +55...
                         let finalMsg = '';
                         if (processedText.includes(nameAndNum)) {
                             finalMsg = processedText;
@@ -148,7 +144,7 @@ export function setupGroupEvents(sock: WASocket, storage: StorageManager): void 
                         console.log(`[SAUDAÇÃO ENVIADA] Mensagem enviada para ${memberInfo.nameAndNumber} no grupo ${chatId}`);
                     }
 
-                    // D. Agendamento do Lembrete de Boas-Vindas (!bv - 15min)
+                    // D. Lembrete de Boas-Vindas (!bv - 15min)
                     if (!storage.isFeatureDisabled(chatId, 'bv')) {
                         const bvConfig = storage.data.welcomeReminders ? storage.data.welcomeReminders[chatId] : null;
                         if (bvConfig && bvConfig.text) {
@@ -194,8 +190,25 @@ export function setupGroupEvents(sock: WASocket, storage: StorageManager): void 
                     const allMentions = Array.from(new Set([memberInfo.jid, leftMemberId, realJid])).filter(Boolean);
 
                     if (isRemovedByAdmin) {
+                        // =====================================================================
+                        // NOVO: MENSAGEM DE REMOÇÃO PERSONALIZÁVEL (!msgradm)
+                        // Suporta os placeholders: {membro}, {nome}, {numero}
+                        // Se o admin não configurou, usa o padrão: "Xiii, acho que o integrante..."
+                        // =====================================================================
+                        const removalConfig = storage.data.removalMsgs ? storage.data.removalMsgs[chatId] : null;
+                        let finalMsg = '';
+
+                        if (removalConfig && removalConfig.text) {
+                            finalMsg = removalConfig.text
+                                .replace(/\{membro\}/gi, nameAndNum)
+                                .replace(/\{nome\}/gi, memberInfo.pushName || memberInfo.formattedNum)
+                                .replace(/\{numero\}/gi, memberInfo.formattedNum);
+                        } else {
+                            finalMsg = `Xiii, acho que o integrante ${nameAndNum} fez algo de errado, pois foi removido!`;
+                        }
+
                         await sock.sendMessage(chatId, {
-                            text: `Xiii, acho que o integrante ${nameAndNum} fez algo de errado, pois foi removido!`,
+                            text: finalMsg,
                             mentions: allMentions
                         });
                     } else if (!storage.isFeatureDisabled(chatId, 'exit') && !storage.isGroupClosed(chatId)) {
