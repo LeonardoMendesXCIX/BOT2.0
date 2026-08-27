@@ -139,9 +139,9 @@
         "total": 458
       },
       "145381035905262": {
-        "text": 2142,
+        "text": 2144,
         "media": 462,
-        "total": 2604
+        "total": 2606
       },
       "184237705699536": {
         "text": 524,
@@ -2656,9 +2656,9 @@
         "total": 23
       },
       "270377049690114": {
-        "text": 284,
+        "text": 285,
         "media": 49,
-        "total": 333
+        "total": 334
       },
       "76914341503187": {
         "text": 19,
@@ -2722,8 +2722,8 @@
       },
       "92629643563147": {
         "text": 489,
-        "media": 291,
-        "total": 780
+        "media": 293,
+        "total": 782
       },
       "122552932372575": {
         "text": 0,
@@ -2926,9 +2926,9 @@
         "total": 1
       },
       "266048007835881": {
-        "text": 88,
+        "text": 89,
         "media": 48,
-        "total": 136
+        "total": 137
       },
       "123120354635955": {
         "text": 1,
@@ -3001,9 +3001,9 @@
         "total": 15
       },
       "120044990287992": {
-        "text": 103,
+        "text": 104,
         "media": 5,
-        "total": 108
+        "total": 109
       },
       "71120413843690": {
         "text": 2,
@@ -8393,8 +8393,6 @@
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Cai  de paraquedas Aki e já descobri meio mundo de coisas kkkkkk"
       ],
       "26/08/2026": [
-        "Celiete Souza (129373172711439): Cafezinho após almoço rola?",
-        "Celiete Souza (129373172711439): Ou sou só eu?",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): O povo bota e pra lascar nessa caixinha kkk",
         "Camila Designer (92629643563147): Que susto amiga, li errado",
         "Celiete Souza (129373172711439): Tu não começa",
@@ -8892,7 +8890,9 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @92629643563147",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Sou nem tempero pra andar com sal criatura 🤌🏽",
         "Camila Designer (92629643563147): Se manifeste que vou avaliar essa possibilidade 🤣🤣🤣",
-        "Gabriel (145381035905262): Tão achando que tu é cozinheira"
+        "Gabriel (145381035905262): Tão achando que tu é cozinheira",
+        "Gabriel (145381035905262): Galera, estarei me afastando do grupo a partir de agora",
+        "Gabriel (145381035905262): Muito bom o papo, a resenha, as amizades"
       ]
     },
     "120363428464897153@g.us": {
@@ -12099,9 +12099,6 @@
         "Leandro (+55 (11) 92701-8683): Mais tarde, quando o kbaré abrir, tu se apresenta @66743926038604"
       ],
       "26/08/2026": [
-        "Celiete Souza (129373172711439): Também vou",
-        "DANIGXX (136408815665242): Partiu geral então rs",
-        "Camila Designer (92629643563147): Aqui está 20•",
         "gigi✨ (60851868446964): Aiai",
         "Vini 👑🏁🙌⚽ (270377049690114): Quem dorme banho um horário desse é maluco 🤣🤣🥶🥶",
         "Vini 👑🏁🙌⚽ (270377049690114): Tá maluco dar não",
@@ -12598,7 +12595,10 @@
         "Neto prime (238233849983072): Eu gordinho já ganhei pra muito sheipado kkkkkkk",
         "Vini 👑🏁🙌⚽ (270377049690114): Kkk",
         "Neto prime (238233849983072): Sem generalizar kkkkk",
-        "Vini 👑🏁🙌⚽ (270377049690114): É o Negócio é treinar e não comer muita besteira..."
+        "Vini 👑🏁🙌⚽ (270377049690114): É o Negócio é treinar e não comer muita besteira...",
+        "Vini 👑🏁🙌⚽ (270377049690114): Que Pega o Shape💪🏻🙏🏻",
+        "🎀  Ň𝐘ηａ🐆 (266048007835881): Uma atitude fala mais que mil palavras 😂😂😂😂",
+        "negoh🐻 (120044990287992): Meu é genética"
       ]
     },
     "120363409727467494@g.us": {
@@ -14788,21 +14788,21 @@
         "authorName": "Gabriel",
         "text": "Tão achando que tu é cozinheira",
         "timestamp": 1787794228295
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Galera, estarei me afastando do grupo a partir de agora",
+        "timestamp": 1787794514599
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Muito bom o papo, a resenha, as amizades",
+        "timestamp": 1787794528175
       }
     ],
     "120363428464897153@g.us": [
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "@1645576491019 qual sua idade?",
-        "timestamp": 1787792714920
-      },
-      {
-        "authorNum": "1645576491019",
-        "authorName": "Jose",
-        "text": "40",
-        "timestamp": 1787792722146
-      },
       {
         "authorNum": "120044990287992",
         "authorName": "negoh🐻",
@@ -15504,6 +15504,24 @@
         "authorName": "Vini 👑🏁🙌⚽",
         "text": "É o Negócio é treinar e não comer muita besteira...",
         "timestamp": 1787794505129
+      },
+      {
+        "authorNum": "270377049690114",
+        "authorName": "Vini 👑🏁🙌⚽",
+        "text": "Que Pega o Shape💪🏻🙏🏻",
+        "timestamp": 1787794518394
+      },
+      {
+        "authorNum": "266048007835881",
+        "authorName": "🎀  Ň𝐘ηａ🐆",
+        "text": "Uma atitude fala mais que mil palavras 😂😂😂😂",
+        "timestamp": 1787794524699
+      },
+      {
+        "authorNum": "120044990287992",
+        "authorName": "negoh🐻",
+        "text": "Meu é genética",
+        "timestamp": 1787794534170
       }
     ],
     "120363409727467494@g.us": [],
@@ -15538,8 +15556,8 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19567,
-    "120363428464897153@g.us": 5625,
+    "120363432018531082@g.us": 19569,
+    "120363428464897153@g.us": 5628,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1422,
     "120363411233423709@g.us": 5,
@@ -127191,6 +127209,18 @@
         "text": "Tão achando que tu é cozinheira",
         "pushName": "Gabriel",
         "timestamp": 1787794228295
+      },
+      "ACC4FE67FFFFD04D73FFE601BDEA6248": {
+        "sender": "145381035905262@lid",
+        "text": "Galera, estarei me afastando do grupo a partir de agora",
+        "pushName": "Gabriel",
+        "timestamp": 1787794514599
+      },
+      "AC659EC03D50A41E8FA619B00B8C721C": {
+        "sender": "145381035905262@lid",
+        "text": "Muito bom o papo, a resenha, as amizades",
+        "pushName": "Gabriel",
+        "timestamp": 1787794528175
       }
     },
     "120363428464897153@g.us": {
@@ -160151,6 +160181,24 @@
         "text": "É o Negócio é treinar e não comer muita besteira...",
         "pushName": "Vini 👑🏁🙌⚽",
         "timestamp": 1787794505129
+      },
+      "AC143D08F7300F628FD169031EAFBF19": {
+        "sender": "270377049690114@lid",
+        "text": "Que Pega o Shape💪🏻🙏🏻",
+        "pushName": "Vini 👑🏁🙌⚽",
+        "timestamp": 1787794518395
+      },
+      "AC822AFA93D436971064CD539A4E2702": {
+        "sender": "266048007835881@lid",
+        "text": "Uma atitude fala mais que mil palavras 😂😂😂😂",
+        "pushName": "🎀  Ň𝐘ηａ🐆",
+        "timestamp": 1787794524699
+      },
+      "AC917DE21E8A35436C10E3E5CA7E9663": {
+        "sender": "120044990287992@lid",
+        "text": "Meu é genética",
+        "pushName": "negoh🐻",
+        "timestamp": 1787794534170
       }
     },
     "120363409727467494@g.us": {
@@ -172051,8 +172099,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787794340486,
-    "120363428464897153@g.us": 1787794505129,
+    "120363432018531082@g.us": 1787794528175,
+    "120363428464897153@g.us": 1787794534170,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787793125283,
     "120363411233423709@g.us": 1787113553426,
