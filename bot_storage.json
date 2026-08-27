@@ -2517,8 +2517,8 @@
       },
       "81991328395336": {
         "text": 553,
-        "media": 156,
-        "total": 709
+        "media": 157,
+        "total": 710
       },
       "99338701258949": {
         "text": 499,
@@ -2721,9 +2721,9 @@
         "total": 1
       },
       "92629643563147": {
-        "text": 519,
-        "media": 335,
-        "total": 854
+        "text": 520,
+        "media": 336,
+        "total": 856
       },
       "122552932372575": {
         "text": 0,
@@ -2926,9 +2926,9 @@
         "total": 1
       },
       "266048007835881": {
-        "text": 161,
+        "text": 164,
         "media": 77,
-        "total": 238
+        "total": 241
       },
       "123120354635955": {
         "text": 1,
@@ -3454,9 +3454,9 @@
     },
     "120363411246936023@g.us": {
       "145381035905262": {
-        "text": 12,
+        "text": 13,
         "media": 1,
-        "total": 13
+        "total": 14
       },
       "53537388122141": {
         "text": 3,
@@ -12642,7 +12642,9 @@
         "Neto prime (238233849983072): Ta bom desisto",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Não guento essa figurinha não kkkkk",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): O meu empreendimento virou um vai dá namoro",
-        "Camila Designer (92629643563147): @266048007835881 você é o @238233849983072 vão ser somente amigos?"
+        "Camila Designer (92629643563147): @266048007835881 você é o @238233849983072 vão ser somente amigos?",
+        "🎀  Ň𝐘ηａ🐆 (266048007835881): Kkkkkkk tu não tem jeito",
+        "Camila Designer (92629643563147): Perguntando"
       ]
     },
     "120363409727467494@g.us": {
@@ -14762,6 +14764,9 @@
         "Desirre Montanha (13959398690846): Manda pra mim, perdi todas as conversas",
         "Max G. Honnorato (65894092943452): *Round aprendizado* \n\n*1. Você não conquista primeiro. Você se torna primeiro.*\n\nQuerer algo é apenas o começo. O resultado aparece quando suas escolhas, hábitos e atitudes começam a combinar com a pe",
         "Gabriel (145381035905262): Já mandei"
+      ],
+      "27/08/2026": [
+        "Gabriel (145381035905262): Round aprendizado \n\n1. *O extraordinário nasce da repetição do ordinário.*\n\nNão é fazer algo incrível uma vez. É fazer o necessário tantas vezes que o resultado se torna inevitável.\n\n2. *Dar certo não"
       ]
     }
   },
@@ -14870,6 +14875,18 @@
         "authorName": "Camila Designer",
         "text": "@266048007835881 você é o @238233849983072 vão ser somente amigos?",
         "timestamp": 1787801201066
+      },
+      {
+        "authorNum": "266048007835881",
+        "authorName": "🎀  Ň𝐘ηａ🐆",
+        "text": "Kkkkkkk tu não tem jeito",
+        "timestamp": 1787801228789
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Perguntando",
+        "timestamp": 1787801237046
       }
     ],
     "120363409727467494@g.us": [],
@@ -14985,7 +15002,14 @@
     ],
     "120363411233423709@g.us": [],
     "120363428079168524@g.us": [],
-    "120363411246936023@g.us": []
+    "120363411246936023@g.us": [
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Round aprendizado \n\n1. *O extraordinário nasce da repetição do ordinário.*\n\nNão é fazer algo incrível uma vez. É fazer o necessário tantas vezes que o resultado se torna inevitável.\n\n2. *Dar certo não exige dominar tudo.*\n\nVocê não precisa conhecer todas as respostas. Precisa dominar aquilo que realmente interfere no resultado que  busca.\n\n3. *Disc",
+        "timestamp": 1787801253877
+      }
+    ]
   },
   "lastJarvisIntervention": {
     "120363409727467494@g.us": 1786781516987,
@@ -14995,12 +15019,12 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 19620,
-    "120363428464897153@g.us": 5859,
+    "120363428464897153@g.us": 5861,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1451,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
-    "120363411246936023@g.us": 13
+    "120363411246936023@g.us": 14
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -161287,6 +161311,18 @@
         "text": "@266048007835881 você é o @238233849983072 vão ser somente amigos?",
         "pushName": "Camila Designer",
         "timestamp": 1787801201066
+      },
+      "AC892524E9118EA1223EA113FED7F000": {
+        "sender": "266048007835881@lid",
+        "text": "Kkkkkkk tu não tem jeito",
+        "pushName": "🎀  Ň𝐘ηａ🐆",
+        "timestamp": 1787801228789
+      },
+      "2A47B8CD5D2C4B0BFD8E": {
+        "sender": "92629643563147@lid",
+        "text": "Perguntando",
+        "pushName": "Camila Designer",
+        "timestamp": 1787801237046
       }
     },
     "120363409727467494@g.us": {
@@ -173309,6 +173345,12 @@
         "text": "Já mandei",
         "pushName": "Gabriel",
         "timestamp": 1787794804318
+      },
+      "AC08D232B2794CF63A654C61456F5428": {
+        "sender": "145381035905262@lid",
+        "text": "Round aprendizado \n\n1. *O extraordinário nasce da repetição do ordinário.*\n\nNão é fazer algo incrível uma vez. É fazer o necessário tantas vezes que o resultado se torna inevitável.\n\n2. *Dar certo não exige dominar tudo.*\n\nVocê não precisa conhecer todas as respostas. Precisa dominar aquilo que realmente interfere no resultado que  busca.\n\n3. *Disciplina vale mais que intensidade.*\n\nGrandes resultados raramente vêm de momentos épicos. Vêm da capacidade de continuar quando aquilo já virou rotina.\n\n4. *Estude o que sustenta o seu próximo nível.*\n\nConhecimento sem aplicação acumula informação. Conhecimento direcionado muda comportamento, decisão e resultado.",
+        "pushName": "Gabriel",
+        "timestamp": 1787801253878
       }
     }
   },
@@ -173392,7 +173434,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787801074245,
-    "120363428464897153@g.us": 1787801201066,
+    "120363428464897153@g.us": 1787801252042,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787801041451,
     "120363411233423709@g.us": 1787113553426,
@@ -173401,7 +173443,7 @@
     "120363050678635389@g.us": 1787134308039,
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
-    "120363411246936023@g.us": 1787798689047
+    "120363411246936023@g.us": 1787801253877
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
