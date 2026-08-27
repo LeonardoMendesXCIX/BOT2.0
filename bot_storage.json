@@ -33,9 +33,9 @@
         "total": 4975
       },
       "179040627490824": {
-        "text": 394,
+        "text": 396,
         "media": 80,
-        "total": 474
+        "total": 476
       },
       "145381035905262": {
         "text": 2152,
@@ -1653,9 +1653,9 @@
         "total": 1
       },
       "175655757050100": {
-        "text": 46,
+        "text": 47,
         "media": 3,
-        "total": 49
+        "total": 50
       },
       "243229014368421": {
         "text": 2,
@@ -8932,7 +8932,10 @@
         "Baby (179040627490824): Já tô Acostumado jogo eu dormo",
         "Baby (179040627490824): 3 dias já",
         "Baby (179040627490824): Bom dia bruno",
-        "Bruno Aguiar (+1395881181241): Bom dia"
+        "Bruno Aguiar (+1395881181241): Bom dia",
+        "Baby (179040627490824): Toma remédio e N tá fazendo mais efeito",
+        "Baby (179040627490824): Bom",
+        "Paulo (175655757050100): Bommmm diaaaa 🙏"
       ]
     },
     "120363428464897153@g.us": {
@@ -15093,6 +15096,24 @@
         "authorName": "Bruno Aguiar",
         "text": "Bom dia",
         "timestamp": 1787825581808
+      },
+      {
+        "authorNum": "179040627490824",
+        "authorName": "Baby",
+        "text": "Toma remédio e N tá fazendo mais efeito",
+        "timestamp": 1787825599327
+      },
+      {
+        "authorNum": "179040627490824",
+        "authorName": "Baby",
+        "text": "Bom",
+        "timestamp": 1787825602600
+      },
+      {
+        "authorNum": "175655757050100",
+        "authorName": "Paulo",
+        "text": "Bommmm diaaaa 🙏",
+        "timestamp": 1787825622879
       }
     ],
     "120363428464897153@g.us": [],
@@ -15110,7 +15131,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19673,
+    "120363432018531082@g.us": 19676,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1456,
@@ -127378,6 +127399,24 @@
         "text": "Bom dia",
         "pushName": "Bruno Aguiar",
         "timestamp": 1787825581808
+      },
+      "ACE35D85D36E61B55B17149AB21E2AA1": {
+        "sender": "179040627490824@lid",
+        "text": "Toma remédio e N tá fazendo mais efeito",
+        "pushName": "Baby",
+        "timestamp": 1787825599327
+      },
+      "ACE6A018A29198E4A057A1FE8DD4D48F": {
+        "sender": "179040627490824@lid",
+        "text": "Bom",
+        "pushName": "Baby",
+        "timestamp": 1787825602600
+      },
+      "AC4F6AD868E420629D703DD5FF10D00D": {
+        "sender": "175655757050100@lid",
+        "text": "Bommmm diaaaa 🙏",
+        "pushName": "Paulo",
+        "timestamp": 1787825622879
       }
     },
     "120363428464897153@g.us": {
@@ -174979,7 +175018,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787825581808,
+    "120363432018531082@g.us": 1787825622878,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787814068637,
