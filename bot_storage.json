@@ -2621,9 +2621,9 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 47,
+        "text": 48,
         "media": 11,
-        "total": 58
+        "total": 59
       },
       "172868239380659": {
         "text": 59,
@@ -9154,7 +9154,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "🎀  Ň𝐘ηａ🐆 (266048007835881): Essas caixinha só jesus",
         "Souza (190864487919667): Vamos respirar",
         "Souza (190864487919667): Hoje é quinta",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Gente, que horas eu disse que quero o Neto? Nunca nem sinais eu dei",
@@ -9653,7 +9652,8 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Eu durmo lá 2 da manhã",
         "Gleydson Souza (274384656834700): Q isso 2h ja to no 18° sono kkkkkk",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Hj msm fui durmi a tarde",
-        "Gleydson Souza (274384656834700): Meu sonho kkkkk"
+        "Gleydson Souza (274384656834700): Meu sonho kkkkk",
+        "Gleydson Souza (274384656834700): Última vez que dormi a tarde eu tinha 10 a 12 anos kkkkkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -15886,30 +15886,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "205621945192508",
-        "authorName": "Jennifer🦋",
-        "text": "Mais olhaaa",
-        "timestamp": 1787869665220
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Por favor",
-        "timestamp": 1787869685644
-      },
-      {
-        "authorNum": "118395236282617",
-        "authorName": "Caroline",
-        "text": "kkkkkkkk",
-        "timestamp": 1787869687088
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Bk tá melhor",
-        "timestamp": 1787869700511
-      },
-      {
         "authorNum": "118395236282617",
         "authorName": "Caroline",
         "text": "Não não",
@@ -16292,6 +16268,12 @@
         "authorName": "Gleydson Souza",
         "text": "Meu sonho kkkkk",
         "timestamp": 1787871463320
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Última vez que dormi a tarde eu tinha 10 a 12 anos kkkkkk",
+        "timestamp": 1787871541762
       }
     ],
     "120363428464897153@g.us": [],
@@ -16629,7 +16611,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20766,
+    "120363432018531082@g.us": 20767,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1637,
@@ -135384,6 +135366,12 @@
         "text": "Meu sonho kkkkk",
         "pushName": "Gleydson Souza",
         "timestamp": 1787871463320
+      },
+      "AC037A222E9A4492136EA02FB893CC55": {
+        "sender": "274384656834700@lid",
+        "text": "Última vez que dormi a tarde eu tinha 10 a 12 anos kkkkkk",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787871541762
       }
     },
     "120363428464897153@g.us": {
@@ -184097,7 +184085,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787871512312,
+    "120363432018531082@g.us": 1787871541762,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787871490478,
