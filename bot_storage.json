@@ -341,9 +341,9 @@
         "total": 3
       },
       "163530946961491": {
-        "text": 387,
+        "text": 388,
         "media": 60,
-        "total": 447
+        "total": 448
       },
       "222595437858867": {
         "text": 474,
@@ -2566,9 +2566,9 @@
         "total": 20
       },
       "190864487919667": {
-        "text": 70,
+        "text": 71,
         "media": 17,
-        "total": 87
+        "total": 88
       },
       "82227819987089": {
         "text": 2,
@@ -9119,8 +9119,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Cadê a vela?",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Óia quem tá aqui\nBem vindo, moço",
         "Camila Designer (92629643563147): 🤣🤣🤣🤣",
         "Camila Designer (92629643563147): Esse vê até as semanas",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): O massagista saiu",
@@ -9618,7 +9616,9 @@
         "F. RicaRdo sAnToS (193729163993156): Med geral por enquanto",
         "Luiz Fernando 👨🏽‍💻 (138483016421544): Perdi alguma coisa por aqui",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Pode pv Leandro? Por favor",
-        "Souza (190864487919667): Buenas noites"
+        "Souza (190864487919667): Buenas noites",
+        "Souza (190864487919667): Partiu casa",
+        "willian (163530946961491): Esse cara me representa kkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -16500,6 +16500,18 @@
         "authorName": "Souza",
         "text": "Buenas noites",
         "timestamp": 1787865103343
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Partiu casa",
+        "timestamp": 1787865123096
+      },
+      {
+        "authorNum": "163530946961491",
+        "authorName": "willian",
+        "text": "Esse cara me representa kkk",
+        "timestamp": 1787865141885
       }
     ],
     "120363428464897153@g.us": [],
@@ -16650,7 +16662,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20447,
+    "120363432018531082@g.us": 20449,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1542,
@@ -133510,6 +133522,18 @@
         "text": "Buenas noites",
         "pushName": "Souza",
         "timestamp": 1787865103344
+      },
+      "AC373662B78190E6183F2F1674922872": {
+        "sender": "190864487919667@lid",
+        "text": "Partiu casa",
+        "pushName": "Souza",
+        "timestamp": 1787865123096
+      },
+      "AC0914593660493FD04C520696032768": {
+        "sender": "163530946961491@lid",
+        "text": "Esse cara me representa kkk",
+        "pushName": "willian",
+        "timestamp": 1787865141885
       }
     },
     "120363428464897153@g.us": {
@@ -181639,7 +181663,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787865103343,
+    "120363432018531082@g.us": 1787865141885,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787865029188,
