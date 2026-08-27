@@ -28,9 +28,9 @@
         "total": 1924
       },
       "81991328395336": {
-        "text": 3741,
+        "text": 3742,
         "media": 1256,
-        "total": 4997
+        "total": 4998
       },
       "179040627490824": {
         "text": 420,
@@ -104,8 +104,8 @@
       },
       "92629643563147": {
         "text": 1399,
-        "media": 1059,
-        "total": 2458
+        "media": 1060,
+        "total": 2459
       },
       "3126803329115": {
         "text": 87,
@@ -128,9 +128,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 1971,
+        "text": 1972,
         "media": 256,
-        "total": 2227
+        "total": 2228
       },
       "252922705240205": {
         "text": 80,
@@ -1868,9 +1868,9 @@
         "total": 6
       },
       "129158944415753": {
-        "text": 9,
+        "text": 10,
         "media": 2,
-        "total": 11
+        "total": 12
       },
       "276003205152992": {
         "text": 5,
@@ -9110,7 +9110,10 @@
         ". (39402768232586): Ok",
         "Patrick (198908642906227): Prazer Patrick tenho 24 anos sou de Santa Maria de jetiba ES",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindo",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindo"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindo",
+        "massagista tântrico (129158944415753): Obrigado favo de mel",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Sejam todos bem vindos ao *Hospício mais feliz*🤝😂🤌🏾",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Ben vindo"
       ]
     },
     "120363428464897153@g.us": {
@@ -15355,6 +15358,24 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Bem vindo",
         "timestamp": 1787841793470
+      },
+      {
+        "authorNum": "129158944415753",
+        "authorName": "massagista tântrico",
+        "text": "Obrigado favo de mel",
+        "timestamp": 1787841807675
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Sejam todos bem vindos ao *Hospício mais feliz*🤝😂🤌🏾",
+        "timestamp": 1787841818907
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Ben vindo",
+        "timestamp": 1787841824284
       }
     ],
     "120363428464897153@g.us": [],
@@ -15372,7 +15393,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19801,
+    "120363432018531082@g.us": 19804,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1466,
@@ -128392,6 +128413,24 @@
         "text": "Bem vindo",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787841793470
+      },
+      "A5DBD76C9725F59ADC20D0D415D669C9": {
+        "sender": "129158944415753@lid",
+        "text": "Obrigado favo de mel",
+        "pushName": "massagista tântrico",
+        "timestamp": 1787841807675
+      },
+      "ACF016C4DD16F76E06790B38C02ED4CC": {
+        "sender": "81991328395336@lid",
+        "text": "Sejam todos bem vindos ao *Hospício mais feliz*🤝😂🤌🏾",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787841818907
+      },
+      "ACB656BA1C23E7EEDE6258E4400C4A79": {
+        "sender": "53537388122141@lid",
+        "text": "Ben vindo",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787841824284
       }
     },
     "120363428464897153@g.us": {
@@ -176065,7 +176104,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787841793470,
+    "120363432018531082@g.us": 1787841825574,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787829200713,
