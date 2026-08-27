@@ -2721,9 +2721,9 @@
         "total": 1
       },
       "92629643563147": {
-        "text": 528,
-        "media": 339,
-        "total": 867
+        "text": 529,
+        "media": 341,
+        "total": 870
       },
       "122552932372575": {
         "text": 0,
@@ -2926,9 +2926,9 @@
         "total": 1
       },
       "266048007835881": {
-        "text": 175,
+        "text": 178,
         "media": 79,
-        "total": 254
+        "total": 257
       },
       "123120354635955": {
         "text": 1,
@@ -3140,9 +3140,9 @@
         "total": 464
       },
       "5511927018683": {
-        "text": 431,
+        "text": 432,
         "media": 77,
-        "total": 508
+        "total": 509
       },
       "145381035905262": {
         "text": 320,
@@ -12677,7 +12677,11 @@
         "Neto prime (238233849983072): Ela quer falar alguma coisa só responde kkkkkk",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Ops desculpa kkk",
         "Neto prime (238233849983072): Que até eu tô curioso",
-        "🎀  Ň𝐘ηａ🐆 (266048007835881): Faleeeeeeee"
+        "🎀  Ň𝐘ηａ🐆 (266048007835881): Faleeeeeeee",
+        "🎀  Ň𝐘ηａ🐆 (266048007835881): Anda logo deixe de arrodeios",
+        "🎀  Ň𝐘ηａ🐆 (266048007835881): Kkk",
+        "🎀  Ň𝐘ηａ🐆 (266048007835881): Conta",
+        "Camila Designer (92629643563147): Responde"
       ]
     },
     "120363409727467494@g.us": {
@@ -14412,7 +14416,8 @@
         "Leandro (+55 (11) 92701-8683): Me manda um print da tela principal da caixinha do NGL, onde digita o correio anônimo",
         "Leandro (+55 (11) 92701-8683): E depois outro print, quando envia o correio",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Entendi foi ND de nd",
-        "Leandro (+55 (11) 92701-8683): Quando alguém vai mandar mensagem no correio anônimo pelo NGL"
+        "Leandro (+55 (11) 92701-8683): Quando alguém vai mandar mensagem no correio anônimo pelo NGL",
+        "Leandro (+55 (11) 92701-8683): Deixa, já consegui daqui"
       ]
     },
     "120363411233423709@g.us": {
@@ -15078,6 +15083,30 @@
         "authorName": "🎀  Ň𝐘ηａ🐆",
         "text": "Faleeeeeeee",
         "timestamp": 1787801617550
+      },
+      {
+        "authorNum": "266048007835881",
+        "authorName": "🎀  Ň𝐘ηａ🐆",
+        "text": "Anda logo deixe de arrodeios",
+        "timestamp": 1787801631624
+      },
+      {
+        "authorNum": "266048007835881",
+        "authorName": "🎀  Ň𝐘ηａ🐆",
+        "text": "Kkk",
+        "timestamp": 1787801633905
+      },
+      {
+        "authorNum": "266048007835881",
+        "authorName": "🎀  Ň𝐘ηａ🐆",
+        "text": "Conta",
+        "timestamp": 1787801635913
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Responde",
+        "timestamp": 1787801641794
       }
     ],
     "120363409727467494@g.us": [],
@@ -15201,6 +15230,12 @@
         "authorName": "Leandro",
         "text": "Quando alguém vai mandar mensagem no correio anônimo pelo NGL",
         "timestamp": 1787801591765
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Deixa, já consegui daqui",
+        "timestamp": 1787801643008
       }
     ],
     "120363411233423709@g.us": [],
@@ -15222,9 +15257,9 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 19620,
-    "120363428464897153@g.us": 5889,
+    "120363428464897153@g.us": 5893,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1453,
+    "120363412288900422@g.us": 1454,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 14
@@ -161694,6 +161729,30 @@
         "text": "Faleeeeeeee",
         "pushName": "🎀  Ň𝐘ηａ🐆",
         "timestamp": 1787801617550
+      },
+      "ACCAFBB0ADFCBC1CD6DC8E32C399217D": {
+        "sender": "266048007835881@lid",
+        "text": "Anda logo deixe de arrodeios",
+        "pushName": "🎀  Ň𝐘ηａ🐆",
+        "timestamp": 1787801631624
+      },
+      "AC8B16ACD22F4BE78B2302C48390B9B2": {
+        "sender": "266048007835881@lid",
+        "text": "Kkk",
+        "pushName": "🎀  Ň𝐘ηａ🐆",
+        "timestamp": 1787801633905
+      },
+      "AC68B9E9D96CBFE6A159AEEA41FD057E": {
+        "sender": "266048007835881@lid",
+        "text": "Conta",
+        "pushName": "🎀  Ň𝐘ηａ🐆",
+        "timestamp": 1787801635914
+      },
+      "2A338A9F785B1DCBB67B": {
+        "sender": "92629643563147@lid",
+        "text": "Responde",
+        "pushName": "Camila Designer",
+        "timestamp": 1787801641795
       }
     },
     "120363409727467494@g.us": {
@@ -171634,6 +171693,12 @@
         "text": "Quando alguém vai mandar mensagem no correio anônimo pelo NGL",
         "pushName": "Leandro",
         "timestamp": 1787801591765
+      },
+      "A59F388C5A521CE59C99F6B459EDA6BF": {
+        "sender": "54259127210155@lid",
+        "text": "Deixa, já consegui daqui",
+        "pushName": "Leandro",
+        "timestamp": 1787801643008
       }
     },
     "120363411233423709@g.us": {
@@ -173817,9 +173882,9 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787801074245,
-    "120363428464897153@g.us": 1787801617550,
+    "120363428464897153@g.us": 1787801646310,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787801591765,
+    "120363412288900422@g.us": 1787801643008,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
