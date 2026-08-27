@@ -341,9 +341,9 @@
         "total": 3
       },
       "163530946961491": {
-        "text": 408,
+        "text": 409,
         "media": 69,
-        "total": 477
+        "total": 478
       },
       "222595437858867": {
         "text": 474,
@@ -2646,9 +2646,9 @@
         "total": 7
       },
       "205621945192508": {
-        "text": 27,
+        "text": 28,
         "media": 9,
-        "total": 36
+        "total": 37
       },
       "208958782488665": {
         "text": 6,
@@ -3312,9 +3312,9 @@
         "total": 456
       },
       "53537388122141": {
-        "text": 608,
+        "text": 610,
         "media": 48,
-        "total": 656
+        "total": 658
       },
       "120363412288900422": {
         "text": 1,
@@ -9149,8 +9149,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Souza (190864487919667): Fixar",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Vão fazer a boa ou não? Decidem aí\nLenga lenga",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Tá fixado kkk acho que é pq você entrou depois",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Vou mandar sempre o link aqui",
         " (120363432018531082): @238233849983072",
@@ -9648,7 +9646,9 @@
         "Jennifer🦋 (205621945192508): Aqui é açaí até com ovo 🫡🫡",
         "Jennifer🦋 (205621945192508): Os paraenses KKKKKK eu não",
         "Pedro Henrique (172868239380659): Caganeira o dia inteiro",
-        "willian (163530946961491): Carimba que é top 👏🏾"
+        "willian (163530946961491): Carimba que é top 👏🏾",
+        "willian (163530946961491): Carimba que é top 👏🏾",
+        "Jennifer🦋 (205621945192508): Neles é kkkkkkkkkkkkkkkkkkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -15351,7 +15351,9 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Eu hein",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Se matem",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Tu já me queimou pro caba ali",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Solte o print"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Solte o print",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Po, eu fui advertida",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Vai parecer que tô errada na situação"
       ]
     },
     "120363411233423709@g.us": {
@@ -16488,6 +16490,18 @@
         "authorName": "willian",
         "text": "Carimba que é top 👏🏾",
         "timestamp": 1787869555009
+      },
+      {
+        "authorNum": "163530946961491",
+        "authorName": "willian",
+        "text": "Carimba que é top 👏🏾",
+        "timestamp": 1787869557665
+      },
+      {
+        "authorNum": "205621945192508",
+        "authorName": "Jennifer🦋",
+        "text": "Neles é kkkkkkkkkkkkkkkkkkk",
+        "timestamp": 1787869557927
       }
     ],
     "120363428464897153@g.us": [],
@@ -16678,6 +16692,18 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Solte o print",
         "timestamp": 1787869547430
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Po, eu fui advertida",
+        "timestamp": 1787869563933
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Vai parecer que tô errada na situação",
+        "timestamp": 1787869575764
       }
     ],
     "120363411233423709@g.us": [],
@@ -16693,10 +16719,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20692,
+    "120363432018531082@g.us": 20694,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1574,
+    "120363412288900422@g.us": 1576,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -135009,7 +135035,13 @@
         "sender": "163530946961491@lid",
         "text": "Carimba que é top 👏🏾",
         "pushName": "willian",
-        "timestamp": 1787869555009
+        "timestamp": 1787869557665
+      },
+      "AC908A994D84EDA34777CF0A3C71086D": {
+        "sender": "205621945192508@lid",
+        "text": "Neles é kkkkkkkkkkkkkkkkkkk",
+        "pushName": "Jennifer🦋",
+        "timestamp": 1787869557927
       }
     },
     "120363428464897153@g.us": {
@@ -180790,6 +180822,18 @@
         "text": "Solte o print",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787869547430
+      },
+      "AC3067380B34771C90FE8D95567FF1A9": {
+        "sender": "53537388122141@lid",
+        "text": "Po, eu fui advertida",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787869563933
+      },
+      "AC3DC1847BFBCB282BB117B1E81B5401": {
+        "sender": "53537388122141@lid",
+        "text": "Vai parecer que tô errada na situação",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787869575764
       }
     },
     "120363411233423709@g.us": {
@@ -183345,10 +183389,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787869555009,
+    "120363432018531082@g.us": 1787869557927,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787869547430,
+    "120363412288900422@g.us": 1787869575764,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
