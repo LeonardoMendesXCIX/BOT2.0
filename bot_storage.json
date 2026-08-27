@@ -2621,9 +2621,9 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 8,
+        "text": 10,
         "media": 1,
-        "total": 9
+        "total": 11
       }
     },
     "120363428464897153@g.us": {
@@ -9104,7 +9104,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "🙃🙃🙃 (11171897864256): Como estão?????",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Bem",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindo!",
         "🙃🙃🙃 (11171897864256): Obg",
@@ -9603,7 +9602,8 @@
         "Jonathan Bráulio (187097969348735): Eu tô quase chegando nesse nível",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mulher, eu quero é paz pra minha vida",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Relaxa ..... Eu gosto de prioridade O que é de todo mundo não me interessa não🫶🏻",
-        "Luiz Fernando 👨🏽‍💻 (138483016421544): Fernando \n19\nCeará"
+        "Luiz Fernando 👨🏽‍💻 (138483016421544): Fernando \n19\nCeará",
+        "Gleydson Souza (274384656834700): Jesus kkkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -15712,12 +15712,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Fazer dar certo só mais essa vez? Vish, quem foi que mandou? 👀\nIdentifique se no Pv 👀",
-        "timestamp": 1787860807301
-      },
-      {
         "authorNum": "222595437858867",
         "authorName": "Juliano Perlin",
         "text": "Pronto",
@@ -16166,17 +16160,17 @@
         "authorName": "Luiz Fernando 👨🏽‍💻",
         "text": "Fernando \n19\nCeará",
         "timestamp": 1787862559107
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Jesus kkkk",
+        "timestamp": 1787862613326
       }
     ],
     "120363428464897153@g.us": [],
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Depende do horário",
-        "timestamp": 1787860657102
-      },
       {
         "authorNum": "81991328395336",
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
@@ -16246,20 +16240,7 @@
     ],
     "120363411233423709@g.us": [],
     "120363428079168524@g.us": [],
-    "120363411246936023@g.us": [
-      {
-        "authorNum": "76729607520481",
-        "authorName": "Deiviti",
-        "text": "A ideia atribuída a Aristóteles revela que excelência não nasce de um momento isolado de inspiração, mas da repetição consciente de boas escolhas. Um único ato pode demonstrar capacidade, porém é a constância que transforma uma ação em característica e, posteriormente, em identidade.\n\nQuem busca ser excelente precisa compreender que pequenos esforç",
-        "timestamp": 1787860550340
-      },
-      {
-        "authorNum": "76729607520481",
-        "authorName": "Deiviti",
-        "text": "Boa tarde a todos Natanael aqui",
-        "timestamp": 1787860570236
-      }
-    ],
+    "120363411246936023@g.us": [],
     "120363409024805409@g.us": []
   },
   "lastJarvisIntervention": {
@@ -16269,7 +16250,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20309,
+    "120363432018531082@g.us": 20310,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1517,
@@ -132302,6 +132283,12 @@
         "text": "Fernando \n19\nCeará",
         "pushName": "Luiz Fernando 👨🏽‍💻",
         "timestamp": 1787862559107
+      },
+      "AC4FD40EE3DC2CB054BCCA513FAB5AD8": {
+        "sender": "274384656834700@lid",
+        "text": "Jesus kkkk",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787862613326
       }
     },
     "120363428464897153@g.us": {
@@ -180281,7 +180268,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787862581828,
+    "120363432018531082@g.us": 1787862613326,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787862389737,
