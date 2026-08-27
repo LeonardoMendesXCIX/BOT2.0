@@ -2561,9 +2561,9 @@
         "total": 2
       },
       "11171897864256": {
-        "text": 4,
+        "text": 7,
         "media": 1,
-        "total": 5
+        "total": 8
       },
       "190864487919667": {
         "text": 68,
@@ -2621,9 +2621,9 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 14,
+        "text": 15,
         "media": 1,
-        "total": 15
+        "total": 16
       },
       "172868239380659": {
         "text": 2,
@@ -9114,10 +9114,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Quase",
-        "Camila Designer (92629643563147): Lugar dos meus sonhos 😮‍💨",
-        "massagista tântrico (129158944415753): Bora de massagem meu povo",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Muito bem",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Massagem virtual",
         "massagista tântrico (129158944415753): Venha fazer sua. Massagem bb",
         "massagista tântrico (129158944415753): Rssd",
@@ -9613,7 +9609,11 @@
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Irmã 🫶🏻❤️🐅",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Até um chiqueiro é mais limpo que isso aí",
         "Gabriel (145381035905262): Agarra o precioso @266048007835881  e não solta, vai que é tua",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Pode ficar todinho pra você @266048007835881"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Pode ficar todinho pra você @266048007835881",
+        "🙃🙃🙃 (11171897864256): Ola",
+        "🙃🙃🙃 (11171897864256): Povo",
+        "🙃🙃🙃 (11171897864256): Boa tarde",
+        "Gleydson Souza (274384656834700): Boa"
       ]
     },
     "120363428464897153@g.us": {
@@ -15728,12 +15728,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "90130358485223",
-        "authorName": "Gabriel Ohi",
-        "text": "Faleceram kkkkk um minuto de silêncio pra esse povo",
-        "timestamp": 1787861628086
-      },
-      {
         "authorNum": "190864487919667",
         "authorName": "Souza",
         "text": "Já quero é ir embora",
@@ -15996,6 +15990,30 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Pode ficar todinho pra você @266048007835881",
         "timestamp": 1787863409574
+      },
+      {
+        "authorNum": "11171897864256",
+        "authorName": "🙃🙃🙃",
+        "text": "Ola",
+        "timestamp": 1787863455103
+      },
+      {
+        "authorNum": "11171897864256",
+        "authorName": "🙃🙃🙃",
+        "text": "Povo",
+        "timestamp": 1787863455539
+      },
+      {
+        "authorNum": "11171897864256",
+        "authorName": "🙃🙃🙃",
+        "text": "Boa tarde",
+        "timestamp": 1787863458595
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Boa",
+        "timestamp": 1787863462161
       }
     ],
     "120363428464897153@g.us": [],
@@ -16062,7 +16080,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20324,
+    "120363432018531082@g.us": 20328,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1523,
@@ -132185,6 +132203,30 @@
         "text": "Pode ficar todinho pra você @266048007835881",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787863409574
+      },
+      "AC4128FF0AE1D92972889DCC29D9D60A": {
+        "sender": "11171897864256@lid",
+        "text": "Ola",
+        "pushName": "🙃🙃🙃",
+        "timestamp": 1787863455103
+      },
+      "AC3371E0AE220644DF16D29482863130": {
+        "sender": "11171897864256@lid",
+        "text": "Povo",
+        "pushName": "🙃🙃🙃",
+        "timestamp": 1787863455539
+      },
+      "ACF0BD7A3ADBA72B680E01D3FEE0BE32": {
+        "sender": "11171897864256@lid",
+        "text": "Boa tarde",
+        "pushName": "🙃🙃🙃",
+        "timestamp": 1787863458595
+      },
+      "AC6F31E87D639084957D572A8D2C945D": {
+        "sender": "274384656834700@lid",
+        "text": "Boa",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787863462161
       }
     },
     "120363428464897153@g.us": {
@@ -180200,7 +180242,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787863420947,
+    "120363432018531082@g.us": 1787863462161,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787863417074,
