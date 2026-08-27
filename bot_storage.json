@@ -346,9 +346,9 @@
         "total": 479
       },
       "222595437858867": {
-        "text": 485,
+        "text": 488,
         "media": 53,
-        "total": 538
+        "total": 541
       },
       "83280154103884": {
         "text": 36,
@@ -9154,9 +9154,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "🙃🙃🙃 (11171897864256): Tem pessoas que pagam pra mim mas não posso bebe",
-        "🙃🙃🙃 (11171897864256): Só posso receber o dinheiro",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Que bom, somos duas! E não, não quero seu presente de Deus 😂",
         "Pedro Henrique (172868239380659): Gente",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Tavendo sua  infantilidade... Que horas q eu falei q ele era meu presente de Deus ? Mulher descansa amadurece ...",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Se tu quer chamar atenção de algum homem Aki não vai ser com essa infantilidade e esses posicionamento não...",
@@ -9653,7 +9650,10 @@
         "Pedro Henrique (172868239380659): Com calor",
         "Clayton 🇳🇬 (155503636275307): Sim sim",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Somos dois",
-        "Pedro Henrique (172868239380659): Quero é chuva"
+        "Pedro Henrique (172868239380659): Quero é chuva",
+        "Juliano Perlin (222595437858867): Quero é sol. Chega de chuva",
+        "Juliano Perlin (222595437858867): 🤣🤣",
+        "Juliano Perlin (222595437858867): Ta marcando chuva até segunda pra nós"
       ]
     },
     "120363428464897153@g.us": {
@@ -16340,17 +16340,29 @@
         "authorName": "Pedro Henrique",
         "text": "Quero é chuva",
         "timestamp": 1787874264615
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Quero é sol. Chega de chuva",
+        "timestamp": 1787874292105
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "🤣🤣",
+        "timestamp": 1787874293435
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Ta marcando chuva até segunda pra nós",
+        "timestamp": 1787874310456
       }
     ],
     "120363428464897153@g.us": [],
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "🫡",
-        "timestamp": 1787872451366
-      },
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
@@ -16467,7 +16479,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20853,
+    "120363432018531082@g.us": 20856,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1667,
@@ -135738,6 +135750,24 @@
         "text": "Quero é chuva",
         "pushName": "Pedro Henrique",
         "timestamp": 1787874264615
+      },
+      "ACEEC7982F0D3A0A29320E6EE8DBC911": {
+        "sender": "222595437858867@lid",
+        "text": "Quero é sol. Chega de chuva",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1787874292105
+      },
+      "AC633846AF0945C91CA1F397D25A9DC8": {
+        "sender": "222595437858867@lid",
+        "text": "🤣🤣",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1787874293436
+      },
+      "AC23B48B2973BFFA55026D0E83C147CB": {
+        "sender": "222595437858867@lid",
+        "text": "Ta marcando chuva até segunda pra nós",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1787874310457
       }
     },
     "120363428464897153@g.us": {
@@ -184631,7 +184661,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787874270209,
+    "120363432018531082@g.us": 1787874310456,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787874181544,
