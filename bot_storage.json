@@ -33,9 +33,9 @@
         "total": 5030
       },
       "179040627490824": {
-        "text": 425,
+        "text": 426,
         "media": 88,
-        "total": 513
+        "total": 514
       },
       "145381035905262": {
         "text": 2152,
@@ -143,9 +143,9 @@
         "total": 440
       },
       "262182034002040": {
-        "text": 1839,
+        "text": 1840,
         "media": 118,
-        "total": 1957
+        "total": 1958
       },
       "219245581488326": {
         "text": 4,
@@ -2453,9 +2453,9 @@
         "total": 5
       },
       "190864487919667": {
-        "text": 7,
+        "text": 9,
         "media": 4,
-        "total": 11
+        "total": 13
       },
       "82227819987089": {
         "text": 1,
@@ -9263,7 +9263,9 @@
         "Souza (190864487919667): Sombrinha e energético",
         "gigi✨ (60851868446964): Simm",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Lindoo",
-        "Camila Designer (92629643563147): Aqui amanheceu com muita chuva, agora que deu uma parada, mas o tempo está mais fresquinho"
+        "Camila Designer (92629643563147): Aqui amanheceu com muita chuva, agora que deu uma parada, mas o tempo está mais fresquinho",
+        "Baby (179040627490824): Tá 17 aq",
+        "Souza (190864487919667): Necessito de chuva"
       ]
     },
     "120363428464897153@g.us": {
@@ -16007,6 +16009,18 @@
         "authorName": "Camila Designer",
         "text": "Aqui amanheceu com muita chuva, agora que deu uma parada, mas o tempo está mais fresquinho",
         "timestamp": 1787846600387
+      },
+      {
+        "authorNum": "179040627490824",
+        "authorName": "Baby",
+        "text": "Tá 17 aq",
+        "timestamp": 1787846604594
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Necessito de chuva",
+        "timestamp": 1787846609652
       }
     ],
     "120363428464897153@g.us": [],
@@ -16024,7 +16038,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19934,
+    "120363432018531082@g.us": 19936,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -129842,6 +129856,18 @@
         "text": "Aqui amanheceu com muita chuva, agora que deu uma parada, mas o tempo está mais fresquinho",
         "pushName": "Camila Designer",
         "timestamp": 1787846600387
+      },
+      "ACBCD6661314320DAE071F66CA2FAB6C": {
+        "sender": "179040627490824@lid",
+        "text": "Tá 17 aq",
+        "pushName": "Baby",
+        "timestamp": 1787846604595
+      },
+      "AC6222C5506D20AAABCD4B47DB5C29B7": {
+        "sender": "190864487919667@lid",
+        "text": "Necessito de chuva",
+        "pushName": "Souza",
+        "timestamp": 1787846609652
       }
     },
     "120363428464897153@g.us": {
@@ -177593,7 +177619,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787846600387,
+    "120363432018531082@g.us": 1787846617541,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
