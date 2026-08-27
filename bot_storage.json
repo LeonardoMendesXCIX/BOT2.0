@@ -128,9 +128,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 1948,
+        "text": 1950,
         "media": 249,
-        "total": 2197
+        "total": 2199
       },
       "252922705240205": {
         "text": 80,
@@ -253,9 +253,9 @@
         "total": 3
       },
       "60851868446964": {
-        "text": 1215,
+        "text": 1216,
         "media": 1413,
-        "total": 2628
+        "total": 2629
       },
       "270377049690114": {
         "text": 36,
@@ -8938,7 +8938,10 @@
         "Paulo (175655757050100): Bommmm diaaaa 🙏",
         "gigi✨ (60851868446964): Bom dia gente",
         "gigi✨ (60851868446964): Hj ficarei off do grupo",
-        "gigi✨ (60851868446964): 🤒"
+        "gigi✨ (60851868446964): 🤒",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Boommm diaaaa",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Melhoras amiga",
+        "gigi✨ (60851868446964): Brigada 🩷"
       ]
     },
     "120363428464897153@g.us": {
@@ -15135,6 +15138,24 @@
         "authorName": "gigi✨",
         "text": "🤒",
         "timestamp": 1787825702160
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Boommm diaaaa",
+        "timestamp": 1787825713855
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Melhoras amiga",
+        "timestamp": 1787825718871
+      },
+      {
+        "authorNum": "60851868446964",
+        "authorName": "gigi✨",
+        "text": "Brigada 🩷",
+        "timestamp": 1787825734276
       }
     ],
     "120363428464897153@g.us": [],
@@ -15152,7 +15173,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19679,
+    "120363432018531082@g.us": 19682,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1456,
@@ -127456,6 +127477,24 @@
         "text": "🤒",
         "pushName": "gigi✨",
         "timestamp": 1787825702160
+      },
+      "AC05D843961A66CA2871906C68AF1754": {
+        "sender": "53537388122141@lid",
+        "text": "Boommm diaaaa",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787825713855
+      },
+      "AC558A4A846358B223E4F2FA8133A244": {
+        "sender": "53537388122141@lid",
+        "text": "Melhoras amiga",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787825718871
+      },
+      "ACCE1C15C14EAB974627FD186DDD85F6": {
+        "sender": "60851868446964@lid",
+        "text": "Brigada 🩷",
+        "pushName": "gigi✨",
+        "timestamp": 1787825734276
       }
     },
     "120363428464897153@g.us": {
@@ -175057,7 +175096,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787825702160,
+    "120363432018531082@g.us": 1787825734276,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787814068637,
