@@ -2721,9 +2721,9 @@
         "total": 1
       },
       "92629643563147": {
-        "text": 436,
+        "text": 437,
         "media": 245,
-        "total": 681
+        "total": 682
       },
       "122552932372575": {
         "text": 0,
@@ -2761,9 +2761,9 @@
         "total": 9
       },
       "129373172711439": {
-        "text": 757,
+        "text": 759,
         "media": 170,
-        "total": 927
+        "total": 929
       },
       "16007578021977": {
         "text": 50,
@@ -3135,9 +3135,9 @@
     },
     "120363412288900422@g.us": {
       "81991328395336": {
-        "text": 341,
+        "text": 342,
         "media": 100,
-        "total": 441
+        "total": 442
       },
       "5511927018683": {
         "text": 365,
@@ -12099,8 +12099,6 @@
         "Leandro (+55 (11) 92701-8683): Mais tarde, quando o kbaré abrir, tu se apresenta @66743926038604"
       ],
       "26/08/2026": [
-        ". (242841813000328): E vc",
-        "gigi✨ (60851868446964): Aham",
         "gigi✨ (60851868446964): No carro era ne",
         "gigi✨ (60851868446964): Caso",
         "Celiete Souza (129373172711439): Tá perdido é kkkkk",
@@ -12598,7 +12596,9 @@
         "Celiete Souza (129373172711439): Tô muito feliz, minha afilhada ❤️",
         "Vini 👑🏁🙌⚽ (270377049690114): Fofaaa dms viu!!!",
         "Camila Designer (92629643563147): Que linda amiga! Deus abençoe e dê a ela muita saúde!",
-        "Celiete Souza (129373172711439): Que apreensão, mas deu tudo certo"
+        "Celiete Souza (129373172711439): Que apreensão, mas deu tudo certo",
+        "Celiete Souza (129373172711439): Não vai pra UTI 🙏🏼",
+        "Celiete Souza (129373172711439): Já está sendo amamentada 🥰"
       ]
     },
     "120363409727467494@g.us": {
@@ -14239,7 +14239,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Aí pode né",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): 😒",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Copiando grupo, até eu",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Esses são todos os componentes de lá"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Esses são todos os componentes de lá",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Já vi pessoas que ta no nosso lá"
       ]
     },
     "120363411233423709@g.us": {
@@ -14902,6 +14903,18 @@
         "authorName": "Celiete Souza",
         "text": "Que apreensão, mas deu tudo certo",
         "timestamp": 1787789797561
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Não vai pra UTI 🙏🏼",
+        "timestamp": 1787789808721
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Já está sendo amamentada 🥰",
+        "timestamp": 1787789841549
       }
     ],
     "120363409727467494@g.us": [],
@@ -15187,6 +15200,12 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Esses são todos os componentes de lá",
         "timestamp": 1787789797133
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Já vi pessoas que ta no nosso lá",
+        "timestamp": 1787789817818
       }
     ],
     "120363411233423709@g.us": [],
@@ -15201,9 +15220,9 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 19463,
-    "120363428464897153@g.us": 5358,
+    "120363428464897153@g.us": 5360,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1360,
+    "120363412288900422@g.us": 1361,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 7
@@ -157601,6 +157620,18 @@
         "text": "Que apreensão, mas deu tudo certo",
         "pushName": "Celiete Souza",
         "timestamp": 1787789797561
+      },
+      "AC6569C43D66158A6C1F4F483E8B4AA8": {
+        "sender": "129373172711439@lid",
+        "text": "Não vai pra UTI 🙏🏼",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787789808721
+      },
+      "AC74AFEE049B4846B1F39D1EF24DE3EF": {
+        "sender": "129373172711439@lid",
+        "text": "Já está sendo amamentada 🥰",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787789841550
       }
     },
     "120363409727467494@g.us": {
@@ -166989,6 +167020,12 @@
         "text": "Esses são todos os componentes de lá",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787789797133
+      },
+      "AC3CB3BF82EAC0C98BE61DA2D7A8B6BC": {
+        "sender": "81991328395336@lid",
+        "text": "Já vi pessoas que ta no nosso lá",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787789817818
       }
     },
     "120363411233423709@g.us": {
@@ -169130,9 +169167,9 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787789781817,
-    "120363428464897153@g.us": 1787789797561,
+    "120363428464897153@g.us": 1787789841549,
     "120363409727467494@g.us": 1787764683861,
-    "120363412288900422@g.us": 1787789798616,
+    "120363412288900422@g.us": 1787789817818,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
