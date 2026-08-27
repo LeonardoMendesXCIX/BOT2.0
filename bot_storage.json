@@ -241,9 +241,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2180,
+        "text": 2181,
         "media": 286,
-        "total": 2466
+        "total": 2467
       },
       "252922705240205": {
         "text": 80,
@@ -346,9 +346,9 @@
         "total": 479
       },
       "222595437858867": {
-        "text": 492,
+        "text": 493,
         "media": 53,
-        "total": 545
+        "total": 546
       },
       "83280154103884": {
         "text": 36,
@@ -2566,9 +2566,9 @@
         "total": 21
       },
       "190864487919667": {
-        "text": 159,
-        "media": 31,
-        "total": 190
+        "text": 160,
+        "media": 32,
+        "total": 192
       },
       "82227819987089": {
         "text": 2,
@@ -2627,8 +2627,8 @@
       },
       "172868239380659": {
         "text": 72,
-        "media": 11,
-        "total": 83
+        "media": 12,
+        "total": 84
       },
       "170455038193841": {
         "text": 1,
@@ -9154,9 +9154,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Pedro Henrique (172868239380659): Já veio aqui?",
-        "Pedro Henrique (172868239380659): Sim, se matem logo.",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Uma vez apenas no aeroporto de Brasília. Mas a muitos anos. Eu era pequena",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Deixo pra morrer sozinha 😂",
         "Rafael Moura (57707230945348): Acompanhando essa treta toda",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Capaz se a mulher morrer primeiro ele vai no velório com a outra",
@@ -9653,7 +9650,10 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Jajá kbaré",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Abre",
         "Pedro Henrique (172868239380659): O que?",
-        "Souza (190864487919667): Já tá tu descobre"
+        "Souza (190864487919667): Já tá tu descobre",
+        "Juliano Perlin (222595437858867): To perguntando de onde ela veio🤣🤣🤣",
+        "Souza (190864487919667): Tá me achando com cara de jornal pra vim trazer informação?",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): 👀👀👀"
       ]
     },
     "120363428464897153@g.us": {
@@ -16534,6 +16534,24 @@
         "authorName": "Souza",
         "text": "Já tá tu descobre",
         "timestamp": 1787874880153
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "To perguntando de onde ela veio🤣🤣🤣",
+        "timestamp": 1787874919986
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Tá me achando com cara de jornal pra vim trazer informação?",
+        "timestamp": 1787874927353
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "👀👀👀",
+        "timestamp": 1787874931421
       }
     ],
     "120363428464897153@g.us": [],
@@ -16667,7 +16685,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20889,
+    "120363432018531082@g.us": 20892,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1669,
@@ -136154,6 +136172,24 @@
         "text": "Já tá tu descobre",
         "pushName": "Souza",
         "timestamp": 1787874880153
+      },
+      "AC10BFC85F400AB3D287A617B805C4BE": {
+        "sender": "222595437858867@lid",
+        "text": "To perguntando de onde ela veio🤣🤣🤣",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1787874919986
+      },
+      "AC9AF3C09D6C4C1F7F838DDFDB4ED4CB": {
+        "sender": "190864487919667@lid",
+        "text": "Tá me achando com cara de jornal pra vim trazer informação?",
+        "pushName": "Souza",
+        "timestamp": 1787874927353
+      },
+      "AC18AA0D0AD99B6830C1139CCB76D01C": {
+        "sender": "53537388122141@lid",
+        "text": "👀👀👀",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787874931422
       }
     },
     "120363428464897153@g.us": {
@@ -185059,7 +185095,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787874880153,
+    "120363432018531082@g.us": 1787874931421,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787874702269,
