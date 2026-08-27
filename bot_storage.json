@@ -141,9 +141,9 @@
         "total": 1940
       },
       "81991328395336": {
-        "text": 3842,
-        "media": 1299,
-        "total": 5141
+        "text": 3843,
+        "media": 1300,
+        "total": 5143
       },
       "179040627490824": {
         "text": 433,
@@ -2626,9 +2626,9 @@
         "total": 56
       },
       "172868239380659": {
-        "text": 57,
+        "text": 58,
         "media": 10,
-        "total": 67
+        "total": 68
       },
       "170455038193841": {
         "text": 1,
@@ -9154,8 +9154,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Souza (190864487919667): Povo tá nervoso hoje",
-        "Souza (190864487919667): No dia que eu entrei",
         "Rafael Moura (57707230945348): Mas agora virou caso de arrumar treta",
         "Rafael Moura (57707230945348): Problema é usar pra ficar atacando os outros",
         "Rafael Moura (57707230945348): Deixa o pessoal ser feliz",
@@ -9653,7 +9651,9 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Terminou terapia ocupacional \nAgora tô na de farmácia",
         "Gilmar 😉 (231344856678462): Oi",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): E 50 minutos cada aula",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): 20h já quase moça"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): 20h já quase moça",
+        "Pedro Henrique (172868239380659): Vai sair antes das 22 ?",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): 20:30"
       ]
     },
     "120363428464897153@g.us": {
@@ -16388,6 +16388,18 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "20h já quase moça",
         "timestamp": 1787871118233
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Vai sair antes das 22 ?",
+        "timestamp": 1787871123040
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "20:30",
+        "timestamp": 1787871132232
       }
     ],
     "120363428464897153@g.us": [],
@@ -16719,7 +16731,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20754,
+    "120363432018531082@g.us": 20756,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1619,
@@ -135402,6 +135414,18 @@
         "text": "20h já quase moça",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787871118234
+      },
+      "AC3C9B60DA99711CF072C13DE68B0DE7": {
+        "sender": "172868239380659@lid",
+        "text": "Vai sair antes das 22 ?",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787871123040
+      },
+      "AC4E54A351AF463CFE3C8AF25070AF89": {
+        "sender": "81991328395336@lid",
+        "text": "20:30",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787871132232
       }
     },
     "120363428464897153@g.us": {
@@ -184007,7 +184031,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787871118233,
+    "120363432018531082@g.us": 1787871135460,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787871081553,
