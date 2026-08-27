@@ -321,9 +321,9 @@
         "total": 6
       },
       "247635785080860": {
-        "text": 48,
+        "text": 49,
         "media": 2,
-        "total": 50
+        "total": 51
       },
       "182416270463028": {
         "text": 17,
@@ -9149,7 +9149,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Rafael Moura (57707230945348): E sim desses correios ai",
         "Rafael Moura (57707230945348): Na moral isso ta chatão já",
         "Rafael Moura (57707230945348): Pega e fala na cara",
         "Rafael Moura (57707230945348): Ficam de falsidade nesse negocio. No inicio era legal pela resenha",
@@ -9648,7 +9647,8 @@
         "Celiete Souza (129373172711439): Vocês está bem??",
         "Celiete Souza (129373172711439): Boa noite",
         "Gleydson Souza (274384656834700): Boa",
-        "Celiete Souza (129373172711439): Boa noite"
+        "Celiete Souza (129373172711439): Boa noite",
+        "Jane (247635785080860): Boa noite"
       ]
     },
     "120363428464897153@g.us": {
@@ -15862,30 +15862,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "1395881181241",
-        "authorName": "Bruno Aguiar",
-        "text": "Menos mal que não fui eu kkkk",
-        "timestamp": 1787869205031
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Queria a chuva",
-        "timestamp": 1787869210552
-      },
-      {
-        "authorNum": "274384656834700",
-        "authorName": "Gleydson Souza",
-        "text": "Vdd kkkkk",
-        "timestamp": 1787869211186
-      },
-      {
-        "authorNum": "118395236282617",
-        "authorName": "Caroline",
-        "text": "Aqui tá um friozinho e chuva horrível",
-        "timestamp": 1787869214081
-      },
-      {
         "authorNum": "190864487919667",
         "authorName": "Souza",
         "text": "Amo",
@@ -16424,6 +16400,12 @@
         "authorName": "Celiete Souza",
         "text": "Boa noite",
         "timestamp": 1787870789961
+      },
+      {
+        "authorNum": "247635785080860",
+        "authorName": "Jane",
+        "text": "Boa noite",
+        "timestamp": 1787871015432
       }
     ],
     "120363428464897153@g.us": [],
@@ -16773,7 +16755,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20748,
+    "120363432018531082@g.us": 20749,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1618,
@@ -135420,6 +135402,12 @@
         "text": "Boa noite",
         "pushName": "Celiete Souza",
         "timestamp": 1787870789961
+      },
+      "AC3623DE0BEC9AFD996DE236076501AC": {
+        "sender": "247635785080860@lid",
+        "text": "Boa noite",
+        "pushName": "Jane",
+        "timestamp": 1787871015432
       }
     },
     "120363428464897153@g.us": {
@@ -184019,7 +184007,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787871009531,
+    "120363432018531082@g.us": 1787871015432,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787870923516,
