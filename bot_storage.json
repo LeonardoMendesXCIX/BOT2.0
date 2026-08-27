@@ -128,9 +128,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2023,
+        "text": 2025,
         "media": 267,
-        "total": 2290
+        "total": 2292
       },
       "252922705240205": {
         "text": 80,
@@ -8986,8 +8986,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Paulo (175655757050100): Bommmm diaaaa 🙏",
-        "gigi✨ (60851868446964): Bom dia gente",
         "gigi✨ (60851868446964): Hj ficarei off do grupo",
         "gigi✨ (60851868446964): 🤒",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Boommm diaaaa",
@@ -9485,7 +9483,9 @@
         "Bruno Aguiar (+1395881181241): Hj aqui no sul ta bom pra uma gelada quase 30 graus🥵🥵🍻🍻",
         "Neto prime (238233849983072): Quintou, quase sextou ! Kkkkkk",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Tu é de onde? Sou de Floripa, SC",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Mulher, Deus me defenderay"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Mulher, Deus me defenderay",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): !ban",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Vá com Deus 👋🏻"
       ]
     },
     "120363428464897153@g.us": {
@@ -15568,30 +15568,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "266048007835881",
-        "authorName": "🎀  Ň𝐘ηａ🐆",
-        "text": "@238233849983072 vende a 600 avulso?",
-        "timestamp": 1787857376710
-      },
-      {
-        "authorNum": "238233849983072",
-        "authorName": "Neto prime",
-        "text": "Sim",
-        "timestamp": 1787857382479
-      },
-      {
-        "authorNum": "266048007835881",
-        "authorName": "🎀  Ň𝐘ηａ🐆",
-        "text": "Mais tipo pro pessoal beber aí né",
-        "timestamp": 1787857396767
-      },
-      {
-        "authorNum": "266048007835881",
-        "authorName": "🎀  Ň𝐘ηａ🐆",
-        "text": "Importante e ter não interessa o tamanho kkkk",
-        "timestamp": 1787857443172
-      },
-      {
         "authorNum": "111506477846600",
         "authorName": "'   MƲRIԼԼƠ  🥶",
         "text": "Pensei q já me conheciam e eu ia passar batido",
@@ -16112,6 +16088,18 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Mulher, Deus me defenderay",
         "timestamp": 1787859173434
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "!ban",
+        "timestamp": 1787859248084
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Vá com Deus 👋🏻",
+        "timestamp": 1787859255854
       }
     ],
     "120363428464897153@g.us": [],
@@ -16208,7 +16196,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20175,
+    "120363432018531082@g.us": 20177,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1493,
@@ -131462,6 +131450,18 @@
         "text": "Mulher, Deus me defenderay",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787859173434
+      },
+      "AC9F988DB40C26EA944AA57B21E55CEA": {
+        "sender": "53537388122141@lid",
+        "text": "!ban",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787859248084
+      },
+      "AC5041CAD2AB7830067CCB33B5CDA53A": {
+        "sender": "53537388122141@lid",
+        "text": "Vá com Deus 👋🏻",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787859255854
       }
     },
     "120363428464897153@g.us": {
@@ -179291,7 +179291,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787859210226,
+    "120363432018531082@g.us": 1787859255854,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787859082635,
