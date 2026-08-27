@@ -28,9 +28,9 @@
         "total": 1934
       },
       "81991328395336": {
-        "text": 3774,
+        "text": 3775,
         "media": 1265,
-        "total": 5039
+        "total": 5040
       },
       "179040627490824": {
         "text": 433,
@@ -103,9 +103,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1440,
+        "text": 1442,
         "media": 1079,
-        "total": 2519
+        "total": 2521
       },
       "3126803329115": {
         "text": 87,
@@ -129,8 +129,8 @@
       },
       "53537388122141": {
         "text": 1986,
-        "media": 258,
-        "total": 2244
+        "media": 259,
+        "total": 2245
       },
       "252922705240205": {
         "text": 80,
@@ -2453,14 +2453,19 @@
         "total": 5
       },
       "190864487919667": {
-        "text": 26,
-        "media": 10,
-        "total": 36
+        "text": 28,
+        "media": 11,
+        "total": 39
       },
       "82227819987089": {
         "text": 1,
         "media": 1,
         "total": 2
+      },
+      "19284436713676": {
+        "text": 1,
+        "media": 0,
+        "total": 1
       }
     },
     "120363428464897153@g.us": {
@@ -9321,7 +9326,11 @@
         "Camila Designer (92629643563147): Por isso não chamo ninguém no PV",
         "Souza (190864487919667): Vai que se apaixona né?",
         "Camila Designer (92629643563147): Vai que eles apaixonam 🤣🤣🤣🤣",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tá perdendo os peitorais mulher"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tá perdendo os peitorais mulher",
+        "Souza (190864487919667): Da última vez que chamei alguém, deu ruim",
+        "Camila Designer (92629643563147): Gosto de compartilhar com as amigas aqui do grupo 🤣🤣",
+        "Souza (190864487919667): Ave Maria",
+        "Camila Designer (92629643563147): Diga mais kkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -16101,6 +16110,30 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Tá perdendo os peitorais mulher",
         "timestamp": 1787847302532
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Da última vez que chamei alguém, deu ruim",
+        "timestamp": 1787847329989
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Gosto de compartilhar com as amigas aqui do grupo 🤣🤣",
+        "timestamp": 1787847335473
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Ave Maria",
+        "timestamp": 1787847341947
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Diga mais kkk",
+        "timestamp": 1787847350948
       }
     ],
     "120363428464897153@g.us": [],
@@ -16118,7 +16151,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19992,
+    "120363432018531082@g.us": 19996,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -130284,6 +130317,30 @@
         "text": "Tá perdendo os peitorais mulher",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787847302532
+      },
+      "ACFA9BD22610D2FC49AFA960FD49D8E6": {
+        "sender": "190864487919667@lid",
+        "text": "Da última vez que chamei alguém, deu ruim",
+        "pushName": "Souza",
+        "timestamp": 1787847329989
+      },
+      "2A59A3AB8F32F0CB2000": {
+        "sender": "92629643563147@lid",
+        "text": "Gosto de compartilhar com as amigas aqui do grupo 🤣🤣",
+        "pushName": "Camila Designer",
+        "timestamp": 1787847335473
+      },
+      "AC67EA1AB1BB3A79BB800D741AB18F5D": {
+        "sender": "190864487919667@lid",
+        "text": "Ave Maria",
+        "pushName": "Souza",
+        "timestamp": 1787847341947
+      },
+      "2A6FF91BAAB1AA91C379": {
+        "sender": "92629643563147@lid",
+        "text": "Diga mais kkk",
+        "pushName": "Camila Designer",
+        "timestamp": 1787847350948
       }
     },
     "120363428464897153@g.us": {
@@ -178035,7 +178092,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787847304062,
+    "120363432018531082@g.us": 1787847350948,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
