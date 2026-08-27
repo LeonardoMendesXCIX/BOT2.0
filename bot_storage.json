@@ -139,9 +139,9 @@
         "total": 458
       },
       "145381035905262": {
-        "text": 2147,
+        "text": 2148,
         "media": 463,
-        "total": 2610
+        "total": 2611
       },
       "184237705699536": {
         "text": 524,
@@ -2722,8 +2722,8 @@
       },
       "92629643563147": {
         "text": 490,
-        "media": 296,
-        "total": 786
+        "media": 297,
+        "total": 787
       },
       "122552932372575": {
         "text": 0,
@@ -8408,7 +8408,6 @@
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Cai  de paraquedas Aki e já descobri meio mundo de coisas kkkkkk"
       ],
       "26/08/2026": [
-        "Celiete Souza (129373172711439): Eu não tenho 🤭🤭🤭🤭",
         "Celiete Souza (129373172711439): E só o café mesmo",
         "Camila Designer (92629643563147): Eu também não amiga, toca aqui",
         "Celiete Souza (129373172711439): Vamos de café mesmo",
@@ -8907,7 +8906,8 @@
         "Gabriel (145381035905262): Aconteceu Sasa, tô cheio de fome, preciso comer, mas já volto",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Pqp, vai matar de susto 😂",
         "Gabriel (145381035905262): Pera que vou salvar, essa obra de arte",
-        "Leandro (+55 (11) 92701-8683): É comida agora?? Eu vi o que vocês não viram, e que continuem sem ver 🤭😏"
+        "Leandro (+55 (11) 92701-8683): É comida agora?? Eu vi o que vocês não viram, e que continuem sem ver 🤭😏",
+        "Gabriel (145381035905262): @81991328395336  quando quer comida e tá demorando"
       ]
     },
     "120363428464897153@g.us": {
@@ -14709,12 +14709,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "233161007071346",
-        "authorName": "Milena B. Costa",
-        "text": "Gente....",
-        "timestamp": 1787793144403
-      },
-      {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Diziti",
@@ -14839,6 +14833,12 @@
         "authorName": "Leandro",
         "text": "É comida agora?? Eu vi o que vocês não viram, e que continuem sem ver 🤭😏",
         "timestamp": 1787794830832
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "@81991328395336  quando quer comida e tá demorando",
+        "timestamp": 1787794944870
       }
     ],
     "120363428464897153@g.us": [
@@ -15505,7 +15505,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19574,
+    "120363432018531082@g.us": 19575,
     "120363428464897153@g.us": 5637,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1422,
@@ -127200,6 +127200,12 @@
         "text": "É comida agora?? Eu vi o que vocês não viram, e que continuem sem ver 🤭😏",
         "pushName": "Leandro",
         "timestamp": 1787794830832
+      },
+      "ACD2FDF46C073B6D804D2906FD281662": {
+        "sender": "145381035905262@lid",
+        "text": "@81991328395336  quando quer comida e tá demorando",
+        "pushName": "Gabriel",
+        "timestamp": 1787794944870
       }
     },
     "120363428464897153@g.us": {
@@ -172168,8 +172174,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787794899361,
-    "120363428464897153@g.us": 1787794907682,
+    "120363432018531082@g.us": 1787794944870,
+    "120363428464897153@g.us": 1787794956098,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787793125283,
     "120363411233423709@g.us": 1787113553426,
