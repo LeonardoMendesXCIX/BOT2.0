@@ -128,9 +128,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 1946,
+        "text": 1948,
         "media": 248,
-        "total": 2194
+        "total": 2196
       },
       "252922705240205": {
         "text": 80,
@@ -8926,7 +8926,9 @@
         "Bruno Aguiar (+1395881181241): Bom dia",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem e você??",
         "Bruno Aguiar (+1395881181241): Bom dia",
-        "Baby (179040627490824): Baaaa vai indo mais um dia q a insônia ganhou"
+        "Baby (179040627490824): Baaaa vai indo mais um dia q a insônia ganhou",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bah sinto muito...",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bom dia!"
       ]
     },
     "120363428464897153@g.us": {
@@ -15051,6 +15053,18 @@
         "authorName": "Baby",
         "text": "Baaaa vai indo mais um dia q a insônia ganhou",
         "timestamp": 1787825473371
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Bah sinto muito...",
+        "timestamp": 1787825510068
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Bom dia!",
+        "timestamp": 1787825513153
       }
     ],
     "120363428464897153@g.us": [],
@@ -15068,7 +15082,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19667,
+    "120363432018531082@g.us": 19669,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1456,
@@ -127300,6 +127314,18 @@
         "text": "Baaaa vai indo mais um dia q a insônia ganhou",
         "pushName": "Baby",
         "timestamp": 1787825473371
+      },
+      "AC984AFAB7C29A0D85620797BB4DB959": {
+        "sender": "53537388122141@lid",
+        "text": "Bah sinto muito...",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787825510068
+      },
+      "AC0B0B3B2C0D1F21A62CDB647C1AC89C": {
+        "sender": "53537388122141@lid",
+        "text": "Bom dia!",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787825513153
       }
     },
     "120363428464897153@g.us": {
@@ -174901,7 +174927,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787825473371,
+    "120363432018531082@g.us": 1787825513153,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787814068637,
