@@ -20,6 +20,9 @@ const userMessageHistory: Record<string, number[]> = {};
 
 const aiCooldowns: Record<string, Record<string, number>> = {};
 
+// CORREÇÃO ADICIONADA AQUI: Mapa para controlar cooldown do comando de admins
+const lastAdminResponse = new Map<string, number>();
+
 function levenshteinDistance(a: string, b: string): number {
     const matrix: number[][] = [];
     for (let i = 0; i <= b.length; i++) matrix[i] = [i];
@@ -55,7 +58,6 @@ function findSuggestedCommand(inputCmd: string): string | null {
     }
     return bestMatch;
 }
-
 
 export function getMessageText(msg: proto.IWebMessageInfo): string {
     const m = msg.message;
@@ -101,7 +103,7 @@ export async function handleCommand(
         IGNORED_MULTIMEDIA_PREFIXES.includes(firstWord) || 
         IGNORED_MULTIMEDIA_PREFIXES.some(prefix => textLower.startsWith(prefix + ' ') || textLower.startsWith(prefix + '+'))
     ) {
-        return; // Silêncio total: permite que o bot-musica-cloud responda sem interferência do BOT2.0
+        return;
     }
 
     // =========================================================================
@@ -148,7 +150,6 @@ export async function handleCommand(
         return;
     }
 
-    
     // =========================================================================
     // CANCELAMENTO UNIVERSAL DE MENUS INTERATIVOS (!cancelar / sair)
     // =========================================================================
@@ -181,17 +182,12 @@ export async function handleCommand(
             }
         }
 
-
-
         // 🧠 CLUSTER DE MEMÓRIA EM TEMPO REAL (MÁXIMO 30 MINUTOS)
         if (text && !key.fromMe) {
             storage.addMessageToCluster(chatId, userInfo.number, userInfo.pushName, text);
         }
     }
 
-
-    // =========================================================================
-    
     // =========================================================================
     // 2. INTERCEPTOR PASSIVO: FLUXO DE DIVULGAÇÃO PROGRAMADA (!divulga)
     // =========================================================================
@@ -391,12 +387,22 @@ export async function handleCommand(
         }
     }
 
-    // ===    // =========================================================================
+    // =========================================================================
     // 5. DETECTOR NATURAL DE PERGUNTAS SOBRE ADMINISTRADORES DO GRUPO
+    // CORREÇÃO APLICADA AQUI: Adicionado cooldown de 10 segundos para evitar loop infinito
     // =========================================================================
     const isAdminQuery = /(quem\s+(é|eh|sao|são)\s+(os|o)?\s*(admin|admins|administrador|administradores|adm|adms)|quem\s+manda|admins\s+do\s+grupo|administradores\s+do\s+grupo|marcar\s+adms|chama\s+os\s+adms)/i.test(textLower) || ['!admins', '!adms'].includes(firstWord);
 
     if (isGroup && isAdminQuery && !storage.isFeatureDisabled(chatId, 'admins')) {
+        // CORREÇÃO: Verifica se respondeu nos últimos 10 segundos
+        const lastTime = lastAdminResponse.get(chatId) || 0;
+        const now = Date.now();
+        
+        if (now - lastTime < 10000) {
+            // Se respondeu recentemente, ignora para evitar loop
+            return;
+        }
+
         try {
             const groupMeta = await sock.groupMetadata(chatId);
             const botIdClean = sock.user?.id ? sock.user.id.split(':')[0].replace(/\D/g, '') : '';
@@ -434,6 +440,9 @@ export async function handleCommand(
             });
 
             adminReport += `\n_Total: ${admins.length} administrador(es) ativos._`;
+
+            // CORREÇÃO: Atualiza o timestamp da última resposta ANTES de enviar
+            lastAdminResponse.set(chatId, now);
 
             await sock.sendMessage(chatId, { text: adminReport, mentions: Array.from(new Set(mentionsArr)) }, { quoted: msg });
             return;
@@ -476,15 +485,12 @@ export async function handleCommand(
                 const hasLink = /(chat\.whatsapp\.com\/|wa\.me\/|https?:\/\/[^\s]+|www\.[^\s]+)/i.test(text);
                 if (hasLink) {
                     try {
-                        // 1. Apaga a mensagem com o link
                         await sock.sendMessage(chatId, { delete: key });
                     } catch (e) {}
 
                     try {
-                        // 2. Remove o participante imediatamente
                         await sock.groupParticipantsUpdate(chatId, [sender], 'remove');
 
-                        // 3. Avisa no chat
                         await sock.sendMessage(chatId, {
                             text: `🚫 *ANTI-LINK (EXPULSÃO AUTOMÁTICA)* 🚫\n\n` +
                                   `👤 *Infrator:* ${userInfo.mentionTag} (*${userInfo.pushName}*)\n` +
@@ -513,7 +519,6 @@ export async function handleCommand(
             }
         }
 
-        
         // Transcrição Automática de Áudio (se ativada no grupo via !transcrever on)
         const isAutoTranscribe = !storage.isFeatureDisabled(chatId, 'audio_transcribe') && storage.data.autoTranscribe?.[chatId] === true;
         if (isAutoTranscribe && msg.message?.audioMessage && !key.fromMe && !storage.isGroupClosed(chatId)) {
@@ -531,7 +536,6 @@ export async function handleCommand(
             } catch (e) {}
         }
 
-        
         // Armazenamento em Buffer para Anti-Delete (Últimas 300 mensagens)
         if (msg.key.id && text) {
             if (!storage.data.messageBuffer) storage.data.messageBuffer = {};
@@ -685,8 +689,6 @@ export async function handleCommand(
     if (isGroup && firstWord.startsWith('!') && !isNavigatingMenu) {
         const featKey = FEATURE_MAP[firstWord];
         if (featKey && featKey !== 'bot_master' && storage.isFeatureDisabled(chatId, featKey)) {
-
-
             const featName = FEATURE_NAMES[featKey] || firstWord;
             await sock.sendMessage(chatId, {
                 text: `⚠️ *PROTOCOLO DESATIVADO NESTE GRUPO*\n\nO módulo *${featName}* está desligado neste grupo.\n_Administradores podem reativá-lo com:_ \`${firstWord} on\``,
@@ -696,12 +698,6 @@ export async function handleCommand(
         }
     }
 
-    // ==========================================
-    
-    
-    
-    // ==========================================
-    // ==========================================
     // ==========================================
     // RESPOSTA EM VOZ / TTS (!voz / !falar)
     // ==========================================
@@ -744,7 +740,6 @@ export async function handleCommand(
             return;
         }
 
-        
         // Cooldown de 15 segundos para membros comuns em comandos de IA
         const userRole = parseInt(getUserRole(userId, storage.data.users));
         if (userRole < 2) {
@@ -851,7 +846,7 @@ export async function handleCommand(
         }
 
         const pollQuestion = parts[0];
-        const pollOptions = parts.slice(1, 12); // Até 11 opções suportadas
+        const pollOptions = parts.slice(1, 12);
 
         try {
             await sock.sendMessage(chatId, {
@@ -870,7 +865,6 @@ export async function handleCommand(
     }
 
     // COMANDO !divulga (PROGRAMAR DIVULGAÇÃO & HORÁRIO LIVRE DE LINKS)
-    // ==========================================
     if (['!divulga', '!divulgar'].includes(firstWord)) {
         if (!isGroup) {
             await sock.sendMessage(chatId, { text: '❌ Este comando só pode ser usado em grupos.' }, { quoted: msg });
@@ -947,7 +941,7 @@ export async function handleCommand(
 
                 for (const p of participantsList) {
                     const isAdmin = p.admin === 'admin' || p.admin === 'superadmin';
-                    if (isAdmin) continue; // Nunca remove administradores
+                    if (isAdmin) continue;
 
                     let raw = extractRawNumber(p.id);
                     const isBr = raw.startsWith('55') && (raw.length === 12 || raw.length === 13);
@@ -973,7 +967,7 @@ export async function handleCommand(
                         removedCount++;
                         const info = getUserInfo(target.id, target.name || (target as any).notify);
                         removedNames.push(`• ${info.fullDisplay}`);
-                        await new Promise(r => setTimeout(r, 600)); // Pequeno delay de segurança
+                        await new Promise(r => setTimeout(r, 600));
                     } catch (errRemove: any) {
                         console.error('[ERRO REMOVER FAKE NA VARREDURA]', errRemove.message);
                     }
@@ -993,7 +987,6 @@ export async function handleCommand(
         }
     }
 
-    
     // ==========================================
     // FIXAR MENSAGEM NO TOPO DO GRUPO (!fixar / !desfixar)
     // ==========================================
@@ -1025,7 +1018,7 @@ export async function handleCommand(
         const isUnpin = firstWord === '!desfixar' || firstWord === '!unpin';
 
         try {
-            let durationSeconds = 604800; // 7 dias padrão
+            let durationSeconds = 604800;
             const subArg = text.slice(firstWord.length).trim().toLowerCase();
             if (subArg === '24h' || subArg === '1d') durationSeconds = 86400;
             if (subArg === '30d' || subArg === '1m') durationSeconds = 2592000;
@@ -1090,7 +1083,6 @@ export async function handleCommand(
         return;
     }
 
-    
     // ==========================================
     // MARCAR TODOS OS MEMBROS (!todos / !all / !marcartodos)
     // ==========================================
@@ -1114,7 +1106,6 @@ export async function handleCommand(
             const participants = groupMeta.participants || [];
             const participantsJids = participants.map(p => p.id);
 
-            // Alvo a ser citado (a mensagem respondida ou a mensagem do próprio comando)
             const quoteTarget = isQuotingMessage ? {
                 key: {
                     remoteJid: chatId,
@@ -1125,19 +1116,16 @@ export async function handleCommand(
             } : msg;
 
             if (isQuotingMessage && !customMsg) {
-                // Se marcou !todos respondendo a uma mensagem sem texto adicional: cita diretamente a mensagem com @todos @all
                 await sock.sendMessage(chatId, {
                     text: `📢 @todos @all`,
                     mentions: participantsJids
                 }, { quoted: quoteTarget as any });
             } else if (isQuotingMessage && customMsg) {
-                // Se respondeu a uma mensagem com texto adicional
                 await sock.sendMessage(chatId, {
                     text: `*${customMsg}*\n\n📢 @todos @all`,
                     mentions: participantsJids
                 }, { quoted: quoteTarget as any });
             } else if (customMsg) {
-                // Se enviou !todos com mensagem avulsa
                 let alertText = `📢 *CHAMADA GERAL DO GRUPO* 📢\n\n` +
                                 `📝 *Mensagem:*\n${customMsg}\n\n` +
                                 `👤 *Chamado por:* ${userInfo.fullDisplay}\n` +
@@ -1147,7 +1135,6 @@ export async function handleCommand(
                     mentions: participantsJids
                 });
             } else {
-                // !todos avulso simples
                 await sock.sendMessage(chatId, {
                     text: `📢 @todos @all\n\n👤 *Chamado por:* ${userInfo.fullDisplay}`,
                     mentions: participantsJids
@@ -1639,61 +1626,6 @@ export async function handleCommand(
     // ==========================================
     // VARREDURA E AUTO-REMOÇÃO DE INATIVOS (!inativos / !fantasmas)
     // ==========================================
-        // ==========================================
-    // MENSAGEM CUSTOMIZADA DE INATIVOS (!inativosmsg + [mensagem])
-    // ==========================================
-    if (['!inativosmsg', '!msginativos'].includes(firstWord)) {
-        if (!isGroup) {
-            await sock.sendMessage(chatId, { text: '❌ Este comando só pode ser usado em grupos.' }, { quoted: msg });
-            return;
-        }
-        const userRole = parseInt(getUserRole(userId, storage.data.users));
-        if (userRole < 2) {
-            await sock.sendMessage(chatId, { text: `❌ ${userInfo.pushName}, apenas administradores podem configurar a mensagem de inativos.` }, { quoted: msg });
-            return;
-        }
-
-        let customText = '';
-        if (text.includes('+')) {
-            customText = text.slice(text.indexOf('+') + 1).trim();
-        } else {
-            customText = text.slice(firstWord.length).trim();
-        }
-
-        if (!customText) {
-            const currentMsg = storage.data.inativosMsgs?.[chatId]?.text;
-            let info = `🧹 *MENSAGEM PÓS-LIMPEZA DE INATIVOS*\n\n`;
-            if (currentMsg) {
-                info += `📝 *Mensagem Atual Cadastrada:*\n"${currentMsg}"\n\n`;
-            } else {
-                info += `ℹ️ Nenhuma mensagem personalizada cadastrada para este grupo (usando mensagem padrão).\n\n`;
-            }
-            info += `*Como definir uma nova mensagem:*\n` +
-                    `\`!inativosmsg + [Sua mensagem personalizada aqui]\`\n\n` +
-                    `_Exemplo:_\n\`!inativosmsg + Pessoal, acabamos de fazer uma limpeza de inativos! Quem não interagir será removido nas próximas limpezas.\``;
-            await sock.sendMessage(chatId, { text: info }, { quoted: msg });
-            return;
-        }
-
-        if (!storage.data.inativosMsgs) storage.data.inativosMsgs = {};
-        storage.data.inativosMsgs[chatId] = {
-            text: customText,
-            setBy: userId,
-            date: new Date().toISOString()
-        };
-        storage.flagSave();
-
-        await sock.sendMessage(chatId, {
-            text: `✅ *MENSAGEM DE PÓS-LIMPEZA DEFINIDA COM SUCESSO!*\n\n` +
-                  `Sempre que o comando \`!inativos\` for acionado, os membros inativos serão removidos e o bot disparará:\n\n` +
-                  `"${customText}"`
-        }, { quoted: msg });
-        return;
-    }
-
-    // ==========================================
-    // VARREDURA E AUTO-REMOÇÃO DE INATIVOS (!inativos / !fantasmas)
-    // ==========================================
     if (['!inativos', '!fantasmas'].includes(firstWord)) {
         if (!isGroup) {
             await sock.sendMessage(chatId, { text: '❌ Este comando só pode ser usado em grupos.' }, { quoted: msg });
@@ -1717,12 +1649,11 @@ export async function handleCommand(
 
             for (const p of participants) {
                 const isAdm = p.admin === 'admin' || p.admin === 'superadmin';
-                if (isAdm) continue; // Nunca remove administradores
+                if (isAdm) continue;
 
                 const pIdClean = p.id ? p.id.split('@')[0].split(':')[0].replace(/\D/g, '') : '';
                 const pLidClean = p.lid ? p.lid.split('@')[0].split(':')[0].replace(/\D/g, '') : '';
 
-                // Nunca remove o próprio bot
                 if (
                     (rawBotNum && (checkMatch(rawBotNum, pIdClean) || checkMatch(rawBotNum, pLidClean))) ||
                     (botId && p.id && p.id.startsWith(botId.split(':')[0]))
@@ -1736,12 +1667,10 @@ export async function handleCommand(
                 
                 const pNum = realPhoneNum || pIdClean;
 
-                // Nunca remove o criador Leandro
                 if (checkMatch('5511927018683', pNum) || checkMatch(RBAC.superAdmin, pNum)) {
                     continue;
                 }
 
-                // Checa se o membro tem mensagens registradas
                 const hasActivity = (stats[pNum] && stats[pNum].total > 0) || (realPhoneNum && stats[realPhoneNum] && stats[realPhoneNum].total > 0);
                 if (!hasActivity) {
                     const pName = p.name || (p as any).notify || (p as any).verifiedName || '';
@@ -1757,7 +1686,6 @@ export async function handleCommand(
                 return;
             }
 
-            // Salva o estado para confirmação interativa
             storage.data.states[userId] = {
                 mode: 'inativos_confirm_removal',
                 targetChat: chatId,
@@ -2139,8 +2067,6 @@ export async function handleCommand(
     }
 
     // ==========================================
-    
-    // ==========================================
     // SAUDAÇÃO DE BOAS-VINDAS (!sa / !boasvindas)
     // ==========================================
     if (['!sa', '!boasvindas'].includes(firstWord)) {
@@ -2315,7 +2241,6 @@ export async function handleCommand(
     }
 
     // COMANDO !ajuda
-    // ==========================================
     if (text.toLowerCase() === '!ajuda') {
         const userRole = parseInt(getUserRole(userId, storage.data.users));
         const isAdmin = userRole >= 2;

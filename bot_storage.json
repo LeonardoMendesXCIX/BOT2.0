@@ -2516,9 +2516,9 @@
         "total": 78
       },
       "81991328395336": {
-        "text": 547,
+        "text": 549,
         "media": 154,
-        "total": 701
+        "total": 703
       },
       "99338701258949": {
         "text": 499,
@@ -2761,9 +2761,9 @@
         "total": 9
       },
       "129373172711439": {
-        "text": 859,
-        "media": 205,
-        "total": 1064
+        "text": 861,
+        "media": 207,
+        "total": 1068
       },
       "16007578021977": {
         "text": 50,
@@ -2927,8 +2927,8 @@
       },
       "266048007835881": {
         "text": 154,
-        "media": 69,
-        "total": 223
+        "media": 71,
+        "total": 225
       },
       "123120354635955": {
         "text": 1,
@@ -12124,7 +12124,6 @@
         "Leandro (+55 (11) 92701-8683): Mais tarde, quando o kbaré abrir, tu se apresenta @66743926038604"
       ],
       "26/08/2026": [
-        "Camila Designer (92629643563147): Ficaria melhor sem camisa 😏😏😏",
         "Celiete Souza (129373172711439): Boa noite",
         "Celiete Souza (129373172711439): Gente",
         "Camila Designer (92629643563147): Noite!❤️",
@@ -12623,7 +12622,8 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Domaram a onça?",
         "Leandro (+55 (11) 92701-8683): Mentiraa",
         "Leandro (+55 (11) 92701-8683): Quem foi o kbra valente?",
-        "negoh🐻 (120044990287992): Tô caindo de sono"
+        "negoh🐻 (120044990287992): Tô caindo de sono",
+        "Celiete Souza (129373172711439): Uma das onças foi raptada"
       ]
     },
     "120363409727467494@g.us": {
@@ -15149,6 +15149,12 @@
         "authorName": "negoh🐻",
         "text": "Tô caindo de sono",
         "timestamp": 1787798962469
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Uma das onças foi raptada",
+        "timestamp": 1787799023882
       }
     ],
     "120363409727467494@g.us": [],
@@ -15165,7 +15171,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 19609,
-    "120363428464897153@g.us": 5845,
+    "120363428464897153@g.us": 5846,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1433,
     "120363411233423709@g.us": 5,
@@ -161307,6 +161313,12 @@
         "text": "Tô caindo de sono",
         "pushName": "negoh🐻",
         "timestamp": 1787798962469
+      },
+      "AC12B00FF2AA30F7C8380A3D2F3C1A5E": {
+        "sender": "129373172711439@lid",
+        "text": "Uma das onças foi raptada",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787799023882
       }
     },
     "120363409727467494@g.us": {
@@ -173304,7 +173316,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787798461001,
-    "120363428464897153@g.us": 1787798997444,
+    "120363428464897153@g.us": 1787799049852,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787797187001,
     "120363411233423709@g.us": 1787113553426,
