@@ -242,8 +242,8 @@
       },
       "53537388122141": {
         "text": 2081,
-        "media": 274,
-        "total": 2355
+        "media": 275,
+        "total": 2356
       },
       "252922705240205": {
         "text": 80,
@@ -2561,9 +2561,9 @@
         "total": 2
       },
       "11171897864256": {
-        "text": 12,
+        "text": 14,
         "media": 1,
-        "total": 13
+        "total": 15
       },
       "190864487919667": {
         "text": 68,
@@ -2626,9 +2626,9 @@
         "total": 16
       },
       "172868239380659": {
-        "text": 4,
+        "text": 5,
         "media": 1,
-        "total": 5
+        "total": 6
       },
       "170455038193841": {
         "text": 1,
@@ -9114,9 +9114,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "massagista tântrico (129158944415753): E só pedir que obedecerei",
-        "Rafael Moura (57707230945348): Boa tarde",
-        "Rafael Moura (57707230945348): Otima quinta a todos",
         "massagista tântrico (129158944415753): Pode te chamar no pv",
         "massagista tântrico (129158944415753): Rssd",
         "Rafael Moura (57707230945348): Sem tempo de interagir, não me removam",
@@ -9613,7 +9610,10 @@
         "🙃🙃🙃 (11171897864256): De boa pensando se eu vou trabalhar hoje",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Minha nossa senhora",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Uai, pq não iria?",
-        "Pedro Henrique (172868239380659): Não ouse"
+        "Pedro Henrique (172868239380659): Não ouse",
+        "🙃🙃🙃 (11171897864256): Cansado , suporta aquele povo no bar",
+        "Pedro Henrique (172868239380659): Eu pensei, eu pensamos..",
+        "🙃🙃🙃 (11171897864256): E um restaurante e tem o barzinho"
       ]
     },
     "120363428464897153@g.us": {
@@ -15730,24 +15730,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "90130358485223",
-        "authorName": "Gabriel Ohi",
-        "text": "Sim kkkk",
-        "timestamp": 1787861827647
-      },
-      {
-        "authorNum": "266048007835881",
-        "authorName": "🎀  Ň𝐘ηａ🐆",
-        "text": "Vc não! Mais falaram Aki sim hahah",
-        "timestamp": 1787861828724
-      },
-      {
-        "authorNum": "187097969348735",
-        "authorName": "Jonathan Bráulio",
-        "text": "Por mais homens assim kkkkk",
-        "timestamp": 1787861835130
-      },
-      {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Tô só de 👀👀👀",
@@ -16058,6 +16040,24 @@
         "authorName": "Pedro Henrique",
         "text": "Não ouse",
         "timestamp": 1787863623984
+      },
+      {
+        "authorNum": "11171897864256",
+        "authorName": "🙃🙃🙃",
+        "text": "Cansado , suporta aquele povo no bar",
+        "timestamp": 1787863642178
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Eu pensei, eu pensamos..",
+        "timestamp": 1787863648666
+      },
+      {
+        "authorNum": "11171897864256",
+        "authorName": "🙃🙃🙃",
+        "text": "E um restaurante e tem o barzinho",
+        "timestamp": 1787863652089
       }
     ],
     "120363428464897153@g.us": [],
@@ -16130,7 +16130,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20341,
+    "120363432018531082@g.us": 20344,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1525,
@@ -132355,6 +132355,24 @@
         "text": "Não ouse",
         "pushName": "Pedro Henrique",
         "timestamp": 1787863623985
+      },
+      "ACB2E63F11C91FDBC3BF4942E789F57D": {
+        "sender": "11171897864256@lid",
+        "text": "Cansado , suporta aquele povo no bar",
+        "pushName": "🙃🙃🙃",
+        "timestamp": 1787863642179
+      },
+      "AC7B5433B720CBB599EB9024930C8F63": {
+        "sender": "172868239380659@lid",
+        "text": "Eu pensei, eu pensamos..",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787863648666
+      },
+      "AC1823DD6208629B0FB35A37C49A3B24": {
+        "sender": "11171897864256@lid",
+        "text": "E um restaurante e tem o barzinho",
+        "pushName": "🙃🙃🙃",
+        "timestamp": 1787863652089
       }
     },
     "120363428464897153@g.us": {
@@ -180382,7 +180400,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787863626417,
+    "120363432018531082@g.us": 1787863652089,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787863534146,
