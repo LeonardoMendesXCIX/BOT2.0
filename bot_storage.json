@@ -129,9 +129,9 @@
         "total": 1920
       },
       "81991328395336": {
-        "text": 3711,
-        "media": 1244,
-        "total": 4955
+        "text": 3712,
+        "media": 1246,
+        "total": 4958
       },
       "179040627490824": {
         "text": 382,
@@ -230,8 +230,8 @@
       },
       "53537388122141": {
         "text": 1939,
-        "media": 242,
-        "total": 2181
+        "media": 243,
+        "total": 2182
       },
       "252922705240205": {
         "text": 80,
@@ -2721,9 +2721,9 @@
         "total": 1
       },
       "92629643563147": {
-        "text": 487,
-        "media": 282,
-        "total": 769
+        "text": 489,
+        "media": 284,
+        "total": 773
       },
       "122552932372575": {
         "text": 0,
@@ -2926,9 +2926,9 @@
         "total": 1
       },
       "266048007835881": {
-        "text": 80,
-        "media": 42,
-        "total": 122
+        "text": 82,
+        "media": 43,
+        "total": 125
       },
       "123120354635955": {
         "text": 1,
@@ -8393,8 +8393,6 @@
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Cai  de paraquedas Aki e já descobri meio mundo de coisas kkkkkk"
       ],
       "26/08/2026": [
-        "Baby (179040627490824): kkkkk",
-        "Juliano Perlin (222595437858867): Boa tarde🤗🤗",
         "Juliano Perlin (222595437858867): Obrigado🥰",
         "Celiete Souza (129373172711439): Boa tarde fogolento 🔥",
         "Celiete Souza (129373172711439): Cafezinho após almoço rola?",
@@ -8892,7 +8890,9 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): @145381035905262 \n@233161007071346",
         "Gabriel (145381035905262): Ela toda",
         "Caroline (118395236282617): Uiii tô indo",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): @81991328395336 sem sal, diz o ser humano\n@54259127210155"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): @81991328395336 sem sal, diz o ser humano\n@54259127210155",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @92629643563147",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Sou nem tempero pra andar com sal criatura 🤌🏽"
       ]
     },
     "120363428464897153@g.us": {
@@ -12099,9 +12099,6 @@
         "Leandro (+55 (11) 92701-8683): Mais tarde, quando o kbaré abrir, tu se apresenta @66743926038604"
       ],
       "26/08/2026": [
-        "Celiete Souza (129373172711439): Gente mais madura",
-        "DANIGXX (136408815665242): Ubatuba é o pico",
-        "DANIGXX (136408815665242): Calor e clima tropical rsrs",
         "Celiete Souza (129373172711439): Eu próximo a Porto Alegre",
         "gigi✨ (60851868446964): Tá molhe",
         "gigi✨ (60851868446964): Tá parecendo fo vídeo",
@@ -12598,7 +12595,10 @@
         "Camila Designer (92629643563147): Hoje tá fraco amiga",
         "Neto prime (238233849983072): Ewe @266048007835881 pego passagem pra ir pra Brasília ou pego pra vc vir pra cá? Só falar a data que está disponível kkkkk  pra gente matar essa saudade do que a gente ainda não viveu",
         "Celiete Souza (129373172711439): Pois então",
-        "Celiete Souza (129373172711439): Preciso te dar um feedback no PV depois"
+        "Celiete Souza (129373172711439): Preciso te dar um feedback no PV depois",
+        "Camila Designer (92629643563147): Cadê os novatos que entrou mais cedo?",
+        "🎀  Ň𝐘ηａ🐆 (266048007835881): Já gostei dele , kkkk direto igual eu",
+        "Camila Designer (92629643563147): As novatas também 👀"
       ]
     },
     "120363409727467494@g.us": {
@@ -14688,12 +14688,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Tem meu voto 🙋🏻‍♂️",
-        "timestamp": 1787792144987
-      },
-      {
         "authorNum": "262182034002040",
         "authorName": "Dany",
         "text": "QUE BOLO BONITO PQP",
@@ -14818,15 +14812,21 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "@81991328395336 sem sal, diz o ser humano\n@54259127210155",
         "timestamp": 1787793940381
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "@92629643563147",
+        "timestamp": 1787794002535
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Sou nem tempero pra andar com sal criatura 🤌🏽",
+        "timestamp": 1787794020553
       }
     ],
     "120363428464897153@g.us": [
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Tu não abra @81991328395336",
-        "timestamp": 1787792193739
-      },
       {
         "authorNum": "120044990287992",
         "authorName": "negoh🐻",
@@ -15612,6 +15612,24 @@
         "authorName": "Celiete Souza",
         "text": "Preciso te dar um feedback no PV depois",
         "timestamp": 1787793981595
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Cadê os novatos que entrou mais cedo?",
+        "timestamp": 1787793989810
+      },
+      {
+        "authorNum": "266048007835881",
+        "authorName": "🎀  Ň𝐘ηａ🐆",
+        "text": "Já gostei dele , kkkk direto igual eu",
+        "timestamp": 1787793995712
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "As novatas também 👀",
+        "timestamp": 1787793997503
       }
     ],
     "120363409727467494@g.us": [],
@@ -15724,8 +15742,8 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19563,
-    "120363428464897153@g.us": 5601,
+    "120363432018531082@g.us": 19565,
+    "120363428464897153@g.us": 5604,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1422,
     "120363411233423709@g.us": 5,
@@ -127353,6 +127371,18 @@
         "text": "@81991328395336 sem sal, diz o ser humano\n@54259127210155",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787793940381
+      },
+      "AC4D9D6B7ED3417A899FF1DF98CF84E8": {
+        "sender": "81991328395336@lid",
+        "text": "@92629643563147",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787794002535
+      },
+      "ACFF19204D280A07F375AD54B7BEE8D3": {
+        "sender": "81991328395336@lid",
+        "text": "Sou nem tempero pra andar com sal criatura 🤌🏽",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787794020553
       }
     },
     "120363428464897153@g.us": {
@@ -160169,6 +160199,24 @@
         "text": "Preciso te dar um feedback no PV depois",
         "pushName": "Celiete Souza",
         "timestamp": 1787793981595
+      },
+      "2AEDE62047742EA85484": {
+        "sender": "92629643563147@lid",
+        "text": "Cadê os novatos que entrou mais cedo?",
+        "pushName": "Camila Designer",
+        "timestamp": 1787793989811
+      },
+      "AC1CD2BB4AA905E351A38808D5A064F5": {
+        "sender": "266048007835881@lid",
+        "text": "Já gostei dele , kkkk direto igual eu",
+        "pushName": "🎀  Ň𝐘ηａ🐆",
+        "timestamp": 1787793995712
+      },
+      "2ACB5B8F435B01DA579E": {
+        "sender": "92629643563147@lid",
+        "text": "As novatas também 👀",
+        "pushName": "Camila Designer",
+        "timestamp": 1787793997503
       }
     },
     "120363409727467494@g.us": {
@@ -172069,8 +172117,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787793940381,
-    "120363428464897153@g.us": 1787793981595,
+    "120363432018531082@g.us": 1787794029120,
+    "120363428464897153@g.us": 1787794028459,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787793125283,
     "120363411233423709@g.us": 1787113553426,
