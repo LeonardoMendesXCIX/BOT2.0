@@ -141,9 +141,9 @@
         "total": 1940
       },
       "81991328395336": {
-        "text": 3843,
+        "text": 3845,
         "media": 1300,
-        "total": 5143
+        "total": 5145
       },
       "179040627490824": {
         "text": 433,
@@ -321,9 +321,9 @@
         "total": 6
       },
       "247635785080860": {
-        "text": 49,
+        "text": 51,
         "media": 2,
-        "total": 51
+        "total": 53
       },
       "182416270463028": {
         "text": 17,
@@ -9154,9 +9154,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Rafael Moura (57707230945348): Mas agora virou caso de arrumar treta",
-        "Rafael Moura (57707230945348): Problema é usar pra ficar atacando os outros",
-        "Rafael Moura (57707230945348): Deixa o pessoal ser feliz",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Caroço de abacate é de moooeeeer",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Trabalho bom esse 😣🥵",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Fica aí, grupo é legal",
@@ -9653,7 +9650,10 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): E 50 minutos cada aula",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): 20h já quase moça",
         "Pedro Henrique (172868239380659): Vai sair antes das 22 ?",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): 20:30"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): 20:30",
+        "Jane (247635785080860): Eu janto quase 22 kkk",
+        "Jane (247635785080860): Acho que eu que tou atrasada",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Eu na vida"
       ]
     },
     "120363428464897153@g.us": {
@@ -15868,30 +15868,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Tô com fome",
-        "timestamp": 1787869347663
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Tem janta aí na casa de vocês não?",
-        "timestamp": 1787869358021
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Tem não, traz o lanche",
-        "timestamp": 1787869367698
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "A tua é longe",
-        "timestamp": 1787869379625
-      },
-      {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Uai, venha",
@@ -16400,6 +16376,24 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "20:30",
         "timestamp": 1787871132232
+      },
+      {
+        "authorNum": "247635785080860",
+        "authorName": "Jane",
+        "text": "Eu janto quase 22 kkk",
+        "timestamp": 1787871167543
+      },
+      {
+        "authorNum": "247635785080860",
+        "authorName": "Jane",
+        "text": "Acho que eu que tou atrasada",
+        "timestamp": 1787871174069
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Eu na vida",
+        "timestamp": 1787871188061
       }
     ],
     "120363428464897153@g.us": [],
@@ -16731,7 +16725,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20756,
+    "120363432018531082@g.us": 20759,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1619,
@@ -135426,6 +135420,24 @@
         "text": "20:30",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787871132232
+      },
+      "AC482D6149C890DB584D6F9157F9BD7C": {
+        "sender": "247635785080860@lid",
+        "text": "Eu janto quase 22 kkk",
+        "pushName": "Jane",
+        "timestamp": 1787871167543
+      },
+      "AC6F3F3226049951ADB8CFCD42AC4E2B": {
+        "sender": "247635785080860@lid",
+        "text": "Acho que eu que tou atrasada",
+        "pushName": "Jane",
+        "timestamp": 1787871174069
+      },
+      "AC19BB4DFF2EC9B79A1E12911394C6C3": {
+        "sender": "81991328395336@lid",
+        "text": "Eu na vida",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787871188061
       }
     },
     "120363428464897153@g.us": {
@@ -184031,7 +184043,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787871135460,
+    "120363432018531082@g.us": 1787871188061,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787871081553,
