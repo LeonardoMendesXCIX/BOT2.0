@@ -23,9 +23,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1506,
-        "media": 421,
-        "total": 1927
+        "text": 1508,
+        "media": 422,
+        "total": 1930
       },
       "81991328395336": {
         "text": 3763,
@@ -33,9 +33,9 @@
         "total": 5025
       },
       "179040627490824": {
-        "text": 420,
+        "text": 421,
         "media": 81,
-        "total": 501
+        "total": 502
       },
       "145381035905262": {
         "text": 2152,
@@ -143,9 +143,9 @@
         "total": 440
       },
       "262182034002040": {
-        "text": 1829,
+        "text": 1830,
         "media": 118,
-        "total": 1947
+        "total": 1948
       },
       "219245581488326": {
         "text": 4,
@@ -1408,9 +1408,9 @@
         "total": 6
       },
       "56603776680152": {
-        "text": 48,
+        "text": 49,
         "media": 14,
-        "total": 62
+        "total": 63
       },
       "219881320521868": {
         "text": 13,
@@ -9210,7 +9210,12 @@
         "massagista tântrico (129158944415753): Será tratada como rainha",
         "massagista tântrico (129158944415753): Prazer e satisfação garantido ☺️",
         "Camila Designer (92629643563147): Ai está chovendo?",
-        "Celiete Souza (129373172711439): Oi"
+        "Celiete Souza (129373172711439): Oi",
+        "Celiete Souza (129373172711439): Ela já me pediu permissão kkkkk",
+        "Celiete Souza (129373172711439): Eu deixo",
+        "Dany (262182034002040): Boa tarde ☺️",
+        "Dáfi (56603776680152): Boa tarde gente",
+        "Baby (179040627490824): Oi povo"
       ]
     },
     "120363428464897153@g.us": {
@@ -15278,12 +15283,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Ainda tou preparando",
-        "timestamp": 1787844117418
-      },
-      {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
         "text": "Eu também",
@@ -15702,6 +15701,36 @@
         "authorName": "Celiete Souza",
         "text": "Oi",
         "timestamp": 1787845898301
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Ela já me pediu permissão kkkkk",
+        "timestamp": 1787845911510
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Eu deixo",
+        "timestamp": 1787845915496
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Boa tarde ☺️",
+        "timestamp": 1787845918070
+      },
+      {
+        "authorNum": "56603776680152",
+        "authorName": "Dáfi",
+        "text": "Boa tarde gente",
+        "timestamp": 1787845936154
+      },
+      {
+        "authorNum": "179040627490824",
+        "authorName": "Baby",
+        "text": "Oi povo",
+        "timestamp": 1787845941024
       }
     ],
     "120363428464897153@g.us": [],
@@ -15762,7 +15791,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19886,
+    "120363432018531082@g.us": 19891,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -129292,6 +129321,36 @@
         "text": "Oi",
         "pushName": "Celiete Souza",
         "timestamp": 1787845898301
+      },
+      "AC31139C6A6926A109063CC6E906F3C1": {
+        "sender": "129373172711439@lid",
+        "text": "Ela já me pediu permissão kkkkk",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787845911510
+      },
+      "AC13F2129E627C475B44B61E0960C49A": {
+        "sender": "129373172711439@lid",
+        "text": "Eu deixo",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787845915496
+      },
+      "3A76EFB1A267B50F4672": {
+        "sender": "262182034002040@lid",
+        "text": "Boa tarde ☺️",
+        "pushName": "Dany",
+        "timestamp": 1787845918070
+      },
+      "3A3153FB03622D6CCA88": {
+        "sender": "56603776680152@lid",
+        "text": "Boa tarde gente",
+        "pushName": "Dáfi",
+        "timestamp": 1787845936154
+      },
+      "ACC4155158070FAB84CEE1DECA29090E": {
+        "sender": "179040627490824@lid",
+        "text": "Oi povo",
+        "pushName": "Baby",
+        "timestamp": 1787845941024
       }
     },
     "120363428464897153@g.us": {
@@ -177043,7 +177102,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787845898301,
+    "120363432018531082@g.us": 1787845941024,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
