@@ -1466,9 +1466,9 @@
         "total": 157
       },
       "266048007835881": {
-        "text": 583,
-        "media": 265,
-        "total": 848
+        "text": 584,
+        "media": 266,
+        "total": 850
       },
       "123120354635955": {
         "text": 4,
@@ -9104,7 +9104,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Camila Designer (92629643563147): Não, pode mandar normal!",
         "Camila Designer (92629643563147): E uma foto ☺️",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Pode manda dos 2 jeito \nVai dá preferência da pessoa",
         ". (39402768232586): Ta bom",
@@ -9603,7 +9602,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Tô só de 👀👀👀",
         "Gleydson Souza (274384656834700): Gente 14 foi de arrasta kkkkk. F",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): 👆🏻 não e que caixinha tava certa kkkkkkkkk",
-        "🎀  Ň𝐘ηａ🐆 (266048007835881): Esse olho aí amiga e perigoso viu 🔪"
+        "🎀  Ň𝐘ηａ🐆 (266048007835881): Esse olho aí amiga e perigoso viu 🔪",
+        "🎀  Ň𝐘ηａ🐆 (266048007835881): Se entregando e não sabendo confessar kkkkkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -15711,12 +15711,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Sim, o bot é um ser humano e é casado com a dona do grupo 🤡\n@54259127210155 \n@81991328395336",
-        "timestamp": 1787860218842
-      },
-      {
         "authorNum": "81991328395336",
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Bot foi chamado de chato",
@@ -16153,6 +16147,12 @@
         "authorName": "🎀  Ň𝐘ηａ🐆",
         "text": "Esse olho aí amiga e perigoso viu 🔪",
         "timestamp": 1787862017441
+      },
+      {
+        "authorNum": "266048007835881",
+        "authorName": "🎀  Ň𝐘ηａ🐆",
+        "text": "Se entregando e não sabendo confessar kkkkkk",
+        "timestamp": 1787862046425
       }
     ],
     "120363428464897153@g.us": [],
@@ -16262,7 +16262,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20293,
+    "120363432018531082@g.us": 20294,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1516,
@@ -132205,6 +132205,12 @@
         "text": "Esse olho aí amiga e perigoso viu 🔪",
         "pushName": "🎀  Ň𝐘ηａ🐆",
         "timestamp": 1787862017441
+      },
+      "AC3C6CA4C41B9C3316A02D021ED0C37A": {
+        "sender": "266048007835881@lid",
+        "text": "Se entregando e não sabendo confessar kkkkkk",
+        "pushName": "🎀  Ň𝐘ηａ🐆",
+        "timestamp": 1787862046425
       }
     },
     "120363428464897153@g.us": {
@@ -180178,7 +180184,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787862017441,
+    "120363432018531082@g.us": 1787862046425,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787861646643,
