@@ -128,9 +128,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 1975,
+        "text": 1976,
         "media": 258,
-        "total": 2233
+        "total": 2234
       },
       "252922705240205": {
         "text": 80,
@@ -9125,7 +9125,8 @@
         "🙃🙃🙃 (11171897864256): Boa tarde",
         "🙃🙃🙃 (11171897864256): Acordei agora",
         "🙃🙃🙃 (11171897864256): Como estão?????",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Bem"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Bem",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindo!"
       ]
     },
     "120363428464897153@g.us": {
@@ -15180,30 +15181,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "129158944415753",
-        "authorName": "massagista tântrico",
-        "text": "Será muito bem vinda",
-        "timestamp": 1787841302243
-      },
-      {
-        "authorNum": "129158944415753",
-        "authorName": "massagista tântrico",
-        "text": "Será muito bem vinda",
-        "timestamp": 1787841318175
-      },
-      {
-        "authorNum": "234324976738434",
-        "authorName": "Breno",
-        "text": "Breno Gabriel \n24 anos\nGoiânia (GO) \nSatisfação !",
-        "timestamp": 1787841351462
-      },
-      {
-        "authorNum": "39402768232586",
-        "authorName": ".",
-        "text": "Meu nome é João Pedro \nTenho 19 anos \nSou de Belo Horizonte",
-        "timestamp": 1787841437753
-      },
-      {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
         "text": "Porque apagou João?",
@@ -15328,6 +15305,12 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Bem",
         "timestamp": 1787843058323
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Bem vindo!",
+        "timestamp": 1787843277049
       }
     ],
     "120363428464897153@g.us": [],
@@ -15345,7 +15328,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19811,
+    "120363432018531082@g.us": 19812,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1466,
@@ -128425,6 +128408,12 @@
         "text": "Bem",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787843058323
+      },
+      "AC2CA7E824DA96211195FBA98ED86E5D": {
+        "sender": "53537388122141@lid",
+        "text": "Bem vindo!",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787843277049
       }
     },
     "120363428464897153@g.us": {
@@ -176098,7 +176087,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787843058323,
+    "120363432018531082@g.us": 1787843277049,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787829200713,
