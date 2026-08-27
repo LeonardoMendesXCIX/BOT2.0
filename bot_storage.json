@@ -2516,9 +2516,9 @@
         "total": 78
       },
       "81991328395336": {
-        "text": 566,
+        "text": 567,
         "media": 161,
-        "total": 727
+        "total": 728
       },
       "99338701258949": {
         "text": 499,
@@ -2721,9 +2721,9 @@
         "total": 1
       },
       "92629643563147": {
-        "text": 544,
+        "text": 545,
         "media": 345,
-        "total": 889
+        "total": 890
       },
       "122552932372575": {
         "text": 0,
@@ -2761,9 +2761,9 @@
         "total": 9
       },
       "129373172711439": {
-        "text": 879,
-        "media": 215,
-        "total": 1094
+        "text": 881,
+        "media": 216,
+        "total": 1097
       },
       "16007578021977": {
         "text": 50,
@@ -2926,9 +2926,9 @@
         "total": 1
       },
       "266048007835881": {
-        "text": 199,
+        "text": 200,
         "media": 83,
-        "total": 282
+        "total": 283
       },
       "123120354635955": {
         "text": 1,
@@ -2951,9 +2951,9 @@
         "total": 15
       },
       "238233849983072": {
-        "text": 130,
+        "text": 131,
         "media": 7,
-        "total": 137
+        "total": 138
       },
       "43173162270816": {
         "text": 1,
@@ -12748,7 +12748,10 @@
         "Camila Designer (92629643563147): Sim",
         "Celiete Souza (129373172711439): Credoooo",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Hoje foi kkkk",
-        "Leandro (+55 (11) 92701-8683): Tem que tomar ômega 3 em"
+        "Leandro (+55 (11) 92701-8683): Tem que tomar ômega 3 em",
+        "Neto prime (238233849983072): Amanhã também hahahaha",
+        "Celiete Souza (129373172711439): Eu perdia muita coisa kkkkk",
+        "🎀  Ň𝐘ηａ🐆 (266048007835881): KD o conselho Camila"
       ]
     },
     "120363409727467494@g.us": {
@@ -15558,6 +15561,24 @@
         "authorName": "Leandro",
         "text": "Tem que tomar ômega 3 em",
         "timestamp": 1787802200875
+      },
+      {
+        "authorNum": "238233849983072",
+        "authorName": "Neto prime",
+        "text": "Amanhã também hahahaha",
+        "timestamp": 1787802208614
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Eu perdia muita coisa kkkkk",
+        "timestamp": 1787802210773
+      },
+      {
+        "authorNum": "266048007835881",
+        "authorName": "🎀  Ň𝐘ηａ🐆",
+        "text": "KD o conselho Camila",
+        "timestamp": 1787802227634
       }
     ],
     "120363409727467494@g.us": [],
@@ -15696,7 +15717,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 19620,
-    "120363428464897153@g.us": 5960,
+    "120363428464897153@g.us": 5963,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1454,
     "120363411233423709@g.us": 5,
@@ -162594,6 +162615,24 @@
         "text": "Tem que tomar ômega 3 em",
         "pushName": "Leandro",
         "timestamp": 1787802200875
+      },
+      "2AADAF982F081062949F": {
+        "sender": "238233849983072@lid",
+        "text": "Amanhã também hahahaha",
+        "pushName": "Neto prime",
+        "timestamp": 1787802208614
+      },
+      "AC0DE82F8E05F236F006F385B282126A": {
+        "sender": "129373172711439@lid",
+        "text": "Eu perdia muita coisa kkkkk",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787802210774
+      },
+      "AC3E8F77D8E7088BFCDA89E9184EF178": {
+        "sender": "266048007835881@lid",
+        "text": "KD o conselho Camila",
+        "pushName": "🎀  Ň𝐘ηａ🐆",
+        "timestamp": 1787802227635
       }
     },
     "120363409727467494@g.us": {
@@ -174723,7 +174762,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787801074245,
-    "120363428464897153@g.us": 1787802200875,
+    "120363428464897153@g.us": 1787802229453,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787801643008,
     "120363411233423709@g.us": 1787113553426,
