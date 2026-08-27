@@ -3434,9 +3434,9 @@
         "total": 136
       },
       "5511927018683": {
-        "text": 37,
-        "media": 3,
-        "total": 40
+        "text": 41,
+        "media": 5,
+        "total": 46
       },
       "30486281900223": {
         "text": 1,
@@ -3449,9 +3449,9 @@
         "total": 100
       },
       "145381035905262": {
-        "text": 5,
-        "media": 304,
-        "total": 309
+        "text": 7,
+        "media": 305,
+        "total": 312
       },
       "120363409024805409": {
         "text": 0,
@@ -14920,7 +14920,13 @@
         "Leandro (+55 (11) 92701-8683): !abrir 07:00",
         "Leandro (+55 (11) 92701-8683): !fechar 02:00",
         "Leandro (+55 (11) 92701-8683): !fechar",
-        "Leandro (+55 (11) 92701-8683): Chega moço @145381035905262"
+        "Leandro (+55 (11) 92701-8683): Chega moço @145381035905262",
+        "Leandro (+55 (11) 92701-8683): Vai dar calo nos dedos",
+        "Gabriel (145381035905262): Tem mais",
+        "Leandro (+55 (11) 92701-8683): Te acalma",
+        "Gabriel (145381035905262): Quando ela diz hoje tem @54259127210155  kkk",
+        "Leandro (+55 (11) 92701-8683): Mais tarde manda mais",
+        "Leandro (+55 (11) 92701-8683): É bem assim mesmo"
       ]
     }
   },
@@ -14946,12 +14952,6 @@
     "120363428079168524@g.us": [],
     "120363411246936023@g.us": [],
     "120363409024805409@g.us": [
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Essa eu queria a tempos...",
-        "timestamp": 1787809875235
-      },
       {
         "authorNum": "179040627490824",
         "authorName": "Baby",
@@ -15155,6 +15155,42 @@
         "authorName": "Leandro",
         "text": "Chega moço @145381035905262",
         "timestamp": 1787811674107
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Vai dar calo nos dedos",
+        "timestamp": 1787811696261
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Tem mais",
+        "timestamp": 1787811699667
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Te acalma",
+        "timestamp": 1787811712341
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Quando ela diz hoje tem @54259127210155  kkk",
+        "timestamp": 1787811722400
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Mais tarde manda mais",
+        "timestamp": 1787811724051
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "É bem assim mesmo",
+        "timestamp": 1787811729623
       }
     ]
   },
@@ -15172,7 +15208,7 @@
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 17,
-    "120363409024805409@g.us": 49
+    "120363409024805409@g.us": 55
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -174732,6 +174768,42 @@
         "text": "Chega moço @145381035905262",
         "pushName": "Leandro",
         "timestamp": 1787811674123
+      },
+      "A5860AB10B701C14E72FD41F82F4F69A": {
+        "sender": "54259127210155@lid",
+        "text": "Vai dar calo nos dedos",
+        "pushName": "Leandro",
+        "timestamp": 1787811696266
+      },
+      "AC3F3DADE95A0B706A3BA56EC702796B": {
+        "sender": "145381035905262@lid",
+        "text": "Tem mais",
+        "pushName": "Gabriel",
+        "timestamp": 1787811699667
+      },
+      "A5BCCE51732A07D2ABAF745610462609": {
+        "sender": "54259127210155@lid",
+        "text": "Te acalma",
+        "pushName": "Leandro",
+        "timestamp": 1787811712341
+      },
+      "AC75053B7AF0FED43C29BD693464A059": {
+        "sender": "145381035905262@lid",
+        "text": "Quando ela diz hoje tem @54259127210155  kkk",
+        "pushName": "Gabriel",
+        "timestamp": 1787811722400
+      },
+      "A525A0E3F4BB565E557F4D968995FE0A": {
+        "sender": "54259127210155@lid",
+        "text": "Mais tarde manda mais",
+        "pushName": "Leandro",
+        "timestamp": 1787811724051
+      },
+      "A5721D7E484F80CC1E43E33D83C03A8A": {
+        "sender": "54259127210155@lid",
+        "text": "É bem assim mesmo",
+        "pushName": "Leandro",
+        "timestamp": 1787811729623
       }
     }
   },
@@ -174828,7 +174900,7 @@
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1787803320850,
-    "120363409024805409@g.us": 1787811685312
+    "120363409024805409@g.us": 1787811733148
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
