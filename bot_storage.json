@@ -103,9 +103,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1451,
-        "media": 1092,
-        "total": 2543
+        "text": 1452,
+        "media": 1093,
+        "total": 2545
       },
       "3126803329115": {
         "text": 87,
@@ -8986,7 +8986,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Baby (179040627490824): Bom dia @92629643563147 @53537388122141",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bom dia!!",
         "Baby (179040627490824): Como vcs estão",
         "Baby (179040627490824): ??",
@@ -9485,7 +9484,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Rum",
         "'   MƲRIԼԼƠ  🥶 (111506477846600): Vai saber 😌",
         "'   MƲRIԼԼƠ  🥶 (111506477846600): As vezes me confundiu",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Jamais"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Jamais",
+        "Camila Designer (92629643563147): @53537388122141 já vai assumir o @111506477846600 👀"
       ]
     },
     "120363428464897153@g.us": {
@@ -15564,12 +15564,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "266048007835881",
-        "authorName": "🎀  Ň𝐘ηａ🐆",
-        "text": "Aí no seu comércio vc vende por quanto e na sua cidade e quanto?",
-        "timestamp": 1787857094188
-      },
-      {
         "authorNum": "238233849983072",
         "authorName": "Neto prime",
         "text": "13 600 ml",
@@ -16078,6 +16072,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Jamais",
         "timestamp": 1787858855655
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "@53537388122141 já vai assumir o @111506477846600 👀",
+        "timestamp": 1787858953009
       }
     ],
     "120363428464897153@g.us": [],
@@ -16150,7 +16150,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20159,
+    "120363432018531082@g.us": 20160,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1489,
@@ -131308,6 +131308,12 @@
         "text": "Jamais",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787858855655
+      },
+      "2A827877DCCD0E729A79": {
+        "sender": "92629643563147@lid",
+        "text": "@53537388122141 já vai assumir o @111506477846600 👀",
+        "pushName": "Camila Designer",
+        "timestamp": 1787858953009
       }
     },
     "120363428464897153@g.us": {
@@ -179113,7 +179119,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787858934604,
+    "120363432018531082@g.us": 1787858962485,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787858911236,
