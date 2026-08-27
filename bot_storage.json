@@ -151,9 +151,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2174,
+        "text": 2175,
         "media": 469,
-        "total": 2643
+        "total": 2644
       },
       "184237705699536": {
         "text": 524,
@@ -226,9 +226,9 @@
         "total": 105
       },
       "118395236282617": {
-        "text": 397,
+        "text": 398,
         "media": 143,
-        "total": 540
+        "total": 541
       },
       "248773146108144": {
         "text": 24,
@@ -2582,8 +2582,8 @@
       },
       "187097969348735": {
         "text": 8,
-        "media": 2,
-        "total": 10
+        "media": 3,
+        "total": 11
       },
       "238233849983072": {
         "text": 41,
@@ -2626,9 +2626,9 @@
         "total": 61
       },
       "172868239380659": {
-        "text": 60,
+        "text": 61,
         "media": 10,
-        "total": 70
+        "total": 71
       },
       "170455038193841": {
         "text": 1,
@@ -9154,8 +9154,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Gabriel Ohi (90130358485223): Eu sei",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Sabe que tô zuando também né",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): @54259127210155",
         "Gabriel Ohi (90130358485223): Sim kkkk",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Vc não! Mais falaram Aki sim hahah",
@@ -9653,7 +9651,9 @@
         "Camila Designer (92629643563147): Que a sua batata está assando 🤣🤣🤣",
         "Dany (262182034002040): Ihhhh gente mds",
         "Gabriel (145381035905262): Muito bem",
-        "Gabriel (145381035905262): @all  querem ver coisa bonita ?"
+        "Gabriel (145381035905262): @all  querem ver coisa bonita ?",
+        "Pedro Henrique (172868239380659): Escudo do Palmeiras",
+        "Caroline (118395236282617): Mostrar"
       ]
     },
     "120363428464897153@g.us": {
@@ -15899,24 +15899,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "247635785080860",
-        "authorName": "Jane",
-        "text": "Eu janto quase 22 kkk",
-        "timestamp": 1787871167543
-      },
-      {
-        "authorNum": "247635785080860",
-        "authorName": "Jane",
-        "text": "Acho que eu que tou atrasada",
-        "timestamp": 1787871174069
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Eu na vida",
-        "timestamp": 1787871188061
-      },
-      {
         "authorNum": "172868239380659",
         "authorName": "Pedro Henrique",
         "text": "22 eu tô é dormindo",
@@ -16059,6 +16041,18 @@
         "authorName": "Gabriel",
         "text": "@all  querem ver coisa bonita ?",
         "timestamp": 1787872957257
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Escudo do Palmeiras",
+        "timestamp": 1787872993912
+      },
+      {
+        "authorNum": "118395236282617",
+        "authorName": "Caroline",
+        "text": "Mostrar",
+        "timestamp": 1787873008957
       }
     ],
     "120363428464897153@g.us": [],
@@ -16270,7 +16264,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20783,
+    "120363432018531082@g.us": 20785,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1650,
@@ -135127,6 +135121,18 @@
         "text": "@all  querem ver coisa bonita ?",
         "pushName": "Gabriel",
         "timestamp": 1787872957259
+      },
+      "AC9A4FA53CC63AC6EC2121D8106BAB30": {
+        "sender": "172868239380659@lid",
+        "text": "Escudo do Palmeiras",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787872993912
+      },
+      "AC5D05F88EEBEB3F037C2ECA047DE064": {
+        "sender": "118395236282617@lid",
+        "text": "Mostrar",
+        "pushName": "Caroline",
+        "timestamp": 1787873008957
       }
     },
     "120363428464897153@g.us": {
@@ -183918,7 +183924,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787872957257,
+    "120363432018531082@g.us": 1787873008957,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787872451366,
