@@ -2621,9 +2621,9 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 56,
+        "text": 57,
         "media": 11,
-        "total": 67
+        "total": 68
       },
       "172868239380659": {
         "text": 64,
@@ -3312,9 +3312,9 @@
         "total": 512
       },
       "145381035905262": {
-        "text": 351,
-        "media": 136,
-        "total": 487
+        "text": 353,
+        "media": 137,
+        "total": 490
       },
       "53537388122141": {
         "text": 658,
@@ -9154,7 +9154,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Oxi, só não ficar bebo",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Exatamente...",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Treta so se for pra vc, apenas esclarecir algo. pq se tem uma coisa que eu sou e direta e verdadeira 😉",
         "Gabriel (145381035905262): Vala minha nossa senhora",
@@ -9653,7 +9652,8 @@
         "Juliano Perlin (222595437858867): Ja estive la ano passado",
         "Clayton 🇳🇬 (155503636275307): Foi corrido mais foi ótimo",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Que bom!!!",
-        "Gleydson Souza (274384656834700): Cansativo"
+        "Gleydson Souza (274384656834700): Cansativo",
+        "Gleydson Souza (274384656834700): Organizar evento e uma merda kkkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -15447,7 +15447,9 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Decidido então? @all",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Neto prime",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): KKKKKKKKKKKKKKKKKK",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Show"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Show",
+        "Gabriel (145381035905262): Agora a minha resposta",
+        "Gabriel (145381035905262): Peguem"
       ]
     },
     "120363411233423709@g.us": {
@@ -16314,6 +16316,12 @@
         "authorName": "Gleydson Souza",
         "text": "Cansativo",
         "timestamp": 1787874138647
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Organizar evento e uma merda kkkk",
+        "timestamp": 1787874154780
       }
     ],
     "120363428464897153@g.us": [],
@@ -16414,6 +16422,18 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Show",
         "timestamp": 1787873891855
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Agora a minha resposta",
+        "timestamp": 1787874171238
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Peguem",
+        "timestamp": 1787874173140
       }
     ],
     "120363411233423709@g.us": [],
@@ -16429,10 +16449,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20848,
+    "120363432018531082@g.us": 20849,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1665,
+    "120363412288900422@g.us": 1667,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -135670,6 +135690,12 @@
         "text": "Cansativo",
         "pushName": "Gleydson Souza",
         "timestamp": 1787874138647
+      },
+      "ACFE6A23EB3F32523753F7870F2F6C96": {
+        "sender": "274384656834700@lid",
+        "text": "Organizar evento e uma merda kkkk",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787874154780
       }
     },
     "120363428464897153@g.us": {
@@ -181996,6 +182022,18 @@
         "text": "Show",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787873891855
+      },
+      "AC65CA82F5EEBFF62EAA0CB604B27AA7": {
+        "sender": "145381035905262@lid",
+        "text": "Agora a minha resposta",
+        "pushName": "Gabriel",
+        "timestamp": 1787874171238
+      },
+      "AC7A0860A2E4A8C17585AF8FFDB6109D": {
+        "sender": "145381035905262@lid",
+        "text": "Peguem",
+        "pushName": "Gabriel",
+        "timestamp": 1787874173140
       }
     },
     "120363411233423709@g.us": {
@@ -184551,10 +184589,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787874138647,
+    "120363432018531082@g.us": 1787874154780,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787873916387,
+    "120363412288900422@g.us": 1787874173140,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
