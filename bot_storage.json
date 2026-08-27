@@ -2453,9 +2453,9 @@
         "total": 5
       },
       "190864487919667": {
-        "text": 32,
+        "text": 34,
         "media": 12,
-        "total": 44
+        "total": 46
       },
       "82227819987089": {
         "text": 2,
@@ -2473,9 +2473,9 @@
         "total": 1
       },
       "238233849983072": {
-        "text": 3,
+        "text": 4,
         "media": 0,
-        "total": 3
+        "total": 4
       },
       "75797868064796": {
         "text": 0,
@@ -2488,9 +2488,9 @@
         "total": 1
       },
       "188845719089205": {
-        "text": 2,
+        "text": 3,
         "media": 0,
-        "total": 2
+        "total": 3
       }
     },
     "120363428464897153@g.us": {
@@ -9375,7 +9375,10 @@
         "Gabriel (145381035905262): E aí pessoal cheguei!",
         "Camila Designer (92629643563147): @190864487919667 👀👀👀",
         "Camila Viana (188845719089205): Aqui é maravilhosooo",
-        "Souza (190864487919667): Rapaz"
+        "Souza (190864487919667): Rapaz",
+        "Souza (190864487919667): Complicado esse pedido do camarada",
+        "Neto prime (238233849983072): Só achei as coisas muito caras kkkk",
+        "Souza (190864487919667): 👀👀👀"
       ]
     },
     "120363428464897153@g.us": {
@@ -15495,6 +15498,24 @@
         "authorName": "Souza",
         "text": "Rapaz",
         "timestamp": 1787855759250
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Complicado esse pedido do camarada",
+        "timestamp": 1787855766538
+      },
+      {
+        "authorNum": "238233849983072",
+        "authorName": "Neto prime",
+        "text": "Só achei as coisas muito caras kkkk",
+        "timestamp": 1787855778621
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "👀👀👀",
+        "timestamp": 1787855783480
       }
     ],
     "120363428464897153@g.us": [],
@@ -15512,7 +15533,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20016,
+    "120363432018531082@g.us": 20019,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -129822,6 +129843,24 @@
         "text": "Rapaz",
         "pushName": "Souza",
         "timestamp": 1787855759251
+      },
+      "AC6A8C7038F04D94FE3DB78A1BCDDC65": {
+        "sender": "190864487919667@lid",
+        "text": "Complicado esse pedido do camarada",
+        "pushName": "Souza",
+        "timestamp": 1787855766538
+      },
+      "2AC5ED1802A27EC68F52": {
+        "sender": "238233849983072@lid",
+        "text": "Só achei as coisas muito caras kkkk",
+        "pushName": "Neto prime",
+        "timestamp": 1787855778621
+      },
+      "AC157BED964F2167CAF99B2EDB109074": {
+        "sender": "190864487919667@lid",
+        "text": "👀👀👀",
+        "pushName": "Souza",
+        "timestamp": 1787855783480
       }
     },
     "120363428464897153@g.us": {
@@ -177573,7 +177612,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787855759250,
+    "120363432018531082@g.us": 1787855783480,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
