@@ -2489,9 +2489,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 374,
+        "text": 376,
         "media": 73,
-        "total": 447
+        "total": 449
       },
       "120363428464897153": {
         "text": 11,
@@ -3429,14 +3429,14 @@
     },
     "120363409024805409@g.us": {
       "179040627490824": {
-        "text": 8,
-        "media": 39,
-        "total": 47
+        "text": 11,
+        "media": 121,
+        "total": 132
       },
       "5511927018683": {
-        "text": 14,
+        "text": 18,
         "media": 3,
-        "total": 17
+        "total": 21
       },
       "30486281900223": {
         "text": 1,
@@ -3445,8 +3445,8 @@
       },
       "81991328395336": {
         "text": 6,
-        "media": 82,
-        "total": 88
+        "media": 85,
+        "total": 91
       },
       "145381035905262": {
         "text": 1,
@@ -12731,7 +12731,9 @@
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Amén",
         "Neto prime (238233849983072): @266048007835881  dorme bem vidaaa",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Amén , igualmente 🫶🏻",
-        "Clayton 🇳🇬 (155503636275307): Boa madrugada povo"
+        "Clayton 🇳🇬 (155503636275307): Boa madrugada povo",
+        "Leandro (+55 (11) 92701-8683): @81991328395336",
+        "Leandro (+55 (11) 92701-8683): Pelo menos pra fechar ele tá seguindo o horário 🫡"
       ]
     },
     "120363409727467494@g.us": {
@@ -14885,7 +14887,14 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Essa?",
         "Baby (179040627490824): Calma",
         "Leandro (+55 (11) 92701-8683): Acho melhor não em...",
-        "Leandro (+55 (11) 92701-8683): Normalmente quando manda link, o bot apaga e da ban automaticamente"
+        "Leandro (+55 (11) 92701-8683): Normalmente quando manda link, o bot apaga e da ban automaticamente",
+        "Baby (179040627490824): Eu mando para vc e vc manda",
+        "Baby (179040627490824): Para N dar w.o",
+        "Leandro (+55 (11) 92701-8683): É link de que?",
+        "Baby (179040627490824): De um grupo de figurinhas",
+        "Leandro (+55 (11) 92701-8683): Uai",
+        "Leandro (+55 (11) 92701-8683): ! cancelar",
+        "Leandro (+55 (11) 92701-8683): !cancelar"
       ]
     }
   },
@@ -14934,25 +14943,26 @@
         "timestamp": 1787809504667
       }
     ],
-    "120363428464897153@g.us": [],
+    "120363428464897153@g.us": [
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "@81991328395336",
+        "timestamp": 1787810900070
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Pelo menos pra fechar ele tá seguindo o horário 🫡",
+        "timestamp": 1787810902591
+      }
+    ],
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [],
     "120363411233423709@g.us": [],
     "120363428079168524@g.us": [],
     "120363411246936023@g.us": [],
     "120363409024805409@g.us": [
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Um insento desse",
-        "timestamp": 1787809000224
-      },
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Cadê meu ADM @54259127210155",
-        "timestamp": 1787809066643
-      },
       {
         "authorNum": "5511927018683",
         "authorName": "Leandro",
@@ -15000,6 +15010,48 @@
         "authorName": "Leandro",
         "text": "Normalmente quando manda link, o bot apaga e da ban automaticamente",
         "timestamp": 1787810765814
+      },
+      {
+        "authorNum": "179040627490824",
+        "authorName": "Baby",
+        "text": "Eu mando para vc e vc manda",
+        "timestamp": 1787810791911
+      },
+      {
+        "authorNum": "179040627490824",
+        "authorName": "Baby",
+        "text": "Para N dar w.o",
+        "timestamp": 1787810792488
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "É link de que?",
+        "timestamp": 1787810876087
+      },
+      {
+        "authorNum": "179040627490824",
+        "authorName": "Baby",
+        "text": "De um grupo de figurinhas",
+        "timestamp": 1787810901702
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Uai",
+        "timestamp": 1787810903472
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "! cancelar",
+        "timestamp": 1787810905703
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!cancelar",
+        "timestamp": 1787810910944
       }
     ]
   },
@@ -15011,13 +15063,13 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 19643,
-    "120363428464897153@g.us": 5990,
+    "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1455,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 17,
-    "120363409024805409@g.us": 21
+    "120363409024805409@g.us": 28
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -162215,6 +162267,18 @@
         "text": "Boa madrugada povo",
         "pushName": "Clayton 🇳🇬",
         "timestamp": 1787803255824
+      },
+      "A54FF8641021D18BAB19B6C063C99449": {
+        "sender": "54259127210155@lid",
+        "text": "@81991328395336",
+        "pushName": "Leandro",
+        "timestamp": 1787810900071
+      },
+      "A559F20280044382E4C501F6F4FEFC31": {
+        "sender": "54259127210155@lid",
+        "text": "Pelo menos pra fechar ele tá seguindo o horário 🫡",
+        "pushName": "Leandro",
+        "timestamp": 1787810902591
       }
     },
     "120363409727467494@g.us": {
@@ -174389,6 +174453,48 @@
         "text": "Normalmente quando manda link, o bot apaga e da ban automaticamente",
         "pushName": "Leandro",
         "timestamp": 1787810765815
+      },
+      "AC1232B0ACB403DFD214D5F05A4129AD": {
+        "sender": "179040627490824@lid",
+        "text": "Eu mando para vc e vc manda",
+        "pushName": "Baby",
+        "timestamp": 1787810791965
+      },
+      "AC639F267091A11E2307CF4EBBEED8FC": {
+        "sender": "179040627490824@lid",
+        "text": "Para N dar w.o",
+        "pushName": "Baby",
+        "timestamp": 1787810792488
+      },
+      "A5D356522BAE8998383FDAAD52451115": {
+        "sender": "54259127210155@lid",
+        "text": "É link de que?",
+        "pushName": "Leandro",
+        "timestamp": 1787810876087
+      },
+      "ACB8FB7D579BB2B2D79B8BF8FD3BA4AF": {
+        "sender": "179040627490824@lid",
+        "text": "De um grupo de figurinhas",
+        "pushName": "Baby",
+        "timestamp": 1787810901703
+      },
+      "A54262FB3967FCDEFC25383D3FA09C14": {
+        "sender": "54259127210155@lid",
+        "text": "Uai",
+        "pushName": "Leandro",
+        "timestamp": 1787810903472
+      },
+      "A5B5554864E1B1324578B0637B704A60": {
+        "sender": "54259127210155@lid",
+        "text": "! cancelar",
+        "pushName": "Leandro",
+        "timestamp": 1787810905703
+      },
+      "A5C4529F76E69DAAEFF5C83A644A0871": {
+        "sender": "54259127210155@lid",
+        "text": "!cancelar",
+        "pushName": "Leandro",
+        "timestamp": 1787810910944
       }
     }
   },
@@ -174465,7 +174571,7 @@
       "219980373176429": 2
     },
     "120363409024805409@g.us": {
-      "179040627490824": 3
+      "179040627490824": 40
     }
   },
   "maxWarnings": {},
@@ -174475,7 +174581,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787809539987,
-    "120363428464897153@g.us": 1787803264071,
+    "120363428464897153@g.us": 1787810902591,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787804659285,
     "120363411233423709@g.us": 1787113553426,
@@ -174485,7 +174591,7 @@
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1787803320850,
-    "120363409024805409@g.us": 1787810765814
+    "120363409024805409@g.us": 1787810910944
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
