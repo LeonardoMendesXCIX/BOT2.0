@@ -2561,9 +2561,9 @@
         "total": 2
       },
       "11171897864256": {
-        "text": 18,
+        "text": 19,
         "media": 1,
-        "total": 19
+        "total": 20
       },
       "190864487919667": {
         "text": 69,
@@ -9114,7 +9114,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Rafael Moura (57707230945348): Vc sabe o que é massagem tãntrica ne?",
         "Camila Designer (92629643563147): Lógico",
         "massagista tântrico (129158944415753): Sim sei sim",
         "Rafael Moura (57707230945348): Aproveita que passagem pro Rj não é cara",
@@ -9613,7 +9612,8 @@
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Treta so se for pra vc, apenas esclarecir algo. pq se tem uma coisa que eu sou e direta e verdadeira 😉",
         "Gabriel (145381035905262): Vala minha nossa senhora",
         "🙃🙃🙃 (11171897864256): Não posso bebe ,tem câmeras dar justa causa",
-        "🙃🙃🙃 (11171897864256): Tem pessoas que pagam pra mim mas não posso bebe"
+        "🙃🙃🙃 (11171897864256): Tem pessoas que pagam pra mim mas não posso bebe",
+        "🙃🙃🙃 (11171897864256): Só posso receber o dinheiro"
       ]
     },
     "120363428464897153@g.us": {
@@ -16092,6 +16092,12 @@
         "authorName": "🙃🙃🙃",
         "text": "Tem pessoas que pagam pra mim mas não posso bebe",
         "timestamp": 1787863879247
+      },
+      {
+        "authorNum": "11171897864256",
+        "authorName": "🙃🙃🙃",
+        "text": "Só posso receber o dinheiro",
+        "timestamp": 1787863886567
       }
     ],
     "120363428464897153@g.us": [],
@@ -16188,7 +16194,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20354,
+    "120363432018531082@g.us": 20355,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1529,
@@ -132491,6 +132497,12 @@
         "text": "Tem pessoas que pagam pra mim mas não posso bebe",
         "pushName": "🙃🙃🙃",
         "timestamp": 1787863879247
+      },
+      "ACEC292454527934F791148976266CB8": {
+        "sender": "11171897864256@lid",
+        "text": "Só posso receber o dinheiro",
+        "pushName": "🙃🙃🙃",
+        "timestamp": 1787863886567
       }
     },
     "120363428464897153@g.us": {
@@ -180542,7 +180554,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787863879247,
+    "120363432018531082@g.us": 1787863886567,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787863775083,
