@@ -1868,9 +1868,9 @@
         "total": 6
       },
       "129158944415753": {
-        "text": 31,
+        "text": 34,
         "media": 2,
-        "total": 33
+        "total": 36
       },
       "276003205152992": {
         "text": 5,
@@ -9182,7 +9182,10 @@
         "Rafael Moura (57707230945348): E bem vindo a quem entrou",
         "Camila Designer (92629643563147): Onde você mora no Rio @129158944415753",
         "massagista tântrico (129158944415753): Copacabana",
-        "Camila Designer (92629643563147): Vai me hospedar?"
+        "Camila Designer (92629643563147): Vai me hospedar?",
+        "massagista tântrico (129158944415753): Claro",
+        "massagista tântrico (129158944415753): Convidada de honra",
+        "massagista tântrico (129158944415753): Ainda te mando passagem aerea"
       ]
     },
     "120363428464897153@g.us": {
@@ -15250,12 +15253,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Bem vindos",
-        "timestamp": 1787843554928
-      },
-      {
         "authorNum": "155503636275307",
         "authorName": "Clayton 🇳🇬",
         "text": "Bora almoçar meu povo lindo",
@@ -15548,6 +15545,24 @@
         "authorName": "Camila Designer",
         "text": "Vai me hospedar?",
         "timestamp": 1787845338186
+      },
+      {
+        "authorNum": "129158944415753",
+        "authorName": "massagista tântrico",
+        "text": "Claro",
+        "timestamp": 1787845345121
+      },
+      {
+        "authorNum": "129158944415753",
+        "authorName": "massagista tântrico",
+        "text": "Convidada de honra",
+        "timestamp": 1787845350019
+      },
+      {
+        "authorNum": "129158944415753",
+        "authorName": "massagista tântrico",
+        "text": "Ainda te mando passagem aerea",
+        "timestamp": 1787845361847
       }
     ],
     "120363428464897153@g.us": [],
@@ -15644,7 +15659,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19863,
+    "120363432018531082@g.us": 19866,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -129036,6 +129051,24 @@
         "text": "Vai me hospedar?",
         "pushName": "Camila Designer",
         "timestamp": 1787845338186
+      },
+      "A50A9EAC3D751BDDD5CC4CE7FEC45293": {
+        "sender": "129158944415753@lid",
+        "text": "Claro",
+        "pushName": "massagista tântrico",
+        "timestamp": 1787845345121
+      },
+      "A54623607F4F7661AED7FEEFA17D8CE0": {
+        "sender": "129158944415753@lid",
+        "text": "Convidada de honra",
+        "pushName": "massagista tântrico",
+        "timestamp": 1787845350019
+      },
+      "A5BF97AC6521CCF075C72BD815EE80AF": {
+        "sender": "129158944415753@lid",
+        "text": "Ainda te mando passagem aerea",
+        "pushName": "massagista tântrico",
+        "timestamp": 1787845361847
       }
     },
     "120363428464897153@g.us": {
@@ -176787,7 +176820,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787845338186,
+    "120363432018531082@g.us": 1787845361847,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
