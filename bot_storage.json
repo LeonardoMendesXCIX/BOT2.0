@@ -2636,9 +2636,9 @@
         "total": 3
       },
       "193729163993156": {
-        "text": 7,
+        "text": 8,
         "media": 2,
-        "total": 9
+        "total": 10
       },
       "151582733820115": {
         "text": 5,
@@ -2651,9 +2651,9 @@
         "total": 11
       },
       "208958782488665": {
-        "text": 0,
+        "text": 1,
         "media": 1,
-        "total": 1
+        "total": 2
       }
     },
     "120363428464897153@g.us": {
@@ -9139,8 +9139,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Neto prime (238233849983072): Long neck",
-        "Neto prime (238233849983072): Kkkkkkk",
         "Camila Viana (188845719089205): Realmente, na maioria dos bares acima da média o valor é esse ae",
         "Alexandre Bastos (75797868064796): Lá e caro",
         "Neto prime (238233849983072): Demais kkk",
@@ -9638,7 +9636,9 @@
         "Jessica (208958782488665): 💥 BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Queremos conhecer você! ✨\n\n💬 Nome:Jéssica \n🎂 Idade:30+ ....\n📍 De onde sou:sp\n\n*🫶🏻 Seja bem-vindo(a)!*\n\n✨ Sinta-se à vontade para interagir, conhecer a galera e faz",
         " (120363432018531082): 💥 BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Queremos conhecer você! ✨\n\n💬 Nome:Jéssica \n🎂 Idade:30+ ....\n📍 De onde sou:sp\n\n*🫶🏻 Seja bem-vindo(a)!*\n\n✨ Sinta-se à vontade para interagir, conhecer a galera e faz",
         "Rafael Moura (57707230945348): Bem vinda Jessica",
-        "Gleydson Souza (274384656834700): Bem vinda"
+        "Gleydson Souza (274384656834700): Bem vinda",
+        "Jessica (208958782488665): Vim pela fofoca",
+        "F. RicaRdo sAnToS (193729163993156): Bem vinda"
       ]
     },
     "120363428464897153@g.us": {
@@ -15776,30 +15776,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "272048228188398",
-        "authorName": "Lailson Nathan.",
-        "text": "Top.",
-        "timestamp": 1787865213022
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "😌🤌🏾",
-        "timestamp": 1787865219070
-      },
-      {
-        "authorNum": "272048228188398",
-        "authorName": "Lailson Nathan.",
-        "text": "Seja bem vindo irmão.",
-        "timestamp": 1787865219370
-      },
-      {
-        "authorNum": "272048228188398",
-        "authorName": "Lailson Nathan.",
-        "text": "Sou desse jeito. 😂",
-        "timestamp": 1787865258317
-      },
-      {
         "authorNum": "163530946961491",
         "authorName": "willian",
         "text": "Muito bem kkk",
@@ -16284,6 +16260,18 @@
         "authorName": "Gleydson Souza",
         "text": "Bem vinda",
         "timestamp": 1787866994218
+      },
+      {
+        "authorNum": "208958782488665",
+        "authorName": "Jessica",
+        "text": "Vim pela fofoca",
+        "timestamp": 1787867058419
+      },
+      {
+        "authorNum": "193729163993156",
+        "authorName": "F. RicaRdo sAnToS",
+        "text": "Bem vinda",
+        "timestamp": 1787867064043
       }
     ],
     "120363428464897153@g.us": [],
@@ -16322,7 +16310,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20534,
+    "120363432018531082@g.us": 20536,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1543,
@@ -133692,6 +133680,18 @@
         "text": "Bem vinda",
         "pushName": "Gleydson Souza",
         "timestamp": 1787866994218
+      },
+      "AC5614D34C016D878029A120192DB725": {
+        "sender": "208958782488665@lid",
+        "text": "Vim pela fofoca",
+        "pushName": "Jessica",
+        "timestamp": 1787867058419
+      },
+      "AC35F2556538F882809EABB0198E18DE": {
+        "sender": "193729163993156@lid",
+        "text": "Bem vinda",
+        "pushName": "F. RicaRdo sAnToS",
+        "timestamp": 1787867064043
       }
     },
     "120363428464897153@g.us": {
@@ -181835,7 +181835,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787866994218,
+    "120363432018531082@g.us": 1787867064042,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787865477162,
