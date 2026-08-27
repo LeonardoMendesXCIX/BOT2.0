@@ -256,9 +256,9 @@
         "total": 463
       },
       "262182034002040": {
-        "text": 1845,
+        "text": 1847,
         "media": 119,
-        "total": 1964
+        "total": 1966
       },
       "219245581488326": {
         "text": 4,
@@ -9154,7 +9154,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Foi tudo de arraaaaasta",
         "Souza (190864487919667): Já",
         "Gabriel Ohi (90130358485223): Viraram camisa de saudades kkkkkkk",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): F",
@@ -9653,7 +9652,8 @@
         "Pedro Henrique (172868239380659): Nunca nem vi",
         "Gleydson Souza (274384656834700): Escuto as vezes apenas",
         "Gleydson Souza (274384656834700): E aonde?",
-        "Gabriel (145381035905262): Porra, agora vi que tu gosta mesmo"
+        "Gabriel (145381035905262): Porra, agora vi que tu gosta mesmo",
+        "Dany (262182034002040): Recomendo as músicas dela hehehhe"
       ]
     },
     "120363428464897153@g.us": {
@@ -15898,48 +15898,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Tem certeza moço? 👀",
-        "timestamp": 1787870264833
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Boa noite, pessoas",
-        "timestamp": 1787870296432
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Como vocês estão?",
-        "timestamp": 1787870300025
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Que tem de janta na casa de vocês aí?",
-        "timestamp": 1787870316269
-      },
-      {
-        "authorNum": "274384656834700",
-        "authorName": "Gleydson Souza",
-        "text": "Boa noite",
-        "timestamp": 1787870333376
-      },
-      {
-        "authorNum": "274384656834700",
-        "authorName": "Gleydson Souza",
-        "text": "Lasanha",
-        "timestamp": 1787870336956
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Poxa, eu quero 😒",
-        "timestamp": 1787870347296
-      },
-      {
         "authorNum": "274384656834700",
         "authorName": "Gleydson Souza",
         "text": "Vou guardar 1 pedaço pra vc aqui",
@@ -16208,6 +16166,12 @@
         "authorName": "Gabriel",
         "text": "Porra, agora vi que tu gosta mesmo",
         "timestamp": 1787872036193
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Recomendo as músicas dela hehehhe",
+        "timestamp": 1787872165418
       }
     ],
     "120363428464897153@g.us": [],
@@ -16437,7 +16401,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20775,
+    "120363432018531082@g.us": 20776,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1649,
@@ -135246,6 +135210,12 @@
         "text": "Porra, agora vi que tu gosta mesmo",
         "pushName": "Gabriel",
         "timestamp": 1787872036193
+      },
+      "3AED6E39EB0BE84C4ED1": {
+        "sender": "262182034002040@lid",
+        "text": "Recomendo as músicas dela hehehhe",
+        "pushName": "Dany",
+        "timestamp": 1787872165418
       }
     },
     "120363428464897153@g.us": {
@@ -184031,7 +184001,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787872036193,
+    "120363432018531082@g.us": 1787872165418,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787872064930,
