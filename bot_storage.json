@@ -103,9 +103,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1425,
+        "text": 1426,
         "media": 1077,
-        "total": 2502
+        "total": 2503
       },
       "3126803329115": {
         "text": 87,
@@ -143,9 +143,9 @@
         "total": 440
       },
       "262182034002040": {
-        "text": 1837,
+        "text": 1838,
         "media": 118,
-        "total": 1955
+        "total": 1956
       },
       "219245581488326": {
         "text": 4,
@@ -254,8 +254,8 @@
       },
       "60851868446964": {
         "text": 1234,
-        "media": 1431,
-        "total": 2665
+        "media": 1432,
+        "total": 2666
       },
       "270377049690114": {
         "text": 36,
@@ -2453,9 +2453,9 @@
         "total": 5
       },
       "190864487919667": {
-        "text": 1,
+        "text": 3,
         "media": 3,
-        "total": 4
+        "total": 6
       },
       "82227819987089": {
         "text": 1,
@@ -9251,7 +9251,10 @@
         "Dany (262182034002040): Mas é isso mesmo hahahah",
         "Souza (190864487919667): Como estão de calor por aí na cidade de vocês?",
         "gigi✨ (60851868446964): HAHAHAHAH",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Terrível"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Terrível",
+        "Dany (262182034002040): Teve uma ligação que dormimos nos falando também hahahahha",
+        "Camila Designer (92629643563147): Aqui está com chuvinha hoje, parou agora kkk",
+        "Souza (190864487919667): Ish"
       ]
     },
     "120363428464897153@g.us": {
@@ -15319,12 +15322,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "129158944415753",
-        "authorName": "massagista tântrico",
-        "text": "Exatamente",
-        "timestamp": 1787844692718
-      },
-      {
         "authorNum": "81991328395336",
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Uia",
@@ -15929,6 +15926,24 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Terrível",
         "timestamp": 1787846476550
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Teve uma ligação que dormimos nos falando também hahahahha",
+        "timestamp": 1787846482444
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Aqui está com chuvinha hoje, parou agora kkk",
+        "timestamp": 1787846492694
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Ish",
+        "timestamp": 1787846517115
       }
     ],
     "120363428464897153@g.us": [],
@@ -15946,7 +15961,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19922,
+    "120363432018531082@g.us": 19925,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -129692,6 +129707,24 @@
         "text": "Terrível",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787846476550
+      },
+      "3A10002AB15AD8575FB3": {
+        "sender": "262182034002040@lid",
+        "text": "Teve uma ligação que dormimos nos falando também hahahahha",
+        "pushName": "Dany",
+        "timestamp": 1787846482444
+      },
+      "2A3B1303857282A88220": {
+        "sender": "92629643563147@lid",
+        "text": "Aqui está com chuvinha hoje, parou agora kkk",
+        "pushName": "Camila Designer",
+        "timestamp": 1787846492694
+      },
+      "AC95D5F40D2C4A57A876A28178CB917F": {
+        "sender": "190864487919667@lid",
+        "text": "Ish",
+        "pushName": "Souza",
+        "timestamp": 1787846517115
       }
     },
     "120363428464897153@g.us": {
@@ -177443,7 +177476,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787846476550,
+    "120363432018531082@g.us": 1787846517115,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
