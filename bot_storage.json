@@ -24,13 +24,13 @@
       },
       "129373172711439": {
         "text": 1504,
-        "media": 419,
-        "total": 1923
+        "media": 420,
+        "total": 1924
       },
       "81991328395336": {
-        "text": 3734,
+        "text": 3735,
         "media": 1253,
-        "total": 4987
+        "total": 4988
       },
       "179040627490824": {
         "text": 420,
@@ -128,9 +128,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 1965,
+        "text": 1966,
         "media": 255,
-        "total": 2220
+        "total": 2221
       },
       "252922705240205": {
         "text": 80,
@@ -1689,8 +1689,8 @@
       },
       "225464408887542": {
         "text": 6,
-        "media": 14,
-        "total": 20
+        "media": 15,
+        "total": 21
       },
       "139797041561794": {
         "text": 1,
@@ -9050,7 +9050,8 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Bom dia meu gostoso ❤️",
         "Leandro (+55 (11) 92701-8683): Como você está minha delícia?",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Morta de sono",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bom dia Leandro"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bom dia Leandro",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Ala, outro"
       ]
     },
     "120363428464897153@g.us": {
@@ -15139,6 +15140,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Bom dia Leandro",
         "timestamp": 1787839869849
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Ala, outro",
+        "timestamp": 1787839901597
       }
     ],
     "120363428464897153@g.us": [],
@@ -15163,7 +15170,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19766,
+    "120363432018531082@g.us": 19767,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1466,
@@ -127991,6 +127998,12 @@
         "text": "Bom dia Leandro",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787839869849
+      },
+      "AC13BA730C1C1F633108DB629AE17DC1": {
+        "sender": "53537388122141@lid",
+        "text": "Ala, outro",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787839901598
       }
     },
     "120363428464897153@g.us": {
@@ -175664,7 +175677,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787839882170,
+    "120363432018531082@g.us": 1787839915891,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787829200713,
