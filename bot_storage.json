@@ -2621,9 +2621,9 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 2,
+        "text": 3,
         "media": 1,
-        "total": 3
+        "total": 4
       }
     },
     "120363428464897153@g.us": {
@@ -9104,7 +9104,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Camila Designer (92629643563147): Porque apagou João?",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Era a apresentação dele",
         ". (39402768232586): Desculpe achei que só podia mandar de visualização única",
         "Camila Designer (92629643563147): Não, pode mandar normal!",
@@ -9603,7 +9602,8 @@
         "Gabriel Ohi (90130358485223): Sim kkkk",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Vc não! Mais falaram Aki sim hahah",
         "Jonathan Bráulio (187097969348735): Por mais homens assim kkkkk",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tô só de 👀👀👀"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tô só de 👀👀👀",
+        "Gleydson Souza (274384656834700): Gente 14 foi de arrasta kkkkk. F"
       ]
     },
     "120363428464897153@g.us": {
@@ -15711,24 +15711,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "@53537388122141",
-        "timestamp": 1787860065164
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "A pronto, quem é? Se identifique no meu Pv aí",
-        "timestamp": 1787860084424
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Até agora esse ser misterioso não se identificou",
-        "timestamp": 1787860114343
-      },
-      {
         "authorNum": "190864487919667",
         "authorName": "Souza",
         "text": "Tem alguém escrevendo uma bíblia",
@@ -16165,6 +16147,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Tô só de 👀👀👀",
         "timestamp": 1787861852646
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Gente 14 foi de arrasta kkkkk. F",
+        "timestamp": 1787861914888
       }
     ],
     "120363428464897153@g.us": [],
@@ -16322,7 +16310,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20290,
+    "120363432018531082@g.us": 20291,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1516,
@@ -132247,6 +132235,12 @@
         "text": "Tô só de 👀👀👀",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787861852646
+      },
+      "AC260CA76AB7966A67E293583664DC5B": {
+        "sender": "274384656834700@lid",
+        "text": "Gente 14 foi de arrasta kkkkk. F",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787861914888
       }
     },
     "120363428464897153@g.us": {
@@ -180220,7 +180214,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787861863094,
+    "120363432018531082@g.us": 1787861914888,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787861646643,
