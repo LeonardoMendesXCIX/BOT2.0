@@ -2566,9 +2566,9 @@
         "total": 20
       },
       "190864487919667": {
-        "text": 138,
+        "text": 139,
         "media": 24,
-        "total": 162
+        "total": 163
       },
       "82227819987089": {
         "text": 2,
@@ -2647,8 +2647,8 @@
       },
       "205621945192508": {
         "text": 30,
-        "media": 10,
-        "total": 40
+        "media": 11,
+        "total": 41
       },
       "208958782488665": {
         "text": 6,
@@ -3297,9 +3297,9 @@
     },
     "120363412288900422@g.us": {
       "81991328395336": {
-        "text": 399,
+        "text": 400,
         "media": 111,
-        "total": 510
+        "total": 511
       },
       "5511927018683": {
         "text": 435,
@@ -3307,9 +3307,9 @@
         "total": 512
       },
       "145381035905262": {
-        "text": 338,
+        "text": 339,
         "media": 118,
-        "total": 456
+        "total": 457
       },
       "53537388122141": {
         "text": 615,
@@ -9149,7 +9149,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Neto prime (238233849983072): Vc não precisa de competição,  o campeonato inteiro já é seu ❤️ @266048007835881",
         "Souza (190864487919667): Culpa de ser novato",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): 😹😹",
         "Souza (190864487919667): Também quero saber",
@@ -9648,7 +9647,8 @@
         "Souza (190864487919667): Se vira",
         "Jennifer🦋 (205621945192508): Mais olhaaa",
         "Souza (190864487919667): Por favor",
-        "Caroline (118395236282617): kkkkkkkk"
+        "Caroline (118395236282617): kkkkkkkk",
+        "Souza (190864487919667): Bk tá melhor"
       ]
     },
     "120363428464897153@g.us": {
@@ -15361,7 +15361,9 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Ele saiu?",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Não, tá lá",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): O negócio que começou ontem \nAliás nem começou já tá nesse mimimi",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Mano... Eu juro, tô dando gargalhada disso aqui"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Mano... Eu juro, tô dando gargalhada disso aqui",
+        "Gabriel (145381035905262): Boa noite, alguém resuma a situação aí ? @all",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): E ele fosse outro defendia \nFalava que ninguém tava dando encima \nMas ele tá gostando da situação"
       ]
     },
     "120363411233423709@g.us": {
@@ -16540,6 +16542,12 @@
         "authorName": "Caroline",
         "text": "kkkkkkkk",
         "timestamp": 1787869687088
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Bk tá melhor",
+        "timestamp": 1787869700511
       }
     ],
     "120363428464897153@g.us": [],
@@ -16790,6 +16798,18 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Mano... Eu juro, tô dando gargalhada disso aqui",
         "timestamp": 1787869679797
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Boa noite, alguém resuma a situação aí ? @all",
+        "timestamp": 1787869702381
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "E ele fosse outro defendia \nFalava que ninguém tava dando encima \nMas ele tá gostando da situação",
+        "timestamp": 1787869716336
       }
     ],
     "120363411233423709@g.us": [],
@@ -16805,10 +16825,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20701,
+    "120363432018531082@g.us": 20702,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1584,
+    "120363412288900422@g.us": 1586,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -135170,6 +135190,12 @@
         "text": "kkkkkkkk",
         "pushName": "Caroline",
         "timestamp": 1787869687089
+      },
+      "ACBD368D767B73CA7724832BA284BFC7": {
+        "sender": "190864487919667@lid",
+        "text": "Bk tá melhor",
+        "pushName": "Souza",
+        "timestamp": 1787869700511
       }
     },
     "120363428464897153@g.us": {
@@ -181010,6 +181036,18 @@
         "text": "Mano... Eu juro, tô dando gargalhada disso aqui",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787869679797
+      },
+      "AC8CCCB61E51F0C8837C9C7DEABFC5F0": {
+        "sender": "145381035905262@lid",
+        "text": "Boa noite, alguém resuma a situação aí ? @all",
+        "pushName": "Gabriel",
+        "timestamp": 1787869702382
+      },
+      "ACB4E86810A65F97DDC4223F598BAF5F": {
+        "sender": "81991328395336@lid",
+        "text": "E ele fosse outro defendia \nFalava que ninguém tava dando encima \nMas ele tá gostando da situação",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787869716336
       }
     },
     "120363411233423709@g.us": {
@@ -183565,10 +183603,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787869687088,
+    "120363432018531082@g.us": 1787869722480,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787869679797,
+    "120363412288900422@g.us": 1787869716336,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
