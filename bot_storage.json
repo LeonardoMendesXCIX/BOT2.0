@@ -3434,9 +3434,9 @@
         "total": 136
       },
       "5511927018683": {
-        "text": 25,
+        "text": 31,
         "media": 3,
-        "total": 28
+        "total": 34
       },
       "30486281900223": {
         "text": 1,
@@ -3445,13 +3445,13 @@
       },
       "81991328395336": {
         "text": 6,
-        "media": 88,
-        "total": 94
+        "media": 94,
+        "total": 100
       },
       "145381035905262": {
         "text": 3,
-        "media": 40,
-        "total": 43
+        "media": 142,
+        "total": 145
       },
       "120363409024805409": {
         "text": 0,
@@ -14912,7 +14912,9 @@
         "Leandro (+55 (11) 92701-8683): Manda",
         "Leandro (+55 (11) 92701-8683): O grupo é para figurinhas 🫡",
         "Baby (179040627490824): Só as relíquias",
-        "Leandro (+55 (11) 92701-8683): Esse é boa 😂"
+        "Leandro (+55 (11) 92701-8683): Esse é boa 😂",
+        "Leandro (+55 (11) 92701-8683): !antiflood off",
+        "Leandro (+55 (11) 92701-8683): !antidelete off"
       ]
     }
   },
@@ -15124,6 +15126,18 @@
         "authorName": "Leandro",
         "text": "Esse é boa 😂",
         "timestamp": 1787811112603
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!antiflood off",
+        "timestamp": 1787811379088
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!antidelete off",
+        "timestamp": 1787811397697
       }
     ]
   },
@@ -15141,7 +15155,7 @@
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 17,
-    "120363409024805409@g.us": 41
+    "120363409024805409@g.us": 43
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -15249,6 +15263,7 @@
     }
   },
   "exitMsgs": {},
+  "removalMsgs": {},
   "inativosMsgs": {
     "120363432018531082@g.us": {
       "text": "Pessoal, acabamos de fazer uma limpeza de integrantes inativos! Continuem conversando e interagindo para manter nosso grupo ativo.",
@@ -15267,7 +15282,8 @@
   },
   "antiflood": {
     "120363432018531082@g.us": true,
-    "120363428464897153@g.us": true
+    "120363428464897153@g.us": true,
+    "120363409024805409@g.us": false
   },
   "antighost": {
     "120363432018531082@g.us": true
@@ -15280,7 +15296,8 @@
   "antidelete": {
     "120363428464897153@g.us": false,
     "120363432018531082@g.us": true,
-    "120363411246936023@g.us": false
+    "120363411246936023@g.us": false,
+    "120363409024805409@g.us": false
   },
   "messageBuffer": {
     "120363432018531082@g.us": {
@@ -174645,6 +174662,18 @@
         "text": "Esse é boa 😂",
         "pushName": "Leandro",
         "timestamp": 1787811112603
+      },
+      "A556250004813B09F3D878064A2AFCF1": {
+        "sender": "54259127210155@lid",
+        "text": "!antiflood off",
+        "pushName": "Leandro",
+        "timestamp": 1787811379090
+      },
+      "A5C2704BC2448F8F18306BF2B029DC21": {
+        "sender": "54259127210155@lid",
+        "text": "!antidelete off",
+        "pushName": "Leandro",
+        "timestamp": 1787811397697
       }
     }
   },
@@ -174741,7 +174770,7 @@
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1787803320850,
-    "120363409024805409@g.us": 1787811171378
+    "120363409024805409@g.us": 1787811421936
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
@@ -174794,6 +174823,10 @@
       "antilink": true
     },
     "120363411246936023@g.us": {
+      "antidelete": true
+    },
+    "120363409024805409@g.us": {
+      "antiflood": true,
       "antidelete": true
     }
   },
