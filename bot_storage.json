@@ -129,9 +129,9 @@
         "total": 1920
       },
       "81991328395336": {
-        "text": 3713,
+        "text": 3714,
         "media": 1246,
-        "total": 4959
+        "total": 4960
       },
       "179040627490824": {
         "text": 382,
@@ -139,9 +139,9 @@
         "total": 458
       },
       "145381035905262": {
-        "text": 2144,
-        "media": 462,
-        "total": 2606
+        "text": 2145,
+        "media": 463,
+        "total": 2608
       },
       "184237705699536": {
         "text": 524,
@@ -8393,7 +8393,6 @@
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Cai  de paraquedas Aki e já descobri meio mundo de coisas kkkkkk"
       ],
       "26/08/2026": [
-        "Camila Designer (92629643563147): Que susto amiga, li errado",
         "Celiete Souza (129373172711439): Tu não começa",
         "Camila Designer (92629643563147): Entendi cafezinho após almoço e rola 🤣🤣🤣🤣",
         "Celiete Souza (129373172711439): Ué talvez, se alguém tem essa opção, toca ficha",
@@ -8892,7 +8891,8 @@
         "Gabriel (145381035905262): Tão achando que tu é cozinheira",
         "Gabriel (145381035905262): Galera, estarei me afastando do grupo a partir de agora",
         "Gabriel (145381035905262): Muito bom o papo, a resenha, as amizades",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Aconteceu algo?"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Aconteceu algo?",
+        "Gabriel (145381035905262): Aconteceu Sasa, tô cheio de fome, preciso comer, mas já volto"
       ]
     },
     "120363428464897153@g.us": {
@@ -14806,6 +14806,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Aconteceu algo?",
         "timestamp": 1787794589467
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Aconteceu Sasa, tô cheio de fome, preciso comer, mas já volto",
+        "timestamp": 1787794610458
       }
     ],
     "120363428464897153@g.us": [
@@ -15556,7 +15562,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19570,
+    "120363432018531082@g.us": 19571,
     "120363428464897153@g.us": 5630,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1422,
@@ -127227,6 +127233,12 @@
         "text": "Aconteceu algo?",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787794589467
+      },
+      "AC8FB2B36127B3D28EE3DB85DEC23748": {
+        "sender": "145381035905262@lid",
+        "text": "Aconteceu Sasa, tô cheio de fome, preciso comer, mas já volto",
+        "pushName": "Gabriel",
+        "timestamp": 1787794610458
       }
     },
     "120363428464897153@g.us": {
@@ -172117,7 +172129,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787794589467,
+    "120363432018531082@g.us": 1787794620918,
     "120363428464897153@g.us": 1787794580289,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787793125283,
