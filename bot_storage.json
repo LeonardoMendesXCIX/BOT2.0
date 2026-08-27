@@ -2566,9 +2566,9 @@
         "total": 20
       },
       "190864487919667": {
-        "text": 150,
+        "text": 151,
         "media": 27,
-        "total": 177
+        "total": 178
       },
       "82227819987089": {
         "text": 2,
@@ -2621,9 +2621,9 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 42,
+        "text": 43,
         "media": 11,
-        "total": 53
+        "total": 54
       },
       "172868239380659": {
         "text": 56,
@@ -9149,8 +9149,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Juliano Perlin (222595437858867): Vcs nao ficam dando em cima da minha cherósa q a faca pega vcs😠",
-        "Juliano Perlin (222595437858867): Oii coisa cheirósa😍",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): A pronto, se lascaram vocês 👀",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Oioioooooi",
         "Rafael Moura (57707230945348): Mds que ta havendo aqui",
@@ -9648,7 +9646,9 @@
         "Pedro Henrique (172868239380659): Boa noite!",
         "Caroline (118395236282617): Boa",
         "Jane (247635785080860): Já está a procura de janta rs",
-        "Jane (247635785080860): Esse horário"
+        "Jane (247635785080860): Esse horário",
+        "Souza (190864487919667): Fomeee",
+        "Gleydson Souza (274384656834700): Nada, so avisar quando chegar"
       ]
     },
     "120363428464897153@g.us": {
@@ -15860,12 +15860,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Queria",
-        "timestamp": 1787868842429
-      },
-      {
         "authorNum": "118395236282617",
         "authorName": "Caroline",
         "text": "queria calor",
@@ -16530,6 +16524,18 @@
         "authorName": "Jane",
         "text": "Esse horário",
         "timestamp": 1787870605678
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Fomeee",
+        "timestamp": 1787870654282
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Nada, so avisar quando chegar",
+        "timestamp": 1787870659615
       }
     ],
     "120363428464897153@g.us": [],
@@ -16975,7 +16981,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20741,
+    "120363432018531082@g.us": 20743,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1616,
@@ -135580,6 +135586,18 @@
         "text": "Esse horário",
         "pushName": "Jane",
         "timestamp": 1787870605678
+      },
+      "AC5853BBB5FABE977957BDFBCA81C685": {
+        "sender": "190864487919667@lid",
+        "text": "Fomeee",
+        "pushName": "Souza",
+        "timestamp": 1787870654282
+      },
+      "AC41C399869EADAA36476DF6C34BC69C": {
+        "sender": "274384656834700@lid",
+        "text": "Nada, so avisar quando chegar",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787870659615
       }
     },
     "120363428464897153@g.us": {
@@ -184167,7 +184185,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787870621815,
+    "120363432018531082@g.us": 1787870659615,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787870469989,
