@@ -3150,9 +3150,9 @@
         "total": 430
       },
       "53537388122141": {
-        "text": 524,
+        "text": 526,
         "media": 36,
-        "total": 560
+        "total": 562
       },
       "120363412288900422": {
         "text": 1,
@@ -14357,7 +14357,9 @@
         "Leandro (+55 (11) 92701-8683): 🤦🏻‍♂️",
         "Leandro (+55 (11) 92701-8683): Que ódio",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Imagino",
-        "Leandro (+55 (11) 92701-8683): Agora vou ter que ir lembrando"
+        "Leandro (+55 (11) 92701-8683): Agora vou ter que ir lembrando",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Para",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bens"
       ]
     },
     "120363411233423709@g.us": {
@@ -15053,6 +15055,18 @@
         "authorName": "Leandro",
         "text": "Agora vou ter que ir lembrando",
         "timestamp": 1787800318193
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Para",
+        "timestamp": 1787800367094
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Bens",
+        "timestamp": 1787800373384
       }
     ],
     "120363411233423709@g.us": [],
@@ -15069,7 +15083,7 @@
     "120363432018531082@g.us": 19617,
     "120363428464897153@g.us": 5853,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1444,
+    "120363412288900422@g.us": 1446,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 13
@@ -171191,6 +171205,18 @@
         "text": "Agora vou ter que ir lembrando",
         "pushName": "Leandro",
         "timestamp": 1787800318193
+      },
+      "ACD528416F41B829D82C3D5BAC4F9537": {
+        "sender": "53537388122141@lid",
+        "text": "Para",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787800367094
+      },
+      "ACBB1733933753FBF816D81EC0764609": {
+        "sender": "53537388122141@lid",
+        "text": "Bens",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787800373384
       }
     },
     "120363411233423709@g.us": {
@@ -173370,7 +173396,7 @@
     "120363432018531082@g.us": 1787800288681,
     "120363428464897153@g.us": 1787799322772,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787800318193,
+    "120363412288900422@g.us": 1787800373384,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
