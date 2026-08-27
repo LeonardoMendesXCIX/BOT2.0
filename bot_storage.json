@@ -138,9 +138,9 @@
         "total": 99
       },
       "233161007071346": {
-        "text": 398,
+        "text": 399,
         "media": 45,
-        "total": 443
+        "total": 444
       },
       "262182034002040": {
         "text": 1840,
@@ -499,8 +499,8 @@
       },
       "86793403801839": {
         "text": 59,
-        "media": 4,
-        "total": 63
+        "media": 5,
+        "total": 64
       },
       "78070107140221": {
         "text": 7,
@@ -1353,9 +1353,9 @@
         "total": 157
       },
       "266048007835881": {
-        "text": 543,
+        "text": 545,
         "media": 254,
-        "total": 797
+        "total": 799
       },
       "123120354635955": {
         "text": 4,
@@ -2479,8 +2479,8 @@
       },
       "75797868064796": {
         "text": 4,
-        "media": 5,
-        "total": 9
+        "media": 6,
+        "total": 10
       },
       "153764728184839": {
         "text": 0,
@@ -9409,7 +9409,10 @@
         "Milena B. Costa (233161007071346): Bem vindo aos novatos(as)",
         "Alexandre Bastos (75797868064796): Boa",
         "Milena B. Costa (233161007071346): Nem sempre ando por aqui, mas eventualmente eu chego :D",
-        "Neto prime (238233849983072): Faleee ?"
+        "Neto prime (238233849983072): Faleee ?",
+        "Milena B. Costa (233161007071346): Bem assim kkkk",
+        "🎀  Ň𝐘ηａ🐆 (266048007835881): Depende da cidade satélite",
+        "🎀  Ň𝐘ηａ🐆 (266048007835881): Onde tu moro não acho"
       ]
     },
     "120363428464897153@g.us": {
@@ -15734,6 +15737,24 @@
         "authorName": "Neto prime",
         "text": "Faleee ?",
         "timestamp": 1787856540927
+      },
+      {
+        "authorNum": "233161007071346",
+        "authorName": "Milena B. Costa",
+        "text": "Bem assim kkkk",
+        "timestamp": 1787856560294
+      },
+      {
+        "authorNum": "266048007835881",
+        "authorName": "🎀  Ň𝐘ηａ🐆",
+        "text": "Depende da cidade satélite",
+        "timestamp": 1787856573001
+      },
+      {
+        "authorNum": "266048007835881",
+        "authorName": "🎀  Ň𝐘ηａ🐆",
+        "text": "Onde tu moro não acho",
+        "timestamp": 1787856587969
       }
     ],
     "120363428464897153@g.us": [],
@@ -15758,7 +15779,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20050,
+    "120363432018531082@g.us": 20053,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -130273,6 +130294,24 @@
         "text": "Faleee ?",
         "pushName": "Neto prime",
         "timestamp": 1787856540927
+      },
+      "3EB0F796F4209C2A2C665A": {
+        "sender": "233161007071346@lid",
+        "text": "Bem assim kkkk",
+        "pushName": "Milena B. Costa",
+        "timestamp": 1787856560294
+      },
+      "AC8415FAAE74AF53F519D313250CEF7C": {
+        "sender": "266048007835881@lid",
+        "text": "Depende da cidade satélite",
+        "pushName": "🎀  Ň𝐘ηａ🐆",
+        "timestamp": 1787856573001
+      },
+      "ACB985DE7AB296A13F583587393A8B85": {
+        "sender": "266048007835881@lid",
+        "text": "Onde tu moro não acho",
+        "pushName": "🎀  Ň𝐘ηａ🐆",
+        "timestamp": 1787856587970
       }
     },
     "120363428464897153@g.us": {
@@ -178030,7 +178069,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787856550608,
+    "120363432018531082@g.us": 1787856587969,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
