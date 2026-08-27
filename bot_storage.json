@@ -241,9 +241,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2066,
+        "text": 2069,
         "media": 274,
-        "total": 2340
+        "total": 2343
       },
       "252922705240205": {
         "text": 80,
@@ -9104,8 +9104,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "massagista tântrico (129158944415753): Simm",
-        "Camila Designer (92629643563147): Meu Deus, preciso conhecer o Rio 🤣🤣🤣",
         "massagista tântrico (129158944415753): Será muito bem vinda",
         "massagista tântrico (129158944415753): Será muito bem vinda",
         "Breno (234324976738434): Breno Gabriel \n24 anos\nGoiânia (GO) \nSatisfação !",
@@ -9603,7 +9601,9 @@
         "Souza (190864487919667): Já quero é ir embora",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Acho que já inventa um bolo",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Nam, grupo vai continuar normal\nFicaram inativos pq queriam",
-        "Gabriel Ohi (90130358485223): Eu sei"
+        "Gabriel Ohi (90130358485223): Eu sei",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Sabe que tô zuando também né",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): @54259127210155"
       ]
     },
     "120363428464897153@g.us": {
@@ -15711,18 +15711,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Se eu não te conhecesse tão bem",
-        "timestamp": 1787859975794
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "É, me conhece bem até demais, não é mesmo?\nMas pq? Não sou um monstro né?",
-        "timestamp": 1787860001867
-      },
-      {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Sou um amorzinho",
@@ -16153,6 +16141,18 @@
         "authorName": "Gabriel Ohi",
         "text": "Eu sei",
         "timestamp": 1787861773902
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Sabe que tô zuando também né",
+        "timestamp": 1787861794614
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "@54259127210155",
+        "timestamp": 1787861805656
       }
     ],
     "120363428464897153@g.us": [],
@@ -16310,7 +16310,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20284,
+    "120363432018531082@g.us": 20286,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1516,
@@ -132199,6 +132199,18 @@
         "text": "Eu sei",
         "pushName": "Gabriel Ohi",
         "timestamp": 1787861773902
+      },
+      "ACC928D907FBBF0E01506EAD6C060C36": {
+        "sender": "53537388122141@lid",
+        "text": "Sabe que tô zuando também né",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787861794614
+      },
+      "ACA043328F6E5701FEEC6489BB9C9A64": {
+        "sender": "53537388122141@lid",
+        "text": "@54259127210155",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787861805656
       }
     },
     "120363428464897153@g.us": {
@@ -180172,7 +180184,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787861773902,
+    "120363432018531082@g.us": 1787861805656,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787861646643,
