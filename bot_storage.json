@@ -226,9 +226,9 @@
         "total": 105
       },
       "118395236282617": {
-        "text": 383,
+        "text": 384,
         "media": 142,
-        "total": 525
+        "total": 526
       },
       "248773146108144": {
         "text": 24,
@@ -2566,9 +2566,9 @@
         "total": 20
       },
       "190864487919667": {
-        "text": 116,
-        "media": 22,
-        "total": 138
+        "text": 117,
+        "media": 23,
+        "total": 140
       },
       "82227819987089": {
         "text": 2,
@@ -3297,9 +3297,9 @@
     },
     "120363412288900422@g.us": {
       "81991328395336": {
-        "text": 386,
+        "text": 387,
         "media": 111,
-        "total": 497
+        "total": 498
       },
       "5511927018683": {
         "text": 435,
@@ -9149,8 +9149,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Boa tarde meu amor 💖",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Boa tarde!",
         "'   MƲRIԼԼƠ  🥶 (111506477846600): Ahhhh",
         "'   MƲRIԼԼƠ  🥶 (111506477846600): N lembro",
         "'   MƲRIԼԼƠ  🥶 (111506477846600): 🤣 🤣",
@@ -9648,7 +9646,9 @@
         "Pedro Henrique (172868239380659): Sabe muito",
         "Pedro Henrique (172868239380659): Não sou mal",
         "Caroline (118395236282617): Preciso disso",
-        "Souza (190864487919667): Ave Maria"
+        "Souza (190864487919667): Ave Maria",
+        "Souza (190864487919667): Vai ficar é queimada de tanto sol",
+        "Caroline (118395236282617): ahhh eu amo"
       ]
     },
     "120363428464897153@g.us": {
@@ -15331,7 +15331,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): O gente...",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): O povo tá me tirando pra otária hoje",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Não é possível",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Amei."
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Amei.",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): A parti de hj @53537388122141 \nSe vier caixinha anônimo pra mim citando a Jaque \nNão me mostre"
       ]
     },
     "120363411233423709@g.us": {
@@ -15797,18 +15798,6 @@
   },
   "memoryCluster": {
     "120363432018531082@g.us": [
-      {
-        "authorNum": "1395881181241",
-        "authorName": "Bruno Aguiar",
-        "text": "Seja bem vinda!",
-        "timestamp": 1787867173960
-      },
-      {
-        "authorNum": "205621945192508",
-        "authorName": "Jennifer🦋",
-        "text": "Obrigada 🙂🙂",
-        "timestamp": 1787867175659
-      },
       {
         "authorNum": "208958782488665",
         "authorName": "Jessica",
@@ -16384,6 +16373,18 @@
         "authorName": "Souza",
         "text": "Ave Maria",
         "timestamp": 1787868968442
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Vai ficar é queimada de tanto sol",
+        "timestamp": 1787868987619
+      },
+      {
+        "authorNum": "118395236282617",
+        "authorName": "Caroline",
+        "text": "ahhh eu amo",
+        "timestamp": 1787869004816
       }
     ],
     "120363428464897153@g.us": [],
@@ -16454,6 +16455,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Amei.",
         "timestamp": 1787868912528
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "A parti de hj @53537388122141 \nSe vier caixinha anônimo pra mim citando a Jaque \nNão me mostre",
+        "timestamp": 1787869018723
       }
     ],
     "120363411233423709@g.us": [],
@@ -16476,10 +16483,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20641,
+    "120363432018531082@g.us": 20643,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1554,
+    "120363412288900422@g.us": 1555,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -134487,6 +134494,18 @@
         "text": "Ave Maria",
         "pushName": "Souza",
         "timestamp": 1787868968442
+      },
+      "ACB77F28E0C5512053EA113664C5100B": {
+        "sender": "190864487919667@lid",
+        "text": "Vai ficar é queimada de tanto sol",
+        "pushName": "Souza",
+        "timestamp": 1787868987619
+      },
+      "ACD781C82534B4B89D59587C27B91B4F": {
+        "sender": "118395236282617@lid",
+        "text": "ahhh eu amo",
+        "pushName": "Caroline",
+        "timestamp": 1787869004816
       }
     },
     "120363428464897153@g.us": {
@@ -180147,6 +180166,12 @@
         "text": "Amei.",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787868912528
+      },
+      "AC12F8AFADF8D0272029193DDE4ED154": {
+        "sender": "81991328395336@lid",
+        "text": "A parti de hj @53537388122141 \nSe vier caixinha anônimo pra mim citando a Jaque \nNão me mostre",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787869018723
       }
     },
     "120363411233423709@g.us": {
@@ -182702,10 +182727,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787868968442,
+    "120363432018531082@g.us": 1787869021820,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787868918162,
+    "120363412288900422@g.us": 1787869018723,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
