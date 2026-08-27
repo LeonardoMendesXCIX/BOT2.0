@@ -239,9 +239,9 @@
         "total": 99
       },
       "233161007071346": {
-        "text": 390,
+        "text": 391,
         "media": 43,
-        "total": 433
+        "total": 434
       },
       "262182034002040": {
         "text": 1816,
@@ -2926,9 +2926,9 @@
         "total": 1
       },
       "266048007835881": {
-        "text": 47,
-        "media": 29,
-        "total": 76
+        "text": 48,
+        "media": 30,
+        "total": 78
       },
       "123120354635955": {
         "text": 1,
@@ -3001,9 +3001,9 @@
         "total": 15
       },
       "120044990287992": {
-        "text": 80,
+        "text": 81,
         "media": 4,
-        "total": 84
+        "total": 85
       },
       "71120413843690": {
         "text": 2,
@@ -8393,7 +8393,6 @@
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Cai  de paraquedas Aki e já descobri meio mundo de coisas kkkkkk"
       ],
       "26/08/2026": [
-        "Dany (262182034002040): Agente é do FBI Hahahhaha\n\nNão sei o que há com o corretor de vocês, o meu é meu xodó kkkkkk treinado para me ajudar hihihi",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): 250 Aki é um vasilhame novo já cheio",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Que roubo",
         "Camila Designer (92629643563147): Sabia que não tinha entrado nesse grupo em vão, já arrumei o pai do meu próximo filho 🤣🤣🤣🤣",
@@ -8892,7 +8891,8 @@
         "Caroline (118395236282617): Queria",
         "Dany (262182034002040): Tenho certeza",
         "Dany (262182034002040): Me deu até fome aff 😓",
-        "Milena B. Costa (233161007071346): Larguei, galera!"
+        "Milena B. Costa (233161007071346): Larguei, galera!",
+        "Milena B. Costa (233161007071346): Só dei um check rapidinho nas mensagens"
       ]
     },
     "120363428464897153@g.us": {
@@ -12099,7 +12099,6 @@
         "Leandro (+55 (11) 92701-8683): Mais tarde, quando o kbaré abrir, tu se apresenta @66743926038604"
       ],
       "26/08/2026": [
-        "Juliano Perlin (222595437858867): Simm",
         "Juliano Perlin (222595437858867): Kkkkk",
         "gigi✨ (60851868446964): KAKAKKAKAKA",
         "Juliano Perlin (222595437858867): Nao abra",
@@ -12598,7 +12597,8 @@
         "negoh🐻 (120044990287992): Vc é nova é?",
         "Priscilla 🌻 (25520947339303): No grupo sim",
         "Camila Designer (92629643563147): Apesar de ter crescido precisa engordar!",
-        "negoh🐻 (120044990287992): Precisa de ração"
+        "negoh🐻 (120044990287992): Precisa de ração",
+        "negoh🐻 (120044990287992): Bienvenida"
       ]
     },
     "120363409727467494@g.us": {
@@ -14685,12 +14685,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "262182034002040",
-        "authorName": "Dany",
-        "text": "Ata mulher! Achei que tinha entendido errado e que você ia comemorar sábado e que era hoje kkkkk",
-        "timestamp": 1787790742906
-      },
-      {
         "authorNum": "67035866357875",
         "authorName": "Jô Freitas 🍀",
         "text": "Obrigada ❤️",
@@ -15007,6 +15001,12 @@
         "authorName": "Milena B. Costa",
         "text": "Larguei, galera!",
         "timestamp": 1787792538517
+      },
+      {
+        "authorNum": "233161007071346",
+        "authorName": "Milena B. Costa",
+        "text": "Só dei um check rapidinho nas mensagens",
+        "timestamp": 1787792572386
       }
     ],
     "120363428464897153@g.us": [
@@ -15483,6 +15483,12 @@
         "authorName": "negoh🐻",
         "text": "Precisa de ração",
         "timestamp": 1787792559763
+      },
+      {
+        "authorNum": "120044990287992",
+        "authorName": "negoh🐻",
+        "text": "Bienvenida",
+        "timestamp": 1787792571745
       }
     ],
     "120363409727467494@g.us": [],
@@ -15685,8 +15691,8 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19548,
-    "120363428464897153@g.us": 5497,
+    "120363432018531082@g.us": 19549,
+    "120363428464897153@g.us": 5498,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1419,
     "120363411233423709@g.us": 5,
@@ -127232,6 +127238,12 @@
         "text": "Larguei, galera!",
         "pushName": "Milena B. Costa",
         "timestamp": 1787792538517
+      },
+      "AC9D7FC433628DCB2751DA72ED88ED34": {
+        "sender": "233161007071346@lid",
+        "text": "Só dei um check rapidinho nas mensagens",
+        "pushName": "Milena B. Costa",
+        "timestamp": 1787792572386
       }
     },
     "120363428464897153@g.us": {
@@ -159424,6 +159436,12 @@
         "text": "Precisa de ração",
         "pushName": "negoh🐻",
         "timestamp": 1787792559763
+      },
+      "ACF6EB33624C725851284719BA9D729F": {
+        "sender": "120044990287992@lid",
+        "text": "Bienvenida",
+        "pushName": "negoh🐻",
+        "timestamp": 1787792571745
       }
     },
     "120363409727467494@g.us": {
@@ -171306,8 +171324,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787792547162,
-    "120363428464897153@g.us": 1787792559763,
+    "120363432018531082@g.us": 1787792572386,
+    "120363428464897153@g.us": 1787792589231,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787792312929,
     "120363411233423709@g.us": 1787113553426,
