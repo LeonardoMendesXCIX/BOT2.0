@@ -3523,13 +3523,13 @@
     "120363409024805409@g.us": {
       "179040627490824": {
         "text": 5,
-        "media": 4,
-        "total": 9
+        "media": 5,
+        "total": 10
       },
       "5511927018683": {
         "text": 10,
-        "media": 2,
-        "total": 12
+        "media": 3,
+        "total": 13
       },
       "30486281900223": {
         "text": 1,
@@ -3537,9 +3537,9 @@
         "total": 3
       },
       "81991328395336": {
-        "text": 0,
+        "text": 1,
         "media": 1,
-        "total": 1
+        "total": 2
       }
     }
   },
@@ -14956,7 +14956,8 @@
         "Leandro (+55 (11) 92701-8683): !del",
         "Baby (179040627490824): foi com arros e farinha ksksk",
         "Leandro (+55 (11) 92701-8683): Kbra véi xarope",
-        "Baby (179040627490824): vdd e o kbrare me coloca la dnv pfv"
+        "Baby (179040627490824): vdd e o kbrare me coloca la dnv pfv",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Um insento desse"
       ]
     }
   },
@@ -15041,6 +15042,12 @@
         "authorName": "Baby",
         "text": "vdd e o kbrare me coloca la dnv pfv",
         "timestamp": 1787808951066
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Um insento desse",
+        "timestamp": 1787809000224
       }
     ]
   },
@@ -15058,7 +15065,7 @@
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 17,
-    "120363409024805409@g.us": 11
+    "120363409024805409@g.us": 12
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -174340,6 +174347,12 @@
         "text": "vdd e o kbrare me coloca la dnv pfv",
         "pushName": "Baby",
         "timestamp": 1787808951066
+      },
+      "AC022CEC9D0AC14C83F4217C85D366FD": {
+        "sender": "81991328395336@lid",
+        "text": "Um insento desse",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787809000224
       }
     }
   },
@@ -174433,7 +174446,7 @@
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1787803320850,
-    "120363409024805409@g.us": 1787808990967
+    "120363409024805409@g.us": 1787809014397
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
