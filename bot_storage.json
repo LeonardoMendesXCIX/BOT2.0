@@ -341,9 +341,9 @@
         "total": 3
       },
       "163530946961491": {
-        "text": 389,
+        "text": 390,
         "media": 60,
-        "total": 449
+        "total": 450
       },
       "222595437858867": {
         "text": 474,
@@ -2622,8 +2622,8 @@
       },
       "274384656834700": {
         "text": 28,
-        "media": 8,
-        "total": 36
+        "media": 9,
+        "total": 37
       },
       "172868239380659": {
         "text": 24,
@@ -9119,7 +9119,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Baby (179040627490824): Vixiiii",
         "gigi✨ (60851868446964): Ele queria fazer umas massagens erodi.....",
         "Souza (190864487919667): Pra tu ver, só o sol escaldante",
         "Baby (179040627490824): Ksksks e complicado",
@@ -9618,7 +9617,8 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): 😌🤌🏾",
         "Lailson Nathan. (272048228188398): Seja bem vindo irmão.",
         "Lailson Nathan. (272048228188398): Sou desse jeito. 😂",
-        "willian (163530946961491): Muito bem kkk"
+        "willian (163530946961491): Muito bem kkk",
+        "willian (163530946961491): Quando uma mulher te manda mensagem e fala que a tua batata tá assando, o que isso quer dizer?"
       ]
     },
     "120363428464897153@g.us": {
@@ -15753,12 +15753,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "266048007835881",
-        "authorName": "🎀  Ň𝐘ηａ🐆",
-        "text": "Treta so se for pra vc, apenas esclarecir algo. pq se tem uma coisa que eu sou e direta e verdadeira 😉",
-        "timestamp": 1787863804946
-      },
-      {
         "authorNum": "145381035905262",
         "authorName": "Gabriel",
         "text": "Vala minha nossa senhora",
@@ -16375,6 +16369,12 @@
         "authorName": "willian",
         "text": "Muito bem kkk",
         "timestamp": 1787865422745
+      },
+      {
+        "authorNum": "163530946961491",
+        "authorName": "willian",
+        "text": "Quando uma mulher te manda mensagem e fala que a tua batata tá assando, o que isso quer dizer?",
+        "timestamp": 1787865619457
       }
     ],
     "120363428464897153@g.us": [],
@@ -16477,7 +16477,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20454,
+    "120363432018531082@g.us": 20455,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1543,
@@ -16544,7 +16544,6 @@
     "120363409024805409@g.us": [
       "270377049690114@lid",
       "86793403801839@lid",
-      "84271553335549@lid",
       "262182034002040@lid",
       "271940199665903@lid",
       "246729295282232@lid",
@@ -133379,6 +133378,12 @@
         "text": "Muito bem kkk",
         "pushName": "willian",
         "timestamp": 1787865422745
+      },
+      "AC1CC6B857FD1CFCE5732A947BE5CFBD": {
+        "sender": "163530946961491@lid",
+        "text": "Quando uma mulher te manda mensagem e fala que a tua batata tá assando, o que isso quer dizer?",
+        "pushName": "willian",
+        "timestamp": 1787865619458
       }
     },
     "120363428464897153@g.us": {
@@ -181514,7 +181519,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787865422745,
+    "120363432018531082@g.us": 1787865644583,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787865477162,
