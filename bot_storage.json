@@ -28,9 +28,9 @@
         "total": 1924
       },
       "81991328395336": {
-        "text": 3751,
+        "text": 3754,
         "media": 1259,
-        "total": 5010
+        "total": 5013
       },
       "179040627490824": {
         "text": 420,
@@ -103,9 +103,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1402,
+        "text": 1403,
         "media": 1060,
-        "total": 2462
+        "total": 2463
       },
       "3126803329115": {
         "text": 87,
@@ -128,9 +128,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 1976,
+        "text": 1977,
         "media": 258,
-        "total": 2234
+        "total": 2235
       },
       "252922705240205": {
         "text": 80,
@@ -9141,7 +9141,11 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Quibebe \nE porco assado",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Churrasco?",
         "massagista tântrico (129158944415753): Exatamente",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Uia"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Uia",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Já almoçaram meu povo?",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @92629643563147",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Quase",
+        "Camila Designer (92629643563147): Lugar dos meus sonhos 😮‍💨"
       ]
     },
     "120363428464897153@g.us": {
@@ -15209,12 +15213,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Bem",
-        "timestamp": 1787843058323
-      },
-      {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Bem vindo!",
@@ -15279,6 +15277,30 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Uia",
         "timestamp": 1787844822150
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Já almoçaram meu povo?",
+        "timestamp": 1787844830968
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "@92629643563147",
+        "timestamp": 1787844831031
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Quase",
+        "timestamp": 1787844842182
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Lugar dos meus sonhos 😮‍💨",
+        "timestamp": 1787844865961
       }
     ],
     "120363428464897153@g.us": [],
@@ -15375,7 +15397,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19822,
+    "120363432018531082@g.us": 19826,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -128521,6 +128543,30 @@
         "text": "Uia",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787844822150
+      },
+      "ACAAE83FEAE6E3C4A33A2DFD80B4CB4F": {
+        "sender": "53537388122141@lid",
+        "text": "Já almoçaram meu povo?",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787844830968
+      },
+      "ACA97B64669DD093CFE3E8796CB6DBD7": {
+        "sender": "81991328395336@lid",
+        "text": "@92629643563147",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787844831031
+      },
+      "AC229A9AB9AADE0C338A6C29EA2AA62B": {
+        "sender": "81991328395336@lid",
+        "text": "Quase",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787844842182
+      },
+      "2A2D7CC69A402EC496F6": {
+        "sender": "92629643563147@lid",
+        "text": "Lugar dos meus sonhos 😮‍💨",
+        "pushName": "Camila Designer",
+        "timestamp": 1787844865961
       }
     },
     "120363428464897153@g.us": {
@@ -176272,7 +176318,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787844822150,
+    "120363432018531082@g.us": 1787844870224,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
