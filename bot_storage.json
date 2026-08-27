@@ -3522,9 +3522,9 @@
     },
     "120363409024805409@g.us": {
       "179040627490824": {
-        "text": 4,
-        "media": 3,
-        "total": 7
+        "text": 5,
+        "media": 4,
+        "total": 9
       },
       "5511927018683": {
         "text": 10,
@@ -14950,7 +14950,8 @@
         "Baby (179040627490824): kskss",
         "Leandro (+55 (11) 92701-8683): !del",
         "Baby (179040627490824): foi com arros e farinha ksksk",
-        "Leandro (+55 (11) 92701-8683): Kbra véi xarope"
+        "Leandro (+55 (11) 92701-8683): Kbra véi xarope",
+        "Baby (179040627490824): vdd e o kbrare me coloca la dnv pfv"
       ]
     }
   },
@@ -15029,6 +15030,12 @@
         "authorName": "Leandro",
         "text": "Kbra véi xarope",
         "timestamp": 1787808910093
+      },
+      {
+        "authorNum": "179040627490824",
+        "authorName": "Baby",
+        "text": "vdd e o kbrare me coloca la dnv pfv",
+        "timestamp": 1787808951066
       }
     ]
   },
@@ -15046,7 +15053,7 @@
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 17,
-    "120363409024805409@g.us": 10
+    "120363409024805409@g.us": 11
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -174322,6 +174329,12 @@
         "text": "Kbra véi xarope",
         "pushName": "Leandro",
         "timestamp": 1787808910093
+      },
+      "3EB0B83E4E3E1530DB64CB": {
+        "sender": "179040627490824@lid",
+        "text": "vdd e o kbrare me coloca la dnv pfv",
+        "pushName": "Baby",
+        "timestamp": 1787808951066
       }
     }
   },
@@ -174415,7 +174428,7 @@
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1787803320850,
-    "120363409024805409@g.us": 1787808910093
+    "120363409024805409@g.us": 1787808956537
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
