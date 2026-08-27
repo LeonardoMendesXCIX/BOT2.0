@@ -2566,9 +2566,9 @@
         "total": 20
       },
       "190864487919667": {
-        "text": 108,
+        "text": 110,
         "media": 22,
-        "total": 130
+        "total": 132
       },
       "82227819987089": {
         "text": 2,
@@ -3297,9 +3297,9 @@
     },
     "120363412288900422@g.us": {
       "81991328395336": {
-        "text": 381,
+        "text": 385,
         "media": 109,
-        "total": 490
+        "total": 494
       },
       "5511927018683": {
         "text": 435,
@@ -9149,8 +9149,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "'   MƲRIԼԼƠ  🥶 (111506477846600): Tô vendo n",
-        "'   MƲRIԼԼƠ  🥶 (111506477846600): 🤣 🤣",
         "Camila Designer (92629643563147): Todos sejam bem vindos!☺️",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Preciso nem avisar que eu roubei né?",
         "'   MƲRIԼԼƠ  🥶 (111506477846600): Nuss",
@@ -9648,7 +9646,9 @@
         "Souza (190864487919667): Estudar quando chegar em casa",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): A gente sofre por um diploma viu",
         "Souza (190864487919667): Sofrendo pela faculdade, pelo trabalho e pelo concurso na Petrobrás",
-        "Caroline (118395236282617): Frio frio frio"
+        "Caroline (118395236282617): Frio frio frio",
+        "Souza (190864487919667): Se mataaaaaaa",
+        "Souza (190864487919667): Onde?"
       ]
     },
     "120363428464897153@g.us": {
@@ -15322,7 +15322,10 @@
         "Gabriel (145381035905262): Tá sempre atrasado",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): 1. Jeferson\n2. Max\n3. Ju\n4. Salvador\n5. Alice\n6. Gabriel dias\n7. Tainá \n8. Leo\n9. Baby\n10. Gigi\n11. Rodney JRibeiro\n12. Nyna",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): A galera do grupão me chamando no Pv agora pra entrar no conexão",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Eu:"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Eu:",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Quais!",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): ??",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): E não era tu a pior ADM?🤡"
       ]
     },
     "120363411233423709@g.us": {
@@ -15788,18 +15791,6 @@
   },
   "memoryCluster": {
     "120363432018531082@g.us": [
-      {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Gente hoje foi foda",
-        "timestamp": 1787866877572
-      },
-      {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "So agora cheguei em casa",
-        "timestamp": 1787866881472
-      },
       {
         "authorNum": "57707230945348",
         "authorName": "Rafael Moura",
@@ -16387,6 +16378,18 @@
         "authorName": "Caroline",
         "text": "Frio frio frio",
         "timestamp": 1787868670392
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Se mataaaaaaa",
+        "timestamp": 1787868678867
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Onde?",
+        "timestamp": 1787868685071
       }
     ],
     "120363428464897153@g.us": [],
@@ -16403,6 +16406,24 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Eu:",
         "timestamp": 1787868656838
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Quais!",
+        "timestamp": 1787868678653
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "??",
+        "timestamp": 1787868681230
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "E não era tu a pior ADM?🤡",
+        "timestamp": 1787868699523
       }
     ],
     "120363411233423709@g.us": [],
@@ -16425,10 +16446,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20626,
+    "120363432018531082@g.us": 20628,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1545,
+    "120363412288900422@g.us": 1548,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -134346,6 +134367,18 @@
         "text": "Frio frio frio",
         "pushName": "Caroline",
         "timestamp": 1787868670392
+      },
+      "AC7EDE8613AB9BBAFE2EA82359984230": {
+        "sender": "190864487919667@lid",
+        "text": "Se mataaaaaaa",
+        "pushName": "Souza",
+        "timestamp": 1787868678867
+      },
+      "AC6D7F13F6BFD94BF478AEBDA3123080": {
+        "sender": "190864487919667@lid",
+        "text": "Onde?",
+        "pushName": "Souza",
+        "timestamp": 1787868685071
       }
     },
     "120363428464897153@g.us": {
@@ -179952,6 +179985,24 @@
         "text": "Eu:",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787868656838
+      },
+      "AC6DDCA730E75BDF22C68D87A6410CF3": {
+        "sender": "81991328395336@lid",
+        "text": "Quais!",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787868678653
+      },
+      "ACAF1C4201126CC4AD5C6D7B0F593301": {
+        "sender": "81991328395336@lid",
+        "text": "??",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787868681230
+      },
+      "AC6C578867D113DEBB92EBFE23CED3B7": {
+        "sender": "81991328395336@lid",
+        "text": "E não era tu a pior ADM?🤡",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787868699523
       }
     },
     "120363411233423709@g.us": {
@@ -182507,10 +182558,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787868670392,
+    "120363432018531082@g.us": 1787868685070,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787868659620,
+    "120363412288900422@g.us": 1787868699523,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
