@@ -251,9 +251,9 @@
         "total": 99
       },
       "233161007071346": {
-        "text": 406,
-        "media": 47,
-        "total": 453
+        "text": 407,
+        "media": 48,
+        "total": 455
       },
       "262182034002040": {
         "text": 1841,
@@ -2626,9 +2626,9 @@
         "total": 40
       },
       "172868239380659": {
-        "text": 36,
+        "text": 37,
         "media": 9,
-        "total": 45
+        "total": 46
       },
       "170455038193841": {
         "text": 1,
@@ -2646,9 +2646,9 @@
         "total": 6
       },
       "205621945192508": {
-        "text": 7,
-        "media": 0,
-        "total": 7
+        "text": 8,
+        "media": 1,
+        "total": 9
       }
     },
     "120363428464897153@g.us": {
@@ -9134,10 +9134,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Camila Designer (92629643563147): @190864487919667 👀👀👀",
-        "Camila Viana (188845719089205): Aqui é maravilhosooo",
-        "Souza (190864487919667): Rapaz",
-        "Souza (190864487919667): Complicado esse pedido do camarada",
         "Neto prime (238233849983072): Só achei as coisas muito caras kkkk",
         "Souza (190864487919667): 👀👀👀",
         "Camila Viana (188845719089205): Você foi pra Zona Sul? 👀🤣",
@@ -9633,7 +9629,11 @@
         "Jennifer🦋 (205621945192508): KKKKKkkk",
         "Jennifer🦋 (205621945192508): Eu não sabia amigo💁🏻‍♀️entrei agorinha",
         "Jennifer🦋 (205621945192508): 😗😗",
-        "Gabriel🙅🏻‍♂️💸 (151582733820115): ?"
+        "Gabriel🙅🏻‍♂️💸 (151582733820115): ?",
+        "Jennifer🦋 (205621945192508): Me chamo Jennifer, tenho 21 anos e moro em Belém do Pará",
+        "Pedro Henrique (172868239380659): Pode mandar mensagem PV?",
+        "Jennifer🦋 (205621945192508): Tá bom agora?",
+        "Milena B. Costa (233161007071346): @145381035905262 se seguir o exemplo eu corto teu 🐣"
       ]
     },
     "120363428464897153@g.us": {
@@ -15771,36 +15771,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Qual que tava falando verdade?",
-        "timestamp": 1787864651039
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "A figurinha da discórdia",
-        "timestamp": 1787864659813
-      },
-      {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Kkkkk kkkkkkkkkk porra aí é foda",
-        "timestamp": 1787864661042
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Kkkkkkkkkkkkk",
-        "timestamp": 1787864669551
-      },
-      {
-        "authorNum": "274384656834700",
-        "authorName": "Gleydson Souza",
-        "text": "Ate onde eu vi vc kkkkkk e a outra querendo briga",
-        "timestamp": 1787864673304
-      },
-      {
         "authorNum": "274384656834700",
         "authorName": "Gleydson Souza",
         "text": "Mas bom to so",
@@ -16387,6 +16357,30 @@
         "authorName": "Gabriel🙅🏻‍♂️💸",
         "text": "?",
         "timestamp": 1787866442016
+      },
+      {
+        "authorNum": "205621945192508",
+        "authorName": "Jennifer🦋",
+        "text": "Me chamo Jennifer, tenho 21 anos e moro em Belém do Pará",
+        "timestamp": 1787866463390
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Pode mandar mensagem PV?",
+        "timestamp": 1787866471086
+      },
+      {
+        "authorNum": "205621945192508",
+        "authorName": "Jennifer🦋",
+        "text": "Tá bom agora?",
+        "timestamp": 1787866471413
+      },
+      {
+        "authorNum": "233161007071346",
+        "authorName": "Milena B. Costa",
+        "text": "@145381035905262 se seguir o exemplo eu corto teu 🐣",
+        "timestamp": 1787866479476
       }
     ],
     "120363428464897153@g.us": [],
@@ -16473,7 +16467,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20513,
+    "120363432018531082@g.us": 20517,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1543,
@@ -133723,6 +133717,30 @@
         "text": "?",
         "pushName": "Gabriel🙅🏻‍♂️💸",
         "timestamp": 1787866442016
+      },
+      "AC8FA9C2A3F31FB1F7F4DBDF7AF3C6C9": {
+        "sender": "205621945192508@lid",
+        "text": "Me chamo Jennifer, tenho 21 anos e moro em Belém do Pará",
+        "pushName": "Jennifer🦋",
+        "timestamp": 1787866463390
+      },
+      "AC85982945D0984D95FAFADC1D442378": {
+        "sender": "172868239380659@lid",
+        "text": "Pode mandar mensagem PV?",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787866471086
+      },
+      "AC0A851FBC7B2621298B4C0D1F890595": {
+        "sender": "205621945192508@lid",
+        "text": "Tá bom agora?",
+        "pushName": "Jennifer🦋",
+        "timestamp": 1787866471413
+      },
+      "AC86916635B7F359F251116AE2D14E3A": {
+        "sender": "233161007071346@lid",
+        "text": "@145381035905262 se seguir o exemplo eu corto teu 🐣",
+        "pushName": "Milena B. Costa",
+        "timestamp": 1787866479476
       }
     },
     "120363428464897153@g.us": {
@@ -181866,7 +181884,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787866442016,
+    "120363432018531082@g.us": 1787866482921,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787865477162,
