@@ -103,9 +103,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1396,
+        "text": 1397,
         "media": 1059,
-        "total": 2455
+        "total": 2456
       },
       "3126803329115": {
         "text": 87,
@@ -9094,7 +9094,8 @@
         "massagista tântrico (129158944415753): Será muito bem vinda",
         "massagista tântrico (129158944415753): Será muito bem vinda",
         "Breno (234324976738434): Breno Gabriel \n24 anos\nGoiânia (GO) \nSatisfação !",
-        ". (39402768232586): Meu nome é João Pedro \nTenho 19 anos \nSou de Belo Horizonte"
+        ". (39402768232586): Meu nome é João Pedro \nTenho 19 anos \nSou de Belo Horizonte",
+        "Camila Designer (92629643563147): Porque apagou João?"
       ]
     },
     "120363428464897153@g.us": {
@@ -15297,6 +15298,12 @@
         "authorName": ".",
         "text": "Meu nome é João Pedro \nTenho 19 anos \nSou de Belo Horizonte",
         "timestamp": 1787841437753
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Porque apagou João?",
+        "timestamp": 1787841601105
       }
     ],
     "120363428464897153@g.us": [],
@@ -15314,7 +15321,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19790,
+    "120363432018531082@g.us": 19791,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1466,
@@ -128268,6 +128275,12 @@
         "text": "Breno Gabriel \n24 anos\nGoiânia (GO) \nSatisfação !",
         "pushName": "Breno",
         "timestamp": 1787841351462
+      },
+      "2A3C8D95911D23068A0F": {
+        "sender": "92629643563147@lid",
+        "text": "Porque apagou João?",
+        "pushName": "Camila Designer",
+        "timestamp": 1787841601105
       }
     },
     "120363428464897153@g.us": {
@@ -175941,7 +175954,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787841453554,
+    "120363432018531082@g.us": 1787841601105,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787829200713,
