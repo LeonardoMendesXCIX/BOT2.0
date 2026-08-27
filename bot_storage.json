@@ -2433,11 +2433,16 @@
         "total": 1
       },
       "39402768232586": {
-        "text": 3,
+        "text": 5,
         "media": 1,
-        "total": 4
+        "total": 6
       },
       "23163446493420": {
+        "text": 1,
+        "media": 0,
+        "total": 1
+      },
+      "198908642906227": {
         "text": 1,
         "media": 0,
         "total": 1
@@ -9100,7 +9105,9 @@
         ". (39402768232586): Desculpe achei que só podia mandar de visualização única",
         "Camila Designer (92629643563147): Não, pode mandar normal!",
         "Camila Designer (92629643563147): E uma foto ☺️",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Pode manda dos 2 jeito \nVai dá preferência da pessoa"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Pode manda dos 2 jeito \nVai dá preferência da pessoa",
+        ". (39402768232586): Ta bom",
+        ". (39402768232586): Ok"
       ]
     },
     "120363428464897153@g.us": {
@@ -15157,12 +15164,6 @@
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Bom dia Leandro",
-        "timestamp": 1787839869849
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Ala, outro",
         "timestamp": 1787839901597
       },
@@ -15339,6 +15340,18 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Pode manda dos 2 jeito \nVai dá preferência da pessoa",
         "timestamp": 1787841658276
+      },
+      {
+        "authorNum": "39402768232586",
+        "authorName": ".",
+        "text": "Ta bom",
+        "timestamp": 1787841673591
+      },
+      {
+        "authorNum": "39402768232586",
+        "authorName": ".",
+        "text": "Ok",
+        "timestamp": 1787841683981
       }
     ],
     "120363428464897153@g.us": [],
@@ -15356,7 +15369,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19796,
+    "120363432018531082@g.us": 19798,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1466,
@@ -128346,6 +128359,18 @@
         "text": "Pode manda dos 2 jeito \nVai dá preferência da pessoa",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787841658276
+      },
+      "3A77A7FF24C2CEBC44BE": {
+        "sender": "39402768232586@lid",
+        "text": "Ta bom",
+        "pushName": ".",
+        "timestamp": 1787841673591
+      },
+      "3A1BFEEB069702730153": {
+        "sender": "39402768232586@lid",
+        "text": "Ok",
+        "pushName": ".",
+        "timestamp": 1787841683981
       }
     },
     "120363428464897153@g.us": {
@@ -176019,7 +176044,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787841658276,
+    "120363432018531082@g.us": 1787841683981,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787829200713,
