@@ -646,9 +646,9 @@
         "total": 1
       },
       "93970126397545": {
-        "text": 8,
+        "text": 9,
         "media": 0,
-        "total": 8
+        "total": 9
       },
       "180823189889026": {
         "text": 2,
@@ -3267,9 +3267,9 @@
         "total": 512
       },
       "145381035905262": {
-        "text": 326,
+        "text": 328,
         "media": 113,
-        "total": 439
+        "total": 441
       },
       "53537388122141": {
         "text": 569,
@@ -3621,9 +3621,9 @@
         "total": 4
       },
       "65894092943452": {
-        "text": 7,
+        "text": 8,
         "media": 0,
-        "total": 7
+        "total": 8
       },
       "274594556604661": {
         "text": 1,
@@ -9105,7 +9105,6 @@
       ],
       "27/08/2026": [
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindo",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindo",
         "massagista tântrico (129158944415753): Obrigado favo de mel",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Sejam todos bem vindos ao *Hospício mais feliz*🤝😂🤌🏾",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Ben vindo",
@@ -9603,7 +9602,8 @@
         "Jonathan Bráulio (187097969348735): Meu pavio é mt curto",
         "Jonathan Bráulio (187097969348735): Nn tenho paciência nenhuma",
         "Jonathan Bráulio (187097969348735): Ainda mais quando se trata de McDonald's",
-        "🗝️🔒 (93970126397545): Kkkkkk"
+        "🗝️🔒 (93970126397545): Kkkkkk",
+        "🗝️🔒 (93970126397545): 🗣️🗣️🗣️🗣️🗣️"
       ]
     },
     "120363428464897153@g.us": {
@@ -15248,7 +15248,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Eu jogo",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Aprendeu com a mestre",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Parabéns chefe",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Alguém explica?"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Alguém explica?",
+        "Gabriel (145381035905262): Até pra fake os caras são burros"
       ]
     },
     "120363411233423709@g.us": {
@@ -16135,23 +16136,17 @@
         "authorName": "🗝️🔒",
         "text": "Kkkkkk",
         "timestamp": 1787862166997
+      },
+      {
+        "authorNum": "93970126397545",
+        "authorName": "🗝️🔒",
+        "text": "🗣️🗣️🗣️🗣️🗣️",
+        "timestamp": 1787862179117
       }
     ],
     "120363428464897153@g.us": [],
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Almojanta",
-        "timestamp": 1787860351777
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "🫡",
-        "timestamp": 1787860357271
-      },
       {
         "authorNum": "81991328395336",
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
@@ -16217,6 +16212,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Alguém explica?",
         "timestamp": 1787861646643
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Até pra fake os caras são burros",
+        "timestamp": 1787862200815
       }
     ],
     "120363411233423709@g.us": [],
@@ -16244,10 +16245,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20299,
+    "120363432018531082@g.us": 20300,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1516,
+    "120363412288900422@g.us": 1517,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 20,
@@ -132223,6 +132224,12 @@
         "text": "Kkkkkk",
         "pushName": "🗝️🔒",
         "timestamp": 1787862166998
+      },
+      "3A2F48F2F70B87C6F26F": {
+        "sender": "93970126397545@lid",
+        "text": "🗣️🗣️🗣️🗣️🗣️",
+        "pushName": "🗝️🔒",
+        "timestamp": 1787862179117
       }
     },
     "120363428464897153@g.us": {
@@ -177655,6 +177662,12 @@
         "text": "Alguém explica?",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787861646643
+      },
+      "ACE009E9E079961E41C5CF31E9FCE5B5": {
+        "sender": "145381035905262@lid",
+        "text": "Até pra fake os caras são burros",
+        "pushName": "Gabriel",
+        "timestamp": 1787862200815
       }
     },
     "120363411233423709@g.us": {
@@ -180196,17 +180209,17 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787862166997,
+    "120363432018531082@g.us": 1787862179117,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787861646643,
+    "120363412288900422@g.us": 1787862200815,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
     "120363050678635389@g.us": 1787134308039,
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
-    "120363411246936023@g.us": 1787862168417,
+    "120363411246936023@g.us": 1787862188743,
     "120363409024805409@g.us": 1787858703981
   },
   "autoAnimSent": {
