@@ -3434,9 +3434,9 @@
         "total": 47
       },
       "5511927018683": {
-        "text": 12,
+        "text": 14,
         "media": 3,
-        "total": 15
+        "total": 17
       },
       "30486281900223": {
         "text": 1,
@@ -3445,8 +3445,8 @@
       },
       "81991328395336": {
         "text": 6,
-        "media": 81,
-        "total": 87
+        "media": 82,
+        "total": 88
       },
       "145381035905262": {
         "text": 1,
@@ -14883,7 +14883,9 @@
         "Baby (179040627490824): ja e",
         "Baby (179040627490824): @54259127210155 posso enviar um link aq do grupo de figurinhas",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Essa?",
-        "Baby (179040627490824): Calma"
+        "Baby (179040627490824): Calma",
+        "Leandro (+55 (11) 92701-8683): Acho melhor não em...",
+        "Leandro (+55 (11) 92701-8683): Normalmente quando manda link, o bot apaga e da ban automaticamente"
       ]
     }
   },
@@ -14940,60 +14942,6 @@
     "120363411246936023@g.us": [],
     "120363409024805409@g.us": [
       {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "!sa 🫶🏻 Seja bem-vindo(a)!*\n\n✨ Sinta-se à vontade para interagir e trocar figurinhas!\n\n❌ *PROIBIDO A INVASÃO DE PRIVADO, SEM AUTORIZAÇÃO* ❌\n\n{membro}",
-        "timestamp": 1787808705919
-      },
-      {
-        "authorNum": "179040627490824",
-        "authorName": "Baby",
-        "text": "comecou o bot ja",
-        "timestamp": 1787808829054
-      },
-      {
-        "authorNum": "30486281900223",
-        "authorName": "th",
-        "text": "alguma novinha p fazer um seqxu",
-        "timestamp": 1787808857068
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "!ban",
-        "timestamp": 1787808867084
-      },
-      {
-        "authorNum": "179040627490824",
-        "authorName": "Baby",
-        "text": "kskss",
-        "timestamp": 1787808876095
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "!del",
-        "timestamp": 1787808880177
-      },
-      {
-        "authorNum": "179040627490824",
-        "authorName": "Baby",
-        "text": "foi com arros e farinha ksksk",
-        "timestamp": 1787808892385
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Kbra véi xarope",
-        "timestamp": 1787808910093
-      },
-      {
-        "authorNum": "179040627490824",
-        "authorName": "Baby",
-        "text": "vdd e o kbrare me coloca la dnv pfv",
-        "timestamp": 1787808951066
-      },
-      {
         "authorNum": "81991328395336",
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Um insento desse",
@@ -15040,6 +14988,18 @@
         "authorName": "Baby",
         "text": "Calma",
         "timestamp": 1787810441720
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Acho melhor não em...",
+        "timestamp": 1787810746307
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Normalmente quando manda link, o bot apaga e da ban automaticamente",
+        "timestamp": 1787810765814
       }
     ]
   },
@@ -15057,7 +15017,7 @@
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 17,
-    "120363409024805409@g.us": 19
+    "120363409024805409@g.us": 21
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -174417,6 +174377,18 @@
         "text": "Calma",
         "pushName": "Baby",
         "timestamp": 1787810441720
+      },
+      "A59F3A9F3E4ED38252905283258853B4": {
+        "sender": "54259127210155@lid",
+        "text": "Acho melhor não em...",
+        "pushName": "Leandro",
+        "timestamp": 1787810746315
+      },
+      "A58936E352E181C5910068824704F5FA": {
+        "sender": "54259127210155@lid",
+        "text": "Normalmente quando manda link, o bot apaga e da ban automaticamente",
+        "pushName": "Leandro",
+        "timestamp": 1787810765815
       }
     }
   },
@@ -174513,7 +174485,7 @@
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1787803320850,
-    "120363409024805409@g.us": 1787810525205
+    "120363409024805409@g.us": 1787810765814
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
