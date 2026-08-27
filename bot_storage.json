@@ -151,9 +151,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2182,
+        "text": 2183,
         "media": 471,
-        "total": 2653
+        "total": 2654
       },
       "184237705699536": {
         "text": 524,
@@ -241,9 +241,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2166,
+        "text": 2167,
         "media": 282,
-        "total": 2448
+        "total": 2449
       },
       "252922705240205": {
         "text": 80,
@@ -281,9 +281,9 @@
         "total": 117
       },
       "199733712785531": {
-        "text": 189,
+        "text": 190,
         "media": 112,
-        "total": 301
+        "total": 302
       },
       "153596754661626": {
         "text": 1,
@@ -2621,9 +2621,9 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 52,
+        "text": 53,
         "media": 11,
-        "total": 63
+        "total": 64
       },
       "172868239380659": {
         "text": 64,
@@ -9154,9 +9154,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "🙃🙃🙃 (11171897864256): Tranquilo",
-        "🙃🙃🙃 (11171897864256): Tranquilo?",
-        "🙃🙃🙃 (11171897864256): Blz",
         "Pedro Henrique (172868239380659): Tá tendo treta ? poha, cheguei tarde",
         "🙃🙃🙃 (11171897864256): Como estão todos??",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Por enquanto, acabou a treta",
@@ -9653,7 +9650,10 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Gamou",
         "Souza (190864487919667): Cheguei",
         "Souza (190864487919667): Com fome",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): A casa é linda mesmo\nEu morando aí ia ser combo completo 😂😂😂"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): A casa é linda mesmo\nEu morando aí ia ser combo completo 😂😂😂",
+        "Gleydson Souza (274384656834700): Fisgou ele ja sabrina",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tô vendo",
+        "Gabriel (145381035905262): Bagatela de R$ 9.990.000 M \n\nÉ sua agora!"
       ]
     },
     "120363428464897153@g.us": {
@@ -15913,18 +15913,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "163530946961491",
-        "authorName": "willian",
-        "text": "Bora 😀",
-        "timestamp": 1787871885244
-      },
-      {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Nunca nem vi",
-        "timestamp": 1787871905152
-      },
-      {
         "authorNum": "274384656834700",
         "authorName": "Gleydson Souza",
         "text": "Escuto as vezes apenas",
@@ -16265,17 +16253,29 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "A casa é linda mesmo\nEu morando aí ia ser combo completo 😂😂😂",
         "timestamp": 1787873656051
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Fisgou ele ja sabrina",
+        "timestamp": 1787873690917
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Tô vendo",
+        "timestamp": 1787873702902
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Bagatela de R$ 9.990.000 M \n\nÉ sua agora!",
+        "timestamp": 1787873711572
       }
     ],
     "120363428464897153@g.us": [],
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Eu também",
-        "timestamp": 1787871813336
-      },
       {
         "authorNum": "81991328395336",
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
@@ -16410,7 +16410,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20829,
+    "120363432018531082@g.us": 20832,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1664,
@@ -135537,6 +135537,24 @@
         "text": "A casa é linda mesmo\nEu morando aí ia ser combo completo 😂😂😂",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787873656051
+      },
+      "AC687995D9F44DF6C524E047E964AFD1": {
+        "sender": "274384656834700@lid",
+        "text": "Fisgou ele ja sabrina",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787873690917
+      },
+      "AC76191378FF32442D4B8094FF1F666D": {
+        "sender": "53537388122141@lid",
+        "text": "Tô vendo",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787873702902
+      },
+      "AC238A1FAF3644D5A29D4C2DFC6AADF0": {
+        "sender": "145381035905262@lid",
+        "text": "Bagatela de R$ 9.990.000 M \n\nÉ sua agora!",
+        "pushName": "Gabriel",
+        "timestamp": 1787873711572
       }
     },
     "120363428464897153@g.us": {
@@ -184412,7 +184430,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787873656051,
+    "120363432018531082@g.us": 1787873711572,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787873603321,
