@@ -241,9 +241,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2170,
+        "text": 2171,
         "media": 284,
-        "total": 2454
+        "total": 2455
       },
       "252922705240205": {
         "text": 80,
@@ -346,9 +346,9 @@
         "total": 479
       },
       "222595437858867": {
-        "text": 483,
+        "text": 485,
         "media": 53,
-        "total": 536
+        "total": 538
       },
       "83280154103884": {
         "text": 36,
@@ -2636,9 +2636,9 @@
         "total": 3
       },
       "193729163993156": {
-        "text": 9,
+        "text": 10,
         "media": 3,
-        "total": 12
+        "total": 13
       },
       "151582733820115": {
         "text": 5,
@@ -9154,9 +9154,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Pedro Henrique (172868239380659): Eu pensei, eu pensamos..",
-        "🙃🙃🙃 (11171897864256): E um restaurante e tem o barzinho",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Uai, bebe que passa",
         "🙃🙃🙃 (11171897864256): Não posso",
         "Pedro Henrique (172868239380659): Tô querendo",
         "🙃🙃🙃 (11171897864256): Dar justa vc causa 🤣🤣🤣🤣",
@@ -9653,7 +9650,10 @@
         "Gabriel (145381035905262): Muito papo meu, vai lá, pegue seu rumo, ela te espera",
         "Clayton 🇳🇬 (155503636275307): De sorte então gatona",
         "Clayton 🇳🇬 (155503636275307): Como foi seu dia Sabrina",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tranquilinho e o seu? Como foi?"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tranquilinho e o seu? Como foi?",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Como foi o dia de vocês povo?",
+        "Juliano Perlin (222595437858867): Fim de ano vou mesmo",
+        "Juliano Perlin (222595437858867): Ja estive la ano passado"
       ]
     },
     "120363428464897153@g.us": {
@@ -16290,6 +16290,24 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Tranquilinho e o seu? Como foi?",
         "timestamp": 1787874043184
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Como foi o dia de vocês povo?",
+        "timestamp": 1787874048581
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Fim de ano vou mesmo",
+        "timestamp": 1787874052150
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Ja estive la ano passado",
+        "timestamp": 1787874063115
       }
     ],
     "120363428464897153@g.us": [],
@@ -16405,7 +16423,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20842,
+    "120363432018531082@g.us": 20845,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1665,
@@ -135610,6 +135628,24 @@
         "text": "Tranquilinho e o seu? Como foi?",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787874043184
+      },
+      "AC63CE342C4FA3E2FA0779032FD0F689": {
+        "sender": "53537388122141@lid",
+        "text": "Como foi o dia de vocês povo?",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787874048581
+      },
+      "ACF1BC29BB0E1859E7EA54FAC6C298BE": {
+        "sender": "222595437858867@lid",
+        "text": "Fim de ano vou mesmo",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1787874052150
+      },
+      "AC0058F2F2DCD01558447F5291FFD159": {
+        "sender": "222595437858867@lid",
+        "text": "Ja estive la ano passado",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1787874063115
       }
     },
     "120363428464897153@g.us": {
@@ -184491,7 +184527,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787874043184,
+    "120363432018531082@g.us": 1787874063115,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787873916387,
