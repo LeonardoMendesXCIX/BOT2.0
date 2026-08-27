@@ -241,9 +241,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2125,
+        "text": 2126,
         "media": 277,
-        "total": 2402
+        "total": 2403
       },
       "252922705240205": {
         "text": 80,
@@ -251,9 +251,9 @@
         "total": 99
       },
       "233161007071346": {
-        "text": 407,
+        "text": 408,
         "media": 48,
-        "total": 455
+        "total": 456
       },
       "262182034002040": {
         "text": 1841,
@@ -342,8 +342,8 @@
       },
       "163530946961491": {
         "text": 396,
-        "media": 66,
-        "total": 462
+        "media": 67,
+        "total": 463
       },
       "222595437858867": {
         "text": 474,
@@ -2626,9 +2626,9 @@
         "total": 40
       },
       "172868239380659": {
-        "text": 37,
+        "text": 38,
         "media": 9,
-        "total": 46
+        "total": 47
       },
       "170455038193841": {
         "text": 1,
@@ -2641,9 +2641,9 @@
         "total": 6
       },
       "151582733820115": {
-        "text": 4,
+        "text": 5,
         "media": 2,
-        "total": 6
+        "total": 7
       },
       "205621945192508": {
         "text": 8,
@@ -9134,8 +9134,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Neto prime (238233849983072): Só achei as coisas muito caras kkkk",
-        "Souza (190864487919667): 👀👀👀",
         "Camila Viana (188845719089205): Você foi pra Zona Sul? 👀🤣",
         "Neto prime (238233849983072): Sim 👍🏽",
         "Neto prime (238233849983072): Eu acho kkkk",
@@ -9633,7 +9631,9 @@
         "Jennifer🦋 (205621945192508): Me chamo Jennifer, tenho 21 anos e moro em Belém do Pará",
         "Pedro Henrique (172868239380659): Pode mandar mensagem PV?",
         "Jennifer🦋 (205621945192508): Tá bom agora?",
-        "Milena B. Costa (233161007071346): @145381035905262 se seguir o exemplo eu corto teu 🐣"
+        "Milena B. Costa (233161007071346): @145381035905262 se seguir o exemplo eu corto teu 🐣",
+        "Milena B. Costa (233161007071346): Ele só escolhe uma e só tem uma",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): !ban"
       ]
     },
     "120363428464897153@g.us": {
@@ -15771,36 +15771,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Amigo nao se complica....",
-        "timestamp": 1787864710949
-      },
-      {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "É falta de coisar",
-        "timestamp": 1787864723800
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Estou pensando nessa possibilidade!😏😏😏",
-        "timestamp": 1787864739811
-      },
-      {
-        "authorNum": "274384656834700",
-        "authorName": "Gleydson Souza",
-        "text": "Novis",
-        "timestamp": 1787864747034
-      },
-      {
-        "authorNum": "163530946961491",
-        "authorName": "willian",
-        "text": "Cheguei cadê a briga?",
-        "timestamp": 1787864756225
-      },
-      {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Porra Willian",
@@ -16369,6 +16339,18 @@
         "authorName": "Milena B. Costa",
         "text": "@145381035905262 se seguir o exemplo eu corto teu 🐣",
         "timestamp": 1787866479476
+      },
+      {
+        "authorNum": "233161007071346",
+        "authorName": "Milena B. Costa",
+        "text": "Ele só escolhe uma e só tem uma",
+        "timestamp": 1787866530045
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "!ban",
+        "timestamp": 1787866558066
       }
     ],
     "120363428464897153@g.us": [],
@@ -16413,7 +16395,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20517,
+    "120363432018531082@g.us": 20519,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1543,
@@ -133687,6 +133669,18 @@
         "text": "@145381035905262 se seguir o exemplo eu corto teu 🐣",
         "pushName": "Milena B. Costa",
         "timestamp": 1787866479476
+      },
+      "AC82E4851A0B7D62F040AEA91B4ADFD5": {
+        "sender": "233161007071346@lid",
+        "text": "Ele só escolhe uma e só tem uma",
+        "pushName": "Milena B. Costa",
+        "timestamp": 1787866530045
+      },
+      "ACCBDBC25355B515B2CBEC7E6C58C6D3": {
+        "sender": "53537388122141@lid",
+        "text": "!ban",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787866558066
       }
     },
     "120363428464897153@g.us": {
@@ -181830,7 +181824,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787866499686,
+    "120363432018531082@g.us": 1787866558066,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787865477162,
