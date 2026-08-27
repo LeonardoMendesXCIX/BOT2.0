@@ -73,9 +73,9 @@
         "total": 266
       },
       "68247365931226": {
-        "text": 113,
+        "text": 114,
         "media": 40,
-        "total": 153
+        "total": 154
       },
       "12791117307912": {
         "text": 3,
@@ -8987,7 +8987,8 @@
         "Baby (179040627490824): vai indo",
         "Camila Designer (92629643563147): Quer falar sobre?",
         "Camila Designer (92629643563147): Bom dia!☺️",
-        "Camila Designer (92629643563147): É algo que tem te preocupado?"
+        "Camila Designer (92629643563147): É algo que tem te preocupado?",
+        "Van Librelon (68247365931226): Bom.diaaaaaaaaaaaa"
       ]
     },
     "120363428464897153@g.us": {
@@ -15107,6 +15108,12 @@
         "authorName": "Camila Designer",
         "text": "É algo que tem te preocupado?",
         "timestamp": 1787827509242
+      },
+      {
+        "authorNum": "68247365931226",
+        "authorName": "Van Librelon",
+        "text": "Bom.diaaaaaaaaaaaa",
+        "timestamp": 1787828434691
       }
     ],
     "120363428464897153@g.us": [],
@@ -15131,7 +15138,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19723,
+    "120363432018531082@g.us": 19724,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1457,
@@ -127700,6 +127707,12 @@
         "text": "É algo que tem te preocupado?",
         "pushName": "Camila Designer",
         "timestamp": 1787827509242
+      },
+      "ACE91F30A84FECD43487A35C2D9860D3": {
+        "sender": "68247365931226@lid",
+        "text": "Bom.diaaaaaaaaaaaa",
+        "pushName": "Van Librelon",
+        "timestamp": 1787828434691
       }
     },
     "120363428464897153@g.us": {
@@ -175307,7 +175320,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787827509242,
+    "120363432018531082@g.us": 1787828434691,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787828295221,
