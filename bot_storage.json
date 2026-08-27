@@ -151,9 +151,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2168,
+        "text": 2169,
         "media": 468,
-        "total": 2636
+        "total": 2637
       },
       "184237705699536": {
         "text": 524,
@@ -342,8 +342,8 @@
       },
       "163530946961491": {
         "text": 403,
-        "media": 67,
-        "total": 470
+        "media": 68,
+        "total": 471
       },
       "222595437858867": {
         "text": 474,
@@ -1826,9 +1826,9 @@
         "total": 6
       },
       "1395881181241": {
-        "text": 116,
+        "text": 117,
         "media": 5,
-        "total": 121
+        "total": 122
       },
       "198595546501333": {
         "text": 2,
@@ -9139,8 +9139,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "🎀  Ň𝐘ηａ🐆 (266048007835881): Samambaia sul",
-        "jefersonjgs25 (85264194134079): Alguém aqui de Pernambuco?",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): 🤷🏻‍♀️",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Aí no seu comércio vc vende por quanto e na sua cidade e quanto?",
         "Neto prime (238233849983072): 13 600 ml",
@@ -9638,7 +9636,9 @@
         "Souza (190864487919667): Só conheço 2 pessoas nesse grupo",
         "Souza (190864487919667): De resto é tudo estranho",
         "willian (163530946961491): Mas irmão essas daí que são perigosas são traiçoeira kkk",
-        "Souza (190864487919667): Não pô, é que tu marcou a mulher, mas eu não sei quem é"
+        "Souza (190864487919667): Não pô, é que tu marcou a mulher, mas eu não sei quem é",
+        "Bruno Aguiar (+1395881181241): Olha ela kkkk",
+        "Gabriel (145381035905262): Nem precisa né queridão"
       ]
     },
     "120363428464897153@g.us": {
@@ -15779,12 +15779,6 @@
       {
         "authorNum": "172868239380659",
         "authorName": "Pedro Henrique",
-        "text": "Quer dizer que tu vai dormir no sofá",
-        "timestamp": 1787865746324
-      },
-      {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
         "text": "Ou na casinha do cachorro",
         "timestamp": 1787865759983
       },
@@ -16453,6 +16447,18 @@
         "authorName": "Souza",
         "text": "Não pô, é que tu marcou a mulher, mas eu não sei quem é",
         "timestamp": 1787867527819
+      },
+      {
+        "authorNum": "1395881181241",
+        "authorName": "Bruno Aguiar",
+        "text": "Olha ela kkkk",
+        "timestamp": 1787867550521
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Nem precisa né queridão",
+        "timestamp": 1787867553456
       }
     ],
     "120363428464897153@g.us": [],
@@ -16485,7 +16491,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20570,
+    "120363432018531082@g.us": 20572,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1543,
@@ -134070,6 +134076,18 @@
         "text": "Não pô, é que tu marcou a mulher, mas eu não sei quem é",
         "pushName": "Souza",
         "timestamp": 1787867527820
+      },
+      "AC57803FC0A80761E3B24F1D3DCAF958": {
+        "sender": "1395881181241@lid",
+        "text": "Olha ela kkkk",
+        "pushName": "Bruno Aguiar",
+        "timestamp": 1787867550521
+      },
+      "AC8A16CB21616C9345C1B3E6718877D6": {
+        "sender": "145381035905262@lid",
+        "text": "Nem precisa né queridão",
+        "pushName": "Gabriel",
+        "timestamp": 1787867553456
       }
     },
     "120363428464897153@g.us": {
@@ -182219,7 +182237,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787867527819,
+    "120363432018531082@g.us": 1787867555668,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787865477162,
