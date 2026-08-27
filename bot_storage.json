@@ -33,9 +33,9 @@
         "total": 5036
       },
       "179040627490824": {
-        "text": 428,
+        "text": 429,
         "media": 90,
-        "total": 518
+        "total": 519
       },
       "145381035905262": {
         "text": 2152,
@@ -128,9 +128,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 1980,
+        "text": 1981,
         "media": 258,
-        "total": 2238
+        "total": 2239
       },
       "252922705240205": {
         "text": 80,
@@ -254,8 +254,8 @@
       },
       "60851868446964": {
         "text": 1238,
-        "media": 1436,
-        "total": 2674
+        "media": 1437,
+        "total": 2675
       },
       "270377049690114": {
         "text": 36,
@@ -2453,9 +2453,9 @@
         "total": 5
       },
       "190864487919667": {
-        "text": 15,
+        "text": 16,
         "media": 5,
-        "total": 20
+        "total": 21
       },
       "82227819987089": {
         "text": 1,
@@ -9281,7 +9281,10 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Óia quem tá aqui\nBem vindo, moço",
         "Camila Designer (92629643563147): 🤣🤣🤣🤣",
         "Camila Designer (92629643563147): Esse vê até as semanas",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): O massagista saiu"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): O massagista saiu",
+        "Souza (190864487919667): Oi.",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Aoba",
+        "Baby (179040627490824): Vixiiii"
       ]
     },
     "120363428464897153@g.us": {
@@ -15349,12 +15352,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "129158944415753",
-        "authorName": "massagista tântrico",
-        "text": "Seria um imenso prazer ter você como cliente",
-        "timestamp": 1787845077756
-      },
-      {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
         "text": "Mas eu não quero ser apenas cliente 😏😏😏",
@@ -16031,6 +16028,24 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "O massagista saiu",
         "timestamp": 1787846857027
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Oi.",
+        "timestamp": 1787846884768
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Aoba",
+        "timestamp": 1787846892231
+      },
+      {
+        "authorNum": "179040627490824",
+        "authorName": "Baby",
+        "text": "Vixiiii",
+        "timestamp": 1787846896805
       }
     ],
     "120363428464897153@g.us": [],
@@ -16048,7 +16063,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19952,
+    "120363432018531082@g.us": 19955,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -129974,6 +129989,24 @@
         "text": "O massagista saiu",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787846857027
+      },
+      "AC570379945C918DEEDBAF0CC1856458": {
+        "sender": "190864487919667@lid",
+        "text": "Oi.",
+        "pushName": "Souza",
+        "timestamp": 1787846884768
+      },
+      "ACBB7F147F0F8BB2B5722AD0B06A8455": {
+        "sender": "53537388122141@lid",
+        "text": "Aoba",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787846892231
+      },
+      "AC28DEA39C85EC17567B11F7B5DD7FB3": {
+        "sender": "179040627490824@lid",
+        "text": "Vixiiii",
+        "pushName": "Baby",
+        "timestamp": 1787846896808
       }
     },
     "120363428464897153@g.us": {
@@ -177725,7 +177758,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787846864391,
+    "120363432018531082@g.us": 1787846896805,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
