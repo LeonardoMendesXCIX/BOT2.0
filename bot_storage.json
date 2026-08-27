@@ -130,8 +130,8 @@
       },
       "81991328395336": {
         "text": 3705,
-        "media": 1238,
-        "total": 4943
+        "media": 1239,
+        "total": 4944
       },
       "179040627490824": {
         "text": 381,
@@ -139,9 +139,9 @@
         "total": 457
       },
       "145381035905262": {
-        "text": 2130,
+        "text": 2131,
         "media": 461,
-        "total": 2591
+        "total": 2592
       },
       "184237705699536": {
         "text": 524,
@@ -2926,9 +2926,9 @@
         "total": 1
       },
       "266048007835881": {
-        "text": 32,
-        "media": 27,
-        "total": 59
+        "text": 34,
+        "media": 28,
+        "total": 62
       },
       "123120354635955": {
         "text": 1,
@@ -3140,9 +3140,9 @@
         "total": 456
       },
       "5511927018683": {
-        "text": 385,
+        "text": 388,
         "media": 72,
-        "total": 457
+        "total": 460
       },
       "145381035905262": {
         "text": 314,
@@ -8393,7 +8393,6 @@
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Cai  de paraquedas Aki e já descobri meio mundo de coisas kkkkkk"
       ],
       "26/08/2026": [
-        "Juliano Perlin (222595437858867): Eu seria um bom pai🥹",
         "Baby (179040627490824): tem q se virar sozinho de um geito ou de outro",
         "Camila Designer (92629643563147): Quer ser o pai do meu futuro filho 😏🤣🤣🤣",
         "Baby (179040627490824): vdd e gas q sempre quebra",
@@ -8892,7 +8891,8 @@
         "Juliano Perlin (222595437858867): Como sabe que fui eu🫣",
         "Juliano Perlin (222595437858867): 🤭",
         "Gabriel (145381035905262): Tu deixa visível",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @145381035905262"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @145381035905262",
+        "Gabriel (145381035905262): O que tem aver ? \n\nNão entendi não, e quem fala que sou rico é vocês"
       ]
     },
     "120363428464897153@g.us": {
@@ -12099,7 +12099,6 @@
         "Leandro (+55 (11) 92701-8683): Mais tarde, quando o kbaré abrir, tu se apresenta @66743926038604"
       ],
       "26/08/2026": [
-        "Leandro (+55 (11) 92701-8683): Só não participo dessa agitação",
         "Leandro (+55 (11) 92701-8683): Oxi, Gabriel saiu",
         "Leandro (+55 (11) 92701-8683): Agita o povo aí",
         "Leandro (+55 (11) 92701-8683): Ele não quis mais continuar na gestão aqui do kbaré",
@@ -12598,7 +12597,8 @@
         "Celiete Souza (129373172711439): Tem que botar o pinto no soro",
         "Camila Designer (92629643563147): Quero só ver o dia que ele vai virar frango",
         "negoh🐻 (120044990287992): Vou fazer ele crescer perai",
-        "negoh🐻 (120044990287992): Frango nada, é galo"
+        "negoh🐻 (120044990287992): Frango nada, é galo",
+        "🎀  Ň𝐘ηａ🐆 (266048007835881): Vou ali kkkkkk"
       ]
     },
     "120363409727467494@g.us": {
@@ -14273,7 +14273,10 @@
         "Leandro (+55 (11) 92701-8683): !ajuda",
         "Leandro (+55 (11) 92701-8683): !status",
         "Leandro (+55 (11) 92701-8683): Pronto, todos os comandos estão aí",
-        "Leandro (+55 (11) 92701-8683): Inclusive os de música"
+        "Leandro (+55 (11) 92701-8683): Inclusive os de música",
+        "Leandro (+55 (11) 92701-8683): Mas estou mexendo no bot, provavelmente alguns comandos vou tirar para vir comandos novos",
+        "Leandro (+55 (11) 92701-8683): O correio anônimo vai ser integrado ao bot",
+        "Leandro (+55 (11) 92701-8683): Assim vamos saber de onde está vindo as mensagens"
       ]
     },
     "120363411233423709@g.us": {
@@ -15006,6 +15009,12 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "@145381035905262",
         "timestamp": 1787791718773
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "O que tem aver ? \n\nNão entendi não, e quem fala que sou rico é vocês",
+        "timestamp": 1787791756907
       }
     ],
     "120363428464897153@g.us": [
@@ -15620,16 +15629,16 @@
         "authorName": "negoh🐻",
         "text": "Frango nada, é galo",
         "timestamp": 1787791660542
+      },
+      {
+        "authorNum": "266048007835881",
+        "authorName": "🎀  Ň𝐘ηａ🐆",
+        "text": "Vou ali kkkkkk",
+        "timestamp": 1787791755580
       }
     ],
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "E o salvador falou pra Luiza que tu era casada e só ia iludir um lá",
-        "timestamp": 1787789952900
-      },
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
@@ -15821,6 +15830,24 @@
         "authorName": "Leandro",
         "text": "Inclusive os de música",
         "timestamp": 1787791717282
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Mas estou mexendo no bot, provavelmente alguns comandos vou tirar para vir comandos novos",
+        "timestamp": 1787791740193
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "O correio anônimo vai ser integrado ao bot",
+        "timestamp": 1787791754098
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Assim vamos saber de onde está vindo as mensagens",
+        "timestamp": 1787791763904
       }
     ],
     "120363411233423709@g.us": [],
@@ -15834,10 +15861,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19521,
-    "120363428464897153@g.us": 5462,
+    "120363432018531082@g.us": 19522,
+    "120363428464897153@g.us": 5463,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1394,
+    "120363412288900422@g.us": 1397,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 7
@@ -127219,6 +127246,12 @@
         "text": "@145381035905262",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787791718773
+      },
+      "AC307F6019FDE6F96B8C6A7FFE36B46E": {
+        "sender": "145381035905262@lid",
+        "text": "O que tem aver ? \n\nNão entendi não, e quem fala que sou rico é vocês",
+        "pushName": "Gabriel",
+        "timestamp": 1787791756907
       }
     },
     "120363428464897153@g.us": {
@@ -159201,6 +159234,12 @@
         "text": "Frango nada, é galo",
         "pushName": "negoh🐻",
         "timestamp": 1787791660542
+      },
+      "AC8E0CBBCA42FB0B006320F752553F6C": {
+        "sender": "266048007835881@lid",
+        "text": "Vou ali kkkkkk",
+        "pushName": "🎀  Ň𝐘ηａ🐆",
+        "timestamp": 1787791755580
       }
     },
     "120363409727467494@g.us": {
@@ -168793,6 +168832,24 @@
         "text": "Inclusive os de música",
         "pushName": "Leandro",
         "timestamp": 1787791717282
+      },
+      "A5234CC77F9FE37A8E2A80EBA57CB962": {
+        "sender": "54259127210155@lid",
+        "text": "Mas estou mexendo no bot, provavelmente alguns comandos vou tirar para vir comandos novos",
+        "pushName": "Leandro",
+        "timestamp": 1787791740193
+      },
+      "A5E01FFFE86E67DD1BC711A24627E2F3": {
+        "sender": "54259127210155@lid",
+        "text": "O correio anônimo vai ser integrado ao bot",
+        "pushName": "Leandro",
+        "timestamp": 1787791754098
+      },
+      "A5191580B6FC073DEB4A56EA2184A4E2": {
+        "sender": "54259127210155@lid",
+        "text": "Assim vamos saber de onde está vindo as mensagens",
+        "pushName": "Leandro",
+        "timestamp": 1787791763904
       }
     },
     "120363411233423709@g.us": {
@@ -170933,10 +170990,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787791718773,
-    "120363428464897153@g.us": 1787791672790,
+    "120363432018531082@g.us": 1787791756907,
+    "120363428464897153@g.us": 1787791755580,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787791717282,
+    "120363412288900422@g.us": 1787791763904,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
