@@ -241,9 +241,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2129,
+        "text": 2130,
         "media": 278,
-        "total": 2407
+        "total": 2408
       },
       "252922705240205": {
         "text": 80,
@@ -1482,8 +1482,8 @@
       },
       "57561571176651": {
         "text": 32,
-        "media": 35,
-        "total": 67
+        "media": 36,
+        "total": 68
       },
       "238977063862324": {
         "text": 27,
@@ -1826,9 +1826,9 @@
         "total": 6
       },
       "1395881181241": {
-        "text": 119,
+        "text": 120,
         "media": 5,
-        "total": 124
+        "total": 125
       },
       "198595546501333": {
         "text": 2,
@@ -2566,9 +2566,9 @@
         "total": 20
       },
       "190864487919667": {
-        "text": 98,
+        "text": 99,
         "media": 19,
-        "total": 117
+        "total": 118
       },
       "82227819987089": {
         "text": 2,
@@ -2652,13 +2652,13 @@
       },
       "208958782488665": {
         "text": 4,
-        "media": 2,
-        "total": 6
+        "media": 3,
+        "total": 7
       },
       "262456945414267": {
-        "text": 1,
+        "text": 2,
         "media": 1,
-        "total": 2
+        "total": 3
       },
       "207361708961911": {
         "text": 0,
@@ -9149,9 +9149,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): E velha tbm",
-        "'   MƲRIԼԼƠ  🥶 (111506477846600): 💥 BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Queremos conhecer você! ✨\n\n📸 Sua foto:\n💬 Nome: MURILLO \n🎂 Idade: 31 ANOS \n📍 De onde sou: Ribeirão Preto SP \n\n*🫶🏻 Seja bem-vindo(a)!*\n\n✨ Sinta-se à vontade para in",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Te conheço em",
         "'   MƲRIԼԼƠ  🥶 (111506477846600): Será",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Te conheço também 👀",
         "'   MƲRIԼԼƠ  🥶 (111506477846600): Sou desconhecido",
@@ -9648,7 +9645,10 @@
         "Souza (190864487919667): Calma aí pô",
         "Souza (190864487919667): Defeito seu zoio",
         "Souza (190864487919667): Respeita o timão",
-        "Milena B. Costa (233161007071346): Traiçoeira é as tuas! Oxe!"
+        "Milena B. Costa (233161007071346): Traiçoeira é as tuas! Oxe!",
+        "Beatriz Ferreira 🦅 (262456945414267): Qualidade",
+        "Bruno Aguiar (+1395881181241): Mas é bom aproveitar sair do cantinho 😁",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindaaaa"
       ]
     },
     "120363428464897153@g.us": {
@@ -15787,24 +15787,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Bem vindaas",
-        "timestamp": 1787866311254
-      },
-      {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Na verdade, ela foi convidada a se retirar forçadamente",
-        "timestamp": 1787866312452
-      },
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Tu não dá moral, tu já tem uma em cada grupo mesmo, aposto que o contato salvo é \n\nAmor do grupo tal \nAmor \nAmor \n\n😂😂😂😂",
-        "timestamp": 1787866313638
-      },
-      {
         "authorNum": "205621945192508",
         "authorName": "Jennifer🦋",
         "text": "Obgda 🙂",
@@ -16367,6 +16349,24 @@
         "authorName": "Milena B. Costa",
         "text": "Traiçoeira é as tuas! Oxe!",
         "timestamp": 1787868081010
+      },
+      {
+        "authorNum": "262456945414267",
+        "authorName": "Beatriz Ferreira 🦅",
+        "text": "Qualidade",
+        "timestamp": 1787868087033
+      },
+      {
+        "authorNum": "1395881181241",
+        "authorName": "Bruno Aguiar",
+        "text": "Mas é bom aproveitar sair do cantinho 😁",
+        "timestamp": 1787868114725
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Bem vindaaaa",
+        "timestamp": 1787868115403
       }
     ],
     "120363428464897153@g.us": [],
@@ -16392,7 +16392,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20593,
+    "120363432018531082@g.us": 20596,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1543,
@@ -134115,6 +134115,24 @@
         "text": "Traiçoeira é as tuas! Oxe!",
         "pushName": "Milena B. Costa",
         "timestamp": 1787868081010
+      },
+      "3AF58A64F30572038CB3": {
+        "sender": "262456945414267@lid",
+        "text": "Qualidade",
+        "pushName": "Beatriz Ferreira 🦅",
+        "timestamp": 1787868087034
+      },
+      "AC2F27B21A8574BB682F8281D951C9A5": {
+        "sender": "1395881181241@lid",
+        "text": "Mas é bom aproveitar sair do cantinho 😁",
+        "pushName": "Bruno Aguiar",
+        "timestamp": 1787868114725
+      },
+      "AC5E1D0BF8381897656FA05D8D63A1B7": {
+        "sender": "53537388122141@lid",
+        "text": "Bem vindaaaa",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787868115404
       }
     },
     "120363428464897153@g.us": {
@@ -182264,7 +182282,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787868081010,
+    "120363432018531082@g.us": 1787868115403,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787865477162,
