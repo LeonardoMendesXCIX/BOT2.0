@@ -141,9 +141,9 @@
         "total": 1940
       },
       "81991328395336": {
-        "text": 3841,
+        "text": 3842,
         "media": 1299,
-        "total": 5140
+        "total": 5141
       },
       "179040627490824": {
         "text": 433,
@@ -241,9 +241,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2150,
+        "text": 2151,
         "media": 280,
-        "total": 2430
+        "total": 2431
       },
       "252922705240205": {
         "text": 80,
@@ -9154,8 +9154,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Uns gosta em",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Não vem fala mal do meu correio",
         "Souza (190864487919667): Povo tá nervoso hoje",
         "Souza (190864487919667): No dia que eu entrei",
         "Rafael Moura (57707230945348): Mas agora virou caso de arrumar treta",
@@ -9653,7 +9651,9 @@
         "Jane (247635785080860): Boa noite",
         "Pedro Henrique (172868239380659): Oxe já acabou a aula ?",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Terminou terapia ocupacional \nAgora tô na de farmácia",
-        "Gilmar 😉 (231344856678462): Oi"
+        "Gilmar 😉 (231344856678462): Oi",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): E 50 minutos cada aula",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): 20h já quase moça"
       ]
     },
     "120363428464897153@g.us": {
@@ -15868,12 +15868,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "205621945192508",
-        "authorName": "Jennifer🦋",
-        "text": "Kkkkkkkkkkkkkk",
-        "timestamp": 1787869303413
-      },
-      {
         "authorNum": "190864487919667",
         "authorName": "Souza",
         "text": "Tô com fome",
@@ -16382,6 +16376,18 @@
         "authorName": "Gilmar 😉",
         "text": "Oi",
         "timestamp": 1787871086847
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "E 50 minutos cada aula",
+        "timestamp": 1787871102137
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "20h já quase moça",
+        "timestamp": 1787871118233
       }
     ],
     "120363428464897153@g.us": [],
@@ -16713,7 +16719,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20752,
+    "120363432018531082@g.us": 20754,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1619,
@@ -135384,6 +135390,18 @@
         "text": "Oi",
         "pushName": "Gilmar 😉",
         "timestamp": 1787871086847
+      },
+      "AC274103FB73FE475AB04F105066C428": {
+        "sender": "81991328395336@lid",
+        "text": "E 50 minutos cada aula",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787871102137
+      },
+      "ACDE1558FBEF95EC2961B6A01107B1CE": {
+        "sender": "53537388122141@lid",
+        "text": "20h já quase moça",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787871118234
       }
     },
     "120363428464897153@g.us": {
@@ -183989,7 +184007,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787871086847,
+    "120363432018531082@g.us": 1787871118233,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787871081553,
