@@ -226,9 +226,9 @@
         "total": 105
       },
       "118395236282617": {
-        "text": 389,
+        "text": 390,
         "media": 143,
-        "total": 532
+        "total": 533
       },
       "248773146108144": {
         "text": 24,
@@ -341,9 +341,9 @@
         "total": 3
       },
       "163530946961491": {
-        "text": 405,
+        "text": 406,
         "media": 69,
-        "total": 474
+        "total": 475
       },
       "222595437858867": {
         "text": 474,
@@ -2566,9 +2566,9 @@
         "total": 20
       },
       "190864487919667": {
-        "text": 132,
+        "text": 133,
         "media": 24,
-        "total": 156
+        "total": 157
       },
       "82227819987089": {
         "text": 2,
@@ -2646,9 +2646,9 @@
         "total": 7
       },
       "205621945192508": {
-        "text": 21,
-        "media": 7,
-        "total": 28
+        "text": 22,
+        "media": 8,
+        "total": 30
       },
       "208958782488665": {
         "text": 6,
@@ -9149,9 +9149,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tu é de onde? Sou de Floripa, SC",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Mulher, Deus me defenderay",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): !ban",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Vá com Deus 👋🏻",
         "Souza (190864487919667): 👀",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Muito apaixonada mesmo hein @92629643563147 ? 😂",
@@ -9648,7 +9645,10 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Tem não, traz o lanche",
         "Souza (190864487919667): A tua é longe",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Uai, venha",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Traga o lanche"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Traga o lanche",
+        "Souza (190864487919667): Cansei na metade do caminho",
+        "Caroline (118395236282617): Tem não quero MC Donald's",
+        "Jennifer🦋 (205621945192508): Aqui tem açaí com mortadela"
       ]
     },
     "120363428464897153@g.us": {
@@ -15816,12 +15816,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "163530946961491",
-        "authorName": "willian",
-        "text": "Kkkk",
-        "timestamp": 1787867609603
-      },
-      {
         "authorNum": "172868239380659",
         "authorName": "Pedro Henrique",
         "text": "Vou ganhar o açaí com peixe",
@@ -16408,6 +16402,24 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Traga o lanche",
         "timestamp": 1787869400987
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Cansei na metade do caminho",
+        "timestamp": 1787869407519
+      },
+      {
+        "authorNum": "118395236282617",
+        "authorName": "Caroline",
+        "text": "Tem não quero MC Donald's",
+        "timestamp": 1787869417339
+      },
+      {
+        "authorNum": "205621945192508",
+        "authorName": "Jennifer🦋",
+        "text": "Aqui tem açaí com mortadela",
+        "timestamp": 1787869427726
       }
     ],
     "120363428464897153@g.us": [],
@@ -16601,7 +16613,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20673,
+    "120363432018531082@g.us": 20676,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1572,
@@ -134804,6 +134816,24 @@
         "text": "Traga o lanche",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787869400987
+      },
+      "ACF927730E9E5378A203FBBF5B303F4A": {
+        "sender": "190864487919667@lid",
+        "text": "Cansei na metade do caminho",
+        "pushName": "Souza",
+        "timestamp": 1787869407526
+      },
+      "AC6BB3C57F9375C2E09230B072A6B55A": {
+        "sender": "118395236282617@lid",
+        "text": "Tem não quero MC Donald's",
+        "pushName": "Caroline",
+        "timestamp": 1787869417339
+      },
+      "ACE8B953B32AF3391D49A97557F7FC58": {
+        "sender": "205621945192508@lid",
+        "text": "Aqui tem açaí com mortadela",
+        "pushName": "Jennifer🦋",
+        "timestamp": 1787869427727
       }
     },
     "120363428464897153@g.us": {
@@ -183127,7 +183157,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787869400987,
+    "120363432018531082@g.us": 1787869429740,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787869351668,
