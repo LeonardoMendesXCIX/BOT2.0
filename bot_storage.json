@@ -241,9 +241,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2074,
+        "text": 2075,
         "media": 274,
-        "total": 2348
+        "total": 2349
       },
       "252922705240205": {
         "text": 80,
@@ -2621,9 +2621,9 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 12,
+        "text": 13,
         "media": 1,
-        "total": 13
+        "total": 14
       }
     },
     "120363428464897153@g.us": {
@@ -9104,7 +9104,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Camila Designer (92629643563147): Eu também",
         "Clayton 🇳🇬 (155503636275307): Oque vai ter de bom",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Quibebe \nE porco assado",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Churrasco?",
@@ -9603,7 +9602,8 @@
         "Gleydson Souza (274384656834700): 👀👀",
         "Souza (190864487919667): Rapaz",
         "Souza (190864487919667): Eu ia falar algo",
-        "Souza (190864487919667): Mas essa treta tá boa"
+        "Souza (190864487919667): Mas essa treta tá boa",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bom, fazer o que, problema é seu 🌚"
       ]
     },
     "120363428464897153@g.us": {
@@ -15712,12 +15712,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Mds que ta havendo aqui",
-        "timestamp": 1787860962872
-      },
-      {
         "authorNum": "222595437858867",
         "authorName": "Juliano Perlin",
         "text": "Querem pega o meu caroço do abacate🥹",
@@ -16136,6 +16130,12 @@
         "authorName": "Souza",
         "text": "Mas essa treta tá boa",
         "timestamp": 1787862761132
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Bom, fazer o que, problema é seu 🌚",
+        "timestamp": 1787862777847
       }
     ],
     "120363428464897153@g.us": [],
@@ -16220,7 +16220,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20316,
+    "120363432018531082@g.us": 20317,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1517,
@@ -132295,6 +132295,12 @@
         "text": "Mas essa treta tá boa",
         "pushName": "Souza",
         "timestamp": 1787862761132
+      },
+      "AC0F864644ABF2E3A48486FF6EF42C55": {
+        "sender": "53537388122141@lid",
+        "text": "Bom, fazer o que, problema é seu 🌚",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787862777847
       }
     },
     "120363428464897153@g.us": {
@@ -180274,7 +180280,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787862761132,
+    "120363432018531082@g.us": 1787862778210,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787862389737,
