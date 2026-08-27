@@ -2026,9 +2026,9 @@
         "total": 2
       },
       "138483016421544": {
-        "text": 1,
-        "media": 0,
-        "total": 1
+        "text": 2,
+        "media": 1,
+        "total": 3
       },
       "213893834105067": {
         "text": 2,
@@ -2621,9 +2621,9 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 7,
+        "text": 8,
         "media": 1,
-        "total": 8
+        "total": 9
       }
     },
     "120363428464897153@g.us": {
@@ -9104,7 +9104,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "🙃🙃🙃 (11171897864256): Acordei agora",
         "🙃🙃🙃 (11171897864256): Como estão?????",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Bem",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindo!",
@@ -9603,7 +9602,8 @@
         "Gleydson Souza (274384656834700): Claro tomei advertência mas aproveitei pra falar tudo que tinha guardado kkkkk",
         "Jonathan Bráulio (187097969348735): Eu tô quase chegando nesse nível",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mulher, eu quero é paz pra minha vida",
-        "🎀  Ň𝐘ηａ🐆 (266048007835881): Relaxa ..... Eu gosto de prioridade O que é de todo mundo não me interessa não🫶🏻"
+        "🎀  Ň𝐘ηａ🐆 (266048007835881): Relaxa ..... Eu gosto de prioridade O que é de todo mundo não me interessa não🫶🏻",
+        "Luiz Fernando 👨🏽‍💻 (138483016421544): Fernando \n19\nCeará"
       ]
     },
     "120363428464897153@g.us": {
@@ -15714,12 +15714,6 @@
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Obrigada o elogiooooo 🤌🏻",
-        "timestamp": 1787860711728
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Fazer dar certo só mais essa vez? Vish, quem foi que mandou? 👀\nIdentifique se no Pv 👀",
         "timestamp": 1787860807301
       },
@@ -16166,6 +16160,12 @@
         "authorName": "🎀  Ň𝐘ηａ🐆",
         "text": "Relaxa ..... Eu gosto de prioridade O que é de todo mundo não me interessa não🫶🏻",
         "timestamp": 1787862490466
+      },
+      {
+        "authorNum": "138483016421544",
+        "authorName": "Luiz Fernando 👨🏽‍💻",
+        "text": "Fernando \n19\nCeará",
+        "timestamp": 1787862559107
       }
     ],
     "120363428464897153@g.us": [],
@@ -16269,7 +16269,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20308,
+    "120363432018531082@g.us": 20309,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1517,
@@ -132296,6 +132296,12 @@
         "text": "Relaxa ..... Eu gosto de prioridade O que é de todo mundo não me interessa não🫶🏻",
         "pushName": "🎀  Ň𝐘ηａ🐆",
         "timestamp": 1787862490466
+      },
+      "AC7AEB406C9D929B89CF70EAEA412A33": {
+        "sender": "138483016421544@lid",
+        "text": "Fernando \n19\nCeará",
+        "pushName": "Luiz Fernando 👨🏽‍💻",
+        "timestamp": 1787862559107
       }
     },
     "120363428464897153@g.us": {
@@ -180275,7 +180281,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787862535119,
+    "120363432018531082@g.us": 1787862581828,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787862389737,
