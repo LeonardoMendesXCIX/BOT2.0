@@ -33,9 +33,9 @@
         "total": 4975
       },
       "179040627490824": {
-        "text": 396,
+        "text": 397,
         "media": 80,
-        "total": 476
+        "total": 477
       },
       "145381035905262": {
         "text": 2152,
@@ -128,9 +128,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 1954,
+        "text": 1955,
         "media": 249,
-        "total": 2203
+        "total": 2204
       },
       "252922705240205": {
         "text": 80,
@@ -8944,7 +8944,9 @@
         "gigi✨ (60851868446964): Brigada 🩷",
         "Junior Ferreira (186466021941407): Bom dia",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Precisa ir no médico",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bom dia"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bom dia",
+        "Baby (179040627490824): e controlado vou hj ainda se der tempo",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Isso"
       ]
     },
     "120363428464897153@g.us": {
@@ -15177,6 +15179,18 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Bom dia",
         "timestamp": 1787825788348
+      },
+      {
+        "authorNum": "179040627490824",
+        "authorName": "Baby",
+        "text": "e controlado vou hj ainda se der tempo",
+        "timestamp": 1787825844241
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Isso",
+        "timestamp": 1787825861841
       }
     ],
     "120363428464897153@g.us": [],
@@ -15194,7 +15208,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19685,
+    "120363432018531082@g.us": 19687,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1456,
@@ -127534,6 +127548,18 @@
         "text": "Bom dia",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787825788348
+      },
+      "3EB0A3B960A9249EBC4874": {
+        "sender": "179040627490824@lid",
+        "text": "e controlado vou hj ainda se der tempo",
+        "pushName": "Baby",
+        "timestamp": 1787825844241
+      },
+      "AC505D220E4D22F0BD2F34BDE4B0A869": {
+        "sender": "53537388122141@lid",
+        "text": "Isso",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787825861841
       }
     },
     "120363428464897153@g.us": {
@@ -175135,7 +175161,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787825800377,
+    "120363432018531082@g.us": 1787825861841,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787814068637,
