@@ -226,9 +226,9 @@
         "total": 105
       },
       "118395236282617": {
-        "text": 384,
+        "text": 385,
         "media": 142,
-        "total": 526
+        "total": 527
       },
       "248773146108144": {
         "text": 24,
@@ -2566,9 +2566,9 @@
         "total": 20
       },
       "190864487919667": {
-        "text": 117,
+        "text": 118,
         "media": 23,
-        "total": 140
+        "total": 141
       },
       "82227819987089": {
         "text": 2,
@@ -3297,9 +3297,9 @@
     },
     "120363412288900422@g.us": {
       "81991328395336": {
-        "text": 388,
+        "text": 390,
         "media": 111,
-        "total": 499
+        "total": 501
       },
       "5511927018683": {
         "text": 435,
@@ -9149,8 +9149,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "'   MƲRIԼԼƠ  🥶 (111506477846600): Ahhhh",
-        "'   MƲRIԼԼƠ  🥶 (111506477846600): N lembro",
         "'   MƲRIԼԼƠ  🥶 (111506477846600): 🤣 🤣",
         "'   MƲRIԼԼƠ  🥶 (111506477846600): De tu",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Pois é bom lembrar",
@@ -9648,7 +9646,9 @@
         "Caroline (118395236282617): Preciso disso",
         "Souza (190864487919667): Ave Maria",
         "Souza (190864487919667): Vai ficar é queimada de tanto sol",
-        "Caroline (118395236282617): ahhh eu amo"
+        "Caroline (118395236282617): ahhh eu amo",
+        "Caroline (118395236282617): Ar condicionado",
+        "Souza (190864487919667): Sei nem o que é isso"
       ]
     },
     "120363428464897153@g.us": {
@@ -15335,7 +15335,9 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): A parti de hj @53537388122141 \nSe vier caixinha anônimo pra mim citando a Jaque \nNão me mostre",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Oh povo gosta de ti testar",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Adora",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): O que aconteceu Lay?"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): O que aconteceu Lay?",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Ela quer testa meu réu primário",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Tu fala com a Tainá?"
       ]
     },
     "120363411233423709@g.us": {
@@ -15801,30 +15803,6 @@
   },
   "memoryCluster": {
     "120363432018531082@g.us": [
-      {
-        "authorNum": "208958782488665",
-        "authorName": "Jessica",
-        "text": "Obrigada gente linda",
-        "timestamp": 1787867213928
-      },
-      {
-        "authorNum": "163530946961491",
-        "authorName": "willian",
-        "text": "Seja bem vinda moça",
-        "timestamp": 1787867218086
-      },
-      {
-        "authorNum": "1395881181241",
-        "authorName": "Bruno Aguiar",
-        "text": "Vc também é linda😊",
-        "timestamp": 1787867242265
-      },
-      {
-        "authorNum": "208958782488665",
-        "authorName": "Jessica",
-        "text": "Gracias...",
-        "timestamp": 1787867263126
-      },
       {
         "authorNum": "145381035905262",
         "authorName": "Gabriel",
@@ -16388,6 +16366,18 @@
         "authorName": "Caroline",
         "text": "ahhh eu amo",
         "timestamp": 1787869004816
+      },
+      {
+        "authorNum": "118395236282617",
+        "authorName": "Caroline",
+        "text": "Ar condicionado",
+        "timestamp": 1787869062106
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Sei nem o que é isso",
+        "timestamp": 1787869087220
       }
     ],
     "120363428464897153@g.us": [],
@@ -16482,6 +16472,18 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "O que aconteceu Lay?",
         "timestamp": 1787869050897
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Ela quer testa meu réu primário",
+        "timestamp": 1787869068184
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Tu fala com a Tainá?",
+        "timestamp": 1787869085604
       }
     ],
     "120363411233423709@g.us": [],
@@ -16504,10 +16506,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20643,
+    "120363432018531082@g.us": 20645,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1558,
+    "120363412288900422@g.us": 1560,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -134527,6 +134529,18 @@
         "text": "ahhh eu amo",
         "pushName": "Caroline",
         "timestamp": 1787869004816
+      },
+      "AC9C280AD2076FC6796ADE5801F31B66": {
+        "sender": "118395236282617@lid",
+        "text": "Ar condicionado",
+        "pushName": "Caroline",
+        "timestamp": 1787869062107
+      },
+      "AC14A8BB5E028DE37EB9ABC4C8DFBAD6": {
+        "sender": "190864487919667@lid",
+        "text": "Sei nem o que é isso",
+        "pushName": "Souza",
+        "timestamp": 1787869087220
       }
     },
     "120363428464897153@g.us": {
@@ -180211,6 +180225,18 @@
         "text": "O que aconteceu Lay?",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787869050898
+      },
+      "AC5DAEB2B0F6117B0F15DF6BB23C60F8": {
+        "sender": "81991328395336@lid",
+        "text": "Ela quer testa meu réu primário",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787869068184
+      },
+      "AC418843832165C0A89E5A5A235122EF": {
+        "sender": "81991328395336@lid",
+        "text": "Tu fala com a Tainá?",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787869085604
       }
     },
     "120363411233423709@g.us": {
@@ -182766,10 +182792,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787869021820,
+    "120363432018531082@g.us": 1787869087220,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787869050897,
+    "120363412288900422@g.us": 1787869085604,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
