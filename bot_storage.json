@@ -151,9 +151,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2181,
+        "text": 2182,
         "media": 471,
-        "total": 2652
+        "total": 2653
       },
       "184237705699536": {
         "text": 524,
@@ -241,9 +241,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2164,
-        "media": 281,
-        "total": 2445
+        "text": 2165,
+        "media": 282,
+        "total": 2447
       },
       "252922705240205": {
         "text": 80,
@@ -346,9 +346,9 @@
         "total": 479
       },
       "222595437858867": {
-        "text": 480,
+        "text": 481,
         "media": 53,
-        "total": 533
+        "total": 534
       },
       "83280154103884": {
         "text": 36,
@@ -2566,9 +2566,9 @@
         "total": 21
       },
       "190864487919667": {
-        "text": 153,
+        "text": 155,
         "media": 30,
-        "total": 183
+        "total": 185
       },
       "82227819987089": {
         "text": 2,
@@ -2652,8 +2652,8 @@
       },
       "208958782488665": {
         "text": 6,
-        "media": 8,
-        "total": 14
+        "media": 9,
+        "total": 15
       },
       "262456945414267": {
         "text": 9,
@@ -9154,11 +9154,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Pode ficar todinho pra você @266048007835881",
-        "🙃🙃🙃 (11171897864256): Ola",
-        "🙃🙃🙃 (11171897864256): Povo",
-        "🙃🙃🙃 (11171897864256): Boa tarde",
-        "Gleydson Souza (274384656834700): Boa",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Boa tarde",
         "🙃🙃🙃 (11171897864256): Tranquilo",
         "🙃🙃🙃 (11171897864256): Tranquilo?",
@@ -9653,7 +9648,12 @@
         "Pedro Henrique (172868239380659): Gata pra caramba",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Ãmoooooo 😘",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Obrigadaaaa",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Obrigadaaaa"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Obrigadaaaa",
+        "Juliano Perlin (222595437858867): Sai la fora e ensina a lua como se brìia🥹❤️",
+        "Gabriel (145381035905262): Tu é muito elegante @53537388122141  mas a casa tem o charme. Foi mal 😂😂",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Gamou",
+        "Souza (190864487919667): Cheguei",
+        "Souza (190864487919667): Com fome"
       ]
     },
     "120363428464897153@g.us": {
@@ -16229,6 +16229,36 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Obrigadaaaa",
         "timestamp": 1787873559865
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Sai la fora e ensina a lua como se brìia🥹❤️",
+        "timestamp": 1787873613068
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Tu é muito elegante @53537388122141  mas a casa tem o charme. Foi mal 😂😂",
+        "timestamp": 1787873630008
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Gamou",
+        "timestamp": 1787873631159
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Cheguei",
+        "timestamp": 1787873635524
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Com fome",
+        "timestamp": 1787873639703
       }
     ],
     "120363428464897153@g.us": [],
@@ -16374,7 +16404,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20823,
+    "120363432018531082@g.us": 20828,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1664,
@@ -135465,6 +135495,36 @@
         "text": "Obrigadaaaa",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787873559866
+      },
+      "AC743C34DD2C29E83F199C7848F027F8": {
+        "sender": "222595437858867@lid",
+        "text": "Sai la fora e ensina a lua como se brìia🥹❤️",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1787873613068
+      },
+      "AC5A7B5DBB9D4A21A4A79AA5114A72B2": {
+        "sender": "145381035905262@lid",
+        "text": "Tu é muito elegante @53537388122141  mas a casa tem o charme. Foi mal 😂😂",
+        "pushName": "Gabriel",
+        "timestamp": 1787873630008
+      },
+      "ACC24B7F309EFCC61B6738E7BBFAEEE5": {
+        "sender": "53537388122141@lid",
+        "text": "Gamou",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787873631159
+      },
+      "AC24E7D6EA2A85813BEC107CD0073326": {
+        "sender": "190864487919667@lid",
+        "text": "Cheguei",
+        "pushName": "Souza",
+        "timestamp": 1787873635524
+      },
+      "ACF14427AF2F2732AFE4808DCD1489D1": {
+        "sender": "190864487919667@lid",
+        "text": "Com fome",
+        "pushName": "Souza",
+        "timestamp": 1787873639704
       }
     },
     "120363428464897153@g.us": {
@@ -184340,7 +184400,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787873600712,
+    "120363432018531082@g.us": 1787873639703,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787873603321,
