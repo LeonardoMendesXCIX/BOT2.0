@@ -151,9 +151,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2166,
+        "text": 2167,
         "media": 466,
-        "total": 2632
+        "total": 2633
       },
       "184237705699536": {
         "text": 524,
@@ -341,9 +341,9 @@
         "total": 3
       },
       "163530946961491": {
-        "text": 400,
+        "text": 401,
         "media": 67,
-        "total": 467
+        "total": 468
       },
       "222595437858867": {
         "text": 474,
@@ -2566,9 +2566,9 @@
         "total": 20
       },
       "190864487919667": {
-        "text": 82,
+        "text": 83,
         "media": 17,
-        "total": 99
+        "total": 100
       },
       "82227819987089": {
         "text": 2,
@@ -9139,8 +9139,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Camila Designer (92629643563147): @266048007835881 acho que vou visitar sua cidade 😌",
-        "🎀  Ň𝐘ηａ🐆 (266048007835881): Porque eu gosto de beber aqui eu não acho caro @238233849983072",
         "Neto prime (238233849983072): Qual tua cidade vida ?",
         "jefersonjgs25 (85264194134079): Boa tarde  me chamo jeferson, tenho 29 anos, solteiro e pv liberado",
         " (120363432018531082): Boa tarde  me chamo jeferson, tenho 29 anos, solteiro e pv liberado",
@@ -9638,7 +9636,9 @@
         "Gabriel (145381035905262): Graças a Deus pai",
         "Jennifer🦋 (205621945192508): Tinder não",
         "Jennifer🦋 (205621945192508): Aqui no grupo é melhor KKKkkkkk",
-        "Jennifer🦋 (205621945192508): 😂😂😂😂"
+        "Jennifer🦋 (205621945192508): 😂😂😂😂",
+        "willian (163530946961491): Ontem eu quase fui dormir no presídio kkkk",
+        "Souza (190864487919667): Bem vinda"
       ]
     },
     "120363428464897153@g.us": {
@@ -16405,18 +16405,23 @@
         "authorName": "Jennifer🦋",
         "text": "😂😂😂😂",
         "timestamp": 1787867386175
+      },
+      {
+        "authorNum": "163530946961491",
+        "authorName": "willian",
+        "text": "Ontem eu quase fui dormir no presídio kkkk",
+        "timestamp": 1787867400824
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Bem vinda",
+        "timestamp": 1787867409066
       }
     ],
     "120363428464897153@g.us": [],
     "120363409727467494@g.us": [],
-    "120363412288900422@g.us": [
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "1. Jeferson\n2. Max\n3. Ju\n4. Salvador\n5. Alice\n6. Gabriel dias\n7. Tainá \n8. Leo\n9. Baby\n10. Gigi\n11. Rodney JRibeiro\n12. Nyna",
-        "timestamp": 1787865459383
-      }
-    ],
+    "120363412288900422@g.us": [],
     "120363411233423709@g.us": [],
     "120363428079168524@g.us": [],
     "120363411246936023@g.us": [
@@ -16444,7 +16449,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20559,
+    "120363432018531082@g.us": 20561,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1543,
@@ -133963,6 +133968,18 @@
         "text": "😂😂😂😂",
         "pushName": "Jennifer🦋",
         "timestamp": 1787867386175
+      },
+      "AC0FC49AC1B8BAA3BEE4EA0483A9A8B6": {
+        "sender": "163530946961491@lid",
+        "text": "Ontem eu quase fui dormir no presídio kkkk",
+        "pushName": "willian",
+        "timestamp": 1787867400824
+      },
+      "AC11C264E41E40441346810167682A33": {
+        "sender": "190864487919667@lid",
+        "text": "Bem vinda",
+        "pushName": "Souza",
+        "timestamp": 1787867409066
       }
     },
     "120363428464897153@g.us": {
@@ -182112,7 +182129,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787867390163,
+    "120363432018531082@g.us": 1787867416219,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787865477162,
