@@ -2073,13 +2073,13 @@
       },
       "155503636275307": {
         "text": 59,
-        "media": 20,
-        "total": 79
+        "media": 21,
+        "total": 80
       },
       "67035866357875": {
-        "text": 81,
+        "text": 84,
         "media": 11,
-        "total": 92
+        "total": 95
       },
       "58669404299265": {
         "text": 2,
@@ -8906,7 +8906,10 @@
         "AlanRogerio Faustino (102641279483997): obrigado pra vc também",
         "AlanRogerio Faustino (102641279483997): Obrigado pra vc também",
         "Celiete Souza (129373172711439): Bom dia 🌻",
-        "willian (163530946961491): Boom dia"
+        "willian (163530946961491): Boom dia",
+        "Jô Freitas 🍀 (67035866357875): Bom dia",
+        "Jô Freitas 🍀 (67035866357875): Quase finalizando 24h sem dormir e trabalhando",
+        "Jô Freitas 🍀 (67035866357875): Só quero café, banho e cama"
       ]
     },
     "120363428464897153@g.us": {
@@ -14953,6 +14956,24 @@
         "authorName": "willian",
         "text": "Boom dia",
         "timestamp": 1787823063647
+      },
+      {
+        "authorNum": "67035866357875",
+        "authorName": "Jô Freitas 🍀",
+        "text": "Bom dia",
+        "timestamp": 1787824167000
+      },
+      {
+        "authorNum": "67035866357875",
+        "authorName": "Jô Freitas 🍀",
+        "text": "Quase finalizando 24h sem dormir e trabalhando",
+        "timestamp": 1787824180321
+      },
+      {
+        "authorNum": "67035866357875",
+        "authorName": "Jô Freitas 🍀",
+        "text": "Só quero café, banho e cama",
+        "timestamp": 1787824186121
       }
     ],
     "120363428464897153@g.us": [],
@@ -14970,7 +14991,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19653,
+    "120363432018531082@g.us": 19656,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1456,
@@ -127117,6 +127138,24 @@
         "text": "Boom dia",
         "pushName": "willian",
         "timestamp": 1787823063647
+      },
+      "AC76FD10A83012A2EE1C1DC01302681A": {
+        "sender": "67035866357875@lid",
+        "text": "Bom dia",
+        "pushName": "Jô Freitas 🍀",
+        "timestamp": 1787824167001
+      },
+      "AC4BB573886A97FFE7363103469D2AAF": {
+        "sender": "67035866357875@lid",
+        "text": "Quase finalizando 24h sem dormir e trabalhando",
+        "pushName": "Jô Freitas 🍀",
+        "timestamp": 1787824180321
+      },
+      "AC801890CE411D5604B914BEE8C6687E": {
+        "sender": "67035866357875@lid",
+        "text": "Só quero café, banho e cama",
+        "pushName": "Jô Freitas 🍀",
+        "timestamp": 1787824186121
       }
     },
     "120363428464897153@g.us": {
@@ -174718,7 +174757,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787823113736,
+    "120363432018531082@g.us": 1787824200448,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787814068637,
