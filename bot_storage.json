@@ -159,8 +159,8 @@
       },
       "120363432018531082": {
         "text": 312,
-        "media": 73,
-        "total": 385
+        "media": 74,
+        "total": 386
       },
       "97535100252296": {
         "text": 96,
@@ -1353,9 +1353,9 @@
         "total": 157
       },
       "266048007835881": {
-        "text": 550,
+        "text": 552,
         "media": 255,
-        "total": 805
+        "total": 807
       },
       "123120354635955": {
         "text": 4,
@@ -2473,9 +2473,9 @@
         "total": 1
       },
       "238233849983072": {
-        "text": 20,
+        "text": 22,
         "media": 0,
-        "total": 20
+        "total": 22
       },
       "75797868064796": {
         "text": 4,
@@ -2491,6 +2491,11 @@
         "text": 14,
         "media": 0,
         "total": 14
+      },
+      "85264194134079": {
+        "text": 0,
+        "media": 1,
+        "total": 1
       }
     },
     "120363428464897153@g.us": {
@@ -9421,7 +9426,13 @@
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Não mentiu kkkk",
         "Camila Designer (92629643563147): @266048007835881 acho que vou visitar sua cidade 😌",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Porque eu gosto de beber aqui eu não acho caro @238233849983072",
-        "Neto prime (238233849983072): Qual tua cidade vida ?"
+        "Neto prime (238233849983072): Qual tua cidade vida ?",
+        "jefersonjgs25 (85264194134079): Boa tarde  me chamo jeferson, tenho 29 anos, solteiro e pv liberado",
+        " (120363432018531082): Boa tarde  me chamo jeferson, tenho 29 anos, solteiro e pv liberado",
+        "🎀  Ň𝐘ηａ🐆 (266048007835881): Venhaaaa",
+        "🎀  Ň𝐘ηａ🐆 (266048007835881): Bem vindo",
+        "Neto prime (238233849983072): Eu tu não chama né @266048007835881",
+        "Neto prime (238233849983072): Rummm"
       ]
     },
     "120363428464897153@g.us": {
@@ -15818,6 +15829,42 @@
         "authorName": "Neto prime",
         "text": "Qual tua cidade vida ?",
         "timestamp": 1787856809977
+      },
+      {
+        "authorNum": "85264194134079",
+        "authorName": "jefersonjgs25",
+        "text": "Boa tarde  me chamo jeferson, tenho 29 anos, solteiro e pv liberado",
+        "timestamp": 1787856816710
+      },
+      {
+        "authorNum": "120363432018531082",
+        "authorName": "",
+        "text": "Boa tarde  me chamo jeferson, tenho 29 anos, solteiro e pv liberado",
+        "timestamp": 1787856817192
+      },
+      {
+        "authorNum": "266048007835881",
+        "authorName": "🎀  Ň𝐘ηａ🐆",
+        "text": "Venhaaaa",
+        "timestamp": 1787856823034
+      },
+      {
+        "authorNum": "266048007835881",
+        "authorName": "🎀  Ň𝐘ηａ🐆",
+        "text": "Bem vindo",
+        "timestamp": 1787856832118
+      },
+      {
+        "authorNum": "238233849983072",
+        "authorName": "Neto prime",
+        "text": "Eu tu não chama né @266048007835881",
+        "timestamp": 1787856839460
+      },
+      {
+        "authorNum": "238233849983072",
+        "authorName": "Neto prime",
+        "text": "Rummm",
+        "timestamp": 1787856843485
       }
     ],
     "120363428464897153@g.us": [],
@@ -15842,7 +15889,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20062,
+    "120363432018531082@g.us": 20068,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -130429,6 +130476,36 @@
         "text": "Qual tua cidade vida ?",
         "pushName": "Neto prime",
         "timestamp": 1787856809977
+      },
+      "ACCD7C17F1B65C1601576597489CAE3C": {
+        "sender": "120363432018531082@g.us",
+        "text": "Boa tarde  me chamo jeferson, tenho 29 anos, solteiro e pv liberado",
+        "pushName": "",
+        "timestamp": 1787856817193
+      },
+      "ACABD7226B5C9FFCF822380FEAB58696": {
+        "sender": "266048007835881@lid",
+        "text": "Venhaaaa",
+        "pushName": "🎀  Ň𝐘ηａ🐆",
+        "timestamp": 1787856823034
+      },
+      "ACD2BBE6A1627D0DAE1E7095FACD87A4": {
+        "sender": "266048007835881@lid",
+        "text": "Bem vindo",
+        "pushName": "🎀  Ň𝐘ηａ🐆",
+        "timestamp": 1787856832118
+      },
+      "2A46BD0B970E41EB2C9A": {
+        "sender": "238233849983072@lid",
+        "text": "Eu tu não chama né @266048007835881",
+        "pushName": "Neto prime",
+        "timestamp": 1787856839460
+      },
+      "2A7955BD97D047F461BE": {
+        "sender": "238233849983072@lid",
+        "text": "Rummm",
+        "pushName": "Neto prime",
+        "timestamp": 1787856843485
       }
     },
     "120363428464897153@g.us": {
@@ -178186,7 +178263,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787856809977,
+    "120363432018531082@g.us": 1787856843485,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
