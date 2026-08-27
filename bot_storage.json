@@ -1868,9 +1868,9 @@
         "total": 6
       },
       "129158944415753": {
-        "text": 5,
+        "text": 6,
         "media": 2,
-        "total": 7
+        "total": 8
       },
       "276003205152992": {
         "text": 5,
@@ -9071,7 +9071,8 @@
         "Camila Designer (92629643563147): Gente e ainda é massagista tântrico 👀👀👀",
         "massagista tântrico (129158944415753): Estou a disposição",
         "Camila Designer (92629643563147): Sejam todos bem vindos!☺️",
-        "Camila Designer (92629643563147): Nos conte mais sobre essa massagem? Quanto tempo está na área?"
+        "Camila Designer (92629643563147): Nos conte mais sobre essa massagem? Quanto tempo está na área?",
+        "massagista tântrico (129158944415753): A 11 anos já"
       ]
     },
     "120363428464897153@g.us": {
@@ -15226,6 +15227,12 @@
         "authorName": "Camila Designer",
         "text": "Nos conte mais sobre essa massagem? Quanto tempo está na área?",
         "timestamp": 1787841199495
+      },
+      {
+        "authorNum": "129158944415753",
+        "authorName": "massagista tântrico",
+        "text": "A 11 anos já",
+        "timestamp": 1787841225186
       }
     ],
     "120363428464897153@g.us": [],
@@ -15250,7 +15257,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19782,
+    "120363432018531082@g.us": 19783,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1466,
@@ -128168,6 +128175,12 @@
         "text": "Nos conte mais sobre essa massagem? Quanto tempo está na área?",
         "pushName": "Camila Designer",
         "timestamp": 1787841199495
+      },
+      "A5F67AB3851B3DF275B73B9CC1E3C85D": {
+        "sender": "129158944415753@lid",
+        "text": "A 11 anos já",
+        "pushName": "massagista tântrico",
+        "timestamp": 1787841225186
       }
     },
     "120363428464897153@g.us": {
@@ -175841,7 +175854,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787841199495,
+    "120363432018531082@g.us": 1787841225186,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787829200713,
