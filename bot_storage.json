@@ -151,9 +151,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2157,
+        "text": 2158,
         "media": 464,
-        "total": 2621
+        "total": 2622
       },
       "184237705699536": {
         "text": 524,
@@ -9124,7 +9124,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): A pronto, acha que o grupo é bagunça",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Camila tu gosta do mal feito",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): 😂😂😂😂😂",
         "Souza (190864487919667): Fogo no @",
@@ -9623,7 +9622,8 @@
         "Souza (190864487919667): Ela sabe",
         "Lailson Nathan. (272048228188398): Tá na merda kkkk",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): O que tu fez?",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Pera ai\nQuem é a tua guria @163530946961491 ?"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Pera ai\nQuem é a tua guria @163530946961491 ?",
+        "Gabriel (145381035905262): Tu vai de arrasta pra cima"
       ]
     },
     "120363428464897153@g.us": {
@@ -15761,30 +15761,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "266048007835881",
-        "authorName": "🎀  Ň𝐘ηａ🐆",
-        "text": "Se tu quer chamar atenção de algum homem Aki não vai ser com essa infantilidade e esses posicionamento não...",
-        "timestamp": 1787864152161
-      },
-      {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Briga, briga",
-        "timestamp": 1787864178162
-      },
-      {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Briga por estado diferente, gostei",
-        "timestamp": 1787864193389
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Mas gente... quem falou que eu tava afim dele, foi você 😂",
-        "timestamp": 1787864208213
-      },
-      {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "E eu que sou infantil",
@@ -16449,6 +16425,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Pera ai\nQuem é a tua guria @163530946961491 ?",
         "timestamp": 1787865936204
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Tu vai de arrasta pra cima",
+        "timestamp": 1787866008301
       }
     ],
     "120363428464897153@g.us": [],
@@ -16541,7 +16523,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20473,
+    "120363432018531082@g.us": 20474,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1543,
@@ -133557,6 +133539,12 @@
         "text": "Pera ai\nQuem é a tua guria @163530946961491 ?",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787865936205
+      },
+      "AC70E47C8417B0DB01DFCF533641ED77": {
+        "sender": "145381035905262@lid",
+        "text": "Tu vai de arrasta pra cima",
+        "pushName": "Gabriel",
+        "timestamp": 1787866008301
       }
     },
     "120363428464897153@g.us": {
@@ -181700,7 +181688,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787865956920,
+    "120363432018531082@g.us": 1787866008301,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787865477162,
