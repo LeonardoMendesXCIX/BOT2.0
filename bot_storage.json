@@ -241,9 +241,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2134,
+        "text": 2137,
         "media": 279,
-        "total": 2413
+        "total": 2416
       },
       "252922705240205": {
         "text": 80,
@@ -2566,9 +2566,9 @@
         "total": 20
       },
       "190864487919667": {
-        "text": 131,
+        "text": 132,
         "media": 24,
-        "total": 155
+        "total": 156
       },
       "82227819987089": {
         "text": 2,
@@ -9149,10 +9149,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Camila Designer (92629643563147): @266048007835881 corre aqui",
-        "Camila Designer (92629643563147): @53537388122141 está apaixonada igual você",
-        "Bruno Aguiar (+1395881181241): Hj aqui no sul ta bom pra uma gelada quase 30 graus🥵🥵🍻🍻",
-        "Neto prime (238233849983072): Quintou, quase sextou ! Kkkkkk",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Tu é de onde? Sou de Floripa, SC",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mulher, Deus me defenderay",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): !ban",
@@ -9648,7 +9644,11 @@
         "Souza (190864487919667): Vai vendo",
         "Jennifer🦋 (205621945192508): Kkkkkkkkkkkkkk",
         "Souza (190864487919667): Tô com fome",
-        "Souza (190864487919667): Tem janta aí na casa de vocês não?"
+        "Souza (190864487919667): Tem janta aí na casa de vocês não?",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tem não, traz o lanche",
+        "Souza (190864487919667): A tua é longe",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Uai, venha",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Traga o lanche"
       ]
     },
     "120363428464897153@g.us": {
@@ -15816,18 +15816,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Tu tem vários kkkkk",
-        "timestamp": 1787867580189
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Tu não entendeu, e não sou \"queridão\", mas agradeço o teu elogio",
-        "timestamp": 1787867595944
-      },
-      {
         "authorNum": "163530946961491",
         "authorName": "willian",
         "text": "Kkkk",
@@ -16396,6 +16384,30 @@
         "authorName": "Souza",
         "text": "Tem janta aí na casa de vocês não?",
         "timestamp": 1787869358021
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Tem não, traz o lanche",
+        "timestamp": 1787869367698
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "A tua é longe",
+        "timestamp": 1787869379625
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Uai, venha",
+        "timestamp": 1787869389644
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Traga o lanche",
+        "timestamp": 1787869400987
       }
     ],
     "120363428464897153@g.us": [],
@@ -16589,7 +16601,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20669,
+    "120363432018531082@g.us": 20673,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1572,
@@ -134768,6 +134780,30 @@
         "text": "Tem janta aí na casa de vocês não?",
         "pushName": "Souza",
         "timestamp": 1787869358021
+      },
+      "ACDB2CB94EADFBB7F8FA8604D43F8579": {
+        "sender": "53537388122141@lid",
+        "text": "Tem não, traz o lanche",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787869367698
+      },
+      "ACDB077C030E396924D218D6A32329C7": {
+        "sender": "190864487919667@lid",
+        "text": "A tua é longe",
+        "pushName": "Souza",
+        "timestamp": 1787869379625
+      },
+      "AC6263A4B53EB8EF49695877D57DF8CD": {
+        "sender": "53537388122141@lid",
+        "text": "Uai, venha",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787869389645
+      },
+      "AC17C4F7FE081025C9D016FFED6E01B8": {
+        "sender": "53537388122141@lid",
+        "text": "Traga o lanche",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787869400987
       }
     },
     "120363428464897153@g.us": {
@@ -183091,7 +183127,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787869358021,
+    "120363432018531082@g.us": 1787869400987,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787869351668,
