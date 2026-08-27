@@ -28,9 +28,9 @@
         "total": 1921
       },
       "81991328395336": {
-        "text": 3723,
+        "text": 3725,
         "media": 1252,
-        "total": 4975
+        "total": 4977
       },
       "179040627490824": {
         "text": 416,
@@ -3054,9 +3054,9 @@
         "total": 430
       },
       "53537388122141": {
-        "text": 529,
+        "text": 531,
         "media": 38,
-        "total": 567
+        "total": 569
       },
       "120363412288900422": {
         "text": 1,
@@ -8991,7 +8991,8 @@
         "Van Librelon (68247365931226): Bom.diaaaaaaaaaaaa",
         "Bruno Aguiar (+1395881181241): Bom dia😘",
         "Junior Ferreira (186466021941407): Bom dia, Alguém de Pernambuco?",
-        "Junior Ferreira (186466021941407): Garota"
+        "Junior Ferreira (186466021941407): Garota",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Maravilhosa"
       ]
     },
     "120363428464897153@g.us": {
@@ -14582,7 +14583,9 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Quem e?",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Removido no conexão",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Inatividade",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Pois coloca."
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Pois coloca.",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tudo bem",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Última chance, se sair/ser removido, não entra mais"
       ]
     },
     "120363411233423709@g.us": {
@@ -15110,6 +15113,12 @@
         "authorName": "Junior Ferreira",
         "text": "Garota",
         "timestamp": 1787829010482
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Maravilhosa",
+        "timestamp": 1787829079067
       }
     ],
     "120363428464897153@g.us": [],
@@ -15150,6 +15159,18 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Pois coloca.",
         "timestamp": 1787829045705
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Tudo bem",
+        "timestamp": 1787829097408
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Última chance, se sair/ser removido, não entra mais",
+        "timestamp": 1787829107205
       }
     ],
     "120363411233423709@g.us": [],
@@ -15164,10 +15185,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19727,
+    "120363432018531082@g.us": 19728,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1462,
+    "120363412288900422@g.us": 1464,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 17,
@@ -127758,6 +127779,12 @@
         "text": "Garota",
         "pushName": "Junior Ferreira",
         "timestamp": 1787829010482
+      },
+      "AC073A88A1F63C72948118B9DA615ABB": {
+        "sender": "81991328395336@lid",
+        "text": "Maravilhosa",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787829079067
       }
     },
     "120363428464897153@g.us": {
@@ -172884,6 +172911,18 @@
         "text": "Pois coloca.",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787829045705
+      },
+      "ACB0E5C11D67F13CAB268ABC7FA135C9": {
+        "sender": "53537388122141@lid",
+        "text": "Tudo bem",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787829097408
+      },
+      "AC7D116ED2E95F1894F5274A56210A74": {
+        "sender": "53537388122141@lid",
+        "text": "Última chance, se sair/ser removido, não entra mais",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787829107205
       }
     },
     "120363411233423709@g.us": {
@@ -175395,10 +175434,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787829010482,
+    "120363432018531082@g.us": 1787829079067,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787829045704,
+    "120363412288900422@g.us": 1787829107205,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
