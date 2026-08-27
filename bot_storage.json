@@ -1826,9 +1826,9 @@
         "total": 6
       },
       "1395881181241": {
-        "text": 117,
+        "text": 118,
         "media": 5,
-        "total": 122
+        "total": 123
       },
       "198595546501333": {
         "text": 2,
@@ -2652,8 +2652,8 @@
       },
       "208958782488665": {
         "text": 4,
-        "media": 1,
-        "total": 5
+        "media": 2,
+        "total": 6
       }
     },
     "120363428464897153@g.us": {
@@ -9139,7 +9139,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Oi gente",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Oieee",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Oioioi",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Se apresentou Murillo?",
@@ -9638,7 +9637,8 @@
         "Pedro Henrique (172868239380659): Vou ganhar o açaí com peixe",
         "Souza (190864487919667): Kkkkkkkkkkkkkkkkkkkkkk",
         "Jennifer🦋 (205621945192508): 🙃🙃🙃",
-        "willian (163530946961491): Só loucura kkk"
+        "willian (163530946961491): Só loucura kkk",
+        "Bruno Aguiar (+1395881181241): Tem que curtir e aproveitar a vida😉"
       ]
     },
     "120363428464897153@g.us": {
@@ -15777,12 +15777,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Pera ai\nQuem é a tua guria @163530946961491 ?",
-        "timestamp": 1787865936204
-      },
-      {
         "authorNum": "145381035905262",
         "authorName": "Gabriel",
         "text": "Tu vai de arrasta pra cima",
@@ -16417,6 +16411,12 @@
         "authorName": "willian",
         "text": "Só loucura kkk",
         "timestamp": 1787867697782
+      },
+      {
+        "authorNum": "1395881181241",
+        "authorName": "Bruno Aguiar",
+        "text": "Tem que curtir e aproveitar a vida😉",
+        "timestamp": 1787867754987
       }
     ],
     "120363428464897153@g.us": [],
@@ -16442,7 +16442,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20579,
+    "120363432018531082@g.us": 20580,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1543,
@@ -134081,6 +134081,12 @@
         "text": "Só loucura kkk",
         "pushName": "willian",
         "timestamp": 1787867697782
+      },
+      "AC9CF001FC42EE3B6B356C7B85642824": {
+        "sender": "1395881181241@lid",
+        "text": "Tem que curtir e aproveitar a vida😉",
+        "pushName": "Bruno Aguiar",
+        "timestamp": 1787867754995
       }
     },
     "120363428464897153@g.us": {
@@ -182230,7 +182236,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787867697782,
+    "120363432018531082@g.us": 1787867754987,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787865477162,
