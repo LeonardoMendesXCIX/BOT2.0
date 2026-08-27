@@ -2721,9 +2721,9 @@
         "total": 1
       },
       "92629643563147": {
-        "text": 523,
-        "media": 338,
-        "total": 861
+        "text": 524,
+        "media": 339,
+        "total": 863
       },
       "122552932372575": {
         "text": 0,
@@ -2951,9 +2951,9 @@
         "total": 15
       },
       "238233849983072": {
-        "text": 113,
+        "text": 115,
         "media": 7,
-        "total": 120
+        "total": 122
       },
       "43173162270816": {
         "text": 1,
@@ -3135,9 +3135,9 @@
     },
     "120363412288900422@g.us": {
       "81991328395336": {
-        "text": 358,
+        "text": 359,
         "media": 105,
-        "total": 463
+        "total": 464
       },
       "5511927018683": {
         "text": 430,
@@ -12656,7 +12656,10 @@
         "Neto prime (238233849983072): Só depende dela, pra eu migrar um depósito de bebidas e uma estética automotiva pra Brasília kkkkkkk",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Estamos entrando pro segundo dia ... Quero ver as habilidades dele diariamente",
         "Camila Designer (92629643563147): Mas de início seria uma amizade?",
-        "🎀  Ň𝐘ηａ🐆 (266048007835881): Conte vaaa"
+        "🎀  Ň𝐘ηａ🐆 (266048007835881): Conte vaaa",
+        "Camila Designer (92629643563147): Sim ou não?",
+        "Neto prime (238233849983072): Ela quer falar alguma coisa kkkkk",
+        "Neto prime (238233849983072): Kkkkkk"
       ]
     },
     "120363409727467494@g.us": {
@@ -14389,7 +14392,8 @@
         "Leandro (+55 (11) 92701-8683): Pessoal @all",
         "Leandro (+55 (11) 92701-8683): Faz um favor para mim??",
         "Leandro (+55 (11) 92701-8683): Me manda um print da tela principal da caixinha do NGL, onde digita o correio anônimo",
-        "Leandro (+55 (11) 92701-8683): E depois outro print, quando envia o correio"
+        "Leandro (+55 (11) 92701-8683): E depois outro print, quando envia o correio",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Entendi foi ND de nd"
       ]
     },
     "120363411233423709@g.us": {
@@ -14929,6 +14933,24 @@
         "authorName": "🎀  Ň𝐘ηａ🐆",
         "text": "Conte vaaa",
         "timestamp": 1787801461962
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Sim ou não?",
+        "timestamp": 1787801471336
+      },
+      {
+        "authorNum": "238233849983072",
+        "authorName": "Neto prime",
+        "text": "Ela quer falar alguma coisa kkkkk",
+        "timestamp": 1787801474309
+      },
+      {
+        "authorNum": "238233849983072",
+        "authorName": "Neto prime",
+        "text": "Kkkkkk",
+        "timestamp": 1787801478072
       }
     ],
     "120363409727467494@g.us": [],
@@ -15040,6 +15062,12 @@
         "authorName": "Leandro",
         "text": "E depois outro print, quando envia o correio",
         "timestamp": 1787801041451
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Entendi foi ND de nd",
+        "timestamp": 1787801469268
       }
     ],
     "120363411233423709@g.us": [],
@@ -15061,9 +15089,9 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 19620,
-    "120363428464897153@g.us": 5868,
+    "120363428464897153@g.us": 5871,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1451,
+    "120363412288900422@g.us": 1452,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 14
@@ -161407,6 +161435,24 @@
         "text": "Conte vaaa",
         "pushName": "🎀  Ň𝐘ηａ🐆",
         "timestamp": 1787801461962
+      },
+      "2AE49D7E2C044D12559C": {
+        "sender": "92629643563147@lid",
+        "text": "Sim ou não?",
+        "pushName": "Camila Designer",
+        "timestamp": 1787801471336
+      },
+      "2A10D028E06926337EAB": {
+        "sender": "238233849983072@lid",
+        "text": "Ela quer falar alguma coisa kkkkk",
+        "pushName": "Neto prime",
+        "timestamp": 1787801474309
+      },
+      "2AB93C700C5C3015398D": {
+        "sender": "238233849983072@lid",
+        "text": "Kkkkkk",
+        "pushName": "Neto prime",
+        "timestamp": 1787801478072
       }
     },
     "120363409727467494@g.us": {
@@ -171335,6 +171381,12 @@
         "text": "E depois outro print, quando envia o correio",
         "pushName": "Leandro",
         "timestamp": 1787801041451
+      },
+      "ACEDA780446CFA22463D0DB67E7A0EB7": {
+        "sender": "81991328395336@lid",
+        "text": "Entendi foi ND de nd",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787801469268
       }
     },
     "120363411233423709@g.us": {
@@ -173518,9 +173570,9 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787801074245,
-    "120363428464897153@g.us": 1787801461962,
+    "120363428464897153@g.us": 1787801496716,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787801041451,
+    "120363412288900422@g.us": 1787801469268,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
