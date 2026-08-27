@@ -2621,9 +2621,9 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 53,
+        "text": 54,
         "media": 11,
-        "total": 64
+        "total": 65
       },
       "172868239380659": {
         "text": 64,
@@ -9154,7 +9154,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tranquilo e aí?",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Que treta, vai viver",
         "🙃🙃🙃 (11171897864256): De boa pensando se eu vou trabalhar hoje",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Minha nossa senhora",
@@ -9653,7 +9652,8 @@
         "Gabriel (145381035905262): Bagatela de R$ 9.990.000 M \n\nÉ sua agora!",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Meu sonho",
         "Dany (262182034002040): BAGATELA! Coisa pouca 🫠🫠",
-        "Dany (262182034002040): Sonho"
+        "Dany (262182034002040): Sonho",
+        "Gleydson Souza (274384656834700): Esse combo ai é um sonho kkkkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -16289,6 +16289,12 @@
         "authorName": "Dany",
         "text": "Sonho",
         "timestamp": 1787873776655
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Esse combo ai é um sonho kkkkk",
+        "timestamp": 1787873793809
       }
     ],
     "120363428464897153@g.us": [],
@@ -16428,7 +16434,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20835,
+    "120363432018531082@g.us": 20836,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1664,
@@ -135591,6 +135597,12 @@
         "text": "Sonho",
         "pushName": "Dany",
         "timestamp": 1787873776655
+      },
+      "AC55C5D7F628307CB70B58F81ED62489": {
+        "sender": "274384656834700@lid",
+        "text": "Esse combo ai é um sonho kkkkk",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787873793809
       }
     },
     "120363428464897153@g.us": {
@@ -184466,7 +184478,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787873780497,
+    "120363432018531082@g.us": 1787873793809,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787873767745,
