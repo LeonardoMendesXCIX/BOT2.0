@@ -28,14 +28,14 @@
         "total": 1934
       },
       "81991328395336": {
-        "text": 3765,
+        "text": 3766,
         "media": 1262,
-        "total": 5027
+        "total": 5028
       },
       "179040627490824": {
         "text": 424,
-        "media": 84,
-        "total": 508
+        "media": 85,
+        "total": 509
       },
       "145381035905262": {
         "text": 2152,
@@ -103,9 +103,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1421,
+        "text": 1422,
         "media": 1077,
-        "total": 2498
+        "total": 2499
       },
       "3126803329115": {
         "text": 87,
@@ -253,9 +253,9 @@
         "total": 3
       },
       "60851868446964": {
-        "text": 1230,
+        "text": 1231,
         "media": 1427,
-        "total": 2657
+        "total": 2658
       },
       "270377049690114": {
         "text": 36,
@@ -9232,7 +9232,9 @@
         "Dany (262182034002040): Falaram pouco hein?",
         "gigi✨ (60851868446964): Dormi feito uma pedra",
         "gigi✨ (60851868446964): kakakka",
-        "Camila Designer (92629643563147): Que gracinha! 🥰"
+        "Camila Designer (92629643563147): Que gracinha! 🥰",
+        "gigi✨ (60851868446964): Sim foi foi uma hora kkkk",
+        "Camila Designer (92629643563147): Não tenho ninguém pra fazer ligação pra mim🥺🥺🥺🥺🥺🥺"
       ]
     },
     "120363428464897153@g.us": {
@@ -15838,6 +15840,18 @@
         "authorName": "Camila Designer",
         "text": "Que gracinha! 🥰",
         "timestamp": 1787846187676
+      },
+      {
+        "authorNum": "60851868446964",
+        "authorName": "gigi✨",
+        "text": "Sim foi foi uma hora kkkk",
+        "timestamp": 1787846198439
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Não tenho ninguém pra fazer ligação pra mim🥺🥺🥺🥺🥺🥺",
+        "timestamp": 1787846233601
       }
     ],
     "120363428464897153@g.us": [],
@@ -15855,7 +15869,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19908,
+    "120363432018531082@g.us": 19910,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -129517,6 +129531,18 @@
         "text": "Que gracinha! 🥰",
         "pushName": "Camila Designer",
         "timestamp": 1787846187677
+      },
+      "AC0F13E06997131F3496CFCBDAB31BE0": {
+        "sender": "60851868446964@lid",
+        "text": "Sim foi foi uma hora kkkk",
+        "pushName": "gigi✨",
+        "timestamp": 1787846198439
+      },
+      "2A5C0837972E91AE28A7": {
+        "sender": "92629643563147@lid",
+        "text": "Não tenho ninguém pra fazer ligação pra mim🥺🥺🥺🥺🥺🥺",
+        "pushName": "Camila Designer",
+        "timestamp": 1787846233601
       }
     },
     "120363428464897153@g.us": {
@@ -177268,7 +177294,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787846187676,
+    "120363432018531082@g.us": 1787846233601,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
