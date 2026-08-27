@@ -241,9 +241,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2101,
+        "text": 2103,
         "media": 275,
-        "total": 2376
+        "total": 2378
       },
       "252922705240205": {
         "text": 80,
@@ -1512,8 +1512,8 @@
       },
       "272048228188398": {
         "text": 76,
-        "media": 13,
-        "total": 89
+        "media": 14,
+        "total": 90
       },
       "55959196049495": {
         "text": 6,
@@ -2621,14 +2621,14 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 19,
+        "text": 20,
         "media": 3,
-        "total": 22
+        "total": 23
       },
       "172868239380659": {
-        "text": 19,
+        "text": 21,
         "media": 5,
-        "total": 24
+        "total": 26
       },
       "170455038193841": {
         "text": 1,
@@ -9114,9 +9114,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Dany (262182034002040): Falaram pouco hein?",
-        "gigi✨ (60851868446964): Dormi feito uma pedra",
-        "gigi✨ (60851868446964): kakakka",
         "Camila Designer (92629643563147): Que gracinha! 🥰",
         "gigi✨ (60851868446964): Sim foi foi uma hora kkkk",
         "Camila Designer (92629643563147): Não tenho ninguém pra fazer ligação pra mim🥺🥺🥺🥺🥺🥺",
@@ -9613,7 +9610,10 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Gente do céu... Nunca nem falei com o cara e vem querer se meter comigo por macho",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Logo eu",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Comigo tem essa não",
-        "Pedro Henrique (172868239380659): O mais engraçado é que são DDD diferente brigando"
+        "Pedro Henrique (172868239380659): O mais engraçado é que são DDD diferente brigando",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Deixo pra morta de fome",
+        "Pedro Henrique (172868239380659): O cara tbm é de Brasília?",
+        "Pedro Henrique (172868239380659): Pq pelo DDD ela é de Brasília"
       ]
     },
     "120363428464897153@g.us": {
@@ -16265,6 +16265,24 @@
         "authorName": "Pedro Henrique",
         "text": "O mais engraçado é que são DDD diferente brigando",
         "timestamp": 1787864602842
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Deixo pra morta de fome",
+        "timestamp": 1787864611683
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "O cara tbm é de Brasília?",
+        "timestamp": 1787864615308
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Pq pelo DDD ela é de Brasília",
+        "timestamp": 1787864624243
       }
     ],
     "120363428464897153@g.us": [],
@@ -16421,7 +16439,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20404,
+    "120363432018531082@g.us": 20407,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1540,
@@ -133023,6 +133041,24 @@
         "text": "O mais engraçado é que são DDD diferente brigando",
         "pushName": "Pedro Henrique",
         "timestamp": 1787864602842
+      },
+      "AC9E83BE19B86CD388A4A11950BD9EB0": {
+        "sender": "53537388122141@lid",
+        "text": "Deixo pra morta de fome",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787864611683
+      },
+      "AC6AAB7372058679C1AE444CBF2A452E": {
+        "sender": "172868239380659@lid",
+        "text": "O cara tbm é de Brasília?",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787864615308
+      },
+      "ACFFB3D023A74FFF75B9F2AA00CE6CB0": {
+        "sender": "172868239380659@lid",
+        "text": "Pq pelo DDD ela é de Brasília",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787864624243
       }
     },
     "120363428464897153@g.us": {
@@ -181140,7 +181176,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787864602842,
+    "120363432018531082@g.us": 1787864624243,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787864476741,
