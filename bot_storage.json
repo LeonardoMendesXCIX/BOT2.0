@@ -256,9 +256,9 @@
         "total": 463
       },
       "262182034002040": {
-        "text": 1863,
+        "text": 1865,
         "media": 121,
-        "total": 1984
+        "total": 1986
       },
       "219245581488326": {
         "text": 4,
@@ -346,9 +346,9 @@
         "total": 479
       },
       "222595437858867": {
-        "text": 481,
+        "text": 482,
         "media": 53,
-        "total": 534
+        "total": 535
       },
       "83280154103884": {
         "text": 36,
@@ -3313,8 +3313,8 @@
       },
       "145381035905262": {
         "text": 351,
-        "media": 134,
-        "total": 485
+        "media": 135,
+        "total": 486
       },
       "53537388122141": {
         "text": 657,
@@ -9154,8 +9154,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "🙃🙃🙃 (11171897864256): Como estão todos??",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Por enquanto, acabou a treta",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Tranquilo e aí?",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Que treta, vai viver",
         "🙃🙃🙃 (11171897864256): De boa pensando se eu vou trabalhar hoje",
@@ -9653,7 +9651,9 @@
         "Gleydson Souza (274384656834700): Fisgou ele ja sabrina",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Tô vendo",
         "Gabriel (145381035905262): Bagatela de R$ 9.990.000 M \n\nÉ sua agora!",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Meu sonho"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Meu sonho",
+        "Dany (262182034002040): BAGATELA! Coisa pouca 🫠🫠",
+        "Dany (262182034002040): Sonho"
       ]
     },
     "120363428464897153@g.us": {
@@ -16277,6 +16277,18 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Meu sonho",
         "timestamp": 1787873733993
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "BAGATELA! Coisa pouca 🫠🫠",
+        "timestamp": 1787873770958
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Sonho",
+        "timestamp": 1787873776655
       }
     ],
     "120363428464897153@g.us": [],
@@ -16416,7 +16428,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20833,
+    "120363432018531082@g.us": 20835,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1664,
@@ -135567,6 +135579,18 @@
         "text": "Meu sonho",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787873733994
+      },
+      "3AD2757F041B9EF26D5A": {
+        "sender": "262182034002040@lid",
+        "text": "BAGATELA! Coisa pouca 🫠🫠",
+        "pushName": "Dany",
+        "timestamp": 1787873770958
+      },
+      "3A0821EA25A83C8D173D": {
+        "sender": "262182034002040@lid",
+        "text": "Sonho",
+        "pushName": "Dany",
+        "timestamp": 1787873776655
       }
     },
     "120363428464897153@g.us": {
@@ -184442,10 +184466,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787873750645,
+    "120363432018531082@g.us": 1787873780497,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787873603321,
+    "120363412288900422@g.us": 1787873767745,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
