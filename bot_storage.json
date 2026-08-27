@@ -241,9 +241,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2065,
+        "text": 2066,
         "media": 274,
-        "total": 2339
+        "total": 2340
       },
       "252922705240205": {
         "text": 80,
@@ -656,9 +656,9 @@
         "total": 2
       },
       "90130358485223": {
-        "text": 82,
+        "text": 83,
         "media": 11,
-        "total": 93
+        "total": 94
       },
       "57707230945348": {
         "text": 1117,
@@ -9104,8 +9104,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "massagista tântrico (129158944415753): A 11 anos já",
-        "Camila Designer (92629643563147): Que legal! E o seu corpo faz parte da sua profissão?👀",
         "massagista tântrico (129158944415753): Simm",
         "Camila Designer (92629643563147): Meu Deus, preciso conhecer o Rio 🤣🤣🤣",
         "massagista tântrico (129158944415753): Será muito bem vinda",
@@ -9603,7 +9601,9 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): F",
         "Gabriel Ohi (90130358485223): Faleceram kkkkk um minuto de silêncio pra esse povo",
         "Souza (190864487919667): Já quero é ir embora",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Acho que já inventa um bolo"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Acho que já inventa um bolo",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Nam, grupo vai continuar normal\nFicaram inativos pq queriam",
+        "Gabriel Ohi (90130358485223): Eu sei"
       ]
     },
     "120363428464897153@g.us": {
@@ -16141,6 +16141,18 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Acho que já inventa um bolo",
         "timestamp": 1787861695256
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Nam, grupo vai continuar normal\nFicaram inativos pq queriam",
+        "timestamp": 1787861764143
+      },
+      {
+        "authorNum": "90130358485223",
+        "authorName": "Gabriel Ohi",
+        "text": "Eu sei",
+        "timestamp": 1787861773902
       }
     ],
     "120363428464897153@g.us": [],
@@ -16298,7 +16310,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20282,
+    "120363432018531082@g.us": 20284,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1516,
@@ -132175,6 +132187,18 @@
         "text": "Acho que já inventa um bolo",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787861695256
+      },
+      "AC9BDE0A81AAFB48535C65EA01DB9CA2": {
+        "sender": "53537388122141@lid",
+        "text": "Nam, grupo vai continuar normal\nFicaram inativos pq queriam",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787861764143
+      },
+      "ACEBC8AE7D10754555CE6DD0C920861B": {
+        "sender": "90130358485223@lid",
+        "text": "Eu sei",
+        "pushName": "Gabriel Ohi",
+        "timestamp": 1787861773902
       }
     },
     "120363428464897153@g.us": {
@@ -180148,7 +180172,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787861702570,
+    "120363432018531082@g.us": 1787861773902,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787861646643,
