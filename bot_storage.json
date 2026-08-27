@@ -2811,9 +2811,9 @@
         "total": 94
       },
       "222595437858867": {
-        "text": 129,
+        "text": 130,
         "media": 9,
-        "total": 138
+        "total": 139
       },
       "104003018985518": {
         "text": 40,
@@ -3135,14 +3135,14 @@
     },
     "120363412288900422@g.us": {
       "81991328395336": {
-        "text": 344,
-        "media": 101,
-        "total": 445
+        "text": 347,
+        "media": 102,
+        "total": 449
       },
       "5511927018683": {
-        "text": 367,
-        "media": 69,
-        "total": 436
+        "text": 368,
+        "media": 70,
+        "total": 438
       },
       "145381035905262": {
         "text": 312,
@@ -3150,9 +3150,9 @@
         "total": 412
       },
       "53537388122141": {
-        "text": 509,
+        "text": 510,
         "media": 32,
-        "total": 541
+        "total": 542
       },
       "120363412288900422": {
         "text": 1,
@@ -14247,7 +14247,11 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Imagine iludir",
         "Leandro (+55 (11) 92701-8683): Esse povo tá caçando assunto",
         "Leandro (+55 (11) 92701-8683): Até a hora que arrumar",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Já tô me segurando, de verdade"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Já tô me segurando, de verdade",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Ai pq sou casada com o dono do bot ia querer derrubar o bot deles",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): E copia as ideias do bot deles",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tão copiando legal o grupo\nSó faltou colocar o mesmo nome 😒",
+        "Leandro (+55 (11) 92701-8683): É cada babaquice"
       ]
     },
     "120363411233423709@g.us": {
@@ -14959,12 +14963,6 @@
       {
         "authorNum": "5511927018683",
         "authorName": "Leandro",
-        "text": "Não é por causa dos antibióticos? @81991328395336",
-        "timestamp": 1787788267281
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
         "text": "Quem tinha desligado o bot do grupo conexão?",
         "timestamp": 1787788467818
       },
@@ -15219,6 +15217,30 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Já tô me segurando, de verdade",
         "timestamp": 1787790052935
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Ai pq sou casada com o dono do bot ia querer derrubar o bot deles",
+        "timestamp": 1787790056751
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "E copia as ideias do bot deles",
+        "timestamp": 1787790070480
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Tão copiando legal o grupo\nSó faltou colocar o mesmo nome 😒",
+        "timestamp": 1787790075101
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "É cada babaquice",
+        "timestamp": 1787790077018
       }
     ],
     "120363411233423709@g.us": [],
@@ -15235,7 +15257,7 @@
     "120363432018531082@g.us": 19463,
     "120363428464897153@g.us": 5365,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1368,
+    "120363412288900422@g.us": 1372,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 7
@@ -167111,6 +167133,30 @@
         "text": "Já tô me segurando, de verdade",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787790052935
+      },
+      "ACBB543F9A23A7932DA59EEF28F04BC4": {
+        "sender": "81991328395336@lid",
+        "text": "Ai pq sou casada com o dono do bot ia querer derrubar o bot deles",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787790056751
+      },
+      "AC66670CCCB7B9DF8972FECFBDEE18CC": {
+        "sender": "81991328395336@lid",
+        "text": "E copia as ideias do bot deles",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787790070480
+      },
+      "AC5DEBE24779FBE794862044D8B7588B": {
+        "sender": "53537388122141@lid",
+        "text": "Tão copiando legal o grupo\nSó faltou colocar o mesmo nome 😒",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787790075101
+      },
+      "A5E914BFCEE9C6A657FBC158E73D7C8F": {
+        "sender": "54259127210155@lid",
+        "text": "É cada babaquice",
+        "pushName": "Leandro",
+        "timestamp": 1787790077018
       }
     },
     "120363411233423709@g.us": {
@@ -169252,9 +169298,9 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787789781817,
-    "120363428464897153@g.us": 1787790048704,
+    "120363428464897153@g.us": 1787790077164,
     "120363409727467494@g.us": 1787764683861,
-    "120363412288900422@g.us": 1787790052935,
+    "120363412288900422@g.us": 1787790083572,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
