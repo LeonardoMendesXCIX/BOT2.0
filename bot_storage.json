@@ -2626,9 +2626,9 @@
         "total": 1
       },
       "199733712785531": {
-        "text": 69,
-        "media": 92,
-        "total": 161
+        "text": 70,
+        "media": 93,
+        "total": 163
       },
       "162397679534082": {
         "text": 2,
@@ -2811,9 +2811,9 @@
         "total": 94
       },
       "222595437858867": {
-        "text": 122,
+        "text": 123,
         "media": 9,
-        "total": 131
+        "total": 132
       },
       "104003018985518": {
         "text": 40,
@@ -3001,9 +3001,9 @@
         "total": 15
       },
       "120044990287992": {
-        "text": 43,
+        "text": 45,
         "media": 4,
-        "total": 47
+        "total": 49
       },
       "71120413843690": {
         "text": 2,
@@ -3135,9 +3135,9 @@
     },
     "120363412288900422@g.us": {
       "81991328395336": {
-        "text": 337,
+        "text": 338,
         "media": 94,
-        "total": 431
+        "total": 432
       },
       "5511927018683": {
         "text": 361,
@@ -12099,8 +12099,6 @@
         "Leandro (+55 (11) 92701-8683): Mais tarde, quando o kbaré abrir, tu se apresenta @66743926038604"
       ],
       "26/08/2026": [
-        "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Te acompanho sim amor 🤭❤️",
-        "Vini 👑🏁🙌⚽ (270377049690114): Só pode visualização única??",
         "Leandro (+55 (11) 92701-8683): Sim",
         "Vini 👑🏁🙌⚽ (270377049690114): Ah foi mal adm",
         "Celiete Souza (129373172711439): Não entendi",
@@ -12598,7 +12596,9 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Sim meu amor",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Aos novatos, por favor, se apresentem!!\n@all",
         "Juliano Perlin (222595437858867): 👀👀",
-        "Juliano Perlin (222595437858867): Noite povo"
+        "Juliano Perlin (222595437858867): Noite povo",
+        "Juliano Perlin (222595437858867): Como tao??",
+        "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Oshe kk"
       ]
     },
     "120363409727467494@g.us": {
@@ -14220,7 +14220,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Aaaa ele que falou de mim então",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Rita que me contouj",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Luiza disse que o grupo dele e ameaça por nosso",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): O tanto de gente no condomínio por nosso"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): O tanto de gente no condomínio por nosso",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Foi enganada não Sabrina a caixinha"
       ]
     },
     "120363411233423709@g.us": {
@@ -14703,16 +14704,22 @@
         "authorName": "Juliano Perlin",
         "text": "Noite povo",
         "timestamp": 1787789284391
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Como tao??",
+        "timestamp": 1787789289072
+      },
+      {
+        "authorNum": "199733712785531",
+        "authorName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
+        "text": "Oshe kk",
+        "timestamp": 1787789310816
       }
     ],
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Compreendo",
-        "timestamp": 1787787500881
-      },
       {
         "authorNum": "5511927018683",
         "authorName": "Leandro",
@@ -14922,6 +14929,12 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "O tanto de gente no condomínio por nosso",
         "timestamp": 1787788876130
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Foi enganada não Sabrina a caixinha",
+        "timestamp": 1787789301913
       }
     ],
     "120363411233423709@g.us": [],
@@ -14936,9 +14949,9 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 19456,
-    "120363428464897153@g.us": 5335,
+    "120363428464897153@g.us": 5337,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1341,
+    "120363412288900422@g.us": 1342,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 7
@@ -157156,6 +157169,18 @@
         "text": "Noite povo",
         "pushName": "Juliano Perlin",
         "timestamp": 1787789284391
+      },
+      "ACCB2A65C8A95B179AEC53F1E3E8EF63": {
+        "sender": "222595437858867@lid",
+        "text": "Como tao??",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1787789289072
+      },
+      "3AA66753BFE716C82723": {
+        "sender": "199733712785531@lid",
+        "text": "Oshe kk",
+        "pushName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
+        "timestamp": 1787789310816
       }
     },
     "120363409727467494@g.us": {
@@ -166430,6 +166455,12 @@
         "text": "O tanto de gente no condomínio por nosso",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787788876130
+      },
+      "AC55FE57EDB489BBF7944D4BAC1E61DA": {
+        "sender": "81991328395336@lid",
+        "text": "Foi enganada não Sabrina a caixinha",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787789301913
       }
     },
     "120363411233423709@g.us": {
@@ -168571,9 +168602,9 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787789030058,
-    "120363428464897153@g.us": 1787789284391,
+    "120363428464897153@g.us": 1787789310816,
     "120363409727467494@g.us": 1787764683861,
-    "120363412288900422@g.us": 1787788891588,
+    "120363412288900422@g.us": 1787789301913,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
