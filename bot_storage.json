@@ -3429,14 +3429,14 @@
     },
     "120363409024805409@g.us": {
       "179040627490824": {
-        "text": 13,
+        "text": 14,
         "media": 121,
-        "total": 134
+        "total": 135
       },
       "5511927018683": {
-        "text": 20,
+        "text": 24,
         "media": 3,
-        "total": 23
+        "total": 27
       },
       "30486281900223": {
         "text": 1,
@@ -3449,9 +3449,9 @@
         "total": 94
       },
       "145381035905262": {
-        "text": 2,
-        "media": 4,
-        "total": 6
+        "text": 3,
+        "media": 14,
+        "total": 17
       },
       "120363409024805409": {
         "text": 0,
@@ -14904,7 +14904,13 @@
         "Gabriel (145381035905262): @54259127210155  usa com a @81991328395336  quando sumir",
         "Baby (179040627490824): Quase q tomei Ban",
         "Leandro (+55 (11) 92701-8683): Vai que cola 🤷🏻‍♂️",
-        "Leandro (+55 (11) 92701-8683): Eu desativei o ban por advertência"
+        "Leandro (+55 (11) 92701-8683): Eu desativei o ban por advertência",
+        "Gabriel (145381035905262): Posso jogar as minhas aqui ?",
+        "Baby (179040627490824): Ainda bem",
+        "Leandro (+55 (11) 92701-8683): Por que o bot dispara advertência quando manda mensagens muito rápido",
+        "Leandro (+55 (11) 92701-8683): Aí muita gente ia tomar ban",
+        "Leandro (+55 (11) 92701-8683): Manda",
+        "Leandro (+55 (11) 92701-8683): O grupo é para figurinhas 🫡"
       ]
     }
   },
@@ -15068,6 +15074,42 @@
         "authorName": "Leandro",
         "text": "Eu desativei o ban por advertência",
         "timestamp": 1787811008668
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Posso jogar as minhas aqui ?",
+        "timestamp": 1787811025053
+      },
+      {
+        "authorNum": "179040627490824",
+        "authorName": "Baby",
+        "text": "Ainda bem",
+        "timestamp": 1787811027780
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Por que o bot dispara advertência quando manda mensagens muito rápido",
+        "timestamp": 1787811036986
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Aí muita gente ia tomar ban",
+        "timestamp": 1787811043966
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Manda",
+        "timestamp": 1787811047002
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "O grupo é para figurinhas 🫡",
+        "timestamp": 1787811055836
       }
     ]
   },
@@ -15085,7 +15127,7 @@
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 17,
-    "120363409024805409@g.us": 33
+    "120363409024805409@g.us": 39
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -174541,6 +174583,42 @@
         "text": "Eu desativei o ban por advertência",
         "pushName": "Leandro",
         "timestamp": 1787811008668
+      },
+      "ACB9EF516623C0E7DD70E040517A6724": {
+        "sender": "145381035905262@lid",
+        "text": "Posso jogar as minhas aqui ?",
+        "pushName": "Gabriel",
+        "timestamp": 1787811025053
+      },
+      "ACAEC732DE15FDDB9F64F571AE1B941C": {
+        "sender": "179040627490824@lid",
+        "text": "Ainda bem",
+        "pushName": "Baby",
+        "timestamp": 1787811027782
+      },
+      "A5FE7FBFD9B98D9A52710E442D503616": {
+        "sender": "54259127210155@lid",
+        "text": "Por que o bot dispara advertência quando manda mensagens muito rápido",
+        "pushName": "Leandro",
+        "timestamp": 1787811036986
+      },
+      "A5E64969542F663C3684370E002DA71F": {
+        "sender": "54259127210155@lid",
+        "text": "Aí muita gente ia tomar ban",
+        "pushName": "Leandro",
+        "timestamp": 1787811043966
+      },
+      "A59C202D790C90E136661448FA9D6057": {
+        "sender": "54259127210155@lid",
+        "text": "Manda",
+        "pushName": "Leandro",
+        "timestamp": 1787811047002
+      },
+      "A5116FDFD3F2E8C834501430A495C3D3": {
+        "sender": "54259127210155@lid",
+        "text": "O grupo é para figurinhas 🫡",
+        "pushName": "Leandro",
+        "timestamp": 1787811055836
       }
     }
   },
@@ -174637,7 +174715,7 @@
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1787803320850,
-    "120363409024805409@g.us": 1787811008668
+    "120363409024805409@g.us": 1787811075437
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
