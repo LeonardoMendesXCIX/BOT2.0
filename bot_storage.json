@@ -129,8 +129,8 @@
       },
       "53537388122141": {
         "text": 1962,
-        "media": 251,
-        "total": 2213
+        "media": 252,
+        "total": 2214
       },
       "252922705240205": {
         "text": 80,
@@ -9006,7 +9006,8 @@
         "gigi✨ (60851868446964): Todos",
         "Milena B. Costa (233161007071346): Feliz aniversário 🌻🌻🌻",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Eclética a gata",
-        "Baby (179040627490824): acustico"
+        "Baby (179040627490824): acustico",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Muito pelo contrário, respondo todo mundo de boa. Sou parceira"
       ]
     },
     "120363428464897153@g.us": {
@@ -15059,12 +15060,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "68247365931226",
-        "authorName": "Van Librelon",
-        "text": "Bom.diaaaaaaaaaaaa",
-        "timestamp": 1787828434691
-      },
-      {
         "authorNum": "1395881181241",
         "authorName": "Bruno Aguiar",
         "text": "Bom dia😘",
@@ -15171,6 +15166,12 @@
         "authorName": "Baby",
         "text": "acustico",
         "timestamp": 1787830198896
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Muito pelo contrário, respondo todo mundo de boa. Sou parceira",
+        "timestamp": 1787830266360
       }
     ],
     "120363428464897153@g.us": [],
@@ -15243,7 +15244,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19742,
+    "120363432018531082@g.us": 19743,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1466,
@@ -127927,6 +127928,12 @@
         "text": "acustico",
         "pushName": "Baby",
         "timestamp": 1787830198897
+      },
+      "AC08D5252AF36ED1E52054E501F78108": {
+        "sender": "53537388122141@lid",
+        "text": "Muito pelo contrário, respondo todo mundo de boa. Sou parceira",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787830266360
       }
     },
     "120363428464897153@g.us": {
@@ -175588,7 +175595,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787830198896,
+    "120363432018531082@g.us": 1787830266360,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787829200713,
