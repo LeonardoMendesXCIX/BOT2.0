@@ -216,9 +216,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1460,
+        "text": 1461,
         "media": 1099,
-        "total": 2559
+        "total": 2560
       },
       "3126803329115": {
         "text": 87,
@@ -256,9 +256,9 @@
         "total": 463
       },
       "262182034002040": {
-        "text": 1849,
+        "text": 1850,
         "media": 119,
-        "total": 1968
+        "total": 1969
       },
       "219245581488326": {
         "text": 4,
@@ -9154,8 +9154,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Gabriel Ohi (90130358485223): Faleceram kkkkk um minuto de silêncio pra esse povo",
-        "Souza (190864487919667): Já quero é ir embora",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Acho que já inventa um bolo",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Nam, grupo vai continuar normal\nFicaram inativos pq queriam",
         "Gabriel Ohi (90130358485223): Eu sei",
@@ -9653,7 +9651,9 @@
         "Dany (262182034002040): Recomendo as músicas dela hehehhe",
         "Dany (262182034002040): Compreensível",
         "🙃🙃🙃 (11171897864256): Ol",
-        "Dany (262182034002040): Pois é, rapaz, se havia dúvidas sobre o quanto amo ouvi-la e a admiro, agora não há mais né? Hahahahha"
+        "Dany (262182034002040): Pois é, rapaz, se havia dúvidas sobre o quanto amo ouvi-la e a admiro, agora não há mais né? Hahahahha",
+        "Camila Designer (92629643563147): Que a sua batata está assando 🤣🤣🤣",
+        "Dany (262182034002040): Ihhhh gente mds"
       ]
     },
     "120363428464897153@g.us": {
@@ -15898,12 +15898,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "205621945192508",
-        "authorName": "Jennifer🦋",
-        "text": "Tooooooopp",
-        "timestamp": 1787870451993
-      },
-      {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Maravilha, obrigada",
@@ -16178,6 +16172,18 @@
         "authorName": "Dany",
         "text": "Pois é, rapaz, se havia dúvidas sobre o quanto amo ouvi-la e a admiro, agora não há mais né? Hahahahha",
         "timestamp": 1787872235280
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Que a sua batata está assando 🤣🤣🤣",
+        "timestamp": 1787872283062
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Ihhhh gente mds",
+        "timestamp": 1787872301294
       }
     ],
     "120363428464897153@g.us": [],
@@ -16407,7 +16413,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20779,
+    "120363432018531082@g.us": 20781,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1649,
@@ -135240,6 +135246,18 @@
         "text": "Pois é, rapaz, se havia dúvidas sobre o quanto amo ouvi-la e a admiro, agora não há mais né? Hahahahha",
         "pushName": "Dany",
         "timestamp": 1787872235281
+      },
+      "2A1D4132A592D997BF24": {
+        "sender": "92629643563147@lid",
+        "text": "Que a sua batata está assando 🤣🤣🤣",
+        "pushName": "Camila Designer",
+        "timestamp": 1787872283063
+      },
+      "3AC2E884014DC309774B": {
+        "sender": "262182034002040@lid",
+        "text": "Ihhhh gente mds",
+        "pushName": "Dany",
+        "timestamp": 1787872301294
       }
     },
     "120363428464897153@g.us": {
@@ -184025,7 +184043,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787872244356,
+    "120363432018531082@g.us": 1787872301294,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787872064930,
