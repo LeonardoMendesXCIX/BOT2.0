@@ -241,9 +241,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2127,
+        "text": 2128,
         "media": 277,
-        "total": 2404
+        "total": 2405
       },
       "252922705240205": {
         "text": 80,
@@ -256,9 +256,9 @@
         "total": 457
       },
       "262182034002040": {
-        "text": 1841,
+        "text": 1842,
         "media": 119,
-        "total": 1960
+        "total": 1961
       },
       "219245581488326": {
         "text": 4,
@@ -2651,9 +2651,9 @@
         "total": 11
       },
       "208958782488665": {
-        "text": 1,
+        "text": 2,
         "media": 1,
-        "total": 2
+        "total": 3
       }
     },
     "120363428464897153@g.us": {
@@ -9139,9 +9139,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Neto prime (238233849983072): Demais kkk",
-        "Camila Viana (188845719089205): Mas da próxima vez,  vai na Lapa rs",
-        "Camila Viana (188845719089205): Bar do Omar",
         "Neto prime (238233849983072): Vou agora pra Brasília … vida aí é caro as coisas @266048007835881 kkkkkk",
         "Camila Viana (188845719089205): Bafo do Prainha",
         "Alexandre Bastos (75797868064796): Muito bom la",
@@ -9638,7 +9635,10 @@
         "Jessica (208958782488665): Vim pela fofoca",
         "F. RicaRdo sAnToS (193729163993156): Bem vinda",
         "Rafael Moura (57707230945348): Ja acabou",
-        "Rafael Moura (57707230945348): Mas no cabaré eu acho que vai continuar 😏"
+        "Rafael Moura (57707230945348): Mas no cabaré eu acho que vai continuar 😏",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Muito bem vinda!",
+        "Dany (262182034002040): Há diversas por aqui! Bem-vinda, conterrânea!",
+        "Jessica (208958782488665): Eitaaa"
       ]
     },
     "120363428464897153@g.us": {
@@ -16284,17 +16284,29 @@
         "authorName": "Rafael Moura",
         "text": "Mas no cabaré eu acho que vai continuar 😏",
         "timestamp": 1787867087758
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Muito bem vinda!",
+        "timestamp": 1787867111704
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Há diversas por aqui! Bem-vinda, conterrânea!",
+        "timestamp": 1787867134036
+      },
+      {
+        "authorNum": "208958782488665",
+        "authorName": "Jessica",
+        "text": "Eitaaa",
+        "timestamp": 1787867134658
       }
     ],
     "120363428464897153@g.us": [],
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Tá sempre atrasado",
-        "timestamp": 1787865029188
-      },
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
@@ -16322,7 +16334,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20538,
+    "120363432018531082@g.us": 20541,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1543,
@@ -133716,6 +133728,24 @@
         "text": "Mas no cabaré eu acho que vai continuar 😏",
         "pushName": "Rafael Moura",
         "timestamp": 1787867087758
+      },
+      "ACA4E7F9EA084BF550D66A951472E403": {
+        "sender": "53537388122141@lid",
+        "text": "Muito bem vinda!",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787867111704
+      },
+      "3AD037BD99BC09E2EC50": {
+        "sender": "262182034002040@lid",
+        "text": "Há diversas por aqui! Bem-vinda, conterrânea!",
+        "pushName": "Dany",
+        "timestamp": 1787867134036
+      },
+      "AC1BBCB2A7049EDA22C9D6752C363EB3": {
+        "sender": "208958782488665@lid",
+        "text": "Eitaaa",
+        "pushName": "Jessica",
+        "timestamp": 1787867134658
       }
     },
     "120363428464897153@g.us": {
@@ -181859,7 +181889,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787867087758,
+    "120363432018531082@g.us": 1787867134658,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787865477162,
