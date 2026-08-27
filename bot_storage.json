@@ -2453,9 +2453,9 @@
         "total": 5
       },
       "190864487919667": {
-        "text": 31,
+        "text": 32,
         "media": 12,
-        "total": 43
+        "total": 44
       },
       "82227819987089": {
         "text": 2,
@@ -2486,6 +2486,11 @@
         "text": 0,
         "media": 1,
         "total": 1
+      },
+      "188845719089205": {
+        "text": 2,
+        "media": 0,
+        "total": 2
       }
     },
     "120363428464897153@g.us": {
@@ -9368,7 +9373,9 @@
         "Camila Designer (92629643563147): Gente remove essa tentação por favor! Não quero me corromper 🫣🫣🫣",
         "Gabriel (145381035905262): Bem vinda garota!",
         "Gabriel (145381035905262): E aí pessoal cheguei!",
-        "Camila Designer (92629643563147): @190864487919667 👀👀👀"
+        "Camila Designer (92629643563147): @190864487919667 👀👀👀",
+        "Camila Viana (188845719089205): Aqui é maravilhosooo",
+        "Souza (190864487919667): Rapaz"
       ]
     },
     "120363428464897153@g.us": {
@@ -15476,6 +15483,18 @@
         "authorName": "Camila Designer",
         "text": "@190864487919667 👀👀👀",
         "timestamp": 1787855711564
+      },
+      {
+        "authorNum": "188845719089205",
+        "authorName": "Camila Viana",
+        "text": "Aqui é maravilhosooo",
+        "timestamp": 1787855737013
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Rapaz",
+        "timestamp": 1787855759250
       }
     ],
     "120363428464897153@g.us": [],
@@ -15493,7 +15512,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20014,
+    "120363432018531082@g.us": 20016,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -129791,6 +129810,18 @@
         "text": "@190864487919667 👀👀👀",
         "pushName": "Camila Designer",
         "timestamp": 1787855711564
+      },
+      "A5FE0D041D377F944B55F73868863364": {
+        "sender": "188845719089205@lid",
+        "text": "Aqui é maravilhosooo",
+        "pushName": "Camila Viana",
+        "timestamp": 1787855737013
+      },
+      "AC818CF5C8A1568670D45225067D3BAA": {
+        "sender": "190864487919667@lid",
+        "text": "Rapaz",
+        "pushName": "Souza",
+        "timestamp": 1787855759251
       }
     },
     "120363428464897153@g.us": {
@@ -177542,7 +177573,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787855711564,
+    "120363432018531082@g.us": 1787855759250,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
