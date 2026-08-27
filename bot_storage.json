@@ -346,9 +346,9 @@
         "total": 479
       },
       "222595437858867": {
-        "text": 493,
+        "text": 494,
         "media": 53,
-        "total": 546
+        "total": 547
       },
       "83280154103884": {
         "text": 36,
@@ -9154,7 +9154,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Deixo pra morrer sozinha 😂",
         "Rafael Moura (57707230945348): Acompanhando essa treta toda",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Capaz se a mulher morrer primeiro ele vai no velório com a outra",
         "Pedro Henrique (172868239380659): Ahh, que massa!",
@@ -9653,7 +9652,8 @@
         "Souza (190864487919667): Já tá tu descobre",
         "Juliano Perlin (222595437858867): To perguntando de onde ela veio🤣🤣🤣",
         "Souza (190864487919667): Tá me achando com cara de jornal pra vim trazer informação?",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): 👀👀👀"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): 👀👀👀",
+        "Juliano Perlin (222595437858867): Nunca vi essa criatura aqui"
       ]
     },
     "120363428464897153@g.us": {
@@ -15918,24 +15918,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "262182034002040",
-        "authorName": "Dany",
-        "text": "Medo",
-        "timestamp": 1787873135245
-      },
-      {
-        "authorNum": "262182034002040",
-        "authorName": "Dany",
-        "text": "Justo",
-        "timestamp": 1787873140583
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Mostra ai",
-        "timestamp": 1787873153838
-      },
-      {
         "authorNum": "172868239380659",
         "authorName": "Pedro Henrique",
         "text": "Sabe muito",
@@ -16552,6 +16534,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "👀👀👀",
         "timestamp": 1787874931421
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Nunca vi essa criatura aqui",
+        "timestamp": 1787874959321
       }
     ],
     "120363428464897153@g.us": [],
@@ -16685,7 +16673,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20892,
+    "120363432018531082@g.us": 20893,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1669,
@@ -136190,6 +136178,12 @@
         "text": "👀👀👀",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787874931422
+      },
+      "ACEAEE752CA4122DDEC09E958A250DC1": {
+        "sender": "222595437858867@lid",
+        "text": "Nunca vi essa criatura aqui",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1787874959322
       }
     },
     "120363428464897153@g.us": {
@@ -185095,7 +185089,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787874931421,
+    "120363432018531082@g.us": 1787874959321,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787874702269,
