@@ -23,19 +23,19 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1510,
-        "media": 422,
-        "total": 1932
+        "text": 1511,
+        "media": 423,
+        "total": 1934
       },
       "81991328395336": {
-        "text": 3764,
+        "text": 3765,
         "media": 1262,
-        "total": 5026
+        "total": 5027
       },
       "179040627490824": {
         "text": 423,
-        "media": 81,
-        "total": 504
+        "media": 82,
+        "total": 505
       },
       "145381035905262": {
         "text": 2152,
@@ -254,8 +254,8 @@
       },
       "60851868446964": {
         "text": 1228,
-        "media": 1424,
-        "total": 2652
+        "media": 1425,
+        "total": 2653
       },
       "270377049690114": {
         "text": 36,
@@ -1868,9 +1868,9 @@
         "total": 6
       },
       "129158944415753": {
-        "text": 43,
+        "text": 45,
         "media": 3,
-        "total": 46
+        "total": 48
       },
       "276003205152992": {
         "text": 5,
@@ -9218,7 +9218,10 @@
         "Baby (179040627490824): Oi povo",
         "Celiete Souza (129373172711439): Voa @92629643563147 🔥",
         "massagista tântrico (129158944415753): Sim chuva leve",
-        "Camila Designer (92629643563147): Acho que vou fazer um bate volta para o Rio esse fim de semana"
+        "Camila Designer (92629643563147): Acho que vou fazer um bate volta para o Rio esse fim de semana",
+        "Celiete Souza (129373172711439): Tenho que trabalhar, fui kkkk",
+        "massagista tântrico (129158944415753): Oque você gosta de comer meu anjo",
+        "massagista tântrico (129158944415753): Montarei um banquete a sua altura"
       ]
     },
     "120363428464897153@g.us": {
@@ -15752,6 +15755,24 @@
         "authorName": "Camila Designer",
         "text": "Acho que vou fazer um bate volta para o Rio esse fim de semana",
         "timestamp": 1787846001615
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Tenho que trabalhar, fui kkkk",
+        "timestamp": 1787846033134
+      },
+      {
+        "authorNum": "129158944415753",
+        "authorName": "massagista tântrico",
+        "text": "Oque você gosta de comer meu anjo",
+        "timestamp": 1787846036224
+      },
+      {
+        "authorNum": "129158944415753",
+        "authorName": "massagista tântrico",
+        "text": "Montarei um banquete a sua altura",
+        "timestamp": 1787846045622
       }
     ],
     "120363428464897153@g.us": [],
@@ -15812,7 +15833,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19894,
+    "120363432018531082@g.us": 19897,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -129390,6 +129411,24 @@
         "text": "Acho que vou fazer um bate volta para o Rio esse fim de semana",
         "pushName": "Camila Designer",
         "timestamp": 1787846001615
+      },
+      "AC758D8F1A528AF25CEE7E3F9DB7A3A1": {
+        "sender": "129373172711439@lid",
+        "text": "Tenho que trabalhar, fui kkkk",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787846033134
+      },
+      "A559698EBD0BA9209C553811AE1A4763": {
+        "sender": "129158944415753@lid",
+        "text": "Oque você gosta de comer meu anjo",
+        "pushName": "massagista tântrico",
+        "timestamp": 1787846036224
+      },
+      "A580B3B3677B0B6C813B46E4CC7C7CCD": {
+        "sender": "129158944415753@lid",
+        "text": "Montarei um banquete a sua altura",
+        "pushName": "massagista tântrico",
+        "timestamp": 1787846045622
       }
     },
     "120363428464897153@g.us": {
@@ -177141,7 +177180,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787846025605,
+    "120363432018531082@g.us": 1787846059521,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
