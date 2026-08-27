@@ -2453,9 +2453,9 @@
         "total": 5
       },
       "190864487919667": {
-        "text": 37,
+        "text": 39,
         "media": 12,
-        "total": 49
+        "total": 51
       },
       "82227819987089": {
         "text": 2,
@@ -8986,7 +8986,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Isso",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Toma qual?",
         "gigi✨ (60851868446964): Toma chá de maracujá é muito bom",
         "Baby (179040627490824): n me ajuda so se eu tomar bastante e olha la",
@@ -9485,7 +9484,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): 👀👀",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Ahh, pertinho até",
         "Bruno Aguiar (+1395881181241): Uns 1000km kkkk",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Kkkkkk pô, galera de SP, RJ, nordeste... Da pra dizer que é perto kkkkk"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Kkkkkk pô, galera de SP, RJ, nordeste... Da pra dizer que é perto kkkkk",
+        "Souza (190864487919667): Cadê o link fixado?"
       ]
     },
     "120363428464897153@g.us": {
@@ -15570,12 +15570,6 @@
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Muita gente nova né kk grupo diferente",
-        "timestamp": 1787857677379
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "💥 BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Queremos conhecer você! ✨\n\n📸 Sua foto:\n💬 Nome:\n🎂 Idade:\n📍 De onde sou:\n\n*🫶🏻 Seja bem-vindo(a)!*\n\n✨ Sinta-se à vontade para interagir, conhecer a galera e fazer novas amizades! 🤝\n\n❌ *PROIBIDO A INVASÃO DE PRIVADO, sem autorização* ❌\n\n@253691454091366",
         "timestamp": 1787857714440
       },
@@ -16148,6 +16142,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Kkkkkk pô, galera de SP, RJ, nordeste... Da pra dizer que é perto kkkkk",
         "timestamp": 1787859439185
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Cadê o link fixado?",
+        "timestamp": 1787859480023
       }
     ],
     "120363428464897153@g.us": [],
@@ -16244,7 +16244,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20186,
+    "120363432018531082@g.us": 20187,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1493,
@@ -131564,6 +131564,12 @@
         "text": "Kkkkkk pô, galera de SP, RJ, nordeste... Da pra dizer que é perto kkkkk",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787859439185
+      },
+      "AC66C4D01406D57D9FAD3E0FAC581796": {
+        "sender": "190864487919667@lid",
+        "text": "Cadê o link fixado?",
+        "pushName": "Souza",
+        "timestamp": 1787859480023
       }
     },
     "120363428464897153@g.us": {
@@ -179393,7 +179399,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787859454424,
+    "120363432018531082@g.us": 1787859480023,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787859082635,
