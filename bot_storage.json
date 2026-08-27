@@ -241,9 +241,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2167,
+        "text": 2168,
         "media": 282,
-        "total": 2449
+        "total": 2450
       },
       "252922705240205": {
         "text": 80,
@@ -256,9 +256,9 @@
         "total": 463
       },
       "262182034002040": {
-        "text": 1862,
+        "text": 1863,
         "media": 121,
-        "total": 1983
+        "total": 1984
       },
       "219245581488326": {
         "text": 4,
@@ -9154,7 +9154,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Pedro Henrique (172868239380659): Tá tendo treta ? poha, cheguei tarde",
         "🙃🙃🙃 (11171897864256): Como estão todos??",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Por enquanto, acabou a treta",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Tranquilo e aí?",
@@ -9653,7 +9652,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): A casa é linda mesmo\nEu morando aí ia ser combo completo 😂😂😂",
         "Gleydson Souza (274384656834700): Fisgou ele ja sabrina",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Tô vendo",
-        "Gabriel (145381035905262): Bagatela de R$ 9.990.000 M \n\nÉ sua agora!"
+        "Gabriel (145381035905262): Bagatela de R$ 9.990.000 M \n\nÉ sua agora!",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Meu sonho"
       ]
     },
     "120363428464897153@g.us": {
@@ -16271,6 +16271,12 @@
         "authorName": "Gabriel",
         "text": "Bagatela de R$ 9.990.000 M \n\nÉ sua agora!",
         "timestamp": 1787873711572
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Meu sonho",
+        "timestamp": 1787873733993
       }
     ],
     "120363428464897153@g.us": [],
@@ -16410,7 +16416,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20832,
+    "120363432018531082@g.us": 20833,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1664,
@@ -135555,6 +135561,12 @@
         "text": "Bagatela de R$ 9.990.000 M \n\nÉ sua agora!",
         "pushName": "Gabriel",
         "timestamp": 1787873711572
+      },
+      "AC5F4211F6A8B5D634FBBA14B63F0842": {
+        "sender": "53537388122141@lid",
+        "text": "Meu sonho",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787873733994
       }
     },
     "120363428464897153@g.us": {
@@ -184430,7 +184442,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787873711572,
+    "120363432018531082@g.us": 1787873750645,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787873603321,
