@@ -2581,9 +2581,9 @@
         "total": 3
       },
       "187097969348735": {
-        "text": 4,
+        "text": 5,
         "media": 1,
-        "total": 5
+        "total": 6
       },
       "238233849983072": {
         "text": 36,
@@ -9104,7 +9104,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Sejam todos bem vindos ao *Hospício mais feliz*🤝😂🤌🏾",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Ben vindo",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Sejam todos bem vindos ao hospício gratiluz",
         "Breno (234324976738434): Obrigado",
@@ -9603,7 +9602,8 @@
         "🗝️🔒 (93970126397545): Kkkkkk",
         "🗝️🔒 (93970126397545): 🗣️🗣️🗣️🗣️🗣️",
         "Gleydson Souza (274384656834700): Vish kkkk\nMC e quase sempre assim.\n\nCmg foi empresa de impressora demoraram tanto que ate o chefe foi envolvido kkkkk",
-        " (120363432018531082): Vish kkkk\nMC e quase sempre assim.\n\nCmg foi empresa de impressora demoraram tanto que ate o chefe foi envolvido kkkkk"
+        " (120363432018531082): Vish kkkk\nMC e quase sempre assim.\n\nCmg foi empresa de impressora demoraram tanto que ate o chefe foi envolvido kkkkk",
+        "Jonathan Bráulio (187097969348735): Sem or kkkkkkkkkkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -16154,6 +16154,12 @@
         "authorName": "",
         "text": "Vish kkkk\nMC e quase sempre assim.\n\nCmg foi empresa de impressora demoraram tanto que ate o chefe foi envolvido kkkkk",
         "timestamp": 1787862273315
+      },
+      {
+        "authorNum": "187097969348735",
+        "authorName": "Jonathan Bráulio",
+        "text": "Sem or kkkkkkkkkkk",
+        "timestamp": 1787862279378
       }
     ],
     "120363428464897153@g.us": [],
@@ -16257,7 +16263,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20302,
+    "120363432018531082@g.us": 20303,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1517,
@@ -132248,6 +132254,12 @@
         "text": "Vish kkkk\nMC e quase sempre assim.\n\nCmg foi empresa de impressora demoraram tanto que ate o chefe foi envolvido kkkkk",
         "pushName": "",
         "timestamp": 1787862273315
+      },
+      "AC56DEE36153B53D144272B1BFAADB93": {
+        "sender": "187097969348735@lid",
+        "text": "Sem or kkkkkkkkkkk",
+        "pushName": "Jonathan Bráulio",
+        "timestamp": 1787862279378
       }
     },
     "120363428464897153@g.us": {
@@ -180227,7 +180239,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787862273315,
+    "120363432018531082@g.us": 1787862279378,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787862200815,
