@@ -253,9 +253,9 @@
         "total": 3
       },
       "60851868446964": {
-        "text": 1238,
+        "text": 1239,
         "media": 1437,
-        "total": 2675
+        "total": 2676
       },
       "270377049690114": {
         "text": 36,
@@ -2453,9 +2453,9 @@
         "total": 5
       },
       "190864487919667": {
-        "text": 16,
-        "media": 5,
-        "total": 21
+        "text": 17,
+        "media": 6,
+        "total": 23
       },
       "82227819987089": {
         "text": 1,
@@ -9284,7 +9284,9 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): O massagista saiu",
         "Souza (190864487919667): Oi.",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Aoba",
-        "Baby (179040627490824): Vixiiii"
+        "Baby (179040627490824): Vixiiii",
+        "gigi✨ (60851868446964): Ele queria fazer umas massagens erodi.....",
+        "Souza (190864487919667): Pra tu ver, só o sol escaldante"
       ]
     },
     "120363428464897153@g.us": {
@@ -15352,12 +15354,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Mas eu não quero ser apenas cliente 😏😏😏",
-        "timestamp": 1787845097314
-      },
-      {
         "authorNum": "129158944415753",
         "authorName": "massagista tântrico",
         "text": "Seremos oque você quiser bb",
@@ -16046,6 +16042,18 @@
         "authorName": "Baby",
         "text": "Vixiiii",
         "timestamp": 1787846896805
+      },
+      {
+        "authorNum": "60851868446964",
+        "authorName": "gigi✨",
+        "text": "Ele queria fazer umas massagens erodi.....",
+        "timestamp": 1787846909558
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Pra tu ver, só o sol escaldante",
+        "timestamp": 1787846910008
       }
     ],
     "120363428464897153@g.us": [],
@@ -16063,7 +16071,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19955,
+    "120363432018531082@g.us": 19957,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -130007,6 +130015,18 @@
         "text": "Vixiiii",
         "pushName": "Baby",
         "timestamp": 1787846896808
+      },
+      "ACA47F2BA1895E240EBB7954F30EF0EB": {
+        "sender": "60851868446964@lid",
+        "text": "Ele queria fazer umas massagens erodi.....",
+        "pushName": "gigi✨",
+        "timestamp": 1787846909559
+      },
+      "AC6F3B71557AB5F918318B738A561AB7": {
+        "sender": "190864487919667@lid",
+        "text": "Pra tu ver, só o sol escaldante",
+        "pushName": "Souza",
+        "timestamp": 1787846910008
       }
     },
     "120363428464897153@g.us": {
@@ -177758,7 +177778,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787846896805,
+    "120363432018531082@g.us": 1787846921213,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
