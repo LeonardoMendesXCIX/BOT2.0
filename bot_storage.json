@@ -38,9 +38,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2152,
+        "text": 2154,
         "media": 464,
-        "total": 2616
+        "total": 2618
       },
       "184237705699536": {
         "text": 524,
@@ -103,9 +103,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1445,
+        "text": 1446,
         "media": 1079,
-        "total": 2524
+        "total": 2525
       },
       "3126803329115": {
         "text": 87,
@@ -1353,9 +1353,9 @@
         "total": 157
       },
       "266048007835881": {
-        "text": 539,
-        "media": 244,
-        "total": 783
+        "text": 541,
+        "media": 245,
+        "total": 786
       },
       "123120354635955": {
         "text": 4,
@@ -2468,6 +2468,21 @@
         "total": 3
       },
       "187097969348735": {
+        "text": 0,
+        "media": 1,
+        "total": 1
+      },
+      "238233849983072": {
+        "text": 2,
+        "media": 0,
+        "total": 2
+      },
+      "75797868064796": {
+        "text": 0,
+        "media": 1,
+        "total": 1
+      },
+      "153764728184839": {
         "text": 0,
         "media": 1,
         "total": 1
@@ -9347,7 +9362,12 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bom que poupou uma remoção",
         "Souza (190864487919667): Aí desandou depois",
         "Camila Designer (92629643563147): Opa, esse DDD é aqui de perto 🤣🤣🤣",
-        "🎀  Ň𝐘ηａ🐆 (266048007835881): Quer, que todo mundo Aki arrumei um namorado"
+        "🎀  Ň𝐘ηａ🐆 (266048007835881): Quer, que todo mundo Aki arrumei um namorado",
+        "Neto prime (238233849983072): A gente já se arrumou né vida",
+        "Neto prime (238233849983072): Hahahaha",
+        "Camila Designer (92629643563147): Gente remove essa tentação por favor! Não quero me corromper 🫣🫣🫣",
+        "Gabriel (145381035905262): Bem vinda garota!",
+        "Gabriel (145381035905262): E aí pessoal cheguei!"
       ]
     },
     "120363428464897153@g.us": {
@@ -15419,6 +15439,36 @@
         "authorName": "🎀  Ň𝐘ηａ🐆",
         "text": "Quer, que todo mundo Aki arrumei um namorado",
         "timestamp": 1787855634132
+      },
+      {
+        "authorNum": "238233849983072",
+        "authorName": "Neto prime",
+        "text": "A gente já se arrumou né vida",
+        "timestamp": 1787855660494
+      },
+      {
+        "authorNum": "238233849983072",
+        "authorName": "Neto prime",
+        "text": "Hahahaha",
+        "timestamp": 1787855663317
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Gente remove essa tentação por favor! Não quero me corromper 🫣🫣🫣",
+        "timestamp": 1787855671870
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Bem vinda garota!",
+        "timestamp": 1787855671995
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "E aí pessoal cheguei!",
+        "timestamp": 1787855681512
       }
     ],
     "120363428464897153@g.us": [],
@@ -15436,7 +15486,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20008,
+    "120363432018531082@g.us": 20013,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -129698,6 +129748,36 @@
         "text": "Quer, que todo mundo Aki arrumei um namorado",
         "pushName": "🎀  Ň𝐘ηａ🐆",
         "timestamp": 1787855634133
+      },
+      "2AC573BC5CABF01B868E": {
+        "sender": "238233849983072@lid",
+        "text": "A gente já se arrumou né vida",
+        "pushName": "Neto prime",
+        "timestamp": 1787855660495
+      },
+      "2AAB29ABB817E507EE8D": {
+        "sender": "238233849983072@lid",
+        "text": "Hahahaha",
+        "pushName": "Neto prime",
+        "timestamp": 1787855663317
+      },
+      "2AA30B9A1A6481366C32": {
+        "sender": "92629643563147@lid",
+        "text": "Gente remove essa tentação por favor! Não quero me corromper 🫣🫣🫣",
+        "pushName": "Camila Designer",
+        "timestamp": 1787855671870
+      },
+      "ACCEA900166068C2574822DE8DA7F31E": {
+        "sender": "145381035905262@lid",
+        "text": "Bem vinda garota!",
+        "pushName": "Gabriel",
+        "timestamp": 1787855671995
+      },
+      "ACB025E067B6228F15FE3057CC0ACDD9": {
+        "sender": "145381035905262@lid",
+        "text": "E aí pessoal cheguei!",
+        "pushName": "Gabriel",
+        "timestamp": 1787855681512
       }
     },
     "120363428464897153@g.us": {
@@ -177449,7 +177529,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787855634132,
+    "120363432018531082@g.us": 1787855681776,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
