@@ -661,9 +661,9 @@
         "total": 95
       },
       "57707230945348": {
-        "text": 1121,
+        "text": 1122,
         "media": 198,
-        "total": 1319
+        "total": 1320
       },
       "152218690924790": {
         "text": 309,
@@ -2622,13 +2622,13 @@
       },
       "274384656834700": {
         "text": 24,
-        "media": 4,
-        "total": 28
+        "media": 5,
+        "total": 29
       },
       "172868239380659": {
-        "text": 22,
-        "media": 6,
-        "total": 28
+        "text": 23,
+        "media": 7,
+        "total": 30
       },
       "170455038193841": {
         "text": 1,
@@ -9114,8 +9114,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Dany (262182034002040): Eu e o Gus ficamos 10h em ligação na 2a vez que nos ligamos \nConectei no carregador umas 3x hahhahahah",
-        "Dany (262182034002040): Mas é isso mesmo hahahah",
         "Souza (190864487919667): Como estão de calor por aí na cidade de vocês?",
         "gigi✨ (60851868446964): HAHAHAHAH",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Terrível",
@@ -9613,7 +9611,9 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Kkkkkkkkkkkkk",
         "Gleydson Souza (274384656834700): Ate onde eu vi vc kkkkkk e a outra querendo briga",
         "Gleydson Souza (274384656834700): Mas bom to so",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Muito bem 😌"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Muito bem 😌",
+        "Rafael Moura (57707230945348): Amigo nao se complica....",
+        "Pedro Henrique (172868239380659): É falta de coisar"
       ]
     },
     "120363428464897153@g.us": {
@@ -16337,6 +16337,18 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Muito bem 😌",
         "timestamp": 1787864695544
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Amigo nao se complica....",
+        "timestamp": 1787864710949
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "É falta de coisar",
+        "timestamp": 1787864723800
       }
     ],
     "120363428464897153@g.us": [],
@@ -16493,7 +16505,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20417,
+    "120363432018531082@g.us": 20419,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1540,
@@ -133173,6 +133185,18 @@
         "text": "Muito bem 😌",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787864695544
+      },
+      "ACAD9F57C967F8BB3F2CD637DE952B33": {
+        "sender": "57707230945348@lid",
+        "text": "Amigo nao se complica....",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787864710949
+      },
+      "AC4808CA533CEC0CD8F73F4931331B7D": {
+        "sender": "172868239380659@lid",
+        "text": "É falta de coisar",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787864723800
       }
     },
     "120363428464897153@g.us": {
@@ -181290,7 +181314,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787864695698,
+    "120363432018531082@g.us": 1787864735518,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787864476741,
