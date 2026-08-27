@@ -226,9 +226,9 @@
         "total": 105
       },
       "118395236282617": {
-        "text": 381,
+        "text": 382,
         "media": 142,
-        "total": 523
+        "total": 524
       },
       "248773146108144": {
         "text": 24,
@@ -2566,9 +2566,9 @@
         "total": 20
       },
       "190864487919667": {
-        "text": 111,
+        "text": 112,
         "media": 22,
-        "total": 133
+        "total": 134
       },
       "82227819987089": {
         "text": 2,
@@ -3298,8 +3298,8 @@
     "120363412288900422@g.us": {
       "81991328395336": {
         "text": 385,
-        "media": 110,
-        "total": 495
+        "media": 111,
+        "total": 496
       },
       "5511927018683": {
         "text": 435,
@@ -9149,8 +9149,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "'   MƲRIԼԼƠ  🥶 (111506477846600): Nuss",
-        "'   MƲRIԼԼƠ  🥶 (111506477846600): Agressividade",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Obrigada amiga cãozinho kkk",
         "'   MƲRIԼԼƠ  🥶 (111506477846600): Com os novato",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Aqui nós mete bala",
@@ -9648,7 +9646,9 @@
         "Souza (190864487919667): Se mataaaaaaa",
         "Souza (190864487919667): Onde?",
         "Caroline (118395236282617): Aqui aonde eu moro",
-        "Souza (190864487919667): Queria"
+        "Souza (190864487919667): Queria",
+        "Caroline (118395236282617): queria calor",
+        "Souza (190864487919667): Rapaz, caia em Brasília"
       ]
     },
     "120363428464897153@g.us": {
@@ -15797,24 +15797,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "208958782488665",
-        "authorName": "Jessica",
-        "text": "Vim pela fofoca",
-        "timestamp": 1787867058419
-      },
-      {
-        "authorNum": "193729163993156",
-        "authorName": "F. RicaRdo sAnToS",
-        "text": "Bem vinda",
-        "timestamp": 1787867064043
-      },
-      {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Ja acabou",
-        "timestamp": 1787867070792
-      },
-      {
         "authorNum": "57707230945348",
         "authorName": "Rafael Moura",
         "text": "Mas no cabaré eu acho que vai continuar 😏",
@@ -16371,6 +16353,18 @@
         "authorName": "Souza",
         "text": "Queria",
         "timestamp": 1787868842429
+      },
+      {
+        "authorNum": "118395236282617",
+        "authorName": "Caroline",
+        "text": "queria calor",
+        "timestamp": 1787868866258
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Rapaz, caia em Brasília",
+        "timestamp": 1787868879479
       }
     ],
     "120363428464897153@g.us": [],
@@ -16457,7 +16451,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20630,
+    "120363432018531082@g.us": 20632,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1553,
@@ -134402,6 +134396,18 @@
         "text": "Queria",
         "pushName": "Souza",
         "timestamp": 1787868842429
+      },
+      "AC24CB679451925754B7378C4C186F7C": {
+        "sender": "118395236282617@lid",
+        "text": "queria calor",
+        "pushName": "Caroline",
+        "timestamp": 1787868866258
+      },
+      "ACC13B8D6F560F29B2B3103D8BF3CFF0": {
+        "sender": "190864487919667@lid",
+        "text": "Rapaz, caia em Brasília",
+        "pushName": "Souza",
+        "timestamp": 1787868879479
       }
     },
     "120363428464897153@g.us": {
@@ -182611,10 +182617,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787868842429,
+    "120363432018531082@g.us": 1787868879479,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787868795595,
+    "120363412288900422@g.us": 1787868866394,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
