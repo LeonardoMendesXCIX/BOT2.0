@@ -256,9 +256,9 @@
         "total": 463
       },
       "262182034002040": {
-        "text": 1847,
+        "text": 1848,
         "media": 119,
-        "total": 1966
+        "total": 1967
       },
       "219245581488326": {
         "text": 4,
@@ -2561,9 +2561,9 @@
         "total": 2
       },
       "11171897864256": {
-        "text": 19,
+        "text": 20,
         "media": 1,
-        "total": 20
+        "total": 21
       },
       "190864487919667": {
         "text": 152,
@@ -9154,8 +9154,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Souza (190864487919667): Já",
-        "Gabriel Ohi (90130358485223): Viraram camisa de saudades kkkkkkk",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): F",
         "Gabriel Ohi (90130358485223): Faleceram kkkkk um minuto de silêncio pra esse povo",
         "Souza (190864487919667): Já quero é ir embora",
@@ -9653,7 +9651,9 @@
         "Gleydson Souza (274384656834700): Escuto as vezes apenas",
         "Gleydson Souza (274384656834700): E aonde?",
         "Gabriel (145381035905262): Porra, agora vi que tu gosta mesmo",
-        "Dany (262182034002040): Recomendo as músicas dela hehehhe"
+        "Dany (262182034002040): Recomendo as músicas dela hehehhe",
+        "Dany (262182034002040): Compreensível",
+        "🙃🙃🙃 (11171897864256): Ol"
       ]
     },
     "120363428464897153@g.us": {
@@ -15898,12 +15898,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "274384656834700",
-        "authorName": "Gleydson Souza",
-        "text": "Vou guardar 1 pedaço pra vc aqui",
-        "timestamp": 1787870381900
-      },
-      {
         "authorNum": "172868239380659",
         "authorName": "Pedro Henrique",
         "text": "Strogonoff",
@@ -16172,6 +16166,18 @@
         "authorName": "Dany",
         "text": "Recomendo as músicas dela hehehhe",
         "timestamp": 1787872165418
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Compreensível",
+        "timestamp": 1787872195593
+      },
+      {
+        "authorNum": "11171897864256",
+        "authorName": "🙃🙃🙃",
+        "text": "Ol",
+        "timestamp": 1787872198009
       }
     ],
     "120363428464897153@g.us": [],
@@ -16401,7 +16407,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20776,
+    "120363432018531082@g.us": 20778,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1649,
@@ -135216,6 +135222,18 @@
         "text": "Recomendo as músicas dela hehehhe",
         "pushName": "Dany",
         "timestamp": 1787872165418
+      },
+      "3A6276E68833FFB7F003": {
+        "sender": "262182034002040@lid",
+        "text": "Compreensível",
+        "pushName": "Dany",
+        "timestamp": 1787872195593
+      },
+      "AC9E6A7161BFFE566105A811DEBE0D19": {
+        "sender": "11171897864256@lid",
+        "text": "Ol",
+        "pushName": "🙃🙃🙃",
+        "timestamp": 1787872198009
       }
     },
     "120363428464897153@g.us": {
@@ -184001,7 +184019,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787872165418,
+    "120363432018531082@g.us": 1787872198009,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787872064930,
