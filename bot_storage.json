@@ -2621,9 +2621,9 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 40,
+        "text": 41,
         "media": 11,
-        "total": 51
+        "total": 52
       },
       "172868239380659": {
         "text": 54,
@@ -9149,7 +9149,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Gente kkkkkkk eu não dou patada\nEu converso normalmente com qualquer pessoa. Sou um amorzinho de pessoa\nMe conhecendo bem, vocês vão ver que sou bem gente boa 👀",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @53537388122141",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Obrigada o elogiooooo 🤌🏻",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Fazer dar certo só mais essa vez? Vish, quem foi que mandou? 👀\nIdentifique se no Pv 👀",
@@ -9648,7 +9647,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Que tem de janta na casa de vocês aí?",
         "Gleydson Souza (274384656834700): Boa noite",
         "Gleydson Souza (274384656834700): Lasanha",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Poxa, eu quero 😒"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Poxa, eu quero 😒",
+        "Gleydson Souza (274384656834700): Vou guardar 1 pedaço pra vc aqui"
       ]
     },
     "120363428464897153@g.us": {
@@ -16498,6 +16498,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Poxa, eu quero 😒",
         "timestamp": 1787870347296
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Vou guardar 1 pedaço pra vc aqui",
+        "timestamp": 1787870381900
       }
     ],
     "120363428464897153@g.us": [],
@@ -16943,7 +16949,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20730,
+    "120363432018531082@g.us": 20731,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1614,
@@ -135482,6 +135488,12 @@
         "text": "Poxa, eu quero 😒",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787870347296
+      },
+      "AC11AD50E8EAEC3180CCED2F7652F7F7": {
+        "sender": "274384656834700@lid",
+        "text": "Vou guardar 1 pedaço pra vc aqui",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787870381901
       }
     },
     "120363428464897153@g.us": {
@@ -184057,7 +184069,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787870356083,
+    "120363432018531082@g.us": 1787870381900,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787870194929,
