@@ -28,9 +28,9 @@
         "total": 1934
       },
       "81991328395336": {
-        "text": 3775,
+        "text": 3776,
         "media": 1265,
-        "total": 5040
+        "total": 5041
       },
       "179040627490824": {
         "text": 433,
@@ -103,9 +103,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1442,
+        "text": 1443,
         "media": 1079,
-        "total": 2521
+        "total": 2522
       },
       "3126803329115": {
         "text": 87,
@@ -228,9 +228,9 @@
         "total": 3
       },
       "163530946961491": {
-        "text": 379,
+        "text": 380,
         "media": 58,
-        "total": 437
+        "total": 438
       },
       "222595437858867": {
         "text": 467,
@@ -2453,19 +2453,19 @@
         "total": 5
       },
       "190864487919667": {
-        "text": 28,
+        "text": 29,
         "media": 11,
-        "total": 39
+        "total": 40
       },
       "82227819987089": {
-        "text": 1,
+        "text": 2,
         "media": 1,
-        "total": 2
+        "total": 3
       },
       "19284436713676": {
         "text": 1,
-        "media": 0,
-        "total": 1
+        "media": 1,
+        "total": 2
       }
     },
     "120363428464897153@g.us": {
@@ -9330,7 +9330,11 @@
         "Souza (190864487919667): Da última vez que chamei alguém, deu ruim",
         "Camila Designer (92629643563147): Gosto de compartilhar com as amigas aqui do grupo 🤣🤣",
         "Souza (190864487919667): Ave Maria",
-        "Camila Designer (92629643563147): Diga mais kkk"
+        "Camila Designer (92629643563147): Diga mais kkk",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Tá aí o motivo da saída",
+        "Souza (190864487919667): Foi uma experiência boa não",
+        "Camila Designer (92629643563147): O que aconteceu?",
+        "Pedro Henrique (82227819987089): Iae mulheres linda e maravilhosas como vocês estão?"
       ]
     },
     "120363428464897153@g.us": {
@@ -15398,12 +15402,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Recuperei minha figurinha",
-        "timestamp": 1787845582492
-      },
-      {
         "authorNum": "129158944415753",
         "authorName": "massagista tântrico",
         "text": "Garanto que chegará lá rss",
@@ -16134,6 +16132,30 @@
         "authorName": "Camila Designer",
         "text": "Diga mais kkk",
         "timestamp": 1787847350948
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Tá aí o motivo da saída",
+        "timestamp": 1787847366647
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Foi uma experiência boa não",
+        "timestamp": 1787847368502
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "O que aconteceu?",
+        "timestamp": 1787847383173
+      },
+      {
+        "authorNum": "82227819987089",
+        "authorName": "Pedro Henrique",
+        "text": "Iae mulheres linda e maravilhosas como vocês estão?",
+        "timestamp": 1787847386325
       }
     ],
     "120363428464897153@g.us": [],
@@ -16151,7 +16173,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19996,
+    "120363432018531082@g.us": 20000,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1479,
@@ -130341,6 +130363,30 @@
         "text": "Diga mais kkk",
         "pushName": "Camila Designer",
         "timestamp": 1787847350948
+      },
+      "AC22573AB6FC7A95E5ED52035018448F": {
+        "sender": "81991328395336@lid",
+        "text": "Tá aí o motivo da saída",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787847366647
+      },
+      "AC0766E58762B8FE10700F469DDC2C2B": {
+        "sender": "190864487919667@lid",
+        "text": "Foi uma experiência boa não",
+        "pushName": "Souza",
+        "timestamp": 1787847368502
+      },
+      "2A19D9FDEDB535104638": {
+        "sender": "92629643563147@lid",
+        "text": "O que aconteceu?",
+        "pushName": "Camila Designer",
+        "timestamp": 1787847383173
+      },
+      "3ADE2195F166B9FBBD88": {
+        "sender": "82227819987089@lid",
+        "text": "Iae mulheres linda e maravilhosas como vocês estão?",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787847386325
       }
     },
     "120363428464897153@g.us": {
@@ -178092,7 +178138,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787847350948,
+    "120363432018531082@g.us": 1787847393063,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787844214538,
