@@ -151,9 +151,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2163,
+        "text": 2164,
         "media": 466,
-        "total": 2629
+        "total": 2630
       },
       "184237705699536": {
         "text": 524,
@@ -251,9 +251,9 @@
         "total": 99
       },
       "233161007071346": {
-        "text": 408,
+        "text": 409,
         "media": 48,
-        "total": 456
+        "total": 457
       },
       "262182034002040": {
         "text": 1841,
@@ -2636,9 +2636,9 @@
         "total": 3
       },
       "193729163993156": {
-        "text": 5,
+        "text": 6,
         "media": 1,
-        "total": 6
+        "total": 7
       },
       "151582733820115": {
         "text": 5,
@@ -9134,7 +9134,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Camila Viana (188845719089205): Não é Zona Sul, mas tbm não é um bairro barato rs",
         "Camila Designer (92629643563147): Abre seu olho @266048007835881 👀👀👀",
         "Souza (190864487919667): 👀",
         "Bruno Aguiar (+1395881181241): Seja bem vinda!!",
@@ -9633,7 +9632,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): 👋🏻👋🏻",
         "Pedro Henrique (172868239380659): 👀",
         "Jennifer🦋 (205621945192508): Pode sim",
-        "Gabriel (145381035905262): Só você"
+        "Gabriel (145381035905262): Só você",
+        "Gabriel (145381035905262): Uma em cada grupo 😂😂😂"
       ]
     },
     "120363428464897153@g.us": {
@@ -15771,24 +15771,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "193729163993156",
-        "authorName": "F. RicaRdo sAnToS",
-        "text": "Ricardo\nCasado\n39\n🥼Medicina \n🦁Leonino \n\nSou uma mistura de safadeza, timidez, romantismo.\n\n\"A vida é uma jornada, não um destino\",",
-        "timestamp": 1787864890426
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Bom que aqui é ban",
-        "timestamp": 1787864893771
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Bem vindo",
-        "timestamp": 1787864907463
-      },
-      {
         "authorNum": "81991328395336",
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Bem-vindo jovem casado 🤝🫡",
@@ -16297,6 +16279,12 @@
         "authorName": "Gabriel",
         "text": "Só você",
         "timestamp": 1787866684168
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Uma em cada grupo 😂😂😂",
+        "timestamp": 1787866710390
       }
     ],
     "120363428464897153@g.us": [],
@@ -16341,7 +16329,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20523,
+    "120363432018531082@g.us": 20524,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1543,
@@ -133651,6 +133639,12 @@
         "text": "Só você",
         "pushName": "Gabriel",
         "timestamp": 1787866684168
+      },
+      "ACB3EBC568B3EA155D75DD2F71173DCF": {
+        "sender": "145381035905262@lid",
+        "text": "Uma em cada grupo 😂😂😂",
+        "pushName": "Gabriel",
+        "timestamp": 1787866710391
       }
     },
     "120363428464897153@g.us": {
@@ -181794,7 +181788,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787866684168,
+    "120363432018531082@g.us": 1787866710390,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787865477162,
