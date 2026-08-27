@@ -2566,9 +2566,9 @@
         "total": 20
       },
       "190864487919667": {
-        "text": 71,
+        "text": 74,
         "media": 17,
-        "total": 88
+        "total": 91
       },
       "82227819987089": {
         "text": 2,
@@ -2626,9 +2626,9 @@
         "total": 39
       },
       "172868239380659": {
-        "text": 26,
+        "text": 27,
         "media": 9,
-        "total": 35
+        "total": 36
       },
       "170455038193841": {
         "text": 1,
@@ -9119,9 +9119,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Baby (179040627490824): Seria uma boa",
-        "Souza (190864487919667): Joga essas nuvens pra cá",
-        "🎀  Ň𝐘ηａ🐆 (266048007835881): Essa Camila e o cão mesmo como pode",
         "Camila Designer (92629643563147): Como assim?🤣🤣🤣",
         "Baby (179040627490824): Se desse ksksk",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Eu não sei que coceira é essa que esse homem tem que ele entra e sai",
@@ -9618,7 +9615,10 @@
         "Pedro Henrique (172868239380659): Quer dizer que tu vai dormir no sofá",
         "Pedro Henrique (172868239380659): Ou na casinha do cachorro",
         "Gleydson Souza (274384656834700): Ela ja ta assim mano",
-        "willian (163530946961491): Misericórdia então eu devo me preocupar pensei que ela ia me chamar para jantar na casa dela hoje klkk"
+        "willian (163530946961491): Misericórdia então eu devo me preocupar pensei que ela ia me chamar para jantar na casa dela hoje klkk",
+        "Pedro Henrique (172868239380659): Tu vai ser o jantar",
+        "Souza (190864487919667): KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK",
+        "Souza (190864487919667): Se fudeu"
       ]
     },
     "120363428464897153@g.us": {
@@ -15753,12 +15753,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Gente",
-        "timestamp": 1787863993134
-      },
-      {
         "authorNum": "266048007835881",
         "authorName": "🎀  Ň𝐘ηａ🐆",
         "text": "Tavendo sua  infantilidade... Que horas q eu falei q ele era meu presente de Deus ? Mulher descansa amadurece ...",
@@ -16381,6 +16375,24 @@
         "authorName": "willian",
         "text": "Misericórdia então eu devo me preocupar pensei que ela ia me chamar para jantar na casa dela hoje klkk",
         "timestamp": 1787865789098
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Tu vai ser o jantar",
+        "timestamp": 1787865813639
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK",
+        "timestamp": 1787865814249
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Se fudeu",
+        "timestamp": 1787865816218
       }
     ],
     "120363428464897153@g.us": [],
@@ -16483,7 +16495,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20461,
+    "120363432018531082@g.us": 20464,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1543,
@@ -133426,6 +133438,24 @@
         "text": "Misericórdia então eu devo me preocupar pensei que ela ia me chamar para jantar na casa dela hoje klkk",
         "pushName": "willian",
         "timestamp": 1787865789098
+      },
+      "AC1D02A33E46C0D4F5C00DB44C10F65A": {
+        "sender": "172868239380659@lid",
+        "text": "Tu vai ser o jantar",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787865813639
+      },
+      "AC4E1D9CEF9710AFDBBDCC0F5217D24B": {
+        "sender": "190864487919667@lid",
+        "text": "KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK",
+        "pushName": "Souza",
+        "timestamp": 1787865814249
+      },
+      "ACF6CAF038AE461E7078B3FAB944E261": {
+        "sender": "190864487919667@lid",
+        "text": "Se fudeu",
+        "pushName": "Souza",
+        "timestamp": 1787865816218
       }
     },
     "120363428464897153@g.us": {
@@ -181561,7 +181591,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787865789098,
+    "120363432018531082@g.us": 1787865816217,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787865477162,
