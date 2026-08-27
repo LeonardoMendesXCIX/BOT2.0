@@ -33,9 +33,9 @@
         "total": 4975
       },
       "179040627490824": {
-        "text": 402,
+        "text": 404,
         "media": 80,
-        "total": 482
+        "total": 484
       },
       "145381035905262": {
         "text": 2152,
@@ -254,8 +254,8 @@
       },
       "60851868446964": {
         "text": 1217,
-        "media": 1415,
-        "total": 2632
+        "media": 1416,
+        "total": 2633
       },
       "270377049690114": {
         "text": 36,
@@ -8954,7 +8954,9 @@
         "Baby (179040627490824): eu faso com trufra ajuda um pouco",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Entendi",
         "Baby (179040627490824): a cs tava tudo escura quando foi ver ja era 6 da manha",
-        "Baby (179040627490824): n"
+        "Baby (179040627490824): n",
+        "Baby (179040627490824): pior q n o cll ta desligado",
+        "Baby (179040627490824): acabei de ligar o pc"
       ]
     },
     "120363428464897153@g.us": {
@@ -15229,6 +15231,18 @@
         "authorName": "Baby",
         "text": "n",
         "timestamp": 1787826143942
+      },
+      {
+        "authorNum": "179040627490824",
+        "authorName": "Baby",
+        "text": "pior q n o cll ta desligado",
+        "timestamp": 1787826156077
+      },
+      {
+        "authorNum": "179040627490824",
+        "authorName": "Baby",
+        "text": "acabei de ligar o pc",
+        "timestamp": 1787826165042
       }
     ],
     "120363428464897153@g.us": [],
@@ -15246,7 +15260,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19695,
+    "120363432018531082@g.us": 19697,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1456,
@@ -127646,6 +127660,18 @@
         "text": "n",
         "pushName": "Baby",
         "timestamp": 1787826143943
+      },
+      "3EB0FC08FE14C6AD9D2E1A": {
+        "sender": "179040627490824@lid",
+        "text": "pior q n o cll ta desligado",
+        "pushName": "Baby",
+        "timestamp": 1787826156077
+      },
+      "3EB09FA0690C7A83F9C9E9": {
+        "sender": "179040627490824@lid",
+        "text": "acabei de ligar o pc",
+        "pushName": "Baby",
+        "timestamp": 1787826165042
       }
     },
     "120363428464897153@g.us": {
@@ -175247,7 +175273,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787826143942,
+    "120363432018531082@g.us": 1787826165042,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787814068637,
