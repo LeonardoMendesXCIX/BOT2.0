@@ -33,9 +33,9 @@
         "total": 4975
       },
       "179040627490824": {
-        "text": 401,
+        "text": 402,
         "media": 80,
-        "total": 481
+        "total": 482
       },
       "145381035905262": {
         "text": 2152,
@@ -254,8 +254,8 @@
       },
       "60851868446964": {
         "text": 1217,
-        "media": 1414,
-        "total": 2631
+        "media": 1415,
+        "total": 2632
       },
       "270377049690114": {
         "text": 36,
@@ -8953,7 +8953,8 @@
         "Baby (179040627490824): Zolpidem",
         "Baby (179040627490824): eu faso com trufra ajuda um pouco",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Entendi",
-        "Baby (179040627490824): a cs tava tudo escura quando foi ver ja era 6 da manha"
+        "Baby (179040627490824): a cs tava tudo escura quando foi ver ja era 6 da manha",
+        "Baby (179040627490824): n"
       ]
     },
     "120363428464897153@g.us": {
@@ -15222,6 +15223,12 @@
         "authorName": "Baby",
         "text": "a cs tava tudo escura quando foi ver ja era 6 da manha",
         "timestamp": 1787826095815
+      },
+      {
+        "authorNum": "179040627490824",
+        "authorName": "Baby",
+        "text": "n",
+        "timestamp": 1787826143942
       }
     ],
     "120363428464897153@g.us": [],
@@ -15239,7 +15246,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19694,
+    "120363432018531082@g.us": 19695,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1456,
@@ -127633,6 +127640,12 @@
         "text": "a cs tava tudo escura quando foi ver ja era 6 da manha",
         "pushName": "Baby",
         "timestamp": 1787826095816
+      },
+      "3EB0FB28BB51729012C456": {
+        "sender": "179040627490824@lid",
+        "text": "n",
+        "pushName": "Baby",
+        "timestamp": 1787826143943
       }
     },
     "120363428464897153@g.us": {
@@ -175234,7 +175247,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787826095815,
+    "120363432018531082@g.us": 1787826143942,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787814068637,
