@@ -1353,9 +1353,9 @@
         "total": 157
       },
       "266048007835881": {
-        "text": 558,
+        "text": 559,
         "media": 257,
-        "total": 815
+        "total": 816
       },
       "123120354635955": {
         "text": 4,
@@ -2473,9 +2473,9 @@
         "total": 1
       },
       "238233849983072": {
-        "text": 22,
+        "text": 25,
         "media": 2,
-        "total": 24
+        "total": 27
       },
       "75797868064796": {
         "text": 4,
@@ -9438,7 +9438,9 @@
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Samambaia sul",
         "jefersonjgs25 (85264194134079): Alguém aqui de Pernambuco?",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): 🤷🏻‍♀️",
-        "🎀  Ň𝐘ηａ🐆 (266048007835881): Aí no seu comércio vc vende por quanto e na sua cidade e quanto?"
+        "🎀  Ň𝐘ηａ🐆 (266048007835881): Aí no seu comércio vc vende por quanto e na sua cidade e quanto?",
+        "Neto prime (238233849983072): 13 600 ml",
+        "Neto prime (238233849983072): Bares 16/17"
       ]
     },
     "120363428464897153@g.us": {
@@ -15908,6 +15910,18 @@
         "authorName": "🎀  Ň𝐘ηａ🐆",
         "text": "Aí no seu comércio vc vende por quanto e na sua cidade e quanto?",
         "timestamp": 1787857094188
+      },
+      {
+        "authorNum": "238233849983072",
+        "authorName": "Neto prime",
+        "text": "13 600 ml",
+        "timestamp": 1787857209458
+      },
+      {
+        "authorNum": "238233849983072",
+        "authorName": "Neto prime",
+        "text": "Bares 16/17",
+        "timestamp": 1787857233782
       }
     ],
     "120363428464897153@g.us": [],
@@ -15939,7 +15953,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20074,
+    "120363432018531082@g.us": 20076,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1480,
@@ -130592,6 +130606,18 @@
         "text": "Aí no seu comércio vc vende por quanto e na sua cidade e quanto?",
         "pushName": "🎀  Ň𝐘ηａ🐆",
         "timestamp": 1787857094188
+      },
+      "2A7317E6F61357662739": {
+        "sender": "238233849983072@lid",
+        "text": "13 600 ml",
+        "pushName": "Neto prime",
+        "timestamp": 1787857209458
+      },
+      "2A62CC8BBF905A80B3E3": {
+        "sender": "238233849983072@lid",
+        "text": "Bares 16/17",
+        "pushName": "Neto prime",
+        "timestamp": 1787857233782
       }
     },
     "120363428464897153@g.us": {
@@ -178355,7 +178381,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787857094188,
+    "120363432018531082@g.us": 1787857233781,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787857014697,
