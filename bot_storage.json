@@ -2721,9 +2721,9 @@
         "total": 1
       },
       "92629643563147": {
-        "text": 454,
-        "media": 259,
-        "total": 713
+        "text": 455,
+        "media": 260,
+        "total": 715
       },
       "122552932372575": {
         "text": 0,
@@ -2762,8 +2762,8 @@
       },
       "129373172711439": {
         "text": 786,
-        "media": 180,
-        "total": 966
+        "media": 181,
+        "total": 967
       },
       "16007578021977": {
         "text": 50,
@@ -3001,9 +3001,9 @@
         "total": 15
       },
       "120044990287992": {
-        "text": 61,
+        "text": 62,
         "media": 4,
-        "total": 65
+        "total": 66
       },
       "71120413843690": {
         "text": 2,
@@ -3140,9 +3140,9 @@
         "total": 456
       },
       "5511927018683": {
-        "text": 374,
+        "text": 379,
         "media": 72,
-        "total": 446
+        "total": 451
       },
       "145381035905262": {
         "text": 314,
@@ -12099,8 +12099,6 @@
         "Leandro (+55 (11) 92701-8683): Mais tarde, quando o kbaré abrir, tu se apresenta @66743926038604"
       ],
       "26/08/2026": [
-        "Dany (262182034002040): Eita",
-        "Dany (262182034002040): Hahahhaha",
         "Leandro (+55 (11) 92701-8683): Tem que agitar o grupo",
         "Leandro (+55 (11) 92701-8683): Só não participo dessa agitação",
         "Leandro (+55 (11) 92701-8683): Oxi, Gabriel saiu",
@@ -12598,7 +12596,9 @@
         "Celiete Souza (129373172711439): Esse pinto está debilitado",
         "Camila Designer (92629643563147): Você já mandou ontem",
         "negoh🐻 (120044990287992): Foi mesmo kkkk",
-        "Celiete Souza (129373172711439): Tem que botar o pinto no soro"
+        "Celiete Souza (129373172711439): Tem que botar o pinto no soro",
+        "Camila Designer (92629643563147): Quero só ver o dia que ele vai virar frango",
+        "negoh🐻 (120044990287992): Vou fazer ele crescer perai"
       ]
     },
     "120363409727467494@g.us": {
@@ -14270,7 +14270,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Eu tô quieta na minha",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): @54259127210155 \nManda os comandos do bot aqui, por favor. Deixar fixado pra facilitar 👀",
         "Leandro (+55 (11) 92701-8683): !ajuda",
-        "Leandro (+55 (11) 92701-8683): !ajuda"
+        "Leandro (+55 (11) 92701-8683): !ajuda",
+        "Leandro (+55 (11) 92701-8683): !status"
       ]
     },
     "120363411233423709@g.us": {
@@ -15001,12 +15002,6 @@
     ],
     "120363428464897153@g.us": [
       {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Já está sendo amamentada 🥰",
-        "timestamp": 1787789841549
-      },
-      {
         "authorNum": "222595437858867",
         "authorName": "Juliano Perlin",
         "text": "Tu viu🤭",
@@ -15599,16 +15594,22 @@
         "authorName": "Celiete Souza",
         "text": "Tem que botar o pinto no soro",
         "timestamp": 1787791629299
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Quero só ver o dia que ele vai virar frango",
+        "timestamp": 1787791634918
+      },
+      {
+        "authorNum": "120044990287992",
+        "authorName": "negoh🐻",
+        "text": "Vou fazer ele crescer perai",
+        "timestamp": 1787791644453
       }
     ],
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Já vi pessoas que ta no nosso lá",
-        "timestamp": 1787789817818
-      },
       {
         "authorNum": "81991328395336",
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
@@ -15788,6 +15789,12 @@
         "authorName": "Leandro",
         "text": "!ajuda",
         "timestamp": 1787791617428
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!status",
+        "timestamp": 1787791655049
       }
     ],
     "120363411233423709@g.us": [],
@@ -15802,15 +15809,15 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 19520,
-    "120363428464897153@g.us": 5459,
+    "120363428464897153@g.us": 5461,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1391,
+    "120363412288900422@g.us": 1392,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 7
   },
   "botDisabled": {
-    "120363412288900422@g.us": true,
+    "120363412288900422@g.us": false,
     "120363409727467494@g.us": false,
     "120363428464897153@g.us": false,
     "120363432018531082@g.us": false
@@ -159144,6 +159151,18 @@
         "text": "Tem que botar o pinto no soro",
         "pushName": "Celiete Souza",
         "timestamp": 1787791629299
+      },
+      "2AE20AF937D579CC4EFC": {
+        "sender": "92629643563147@lid",
+        "text": "Quero só ver o dia que ele vai virar frango",
+        "pushName": "Camila Designer",
+        "timestamp": 1787791634918
+      },
+      "ACEE0203E39E73E65DA3BC74DB8B720C": {
+        "sender": "120044990287992@lid",
+        "text": "Vou fazer ele crescer perai",
+        "pushName": "negoh🐻",
+        "timestamp": 1787791644453
       }
     },
     "120363409727467494@g.us": {
@@ -168718,6 +168737,12 @@
         "text": "!ajuda",
         "pushName": "Leandro",
         "timestamp": 1787791617428
+      },
+      "A50DDEAAB2062F82FE1312D254302EBA": {
+        "sender": "54259127210155@lid",
+        "text": "!status",
+        "pushName": "Leandro",
+        "timestamp": 1787791655049
       }
     },
     "120363411233423709@g.us": {
@@ -170859,9 +170884,9 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787791569420,
-    "120363428464897153@g.us": 1787791629299,
+    "120363428464897153@g.us": 1787791658848,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787791618609,
+    "120363412288900422@g.us": 1787791655831,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
