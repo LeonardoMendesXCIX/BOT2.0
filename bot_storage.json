@@ -233,9 +233,9 @@
         "total": 435
       },
       "222595437858867": {
-        "text": 463,
+        "text": 465,
         "media": 50,
-        "total": 513
+        "total": 515
       },
       "83280154103884": {
         "text": 36,
@@ -8969,7 +8969,9 @@
         "Baby (179040627490824): xiiiii",
         "Bruno Aguiar (+1395881181241): Bom dia \nMelhoras 🙏🏽🙏🏽",
         "gigi✨ (60851868446964): Brigada",
-        "Baby (179040627490824): complicado"
+        "Baby (179040627490824): complicado",
+        "Juliano Perlin (222595437858867): Bom dia fofa😘",
+        "Juliano Perlin (222595437858867): Bom dia..boas melhoras🥰"
       ]
     },
     "120363428464897153@g.us": {
@@ -15328,6 +15330,18 @@
         "authorName": "Baby",
         "text": "complicado",
         "timestamp": 1787826554562
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Bom dia fofa😘",
+        "timestamp": 1787826653572
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Bom dia..boas melhoras🥰",
+        "timestamp": 1787826671849
       }
     ],
     "120363428464897153@g.us": [],
@@ -15345,7 +15359,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 19710,
+    "120363432018531082@g.us": 19712,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1456,
@@ -127835,6 +127849,18 @@
         "text": "complicado",
         "pushName": "Baby",
         "timestamp": 1787826554562
+      },
+      "ACB5C6871B8610FA11C870A57B19BF22": {
+        "sender": "222595437858867@lid",
+        "text": "Bom dia fofa😘",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1787826653572
+      },
+      "AC603D048A0C3D437A78CE0C8C01A16F": {
+        "sender": "222595437858867@lid",
+        "text": "Bom dia..boas melhoras🥰",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1787826671849
       }
     },
     "120363428464897153@g.us": {
@@ -175436,7 +175462,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787826554562,
+    "120363432018531082@g.us": 1787826671849,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787814068637,
