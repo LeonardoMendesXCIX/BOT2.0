@@ -241,9 +241,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2072,
+        "text": 2073,
         "media": 274,
-        "total": 2346
+        "total": 2347
       },
       "252922705240205": {
         "text": 80,
@@ -342,8 +342,8 @@
       },
       "163530946961491": {
         "text": 383,
-        "media": 58,
-        "total": 441
+        "media": 59,
+        "total": 442
       },
       "222595437858867": {
         "text": 474,
@@ -9104,7 +9104,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "putaria 😇 (15823330607336): Obrigada linda 😙",
         "🙃🙃🙃 (11171897864256): Boa tarde",
         "🙃🙃🙃 (11171897864256): Acordei agora",
         "🙃🙃🙃 (11171897864256): Como estão?????",
@@ -9603,7 +9602,8 @@
         "Jonathan Bráulio (187097969348735): Sem or kkkkkkkkkkk",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Amiga, eu não quero ele não, fique a vontade pra você",
         "Gleydson Souza (274384656834700): Claro tomei advertência mas aproveitei pra falar tudo que tinha guardado kkkkk",
-        "Jonathan Bráulio (187097969348735): Eu tô quase chegando nesse nível"
+        "Jonathan Bráulio (187097969348735): Eu tô quase chegando nesse nível",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Mulher, eu quero é paz pra minha vida"
       ]
     },
     "120363428464897153@g.us": {
@@ -15712,18 +15712,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "120363432018531082",
-        "authorName": "",
-        "text": "@53537388122141",
-        "timestamp": 1787860645814
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "@53537388122141",
-        "timestamp": 1787860647896
-      },
-      {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Gente kkkkkkk eu não dou patada\nEu converso normalmente com qualquer pessoa. Sou um amorzinho de pessoa\nMe conhecendo bem, vocês vão ver que sou bem gente boa 👀",
@@ -16178,6 +16166,12 @@
         "authorName": "Jonathan Bráulio",
         "text": "Eu tô quase chegando nesse nível",
         "timestamp": 1787862411506
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Mulher, eu quero é paz pra minha vida",
+        "timestamp": 1787862459159
       }
     ],
     "120363428464897153@g.us": [],
@@ -16281,7 +16275,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20306,
+    "120363432018531082@g.us": 20307,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1517,
@@ -132296,6 +132290,12 @@
         "text": "Eu tô quase chegando nesse nível",
         "pushName": "Jonathan Bráulio",
         "timestamp": 1787862411506
+      },
+      "ACC2151CF9F128F8EAD845EB9F3A6C58": {
+        "sender": "53537388122141@lid",
+        "text": "Mulher, eu quero é paz pra minha vida",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787862459159
       }
     },
     "120363428464897153@g.us": {
@@ -180275,7 +180275,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787862440608,
+    "120363432018531082@g.us": 1787862459159,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787862389737,
