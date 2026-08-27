@@ -2566,9 +2566,9 @@
         "total": 21
       },
       "190864487919667": {
-        "text": 155,
+        "text": 156,
         "media": 30,
-        "total": 185
+        "total": 186
       },
       "82227819987089": {
         "text": 2,
@@ -9154,7 +9154,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Beijo de luz amore",
         "Pedro Henrique (172868239380659): Valparaíso \nÁguas lindas?",
         "Gleydson Souza (274384656834700): Aguas lindas",
         "Lailson Nathan. (272048228188398): Estou só observando.🫵",
@@ -9653,7 +9652,8 @@
         "Juliano Perlin (222595437858867): Tu brotou de onde?",
         "Juliano Perlin (222595437858867): 🤣",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Exatamente",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Vai espantar a menina nova"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Vai espantar a menina nova",
+        "Souza (190864487919667): 👀"
       ]
     },
     "120363428464897153@g.us": {
@@ -15918,12 +15918,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "@all  querem ver coisa bonita ?",
-        "timestamp": 1787872957257
-      },
-      {
         "authorNum": "172868239380659",
         "authorName": "Pedro Henrique",
         "text": "Escudo do Palmeiras",
@@ -16516,6 +16510,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Vai espantar a menina nova",
         "timestamp": 1787874717694
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "👀",
+        "timestamp": 1787874778428
       }
     ],
     "120363428464897153@g.us": [],
@@ -16649,7 +16649,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20882,
+    "120363432018531082@g.us": 20883,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1669,
@@ -136094,6 +136094,12 @@
         "text": "Vai espantar a menina nova",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787874717694
+      },
+      "AC4ACAB88585A26670BE295DAF6480E1": {
+        "sender": "190864487919667@lid",
+        "text": "👀",
+        "pushName": "Souza",
+        "timestamp": 1787874778428
       }
     },
     "120363428464897153@g.us": {
@@ -184999,7 +185005,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787874731630,
+    "120363432018531082@g.us": 1787874778428,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787874702269,
