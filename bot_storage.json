@@ -2586,9 +2586,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 354,
+        "text": 356,
         "media": 62,
-        "total": 416
+        "total": 418
       },
       "120363428464897153": {
         "text": 10,
@@ -2761,9 +2761,9 @@
         "total": 9
       },
       "129373172711439": {
-        "text": 792,
+        "text": 794,
         "media": 183,
-        "total": 975
+        "total": 977
       },
       "16007578021977": {
         "text": 50,
@@ -2926,9 +2926,9 @@
         "total": 1
       },
       "266048007835881": {
-        "text": 39,
+        "text": 40,
         "media": 29,
-        "total": 68
+        "total": 69
       },
       "123120354635955": {
         "text": 1,
@@ -12099,11 +12099,6 @@
         "Leandro (+55 (11) 92701-8683): Mais tarde, quando o kbaré abrir, tu se apresenta @66743926038604"
       ],
       "26/08/2026": [
-        "Leandro (+55 (11) 92701-8683): Nem baixei",
-        "Leandro (+55 (11) 92701-8683): ✋🏼",
-        "Leandro (+55 (11) 92701-8683): Vê aí @81991328395336",
-        "Dudu 🍀 (199248582861048): Apaga Gigi",
-        "Dudu 🍀 (199248582861048): Diacho",
         "Dudu 🍀 (199248582861048): Abro mais nada",
         "negoh🐻 (120044990287992): Aí vc me quebra",
         "Dudu 🍀 (199248582861048): Besta kksks",
@@ -12598,7 +12593,12 @@
         "Celiete Souza (129373172711439): Muito magro anêmico",
         "negoh🐻 (120044990287992): É pq eu sou negao",
         "Leandro (+55 (11) 92701-8683): Aí tu pegou pesado com o minino",
-        "Dany (262182034002040): Meio anêmico"
+        "Dany (262182034002040): Meio anêmico",
+        "Leandro (+55 (11) 92701-8683): Má rapaz",
+        "🎀  Ň𝐘ηａ🐆 (266048007835881): Não tá perdendo nada não kkkkkkkkkk",
+        "Celiete Souza (129373172711439): Abre e veja, tu vai concordar",
+        "Celiete Souza (129373172711439): Tô dizendo",
+        "Leandro (+55 (11) 92701-8683): Sai daí"
       ]
     },
     "120363409727467494@g.us": {
@@ -15525,6 +15525,36 @@
         "authorName": "Dany",
         "text": "Meio anêmico",
         "timestamp": 1787792341325
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Má rapaz",
+        "timestamp": 1787792357916
+      },
+      {
+        "authorNum": "266048007835881",
+        "authorName": "🎀  Ň𝐘ηａ🐆",
+        "text": "Não tá perdendo nada não kkkkkkkkkk",
+        "timestamp": 1787792360035
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Abre e veja, tu vai concordar",
+        "timestamp": 1787792362708
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Tô dizendo",
+        "timestamp": 1787792370716
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Sai daí",
+        "timestamp": 1787792374860
       }
     ],
     "120363409727467494@g.us": [],
@@ -15728,7 +15758,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 19542,
-    "120363428464897153@g.us": 5477,
+    "120363428464897153@g.us": 5482,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1419,
     "120363411233423709@g.us": 5,
@@ -159310,6 +159340,36 @@
         "text": "Meio anêmico",
         "pushName": "Dany",
         "timestamp": 1787792341325
+      },
+      "A5F69D0438F9C3CEF84E1A912A12EFE0": {
+        "sender": "54259127210155@lid",
+        "text": "Má rapaz",
+        "pushName": "Leandro",
+        "timestamp": 1787792357916
+      },
+      "AC6C3FDDF0BE48CF737B8730E0EC68C3": {
+        "sender": "266048007835881@lid",
+        "text": "Não tá perdendo nada não kkkkkkkkkk",
+        "pushName": "🎀  Ň𝐘ηａ🐆",
+        "timestamp": 1787792360035
+      },
+      "AC079BC62FB70DB1DAC66EA07A7AC7AD": {
+        "sender": "129373172711439@lid",
+        "text": "Abre e veja, tu vai concordar",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787792362708
+      },
+      "ACD3822BEBB81987AE4008A1DF764E56": {
+        "sender": "129373172711439@lid",
+        "text": "Tô dizendo",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787792370717
+      },
+      "A59AD6E094139599641AFAF82B171057": {
+        "sender": "54259127210155@lid",
+        "text": "Sai daí",
+        "pushName": "Leandro",
+        "timestamp": 1787792374860
       }
     },
     "120363409727467494@g.us": {
@@ -171193,7 +171253,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787792248656,
-    "120363428464897153@g.us": 1787792348985,
+    "120363428464897153@g.us": 1787792374860,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787792312929,
     "120363411233423709@g.us": 1787113553426,
