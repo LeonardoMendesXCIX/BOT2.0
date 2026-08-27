@@ -140,8 +140,8 @@
       },
       "145381035905262": {
         "text": 2111,
-        "media": 459,
-        "total": 2570
+        "media": 460,
+        "total": 2571
       },
       "184237705699536": {
         "text": 524,
@@ -2656,9 +2656,9 @@
         "total": 23
       },
       "270377049690114": {
-        "text": 262,
+        "text": 263,
         "media": 48,
-        "total": 310
+        "total": 311
       },
       "76914341503187": {
         "text": 19,
@@ -2721,9 +2721,9 @@
         "total": 1
       },
       "92629643563147": {
-        "text": 431,
-        "media": 243,
-        "total": 674
+        "text": 432,
+        "media": 244,
+        "total": 676
       },
       "122552932372575": {
         "text": 0,
@@ -2761,9 +2761,9 @@
         "total": 9
       },
       "129373172711439": {
-        "text": 745,
+        "text": 748,
         "media": 170,
-        "total": 915
+        "total": 918
       },
       "16007578021977": {
         "text": 50,
@@ -12099,9 +12099,6 @@
         "Leandro (+55 (11) 92701-8683): Mais tarde, quando o kbaré abrir, tu se apresenta @66743926038604"
       ],
       "26/08/2026": [
-        "Celiete Souza (129373172711439): ?",
-        "negoh🐻 (120044990287992): Gaúcha linda da porra",
-        "Vini 👑🏁🙌⚽ (270377049690114): Sou amarelo pô",
         "Vini 👑🏁🙌⚽ (270377049690114): Sou o Simpson 😂🤣",
         "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): 🤣🤣🤣🤣",
         "Leandro (+55 (11) 92701-8683): Pqp",
@@ -12598,7 +12595,10 @@
         "Celiete Souza (129373172711439): Gente",
         "Camila Designer (92629643563147): Noite!❤️",
         "Celiete Souza (129373172711439): Quero dividir uma coisa com vcs",
-        "Celiete Souza (129373172711439): Posso?"
+        "Celiete Souza (129373172711439): Posso?",
+        "Camila Designer (92629643563147): Sim amiga!",
+        "Celiete Souza (129373172711439): Nasceu minha bonequinha",
+        "Vini 👑🏁🙌⚽ (270377049690114): Pode sim opa"
       ]
     },
     "120363409727467494@g.us": {
@@ -14835,6 +14835,24 @@
         "authorName": "Celiete Souza",
         "text": "Posso?",
         "timestamp": 1787789689045
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Sim amiga!",
+        "timestamp": 1787789697202
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Nasceu minha bonequinha",
+        "timestamp": 1787789722180
+      },
+      {
+        "authorNum": "270377049690114",
+        "authorName": "Vini 👑🏁🙌⚽",
+        "text": "Pode sim opa",
+        "timestamp": 1787789722306
       }
     ],
     "120363409727467494@g.us": [],
@@ -15128,7 +15146,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 19463,
-    "120363428464897153@g.us": 5347,
+    "120363428464897153@g.us": 5350,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1359,
     "120363411233423709@g.us": 5,
@@ -157462,6 +157480,24 @@
         "text": "Posso?",
         "pushName": "Celiete Souza",
         "timestamp": 1787789689045
+      },
+      "2A5A4AA298D42F27F6E0": {
+        "sender": "92629643563147@lid",
+        "text": "Sim amiga!",
+        "pushName": "Camila Designer",
+        "timestamp": 1787789697202
+      },
+      "AC9541112A1D6676EB66B47C8722C006": {
+        "sender": "129373172711439@lid",
+        "text": "Nasceu minha bonequinha",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787789722180
+      },
+      "AC1D24FA914E48DE6B19C3B033465EE9": {
+        "sender": "270377049690114@lid",
+        "text": "Pode sim opa",
+        "pushName": "Vini 👑🏁🙌⚽",
+        "timestamp": 1787789722306
       }
     },
     "120363409727467494@g.us": {
@@ -168984,8 +169020,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787789619203,
-    "120363428464897153@g.us": 1787789689045,
+    "120363432018531082@g.us": 1787789700263,
+    "120363428464897153@g.us": 1787789722306,
     "120363409727467494@g.us": 1787764683861,
     "120363412288900422@g.us": 1787789690600,
     "120363411233423709@g.us": 1787113553426,
