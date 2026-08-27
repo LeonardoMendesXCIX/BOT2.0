@@ -1454,9 +1454,9 @@
         "total": 156
       },
       "266048007835881": {
-        "text": 512,
+        "text": 513,
         "media": 237,
-        "total": 749
+        "total": 750
       },
       "123120354635955": {
         "text": 4,
@@ -2586,9 +2586,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 360,
+        "text": 361,
         "media": 65,
-        "total": 425
+        "total": 426
       },
       "120363428464897153": {
         "text": 11,
@@ -2761,9 +2761,9 @@
         "total": 9
       },
       "129373172711439": {
-        "text": 842,
+        "text": 843,
         "media": 201,
-        "total": 1043
+        "total": 1044
       },
       "16007578021977": {
         "text": 50,
@@ -12119,8 +12119,6 @@
         "Leandro (+55 (11) 92701-8683): Mais tarde, quando o kbaré abrir, tu se apresenta @66743926038604"
       ],
       "26/08/2026": [
-        "gigi✨ (60851868446964): ⚠️🔥",
-        "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Uiii amor 😏🔥",
         "gigi✨ (60851868446964): Quero o respeito com eles em",
         "negoh🐻 (120044990287992): Onde faz pra desver isso kkkk",
         "DANIGXX (136408815665242): vão*",
@@ -12618,7 +12616,9 @@
         "Camila Designer (92629643563147): Que linda ❤️",
         "Neto prime (238233849983072): A dona das minhas dívidas kkkk",
         "Neto prime (238233849983072): E causadora",
-        "Leandro (+55 (11) 92701-8683): Pode"
+        "Leandro (+55 (11) 92701-8683): Pode",
+        "Leandro (+55 (11) 92701-8683): Estou corrigindo essas falhas do Bot agora",
+        "Celiete Souza (129373172711439): Sempre serão"
       ]
     },
     "120363409727467494@g.us": {
@@ -15656,6 +15656,18 @@
         "authorName": "Leandro",
         "text": "Pode",
         "timestamp": 1787796489193
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Estou corrigindo essas falhas do Bot agora",
+        "timestamp": 1787796500856
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Sempre serão",
+        "timestamp": 1787796526131
       }
     ],
     "120363409727467494@g.us": [],
@@ -15709,7 +15721,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 19588,
-    "120363428464897153@g.us": 5772,
+    "120363428464897153@g.us": 5774,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1422,
     "120363411233423709@g.us": 5,
@@ -161293,6 +161305,18 @@
         "text": "Pode",
         "pushName": "Leandro",
         "timestamp": 1787796489194
+      },
+      "A509848461A484B0DF98CD660D441D98": {
+        "sender": "54259127210155@lid",
+        "text": "Estou corrigindo essas falhas do Bot agora",
+        "pushName": "Leandro",
+        "timestamp": 1787796500856
+      },
+      "AC2538A662F3B719E9F1E51BC920DB2D": {
+        "sender": "129373172711439@lid",
+        "text": "Sempre serão",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787796526131
       }
     },
     "120363409727467494@g.us": {
@@ -173229,8 +173253,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787796497944,
-    "120363428464897153@g.us": 1787796496194,
+    "120363432018531082@g.us": 1787796504693,
+    "120363428464897153@g.us": 1787796526131,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787793125283,
     "120363411233423709@g.us": 1787113553426,
