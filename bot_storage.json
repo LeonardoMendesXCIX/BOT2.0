@@ -2546,9 +2546,9 @@
         "total": 120
       },
       "1645576491019": {
-        "text": 323,
+        "text": 324,
         "media": 122,
-        "total": 445
+        "total": 446
       },
       "262182034002040": {
         "text": 326,
@@ -2721,9 +2721,9 @@
         "total": 1
       },
       "92629643563147": {
-        "text": 485,
+        "text": 486,
         "media": 281,
-        "total": 766
+        "total": 767
       },
       "122552932372575": {
         "text": 0,
@@ -2926,9 +2926,9 @@
         "total": 1
       },
       "266048007835881": {
-        "text": 77,
+        "text": 78,
         "media": 39,
-        "total": 116
+        "total": 117
       },
       "123120354635955": {
         "text": 1,
@@ -12099,8 +12099,6 @@
         "Leandro (+55 (11) 92701-8683): Mais tarde, quando o kbaré abrir, tu se apresenta @66743926038604"
       ],
       "26/08/2026": [
-        "Celiete Souza (129373172711439): Também sou aqui tá frio demais",
-        "Bruno Aguiar (+1395881181241): Cuidado para não cair a toalha🫣",
         "Camila Designer (92629643563147): 🫣🫣🫣",
         ". (242841813000328): Eas mulher tbm q acha kkk",
         "Camila Designer (92629643563147): Grupo deu uma melhorada hein @129373172711439",
@@ -12598,7 +12596,9 @@
         "Celiete Souza (129373172711439): Boa noite pra todos 😘😘😘",
         "Camila Designer (92629643563147): Entendeu o recado 😏",
         "Celiete Souza (129373172711439): Se comportem",
-        "Camila Designer (92629643563147): @266048007835881 vai correr?"
+        "Camila Designer (92629643563147): @266048007835881 vai correr?",
+        "Jose (+1645576491019): Boooaa",
+        "Camila Designer (92629643563147): Ou vai querer?"
       ]
     },
     "120363409727467494@g.us": {
@@ -15606,6 +15606,18 @@
         "authorName": "Camila Designer",
         "text": "@266048007835881 vai correr?",
         "timestamp": 1787793835794
+      },
+      {
+        "authorNum": "1645576491019",
+        "authorName": "Jose",
+        "text": "Boooaa",
+        "timestamp": 1787793847822
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Ou vai querer?",
+        "timestamp": 1787793851518
       }
     ],
     "120363409727467494@g.us": [],
@@ -15773,7 +15785,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 19561,
-    "120363428464897153@g.us": 5593,
+    "120363428464897153@g.us": 5595,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1422,
     "120363411233423709@g.us": 5,
@@ -160157,6 +160169,18 @@
         "text": "@266048007835881 vai correr?",
         "pushName": "Camila Designer",
         "timestamp": 1787793835794
+      },
+      "3A02DB7645A8720031BF": {
+        "sender": "1645576491019@lid",
+        "text": "Boooaa",
+        "pushName": "Jose",
+        "timestamp": 1787793847822
+      },
+      "2A8369C5922827391048": {
+        "sender": "92629643563147@lid",
+        "text": "Ou vai querer?",
+        "pushName": "Camila Designer",
+        "timestamp": 1787793851518
       }
     },
     "120363409727467494@g.us": {
@@ -172058,7 +172082,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787793796229,
-    "120363428464897153@g.us": 1787793835794,
+    "120363428464897153@g.us": 1787793851518,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787793125283,
     "120363411233423709@g.us": 1787113553426,
