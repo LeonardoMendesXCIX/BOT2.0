@@ -251,9 +251,9 @@
         "total": 99
       },
       "233161007071346": {
-        "text": 399,
+        "text": 400,
         "media": 45,
-        "total": 444
+        "total": 445
       },
       "262182034002040": {
         "text": 1841,
@@ -9124,7 +9124,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Camila Designer (92629643563147): Ele entrou outras vezes?",
         "Souza (190864487919667): Bendita Brasília",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Tu n deixou ele ir no teu PV",
         "Camila Designer (92629643563147): Eu não fiz nada gente, só queria uma massagem 🥺",
@@ -9623,7 +9622,8 @@
         "Gabriel (145381035905262): Tu vai de arrasta pra cima",
         "Pedro Henrique (172868239380659): Esse grupo já tem é casal ?",
         "Pedro Henrique (172868239380659): Caramba",
-        "Pedro Henrique (172868239380659): Aí sim"
+        "Pedro Henrique (172868239380659): Aí sim",
+        "Milena B. Costa (233161007071346): Exatamente"
       ]
     },
     "120363428464897153@g.us": {
@@ -15761,18 +15761,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "E eu que sou infantil",
-        "timestamp": 1787864235018
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Me erra",
-        "timestamp": 1787864239199
-      },
-      {
         "authorNum": "172868239380659",
         "authorName": "Pedro Henrique",
         "text": "DDD 48 é santa Catarina?",
@@ -16449,6 +16437,12 @@
         "authorName": "Pedro Henrique",
         "text": "Aí sim",
         "timestamp": 1787866033494
+      },
+      {
+        "authorNum": "233161007071346",
+        "authorName": "Milena B. Costa",
+        "text": "Exatamente",
+        "timestamp": 1787866059467
       }
     ],
     "120363428464897153@g.us": [],
@@ -16541,7 +16535,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20477,
+    "120363432018531082@g.us": 20478,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1543,
@@ -133581,6 +133575,12 @@
         "text": "Aí sim",
         "pushName": "Pedro Henrique",
         "timestamp": 1787866033495
+      },
+      "AC1C934A61F258620743DFDF9D5663FC": {
+        "sender": "233161007071346@lid",
+        "text": "Exatamente",
+        "pushName": "Milena B. Costa",
+        "timestamp": 1787866059468
       }
     },
     "120363428464897153@g.us": {
@@ -181724,7 +181724,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787866033494,
+    "120363432018531082@g.us": 1787866059467,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787865477162,
