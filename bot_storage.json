@@ -241,9 +241,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2133,
+        "text": 2134,
         "media": 278,
-        "total": 2411
+        "total": 2412
       },
       "252922705240205": {
         "text": 80,
@@ -2566,9 +2566,9 @@
         "total": 20
       },
       "190864487919667": {
-        "text": 102,
+        "text": 103,
         "media": 19,
-        "total": 121
+        "total": 122
       },
       "82227819987089": {
         "text": 2,
@@ -2621,9 +2621,9 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 35,
+        "text": 36,
         "media": 10,
-        "total": 45
+        "total": 46
       },
       "172868239380659": {
         "text": 42,
@@ -9149,7 +9149,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindo",
         "'   MƲRIԼԼƠ  🥶 (111506477846600): Obrigado",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mentira do Carai KKKKKKK",
         "Neto prime (238233849983072): Eu vou kkkk",
@@ -9648,7 +9647,8 @@
         "Gabriel (145381035905262): Eu 🤌",
         "Souza (190864487919667): Aí @262456945414267, que decepção perder pro Coritiba hein? Que time foi aquele?",
         "Beatriz Ferreira 🦅 (262456945414267): Tá na pele",
-        "Jessica (208958782488665): Tb tenho dó meu time ❤️"
+        "Jessica (208958782488665): Tb tenho dó meu time ❤️",
+        "Souza (190864487919667): Grupo faleceu foi?"
       ]
     },
     "120363428464897153@g.us": {
@@ -15787,30 +15787,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "205621945192508",
-        "authorName": "Jennifer🦋",
-        "text": "Me chamo Jennifer, tenho 21 anos e moro em Belém do Pará",
-        "timestamp": 1787866463390
-      },
-      {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Pode mandar mensagem PV?",
-        "timestamp": 1787866471086
-      },
-      {
-        "authorNum": "205621945192508",
-        "authorName": "Jennifer🦋",
-        "text": "Tá bom agora?",
-        "timestamp": 1787866471413
-      },
-      {
-        "authorNum": "233161007071346",
-        "authorName": "Milena B. Costa",
-        "text": "@145381035905262 se seguir o exemplo eu corto teu 🐣",
-        "timestamp": 1787866479476
-      },
-      {
         "authorNum": "233161007071346",
         "authorName": "Milena B. Costa",
         "text": "Ele só escolhe uma e só tem uma",
@@ -16373,6 +16349,12 @@
         "authorName": "Jessica",
         "text": "Tb tenho dó meu time ❤️",
         "timestamp": 1787868252265
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Grupo faleceu foi?",
+        "timestamp": 1787868310821
       }
     ],
     "120363428464897153@g.us": [],
@@ -16398,7 +16380,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20611,
+    "120363432018531082@g.us": 20612,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1543,
@@ -134229,6 +134211,12 @@
         "text": "Tb tenho dó meu time ❤️",
         "pushName": "Jessica",
         "timestamp": 1787868252265
+      },
+      "AC3D4E9B56EEF266F3D73C48C1CD5CD1": {
+        "sender": "190864487919667@lid",
+        "text": "Grupo faleceu foi?",
+        "pushName": "Souza",
+        "timestamp": 1787868310821
       }
     },
     "120363428464897153@g.us": {
@@ -182378,7 +182366,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787868252265,
+    "120363432018531082@g.us": 1787868320617,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787865477162,
