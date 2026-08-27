@@ -2721,9 +2721,9 @@
         "total": 1
       },
       "92629643563147": {
-        "text": 524,
+        "text": 525,
         "media": 339,
-        "total": 863
+        "total": 864
       },
       "122552932372575": {
         "text": 0,
@@ -2926,9 +2926,9 @@
         "total": 1
       },
       "266048007835881": {
-        "text": 167,
-        "media": 78,
-        "total": 245
+        "text": 170,
+        "media": 79,
+        "total": 249
       },
       "123120354635955": {
         "text": 1,
@@ -12659,7 +12659,11 @@
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Conte vaaa",
         "Camila Designer (92629643563147): Sim ou não?",
         "Neto prime (238233849983072): Ela quer falar alguma coisa kkkkk",
-        "Neto prime (238233849983072): Kkkkkk"
+        "Neto prime (238233849983072): Kkkkkk",
+        "🎀  Ň𝐘ηａ🐆 (266048007835881): Olha que malandrinho ele já tá vendo empreendimentos kkkkkk",
+        "🎀  Ň𝐘ηａ🐆 (266048007835881): Conta Camila",
+        "🎀  Ň𝐘ηａ🐆 (266048007835881): Oque foi",
+        "Camila Designer (92629643563147): De início seria uma amizade ou não?"
       ]
     },
     "120363409727467494@g.us": {
@@ -14951,6 +14955,30 @@
         "authorName": "Neto prime",
         "text": "Kkkkkk",
         "timestamp": 1787801478072
+      },
+      {
+        "authorNum": "266048007835881",
+        "authorName": "🎀  Ň𝐘ηａ🐆",
+        "text": "Olha que malandrinho ele já tá vendo empreendimentos kkkkkk",
+        "timestamp": 1787801518160
+      },
+      {
+        "authorNum": "266048007835881",
+        "authorName": "🎀  Ň𝐘ηａ🐆",
+        "text": "Conta Camila",
+        "timestamp": 1787801523303
+      },
+      {
+        "authorNum": "266048007835881",
+        "authorName": "🎀  Ň𝐘ηａ🐆",
+        "text": "Oque foi",
+        "timestamp": 1787801525335
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "De início seria uma amizade ou não?",
+        "timestamp": 1787801540160
       }
     ],
     "120363409727467494@g.us": [],
@@ -15089,7 +15117,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 19620,
-    "120363428464897153@g.us": 5871,
+    "120363428464897153@g.us": 5875,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1452,
     "120363411233423709@g.us": 5,
@@ -161453,6 +161481,30 @@
         "text": "Kkkkkk",
         "pushName": "Neto prime",
         "timestamp": 1787801478072
+      },
+      "AC33B10509D1F542C796FE60F10123D3": {
+        "sender": "266048007835881@lid",
+        "text": "Olha que malandrinho ele já tá vendo empreendimentos kkkkkk",
+        "pushName": "🎀  Ň𝐘ηａ🐆",
+        "timestamp": 1787801518160
+      },
+      "ACD138031FA3E716363103F718B31751": {
+        "sender": "266048007835881@lid",
+        "text": "Conta Camila",
+        "pushName": "🎀  Ň𝐘ηａ🐆",
+        "timestamp": 1787801523303
+      },
+      "ACCE5F1E00EB0EB86702F47326120B37": {
+        "sender": "266048007835881@lid",
+        "text": "Oque foi",
+        "pushName": "🎀  Ň𝐘ηａ🐆",
+        "timestamp": 1787801525335
+      },
+      "2A9C315F274D08B0D47B": {
+        "sender": "92629643563147@lid",
+        "text": "De início seria uma amizade ou não?",
+        "pushName": "Camila Designer",
+        "timestamp": 1787801540160
       }
     },
     "120363409727467494@g.us": {
@@ -173570,7 +173622,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787801074245,
-    "120363428464897153@g.us": 1787801496716,
+    "120363428464897153@g.us": 1787801540637,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787801469268,
     "120363411233423709@g.us": 1787113553426,
