@@ -241,9 +241,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2171,
+        "text": 2172,
         "media": 284,
-        "total": 2455
+        "total": 2456
       },
       "252922705240205": {
         "text": 80,
@@ -2621,9 +2621,9 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 55,
+        "text": 56,
         "media": 11,
-        "total": 66
+        "total": 67
       },
       "172868239380659": {
         "text": 64,
@@ -9154,8 +9154,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Pedro Henrique (172868239380659): Tô querendo",
-        "🙃🙃🙃 (11171897864256): Dar justa vc causa 🤣🤣🤣🤣",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Oxi, só não ficar bebo",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Exatamente...",
         "🎀  Ň𝐘ηａ🐆 (266048007835881): Treta so se for pra vc, apenas esclarecir algo. pq se tem uma coisa que eu sou e direta e verdadeira 😉",
@@ -9653,7 +9651,9 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Como foi o dia de vocês povo?",
         "Juliano Perlin (222595437858867): Fim de ano vou mesmo",
         "Juliano Perlin (222595437858867): Ja estive la ano passado",
-        "Clayton 🇳🇬 (155503636275307): Foi corrido mais foi ótimo"
+        "Clayton 🇳🇬 (155503636275307): Foi corrido mais foi ótimo",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Que bom!!!",
+        "Gleydson Souza (274384656834700): Cansativo"
       ]
     },
     "120363428464897153@g.us": {
@@ -16302,6 +16302,18 @@
         "authorName": "Clayton 🇳🇬",
         "text": "Foi corrido mais foi ótimo",
         "timestamp": 1787874112530
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Que bom!!!",
+        "timestamp": 1787874134910
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Cansativo",
+        "timestamp": 1787874138647
       }
     ],
     "120363428464897153@g.us": [],
@@ -16417,7 +16429,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20846,
+    "120363432018531082@g.us": 20848,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1665,
@@ -135646,6 +135658,18 @@
         "text": "Foi corrido mais foi ótimo",
         "pushName": "Clayton 🇳🇬",
         "timestamp": 1787874112530
+      },
+      "ACCD11D40F3F05690B7F2F3A28AA080C": {
+        "sender": "53537388122141@lid",
+        "text": "Que bom!!!",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787874134910
+      },
+      "ACD15B3C46CEA8E78AAADECF04F69139": {
+        "sender": "274384656834700@lid",
+        "text": "Cansativo",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787874138647
       }
     },
     "120363428464897153@g.us": {
@@ -184527,7 +184551,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787874112530,
+    "120363432018531082@g.us": 1787874138647,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787873916387,
