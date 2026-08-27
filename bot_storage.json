@@ -1511,9 +1511,9 @@
         "total": 4
       },
       "272048228188398": {
-        "text": 78,
+        "text": 79,
         "media": 15,
-        "total": 93
+        "total": 94
       },
       "55959196049495": {
         "text": 6,
@@ -2027,8 +2027,8 @@
       },
       "138483016421544": {
         "text": 4,
-        "media": 3,
-        "total": 7
+        "media": 4,
+        "total": 8
       },
       "213893834105067": {
         "text": 2,
@@ -2636,9 +2636,9 @@
         "total": 3
       },
       "193729163993156": {
-        "text": 3,
+        "text": 4,
         "media": 1,
-        "total": 4
+        "total": 5
       }
     },
     "120363428464897153@g.us": {
@@ -9119,7 +9119,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Camila Designer (92629643563147): 🤣🤣🤣🤣",
         "Camila Designer (92629643563147): Esse vê até as semanas",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): O massagista saiu",
         "Souza (190864487919667): Oi.",
@@ -9618,7 +9617,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Pode pv Leandro? Por favor",
         "Souza (190864487919667): Buenas noites",
         "Souza (190864487919667): Partiu casa",
-        "willian (163530946961491): Esse cara me representa kkk"
+        "willian (163530946961491): Esse cara me representa kkk",
+        "Lailson Nathan. (272048228188398): Top."
       ]
     },
     "120363428464897153@g.us": {
@@ -15752,18 +15752,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Agarra o precioso @266048007835881  e não solta, vai que é tua",
-        "timestamp": 1787863385170
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Pode ficar todinho pra você @266048007835881",
-        "timestamp": 1787863409574
-      },
-      {
         "authorNum": "11171897864256",
         "authorName": "🙃🙃🙃",
         "text": "Ola",
@@ -16512,6 +16500,12 @@
         "authorName": "willian",
         "text": "Esse cara me representa kkk",
         "timestamp": 1787865141885
+      },
+      {
+        "authorNum": "272048228188398",
+        "authorName": "Lailson Nathan.",
+        "text": "Top.",
+        "timestamp": 1787865213022
       }
     ],
     "120363428464897153@g.us": [],
@@ -16662,7 +16656,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20449,
+    "120363432018531082@g.us": 20450,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1542,
@@ -133534,6 +133528,12 @@
         "text": "Esse cara me representa kkk",
         "pushName": "willian",
         "timestamp": 1787865141885
+      },
+      "ACD97A869F3A37EF319429E45ED834E2": {
+        "sender": "272048228188398@lid",
+        "text": "Top.",
+        "pushName": "Lailson Nathan.",
+        "timestamp": 1787865213023
       }
     },
     "120363428464897153@g.us": {
@@ -181663,7 +181663,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787865162593,
+    "120363432018531082@g.us": 1787865213022,
     "120363428464897153@g.us": 1787824145537,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787865029188,
