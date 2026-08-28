@@ -2838,9 +2838,9 @@
         "total": 8
       },
       "227783724793861": {
-        "text": 16,
+        "text": 17,
         "media": 1,
-        "total": 17
+        "total": 18
       },
       "159304631980141": {
         "text": 1,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Souza (190864487919667): Os meus já foram machucados",
         "Camila Designer (92629643563147): No Mercado Negro",
         "Nanda (263797142995147): mais é pesado",
         "Souza (190864487919667): Maltratados",
@@ -10449,7 +10448,8 @@
         "Gabriel (145381035905262): Mas é isso mesmo, só concorda",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Brad Pitt ele\n@145381035905262",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Sempre",
-        "Gabriel (145381035905262): Sou normal pessoal"
+        "Gabriel (145381035905262): Sou normal pessoal",
+        "May (227783724793861): Impressionante como em todo grupo tem a mesma coisa, pode ter um milhão de pessoas e a pessoa foca nos casados , MDS sabe talaricagem pelo amor"
       ]
     },
     "120363428464897153@g.us": {
@@ -17484,12 +17484,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "1395881181241",
-        "authorName": "Bruno Aguiar",
-        "text": "É bom, desfrutar de um chá e um bom descanso",
-        "timestamp": 1787941824216
-      },
-      {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "@all",
@@ -17710,6 +17704,12 @@
         "authorName": "Gabriel",
         "text": "Sou normal pessoal",
         "timestamp": 1787943613553
+      },
+      {
+        "authorNum": "227783724793861",
+        "authorName": "May",
+        "text": "Impressionante como em todo grupo tem a mesma coisa, pode ter um milhão de pessoas e a pessoa foca nos casados , MDS sabe talaricagem pelo amor",
+        "timestamp": 1787943632367
       }
     ],
     "120363428464897153@g.us": [],
@@ -17821,7 +17821,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22297,
+    "120363432018531082@g.us": 22298,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -145662,6 +145662,12 @@
         "text": "Sou normal pessoal",
         "pushName": "Gabriel",
         "timestamp": 1787943613553
+      },
+      "ACAD5E086417F6B96770E3DBE8704CC7": {
+        "sender": "227783724793861@lid",
+        "text": "Impressionante como em todo grupo tem a mesma coisa, pode ter um milhão de pessoas e a pessoa foca nos casados , MDS sabe talaricagem pelo amor",
+        "pushName": "May",
+        "timestamp": 1787943632367
       }
     },
     "120363428464897153@g.us": {
@@ -199123,7 +199129,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787943613553,
+    "120363432018531082@g.us": 1787943632367,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
