@@ -179,8 +179,8 @@
       },
       "81991328395336": {
         "text": 3949,
-        "media": 1352,
-        "total": 5301
+        "media": 1353,
+        "total": 5302
       },
       "179040627490824": {
         "text": 433,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Souza (190864487919667): Pega fogo",
         "Rafael Moura (57707230945348): Tem pra vc aqui 😏",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Boa tarde @all \n\n\nSumida pq tô no dentista com meu baby",
         "May (227783724793861): Aceito",
@@ -10449,7 +10448,8 @@
         "Leandro (+55 (11) 92701-8683): Quem se compromete? 🤞🏼",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): A pronto, começou\n@54259127210155 \n@81991328395336",
         "Leandro (+55 (11) 92701-8683): O Leônidas, você tem que parar de arrumar essas confusão...",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @53537388122141"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @53537388122141",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @163530946961491"
       ]
     },
     "120363428464897153@g.us": {
@@ -17538,18 +17538,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Obrigada pelo carinho e elogio 🤌🏻🥰\nDamos o melhor pro grupo e pra quem interage por aqui. Vocês são fodas\n@81991328395336 \n@54259127210155 \n@145381035905262",
-        "timestamp": 1787955971511
-      },
-      {
-        "authorNum": "120363432018531082",
-        "authorName": "",
-        "text": "Obrigada pelo carinho e elogio 🤌🏻🥰\nDamos o melhor pro grupo e pra quem interage por aqui. Vocês são fodas\n@81991328395336 \n@54259127210155 \n@145381035905262",
-        "timestamp": 1787955972021
-      },
-      {
         "authorNum": "129373172711439",
         "authorName": "Celiete Souza",
         "text": "Já é noite kkkk",
@@ -17782,6 +17770,12 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "@53537388122141",
         "timestamp": 1787957768306
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "@163530946961491",
+        "timestamp": 1787957795651
       }
     ],
     "120363428464897153@g.us": [],
@@ -18078,7 +18072,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22560,
+    "120363432018531082@g.us": 22561,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2136,
@@ -147473,6 +147467,12 @@
         "text": "@53537388122141",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787957768306
+      },
+      "AC9B7459BBE7DFBF2CFC80E579027642": {
+        "sender": "81991328395336@lid",
+        "text": "@163530946961491",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787957795651
       }
     },
     "120363428464897153@g.us": {
@@ -201258,7 +201258,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787957768306,
+    "120363432018531082@g.us": 1787957795651,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787957058249,
