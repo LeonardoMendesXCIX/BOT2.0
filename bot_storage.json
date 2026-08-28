@@ -2629,8 +2629,8 @@
       },
       "75797868064796": {
         "text": 18,
-        "media": 53,
-        "total": 71
+        "media": 54,
+        "total": 72
       },
       "153764728184839": {
         "text": 2,
@@ -2663,9 +2663,9 @@
         "total": 77
       },
       "172868239380659": {
-        "text": 111,
+        "text": 112,
         "media": 20,
-        "total": 131
+        "total": 132
       },
       "170455038193841": {
         "text": 1,
@@ -2798,9 +2798,9 @@
         "total": 5
       },
       "247020967165997": {
-        "text": 36,
+        "text": 37,
         "media": 9,
-        "total": 45
+        "total": 46
       },
       "206253020176458": {
         "text": 3,
@@ -10177,7 +10177,8 @@
         "Pedro Henrique (172868239380659): Brincadeira a parte, hoje em dia tá tudo caro, antigamente tinha uns lugares mais em conta em restaurante",
         "Rafael Moura (57707230945348): Mas ce ta braba?",
         "Gabi 💋 (247020967165997): Eu tô é rindo",
-        "Gabi 💋 (247020967165997): Da carência da pessoa"
+        "Gabi 💋 (247020967165997): Da carência da pessoa",
+        "Pedro Henrique (172868239380659): Não é sobre minhas condições, falo no sentido no total tu vai num rodízio de churrasco por exemplo triplicou o valor"
       ]
     },
     "120363428464897153@g.us": {
@@ -17843,6 +17844,12 @@
         "authorName": "Gabi 💋",
         "text": "Da carência da pessoa",
         "timestamp": 1787916209567
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Não é sobre minhas condições, falo no sentido no total tu vai num rodízio de churrasco por exemplo triplicou o valor",
+        "timestamp": 1787916213501
       }
     ],
     "120363428464897153@g.us": [],
@@ -17887,7 +17894,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21415,
+    "120363432018531082@g.us": 21416,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -140487,6 +140494,12 @@
         "text": "Da carência da pessoa",
         "pushName": "Gabi 💋",
         "timestamp": 1787916209567
+      },
+      "ACAA62375A59F84E2217FD76C607A8B2": {
+        "sender": "172868239380659@lid",
+        "text": "Não é sobre minhas condições, falo no sentido no total tu vai num rodízio de churrasco por exemplo triplicou o valor",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787916213501
       }
     },
     "120363428464897153@g.us": {
@@ -193282,7 +193295,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787916209567,
+    "120363432018531082@g.us": 1787916239450,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
