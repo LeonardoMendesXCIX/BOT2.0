@@ -698,9 +698,9 @@
         "total": 95
       },
       "57707230945348": {
-        "text": 1171,
+        "text": 1172,
         "media": 211,
-        "total": 1382
+        "total": 1383
       },
       "152218690924790": {
         "text": 309,
@@ -2663,9 +2663,9 @@
         "total": 77
       },
       "172868239380659": {
-        "text": 98,
+        "text": 99,
         "media": 15,
-        "total": 113
+        "total": 114
       },
       "170455038193841": {
         "text": 1,
@@ -2799,8 +2799,8 @@
       },
       "247020967165997": {
         "text": 21,
-        "media": 2,
-        "total": 23
+        "media": 4,
+        "total": 25
       },
       "206253020176458": {
         "text": 3,
@@ -10134,7 +10134,9 @@
         "Rafael Moura (57707230945348): 🤣",
         "Pedro Henrique (172868239380659): Sim, é a necessidade da vida adulta",
         "Gabi 💋 (247020967165997): A selva está salgada, para procura no cabaré",
-        "Pedro Henrique (172868239380659): Gasta menos hoje em dia, tu vai sair com uma mulher tem que pagar tudo e ainda perigoso ganhar nem um beijo"
+        "Pedro Henrique (172868239380659): Gasta menos hoje em dia, tu vai sair com uma mulher tem que pagar tudo e ainda perigoso ganhar nem um beijo",
+        "Pedro Henrique (172868239380659): Cabaré é certo",
+        "Rafael Moura (57707230945348): Polemicas"
       ]
     },
     "120363428464897153@g.us": {
@@ -17057,12 +17059,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "210152934359048",
-        "authorName": "Bruno",
-        "text": "Bom diaa",
-        "timestamp": 1787913783987
-      },
-      {
         "authorNum": "75797868064796",
         "authorName": "Alexandre Bastos",
         "text": "Bem vinda",
@@ -17619,6 +17615,18 @@
         "authorName": "Pedro Henrique",
         "text": "Gasta menos hoje em dia, tu vai sair com uma mulher tem que pagar tudo e ainda perigoso ganhar nem um beijo",
         "timestamp": 1787915572278
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Cabaré é certo",
+        "timestamp": 1787915582189
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Polemicas",
+        "timestamp": 1787915609618
       }
     ],
     "120363428464897153@g.us": [],
@@ -17657,7 +17665,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21372,
+    "120363432018531082@g.us": 21374,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1992,
@@ -139999,6 +140007,18 @@
         "text": "Gasta menos hoje em dia, tu vai sair com uma mulher tem que pagar tudo e ainda perigoso ganhar nem um beijo",
         "pushName": "Pedro Henrique",
         "timestamp": 1787915572278
+      },
+      "AC5E894CAB42DCEAA467001DC05E5B31": {
+        "sender": "172868239380659@lid",
+        "text": "Cabaré é certo",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787915582189
+      },
+      "AC98B18A88522551405A6828A856023E": {
+        "sender": "57707230945348@lid",
+        "text": "Polemicas",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787915609618
       }
     },
     "120363428464897153@g.us": {
@@ -192788,7 +192808,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787915572278,
+    "120363432018531082@g.us": 1787915609618,
     "120363428464897153@g.us": 1787913193216,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787914462012,
