@@ -314,9 +314,9 @@
         "total": 117
       },
       "199733712785531": {
-        "text": 196,
+        "text": 197,
         "media": 113,
-        "total": 309
+        "total": 310
       },
       "153596754661626": {
         "text": 1,
@@ -9801,7 +9801,8 @@
         "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): 👀",
         "Gabriel (145381035905262): Saudações",
         "Alexandre Henrique (165687523848431): Obg",
-        "Leandro (+55 (11) 92701-8683): Teu xará aí @199733712785531"
+        "Leandro (+55 (11) 92701-8683): Teu xará aí @199733712785531",
+        "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Será? Haha"
       ]
     },
     "120363428464897153@g.us": {
@@ -16726,21 +16727,15 @@
         "authorName": "Leandro",
         "text": "Teu xará aí @199733712785531",
         "timestamp": 1787889799927
+      },
+      {
+        "authorNum": "199733712785531",
+        "authorName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
+        "text": "Será? Haha",
+        "timestamp": 1787889915518
       }
     ],
     "120363428464897153@g.us": [
-      {
-        "authorNum": "76914341503187",
-        "authorName": "Joseph",
-        "text": "sei nem oq é isso",
-        "timestamp": 1787887956838
-      },
-      {
-        "authorNum": "16007578021977",
-        "authorName": "Jean Correa",
-        "text": "Eu sei",
-        "timestamp": 1787888004951
-      },
       {
         "authorNum": "81991328395336",
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
@@ -16846,24 +16841,6 @@
     ],
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Amiga, tu tá bem?",
-        "timestamp": 1787888042905
-      },
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Naveira idiota",
-        "timestamp": 1787888047071
-      },
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Ela tá engraçadinha",
-        "timestamp": 1787888073265
-      },
       {
         "authorNum": "5511927018683",
         "authorName": "Leandro",
@@ -17154,7 +17131,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21105,
+    "120363432018531082@g.us": 21106,
     "120363428464897153@g.us": 6279,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1962,
@@ -137918,6 +137895,12 @@
         "text": "Teu xará aí @199733712785531",
         "pushName": "Leandro",
         "timestamp": 1787889799927
+      },
+      "3A226060A3A019995BB2": {
+        "sender": "199733712785531@lid",
+        "text": "Será? Haha",
+        "pushName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
+        "timestamp": 1787889915518
       }
     },
     "120363428464897153@g.us": {
@@ -190357,7 +190340,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787889878462,
+    "120363432018531082@g.us": 1787889915518,
     "120363428464897153@g.us": 1787889775812,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787889817361,
