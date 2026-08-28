@@ -2853,9 +2853,9 @@
         "total": 1
       },
       "147940920283293": {
-        "text": 2,
+        "text": 3,
         "media": 1,
-        "total": 3
+        "total": 4
       }
     },
     "120363428464897153@g.us": {
@@ -9895,7 +9895,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Alexandre Bastos (75797868064796): Bom ótimo dia",
         ". (279628962885736): Bom dia pessoal \nVamos que vamos",
         "Edison Medeiros💚 (108268240302270): Bom dia",
         "PAULO PEREIRA (129978696003832): Nome : Paulo Pereira \nIdade : 32 \nCidade : São Carlos-SP",
@@ -10394,7 +10393,8 @@
         "~Gará (83911531044906): Da aulas on-line?",
         "Arthur (206253020176458): Q linda bem vinda ao grupo",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bom dia e seja bem vindo(a)! Se apresente pra nós, por favor",
-        "Gleydson Souza (274384656834700): Bem vinda"
+        "Gleydson Souza (274384656834700): Bem vinda",
+        "fé ! (147940920283293): Diferente dos iguais aí sim 👌"
       ]
     },
     "120363428464897153@g.us": {
@@ -17336,18 +17336,6 @@
       {
         "authorNum": "94227841179800",
         "authorName": "amanda🫶",
-        "text": "Yes",
-        "timestamp": 1787922906058
-      },
-      {
-        "authorNum": "75797868064796",
-        "authorName": "Alexandre Bastos",
-        "text": "Da onde do rj",
-        "timestamp": 1787922929675
-      },
-      {
-        "authorNum": "94227841179800",
-        "authorName": "amanda🫶",
         "text": "Itaboraí",
         "timestamp": 1787923037459
       },
@@ -17536,6 +17524,12 @@
         "authorName": "Gleydson Souza",
         "text": "Bem vinda",
         "timestamp": 1787924693882
+      },
+      {
+        "authorNum": "147940920283293",
+        "authorName": "fé !",
+        "text": "Diferente dos iguais aí sim 👌",
+        "timestamp": 1787924762383
       }
     ],
     "120363428464897153@g.us": [],
@@ -17574,7 +17568,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21707,
+    "120363432018531082@g.us": 21708,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2009,
@@ -141919,6 +141913,12 @@
         "text": "Bem vinda",
         "pushName": "Gleydson Souza",
         "timestamp": 1787924693882
+      },
+      "ACB4F43B37E5049BBB7405B49FD8A829": {
+        "sender": "147940920283293@lid",
+        "text": "Diferente dos iguais aí sim 👌",
+        "pushName": "fé !",
+        "timestamp": 1787924762383
       }
     },
     "120363428464897153@g.us": {
@@ -194810,7 +194810,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787924693882,
+    "120363432018531082@g.us": 1787924762383,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787923699618,
