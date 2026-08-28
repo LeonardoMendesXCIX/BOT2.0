@@ -2663,9 +2663,9 @@
         "total": 82
       },
       "172868239380659": {
-        "text": 181,
+        "text": 182,
         "media": 38,
-        "total": 219
+        "total": 220
       },
       "170455038193841": {
         "text": 1,
@@ -9855,7 +9855,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Jk (120542904463568): E obrigado por me aceitar no grupo",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Disponha",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): 💥 BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Queremos conhecer você! ✨\n\n📸 Sua foto:\n💬 Nome:\n🎂 Idade:\n📍 De onde sou:\n\n*🫶🏻 Seja bem-vindo(a)!*\n\n✨ Sinta-se à vontade para interagir, conhecer a galera e fazer no",
         "Leandro (+55 (11) 92701-8683): Ele tinha reiniciado e eu nem vi",
@@ -10354,7 +10353,8 @@
         "Souza (190864487919667): Como uma porta",
         "Gabi 💋 (247020967165997): Obrigada",
         "Pedro Henrique (172868239380659): Muito tarde",
-        "F. RicaRdo sAnToS (193729163993156): Bom dia a todas a todos a todes a tody Nescau nesquik... \nBom Dia a eles elas, ilix, asterix, obelix, dickyWinks, Lala, Pow, Teletubbies.\nBom dia aos binários, não binários, bilionários centenários.\n\n"
+        "F. RicaRdo sAnToS (193729163993156): Bom dia a todas a todos a todes a tody Nescau nesquik... \nBom Dia a eles elas, ilix, asterix, obelix, dickyWinks, Lala, Pow, Teletubbies.\nBom dia aos binários, não binários, bilionários centenários.\n\n",
+        "Pedro Henrique (172868239380659): Desgrama"
       ]
     },
     "120363428464897153@g.us": {
@@ -17278,24 +17278,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Ksksks agora dei risada",
-        "timestamp": 1787917722412
-      },
-      {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Nada pow, tá tudo certo entre eu e ela, só uma zoeira saudável",
-        "timestamp": 1787917724075
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Sim",
-        "timestamp": 1787917730075
-      },
-      {
         "authorNum": "172868239380659",
         "authorName": "Pedro Henrique",
         "text": "Sexta feira pow, tem que dá uma animada, só trabalhar não da",
@@ -17750,6 +17732,12 @@
         "authorName": "F. RicaRdo sAnToS",
         "text": "Bom dia a todas a todos a todes a tody Nescau nesquik... \nBom Dia a eles elas, ilix, asterix, obelix, dickyWinks, Lala, Pow, Teletubbies.\nBom dia aos binários, não binários, bilionários centenários.\n\nbom dia!!!",
         "timestamp": 1787919501407
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Desgrama",
+        "timestamp": 1787919543204
       }
     ],
     "120363428464897153@g.us": [],
@@ -17769,7 +17757,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21626,
+    "120363432018531082@g.us": 21627,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -141635,6 +141623,12 @@
         "text": "Bom dia a todas a todos a todes a tody Nescau nesquik... \nBom Dia a eles elas, ilix, asterix, obelix, dickyWinks, Lala, Pow, Teletubbies.\nBom dia aos binários, não binários, bilionários centenários.\n\nbom dia!!!",
         "pushName": "F. RicaRdo sAnToS",
         "timestamp": 1787919501407
+      },
+      "ACFB01A385B96A38926894F028498853": {
+        "sender": "172868239380659@lid",
+        "text": "Desgrama",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787919543204
       }
     },
     "120363428464897153@g.us": {
@@ -194430,7 +194424,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787919501407,
+    "120363432018531082@g.us": 1787919543204,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
