@@ -173,9 +173,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1543,
-        "media": 424,
-        "total": 1967
+        "text": 1544,
+        "media": 425,
+        "total": 1969
       },
       "81991328395336": {
         "text": 3923,
@@ -454,8 +454,8 @@
       },
       "5511927018683": {
         "text": 1714,
-        "media": 333,
-        "total": 2047
+        "media": 334,
+        "total": 2048
       },
       "252600633041077": {
         "text": 1,
@@ -698,9 +698,9 @@
         "total": 95
       },
       "57707230945348": {
-        "text": 1215,
+        "text": 1216,
         "media": 226,
-        "total": 1441
+        "total": 1442
       },
       "152218690924790": {
         "text": 309,
@@ -2688,9 +2688,9 @@
         "total": 62
       },
       "208958782488665": {
-        "text": 21,
+        "text": 22,
         "media": 13,
-        "total": 34
+        "total": 35
       },
       "262456945414267": {
         "text": 9,
@@ -2814,8 +2814,8 @@
       },
       "221307534876912": {
         "text": 12,
-        "media": 15,
-        "total": 27
+        "media": 16,
+        "total": 28
       },
       "238388519141379": {
         "text": 7,
@@ -9900,9 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "𝔞𝔩𝔦𝔫𝔢🫶🏽 (221307534876912): Vc é homem nunca obedeço",
-        "Gabi 💋 (247020967165997): Calma",
-        "Rafael Moura (57707230945348): Ja obedeceu",
         "Rafael Moura (57707230945348): Rsss",
         "Gabi 💋 (247020967165997): Bem isso",
         "Pedro Henrique (172868239380659): Quem precisa de calma é você, partiu pra ofensa do nada kkkkkkkkkkkk toma um suco de maracujá",
@@ -10399,7 +10396,10 @@
         "Leandro (+55 (11) 92701-8683): Fazer o que né 😌",
         "Leandro (+55 (11) 92701-8683): Boa tarde a @all",
         "Leandro (+55 (11) 92701-8683): Bora dar o play no fim de semana?",
-        "Souza (190864487919667): Só amanhã às 12"
+        "Souza (190864487919667): Só amanhã às 12",
+        "Rafael Moura (57707230945348): 👀",
+        "Celiete Souza (129373172711439): Boa tarde",
+        "Jessica (208958782488665): Tarde"
       ]
     },
     "120363428464897153@g.us": {
@@ -17344,18 +17344,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Ah que linda 😍",
-        "timestamp": 1787929751479
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Maranhão",
-        "timestamp": 1787929755919
-      },
-      {
         "authorNum": "190864487919667",
         "authorName": "Souza",
         "text": "Ué, mas a barriga é grande",
@@ -17888,6 +17876,24 @@
         "authorName": "Souza",
         "text": "Só amanhã às 12",
         "timestamp": 1787931534418
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "👀",
+        "timestamp": 1787931554753
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Boa tarde",
+        "timestamp": 1787931555554
+      },
+      {
+        "authorNum": "208958782488665",
+        "authorName": "Jessica",
+        "text": "Tarde",
+        "timestamp": 1787931568647
       }
     ],
     "120363428464897153@g.us": [],
@@ -17920,7 +17926,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21996,
+    "120363432018531082@g.us": 21999,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -143980,6 +143986,24 @@
         "text": "Só amanhã às 12",
         "pushName": "Souza",
         "timestamp": 1787931534419
+      },
+      "AC6B7C40313C7A2B5DF989F4BB764A95": {
+        "sender": "57707230945348@lid",
+        "text": "👀",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787931554753
+      },
+      "AC04EB4406EA5F0A24631CCA5D599E56": {
+        "sender": "129373172711439@lid",
+        "text": "Boa tarde",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787931555554
+      },
+      "ACA55F6EA69C119AB16ED47F992E8F99": {
+        "sender": "208958782488665@lid",
+        "text": "Tarde",
+        "pushName": "Jessica",
+        "timestamp": 1787931568647
       }
     },
     "120363428464897153@g.us": {
@@ -196901,7 +196925,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787931534418,
+    "120363432018531082@g.us": 1787931573638,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
