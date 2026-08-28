@@ -2603,9 +2603,9 @@
         "total": 30
       },
       "190864487919667": {
-        "text": 298,
+        "text": 300,
         "media": 43,
-        "total": 341
+        "total": 343
       },
       "82227819987089": {
         "text": 2,
@@ -2803,9 +2803,9 @@
         "total": 150
       },
       "206253020176458": {
-        "text": 19,
+        "text": 21,
         "media": 6,
-        "total": 25
+        "total": 27
       },
       "210152934359048": {
         "text": 16,
@@ -2858,9 +2858,9 @@
         "total": 4
       },
       "263797142995147": {
-        "text": 53,
+        "text": 55,
         "media": 4,
-        "total": 57
+        "total": 59
       }
     },
     "120363428464897153@g.us": {
@@ -9900,10 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Gabi 💋 (247020967165997): Tu que está passando vergonha",
-        "Rafael Moura (57707230945348): Daqui a 5 horas to chegando ai",
-        "Rafael Moura (57707230945348): 🤣",
-        "Rafael Moura (57707230945348): No momento acompanho esta treta matutina",
         "Gabi 💋 (247020967165997): Obrigada",
         "Pedro Henrique (172868239380659): Se tu fala que só 1 ano de solteiro é pouco, significa que vc é rodada",
         "Pedro Henrique (172868239380659): Kkkkkkkkkkkk",
@@ -10399,7 +10395,11 @@
         "Souza (190864487919667): Quem????",
         "Arthur (206253020176458): E quem é o pai ????",
         "Souza (190864487919667): Aí aí",
-        "Souza (190864487919667): Tava bem aí"
+        "Souza (190864487919667): Tava bem aí",
+        "Nanda (263797142995147): reagindo tem, no youtube",
+        "Souza (190864487919667): Tavam falando de dividir a conta no primeiro encontro",
+        "Nanda (263797142995147): ela nem foi atrás",
+        "Souza (190864487919667): De que a mulher tinha que dar algo pro cara no primeiro"
       ]
     },
     "120363428464897153@g.us": {
@@ -17342,12 +17342,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Sim sim",
-        "timestamp": 1787929066553
-      },
-      {
         "authorNum": "274384656834700",
         "authorName": "Gleydson Souza",
         "text": "Acho q sim",
@@ -17898,6 +17892,30 @@
         "authorName": "Souza",
         "text": "Tava bem aí",
         "timestamp": 1787930860190
+      },
+      {
+        "authorNum": "263797142995147",
+        "authorName": "Nanda",
+        "text": "reagindo tem, no youtube",
+        "timestamp": 1787930862405
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Tavam falando de dividir a conta no primeiro encontro",
+        "timestamp": 1787930875711
+      },
+      {
+        "authorNum": "263797142995147",
+        "authorName": "Nanda",
+        "text": "ela nem foi atrás",
+        "timestamp": 1787930876276
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "De que a mulher tinha que dar algo pro cara no primeiro",
+        "timestamp": 1787930888871
       }
     ],
     "120363428464897153@g.us": [],
@@ -17917,7 +17935,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21958,
+    "120363432018531082@g.us": 21962,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -143749,6 +143767,30 @@
         "text": "Tava bem aí",
         "pushName": "Souza",
         "timestamp": 1787930860190
+      },
+      "AC4BA65738E774CE14CBB27319CBD2FC": {
+        "sender": "263797142995147@lid",
+        "text": "reagindo tem, no youtube",
+        "pushName": "Nanda",
+        "timestamp": 1787930862405
+      },
+      "ACA6371AC6BE71A8E8D28E31E09586D2": {
+        "sender": "190864487919667@lid",
+        "text": "Tavam falando de dividir a conta no primeiro encontro",
+        "pushName": "Souza",
+        "timestamp": 1787930875712
+      },
+      "AC9E0926DF8579F2271006EC4499696B": {
+        "sender": "263797142995147@lid",
+        "text": "ela nem foi atrás",
+        "pushName": "Nanda",
+        "timestamp": 1787930876276
+      },
+      "ACA235F1E3ED873EAB6002117F73C3D0": {
+        "sender": "190864487919667@lid",
+        "text": "De que a mulher tinha que dar algo pro cara no primeiro",
+        "pushName": "Souza",
+        "timestamp": 1787930888871
       }
     },
     "120363428464897153@g.us": {
@@ -196658,7 +196700,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787930860190,
+    "120363432018531082@g.us": 1787930888871,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
