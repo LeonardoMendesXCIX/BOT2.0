@@ -2871,9 +2871,9 @@
         "total": 1
       },
       "199733712785531": {
-        "text": 76,
+        "text": 77,
         "media": 94,
-        "total": 170
+        "total": 171
       },
       "162397679534082": {
         "text": 2,
@@ -3351,9 +3351,9 @@
         "total": 1
       },
       "190864487919667": {
-        "text": 66,
-        "media": 13,
-        "total": 79
+        "text": 67,
+        "media": 14,
+        "total": 81
       },
       "118515428286715": {
         "text": 21,
@@ -3425,9 +3425,9 @@
         "total": 580
       },
       "5511927018683": {
-        "text": 503,
+        "text": 504,
         "media": 95,
-        "total": 598
+        "total": 599
       },
       "145381035905262": {
         "text": 412,
@@ -13915,7 +13915,9 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Eu já",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Exato",
         "Joseph (76914341503187): como é essa brincadeira de pv liberado?",
-        "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Verdade kk"
+        "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Verdade kk",
+        "Souza (190864487919667): Tem cabaré essa noite?",
+        "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Não sei"
       ]
     },
     "120363409727467494@g.us": {
@@ -16125,7 +16127,8 @@
         "Gabriel (145381035905262): Mano tem a camionete da Nissan",
         "Leandro (+55 (11) 92701-8683): A Frontier?",
         "Gabriel (145381035905262): Nunca que eu ando numa merda dessas",
-        "Gabriel (145381035905262): E nem em negócio eu pego essa porra"
+        "Gabriel (145381035905262): E nem em negócio eu pego essa porra",
+        "Leandro (+55 (11) 92701-8683): Na época que fui vender minha Santa Fé, um cara queria trocar pau a pau numa Frontier"
       ]
     },
     "120363411233423709@g.us": {
@@ -16766,6 +16769,18 @@
         "authorName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
         "text": "Verdade kk",
         "timestamp": 1787888675103
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Tem cabaré essa noite?",
+        "timestamp": 1787888702756
+      },
+      {
+        "authorNum": "199733712785531",
+        "authorName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
+        "text": "Não sei",
+        "timestamp": 1787888719785
       }
     ],
     "120363409727467494@g.us": [],
@@ -17291,6 +17306,12 @@
         "authorName": "Gabriel",
         "text": "E nem em negócio eu pego essa porra",
         "timestamp": 1787888461553
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Na época que fui vender minha Santa Fé, um cara queria trocar pau a pau numa Frontier",
+        "timestamp": 1787888733672
       }
     ],
     "120363411233423709@g.us": [],
@@ -17314,9 +17335,9 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 21100,
-    "120363428464897153@g.us": 6272,
+    "120363428464897153@g.us": 6274,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1926,
+    "120363412288900422@g.us": 1927,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -174853,6 +174874,18 @@
         "text": "Verdade kk",
         "pushName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
         "timestamp": 1787888675103
+      },
+      "AC61465721F0044D78054C0C13E09F19": {
+        "sender": "190864487919667@lid",
+        "text": "Tem cabaré essa noite?",
+        "pushName": "Souza",
+        "timestamp": 1787888702756
+      },
+      "3ABCCF729ADEF4809AFA": {
+        "sender": "199733712785531@lid",
+        "text": "Não sei",
+        "pushName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
+        "timestamp": 1787888719785
       }
     },
     "120363409727467494@g.us": {
@@ -187613,6 +187646,12 @@
         "text": "E nem em negócio eu pego essa porra",
         "pushName": "Gabriel",
         "timestamp": 1787888461553
+      },
+      "A5E299045C02FEDA299C841C98295717": {
+        "sender": "54259127210155@lid",
+        "text": "Na época que fui vender minha Santa Fé, um cara queria trocar pau a pau numa Frontier",
+        "pushName": "Leandro",
+        "timestamp": 1787888733672
       }
     },
     "120363411233423709@g.us": {
@@ -190229,9 +190268,9 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787888603340,
-    "120363428464897153@g.us": 1787888675103,
+    "120363428464897153@g.us": 1787888719785,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787888461553,
+    "120363412288900422@g.us": 1787888733672,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
