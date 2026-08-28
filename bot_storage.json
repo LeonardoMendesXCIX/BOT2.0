@@ -173,14 +173,14 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1603,
+        "text": 1606,
         "media": 441,
-        "total": 2044
+        "total": 2047
       },
       "81991328395336": {
-        "text": 3943,
+        "text": 3944,
         "media": 1348,
-        "total": 5291
+        "total": 5292
       },
       "179040627490824": {
         "text": 433,
@@ -3946,8 +3946,8 @@
       },
       "81991328395336": {
         "text": 16,
-        "media": 900,
-        "total": 916
+        "media": 927,
+        "total": 943
       },
       "145381035905262": {
         "text": 7,
@@ -9950,9 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Camila Designer (92629643563147): Boa tarde ❤️",
-        "🙃🙃🙃 (11171897864256): Aah tá por isso entrei e senti um cheiro estranho 🤣🤪",
-        "🙃🙃🙃 (11171897864256): Bem vinda ☺️",
         "🙃🙃🙃 (11171897864256): Vai sábado",
         "Alexandre Bastos (75797868064796): 🥰🥰",
         "Souza (190864487919667): Boa Jaci",
@@ -10449,7 +10446,10 @@
         "willian (163530946961491): Eu sempre falo pra ele aqui esse homem é gato de mais 🤣",
         "Souza (190864487919667): Eu mandei ontem",
         "Bruno Aguiar (+1395881181241): Estou só por quero kkkkk",
-        "Leandro (+55 (11) 92701-8683): Ela está desacreditada do nosso empreendimento @81991328395336"
+        "Leandro (+55 (11) 92701-8683): Ela está desacreditada do nosso empreendimento @81991328395336",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Tô ocupada nas figurinhas dps volto akiii",
+        "Celiete Souza (129373172711439): Tu também kkk",
+        "Celiete Souza (129373172711439): Não podemos perder a fé"
       ]
     },
     "120363428464897153@g.us": {
@@ -17485,24 +17485,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Tudo queto",
-        "timestamp": 1787944511767
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Eu tô procrastinando no trabalho",
-        "timestamp": 1787944523775
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Chegar em casa é só estudar 🤡",
-        "timestamp": 1787944537831
-      },
-      {
         "authorNum": "5511927018683",
         "authorName": "Leandro",
         "text": "Quem foi o inteligente?",
@@ -17585,6 +17567,24 @@
         "authorName": "Leandro",
         "text": "Ela está desacreditada do nosso empreendimento @81991328395336",
         "timestamp": 1787946232374
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Tô ocupada nas figurinhas dps volto akiii",
+        "timestamp": 1787946292453
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Tu também kkk",
+        "timestamp": 1787946333592
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Não podemos perder a fé",
+        "timestamp": 1787946339756
       }
     ],
     "120363428464897153@g.us": [],
@@ -17611,7 +17611,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22327,
+    "120363432018531082@g.us": 22330,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -145632,6 +145632,24 @@
         "text": "Ela está desacreditada do nosso empreendimento @81991328395336",
         "pushName": "Leandro",
         "timestamp": 1787946232374
+      },
+      "AC6A94CD4DA3C0908DB24C63E7916CF9": {
+        "sender": "81991328395336@lid",
+        "text": "Tô ocupada nas figurinhas dps volto akiii",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787946292453
+      },
+      "AC97DEF8BA475486D9AAA99B580C0F54": {
+        "sender": "129373172711439@lid",
+        "text": "Tu também kkk",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787946333593
+      },
+      "ACB866CD43487813CF86D957A8452BE7": {
+        "sender": "129373172711439@lid",
+        "text": "Não podemos perder a fé",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787946339756
       }
     },
     "120363428464897153@g.us": {
@@ -199099,7 +199117,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787946232374,
+    "120363432018531082@g.us": 1787946339756,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
@@ -199110,7 +199128,7 @@
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1787868477291,
-    "120363409024805409@g.us": 1787946215354,
+    "120363409024805409@g.us": 1787946350255,
     "120363411043114631@g.us": 1787897464612
   },
   "autoAnimSent": {
