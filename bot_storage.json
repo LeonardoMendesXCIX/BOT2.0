@@ -2629,8 +2629,8 @@
       },
       "75797868064796": {
         "text": 16,
-        "media": 32,
-        "total": 48
+        "media": 34,
+        "total": 50
       },
       "153764728184839": {
         "text": 2,
@@ -2798,9 +2798,9 @@
         "total": 4
       },
       "247020967165997": {
-        "text": 17,
+        "text": 19,
         "media": 1,
-        "total": 18
+        "total": 20
       },
       "206253020176458": {
         "text": 3,
@@ -10124,7 +10124,9 @@
         "Gabi 💋 (247020967165997): Hoje eu queria um Poke",
         "Jessica (208958782488665): Que hoje tem reunião dos internados do hospital 😬",
         "Rafael Moura (57707230945348): Oi doutora 😏",
-        "Jessica (208958782488665): Hj já tomo meus psico kkkkk"
+        "Jessica (208958782488665): Hj já tomo meus psico kkkkk",
+        "Gabi 💋 (247020967165997): Ferrou cheguei agora",
+        "Gabi 💋 (247020967165997): Mas aceitou um dia na camisa de força"
       ]
     },
     "120363428464897153@g.us": {
@@ -17049,36 +17051,6 @@
       {
         "authorNum": "210152934359048",
         "authorName": "Bruno",
-        "text": "É de onde?",
-        "timestamp": 1787913475996
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "@81991328395336",
-        "timestamp": 1787913476361
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Jajá quem vai de dormes sou eu, isso sim",
-        "timestamp": 1787913483542
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Quem está anunciando está a venda? Se tiver eu quero 😏",
-        "timestamp": 1787913495144
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Florianópolis, Santa Catarina. E você?",
-        "timestamp": 1787913502011
-      },
-      {
-        "authorNum": "210152934359048",
-        "authorName": "Bruno",
         "text": "Aah sim , sou de juiz de fora mg",
         "timestamp": 1787913524384
       },
@@ -17681,6 +17653,18 @@
         "authorName": "Jessica",
         "text": "Hj já tomo meus psico kkkkk",
         "timestamp": 1787915238383
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Ferrou cheguei agora",
+        "timestamp": 1787915291397
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Mas aceitou um dia na camisa de força",
+        "timestamp": 1787915304658
       }
     ],
     "120363428464897153@g.us": [],
@@ -17719,7 +17703,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21362,
+    "120363432018531082@g.us": 21364,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1992,
@@ -140002,6 +139986,18 @@
         "text": "Hj já tomo meus psico kkkkk",
         "pushName": "Jessica",
         "timestamp": 1787915238383
+      },
+      "AC4C4DC33D510845B4D24BE329E2B73A": {
+        "sender": "247020967165997@lid",
+        "text": "Ferrou cheguei agora",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787915291397
+      },
+      "ACA92EA670AB69D4A7ABFD40327C36AB": {
+        "sender": "247020967165997@lid",
+        "text": "Mas aceitou um dia na camisa de força",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787915304658
       }
     },
     "120363428464897153@g.us": {
@@ -192791,7 +192787,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787915238382,
+    "120363432018531082@g.us": 1787915304677,
     "120363428464897153@g.us": 1787913193216,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787914462012,
