@@ -188,9 +188,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2239,
+        "text": 2240,
         "media": 472,
-        "total": 2711
+        "total": 2712
       },
       "184237705699536": {
         "text": 524,
@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2335,
-        "media": 326,
-        "total": 2661
+        "text": 2336,
+        "media": 327,
+        "total": 2663
       },
       "252922705240205": {
         "text": 80,
@@ -9950,9 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Nanda (263797142995147): deuzulive",
-        "Camila Designer (92629643563147): Pra vender",
-        "Nanda (263797142995147): eu ia flr isso",
         "Souza (190864487919667): Os meus já foram machucados",
         "Camila Designer (92629643563147): No Mercado Negro",
         "Nanda (263797142995147): mais é pesado",
@@ -10449,7 +10446,10 @@
         " (120363432018531082): @all",
         " (120363432018531082): @92629643563147",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Nota dó",
-        "Gabriel (145381035905262): Mas é isso mesmo, só concorda"
+        "Gabriel (145381035905262): Mas é isso mesmo, só concorda",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Brad Pitt ele\n@145381035905262",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Sempre",
+        "Gabriel (145381035905262): Sou normal pessoal"
       ]
     },
     "120363428464897153@g.us": {
@@ -17484,36 +17484,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Tamo junto 🫶🏻😂😂😂",
-        "timestamp": 1787941757169
-      },
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Sim, agora vou desopilar kkkk",
-        "timestamp": 1787941783601
-      },
-      {
-        "authorNum": "1395881181241",
-        "authorName": "Bruno Aguiar",
-        "text": "Por aqui está chovendo,fazer oq",
-        "timestamp": 1787941783709
-      },
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "E encomodar aqui",
-        "timestamp": 1787941789117
-      },
-      {
-        "authorNum": "11171897864256",
-        "authorName": "🙃🙃🙃",
-        "text": "🤔",
-        "timestamp": 1787941802879
-      },
-      {
         "authorNum": "1395881181241",
         "authorName": "Bruno Aguiar",
         "text": "É bom, desfrutar de um chá e um bom descanso",
@@ -17722,6 +17692,24 @@
         "authorName": "Gabriel",
         "text": "Mas é isso mesmo, só concorda",
         "timestamp": 1787943547730
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Brad Pitt ele\n@145381035905262",
+        "timestamp": 1787943579976
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Sempre",
+        "timestamp": 1787943589715
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Sou normal pessoal",
+        "timestamp": 1787943613553
       }
     ],
     "120363428464897153@g.us": [],
@@ -17833,7 +17821,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22294,
+    "120363432018531082@g.us": 22297,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -145656,6 +145644,24 @@
         "text": "Mas é isso mesmo, só concorda",
         "pushName": "Gabriel",
         "timestamp": 1787943547730
+      },
+      "AC034FEFBD412FFEC76A5625F04ACE35": {
+        "sender": "53537388122141@lid",
+        "text": "Brad Pitt ele\n@145381035905262",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787943579976
+      },
+      "ACEBA6D498C79DDC00BDBFF3E14A019B": {
+        "sender": "53537388122141@lid",
+        "text": "Sempre",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787943589715
+      },
+      "AC2C2E88776CFB0BE3671B0E4BB7D318": {
+        "sender": "145381035905262@lid",
+        "text": "Sou normal pessoal",
+        "pushName": "Gabriel",
+        "timestamp": 1787943613553
       }
     },
     "120363428464897153@g.us": {
@@ -199117,7 +199123,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787943547730,
+    "120363432018531082@g.us": 1787943613553,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
