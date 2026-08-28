@@ -698,9 +698,9 @@
         "total": 95
       },
       "57707230945348": {
-        "text": 1198,
+        "text": 1199,
         "media": 216,
-        "total": 1414
+        "total": 1415
       },
       "152218690924790": {
         "text": 309,
@@ -2629,8 +2629,8 @@
       },
       "75797868064796": {
         "text": 21,
-        "media": 69,
-        "total": 90
+        "media": 70,
+        "total": 91
       },
       "153764728184839": {
         "text": 2,
@@ -2798,9 +2798,9 @@
         "total": 5
       },
       "247020967165997": {
-        "text": 64,
-        "media": 13,
-        "total": 77
+        "text": 66,
+        "media": 14,
+        "total": 80
       },
       "206253020176458": {
         "text": 3,
@@ -10265,7 +10265,10 @@
         "Rafael Moura (57707230945348): Rsss",
         "Gabi 💋 (247020967165997): Bem isso",
         "Pedro Henrique (172868239380659): Quem precisa de calma é você, partiu pra ofensa do nada kkkkkkkkkkkk toma um suco de maracujá",
-        "Gabi 💋 (247020967165997): Ksksks"
+        "Gabi 💋 (247020967165997): Ksksks",
+        "Gabi 💋 (247020967165997): Eu tô calma miojo",
+        "Rafael Moura (57707230945348): Miojo é bom vei",
+        "Gabi 💋 (247020967165997): Sim, faz em dois minutos"
       ]
     },
     "120363428464897153@g.us": {
@@ -18021,6 +18024,24 @@
         "authorName": "Gabi 💋",
         "text": "Ksksks",
         "timestamp": 1787917122034
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Eu tô calma miojo",
+        "timestamp": 1787917126047
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Miojo é bom vei",
+        "timestamp": 1787917135545
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Sim, faz em dois minutos",
+        "timestamp": 1787917151071
       }
     ],
     "120363428464897153@g.us": [],
@@ -18047,7 +18068,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21503,
+    "120363432018531082@g.us": 21506,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -141175,6 +141196,24 @@
         "text": "Ksksks",
         "pushName": "Gabi 💋",
         "timestamp": 1787917122035
+      },
+      "ACDAC97A1ABB21D2A5648F1B3ECE86CD": {
+        "sender": "247020967165997@lid",
+        "text": "Eu tô calma miojo",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787917126047
+      },
+      "AC4D59045D149B2CF6EA0B479B330A5F": {
+        "sender": "57707230945348@lid",
+        "text": "Miojo é bom vei",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787917135545
+      },
+      "AC83E507A5EFD066F5FF345F38F9349C": {
+        "sender": "247020967165997@lid",
+        "text": "Sim, faz em dois minutos",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787917151071
       }
     },
     "120363428464897153@g.us": {
@@ -193970,7 +194009,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787917125486,
+    "120363432018531082@g.us": 1787917154760,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
