@@ -3333,14 +3333,14 @@
         "total": 512
       },
       "145381035905262": {
-        "text": 367,
+        "text": 369,
         "media": 144,
-        "total": 511
+        "total": 513
       },
       "53537388122141": {
-        "text": 678,
+        "text": 681,
         "media": 53,
-        "total": 731
+        "total": 734
       },
       "120363412288900422": {
         "text": 1,
@@ -15578,7 +15578,12 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): A outra te chamando de cobra",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Eu nem vi",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Tirou print?",
-        "Gabriel (145381035905262): Quem ?"
+        "Gabriel (145381035905262): Quem ?",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Gigi",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): No Figurinhas",
+        "Gabriel (145381035905262): A não pooo",
+        "Gabriel (145381035905262): Levam tudo pra outro lado",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Só pq levou ban de mim"
       ]
     },
     "120363411233423709@g.us": {
@@ -16861,6 +16866,36 @@
         "authorName": "Gabriel",
         "text": "Quem ?",
         "timestamp": 1787877701035
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Gigi",
+        "timestamp": 1787877709767
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "No Figurinhas",
+        "timestamp": 1787877713170
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "A não pooo",
+        "timestamp": 1787877725216
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Levam tudo pra outro lado",
+        "timestamp": 1787877732355
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Só pq levou ban de mim",
+        "timestamp": 1787877736241
       }
     ],
     "120363411233423709@g.us": [],
@@ -16898,7 +16933,7 @@
     "120363432018531082@g.us": 21024,
     "120363428464897153@g.us": 6056,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1706,
+    "120363412288900422@g.us": 1711,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -184142,6 +184177,36 @@
         "text": "Quem ?",
         "pushName": "Gabriel",
         "timestamp": 1787877701035
+      },
+      "AC7452B0D5D9FD0C70B73C170A5E541D": {
+        "sender": "53537388122141@lid",
+        "text": "Gigi",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787877709767
+      },
+      "ACE93497D2B24CBB57987536AE304A36": {
+        "sender": "53537388122141@lid",
+        "text": "No Figurinhas",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787877713170
+      },
+      "AC876B7E328D250AABA041AC0BDB08E9": {
+        "sender": "145381035905262@lid",
+        "text": "A não pooo",
+        "pushName": "Gabriel",
+        "timestamp": 1787877725216
+      },
+      "ACCC7CB523B9F144C93E1490E01AC02E": {
+        "sender": "145381035905262@lid",
+        "text": "Levam tudo pra outro lado",
+        "pushName": "Gabriel",
+        "timestamp": 1787877732355
+      },
+      "ACADA79B8F4698DBF2A973C4AFB7A11F": {
+        "sender": "53537388122141@lid",
+        "text": "Só pq levou ban de mim",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787877736241
       }
     },
     "120363411233423709@g.us": {
@@ -186718,7 +186783,7 @@
     "120363432018531082@g.us": 1787877707664,
     "120363428464897153@g.us": 1787877672154,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787877701035,
+    "120363412288900422@g.us": 1787877736241,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
