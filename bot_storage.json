@@ -2909,9 +2909,9 @@
         "total": 1
       },
       "92629643563147": {
-        "text": 573,
+        "text": 575,
         "media": 387,
-        "total": 960
+        "total": 962
       },
       "122552932372575": {
         "text": 0,
@@ -3294,19 +3294,19 @@
         "total": 1
       },
       "190864487919667": {
-        "text": 44,
+        "text": 47,
         "media": 9,
-        "total": 53
+        "total": 56
       },
       "118515428286715": {
-        "text": 14,
+        "text": 15,
         "media": 3,
-        "total": 17
+        "total": 18
       },
       "274384656834700": {
-        "text": 14,
-        "media": 2,
-        "total": 16
+        "text": 17,
+        "media": 3,
+        "total": 20
       },
       "34626781356198": {
         "text": 0,
@@ -3315,8 +3315,8 @@
       },
       "75797868064796": {
         "text": 5,
-        "media": 3,
-        "total": 8
+        "media": 5,
+        "total": 10
       }
     },
     "120363409727467494@g.us": {
@@ -13720,7 +13720,13 @@
         "Gleydson Souza (274384656834700): Ai n da ne kkkkk\nDeixa pra mim mesmo sou mais novo",
         "Souza (190864487919667): Quantos anos?",
         "Gleydson Souza (274384656834700): 22",
-        "Souza (190864487919667): Pouca coisa"
+        "Souza (190864487919667): Pouca coisa",
+        "Camila Designer (92629643563147): Vou selecionar uma determinada marca de Mucilon 😏",
+        "Saul (118515428286715): Pronto, os caras podem te usar, você é novo 👍",
+        "Gleydson Souza (274384656834700): C tem o que 24?",
+        "Gleydson Souza (274384656834700): Lá nele",
+        "Souza (190864487919667): Sim",
+        "Souza (190864487919667): Roi👀👀👀"
       ]
     },
     "120363409727467494@g.us": {
@@ -16239,12 +16245,6 @@
     ],
     "120363428464897153@g.us": [
       {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Só o meus neurônios que estão kkkk",
-        "timestamp": 1787878251781
-      },
-      {
         "authorNum": "57561571176651",
         "authorName": "LUCIANO",
         "text": "Estão melhores que o meu então kkkk",
@@ -16813,6 +16813,42 @@
         "authorName": "Souza",
         "text": "Pouca coisa",
         "timestamp": 1787880012346
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Vou selecionar uma determinada marca de Mucilon 😏",
+        "timestamp": 1787880031648
+      },
+      {
+        "authorNum": "118515428286715",
+        "authorName": "Saul",
+        "text": "Pronto, os caras podem te usar, você é novo 👍",
+        "timestamp": 1787880035458
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "C tem o que 24?",
+        "timestamp": 1787880036212
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Lá nele",
+        "timestamp": 1787880042878
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Sim",
+        "timestamp": 1787880047282
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Roi👀👀👀",
+        "timestamp": 1787880055954
       }
     ],
     "120363409727467494@g.us": [],
@@ -16831,7 +16867,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 21035,
-    "120363428464897153@g.us": 6161,
+    "120363428464897153@g.us": 6167,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1711,
     "120363411233423709@g.us": 5,
@@ -173320,6 +173356,42 @@
         "text": "Pouca coisa",
         "pushName": "Souza",
         "timestamp": 1787880012346
+      },
+      "2A8FD0D01335E404DEE6": {
+        "sender": "92629643563147@lid",
+        "text": "Vou selecionar uma determinada marca de Mucilon 😏",
+        "pushName": "Camila Designer",
+        "timestamp": 1787880031648
+      },
+      "3A6DD0581E687FC29B16": {
+        "sender": "118515428286715@lid",
+        "text": "Pronto, os caras podem te usar, você é novo 👍",
+        "pushName": "Saul",
+        "timestamp": 1787880035458
+      },
+      "AC7F5027F5D78DD4F1479755F11FE331": {
+        "sender": "274384656834700@lid",
+        "text": "C tem o que 24?",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787880036212
+      },
+      "ACF549FF6188D410AEFFEBCAC28EBF27": {
+        "sender": "274384656834700@lid",
+        "text": "Lá nele",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787880042878
+      },
+      "AC8C3F2868B1E64763025DC0426E29D2": {
+        "sender": "190864487919667@lid",
+        "text": "Sim",
+        "pushName": "Souza",
+        "timestamp": 1787880047283
+      },
+      "AC3AA6E4DBDF45B3EE773C9C7B38D119": {
+        "sender": "190864487919667@lid",
+        "text": "Roi👀👀👀",
+        "pushName": "Souza",
+        "timestamp": 1787880055954
       }
     },
     "120363409727467494@g.us": {
@@ -187364,7 +187436,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787879951404,
-    "120363428464897153@g.us": 1787880012346,
+    "120363428464897153@g.us": 1787880070759,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787877736241,
     "120363411233423709@g.us": 1787113553426,
