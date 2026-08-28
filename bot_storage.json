@@ -178,9 +178,9 @@
         "total": 1943
       },
       "81991328395336": {
-        "text": 3915,
+        "text": 3917,
         "media": 1326,
-        "total": 5241
+        "total": 5243
       },
       "179040627490824": {
         "text": 433,
@@ -2603,9 +2603,9 @@
         "total": 22
       },
       "190864487919667": {
-        "text": 209,
+        "text": 210,
         "media": 36,
-        "total": 245
+        "total": 246
       },
       "82227819987089": {
         "text": 2,
@@ -2808,9 +2808,9 @@
         "total": 2
       },
       "210152934359048": {
-        "text": 7,
+        "text": 9,
         "media": 0,
-        "total": 7
+        "total": 9
       }
     },
     "120363428464897153@g.us": {
@@ -10024,7 +10024,11 @@
         "Souza (190864487919667): Tô quase me vendendo por um pastel",
         "Bruno (210152934359048): Floripa, deve ser maneiro ai",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Daora, e bonito também",
-        "🙃🙃🙃 (11171897864256): Bom dia cheguei agora"
+        "🙃🙃🙃 (11171897864256): Bom dia cheguei agora",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Era eu e @54259127210155 \nAcordados",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Meu sono é parcelado",
+        "Bruno (210152934359048): Vcs são todos daí?",
+        "Bruno (210152934359048): Do sul"
       ]
     },
     "120363428464897153@g.us": {
@@ -17266,6 +17270,30 @@
         "authorName": "🙃🙃🙃",
         "text": "Bom dia cheguei agora",
         "timestamp": 1787913615917
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Era eu e @54259127210155 \nAcordados",
+        "timestamp": 1787913647550
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Meu sono é parcelado",
+        "timestamp": 1787913657785
+      },
+      {
+        "authorNum": "210152934359048",
+        "authorName": "Bruno",
+        "text": "Vcs são todos daí?",
+        "timestamp": 1787913660710
+      },
+      {
+        "authorNum": "210152934359048",
+        "authorName": "Bruno",
+        "text": "Do sul",
+        "timestamp": 1787913664307
       }
     ],
     "120363428464897153@g.us": [],
@@ -17285,7 +17313,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21267,
+    "120363432018531082@g.us": 21271,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1989,
@@ -139004,6 +139032,30 @@
         "text": "Bom dia cheguei agora",
         "pushName": "🙃🙃🙃",
         "timestamp": 1787913615917
+      },
+      "AC7F0784A5B935299E4F449C3318101B": {
+        "sender": "81991328395336@lid",
+        "text": "Era eu e @54259127210155 \nAcordados",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787913647550
+      },
+      "AC14261C6D78FED2BC4F8FCD5F11BCC5": {
+        "sender": "81991328395336@lid",
+        "text": "Meu sono é parcelado",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787913657785
+      },
+      "AC9470608AB9A238DAB061BCD331CC6D": {
+        "sender": "210152934359048@lid",
+        "text": "Vcs são todos daí?",
+        "pushName": "Bruno",
+        "timestamp": 1787913660711
+      },
+      "ACCA468492EA179CB854C364D3A52BE6": {
+        "sender": "210152934359048@lid",
+        "text": "Do sul",
+        "pushName": "Bruno",
+        "timestamp": 1787913664307
       }
     },
     "120363428464897153@g.us": {
@@ -191775,7 +191827,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787913624091,
+    "120363432018531082@g.us": 1787913664307,
     "120363428464897153@g.us": 1787913193216,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787894166886,
