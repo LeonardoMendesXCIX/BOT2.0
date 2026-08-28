@@ -698,9 +698,9 @@
         "total": 95
       },
       "57707230945348": {
-        "text": 1135,
+        "text": 1136,
         "media": 199,
-        "total": 1334
+        "total": 1335
       },
       "152218690924790": {
         "text": 309,
@@ -2798,9 +2798,9 @@
         "total": 4
       },
       "247020967165997": {
-        "text": 4,
+        "text": 5,
         "media": 1,
-        "total": 5
+        "total": 6
       },
       "206253020176458": {
         "text": 2,
@@ -10047,7 +10047,9 @@
         "Alexandre Bastos (75797868064796): Bom dia mais um plantão",
         "Jennifer🦋 (205621945192508): Bom dia pessoal, um dia abençoado pra todos nós 🙏🏻",
         "Rafael Moura (57707230945348): Uai a mina me chama pra Pv, fala que \"sou seu\" e depois sai daqui e nem responde mais",
-        "Rafael Moura (57707230945348): Eu nao entendo 🤣🤣🤣"
+        "Rafael Moura (57707230945348): Eu nao entendo 🤣🤣🤣",
+        "Gabi 💋 (247020967165997): O amor acabou",
+        "Rafael Moura (57707230945348): Bem vindas meninas, nao me maltratem"
       ]
     },
     "120363428464897153@g.us": {
@@ -16969,12 +16971,6 @@
       {
         "authorNum": "222595437858867",
         "authorName": "Juliano Perlin",
-        "text": "Bom diaa🤗",
-        "timestamp": 1787912576237
-      },
-      {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
         "text": "Ta bemm??",
         "timestamp": 1787912599602
       },
@@ -17301,6 +17297,18 @@
         "authorName": "Rafael Moura",
         "text": "Eu nao entendo 🤣🤣🤣",
         "timestamp": 1787914345094
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "O amor acabou",
+        "timestamp": 1787914392126
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Bem vindas meninas, nao me maltratem",
+        "timestamp": 1787914392988
       }
     ],
     "120363428464897153@g.us": [],
@@ -17320,7 +17328,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21285,
+    "120363432018531082@g.us": 21287,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1989,
@@ -139147,6 +139155,18 @@
         "text": "Eu nao entendo 🤣🤣🤣",
         "pushName": "Rafael Moura",
         "timestamp": 1787914345094
+      },
+      "ACECAD6B786FF6E88A1CE1CF2A97BC81": {
+        "sender": "247020967165997@lid",
+        "text": "O amor acabou",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787914392126
+      },
+      "AC2C69FEF5A9BC30052E4B7989F28658": {
+        "sender": "57707230945348@lid",
+        "text": "Bem vindas meninas, nao me maltratem",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787914392988
       }
     },
     "120363428464897153@g.us": {
@@ -191918,7 +191938,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787914360077,
+    "120363432018531082@g.us": 1787914392988,
     "120363428464897153@g.us": 1787913193216,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787894166886,
