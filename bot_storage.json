@@ -378,9 +378,9 @@
         "total": 3
       },
       "163530946961491": {
-        "text": 410,
+        "text": 411,
         "media": 72,
-        "total": 482
+        "total": 483
       },
       "222595437858867": {
         "text": 501,
@@ -2818,9 +2818,9 @@
         "total": 26
       },
       "238388519141379": {
-        "text": 4,
+        "text": 5,
         "media": 1,
-        "total": 5
+        "total": 6
       },
       "269625715650683": {
         "text": 1,
@@ -9890,8 +9890,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Souza (190864487919667): Bom dia",
-        "Alexandre Bastos (75797868064796): Bom dia",
         "jaciara (108461127897146): Bom diaaaa",
         "🦅⚡️😍 (163686253629557): Bom dia",
         "Alexandre Bastos (75797868064796): Bom dia",
@@ -10389,7 +10387,9 @@
         "Kamila (78143406768201): Brigada",
         "Ismael (181892502569044): Obrigado",
         "Dany (262182034002040): Tá indo… tô fazendo umas atividades mais de boas com os alunos então tá indo bem hahahha",
-        "Dany (262182034002040): Eu!"
+        "Dany (262182034002040): Eu!",
+        "Nickolas (238388519141379): Você professora de que ?",
+        "willian (163530946961491): Bem vinda"
       ]
     },
     "120363428464897153@g.us": {
@@ -17519,6 +17519,18 @@
         "authorName": "Dany",
         "text": "Eu!",
         "timestamp": 1787924358902
+      },
+      {
+        "authorNum": "238388519141379",
+        "authorName": "Nickolas",
+        "text": "Você professora de que ?",
+        "timestamp": 1787924492083
+      },
+      {
+        "authorNum": "163530946961491",
+        "authorName": "willian",
+        "text": "Bem vinda",
+        "timestamp": 1787924494517
       }
     ],
     "120363428464897153@g.us": [],
@@ -17575,7 +17587,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21698,
+    "120363432018531082@g.us": 21700,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2009,
@@ -141866,6 +141878,18 @@
         "text": "Eu!",
         "pushName": "Dany",
         "timestamp": 1787924358902
+      },
+      "3A35CBD88F9E72E23D1C": {
+        "sender": "238388519141379@lid",
+        "text": "Você professora de que ?",
+        "pushName": "Nickolas",
+        "timestamp": 1787924492084
+      },
+      "ACACDC1982270663E7AAA11F5765F951": {
+        "sender": "163530946961491@lid",
+        "text": "Bem vinda",
+        "pushName": "willian",
+        "timestamp": 1787924494517
       }
     },
     "120363428464897153@g.us": {
@@ -194757,7 +194781,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787924358902,
+    "120363432018531082@g.us": 1787924494517,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787923699618,
