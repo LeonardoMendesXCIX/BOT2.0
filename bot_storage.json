@@ -2716,6 +2716,11 @@
         "text": 1,
         "media": 0,
         "total": 1
+      },
+      "100004689649809": {
+        "text": 1,
+        "media": 0,
+        "total": 1
       }
     },
     "120363428464897153@g.us": {
@@ -9231,7 +9236,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Muito bem vinda!",
         "Dany (262182034002040): Há diversas por aqui! Bem-vinda, conterrânea!",
         "Jessica (208958782488665): Eitaaa",
         "Bruno Aguiar (+1395881181241): Seja bem vinda!",
@@ -9730,7 +9734,8 @@
         "Camila Designer (92629643563147): Oi",
         "Souza (190864487919667): _10 minutos de silêncio, o grupo morreu na quinta-feira._",
         "Leandro (+55 (11) 92701-8683): !inativos",
-        "Leandro (+55 (11) 92701-8683): Bem vindo jovem! 🤝"
+        "Leandro (+55 (11) 92701-8683): Bem vindo jovem! 🤝",
+        "Gilson😍😍 (100004689649809): Sim"
       ]
     },
     "120363428464897153@g.us": {
@@ -16249,12 +16254,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Oi",
-        "timestamp": 1787880084536
-      },
-      {
         "authorNum": "190864487919667",
         "authorName": "Souza",
         "text": "_10 minutos de silêncio, o grupo morreu na quinta-feira._",
@@ -16271,6 +16270,12 @@
         "authorName": "Leandro",
         "text": "Bem vindo jovem! 🤝",
         "timestamp": 1787881360565
+      },
+      {
+        "authorNum": "100004689649809",
+        "authorName": "Gilson😍😍",
+        "text": "Sim",
+        "timestamp": 1787882071658
       }
     ],
     "120363428464897153@g.us": [
@@ -16495,7 +16500,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21039,
+    "120363432018531082@g.us": 21040,
     "120363428464897153@g.us": 6200,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1712,
@@ -136882,6 +136887,12 @@
         "text": "Bem vindo jovem! 🤝",
         "pushName": "Leandro",
         "timestamp": 1787881360565
+      },
+      "ACF69533A7BAD611ED5E719EAB565930": {
+        "sender": "100004689649809@lid",
+        "text": "Sim",
+        "pushName": "Gilson😍😍",
+        "timestamp": 1787882071658
       }
     },
     "120363428464897153@g.us": {
@@ -187305,7 +187316,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787881534812,
+    "120363432018531082@g.us": 1787882071658,
     "120363428464897153@g.us": 1787881988279,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787881450994,
