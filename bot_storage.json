@@ -2603,9 +2603,9 @@
         "total": 29
       },
       "190864487919667": {
-        "text": 286,
+        "text": 287,
         "media": 42,
-        "total": 328
+        "total": 329
       },
       "82227819987089": {
         "text": 2,
@@ -2803,9 +2803,9 @@
         "total": 149
       },
       "206253020176458": {
-        "text": 12,
+        "text": 13,
         "media": 6,
-        "total": 18
+        "total": 19
       },
       "210152934359048": {
         "text": 16,
@@ -9900,7 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Rafael Moura (57707230945348): Epa ta rolando briga?",
         "Pedro Henrique (172868239380659): Nada",
         "Pedro Henrique (172868239380659): Ela tem um ponto e eu tenho outro",
         "Pedro Henrique (172868239380659): Tá tudo certo",
@@ -10399,7 +10398,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Fotos assim, Kabaré",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Por nada 🥰",
         "Gleydson Souza (274384656834700): Ue so to mostrando a mensagem",
-        "jaciara (108461127897146): Uma moça"
+        "jaciara (108461127897146): Uma moça",
+        "Souza (190864487919667): Mó barrigão"
       ]
     },
     "120363428464897153@g.us": {
@@ -17868,6 +17868,12 @@
         "authorName": "jaciara",
         "text": "Uma moça",
         "timestamp": 1787929683269
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Mó barrigão",
+        "timestamp": 1787929702595
       }
     ],
     "120363428464897153@g.us": [],
@@ -17894,7 +17900,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21902,
+    "120363432018531082@g.us": 21903,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -143396,6 +143402,12 @@
         "text": "Uma moça",
         "pushName": "jaciara",
         "timestamp": 1787929683269
+      },
+      "ACF1F20C4A5F2108772FC95F5DC6E32D": {
+        "sender": "190864487919667@lid",
+        "text": "Mó barrigão",
+        "pushName": "Souza",
+        "timestamp": 1787929702596
       }
     },
     "120363428464897153@g.us": {
@@ -196305,7 +196317,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787929683269,
+    "120363432018531082@g.us": 1787929702595,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
