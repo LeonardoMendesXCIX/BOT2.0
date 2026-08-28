@@ -253,9 +253,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1488,
-        "media": 1109,
-        "total": 2597
+        "text": 1491,
+        "media": 1110,
+        "total": 2601
       },
       "3126803329115": {
         "text": 87,
@@ -2603,9 +2603,9 @@
         "total": 26
       },
       "190864487919667": {
-        "text": 270,
+        "text": 271,
         "media": 42,
-        "total": 312
+        "total": 313
       },
       "82227819987089": {
         "text": 2,
@@ -2858,9 +2858,9 @@
         "total": 4
       },
       "263797142995147": {
-        "text": 43,
+        "text": 44,
         "media": 4,
-        "total": 47
+        "total": 48
       }
     },
     "120363428464897153@g.us": {
@@ -9900,11 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Bruno (210152934359048): Tem alguém de mg?",
-        "Gabi 💋 (247020967165997): Eu acho",
-        "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Bom dia! Kk",
-        "Rafael Moura (57707230945348): Eu num vi haha",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): @190864487919667",
         " (120363432018531082): @190864487919667",
         "Rafael Moura (57707230945348): Hoje se Deus quiser terei tempo pra falar",
         "Gabi 💋 (247020967165997): Já me apresentei",
@@ -10399,7 +10394,12 @@
         "Nanda (263797142995147): mais é pesado",
         "Souza (190864487919667): Maltratados",
         "Souza (190864487919667): Nan",
-        "Souza (190864487919667): Vale nada"
+        "Souza (190864487919667): Vale nada",
+        "Souza (190864487919667): Meus órgãos estão iguais a americanas: em recuperação",
+        "Camila Designer (92629643563147): Então eu ainda tenho meus dois rins funcionando 👀",
+        "Nanda (263797142995147): eu tmb kkk",
+        "Camila Designer (92629643563147): Então já é uma coisa",
+        "Camila Designer (92629643563147): Kkkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -17341,12 +17341,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Obrigada pela figurinha",
-        "timestamp": 1787925405543
-      },
-      {
         "authorNum": "1395881181241",
         "authorName": "Bruno Aguiar",
         "text": "Sempre na ativa,sem perder tempo",
@@ -17819,6 +17813,36 @@
         "authorName": "Souza",
         "text": "Vale nada",
         "timestamp": 1787927197627
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Meus órgãos estão iguais a americanas: em recuperação",
+        "timestamp": 1787927219779
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Então eu ainda tenho meus dois rins funcionando 👀",
+        "timestamp": 1787927219888
+      },
+      {
+        "authorNum": "263797142995147",
+        "authorName": "Nanda",
+        "text": "eu tmb kkk",
+        "timestamp": 1787927230329
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Então já é uma coisa",
+        "timestamp": 1787927240623
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Kkkk",
+        "timestamp": 1787927242763
       }
     ],
     "120363428464897153@g.us": [],
@@ -17845,7 +17869,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21802,
+    "120363432018531082@g.us": 21807,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2011,
@@ -142754,6 +142778,36 @@
         "text": "Vale nada",
         "pushName": "Souza",
         "timestamp": 1787927197627
+      },
+      "AC641D9FAB79CB2912FC447F5FB4CAF4": {
+        "sender": "190864487919667@lid",
+        "text": "Meus órgãos estão iguais a americanas: em recuperação",
+        "pushName": "Souza",
+        "timestamp": 1787927219780
+      },
+      "2AE3A7F601C6AA8B906E": {
+        "sender": "92629643563147@lid",
+        "text": "Então eu ainda tenho meus dois rins funcionando 👀",
+        "pushName": "Camila Designer",
+        "timestamp": 1787927219888
+      },
+      "AC4367F53CEDD30DCB3E2707DC313301": {
+        "sender": "263797142995147@lid",
+        "text": "eu tmb kkk",
+        "pushName": "Nanda",
+        "timestamp": 1787927230330
+      },
+      "2A8C693176A6F0EF4E40": {
+        "sender": "92629643563147@lid",
+        "text": "Então já é uma coisa",
+        "pushName": "Camila Designer",
+        "timestamp": 1787927240623
+      },
+      "2A63491EC96C176930FF": {
+        "sender": "92629643563147@lid",
+        "text": "Kkkk",
+        "pushName": "Camila Designer",
+        "timestamp": 1787927242763
       }
     },
     "120363428464897153@g.us": {
@@ -195657,7 +195711,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787927197627,
+    "120363432018531082@g.us": 1787927242763,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787926648480,
