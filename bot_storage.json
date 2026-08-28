@@ -3975,9 +3975,9 @@
         "total": 1
       },
       "129373172711439": {
-        "text": 1,
+        "text": 2,
         "media": 0,
-        "total": 1
+        "total": 2
       },
       "92629643563147": {
         "text": 1,
@@ -3990,9 +3990,9 @@
         "total": 1
       },
       "57707230945348": {
-        "text": 0,
+        "text": 1,
         "media": 1,
-        "total": 1
+        "total": 2
       },
       "270377049690114": {
         "text": 1,
@@ -17356,7 +17356,8 @@
         "~Gará (83911531044906): Ok",
         "eduardo (37826582323373): Oi gente tudo bem pra todos",
         "Leandro (+55 (11) 92701-8683): Boa tarde a @all",
-        "Leandro (+55 (11) 92701-8683): Algumas das figurinhas já compartilhadas aqui"
+        "Leandro (+55 (11) 92701-8683): Algumas das figurinhas já compartilhadas aqui",
+        "Celiete Souza (129373172711439): Show"
       ]
     },
     "120363411043114631@g.us": {
@@ -17770,6 +17771,12 @@
         "authorName": "Leandro",
         "text": "Algumas das figurinhas já compartilhadas aqui",
         "timestamp": 1787933192235
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Show",
+        "timestamp": 1787933238148
       }
     ],
     "120363050678635389@g.us": [],
@@ -17789,7 +17796,7 @@
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
-    "120363409024805409@g.us": 81,
+    "120363409024805409@g.us": 82,
     "120363050678635389@g.us": 1,
     "120363411043114631@g.us": 20
   },
@@ -196878,6 +196885,12 @@
         "text": "Algumas das figurinhas já compartilhadas aqui",
         "pushName": "Leandro",
         "timestamp": 1787933192235
+      },
+      "AC308585EC0C9F64FF5F576999E4271F": {
+        "sender": "129373172711439@lid",
+        "text": "Show",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787933238148
       }
     },
     "120363050678635389@g.us": {
@@ -197092,7 +197105,7 @@
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1787868477291,
-    "120363409024805409@g.us": 1787933192235,
+    "120363409024805409@g.us": 1787933249935,
     "120363411043114631@g.us": 1787897464612
   },
   "autoAnimSent": {
