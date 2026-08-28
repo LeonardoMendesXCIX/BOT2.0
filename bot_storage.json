@@ -1863,9 +1863,9 @@
         "total": 6
       },
       "1395881181241": {
-        "text": 167,
+        "text": 168,
         "media": 5,
-        "total": 172
+        "total": 173
       },
       "198595546501333": {
         "text": 2,
@@ -3946,8 +3946,8 @@
       },
       "81991328395336": {
         "text": 17,
-        "media": 1025,
-        "total": 1042
+        "media": 1048,
+        "total": 1065
       },
       "145381035905262": {
         "text": 7,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Gleydson Souza (274384656834700): Parabéns",
         "Souza (190864487919667): Muita força pra ti",
         "Camila Designer (92629643563147): Pai é quem cria 😅",
         "jaciara (108461127897146): Obrigado",
@@ -10449,7 +10448,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Kkkkkkk",
         "Nanda (263797142995147): isso é no insta?",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): https://ngl.link/sabrina.rb1\n\nhttps://ngl.link/lalayh64792",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Pra quem não tem o link do correio anônimo:\n@all"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Pra quem não tem o link do correio anônimo:\n@all",
+        "Bruno Aguiar (+1395881181241): Isso mexe com a cabeça da gente,deixa curioso kkkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -17486,12 +17486,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Essa tropinha no cabaré mais tarde kkkkkk @92629643563147",
-        "timestamp": 1787945587421
-      },
-      {
         "authorNum": "190864487919667",
         "authorName": "Souza",
         "text": "Ontem foi fraco",
@@ -17736,6 +17730,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Pra quem não tem o link do correio anônimo:\n@all",
         "timestamp": 1787947350199
+      },
+      {
+        "authorNum": "1395881181241",
+        "authorName": "Bruno Aguiar",
+        "text": "Isso mexe com a cabeça da gente,deixa curioso kkkk",
+        "timestamp": 1787947399201
       }
     ],
     "120363428464897153@g.us": [],
@@ -17762,7 +17762,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22360,
+    "120363432018531082@g.us": 22361,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -145981,6 +145981,12 @@
         "text": "Pra quem não tem o link do correio anônimo:\n@all",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787947350199
+      },
+      "ACFC1FDA9263C08DAA69F26585B67290": {
+        "sender": "1395881181241@lid",
+        "text": "Isso mexe com a cabeça da gente,deixa curioso kkkk",
+        "pushName": "Bruno Aguiar",
+        "timestamp": 1787947399201
       }
     },
     "120363428464897153@g.us": {
@@ -199454,7 +199460,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787947350199,
+    "120363432018531082@g.us": 1787947399201,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
@@ -199465,7 +199471,7 @@
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1787868477291,
-    "120363409024805409@g.us": 1787947277773,
+    "120363409024805409@g.us": 1787947401109,
     "120363411043114631@g.us": 1787897464612
   },
   "autoAnimSent": {
