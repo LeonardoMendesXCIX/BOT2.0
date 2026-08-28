@@ -254,8 +254,8 @@
       },
       "92629643563147": {
         "text": 1499,
-        "media": 1115,
-        "total": 2614
+        "media": 1116,
+        "total": 2615
       },
       "3126803329115": {
         "text": 87,
@@ -2673,9 +2673,9 @@
         "total": 3
       },
       "193729163993156": {
-        "text": 20,
+        "text": 22,
         "media": 6,
-        "total": 26
+        "total": 28
       },
       "151582733820115": {
         "text": 5,
@@ -2708,9 +2708,9 @@
         "total": 2
       },
       "108461127897146": {
-        "text": 31,
+        "text": 32,
         "media": 4,
-        "total": 35
+        "total": 36
       },
       "10050861031495": {
         "text": 0,
@@ -9900,8 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Rafael Moura (57707230945348): Nossa senhora",
-        "Dany (262182034002040): Hahahahha",
         "Rafael Moura (57707230945348): Eu preciso dosar o uso pq senão acaba em 5 dias",
         "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Ah sim",
         "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Oii amor 🥰",
@@ -10399,7 +10397,9 @@
         "Souza (190864487919667): Tô bem e você? Como anda Goiânia?",
         "jaciara (108461127897146): Estou bem graças a Deus",
         "jaciara (108461127897146): Que bom , eu estou bem",
-        "jaciara (108461127897146): Estou no Maranhão"
+        "jaciara (108461127897146): Estou no Maranhão",
+        "jaciara (108461127897146): Vim passar alguns meses",
+        "F. RicaRdo sAnToS (193729163993156): Tarde moça"
       ]
     },
     "120363428464897153@g.us": {
@@ -17664,6 +17664,18 @@
         "authorName": "jaciara",
         "text": "Estou no Maranhão",
         "timestamp": 1787928848360
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Vim passar alguns meses",
+        "timestamp": 1787928862501
+      },
+      {
+        "authorNum": "193729163993156",
+        "authorName": "F. RicaRdo sAnToS",
+        "text": "Tarde moça",
+        "timestamp": 1787928872599
       }
     ],
     "120363428464897153@g.us": [],
@@ -17690,7 +17702,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21842,
+    "120363432018531082@g.us": 21844,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -142832,6 +142844,18 @@
         "text": "Estou no Maranhão",
         "pushName": "jaciara",
         "timestamp": 1787928848360
+      },
+      "AC947E1FA61E2B6F152AF8DC365FC33E": {
+        "sender": "108461127897146@lid",
+        "text": "Vim passar alguns meses",
+        "pushName": "jaciara",
+        "timestamp": 1787928862501
+      },
+      "ACF1904B9C9BBA636D270750FDFCFB8B": {
+        "sender": "193729163993156@lid",
+        "text": "Tarde moça",
+        "pushName": "F. RicaRdo sAnToS",
+        "timestamp": 1787928872599
       }
     },
     "120363428464897153@g.us": {
@@ -195741,7 +195765,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787928848360,
+    "120363432018531082@g.us": 1787928872599,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
