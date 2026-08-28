@@ -293,9 +293,9 @@
         "total": 464
       },
       "262182034002040": {
-        "text": 1882,
+        "text": 1886,
         "media": 122,
-        "total": 2004
+        "total": 2008
       },
       "219245581488326": {
         "text": 4,
@@ -9895,8 +9895,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Souza (190864487919667): Bem vinda Gabi",
-        "Dany (262182034002040): Bem-vinda!!!",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindaaaa",
         "Souza (190864487919667): Maravilhosa ela",
         "Gabi 💋 (247020967165997): Obrigada",
@@ -10394,7 +10392,9 @@
         "Gleydson Souza (274384656834700): Bem vinda",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Sempre",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Obrigada pela figurinha",
-        "Bruno Aguiar (+1395881181241): Sempre na ativa,sem perder tempo"
+        "Bruno Aguiar (+1395881181241): Sempre na ativa,sem perder tempo",
+        "Dany (262182034002040): Opa! Só chamar!",
+        "Dany (262182034002040): Dou sim"
       ]
     },
     "120363428464897153@g.us": {
@@ -17335,24 +17335,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Bem vinda",
-        "timestamp": 1787923674363
-      },
-      {
-        "authorNum": "75797868064796",
-        "authorName": "Alexandre Bastos",
-        "text": "Bem vinda",
-        "timestamp": 1787923693903
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Óia quem tá aqui\nBem vinda May",
-        "timestamp": 1787923724418
-      },
-      {
         "authorNum": "193729163993156",
         "authorName": "F. RicaRdo sAnToS",
         "text": "Bem vinda",
@@ -17561,6 +17543,18 @@
         "authorName": "Bruno Aguiar",
         "text": "Sempre na ativa,sem perder tempo",
         "timestamp": 1787925470508
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Opa! Só chamar!",
+        "timestamp": 1787925529097
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Dou sim",
+        "timestamp": 1787925530489
       }
     ],
     "120363428464897153@g.us": [],
@@ -17605,7 +17599,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21724,
+    "120363432018531082@g.us": 21726,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2010,
@@ -142052,6 +142046,18 @@
         "text": "Sempre na ativa,sem perder tempo",
         "pushName": "Bruno Aguiar",
         "timestamp": 1787925470508
+      },
+      "3AB75BF06DDD27D0094E": {
+        "sender": "262182034002040@lid",
+        "text": "Opa! Só chamar!",
+        "pushName": "Dany",
+        "timestamp": 1787925529097
+      },
+      "3A747CA86D5AB706C032": {
+        "sender": "262182034002040@lid",
+        "text": "Dou sim",
+        "pushName": "Dany",
+        "timestamp": 1787925530489
       }
     },
     "120363428464897153@g.us": {
@@ -194949,7 +194955,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787925470508,
+    "120363432018531082@g.us": 1787925530489,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787924999186,
