@@ -383,9 +383,9 @@
         "total": 485
       },
       "222595437858867": {
-        "text": 515,
+        "text": 517,
         "media": 53,
-        "total": 568
+        "total": 570
       },
       "83280154103884": {
         "text": 36,
@@ -2603,9 +2603,9 @@
         "total": 30
       },
       "190864487919667": {
-        "text": 330,
+        "text": 331,
         "media": 49,
-        "total": 379
+        "total": 380
       },
       "82227819987089": {
         "text": 2,
@@ -9950,9 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Bruno Aguiar (+1395881181241): Seja bem vinda",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Bem vinda 🩷",
-        "May (227783724793861): 💥 BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Queremos conhecer você! ✨\n\n📸 Sua foto:\n💬 Nome:May\n🎂 Idade:37\n📍 De onde sou: Matinhos/Curitiba",
         "Souza (190864487919667): Cidade de novo estranha",
         "Souza (190864487919667): Bem vinda May",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vinda!!!",
@@ -10449,7 +10446,10 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): @272048228188398",
         "Juliano Perlin (222595437858867): 🤣🤣🤣🤣",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): @81991328395336",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): @all \nRespondam a opinião de vocês"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): @all \nRespondam a opinião de vocês",
+        "Souza (190864487919667): Vish",
+        "Juliano Perlin (222595437858867): Eu sou o mais lindo daqui😎",
+        "Juliano Perlin (222595437858867): 🤣🤣🤣"
       ]
     },
     "120363428464897153@g.us": {
@@ -17959,6 +17959,24 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "@all \nRespondam a opinião de vocês",
         "timestamp": 1787940417132
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Vish",
+        "timestamp": 1787940440316
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Eu sou o mais lindo daqui😎",
+        "timestamp": 1787940441688
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "🤣🤣🤣",
+        "timestamp": 1787940445215
       }
     ],
     "120363428464897153@g.us": [],
@@ -18208,7 +18226,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22181,
+    "120363432018531082@g.us": 22184,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2075,
@@ -145365,6 +145383,24 @@
         "text": "@all \nRespondam a opinião de vocês",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787940417132
+      },
+      "AC5AB95F40A2FFCC72AFE1A7FC7EB50B": {
+        "sender": "190864487919667@lid",
+        "text": "Vish",
+        "pushName": "Souza",
+        "timestamp": 1787940440316
+      },
+      "AC4CC830213F520B4C571EEA55764AA2": {
+        "sender": "222595437858867@lid",
+        "text": "Eu sou o mais lindo daqui😎",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1787940441688
+      },
+      "AC75863CA5362042EFAFFEED7AFE534E": {
+        "sender": "222595437858867@lid",
+        "text": "🤣🤣🤣",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1787940445215
       }
     },
     "120363428464897153@g.us": {
@@ -198736,7 +198772,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787940417132,
+    "120363432018531082@g.us": 1787940445215,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787940055842,
