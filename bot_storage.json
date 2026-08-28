@@ -1953,9 +1953,9 @@
         "total": 5
       },
       "83911531044906": {
-        "text": 43,
+        "text": 44,
         "media": 2,
-        "total": 45
+        "total": 46
       },
       "172864548434113": {
         "text": 42,
@@ -9900,7 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Rafael Moura (57707230945348): Gus ta soltinho ne",
         "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Bem vinda.",
         "Souza (190864487919667): Morto",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): @262182034002040 corre aqui",
@@ -10399,7 +10398,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Deliciaaaaa\nEu quero",
         "jaciara (108461127897146): De qual cidade ?",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Tá perdendoooo\nUma delícia",
-        "Bruno Aguiar (+1395881181241): E se precisar estamos aqui 😉❤️"
+        "Bruno Aguiar (+1395881181241): E se precisar estamos aqui 😉❤️",
+        "~Gará (83911531044906): Tamos juntos nessa então"
       ]
     },
     "120363428464897153@g.us": {
@@ -17342,18 +17342,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "263797142995147",
-        "authorName": "Nanda",
-        "text": "fernanda\n19y\nfortaleza",
-        "timestamp": 1787926493713
-      },
-      {
-        "authorNum": "120363432018531082",
-        "authorName": "",
-        "text": "fernanda\n19y\nfortaleza",
-        "timestamp": 1787926494337
-      },
-      {
         "authorNum": "190864487919667",
         "authorName": "Souza",
         "text": "Ihu, mais uma nordestina",
@@ -17868,6 +17856,12 @@
         "authorName": "Bruno Aguiar",
         "text": "E se precisar estamos aqui 😉❤️",
         "timestamp": 1787928258114
+      },
+      {
+        "authorNum": "83911531044906",
+        "authorName": "~Gará",
+        "text": "Tamos juntos nessa então",
+        "timestamp": 1787928284792
       }
     ],
     "120363428464897153@g.us": [],
@@ -17900,7 +17894,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21819,
+    "120363432018531082@g.us": 21820,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -142911,6 +142905,12 @@
         "text": "E se precisar estamos aqui 😉❤️",
         "pushName": "Bruno Aguiar",
         "timestamp": 1787928258114
+      },
+      "AC0AFCA26F7BF921580FD805050FA220": {
+        "sender": "83911531044906@lid",
+        "text": "Tamos juntos nessa então",
+        "pushName": "~Gará",
+        "timestamp": 1787928284793
       }
     },
     "120363428464897153@g.us": {
@@ -195820,7 +195820,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787928263156,
+    "120363432018531082@g.us": 1787928284792,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
