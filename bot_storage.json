@@ -2838,9 +2838,9 @@
         "total": 6
       },
       "227783724793861": {
-        "text": 1,
+        "text": 2,
         "media": 1,
-        "total": 2
+        "total": 3
       },
       "159304631980141": {
         "text": 1,
@@ -2858,9 +2858,9 @@
         "total": 4
       },
       "263797142995147": {
-        "text": 30,
+        "text": 34,
         "media": 3,
-        "total": 33
+        "total": 37
       }
     },
     "120363428464897153@g.us": {
@@ -9900,11 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Alexandre Bastos (75797868064796): Bem vinda",
-        "Gabi 💋 (247020967165997): Obrigada",
-        "Alexandre Bastos (75797868064796): Bom dia mais um plantão",
-        "Jennifer🦋 (205621945192508): Bom dia pessoal, um dia abençoado pra todos nós 🙏🏻",
-        "Rafael Moura (57707230945348): Uai a mina me chama pra Pv, fala que \"sou seu\" e depois sai daqui e nem responde mais",
         "Rafael Moura (57707230945348): Eu nao entendo 🤣🤣🤣",
         "Gabi 💋 (247020967165997): O amor acabou",
         "Rafael Moura (57707230945348): Bem vindas meninas, nao me maltratem",
@@ -10399,7 +10394,12 @@
         "Souza (190864487919667): Tem que ter mais amigos então 😂",
         "Nanda (263797142995147): ai eu vou me comunicar como se me sequestrarem?",
         "Nanda (263797142995147): eu penso cada coisa mn",
-        "eduardo (37826582323373): Já imagino"
+        "eduardo (37826582323373): Já imagino",
+        "Nanda (263797142995147): psr",
+        "May (227783724793861): Obrigada",
+        "Nanda (263797142995147): ai eu fica revezando",
+        "Nanda (263797142995147): assim n tem perigo",
+        "Nanda (263797142995147): mn sem contar q as praias em fortal tem cada coisa bonita"
       ]
     },
     "120363428464897153@g.us": {
@@ -17705,6 +17705,36 @@
         "authorName": "eduardo",
         "text": "Já imagino",
         "timestamp": 1787926904456
+      },
+      {
+        "authorNum": "263797142995147",
+        "authorName": "Nanda",
+        "text": "psr",
+        "timestamp": 1787926928159
+      },
+      {
+        "authorNum": "227783724793861",
+        "authorName": "May",
+        "text": "Obrigada",
+        "timestamp": 1787926932639
+      },
+      {
+        "authorNum": "263797142995147",
+        "authorName": "Nanda",
+        "text": "ai eu fica revezando",
+        "timestamp": 1787926935937
+      },
+      {
+        "authorNum": "263797142995147",
+        "authorName": "Nanda",
+        "text": "assim n tem perigo",
+        "timestamp": 1787926940335
+      },
+      {
+        "authorNum": "263797142995147",
+        "authorName": "Nanda",
+        "text": "mn sem contar q as praias em fortal tem cada coisa bonita",
+        "timestamp": 1787926957567
       }
     ],
     "120363428464897153@g.us": [],
@@ -17731,7 +17761,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21779,
+    "120363432018531082@g.us": 21784,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2011,
@@ -142502,6 +142532,36 @@
         "text": "Já imagino",
         "pushName": "eduardo",
         "timestamp": 1787926904456
+      },
+      "ACB295AFECCD83456C150EE70547A6DB": {
+        "sender": "263797142995147@lid",
+        "text": "psr",
+        "pushName": "Nanda",
+        "timestamp": 1787926928159
+      },
+      "ACA81513E40410D36828BB25D57B0FFA": {
+        "sender": "227783724793861@lid",
+        "text": "Obrigada",
+        "pushName": "May",
+        "timestamp": 1787926932639
+      },
+      "ACC6ED237A26E7CDC9659FFAB22A2A59": {
+        "sender": "263797142995147@lid",
+        "text": "ai eu fica revezando",
+        "pushName": "Nanda",
+        "timestamp": 1787926935937
+      },
+      "AC3EC825BB33B257FE99D2CEA377EE87": {
+        "sender": "263797142995147@lid",
+        "text": "assim n tem perigo",
+        "pushName": "Nanda",
+        "timestamp": 1787926940335
+      },
+      "ACDA5FFCE71FFF26F773535DC39BE2D0": {
+        "sender": "263797142995147@lid",
+        "text": "mn sem contar q as praias em fortal tem cada coisa bonita",
+        "pushName": "Nanda",
+        "timestamp": 1787926957567
       }
     },
     "120363428464897153@g.us": {
@@ -195405,7 +195465,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787926904456,
+    "120363432018531082@g.us": 1787926957567,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787926648480,
