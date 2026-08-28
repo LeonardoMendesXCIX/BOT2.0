@@ -2838,9 +2838,9 @@
         "total": 8
       },
       "227783724793861": {
-        "text": 14,
+        "text": 15,
         "media": 1,
-        "total": 15
+        "total": 16
       },
       "159304631980141": {
         "text": 1,
@@ -3946,8 +3946,8 @@
       },
       "81991328395336": {
         "text": 15,
-        "media": 316,
-        "total": 331
+        "media": 317,
+        "total": 332
       },
       "145381035905262": {
         "text": 7,
@@ -9930,7 +9930,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Gabi 💋 (247020967165997): Amém",
         "Gleydson Souza (274384656834700): Kkkk vcs falam mt tava tentando ler tudo mas desisti",
         "Pedro Henrique (172868239380659): Mas quem tava bravo?",
         "Pedro Henrique (172868239380659): Uma zoeira saudável daquela",
@@ -10429,7 +10428,8 @@
         "Gleydson Souza (274384656834700): Nuh ia derreter aqui então, ta marcando que ate as 20h vai estar em 30 graus kkkkk",
         "May (227783724793861): MDS haha",
         "Gleydson Souza (274384656834700): Pra quem ama chuva que nem eu isso aqui e o inferno kkkk",
-        "Celiete Souza (129373172711439): Nosso clima aqui não é bom"
+        "Celiete Souza (129373172711439): Nosso clima aqui não é bom",
+        "May (227783724793861): Tem que morar em Curitiba"
       ]
     },
     "120363428464897153@g.us": {
@@ -17392,12 +17392,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "206253020176458",
-        "authorName": "Arthur",
-        "text": "Ss e com vc",
-        "timestamp": 1787932800158
-      },
-      {
         "authorNum": "5511927018683",
         "authorName": "Leandro",
         "text": "Estou bem, graças a Deus! 🙏🏻🙌🏻",
@@ -17648,6 +17642,12 @@
         "authorName": "Celiete Souza",
         "text": "Nosso clima aqui não é bom",
         "timestamp": 1787934435046
+      },
+      {
+        "authorNum": "227783724793861",
+        "authorName": "May",
+        "text": "Tem que morar em Curitiba",
+        "timestamp": 1787934652734
       }
     ],
     "120363428464897153@g.us": [],
@@ -17735,7 +17735,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22074,
+    "120363432018531082@g.us": 22075,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2018,
@@ -144257,6 +144257,12 @@
         "text": "Nosso clima aqui não é bom",
         "pushName": "Celiete Souza",
         "timestamp": 1787934435046
+      },
+      "ACEAD8BC5B65C69ED616E618B0FA5B4A": {
+        "sender": "227783724793861@lid",
+        "text": "Tem que morar em Curitiba",
+        "pushName": "May",
+        "timestamp": 1787934652735
       }
     },
     "120363428464897153@g.us": {
@@ -197286,7 +197292,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787934435046,
+    "120363432018531082@g.us": 1787934652734,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787934635399,
@@ -197297,7 +197303,7 @@
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1787868477291,
-    "120363409024805409@g.us": 1787934597250,
+    "120363409024805409@g.us": 1787934650410,
     "120363411043114631@g.us": 1787897464612
   },
   "autoAnimSent": {
