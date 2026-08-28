@@ -2680,6 +2680,11 @@
         "text": 0,
         "media": 1,
         "total": 1
+      },
+      "118515428286715": {
+        "text": 0,
+        "media": 1,
+        "total": 1
       }
     },
     "120363428464897153@g.us": {
@@ -3284,9 +3289,9 @@
         "total": 1
       },
       "190864487919667": {
-        "text": 20,
+        "text": 21,
         "media": 4,
-        "total": 24
+        "total": 25
       }
     },
     "120363409727467494@g.us": {
@@ -3318,9 +3323,9 @@
     },
     "120363412288900422@g.us": {
       "81991328395336": {
-        "text": 436,
+        "text": 437,
         "media": 115,
-        "total": 551
+        "total": 552
       },
       "5511927018683": {
         "text": 435,
@@ -3328,14 +3333,14 @@
         "total": 512
       },
       "145381035905262": {
-        "text": 366,
+        "text": 367,
         "media": 144,
-        "total": 510
+        "total": 511
       },
       "53537388122141": {
-        "text": 676,
+        "text": 678,
         "media": 53,
-        "total": 729
+        "total": 731
       },
       "120363412288900422": {
         "text": 1,
@@ -9175,7 +9180,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Gabriel (145381035905262): Só você",
         "Gabriel (145381035905262): Uma em cada grupo 😂😂😂",
         "F. RicaRdo sAnToS (193729163993156): De Rocha agora",
         "willian (163530946961491): Tiroso 😅😅😅",
@@ -9674,7 +9678,8 @@
         "Clayton 🇳🇬 (155503636275307): Parabéns uma cor bonita vc escolheu pra deixa suas unhas lindas",
         "Jessica (208958782488665): Não fui eu que escolhi foi uma amiga e ela foi cirúrgica se eu não pintasse dessa cor ia ter briga",
         "Jessica (208958782488665): É complicado.",
-        "Clayton 🇳🇬 (155503636275307): Amiga de bom gosto"
+        "Clayton 🇳🇬 (155503636275307): Amiga de bom gosto",
+        "Saul (118515428286715): Boa Noite, sou Saul tenho 25 anos e moro em Andradina- SP (interior)"
       ]
     },
     "120363428464897153@g.us": {
@@ -15570,7 +15575,10 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Perguntei aqui, não é não",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Remove a nina do de figurinhas",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): At",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): A outra te chamando de cobra"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): A outra te chamando de cobra",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Eu nem vi",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tirou print?",
+        "Gabriel (145381035905262): Quem ?"
       ]
     },
     "120363411233423709@g.us": {
@@ -16040,18 +16048,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Morreu aqui",
-        "timestamp": 1787875901260
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Cabaré abrir",
-        "timestamp": 1787875904328
-      },
-      {
         "authorNum": "272048228188398",
         "authorName": "Lailson Nathan.",
         "text": "Seja bem vinda.",
@@ -16398,6 +16394,12 @@
         "authorName": "Clayton 🇳🇬",
         "text": "Amiga de bom gosto",
         "timestamp": 1787877433318
+      },
+      {
+        "authorNum": "118515428286715",
+        "authorName": "Saul",
+        "text": "Boa Noite, sou Saul tenho 25 anos e moro em Andradina- SP (interior)",
+        "timestamp": 1787877707664
       }
     ],
     "120363428464897153@g.us": [
@@ -16841,6 +16843,24 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "A outra te chamando de cobra",
         "timestamp": 1787877240074
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Eu nem vi",
+        "timestamp": 1787877675357
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Tirou print?",
+        "timestamp": 1787877679327
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Quem ?",
+        "timestamp": 1787877701035
       }
     ],
     "120363411233423709@g.us": [],
@@ -16875,10 +16895,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21023,
+    "120363432018531082@g.us": 21024,
     "120363428464897153@g.us": 6056,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1703,
+    "120363412288900422@g.us": 1706,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -137160,6 +137180,12 @@
         "text": "Amiga de bom gosto",
         "pushName": "Clayton 🇳🇬",
         "timestamp": 1787877433318
+      },
+      "3AD9CB1DC3EFDCE51C4B": {
+        "sender": "118515428286715@lid",
+        "text": "Boa Noite, sou Saul tenho 25 anos e moro em Andradina- SP (interior)",
+        "pushName": "Saul",
+        "timestamp": 1787877707664
       }
     },
     "120363428464897153@g.us": {
@@ -184098,6 +184124,24 @@
         "text": "A outra te chamando de cobra",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787877240074
+      },
+      "AC2A5FA555F6A2926D0339BDEFD8190C": {
+        "sender": "53537388122141@lid",
+        "text": "Eu nem vi",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787877675357
+      },
+      "AC110C7B0B260A3AC9C39060B98824C4": {
+        "sender": "53537388122141@lid",
+        "text": "Tirou print?",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787877679327
+      },
+      "ACF19D4DA2AEED578C3F087AC8493525": {
+        "sender": "145381035905262@lid",
+        "text": "Quem ?",
+        "pushName": "Gabriel",
+        "timestamp": 1787877701035
       }
     },
     "120363411233423709@g.us": {
@@ -186671,10 +186715,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787877547915,
-    "120363428464897153@g.us": 1787877662977,
+    "120363432018531082@g.us": 1787877707664,
+    "120363428464897153@g.us": 1787877672154,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787877253185,
+    "120363412288900422@g.us": 1787877701035,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
