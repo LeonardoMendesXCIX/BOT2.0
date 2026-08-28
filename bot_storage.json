@@ -293,9 +293,9 @@
         "total": 464
       },
       "262182034002040": {
-        "text": 1873,
+        "text": 1875,
         "media": 122,
-        "total": 1995
+        "total": 1997
       },
       "219245581488326": {
         "text": 4,
@@ -318,9 +318,9 @@
         "total": 117
       },
       "199733712785531": {
-        "text": 203,
-        "media": 121,
-        "total": 324
+        "text": 204,
+        "media": 122,
+        "total": 326
       },
       "153596754661626": {
         "text": 1,
@@ -698,9 +698,9 @@
         "total": 95
       },
       "57707230945348": {
-        "text": 1157,
+        "text": 1159,
         "media": 205,
-        "total": 1362
+        "total": 1364
       },
       "152218690924790": {
         "text": 309,
@@ -10095,7 +10095,12 @@
         "Arthur (206253020176458): Também quero jjjkkkkk",
         "Bruno Aguiar (+1395881181241): Bom dia povo🙏🏼🙏🏼🙏🏼",
         "Rafael Moura (57707230945348): Dia baum",
-        "Souza (190864487919667): Morto e acabado, enterrado, solo"
+        "Souza (190864487919667): Morto e acabado, enterrado, solo",
+        "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Em que sentido ?",
+        "Rafael Moura (57707230945348): Mas ja ??",
+        "Dany (262182034002040): Oi!",
+        "Rafael Moura (57707230945348): No sentido de interagir, gostei",
+        "Dany (262182034002040): Oxi"
       ]
     },
     "120363428464897153@g.us": {
@@ -17018,12 +17023,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Hoje office? Bom demaize",
-        "timestamp": 1787913001148
-      },
-      {
         "authorNum": "81991328395336",
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "N foi contigo meu amor",
@@ -17562,6 +17561,36 @@
         "authorName": "Souza",
         "text": "Morto e acabado, enterrado, solo",
         "timestamp": 1787914778638
+      },
+      {
+        "authorNum": "199733712785531",
+        "authorName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
+        "text": "Em que sentido ?",
+        "timestamp": 1787914787535
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Mas ja ??",
+        "timestamp": 1787914791355
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Oi!",
+        "timestamp": 1787914794441
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "No sentido de interagir, gostei",
+        "timestamp": 1787914806616
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Oxi",
+        "timestamp": 1787914808573
       }
     ],
     "120363428464897153@g.us": [],
@@ -17600,7 +17629,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21333,
+    "120363432018531082@g.us": 21338,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1992,
@@ -139709,6 +139738,36 @@
         "text": "Morto e acabado, enterrado, solo",
         "pushName": "Souza",
         "timestamp": 1787914778638
+      },
+      "3A1D1441697B218B8C15": {
+        "sender": "199733712785531@lid",
+        "text": "Em que sentido ?",
+        "pushName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
+        "timestamp": 1787914787535
+      },
+      "AC48FE8A95179D233C9990D9FF93DFAB": {
+        "sender": "57707230945348@lid",
+        "text": "Mas ja ??",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787914791355
+      },
+      "3A7B32772E77AE5AB763": {
+        "sender": "262182034002040@lid",
+        "text": "Oi!",
+        "pushName": "Dany",
+        "timestamp": 1787914794441
+      },
+      "AC4D0C25ACE55C52509DDD6C1B03A79B": {
+        "sender": "57707230945348@lid",
+        "text": "No sentido de interagir, gostei",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787914806616
+      },
+      "3AF06FA4319D95451885": {
+        "sender": "262182034002040@lid",
+        "text": "Oxi",
+        "pushName": "Dany",
+        "timestamp": 1787914808573
       }
     },
     "120363428464897153@g.us": {
@@ -192498,7 +192557,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787914778638,
+    "120363432018531082@g.us": 1787914812143,
     "120363428464897153@g.us": 1787913193216,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787914462012,
