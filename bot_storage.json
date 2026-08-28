@@ -173,9 +173,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1592,
+        "text": 1594,
         "media": 432,
-        "total": 2024
+        "total": 2026
       },
       "81991328395336": {
         "text": 3942,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Nanda (263797142995147): ai eu vou me comunicar como se me sequestrarem?",
         "Nanda (263797142995147): eu penso cada coisa mn",
         "eduardo (37826582323373): Já imagino",
         "Nanda (263797142995147): psr",
@@ -10449,7 +10448,8 @@
         "Souza (190864487919667): Já mandei já",
         "Camila Designer (92629643563147): Hidratação e escova nos cabelos 😂😂😂",
         "Camila Designer (92629643563147): Queria cortar, mas controlei",
-        "Gabriel (145381035905262): Boa,.ficou jóia"
+        "Gabriel (145381035905262): Boa,.ficou jóia",
+        "Celiete Souza (129373172711439): Eu sou uma anja"
       ]
     },
     "120363428464897153@g.us": {
@@ -17469,24 +17469,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Meu nível de tdah",
-        "timestamp": 1787940318828
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "@272048228188398",
-        "timestamp": 1787940320919
-      },
-      {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "🤣🤣🤣🤣",
-        "timestamp": 1787940344187
-      },
-      {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "@81991328395336",
@@ -18073,6 +18055,12 @@
         "authorName": "Gabriel",
         "text": "Boa,.ficou jóia",
         "timestamp": 1787942057100
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Eu sou uma anja",
+        "timestamp": 1787942146735
       }
     ],
     "120363428464897153@g.us": [],
@@ -18092,7 +18080,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22277,
+    "120363432018531082@g.us": 22278,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2075,
@@ -145825,6 +145813,12 @@
         "text": "Boa,.ficou jóia",
         "pushName": "Gabriel",
         "timestamp": 1787942057100
+      },
+      "AC28BA8C0151C7FF3C368E0BB87F4F43": {
+        "sender": "129373172711439@lid",
+        "text": "Eu sou uma anja",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787942146736
       }
     },
     "120363428464897153@g.us": {
@@ -199196,7 +199190,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787942067306,
+    "120363432018531082@g.us": 1787942146735,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787940055842,
