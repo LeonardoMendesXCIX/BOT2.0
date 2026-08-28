@@ -698,9 +698,9 @@
         "total": 95
       },
       "57707230945348": {
-        "text": 1201,
+        "text": 1205,
         "media": 216,
-        "total": 1417
+        "total": 1421
       },
       "152218690924790": {
         "text": 309,
@@ -2798,9 +2798,9 @@
         "total": 5
       },
       "247020967165997": {
-        "text": 68,
-        "media": 14,
-        "total": 82
+        "text": 70,
+        "media": 15,
+        "total": 85
       },
       "206253020176458": {
         "text": 3,
@@ -10272,7 +10272,12 @@
         "Rafael Moura (57707230945348): Nao era 3?",
         "Rafael Moura (57707230945348): Ta mais precoce ainda",
         "Gabi 💋 (247020967165997): Vdd 3 minutos",
-        "Gabi 💋 (247020967165997): Obrigada"
+        "Gabi 💋 (247020967165997): Obrigada",
+        "Rafael Moura (57707230945348): 3 min é podcast",
+        "Rafael Moura (57707230945348): @221307534876912 😏",
+        "Gabi 💋 (247020967165997): Acho que o do Pedro é um minuto pelo grana que ele tem",
+        "Gabi 💋 (247020967165997): Tem que ser rápido",
+        "Rafael Moura (57707230945348): Tadinho pow"
       ]
     },
     "120363428464897153@g.us": {
@@ -17196,12 +17201,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Ksksks",
-        "timestamp": 1787915409274
-      },
-      {
         "authorNum": "172868239380659",
         "authorName": "Pedro Henrique",
         "text": "Será que já está valendo a lei que passa em todo os lugares? vou procurar uns cabaré",
@@ -18070,6 +18069,36 @@
         "authorName": "Gabi 💋",
         "text": "Obrigada",
         "timestamp": 1787917183276
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "3 min é podcast",
+        "timestamp": 1787917195396
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "@221307534876912 😏",
+        "timestamp": 1787917209676
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Acho que o do Pedro é um minuto pelo grana que ele tem",
+        "timestamp": 1787917212924
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Tem que ser rápido",
+        "timestamp": 1787917219909
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Tadinho pow",
+        "timestamp": 1787917224768
       }
     ],
     "120363428464897153@g.us": [],
@@ -18096,7 +18125,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21510,
+    "120363432018531082@g.us": 21515,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -141266,6 +141295,36 @@
         "text": "Obrigada",
         "pushName": "Gabi 💋",
         "timestamp": 1787917183276
+      },
+      "AC4F6DCA0B4AC83B9120B5BA11E09A5F": {
+        "sender": "57707230945348@lid",
+        "text": "3 min é podcast",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787917195396
+      },
+      "AC886E1E42087B4B71E4757C66A0B79D": {
+        "sender": "57707230945348@lid",
+        "text": "@221307534876912 😏",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787917209676
+      },
+      "AC7A80D9DDEE777A4728996AF59AEF29": {
+        "sender": "247020967165997@lid",
+        "text": "Acho que o do Pedro é um minuto pelo grana que ele tem",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787917212924
+      },
+      "AC85E55D53B0C0C0B4D957D6DAA1B9F4": {
+        "sender": "247020967165997@lid",
+        "text": "Tem que ser rápido",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787917219909
+      },
+      "AC80DDABD44970B804E4213DFA83B361": {
+        "sender": "57707230945348@lid",
+        "text": "Tadinho pow",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787917224768
       }
     },
     "120363428464897153@g.us": {
@@ -194061,7 +194120,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787917183276,
+    "120363432018531082@g.us": 1787917224768,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
