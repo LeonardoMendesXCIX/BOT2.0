@@ -698,9 +698,9 @@
         "total": 95
       },
       "57707230945348": {
-        "text": 1166,
+        "text": 1167,
         "media": 209,
-        "total": 1375
+        "total": 1376
       },
       "152218690924790": {
         "text": 309,
@@ -2629,8 +2629,8 @@
       },
       "75797868064796": {
         "text": 16,
-        "media": 29,
-        "total": 45
+        "media": 31,
+        "total": 47
       },
       "153764728184839": {
         "text": 2,
@@ -2798,9 +2798,9 @@
         "total": 4
       },
       "247020967165997": {
-        "text": 16,
+        "text": 17,
         "media": 1,
-        "total": 17
+        "total": 18
       },
       "206253020176458": {
         "text": 3,
@@ -10119,7 +10119,9 @@
         "Alexandre Bastos (75797868064796): Quem",
         "Gabi 💋 (247020967165997): Vê ksksks",
         "Souza (190864487919667): Tô esperando meu VR cair hein",
-        "Rafael Moura (57707230945348): Hoje tem Coca em"
+        "Rafael Moura (57707230945348): Hoje tem Coca em",
+        "Rafael Moura (57707230945348): VR caiu, alegria subiu",
+        "Gabi 💋 (247020967165997): Hoje eu queria um Poke"
       ]
     },
     "120363428464897153@g.us": {
@@ -17670,6 +17672,18 @@
         "authorName": "Rafael Moura",
         "text": "Hoje tem Coca em",
         "timestamp": 1787915036573
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "VR caiu, alegria subiu",
+        "timestamp": 1787915049083
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Hoje eu queria um Poke",
+        "timestamp": 1787915056386
       }
     ],
     "120363428464897153@g.us": [],
@@ -17708,7 +17722,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21357,
+    "120363432018531082@g.us": 21359,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1992,
@@ -139961,6 +139975,18 @@
         "text": "Hoje tem Coca em",
         "pushName": "Rafael Moura",
         "timestamp": 1787915036573
+      },
+      "AC913A2B0EF24A03DD3DBCB1EF462156": {
+        "sender": "57707230945348@lid",
+        "text": "VR caiu, alegria subiu",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787915049083
+      },
+      "AC8A4F5D0C4AB499375A1C6E1340A0D7": {
+        "sender": "247020967165997@lid",
+        "text": "Hoje eu queria um Poke",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787915056386
       }
     },
     "120363428464897153@g.us": {
@@ -192750,7 +192776,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787915036573,
+    "120363432018531082@g.us": 1787915067908,
     "120363428464897153@g.us": 1787913193216,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787914462012,
