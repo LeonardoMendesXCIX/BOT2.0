@@ -2603,9 +2603,9 @@
         "total": 23
       },
       "190864487919667": {
-        "text": 232,
+        "text": 233,
         "media": 40,
-        "total": 272
+        "total": 273
       },
       "82227819987089": {
         "text": 2,
@@ -2629,8 +2629,8 @@
       },
       "75797868064796": {
         "text": 23,
-        "media": 83,
-        "total": 106
+        "media": 84,
+        "total": 107
       },
       "153764728184839": {
         "text": 2,
@@ -9855,7 +9855,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): O bot já n manda mais",
         "Jk (120542904463568): Prazer sou o Júnior tenho 30 anos e sou de Recife-PE",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Bem vindo jovem 🤝",
         "Jk (120542904463568): Opa ! Obrigado",
@@ -10354,7 +10353,8 @@
         "Pedro Henrique (172868239380659): O ex da mulher?",
         "Pedro Henrique (172868239380659): Não sei",
         "Pedro Henrique (172868239380659): Mas essa morte aí é paia",
-        "Souza (190864487919667): 👀"
+        "Souza (190864487919667): 👀",
+        "Souza (190864487919667): Como uma porta"
       ]
     },
     "120363428464897153@g.us": {
@@ -17278,24 +17278,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Adorei falar com você",
-        "timestamp": 1787917353982
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "😂😂😂",
-        "timestamp": 1787917361444
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Miojinho",
-        "timestamp": 1787917361560
-      },
-      {
         "authorNum": "274384656834700",
         "authorName": "Gleydson Souza",
         "text": "Bom dia a todos @todos",
@@ -17846,6 +17828,12 @@
         "authorName": "Souza",
         "text": "👀",
         "timestamp": 1787919150153
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Como uma porta",
+        "timestamp": 1787919234043
       }
     ],
     "120363428464897153@g.us": [],
@@ -17865,7 +17853,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21622,
+    "120363432018531082@g.us": 21623,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -141707,6 +141695,12 @@
         "text": "👀",
         "pushName": "Souza",
         "timestamp": 1787919150153
+      },
+      "AC6E32852E0CC40D251479520A64DF10": {
+        "sender": "190864487919667@lid",
+        "text": "Como uma porta",
+        "pushName": "Souza",
+        "timestamp": 1787919234043
       }
     },
     "120363428464897153@g.us": {
@@ -194502,7 +194496,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787919196607,
+    "120363432018531082@g.us": 1787919234043,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
