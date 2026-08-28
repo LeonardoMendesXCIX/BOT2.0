@@ -2798,9 +2798,9 @@
         "total": 5
       },
       "247020967165997": {
-        "text": 109,
-        "media": 28,
-        "total": 137
+        "text": 110,
+        "media": 30,
+        "total": 140
       },
       "206253020176458": {
         "text": 3,
@@ -9855,7 +9855,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Alexandre Henrique (165687523848431): Obg",
         "Leandro (+55 (11) 92701-8683): Teu xará aí @199733712785531",
         "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Será? Haha",
         "Gabriel (145381035905262): Saudações",
@@ -10354,7 +10353,8 @@
         "Gabi 💋 (247020967165997): Essa matou e cortou tome cuidado pra nenhuma não se apaixonar pela sua grana",
         "Gabi 💋 (247020967165997): Aí é corte na certa",
         "Pedro Henrique (172868239380659): Agora pergunta sincera, pq ela matou ele",
-        "Gabi 💋 (247020967165997): Assisti o filme"
+        "Gabi 💋 (247020967165997): Assisti o filme",
+        "Gabi 💋 (247020967165997): Ela não queria perder a família e ela era obcecado igual você por cabaré"
       ]
     },
     "120363428464897153@g.us": {
@@ -17280,30 +17280,6 @@
       {
         "authorNum": "57707230945348",
         "authorName": "Rafael Moura",
-        "text": "Nossa, adoro obedientes 😏",
-        "timestamp": 1787917009915
-      },
-      {
-        "authorNum": "208958782488665",
-        "authorName": "Jessica",
-        "text": "Eu precisa do que??",
-        "timestamp": 1787917018667
-      },
-      {
-        "authorNum": "155503636275307",
-        "authorName": "Clayton 🇳🇬",
-        "text": "Humilhou",
-        "timestamp": 1787917021651
-      },
-      {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Realmente, essa não entendi",
-        "timestamp": 1787917022929
-      },
-      {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
         "text": "Vem ver a treta",
         "timestamp": 1787917025766
       },
@@ -17990,6 +17966,12 @@
         "authorName": "Gabi 💋",
         "text": "Assisti o filme",
         "timestamp": 1787918803893
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Ela não queria perder a família e ela era obcecado igual você por cabaré",
+        "timestamp": 1787918825722
       }
     ],
     "120363428464897153@g.us": [],
@@ -18009,7 +17991,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21603,
+    "120363432018531082@g.us": 21604,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -141737,6 +141719,12 @@
         "text": "Assisti o filme",
         "pushName": "Gabi 💋",
         "timestamp": 1787918803893
+      },
+      "ACE00C92AC8467771EA0CB97B8D069A7": {
+        "sender": "247020967165997@lid",
+        "text": "Ela não queria perder a família e ela era obcecado igual você por cabaré",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787918825722
       }
     },
     "120363428464897153@g.us": {
@@ -194532,7 +194520,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787918803893,
+    "120363432018531082@g.us": 1787918827621,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
