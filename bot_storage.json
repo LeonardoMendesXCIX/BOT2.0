@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2324,
+        "text": 2326,
         "media": 321,
-        "total": 2645
+        "total": 2647
       },
       "252922705240205": {
         "text": 80,
@@ -383,9 +383,9 @@
         "total": 485
       },
       "222595437858867": {
-        "text": 518,
+        "text": 519,
         "media": 55,
-        "total": 573
+        "total": 574
       },
       "83280154103884": {
         "text": 36,
@@ -9950,8 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Querendo ir tomar banho, mas enrolando",
-        "Nanda (263797142995147): fernanda\n19y\nfortaleza",
         " (120363432018531082): fernanda\n19y\nfortaleza",
         "Souza (190864487919667): Ihu, mais uma nordestina",
         "Souza (190864487919667): Bem vinda",
@@ -10449,7 +10447,9 @@
         "Celiete Souza (129373172711439): Boa tarde",
         "Celiete Souza (129373172711439): Tarde ju",
         "Camila Designer (92629643563147): @163530946961491 quando vai reassumir seu cargo no Kabaré?🤔",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Obrigada o elogiooo, se identifique no Pv"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Obrigada o elogiooo, se identifique no Pv",
+        "Juliano Perlin (222595437858867): Ta bem?",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Obrigada!"
       ]
     },
     "120363428464897153@g.us": {
@@ -17469,12 +17469,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Preciso falar não, a pessoa já sabe",
-        "timestamp": 1787939556874
-      },
-      {
         "authorNum": "5511927018683",
         "authorName": "Leandro",
         "text": "Trabalhamos com nomes",
@@ -18085,6 +18079,18 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Obrigada o elogiooo, se identifique no Pv",
         "timestamp": 1787941354673
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Ta bem?",
+        "timestamp": 1787941368125
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Obrigada!",
+        "timestamp": 1787941369149
       }
     ],
     "120363428464897153@g.us": [],
@@ -18189,7 +18195,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22231,
+    "120363432018531082@g.us": 22233,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2075,
@@ -145646,6 +145652,18 @@
         "text": "Obrigada o elogiooo, se identifique no Pv",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787941354673
+      },
+      "AC275EDB9C83CE3F4660B473840B793D": {
+        "sender": "222595437858867@lid",
+        "text": "Ta bem?",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1787941368125
+      },
+      "AC329FCFB44D7DB75DDA53D73A47CFEA": {
+        "sender": "53537388122141@lid",
+        "text": "Obrigada!",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787941369149
       }
     },
     "120363428464897153@g.us": {
@@ -199017,7 +199035,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787941364128,
+    "120363432018531082@g.us": 1787941375463,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787940055842,
