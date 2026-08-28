@@ -178,9 +178,9 @@
         "total": 2150
       },
       "81991328395336": {
-        "text": 3946,
+        "text": 3947,
         "media": 1350,
-        "total": 5296
+        "total": 5297
       },
       "179040627490824": {
         "text": 433,
@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2378,
+        "text": 2380,
         "media": 330,
-        "total": 2708
+        "total": 2710
       },
       "252922705240205": {
         "text": 80,
@@ -9950,9 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Celiete Souza (129373172711439): Também gosto kkkkk\nOh coquinha abençoada, e com limão",
-        "Gleydson Souza (274384656834700): Apenas kkkkkk",
-        "Celiete Souza (129373172711439): Caindo o mundo aqui",
         "Celiete Souza (129373172711439): Muita ☂️",
         "Gleydson Souza (274384656834700): Meu sonho kkkk",
         "Gleydson Souza (274384656834700): Amo chuva",
@@ -10449,7 +10446,10 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Não achei pra marca",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): @272048228188398 \n@222595437858867\n\n👀👀👀",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Soltar logo a bomba",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Eu hein"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Eu hein",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @53537388122141 \nSabe quem é",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): @190864487919667",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Foi"
       ]
     },
     "120363428464897153@g.us": {
@@ -17698,6 +17698,24 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Eu hein",
         "timestamp": 1787957065578
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "@53537388122141 \nSabe quem é",
+        "timestamp": 1787957107109
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "@190864487919667",
+        "timestamp": 1787957138071
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Foi",
+        "timestamp": 1787957141805
       }
     ],
     "120363428464897153@g.us": [],
@@ -17983,26 +18001,7 @@
     "120363411233423709@g.us": [],
     "120363428079168524@g.us": [],
     "120363411246936023@g.us": [],
-    "120363409024805409@g.us": [
-      {
-        "authorNum": "262182034002040",
-        "authorName": "Dany",
-        "text": "Amo figurinhas kkkk",
-        "timestamp": 1787955072811
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Então está no lugar certo! 🤌🏼",
-        "timestamp": 1787955115087
-      },
-      {
-        "authorNum": "262182034002040",
-        "authorName": "Dany",
-        "text": "Pausei por agora",
-        "timestamp": 1787955251130
-      }
-    ],
+    "120363409024805409@g.us": [],
     "120363050678635389@g.us": [],
     "120363411043114631@g.us": []
   },
@@ -18013,7 +18012,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22541,
+    "120363432018531082@g.us": 22544,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2136,
@@ -147294,6 +147293,24 @@
         "text": "Eu hein",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787957065578
+      },
+      "AC8075115C11A592A8E7FE621750AC8C": {
+        "sender": "81991328395336@lid",
+        "text": "@53537388122141 \nSabe quem é",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787957107109
+      },
+      "AC0661035188E8BB25CA5B4ADF3CC8BA": {
+        "sender": "53537388122141@lid",
+        "text": "@190864487919667",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787957138071
+      },
+      "ACF0C5CAF39397CB815E0DBA4E3526BC": {
+        "sender": "53537388122141@lid",
+        "text": "Foi",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787957141805
       }
     },
     "120363428464897153@g.us": {
@@ -201079,7 +201096,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787957065578,
+    "120363432018531082@g.us": 1787957141805,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787957058249,
