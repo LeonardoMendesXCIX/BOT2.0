@@ -319,8 +319,8 @@
       },
       "199733712785531": {
         "text": 203,
-        "media": 120,
-        "total": 323
+        "media": 121,
+        "total": 324
       },
       "153596754661626": {
         "text": 1,
@@ -698,9 +698,9 @@
         "total": 95
       },
       "57707230945348": {
-        "text": 1156,
+        "text": 1157,
         "media": 205,
-        "total": 1361
+        "total": 1362
       },
       "152218690924790": {
         "text": 309,
@@ -2603,9 +2603,9 @@
         "total": 23
       },
       "190864487919667": {
-        "text": 213,
+        "text": 214,
         "media": 37,
-        "total": 250
+        "total": 251
       },
       "82227819987089": {
         "text": 2,
@@ -2629,8 +2629,8 @@
       },
       "75797868064796": {
         "text": 15,
-        "media": 27,
-        "total": 42
+        "media": 29,
+        "total": 44
       },
       "153764728184839": {
         "text": 2,
@@ -2804,8 +2804,8 @@
       },
       "206253020176458": {
         "text": 3,
-        "media": 3,
-        "total": 6
+        "media": 4,
+        "total": 7
       },
       "210152934359048": {
         "text": 15,
@@ -10093,7 +10093,9 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Quero Pix",
         "Pedro Henrique (172868239380659): O meu já foi kkkk",
         "Arthur (206253020176458): Também quero jjjkkkkk",
-        "Bruno Aguiar (+1395881181241): Bom dia povo🙏🏼🙏🏼🙏🏼"
+        "Bruno Aguiar (+1395881181241): Bom dia povo🙏🏼🙏🏼🙏🏼",
+        "Rafael Moura (57707230945348): Dia baum",
+        "Souza (190864487919667): Morto e acabado, enterrado, solo"
       ]
     },
     "120363428464897153@g.us": {
@@ -17548,6 +17550,18 @@
         "authorName": "Bruno Aguiar",
         "text": "Bom dia povo🙏🏼🙏🏼🙏🏼",
         "timestamp": 1787914750928
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Dia baum",
+        "timestamp": 1787914757213
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Morto e acabado, enterrado, solo",
+        "timestamp": 1787914778638
       }
     ],
     "120363428464897153@g.us": [],
@@ -17586,7 +17600,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21331,
+    "120363432018531082@g.us": 21333,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1992,
@@ -139683,6 +139697,18 @@
         "text": "Bom dia povo🙏🏼🙏🏼🙏🏼",
         "pushName": "Bruno Aguiar",
         "timestamp": 1787914750928
+      },
+      "AC3DB2BD890D147614DFC17CFAA2E42D": {
+        "sender": "57707230945348@lid",
+        "text": "Dia baum",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787914757213
+      },
+      "ACBEB0AF28D28CD06316C20578BDBD6B": {
+        "sender": "190864487919667@lid",
+        "text": "Morto e acabado, enterrado, solo",
+        "pushName": "Souza",
+        "timestamp": 1787914778638
       }
     },
     "120363428464897153@g.us": {
@@ -192472,7 +192498,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787914750928,
+    "120363432018531082@g.us": 1787914778638,
     "120363428464897153@g.us": 1787913193216,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787914462012,
