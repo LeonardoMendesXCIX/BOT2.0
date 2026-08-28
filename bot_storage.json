@@ -3539,19 +3539,19 @@
         "total": 602
       },
       "5511927018683": {
-        "text": 579,
+        "text": 581,
         "media": 113,
-        "total": 692
+        "total": 694
       },
       "145381035905262": {
-        "text": 476,
+        "text": 479,
         "media": 157,
-        "total": 633
+        "total": 636
       },
       "53537388122141": {
-        "text": 811,
+        "text": 813,
         "media": 62,
-        "total": 873
+        "total": 875
       },
       "120363412288900422": {
         "text": 1,
@@ -16990,7 +16990,14 @@
         "Gabriel (145381035905262): @54259127210155  o que Jefferson tentou com nós, mas conseguiu com as gurias lá",
         "Gabriel (145381035905262): Aqui também",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Como é? 👀",
-        "Gabriel (145381035905262): Exatamente"
+        "Gabriel (145381035905262): Exatamente",
+        "Gabriel (145381035905262): Leia",
+        "Leandro (+55 (11) 92701-8683): Sigo bem pleno aqui",
+        "Gabriel (145381035905262): Leia aqui também",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Eu li",
+        "Leandro (+55 (11) 92701-8683): 🫡",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Isso tudo por um grupo de WhatsApp?",
+        "Gabriel (145381035905262): Sim, por controle"
       ]
     },
     "120363411233423709@g.us": {
@@ -17795,6 +17802,48 @@
         "authorName": "Gabriel",
         "text": "Exatamente",
         "timestamp": 1787956658807
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Leia",
+        "timestamp": 1787956663997
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Sigo bem pleno aqui",
+        "timestamp": 1787956665231
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Leia aqui também",
+        "timestamp": 1787956669672
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Eu li",
+        "timestamp": 1787956670639
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "🫡",
+        "timestamp": 1787956675697
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Isso tudo por um grupo de WhatsApp?",
+        "timestamp": 1787956677599
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Sim, por controle",
+        "timestamp": 1787956685381
       }
     ],
     "120363411233423709@g.us": [],
@@ -17833,7 +17882,7 @@
     "120363432018531082@g.us": 22535,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2115,
+    "120363412288900422@g.us": 2122,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -197859,6 +197908,48 @@
         "text": "Exatamente",
         "pushName": "Gabriel",
         "timestamp": 1787956658808
+      },
+      "ACC77A9773E52336BD0A3447BEC43FA1": {
+        "sender": "145381035905262@lid",
+        "text": "Leia",
+        "pushName": "Gabriel",
+        "timestamp": 1787956663997
+      },
+      "A5145D926BEC12B97360D87A0050BD83": {
+        "sender": "54259127210155@lid",
+        "text": "Sigo bem pleno aqui",
+        "pushName": "Leandro",
+        "timestamp": 1787956665232
+      },
+      "AC45F1F55B7105E9AF5F44F470E38C4D": {
+        "sender": "145381035905262@lid",
+        "text": "Leia aqui também",
+        "pushName": "Gabriel",
+        "timestamp": 1787956669672
+      },
+      "AC59183020F881D14E58A433B29F3616": {
+        "sender": "53537388122141@lid",
+        "text": "Eu li",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787956670639
+      },
+      "A5062DB9692F1719F04AF07EF503BE62": {
+        "sender": "54259127210155@lid",
+        "text": "🫡",
+        "pushName": "Leandro",
+        "timestamp": 1787956675698
+      },
+      "AC8DD1CC81CB4D39019968440287AC03": {
+        "sender": "53537388122141@lid",
+        "text": "Isso tudo por um grupo de WhatsApp?",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787956677599
+      },
+      "ACF6DD154245BDDEEA755370F54752FF": {
+        "sender": "145381035905262@lid",
+        "text": "Sim, por controle",
+        "pushName": "Gabriel",
+        "timestamp": 1787956685381
       }
     },
     "120363411233423709@g.us": {
@@ -200743,7 +200834,7 @@
     "120363432018531082@g.us": 1787956457761,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787956658807,
+    "120363412288900422@g.us": 1787956685381,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
