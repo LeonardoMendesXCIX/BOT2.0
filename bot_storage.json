@@ -253,9 +253,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1504,
+        "text": 1505,
         "media": 1116,
-        "total": 2620
+        "total": 2621
       },
       "3126803329115": {
         "text": 87,
@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2316,
+        "text": 2317,
         "media": 320,
-        "total": 2636
+        "total": 2637
       },
       "252922705240205": {
         "text": 80,
@@ -384,8 +384,8 @@
       },
       "222595437858867": {
         "text": 517,
-        "media": 53,
-        "total": 570
+        "media": 54,
+        "total": 571
       },
       "83280154103884": {
         "text": 36,
@@ -2213,9 +2213,9 @@
         "total": 33
       },
       "240716089413724": {
-        "text": 34,
+        "text": 35,
         "media": 1,
-        "total": 35
+        "total": 36
       },
       "260426164125939": {
         "text": 90,
@@ -2603,9 +2603,9 @@
         "total": 30
       },
       "190864487919667": {
-        "text": 333,
+        "text": 335,
         "media": 50,
-        "total": 383
+        "total": 385
       },
       "82227819987089": {
         "text": 2,
@@ -9950,11 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "willian (163530946961491): Bem vinda",
-        "Dany (262182034002040): Inglês 🥰",
-        "Nickolas (238388519141379): To preciso de aulas de inglês",
-        "fé ! (147940920283293): Bom diaa...",
-        "~Gará (83911531044906): Da aulas on-line?",
         "Arthur (206253020176458): Q linda bem vinda ao grupo",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bom dia e seja bem vindo(a)! Se apresente pra nós, por favor",
         "Gleydson Souza (274384656834700): Bem vinda",
@@ -10449,7 +10444,12 @@
         "Souza (190864487919667): 💥 BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Queremos conhecer você! ✨\n\n📸 Sua foto:\n💬 Nome: Fernando\n🎂 Idade: 24\n📍 De onde sou: Salvador (porém moro no DF)\n\n*🫶🏻 Seja bem-vindo(a)!*\n\n✨ Sinta-se à vontade para",
         "Vini 👑🏁🙌⚽ (270377049690114): Eu né!! 😌🤭",
         "Souza (190864487919667): Pra quem chegou depois",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Mas de novo?"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Mas de novo?",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Ata",
+        "Camila Designer (92629643563147): Sobre?🤔",
+        "Souza (190864487919667): Calma ADM",
+        "Wagner Cabral (240716089413724): Me deixem em último pq dou o inimigo da beleza",
+        "Souza (190864487919667): Respira"
       ]
     },
     "120363428464897153@g.us": {
@@ -18073,6 +18073,36 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Mas de novo?",
         "timestamp": 1787940555817
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Ata",
+        "timestamp": 1787940559136
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Sobre?🤔",
+        "timestamp": 1787940564700
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Calma ADM",
+        "timestamp": 1787940564872
+      },
+      {
+        "authorNum": "240716089413724",
+        "authorName": "Wagner Cabral",
+        "text": "Me deixem em último pq dou o inimigo da beleza",
+        "timestamp": 1787940565216
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Respira",
+        "timestamp": 1787940566524
       }
     ],
     "120363428464897153@g.us": [],
@@ -18322,7 +18352,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22200,
+    "120363432018531082@g.us": 22205,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2075,
@@ -145593,6 +145623,36 @@
         "text": "Mas de novo?",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787940555817
+      },
+      "ACF879CCF8F106715EB2304B33392C90": {
+        "sender": "53537388122141@lid",
+        "text": "Ata",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787940559136
+      },
+      "2A4D6AF47D888E190F25": {
+        "sender": "92629643563147@lid",
+        "text": "Sobre?🤔",
+        "pushName": "Camila Designer",
+        "timestamp": 1787940564700
+      },
+      "AC47D34C88CFBCD07F8D3FEDA6165A90": {
+        "sender": "190864487919667@lid",
+        "text": "Calma ADM",
+        "pushName": "Souza",
+        "timestamp": 1787940564872
+      },
+      "AC01B1379448F160D46F34DA5BADCCB7": {
+        "sender": "240716089413724@lid",
+        "text": "Me deixem em último pq dou o inimigo da beleza",
+        "pushName": "Wagner Cabral",
+        "timestamp": 1787940565217
+      },
+      "ACC37939899F28564BD53E11213A8EDA": {
+        "sender": "190864487919667@lid",
+        "text": "Respira",
+        "pushName": "Souza",
+        "timestamp": 1787940566524
       }
     },
     "120363428464897153@g.us": {
@@ -198964,7 +199024,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787940555817,
+    "120363432018531082@g.us": 1787940584652,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787940055842,
