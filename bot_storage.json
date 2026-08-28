@@ -2629,8 +2629,8 @@
       },
       "75797868064796": {
         "text": 39,
-        "media": 108,
-        "total": 147
+        "media": 109,
+        "total": 148
       },
       "153764728184839": {
         "text": 2,
@@ -2708,9 +2708,9 @@
         "total": 2
       },
       "108461127897146": {
-        "text": 108,
+        "text": 109,
         "media": 14,
-        "total": 122
+        "total": 123
       },
       "10050861031495": {
         "text": 0,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Parabéns amiga, que venha com muita saúde viu?",
         "~Gará (83911531044906): Desculpe a pergunta.\nOq aconteceu cm o pai da princesa?",
         "jaciara (108461127897146): Amém 🙏🏼",
         "jaciara (108461127897146): Tenho um rapaz de 10 anos e uma moça de 6",
@@ -10449,7 +10448,8 @@
         "Camila Designer (92629643563147): Maravilhosa",
         "Camila Designer (92629643563147): Hoje dia de sair com as amigas 😌",
         "F. RicaRdo sAnToS (193729163993156): Eu voy dormir un poquito más",
-        "Gabriel Ohi (90130358485223): Mulher maravilhosa demais 😊😊😊"
+        "Gabriel Ohi (90130358485223): Mulher maravilhosa demais 😊😊😊",
+        "jaciara (108461127897146): Gataa"
       ]
     },
     "120363428464897153@g.us": {
@@ -17487,12 +17487,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Acho interessante kkkk",
-        "timestamp": 1787947084576
-      },
-      {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "👀👀",
@@ -17917,6 +17911,12 @@
         "authorName": "Gabriel Ohi",
         "text": "Mulher maravilhosa demais 😊😊😊",
         "timestamp": 1787948865567
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Gataa",
+        "timestamp": 1787948885434
       }
     ],
     "120363428464897153@g.us": [],
@@ -17943,7 +17943,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22415,
+    "120363432018531082@g.us": 22416,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -146492,6 +146492,12 @@
         "text": "Mulher maravilhosa demais 😊😊😊",
         "pushName": "Gabriel Ohi",
         "timestamp": 1787948865567
+      },
+      "AC02893D055A5B7150E1B5BF2CECFF6A": {
+        "sender": "108461127897146@lid",
+        "text": "Gataa",
+        "pushName": "jaciara",
+        "timestamp": 1787948885434
       }
     },
     "120363428464897153@g.us": {
@@ -199971,7 +199977,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787948868524,
+    "120363432018531082@g.us": 1787948889254,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
