@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2334,
+        "text": 2335,
         "media": 326,
-        "total": 2660
+        "total": 2661
       },
       "252922705240205": {
         "text": 80,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Nanda (263797142995147): tenho n, mais tem coisa q vale mais né",
         "Souza (190864487919667): Tá nem valendo tanto assim",
         "Nanda (263797142995147): deuzulive",
         "Camila Designer (92629643563147): Pra vender",
@@ -10449,7 +10448,8 @@
         "Gabriel (145381035905262): Exatamente isso",
         "Gabriel (145381035905262): Parabéns pela inteligência",
         " (120363432018531082): @all",
-        " (120363432018531082): @92629643563147"
+        " (120363432018531082): @92629643563147",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Nota dó"
       ]
     },
     "120363428464897153@g.us": {
@@ -17484,42 +17484,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "@145381035905262 sai do emprego kkkk",
-        "timestamp": 1787941673953
-      },
-      {
-        "authorNum": "163530946961491",
-        "authorName": "willian",
-        "text": "Sem cargo kkkk",
-        "timestamp": 1787941683943
-      },
-      {
-        "authorNum": "238388519141379",
-        "authorName": "Nickolas",
-        "text": "Boa tarde galerinha",
-        "timestamp": 1787941707954
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Que chuvam",
-        "timestamp": 1787941709216
-      },
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Em casa sentada no sofá e tomando um chá kkk",
-        "timestamp": 1787941709394
-      },
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Beleza, se prepara pra trabalhar, te chamaremos agora em setembro. Pra trabalhar na Jequiti junto",
-        "timestamp": 1787941716071
-      },
-      {
         "authorNum": "222595437858867",
         "authorName": "Juliano Perlin",
         "text": "Aproveita pra converssar com nós entao🤣🤣",
@@ -17758,6 +17722,12 @@
         "authorName": "",
         "text": "@92629643563147",
         "timestamp": 1787943471856
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Nota dó",
+        "timestamp": 1787943518668
       }
     ],
     "120363428464897153@g.us": [],
@@ -17869,7 +17839,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22292,
+    "120363432018531082@g.us": 22293,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -145680,6 +145650,12 @@
         "text": "Parabéns pela inteligência",
         "pushName": "Gabriel",
         "timestamp": 1787943447425
+      },
+      "ACC33E420C706D269801D191B342B319": {
+        "sender": "53537388122141@lid",
+        "text": "Nota dó",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787943518668
       }
     },
     "120363428464897153@g.us": {
@@ -199141,7 +199117,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787943471856,
+    "120363432018531082@g.us": 1787943518668,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
