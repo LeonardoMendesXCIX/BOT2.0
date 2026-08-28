@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2290,
-        "media": 315,
-        "total": 2605
+        "text": 2291,
+        "media": 316,
+        "total": 2607
       },
       "252922705240205": {
         "text": 80,
@@ -453,9 +453,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1725,
-        "media": 336,
-        "total": 2061
+        "text": 1726,
+        "media": 337,
+        "total": 2063
       },
       "252600633041077": {
         "text": 1,
@@ -9940,8 +9940,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Pedro Henrique (172868239380659): Em Brasília quase não tem, muito difícil achar",
-        "Alexandre Bastos (75797868064796): Eita gosta muito de cabaré",
         "Pedro Henrique (172868239380659): Ahhh ele tava traindo ela",
         "Gabi 💋 (247020967165997): No cabaré",
         "Pedro Henrique (172868239380659): Pelo menos transou antes de morrer",
@@ -10439,7 +10437,9 @@
         "jaciara (108461127897146): Só que meu PV só está liberado se pedir permissão , sem permissão nem adianta mandar mensagem",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): 👀",
         "𝔞𝔩𝔦𝔫𝔢🫶🏽 (221307534876912): Solteira o tristeza",
-        "Breno (234324976738434): Eu solteiro"
+        "Breno (234324976738434): Eu solteiro",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Pvzinho liberado, com autorização aqui primeiramente",
+        "Leandro (+55 (11) 92701-8683): Nem me preocupo, Maranhão é grande"
       ]
     },
     "120363428464897153@g.us": {
@@ -17522,6 +17522,18 @@
         "authorName": "Breno",
         "text": "Eu solteiro",
         "timestamp": 1787939153169
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Pvzinho liberado, com autorização aqui primeiramente",
+        "timestamp": 1787939186288
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Nem me preocupo, Maranhão é grande",
+        "timestamp": 1787939186991
       }
     ],
     "120363428464897153@g.us": [],
@@ -17771,7 +17783,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22107,
+    "120363432018531082@g.us": 22109,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2061,
@@ -144484,6 +144496,18 @@
         "text": "Eu solteiro",
         "pushName": "Breno",
         "timestamp": 1787939153169
+      },
+      "AC8418A001AA959C4471C64DE076016A": {
+        "sender": "53537388122141@lid",
+        "text": "Pvzinho liberado, com autorização aqui primeiramente",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787939186288
+      },
+      "A573C38361FAB5ADCA0542CD1B8794A8": {
+        "sender": "54259127210155@lid",
+        "text": "Nem me preocupo, Maranhão é grande",
+        "pushName": "Leandro",
+        "timestamp": 1787939186991
       }
     },
     "120363428464897153@g.us": {
@@ -197777,7 +197801,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787939158631,
+    "120363432018531082@g.us": 1787939198465,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787939104507,
