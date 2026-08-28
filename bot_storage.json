@@ -383,9 +383,9 @@
         "total": 489
       },
       "222595437858867": {
-        "text": 531,
+        "text": 532,
         "media": 55,
-        "total": 586
+        "total": 587
       },
       "83280154103884": {
         "text": 36,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Souza (190864487919667): Em paz",
         "Celiete Souza (129373172711439): Bemm",
         "Leandro (+55 (11) 92701-8683): Acesse este link para entrar no meu grupo do WhatsApp: https://chat.whatsapp.com/LjudUJTLkZQDIyER0LAwHJ?s=sw&p=a&mlu=4",
         "Rafael Moura (57707230945348): Contando dinheiro",
@@ -10449,7 +10448,8 @@
         "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Boa noite!!",
         "jaciara (108461127897146): Boa noiteee",
         "Jessica (208958782488665): Boa noitinha",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Boa noiteeee"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Boa noiteeee",
+        "Juliano Perlin (222595437858867): 🤭🤭🤭"
       ]
     },
     "120363428464897153@g.us": {
@@ -17535,6 +17535,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Boa noiteeee",
         "timestamp": 1787953126837
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "🤭🤭🤭",
+        "timestamp": 1787953627763
       }
     ],
     "120363428464897153@g.us": [],
@@ -17568,7 +17574,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22503,
+    "120363432018531082@g.us": 22504,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2090,
@@ -146645,6 +146651,12 @@
         "text": "Boa noiteeee",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787953126837
+      },
+      "AC5862F4863721A88EEDC1FE2F7E2C58": {
+        "sender": "222595437858867@lid",
+        "text": "🤭🤭🤭",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1787953627764
       }
     },
     "120363428464897153@g.us": {
@@ -200136,7 +200148,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787953576730,
+    "120363432018531082@g.us": 1787953627763,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787953116483,
