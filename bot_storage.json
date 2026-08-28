@@ -2628,9 +2628,9 @@
         "total": 46
       },
       "75797868064796": {
-        "text": 12,
+        "text": 13,
         "media": 20,
-        "total": 32
+        "total": 33
       },
       "153764728184839": {
         "text": 2,
@@ -2798,9 +2798,9 @@
         "total": 4
       },
       "247020967165997": {
-        "text": 3,
+        "text": 4,
         "media": 1,
-        "total": 4
+        "total": 5
       },
       "206253020176458": {
         "text": 2,
@@ -10036,7 +10036,9 @@
         "Bruno (210152934359048): Bom demais",
         "Celiete Souza (129373172711439): Bomm diaaaa 🌻",
         "Celiete Souza (129373172711439): Boa sexta-feira pra todos 🙏🏼",
-        "Bruno (210152934359048): Bom diaa"
+        "Bruno (210152934359048): Bom diaa",
+        "Alexandre Bastos (75797868064796): Bem vinda",
+        "Gabi 💋 (247020967165997): Obrigada"
       ]
     },
     "120363428464897153@g.us": {
@@ -16956,12 +16958,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Maravilhosa ela",
-        "timestamp": 1787912410077
-      },
-      {
         "authorNum": "247020967165997",
         "authorName": "Gabi 💋",
         "text": "Obrigada",
@@ -17266,6 +17262,18 @@
         "authorName": "Bruno",
         "text": "Bom diaa",
         "timestamp": 1787913783987
+      },
+      {
+        "authorNum": "75797868064796",
+        "authorName": "Alexandre Bastos",
+        "text": "Bem vinda",
+        "timestamp": 1787914230744
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Obrigada",
+        "timestamp": 1787914238034
       }
     ],
     "120363428464897153@g.us": [],
@@ -17285,7 +17293,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21279,
+    "120363432018531082@g.us": 21281,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1989,
@@ -139076,6 +139084,18 @@
         "text": "Bom diaa",
         "pushName": "Bruno",
         "timestamp": 1787913783987
+      },
+      "AC7AC5841CBE12830A2F9A7DD571D647": {
+        "sender": "75797868064796@lid",
+        "text": "Bem vinda",
+        "pushName": "Alexandre Bastos",
+        "timestamp": 1787914230744
+      },
+      "ACBECA7663CB88EE0D3E6477029F95A0": {
+        "sender": "247020967165997@lid",
+        "text": "Obrigada",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787914238034
       }
     },
     "120363428464897153@g.us": {
@@ -191847,7 +191867,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787914226102,
+    "120363432018531082@g.us": 1787914238034,
     "120363428464897153@g.us": 1787913193216,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787894166886,
