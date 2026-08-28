@@ -3544,14 +3544,14 @@
         "total": 701
       },
       "145381035905262": {
-        "text": 492,
+        "text": 495,
         "media": 161,
-        "total": 653
+        "total": 656
       },
       "53537388122141": {
-        "text": 829,
+        "text": 830,
         "media": 65,
-        "total": 894
+        "total": 895
       },
       "120363412288900422": {
         "text": 1,
@@ -17039,7 +17039,11 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Com outro número!!!",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Qual o ddd dele \nCês lembra?",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Ele mora a 4min da minha casa 😂",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): DDD 48"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): DDD 48",
+        "Gabriel (145381035905262): Achei",
+        "Gabriel (145381035905262): E já foi",
+        "Gabriel (145381035905262): Com arroz",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Qual número?"
       ]
     },
     "120363411233423709@g.us": {
@@ -18150,6 +18154,30 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "DDD 48",
         "timestamp": 1787958287581
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Achei",
+        "timestamp": 1787958326256
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "E já foi",
+        "timestamp": 1787958328850
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Com arroz",
+        "timestamp": 1787958331497
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Qual número?",
+        "timestamp": 1787958337628
       }
     ],
     "120363411233423709@g.us": [],
@@ -18169,7 +18197,7 @@
     "120363432018531082@g.us": 22579,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2164,
+    "120363412288900422@g.us": 2168,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -198747,6 +198775,30 @@
         "text": "DDD 48",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787958287581
+      },
+      "AC60A913F19F99C901BAF4583825A467": {
+        "sender": "145381035905262@lid",
+        "text": "Achei",
+        "pushName": "Gabriel",
+        "timestamp": 1787958326256
+      },
+      "ACC12C7C9D966F2BCAA5CD612C30A470": {
+        "sender": "145381035905262@lid",
+        "text": "E já foi",
+        "pushName": "Gabriel",
+        "timestamp": 1787958328850
+      },
+      "AC58591E4F86A5ECB8717E3D573FF431": {
+        "sender": "145381035905262@lid",
+        "text": "Com arroz",
+        "pushName": "Gabriel",
+        "timestamp": 1787958331497
+      },
+      "ACAB41E10737CE1DE5E426D1BCB8077E": {
+        "sender": "53537388122141@lid",
+        "text": "Qual número?",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787958337629
       }
     },
     "120363411233423709@g.us": {
@@ -201631,7 +201683,7 @@
     "120363432018531082@g.us": 1787958290899,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787958297867,
+    "120363412288900422@g.us": 1787958337628,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
