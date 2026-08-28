@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2271,
+        "text": 2272,
         "media": 309,
-        "total": 2580
+        "total": 2581
       },
       "252922705240205": {
         "text": 80,
@@ -2603,9 +2603,9 @@
         "total": 26
       },
       "190864487919667": {
-        "text": 250,
+        "text": 253,
         "media": 42,
-        "total": 292
+        "total": 295
       },
       "82227819987089": {
         "text": 2,
@@ -2858,9 +2858,9 @@
         "total": 4
       },
       "263797142995147": {
-        "text": 4,
+        "text": 10,
         "media": 1,
-        "total": 5
+        "total": 11
       }
     },
     "120363428464897153@g.us": {
@@ -9900,13 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Souza (190864487919667): Hoje office? Bom demaize",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): N foi contigo meu amor",
-        "Van Librelon (68247365931226): Hoje sim 😌",
-        "Souza (190864487919667): Alguém quer comprar uma tinta de carro aí não?",
-        "Souza (190864487919667): Só pra passar o tempo mais rápido",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindo",
-        "Souza (190864487919667): Eu senti a inveja",
         "Arthur (206253020176458): Obrigado",
         "Pedro Henrique (172868239380659): Vou pedir 300 orçamento e não fechar nenhum",
         "Souza (190864487919667): Aí não compensa",
@@ -10399,7 +10392,14 @@
         "Souza (190864487919667): No no, nascido em salvador, atualmente em Brasília",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindaaa",
         "Alexandre Bastos (75797868064796): Bem vinda",
-        "Souza (190864487919667): E quase xará"
+        "Souza (190864487919667): E quase xará",
+        "Nanda (263797142995147): brigadaa",
+        "Nanda (263797142995147): e gente fazendo oq em plena sexta?",
+        "Souza (190864487919667): Trabalhar né",
+        "Souza (190864487919667): Fortal eu conheço, a outra não",
+        "Nanda (263797142995147): eu tô com mo vontade de ir pra praia",
+        "Nanda (263797142995147): tomar um sol",
+        "Souza (190864487919667): Inveja"
       ]
     },
     "120363428464897153@g.us": {
@@ -17542,6 +17542,48 @@
         "authorName": "Souza",
         "text": "E quase xará",
         "timestamp": 1787926565815
+      },
+      {
+        "authorNum": "263797142995147",
+        "authorName": "Nanda",
+        "text": "brigadaa",
+        "timestamp": 1787926569666
+      },
+      {
+        "authorNum": "263797142995147",
+        "authorName": "Nanda",
+        "text": "e gente fazendo oq em plena sexta?",
+        "timestamp": 1787926588001
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Trabalhar né",
+        "timestamp": 1787926595709
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Fortal eu conheço, a outra não",
+        "timestamp": 1787926603093
+      },
+      {
+        "authorNum": "263797142995147",
+        "authorName": "Nanda",
+        "text": "eu tô com mo vontade de ir pra praia",
+        "timestamp": 1787926603881
+      },
+      {
+        "authorNum": "263797142995147",
+        "authorName": "Nanda",
+        "text": "tomar um sol",
+        "timestamp": 1787926604846
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Inveja",
+        "timestamp": 1787926611700
       }
     ],
     "120363428464897153@g.us": [],
@@ -17568,7 +17610,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21742,
+    "120363432018531082@g.us": 21749,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2010,
@@ -142117,6 +142159,48 @@
         "text": "E quase xará",
         "pushName": "Souza",
         "timestamp": 1787926565815
+      },
+      "AC17ED77FFC7925152F6C9F44880B96E": {
+        "sender": "263797142995147@lid",
+        "text": "brigadaa",
+        "pushName": "Nanda",
+        "timestamp": 1787926569666
+      },
+      "AC79C0EB7A5EF1BF49E582EC91B38365": {
+        "sender": "263797142995147@lid",
+        "text": "e gente fazendo oq em plena sexta?",
+        "pushName": "Nanda",
+        "timestamp": 1787926588001
+      },
+      "AC5786029ABEC405823C1A866185300D": {
+        "sender": "190864487919667@lid",
+        "text": "Trabalhar né",
+        "pushName": "Souza",
+        "timestamp": 1787926595709
+      },
+      "ACB75D32D42308AF7644E2E95E1C479F": {
+        "sender": "190864487919667@lid",
+        "text": "Fortal eu conheço, a outra não",
+        "pushName": "Souza",
+        "timestamp": 1787926603093
+      },
+      "AC41A47807AFBB44D7ABDF9E25C5E47E": {
+        "sender": "263797142995147@lid",
+        "text": "eu tô com mo vontade de ir pra praia",
+        "pushName": "Nanda",
+        "timestamp": 1787926603881
+      },
+      "ACEDE589B23D0E99C3D36AD90A9D5170": {
+        "sender": "263797142995147@lid",
+        "text": "tomar um sol",
+        "pushName": "Nanda",
+        "timestamp": 1787926604846
+      },
+      "AC8B368C736F7EC00CEBA69D05BE4218": {
+        "sender": "190864487919667@lid",
+        "text": "Inveja",
+        "pushName": "Souza",
+        "timestamp": 1787926611700
       }
     },
     "120363428464897153@g.us": {
@@ -195014,7 +195098,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787926565815,
+    "120363432018531082@g.us": 1787926611700,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787924999186,
