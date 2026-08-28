@@ -453,9 +453,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1698,
+        "text": 1699,
         "media": 330,
-        "total": 2028
+        "total": 2029
       },
       "252600633041077": {
         "text": 1,
@@ -9881,7 +9881,8 @@
         "Leandro (+55 (11) 92701-8683): Esse fresco tá querendo usar o bot e nem pergunta se pode",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Tu removeu o homem aranha pq?",
         "Jk (120542904463568): Sim..sim",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Aqui durante o dia \nLá durante a noite"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Aqui durante o dia \nLá durante a noite",
+        "Leandro (+55 (11) 92701-8683): @81991328395336"
       ]
     },
     "120363428464897153@g.us": {
@@ -16801,24 +16802,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "163686253629557",
-        "authorName": "🦅⚡️😍",
-        "text": "👀",
-        "timestamp": 1787896541092
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Bom dia",
-        "timestamp": 1787896588388
-      },
-      {
-        "authorNum": "163686253629557",
-        "authorName": "🦅⚡️😍",
-        "text": "Bom dia",
-        "timestamp": 1787896650960
-      },
-      {
         "authorNum": "81991328395336",
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Bom dia",
@@ -16997,6 +16980,12 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Aqui durante o dia \nLá durante a noite",
         "timestamp": 1787898294510
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "@81991328395336",
+        "timestamp": 1787898456711
       }
     ],
     "120363428464897153@g.us": [
@@ -17163,7 +17152,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21164,
+    "120363432018531082@g.us": 21165,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1989,
@@ -138283,6 +138272,12 @@
         "text": "Aqui durante o dia \nLá durante a noite",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787898294511
+      },
+      "A5FA1FEFA7D5A40228AD6FF73C640A99": {
+        "sender": "54259127210155@lid",
+        "text": "@81991328395336",
+        "pushName": "Leandro",
+        "timestamp": 1787898456711
       }
     },
     "120363428464897153@g.us": {
@@ -191054,7 +191049,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787898300208,
+    "120363432018531082@g.us": 1787898456711,
     "120363428464897153@g.us": 1787898005021,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787894166886,
