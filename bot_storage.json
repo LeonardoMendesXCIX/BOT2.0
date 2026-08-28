@@ -253,9 +253,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1465,
+        "text": 1466,
         "media": 1100,
-        "total": 2565
+        "total": 2566
       },
       "3126803329115": {
         "text": 87,
@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2237,
+        "text": 2240,
         "media": 303,
-        "total": 2540
+        "total": 2543
       },
       "252922705240205": {
         "text": 80,
@@ -2808,9 +2808,9 @@
         "total": 2
       },
       "210152934359048": {
-        "text": 4,
+        "text": 5,
         "media": 0,
-        "total": 4
+        "total": 5
       }
     },
     "120363428464897153@g.us": {
@@ -10016,7 +10016,11 @@
         "Bruno (210152934359048): Obrigado",
         "Bruno (210152934359048): É de onde?",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): @81991328395336",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Jajá quem vai de dormes sou eu, isso sim"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Jajá quem vai de dormes sou eu, isso sim",
+        "Camila Designer (92629643563147): Quem está anunciando está a venda? Se tiver eu quero 😏",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Florianópolis, Santa Catarina. E você?",
+        "Bruno (210152934359048): Aah sim , sou de juiz de fora mg",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Aaah simmm"
       ]
     },
     "120363428464897153@g.us": {
@@ -16936,12 +16940,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "129978696003832",
-        "authorName": "PAULO PEREIRA",
-        "text": "Bom dia a todos , e ótima Sexta .",
-        "timestamp": 1787911688856
-      },
-      {
         "authorNum": "222595437858867",
         "authorName": "Juliano Perlin",
         "text": "Bom diaa😘❤️",
@@ -17216,6 +17214,30 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Jajá quem vai de dormes sou eu, isso sim",
         "timestamp": 1787913483542
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Quem está anunciando está a venda? Se tiver eu quero 😏",
+        "timestamp": 1787913495144
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Florianópolis, Santa Catarina. E você?",
+        "timestamp": 1787913502011
+      },
+      {
+        "authorNum": "210152934359048",
+        "authorName": "Bruno",
+        "text": "Aah sim , sou de juiz de fora mg",
+        "timestamp": 1787913524384
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Aaah simmm",
+        "timestamp": 1787913536792
       }
     ],
     "120363428464897153@g.us": [],
@@ -17235,7 +17257,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21259,
+    "120363432018531082@g.us": 21263,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1989,
@@ -138906,6 +138928,30 @@
         "text": "Jajá quem vai de dormes sou eu, isso sim",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787913483542
+      },
+      "2A30556838E780D995CA": {
+        "sender": "92629643563147@lid",
+        "text": "Quem está anunciando está a venda? Se tiver eu quero 😏",
+        "pushName": "Camila Designer",
+        "timestamp": 1787913495144
+      },
+      "AC6A3013348CB97B66FA605107B88309": {
+        "sender": "53537388122141@lid",
+        "text": "Florianópolis, Santa Catarina. E você?",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787913502011
+      },
+      "ACF078AED33229F13516DDDE77FA6776": {
+        "sender": "210152934359048@lid",
+        "text": "Aah sim , sou de juiz de fora mg",
+        "pushName": "Bruno",
+        "timestamp": 1787913524385
+      },
+      "ACB2EC4BFE204426A8DAE0706110BC2F": {
+        "sender": "53537388122141@lid",
+        "text": "Aaah simmm",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787913536792
       }
     },
     "120363428464897153@g.us": {
@@ -191677,7 +191723,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787913483542,
+    "120363432018531082@g.us": 1787913536792,
     "120363428464897153@g.us": 1787913193216,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787894166886,
