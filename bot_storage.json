@@ -2658,9 +2658,9 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 101,
+        "text": 102,
         "media": 15,
-        "total": 116
+        "total": 117
       },
       "172868239380659": {
         "text": 182,
@@ -9930,7 +9930,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Pedro Henrique (172868239380659): Mas quem tava bravo?",
         "Pedro Henrique (172868239380659): Uma zoeira saudável daquela",
         "Pedro Henrique (172868239380659): @247020967165997 vc tava brava ?",
         "Rafael Moura (57707230945348): Sei não em",
@@ -10429,7 +10428,8 @@
         "Gleydson Souza (274384656834700): Pra quem ama chuva que nem eu isso aqui e o inferno kkkk",
         "Celiete Souza (129373172711439): Nosso clima aqui não é bom",
         "May (227783724793861): Tem que morar em Curitiba",
-        "Gleydson Souza (274384656834700): Já vou ver quanto custa as casas por ai kkkk"
+        "Gleydson Souza (274384656834700): Já vou ver quanto custa as casas por ai kkkk",
+        "Gleydson Souza (274384656834700): Oii"
       ]
     },
     "120363428464897153@g.us": {
@@ -17597,6 +17597,12 @@
         "authorName": "Gleydson Souza",
         "text": "Já vou ver quanto custa as casas por ai kkkk",
         "timestamp": 1787934944557
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Oii",
+        "timestamp": 1787935534817
       }
     ],
     "120363428464897153@g.us": [],
@@ -17666,7 +17672,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22076,
+    "120363432018531082@g.us": 22077,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2021,
@@ -144199,6 +144205,12 @@
         "text": "Já vou ver quanto custa as casas por ai kkkk",
         "pushName": "Gleydson Souza",
         "timestamp": 1787934944557
+      },
+      "ACB15B79250BD21C516F1FA1D6F2C195": {
+        "sender": "274384656834700@lid",
+        "text": "Oii",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787935534818
       }
     },
     "120363428464897153@g.us": {
@@ -197246,7 +197258,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787934978241,
+    "120363432018531082@g.us": 1787935534817,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787935011709,
