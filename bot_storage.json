@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2229,
+        "text": 2230,
         "media": 302,
-        "total": 2531
+        "total": 2532
       },
       "252922705240205": {
         "text": 80,
@@ -293,9 +293,9 @@
         "total": 464
       },
       "262182034002040": {
-        "text": 1872,
-        "media": 121,
-        "total": 1993
+        "text": 1873,
+        "media": 122,
+        "total": 1995
       },
       "219245581488326": {
         "text": 4,
@@ -2603,9 +2603,9 @@
         "total": 21
       },
       "190864487919667": {
-        "text": 195,
+        "text": 198,
         "media": 35,
-        "total": 230
+        "total": 233
       },
       "82227819987089": {
         "text": 2,
@@ -2664,8 +2664,8 @@
       },
       "172868239380659": {
         "text": 93,
-        "media": 14,
-        "total": 107
+        "media": 15,
+        "total": 108
       },
       "170455038193841": {
         "text": 1,
@@ -9971,7 +9971,11 @@
         "Dany (262182034002040): Bom dia, grupo! SEXTOU!!! Uhuuuuu\n\nBoa sexta-feira, galera!!",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Graças a Deus",
         "Gabi 💋 (247020967165997): Bom dia a todos \nPrazer Gabi \nSou do abc paulista santo André \n30 anos",
-        " (120363432018531082): Bom dia a todos \nPrazer Gabi \nSou do abc paulista santo André \n30 anos"
+        " (120363432018531082): Bom dia a todos \nPrazer Gabi \nSou do abc paulista santo André \n30 anos",
+        "Souza (190864487919667): Bem vinda Gabi",
+        "Dany (262182034002040): Bem-vinda!!!",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindaaaa",
+        "Souza (190864487919667): Maravilhosa ela"
       ]
     },
     "120363428464897153@g.us": {
@@ -16979,6 +16983,30 @@
         "authorName": "",
         "text": "Bom dia a todos \nPrazer Gabi \nSou do abc paulista santo André \n30 anos",
         "timestamp": 1787912361471
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Bem vinda Gabi",
+        "timestamp": 1787912374506
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Bem-vinda!!!",
+        "timestamp": 1787912376248
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Bem vindaaaa",
+        "timestamp": 1787912383570
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Maravilhosa ela",
+        "timestamp": 1787912410077
       }
     ],
     "120363428464897153@g.us": [],
@@ -16998,7 +17026,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21224,
+    "120363432018531082@g.us": 21228,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1989,
@@ -138459,6 +138487,30 @@
         "text": "Bom dia a todos \nPrazer Gabi \nSou do abc paulista santo André \n30 anos",
         "pushName": "",
         "timestamp": 1787912361471
+      },
+      "AC7873B2837E8CF0DCECBB4E44569854": {
+        "sender": "190864487919667@lid",
+        "text": "Bem vinda Gabi",
+        "pushName": "Souza",
+        "timestamp": 1787912374506
+      },
+      "3AB020A0BDAC06C82956": {
+        "sender": "262182034002040@lid",
+        "text": "Bem-vinda!!!",
+        "pushName": "Dany",
+        "timestamp": 1787912376248
+      },
+      "AC55766752C31136A366B09E877C9695": {
+        "sender": "53537388122141@lid",
+        "text": "Bem vindaaaa",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787912383571
+      },
+      "AC084883793127D2F97F59B265302B60": {
+        "sender": "190864487919667@lid",
+        "text": "Maravilhosa ela",
+        "pushName": "Souza",
+        "timestamp": 1787912410077
       }
     },
     "120363428464897153@g.us": {
@@ -191230,7 +191282,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787912361471,
+    "120363432018531082@g.us": 1787912410077,
     "120363428464897153@g.us": 1787909941077,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787894166886,
