@@ -2603,9 +2603,9 @@
         "total": 24
       },
       "190864487919667": {
-        "text": 238,
+        "text": 239,
         "media": 41,
-        "total": 279
+        "total": 280
       },
       "82227819987089": {
         "text": 2,
@@ -2673,9 +2673,9 @@
         "total": 3
       },
       "193729163993156": {
-        "text": 13,
+        "text": 14,
         "media": 5,
-        "total": 18
+        "total": 19
       },
       "151582733820115": {
         "text": 5,
@@ -9865,8 +9865,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Leandro (+55 (11) 92701-8683): 😒",
-        "Leandro (+55 (11) 92701-8683): Esse fresco tá querendo usar o bot e nem pergunta se pode",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Tu removeu o homem aranha pq?",
         "Jk (120542904463568): Sim..sim",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Aqui durante o dia \nLá durante a noite",
@@ -10364,7 +10362,9 @@
         "𝔞𝔩𝔦𝔫𝔢🫶🏽 (221307534876912): Eitttaaa",
         "F. RicaRdo sAnToS (193729163993156): Pão sexual é o que transa com Pão 🌭??? 🧐🧐",
         "~Gará (83911531044906): Amo",
-        "Camila Designer (92629643563147): Explique isso melhor 🤣🤣🤣"
+        "Camila Designer (92629643563147): Explique isso melhor 🤣🤣🤣",
+        "Souza (190864487919667): Também",
+        "F. RicaRdo sAnToS (193729163993156): Ja ja te explico 🫠🙃"
       ]
     },
     "120363428464897153@g.us": {
@@ -17488,6 +17488,18 @@
         "authorName": "Camila Designer",
         "text": "Explique isso melhor 🤣🤣🤣",
         "timestamp": 1787921869334
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Também",
+        "timestamp": 1787921952526
+      },
+      {
+        "authorNum": "193729163993156",
+        "authorName": "F. RicaRdo sAnToS",
+        "text": "Ja ja te explico 🫠🙃",
+        "timestamp": 1787921952527
       }
     ],
     "120363428464897153@g.us": [],
@@ -17568,7 +17580,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21659,
+    "120363432018531082@g.us": 21661,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2003,
@@ -141632,6 +141644,18 @@
         "text": "Explique isso melhor 🤣🤣🤣",
         "pushName": "Camila Designer",
         "timestamp": 1787921869335
+      },
+      "ACD6247C3B68005EB7E44268BCFABD11": {
+        "sender": "190864487919667@lid",
+        "text": "Também",
+        "pushName": "Souza",
+        "timestamp": 1787921952526
+      },
+      "AC2B08B10EDF4EF2DCE394086713C212": {
+        "sender": "193729163993156@lid",
+        "text": "Ja ja te explico 🫠🙃",
+        "pushName": "F. RicaRdo sAnToS",
+        "timestamp": 1787921952527
       }
     },
     "120363428464897153@g.us": {
@@ -194487,7 +194511,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787921869334,
+    "120363432018531082@g.us": 1787921952527,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787921575912,
