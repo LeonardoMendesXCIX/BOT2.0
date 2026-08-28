@@ -1863,9 +1863,9 @@
         "total": 6
       },
       "1395881181241": {
-        "text": 129,
+        "text": 130,
         "media": 5,
-        "total": 134
+        "total": 135
       },
       "198595546501333": {
         "text": 2,
@@ -1953,9 +1953,9 @@
         "total": 5
       },
       "83911531044906": {
-        "text": 38,
+        "text": 39,
         "media": 2,
-        "total": 40
+        "total": 41
       },
       "172864548434113": {
         "text": 42,
@@ -2603,9 +2603,9 @@
         "total": 26
       },
       "190864487919667": {
-        "text": 255,
+        "text": 257,
         "media": 42,
-        "total": 297
+        "total": 299
       },
       "82227819987089": {
         "text": 2,
@@ -2858,9 +2858,9 @@
         "total": 4
       },
       "263797142995147": {
-        "text": 17,
-        "media": 1,
-        "total": 18
+        "text": 20,
+        "media": 2,
+        "total": 22
       }
     },
     "120363428464897153@g.us": {
@@ -9900,11 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): @81991328395336",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Jajá quem vai de dormes sou eu, isso sim",
-        "Camila Designer (92629643563147): Quem está anunciando está a venda? Se tiver eu quero 😏",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Florianópolis, Santa Catarina. E você?",
-        "Bruno (210152934359048): Aah sim , sou de juiz de fora mg",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Aaah simmm",
         "Souza (190864487919667): Tô quase me vendendo por um pastel",
         "Bruno (210152934359048): Floripa, deve ser maneiro ai",
@@ -10399,7 +10394,12 @@
         "Nanda (263797142995147): mo vergonha",
         "Souza (190864487919667): Oxe",
         "Souza (190864487919667): Sozinho é bom",
-        "Nanda (263797142995147): mais tarde, ainda ta cedo"
+        "Nanda (263797142995147): mais tarde, ainda ta cedo",
+        "Nanda (263797142995147): eu acho ruim, pq eu levo tanta coisa, medo de levarem enquanto tô la no mar",
+        "Nanda (263797142995147): eu corro q nem uma pata",
+        "Bruno Aguiar (+1395881181241): Seja bem vinda!",
+        "Nanda (263797142995147): brigada",
+        "Souza (190864487919667): KKKKKKKKKKKKKKKKKKKKKK"
       ]
     },
     "120363428464897153@g.us": {
@@ -17615,6 +17615,36 @@
         "authorName": "Nanda",
         "text": "mais tarde, ainda ta cedo",
         "timestamp": 1787926668022
+      },
+      {
+        "authorNum": "263797142995147",
+        "authorName": "Nanda",
+        "text": "eu acho ruim, pq eu levo tanta coisa, medo de levarem enquanto tô la no mar",
+        "timestamp": 1787926696829
+      },
+      {
+        "authorNum": "263797142995147",
+        "authorName": "Nanda",
+        "text": "eu corro q nem uma pata",
+        "timestamp": 1787926703436
+      },
+      {
+        "authorNum": "1395881181241",
+        "authorName": "Bruno Aguiar",
+        "text": "Seja bem vinda!",
+        "timestamp": 1787926708316
+      },
+      {
+        "authorNum": "263797142995147",
+        "authorName": "Nanda",
+        "text": "brigada",
+        "timestamp": 1787926714080
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "KKKKKKKKKKKKKKKKKKKKKK",
+        "timestamp": 1787926715017
       }
     ],
     "120363428464897153@g.us": [],
@@ -17647,7 +17677,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21757,
+    "120363432018531082@g.us": 21762,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2011,
@@ -142286,6 +142316,36 @@
         "text": "mais tarde, ainda ta cedo",
         "pushName": "Nanda",
         "timestamp": 1787926668022
+      },
+      "AC37496C10EEFE1D3770291401C2690F": {
+        "sender": "263797142995147@lid",
+        "text": "eu acho ruim, pq eu levo tanta coisa, medo de levarem enquanto tô la no mar",
+        "pushName": "Nanda",
+        "timestamp": 1787926696829
+      },
+      "ACA995D743A786D2AB5C725C167AC329": {
+        "sender": "263797142995147@lid",
+        "text": "eu corro q nem uma pata",
+        "pushName": "Nanda",
+        "timestamp": 1787926703436
+      },
+      "ACA57D55452AF97CE0340F327A750FB2": {
+        "sender": "1395881181241@lid",
+        "text": "Seja bem vinda!",
+        "pushName": "Bruno Aguiar",
+        "timestamp": 1787926708316
+      },
+      "AC553A23EEDB5E8602994044AA8BC725": {
+        "sender": "263797142995147@lid",
+        "text": "brigada",
+        "pushName": "Nanda",
+        "timestamp": 1787926714081
+      },
+      "ACB0DB7289FE00F65D0A048562CCE689": {
+        "sender": "190864487919667@lid",
+        "text": "KKKKKKKKKKKKKKKKKKKKKK",
+        "pushName": "Souza",
+        "timestamp": 1787926715017
       }
     },
     "120363428464897153@g.us": {
@@ -195189,7 +195249,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787926668022,
+    "120363432018531082@g.us": 1787926715017,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787926648480,
