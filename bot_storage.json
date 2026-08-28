@@ -3381,9 +3381,9 @@
         "total": 4
       },
       "82227819987089": {
-        "text": 5,
+        "text": 6,
         "media": 0,
-        "total": 5
+        "total": 6
       }
     },
     "120363409727467494@g.us": {
@@ -3415,9 +3415,9 @@
     },
     "120363412288900422@g.us": {
       "81991328395336": {
-        "text": 450,
+        "text": 451,
         "media": 118,
-        "total": 568
+        "total": 569
       },
       "5511927018683": {
         "text": 464,
@@ -3430,9 +3430,9 @@
         "total": 513
       },
       "53537388122141": {
-        "text": 731,
+        "text": 732,
         "media": 58,
-        "total": 789
+        "total": 790
       },
       "120363412288900422": {
         "text": 1,
@@ -13860,7 +13860,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Semana que vem?",
         "Vini 👑🏁🙌⚽ (270377049690114): Só entra maluco no grupo!!!! 😂😂😂😂",
         "Pedro Henrique (82227819987089): Se referindo a qm joia ?",
-        "Pedro Henrique (82227819987089): E nois Enzo"
+        "Pedro Henrique (82227819987089): E nois Enzo",
+        "Pedro Henrique (82227819987089): Chuta uma bola e tá se achando 😂"
       ]
     },
     "120363409727467494@g.us": {
@@ -15946,7 +15947,9 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mano 😂😂😂",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Eu assim olhando por insta qndo ela mandou",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Sim, tá afetando outras pessoas e saindo fora do controle... Não sei aonde vai parar isso",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): SIM"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): SIM",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Processo cairia bem",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Sim, tô precisando de grana"
       ]
     },
     "120363411233423709@g.us": {
@@ -16528,12 +16531,6 @@
     ],
     "120363428464897153@g.us": [
       {
-        "authorNum": "66743926038604",
-        "authorName": "Henrique",
-        "text": "Boa noite galera",
-        "timestamp": 1787884034148
-      },
-      {
         "authorNum": "270377049690114",
         "authorName": "Vini 👑🏁🙌⚽",
         "text": "Boa noite 👀🌚",
@@ -16616,6 +16613,12 @@
         "authorName": "Pedro Henrique",
         "text": "E nois Enzo",
         "timestamp": 1787885774720
+      },
+      {
+        "authorNum": "82227819987089",
+        "authorName": "Pedro Henrique",
+        "text": "Chuta uma bola e tá se achando 😂",
+        "timestamp": 1787885848488
       }
     ],
     "120363409727467494@g.us": [],
@@ -17027,6 +17030,18 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "SIM",
         "timestamp": 1787885814139
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Processo cairia bem",
+        "timestamp": 1787885836933
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Sim, tô precisando de grana",
+        "timestamp": 1787885854744
       }
     ],
     "120363411233423709@g.us": [],
@@ -17043,9 +17058,9 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 21092,
-    "120363428464897153@g.us": 6234,
+    "120363428464897153@g.us": 6235,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1804,
+    "120363412288900422@g.us": 1806,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -174306,6 +174321,12 @@
         "text": "E nois Enzo",
         "pushName": "Pedro Henrique",
         "timestamp": 1787885774720
+      },
+      "3A2CDCC99CE6B90B6C0E": {
+        "sender": "82227819987089@lid",
+        "text": "Chuta uma bola e tá se achando 😂",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787885848488
       }
     },
     "120363409727467494@g.us": {
@@ -186334,6 +186355,18 @@
         "text": "SIM",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787885814139
+      },
+      "ACDA71001B6226EDB36D8CC3A9E0E981": {
+        "sender": "81991328395336@lid",
+        "text": "Processo cairia bem",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787885836933
+      },
+      "AC58095EBC12A59171D966F0F328C5A4": {
+        "sender": "53537388122141@lid",
+        "text": "Sim, tô precisando de grana",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787885854744
       }
     },
     "120363411233423709@g.us": {
@@ -188920,9 +188953,9 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787884904333,
-    "120363428464897153@g.us": 1787885802635,
+    "120363428464897153@g.us": 1787885848488,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787885814139,
+    "120363412288900422@g.us": 1787885854744,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
