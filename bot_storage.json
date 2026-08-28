@@ -3549,9 +3549,9 @@
         "total": 598
       },
       "53537388122141": {
-        "text": 786,
+        "text": 787,
         "media": 60,
-        "total": 846
+        "total": 847
       },
       "120363412288900422": {
         "text": 1,
@@ -16888,7 +16888,8 @@
         "Leandro (+55 (11) 92701-8683): Tudo tranquilo 🫡",
         "Leandro (+55 (11) 92701-8683): E vocês?",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Tudo na paz 🫡",
-        "Leandro (+55 (11) 92701-8683): Estou indo para consulta, consegue segurar as pontas aí? @53537388122141"
+        "Leandro (+55 (11) 92701-8683): Estou indo para consulta, consegue segurar as pontas aí? @53537388122141",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Deixa comigo"
       ]
     },
     "120363411233423709@g.us": {
@@ -17452,16 +17453,16 @@
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [
       {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Tudo na paz 🫡",
-        "timestamp": 1787935011709
-      },
-      {
         "authorNum": "5511927018683",
         "authorName": "Leandro",
         "text": "Estou indo para consulta, consegue segurar as pontas aí? @53537388122141",
         "timestamp": 1787936733165
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Deixa comigo",
+        "timestamp": 1787936816402
       }
     ],
     "120363411233423709@g.us": [],
@@ -17481,7 +17482,7 @@
     "120363432018531082@g.us": 22083,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2022,
+    "120363412288900422@g.us": 2023,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -194279,6 +194280,12 @@
         "text": "Estou indo para consulta, consegue segurar as pontas aí? @53537388122141",
         "pushName": "Leandro",
         "timestamp": 1787936733165
+      },
+      "AC39064758A0E268D052D17CE6BF064D": {
+        "sender": "53537388122141@lid",
+        "text": "Deixa comigo",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787936816402
       }
     },
     "120363411233423709@g.us": {
@@ -197109,7 +197116,7 @@
     "120363432018531082@g.us": 1787936773639,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787936733165,
+    "120363412288900422@g.us": 1787936816402,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
