@@ -189,8 +189,8 @@
       },
       "145381035905262": {
         "text": 2255,
-        "media": 478,
-        "total": 2733
+        "media": 479,
+        "total": 2734
       },
       "184237705699536": {
         "text": 524,
@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2394,
+        "text": 2395,
         "media": 337,
-        "total": 2731
+        "total": 2732
       },
       "252922705240205": {
         "text": 80,
@@ -2723,9 +2723,9 @@
         "total": 8
       },
       "108268240302270": {
-        "text": 1,
+        "text": 2,
         "media": 1,
-        "total": 2
+        "total": 3
       },
       "94738589974623": {
         "text": 1,
@@ -9950,8 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Leandro (+55 (11) 92701-8683): Iae cobiçado 🤏🏼😎",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Gente, a vida tá fácil assim né? 🤡🤡",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Metida, cobiçado...\nO que mais que falta?",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @190864487919667",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Vai boba cair no golpe",
@@ -10449,7 +10447,9 @@
         "Leandro (+55 (11) 92701-8683): Aí sim meu sócio! 🫡",
         "Gabriel (145381035905262): Botei uma mais o menos",
         "Leandro (+55 (11) 92701-8683): Já é alguma coisa",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Aí que lindo 🥹🥹🥹"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Aí que lindo 🥹🥹🥹",
+        "Edison Medeiros💚 (108268240302270): Uau que linda bb",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Valeu kk"
       ]
     },
     "120363428464897153@g.us": {
@@ -17725,6 +17725,18 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Aí que lindo 🥹🥹🥹",
         "timestamp": 1787961063259
+      },
+      {
+        "authorNum": "108268240302270",
+        "authorName": "Edison Medeiros💚",
+        "text": "Uau que linda bb",
+        "timestamp": 1787961137060
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Valeu kk",
+        "timestamp": 1787961147042
       }
     ],
     "120363428464897153@g.us": [],
@@ -17842,7 +17854,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22623,
+    "120363432018531082@g.us": 22625,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2192,
@@ -147610,6 +147622,18 @@
         "text": "Aí que lindo 🥹🥹🥹",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787961063259
+      },
+      "AC799F005741BE9DD81F130DA52EF15F": {
+        "sender": "108268240302270@lid",
+        "text": "Uau que linda bb",
+        "pushName": "Edison Medeiros💚",
+        "timestamp": 1787961137060
+      },
+      "ACBB48F3A43D46918B51A146CB5F634E": {
+        "sender": "53537388122141@lid",
+        "text": "Valeu kk",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787961147042
       }
     },
     "120363428464897153@g.us": {
@@ -201737,7 +201761,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787961086760,
+    "120363432018531082@g.us": 1787961147042,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787960943203,
