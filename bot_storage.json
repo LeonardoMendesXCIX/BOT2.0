@@ -2628,9 +2628,9 @@
         "total": 46
       },
       "75797868064796": {
-        "text": 38,
+        "text": 39,
         "media": 102,
-        "total": 140
+        "total": 141
       },
       "153764728184839": {
         "text": 2,
@@ -3946,8 +3946,8 @@
       },
       "81991328395336": {
         "text": 17,
-        "media": 1065,
-        "total": 1082
+        "media": 1067,
+        "total": 1084
       },
       "145381035905262": {
         "text": 7,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "~Gará (83911531044906): Tenho 33",
         "jaciara (108461127897146): Sim sim , eu sou bem esperta em relação a isso",
         "F. RicaRdo sAnToS (193729163993156): Tem candidato forte aqui",
         "~Gará (83911531044906): Tenho três filhos.\nPorém descobrir em 2020 que não faço mais devidos uns problemas,mais queria ter mais um pra mim acompanhar de perto desde o nascimento ao crescimento.",
@@ -10449,7 +10448,8 @@
         "🙃🙃🙃 (11171897864256): Vou segunda 😃",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): É nada",
         "🙃🙃🙃 (11171897864256): Numa chamada vicunha",
-        "🙃🙃🙃 (11171897864256): Aqui do estado"
+        "🙃🙃🙃 (11171897864256): Aqui do estado",
+        "Alexandre Bastos (75797868064796): Eita"
       ]
     },
     "120363428464897153@g.us": {
@@ -17487,24 +17487,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Ai amiga @129373172711439 já estou desacreditada do Kabaré kkk",
-        "timestamp": 1787945931379
-      },
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Sim, tudo morrido",
-        "timestamp": 1787945963140
-      },
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Vamos ver hj",
-        "timestamp": 1787945963472
-      },
-      {
         "authorNum": "163530946961491",
         "authorName": "willian",
         "text": "Eu sempre falo pra ele aqui esse homem é gato de mais 🤣",
@@ -17887,6 +17869,12 @@
         "authorName": "🙃🙃🙃",
         "text": "Aqui do estado",
         "timestamp": 1787947725605
+      },
+      {
+        "authorNum": "75797868064796",
+        "authorName": "Alexandre Bastos",
+        "text": "Eita",
+        "timestamp": 1787947781439
       }
     ],
     "120363428464897153@g.us": [],
@@ -17919,7 +17907,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22387,
+    "120363432018531082@g.us": 22388,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -146300,6 +146288,12 @@
         "text": "Aqui do estado",
         "pushName": "🙃🙃🙃",
         "timestamp": 1787947725605
+      },
+      "AC642F42A8A650794A3E09DA18A0D04E": {
+        "sender": "75797868064796@lid",
+        "text": "Eita",
+        "pushName": "Alexandre Bastos",
+        "timestamp": 1787947781439
       }
     },
     "120363428464897153@g.us": {
@@ -199779,7 +199773,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787947725605,
+    "120363432018531082@g.us": 1787947781439,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
@@ -199790,7 +199784,7 @@
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1787868477291,
-    "120363409024805409@g.us": 1787947595276,
+    "120363409024805409@g.us": 1787947774685,
     "120363411043114631@g.us": 1787897464612
   },
   "autoAnimSent": {
