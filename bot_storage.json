@@ -2833,9 +2833,9 @@
         "total": 4
       },
       "78143406768201": {
-        "text": 5,
+        "text": 6,
         "media": 0,
-        "total": 5
+        "total": 6
       },
       "227783724793861": {
         "text": 1,
@@ -9895,7 +9895,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bommm diaaa a @all vocês! Ótima sexta feira, que seja abençoada ❤️🙏🏼",
         "PAULO PEREIRA (129978696003832): Bom dia a todos , e ótima Sexta .",
         "Juliano Perlin (222595437858867): Bom diaa😘❤️",
         "Camila Designer (92629643563147): Bom dia Pessoal!\n\nQue Deus abençoe o dia de vocês, que seja um dia muito produtivo, de muita paz!✌️",
@@ -10394,7 +10393,8 @@
         "fé ! (147940920283293): Diferente dos iguais aí sim 👌",
         "Kamila (78143406768201): Brigada",
         "Kamila (78143406768201): Brigada",
-        "Arthur (206253020176458): De nada"
+        "Arthur (206253020176458): De nada",
+        "Kamila (78143406768201): Tudo bem"
       ]
     },
     "120363428464897153@g.us": {
@@ -17334,12 +17334,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "75797868064796",
-        "authorName": "Alexandre Bastos",
-        "text": "Prazer Alexandre",
-        "timestamp": 1787923081633
-      },
-      {
         "authorNum": "190864487919667",
         "authorName": "Souza",
         "text": "Bem vinda",
@@ -17536,6 +17530,12 @@
         "authorName": "Arthur",
         "text": "De nada",
         "timestamp": 1787924855483
+      },
+      {
+        "authorNum": "78143406768201",
+        "authorName": "Kamila",
+        "text": "Tudo bem",
+        "timestamp": 1787924919124
       }
     ],
     "120363428464897153@g.us": [],
@@ -17574,7 +17574,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21711,
+    "120363432018531082@g.us": 21712,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2009,
@@ -141943,6 +141943,12 @@
         "text": "De nada",
         "pushName": "Arthur",
         "timestamp": 1787924855483
+      },
+      "AC28E4DBFA98A043538E411DF0EF745B": {
+        "sender": "78143406768201@lid",
+        "text": "Tudo bem",
+        "pushName": "Kamila",
+        "timestamp": 1787924919124
       }
     },
     "120363428464897153@g.us": {
@@ -194834,7 +194840,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787924858736,
+    "120363432018531082@g.us": 1787924919124,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787923699618,
