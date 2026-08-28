@@ -698,9 +698,9 @@
         "total": 95
       },
       "57707230945348": {
-        "text": 1167,
+        "text": 1168,
         "media": 209,
-        "total": 1376
+        "total": 1377
       },
       "152218690924790": {
         "text": 309,
@@ -2688,9 +2688,9 @@
         "total": 62
       },
       "208958782488665": {
-        "text": 14,
+        "text": 15,
         "media": 12,
-        "total": 26
+        "total": 27
       },
       "262456945414267": {
         "text": 9,
@@ -10121,7 +10121,9 @@
         "Souza (190864487919667): Tô esperando meu VR cair hein",
         "Rafael Moura (57707230945348): Hoje tem Coca em",
         "Rafael Moura (57707230945348): VR caiu, alegria subiu",
-        "Gabi 💋 (247020967165997): Hoje eu queria um Poke"
+        "Gabi 💋 (247020967165997): Hoje eu queria um Poke",
+        "Jessica (208958782488665): Que hoje tem reunião dos internados do hospital 😬",
+        "Rafael Moura (57707230945348): Oi doutora 😏"
       ]
     },
     "120363428464897153@g.us": {
@@ -17684,6 +17686,18 @@
         "authorName": "Gabi 💋",
         "text": "Hoje eu queria um Poke",
         "timestamp": 1787915056386
+      },
+      {
+        "authorNum": "208958782488665",
+        "authorName": "Jessica",
+        "text": "Que hoje tem reunião dos internados do hospital 😬",
+        "timestamp": 1787915141180
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Oi doutora 😏",
+        "timestamp": 1787915162597
       }
     ],
     "120363428464897153@g.us": [],
@@ -17722,7 +17736,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21359,
+    "120363432018531082@g.us": 21361,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1992,
@@ -139987,6 +140001,18 @@
         "text": "Hoje eu queria um Poke",
         "pushName": "Gabi 💋",
         "timestamp": 1787915056386
+      },
+      "AC97D17768EA1C26E1BBFFCA6F014446": {
+        "sender": "208958782488665@lid",
+        "text": "Que hoje tem reunião dos internados do hospital 😬",
+        "pushName": "Jessica",
+        "timestamp": 1787915141180
+      },
+      "AC257CD74E4131CEF548317463FF12AA": {
+        "sender": "57707230945348@lid",
+        "text": "Oi doutora 😏",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787915162597
       }
     },
     "120363428464897153@g.us": {
@@ -192776,7 +192802,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787915067908,
+    "120363432018531082@g.us": 1787915162597,
     "120363428464897153@g.us": 1787913193216,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787914462012,
