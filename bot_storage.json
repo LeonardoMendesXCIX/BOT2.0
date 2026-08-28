@@ -3550,8 +3550,8 @@
       },
       "53537388122141": {
         "text": 801,
-        "media": 61,
-        "total": 862
+        "media": 62,
+        "total": 863
       },
       "120363412288900422": {
         "text": 1,
@@ -16965,7 +16965,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Fácil de entender pô",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Imagine aí",
         "Gabriel (145381035905262): Deixa quieto 🤣🤣",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Já posso ficar on de novo no grupo 😂"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Já posso ficar on de novo no grupo 😂",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): @all"
       ]
     },
     "120363411233423709@g.us": {
@@ -17492,36 +17493,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "120363432018531082",
-        "authorName": "",
-        "text": "Aqui fazendo conteúdo...",
-        "timestamp": 1787954069159
-      },
-      {
-        "authorNum": "120363432018531082",
-        "authorName": "",
-        "text": "E vocês aí",
-        "timestamp": 1787954073202
-      },
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Aqui fazendo conteúdo...",
-        "timestamp": 1787954078377
-      },
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Assim mesmo galo",
-        "timestamp": 1787954083305
-      },
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "E vocês aí",
-        "timestamp": 1787954085765
-      },
-      {
         "authorNum": "129373172711439",
         "authorName": "Celiete Souza",
         "text": "Pura bucha, mas o importante é ser lembrado é estar a frente kkk",
@@ -17560,7 +17531,14 @@
     ],
     "120363428464897153@g.us": [],
     "120363409727467494@g.us": [],
-    "120363412288900422@g.us": [],
+    "120363412288900422@g.us": [
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "@all",
+        "timestamp": 1787955906760
+      }
+    ],
     "120363411233423709@g.us": [],
     "120363428079168524@g.us": [],
     "120363411246936023@g.us": [],
@@ -17597,7 +17575,7 @@
     "120363432018531082@g.us": 22519,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2090,
+    "120363412288900422@g.us": 2091,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -197383,6 +197361,12 @@
         "text": "Já posso ficar on de novo no grupo 😂",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787952802711
+      },
+      "AC7295158F450EBA808183B2E6904F98": {
+        "sender": "53537388122141@lid",
+        "text": "@all",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787955906760
       }
     },
     "120363411233423709@g.us": {
@@ -200267,7 +200251,7 @@
     "120363432018531082@g.us": 1787955738425,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787953116483,
+    "120363412288900422@g.us": 1787955906760,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
