@@ -173,9 +173,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1636,
+        "text": 1638,
         "media": 454,
-        "total": 2090
+        "total": 2092
       },
       "81991328395336": {
         "text": 3945,
@@ -254,8 +254,8 @@
       },
       "92629643563147": {
         "text": 1516,
-        "media": 1127,
-        "total": 2643
+        "media": 1128,
+        "total": 2644
       },
       "3126803329115": {
         "text": 87,
@@ -693,9 +693,9 @@
         "total": 2
       },
       "90130358485223": {
-        "text": 88,
+        "text": 90,
         "media": 11,
-        "total": 99
+        "total": 101
       },
       "57707230945348": {
         "text": 1225,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "jaciara (108461127897146): Tenho um rapaz de 10 anos e uma moça de 6",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Barrigão tá eu, e nem tô grávida",
         "jaciara (108461127897146): Essa é minha 3 e última gravidez",
         "Souza (190864487919667): Aí já não sei",
@@ -10449,7 +10448,8 @@
         "Gabriel Ohi (90130358485223): Mulher maravilhosa demais 😊😊😊",
         "jaciara (108461127897146): Gataa",
         "Celiete Souza (129373172711439): Não fala isso kkkkk vai dá ruim pra mim kkkk",
-        "Celiete Souza (129373172711439): Até hoje sou motivo de falas por ai 🤣🤣🤣🤣 né @222595437858867"
+        "Celiete Souza (129373172711439): Até hoje sou motivo de falas por ai 🤣🤣🤣🤣 né @222595437858867",
+        "Gabriel Ohi (90130358485223): Mas é a verdade kkkkkkkk 😌😌"
       ]
     },
     "120363428464897153@g.us": {
@@ -17487,18 +17487,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "O ruim é que sou curiosa",
-        "timestamp": 1787947163476
-      },
-      {
-        "authorNum": "263797142995147",
-        "authorName": "Nanda",
-        "text": "isso é da onde?",
-        "timestamp": 1787947197386
-      },
-      {
         "authorNum": "263797142995147",
         "authorName": "Nanda",
         "text": "nem sabia q ainda existia isso",
@@ -17923,6 +17911,12 @@
         "authorName": "Celiete Souza",
         "text": "Até hoje sou motivo de falas por ai 🤣🤣🤣🤣 né @222595437858867",
         "timestamp": 1787948939746
+      },
+      {
+        "authorNum": "90130358485223",
+        "authorName": "Gabriel Ohi",
+        "text": "Mas é a verdade kkkkkkkk 😌😌",
+        "timestamp": 1787948997760
       }
     ],
     "120363428464897153@g.us": [],
@@ -17949,7 +17943,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22418,
+    "120363432018531082@g.us": 22419,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -146516,6 +146510,12 @@
         "text": "Até hoje sou motivo de falas por ai 🤣🤣🤣🤣 né @222595437858867",
         "pushName": "Celiete Souza",
         "timestamp": 1787948939747
+      },
+      "AC6A1F05F4ADCFC5F9B127D6FDEF12E4": {
+        "sender": "90130358485223@lid",
+        "text": "Mas é a verdade kkkkkkkk 😌😌",
+        "pushName": "Gabriel Ohi",
+        "timestamp": 1787948997760
       }
     },
     "120363428464897153@g.us": {
@@ -199995,7 +199995,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787948941092,
+    "120363432018531082@g.us": 1787949015927,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
