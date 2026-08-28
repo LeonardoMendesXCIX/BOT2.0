@@ -253,9 +253,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1496,
+        "text": 1498,
         "media": 1113,
-        "total": 2609
+        "total": 2611
       },
       "3126803329115": {
         "text": 87,
@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2276,
+        "text": 2277,
         "media": 309,
-        "total": 2585
+        "total": 2586
       },
       "252922705240205": {
         "text": 80,
@@ -9900,9 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Dany (262182034002040): Oi!",
-        "Rafael Moura (57707230945348): No sentido de interagir, gostei",
-        "Dany (262182034002040): Oxi",
         "Gabi 💋 (247020967165997): Oh meu já se foi",
         "Dany (262182034002040): Oi amor!",
         "Gabi 💋 (247020967165997): Acabei com ele no mesmo dia",
@@ -10399,7 +10396,10 @@
         "Souza (190864487919667): Boa Jaci",
         "jaciara (108461127897146): Tá bem ?",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Obrigada 🥹",
-        "jaciara (108461127897146): Cê tá bem ?"
+        "jaciara (108461127897146): Cê tá bem ?",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Já tomeeeeei 😂😂",
+        "Camila Designer (92629643563147): Sim ☺️",
+        "Camila Designer (92629643563147): E com você @108461127897146 ?"
       ]
     },
     "120363428464897153@g.us": {
@@ -17342,18 +17342,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "263797142995147",
-        "authorName": "Nanda",
-        "text": "queeroo",
-        "timestamp": 1787926985127
-      },
-      {
-        "authorNum": "263797142995147",
-        "authorName": "Nanda",
-        "text": "nunca comi, mais se me convidasse eu iria",
-        "timestamp": 1787926995503
-      },
-      {
         "authorNum": "274384656834700",
         "authorName": "Gleydson Souza",
         "text": "Risoto to passando obg pelo convite",
@@ -17640,6 +17628,24 @@
         "authorName": "jaciara",
         "text": "Cê tá bem ?",
         "timestamp": 1787928771891
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Já tomeeeeei 😂😂",
+        "timestamp": 1787928782152
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Sim ☺️",
+        "timestamp": 1787928801139
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "E com você @108461127897146 ?",
+        "timestamp": 1787928815779
       }
     ],
     "120363428464897153@g.us": [],
@@ -17666,7 +17672,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21835,
+    "120363432018531082@g.us": 21838,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -142766,6 +142772,24 @@
         "text": "Cê tá bem ?",
         "pushName": "jaciara",
         "timestamp": 1787928771891
+      },
+      "AC0B22CB51C45367AF4EC5452427F1C1": {
+        "sender": "53537388122141@lid",
+        "text": "Já tomeeeeei 😂😂",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787928782152
+      },
+      "2A645CEC4EC6B6858884": {
+        "sender": "92629643563147@lid",
+        "text": "Sim ☺️",
+        "pushName": "Camila Designer",
+        "timestamp": 1787928801139
+      },
+      "2A5EDE893E7088E850F5": {
+        "sender": "92629643563147@lid",
+        "text": "E com você @108461127897146 ?",
+        "pushName": "Camila Designer",
+        "timestamp": 1787928815779
       }
     },
     "120363428464897153@g.us": {
@@ -195675,7 +195699,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787928771891,
+    "120363432018531082@g.us": 1787928815779,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
