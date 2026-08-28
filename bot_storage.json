@@ -698,9 +698,9 @@
         "total": 95
       },
       "57707230945348": {
-        "text": 1174,
+        "text": 1175,
         "media": 211,
-        "total": 1385
+        "total": 1386
       },
       "152218690924790": {
         "text": 309,
@@ -2629,8 +2629,8 @@
       },
       "75797868064796": {
         "text": 18,
-        "media": 46,
-        "total": 64
+        "media": 48,
+        "total": 66
       },
       "153764728184839": {
         "text": 2,
@@ -2663,9 +2663,9 @@
         "total": 77
       },
       "172868239380659": {
-        "text": 105,
+        "text": 107,
         "media": 19,
-        "total": 124
+        "total": 126
       },
       "170455038193841": {
         "text": 1,
@@ -2798,9 +2798,9 @@
         "total": 4
       },
       "247020967165997": {
-        "text": 28,
-        "media": 6,
-        "total": 34
+        "text": 29,
+        "media": 7,
+        "total": 36
       },
       "206253020176458": {
         "text": 3,
@@ -10158,7 +10158,11 @@
         "Gabi 💋 (247020967165997): Bem isso",
         "Jessica (208958782488665): Neeh puxar peso que ganho mais",
         "Gabi 💋 (247020967165997): Vou a noite com o meu belo fone para não ouvir asneira é vida",
-        "Pedro Henrique (172868239380659): Vou é trabalhar pra pagar a viagem do feriado"
+        "Pedro Henrique (172868239380659): Vou é trabalhar pra pagar a viagem do feriado",
+        "Gabi 💋 (247020967165997): Pra pagar a sua psicóloga que está no cabaré",
+        "Pedro Henrique (172868239380659): Nada, viagem mesmo eu nunca nem fui no cabaré",
+        "Rafael Moura (57707230945348): Nossa mulher aranha 😏",
+        "Pedro Henrique (172868239380659): Alguém ficou sentida com a história 😏"
       ]
     },
     "120363428464897153@g.us": {
@@ -17782,6 +17786,30 @@
         "authorName": "Pedro Henrique",
         "text": "Vou é trabalhar pra pagar a viagem do feriado",
         "timestamp": 1787915889223
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Pra pagar a sua psicóloga que está no cabaré",
+        "timestamp": 1787915905070
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Nada, viagem mesmo eu nunca nem fui no cabaré",
+        "timestamp": 1787915927306
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Nossa mulher aranha 😏",
+        "timestamp": 1787915931127
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Alguém ficou sentida com a história 😏",
+        "timestamp": 1787915938982
       }
     ],
     "120363428464897153@g.us": [],
@@ -17826,7 +17854,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21396,
+    "120363432018531082@g.us": 21400,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -140312,6 +140340,30 @@
         "text": "Vou é trabalhar pra pagar a viagem do feriado",
         "pushName": "Pedro Henrique",
         "timestamp": 1787915889223
+      },
+      "ACAB50C5E4DA54AB2D8FA87D03362069": {
+        "sender": "247020967165997@lid",
+        "text": "Pra pagar a sua psicóloga que está no cabaré",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787915905071
+      },
+      "AC6EC869C2CF6937583D5C0D3503B9A1": {
+        "sender": "172868239380659@lid",
+        "text": "Nada, viagem mesmo eu nunca nem fui no cabaré",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787915927306
+      },
+      "AC670A495A8E4EAA9243ACEC065F33F8": {
+        "sender": "57707230945348@lid",
+        "text": "Nossa mulher aranha 😏",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787915931127
+      },
+      "AC3D3A9B70DBAD59F656CB5FE4E7384D": {
+        "sender": "172868239380659@lid",
+        "text": "Alguém ficou sentida com a história 😏",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787915938983
       }
     },
     "120363428464897153@g.us": {
@@ -193107,7 +193159,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787915890028,
+    "120363432018531082@g.us": 1787915938982,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
