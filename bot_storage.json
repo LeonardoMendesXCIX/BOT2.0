@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2269,
+        "text": 2270,
         "media": 309,
-        "total": 2578
+        "total": 2579
       },
       "252922705240205": {
         "text": 80,
@@ -9895,7 +9895,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Juliano Perlin (222595437858867): Ta bemm??",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Tô bem e você??",
         "Souza (190864487919667): Vamos trabalhar né",
         "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Bom dia!",
@@ -10394,7 +10393,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Exatamente",
         "🙃🙃🙃 (11171897864256): Pessoal o que fazem de bom",
         "Souza (190864487919667): Nada",
-        "Souza (190864487919667): Procrastinando no trabalho"
+        "Souza (190864487919667): Procrastinando no trabalho",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Querendo ir tomar banho, mas enrolando"
       ]
     },
     "120363428464897153@g.us": {
@@ -17501,6 +17501,12 @@
         "authorName": "Souza",
         "text": "Procrastinando no trabalho",
         "timestamp": 1787926390850
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Querendo ir tomar banho, mas enrolando",
+        "timestamp": 1787926457487
       }
     ],
     "120363428464897153@g.us": [],
@@ -17527,7 +17533,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21730,
+    "120363432018531082@g.us": 21731,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2010,
@@ -142010,6 +142016,12 @@
         "text": "Procrastinando no trabalho",
         "pushName": "Souza",
         "timestamp": 1787926390850
+      },
+      "ACEB29AB3F7648144426A083656FE80E": {
+        "sender": "53537388122141@lid",
+        "text": "Querendo ir tomar banho, mas enrolando",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787926457488
       }
     },
     "120363428464897153@g.us": {
@@ -194907,7 +194919,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787926430492,
+    "120363432018531082@g.us": 1787926457487,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787924999186,
