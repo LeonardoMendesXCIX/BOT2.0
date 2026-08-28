@@ -449,9 +449,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1673,
+        "text": 1674,
         "media": 326,
-        "total": 1999
+        "total": 2000
       },
       "252600633041077": {
         "text": 1,
@@ -2911,9 +2911,9 @@
         "total": 364
       },
       "76914341503187": {
-        "text": 26,
+        "text": 27,
         "media": 10,
-        "total": 36
+        "total": 37
       },
       "102405727326451": {
         "text": 28,
@@ -3430,14 +3430,14 @@
         "total": 582
       },
       "5511927018683": {
-        "text": 520,
-        "media": 98,
-        "total": 618
+        "text": 521,
+        "media": 99,
+        "total": 620
       },
       "145381035905262": {
-        "text": 431,
+        "text": 432,
         "media": 150,
-        "total": 581
+        "total": 582
       },
       "53537388122141": {
         "text": 769,
@@ -9795,7 +9795,8 @@
         "🦅⚡️😍 (163686253629557): 👀",
         "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): 👀",
         "Gabriel (145381035905262): Saudações",
-        "Alexandre Henrique (165687523848431): Obg"
+        "Alexandre Henrique (165687523848431): Obg",
+        "Leandro (+55 (11) 92701-8683): Teu xará aí @199733712785531"
       ]
     },
     "120363428464897153@g.us": {
@@ -16174,7 +16175,9 @@
         "Gabriel (145381035905262): Mas aí quase fui de arrasta, corpo saiu, mas voltou",
         "Leandro (+55 (11) 92701-8683): Se a Milena fosse igual a @81991328395336 queria ver tu ter essa coragem toda",
         "Leandro (+55 (11) 92701-8683): Ela ia mandar tu botar a mão em cima da mesa e ia cortar dedo por dedo seu",
-        "Gabriel (145381035905262): A Milena é carinhosa, tua mulher é bruta"
+        "Gabriel (145381035905262): A Milena é carinhosa, tua mulher é bruta",
+        "Leandro (+55 (11) 92701-8683): Rústica*",
+        "Gabriel (145381035905262): Isso aí"
       ]
     },
     "120363411233423709@g.us": {
@@ -16711,6 +16714,12 @@
         "authorName": "Alexandre Henrique",
         "text": "Obg",
         "timestamp": 1787889540146
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Teu xará aí @199733712785531",
+        "timestamp": 1787889799927
       }
     ],
     "120363428464897153@g.us": [
@@ -16831,36 +16840,6 @@
     ],
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Relaxa cara",
-        "timestamp": 1787887954457
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "A questão é",
-        "timestamp": 1787887957907
-      },
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Que tá escrito lá ?",
-        "timestamp": 1787887960240
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Por que tu não meteu no rabo desse cara?",
-        "timestamp": 1787887969627
-      },
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Negativa de débito trabalhista",
-        "timestamp": 1787887971887
-      },
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
@@ -17148,6 +17127,18 @@
         "authorName": "Gabriel",
         "text": "A Milena é carinhosa, tua mulher é bruta",
         "timestamp": 1787889754167
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Rústica*",
+        "timestamp": 1787889777954
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Isso aí",
+        "timestamp": 1787889791320
       }
     ],
     "120363411233423709@g.us": [],
@@ -17163,10 +17154,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21104,
+    "120363432018531082@g.us": 21105,
     "120363428464897153@g.us": 6279,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1959,
+    "120363412288900422@g.us": 1961,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -137921,6 +137912,12 @@
         "text": "Obg",
         "pushName": "Alexandre Henrique",
         "timestamp": 1787889540146
+      },
+      "A5E80B77DD1E63AC5CD76B490C9472C3": {
+        "sender": "54259127210155@lid",
+        "text": "Teu xará aí @199733712785531",
+        "pushName": "Leandro",
+        "timestamp": 1787889799927
       }
     },
     "120363428464897153@g.us": {
@@ -187727,6 +187724,18 @@
         "text": "A Milena é carinhosa, tua mulher é bruta",
         "pushName": "Gabriel",
         "timestamp": 1787889754167
+      },
+      "A5AA87BCF6D54BBFF2A0305C11455961": {
+        "sender": "54259127210155@lid",
+        "text": "Rústica*",
+        "pushName": "Leandro",
+        "timestamp": 1787889777954
+      },
+      "AC95BEEA8F87B9D0FBC6043693DF0B32": {
+        "sender": "145381035905262@lid",
+        "text": "Isso aí",
+        "pushName": "Gabriel",
+        "timestamp": 1787889791320
       }
     },
     "120363411233423709@g.us": {
@@ -190342,10 +190351,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787889540146,
-    "120363428464897153@g.us": 1787889766508,
+    "120363432018531082@g.us": 1787889799927,
+    "120363428464897153@g.us": 1787889775812,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787889763219,
+    "120363412288900422@g.us": 1787889810584,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
