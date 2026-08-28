@@ -275,8 +275,8 @@
       },
       "53537388122141": {
         "text": 2211,
-        "media": 295,
-        "total": 2506
+        "media": 296,
+        "total": 2507
       },
       "252922705240205": {
         "text": 80,
@@ -2474,9 +2474,9 @@
         "total": 1
       },
       "163686253629557": {
-        "text": 7,
+        "text": 8,
         "media": 1,
-        "total": 8
+        "total": 9
       },
       "246900624224419": {
         "text": 2,
@@ -3405,9 +3405,9 @@
         "total": 552
       },
       "5511927018683": {
-        "text": 439,
+        "text": 440,
         "media": 77,
-        "total": 516
+        "total": 517
       },
       "145381035905262": {
         "text": 369,
@@ -9257,7 +9257,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "willian (163530946961491): Ontem eu quase fui dormir no presídio kkkk",
         "Souza (190864487919667): Bem vinda",
         "Souza (190864487919667): Menino rápido",
         "Gabriel (145381035905262): Rapaiz a @233161007071346 é toda engraçadinha, mas é uma oncinha",
@@ -9756,7 +9755,8 @@
         "Gleydson Souza (274384656834700): Eu vou me indo boa noite a todos",
         "Leandro (+55 (11) 92701-8683): Boa noite meu patrão! 🫡",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): @81991328395336",
-        " (120363432018531082): @81991328395336"
+        " (120363432018531082): @81991328395336",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Vou deixar o Adm @54259127210155 explicar pra vocês! 🫡"
       ]
     },
     "120363428464897153@g.us": {
@@ -15828,7 +15828,8 @@
         "Leandro (+55 (11) 92701-8683): Acho que não",
         "Leandro (+55 (11) 92701-8683): Deve ser alguém com nome parecido",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Ata",
-        "Leandro (+55 (11) 92701-8683): Deixei o conexão liberado para o pessoal entrar, como o bot tá operando normalmente, aí ele vai mandar a ficha de apresentação"
+        "Leandro (+55 (11) 92701-8683): Deixei o conexão liberado para o pessoal entrar, como o bot tá operando normalmente, aí ele vai mandar a ficha de apresentação",
+        "Leandro (+55 (11) 92701-8683): Quando for mais tarde, quem não se apresentou, vou fazer limpeza pela lista de inativos"
       ]
     },
     "120363411233423709@g.us": {
@@ -16423,6 +16424,12 @@
         "authorName": "",
         "text": "@81991328395336",
         "timestamp": 1787883354722
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Vou deixar o Adm @54259127210155 explicar pra vocês! 🫡",
+        "timestamp": 1787883372650
       }
     ],
     "120363428464897153@g.us": [
@@ -16602,6 +16609,12 @@
         "authorName": "Leandro",
         "text": "Deixei o conexão liberado para o pessoal entrar, como o bot tá operando normalmente, aí ele vai mandar a ficha de apresentação",
         "timestamp": 1787883349278
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Quando for mais tarde, quem não se apresentou, vou fazer limpeza pela lista de inativos",
+        "timestamp": 1787883379319
       }
     ],
     "120363411233423709@g.us": [],
@@ -16624,10 +16637,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21060,
+    "120363432018531082@g.us": 21061,
     "120363428464897153@g.us": 6218,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1717,
+    "120363412288900422@g.us": 1718,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -137118,6 +137131,12 @@
         "text": "@81991328395336",
         "pushName": "",
         "timestamp": 1787883354722
+      },
+      "ACB705065DAF309FD82BD2E5DBD292EE": {
+        "sender": "53537388122141@lid",
+        "text": "Vou deixar o Adm @54259127210155 explicar pra vocês! 🫡",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787883372650
       }
     },
     "120363428464897153@g.us": {
@@ -185106,6 +185125,12 @@
         "text": "Deixei o conexão liberado para o pessoal entrar, como o bot tá operando normalmente, aí ele vai mandar a ficha de apresentação",
         "pushName": "Leandro",
         "timestamp": 1787883349278
+      },
+      "A57BAC8A9CAC9691E61D1332459CF305": {
+        "sender": "54259127210155@lid",
+        "text": "Quando for mais tarde, quem não se apresentou, vou fazer limpeza pela lista de inativos",
+        "pushName": "Leandro",
+        "timestamp": 1787883379319
       }
     },
     "120363411233423709@g.us": {
@@ -187685,10 +187710,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787883354722,
+    "120363432018531082@g.us": 1787883380851,
     "120363428464897153@g.us": 1787883101464,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787883349278,
+    "120363412288900422@g.us": 1787883379319,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
