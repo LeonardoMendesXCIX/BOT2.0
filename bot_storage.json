@@ -2629,8 +2629,8 @@
       },
       "75797868064796": {
         "text": 19,
-        "media": 58,
-        "total": 77
+        "media": 59,
+        "total": 78
       },
       "153764728184839": {
         "text": 2,
@@ -2663,9 +2663,9 @@
         "total": 77
       },
       "172868239380659": {
-        "text": 115,
+        "text": 117,
         "media": 20,
-        "total": 135
+        "total": 137
       },
       "170455038193841": {
         "text": 1,
@@ -10192,7 +10192,9 @@
         "Saul (118515428286715): QUE ISSO, na cara não kkkk",
         "Gabi 💋 (247020967165997): Ok",
         "Gabi 💋 (247020967165997): Coisa fofa",
-        "Souza (190864487919667): Receba"
+        "Souza (190864487919667): Receba",
+        "Pedro Henrique (172868239380659): 980- diária do chalé\n250- lavagem do carro e da gasolina",
+        "Pedro Henrique (172868239380659): É o que eu tô lembrando no momento"
       ]
     },
     "120363428464897153@g.us": {
@@ -17116,30 +17118,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Ela vai ter um mini infarto",
-        "timestamp": 1787914682360
-      },
-      {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Pessoal caiu o VR, quem quer açai",
-        "timestamp": 1787914695804
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Quero Pix",
-        "timestamp": 1787914706290
-      },
-      {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "O meu já foi kkkk",
-        "timestamp": 1787914717115
-      },
-      {
         "authorNum": "206253020176458",
         "authorName": "Arthur",
         "text": "Também quero jjjkkkkk",
@@ -17744,6 +17722,18 @@
         "authorName": "Souza",
         "text": "Receba",
         "timestamp": 1787916479846
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "980- diária do chalé\n250- lavagem do carro e da gasolina",
+        "timestamp": 1787916509586
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "É o que eu tô lembrando no momento",
+        "timestamp": 1787916521890
       }
     ],
     "120363428464897153@g.us": [],
@@ -17770,7 +17760,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21430,
+    "120363432018531082@g.us": 21432,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -140460,6 +140450,18 @@
         "text": "Receba",
         "pushName": "Souza",
         "timestamp": 1787916479846
+      },
+      "AC5A17B7C32F726689C3F5220BF4517B": {
+        "sender": "172868239380659@lid",
+        "text": "980- diária do chalé\n250- lavagem do carro e da gasolina",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787916509586
+      },
+      "ACED35EDE86ECC1ABAF9F6AD9C1A9620": {
+        "sender": "172868239380659@lid",
+        "text": "É o que eu tô lembrando no momento",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787916521890
       }
     },
     "120363428464897153@g.us": {
@@ -193255,7 +193257,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787916494030,
+    "120363432018531082@g.us": 1787916521890,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
