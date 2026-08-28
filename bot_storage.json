@@ -309,8 +309,8 @@
       },
       "120363432018531082": {
         "text": 315,
-        "media": 85,
-        "total": 400
+        "media": 86,
+        "total": 401
       },
       "97535100252296": {
         "text": 96,
@@ -319,8 +319,8 @@
       },
       "199733712785531": {
         "text": 202,
-        "media": 116,
-        "total": 318
+        "media": 117,
+        "total": 319
       },
       "153596754661626": {
         "text": 1,
@@ -698,9 +698,9 @@
         "total": 95
       },
       "57707230945348": {
-        "text": 1146,
+        "text": 1150,
         "media": 200,
-        "total": 1346
+        "total": 1350
       },
       "152218690924790": {
         "text": 309,
@@ -2684,8 +2684,8 @@
       },
       "205621945192508": {
         "text": 41,
-        "media": 20,
-        "total": 61
+        "media": 21,
+        "total": 62
       },
       "208958782488665": {
         "text": 13,
@@ -2798,14 +2798,14 @@
         "total": 4
       },
       "247020967165997": {
-        "text": 9,
+        "text": 10,
         "media": 1,
-        "total": 10
+        "total": 11
       },
       "206253020176458": {
         "text": 2,
-        "media": 1,
-        "total": 3
+        "media": 2,
+        "total": 4
       },
       "210152934359048": {
         "text": 15,
@@ -10069,7 +10069,12 @@
         "Gabi 💋 (247020967165997): Eu acho",
         "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Bom dia! Kk",
         "Rafael Moura (57707230945348): Eu num vi haha",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): @190864487919667"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): @190864487919667",
+        " (120363432018531082): @190864487919667",
+        "Rafael Moura (57707230945348): Hoje se Deus quiser terei tempo pra falar",
+        "Gabi 💋 (247020967165997): Já me apresentei",
+        "Rafael Moura (57707230945348): Ahhhhhhh",
+        "Rafael Moura (57707230945348): Uauuuu"
       ]
     },
     "120363428464897153@g.us": {
@@ -17398,6 +17403,36 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "@190864487919667",
         "timestamp": 1787914538685
+      },
+      {
+        "authorNum": "120363432018531082",
+        "authorName": "",
+        "text": "@190864487919667",
+        "timestamp": 1787914548716
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Hoje se Deus quiser terei tempo pra falar",
+        "timestamp": 1787914550195
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Já me apresentei",
+        "timestamp": 1787914552780
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Ahhhhhhh",
+        "timestamp": 1787914560528
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Uauuuu",
+        "timestamp": 1787914562826
       }
     ],
     "120363428464897153@g.us": [],
@@ -17436,7 +17471,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21307,
+    "120363432018531082@g.us": 21312,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1992,
@@ -139391,10 +139426,34 @@
         "timestamp": 1787914525207
       },
       "ACCF202B209CADFDE69898482DD142A0": {
-        "sender": "53537388122141@lid",
+        "sender": "120363432018531082@g.us",
         "text": "@190864487919667",
-        "pushName": "Sabrina Bartolucci 🤌🏻",
-        "timestamp": 1787914538685
+        "pushName": "",
+        "timestamp": 1787914548716
+      },
+      "ACDB199ADFAFF5036FA311A82E84697C": {
+        "sender": "57707230945348@lid",
+        "text": "Hoje se Deus quiser terei tempo pra falar",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787914550195
+      },
+      "AC091F09F533C017464670E7C0C2B617": {
+        "sender": "247020967165997@lid",
+        "text": "Já me apresentei",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787914552780
+      },
+      "AC23FC1376DFA054F5D4250614F69C40": {
+        "sender": "57707230945348@lid",
+        "text": "Ahhhhhhh",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787914560528
+      },
+      "AC9ED604143681E72C58036DB2C99057": {
+        "sender": "57707230945348@lid",
+        "text": "Uauuuu",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787914562827
       }
     },
     "120363428464897153@g.us": {
@@ -192184,7 +192243,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787914538685,
+    "120363432018531082@g.us": 1787914573911,
     "120363428464897153@g.us": 1787913193216,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787914462012,
