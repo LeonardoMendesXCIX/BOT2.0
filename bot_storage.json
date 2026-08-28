@@ -309,8 +309,8 @@
       },
       "120363432018531082": {
         "text": 315,
-        "media": 87,
-        "total": 402
+        "media": 88,
+        "total": 403
       },
       "97535100252296": {
         "text": 96,
@@ -2603,9 +2603,9 @@
         "total": 26
       },
       "190864487919667": {
-        "text": 246,
+        "text": 248,
         "media": 42,
-        "total": 288
+        "total": 290
       },
       "82227819987089": {
         "text": 2,
@@ -2856,6 +2856,11 @@
         "text": 3,
         "media": 1,
         "total": 4
+      },
+      "263797142995147": {
+        "text": 0,
+        "media": 1,
+        "total": 1
       }
     },
     "120363428464897153@g.us": {
@@ -9895,10 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tô bem e você??",
-        "Souza (190864487919667): Vamos trabalhar né",
-        "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Bom dia!",
-        "Souza (190864487919667): Pq meu sextou é só amanhã",
         "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Bem vinda.",
         "Juliano Perlin (222595437858867): To bemm sua fofa🥹",
         "Souza (190864487919667): Buenos",
@@ -10394,7 +10395,11 @@
         "🙃🙃🙃 (11171897864256): Pessoal o que fazem de bom",
         "Souza (190864487919667): Nada",
         "Souza (190864487919667): Procrastinando no trabalho",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Querendo ir tomar banho, mas enrolando"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Querendo ir tomar banho, mas enrolando",
+        "Nanda (263797142995147): fernanda\n19y\nfortaleza",
+        " (120363432018531082): fernanda\n19y\nfortaleza",
+        "Souza (190864487919667): Ihu, mais uma nordestina",
+        "Souza (190864487919667): Bem vinda"
       ]
     },
     "120363428464897153@g.us": {
@@ -17337,36 +17342,6 @@
       {
         "authorNum": "147940920283293",
         "authorName": "fé !",
-        "text": "Bom diaa...",
-        "timestamp": 1787924685106
-      },
-      {
-        "authorNum": "83911531044906",
-        "authorName": "~Gará",
-        "text": "Da aulas on-line?",
-        "timestamp": 1787924685144
-      },
-      {
-        "authorNum": "206253020176458",
-        "authorName": "Arthur",
-        "text": "Q linda bem vinda ao grupo",
-        "timestamp": 1787924685175
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Bom dia e seja bem vindo(a)! Se apresente pra nós, por favor",
-        "timestamp": 1787924688957
-      },
-      {
-        "authorNum": "274384656834700",
-        "authorName": "Gleydson Souza",
-        "text": "Bem vinda",
-        "timestamp": 1787924693882
-      },
-      {
-        "authorNum": "147940920283293",
-        "authorName": "fé !",
         "text": "Diferente dos iguais aí sim 👌",
         "timestamp": 1787924762383
       },
@@ -17507,6 +17482,30 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Querendo ir tomar banho, mas enrolando",
         "timestamp": 1787926457487
+      },
+      {
+        "authorNum": "263797142995147",
+        "authorName": "Nanda",
+        "text": "fernanda\n19y\nfortaleza",
+        "timestamp": 1787926493713
+      },
+      {
+        "authorNum": "120363432018531082",
+        "authorName": "",
+        "text": "fernanda\n19y\nfortaleza",
+        "timestamp": 1787926494337
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Ihu, mais uma nordestina",
+        "timestamp": 1787926500815
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Bem vinda",
+        "timestamp": 1787926502726
       }
     ],
     "120363428464897153@g.us": [],
@@ -17533,7 +17532,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21731,
+    "120363432018531082@g.us": 21735,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2010,
@@ -142022,6 +142021,24 @@
         "text": "Querendo ir tomar banho, mas enrolando",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787926457488
+      },
+      "ACB620F6A73570A46EF23A29469295E8": {
+        "sender": "120363432018531082@g.us",
+        "text": "fernanda\n19y\nfortaleza",
+        "pushName": "",
+        "timestamp": 1787926494338
+      },
+      "AC69CDA7577A927EF3DA9F352F49E52A": {
+        "sender": "190864487919667@lid",
+        "text": "Ihu, mais uma nordestina",
+        "pushName": "Souza",
+        "timestamp": 1787926500815
+      },
+      "AC6E80A3345905DD75E55FE16B8861FC": {
+        "sender": "190864487919667@lid",
+        "text": "Bem vinda",
+        "pushName": "Souza",
+        "timestamp": 1787926502727
       }
     },
     "120363428464897153@g.us": {
@@ -194919,7 +194936,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787926457487,
+    "120363432018531082@g.us": 1787926502726,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787924999186,
