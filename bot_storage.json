@@ -2629,8 +2629,8 @@
       },
       "75797868064796": {
         "text": 21,
-        "media": 70,
-        "total": 91
+        "media": 72,
+        "total": 93
       },
       "153764728184839": {
         "text": 2,
@@ -2663,9 +2663,9 @@
         "total": 77
       },
       "172868239380659": {
-        "text": 134,
+        "text": 136,
         "media": 24,
-        "total": 158
+        "total": 160
       },
       "170455038193841": {
         "text": 1,
@@ -2798,9 +2798,9 @@
         "total": 5
       },
       "247020967165997": {
-        "text": 70,
-        "media": 15,
-        "total": 85
+        "text": 71,
+        "media": 16,
+        "total": 87
       },
       "206253020176458": {
         "text": 3,
@@ -2813,9 +2813,9 @@
         "total": 16
       },
       "221307534876912": {
-        "text": 8,
+        "text": 9,
         "media": 4,
-        "total": 12
+        "total": 13
       }
     },
     "120363428464897153@g.us": {
@@ -10277,7 +10277,11 @@
         "Rafael Moura (57707230945348): @221307534876912 😏",
         "Gabi 💋 (247020967165997): Acho que o do Pedro é um minuto pelo grana que ele tem",
         "Gabi 💋 (247020967165997): Tem que ser rápido",
-        "Rafael Moura (57707230945348): Tadinho pow"
+        "Rafael Moura (57707230945348): Tadinho pow",
+        "Gabi 💋 (247020967165997): Entrou caiu",
+        "𝔞𝔩𝔦𝔫𝔢🫶🏽 (221307534876912): Oq tem eu",
+        "Pedro Henrique (172868239380659): Foi mal, sustentada pelo lula",
+        "Pedro Henrique (172868239380659): Tem a cara de petista"
       ]
     },
     "120363428464897153@g.us": {
@@ -17201,12 +17205,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Será que já está valendo a lei que passa em todo os lugares? vou procurar uns cabaré",
-        "timestamp": 1787915457213
-      },
-      {
         "authorNum": "57707230945348",
         "authorName": "Rafael Moura",
         "text": "Nao deixa de ser algo que vc vá \"comer\" né",
@@ -18099,6 +18097,30 @@
         "authorName": "Rafael Moura",
         "text": "Tadinho pow",
         "timestamp": 1787917224768
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Entrou caiu",
+        "timestamp": 1787917233134
+      },
+      {
+        "authorNum": "221307534876912",
+        "authorName": "𝔞𝔩𝔦𝔫𝔢🫶🏽",
+        "text": "Oq tem eu",
+        "timestamp": 1787917239835
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Foi mal, sustentada pelo lula",
+        "timestamp": 1787917252667
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Tem a cara de petista",
+        "timestamp": 1787917257454
       }
     ],
     "120363428464897153@g.us": [],
@@ -18125,7 +18147,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21515,
+    "120363432018531082@g.us": 21519,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -141325,6 +141347,30 @@
         "text": "Tadinho pow",
         "pushName": "Rafael Moura",
         "timestamp": 1787917224768
+      },
+      "ACAAAF9F1C0A5710F47319B41151B616": {
+        "sender": "247020967165997@lid",
+        "text": "Entrou caiu",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787917233135
+      },
+      "AC9A9D7BA2EA48C69A052F440D740CD6": {
+        "sender": "221307534876912@lid",
+        "text": "Oq tem eu",
+        "pushName": "𝔞𝔩𝔦𝔫𝔢🫶🏽",
+        "timestamp": 1787917239836
+      },
+      "ACE9EDAE742565540F5C00FF67A6E301": {
+        "sender": "172868239380659@lid",
+        "text": "Foi mal, sustentada pelo lula",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787917252668
+      },
+      "ACAB4D194DD134A9AF78DBDFD6C5B219": {
+        "sender": "172868239380659@lid",
+        "text": "Tem a cara de petista",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787917257454
       }
     },
     "120363428464897153@g.us": {
@@ -194120,7 +194166,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787917224768,
+    "120363432018531082@g.us": 1787917260870,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
