@@ -698,9 +698,9 @@
         "total": 95
       },
       "57707230945348": {
-        "text": 1173,
+        "text": 1174,
         "media": 211,
-        "total": 1384
+        "total": 1385
       },
       "152218690924790": {
         "text": 309,
@@ -2603,9 +2603,9 @@
         "total": 23
       },
       "190864487919667": {
-        "text": 216,
+        "text": 217,
         "media": 37,
-        "total": 253
+        "total": 254
       },
       "82227819987089": {
         "text": 2,
@@ -2629,8 +2629,8 @@
       },
       "75797868064796": {
         "text": 17,
-        "media": 41,
-        "total": 58
+        "media": 42,
+        "total": 59
       },
       "153764728184839": {
         "text": 2,
@@ -2663,9 +2663,9 @@
         "total": 77
       },
       "172868239380659": {
-        "text": 99,
+        "text": 101,
         "media": 15,
-        "total": 114
+        "total": 116
       },
       "170455038193841": {
         "text": 1,
@@ -2798,9 +2798,9 @@
         "total": 4
       },
       "247020967165997": {
-        "text": 22,
-        "media": 5,
-        "total": 27
+        "text": 23,
+        "media": 6,
+        "total": 29
       },
       "206253020176458": {
         "text": 3,
@@ -10140,7 +10140,12 @@
         "Alexandre Bastos (75797868064796): Então no cabaré vc beija kkk",
         "Gabi 💋 (247020967165997): O bom que não tem a conversa estranha né e a mulher não vai reclamar se foi ruim",
         "Rafael Moura (57707230945348): Vai comentar com as amigas rsrs",
-        "Souza (190864487919667): 👀"
+        "Souza (190864487919667): 👀",
+        "Gabi 💋 (247020967165997): Não vai ser chamado de milionário",
+        "Pedro Henrique (172868239380659): Beijar é uma palavra forte",
+        "Souza (190864487919667): Rapaz, se tu for apenas na intenção, vai conseguir nada não",
+        "Pedro Henrique (172868239380659): Sim, todo mundo saí ganhando",
+        "Rafael Moura (57707230945348): Sheik"
       ]
     },
     "120363428464897153@g.us": {
@@ -17655,6 +17660,36 @@
         "authorName": "Souza",
         "text": "👀",
         "timestamp": 1787915644780
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Não vai ser chamado de milionário",
+        "timestamp": 1787915663763
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Beijar é uma palavra forte",
+        "timestamp": 1787915669809
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Rapaz, se tu for apenas na intenção, vai conseguir nada não",
+        "timestamp": 1787915672058
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Sim, todo mundo saí ganhando",
+        "timestamp": 1787915679995
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Sheik",
+        "timestamp": 1787915683466
       }
     ],
     "120363428464897153@g.us": [],
@@ -17693,7 +17728,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21378,
+    "120363432018531082@g.us": 21383,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1992,
@@ -140071,6 +140106,36 @@
         "text": "👀",
         "pushName": "Souza",
         "timestamp": 1787915644780
+      },
+      "AC4475F03AB45BE31F174C7AD3D49A92": {
+        "sender": "247020967165997@lid",
+        "text": "Não vai ser chamado de milionário",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787915663763
+      },
+      "ACC35E29B398C62B9C1248EF216DF66A": {
+        "sender": "172868239380659@lid",
+        "text": "Beijar é uma palavra forte",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787915669809
+      },
+      "ACD913DC62235E494449D473698E7325": {
+        "sender": "190864487919667@lid",
+        "text": "Rapaz, se tu for apenas na intenção, vai conseguir nada não",
+        "pushName": "Souza",
+        "timestamp": 1787915672058
+      },
+      "ACB59075C0290669AE49FCD4ADC99C3D": {
+        "sender": "172868239380659@lid",
+        "text": "Sim, todo mundo saí ganhando",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787915679995
+      },
+      "AC0C6CE4DFB02EA47DE8E2246462B02B": {
+        "sender": "57707230945348@lid",
+        "text": "Sheik",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787915683466
       }
     },
     "120363428464897153@g.us": {
@@ -192860,7 +192925,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787915644780,
+    "120363432018531082@g.us": 1787915683466,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787914462012,
