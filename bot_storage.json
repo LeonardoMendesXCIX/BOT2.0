@@ -279,8 +279,8 @@
       },
       "53537388122141": {
         "text": 2328,
-        "media": 323,
-        "total": 2651
+        "media": 324,
+        "total": 2652
       },
       "252922705240205": {
         "text": 80,
@@ -1863,9 +1863,9 @@
         "total": 6
       },
       "1395881181241": {
-        "text": 154,
+        "text": 155,
         "media": 5,
-        "total": 159
+        "total": 160
       },
       "198595546501333": {
         "text": 2,
@@ -9950,8 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Bruno Aguiar (+1395881181241): Seja bem vinda!",
-        "Nanda (263797142995147): brigada",
         "Souza (190864487919667): KKKKKKKKKKKKKKKKKKKKKK",
         "Souza (190864487919667): leva só o básico",
         "~Gará (83911531044906): Bem vinda",
@@ -10449,7 +10447,9 @@
         "Bruno Aguiar (+1395881181241): Por aqui está chovendo,fazer oq",
         "Celiete Souza (129373172711439): E encomodar aqui",
         "🙃🙃🙃 (11171897864256): 🤔",
-        "Bruno Aguiar (+1395881181241): É bom, desfrutar de um chá e um bom descanso"
+        "Bruno Aguiar (+1395881181241): É bom, desfrutar de um chá e um bom descanso",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): @all",
+        "Bruno Aguiar (+1395881181241): Aiaiaiai"
       ]
     },
     "120363428464897153@g.us": {
@@ -17469,18 +17469,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "MEODEOS",
-        "timestamp": 1787940026006
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "@92629643563147",
-        "timestamp": 1787940037626
-      },
-      {
         "authorNum": "222595437858867",
         "authorName": "Juliano Perlin",
         "text": "Depois quero ver como vc ficou🥰",
@@ -18097,6 +18085,18 @@
         "authorName": "Bruno Aguiar",
         "text": "É bom, desfrutar de um chá e um bom descanso",
         "timestamp": 1787941824216
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "@all",
+        "timestamp": 1787941838128
+      },
+      {
+        "authorNum": "1395881181241",
+        "authorName": "Bruno Aguiar",
+        "text": "Aiaiaiai",
+        "timestamp": 1787941842513
       }
     ],
     "120363428464897153@g.us": [],
@@ -18123,7 +18123,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22260,
+    "120363432018531082@g.us": 22262,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2075,
@@ -145754,6 +145754,18 @@
         "text": "É bom, desfrutar de um chá e um bom descanso",
         "pushName": "Bruno Aguiar",
         "timestamp": 1787941824217
+      },
+      "AC7112A5E787E09C5AA9859456C1D40A": {
+        "sender": "53537388122141@lid",
+        "text": "@all",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787941838128
+      },
+      "AC6AD9A9C554E420B05D90ADC8617C38": {
+        "sender": "1395881181241@lid",
+        "text": "Aiaiaiai",
+        "pushName": "Bruno Aguiar",
+        "timestamp": 1787941842513
       }
     },
     "120363428464897153@g.us": {
@@ -199125,7 +199137,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787941832235,
+    "120363432018531082@g.us": 1787941842513,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787940055842,
