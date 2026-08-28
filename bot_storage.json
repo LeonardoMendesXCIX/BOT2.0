@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2306,
+        "text": 2307,
         "media": 317,
-        "total": 2623
+        "total": 2624
       },
       "252922705240205": {
         "text": 80,
@@ -2603,9 +2603,9 @@
         "total": 30
       },
       "190864487919667": {
-        "text": 328,
+        "text": 330,
         "media": 49,
-        "total": 377
+        "total": 379
       },
       "82227819987089": {
         "text": 2,
@@ -2708,9 +2708,9 @@
         "total": 2
       },
       "108461127897146": {
-        "text": 90,
-        "media": 8,
-        "total": 98
+        "text": 91,
+        "media": 9,
+        "total": 100
       },
       "10050861031495": {
         "text": 0,
@@ -9950,8 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Alexandre Bastos (75797868064796): Do RJ tbm",
-        "amanda🫶 (94227841179800): Yes",
         "Alexandre Bastos (75797868064796): Da onde do rj",
         "amanda🫶 (94227841179800): Itaboraí",
         "Alexandre Bastos (75797868064796): Sou da barra",
@@ -10449,7 +10447,9 @@
         "Juliano Perlin (222595437858867): Identifica-se no pv🤣🤣🤣",
         "Leandro (+55 (11) 92701-8683): Eu pensei a mesma coisa, só não disse",
         "Leandro (+55 (11) 92701-8683): O horário e o grupo não permite",
-        "Gabriel (145381035905262): Surubao"
+        "Gabriel (145381035905262): Surubao",
+        "Souza (190864487919667): Surubasso com meu nome",
+        "Souza (190864487919667): Mas infelizmente, eu não gosto dessa putaria aí não"
       ]
     },
     "120363428464897153@g.us": {
@@ -17469,12 +17469,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Ela não mandou nem 500 ainda 😂",
-        "timestamp": 1787938394833
-      },
-      {
         "authorNum": "81991328395336",
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "@all \n\n\n\nBom, eu sou casada !!!",
@@ -17917,6 +17911,18 @@
         "authorName": "Gabriel",
         "text": "Surubao",
         "timestamp": 1787940165929
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Surubasso com meu nome",
+        "timestamp": 1787940177128
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Mas infelizmente, eu não gosto dessa putaria aí não",
+        "timestamp": 1787940200996
       }
     ],
     "120363428464897153@g.us": [],
@@ -18238,7 +18244,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22173,
+    "120363432018531082@g.us": 22175,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2075,
@@ -145347,6 +145353,18 @@
         "text": "Surubao",
         "pushName": "Gabriel",
         "timestamp": 1787940165930
+      },
+      "AC0FF9B8D56197BE8EC4F1B23784FA6D": {
+        "sender": "190864487919667@lid",
+        "text": "Surubasso com meu nome",
+        "pushName": "Souza",
+        "timestamp": 1787940177128
+      },
+      "AC2EF2EBFAD2C4C34E16FDC5858F9413": {
+        "sender": "190864487919667@lid",
+        "text": "Mas infelizmente, eu não gosto dessa putaria aí não",
+        "pushName": "Souza",
+        "timestamp": 1787940200996
       }
     },
     "120363428464897153@g.us": {
@@ -198718,7 +198736,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787940165929,
+    "120363432018531082@g.us": 1787940210900,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787940055842,
