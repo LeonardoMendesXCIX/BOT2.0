@@ -2793,9 +2793,9 @@
         "total": 1
       },
       "129978696003832": {
-        "text": 2,
+        "text": 3,
         "media": 1,
-        "total": 3
+        "total": 4
       }
     },
     "120363428464897153@g.us": {
@@ -9954,7 +9954,8 @@
         ". (279628962885736): Bom dia pessoal \nVamos que vamos",
         "Edison Medeiros💚 (108268240302270): Bom dia",
         "PAULO PEREIRA (129978696003832): Nome : Paulo Pereira \nIdade : 32 \nCidade : São Carlos-SP",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bommm diaaa a @all vocês! Ótima sexta feira, que seja abençoada ❤️🙏🏼"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bommm diaaa a @all vocês! Ótima sexta feira, que seja abençoada ❤️🙏🏼",
+        "PAULO PEREIRA (129978696003832): Bom dia a todos , e ótima Sexta ."
       ]
     },
     "120363428464897153@g.us": {
@@ -16890,6 +16891,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Bommm diaaa a @all vocês! Ótima sexta feira, que seja abençoada ❤️🙏🏼",
         "timestamp": 1787911445785
+      },
+      {
+        "authorNum": "129978696003832",
+        "authorName": "PAULO PEREIRA",
+        "text": "Bom dia a todos , e ótima Sexta .",
+        "timestamp": 1787911688856
       }
     ],
     "120363428464897153@g.us": [],
@@ -16909,7 +16916,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21212,
+    "120363432018531082@g.us": 21213,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1989,
@@ -138305,6 +138312,12 @@
         "text": "Bommm diaaa a @all vocês! Ótima sexta feira, que seja abençoada ❤️🙏🏼",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787911445785
+      },
+      "AC117FC21EF30DE08012EF481FB866B8": {
+        "sender": "129978696003832@lid",
+        "text": "Bom dia a todos , e ótima Sexta .",
+        "pushName": "PAULO PEREIRA",
+        "timestamp": 1787911688856
       }
     },
     "120363428464897153@g.us": {
@@ -191076,7 +191089,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787911445785,
+    "120363432018531082@g.us": 1787911688856,
     "120363428464897153@g.us": 1787909941077,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787894166886,
