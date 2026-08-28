@@ -3009,9 +3009,9 @@
         "total": 2
       },
       "53537388122141": {
-        "text": 63,
+        "text": 65,
         "media": 0,
-        "total": 63
+        "total": 65
       },
       "253626509443178": {
         "text": 3,
@@ -13521,7 +13521,9 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): KKKKKKKKKKKKKKKKK",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Foi mal",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Aguentei não",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tô vendo"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tô vendo",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Abriu nada 😂😂",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): !abrir"
       ]
     },
     "120363409727467494@g.us": {
@@ -16752,6 +16754,18 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Tô vendo",
         "timestamp": 1787875768613
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Abriu nada 😂😂",
+        "timestamp": 1787875861910
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "!abrir",
+        "timestamp": 1787875874046
       }
     ],
     "120363409727467494@g.us": [],
@@ -16885,7 +16899,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 20963,
-    "120363428464897153@g.us": 6002,
+    "120363428464897153@g.us": 6004,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1684,
     "120363411233423709@g.us": 5,
@@ -16901,7 +16915,7 @@
     "120363432018531082@g.us": false
   },
   "closedGroups": {
-    "120363428464897153@g.us": true,
+    "120363428464897153@g.us": false,
     "120363432018531082@g.us": false,
     "120363428662766282@g.us": true,
     "120363428079168524@g.us": false,
@@ -172007,6 +172021,18 @@
         "text": "Tô vendo",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787875768613
+      },
+      "AC77060733008694348960ABA94AE4B1": {
+        "sender": "53537388122141@lid",
+        "text": "Abriu nada 😂😂",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787875861910
+      },
+      "AC7A4AB9E2EB4C5D930590E9BC58D2AA": {
+        "sender": "53537388122141@lid",
+        "text": "!abrir",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787875874046
       }
     },
     "120363409727467494@g.us": {
@@ -185871,7 +185897,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787875657456,
-    "120363428464897153@g.us": 1787875768613,
+    "120363428464897153@g.us": 1787875874046,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787875833838,
     "120363411233423709@g.us": 1787113553426,
