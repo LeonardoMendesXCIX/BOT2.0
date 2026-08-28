@@ -253,9 +253,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1512,
-        "media": 1124,
-        "total": 2636
+        "text": 1513,
+        "media": 1125,
+        "total": 2638
       },
       "3126803329115": {
         "text": 87,
@@ -3946,8 +3946,8 @@
       },
       "81991328395336": {
         "text": 16,
-        "media": 823,
-        "total": 839
+        "media": 839,
+        "total": 855
       },
       "145381035905262": {
         "text": 7,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "~Gará (83911531044906): Tamos juntos nessa então",
         "Camila Designer (92629643563147): Tipo, me siga para mais dicas 🤣🤣🤣🤣",
         "~Gará (83911531044906): Alguém aqui tem interesse em comprar um rins?\nFaço promoção",
         "~Gará (83911531044906): @~Camila Designer\nVou vender o meu primeiro..kkkk",
@@ -10449,7 +10448,8 @@
         "Souza (190864487919667): 😂",
         "Souza (190864487919667): Estudar pra Petrobrás",
         "Celiete Souza (129373172711439): Essa tropinha no cabaré mais tarde kkkkkk @92629643563147",
-        "Souza (190864487919667): Ontem foi fraco"
+        "Souza (190864487919667): Ontem foi fraco",
+        "Camila Designer (92629643563147): Ai amiga @129373172711439 já estou desacreditada do Kabaré kkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -17485,24 +17485,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "@53537388122141",
-        "timestamp": 1787943976246
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Fui nesse parque em 2018",
-        "timestamp": 1787944045960
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "🫡🔥",
-        "timestamp": 1787944121421
-      },
-      {
         "authorNum": "145381035905262",
         "authorName": "Gabriel",
         "text": "Fritando",
@@ -17573,6 +17555,12 @@
         "authorName": "Souza",
         "text": "Ontem foi fraco",
         "timestamp": 1787945606851
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Ai amiga @129373172711439 já estou desacreditada do Kabaré kkk",
+        "timestamp": 1787945931379
       }
     ],
     "120363428464897153@g.us": [],
@@ -17599,7 +17587,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22320,
+    "120363432018531082@g.us": 22321,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -145578,6 +145566,12 @@
         "text": "Ontem foi fraco",
         "pushName": "Souza",
         "timestamp": 1787945606851
+      },
+      "2A211E1F24C6135FBDB0": {
+        "sender": "92629643563147@lid",
+        "text": "Ai amiga @129373172711439 já estou desacreditada do Kabaré kkk",
+        "pushName": "Camila Designer",
+        "timestamp": 1787945931380
       }
     },
     "120363428464897153@g.us": {
@@ -199045,7 +199039,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787945709634,
+    "120363432018531082@g.us": 1787945931379,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
@@ -199056,7 +199050,7 @@
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1787868477291,
-    "120363409024805409@g.us": 1787945899986,
+    "120363409024805409@g.us": 1787945942071,
     "120363411043114631@g.us": 1787897464612
   },
   "autoAnimSent": {
