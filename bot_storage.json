@@ -453,9 +453,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1748,
+        "text": 1750,
         "media": 354,
-        "total": 2102
+        "total": 2104
       },
       "252600633041077": {
         "text": 1,
@@ -3946,8 +3946,8 @@
       },
       "81991328395336": {
         "text": 17,
-        "media": 1378,
-        "total": 1395
+        "media": 1404,
+        "total": 1421
       },
       "145381035905262": {
         "text": 7,
@@ -9950,8 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Gleydson Souza (274384656834700): Solteiro",
-        "jaciara (108461127897146): Só que meu PV só está liberado se pedir permissão , sem permissão nem adianta mandar mensagem",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): 👀",
         "𝔞𝔩𝔦𝔫𝔢🫶🏽 (221307534876912): Solteira o tristeza",
         "Breno (234324976738434): Eu solteiro",
@@ -10449,7 +10447,9 @@
         "Juliano Perlin (222595437858867): 🤣",
         "Celiete Souza (129373172711439): Pq Ju? Kkkkkkll",
         "Juliano Perlin (222595437858867): Saber ué🤣🤣🤣",
-        "Celiete Souza (129373172711439): Tô aqui"
+        "Celiete Souza (129373172711439): Tô aqui",
+        "Leandro (+55 (11) 92701-8683): !megafone boa noite senhoras e senhores, por gentileza, vamos fazer reapresentação? Como temos novos integrantes, alguns ainda não conhece o restante do grupo, essa é a oportunidade...",
+        "Leandro (+55 (11) 92701-8683): !megafone boa noite senhoras e senhores, por gentileza, vamos fazer reapresentação? Como temos novos integrantes, alguns ainda não conhece o restante do grupo, essa é a oportunidade..."
       ]
     },
     "120363428464897153@g.us": {
@@ -17580,36 +17580,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Tu vai ver coisa...",
-        "timestamp": 1787958007233
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Dindinha já dizia...",
-        "timestamp": 1787958013939
-      },
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Kkkkk",
-        "timestamp": 1787958039223
-      },
-      {
-        "authorNum": "163530946961491",
-        "authorName": "willian",
-        "text": "Sim, ela só ainda não sabe disso 😂",
-        "timestamp": 1787958112687
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Vai pedir quando?",
-        "timestamp": 1787958130034
-      },
-      {
         "authorNum": "163530946961491",
         "authorName": "willian",
         "text": "Logo mais kkkk",
@@ -17806,6 +17776,18 @@
         "authorName": "Celiete Souza",
         "text": "Tô aqui",
         "timestamp": 1787959414726
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!megafone boa noite senhoras e senhores, por gentileza, vamos fazer reapresentação? Como temos novos integrantes, alguns ainda não conhece o restante do grupo, essa é a oportunidade...",
+        "timestamp": 1787959939833
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!megafone boa noite senhoras e senhores, por gentileza, vamos fazer reapresentação? Como temos novos integrantes, alguns ainda não conhece o restante do grupo, essa é a oportunidade...",
+        "timestamp": 1787959955061
       }
     ],
     "120363428464897153@g.us": [],
@@ -18061,7 +18043,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22602,
+    "120363432018531082@g.us": 22604,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2177,
@@ -147709,6 +147691,18 @@
         "text": "Tô aqui",
         "pushName": "Celiete Souza",
         "timestamp": 1787959414727
+      },
+      "A5F50C350683566858EDA4B01A300625": {
+        "sender": "54259127210155@lid",
+        "text": "!megafone boa noite senhoras e senhores, por gentileza, vamos fazer reapresentação? Como temos novos integrantes, alguns ainda não conhece o restante do grupo, essa é a oportunidade...",
+        "pushName": "Leandro",
+        "timestamp": 1787959939833
+      },
+      "A5F51ECA1CDD5A1C328F88092C491DC5": {
+        "sender": "54259127210155@lid",
+        "text": "!megafone boa noite senhoras e senhores, por gentileza, vamos fazer reapresentação? Como temos novos integrantes, alguns ainda não conhece o restante do grupo, essa é a oportunidade...",
+        "pushName": "Leandro",
+        "timestamp": 1787959955061
       }
     },
     "120363428464897153@g.us": {
@@ -201746,7 +201740,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787959426250,
+    "120363432018531082@g.us": 1787959955061,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787958481180,
@@ -201757,7 +201751,7 @@
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1787868477291,
-    "120363409024805409@g.us": 1787959873824,
+    "120363409024805409@g.us": 1787959959702,
     "120363411043114631@g.us": 1787897464612
   },
   "autoAnimSent": {
