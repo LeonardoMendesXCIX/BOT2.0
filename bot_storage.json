@@ -188,9 +188,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2240,
+        "text": 2241,
         "media": 472,
-        "total": 2712
+        "total": 2713
       },
       "184237705699536": {
         "text": 524,
@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2336,
+        "text": 2337,
         "media": 327,
-        "total": 2663
+        "total": 2664
       },
       "252922705240205": {
         "text": 80,
@@ -2838,9 +2838,9 @@
         "total": 8
       },
       "227783724793861": {
-        "text": 17,
+        "text": 19,
         "media": 1,
-        "total": 18
+        "total": 20
       },
       "159304631980141": {
         "text": 1,
@@ -9950,10 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Camila Designer (92629643563147): No Mercado Negro",
-        "Nanda (263797142995147): mais é pesado",
-        "Souza (190864487919667): Maltratados",
-        "Souza (190864487919667): Nan",
         "Souza (190864487919667): Vale nada",
         "Souza (190864487919667): Meus órgãos estão iguais a americanas: em recuperação",
         "Camila Designer (92629643563147): Então eu ainda tenho meus dois rins funcionando 👀",
@@ -10449,7 +10445,11 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Brad Pitt ele\n@145381035905262",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Sempre",
         "Gabriel (145381035905262): Sou normal pessoal",
-        "May (227783724793861): Impressionante como em todo grupo tem a mesma coisa, pode ter um milhão de pessoas e a pessoa foca nos casados , MDS sabe talaricagem pelo amor"
+        "May (227783724793861): Impressionante como em todo grupo tem a mesma coisa, pode ter um milhão de pessoas e a pessoa foca nos casados , MDS sabe talaricagem pelo amor",
+        "May (227783724793861): Kkkkk",
+        "Gabriel (145381035905262): Loucura né",
+        "May (227783724793861): Nossa demais",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Doideira guria"
       ]
     },
     "120363428464897153@g.us": {
@@ -17484,18 +17484,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "@all",
-        "timestamp": 1787941838128
-      },
-      {
-        "authorNum": "1395881181241",
-        "authorName": "Bruno Aguiar",
-        "text": "Aiaiaiai",
-        "timestamp": 1787941842513
-      },
-      {
         "authorNum": "81991328395336",
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "@92629643563147",
@@ -17710,6 +17698,30 @@
         "authorName": "May",
         "text": "Impressionante como em todo grupo tem a mesma coisa, pode ter um milhão de pessoas e a pessoa foca nos casados , MDS sabe talaricagem pelo amor",
         "timestamp": 1787943632367
+      },
+      {
+        "authorNum": "227783724793861",
+        "authorName": "May",
+        "text": "Kkkkk",
+        "timestamp": 1787943651642
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Loucura né",
+        "timestamp": 1787943653867
+      },
+      {
+        "authorNum": "227783724793861",
+        "authorName": "May",
+        "text": "Nossa demais",
+        "timestamp": 1787943661700
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Doideira guria",
+        "timestamp": 1787943664284
       }
     ],
     "120363428464897153@g.us": [],
@@ -17821,7 +17833,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22298,
+    "120363432018531082@g.us": 22302,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -145668,6 +145680,30 @@
         "text": "Impressionante como em todo grupo tem a mesma coisa, pode ter um milhão de pessoas e a pessoa foca nos casados , MDS sabe talaricagem pelo amor",
         "pushName": "May",
         "timestamp": 1787943632367
+      },
+      "ACD2DBDFEC3E276FFF6DBB817990C629": {
+        "sender": "227783724793861@lid",
+        "text": "Kkkkk",
+        "pushName": "May",
+        "timestamp": 1787943651642
+      },
+      "AC49EBA5325CD90BA47A70E8F6F4F5BE": {
+        "sender": "145381035905262@lid",
+        "text": "Loucura né",
+        "pushName": "Gabriel",
+        "timestamp": 1787943653867
+      },
+      "AC65218662B5432E90680A46903F81C4": {
+        "sender": "227783724793861@lid",
+        "text": "Nossa demais",
+        "pushName": "May",
+        "timestamp": 1787943661700
+      },
+      "ACA264310821EB1E8B918F94D04BF58D": {
+        "sender": "53537388122141@lid",
+        "text": "Doideira guria",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787943664284
       }
     },
     "120363428464897153@g.us": {
@@ -199129,7 +199165,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787943632367,
+    "120363432018531082@g.us": 1787943664284,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
