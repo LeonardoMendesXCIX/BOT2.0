@@ -173,9 +173,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1606,
+        "text": 1607,
         "media": 441,
-        "total": 2047
+        "total": 2048
       },
       "81991328395336": {
         "text": 3944,
@@ -3946,8 +3946,8 @@
       },
       "81991328395336": {
         "text": 16,
-        "media": 927,
-        "total": 943
+        "media": 930,
+        "total": 946
       },
       "145381035905262": {
         "text": 7,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "🙃🙃🙃 (11171897864256): Vai sábado",
         "Alexandre Bastos (75797868064796): 🥰🥰",
         "Souza (190864487919667): Boa Jaci",
         "jaciara (108461127897146): Tá bem ?",
@@ -10449,7 +10448,8 @@
         "Leandro (+55 (11) 92701-8683): Ela está desacreditada do nosso empreendimento @81991328395336",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Tô ocupada nas figurinhas dps volto akiii",
         "Celiete Souza (129373172711439): Tu também kkk",
-        "Celiete Souza (129373172711439): Não podemos perder a fé"
+        "Celiete Souza (129373172711439): Não podemos perder a fé",
+        "Celiete Souza (129373172711439): Agora vou ter um tempinho a mais de repente, ai me chamem lá 😘"
       ]
     },
     "120363428464897153@g.us": {
@@ -17485,12 +17485,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Quem foi o inteligente?",
-        "timestamp": 1787944544821
-      },
-      {
         "authorNum": "129373172711439",
         "authorName": "Celiete Souza",
         "text": "Minha internet está ruim, podem ir msgs atrasadas 😘",
@@ -17585,6 +17579,12 @@
         "authorName": "Celiete Souza",
         "text": "Não podemos perder a fé",
         "timestamp": 1787946339756
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Agora vou ter um tempinho a mais de repente, ai me chamem lá 😘",
+        "timestamp": 1787946357086
       }
     ],
     "120363428464897153@g.us": [],
@@ -17611,7 +17611,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22330,
+    "120363432018531082@g.us": 22331,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -145650,6 +145650,12 @@
         "text": "Não podemos perder a fé",
         "pushName": "Celiete Souza",
         "timestamp": 1787946339756
+      },
+      "ACEE83872EB48FF4A645482E0344386C": {
+        "sender": "129373172711439@lid",
+        "text": "Agora vou ter um tempinho a mais de repente, ai me chamem lá 😘",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787946357086
       }
     },
     "120363428464897153@g.us": {
@@ -199117,7 +199123,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787946339756,
+    "120363432018531082@g.us": 1787946357086,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
@@ -199128,7 +199134,7 @@
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1787868477291,
-    "120363409024805409@g.us": 1787946350255,
+    "120363409024805409@g.us": 1787946352771,
     "120363411043114631@g.us": 1787897464612
   },
   "autoAnimSent": {
