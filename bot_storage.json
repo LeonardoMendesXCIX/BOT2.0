@@ -2603,9 +2603,9 @@
         "total": 29
       },
       "190864487919667": {
-        "text": 285,
+        "text": 286,
         "media": 42,
-        "total": 327
+        "total": 328
       },
       "82227819987089": {
         "text": 2,
@@ -2798,14 +2798,14 @@
         "total": 5
       },
       "247020967165997": {
-        "text": 117,
+        "text": 118,
         "media": 31,
-        "total": 148
+        "total": 149
       },
       "206253020176458": {
-        "text": 11,
+        "text": 12,
         "media": 6,
-        "total": 17
+        "total": 18
       },
       "210152934359048": {
         "text": 16,
@@ -9900,7 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Pedro Henrique (172868239380659): Vou é trabalhar pra pagar a viagem do feriado",
         "Gabi 💋 (247020967165997): Pra pagar a sua psicóloga que está no cabaré",
         "Pedro Henrique (172868239380659): Nada, viagem mesmo eu nunca nem fui no cabaré",
         "Rafael Moura (57707230945348): Nossa mulher aranha 😏",
@@ -10399,7 +10398,8 @@
         "Gleydson Souza (274384656834700): .",
         "Gleydson Souza (274384656834700): @53537388122141",
         "Arthur (206253020176458): Assim os homens vão se apaixonar em",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Kkkkkkkk manda em vizu única amiga"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Kkkkkkkk manda em vizu única amiga",
+        "Souza (190864487919667): Cuidado com o cabaré"
       ]
     },
     "120363428464897153@g.us": {
@@ -17838,6 +17838,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Kkkkkkkk manda em vizu única amiga",
         "timestamp": 1787929575818
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Cuidado com o cabaré",
+        "timestamp": 1787929592465
       }
     ],
     "120363428464897153@g.us": [],
@@ -17864,7 +17870,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21895,
+    "120363432018531082@g.us": 21896,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -143324,6 +143330,12 @@
         "text": "Kkkkkkkk manda em vizu única amiga",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787929575818
+      },
+      "ACA187856E7741E4C87EEEEEAB095624": {
+        "sender": "190864487919667@lid",
+        "text": "Cuidado com o cabaré",
+        "pushName": "Souza",
+        "timestamp": 1787929592465
       }
     },
     "120363428464897153@g.us": {
@@ -196233,7 +196245,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787929575818,
+    "120363432018531082@g.us": 1787929612888,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
