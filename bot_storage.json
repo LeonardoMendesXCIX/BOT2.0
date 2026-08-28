@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2288,
+        "text": 2289,
         "media": 309,
-        "total": 2597
+        "total": 2598
       },
       "252922705240205": {
         "text": 80,
@@ -1953,9 +1953,9 @@
         "total": 5
       },
       "83911531044906": {
-        "text": 59,
+        "text": 60,
         "media": 3,
-        "total": 62
+        "total": 63
       },
       "172864548434113": {
         "text": 42,
@@ -2603,9 +2603,9 @@
         "total": 29
       },
       "190864487919667": {
-        "text": 289,
+        "text": 290,
         "media": 43,
-        "total": 332
+        "total": 333
       },
       "82227819987089": {
         "text": 2,
@@ -2658,9 +2658,9 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 89,
+        "text": 90,
         "media": 14,
-        "total": 103
+        "total": 104
       },
       "172868239380659": {
         "text": 182,
@@ -2708,9 +2708,9 @@
         "total": 2
       },
       "108461127897146": {
-        "text": 62,
+        "text": 64,
         "media": 7,
-        "total": 69
+        "total": 71
       },
       "10050861031495": {
         "text": 0,
@@ -9900,9 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Gabi 💋 (247020967165997): Pedro adorei a \"briga\" pode ir trabalhar eu deixo ksksks",
-        "Pedro Henrique (172868239380659): Tmj, mais tarde arrumo outra \" briga\"",
-        "Saul (118515428286715): Bom dia, tenho que levar 6 pessoas para o buteco, alguém se habilita?",
         "Gabi 💋 (247020967165997): Se fosse aqui em só eu topo",
         "Pedro Henrique (172868239380659): Quer pagar a minha viagem?",
         "Saul (118515428286715): É sim, bora",
@@ -10399,7 +10396,10 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Parabéns amiga, que venha com muita saúde viu?",
         "~Gará (83911531044906): Desculpe a pergunta.\nOq aconteceu cm o pai da princesa?",
         "jaciara (108461127897146): Amém 🙏🏼",
-        "jaciara (108461127897146): Tenho um rapaz de 10 anos e uma moça de 6"
+        "jaciara (108461127897146): Tenho um rapaz de 10 anos e uma moça de 6",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Barrigão tá eu, e nem tô grávida",
+        "jaciara (108461127897146): Essa é minha 3 e última gravidez",
+        "Souza (190864487919667): Aí já não sei"
       ]
     },
     "120363428464897153@g.us": {
@@ -17964,6 +17964,24 @@
         "authorName": "jaciara",
         "text": "Tenho um rapaz de 10 anos e uma moça de 6",
         "timestamp": 1787929831414
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Barrigão tá eu, e nem tô grávida",
+        "timestamp": 1787929842889
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Essa é minha 3 e última gravidez",
+        "timestamp": 1787929843295
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Aí já não sei",
+        "timestamp": 1787929853245
       }
     ],
     "120363428464897153@g.us": [],
@@ -17990,7 +18008,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21918,
+    "120363432018531082@g.us": 21921,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -143588,6 +143606,24 @@
         "text": "Tenho um rapaz de 10 anos e uma moça de 6",
         "pushName": "jaciara",
         "timestamp": 1787929831414
+      },
+      "ACE8DC8C3258C1A1CCB5C622F49998CB": {
+        "sender": "53537388122141@lid",
+        "text": "Barrigão tá eu, e nem tô grávida",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787929842889
+      },
+      "AC316801DAA7FA7E69205718A573E046": {
+        "sender": "108461127897146@lid",
+        "text": "Essa é minha 3 e última gravidez",
+        "pushName": "jaciara",
+        "timestamp": 1787929843295
+      },
+      "AC7702754333D48CF3C2A5B07D631EAB": {
+        "sender": "190864487919667@lid",
+        "text": "Aí já não sei",
+        "pushName": "Souza",
+        "timestamp": 1787929853245
       }
     },
     "120363428464897153@g.us": {
@@ -196497,7 +196533,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787929831414,
+    "120363432018531082@g.us": 1787929857891,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
