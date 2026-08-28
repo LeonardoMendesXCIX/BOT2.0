@@ -188,9 +188,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2220,
+        "text": 2221,
         "media": 472,
-        "total": 2692
+        "total": 2693
       },
       "184237705699536": {
         "text": 524,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Gleydson Souza (274384656834700): Bem vinda",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Sempre",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Obrigada pela figurinha",
         "Bruno Aguiar (+1395881181241): Sempre na ativa,sem perder tempo",
@@ -10449,7 +10448,8 @@
         "Celiete Souza (129373172711439): Eu queria isso",
         "Gabriel (145381035905262): Chutaram o balde legal 😂😂😂",
         "Gabriel (145381035905262): Nunca nem usei Jequiti",
-        "Celiete Souza (129373172711439): Boa tarde nega 😘"
+        "Celiete Souza (129373172711439): Boa tarde nega 😘",
+        "Gabriel (145381035905262): @272048228188398 , @214156045242435 , @129373172711439  olhem isso 😂😂"
       ]
     },
     "120363428464897153@g.us": {
@@ -18079,6 +18079,12 @@
         "authorName": "Celiete Souza",
         "text": "Boa tarde nega 😘",
         "timestamp": 1787941133749
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "@272048228188398 , @214156045242435 , @129373172711439  olhem isso 😂😂",
+        "timestamp": 1787941159966
       }
     ],
     "120363428464897153@g.us": [],
@@ -18196,7 +18202,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22221,
+    "120363432018531082@g.us": 22222,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2075,
@@ -145593,6 +145599,12 @@
         "text": "Boa tarde nega 😘",
         "pushName": "Celiete Souza",
         "timestamp": 1787941133749
+      },
+      "ACC42A8E4D216C44F1683C64D8A4D925": {
+        "sender": "145381035905262@lid",
+        "text": "@272048228188398 , @214156045242435 , @129373172711439  olhem isso 😂😂",
+        "pushName": "Gabriel",
+        "timestamp": 1787941159966
       }
     },
     "120363428464897153@g.us": {
@@ -198964,7 +198976,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787941153534,
+    "120363432018531082@g.us": 1787941159966,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787940055842,
