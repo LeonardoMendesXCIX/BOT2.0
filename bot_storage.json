@@ -1953,9 +1953,9 @@
         "total": 5
       },
       "83911531044906": {
-        "text": 54,
+        "text": 55,
         "media": 3,
-        "total": 57
+        "total": 58
       },
       "172864548434113": {
         "text": 42,
@@ -2673,9 +2673,9 @@
         "total": 3
       },
       "193729163993156": {
-        "text": 32,
+        "text": 33,
         "media": 7,
-        "total": 39
+        "total": 40
       },
       "151582733820115": {
         "text": 5,
@@ -9900,7 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Jessica (208958782488665): Por essas e outras que eu não saio com ninguém. Hoje dia de academia se louco",
         "Gabi 💋 (247020967165997): Discórdia não \nVirou piada ksksks",
         "Souza (190864487919667): Por isso não conseguem nada",
         "Gabi 💋 (247020967165997): Bem isso",
@@ -10399,7 +10398,8 @@
         "F. RicaRdo sAnToS (193729163993156): Cuidado com os cara q tem perfil nas gestantes @108461127897146",
         "~Gará (83911531044906): Tenho 33",
         "jaciara (108461127897146): Sim sim , eu sou bem esperta em relação a isso",
-        "F. RicaRdo sAnToS (193729163993156): Tem candidato forte aqui"
+        "F. RicaRdo sAnToS (193729163993156): Tem candidato forte aqui",
+        "~Gará (83911531044906): Tenho três filhos.\nPorém descobrir em 2020 que não faço mais devidos uns problemas,mais queria ter mais um pra mim acompanhar de perto desde o nascimento ao crescimento."
       ]
     },
     "120363428464897153@g.us": {
@@ -17342,12 +17342,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "206253020176458",
-        "authorName": "Arthur",
-        "text": "Q lindaa",
-        "timestamp": 1787927642361
-      },
-      {
         "authorNum": "83911531044906",
         "authorName": "~Gará",
         "text": "Eu venderia meus rins.",
@@ -17808,6 +17802,12 @@
         "authorName": "F. RicaRdo sAnToS",
         "text": "Tem candidato forte aqui",
         "timestamp": 1787929440650
+      },
+      {
+        "authorNum": "83911531044906",
+        "authorName": "~Gará",
+        "text": "Tenho três filhos.\nPorém descobrir em 2020 que não faço mais devidos uns problemas,mais queria ter mais um pra mim acompanhar de perto desde o nascimento ao crescimento.",
+        "timestamp": 1787929475872
       }
     ],
     "120363428464897153@g.us": [],
@@ -17834,7 +17834,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21889,
+    "120363432018531082@g.us": 21890,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -143258,6 +143258,12 @@
         "text": "Tem candidato forte aqui",
         "pushName": "F. RicaRdo sAnToS",
         "timestamp": 1787929440650
+      },
+      "AC7E8C5B9EB70335683078103618B0D6": {
+        "sender": "83911531044906@lid",
+        "text": "Tenho três filhos.\nPorém descobrir em 2020 que não faço mais devidos uns problemas,mais queria ter mais um pra mim acompanhar de perto desde o nascimento ao crescimento.",
+        "pushName": "~Gará",
+        "timestamp": 1787929475872
       }
     },
     "120363428464897153@g.us": {
@@ -196167,7 +196173,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787929447084,
+    "120363432018531082@g.us": 1787929475872,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
