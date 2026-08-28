@@ -379,8 +379,8 @@
       },
       "163530946961491": {
         "text": 416,
-        "media": 72,
-        "total": 488
+        "media": 73,
+        "total": 489
       },
       "222595437858867": {
         "text": 522,
@@ -1863,9 +1863,9 @@
         "total": 6
       },
       "1395881181241": {
-        "text": 162,
+        "text": 163,
         "media": 5,
-        "total": 167
+        "total": 168
       },
       "198595546501333": {
         "text": 2,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Obrigada 🥹",
         "jaciara (108461127897146): Cê tá bem ?",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Já tomeeeeei 😂😂",
         "Camila Designer (92629643563147): Sim ☺️",
@@ -10449,7 +10448,8 @@
         "Celiete Souza (129373172711439): Agora vou ter um tempinho a mais de repente, ai me chamem lá 😘",
         "jaciara (108461127897146): Podem falar mais sobre o empreendimento kkkkkk",
         "May (227783724793861): Você aquiiiii hahaha",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Pinto de preto Azulado\nJá fui ruiva\nCor natural é castanho claro"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Pinto de preto Azulado\nJá fui ruiva\nCor natural é castanho claro",
+        "Bruno Aguiar (+1395881181241): Humm vc ruiva"
       ]
     },
     "120363428464897153@g.us": {
@@ -17604,6 +17604,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Pinto de preto Azulado\nJá fui ruiva\nCor natural é castanho claro",
         "timestamp": 1787946503130
+      },
+      {
+        "authorNum": "1395881181241",
+        "authorName": "Bruno Aguiar",
+        "text": "Humm vc ruiva",
+        "timestamp": 1787946566071
       }
     ],
     "120363428464897153@g.us": [],
@@ -17630,7 +17636,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22334,
+    "120363432018531082@g.us": 22335,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -145693,6 +145699,12 @@
         "text": "Pinto de preto Azulado\nJá fui ruiva\nCor natural é castanho claro",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787946503130
+      },
+      "AC8BA1B00A6596FAB1BC4F24E2D4B898": {
+        "sender": "1395881181241@lid",
+        "text": "Humm vc ruiva",
+        "pushName": "Bruno Aguiar",
+        "timestamp": 1787946566071
       }
     },
     "120363428464897153@g.us": {
@@ -199166,7 +199178,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787946522455,
+    "120363432018531082@g.us": 1787946566071,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
