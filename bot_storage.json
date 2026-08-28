@@ -173,14 +173,14 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1584,
+        "text": 1585,
         "media": 430,
-        "total": 2014
+        "total": 2015
       },
       "81991328395336": {
         "text": 3941,
-        "media": 1345,
-        "total": 5286
+        "media": 1346,
+        "total": 5287
       },
       "179040627490824": {
         "text": 433,
@@ -188,9 +188,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2229,
+        "text": 2230,
         "media": 472,
-        "total": 2701
+        "total": 2702
       },
       "184237705699536": {
         "text": 524,
@@ -254,8 +254,8 @@
       },
       "92629643563147": {
         "text": 1510,
-        "media": 1118,
-        "total": 2628
+        "media": 1119,
+        "total": 2629
       },
       "3126803329115": {
         "text": 87,
@@ -9950,8 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Souza (190864487919667): KKKKKKKKKKKKKKKKKKKKKK",
-        "Souza (190864487919667): leva só o básico",
         "~Gará (83911531044906): Bem vinda",
         "Nanda (263797142995147): pior q eu tento kkkkk",
         "Nanda (263797142995147): brigada",
@@ -10449,7 +10447,9 @@
         "🙃🙃🙃 (11171897864256): 🤔",
         "Bruno Aguiar (+1395881181241): É bom, desfrutar de um chá e um bom descanso",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): @all",
-        "Bruno Aguiar (+1395881181241): Aiaiaiai"
+        "Bruno Aguiar (+1395881181241): Aiaiaiai",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @92629643563147",
+        "Celiete Souza (129373172711439): @53537388122141 sei que entraram muitas pessoas e eu não vi, mas desejo boas vindas a todos, e queria ver quem entrou 😬"
       ]
     },
     "120363428464897153@g.us": {
@@ -17469,36 +17469,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "Depois quero ver como vc ficou🥰",
-        "timestamp": 1787940048589
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Mando foto depois",
-        "timestamp": 1787940054786
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "🥰",
-        "timestamp": 1787940057117
-      },
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Bannnn tenso",
-        "timestamp": 1787940083612
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Quem é a cidadã?",
-        "timestamp": 1787940087767
-      },
-      {
         "authorNum": "208958782488665",
         "authorName": "Jessica",
         "text": "Jesus",
@@ -18097,6 +18067,18 @@
         "authorName": "Bruno Aguiar",
         "text": "Aiaiaiai",
         "timestamp": 1787941842513
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "@92629643563147",
+        "timestamp": 1787941869978
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "@53537388122141 sei que entraram muitas pessoas e eu não vi, mas desejo boas vindas a todos, e queria ver quem entrou 😬",
+        "timestamp": 1787941890874
       }
     ],
     "120363428464897153@g.us": [],
@@ -18123,7 +18105,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22262,
+    "120363432018531082@g.us": 22264,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2075,
@@ -145766,6 +145748,18 @@
         "text": "Aiaiaiai",
         "pushName": "Bruno Aguiar",
         "timestamp": 1787941842513
+      },
+      "ACC6B247DA7447DA10385081F908038A": {
+        "sender": "81991328395336@lid",
+        "text": "@92629643563147",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787941869978
+      },
+      "AC8988A16130BE19E8524BA9A3CEDBD2": {
+        "sender": "129373172711439@lid",
+        "text": "@53537388122141 sei que entraram muitas pessoas e eu não vi, mas desejo boas vindas a todos, e queria ver quem entrou 😬",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787941890874
       }
     },
     "120363428464897153@g.us": {
@@ -199137,7 +199131,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787941842513,
+    "120363432018531082@g.us": 1787941890874,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787940055842,
