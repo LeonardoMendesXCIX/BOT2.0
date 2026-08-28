@@ -253,9 +253,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1466,
+        "text": 1468,
         "media": 1101,
-        "total": 2567
+        "total": 2569
       },
       "3126803329115": {
         "text": 87,
@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2241,
+        "text": 2242,
         "media": 304,
-        "total": 2545
+        "total": 2546
       },
       "252922705240205": {
         "text": 80,
@@ -698,9 +698,9 @@
         "total": 95
       },
       "57707230945348": {
-        "text": 1136,
+        "text": 1138,
         "media": 199,
-        "total": 1335
+        "total": 1337
       },
       "152218690924790": {
         "text": 309,
@@ -2629,8 +2629,8 @@
       },
       "75797868064796": {
         "text": 13,
-        "media": 21,
-        "total": 34
+        "media": 22,
+        "total": 35
       },
       "153764728184839": {
         "text": 2,
@@ -10049,7 +10049,12 @@
         "Rafael Moura (57707230945348): Uai a mina me chama pra Pv, fala que \"sou seu\" e depois sai daqui e nem responde mais",
         "Rafael Moura (57707230945348): Eu nao entendo 🤣🤣🤣",
         "Gabi 💋 (247020967165997): O amor acabou",
-        "Rafael Moura (57707230945348): Bem vindas meninas, nao me maltratem"
+        "Rafael Moura (57707230945348): Bem vindas meninas, nao me maltratem",
+        "Camila Designer (92629643563147): Tava bom demais pra ser verdade",
+        "Rafael Moura (57707230945348): Tava mesmo 🤣🤣🤣🤣",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): !ban @279628962885736",
+        "Camila Designer (92629643563147): Acho que ela acordou a tempo 🤣🤣🤣",
+        "Rafael Moura (57707230945348): É igual dinheiro, vai e vem 🤣"
       ]
     },
     "120363428464897153@g.us": {
@@ -16969,12 +16974,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "Ta bemm??",
-        "timestamp": 1787912599602
-      },
-      {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Tô bem e você??",
@@ -17309,6 +17308,36 @@
         "authorName": "Rafael Moura",
         "text": "Bem vindas meninas, nao me maltratem",
         "timestamp": 1787914392988
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Tava bom demais pra ser verdade",
+        "timestamp": 1787914395910
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Tava mesmo 🤣🤣🤣🤣",
+        "timestamp": 1787914404534
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "!ban @279628962885736",
+        "timestamp": 1787914404792
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Acho que ela acordou a tempo 🤣🤣🤣",
+        "timestamp": 1787914405370
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "É igual dinheiro, vai e vem 🤣",
+        "timestamp": 1787914426498
       }
     ],
     "120363428464897153@g.us": [],
@@ -17328,7 +17357,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21287,
+    "120363432018531082@g.us": 21292,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1989,
@@ -139167,6 +139196,36 @@
         "text": "Bem vindas meninas, nao me maltratem",
         "pushName": "Rafael Moura",
         "timestamp": 1787914392988
+      },
+      "2A7DE62223BD069A12A1": {
+        "sender": "92629643563147@lid",
+        "text": "Tava bom demais pra ser verdade",
+        "pushName": "Camila Designer",
+        "timestamp": 1787914395910
+      },
+      "ACB91A9EB8D26F92C4774339E1CADDD2": {
+        "sender": "57707230945348@lid",
+        "text": "Tava mesmo 🤣🤣🤣🤣",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787914404534
+      },
+      "AC03B9DD8DE8F6BE730C7E53B42AD0D3": {
+        "sender": "53537388122141@lid",
+        "text": "!ban @279628962885736",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787914404792
+      },
+      "2A7367FC6E11ED1603C2": {
+        "sender": "92629643563147@lid",
+        "text": "Acho que ela acordou a tempo 🤣🤣🤣",
+        "pushName": "Camila Designer",
+        "timestamp": 1787914405370
+      },
+      "AC0A50C667312D2D2CF14C6C836ED8D8": {
+        "sender": "57707230945348@lid",
+        "text": "É igual dinheiro, vai e vem 🤣",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787914426498
       }
     },
     "120363428464897153@g.us": {
@@ -191938,7 +191997,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787914392988,
+    "120363432018531082@g.us": 1787914426498,
     "120363428464897153@g.us": 1787913193216,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787894166886,
