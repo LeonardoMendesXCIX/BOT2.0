@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2261,
+        "text": 2262,
         "media": 306,
-        "total": 2567
+        "total": 2568
       },
       "252922705240205": {
         "text": 80,
@@ -1953,9 +1953,9 @@
         "total": 5
       },
       "83911531044906": {
-        "text": 37,
+        "text": 38,
         "media": 2,
-        "total": 39
+        "total": 40
       },
       "172864548434113": {
         "text": 42,
@@ -2803,9 +2803,9 @@
         "total": 148
       },
       "206253020176458": {
-        "text": 4,
+        "text": 5,
         "media": 6,
-        "total": 10
+        "total": 11
       },
       "210152934359048": {
         "text": 16,
@@ -2853,9 +2853,9 @@
         "total": 1
       },
       "147940920283293": {
-        "text": 1,
-        "media": 0,
-        "total": 1
+        "text": 2,
+        "media": 1,
+        "total": 3
       }
     },
     "120363428464897153@g.us": {
@@ -9895,10 +9895,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Alexandre Bastos (75797868064796): Bom dia",
-        "jaciara (108461127897146): Estão bem ?",
-        "Alexandre Bastos (75797868064796): Sextou",
-        "Alexandre Bastos (75797868064796): Sim e vc",
         "jaciara (108461127897146): Bem também",
         "Alexandre Bastos (75797868064796): Bom ótimo dia",
         ". (279628962885736): Bom dia pessoal \nVamos que vamos",
@@ -10394,7 +10390,11 @@
         "Nickolas (238388519141379): Você professora de que ?",
         "willian (163530946961491): Bem vinda",
         "Dany (262182034002040): Inglês 🥰",
-        "Nickolas (238388519141379): To preciso de aulas de inglês"
+        "Nickolas (238388519141379): To preciso de aulas de inglês",
+        "fé ! (147940920283293): Bom diaa...",
+        "~Gará (83911531044906): Da aulas on-line?",
+        "Arthur (206253020176458): Q linda bem vinda ao grupo",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bom dia e seja bem vindo(a)! Se apresente pra nós, por favor"
       ]
     },
     "120363428464897153@g.us": {
@@ -17334,36 +17334,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "75797868064796",
-        "authorName": "Alexandre Bastos",
-        "text": "Bem vinda",
-        "timestamp": 1787922825977
-      },
-      {
-        "authorNum": "94227841179800",
-        "authorName": "amanda🫶",
-        "text": "Obg:)",
-        "timestamp": 1787922849475
-      },
-      {
-        "authorNum": "193729163993156",
-        "authorName": "F. RicaRdo sAnToS",
-        "text": "Bem-vinda",
-        "timestamp": 1787922871505
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Bem  vinda 🫡🩷",
-        "timestamp": 1787922872110
-      },
-      {
-        "authorNum": "75797868064796",
-        "authorName": "Alexandre Bastos",
-        "text": "Do RJ tbm",
-        "timestamp": 1787922885845
-      },
-      {
         "authorNum": "94227841179800",
         "authorName": "amanda🫶",
         "text": "Yes",
@@ -17536,6 +17506,30 @@
         "authorName": "Nickolas",
         "text": "To preciso de aulas de inglês",
         "timestamp": 1787924540323
+      },
+      {
+        "authorNum": "147940920283293",
+        "authorName": "fé !",
+        "text": "Bom diaa...",
+        "timestamp": 1787924685106
+      },
+      {
+        "authorNum": "83911531044906",
+        "authorName": "~Gará",
+        "text": "Da aulas on-line?",
+        "timestamp": 1787924685144
+      },
+      {
+        "authorNum": "206253020176458",
+        "authorName": "Arthur",
+        "text": "Q linda bem vinda ao grupo",
+        "timestamp": 1787924685175
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Bom dia e seja bem vindo(a)! Se apresente pra nós, por favor",
+        "timestamp": 1787924688957
       }
     ],
     "120363428464897153@g.us": [],
@@ -17592,7 +17586,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21702,
+    "120363432018531082@g.us": 21706,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2009,
@@ -141907,6 +141901,30 @@
         "text": "To preciso de aulas de inglês",
         "pushName": "Nickolas",
         "timestamp": 1787924540324
+      },
+      "AC7634F9B394D0F0EE6A84178991F4BE": {
+        "sender": "147940920283293@lid",
+        "text": "Bom diaa...",
+        "pushName": "fé !",
+        "timestamp": 1787924685106
+      },
+      "ACFC71E2693C804FC4A1BCB933BBAE80": {
+        "sender": "83911531044906@lid",
+        "text": "Da aulas on-line?",
+        "pushName": "~Gará",
+        "timestamp": 1787924685144
+      },
+      "AC3D3B552C8BADA61B43567D2AF0AC46": {
+        "sender": "206253020176458@lid",
+        "text": "Q linda bem vinda ao grupo",
+        "pushName": "Arthur",
+        "timestamp": 1787924685175
+      },
+      "AC659D5B00F067FC7D1216610A4DED4F": {
+        "sender": "53537388122141@lid",
+        "text": "Bom dia e seja bem vindo(a)! Se apresente pra nós, por favor",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787924688957
       }
     },
     "120363428464897153@g.us": {
@@ -194798,7 +194816,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787924627828,
+    "120363432018531082@g.us": 1787924688957,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787923699618,
