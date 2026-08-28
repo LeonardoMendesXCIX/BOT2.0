@@ -3009,9 +3009,9 @@
         "total": 2
       },
       "53537388122141": {
-        "text": 59,
+        "text": 62,
         "media": 0,
-        "total": 59
+        "total": 62
       },
       "253626509443178": {
         "text": 3,
@@ -3323,9 +3323,9 @@
         "total": 512
       },
       "145381035905262": {
-        "text": 358,
+        "text": 360,
         "media": 142,
-        "total": 500
+        "total": 502
       },
       "53537388122141": {
         "text": 662,
@@ -13517,7 +13517,10 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Enquanto o bot",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): !fechar",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): !abrir 21:10",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): 👀👀"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): 👀👀",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): KKKKKKKKKKKKKKKKK",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Foi mal",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Aguentei não"
       ]
     },
     "120363409727467494@g.us": {
@@ -15478,7 +15481,9 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Uma gatinha que diz né",
         "Gabriel (145381035905262): Pelo nome achei que teria uns 70 anos",
         "Gabriel (145381035905262): Me chamo Jennifer, tenho 21 anos e moro em Belém do Pará",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Mas que é gatinha, é sim 👀"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Mas que é gatinha, é sim 👀",
+        "Gabriel (145381035905262): O que essa boca comeee",
+        "Gabriel (145381035905262): Mulher é virada em boca"
       ]
     },
     "120363411233423709@g.us": {
@@ -16737,6 +16742,24 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "👀👀",
         "timestamp": 1787875636463
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "KKKKKKKKKKKKKKKKK",
+        "timestamp": 1787875682739
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Foi mal",
+        "timestamp": 1787875689014
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Aguentei não",
+        "timestamp": 1787875694948
       }
     ],
     "120363409727467494@g.us": [],
@@ -16830,6 +16853,18 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Mas que é gatinha, é sim 👀",
         "timestamp": 1787875665645
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "O que essa boca comeee",
+        "timestamp": 1787875676562
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Mulher é virada em boca",
+        "timestamp": 1787875687455
       }
     ],
     "120363411233423709@g.us": [],
@@ -16846,9 +16881,9 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 20963,
-    "120363428464897153@g.us": 5998,
+    "120363428464897153@g.us": 6001,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1679,
+    "120363412288900422@g.us": 1681,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -171944,6 +171979,24 @@
         "text": "👀👀",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787875636463
+      },
+      "AC393E0A2955C4104EE50EC9A8AF91DA": {
+        "sender": "53537388122141@lid",
+        "text": "KKKKKKKKKKKKKKKKK",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787875682739
+      },
+      "ACEA6E7C844FF4CCA3DC2C3C739DE7ED": {
+        "sender": "53537388122141@lid",
+        "text": "Foi mal",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787875689014
+      },
+      "AC483CAA437622F2B94F3F07D2A96DDC": {
+        "sender": "53537388122141@lid",
+        "text": "Aguentei não",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787875694948
       }
     },
     "120363409727467494@g.us": {
@@ -183222,6 +183275,18 @@
         "text": "Mas que é gatinha, é sim 👀",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787875665646
+      },
+      "ACD9AF0B970E3AB1326211C27857FBAE": {
+        "sender": "145381035905262@lid",
+        "text": "O que essa boca comeee",
+        "pushName": "Gabriel",
+        "timestamp": 1787875676562
+      },
+      "AC3C19729E3509400B2CFCDCB1F28E24": {
+        "sender": "145381035905262@lid",
+        "text": "Mulher é virada em boca",
+        "pushName": "Gabriel",
+        "timestamp": 1787875687455
       }
     },
     "120363411233423709@g.us": {
@@ -185778,9 +185843,9 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787875657456,
-    "120363428464897153@g.us": 1787875636463,
+    "120363428464897153@g.us": 1787875694947,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787875665645,
+    "120363412288900422@g.us": 1787875687455,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
