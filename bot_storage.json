@@ -2552,9 +2552,9 @@
         "total": 6
       },
       "23163446493420": {
-        "text": 2,
+        "text": 3,
         "media": 0,
-        "total": 2
+        "total": 3
       },
       "198908642906227": {
         "text": 1,
@@ -2945,8 +2945,8 @@
       },
       "129373172711439": {
         "text": 891,
-        "media": 224,
-        "total": 1115
+        "media": 226,
+        "total": 1117
       },
       "16007578021977": {
         "text": 50,
@@ -3120,8 +3120,8 @@
       },
       "57561571176651": {
         "text": 33,
-        "media": 46,
-        "total": 79
+        "media": 47,
+        "total": 80
       },
       "201257922908323": {
         "text": 3,
@@ -3144,9 +3144,9 @@
         "total": 1
       },
       "25520947339303": {
-        "text": 43,
+        "text": 44,
         "media": 1,
-        "total": 44
+        "total": 45
       },
       "66743926038604": {
         "text": 57,
@@ -3184,9 +3184,9 @@
         "total": 15
       },
       "120044990287992": {
-        "text": 166,
+        "text": 168,
         "media": 7,
-        "total": 173
+        "total": 175
       },
       "71120413843690": {
         "text": 2,
@@ -3209,9 +3209,9 @@
         "total": 29
       },
       "155503636275307": {
-        "text": 24,
+        "text": 25,
         "media": 19,
-        "total": 43
+        "total": 44
       },
       "241553943601214": {
         "text": 5,
@@ -13612,7 +13612,11 @@
         "negoh🐻 (120044990287992): Vou me guarda pra amanhã",
         "Celiete Souza (129373172711439): Credo kkkk",
         "negoh🐻 (120044990287992): E eu que fui tirar meu atraso e fiquei com a pinta inchada e dueno",
-        "Celiete Souza (129373172711439): Só pra dizer que coisou kkkk"
+        "Celiete Souza (129373172711439): Só pra dizer que coisou kkkk",
+        "Priscilla 🌻 (25520947339303): Vc torce pro Atlético",
+        "negoh🐻 (120044990287992): Depois de tanto tempo",
+        "negoh🐻 (120044990287992): Mas deixei assada tbm",
+        "Clayton 🇳🇬 (155503636275307): Palmeiras"
       ]
     },
     "120363409727467494@g.us": {
@@ -16191,12 +16195,6 @@
     ],
     "120363428464897153@g.us": [
       {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Mercado é puxado",
-        "timestamp": 1787876789311
-      },
-      {
         "authorNum": "155503636275307",
         "authorName": "Clayton 🇳🇬",
         "text": "Onde e o mercado pra ir visitar você",
@@ -16435,6 +16433,30 @@
         "authorName": "Celiete Souza",
         "text": "Só pra dizer que coisou kkkk",
         "timestamp": 1787878583339
+      },
+      {
+        "authorNum": "25520947339303",
+        "authorName": "Priscilla 🌻",
+        "text": "Vc torce pro Atlético",
+        "timestamp": 1787878601770
+      },
+      {
+        "authorNum": "120044990287992",
+        "authorName": "negoh🐻",
+        "text": "Depois de tanto tempo",
+        "timestamp": 1787878603544
+      },
+      {
+        "authorNum": "120044990287992",
+        "authorName": "negoh🐻",
+        "text": "Mas deixei assada tbm",
+        "timestamp": 1787878615542
+      },
+      {
+        "authorNum": "155503636275307",
+        "authorName": "Clayton 🇳🇬",
+        "text": "Palmeiras",
+        "timestamp": 1787878618140
       }
     ],
     "120363409727467494@g.us": [],
@@ -16575,7 +16597,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 21029,
-    "120363428464897153@g.us": 6078,
+    "120363428464897153@g.us": 6082,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1711,
     "120363411233423709@g.us": 5,
@@ -16688,7 +16710,20 @@
       "date": "2026-08-17T03:32:19.330Z"
     }
   },
-  "pendingBvReminders": [],
+  "pendingBvReminders": [
+    {
+      "id": "1787878624628_118515428286715@lid",
+      "chatId": "120363428464897153@g.us",
+      "newMemberId": "118515428286715@lid",
+      "runAt": 1787879524628
+    },
+    {
+      "id": "1787878625833_34626781356198@lid",
+      "chatId": "120363428464897153@g.us",
+      "newMemberId": "34626781356198@lid",
+      "runAt": 1787879525833
+    }
+  ],
   "pendingPresentations": [],
   "groupSchedules": {
     "120363428464897153@g.us": {
@@ -172543,6 +172578,30 @@
         "text": "Só pra dizer que coisou kkkk",
         "pushName": "Celiete Souza",
         "timestamp": 1787878583339
+      },
+      "ACD67D1D0DE43A27AA529FA3AAB06C22": {
+        "sender": "25520947339303@lid",
+        "text": "Vc torce pro Atlético",
+        "pushName": "Priscilla 🌻",
+        "timestamp": 1787878601770
+      },
+      "AC46CB524147500DA80A3E2C69995F25": {
+        "sender": "120044990287992@lid",
+        "text": "Depois de tanto tempo",
+        "pushName": "negoh🐻",
+        "timestamp": 1787878603544
+      },
+      "ACE17C23DB4292C58C8C4BFC6D9A1C0B": {
+        "sender": "120044990287992@lid",
+        "text": "Mas deixei assada tbm",
+        "pushName": "negoh🐻",
+        "timestamp": 1787878615542
+      },
+      "ACB7799727EB236C75C0C3204F742E00": {
+        "sender": "155503636275307@lid",
+        "text": "Palmeiras",
+        "pushName": "Clayton 🇳🇬",
+        "timestamp": 1787878618140
       }
     },
     "120363409727467494@g.us": {
@@ -186586,8 +186645,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787878561510,
-    "120363428464897153@g.us": 1787878590210,
+    "120363432018531082@g.us": 1787878624794,
+    "120363428464897153@g.us": 1787878618192,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787877736241,
     "120363411233423709@g.us": 1787113553426,
