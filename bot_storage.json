@@ -2603,9 +2603,9 @@
         "total": 23
       },
       "190864487919667": {
-        "text": 227,
+        "text": 228,
         "media": 39,
-        "total": 266
+        "total": 267
       },
       "82227819987089": {
         "text": 2,
@@ -2663,9 +2663,9 @@
         "total": 77
       },
       "172868239380659": {
-        "text": 139,
+        "text": 140,
         "media": 25,
-        "total": 164
+        "total": 165
       },
       "170455038193841": {
         "text": 1,
@@ -2798,9 +2798,9 @@
         "total": 5
       },
       "247020967165997": {
-        "text": 72,
+        "text": 75,
         "media": 17,
-        "total": 89
+        "total": 92
       },
       "206253020176458": {
         "text": 3,
@@ -10287,7 +10287,12 @@
         "Gabi 💋 (247020967165997): Ele também não",
         "Pedro Henrique (172868239380659): Excelente sorriso em plena sexta",
         "Pedro Henrique (172868239380659): Fui",
-        "Pedro Henrique (172868239380659): Animar o grupo pow"
+        "Pedro Henrique (172868239380659): Animar o grupo pow",
+        "Pedro Henrique (172868239380659): Tinha uns assuntos muito ruim aqui",
+        "Gabi 💋 (247020967165997): Obrigada Pedro",
+        "Gabi 💋 (247020967165997): Adorei falar com você",
+        "Souza (190864487919667): 😂😂😂",
+        "Gabi 💋 (247020967165997): Miojinho"
       ]
     },
     "120363428464897153@g.us": {
@@ -17211,12 +17216,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "A selva está salgada, para procura no cabaré",
-        "timestamp": 1787915536272
-      },
-      {
         "authorNum": "172868239380659",
         "authorName": "Pedro Henrique",
         "text": "Gasta menos hoje em dia, tu vai sair com uma mulher tem que pagar tudo e ainda perigoso ganhar nem um beijo",
@@ -18139,6 +18138,36 @@
         "authorName": "Pedro Henrique",
         "text": "Animar o grupo pow",
         "timestamp": 1787917335314
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Tinha uns assuntos muito ruim aqui",
+        "timestamp": 1787917341578
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Obrigada Pedro",
+        "timestamp": 1787917344946
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Adorei falar com você",
+        "timestamp": 1787917353982
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "😂😂😂",
+        "timestamp": 1787917361444
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Miojinho",
+        "timestamp": 1787917361560
       }
     ],
     "120363428464897153@g.us": [],
@@ -18165,7 +18194,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21525,
+    "120363432018531082@g.us": 21530,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -141425,6 +141454,36 @@
         "text": "Animar o grupo pow",
         "pushName": "Pedro Henrique",
         "timestamp": 1787917335315
+      },
+      "ACF869AD31F22DFFEF68E1BBF02C255E": {
+        "sender": "172868239380659@lid",
+        "text": "Tinha uns assuntos muito ruim aqui",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787917341578
+      },
+      "AC9D92B62A6BD80183A1E16CA29233A0": {
+        "sender": "247020967165997@lid",
+        "text": "Obrigada Pedro",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787917344946
+      },
+      "AC3A0E2C9E8D50E5376728AEE177160D": {
+        "sender": "247020967165997@lid",
+        "text": "Adorei falar com você",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787917353982
+      },
+      "ACFD63C2BD1E25F5A01BC74680D0166C": {
+        "sender": "190864487919667@lid",
+        "text": "😂😂😂",
+        "pushName": "Souza",
+        "timestamp": 1787917361444
+      },
+      "AC6C250FEF3470AF3CE7116D7473B5B9": {
+        "sender": "247020967165997@lid",
+        "text": "Miojinho",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787917361560
       }
     },
     "120363428464897153@g.us": {
@@ -194220,7 +194279,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787917335314,
+    "120363432018531082@g.us": 1787917361560,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
