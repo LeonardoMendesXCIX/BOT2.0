@@ -2803,9 +2803,9 @@
         "total": 155
       },
       "206253020176458": {
-        "text": 34,
+        "text": 35,
         "media": 9,
-        "total": 43
+        "total": 44
       },
       "210152934359048": {
         "text": 16,
@@ -2858,9 +2858,9 @@
         "total": 4
       },
       "263797142995147": {
-        "text": 59,
+        "text": 61,
         "media": 4,
-        "total": 63
+        "total": 65
       }
     },
     "120363428464897153@g.us": {
@@ -9940,9 +9940,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Gabi 💋 (247020967165997): Olha lá o filme",
-        "Pedro Henrique (172868239380659): Qual o nome?",
-        "Pedro Henrique (172868239380659): Do filme",
         "Gabi 💋 (247020967165997): Elize matsunaga ksksks",
         "Pedro Henrique (172868239380659): Ave Maria",
         "Gabi 💋 (247020967165997): Essa matou e cortou tome cuidado pra nenhuma não se apaixonar pela sua grana",
@@ -10439,7 +10436,10 @@
         "Bruno Aguiar (+1395881181241): 👀",
         "Arthur (206253020176458): Kkkkkk",
         "Arthur (206253020176458): E vc faz oq de bom agr",
-        " (120363432018531082): Tá sim, e já tá tacando as figurinhas\n@81991328395336"
+        " (120363432018531082): Tá sim, e já tá tacando as figurinhas\n@81991328395336",
+        "Nanda (263797142995147): flnd em outros grupos",
+        "Nanda (263797142995147): coisa aleatória",
+        "Arthur (206253020176458): Kkkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -17514,6 +17514,24 @@
         "authorName": "",
         "text": "Tá sim, e já tá tacando as figurinhas\n@81991328395336",
         "timestamp": 1787937492943
+      },
+      {
+        "authorNum": "263797142995147",
+        "authorName": "Nanda",
+        "text": "flnd em outros grupos",
+        "timestamp": 1787937646402
+      },
+      {
+        "authorNum": "263797142995147",
+        "authorName": "Nanda",
+        "text": "coisa aleatória",
+        "timestamp": 1787937654309
+      },
+      {
+        "authorNum": "206253020176458",
+        "authorName": "Arthur",
+        "text": "Kkkk",
+        "timestamp": 1787937682984
       }
     ],
     "120363428464897153@g.us": [],
@@ -17552,7 +17570,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22095,
+    "120363432018531082@g.us": 22098,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2024,
@@ -144193,6 +144211,24 @@
         "text": "E vc faz oq de bom agr",
         "pushName": "Arthur",
         "timestamp": 1787937013330
+      },
+      "AC8A5D780287B4FCA87B122CDEA6CDB5": {
+        "sender": "263797142995147@lid",
+        "text": "flnd em outros grupos",
+        "pushName": "Nanda",
+        "timestamp": 1787937646402
+      },
+      "AC3FFF1D70199D77FF72B8BFE0051C49": {
+        "sender": "263797142995147@lid",
+        "text": "coisa aleatória",
+        "pushName": "Nanda",
+        "timestamp": 1787937654309
+      },
+      "ACE9D43F7A83AB85B24EF8FFE804D127": {
+        "sender": "206253020176458@lid",
+        "text": "Kkkk",
+        "pushName": "Arthur",
+        "timestamp": 1787937682984
       }
     },
     "120363428464897153@g.us": {
@@ -197258,7 +197294,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787937492943,
+    "120363432018531082@g.us": 1787937682984,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787936837794,
