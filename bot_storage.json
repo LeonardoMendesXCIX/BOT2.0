@@ -698,9 +698,9 @@
         "total": 95
       },
       "57707230945348": {
-        "text": 1182,
+        "text": 1184,
         "media": 214,
-        "total": 1396
+        "total": 1398
       },
       "152218690924790": {
         "text": 309,
@@ -2798,9 +2798,9 @@
         "total": 5
       },
       "247020967165997": {
-        "text": 51,
-        "media": 12,
-        "total": 63
+        "text": 53,
+        "media": 13,
+        "total": 66
       },
       "206253020176458": {
         "text": 3,
@@ -10219,7 +10219,11 @@
         "Pedro Henrique (172868239380659): Sai",
         "Gabi 💋 (247020967165997): Não achei minha boca no lixo igual você",
         "Pedro Henrique (172868239380659): Levou pro coração?",
-        "Pedro Henrique (172868239380659): KKK"
+        "Pedro Henrique (172868239380659): KKK",
+        "Gabi 💋 (247020967165997): Levei não",
+        "Gabi 💋 (247020967165997): Tu que está passando vergonha",
+        "Rafael Moura (57707230945348): Daqui a 5 horas to chegando ai",
+        "Rafael Moura (57707230945348): 🤣"
       ]
     },
     "120363428464897153@g.us": {
@@ -17143,12 +17147,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "75797868064796",
-        "authorName": "Alexandre Bastos",
-        "text": "Quem",
-        "timestamp": 1787914988029
-      },
-      {
         "authorNum": "247020967165997",
         "authorName": "Gabi 💋",
         "text": "Vê ksksks",
@@ -17765,6 +17763,30 @@
         "authorName": "Pedro Henrique",
         "text": "KKK",
         "timestamp": 1787916762461
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Levei não",
+        "timestamp": 1787916767085
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Tu que está passando vergonha",
+        "timestamp": 1787916781070
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Daqui a 5 horas to chegando ai",
+        "timestamp": 1787916802784
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "🤣",
+        "timestamp": 1787916803923
       }
     ],
     "120363428464897153@g.us": [],
@@ -17791,7 +17813,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21457,
+    "120363432018531082@g.us": 21461,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -140643,6 +140665,30 @@
         "text": "KKK",
         "pushName": "Pedro Henrique",
         "timestamp": 1787916762461
+      },
+      "AC396DD012FFDDFAE052005F2E91299C": {
+        "sender": "247020967165997@lid",
+        "text": "Levei não",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787916767085
+      },
+      "AC8BF621E872C90CB77946BC7C93E9CB": {
+        "sender": "247020967165997@lid",
+        "text": "Tu que está passando vergonha",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787916781070
+      },
+      "AC8FE5053089A2A962AED14E07452BE8": {
+        "sender": "57707230945348@lid",
+        "text": "Daqui a 5 horas to chegando ai",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787916802785
+      },
+      "AC188C244D5C0BAB3D8BCC84A3E6D8AF": {
+        "sender": "57707230945348@lid",
+        "text": "🤣",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787916803923
       }
     },
     "120363428464897153@g.us": {
@@ -193438,7 +193484,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787916762461,
+    "120363432018531082@g.us": 1787916803923,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
