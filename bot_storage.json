@@ -173,9 +173,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1597,
+        "text": 1598,
         "media": 438,
-        "total": 2035
+        "total": 2036
       },
       "81991328395336": {
         "text": 3943,
@@ -2604,8 +2604,8 @@
       },
       "190864487919667": {
         "text": 344,
-        "media": 50,
-        "total": 394
+        "media": 51,
+        "total": 395
       },
       "82227819987089": {
         "text": 2,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Nanda (263797142995147): decepções amorosas?",
         "Souza (190864487919667): Todas",
         "Arthur (206253020176458): Q lindaa",
         "~Gará (83911531044906): Eu venderia meus rins.",
@@ -10449,7 +10448,8 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Fui nesse parque em 2018",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): 🫡🔥",
         "Gabriel (145381035905262): Fritando",
-        "Souza (190864487919667): Sigo solteiro"
+        "Souza (190864487919667): Sigo solteiro",
+        "Celiete Souza (129373172711439): Tudo queto"
       ]
     },
     "120363428464897153@g.us": {
@@ -17484,18 +17484,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Melhor deixar quieto né 🤣🤣🤣🤣",
-        "timestamp": 1787942580892
-      },
-      {
-        "authorNum": "193729163993156",
-        "authorName": "F. RicaRdo sAnToS",
-        "text": "Bom dos grupos é sempre renovar as figurinhas",
-        "timestamp": 1787942646581
-      },
-      {
         "authorNum": "1395881181241",
         "authorName": "Bruno Aguiar",
         "text": "😢😢",
@@ -17668,6 +17656,12 @@
         "authorName": "Souza",
         "text": "Sigo solteiro",
         "timestamp": 1787944278297
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Tudo queto",
+        "timestamp": 1787944511767
       }
     ],
     "120363428464897153@g.us": [],
@@ -17779,7 +17773,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22310,
+    "120363432018531082@g.us": 22311,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -145698,6 +145692,12 @@
         "text": "Sigo solteiro",
         "pushName": "Souza",
         "timestamp": 1787944278297
+      },
+      "AC15D438BC9C05CB322592C416EB4D5E": {
+        "sender": "129373172711439@lid",
+        "text": "Tudo queto",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787944511768
       }
     },
     "120363428464897153@g.us": {
@@ -199159,7 +199159,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787944427301,
+    "120363432018531082@g.us": 1787944511767,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
