@@ -2720,8 +2720,8 @@
       },
       "1645576491019": {
         "text": 332,
-        "media": 127,
-        "total": 459
+        "media": 128,
+        "total": 460
       },
       "262182034002040": {
         "text": 326,
@@ -2829,9 +2829,9 @@
         "total": 23
       },
       "270377049690114": {
-        "text": 296,
+        "text": 297,
         "media": 49,
-        "total": 345
+        "total": 346
       },
       "76914341503187": {
         "text": 20,
@@ -3134,9 +3134,9 @@
         "total": 1
       },
       "25520947339303": {
-        "text": 22,
+        "text": 23,
         "media": 1,
-        "total": 23
+        "total": 24
       },
       "66743926038604": {
         "text": 57,
@@ -3279,9 +3279,9 @@
         "total": 1
       },
       "190864487919667": {
-        "text": 1,
+        "text": 2,
         "media": 2,
-        "total": 3
+        "total": 4
       }
     },
     "120363409727467494@g.us": {
@@ -13529,7 +13529,10 @@
         "Souza (190864487919667): 👀",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bora gente",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Kabaré aberto",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): @all"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): @all",
+        "Souza (190864487919667): Faz as honras Sabrina",
+        "Vini 👑🏁🙌⚽ (270377049690114): Opa boa noite gente",
+        "Priscilla 🌻 (25520947339303): 👀boa noite"
       ]
     },
     "120363409727467494@g.us": {
@@ -16772,6 +16775,24 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "@all",
         "timestamp": 1787876099219
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Faz as honras Sabrina",
+        "timestamp": 1787876109138
+      },
+      {
+        "authorNum": "270377049690114",
+        "authorName": "Vini 👑🏁🙌⚽",
+        "text": "Opa boa noite gente",
+        "timestamp": 1787876109845
+      },
+      {
+        "authorNum": "25520947339303",
+        "authorName": "Priscilla 🌻",
+        "text": "👀boa noite",
+        "timestamp": 1787876125888
       }
     ],
     "120363409727467494@g.us": [],
@@ -16893,7 +16914,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 20972,
-    "120363428464897153@g.us": 6010,
+    "120363428464897153@g.us": 6013,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1684,
     "120363411233423709@g.us": 5,
@@ -172117,6 +172138,24 @@
         "text": "@all",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787876099219
+      },
+      "AC127FD7845E54E8CAE9D72BEADD0B7F": {
+        "sender": "190864487919667@lid",
+        "text": "Faz as honras Sabrina",
+        "pushName": "Souza",
+        "timestamp": 1787876109139
+      },
+      "AC7B1C3028842E537CABF74649D065EE": {
+        "sender": "270377049690114@lid",
+        "text": "Opa boa noite gente",
+        "pushName": "Vini 👑🏁🙌⚽",
+        "timestamp": 1787876109845
+      },
+      "AC096A09F6A40A681F3E125038B858E6": {
+        "sender": "25520947339303@lid",
+        "text": "👀boa noite",
+        "pushName": "Priscilla 🌻",
+        "timestamp": 1787876125888
       }
     },
     "120363409727467494@g.us": {
@@ -185981,7 +186020,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787876080638,
-    "120363428464897153@g.us": 1787876099219,
+    "120363428464897153@g.us": 1787876125888,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787875833838,
     "120363411233423709@g.us": 1787113553426,
