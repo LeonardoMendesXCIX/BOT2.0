@@ -2663,9 +2663,9 @@
         "total": 77
       },
       "172868239380659": {
-        "text": 112,
+        "text": 113,
         "media": 20,
-        "total": 132
+        "total": 133
       },
       "170455038193841": {
         "text": 1,
@@ -2718,9 +2718,9 @@
         "total": 1
       },
       "118515428286715": {
-        "text": 1,
+        "text": 2,
         "media": 1,
-        "total": 2
+        "total": 3
       },
       "108268240302270": {
         "text": 1,
@@ -2799,8 +2799,8 @@
       },
       "247020967165997": {
         "text": 38,
-        "media": 9,
-        "total": 47
+        "media": 10,
+        "total": 48
       },
       "206253020176458": {
         "text": 3,
@@ -10181,7 +10181,9 @@
         "Pedro Henrique (172868239380659): Não é sobre minhas condições, falo no sentido no total tu vai num rodízio de churrasco por exemplo triplicou o valor",
         "Souza (190864487919667): Isso isso",
         "Souza (190864487919667): Liso tem que andar com liso",
-        "Gabi 💋 (247020967165997): Pedro adorei a \"briga\" pode ir trabalhar eu deixo ksksks"
+        "Gabi 💋 (247020967165997): Pedro adorei a \"briga\" pode ir trabalhar eu deixo ksksks",
+        "Pedro Henrique (172868239380659): Tmj, mais tarde arrumo outra \" briga\"",
+        "Saul (118515428286715): Bom dia, tenho que levar 6 pessoas para o buteco, alguém se habilita?"
       ]
     },
     "120363428464897153@g.us": {
@@ -17105,48 +17107,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Eae Gus bom dia 🤣",
-        "timestamp": 1787914509801
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Já me apresentei",
-        "timestamp": 1787914513638
-      },
-      {
-        "authorNum": "210152934359048",
-        "authorName": "Bruno",
-        "text": "Tem alguém de mg?",
-        "timestamp": 1787914515206
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Eu acho",
-        "timestamp": 1787914515953
-      },
-      {
-        "authorNum": "199733712785531",
-        "authorName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
-        "text": "Bom dia! Kk",
-        "timestamp": 1787914522001
-      },
-      {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Eu num vi haha",
-        "timestamp": 1787914525207
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "@190864487919667",
-        "timestamp": 1787914538685
-      },
-      {
         "authorNum": "120363432018531082",
         "authorName": "",
         "text": "@190864487919667",
@@ -17817,6 +17777,18 @@
         "authorName": "Gabi 💋",
         "text": "Pedro adorei a \"briga\" pode ir trabalhar eu deixo ksksks",
         "timestamp": 1787916274489
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Tmj, mais tarde arrumo outra \" briga\"",
+        "timestamp": 1787916335267
+      },
+      {
+        "authorNum": "118515428286715",
+        "authorName": "Saul",
+        "text": "Bom dia, tenho que levar 6 pessoas para o buteco, alguém se habilita?",
+        "timestamp": 1787916341204
       }
     ],
     "120363428464897153@g.us": [],
@@ -17843,7 +17815,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21419,
+    "120363432018531082@g.us": 21421,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -140467,6 +140439,18 @@
         "text": "Pedro adorei a \"briga\" pode ir trabalhar eu deixo ksksks",
         "pushName": "Gabi 💋",
         "timestamp": 1787916274489
+      },
+      "AC92FC5F149E5EDAE184854B12B48FFC": {
+        "sender": "172868239380659@lid",
+        "text": "Tmj, mais tarde arrumo outra \" briga\"",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787916335267
+      },
+      "3A6F53CB38842ECE0095": {
+        "sender": "118515428286715@lid",
+        "text": "Bom dia, tenho que levar 6 pessoas para o buteco, alguém se habilita?",
+        "pushName": "Saul",
+        "timestamp": 1787916341204
       }
     },
     "120363428464897153@g.us": {
@@ -193262,7 +193246,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787916291438,
+    "120363432018531082@g.us": 1787916341204,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
