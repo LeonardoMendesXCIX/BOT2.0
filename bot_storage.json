@@ -2603,9 +2603,9 @@
         "total": 31
       },
       "190864487919667": {
-        "text": 347,
+        "text": 349,
         "media": 51,
-        "total": 398
+        "total": 400
       },
       "82227819987089": {
         "text": 2,
@@ -3936,8 +3936,8 @@
       },
       "5511927018683": {
         "text": 58,
-        "media": 93,
-        "total": 151
+        "media": 94,
+        "total": 152
       },
       "30486281900223": {
         "text": 1,
@@ -3946,8 +3946,8 @@
       },
       "81991328395336": {
         "text": 16,
-        "media": 656,
-        "total": 672
+        "media": 662,
+        "total": 678
       },
       "145381035905262": {
         "text": 7,
@@ -9950,8 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Deliciaaaaa\nEu quero",
-        "jaciara (108461127897146): De qual cidade ?",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Tá perdendoooo\nUma delícia",
         "Bruno Aguiar (+1395881181241): E se precisar estamos aqui 😉❤️",
         "~Gará (83911531044906): Tamos juntos nessa então",
@@ -10449,7 +10447,9 @@
         "Souza (190864487919667): Chegar em casa é só estudar 🤡",
         "Leandro (+55 (11) 92701-8683): Quem foi o inteligente?",
         "Celiete Souza (129373172711439): Minha internet está ruim, podem ir msgs atrasadas 😘",
-        "Celiete Souza (129373172711439): Bom menino 🫶🏻"
+        "Celiete Souza (129373172711439): Bom menino 🫶🏻",
+        "Souza (190864487919667): 😂",
+        "Souza (190864487919667): Estudar pra Petrobrás"
       ]
     },
     "120363428464897153@g.us": {
@@ -17485,12 +17485,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Acho que vai😂😂😂",
-        "timestamp": 1787943113360
-      },
-      {
         "authorNum": "190864487919667",
         "authorName": "Souza",
         "text": "😂",
@@ -17669,6 +17663,18 @@
         "authorName": "Celiete Souza",
         "text": "Bom menino 🫶🏻",
         "timestamp": 1787944903806
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "😂",
+        "timestamp": 1787944924953
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Estudar pra Petrobrás",
+        "timestamp": 1787944931057
       }
     ],
     "120363428464897153@g.us": [],
@@ -17786,7 +17792,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22316,
+    "120363432018531082@g.us": 22318,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -145741,6 +145747,18 @@
         "text": "Bom menino 🫶🏻",
         "pushName": "Celiete Souza",
         "timestamp": 1787944903807
+      },
+      "AC97B383508F6E5B6B110E9918F34B8A": {
+        "sender": "190864487919667@lid",
+        "text": "😂",
+        "pushName": "Souza",
+        "timestamp": 1787944924953
+      },
+      "AC65E3059A28B43955C06217A43AF035": {
+        "sender": "190864487919667@lid",
+        "text": "Estudar pra Petrobrás",
+        "pushName": "Souza",
+        "timestamp": 1787944931057
       }
     },
     "120363428464897153@g.us": {
@@ -199208,7 +199226,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787944905095,
+    "120363432018531082@g.us": 1787944931057,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
@@ -199219,7 +199237,7 @@
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1787868477291,
-    "120363409024805409@g.us": 1787944882021,
+    "120363409024805409@g.us": 1787944983627,
     "120363411043114631@g.us": 1787897464612
   },
   "autoAnimSent": {
