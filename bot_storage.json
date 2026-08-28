@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2243,
+        "text": 2245,
         "media": 305,
-        "total": 2548
+        "total": 2550
       },
       "252922705240205": {
         "text": 80,
@@ -318,9 +318,9 @@
         "total": 117
       },
       "199733712785531": {
-        "text": 202,
+        "text": 203,
         "media": 118,
-        "total": 320
+        "total": 321
       },
       "153596754661626": {
         "text": 1,
@@ -699,8 +699,8 @@
       },
       "57707230945348": {
         "text": 1154,
-        "media": 202,
-        "total": 1356
+        "media": 203,
+        "total": 1357
       },
       "152218690924790": {
         "text": 309,
@@ -2603,9 +2603,9 @@
         "total": 23
       },
       "190864487919667": {
-        "text": 211,
+        "text": 213,
         "media": 37,
-        "total": 248
+        "total": 250
       },
       "82227819987089": {
         "text": 2,
@@ -2629,8 +2629,8 @@
       },
       "75797868064796": {
         "text": 15,
-        "media": 25,
-        "total": 40
+        "media": 26,
+        "total": 41
       },
       "153764728184839": {
         "text": 2,
@@ -2804,8 +2804,8 @@
       },
       "206253020176458": {
         "text": 2,
-        "media": 2,
-        "total": 4
+        "media": 3,
+        "total": 5
       },
       "210152934359048": {
         "text": 15,
@@ -10082,7 +10082,12 @@
         "Alexandre Bastos (75797868064796): Bem vinda",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindaaa",
         "𝔞𝔩𝔦𝔫𝔢🫶🏽 (221307534876912): Obrigada meus amores",
-        "Rafael Moura (57707230945348): Gus ta soltinho ne"
+        "Rafael Moura (57707230945348): Gus ta soltinho ne",
+        "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Bem vinda.",
+        "Souza (190864487919667): Morto",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): @262182034002040 corre aqui",
+        "Souza (190864487919667): Bem vinda",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tô zuando 😂"
       ]
     },
     "120363428464897153@g.us": {
@@ -17489,6 +17494,36 @@
         "authorName": "Rafael Moura",
         "text": "Gus ta soltinho ne",
         "timestamp": 1787914647138
+      },
+      {
+        "authorNum": "199733712785531",
+        "authorName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
+        "text": "Bem vinda.",
+        "timestamp": 1787914658606
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Morto",
+        "timestamp": 1787914660872
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "@262182034002040 corre aqui",
+        "timestamp": 1787914663750
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Bem vinda",
+        "timestamp": 1787914671593
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Tô zuando 😂",
+        "timestamp": 1787914671902
       }
     ],
     "120363428464897153@g.us": [],
@@ -17527,7 +17562,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21320,
+    "120363432018531082@g.us": 21325,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1992,
@@ -139558,6 +139593,36 @@
         "text": "Gus ta soltinho ne",
         "pushName": "Rafael Moura",
         "timestamp": 1787914647139
+      },
+      "3AFFA06C4E5EA97FB737": {
+        "sender": "199733712785531@lid",
+        "text": "Bem vinda.",
+        "pushName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
+        "timestamp": 1787914658606
+      },
+      "AC0A6E18E4F98A68DCCFB93A35F3368B": {
+        "sender": "190864487919667@lid",
+        "text": "Morto",
+        "pushName": "Souza",
+        "timestamp": 1787914660872
+      },
+      "AC9F5EFC11264013E1991101342636B4": {
+        "sender": "53537388122141@lid",
+        "text": "@262182034002040 corre aqui",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787914663750
+      },
+      "ACB93406DA10F39EB8C891E8B735C2AB": {
+        "sender": "190864487919667@lid",
+        "text": "Bem vinda",
+        "pushName": "Souza",
+        "timestamp": 1787914671593
+      },
+      "AC585468957129B547A216228761F2F0": {
+        "sender": "53537388122141@lid",
+        "text": "Tô zuando 😂",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787914671902
       }
     },
     "120363428464897153@g.us": {
@@ -192347,7 +192412,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787914647138,
+    "120363432018531082@g.us": 1787914671902,
     "120363428464897153@g.us": 1787913193216,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787914462012,
