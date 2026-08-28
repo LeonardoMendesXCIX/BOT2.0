@@ -2896,9 +2896,9 @@
         "total": 23
       },
       "270377049690114": {
-        "text": 305,
+        "text": 307,
         "media": 50,
-        "total": 355
+        "total": 357
       },
       "76914341503187": {
         "text": 20,
@@ -3381,9 +3381,9 @@
         "total": 4
       },
       "82227819987089": {
-        "text": 7,
+        "text": 8,
         "media": 1,
-        "total": 8
+        "total": 9
       }
     },
     "120363409727467494@g.us": {
@@ -3420,9 +3420,9 @@
         "total": 570
       },
       "5511927018683": {
-        "text": 465,
+        "text": 466,
         "media": 83,
-        "total": 548
+        "total": 549
       },
       "145381035905262": {
         "text": 369,
@@ -13866,7 +13866,10 @@
         "Vini 👑🏁🙌⚽ (270377049690114): Tu entrou agora no grupo, abaixa a bola irmão",
         "Pedro Henrique (82227819987089): Faz favor fio",
         "Vini 👑🏁🙌⚽ (270377049690114): E já quer sentar na janelinha",
-        "Vini 👑🏁🙌⚽ (270377049690114): 🤣🤣🤣"
+        "Vini 👑🏁🙌⚽ (270377049690114): 🤣🤣🤣",
+        "Vini 👑🏁🙌⚽ (270377049690114): Opa aí é bom demais!!!!",
+        "Pedro Henrique (82227819987089): A conversinha dele a tua mamãe te tirou das frauda ainda não seu loko",
+        "Vini 👑🏁🙌⚽ (270377049690114): ????"
       ]
     },
     "120363409727467494@g.us": {
@@ -15956,7 +15959,8 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Processo cairia bem",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Sim, tô precisando de grana",
         "Leandro (+55 (11) 92701-8683): Defensoria Pública",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Pq tua vida pessoal tem nada haver com grupos"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Pq tua vida pessoal tem nada haver com grupos",
+        "Leandro (+55 (11) 92701-8683): Não gasta nada e ainda recebe uma graninha"
       ]
     },
     "120363411233423709@g.us": {
@@ -16650,6 +16654,24 @@
         "authorName": "Vini 👑🏁🙌⚽",
         "text": "🤣🤣🤣",
         "timestamp": 1787885955202
+      },
+      {
+        "authorNum": "270377049690114",
+        "authorName": "Vini 👑🏁🙌⚽",
+        "text": "Opa aí é bom demais!!!!",
+        "timestamp": 1787885981475
+      },
+      {
+        "authorNum": "82227819987089",
+        "authorName": "Pedro Henrique",
+        "text": "A conversinha dele a tua mamãe te tirou das frauda ainda não seu loko",
+        "timestamp": 1787885987839
+      },
+      {
+        "authorNum": "270377049690114",
+        "authorName": "Vini 👑🏁🙌⚽",
+        "text": "????",
+        "timestamp": 1787885998492
       }
     ],
     "120363409727467494@g.us": [],
@@ -17085,6 +17107,12 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Pq tua vida pessoal tem nada haver com grupos",
         "timestamp": 1787885962514
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Não gasta nada e ainda recebe uma graninha",
+        "timestamp": 1787885979138
       }
     ],
     "120363411233423709@g.us": [],
@@ -17101,9 +17129,9 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 21092,
-    "120363428464897153@g.us": 6240,
+    "120363428464897153@g.us": 6243,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1808,
+    "120363412288900422@g.us": 1809,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -174400,6 +174428,24 @@
         "text": "🤣🤣🤣",
         "pushName": "Vini 👑🏁🙌⚽",
         "timestamp": 1787885955202
+      },
+      "ACB99B3CBF3AB25F9EB654A0CC04D2AE": {
+        "sender": "270377049690114@lid",
+        "text": "Opa aí é bom demais!!!!",
+        "pushName": "Vini 👑🏁🙌⚽",
+        "timestamp": 1787885981475
+      },
+      "3A8E1CA3739AD3BA7195": {
+        "sender": "82227819987089@lid",
+        "text": "A conversinha dele a tua mamãe te tirou das frauda ainda não seu loko",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787885987839
+      },
+      "ACFBE6C3C97E1C46E7D08E2C561ED5EC": {
+        "sender": "270377049690114@lid",
+        "text": "????",
+        "pushName": "Vini 👑🏁🙌⚽",
+        "timestamp": 1787885998492
       }
     },
     "120363409727467494@g.us": {
@@ -186452,6 +186498,12 @@
         "text": "Pq tua vida pessoal tem nada haver com grupos",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787885962514
+      },
+      "A5F038E4FB65CF1E93867A2A8B9719B1": {
+        "sender": "54259127210155@lid",
+        "text": "Não gasta nada e ainda recebe uma graninha",
+        "pushName": "Leandro",
+        "timestamp": 1787885979138
       }
     },
     "120363411233423709@g.us": {
@@ -189038,9 +189090,9 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787884904333,
-    "120363428464897153@g.us": 1787885955202,
+    "120363428464897153@g.us": 1787885998492,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787885962514,
+    "120363412288900422@g.us": 1787885979138,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
