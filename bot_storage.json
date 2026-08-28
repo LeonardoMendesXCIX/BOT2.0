@@ -173,9 +173,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1561,
+        "text": 1564,
         "media": 427,
-        "total": 1988
+        "total": 1991
       },
       "81991328395336": {
         "text": 3940,
@@ -9950,8 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Exatamente",
-        "🙃🙃🙃 (11171897864256): Pessoal o que fazem de bom",
         "Souza (190864487919667): Nada",
         "Souza (190864487919667): Procrastinando no trabalho",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Querendo ir tomar banho, mas enrolando",
@@ -10449,7 +10447,9 @@
         "Celiete Souza (129373172711439): Tô vivendo apenas kkkkkk",
         "Gabriel (145381035905262): Você sabe que não",
         "Camila Designer (92629643563147): E eu sobrevivendo 😂😂😂",
-        "Camila Designer (92629643563147): Zuando 😂😂😂"
+        "Camila Designer (92629643563147): Zuando 😂😂😂",
+        "Celiete Souza (129373172711439): Boa tarde",
+        "Celiete Souza (129373172711439): Tarde ju"
       ]
     },
     "120363428464897153@g.us": {
@@ -17469,30 +17469,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Ma não é possível",
-        "timestamp": 1787939466827
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Aí o Sol não tem preguiça não",
-        "timestamp": 1787939467521
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Iae cobiçado 🤏🏼😎",
-        "timestamp": 1787939493964
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Gente, a vida tá fácil assim né? 🤡🤡",
-        "timestamp": 1787939501097
-      },
-      {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Metida, cobiçado...\nO que mais que falta?",
@@ -18103,6 +18079,18 @@
         "authorName": "Camila Designer",
         "text": "Zuando 😂😂😂",
         "timestamp": 1787941261079
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Boa tarde",
+        "timestamp": 1787941296758
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Tarde ju",
+        "timestamp": 1787941307570
       }
     ],
     "120363428464897153@g.us": [],
@@ -18207,7 +18195,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22227,
+    "120363432018531082@g.us": 22229,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2075,
@@ -145640,6 +145628,18 @@
         "text": "Zuando 😂😂😂",
         "pushName": "Camila Designer",
         "timestamp": 1787941261080
+      },
+      "AC909FC6645C27C6E389EDE369AE85AA": {
+        "sender": "129373172711439@lid",
+        "text": "Boa tarde",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787941296759
+      },
+      "AC96E3E51A1046D9F83FDECE6334ED22": {
+        "sender": "129373172711439@lid",
+        "text": "Tarde ju",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787941307570
       }
     },
     "120363428464897153@g.us": {
@@ -199011,7 +199011,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787941261079,
+    "120363432018531082@g.us": 1787941331231,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787940055842,
