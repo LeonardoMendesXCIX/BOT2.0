@@ -2909,9 +2909,9 @@
         "total": 1
       },
       "92629643563147": {
-        "text": 579,
-        "media": 397,
-        "total": 976
+        "text": 580,
+        "media": 400,
+        "total": 980
       },
       "122552932372575": {
         "text": 0,
@@ -2949,9 +2949,9 @@
         "total": 9
       },
       "129373172711439": {
-        "text": 927,
-        "media": 237,
-        "total": 1164
+        "text": 928,
+        "media": 238,
+        "total": 1166
       },
       "16007578021977": {
         "text": 53,
@@ -3294,9 +3294,9 @@
         "total": 1
       },
       "190864487919667": {
-        "text": 53,
+        "text": 58,
         "media": 11,
-        "total": 64
+        "total": 69
       },
       "118515428286715": {
         "text": 16,
@@ -13740,7 +13740,13 @@
         "Camila Designer (92629643563147): @129373172711439 o que fazer pra atrair as mulheres?",
         "Celiete Souza (129373172711439): Coisando",
         "Celiete Souza (129373172711439): Peitorais",
-        "Souza (190864487919667): E agora que eu já fiz minha participação, estarei me retirando"
+        "Souza (190864487919667): E agora que eu já fiz minha participação, estarei me retirando",
+        "Souza (190864487919667): Estudar",
+        "Celiete Souza (129373172711439): Eu vou embora daqui",
+        "Camila Designer (92629643563147): Está interessado em alguém @190864487919667 ?",
+        "Souza (190864487919667): Vá não",
+        "Souza (190864487919667): Contribua",
+        "Souza (190864487919667): A princípio, sim"
       ]
     },
     "120363409727467494@g.us": {
@@ -16235,24 +16241,6 @@
     ],
     "120363428464897153@g.us": [
       {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Pareceu mesmo kkkk",
-        "timestamp": 1787878917413
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Confia",
-        "timestamp": 1787878952169
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Ela gosta de vê peitoral",
-        "timestamp": 1787878954664
-      },
-      {
         "authorNum": "118515428286715",
         "authorName": "Saul",
         "text": "Eu esperando o cara falar “comum o aditivada” pra rachar o bico",
@@ -16695,6 +16683,42 @@
         "authorName": "Souza",
         "text": "E agora que eu já fiz minha participação, estarei me retirando",
         "timestamp": 1787880710451
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Estudar",
+        "timestamp": 1787880733357
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Eu vou embora daqui",
+        "timestamp": 1787880737754
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Está interessado em alguém @190864487919667 ?",
+        "timestamp": 1787880741550
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Vá não",
+        "timestamp": 1787880745050
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Contribua",
+        "timestamp": 1787880748235
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "A princípio, sim",
+        "timestamp": 1787880758612
       }
     ],
     "120363409727467494@g.us": [],
@@ -16713,7 +16737,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 21036,
-    "120363428464897153@g.us": 6181,
+    "120363428464897153@g.us": 6187,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1711,
     "120363411233423709@g.us": 5,
@@ -173328,6 +173352,42 @@
         "text": "E agora que eu já fiz minha participação, estarei me retirando",
         "pushName": "Souza",
         "timestamp": 1787880710451
+      },
+      "AC355C18A6FD7E86CCA40A12413BB508": {
+        "sender": "190864487919667@lid",
+        "text": "Estudar",
+        "pushName": "Souza",
+        "timestamp": 1787880733357
+      },
+      "ACF6294AFB10CAFABBB1F705940465E3": {
+        "sender": "129373172711439@lid",
+        "text": "Eu vou embora daqui",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787880737754
+      },
+      "2AE7CCAFDC22F29F0AD6": {
+        "sender": "92629643563147@lid",
+        "text": "Está interessado em alguém @190864487919667 ?",
+        "pushName": "Camila Designer",
+        "timestamp": 1787880741550
+      },
+      "AC146D4DDB3D0F54F51D49D8695789D6": {
+        "sender": "190864487919667@lid",
+        "text": "Vá não",
+        "pushName": "Souza",
+        "timestamp": 1787880745050
+      },
+      "AC65362CBC6FCDFE8059140344161E0C": {
+        "sender": "190864487919667@lid",
+        "text": "Contribua",
+        "pushName": "Souza",
+        "timestamp": 1787880748235
+      },
+      "ACFE10EC55752185B47F8E94CB69117E": {
+        "sender": "190864487919667@lid",
+        "text": "A princípio, sim",
+        "pushName": "Souza",
+        "timestamp": 1787880758612
       }
     },
     "120363409727467494@g.us": {
@@ -187372,7 +187432,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787880343658,
-    "120363428464897153@g.us": 1787880713797,
+    "120363428464897153@g.us": 1787880765946,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787877736241,
     "120363411233423709@g.us": 1787113553426,
