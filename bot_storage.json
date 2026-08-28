@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2296,
+        "text": 2298,
         "media": 317,
-        "total": 2613
+        "total": 2615
       },
       "252922705240205": {
         "text": 80,
@@ -453,9 +453,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1728,
+        "text": 1730,
         "media": 339,
-        "total": 2067
+        "total": 2069
       },
       "252600633041077": {
         "text": 1,
@@ -9950,9 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Gleydson Souza (274384656834700): Bom dia",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Aos domingos",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Mas quem quiser, fique a vontade",
         "Nickolas (238388519141379): Normal ? Ou visu única ?",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Do jeito que preferir",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Sejam bem vindo jovem🤝🫡",
@@ -10449,7 +10446,10 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Metida, cobiçado...\nO que mais que falta?",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @190864487919667",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Vai boba cair no golpe",
-        "Souza (190864487919667): Preciso falar não, a pessoa já sabe"
+        "Souza (190864487919667): Preciso falar não, a pessoa já sabe",
+        "Leandro (+55 (11) 92701-8683): Trabalhamos com nomes",
+        "Leandro (+55 (11) 92701-8683): Diga para nós",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tô lá já, aham"
       ]
     },
     "120363428464897153@g.us": {
@@ -17640,6 +17640,24 @@
         "authorName": "Souza",
         "text": "Preciso falar não, a pessoa já sabe",
         "timestamp": 1787939556874
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Trabalhamos com nomes",
+        "timestamp": 1787939574991
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Diga para nós",
+        "timestamp": 1787939581018
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Tô lá já, aham",
+        "timestamp": 1787939591048
       }
     ],
     "120363428464897153@g.us": [],
@@ -17889,7 +17907,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22129,
+    "120363432018531082@g.us": 22132,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2061,
@@ -144734,6 +144752,24 @@
         "text": "Preciso falar não, a pessoa já sabe",
         "pushName": "Souza",
         "timestamp": 1787939556874
+      },
+      "A56C3B15EDE8A336F7687EE937D3E5DE": {
+        "sender": "54259127210155@lid",
+        "text": "Trabalhamos com nomes",
+        "pushName": "Leandro",
+        "timestamp": 1787939574991
+      },
+      "A538FC8153D971B99E0E435E4BD5D0CF": {
+        "sender": "54259127210155@lid",
+        "text": "Diga para nós",
+        "pushName": "Leandro",
+        "timestamp": 1787939581018
+      },
+      "AC5BC6260A9DAD53B2D5889591494DAB": {
+        "sender": "53537388122141@lid",
+        "text": "Tô lá já, aham",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787939591048
       }
     },
     "120363428464897153@g.us": {
@@ -198027,7 +198063,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787939562315,
+    "120363432018531082@g.us": 1787939591048,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787939104507,
