@@ -173,9 +173,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1539,
+        "text": 1540,
         "media": 424,
-        "total": 1963
+        "total": 1964
       },
       "81991328395336": {
         "text": 3923,
@@ -2603,9 +2603,9 @@
         "total": 30
       },
       "190864487919667": {
-        "text": 306,
+        "text": 308,
         "media": 44,
-        "total": 350
+        "total": 352
       },
       "82227819987089": {
         "text": 2,
@@ -9900,9 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Pedro Henrique (172868239380659): Vc não come miojo?",
-        "Gabi 💋 (247020967165997): Tu não entendeu",
-        "𝔞𝔩𝔦𝔫𝔢🫶🏽 (221307534876912): Tá vou ficar caladinha aqui",
         "Rafael Moura (57707230945348): @208958782488665 vem ca",
         "Gabi 💋 (247020967165997): Além de muquirana é burro",
         "Rafael Moura (57707230945348): Nossa, adoro obedientes 😏",
@@ -10399,7 +10396,10 @@
         "~Gará (83911531044906): Concordo",
         "Celiete Souza (129373172711439): Política, religião não se discute",
         "Nanda (263797142995147): sim, da pra perceber muita coisa no primeiro encontro",
-        "Celiete Souza (129373172711439): Cada um no seu quadrado kkkk e respeito"
+        "Celiete Souza (129373172711439): Cada um no seu quadrado kkkk e respeito",
+        "Souza (190864487919667): Sim",
+        "Souza (190864487919667): Foi uma treta das boas",
+        "Celiete Souza (129373172711439): Eu perdi"
       ]
     },
     "120363428464897153@g.us": {
@@ -17344,18 +17344,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "83911531044906",
-        "authorName": "~Gará",
-        "text": "Tenho 33",
-        "timestamp": 1787929355537
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Sim sim , eu sou bem esperta em relação a isso",
-        "timestamp": 1787929360059
-      },
-      {
         "authorNum": "193729163993156",
         "authorName": "F. RicaRdo sAnToS",
         "text": "Tem candidato forte aqui",
@@ -17900,6 +17888,24 @@
         "authorName": "Celiete Souza",
         "text": "Cada um no seu quadrado kkkk e respeito",
         "timestamp": 1787931154786
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Sim",
+        "timestamp": 1787931166831
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Foi uma treta das boas",
+        "timestamp": 1787931173739
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Eu perdi",
+        "timestamp": 1787931184270
       }
     ],
     "120363428464897153@g.us": [],
@@ -17932,7 +17938,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21979,
+    "120363432018531082@g.us": 21982,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -143890,6 +143896,24 @@
         "text": "Cada um no seu quadrado kkkk e respeito",
         "pushName": "Celiete Souza",
         "timestamp": 1787931154786
+      },
+      "AC69A15F5C20626FB4A66749C1E79E24": {
+        "sender": "190864487919667@lid",
+        "text": "Sim",
+        "pushName": "Souza",
+        "timestamp": 1787931166832
+      },
+      "AC0BAF798759E32B07EDA241EAEC352B": {
+        "sender": "190864487919667@lid",
+        "text": "Foi uma treta das boas",
+        "pushName": "Souza",
+        "timestamp": 1787931173740
+      },
+      "AC9FC4607C387EE2D5FE692F8B14609E": {
+        "sender": "129373172711439@lid",
+        "text": "Eu perdi",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787931184271
       }
     },
     "120363428464897153@g.us": {
@@ -196811,7 +196835,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787931159893,
+    "120363432018531082@g.us": 1787931184270,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
