@@ -2904,9 +2904,9 @@
         "total": 1
       },
       "92629643563147": {
-        "text": 567,
-        "media": 381,
-        "total": 948
+        "text": 568,
+        "media": 382,
+        "total": 950
       },
       "122552932372575": {
         "text": 0,
@@ -2944,9 +2944,9 @@
         "total": 9
       },
       "129373172711439": {
-        "text": 901,
-        "media": 231,
-        "total": 1132
+        "text": 904,
+        "media": 232,
+        "total": 1136
       },
       "16007578021977": {
         "text": 50,
@@ -2994,9 +2994,9 @@
         "total": 94
       },
       "222595437858867": {
-        "text": 148,
+        "text": 149,
         "media": 11,
-        "total": 159
+        "total": 160
       },
       "104003018985518": {
         "text": 40,
@@ -3294,9 +3294,9 @@
         "total": 39
       },
       "118515428286715": {
-        "text": 7,
+        "text": 8,
         "media": 2,
-        "total": 9
+        "total": 10
       },
       "274384656834700": {
         "text": 1,
@@ -13673,7 +13673,11 @@
         "Camila Designer (92629643563147): @129373172711439 mande a regra do grupo",
         "Celiete Souza (129373172711439): Eu?",
         "Camila Designer (92629643563147): 😏",
-        "Saul (118515428286715): Gente, tem que se apresentar ?"
+        "Saul (118515428286715): Gente, tem que se apresentar ?",
+        "Celiete Souza (129373172711439): Bom, só posso dizer que todos os novos precisariam mostrar seus requisitos a fim de aprimorar o bom andamento do grupo",
+        "Juliano Perlin (222595437858867): Bem q fez",
+        "Camila Designer (92629643563147): Seja mais clara amiga",
+        "Celiete Souza (129373172711439): Né @92629643563147"
       ]
     },
     "120363409727467494@g.us": {
@@ -16598,6 +16602,30 @@
         "authorName": "Saul",
         "text": "Gente, tem que se apresentar ?",
         "timestamp": 1787879161744
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Bom, só posso dizer que todos os novos precisariam mostrar seus requisitos a fim de aprimorar o bom andamento do grupo",
+        "timestamp": 1787879185218
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Bem q fez",
+        "timestamp": 1787879187990
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Seja mais clara amiga",
+        "timestamp": 1787879212965
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Né @92629643563147",
+        "timestamp": 1787879217510
       }
     ],
     "120363409727467494@g.us": [],
@@ -16665,7 +16693,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 21031,
-    "120363428464897153@g.us": 6119,
+    "120363428464897153@g.us": 6123,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1711,
     "120363411233423709@g.us": 5,
@@ -172909,6 +172937,30 @@
         "text": "Gente, tem que se apresentar ?",
         "pushName": "Saul",
         "timestamp": 1787879161744
+      },
+      "AC4F02BC2F9382265D0C29E500EC5BFB": {
+        "sender": "129373172711439@lid",
+        "text": "Bom, só posso dizer que todos os novos precisariam mostrar seus requisitos a fim de aprimorar o bom andamento do grupo",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787879185218
+      },
+      "AC4BC831264F04FDF30B5A153BDDD2CD": {
+        "sender": "222595437858867@lid",
+        "text": "Bem q fez",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1787879187990
+      },
+      "2A13ACCE45F45D1277FC": {
+        "sender": "92629643563147@lid",
+        "text": "Seja mais clara amiga",
+        "pushName": "Camila Designer",
+        "timestamp": 1787879212965
+      },
+      "ACF7F4ADE399C6278CEB753C339EC0CC": {
+        "sender": "129373172711439@lid",
+        "text": "Né @92629643563147",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787879217510
       }
     },
     "120363409727467494@g.us": {
@@ -186953,7 +187005,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787878669226,
-    "120363428464897153@g.us": 1787879176638,
+    "120363428464897153@g.us": 1787879222527,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787877736241,
     "120363411233423709@g.us": 1787113553426,
