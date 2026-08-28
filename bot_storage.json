@@ -2628,9 +2628,9 @@
         "total": 46
       },
       "75797868064796": {
-        "text": 30,
+        "text": 31,
         "media": 88,
-        "total": 118
+        "total": 119
       },
       "153764728184839": {
         "text": 2,
@@ -9870,7 +9870,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        " (120363432018531082): nome. kaua eduardo \nidade.18\nmoro.Brasil",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Bem vindo jovem 🤝",
         "Leandro (+55 (11) 92701-8683): Bem vindo jovem! 🤝",
         "eduardo (37826582323373): muito obrigado gente",
@@ -10369,7 +10368,8 @@
         "amanda🫶 (94227841179800): Yes",
         "Alexandre Bastos (75797868064796): Da onde do rj",
         "amanda🫶 (94227841179800): Itaboraí",
-        "Alexandre Bastos (75797868064796): Sou da barra"
+        "Alexandre Bastos (75797868064796): Sou da barra",
+        "Alexandre Bastos (75797868064796): Prazer Alexandre"
       ]
     },
     "120363428464897153@g.us": {
@@ -17306,18 +17306,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "@81991328395336 que horário vai fazer a interação do PV",
-        "timestamp": 1787921259654
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Por que? Quer falar sobre?👀",
-        "timestamp": 1787921272204
-      },
-      {
         "authorNum": "75797868064796",
         "authorName": "Alexandre Bastos",
         "text": "Trabalhando hoje",
@@ -17502,6 +17490,12 @@
         "authorName": "Alexandre Bastos",
         "text": "Sou da barra",
         "timestamp": 1787923053456
+      },
+      {
+        "authorNum": "75797868064796",
+        "authorName": "Alexandre Bastos",
+        "text": "Prazer Alexandre",
+        "timestamp": 1787923081633
       }
     ],
     "120363428464897153@g.us": [],
@@ -17600,7 +17594,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21677,
+    "120363432018531082@g.us": 21678,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2006,
@@ -17656,8 +17650,7 @@
       "155503636275307@lid",
       "136408815665242@lid",
       "219980373176429@lid",
-      "180285564035215@lid",
-      "120542904463568@lid"
+      "180285564035215@lid"
     ],
     "120363432018531082@g.us": [],
     "120363411246936023@g.us": [
@@ -141766,6 +141759,12 @@
         "text": "Sou da barra",
         "pushName": "Alexandre Bastos",
         "timestamp": 1787923053456
+      },
+      "AC522A9F5FD9E568C6F23A0F45F0FF9B": {
+        "sender": "75797868064796@lid",
+        "text": "Prazer Alexandre",
+        "pushName": "Alexandre Bastos",
+        "timestamp": 1787923081633
       }
     },
     "120363428464897153@g.us": {
@@ -194639,7 +194638,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787923053456,
+    "120363432018531082@g.us": 1787923081633,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787922745298,
