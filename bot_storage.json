@@ -3006,9 +3006,9 @@
         "total": 1181
       },
       "16007578021977": {
-        "text": 54,
+        "text": 55,
         "media": 0,
-        "total": 54
+        "total": 55
       },
       "237353448796175": {
         "text": 65,
@@ -3415,9 +3415,9 @@
     },
     "120363412288900422@g.us": {
       "81991328395336": {
-        "text": 459,
+        "text": 460,
         "media": 119,
-        "total": 578
+        "total": 579
       },
       "5511927018683": {
         "text": 498,
@@ -3430,9 +3430,9 @@
         "total": 549
       },
       "53537388122141": {
-        "text": 763,
+        "text": 764,
         "media": 59,
-        "total": 822
+        "total": 823
       },
       "120363412288900422": {
         "text": 1,
@@ -13893,7 +13893,8 @@
         "Souza (190864487919667): Ish",
         "Souza (190864487919667): Intimou até a pobre da Sabrina",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Aham",
-        "Joseph (76914341503187): sei nem oq é isso"
+        "Joseph (76914341503187): sei nem oq é isso",
+        "Jean Correa (16007578021977): Eu sei"
       ]
     },
     "120363409727467494@g.us": {
@@ -16088,7 +16089,9 @@
         "Leandro (+55 (11) 92701-8683): A questão é",
         "Gabriel (145381035905262): Que tá escrito lá ?",
         "Leandro (+55 (11) 92701-8683): Por que tu não meteu no rabo desse cara?",
-        "Gabriel (145381035905262): Negativa de débito trabalhista"
+        "Gabriel (145381035905262): Negativa de débito trabalhista",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Atualizou meu RG na palhoça, @145381035905262 \nMas sou nascida em Floripa",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Li Gabriel navara"
       ]
     },
     "120363411233423709@g.us": {
@@ -16581,12 +16584,6 @@
     ],
     "120363428464897153@g.us": [
       {
-        "authorNum": "16007578021977",
-        "authorName": "Jean Correa",
-        "text": "Uma gostosa nova no grupo",
-        "timestamp": 1787886180661
-      },
-      {
         "authorNum": "270377049690114",
         "authorName": "Vini 👑🏁🙌⚽",
         "text": "Rapaz não ia falar mas já que você falou 😳😳🫣🫣",
@@ -16645,6 +16642,12 @@
         "authorName": "Joseph",
         "text": "sei nem oq é isso",
         "timestamp": 1787887956838
+      },
+      {
+        "authorNum": "16007578021977",
+        "authorName": "Jean Correa",
+        "text": "Eu sei",
+        "timestamp": 1787888004951
       }
     ],
     "120363409727467494@g.us": [],
@@ -17218,6 +17221,18 @@
         "authorName": "Gabriel",
         "text": "Negativa de débito trabalhista",
         "timestamp": 1787887971887
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Atualizou meu RG na palhoça, @145381035905262 \nMas sou nascida em Floripa",
+        "timestamp": 1787887991582
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Li Gabriel navara",
+        "timestamp": 1787888010073
       }
     ],
     "120363411233423709@g.us": [],
@@ -17265,9 +17280,9 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 21094,
-    "120363428464897153@g.us": 6261,
+    "120363428464897153@g.us": 6262,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1911,
+    "120363412288900422@g.us": 1913,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -174702,6 +174717,12 @@
         "text": "sei nem oq é isso",
         "pushName": "Joseph",
         "timestamp": 1787887956838
+      },
+      "AC873B815BCE7F7F42709F58EB965621": {
+        "sender": "16007578021977@lid",
+        "text": "Eu sei",
+        "pushName": "Jean Correa",
+        "timestamp": 1787888004951
       }
     },
     "120363409727467494@g.us": {
@@ -187372,6 +187393,18 @@
         "text": "Negativa de débito trabalhista",
         "pushName": "Gabriel",
         "timestamp": 1787887971887
+      },
+      "AC42BEC9A1F87D11AF33BDE28E3115E7": {
+        "sender": "53537388122141@lid",
+        "text": "Atualizou meu RG na palhoça, @145381035905262 \nMas sou nascida em Floripa",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787887991582
+      },
+      "ACB8A4BFF6759F92A282784ACC6B8DCD": {
+        "sender": "81991328395336@lid",
+        "text": "Li Gabriel navara",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787888010073
       }
     },
     "120363411233423709@g.us": {
@@ -189988,9 +190021,9 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787887872075,
-    "120363428464897153@g.us": 1787887956838,
+    "120363428464897153@g.us": 1787888004951,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787887971887,
+    "120363412288900422@g.us": 1787888010073,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
