@@ -1953,9 +1953,9 @@
         "total": 5
       },
       "83911531044906": {
-        "text": 48,
+        "text": 49,
         "media": 2,
-        "total": 50
+        "total": 51
       },
       "172864548434113": {
         "text": 42,
@@ -2603,9 +2603,9 @@
         "total": 29
       },
       "190864487919667": {
-        "text": 281,
+        "text": 282,
         "media": 42,
-        "total": 323
+        "total": 324
       },
       "82227819987089": {
         "text": 2,
@@ -2658,9 +2658,9 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 81,
+        "text": 82,
         "media": 14,
-        "total": 95
+        "total": 96
       },
       "172868239380659": {
         "text": 182,
@@ -2708,9 +2708,9 @@
         "total": 2
       },
       "108461127897146": {
-        "text": 46,
+        "text": 47,
         "media": 4,
-        "total": 50
+        "total": 51
       },
       "10050861031495": {
         "text": 0,
@@ -9900,9 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Pedro Henrique (172868239380659): Sim, é a necessidade da vida adulta",
-        "Gabi 💋 (247020967165997): A selva está salgada, para procura no cabaré",
-        "Pedro Henrique (172868239380659): Gasta menos hoje em dia, tu vai sair com uma mulher tem que pagar tudo e ainda perigoso ganhar nem um beijo",
         "Pedro Henrique (172868239380659): Cabaré é certo",
         "Rafael Moura (57707230945348): Polemicas",
         "Alexandre Bastos (75797868064796): Então no cabaré vc beija kkk",
@@ -10399,7 +10396,10 @@
         "jaciara (108461127897146): Sim sim",
         "Gleydson Souza (274384656834700): Acho q sim",
         "F. RicaRdo sAnToS (193729163993156): Souza quer ser pai",
-        "F. RicaRdo sAnToS (193729163993156): 🤣🤣"
+        "F. RicaRdo sAnToS (193729163993156): 🤣🤣",
+        "~Gará (83911531044906): Oxee",
+        "jaciara (108461127897146): O que ?",
+        "Souza (190864487919667): Já sou pai já, com muito orgulho"
       ]
     },
     "120363428464897153@g.us": {
@@ -17694,6 +17694,24 @@
         "authorName": "F. RicaRdo sAnToS",
         "text": "🤣🤣",
         "timestamp": 1787929097673
+      },
+      {
+        "authorNum": "83911531044906",
+        "authorName": "~Gará",
+        "text": "Oxee",
+        "timestamp": 1787929108434
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "O que ?",
+        "timestamp": 1787929120820
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Já sou pai já, com muito orgulho",
+        "timestamp": 1787929123797
       }
     ],
     "120363428464897153@g.us": [],
@@ -17720,7 +17738,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21869,
+    "120363432018531082@g.us": 21872,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -143024,6 +143042,24 @@
         "text": "🤣🤣",
         "pushName": "F. RicaRdo sAnToS",
         "timestamp": 1787929097673
+      },
+      "ACA040A8C69439BFBD01401CA156A6FC": {
+        "sender": "83911531044906@lid",
+        "text": "Oxee",
+        "pushName": "~Gará",
+        "timestamp": 1787929108434
+      },
+      "AC755C8A543B4E41C9C4EA1BECB4A08E": {
+        "sender": "108461127897146@lid",
+        "text": "O que ?",
+        "pushName": "jaciara",
+        "timestamp": 1787929120820
+      },
+      "AC4D01ABC2A1CBCCDBF4A2856135A000": {
+        "sender": "190864487919667@lid",
+        "text": "Já sou pai já, com muito orgulho",
+        "pushName": "Souza",
+        "timestamp": 1787929123797
       }
     },
     "120363428464897153@g.us": {
@@ -195933,7 +195969,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787929101162,
+    "120363432018531082@g.us": 1787929123797,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
