@@ -188,9 +188,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2234,
+        "text": 2235,
         "media": 472,
-        "total": 2706
+        "total": 2707
       },
       "184237705699536": {
         "text": 524,
@@ -254,8 +254,8 @@
       },
       "92629643563147": {
         "text": 1512,
-        "media": 1120,
-        "total": 2632
+        "media": 1121,
+        "total": 2633
       },
       "3126803329115": {
         "text": 87,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Souza (190864487919667): Tem que ter mais amigos então 😂",
         "Nanda (263797142995147): ai eu vou me comunicar como se me sequestrarem?",
         "Nanda (263797142995147): eu penso cada coisa mn",
         "eduardo (37826582323373): Já imagino",
@@ -10449,7 +10448,8 @@
         "Gabriel (145381035905262): O que tu fez ?",
         "Souza (190864487919667): Já mandei já",
         "Camila Designer (92629643563147): Hidratação e escova nos cabelos 😂😂😂",
-        "Camila Designer (92629643563147): Queria cortar, mas controlei"
+        "Camila Designer (92629643563147): Queria cortar, mas controlei",
+        "Gabriel (145381035905262): Boa,.ficou jóia"
       ]
     },
     "120363428464897153@g.us": {
@@ -17469,12 +17469,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "@222595437858867",
-        "timestamp": 1787940245478
-      },
-      {
         "authorNum": "5511927018683",
         "authorName": "Leandro",
         "text": "Meu nível de tdah",
@@ -18073,6 +18067,12 @@
         "authorName": "Camila Designer",
         "text": "Queria cortar, mas controlei",
         "timestamp": 1787942024551
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Boa,.ficou jóia",
+        "timestamp": 1787942057100
       }
     ],
     "120363428464897153@g.us": [],
@@ -18099,7 +18099,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22276,
+    "120363432018531082@g.us": 22277,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2075,
@@ -145826,6 +145826,12 @@
         "text": "Queria cortar, mas controlei",
         "pushName": "Camila Designer",
         "timestamp": 1787942024552
+      },
+      "ACF3BA179D8D01DE12B4DA91C3CD20AB": {
+        "sender": "145381035905262@lid",
+        "text": "Boa,.ficou jóia",
+        "pushName": "Gabriel",
+        "timestamp": 1787942057100
       }
     },
     "120363428464897153@g.us": {
@@ -199197,7 +199203,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787942034033,
+    "120363432018531082@g.us": 1787942067306,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787940055842,
