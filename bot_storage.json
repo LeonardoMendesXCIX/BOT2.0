@@ -184,9 +184,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2199,
+        "text": 2201,
         "media": 471,
-        "total": 2670
+        "total": 2672
       },
       "184237705699536": {
         "text": 524,
@@ -314,9 +314,9 @@
         "total": 117
       },
       "199733712785531": {
-        "text": 194,
-        "media": 112,
-        "total": 306
+        "text": 195,
+        "media": 113,
+        "total": 308
       },
       "153596754661626": {
         "text": 1,
@@ -2744,9 +2744,9 @@
         "total": 1
       },
       "214375055007755": {
-        "text": 2,
+        "text": 3,
         "media": 0,
-        "total": 2
+        "total": 3
       }
     },
     "120363428464897153@g.us": {
@@ -9783,7 +9783,10 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Caroline n entra mais",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindo",
         "SiLvAa 🕸️ (214375055007755): Obrigada",
-        "Gabriel (145381035905262): Como é amigo, bissexual"
+        "Gabriel (145381035905262): Como é amigo, bissexual",
+        "SiLvAa 🕸️ (214375055007755): sente atração tanto por homem quanto por mulher",
+        "Gabriel (145381035905262): Tô ligado",
+        "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Boa noite a todos"
       ]
     },
     "120363428464897153@g.us": {
@@ -16621,6 +16624,24 @@
         "authorName": "Gabriel",
         "text": "Como é amigo, bissexual",
         "timestamp": 1787888527069
+      },
+      {
+        "authorNum": "214375055007755",
+        "authorName": "SiLvAa 🕸️",
+        "text": "sente atração tanto por homem quanto por mulher",
+        "timestamp": 1787888579327
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Tô ligado",
+        "timestamp": 1787888594165
+      },
+      {
+        "authorNum": "199733712785531",
+        "authorName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
+        "text": "Boa noite a todos",
+        "timestamp": 1787888603340
       }
     ],
     "120363428464897153@g.us": [
@@ -17320,7 +17341,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21097,
+    "120363432018531082@g.us": 21100,
     "120363428464897153@g.us": 6270,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1926,
@@ -138036,6 +138057,24 @@
         "text": "Como é amigo, bissexual",
         "pushName": "Gabriel",
         "timestamp": 1787888527069
+      },
+      "AC0AFC498AA4E86CF4DF1D33BB2CD717": {
+        "sender": "214375055007755@lid",
+        "text": "sente atração tanto por homem quanto por mulher",
+        "pushName": "SiLvAa 🕸️",
+        "timestamp": 1787888579327
+      },
+      "AC39209930F398B95A712CE1A5892A94": {
+        "sender": "145381035905262@lid",
+        "text": "Tô ligado",
+        "pushName": "Gabriel",
+        "timestamp": 1787888594165
+      },
+      "3AB53AC6590EB9DAFBA1": {
+        "sender": "199733712785531@lid",
+        "text": "Boa noite a todos",
+        "pushName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
+        "timestamp": 1787888603341
       }
     },
     "120363428464897153@g.us": {
@@ -190205,7 +190244,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787888527069,
+    "120363432018531082@g.us": 1787888603340,
     "120363428464897153@g.us": 1787888517940,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787888461553,
