@@ -699,8 +699,8 @@
       },
       "57707230945348": {
         "text": 1206,
-        "media": 223,
-        "total": 1429
+        "media": 224,
+        "total": 1430
       },
       "152218690924790": {
         "text": 309,
@@ -1863,9 +1863,9 @@
         "total": 6
       },
       "1395881181241": {
-        "text": 124,
+        "text": 125,
         "media": 5,
-        "total": 129
+        "total": 130
       },
       "198595546501333": {
         "text": 2,
@@ -2663,9 +2663,9 @@
         "total": 81
       },
       "172868239380659": {
-        "text": 153,
+        "text": 156,
         "media": 26,
-        "total": 179
+        "total": 182
       },
       "170455038193841": {
         "text": 1,
@@ -2799,8 +2799,8 @@
       },
       "247020967165997": {
         "text": 85,
-        "media": 19,
-        "total": 104
+        "media": 20,
+        "total": 105
       },
       "206253020176458": {
         "text": 3,
@@ -10312,7 +10312,11 @@
         "Rafael Moura (57707230945348): 🤣",
         "Gabi 💋 (247020967165997): Ksksks agora dei risada",
         "Pedro Henrique (172868239380659): Nada pow, tá tudo certo entre eu e ela, só uma zoeira saudável",
-        "Gabi 💋 (247020967165997): Sim"
+        "Gabi 💋 (247020967165997): Sim",
+        "Pedro Henrique (172868239380659): Sexta feira pow, tem que dá uma animada, só trabalhar não da",
+        "Bruno Aguiar (+1395881181241): Eita",
+        "Pedro Henrique (172868239380659): Mas na bíblia não fala sobre qual",
+        "Pedro Henrique (172868239380659): Se Deus escreveu quem sou eu pra falar algo"
       ]
     },
     "120363428464897153@g.us": {
@@ -17236,42 +17240,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Nossa mulher aranha 😏",
-        "timestamp": 1787915931127
-      },
-      {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Alguém ficou sentida com a história 😏",
-        "timestamp": 1787915938982
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Eu não",
-        "timestamp": 1787915948640
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Eu tô é rindo",
-        "timestamp": 1787915959580
-      },
-      {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Epa ta rolando briga?",
-        "timestamp": 1787915974313
-      },
-      {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Nada",
-        "timestamp": 1787915979581
-      },
-      {
         "authorNum": "172868239380659",
         "authorName": "Pedro Henrique",
         "text": "Ela tem um ponto e eu tenho outro",
@@ -18146,6 +18114,30 @@
         "authorName": "Gabi 💋",
         "text": "Sim",
         "timestamp": 1787917730075
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Sexta feira pow, tem que dá uma animada, só trabalhar não da",
+        "timestamp": 1787917745269
+      },
+      {
+        "authorNum": "1395881181241",
+        "authorName": "Bruno Aguiar",
+        "text": "Eita",
+        "timestamp": 1787917747226
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Mas na bíblia não fala sobre qual",
+        "timestamp": 1787917763529
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Se Deus escreveu quem sou eu pra falar algo",
+        "timestamp": 1787917781533
       }
     ],
     "120363428464897153@g.us": [],
@@ -18172,7 +18164,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21550,
+    "120363432018531082@g.us": 21554,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -141582,6 +141574,30 @@
         "text": "Sim",
         "pushName": "Gabi 💋",
         "timestamp": 1787917730075
+      },
+      "AC64178AA48BE733F35A5D27183961DE": {
+        "sender": "172868239380659@lid",
+        "text": "Sexta feira pow, tem que dá uma animada, só trabalhar não da",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787917745269
+      },
+      "AC115D57B3FCFE2B439C40A81EA07F72": {
+        "sender": "1395881181241@lid",
+        "text": "Eita",
+        "pushName": "Bruno Aguiar",
+        "timestamp": 1787917747226
+      },
+      "AC7F36E64521A5C84D1AE51AEB5E981B": {
+        "sender": "172868239380659@lid",
+        "text": "Mas na bíblia não fala sobre qual",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787917763529
+      },
+      "ACF262E112EF53051797D5D610561DBD": {
+        "sender": "172868239380659@lid",
+        "text": "Se Deus escreveu quem sou eu pra falar algo",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787917781533
       }
     },
     "120363428464897153@g.us": {
@@ -194377,7 +194393,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787917730075,
+    "120363432018531082@g.us": 1787917781533,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
