@@ -2603,9 +2603,9 @@
         "total": 30
       },
       "190864487919667": {
-        "text": 292,
+        "text": 295,
         "media": 43,
-        "total": 335
+        "total": 338
       },
       "82227819987089": {
         "text": 2,
@@ -9900,9 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Souza (190864487919667): KKKKKKKKKKKKKKKKKKKKKK",
-        "Gabi 💋 (247020967165997): Uma pergunta quanto tempo solteiro meu bem. ?",
-        "Rafael Moura (57707230945348): Se me chamar pra comer um xtudo na rua eu caso em",
         "Pedro Henrique (172868239380659): 1 ano",
         "Gabi 💋 (247020967165997): Bora um podrão",
         "Rafael Moura (57707230945348): Bastante gordura",
@@ -10399,7 +10396,10 @@
         "Celiete Souza (129373172711439): Passando pra dar uma olhada ❤️",
         "Celiete Souza (129373172711439): Mas acompanhar está difícil",
         "Celiete Souza (129373172711439): O que está rolando neste momento, me atualizem kkkkk",
-        "Souza (190864487919667): Tem gente de olho na grávida"
+        "Souza (190864487919667): Tem gente de olho na grávida",
+        "Souza (190864487919667): Teve briga de manhã",
+        "Souza (190864487919667): Teve alguém que ia no puteiro",
+        "Souza (190864487919667): Comer miojo"
       ]
     },
     "120363428464897153@g.us": {
@@ -17342,18 +17342,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Tô bem e você? Como anda Goiânia?",
-        "timestamp": 1787928821275
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Estou bem graças a Deus",
-        "timestamp": 1787928833747
-      },
-      {
         "authorNum": "108461127897146",
         "authorName": "jaciara",
         "text": "Que bom , eu estou bem",
@@ -17946,6 +17934,24 @@
         "authorName": "Souza",
         "text": "Tem gente de olho na grávida",
         "timestamp": 1787930619799
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Teve briga de manhã",
+        "timestamp": 1787930623288
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Teve alguém que ia no puteiro",
+        "timestamp": 1787930635122
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Comer miojo",
+        "timestamp": 1787930639597
       }
     ],
     "120363428464897153@g.us": [],
@@ -17965,7 +17971,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21939,
+    "120363432018531082@g.us": 21942,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -143683,6 +143689,24 @@
         "text": "Tem gente de olho na grávida",
         "pushName": "Souza",
         "timestamp": 1787930619799
+      },
+      "AC9CF6F4DE2FE38F7FBD4DC65D1FEFA6": {
+        "sender": "190864487919667@lid",
+        "text": "Teve briga de manhã",
+        "pushName": "Souza",
+        "timestamp": 1787930623289
+      },
+      "AC24048775C23243395358D4F761D9EF": {
+        "sender": "190864487919667@lid",
+        "text": "Teve alguém que ia no puteiro",
+        "pushName": "Souza",
+        "timestamp": 1787930635122
+      },
+      "AC800C41679E371AB1B839CF99BE9D0F": {
+        "sender": "190864487919667@lid",
+        "text": "Comer miojo",
+        "pushName": "Souza",
+        "timestamp": 1787930639597
       }
     },
     "120363428464897153@g.us": {
@@ -196592,7 +196616,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787930619798,
+    "120363432018531082@g.us": 1787930639597,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
