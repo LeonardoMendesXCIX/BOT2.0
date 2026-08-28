@@ -253,9 +253,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1473,
-        "media": 1105,
-        "total": 2578
+        "text": 1474,
+        "media": 1106,
+        "total": 2580
       },
       "3126803329115": {
         "text": 87,
@@ -2628,9 +2628,9 @@
         "total": 46
       },
       "75797868064796": {
-        "text": 23,
+        "text": 24,
         "media": 87,
-        "total": 110
+        "total": 111
       },
       "153764728184839": {
         "text": 2,
@@ -3499,9 +3499,9 @@
     },
     "120363412288900422@g.us": {
       "81991328395336": {
-        "text": 468,
+        "text": 470,
         "media": 121,
-        "total": 589
+        "total": 591
       },
       "5511927018683": {
         "text": 535,
@@ -3514,9 +3514,9 @@
         "total": 596
       },
       "53537388122141": {
-        "text": 773,
+        "text": 774,
         "media": 60,
-        "total": 833
+        "total": 834
       },
       "120363412288900422": {
         "text": 1,
@@ -9865,7 +9865,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Jk (120542904463568): Deu até vontade de empreender",
         "Leandro (+55 (11) 92701-8683): Vá empreender pra lá",
         "Leandro (+55 (11) 92701-8683): Que esse empreendimento já é meu e dela @81991328395336",
         "Jk (120542904463568): Se aperrei não",
@@ -10364,7 +10363,8 @@
         "Souza (190864487919667): Chato",
         "~Gará (83911531044906): O meu ta parado",
         "Camila Designer (92629643563147): @81991328395336 que horário vai fazer a interação do PV",
-        "Camila Designer (92629643563147): Por que? Quer falar sobre?👀"
+        "Camila Designer (92629643563147): Por que? Quer falar sobre?👀",
+        "Alexandre Bastos (75797868064796): Trabalhando hoje"
       ]
     },
     "120363428464897153@g.us": {
@@ -16786,7 +16786,10 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Invasão de Pv",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Quem ?",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): E aí @53537388122141 \nBora lançar PV liberado no conexão?",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bora"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bora",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tem as figurinhas @81991328395336 ?",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Não",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Mais posso ir atrás"
       ]
     },
     "120363411233423709@g.us": {
@@ -17290,12 +17293,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "193729163993156",
-        "authorName": "F. RicaRdo sAnToS",
-        "text": "Bom dia a todas a todos a todes a tody Nescau nesquik... \nBom Dia a eles elas, ilix, asterix, obelix, dickyWinks, Lala, Pow, Teletubbies.\nBom dia aos binários, não binários, bilionários centenários.\n\nbom dia!!!",
-        "timestamp": 1787919501407
-      },
-      {
         "authorNum": "172868239380659",
         "authorName": "Pedro Henrique",
         "text": "Desgrama",
@@ -17414,6 +17411,12 @@
         "authorName": "Camila Designer",
         "text": "Por que? Quer falar sobre?👀",
         "timestamp": 1787921272204
+      },
+      {
+        "authorNum": "75797868064796",
+        "authorName": "Alexandre Bastos",
+        "text": "Trabalhando hoje",
+        "timestamp": 1787921305819
       }
     ],
     "120363428464897153@g.us": [],
@@ -17430,6 +17433,24 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Bora",
         "timestamp": 1787921266474
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Tem as figurinhas @81991328395336 ?",
+        "timestamp": 1787921290430
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Não",
+        "timestamp": 1787921303762
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Mais posso ir atrás",
+        "timestamp": 1787921310126
       }
     ],
     "120363411233423709@g.us": [],
@@ -17446,10 +17467,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21646,
+    "120363432018531082@g.us": 21647,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1995,
+    "120363412288900422@g.us": 1998,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -141432,6 +141453,12 @@
         "text": "Por que? Quer falar sobre?👀",
         "pushName": "Camila Designer",
         "timestamp": 1787921272204
+      },
+      "ACB245D581A72D84BAD541B411C4A6D1": {
+        "sender": "75797868064796@lid",
+        "text": "Trabalhando hoje",
+        "pushName": "Alexandre Bastos",
+        "timestamp": 1787921305819
       }
     },
     "120363428464897153@g.us": {
@@ -191496,6 +191523,24 @@
         "text": "Bora",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787921266474
+      },
+      "AC6228FC28D3DF7C5E7470B9BA6419B1": {
+        "sender": "53537388122141@lid",
+        "text": "Tem as figurinhas @81991328395336 ?",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787921290430
+      },
+      "ACABFC257D35B92450612B11903C8781": {
+        "sender": "81991328395336@lid",
+        "text": "Não",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787921303762
+      },
+      "AC7D64915790B1DC6FEC97A0E2F3ACFC": {
+        "sender": "81991328395336@lid",
+        "text": "Mais posso ir atrás",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787921310126
       }
     },
     "120363411233423709@g.us": {
@@ -194239,10 +194284,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787921272204,
+    "120363432018531082@g.us": 1787921312920,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787921266474,
+    "120363412288900422@g.us": 1787921310126,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
