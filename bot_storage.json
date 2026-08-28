@@ -2629,8 +2629,8 @@
       },
       "75797868064796": {
         "text": 34,
-        "media": 91,
-        "total": 125
+        "media": 94,
+        "total": 128
       },
       "153764728184839": {
         "text": 2,
@@ -2658,9 +2658,9 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 77,
+        "text": 78,
         "media": 14,
-        "total": 91
+        "total": 92
       },
       "172868239380659": {
         "text": 182,
@@ -2858,9 +2858,9 @@
         "total": 4
       },
       "263797142995147": {
-        "text": 36,
-        "media": 3,
-        "total": 39
+        "text": 38,
+        "media": 4,
+        "total": 42
       }
     },
     "120363428464897153@g.us": {
@@ -9900,8 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Rafael Moura (57707230945348): Bem vindas meninas, nao me maltratem",
-        "Camila Designer (92629643563147): Tava bom demais pra ser verdade",
         "Rafael Moura (57707230945348): Tava mesmo 🤣🤣🤣🤣",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): !ban @279628962885736",
         "Camila Designer (92629643563147): Acho que ela acordou a tempo 🤣🤣🤣",
@@ -10399,7 +10397,9 @@
         "Nanda (263797142995147): assim n tem perigo",
         "Nanda (263797142995147): mn sem contar q as praias em fortal tem cada coisa bonita",
         "Nanda (263797142995147): mais é a noite",
-        "Nanda (263797142995147): queeroo"
+        "Nanda (263797142995147): queeroo",
+        "Nanda (263797142995147): nunca comi, mais se me convidasse eu iria",
+        "Gleydson Souza (274384656834700): Risoto to passando obg pelo convite"
       ]
     },
     "120363428464897153@g.us": {
@@ -17747,6 +17747,18 @@
         "authorName": "Nanda",
         "text": "queeroo",
         "timestamp": 1787926985127
+      },
+      {
+        "authorNum": "263797142995147",
+        "authorName": "Nanda",
+        "text": "nunca comi, mais se me convidasse eu iria",
+        "timestamp": 1787926995503
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Risoto to passando obg pelo convite",
+        "timestamp": 1787927021238
       }
     ],
     "120363428464897153@g.us": [],
@@ -17773,7 +17785,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21786,
+    "120363432018531082@g.us": 21788,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2011,
@@ -142586,6 +142598,18 @@
         "text": "queeroo",
         "pushName": "Nanda",
         "timestamp": 1787926985127
+      },
+      "AC38DFD19254C451A21402DD6A42F4DA": {
+        "sender": "263797142995147@lid",
+        "text": "nunca comi, mais se me convidasse eu iria",
+        "pushName": "Nanda",
+        "timestamp": 1787926995503
+      },
+      "AC3B2E664AEAAC3855BCFB89276C5A69": {
+        "sender": "274384656834700@lid",
+        "text": "Risoto to passando obg pelo convite",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787927021238
       }
     },
     "120363428464897153@g.us": {
@@ -195489,7 +195513,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787926985127,
+    "120363432018531082@g.us": 1787927021238,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787926648480,
