@@ -2803,9 +2803,9 @@
         "total": 155
       },
       "206253020176458": {
-        "text": 27,
+        "text": 28,
         "media": 8,
-        "total": 35
+        "total": 36
       },
       "210152934359048": {
         "text": 16,
@@ -9940,7 +9940,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Pedro Henrique (172868239380659): Uma zoeira saudável daquela",
         "Pedro Henrique (172868239380659): @247020967165997 vc tava brava ?",
         "Rafael Moura (57707230945348): Sei não em",
         "Rafael Moura (57707230945348): Não acho que chamar uma mulher de \"rodada\" seja uma zoeira saudavel, mas aí vai de cada um",
@@ -10439,7 +10438,8 @@
         "Celiete Souza (129373172711439): Nosso clima aqui não é bom",
         "May (227783724793861): Tem que morar em Curitiba",
         "Gleydson Souza (274384656834700): Já vou ver quanto custa as casas por ai kkkk",
-        "Gleydson Souza (274384656834700): Oii"
+        "Gleydson Souza (274384656834700): Oii",
+        "Arthur (206253020176458): Tem q mata"
       ]
     },
     "120363428464897153@g.us": {
@@ -17405,48 +17405,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "274384656834700",
-        "authorName": "Gleydson Souza",
-        "text": "Novidade",
-        "timestamp": 1787934302984
-      },
-      {
-        "authorNum": "274384656834700",
-        "authorName": "Gleydson Souza",
-        "text": "Tarde",
-        "timestamp": 1787934315662
-      },
-      {
-        "authorNum": "227783724793861",
-        "authorName": "May",
-        "text": "Nossa nem sei o que é isso aqui o máximo é 28 e eu acho quente demais haha",
-        "timestamp": 1787934338838
-      },
-      {
-        "authorNum": "274384656834700",
-        "authorName": "Gleydson Souza",
-        "text": "Nuh ia derreter aqui então, ta marcando que ate as 20h vai estar em 30 graus kkkkk",
-        "timestamp": 1787934372827
-      },
-      {
-        "authorNum": "227783724793861",
-        "authorName": "May",
-        "text": "MDS haha",
-        "timestamp": 1787934387180
-      },
-      {
-        "authorNum": "274384656834700",
-        "authorName": "Gleydson Souza",
-        "text": "Pra quem ama chuva que nem eu isso aqui e o inferno kkkk",
-        "timestamp": 1787934429267
-      },
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Nosso clima aqui não é bom",
-        "timestamp": 1787934435046
-      },
-      {
         "authorNum": "227783724793861",
         "authorName": "May",
         "text": "Tem que morar em Curitiba",
@@ -17463,6 +17421,12 @@
         "authorName": "Gleydson Souza",
         "text": "Oii",
         "timestamp": 1787935534817
+      },
+      {
+        "authorNum": "206253020176458",
+        "authorName": "Arthur",
+        "text": "Tem q mata",
+        "timestamp": 1787936396566
       }
     ],
     "120363428464897153@g.us": [],
@@ -17520,7 +17484,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22077,
+    "120363432018531082@g.us": 22078,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2021,
@@ -144059,6 +144023,12 @@
         "text": "Oii",
         "pushName": "Gleydson Souza",
         "timestamp": 1787935534818
+      },
+      "ACE3C2214F576A3DE070EE642A5CA1D4": {
+        "sender": "206253020176458@lid",
+        "text": "Tem q mata",
+        "pushName": "Arthur",
+        "timestamp": 1787936396566
       }
     },
     "120363428464897153@g.us": {
@@ -197106,7 +197076,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787936350867,
+    "120363432018531082@g.us": 1787936396566,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787935011709,
