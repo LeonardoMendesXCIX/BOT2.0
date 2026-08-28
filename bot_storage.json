@@ -2944,9 +2944,9 @@
         "total": 9
       },
       "129373172711439": {
-        "text": 892,
-        "media": 227,
-        "total": 1119
+        "text": 893,
+        "media": 228,
+        "total": 1121
       },
       "16007578021977": {
         "text": 50,
@@ -3292,6 +3292,11 @@
         "text": 26,
         "media": 5,
         "total": 31
+      },
+      "118515428286715": {
+        "text": 1,
+        "media": 1,
+        "total": 2
       }
     },
     "120363409727467494@g.us": {
@@ -13617,7 +13622,9 @@
         "negoh🐻 (120044990287992): Depois de tanto tempo",
         "negoh🐻 (120044990287992): Mas deixei assada tbm",
         "Clayton 🇳🇬 (155503636275307): Palmeiras",
-        "Celiete Souza (129373172711439): Árabes na escuta"
+        "Celiete Souza (129373172711439): Árabes na escuta",
+        "Saul (118515428286715): Boa noite",
+        "Celiete Souza (129373172711439): Vou lá bloquear essa praga"
       ]
     },
     "120363409727467494@g.us": {
@@ -16210,12 +16217,6 @@
       {
         "authorNum": "25520947339303",
         "authorName": "Priscilla 🌻",
-        "text": "Noturno é tranquilo quem trabalha puxado são os meninos da mercearia pra abastecer meu setor é fazer compra por aplicativo",
-        "timestamp": 1787876884630
-      },
-      {
-        "authorNum": "25520947339303",
-        "authorName": "Priscilla 🌻",
         "text": "Em BH kkkk",
         "timestamp": 1787876890462
       },
@@ -16464,6 +16465,18 @@
         "authorName": "Celiete Souza",
         "text": "Árabes na escuta",
         "timestamp": 1787878669397
+      },
+      {
+        "authorNum": "118515428286715",
+        "authorName": "Saul",
+        "text": "Boa noite",
+        "timestamp": 1787878685460
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Vou lá bloquear essa praga",
+        "timestamp": 1787878687597
       }
     ],
     "120363409727467494@g.us": [],
@@ -16604,7 +16617,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 21031,
-    "120363428464897153@g.us": 6083,
+    "120363428464897153@g.us": 6085,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1711,
     "120363411233423709@g.us": 5,
@@ -172627,6 +172640,18 @@
         "text": "Árabes na escuta",
         "pushName": "Celiete Souza",
         "timestamp": 1787878669397
+      },
+      "3A8A2DF79754A1D71219": {
+        "sender": "118515428286715@lid",
+        "text": "Boa noite",
+        "pushName": "Saul",
+        "timestamp": 1787878685460
+      },
+      "AC466131E7AE7E2B0C324664111413E6": {
+        "sender": "129373172711439@lid",
+        "text": "Vou lá bloquear essa praga",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787878687597
       }
     },
     "120363409727467494@g.us": {
@@ -186671,7 +186696,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787878669226,
-    "120363428464897153@g.us": 1787878669397,
+    "120363428464897153@g.us": 1787878687597,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787877736241,
     "120363411233423709@g.us": 1787113553426,
