@@ -698,9 +698,9 @@
         "total": 95
       },
       "57707230945348": {
-        "text": 1210,
+        "text": 1211,
         "media": 225,
-        "total": 1435
+        "total": 1436
       },
       "152218690924790": {
         "text": 309,
@@ -2799,8 +2799,8 @@
       },
       "247020967165997": {
         "text": 96,
-        "media": 25,
-        "total": 121
+        "media": 26,
+        "total": 122
       },
       "206253020176458": {
         "text": 3,
@@ -2814,8 +2814,8 @@
       },
       "221307534876912": {
         "text": 10,
-        "media": 11,
-        "total": 21
+        "media": 12,
+        "total": 22
       }
     },
     "120363428464897153@g.us": {
@@ -10341,7 +10341,8 @@
         "Pedro Henrique (172868239380659): Mas quem tava bravo?",
         "Pedro Henrique (172868239380659): Uma zoeira saudável daquela",
         "Pedro Henrique (172868239380659): @247020967165997 vc tava brava ?",
-        "Rafael Moura (57707230945348): Sei não em"
+        "Rafael Moura (57707230945348): Sei não em",
+        "Rafael Moura (57707230945348): Não acho que chamar uma mulher de \"rodada\" seja uma zoeira saudavel, mas aí vai de cada um"
       ]
     },
     "120363428464897153@g.us": {
@@ -17265,18 +17266,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Tu merece é uma peia",
-        "timestamp": 1787916714447
-      },
-      {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Oxe, tu namora a cada dois meses?",
-        "timestamp": 1787916726596
-      },
-      {
         "authorNum": "172868239380659",
         "authorName": "Pedro Henrique",
         "text": "Kkkkkkkkkkkk",
@@ -18037,6 +18026,12 @@
         "authorName": "Rafael Moura",
         "text": "Sei não em",
         "timestamp": 1787918489272
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Não acho que chamar uma mulher de \"rodada\" seja uma zoeira saudavel, mas aí vai de cada um",
+        "timestamp": 1787918536072
       }
     ],
     "120363428464897153@g.us": [],
@@ -18056,7 +18051,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21579,
+    "120363432018531082@g.us": 21580,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -141640,6 +141635,12 @@
         "text": "Sei não em",
         "pushName": "Rafael Moura",
         "timestamp": 1787918489272
+      },
+      "ACF6970A46F5C9AA003BC18F52D58D04": {
+        "sender": "57707230945348@lid",
+        "text": "Não acho que chamar uma mulher de \"rodada\" seja uma zoeira saudavel, mas aí vai de cada um",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787918536072
       }
     },
     "120363428464897153@g.us": {
@@ -194435,7 +194436,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787918489272,
+    "120363432018531082@g.us": 1787918536232,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
