@@ -173,9 +173,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1575,
+        "text": 1576,
         "media": 428,
-        "total": 2003
+        "total": 2004
       },
       "81991328395336": {
         "text": 3941,
@@ -188,9 +188,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2226,
+        "text": 2227,
         "media": 472,
-        "total": 2698
+        "total": 2699
       },
       "184237705699536": {
         "text": 524,
@@ -1863,9 +1863,9 @@
         "total": 6
       },
       "1395881181241": {
-        "text": 151,
+        "text": 152,
         "media": 5,
-        "total": 156
+        "total": 157
       },
       "198595546501333": {
         "text": 2,
@@ -9950,8 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Souza (190864487919667): Trabalhar né",
-        "Souza (190864487919667): Fortal eu conheço, a outra não",
         "Nanda (263797142995147): eu tô com mo vontade de ir pra praia",
         "Nanda (263797142995147): tomar um sol",
         "Souza (190864487919667): Inveja",
@@ -10449,7 +10447,9 @@
         "Gabriel (145381035905262): O povo inventa 😂😂",
         "Juliano Perlin (222595437858867): Que bomm🙌🏻🤗",
         "Gabriel (145381035905262): @129373172711439  é bom que pensem deste jeito, assim eles não sabem o que realmente faço!",
-        "Celiete Souza (129373172711439): Com certeza 🙏🏼"
+        "Celiete Souza (129373172711439): Com certeza 🙏🏼",
+        "Bruno Aguiar (+1395881181241): Aproveitando a chuva por ai @129373172711439",
+        "Celiete Souza (129373172711439): @145381035905262 sai do emprego kkkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -17469,18 +17469,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "To bemm",
-        "timestamp": 1787939849865
-      },
-      {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "Q faz por ai?",
-        "timestamp": 1787939865810
-      },
-      {
         "authorNum": "81991328395336",
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "@1395881181241 \n@163530946961491 \n@75797868064796 \n@190864487919667 \n@222595437858867",
@@ -18049,6 +18037,18 @@
         "authorName": "Celiete Souza",
         "text": "Com certeza 🙏🏼",
         "timestamp": 1787941646963
+      },
+      {
+        "authorNum": "1395881181241",
+        "authorName": "Bruno Aguiar",
+        "text": "Aproveitando a chuva por ai @129373172711439",
+        "timestamp": 1787941663241
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "@145381035905262 sai do emprego kkkk",
+        "timestamp": 1787941673953
       }
     ],
     "120363428464897153@g.us": [],
@@ -18141,7 +18141,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22245,
+    "120363432018531082@g.us": 22247,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2075,
@@ -145682,6 +145682,18 @@
         "text": "Com certeza 🙏🏼",
         "pushName": "Celiete Souza",
         "timestamp": 1787941646963
+      },
+      "ACB902FFAD97A8D5643CFB934733B058": {
+        "sender": "1395881181241@lid",
+        "text": "Aproveitando a chuva por ai @129373172711439",
+        "pushName": "Bruno Aguiar",
+        "timestamp": 1787941663242
+      },
+      "AC4F9226A59F47258A6961A219B67037": {
+        "sender": "129373172711439@lid",
+        "text": "@145381035905262 sai do emprego kkkk",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787941673953
       }
     },
     "120363428464897153@g.us": {
@@ -199053,7 +199065,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787941646963,
+    "120363432018531082@g.us": 1787941673953,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787940055842,
