@@ -698,9 +698,9 @@
         "total": 95
       },
       "57707230945348": {
-        "text": 1188,
+        "text": 1190,
         "media": 214,
-        "total": 1402
+        "total": 1404
       },
       "152218690924790": {
         "text": 309,
@@ -2663,9 +2663,9 @@
         "total": 77
       },
       "172868239380659": {
-        "text": 130,
+        "text": 131,
         "media": 22,
-        "total": 152
+        "total": 153
       },
       "170455038193841": {
         "text": 1,
@@ -2798,9 +2798,9 @@
         "total": 5
       },
       "247020967165997": {
-        "text": 57,
+        "text": 58,
         "media": 13,
-        "total": 70
+        "total": 71
       },
       "206253020176458": {
         "text": 3,
@@ -2813,9 +2813,9 @@
         "total": 16
       },
       "221307534876912": {
-        "text": 3,
+        "text": 5,
         "media": 3,
-        "total": 6
+        "total": 8
       }
     },
     "120363428464897153@g.us": {
@@ -10238,7 +10238,13 @@
         "𝔞𝔩𝔦𝔫𝔢🫶🏽 (221307534876912): Kkkk",
         "Rafael Moura (57707230945348): Aline so botando lenha na fogueira",
         "Pedro Henrique (172868239380659): Calma, rodada.",
-        "Gabi 💋 (247020967165997): Calma miojo"
+        "Gabi 💋 (247020967165997): Calma miojo",
+        "𝔞𝔩𝔦𝔫𝔢🫶🏽 (221307534876912): Amooo kkkk",
+        "Rafael Moura (57707230945348): @221307534876912 calma vamos ficar de 👀",
+        "Rafael Moura (57707230945348): Cade a doutora",
+        "Pedro Henrique (172868239380659): Vc não come miojo?",
+        "Gabi 💋 (247020967165997): Tu não entendeu",
+        "𝔞𝔩𝔦𝔫𝔢🫶🏽 (221307534876912): Tá vou ficar caladinha aqui"
       ]
     },
     "120363428464897153@g.us": {
@@ -17162,12 +17168,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Oi doutora 😏",
-        "timestamp": 1787915162597
-      },
-      {
         "authorNum": "208958782488665",
         "authorName": "Jessica",
         "text": "Hj já tomo meus psico kkkkk",
@@ -17856,6 +17856,42 @@
         "authorName": "Gabi 💋",
         "text": "Calma miojo",
         "timestamp": 1787916943016
+      },
+      {
+        "authorNum": "221307534876912",
+        "authorName": "𝔞𝔩𝔦𝔫𝔢🫶🏽",
+        "text": "Amooo kkkk",
+        "timestamp": 1787916950695
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "@221307534876912 calma vamos ficar de 👀",
+        "timestamp": 1787916955576
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Cade a doutora",
+        "timestamp": 1787916970128
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Vc não come miojo?",
+        "timestamp": 1787916975186
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Tu não entendeu",
+        "timestamp": 1787916985163
+      },
+      {
+        "authorNum": "221307534876912",
+        "authorName": "𝔞𝔩𝔦𝔫𝔢🫶🏽",
+        "text": "Tá vou ficar caladinha aqui",
+        "timestamp": 1787916986517
       }
     ],
     "120363428464897153@g.us": [],
@@ -17882,7 +17918,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21476,
+    "120363432018531082@g.us": 21482,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -140848,6 +140884,42 @@
         "text": "Calma miojo",
         "pushName": "Gabi 💋",
         "timestamp": 1787916943017
+      },
+      "ACF2D5C968926569DA8FE09E3829FB6F": {
+        "sender": "221307534876912@lid",
+        "text": "Amooo kkkk",
+        "pushName": "𝔞𝔩𝔦𝔫𝔢🫶🏽",
+        "timestamp": 1787916950695
+      },
+      "AC8927898C7E33E83D6F52B339120100": {
+        "sender": "57707230945348@lid",
+        "text": "@221307534876912 calma vamos ficar de 👀",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787916955576
+      },
+      "AC9EB0A38FDC60026A92252C33E06560": {
+        "sender": "57707230945348@lid",
+        "text": "Cade a doutora",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787916970128
+      },
+      "AC9BCF2E68497FFAB3C95E830F86189A": {
+        "sender": "172868239380659@lid",
+        "text": "Vc não come miojo?",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787916975186
+      },
+      "ACB24227D8217B301A35074E710ACE0A": {
+        "sender": "247020967165997@lid",
+        "text": "Tu não entendeu",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787916985163
+      },
+      "AC5347DEB44C98A802C05D69FD5DF365": {
+        "sender": "221307534876912@lid",
+        "text": "Tá vou ficar caladinha aqui",
+        "pushName": "𝔞𝔩𝔦𝔫𝔢🫶🏽",
+        "timestamp": 1787916986517
       }
     },
     "120363428464897153@g.us": {
@@ -193643,7 +193715,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787916943016,
+    "120363432018531082@g.us": 1787916986517,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
