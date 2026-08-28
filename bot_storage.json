@@ -2708,9 +2708,9 @@
         "total": 2
       },
       "108461127897146": {
-        "text": 95,
+        "text": 96,
         "media": 12,
-        "total": 107
+        "total": 108
       },
       "10050861031495": {
         "text": 0,
@@ -3946,8 +3946,8 @@
       },
       "81991328395336": {
         "text": 17,
-        "media": 1003,
-        "total": 1020
+        "media": 1021,
+        "total": 1038
       },
       "145381035905262": {
         "text": 7,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "jaciara (108461127897146): Vim passar alguns meses",
         "F. RicaRdo sAnToS (193729163993156): Tarde moça",
         "Camila Designer (92629643563147): Visitando ou pensando em mudar?",
         "jaciara (108461127897146): Logo logo estou de volta no Goiás",
@@ -10449,7 +10448,8 @@
         "Bruno Aguiar (+1395881181241): São coisas que acontece \nO importante é o resultado final",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Exatamente 😊",
         "Bruno Aguiar (+1395881181241): Por isso acredito que ficou linda",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Muito obrigada 😊"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Muito obrigada 😊",
+        "jaciara (108461127897146): Acho interessante kkkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -17634,6 +17634,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Muito obrigada 😊",
         "timestamp": 1787946967852
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Acho interessante kkkk",
+        "timestamp": 1787947084576
       }
     ],
     "120363428464897153@g.us": [],
@@ -17660,7 +17666,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22343,
+    "120363432018531082@g.us": 22344,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -145777,6 +145783,12 @@
         "text": "Muito obrigada 😊",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787946967852
+      },
+      "ACCCBBBA14062480F2C454411BBE3226": {
+        "sender": "108461127897146@lid",
+        "text": "Acho interessante kkkk",
+        "pushName": "jaciara",
+        "timestamp": 1787947084576
       }
     },
     "120363428464897153@g.us": {
@@ -199250,7 +199262,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787947033292,
+    "120363432018531082@g.us": 1787947084576,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
@@ -199261,7 +199273,7 @@
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1787868477291,
-    "120363409024805409@g.us": 1787947055978,
+    "120363409024805409@g.us": 1787947082909,
     "120363411043114631@g.us": 1787897464612
   },
   "autoAnimSent": {
