@@ -698,9 +698,9 @@
         "total": 95
       },
       "57707230945348": {
-        "text": 1179,
-        "media": 213,
-        "total": 1392
+        "text": 1180,
+        "media": 214,
+        "total": 1394
       },
       "152218690924790": {
         "text": 309,
@@ -2629,8 +2629,8 @@
       },
       "75797868064796": {
         "text": 21,
-        "media": 60,
-        "total": 81
+        "media": 62,
+        "total": 83
       },
       "153764728184839": {
         "text": 2,
@@ -2663,9 +2663,9 @@
         "total": 77
       },
       "172868239380659": {
-        "text": 119,
+        "text": 120,
         "media": 20,
-        "total": 139
+        "total": 140
       },
       "170455038193841": {
         "text": 1,
@@ -2798,9 +2798,9 @@
         "total": 5
       },
       "247020967165997": {
-        "text": 46,
+        "text": 47,
         "media": 11,
-        "total": 57
+        "total": 58
       },
       "206253020176458": {
         "text": 3,
@@ -10203,7 +10203,10 @@
         "Pedro Henrique (172868239380659): Esqueci da comida",
         "Pedro Henrique (172868239380659): Verdade",
         "Souza (190864487919667): KKKKKKKKKKKKKKKKKKKKKK",
-        "Gabi 💋 (247020967165997): Uma pergunta quanto tempo solteiro meu bem. ?"
+        "Gabi 💋 (247020967165997): Uma pergunta quanto tempo solteiro meu bem. ?",
+        "Rafael Moura (57707230945348): Se me chamar pra comer um xtudo na rua eu caso em",
+        "Pedro Henrique (172868239380659): 1 ano",
+        "Gabi 💋 (247020967165997): Bora um podrão"
       ]
     },
     "120363428464897153@g.us": {
@@ -17127,18 +17130,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "No sentido de interagir, gostei",
-        "timestamp": 1787914806616
-      },
-      {
-        "authorNum": "262182034002040",
-        "authorName": "Dany",
-        "text": "Oxi",
-        "timestamp": 1787914808573
-      },
-      {
         "authorNum": "247020967165997",
         "authorName": "Gabi 💋",
         "text": "Oh meu já se foi",
@@ -17755,6 +17746,24 @@
         "authorName": "Gabi 💋",
         "text": "Uma pergunta quanto tempo solteiro meu bem. ?",
         "timestamp": 1787916596253
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Se me chamar pra comer um xtudo na rua eu caso em",
+        "timestamp": 1787916611033
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "1 ano",
+        "timestamp": 1787916611753
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Bora um podrão",
+        "timestamp": 1787916628347
       }
     ],
     "120363428464897153@g.us": [],
@@ -17781,7 +17790,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21441,
+    "120363432018531082@g.us": 21444,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -140537,6 +140546,24 @@
         "text": "Uma pergunta quanto tempo solteiro meu bem. ?",
         "pushName": "Gabi 💋",
         "timestamp": 1787916596253
+      },
+      "ACA7F83A3A100F3548554CC7F9B77070": {
+        "sender": "57707230945348@lid",
+        "text": "Se me chamar pra comer um xtudo na rua eu caso em",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787916611034
+      },
+      "ACD1CEBAFDA2EA7986C7AF6445E89F67": {
+        "sender": "172868239380659@lid",
+        "text": "1 ano",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787916611753
+      },
+      "ACBBFADDCDA0EB405E420F7FB0938DAF": {
+        "sender": "247020967165997@lid",
+        "text": "Bora um podrão",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787916628347
       }
     },
     "120363428464897153@g.us": {
@@ -193332,7 +193359,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787916596253,
+    "120363432018531082@g.us": 1787916629559,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
