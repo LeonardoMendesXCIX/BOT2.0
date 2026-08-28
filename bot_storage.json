@@ -2603,9 +2603,9 @@
         "total": 26
       },
       "190864487919667": {
-        "text": 261,
+        "text": 262,
         "media": 42,
-        "total": 303
+        "total": 304
       },
       "82227819987089": {
         "text": 2,
@@ -2628,9 +2628,9 @@
         "total": 46
       },
       "75797868064796": {
-        "text": 33,
+        "text": 34,
         "media": 91,
-        "total": 124
+        "total": 125
       },
       "153764728184839": {
         "text": 2,
@@ -2858,9 +2858,9 @@
         "total": 4
       },
       "263797142995147": {
-        "text": 23,
-        "media": 2,
-        "total": 25
+        "text": 24,
+        "media": 3,
+        "total": 27
       }
     },
     "120363428464897153@g.us": {
@@ -9900,8 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Nn",
-        "🙃🙃🙃 (11171897864256): 👽 sou do Ceará",
         "Bruno (210152934359048): Nossa tem do Brasil inteiro então uai",
         "Bruno (210152934359048): Kakakaka",
         "Bruno (210152934359048): Bom demais",
@@ -10399,7 +10397,9 @@
         "Camila Designer (92629643563147): Vi que entrou bastante pessoas, sejam todos bem vindos!😌",
         "Souza (190864487919667): Se for só, nem leva celular",
         "eduardo (37826582323373): obrigada",
-        "Bruno Aguiar (+1395881181241): Vc cuida bem de nós ❤️"
+        "Bruno Aguiar (+1395881181241): Vc cuida bem de nós ❤️",
+        "Souza (190864487919667): Ou tome banho próximo dos seus pertences",
+        "Nanda (263797142995147): eu tenho namorado, porém ele trabalha tmb né, normal de todo clt. e a unica amiguinha q tenho q mora perto, tmb trabalha e eu sou ajudante de cuidadora de idosos, n é td dia q trabalho, hj é minha fol"
       ]
     },
     "120363428464897153@g.us": {
@@ -17341,18 +17341,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Ish",
-        "timestamp": 1787925025326
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Ban do nada",
-        "timestamp": 1787925029612
-      },
-      {
         "authorNum": "206253020176458",
         "authorName": "Arthur",
         "text": "Ss e vc como esta",
@@ -17687,6 +17675,18 @@
         "authorName": "Bruno Aguiar",
         "text": "Vc cuida bem de nós ❤️",
         "timestamp": 1787926822002
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Ou tome banho próximo dos seus pertences",
+        "timestamp": 1787926830462
+      },
+      {
+        "authorNum": "263797142995147",
+        "authorName": "Nanda",
+        "text": "eu tenho namorado, porém ele trabalha tmb né, normal de todo clt. e a unica amiguinha q tenho q mora perto, tmb trabalha e eu sou ajudante de cuidadora de idosos, n é td dia q trabalho, hj é minha folga e n tem nd pra fazer",
+        "timestamp": 1787926849125
       }
     ],
     "120363428464897153@g.us": [],
@@ -17713,7 +17713,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21771,
+    "120363432018531082@g.us": 21773,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2011,
@@ -142436,6 +142436,18 @@
         "text": "Vc cuida bem de nós ❤️",
         "pushName": "Bruno Aguiar",
         "timestamp": 1787926822002
+      },
+      "ACAC943E345290B2795E5B5CA9F8236F": {
+        "sender": "190864487919667@lid",
+        "text": "Ou tome banho próximo dos seus pertences",
+        "pushName": "Souza",
+        "timestamp": 1787926830462
+      },
+      "ACDB046D8FD0D089F61A31C66EECC4BC": {
+        "sender": "263797142995147@lid",
+        "text": "eu tenho namorado, porém ele trabalha tmb né, normal de todo clt. e a unica amiguinha q tenho q mora perto, tmb trabalha e eu sou ajudante de cuidadora de idosos, n é td dia q trabalho, hj é minha folga e n tem nd pra fazer",
+        "pushName": "Nanda",
+        "timestamp": 1787926849125
       }
     },
     "120363428464897153@g.us": {
@@ -195339,7 +195351,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787926822002,
+    "120363432018531082@g.us": 1787926852348,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787926648480,
