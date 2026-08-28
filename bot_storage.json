@@ -383,9 +383,9 @@
         "total": 494
       },
       "222595437858867": {
-        "text": 543,
+        "text": 545,
         "media": 56,
-        "total": 599
+        "total": 601
       },
       "83280154103884": {
         "text": 36,
@@ -9950,8 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Arthur (206253020176458): Boaa",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tá sim, e já tá tacando as figurinhas\n@81991328395336",
         "Nanda (263797142995147): 19",
         "Arthur (206253020176458): Vc fazia isso de six seven",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Acesse este link para entrar no meu grupo do WhatsApp: https://chat.whatsapp.com/LjudUJTLkZQDIyER0LAwHJ?s=sh&p=a&mlu=0",
@@ -10449,7 +10447,9 @@
         "Juliano Perlin (222595437858867): Eitaaaa🔥🔥",
         "Juliano Perlin (222595437858867): 🤣🤣",
         "Juliano Perlin (222595437858867): Se nao é pra chegar chegando, eu nem chego",
-        "Gleydson Souza (274384656834700): Boa noite a todos"
+        "Gleydson Souza (274384656834700): Boa noite a todos",
+        "Juliano Perlin (222595437858867): Pronto",
+        "Juliano Perlin (222595437858867): Coneçou a remoçao"
       ]
     },
     "120363428464897153@g.us": {
@@ -17877,6 +17877,18 @@
         "authorName": "Gleydson Souza",
         "text": "Boa noite a todos",
         "timestamp": 1787958555741
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Pronto",
+        "timestamp": 1787958681651
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Coneçou a remoçao",
+        "timestamp": 1787958689921
       }
     ],
     "120363428464897153@g.us": [],
@@ -18197,7 +18209,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22585,
+    "120363432018531082@g.us": 22587,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2177,
@@ -147743,6 +147755,18 @@
         "text": "Boa noite a todos",
         "pushName": "Gleydson Souza",
         "timestamp": 1787958555741
+      },
+      "AC35DF1F2469E887109F8819A64684C0": {
+        "sender": "222595437858867@lid",
+        "text": "Pronto",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1787958681651
+      },
+      "AC6F8587FC7C4E4D33A205742AA5CCC0": {
+        "sender": "222595437858867@lid",
+        "text": "Coneçou a remoçao",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1787958689921
       }
     },
     "120363428464897153@g.us": {
@@ -201774,7 +201798,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787958557327,
+    "120363432018531082@g.us": 1787958689921,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787958481180,
