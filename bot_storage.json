@@ -2663,9 +2663,9 @@
         "total": 82
       },
       "172868239380659": {
-        "text": 167,
+        "text": 170,
         "media": 33,
-        "total": 200
+        "total": 203
       },
       "170455038193841": {
         "text": 1,
@@ -2798,9 +2798,9 @@
         "total": 5
       },
       "247020967165997": {
-        "text": 105,
+        "text": 106,
         "media": 28,
-        "total": 133
+        "total": 134
       },
       "206253020176458": {
         "text": 3,
@@ -9855,10 +9855,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "SiLvAa 🕸️ (214375055007755): Obrigada",
-        "Gabriel (145381035905262): Como é amigo, bissexual",
-        "SiLvAa 🕸️ (214375055007755): sente atração tanto por homem quanto por mulher",
-        "Gabriel (145381035905262): Tô ligado",
         "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Boa noite a todos",
         "🦅⚡️😍 (163686253629557): 👀",
         "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): 👀",
@@ -10354,7 +10350,11 @@
         "Pedro Henrique (172868239380659): Pow acho que morrer assim é muita humilhação, imagina o bombeiro te ver pelado com o negócio mole",
         "Gabi 💋 (247020967165997): Menino ele foi cortado",
         "Gabi 💋 (247020967165997): Tá na Netflix",
-        "Gabi 💋 (247020967165997): Olha lá o filme"
+        "Gabi 💋 (247020967165997): Olha lá o filme",
+        "Pedro Henrique (172868239380659): Qual o nome?",
+        "Pedro Henrique (172868239380659): Do filme",
+        "Gabi 💋 (247020967165997): Elize matsunaga ksksks",
+        "Pedro Henrique (172868239380659): Ave Maria"
       ]
     },
     "120363428464897153@g.us": {
@@ -17280,30 +17280,6 @@
       {
         "authorNum": "57707230945348",
         "authorName": "Rafael Moura",
-        "text": "Aline so botando lenha na fogueira",
-        "timestamp": 1787916926465
-      },
-      {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Calma, rodada.",
-        "timestamp": 1787916934933
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Calma miojo",
-        "timestamp": 1787916943016
-      },
-      {
-        "authorNum": "221307534876912",
-        "authorName": "𝔞𝔩𝔦𝔫𝔢🫶🏽",
-        "text": "Amooo kkkk",
-        "timestamp": 1787916950695
-      },
-      {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
         "text": "@221307534876912 calma vamos ficar de 👀",
         "timestamp": 1787916955576
       },
@@ -18008,6 +17984,30 @@
         "authorName": "Gabi 💋",
         "text": "Olha lá o filme",
         "timestamp": 1787918726056
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Qual o nome?",
+        "timestamp": 1787918732456
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Do filme",
+        "timestamp": 1787918736958
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Elize matsunaga ksksks",
+        "timestamp": 1787918746498
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Ave Maria",
+        "timestamp": 1787918751964
       }
     ],
     "120363428464897153@g.us": [],
@@ -18027,7 +18027,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21595,
+    "120363432018531082@g.us": 21599,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -141707,6 +141707,30 @@
         "text": "Olha lá o filme",
         "pushName": "Gabi 💋",
         "timestamp": 1787918726056
+      },
+      "ACA0FBC6A2CAAF2C1F212B3F320102CB": {
+        "sender": "172868239380659@lid",
+        "text": "Qual o nome?",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787918732457
+      },
+      "AC95E29E950224396C1BF93C6E7F915D": {
+        "sender": "172868239380659@lid",
+        "text": "Do filme",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787918736958
+      },
+      "ACCD4A9DAFB5895AE606F11158403462": {
+        "sender": "247020967165997@lid",
+        "text": "Elize matsunaga ksksks",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787918746498
+      },
+      "AC7901BBFFE7FBB85A52F45E997EA425": {
+        "sender": "172868239380659@lid",
+        "text": "Ave Maria",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787918751964
       }
     },
     "120363428464897153@g.us": {
@@ -194502,7 +194526,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787918726056,
+    "120363432018531082@g.us": 1787918751964,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
