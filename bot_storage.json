@@ -253,9 +253,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1498,
-        "media": 1113,
-        "total": 2611
+        "text": 1499,
+        "media": 1115,
+        "total": 2614
       },
       "3126803329115": {
         "text": 87,
@@ -2603,9 +2603,9 @@
         "total": 29
       },
       "190864487919667": {
-        "text": 275,
+        "text": 276,
         "media": 42,
-        "total": 317
+        "total": 318
       },
       "82227819987089": {
         "text": 2,
@@ -2708,9 +2708,9 @@
         "total": 2
       },
       "108461127897146": {
-        "text": 28,
+        "text": 31,
         "media": 4,
-        "total": 32
+        "total": 35
       },
       "10050861031495": {
         "text": 0,
@@ -9900,10 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Gabi 💋 (247020967165997): Oh meu já se foi",
-        "Dany (262182034002040): Oi amor!",
-        "Gabi 💋 (247020967165997): Acabei com ele no mesmo dia",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Sou do Maranhão",
         "Rafael Moura (57707230945348): Nossa senhora",
         "Dany (262182034002040): Hahahahha",
         "Rafael Moura (57707230945348): Eu preciso dosar o uso pq senão acaba em 5 dias",
@@ -10399,7 +10395,11 @@
         "jaciara (108461127897146): Cê tá bem ?",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Já tomeeeeei 😂😂",
         "Camila Designer (92629643563147): Sim ☺️",
-        "Camila Designer (92629643563147): E com você @108461127897146 ?"
+        "Camila Designer (92629643563147): E com você @108461127897146 ?",
+        "Souza (190864487919667): Tô bem e você? Como anda Goiânia?",
+        "jaciara (108461127897146): Estou bem graças a Deus",
+        "jaciara (108461127897146): Que bom , eu estou bem",
+        "jaciara (108461127897146): Estou no Maranhão"
       ]
     },
     "120363428464897153@g.us": {
@@ -17342,12 +17342,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "274384656834700",
-        "authorName": "Gleydson Souza",
-        "text": "Risoto to passando obg pelo convite",
-        "timestamp": 1787927021238
-      },
-      {
         "authorNum": "190864487919667",
         "authorName": "Souza",
         "text": "Tem dinheiro pra te sequestrarem?",
@@ -17646,6 +17640,30 @@
         "authorName": "Camila Designer",
         "text": "E com você @108461127897146 ?",
         "timestamp": 1787928815779
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Tô bem e você? Como anda Goiânia?",
+        "timestamp": 1787928821275
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Estou bem graças a Deus",
+        "timestamp": 1787928833747
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Que bom , eu estou bem",
+        "timestamp": 1787928841518
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Estou no Maranhão",
+        "timestamp": 1787928848360
       }
     ],
     "120363428464897153@g.us": [],
@@ -17672,7 +17690,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21838,
+    "120363432018531082@g.us": 21842,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -142790,6 +142808,30 @@
         "text": "E com você @108461127897146 ?",
         "pushName": "Camila Designer",
         "timestamp": 1787928815779
+      },
+      "AC149A0F3C0243F6737CE69DA3C9287A": {
+        "sender": "190864487919667@lid",
+        "text": "Tô bem e você? Como anda Goiânia?",
+        "pushName": "Souza",
+        "timestamp": 1787928821275
+      },
+      "AC569D7691ED7CDA3EBA0AAC7E2D4225": {
+        "sender": "108461127897146@lid",
+        "text": "Estou bem graças a Deus",
+        "pushName": "jaciara",
+        "timestamp": 1787928833747
+      },
+      "AC38E19B53B0DB030AB7F843C3F01369": {
+        "sender": "108461127897146@lid",
+        "text": "Que bom , eu estou bem",
+        "pushName": "jaciara",
+        "timestamp": 1787928841518
+      },
+      "ACBE05F76848C21896D363A78776C432": {
+        "sender": "108461127897146@lid",
+        "text": "Estou no Maranhão",
+        "pushName": "jaciara",
+        "timestamp": 1787928848360
       }
     },
     "120363428464897153@g.us": {
@@ -195699,7 +195741,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787928815779,
+    "120363432018531082@g.us": 1787928848360,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
