@@ -698,9 +698,9 @@
         "total": 95
       },
       "57707230945348": {
-        "text": 1180,
+        "text": 1182,
         "media": 214,
-        "total": 1394
+        "total": 1396
       },
       "152218690924790": {
         "text": 309,
@@ -2798,9 +2798,9 @@
         "total": 5
       },
       "247020967165997": {
-        "text": 47,
+        "text": 49,
         "media": 11,
-        "total": 58
+        "total": 60
       },
       "206253020176458": {
         "text": 3,
@@ -10206,7 +10206,11 @@
         "Gabi 💋 (247020967165997): Uma pergunta quanto tempo solteiro meu bem. ?",
         "Rafael Moura (57707230945348): Se me chamar pra comer um xtudo na rua eu caso em",
         "Pedro Henrique (172868239380659): 1 ano",
-        "Gabi 💋 (247020967165997): Bora um podrão"
+        "Gabi 💋 (247020967165997): Bora um podrão",
+        "Rafael Moura (57707230945348): Bastante gordura",
+        "Rafael Moura (57707230945348): 🤣",
+        "Gabi 💋 (247020967165997): Eita entendi foi tudo",
+        "Gabi 💋 (247020967165997): E muito molho verde"
       ]
     },
     "120363428464897153@g.us": {
@@ -17764,6 +17768,30 @@
         "authorName": "Gabi 💋",
         "text": "Bora um podrão",
         "timestamp": 1787916628347
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Bastante gordura",
+        "timestamp": 1787916640013
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "🤣",
+        "timestamp": 1787916644392
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Eita entendi foi tudo",
+        "timestamp": 1787916646685
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "E muito molho verde",
+        "timestamp": 1787916652859
       }
     ],
     "120363428464897153@g.us": [],
@@ -17790,7 +17818,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21444,
+    "120363432018531082@g.us": 21448,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -140564,6 +140592,30 @@
         "text": "Bora um podrão",
         "pushName": "Gabi 💋",
         "timestamp": 1787916628347
+      },
+      "ACFBD71E2DF42E6B344CE2CB288E4E38": {
+        "sender": "57707230945348@lid",
+        "text": "Bastante gordura",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787916640014
+      },
+      "ACB45BD7A4BE450302A7E46934D0B8C6": {
+        "sender": "57707230945348@lid",
+        "text": "🤣",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787916644392
+      },
+      "AC886C1F3523C454602AD044CFCDE966": {
+        "sender": "247020967165997@lid",
+        "text": "Eita entendi foi tudo",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787916646685
+      },
+      "ACB6F90B9E16645B70E283F57AEFF954": {
+        "sender": "247020967165997@lid",
+        "text": "E muito molho verde",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787916652859
       }
     },
     "120363428464897153@g.us": {
@@ -193359,7 +193411,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787916629559,
+    "120363432018531082@g.us": 1787916652859,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
