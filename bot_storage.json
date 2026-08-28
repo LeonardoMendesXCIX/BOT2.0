@@ -253,9 +253,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1515,
+        "text": 1516,
         "media": 1127,
-        "total": 2642
+        "total": 2643
       },
       "3126803329115": {
         "text": 87,
@@ -2673,9 +2673,9 @@
         "total": 3
       },
       "193729163993156": {
-        "text": 46,
+        "text": 47,
         "media": 26,
-        "total": 72
+        "total": 73
       },
       "151582733820115": {
         "text": 5,
@@ -9950,8 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Arthur (206253020176458): Paz, saúde e muita felicidade e alegria",
-        "jaciara (108461127897146): Amém 🙏🏼",
         "Jessica (208958782488665): Que linda que venha com saude",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Parabéns amiga, que venha com muita saúde viu?",
         "~Gará (83911531044906): Desculpe a pergunta.\nOq aconteceu cm o pai da princesa?",
@@ -10449,7 +10447,9 @@
         "jaciara (108461127897146): Lindona",
         "Celiete Souza (129373172711439): Obrigada amada",
         "Gabriel Ohi (90130358485223): A loira mais linda desse grupo 🤭🤭🤭",
-        "Camila Designer (92629643563147): Maravilhosa"
+        "Camila Designer (92629643563147): Maravilhosa",
+        "Camila Designer (92629643563147): Hoje dia de sair com as amigas 😌",
+        "F. RicaRdo sAnToS (193729163993156): Eu voy dormir un poquito más"
       ]
     },
     "120363428464897153@g.us": {
@@ -17899,6 +17899,18 @@
         "authorName": "Camila Designer",
         "text": "Maravilhosa",
         "timestamp": 1787948775963
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Hoje dia de sair com as amigas 😌",
+        "timestamp": 1787948824987
+      },
+      {
+        "authorNum": "193729163993156",
+        "authorName": "F. RicaRdo sAnToS",
+        "text": "Eu voy dormir un poquito más",
+        "timestamp": 1787948838552
       }
     ],
     "120363428464897153@g.us": [],
@@ -17925,7 +17937,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22412,
+    "120363432018531082@g.us": 22414,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -146456,6 +146468,18 @@
         "text": "Maravilhosa",
         "pushName": "Camila Designer",
         "timestamp": 1787948775963
+      },
+      "2AE5A69E37F2DDBFE388": {
+        "sender": "92629643563147@lid",
+        "text": "Hoje dia de sair com as amigas 😌",
+        "pushName": "Camila Designer",
+        "timestamp": 1787948824988
+      },
+      "ACF38620F153BB5C86866F294D1A318A": {
+        "sender": "193729163993156@lid",
+        "text": "Eu voy dormir un poquito más",
+        "pushName": "F. RicaRdo sAnToS",
+        "timestamp": 1787948838552
       }
     },
     "120363428464897153@g.us": {
@@ -199935,7 +199959,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787948795696,
+    "120363432018531082@g.us": 1787948838552,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
