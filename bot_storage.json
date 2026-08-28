@@ -3346,14 +3346,14 @@
         "total": 1
       },
       "190864487919667": {
-        "text": 64,
+        "text": 65,
         "media": 13,
-        "total": 77
+        "total": 78
       },
       "118515428286715": {
-        "text": 19,
+        "text": 21,
         "media": 3,
-        "total": 22
+        "total": 24
       },
       "274384656834700": {
         "text": 31,
@@ -3420,9 +3420,9 @@
         "total": 580
       },
       "5511927018683": {
-        "text": 501,
+        "text": 502,
         "media": 95,
-        "total": 596
+        "total": 597
       },
       "145381035905262": {
         "text": 409,
@@ -13896,7 +13896,10 @@
         "Joseph (76914341503187): sei nem oq é isso",
         "Jean Correa (16007578021977): Eu sei",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Eu já",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Até chamei a @53537388122141 pra fazer no conexão"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Até chamei a @53537388122141 pra fazer no conexão",
+        "Saul (118515428286715): Seria legal, mas, acho que alguns levariam para um lado errado lkkkk",
+        "Saul (118515428286715): Deixei quieto",
+        "Souza (190864487919667): Vou é dormir"
       ]
     },
     "120363409727467494@g.us": {
@@ -16101,7 +16104,8 @@
         "Leandro (+55 (11) 92701-8683): Sem zoeira nenhuma",
         "Leandro (+55 (11) 92701-8683): Ainda pensei \"tô com a mente poluída\"",
         "Gabriel (145381035905262): Vocês tão muito fafadin",
-        "Gabriel (145381035905262): Agora confundir meu sobrenome foi puta sacanagem"
+        "Gabriel (145381035905262): Agora confundir meu sobrenome foi puta sacanagem",
+        "Leandro (+55 (11) 92701-8683): Não foi proposital"
       ]
     },
     "120363411233423709@g.us": {
@@ -16664,28 +16668,28 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Até chamei a @53537388122141 pra fazer no conexão",
         "timestamp": 1787888215348
+      },
+      {
+        "authorNum": "118515428286715",
+        "authorName": "Saul",
+        "text": "Seria legal, mas, acho que alguns levariam para um lado errado lkkkk",
+        "timestamp": 1787888252036
+      },
+      {
+        "authorNum": "118515428286715",
+        "authorName": "Saul",
+        "text": "Deixei quieto",
+        "timestamp": 1787888258256
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Vou é dormir",
+        "timestamp": 1787888264121
       }
     ],
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "A pronto. O Lucas, que o povo inventa que sou casada\nComo assim tu não sabe? Kkkkkkk",
-        "timestamp": 1787886414008
-      },
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Pra tu vê, não sei de nada disso",
-        "timestamp": 1787886430462
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Ele é filho, de um pai, de um avô, de um bisavô, de um tataravô... De alguém aí",
-        "timestamp": 1787886433383
-      },
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
@@ -17291,6 +17295,12 @@
         "authorName": "Gabriel",
         "text": "Agora confundir meu sobrenome foi puta sacanagem",
         "timestamp": 1787888160271
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Não foi proposital",
+        "timestamp": 1787888236776
       }
     ],
     "120363411233423709@g.us": [],
@@ -17320,9 +17330,9 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 21094,
-    "120363428464897153@g.us": 6264,
+    "120363428464897153@g.us": 6267,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1921,
+    "120363412288900422@g.us": 1922,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -174775,6 +174785,24 @@
         "text": "Até chamei a @53537388122141 pra fazer no conexão",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787888215349
+      },
+      "3A070898017A030C76F6": {
+        "sender": "118515428286715@lid",
+        "text": "Seria legal, mas, acho que alguns levariam para um lado errado lkkkk",
+        "pushName": "Saul",
+        "timestamp": 1787888252036
+      },
+      "3AFF105D3D50CF4D55CB": {
+        "sender": "118515428286715@lid",
+        "text": "Deixei quieto",
+        "pushName": "Saul",
+        "timestamp": 1787888258256
+      },
+      "ACB5B9B2C4391597751474F01280DC92": {
+        "sender": "190864487919667@lid",
+        "text": "Vou é dormir",
+        "pushName": "Souza",
+        "timestamp": 1787888264121
       }
     },
     "120363409727467494@g.us": {
@@ -187505,6 +187533,12 @@
         "text": "Agora confundir meu sobrenome foi puta sacanagem",
         "pushName": "Gabriel",
         "timestamp": 1787888160271
+      },
+      "A56761A3E882763105B8F31C65E14F75": {
+        "sender": "54259127210155@lid",
+        "text": "Não foi proposital",
+        "pushName": "Leandro",
+        "timestamp": 1787888236776
       }
     },
     "120363411233423709@g.us": {
@@ -190121,9 +190155,9 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787887872075,
-    "120363428464897153@g.us": 1787888215348,
+    "120363428464897153@g.us": 1787888264121,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787888160271,
+    "120363412288900422@g.us": 1787888236776,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
