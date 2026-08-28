@@ -2752,6 +2752,11 @@
         "text": 2,
         "media": 0,
         "total": 2
+      },
+      "274324023984314": {
+        "text": 2,
+        "media": 0,
+        "total": 2
       }
     },
     "120363428464897153@g.us": {
@@ -3435,9 +3440,9 @@
         "total": 620
       },
       "145381035905262": {
-        "text": 432,
+        "text": 433,
         "media": 150,
-        "total": 582
+        "total": 583
       },
       "53537388122141": {
         "text": 769,
@@ -16177,7 +16182,8 @@
         "Leandro (+55 (11) 92701-8683): Ela ia mandar tu botar a mão em cima da mesa e ia cortar dedo por dedo seu",
         "Gabriel (145381035905262): A Milena é carinhosa, tua mulher é bruta",
         "Leandro (+55 (11) 92701-8683): Rústica*",
-        "Gabriel (145381035905262): Isso aí"
+        "Gabriel (145381035905262): Isso aí",
+        "Gabriel (145381035905262): Mano, tu risca um dedo pra fora da faixa tu tá fodidoooo"
       ]
     },
     "120363411233423709@g.us": {
@@ -16843,18 +16849,6 @@
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Atualizou meu RG na palhoça, @145381035905262 \nMas sou nascida em Floripa",
-        "timestamp": 1787887991582
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Li Gabriel navara",
-        "timestamp": 1787888010073
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Amiga, tu tá bem?",
         "timestamp": 1787888042905
       },
@@ -17139,6 +17133,12 @@
         "authorName": "Gabriel",
         "text": "Isso aí",
         "timestamp": 1787889791320
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Mano, tu risca um dedo pra fora da faixa tu tá fodidoooo",
+        "timestamp": 1787889817361
       }
     ],
     "120363411233423709@g.us": [],
@@ -17157,7 +17157,7 @@
     "120363432018531082@g.us": 21105,
     "120363428464897153@g.us": 6279,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1961,
+    "120363412288900422@g.us": 1962,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -187736,6 +187736,12 @@
         "text": "Isso aí",
         "pushName": "Gabriel",
         "timestamp": 1787889791320
+      },
+      "ACCAF1E2145ED5CCE73797B0F9B2AAC9": {
+        "sender": "145381035905262@lid",
+        "text": "Mano, tu risca um dedo pra fora da faixa tu tá fodidoooo",
+        "pushName": "Gabriel",
+        "timestamp": 1787889817361
       }
     },
     "120363411233423709@g.us": {
@@ -190351,10 +190357,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787889799927,
+    "120363432018531082@g.us": 1787889878462,
     "120363428464897153@g.us": 1787889775812,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787889810584,
+    "120363412288900422@g.us": 1787889817361,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
