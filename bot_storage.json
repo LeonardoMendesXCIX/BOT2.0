@@ -1953,9 +1953,9 @@
         "total": 5
       },
       "83911531044906": {
-        "text": 49,
+        "text": 50,
         "media": 2,
-        "total": 51
+        "total": 52
       },
       "172864548434113": {
         "text": 42,
@@ -2603,9 +2603,9 @@
         "total": 29
       },
       "190864487919667": {
-        "text": 282,
+        "text": 283,
         "media": 42,
-        "total": 324
+        "total": 325
       },
       "82227819987089": {
         "text": 2,
@@ -2673,9 +2673,9 @@
         "total": 3
       },
       "193729163993156": {
-        "text": 26,
+        "text": 27,
         "media": 6,
-        "total": 32
+        "total": 33
       },
       "151582733820115": {
         "text": 5,
@@ -2708,9 +2708,9 @@
         "total": 2
       },
       "108461127897146": {
-        "text": 47,
+        "text": 48,
         "media": 4,
-        "total": 51
+        "total": 52
       },
       "10050861031495": {
         "text": 0,
@@ -9900,9 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Pedro Henrique (172868239380659): Cabaré é certo",
-        "Rafael Moura (57707230945348): Polemicas",
-        "Alexandre Bastos (75797868064796): Então no cabaré vc beija kkk",
         "Gabi 💋 (247020967165997): O bom que não tem a conversa estranha né e a mulher não vai reclamar se foi ruim",
         "Rafael Moura (57707230945348): Vai comentar com as amigas rsrs",
         "Souza (190864487919667): 👀",
@@ -10399,7 +10396,10 @@
         "F. RicaRdo sAnToS (193729163993156): 🤣🤣",
         "~Gará (83911531044906): Oxee",
         "jaciara (108461127897146): O que ?",
-        "Souza (190864487919667): Já sou pai já, com muito orgulho"
+        "Souza (190864487919667): Já sou pai já, com muito orgulho",
+        "Souza (190864487919667): Vê com a Sabrina",
+        "F. RicaRdo sAnToS (193729163993156): Aoooo",
+        "~Gará (83911531044906): Eu posso ser o pai..🫢"
       ]
     },
     "120363428464897153@g.us": {
@@ -17712,6 +17712,24 @@
         "authorName": "Souza",
         "text": "Já sou pai já, com muito orgulho",
         "timestamp": 1787929123797
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Vê com a Sabrina",
+        "timestamp": 1787929134571
+      },
+      {
+        "authorNum": "193729163993156",
+        "authorName": "F. RicaRdo sAnToS",
+        "text": "Aoooo",
+        "timestamp": 1787929136842
+      },
+      {
+        "authorNum": "83911531044906",
+        "authorName": "~Gará",
+        "text": "Eu posso ser o pai..🫢",
+        "timestamp": 1787929158545
       }
     ],
     "120363428464897153@g.us": [],
@@ -17738,7 +17756,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21872,
+    "120363432018531082@g.us": 21875,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -143060,6 +143078,24 @@
         "text": "Já sou pai já, com muito orgulho",
         "pushName": "Souza",
         "timestamp": 1787929123797
+      },
+      "AC3B29B7F67228788FCB97C5A2BDAA01": {
+        "sender": "190864487919667@lid",
+        "text": "Vê com a Sabrina",
+        "pushName": "Souza",
+        "timestamp": 1787929134571
+      },
+      "AC43C9F235A817F8D7F9C4862F8E8F4C": {
+        "sender": "193729163993156@lid",
+        "text": "Aoooo",
+        "pushName": "F. RicaRdo sAnToS",
+        "timestamp": 1787929136842
+      },
+      "ACA46E6744681D2A89EE6A51755C8F6A": {
+        "sender": "83911531044906@lid",
+        "text": "Eu posso ser o pai..🫢",
+        "pushName": "~Gará",
+        "timestamp": 1787929158545
       }
     },
     "120363428464897153@g.us": {
@@ -195969,7 +196005,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787929123797,
+    "120363432018531082@g.us": 1787929158545,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
