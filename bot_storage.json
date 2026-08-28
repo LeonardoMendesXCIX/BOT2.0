@@ -2673,9 +2673,9 @@
         "total": 3
       },
       "193729163993156": {
-        "text": 38,
+        "text": 39,
         "media": 7,
-        "total": 45
+        "total": 46
       },
       "151582733820115": {
         "text": 5,
@@ -2708,9 +2708,9 @@
         "total": 2
       },
       "108461127897146": {
-        "text": 66,
+        "text": 68,
         "media": 7,
-        "total": 73
+        "total": 75
       },
       "10050861031495": {
         "text": 0,
@@ -9900,8 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Souza (190864487919667): Receba",
-        "Pedro Henrique (172868239380659): 980- diária do chalé\n250- lavagem do carro e da gasolina",
         "Pedro Henrique (172868239380659): É o que eu tô lembrando no momento",
         "Gabi 💋 (247020967165997): Fala o Pix",
         "Alexandre Bastos (75797868064796): Só isso",
@@ -10399,7 +10397,9 @@
         "~Gará (83911531044906): Ainda mais quem maltrata uma mulher grávida.\nQue esta carregando um filho dele.",
         "F. RicaRdo sAnToS (193729163993156): Boa tarde pra quem fica....ótima sexta-feira",
         "~Gará (83911531044906): Pra ti também",
-        "🙃🙃🙃 (11171897864256): A menina nasce quando ???"
+        "🙃🙃🙃 (11171897864256): A menina nasce quando ???",
+        "jaciara (108461127897146): Final de novembro ou começo de dezembro",
+        "jaciara (108461127897146): Logo logo"
       ]
     },
     "120363428464897153@g.us": {
@@ -17342,12 +17342,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "83911531044906",
-        "authorName": "~Gará",
-        "text": "Tamos juntos nessa então",
-        "timestamp": 1787928284792
-      },
-      {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
         "text": "Tipo, me siga para mais dicas 🤣🤣🤣🤣",
@@ -18000,18 +17994,23 @@
         "authorName": "🙃🙃🙃",
         "text": "A menina nasce quando ???",
         "timestamp": 1787930069791
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Final de novembro ou começo de dezembro",
+        "timestamp": 1787930090447
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Logo logo",
+        "timestamp": 1787930094629
       }
     ],
     "120363428464897153@g.us": [],
     "120363409727467494@g.us": [],
-    "120363412288900422@g.us": [
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Vou atrás pra ver também",
-        "timestamp": 1787928156943
-      }
-    ],
+    "120363412288900422@g.us": [],
     "120363411233423709@g.us": [],
     "120363428079168524@g.us": [],
     "120363411246936023@g.us": [],
@@ -18026,7 +18025,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21929,
+    "120363432018531082@g.us": 21931,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -143690,6 +143689,18 @@
         "text": "A menina nasce quando ???",
         "pushName": "🙃🙃🙃",
         "timestamp": 1787930069792
+      },
+      "AC23E3606069279883631E76FDB50C20": {
+        "sender": "108461127897146@lid",
+        "text": "Final de novembro ou começo de dezembro",
+        "pushName": "jaciara",
+        "timestamp": 1787930090448
+      },
+      "ACEE81C683E9CBF25F4DCC70A6D2D79F": {
+        "sender": "108461127897146@lid",
+        "text": "Logo logo",
+        "pushName": "jaciara",
+        "timestamp": 1787930094629
       }
     },
     "120363428464897153@g.us": {
@@ -196599,7 +196610,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787930069791,
+    "120363432018531082@g.us": 1787930094629,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
