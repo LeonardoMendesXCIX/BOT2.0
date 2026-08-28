@@ -274,9 +274,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2223,
-        "media": 298,
-        "total": 2521
+        "text": 2224,
+        "media": 300,
+        "total": 2524
       },
       "252922705240205": {
         "text": 80,
@@ -9267,7 +9267,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Souza (190864487919667): Defeito seu zoio",
         "Souza (190864487919667): Respeita o timão",
         "Milena B. Costa (233161007071346): Traiçoeira é as tuas! Oxe!",
         "Beatriz Ferreira 🦅 (262456945414267): Qualidade",
@@ -9766,7 +9765,8 @@
         "Leandro (+55 (11) 92701-8683): O bot e o desenvolvedor dele se entendendo",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Apaga y apaga",
         "Leandro (+55 (11) 92701-8683): Informações confidenciais 😌",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Chatice isso sim"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Chatice isso sim",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ]
     },
     "120363428464897153@g.us": {
@@ -16338,12 +16338,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Boa noite meu patrão! 🫡",
-        "timestamp": 1787883100683
-      },
-      {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "@81991328395336",
@@ -16540,6 +16534,12 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Chatice isso sim",
         "timestamp": 1787884842140
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Mona, TPM?",
+        "timestamp": 1787884902503
       }
     ],
     "120363428464897153@g.us": [
@@ -16765,7 +16765,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21091,
+    "120363432018531082@g.us": 21092,
     "120363428464897153@g.us": 6227,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1736,
@@ -137445,6 +137445,12 @@
         "text": "Chatice isso sim",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787884842140
+      },
+      "ACFEE11461059346423CDB8E740BAECC": {
+        "sender": "53537388122141@lid",
+        "text": "Mona, TPM?",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787884902504
       }
     },
     "120363428464897153@g.us": {
@@ -188186,7 +188192,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787884858016,
+    "120363432018531082@g.us": 1787884904333,
     "120363428464897153@g.us": 1787884627779,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787884390062,
