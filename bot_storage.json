@@ -3376,9 +3376,9 @@
         "total": 5
       },
       "193729163993156": {
-        "text": 3,
+        "text": 4,
         "media": 0,
-        "total": 3
+        "total": 4
       }
     },
     "120363409727467494@g.us": {
@@ -3415,9 +3415,9 @@
         "total": 554
       },
       "5511927018683": {
-        "text": 453,
-        "media": 78,
-        "total": 531
+        "text": 455,
+        "media": 80,
+        "total": 535
       },
       "145381035905262": {
         "text": 369,
@@ -3425,9 +3425,9 @@
         "total": 513
       },
       "53537388122141": {
-        "text": 701,
+        "text": 702,
         "media": 55,
-        "total": 756
+        "total": 757
       },
       "120363412288900422": {
         "text": 1,
@@ -13849,7 +13849,8 @@
         "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Boa noite!!",
         "F. RicaRdo sAnToS (193729163993156): Boua noite gurizada fandangueira",
         "F. RicaRdo sAnToS (193729163993156): Ótimo descanso a todas",
-        "F. RicaRdo sAnToS (193729163993156): Fuiii"
+        "F. RicaRdo sAnToS (193729163993156): Fuiii",
+        "F. RicaRdo sAnToS (193729163993156): Até semana que vem"
       ]
     },
     "120363409727467494@g.us": {
@@ -15882,7 +15883,10 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Ah eu quero sim",
         "Leandro (+55 (11) 92701-8683): Aceita e já dá !ban logo em seguida",
         "Leandro (+55 (11) 92701-8683): Pronto, aí não entra mais",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Cês acreditam que a Denize foi atrás do Lucas hoje?"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Cês acreditam que a Denize foi atrás do Lucas hoje?",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): O bichinho não tem um minuto de paz nas redes sociais dele.",
+        "Leandro (+55 (11) 92701-8683): E ela foi pra dizer o que?",
+        "Leandro (+55 (11) 92701-8683): \"oi\"?"
       ]
     },
     "120363411233423709@g.us": {
@@ -16618,16 +16622,16 @@
         "authorName": "F. RicaRdo sAnToS",
         "text": "Fuiii",
         "timestamp": 1787885144126
+      },
+      {
+        "authorNum": "193729163993156",
+        "authorName": "F. RicaRdo sAnToS",
+        "text": "Até semana que vem",
+        "timestamp": 1787885154095
       }
     ],
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Deixei o conexão liberado para o pessoal entrar, como o bot tá operando normalmente, aí ele vai mandar a ficha de apresentação",
-        "timestamp": 1787883349278
-      },
       {
         "authorNum": "5511927018683",
         "authorName": "Leandro",
@@ -16831,6 +16835,24 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Cês acreditam que a Denize foi atrás do Lucas hoje?",
         "timestamp": 1787885138807
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "O bichinho não tem um minuto de paz nas redes sociais dele.",
+        "timestamp": 1787885153576
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "E ela foi pra dizer o que?",
+        "timestamp": 1787885167601
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "\"oi\"?",
+        "timestamp": 1787885170847
       }
     ],
     "120363411233423709@g.us": [],
@@ -16854,9 +16876,9 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 21092,
-    "120363428464897153@g.us": 6228,
+    "120363428464897153@g.us": 6229,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1751,
+    "120363412288900422@g.us": 1754,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -174081,6 +174103,12 @@
         "text": "Fuiii",
         "pushName": "F. RicaRdo sAnToS",
         "timestamp": 1787885144126
+      },
+      "ACCDA2C88AE9376F5325016A9EB6AB27": {
+        "sender": "193729163993156@lid",
+        "text": "Até semana que vem",
+        "pushName": "F. RicaRdo sAnToS",
+        "timestamp": 1787885154096
       }
     },
     "120363409727467494@g.us": {
@@ -185791,6 +185819,24 @@
         "text": "Cês acreditam que a Denize foi atrás do Lucas hoje?",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787885138807
+      },
+      "AC56BB2AEF6734463B9F4ACAC5A3431C": {
+        "sender": "53537388122141@lid",
+        "text": "O bichinho não tem um minuto de paz nas redes sociais dele.",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787885153576
+      },
+      "A58D9F8F152F759295AA4EB1259822AA": {
+        "sender": "54259127210155@lid",
+        "text": "E ela foi pra dizer o que?",
+        "pushName": "Leandro",
+        "timestamp": 1787885167601
+      },
+      "A5D0EDBD6D1E022D4AC0137ABC3ED725": {
+        "sender": "54259127210155@lid",
+        "text": "\"oi\"?",
+        "pushName": "Leandro",
+        "timestamp": 1787885170847
       }
     },
     "120363411233423709@g.us": {
@@ -188377,9 +188423,9 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787884904333,
-    "120363428464897153@g.us": 1787885144126,
+    "120363428464897153@g.us": 1787885154095,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787885138807,
+    "120363412288900422@g.us": 1787885174533,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
