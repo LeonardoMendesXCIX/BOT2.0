@@ -173,9 +173,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1569,
+        "text": 1572,
         "media": 427,
-        "total": 1996
+        "total": 1999
       },
       "81991328395336": {
         "text": 3941,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindaaa",
         "Alexandre Bastos (75797868064796): Bem vinda",
         "Souza (190864487919667): E quase xará",
         "Nanda (263797142995147): brigadaa",
@@ -10449,7 +10448,8 @@
         "Gabriel (145381035905262): Puta merda",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Ia passar uma vergonha",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Exatamente",
-        "Celiete Souza (129373172711439): Acabei de ver morri rindo 😂"
+        "Celiete Souza (129373172711439): Acabei de ver morri rindo 😂",
+        "Celiete Souza (129373172711439): Boazinha hoje 🙏🏼"
       ]
     },
     "120363428464897153@g.us": {
@@ -17469,18 +17469,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "Tarde povo",
-        "timestamp": 1787939733966
-      },
-      {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "🙋🏻‍♂️",
-        "timestamp": 1787939737752
-      },
-      {
         "authorNum": "145381035905262",
         "authorName": "Gabriel",
         "text": "Boaaa",
@@ -18067,6 +18055,12 @@
         "authorName": "Celiete Souza",
         "text": "Acabei de ver morri rindo 😂",
         "timestamp": 1787941525708
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Boazinha hoje 🙏🏼",
+        "timestamp": 1787941570724
       }
     ],
     "120363428464897153@g.us": [],
@@ -18159,7 +18153,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22240,
+    "120363432018531082@g.us": 22241,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2075,
@@ -145670,6 +145664,12 @@
         "text": "Acabei de ver morri rindo 😂",
         "pushName": "Celiete Souza",
         "timestamp": 1787941525709
+      },
+      "AC88C76EA288A0C6E3F3E9612A007B11": {
+        "sender": "129373172711439@lid",
+        "text": "Boazinha hoje 🙏🏼",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787941570724
       }
     },
     "120363428464897153@g.us": {
@@ -199041,7 +199041,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787941525708,
+    "120363432018531082@g.us": 1787941570724,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787940055842,
