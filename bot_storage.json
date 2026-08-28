@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2226,
+        "text": 2227,
         "media": 300,
-        "total": 2526
+        "total": 2527
       },
       "252922705240205": {
         "text": 80,
@@ -9953,7 +9953,8 @@
         "Alexandre Bastos (75797868064796): Bom ótimo dia",
         ". (279628962885736): Bom dia pessoal \nVamos que vamos",
         "Edison Medeiros💚 (108268240302270): Bom dia",
-        "PAULO PEREIRA (129978696003832): Nome : Paulo Pereira \nIdade : 32 \nCidade : São Carlos-SP"
+        "PAULO PEREIRA (129978696003832): Nome : Paulo Pereira \nIdade : 32 \nCidade : São Carlos-SP",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bommm diaaa a @all vocês! Ótima sexta feira, que seja abençoada ❤️🙏🏼"
       ]
     },
     "120363428464897153@g.us": {
@@ -16873,12 +16874,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "279628962885736",
-        "authorName": ".",
-        "text": "Bom dia pessoal \nVamos que vamos",
-        "timestamp": 1787909455505
-      },
-      {
         "authorNum": "108268240302270",
         "authorName": "Edison Medeiros💚",
         "text": "Bom dia",
@@ -16889,6 +16884,12 @@
         "authorName": "PAULO PEREIRA",
         "text": "Nome : Paulo Pereira \nIdade : 32 \nCidade : São Carlos-SP",
         "timestamp": 1787910923305
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Bommm diaaa a @all vocês! Ótima sexta feira, que seja abençoada ❤️🙏🏼",
+        "timestamp": 1787911445785
       }
     ],
     "120363428464897153@g.us": [],
@@ -16908,7 +16909,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21211,
+    "120363432018531082@g.us": 21212,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1989,
@@ -138298,6 +138299,12 @@
         "text": "Nome : Paulo Pereira \nIdade : 32 \nCidade : São Carlos-SP",
         "pushName": "PAULO PEREIRA",
         "timestamp": 1787910923305
+      },
+      "AC188DEAB5A6398DBEDAA8AD2A0BF4F3": {
+        "sender": "53537388122141@lid",
+        "text": "Bommm diaaa a @all vocês! Ótima sexta feira, que seja abençoada ❤️🙏🏼",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787911445785
       }
     },
     "120363428464897153@g.us": {
@@ -191069,7 +191076,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787911251228,
+    "120363432018531082@g.us": 1787911445785,
     "120363428464897153@g.us": 1787909941077,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787894166886,
