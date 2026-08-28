@@ -2949,9 +2949,9 @@
         "total": 9
       },
       "129373172711439": {
-        "text": 912,
+        "text": 913,
         "media": 234,
-        "total": 1146
+        "total": 1147
       },
       "16007578021977": {
         "text": 50,
@@ -3304,9 +3304,9 @@
         "total": 11
       },
       "274384656834700": {
-        "text": 4,
+        "text": 5,
         "media": 2,
-        "total": 6
+        "total": 7
       },
       "34626781356198": {
         "text": 0,
@@ -3314,9 +3314,9 @@
         "total": 1
       },
       "75797868064796": {
-        "text": 0,
+        "text": 1,
         "media": 3,
-        "total": 3
+        "total": 4
       }
     },
     "120363409727467494@g.us": {
@@ -13693,7 +13693,9 @@
         "Gleydson Souza (274384656834700): Quase que n escapa",
         "Celiete Souza (129373172711439): Sei de nada, eu não vi",
         "Souza (190864487919667): @129373172711439",
-        "Celiete Souza (129373172711439): Cadê os 40+ deste grupo?"
+        "Celiete Souza (129373172711439): Cadê os 40+ deste grupo?",
+        "Alexandre Bastos (75797868064796): Eu tô aqui",
+        "Gleydson Souza (274384656834700): ."
       ]
     },
     "120363409727467494@g.us": {
@@ -16156,12 +16158,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "118515428286715",
-        "authorName": "Saul",
-        "text": "Boa Noite, sou Saul tenho 25 anos e moro em Andradina- SP (interior)",
-        "timestamp": 1787877707664
-      },
-      {
         "authorNum": "190864487919667",
         "authorName": "Souza",
         "text": "Bem vindo",
@@ -16217,12 +16213,6 @@
       }
     ],
     "120363428464897153@g.us": [
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "@129373172711439 cadê vc amiga",
-        "timestamp": 1787877871302
-      },
       {
         "authorNum": "190864487919667",
         "authorName": "Souza",
@@ -16666,59 +16656,22 @@
         "authorName": "Celiete Souza",
         "text": "Cadê os 40+ deste grupo?",
         "timestamp": 1787879666698
+      },
+      {
+        "authorNum": "75797868064796",
+        "authorName": "Alexandre Bastos",
+        "text": "Eu tô aqui",
+        "timestamp": 1787879692839
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": ".",
+        "timestamp": 1787879706883
       }
     ],
     "120363409727467494@g.us": [],
-    "120363412288900422@g.us": [
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Eu nem vi",
-        "timestamp": 1787877675357
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Tirou print?",
-        "timestamp": 1787877679327
-      },
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Quem ?",
-        "timestamp": 1787877701035
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Gigi",
-        "timestamp": 1787877709767
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "No Figurinhas",
-        "timestamp": 1787877713170
-      },
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "A não pooo",
-        "timestamp": 1787877725216
-      },
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Levam tudo pra outro lado",
-        "timestamp": 1787877732355
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Só pq levou ban de mim",
-        "timestamp": 1787877736241
-      }
-    ],
+    "120363412288900422@g.us": [],
     "120363411233423709@g.us": [],
     "120363428079168524@g.us": [],
     "120363411246936023@g.us": [],
@@ -16733,7 +16686,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 21033,
-    "120363428464897153@g.us": 6134,
+    "120363428464897153@g.us": 6136,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1711,
     "120363411233423709@g.us": 5,
@@ -173055,6 +173008,18 @@
         "text": "Cadê os 40+ deste grupo?",
         "pushName": "Celiete Souza",
         "timestamp": 1787879666698
+      },
+      "AC33E1083A233E0C892619F6A487BDB7": {
+        "sender": "75797868064796@lid",
+        "text": "Eu tô aqui",
+        "pushName": "Alexandre Bastos",
+        "timestamp": 1787879692839
+      },
+      "AC97BA48508F7013936BBA4A895AE86D": {
+        "sender": "274384656834700@lid",
+        "text": ".",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787879706883
       }
     },
     "120363409727467494@g.us": {
@@ -187099,7 +187064,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787879318050,
-    "120363428464897153@g.us": 1787879666698,
+    "120363428464897153@g.us": 1787879706883,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787877736241,
     "120363411233423709@g.us": 1787113553426,
