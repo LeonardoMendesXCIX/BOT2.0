@@ -253,9 +253,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1474,
+        "text": 1475,
         "media": 1106,
-        "total": 2580
+        "total": 2581
       },
       "3126803329115": {
         "text": 87,
@@ -2628,9 +2628,9 @@
         "total": 46
       },
       "75797868064796": {
-        "text": 24,
+        "text": 25,
         "media": 87,
-        "total": 111
+        "total": 112
       },
       "153764728184839": {
         "text": 2,
@@ -3500,8 +3500,8 @@
     "120363412288900422@g.us": {
       "81991328395336": {
         "text": 470,
-        "media": 121,
-        "total": 591
+        "media": 122,
+        "total": 592
       },
       "5511927018683": {
         "text": 535,
@@ -9865,8 +9865,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Leandro (+55 (11) 92701-8683): Vá empreender pra lá",
-        "Leandro (+55 (11) 92701-8683): Que esse empreendimento já é meu e dela @81991328395336",
         "Jk (120542904463568): Se aperrei não",
         "Jk (120542904463568): No planeta tem espaço",
         "Leandro (+55 (11) 92701-8683): Pois bem",
@@ -10364,7 +10362,9 @@
         "~Gará (83911531044906): O meu ta parado",
         "Camila Designer (92629643563147): @81991328395336 que horário vai fazer a interação do PV",
         "Camila Designer (92629643563147): Por que? Quer falar sobre?👀",
-        "Alexandre Bastos (75797868064796): Trabalhando hoje"
+        "Alexandre Bastos (75797868064796): Trabalhando hoje",
+        "Alexandre Bastos (75797868064796): E o seu",
+        "Camila Designer (92629643563147): Eu dei uma pausa aqui, 10hrs chega minha próxima cliente 😌"
       ]
     },
     "120363428464897153@g.us": {
@@ -17417,6 +17417,18 @@
         "authorName": "Alexandre Bastos",
         "text": "Trabalhando hoje",
         "timestamp": 1787921305819
+      },
+      {
+        "authorNum": "75797868064796",
+        "authorName": "Alexandre Bastos",
+        "text": "E o seu",
+        "timestamp": 1787921318000
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Eu dei uma pausa aqui, 10hrs chega minha próxima cliente 😌",
+        "timestamp": 1787921333435
       }
     ],
     "120363428464897153@g.us": [],
@@ -17467,7 +17479,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21647,
+    "120363432018531082@g.us": 21649,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1998,
@@ -141459,6 +141471,18 @@
         "text": "Trabalhando hoje",
         "pushName": "Alexandre Bastos",
         "timestamp": 1787921305819
+      },
+      "AC23175F2F4B4ED46F9BE900A48851EC": {
+        "sender": "75797868064796@lid",
+        "text": "E o seu",
+        "pushName": "Alexandre Bastos",
+        "timestamp": 1787921318000
+      },
+      "2A44313F22596359AA94": {
+        "sender": "92629643563147@lid",
+        "text": "Eu dei uma pausa aqui, 10hrs chega minha próxima cliente 😌",
+        "pushName": "Camila Designer",
+        "timestamp": 1787921333435
       }
     },
     "120363428464897153@g.us": {
@@ -194284,10 +194308,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787921312920,
+    "120363432018531082@g.us": 1787921333435,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787921310126,
+    "120363412288900422@g.us": 1787921321242,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
