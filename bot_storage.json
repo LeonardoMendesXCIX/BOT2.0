@@ -2904,9 +2904,9 @@
         "total": 1
       },
       "92629643563147": {
-        "text": 564,
+        "text": 565,
         "media": 378,
-        "total": 942
+        "total": 943
       },
       "122552932372575": {
         "text": 0,
@@ -2944,9 +2944,9 @@
         "total": 9
       },
       "129373172711439": {
-        "text": 897,
+        "text": 900,
         "media": 230,
-        "total": 1127
+        "total": 1130
       },
       "16007578021977": {
         "text": 50,
@@ -3289,9 +3289,9 @@
         "total": 1
       },
       "190864487919667": {
-        "text": 32,
+        "text": 33,
         "media": 6,
-        "total": 38
+        "total": 39
       },
       "118515428286715": {
         "text": 6,
@@ -3299,6 +3299,11 @@
         "total": 8
       },
       "274384656834700": {
+        "text": 0,
+        "media": 1,
+        "total": 1
+      },
+      "34626781356198": {
         "text": 0,
         "media": 1,
         "total": 1
@@ -13653,7 +13658,11 @@
         "Souza (190864487919667): Confia",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Ela gosta de vê peitoral",
         "Saul (118515428286715): Eu esperando o cara falar “comum o aditivada” pra rachar o bico",
-        "Saul (118515428286715): Kkk"
+        "Saul (118515428286715): Kkk",
+        "Celiete Souza (129373172711439): @92629643563147 e o massagista",
+        "Camila Designer (92629643563147): Ele saiu do grupo, me abandonou 🤣🤣🤣",
+        "Souza (190864487919667): Pedido atendido",
+        "Celiete Souza (129373172711439): Sério? Do nada"
       ]
     },
     "120363409727467494@g.us": {
@@ -16572,6 +16581,30 @@
         "authorName": "Saul",
         "text": "Kkk",
         "timestamp": 1787878967085
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "@92629643563147 e o massagista",
+        "timestamp": 1787878989758
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Ele saiu do grupo, me abandonou 🤣🤣🤣",
+        "timestamp": 1787879007298
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Pedido atendido",
+        "timestamp": 1787879019756
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Sério? Do nada",
+        "timestamp": 1787879021662
       }
     ],
     "120363409727467494@g.us": [],
@@ -16682,7 +16715,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 21031,
-    "120363428464897153@g.us": 6109,
+    "120363428464897153@g.us": 6113,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1711,
     "120363411233423709@g.us": 5,
@@ -16723,7 +16756,6 @@
       "53537388122141@lid",
       "159442087739425@lid",
       "81991328395336@lid",
-      "57561571176651@lid",
       "66743926038604@lid",
       "175655757050100@lid",
       "199733712785531@lid",
@@ -172873,6 +172905,30 @@
         "text": "Kkk",
         "pushName": "Saul",
         "timestamp": 1787878967085
+      },
+      "AC17DE8312921A9F993856B15394BA5A": {
+        "sender": "129373172711439@lid",
+        "text": "@92629643563147 e o massagista",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787878989758
+      },
+      "2A740184E9B412D0E0BE": {
+        "sender": "92629643563147@lid",
+        "text": "Ele saiu do grupo, me abandonou 🤣🤣🤣",
+        "pushName": "Camila Designer",
+        "timestamp": 1787879007298
+      },
+      "AC4AD0BE321058440010E8AD44C415FB": {
+        "sender": "190864487919667@lid",
+        "text": "Pedido atendido",
+        "pushName": "Souza",
+        "timestamp": 1787879019756
+      },
+      "ACFB3C14386C2144E53BF4C395C53024": {
+        "sender": "129373172711439@lid",
+        "text": "Sério? Do nada",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787879021662
       }
     },
     "120363409727467494@g.us": {
@@ -186917,7 +186973,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787878669226,
-    "120363428464897153@g.us": 1787878978309,
+    "120363428464897153@g.us": 1787879029710,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787877736241,
     "120363411233423709@g.us": 1787113553426,
