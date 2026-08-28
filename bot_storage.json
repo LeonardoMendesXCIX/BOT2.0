@@ -253,9 +253,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1502,
+        "text": 1503,
         "media": 1116,
-        "total": 2618
+        "total": 2619
       },
       "3126803329115": {
         "text": 87,
@@ -2603,9 +2603,9 @@
         "total": 29
       },
       "190864487919667": {
-        "text": 280,
+        "text": 281,
         "media": 42,
-        "total": 322
+        "total": 323
       },
       "82227819987089": {
         "text": 2,
@@ -2708,9 +2708,9 @@
         "total": 2
       },
       "108461127897146": {
-        "text": 40,
+        "text": 41,
         "media": 4,
-        "total": 44
+        "total": 45
       },
       "10050861031495": {
         "text": 0,
@@ -9900,9 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Rafael Moura (57707230945348): Oi doutora 😏",
-        "Jessica (208958782488665): Hj já tomo meus psico kkkkk",
-        "Gabi 💋 (247020967165997): Ferrou cheguei agora",
         "Gabi 💋 (247020967165997): Mas aceitou um dia na camisa de força",
         "Gabi 💋 (247020967165997): Ksksks",
         "Pedro Henrique (172868239380659): Será que já está valendo a lei que passa em todo os lugares? vou procurar uns cabaré",
@@ -10399,7 +10396,10 @@
         "jaciara (108461127897146): Tenho dois filhos",
         "Camila Designer (92629643563147): Ah que ótimo!",
         "jaciara (108461127897146): O pai sou eu kkkkk",
-        "Gleydson Souza (274384656834700): Parabéns"
+        "Gleydson Souza (274384656834700): Parabéns",
+        "Souza (190864487919667): Muita força pra ti",
+        "Camila Designer (92629643563147): Pai é quem cria 😅",
+        "jaciara (108461127897146): Obrigado"
       ]
     },
     "120363428464897153@g.us": {
@@ -17342,48 +17342,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "263797142995147",
-        "authorName": "Nanda",
-        "text": "eu ia flr isso",
-        "timestamp": 1787927190409
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Os meus já foram machucados",
-        "timestamp": 1787927191766
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "No Mercado Negro",
-        "timestamp": 1787927191825
-      },
-      {
-        "authorNum": "263797142995147",
-        "authorName": "Nanda",
-        "text": "mais é pesado",
-        "timestamp": 1787927193096
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Maltratados",
-        "timestamp": 1787927194674
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Nan",
-        "timestamp": 1787927195942
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Vale nada",
-        "timestamp": 1787927197627
-      },
-      {
         "authorNum": "190864487919667",
         "authorName": "Souza",
         "text": "Meus órgãos estão iguais a americanas: em recuperação",
@@ -17730,6 +17688,24 @@
         "authorName": "Gleydson Souza",
         "text": "Parabéns",
         "timestamp": 1787928989704
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Muita força pra ti",
+        "timestamp": 1787929003992
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Pai é quem cria 😅",
+        "timestamp": 1787929008894
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Obrigado",
+        "timestamp": 1787929015357
       }
     ],
     "120363428464897153@g.us": [],
@@ -17756,7 +17732,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21860,
+    "120363432018531082@g.us": 21863,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -143006,6 +142982,24 @@
         "text": "Parabéns",
         "pushName": "Gleydson Souza",
         "timestamp": 1787928989704
+      },
+      "ACDE375007B640BCDF934A5962E7468A": {
+        "sender": "190864487919667@lid",
+        "text": "Muita força pra ti",
+        "pushName": "Souza",
+        "timestamp": 1787929003992
+      },
+      "2AA36DD3C2586EED1CEF": {
+        "sender": "92629643563147@lid",
+        "text": "Pai é quem cria 😅",
+        "pushName": "Camila Designer",
+        "timestamp": 1787929008895
+      },
+      "AC1BD3A2DD220192E2A540ECC4CEE736": {
+        "sender": "108461127897146@lid",
+        "text": "Obrigado",
+        "pushName": "jaciara",
+        "timestamp": 1787929015357
       }
     },
     "120363428464897153@g.us": {
@@ -195915,7 +195909,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787928998412,
+    "120363432018531082@g.us": 1787929015357,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
