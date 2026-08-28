@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2363,
+        "text": 2365,
         "media": 329,
-        "total": 2692
+        "total": 2694
       },
       "252922705240205": {
         "text": 80,
@@ -648,9 +648,9 @@
         "total": 1
       },
       "86793403801839": {
-        "text": 59,
+        "text": 60,
         "media": 6,
-        "total": 65
+        "total": 66
       },
       "78070107140221": {
         "text": 7,
@@ -9950,8 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Souza (190864487919667): Só amanhã às 12",
-        "Rafael Moura (57707230945348): 👀",
         "Celiete Souza (129373172711439): Boa tarde",
         "Jessica (208958782488665): Tarde",
         "Souza (190864487919667): Amanhã tem show do melhor rapper aqui em Brasília",
@@ -10449,7 +10447,9 @@
         "Lailson Nathan. (272048228188398): Boa noite turma.",
         "Celiete Souza (129373172711439): Boa noite",
         "Souza (190864487919667): @83911531044906 apareça",
-        "Saul (118515428286715): Boa Noite"
+        "Saul (118515428286715): Boa Noite",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Boa noite a @all 🫶🏻",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Como vocês estão?"
       ]
     },
     "120363428464897153@g.us": {
@@ -17493,6 +17493,18 @@
         "authorName": "Saul",
         "text": "Boa Noite",
         "timestamp": 1787952895040
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Boa noite a @all 🫶🏻",
+        "timestamp": 1787952926683
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Como vocês estão?",
+        "timestamp": 1787952931764
       }
     ],
     "120363428464897153@g.us": [],
@@ -17526,7 +17538,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22496,
+    "120363432018531082@g.us": 22498,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2090,
@@ -146561,6 +146573,18 @@
         "text": "Boa Noite",
         "pushName": "Saul",
         "timestamp": 1787952895040
+      },
+      "AC8FB04B55194A3DA371012D6B987ABC": {
+        "sender": "53537388122141@lid",
+        "text": "Boa noite a @all 🫶🏻",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787952926683
+      },
+      "ACE8B337E65BEEAD3BA062D6FFFF69ED": {
+        "sender": "53537388122141@lid",
+        "text": "Como vocês estão?",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787952931764
       }
     },
     "120363428464897153@g.us": {
@@ -200052,7 +200076,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787952895040,
+    "120363432018531082@g.us": 1787952941024,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787952802711,
