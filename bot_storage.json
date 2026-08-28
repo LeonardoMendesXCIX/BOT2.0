@@ -2598,9 +2598,9 @@
         "total": 2
       },
       "11171897864256": {
-        "text": 35,
+        "text": 36,
         "media": 2,
-        "total": 37
+        "total": 38
       },
       "190864487919667": {
         "text": 356,
@@ -2629,8 +2629,8 @@
       },
       "75797868064796": {
         "text": 38,
-        "media": 101,
-        "total": 139
+        "media": 102,
+        "total": 140
       },
       "153764728184839": {
         "text": 2,
@@ -2673,9 +2673,9 @@
         "total": 3
       },
       "193729163993156": {
-        "text": 41,
+        "text": 42,
         "media": 12,
-        "total": 53
+        "total": 54
       },
       "151582733820115": {
         "text": 5,
@@ -9950,8 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "F. RicaRdo sAnToS (193729163993156): De costas tbm ķkk",
-        "Bruno Aguiar (+1395881181241): Merece🫶🏼",
         "Souza (190864487919667): Só tem maluco no grupo 😂😂😂",
         "jaciara (108461127897146): Fazemos algumas exigências kkkkk",
         "~Gará (83911531044906): Manda a lista",
@@ -10449,7 +10447,9 @@
         "Souza (190864487919667): Só ir no ministério do trabalho",
         "🙃🙃🙃 (11171897864256): Pq eu vendi",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Minha nossa senhora",
-        "Souza (190864487919667): Aí é outra história"
+        "Souza (190864487919667): Aí é outra história",
+        "🙃🙃🙃 (11171897864256): E hoje é lotado não vou 🙃",
+        "F. RicaRdo sAnToS (193729163993156): Aqui é para iludir os emocionados 🤣🤣🤣🤣\nE tem bastante gente"
       ]
     },
     "120363428464897153@g.us": {
@@ -17845,6 +17845,18 @@
         "authorName": "Souza",
         "text": "Aí é outra história",
         "timestamp": 1787947651007
+      },
+      {
+        "authorNum": "11171897864256",
+        "authorName": "🙃🙃🙃",
+        "text": "E hoje é lotado não vou 🙃",
+        "timestamp": 1787947662922
+      },
+      {
+        "authorNum": "193729163993156",
+        "authorName": "F. RicaRdo sAnToS",
+        "text": "Aqui é para iludir os emocionados 🤣🤣🤣🤣\nE tem bastante gente",
+        "timestamp": 1787947668514
       }
     ],
     "120363428464897153@g.us": [],
@@ -17877,7 +17889,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22380,
+    "120363432018531082@g.us": 22382,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -146216,6 +146228,18 @@
         "text": "Aí é outra história",
         "pushName": "Souza",
         "timestamp": 1787947651008
+      },
+      "AC66DACD9F8B7FC43447BD6E818CC9AB": {
+        "sender": "11171897864256@lid",
+        "text": "E hoje é lotado não vou 🙃",
+        "pushName": "🙃🙃🙃",
+        "timestamp": 1787947662922
+      },
+      "AC47E0E6100F571DE1575A8DF7B5F93F": {
+        "sender": "193729163993156@lid",
+        "text": "Aqui é para iludir os emocionados 🤣🤣🤣🤣\nE tem bastante gente",
+        "pushName": "F. RicaRdo sAnToS",
+        "timestamp": 1787947668514
       }
     },
     "120363428464897153@g.us": {
@@ -199695,7 +199719,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787947651007,
+    "120363432018531082@g.us": 1787947668514,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
