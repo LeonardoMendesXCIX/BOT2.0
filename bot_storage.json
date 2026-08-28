@@ -2910,8 +2910,8 @@
       },
       "92629643563147": {
         "text": 575,
-        "media": 388,
-        "total": 963
+        "media": 389,
+        "total": 964
       },
       "122552932372575": {
         "text": 0,
@@ -3294,9 +3294,9 @@
         "total": 1
       },
       "190864487919667": {
-        "text": 47,
-        "media": 9,
-        "total": 56
+        "text": 48,
+        "media": 10,
+        "total": 58
       },
       "118515428286715": {
         "text": 15,
@@ -3304,9 +3304,9 @@
         "total": 18
       },
       "274384656834700": {
-        "text": 17,
+        "text": 19,
         "media": 4,
-        "total": 21
+        "total": 23
       },
       "34626781356198": {
         "text": 0,
@@ -13728,7 +13728,9 @@
         "Souza (190864487919667): Sim",
         "Souza (190864487919667): Roi👀👀👀",
         "Jean Correa (16007578021977): Eu ti não quis né",
-        "Jean Correa (16007578021977): Tu*"
+        "Jean Correa (16007578021977): Tu*",
+        "Souza (190864487919667): Ish",
+        "Gleydson Souza (274384656834700): Ish"
       ]
     },
     "120363409727467494@g.us": {
@@ -16241,24 +16243,6 @@
     ],
     "120363428464897153@g.us": [
       {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "Se tu chamar os indiano, eu saio do grupo",
-        "timestamp": 1787878710320
-      },
-      {
-        "authorNum": "25520947339303",
-        "authorName": "Priscilla 🌻",
-        "text": "Ah sim kkkkk",
-        "timestamp": 1787878710529
-      },
-      {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "O povo safado",
-        "timestamp": 1787878718835
-      },
-      {
         "authorNum": "155503636275307",
         "authorName": "Clayton 🇳🇬",
         "text": "Eai que faz de bom",
@@ -16743,6 +16727,18 @@
         "authorName": "Jean Correa",
         "text": "Tu*",
         "timestamp": 1787880506037
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Ish",
+        "timestamp": 1787880516506
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Ish",
+        "timestamp": 1787880525169
       }
     ],
     "120363409727467494@g.us": [],
@@ -16761,7 +16757,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 21036,
-    "120363428464897153@g.us": 6169,
+    "120363428464897153@g.us": 6171,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1711,
     "120363411233423709@g.us": 5,
@@ -173304,6 +173300,18 @@
         "text": "Tu*",
         "pushName": "Jean Correa",
         "timestamp": 1787880506037
+      },
+      "AC79E6244FC60BAC7A18CD18AE9669C4": {
+        "sender": "190864487919667@lid",
+        "text": "Ish",
+        "pushName": "Souza",
+        "timestamp": 1787880516506
+      },
+      "ACC935D982BD957D3333C9BA87A3DDF2": {
+        "sender": "274384656834700@lid",
+        "text": "Ish",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787880525169
       }
     },
     "120363409727467494@g.us": {
@@ -187348,7 +187356,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787880343658,
-    "120363428464897153@g.us": 1787880506037,
+    "120363428464897153@g.us": 1787880533218,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787877736241,
     "120363411233423709@g.us": 1787113553426,
