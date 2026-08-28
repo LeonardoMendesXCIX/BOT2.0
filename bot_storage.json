@@ -173,9 +173,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1553,
+        "text": 1556,
         "media": 427,
-        "total": 1980
+        "total": 1983
       },
       "81991328395336": {
         "text": 3925,
@@ -9930,7 +9930,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Rafael Moura (57707230945348): Acalmou aqui pelo visto",
         "Gabi 💋 (247020967165997): Amém",
         "Gleydson Souza (274384656834700): Kkkk vcs falam mt tava tentando ler tudo mas desisti",
         "Pedro Henrique (172868239380659): Mas quem tava bravo?",
@@ -10429,7 +10428,8 @@
         "May (227783724793861): Nossa nem sei o que é isso aqui o máximo é 28 e eu acho quente demais haha",
         "Gleydson Souza (274384656834700): Nuh ia derreter aqui então, ta marcando que ate as 20h vai estar em 30 graus kkkkk",
         "May (227783724793861): MDS haha",
-        "Gleydson Souza (274384656834700): Pra quem ama chuva que nem eu isso aqui e o inferno kkkk"
+        "Gleydson Souza (274384656834700): Pra quem ama chuva que nem eu isso aqui e o inferno kkkk",
+        "Celiete Souza (129373172711439): Nosso clima aqui não é bom"
       ]
     },
     "120363428464897153@g.us": {
@@ -17391,12 +17391,6 @@
       {
         "authorNum": "129373172711439",
         "authorName": "Celiete Souza",
-        "text": "Então já estou lá",
-        "timestamp": 1787932633546
-      },
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
         "text": "Vai um cafezinho após o almoço?",
         "timestamp": 1787932639690
       },
@@ -17675,6 +17669,12 @@
         "authorName": "Gleydson Souza",
         "text": "Pra quem ama chuva que nem eu isso aqui e o inferno kkkk",
         "timestamp": 1787934429267
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Nosso clima aqui não é bom",
+        "timestamp": 1787934435046
       }
     ],
     "120363428464897153@g.us": [],
@@ -17744,7 +17744,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22073,
+    "120363432018531082@g.us": 22074,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2016,
@@ -144260,6 +144260,12 @@
         "text": "Pra quem ama chuva que nem eu isso aqui e o inferno kkkk",
         "pushName": "Gleydson Souza",
         "timestamp": 1787934429267
+      },
+      "ACFB7C7119C09436BB1E8A303AB94C32": {
+        "sender": "129373172711439@lid",
+        "text": "Nosso clima aqui não é bom",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787934435046
       }
     },
     "120363428464897153@g.us": {
@@ -197271,7 +197277,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787934429267,
+    "120363432018531082@g.us": 1787934435046,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787934085129,
