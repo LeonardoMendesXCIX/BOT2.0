@@ -699,8 +699,8 @@
       },
       "57707230945348": {
         "text": 1205,
-        "media": 220,
-        "total": 1425
+        "media": 221,
+        "total": 1426
       },
       "152218690924790": {
         "text": 309,
@@ -2663,9 +2663,9 @@
         "total": 81
       },
       "172868239380659": {
-        "text": 146,
+        "text": 147,
         "media": 26,
-        "total": 172
+        "total": 173
       },
       "170455038193841": {
         "text": 1,
@@ -2798,9 +2798,9 @@
         "total": 5
       },
       "247020967165997": {
-        "text": 76,
+        "text": 78,
         "media": 18,
-        "total": 94
+        "total": 96
       },
       "206253020176458": {
         "text": 3,
@@ -2814,8 +2814,8 @@
       },
       "221307534876912": {
         "text": 9,
-        "media": 6,
-        "total": 15
+        "media": 7,
+        "total": 16
       }
     },
     "120363428464897153@g.us": {
@@ -10295,7 +10295,10 @@
         "Gabi 💋 (247020967165997): Miojinho",
         "Gleydson Souza (274384656834700): Bom dia a todos @todos",
         "Pedro Henrique (172868239380659): Tmj.\n\nA verdade é que tem homens aqui que pensa a mesma coisa, só não concorda pq tem medo do cancelamento",
-        "Gabi 💋 (247020967165997): Menino para com isso \nNinguém gostar de beijar puta com sabor p..... Não"
+        "Gabi 💋 (247020967165997): Menino para com isso \nNinguém gostar de beijar puta com sabor p..... Não",
+        "Gabi 💋 (247020967165997): Bora Rafael",
+        "Pedro Henrique (172868239380659): A Gabi?",
+        "Gabi 💋 (247020967165997): E eu não estava brincando não"
       ]
     },
     "120363428464897153@g.us": {
@@ -17219,18 +17222,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Meu Deus",
-        "timestamp": 1787915750073
-      },
-      {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Já criei a primeira discórdia da sexta, agora iremos trabalhar",
-        "timestamp": 1787915769324
-      },
-      {
         "authorNum": "208958782488665",
         "authorName": "Jessica",
         "text": "Por essas e outras que eu não saio com ninguém. Hoje dia de academia se louco",
@@ -18093,6 +18084,24 @@
         "authorName": "Gabi 💋",
         "text": "Menino para com isso \nNinguém gostar de beijar puta com sabor p..... Não",
         "timestamp": 1787917522617
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Bora Rafael",
+        "timestamp": 1787917566814
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "A Gabi?",
+        "timestamp": 1787917572319
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "E eu não estava brincando não",
+        "timestamp": 1787917572542
       }
     ],
     "120363428464897153@g.us": [],
@@ -18119,7 +18128,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21533,
+    "120363432018531082@g.us": 21536,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -141427,6 +141436,24 @@
         "text": "Menino para com isso \nNinguém gostar de beijar puta com sabor p..... Não",
         "pushName": "Gabi 💋",
         "timestamp": 1787917522618
+      },
+      "AC7B1E6EA3100DA33D001080BCC10D1A": {
+        "sender": "247020967165997@lid",
+        "text": "Bora Rafael",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787917566815
+      },
+      "AC6A93501C67F48F34BFAF07DF9595B4": {
+        "sender": "172868239380659@lid",
+        "text": "A Gabi?",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787917572319
+      },
+      "AC2AA3E90EEF6EACBB6B889A0B9E21E0": {
+        "sender": "247020967165997@lid",
+        "text": "E eu não estava brincando não",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787917572543
       }
     },
     "120363428464897153@g.us": {
@@ -194222,7 +194249,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787917537285,
+    "120363432018531082@g.us": 1787917572929,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
