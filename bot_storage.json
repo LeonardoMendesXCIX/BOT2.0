@@ -3325,9 +3325,9 @@
         "total": 20
       },
       "274384656834700": {
-        "text": 23,
+        "text": 24,
         "media": 8,
-        "total": 31
+        "total": 32
       },
       "34626781356198": {
         "text": 0,
@@ -13773,7 +13773,8 @@
         "Gleydson Souza (274384656834700): Eita kkkk",
         "Camila Designer (92629643563147): Ei @222595437858867 boa noite! Vai sair do armário?🤣🤣🤣",
         "Camila Designer (92629643563147): A questão é que homens pode ir a loucura também, porque aqui tem mais homens que mulheres 🤣🤣🤣",
-        "Saul (118515428286715): Saindo kk"
+        "Saul (118515428286715): Saindo kk",
+        "Gleydson Souza (274384656834700): Mais 2 homens kkkkkk"
       ]
     },
     "120363409727467494@g.us": {
@@ -16274,24 +16275,6 @@
     ],
     "120363428464897153@g.us": [
       {
-        "authorNum": "118515428286715",
-        "authorName": "Saul",
-        "text": "Acabei de fazer, ufa",
-        "timestamp": 1787879602976
-      },
-      {
-        "authorNum": "274384656834700",
-        "authorName": "Gleydson Souza",
-        "text": "Quase que n escapa",
-        "timestamp": 1787879613291
-      },
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Sei de nada, eu não vi",
-        "timestamp": 1787879617521
-      },
-      {
         "authorNum": "190864487919667",
         "authorName": "Souza",
         "text": "@129373172711439",
@@ -16656,6 +16639,12 @@
         "authorName": "Saul",
         "text": "Saindo kk",
         "timestamp": 1787881070526
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Mais 2 homens kkkkkk",
+        "timestamp": 1787881419336
       }
     ],
     "120363409727467494@g.us": [],
@@ -16674,7 +16663,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 21039,
-    "120363428464897153@g.us": 6193,
+    "120363428464897153@g.us": 6194,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1711,
     "120363411233423709@g.us": 5,
@@ -16786,7 +16775,20 @@
       "date": "2026-08-17T03:32:19.330Z"
     }
   },
-  "pendingBvReminders": [],
+  "pendingBvReminders": [
+    {
+      "id": "1787881401797_10050861031495@lid",
+      "chatId": "120363428464897153@g.us",
+      "newMemberId": "10050861031495@lid",
+      "runAt": 1787882301797
+    },
+    {
+      "id": "1787881403794_193729163993156@lid",
+      "chatId": "120363428464897153@g.us",
+      "newMemberId": "193729163993156@lid",
+      "runAt": 1787882303794
+    }
+  ],
   "pendingPresentations": [],
   "groupSchedules": {
     "120363428464897153@g.us": {
@@ -173379,6 +173381,12 @@
         "text": "Saindo kk",
         "pushName": "Saul",
         "timestamp": 1787881070526
+      },
+      "AC639A63FE51306E8F2259F70A24B9AA": {
+        "sender": "274384656834700@lid",
+        "text": "Mais 2 homens kkkkkk",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787881419336
       }
     },
     "120363409727467494@g.us": {
@@ -187423,7 +187431,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787881374553,
-    "120363428464897153@g.us": 1787881085839,
+    "120363428464897153@g.us": 1787881419336,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787877736241,
     "120363411233423709@g.us": 1787113553426,
