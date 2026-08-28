@@ -1863,9 +1863,9 @@
         "total": 6
       },
       "1395881181241": {
-        "text": 143,
+        "text": 144,
         "media": 5,
-        "total": 148
+        "total": 149
       },
       "198595546501333": {
         "text": 2,
@@ -9930,7 +9930,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Gabi 💋 (247020967165997): Ksksks agora dei risada",
         "Pedro Henrique (172868239380659): Nada pow, tá tudo certo entre eu e ela, só uma zoeira saudável",
         "Gabi 💋 (247020967165997): Sim",
         "Pedro Henrique (172868239380659): Sexta feira pow, tem que dá uma animada, só trabalhar não da",
@@ -10429,7 +10428,8 @@
         "Celiete Souza (129373172711439): Muita ☂️",
         "Gleydson Souza (274384656834700): Meu sonho kkkk",
         "Gleydson Souza (274384656834700): Amo chuva",
-        "jaciara (108461127897146): Obrigada ☺️"
+        "jaciara (108461127897146): Obrigada ☺️",
+        "Bruno Aguiar (+1395881181241): Mas aí tem que ter um Rum kkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -17387,12 +17387,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "37826582323373",
-        "authorName": "eduardo",
-        "text": "Acesse este link para entrar no meu grupo do WhatsApp: https://chat.whatsapp.com/DX7mIVrHwQyAWID7g7XxZe?s=sh&p=a&ilr=0",
-        "timestamp": 1787932197664
-      },
-      {
         "authorNum": "57707230945348",
         "authorName": "Rafael Moura",
         "text": "Grupo de figurinhas",
@@ -17589,6 +17583,12 @@
         "authorName": "jaciara",
         "text": "Obrigada ☺️",
         "timestamp": 1787933955504
+      },
+      {
+        "authorNum": "1395881181241",
+        "authorName": "Bruno Aguiar",
+        "text": "Mas aí tem que ter um Rum kkk",
+        "timestamp": 1787934010506
       }
     ],
     "120363428464897153@g.us": [],
@@ -17611,30 +17611,6 @@
     "120363428079168524@g.us": [],
     "120363411246936023@g.us": [],
     "120363409024805409@g.us": [
-      {
-        "authorNum": "78143406768201",
-        "authorName": "Kamila",
-        "text": "Tá bom",
-        "timestamp": 1787932060752
-      },
-      {
-        "authorNum": "75797868064796",
-        "authorName": "Alexandre Bastos",
-        "text": "Ok",
-        "timestamp": 1787932073852
-      },
-      {
-        "authorNum": "83911531044906",
-        "authorName": "~Gará",
-        "text": "Ok",
-        "timestamp": 1787932077439
-      },
-      {
-        "authorNum": "37826582323373",
-        "authorName": "eduardo",
-        "text": "Oi gente tudo bem pra todos",
-        "timestamp": 1787932115133
-      },
       {
         "authorNum": "5511927018683",
         "authorName": "Leandro",
@@ -17670,7 +17646,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22048,
+    "120363432018531082@g.us": 22049,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2014,
@@ -144036,6 +144012,12 @@
         "text": "Obrigada ☺️",
         "pushName": "jaciara",
         "timestamp": 1787933955504
+      },
+      "AC11279527D6CA00FC865ED9BF198E4D": {
+        "sender": "1395881181241@lid",
+        "text": "Mas aí tem que ter um Rum kkk",
+        "pushName": "Bruno Aguiar",
+        "timestamp": 1787934010506
       }
     },
     "120363428464897153@g.us": {
@@ -197035,7 +197017,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787933955504,
+    "120363432018531082@g.us": 1787934010506,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787932967702,
