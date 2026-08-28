@@ -1953,9 +1953,9 @@
         "total": 5
       },
       "83911531044906": {
-        "text": 44,
+        "text": 45,
         "media": 2,
-        "total": 46
+        "total": 47
       },
       "172864548434113": {
         "text": 42,
@@ -9900,7 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Souza (190864487919667): Morto",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): @262182034002040 corre aqui",
         "Souza (190864487919667): Bem vinda",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Tô zuando 😂",
@@ -10399,7 +10398,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Tá perdendoooo\nUma delícia",
         "Bruno Aguiar (+1395881181241): E se precisar estamos aqui 😉❤️",
         "~Gará (83911531044906): Tamos juntos nessa então",
-        "Camila Designer (92629643563147): Tipo, me siga para mais dicas 🤣🤣🤣🤣"
+        "Camila Designer (92629643563147): Tipo, me siga para mais dicas 🤣🤣🤣🤣",
+        "~Gará (83911531044906): Alguém aqui tem interesse em comprar um rins?\nFaço promoção"
       ]
     },
     "120363428464897153@g.us": {
@@ -17342,72 +17342,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "263797142995147",
-        "authorName": "Nanda",
-        "text": "né, mais nem da",
-        "timestamp": 1787926648134
-      },
-      {
-        "authorNum": "263797142995147",
-        "authorName": "Nanda",
-        "text": "num vou só",
-        "timestamp": 1787926650739
-      },
-      {
-        "authorNum": "263797142995147",
-        "authorName": "Nanda",
-        "text": "mo vergonha",
-        "timestamp": 1787926653685
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Oxe",
-        "timestamp": 1787926661862
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Sozinho é bom",
-        "timestamp": 1787926665097
-      },
-      {
-        "authorNum": "263797142995147",
-        "authorName": "Nanda",
-        "text": "mais tarde, ainda ta cedo",
-        "timestamp": 1787926668022
-      },
-      {
-        "authorNum": "263797142995147",
-        "authorName": "Nanda",
-        "text": "eu acho ruim, pq eu levo tanta coisa, medo de levarem enquanto tô la no mar",
-        "timestamp": 1787926696829
-      },
-      {
-        "authorNum": "263797142995147",
-        "authorName": "Nanda",
-        "text": "eu corro q nem uma pata",
-        "timestamp": 1787926703436
-      },
-      {
-        "authorNum": "1395881181241",
-        "authorName": "Bruno Aguiar",
-        "text": "Seja bem vinda!",
-        "timestamp": 1787926708316
-      },
-      {
-        "authorNum": "263797142995147",
-        "authorName": "Nanda",
-        "text": "brigada",
-        "timestamp": 1787926714080
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "KKKKKKKKKKKKKKKKKKKKKK",
-        "timestamp": 1787926715017
-      },
-      {
         "authorNum": "190864487919667",
         "authorName": "Souza",
         "text": "leva só o básico",
@@ -17760,6 +17694,12 @@
         "authorName": "Camila Designer",
         "text": "Tipo, me siga para mais dicas 🤣🤣🤣🤣",
         "timestamp": 1787928438872
+      },
+      {
+        "authorNum": "83911531044906",
+        "authorName": "~Gará",
+        "text": "Alguém aqui tem interesse em comprar um rins?\nFaço promoção",
+        "timestamp": 1787928524724
       }
     ],
     "120363428464897153@g.us": [],
@@ -17792,7 +17732,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21821,
+    "120363432018531082@g.us": 21822,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -142815,6 +142755,12 @@
         "text": "Tipo, me siga para mais dicas 🤣🤣🤣🤣",
         "pushName": "Camila Designer",
         "timestamp": 1787928438872
+      },
+      "AC1B6A4F1A9987DF1108BB9E3758E0EF": {
+        "sender": "83911531044906@lid",
+        "text": "Alguém aqui tem interesse em comprar um rins?\nFaço promoção",
+        "pushName": "~Gará",
+        "timestamp": 1787928524725
       }
     },
     "120363428464897153@g.us": {
@@ -195724,7 +195670,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787928503124,
+    "120363432018531082@g.us": 1787928524724,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
