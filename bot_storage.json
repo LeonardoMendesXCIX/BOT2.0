@@ -2603,9 +2603,9 @@
         "total": 23
       },
       "190864487919667": {
-        "text": 228,
+        "text": 229,
         "media": 39,
-        "total": 267
+        "total": 268
       },
       "82227819987089": {
         "text": 2,
@@ -2658,14 +2658,14 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 67,
+        "text": 68,
         "media": 13,
-        "total": 80
+        "total": 81
       },
       "172868239380659": {
-        "text": 140,
-        "media": 25,
-        "total": 165
+        "text": 141,
+        "media": 26,
+        "total": 167
       },
       "170455038193841": {
         "text": 1,
@@ -10293,7 +10293,8 @@
         "Gabi 💋 (247020967165997): Adorei falar com você",
         "Souza (190864487919667): 😂😂😂",
         "Gabi 💋 (247020967165997): Miojinho",
-        "Gleydson Souza (274384656834700): Bom dia a todos @todos"
+        "Gleydson Souza (274384656834700): Bom dia a todos @todos",
+        "Pedro Henrique (172868239380659): Tmj.\n\nA verdade é que tem homens aqui que pensa a mesma coisa, só não concorda pq tem medo do cancelamento"
       ]
     },
     "120363428464897153@g.us": {
@@ -17219,42 +17220,6 @@
       {
         "authorNum": "172868239380659",
         "authorName": "Pedro Henrique",
-        "text": "Beijar é uma palavra forte",
-        "timestamp": 1787915669809
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Rapaz, se tu for apenas na intenção, vai conseguir nada não",
-        "timestamp": 1787915672058
-      },
-      {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Sim, todo mundo saí ganhando",
-        "timestamp": 1787915679995
-      },
-      {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Sheik",
-        "timestamp": 1787915683466
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "A pista só tá salgada pra quem não sabe andar",
-        "timestamp": 1787915689782
-      },
-      {
-        "authorNum": "75797868064796",
-        "authorName": "Alexandre Bastos",
-        "text": "Vc que disse",
-        "timestamp": 1787915693649
-      },
-      {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
         "text": "Se não for pensar na intenção é melhor ficar em casa",
         "timestamp": 1787915719059
       },
@@ -18127,6 +18092,12 @@
         "authorName": "Gleydson Souza",
         "text": "Bom dia a todos @todos",
         "timestamp": 1787917468577
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Tmj.\n\nA verdade é que tem homens aqui que pensa a mesma coisa, só não concorda pq tem medo do cancelamento",
+        "timestamp": 1787917482197
       }
     ],
     "120363428464897153@g.us": [],
@@ -18153,7 +18124,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21531,
+    "120363432018531082@g.us": 21532,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -141449,6 +141420,12 @@
         "text": "Bom dia a todos @todos",
         "pushName": "Gleydson Souza",
         "timestamp": 1787917468577
+      },
+      "AC7E145F4F249C6DE835AB92F6342622": {
+        "sender": "172868239380659@lid",
+        "text": "Tmj.\n\nA verdade é que tem homens aqui que pensa a mesma coisa, só não concorda pq tem medo do cancelamento",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787917482198
       }
     },
     "120363428464897153@g.us": {
@@ -194244,7 +194221,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787917468577,
+    "120363432018531082@g.us": 1787917498124,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
