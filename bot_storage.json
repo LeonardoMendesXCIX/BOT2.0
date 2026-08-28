@@ -274,9 +274,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2213,
+        "text": 2214,
         "media": 296,
-        "total": 2509
+        "total": 2510
       },
       "252922705240205": {
         "text": 80,
@@ -449,9 +449,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1657,
+        "text": 1658,
         "media": 322,
-        "total": 1979
+        "total": 1980
       },
       "252600633041077": {
         "text": 1,
@@ -2599,9 +2599,9 @@
         "total": 21
       },
       "190864487919667": {
-        "text": 189,
-        "media": 34,
-        "total": 223
+        "text": 190,
+        "media": 35,
+        "total": 225
       },
       "82227819987089": {
         "text": 2,
@@ -3405,9 +3405,9 @@
         "total": 552
       },
       "5511927018683": {
-        "text": 441,
+        "text": 443,
         "media": 77,
-        "total": 518
+        "total": 520
       },
       "145381035905262": {
         "text": 369,
@@ -3415,9 +3415,9 @@
         "total": 513
       },
       "53537388122141": {
-        "text": 685,
+        "text": 687,
         "media": 53,
-        "total": 738
+        "total": 740
       },
       "120363412288900422": {
         "text": 1,
@@ -9257,9 +9257,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Gabriel (145381035905262): Rapaiz a @233161007071346 é toda engraçadinha, mas é uma oncinha",
-        "Souza (190864487919667): Quem?",
-        "Souza (190864487919667): Gente",
         "Souza (190864487919667): Eu só associo o nome quando eu vejo uma foto",
         "Souza (190864487919667): Só conheço 2 pessoas nesse grupo",
         "Souza (190864487919667): De resto é tudo estranho",
@@ -9756,7 +9753,10 @@
         " (120363432018531082): @81991328395336",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Vou deixar o Adm @54259127210155 explicar pra vocês! 🫡",
         "Leandro (+55 (11) 92701-8683): Bot é uma automação que ajuda nós adms (eu, @81991328395336 @53537388122141 @145381035905262) a gerenciar o grupo",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): !ban @100004689649809"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): !ban @100004689649809",
+        "Leandro (+55 (11) 92701-8683): RH",
+        "Souza (190864487919667): Era de menor",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Ok"
       ]
     },
     "120363428464897153@g.us": {
@@ -15832,7 +15832,11 @@
         "Leandro (+55 (11) 92701-8683): Quando for mais tarde, quem não se apresentou, vou fazer limpeza pela lista de inativos",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mas e os de fora?",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Não vai ficar difícil de acompanhar?",
-        "Leandro (+55 (11) 92701-8683): Como assim?"
+        "Leandro (+55 (11) 92701-8683): Como assim?",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Os números de fora que entrarem",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): DDD de fora",
+        "Leandro (+55 (11) 92701-8683): Já é bom para testar se o antifake tá funcionando",
+        "Leandro (+55 (11) 92701-8683): É para estar funcionando"
       ]
     },
     "120363411233423709@g.us": {
@@ -16445,6 +16449,24 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "!ban @100004689649809",
         "timestamp": 1787883481279
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "RH",
+        "timestamp": 1787883501302
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Era de menor",
+        "timestamp": 1787883515471
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Ok",
+        "timestamp": 1787883530452
       }
     ],
     "120363428464897153@g.us": [
@@ -16648,6 +16670,30 @@
         "authorName": "Leandro",
         "text": "Como assim?",
         "timestamp": 1787883490421
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Os números de fora que entrarem",
+        "timestamp": 1787883502215
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "DDD de fora",
+        "timestamp": 1787883508375
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Já é bom para testar se o antifake tá funcionando",
+        "timestamp": 1787883535098
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "É para estar funcionando",
+        "timestamp": 1787883538659
       }
     ],
     "120363411233423709@g.us": [],
@@ -16670,10 +16716,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21063,
+    "120363432018531082@g.us": 21066,
     "120363428464897153@g.us": 6218,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1721,
+    "120363412288900422@g.us": 1725,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -137182,6 +137228,24 @@
         "text": "!ban @100004689649809",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787883481279
+      },
+      "A56E222A98C004AD2C38FE6E3313881A": {
+        "sender": "54259127210155@lid",
+        "text": "RH",
+        "pushName": "Leandro",
+        "timestamp": 1787883501302
+      },
+      "AC00DF3EEBFBADE5E72A516F48F53D50": {
+        "sender": "190864487919667@lid",
+        "text": "Era de menor",
+        "pushName": "Souza",
+        "timestamp": 1787883515471
+      },
+      "AC284FD0D6E00AB281D8EC4325B8FD1D": {
+        "sender": "53537388122141@lid",
+        "text": "Ok",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787883530452
       }
     },
     "120363428464897153@g.us": {
@@ -185194,6 +185258,30 @@
         "text": "Como assim?",
         "pushName": "Leandro",
         "timestamp": 1787883490421
+      },
+      "AC7764CECEFC1B474D883C67E00F58DD": {
+        "sender": "53537388122141@lid",
+        "text": "Os números de fora que entrarem",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787883502215
+      },
+      "AC2A7F617E81DF574F659F7EAE459C0D": {
+        "sender": "53537388122141@lid",
+        "text": "DDD de fora",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787883508375
+      },
+      "A5048103BD974AF89038B846A92E3771": {
+        "sender": "54259127210155@lid",
+        "text": "Já é bom para testar se o antifake tá funcionando",
+        "pushName": "Leandro",
+        "timestamp": 1787883535098
+      },
+      "A5EE268339DCDD60F05EA4C51AC2FEF6": {
+        "sender": "54259127210155@lid",
+        "text": "É para estar funcionando",
+        "pushName": "Leandro",
+        "timestamp": 1787883538659
       }
     },
     "120363411233423709@g.us": {
@@ -187773,10 +187861,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787883488602,
+    "120363432018531082@g.us": 1787883530452,
     "120363428464897153@g.us": 1787883101464,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787883490421,
+    "120363412288900422@g.us": 1787883538659,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
