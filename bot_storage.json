@@ -1953,9 +1953,9 @@
         "total": 5
       },
       "83911531044906": {
-        "text": 34,
+        "text": 35,
         "media": 2,
-        "total": 36
+        "total": 37
       },
       "172864548434113": {
         "text": 42,
@@ -9865,7 +9865,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Leandro (+55 (11) 92701-8683): O @120542904463568 acabou de entrar no grupo",
         "Leandro (+55 (11) 92701-8683): !ban @153764728184839",
         "Leandro (+55 (11) 92701-8683): 😒",
         "Leandro (+55 (11) 92701-8683): Esse fresco tá querendo usar o bot e nem pergunta se pode",
@@ -10364,7 +10363,8 @@
         "Camila Designer (92629643563147): Entendo, eu não vejo a hora desse mês de Agosto acabar, pra mim já deu",
         "Camila Designer (92629643563147): Agosto está pank 🤣🤣🤣",
         "𝔞𝔩𝔦𝔫𝔢🫶🏽 (221307534876912): Eitttaaa",
-        "F. RicaRdo sAnToS (193729163993156): Pão sexual é o que transa com Pão 🌭??? 🧐🧐"
+        "F. RicaRdo sAnToS (193729163993156): Pão sexual é o que transa com Pão 🌭??? 🧐🧐",
+        "~Gará (83911531044906): Amo"
       ]
     },
     "120363428464897153@g.us": {
@@ -17476,6 +17476,12 @@
         "authorName": "F. RicaRdo sAnToS",
         "text": "Pão sexual é o que transa com Pão 🌭??? 🧐🧐",
         "timestamp": 1787921723121
+      },
+      {
+        "authorNum": "83911531044906",
+        "authorName": "~Gará",
+        "text": "Amo",
+        "timestamp": 1787921820480
       }
     ],
     "120363428464897153@g.us": [],
@@ -17556,7 +17562,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21657,
+    "120363432018531082@g.us": 21658,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2003,
@@ -141608,6 +141614,12 @@
         "text": "Pão sexual é o que transa com Pão 🌭??? 🧐🧐",
         "pushName": "F. RicaRdo sAnToS",
         "timestamp": 1787921723121
+      },
+      "AC261FAB8BAC9EE84DBC06CB396995E7": {
+        "sender": "83911531044906@lid",
+        "text": "Amo",
+        "pushName": "~Gará",
+        "timestamp": 1787921820480
       }
     },
     "120363428464897153@g.us": {
@@ -194463,7 +194475,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787921723121,
+    "120363432018531082@g.us": 1787921820480,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787921575912,
