@@ -173,9 +173,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1659,
+        "text": 1660,
         "media": 458,
-        "total": 2117
+        "total": 2118
       },
       "81991328395336": {
         "text": 3945,
@@ -693,9 +693,9 @@
         "total": 2
       },
       "90130358485223": {
-        "text": 113,
+        "text": 115,
         "media": 13,
-        "total": 126
+        "total": 128
       },
       "57707230945348": {
         "text": 1225,
@@ -2708,9 +2708,9 @@
         "total": 2
       },
       "108461127897146": {
-        "text": 121,
+        "text": 122,
         "media": 17,
-        "total": 138
+        "total": 139
       },
       "10050861031495": {
         "text": 0,
@@ -9950,9 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Souza (190864487919667): Tavam falando de dividir a conta no primeiro encontro",
-        "Nanda (263797142995147): ela nem foi atrás",
-        "Souza (190864487919667): De que a mulher tinha que dar algo pro cara no primeiro",
         "Souza (190864487919667): Que se não era mais fácil ir no puteiro",
         "~Gará (83911531044906): Era só brincadeira caramba...rsrs",
         "Souza (190864487919667): Beleza, acredito",
@@ -10449,7 +10446,10 @@
         "Celiete Souza (129373172711439): Não contem comigo  kkk",
         "Gabriel Ohi (90130358485223): Acho q vc iria fazer parte do ranking kkkkk",
         "Gabriel Ohi (90130358485223): Eita",
-        "Camila Designer (92629643563147): Eu passei por isso 🤣🤣🤣"
+        "Camila Designer (92629643563147): Eu passei por isso 🤣🤣🤣",
+        "Gabriel Ohi (90130358485223): Sei não 😂😂😂",
+        "jaciara (108461127897146): Eu acredito no que os outros falam kkkkk e aí eu tenho minha alto estima lá no alto",
+        "Gabriel Ohi (90130358485223): Somos dois 😂😂"
       ]
     },
     "120363428464897153@g.us": {
@@ -17487,12 +17487,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "75797868064796",
-        "authorName": "Alexandre Bastos",
-        "text": "Eita",
-        "timestamp": 1787947781439
-      },
-      {
         "authorNum": "193729163993156",
         "authorName": "F. RicaRdo sAnToS",
         "text": "Oh se é kkkkk como diz no chaves\n\n\"Extra Extra 13 pessoas enganadas, no caso 98\"\n\n🤣🤣🤣🤣🤣🥰",
@@ -17923,6 +17917,24 @@
         "authorName": "Camila Designer",
         "text": "Eu passei por isso 🤣🤣🤣",
         "timestamp": 1787949567343
+      },
+      {
+        "authorNum": "90130358485223",
+        "authorName": "Gabriel Ohi",
+        "text": "Sei não 😂😂😂",
+        "timestamp": 1787949591441
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Eu acredito no que os outros falam kkkkk e aí eu tenho minha alto estima lá no alto",
+        "timestamp": 1787949596808
+      },
+      {
+        "authorNum": "90130358485223",
+        "authorName": "Gabriel Ohi",
+        "text": "Somos dois 😂😂",
+        "timestamp": 1787949600783
       }
     ],
     "120363428464897153@g.us": [],
@@ -17931,14 +17943,7 @@
     "120363411233423709@g.us": [],
     "120363428079168524@g.us": [],
     "120363411246936023@g.us": [],
-    "120363409024805409@g.us": [
-      {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Pqp 🤣",
-        "timestamp": 1787947530062
-      }
-    ],
+    "120363409024805409@g.us": [],
     "120363050678635389@g.us": [],
     "120363411043114631@g.us": []
   },
@@ -17949,7 +17954,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22460,
+    "120363432018531082@g.us": 22463,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -146768,6 +146773,24 @@
         "text": "Eu passei por isso 🤣🤣🤣",
         "pushName": "Camila Designer",
         "timestamp": 1787949567343
+      },
+      "AC00CBF588CD9379B94843FFA0C42ECA": {
+        "sender": "90130358485223@lid",
+        "text": "Sei não 😂😂😂",
+        "pushName": "Gabriel Ohi",
+        "timestamp": 1787949591441
+      },
+      "ACC50A7D1009C9439867426FB3115821": {
+        "sender": "108461127897146@lid",
+        "text": "Eu acredito no que os outros falam kkkkk e aí eu tenho minha alto estima lá no alto",
+        "pushName": "jaciara",
+        "timestamp": 1787949596808
+      },
+      "AC073FA5B57CAF33CE3C1F2880BC2EC3": {
+        "sender": "90130358485223@lid",
+        "text": "Somos dois 😂😂",
+        "pushName": "Gabriel Ohi",
+        "timestamp": 1787949600783
       }
     },
     "120363428464897153@g.us": {
@@ -200247,7 +200270,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787949576637,
+    "120363432018531082@g.us": 1787949600783,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
