@@ -2944,9 +2944,9 @@
         "total": 9
       },
       "129373172711439": {
-        "text": 888,
-        "media": 218,
-        "total": 1106
+        "text": 889,
+        "media": 219,
+        "total": 1108
       },
       "16007578021977": {
         "text": 50,
@@ -3120,8 +3120,8 @@
       },
       "57561571176651": {
         "text": 32,
-        "media": 40,
-        "total": 72
+        "media": 42,
+        "total": 74
       },
       "201257922908323": {
         "text": 3,
@@ -3184,9 +3184,9 @@
         "total": 15
       },
       "120044990287992": {
-        "text": 163,
+        "text": 164,
         "media": 7,
-        "total": 170
+        "total": 171
       },
       "71120413843690": {
         "text": 2,
@@ -13608,7 +13608,8 @@
         "Souza (190864487919667): Pessoal tá se guardando pra amanhã",
         "LUCIANO (57561571176651): Guardando o q??",
         "Souza (190864487919667): Ish",
-        "Celiete Souza (129373172711439): Eu vou me recolher pra me guardar pra amanhã também"
+        "Celiete Souza (129373172711439): Eu vou me recolher pra me guardar pra amanhã também",
+        "negoh🐻 (120044990287992): Vou me guarda pra amanhã"
       ]
     },
     "120363409727467494@g.us": {
@@ -16455,6 +16456,12 @@
         "authorName": "Celiete Souza",
         "text": "Eu vou me recolher pra me guardar pra amanhã também",
         "timestamp": 1787878393464
+      },
+      {
+        "authorNum": "120044990287992",
+        "authorName": "negoh🐻",
+        "text": "Vou me guarda pra amanhã",
+        "timestamp": 1787878410780
       }
     ],
     "120363409727467494@g.us": [],
@@ -16625,7 +16632,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 21027,
-    "120363428464897153@g.us": 6074,
+    "120363428464897153@g.us": 6075,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1711,
     "120363411233423709@g.us": 5,
@@ -172557,6 +172564,12 @@
         "text": "Eu vou me recolher pra me guardar pra amanhã também",
         "pushName": "Celiete Souza",
         "timestamp": 1787878393464
+      },
+      "AC97066314CC2F868A91A005881FC122": {
+        "sender": "120044990287992@lid",
+        "text": "Vou me guarda pra amanhã",
+        "pushName": "negoh🐻",
+        "timestamp": 1787878410780
       }
     },
     "120363409727467494@g.us": {
@@ -186601,7 +186614,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787878394668,
-    "120363428464897153@g.us": 1787878393464,
+    "120363428464897153@g.us": 1787878443777,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787877736241,
     "120363411233423709@g.us": 1787113553426,
