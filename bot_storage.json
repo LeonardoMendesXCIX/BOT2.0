@@ -179,8 +179,8 @@
       },
       "81991328395336": {
         "text": 3937,
-        "media": 1341,
-        "total": 5278
+        "media": 1343,
+        "total": 5280
       },
       "179040627490824": {
         "text": 433,
@@ -1863,9 +1863,9 @@
         "total": 6
       },
       "1395881181241": {
-        "text": 149,
+        "text": 150,
         "media": 5,
-        "total": 154
+        "total": 155
       },
       "198595546501333": {
         "text": 2,
@@ -9950,8 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Arthur (206253020176458): De nada",
-        "Kamila (78143406768201): Tudo bem",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): !ban",
         "Souza (190864487919667): Ish",
         "Souza (190864487919667): Ban do nada",
@@ -10449,7 +10447,9 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): @145381035905262 sem dúvidas!",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @92629643563147",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Ala, cobiçado de novo",
-        "Camila Designer (92629643563147): Será????"
+        "Camila Designer (92629643563147): Será????",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @53537388122141",
+        "Bruno Aguiar (+1395881181241): Com certeza é muito gata 🤩"
       ]
     },
     "120363428464897153@g.us": {
@@ -17469,12 +17469,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "@all \n\n\n\nBom, eu sou casada !!!",
-        "timestamp": 1787938944345
-      },
-      {
         "authorNum": "5511927018683",
         "authorName": "Leandro",
         "text": "Eu também sou casado e muito bem casado, graças a Deus! 🙏🏻",
@@ -18139,6 +18133,18 @@
         "authorName": "Camila Designer",
         "text": "Será????",
         "timestamp": 1787940667877
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "@53537388122141",
+        "timestamp": 1787940737173
+      },
+      {
+        "authorNum": "1395881181241",
+        "authorName": "Bruno Aguiar",
+        "text": "Com certeza é muito gata 🤩",
+        "timestamp": 1787940760120
       }
     ],
     "120363428464897153@g.us": [],
@@ -18268,7 +18274,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22211,
+    "120363432018531082@g.us": 22213,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2075,
@@ -145605,6 +145611,18 @@
         "text": "Será????",
         "pushName": "Camila Designer",
         "timestamp": 1787940667878
+      },
+      "ACCD888F29590C08E8919B639F49CD1A": {
+        "sender": "81991328395336@lid",
+        "text": "@53537388122141",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787940737173
+      },
+      "AC19CDE4E23983B69E0E7828ADF725E8": {
+        "sender": "1395881181241@lid",
+        "text": "Com certeza é muito gata 🤩",
+        "pushName": "Bruno Aguiar",
+        "timestamp": 1787940760120
       }
     },
     "120363428464897153@g.us": {
@@ -198976,7 +198994,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787940698124,
+    "120363432018531082@g.us": 1787940760120,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787940055842,
