@@ -217,9 +217,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1461,
+        "text": 1462,
         "media": 1099,
-        "total": 2560
+        "total": 2561
       },
       "3126803329115": {
         "text": 87,
@@ -2910,8 +2910,8 @@
       },
       "92629643563147": {
         "text": 575,
-        "media": 387,
-        "total": 962
+        "media": 388,
+        "total": 963
       },
       "122552932372575": {
         "text": 0,
@@ -3305,8 +3305,8 @@
       },
       "274384656834700": {
         "text": 17,
-        "media": 3,
-        "total": 20
+        "media": 4,
+        "total": 21
       },
       "34626781356198": {
         "text": 0,
@@ -3315,8 +3315,8 @@
       },
       "75797868064796": {
         "text": 5,
-        "media": 5,
-        "total": 10
+        "media": 6,
+        "total": 11
       }
     },
     "120363409727467494@g.us": {
@@ -9205,7 +9205,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Jessica (208958782488665): Vim pela fofoca",
         "F. RicaRdo sAnToS (193729163993156): Bem vinda",
         "Rafael Moura (57707230945348): Ja acabou",
         "Rafael Moura (57707230945348): Mas no cabaré eu acho que vai continuar 😏",
@@ -9704,7 +9703,8 @@
         "Edison Medeiros💚 (108268240302270): Boah noite a todos !\nMe chamo Edison tenho 44 aninhos sou solteiro e moro em Votorantim SP",
         " (120363432018531082): Boah noite a todos !\nMe chamo Edison tenho 44 aninhos sou solteiro e moro em Votorantim SP",
         "Milena B. Costa (233161007071346): Como ele é generoso, me deu dois centímetros a mais kkkkkkk 🤌🏻",
-        "Gabriel (145381035905262): Claro"
+        "Gabriel (145381035905262): Claro",
+        "Camila Designer (92629643563147): Oi"
       ]
     },
     "120363428464897153@g.us": {
@@ -16241,6 +16241,12 @@
         "authorName": "Gabriel",
         "text": "Claro",
         "timestamp": 1787879951406
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Oi",
+        "timestamp": 1787880084536
       }
     ],
     "120363428464897153@g.us": [
@@ -16866,7 +16872,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21035,
+    "120363432018531082@g.us": 21036,
     "120363428464897153@g.us": 6167,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1711,
@@ -137216,6 +137222,12 @@
         "text": "Claro",
         "pushName": "Gabriel",
         "timestamp": 1787879951406
+      },
+      "2AA170AEE4DD10530DEC": {
+        "sender": "92629643563147@lid",
+        "text": "Oi",
+        "pushName": "Camila Designer",
+        "timestamp": 1787880084536
       }
     },
     "120363428464897153@g.us": {
@@ -187435,8 +187447,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787879951404,
-    "120363428464897153@g.us": 1787880070759,
+    "120363432018531082@g.us": 1787880084536,
+    "120363428464897153@g.us": 1787880099313,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787877736241,
     "120363411233423709@g.us": 1787113553426,
