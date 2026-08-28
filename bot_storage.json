@@ -254,8 +254,8 @@
       },
       "92629643563147": {
         "text": 1468,
-        "media": 1101,
-        "total": 2569
+        "media": 1102,
+        "total": 2570
       },
       "3126803329115": {
         "text": 87,
@@ -279,8 +279,8 @@
       },
       "53537388122141": {
         "text": 2242,
-        "media": 304,
-        "total": 2546
+        "media": 305,
+        "total": 2547
       },
       "252922705240205": {
         "text": 80,
@@ -318,9 +318,9 @@
         "total": 117
       },
       "199733712785531": {
-        "text": 201,
+        "text": 202,
         "media": 116,
-        "total": 317
+        "total": 318
       },
       "153596754661626": {
         "text": 1,
@@ -698,9 +698,9 @@
         "total": 95
       },
       "57707230945348": {
-        "text": 1145,
+        "text": 1146,
         "media": 200,
-        "total": 1345
+        "total": 1346
       },
       "152218690924790": {
         "text": 309,
@@ -2798,9 +2798,9 @@
         "total": 4
       },
       "247020967165997": {
-        "text": 8,
+        "text": 9,
         "media": 1,
-        "total": 9
+        "total": 10
       },
       "206253020176458": {
         "text": 2,
@@ -2808,9 +2808,9 @@
         "total": 3
       },
       "210152934359048": {
-        "text": 14,
+        "text": 15,
         "media": 0,
-        "total": 14
+        "total": 15
       },
       "221307534876912": {
         "text": 1,
@@ -10064,7 +10064,12 @@
         "Rafael Moura (57707230945348): Gado",
         "Gabi 💋 (247020967165997): Obrigada",
         "Rafael Moura (57707230945348): Eae Gus bom dia 🤣",
-        "Gabi 💋 (247020967165997): Já me apresentei"
+        "Gabi 💋 (247020967165997): Já me apresentei",
+        "Bruno (210152934359048): Tem alguém de mg?",
+        "Gabi 💋 (247020967165997): Eu acho",
+        "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Bom dia! Kk",
+        "Rafael Moura (57707230945348): Eu num vi haha",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): @190864487919667"
       ]
     },
     "120363428464897153@g.us": {
@@ -16987,30 +16992,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "199733712785531",
-        "authorName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
-        "text": "Bem vinda.",
-        "timestamp": 1787912714706
-      },
-      {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "To bemm sua fofa🥹",
-        "timestamp": 1787912716003
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Buenos",
-        "timestamp": 1787912716590
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Obrigada",
-        "timestamp": 1787912722318
-      },
-      {
         "authorNum": "57707230945348",
         "authorName": "Rafael Moura",
         "text": "Bom dia 😴",
@@ -17387,6 +17368,36 @@
         "authorName": "Gabi 💋",
         "text": "Já me apresentei",
         "timestamp": 1787914513638
+      },
+      {
+        "authorNum": "210152934359048",
+        "authorName": "Bruno",
+        "text": "Tem alguém de mg?",
+        "timestamp": 1787914515206
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Eu acho",
+        "timestamp": 1787914515953
+      },
+      {
+        "authorNum": "199733712785531",
+        "authorName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
+        "text": "Bom dia! Kk",
+        "timestamp": 1787914522001
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Eu num vi haha",
+        "timestamp": 1787914525207
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "@190864487919667",
+        "timestamp": 1787914538685
       }
     ],
     "120363428464897153@g.us": [],
@@ -17425,7 +17436,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21302,
+    "120363432018531082@g.us": 21307,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1992,
@@ -139354,6 +139365,36 @@
         "text": "Já me apresentei",
         "pushName": "Gabi 💋",
         "timestamp": 1787914513638
+      },
+      "ACA80B8DF0FB17449FB7A4FE2E71D455": {
+        "sender": "210152934359048@lid",
+        "text": "Tem alguém de mg?",
+        "pushName": "Bruno",
+        "timestamp": 1787914515206
+      },
+      "AC4886A0682B9FDFB0B1E9E8257976EF": {
+        "sender": "247020967165997@lid",
+        "text": "Eu acho",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787914515954
+      },
+      "3A87FFC05F59556DA5D7": {
+        "sender": "199733712785531@lid",
+        "text": "Bom dia! Kk",
+        "pushName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
+        "timestamp": 1787914522002
+      },
+      "AC33CF7A6853601F7BB3F70E45FF7F76": {
+        "sender": "57707230945348@lid",
+        "text": "Eu num vi haha",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787914525207
+      },
+      "ACCF202B209CADFDE69898482DD142A0": {
+        "sender": "53537388122141@lid",
+        "text": "@190864487919667",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787914538685
       }
     },
     "120363428464897153@g.us": {
@@ -192143,7 +192184,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787914513638,
+    "120363432018531082@g.us": 1787914538685,
     "120363428464897153@g.us": 1787913193216,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787914462012,
