@@ -298,9 +298,9 @@
         "total": 117
       },
       "199733712785531": {
-        "text": 190,
+        "text": 191,
         "media": 112,
-        "total": 302
+        "total": 303
       },
       "153596754661626": {
         "text": 1,
@@ -433,9 +433,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1646,
+        "text": 1647,
         "media": 321,
-        "total": 1967
+        "total": 1968
       },
       "252600633041077": {
         "text": 1,
@@ -9237,8 +9237,6 @@
       ],
       "27/08/2026": [
         "Bruno Aguiar (+1395881181241): Seja bem vinda!",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Não vai não, removi",
-        "Bruno Aguiar (+1395881181241): Seja bem vinda!",
         "Jennifer🦋 (205621945192508): Obrigada 🙂🙂",
         "Jessica (208958782488665): Obrigada gente linda",
         "willian (163530946961491): Seja bem vinda moça",
@@ -9735,7 +9733,9 @@
         "Leandro (+55 (11) 92701-8683): Bem vindo jovem! 🤝",
         "Gilson😍😍 (100004689649809): Sim",
         "Leandro (+55 (11) 92701-8683): Boa noite",
-        "Leandro (+55 (11) 92701-8683): Se apresenta aí para nós jovem!"
+        "Leandro (+55 (11) 92701-8683): Se apresenta aí para nós jovem!",
+        "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Boa noite a todos",
+        "Leandro (+55 (11) 92701-8683): Boa noite Gus!"
       ]
     },
     "120363428464897153@g.us": {
@@ -16288,6 +16288,18 @@
         "authorName": "Leandro",
         "text": "Se apresenta aí para nós jovem!",
         "timestamp": 1787882122700
+      },
+      {
+        "authorNum": "199733712785531",
+        "authorName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
+        "text": "Boa noite a todos",
+        "timestamp": 1787882157983
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Boa noite Gus!",
+        "timestamp": 1787882171720
       }
     ],
     "120363428464897153@g.us": [
@@ -16512,7 +16524,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21042,
+    "120363432018531082@g.us": 21044,
     "120363428464897153@g.us": 6200,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1712,
@@ -16637,6 +16649,12 @@
       "chatId": "120363428464897153@g.us",
       "newMemberId": "193729163993156@lid",
       "runAt": 1787882303794
+    },
+    {
+      "id": "1787882163406_153764728184839@lid",
+      "chatId": "120363428464897153@g.us",
+      "newMemberId": "153764728184839@lid",
+      "runAt": 1787883063406
     }
   ],
   "pendingPresentations": [],
@@ -136917,6 +136935,18 @@
         "text": "Se apresenta aí para nós jovem!",
         "pushName": "Leandro",
         "timestamp": 1787882122700
+      },
+      "3A0353C31F163E0D48A5": {
+        "sender": "199733712785531@lid",
+        "text": "Boa noite a todos",
+        "pushName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
+        "timestamp": 1787882157983
+      },
+      "A56998B1FEDBA17CF065EBA4454489D8": {
+        "sender": "54259127210155@lid",
+        "text": "Boa noite Gus!",
+        "pushName": "Leandro",
+        "timestamp": 1787882171720
       }
     },
     "120363428464897153@g.us": {
@@ -187340,7 +187370,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787882122700,
+    "120363432018531082@g.us": 1787882171720,
     "120363428464897153@g.us": 1787881988279,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787881450994,
