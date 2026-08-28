@@ -1863,9 +1863,9 @@
         "total": 6
       },
       "1395881181241": {
-        "text": 164,
+        "text": 165,
         "media": 5,
-        "total": 169
+        "total": 170
       },
       "198595546501333": {
         "text": 2,
@@ -3946,8 +3946,8 @@
       },
       "81991328395336": {
         "text": 17,
-        "media": 960,
-        "total": 977
+        "media": 962,
+        "total": 979
       },
       "145381035905262": {
         "text": 7,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Souza (190864487919667): Tô bem e você? Como anda Goiânia?",
         "jaciara (108461127897146): Estou bem graças a Deus",
         "jaciara (108461127897146): Que bom , eu estou bem",
         "jaciara (108461127897146): Estou no Maranhão",
@@ -10449,7 +10448,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Já fui 😂😂",
         "Bruno Aguiar (+1395881181241): Fica linda",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Deu ruim na época. Mas no começo ficou legalzinho até 😂😂",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): @108461127897146"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): @108461127897146",
+        "Bruno Aguiar (+1395881181241): São coisas que acontece \nO importante é o resultado final"
       ]
     },
     "120363428464897153@g.us": {
@@ -17610,6 +17610,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "@108461127897146",
         "timestamp": 1787946836185
+      },
+      {
+        "authorNum": "1395881181241",
+        "authorName": "Bruno Aguiar",
+        "text": "São coisas que acontece \nO importante é o resultado final",
+        "timestamp": 1787946847700
       }
     ],
     "120363428464897153@g.us": [],
@@ -17636,7 +17642,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22339,
+    "120363432018531082@g.us": 22340,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -145729,6 +145735,12 @@
         "text": "@108461127897146",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787946836185
+      },
+      "ACF8D9997197C9B27DC08E2D3F7E396A": {
+        "sender": "1395881181241@lid",
+        "text": "São coisas que acontece \nO importante é o resultado final",
+        "pushName": "Bruno Aguiar",
+        "timestamp": 1787946847700
       }
     },
     "120363428464897153@g.us": {
@@ -199202,7 +199214,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787946836185,
+    "120363432018531082@g.us": 1787946847700,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
@@ -199213,7 +199225,7 @@
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1787868477291,
-    "120363409024805409@g.us": 1787946832222,
+    "120363409024805409@g.us": 1787946875553,
     "120363411043114631@g.us": 1787897464612
   },
   "autoAnimSent": {
