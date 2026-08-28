@@ -2663,9 +2663,9 @@
         "total": 82
       },
       "172868239380659": {
-        "text": 174,
+        "text": 175,
         "media": 35,
-        "total": 209
+        "total": 210
       },
       "170455038193841": {
         "text": 1,
@@ -2798,9 +2798,9 @@
         "total": 5
       },
       "247020967165997": {
-        "text": 113,
+        "text": 114,
         "media": 30,
-        "total": 143
+        "total": 144
       },
       "206253020176458": {
         "text": 3,
@@ -9855,8 +9855,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Leandro (+55 (11) 92701-8683): Só espero que não seja quem estou pensando",
-        "Leandro (+55 (11) 92701-8683): Se apresenta aí @265811516211241",
         "Gustavo Willians Lopes (265811516211241): Gustavo \nJoinville SC \nSolteiro \n32",
         "Leandro (+55 (11) 92701-8683): Bem vindo jovem! 🫡",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Bem vindo jovem 🤝",
@@ -10354,7 +10352,9 @@
         "Alexandre Bastos (75797868064796): Eita gosta muito de cabaré",
         "Pedro Henrique (172868239380659): Ahhh ele tava traindo ela",
         "Gabi 💋 (247020967165997): No cabaré",
-        "Pedro Henrique (172868239380659): Pelo menos transou antes de morrer"
+        "Pedro Henrique (172868239380659): Pelo menos transou antes de morrer",
+        "Gabi 💋 (247020967165997): Tu só se queima né miojo",
+        "Pedro Henrique (172868239380659): Lá ele"
       ]
     },
     "120363428464897153@g.us": {
@@ -17280,42 +17280,6 @@
       {
         "authorNum": "57707230945348",
         "authorName": "Rafael Moura",
-        "text": "Ja obedeceu",
-        "timestamp": 1787917099904
-      },
-      {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Rsss",
-        "timestamp": 1787917101334
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Bem isso",
-        "timestamp": 1787917111819
-      },
-      {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Quem precisa de calma é você, partiu pra ofensa do nada kkkkkkkkkkkk toma um suco de maracujá",
-        "timestamp": 1787917114720
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Ksksks",
-        "timestamp": 1787917122034
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Eu tô calma miojo",
-        "timestamp": 1787917126047
-      },
-      {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
         "text": "Miojo é bom vei",
         "timestamp": 1787917135545
       },
@@ -17954,6 +17918,18 @@
         "authorName": "Pedro Henrique",
         "text": "Pelo menos transou antes de morrer",
         "timestamp": 1787918898704
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Tu só se queima né miojo",
+        "timestamp": 1787918919586
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Lá ele",
+        "timestamp": 1787918933100
       }
     ],
     "120363428464897153@g.us": [],
@@ -17973,7 +17949,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21611,
+    "120363432018531082@g.us": 21613,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -141749,6 +141725,18 @@
         "text": "Pelo menos transou antes de morrer",
         "pushName": "Pedro Henrique",
         "timestamp": 1787918898704
+      },
+      "AC6639076F2F402EADD772D5E4841FBA": {
+        "sender": "247020967165997@lid",
+        "text": "Tu só se queima né miojo",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787918919587
+      },
+      "ACF046AC3E86AADA66131EBC92E3E091": {
+        "sender": "172868239380659@lid",
+        "text": "Lá ele",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787918933100
       }
     },
     "120363428464897153@g.us": {
@@ -194544,7 +194532,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787918908556,
+    "120363432018531082@g.us": 1787918933100,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
