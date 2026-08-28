@@ -3435,9 +3435,9 @@
         "total": 586
       },
       "5511927018683": {
-        "text": 531,
+        "text": 533,
         "media": 102,
-        "total": 633
+        "total": 635
       },
       "145381035905262": {
         "text": 445,
@@ -16211,7 +16211,9 @@
         "Gabriel (145381035905262): Ela quer que tu seja ousado, vai nego",
         "Leandro (+55 (11) 92701-8683): Relaxa jovem",
         "Leandro (+55 (11) 92701-8683): Tu tá pensando que eu tô indo, já tô é voltando",
-        "Gabriel (145381035905262): Kkkkk,.galera boa noite durmam bem"
+        "Gabriel (145381035905262): Kkkkk,.galera boa noite durmam bem",
+        "Leandro (+55 (11) 92701-8683): Valeu, valeu",
+        "Leandro (+55 (11) 92701-8683): Tu também"
       ]
     },
     "120363411233423709@g.us": {
@@ -16817,6 +16819,18 @@
         "authorName": "Gabriel",
         "text": "Kkkkk,.galera boa noite durmam bem",
         "timestamp": 1787892345333
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Valeu, valeu",
+        "timestamp": 1787892478244
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Tu também",
+        "timestamp": 1787892480971
       }
     ],
     "120363411233423709@g.us": [],
@@ -16835,7 +16849,7 @@
     "120363432018531082@g.us": 21110,
     "120363428464897153@g.us": 6279,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1985,
+    "120363412288900422@g.us": 1987,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -187588,6 +187602,18 @@
         "text": "Kkkkk,.galera boa noite durmam bem",
         "pushName": "Gabriel",
         "timestamp": 1787892345334
+      },
+      "A5B847B44D0D14A190FD59FD4AB037D0": {
+        "sender": "54259127210155@lid",
+        "text": "Valeu, valeu",
+        "pushName": "Leandro",
+        "timestamp": 1787892478244
+      },
+      "A5AD836D9E396E235F206704E1DA8CF4": {
+        "sender": "54259127210155@lid",
+        "text": "Tu também",
+        "pushName": "Leandro",
+        "timestamp": 1787892480971
       }
     },
     "120363411233423709@g.us": {
@@ -190206,7 +190232,7 @@
     "120363432018531082@g.us": 1787890494475,
     "120363428464897153@g.us": 1787890423703,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787892345333,
+    "120363412288900422@g.us": 1787892480970,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
