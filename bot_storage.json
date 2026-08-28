@@ -3134,9 +3134,9 @@
         "total": 1
       },
       "25520947339303": {
-        "text": 33,
+        "text": 35,
         "media": 1,
-        "total": 34
+        "total": 36
       },
       "66743926038604": {
         "text": 57,
@@ -3199,9 +3199,9 @@
         "total": 29
       },
       "155503636275307": {
-        "text": 18,
+        "text": 19,
         "media": 16,
-        "total": 34
+        "total": 35
       },
       "241553943601214": {
         "text": 5,
@@ -3328,9 +3328,9 @@
         "total": 510
       },
       "53537388122141": {
-        "text": 669,
+        "text": 671,
         "media": 53,
-        "total": 722
+        "total": 724
       },
       "120363412288900422": {
         "text": 1,
@@ -13557,7 +13557,9 @@
         "Clayton 🇳🇬 (155503636275307): Meninas mamde foto de vocês bem avontade",
         "Priscilla 🌻 (25520947339303): Trabalho como assistente de encarregada",
         "Priscilla 🌻 (25520947339303): Supermercado",
-        "Souza (190864487919667): Mercado é puxado"
+        "Souza (190864487919667): Mercado é puxado",
+        "Clayton 🇳🇬 (155503636275307): Onde e o mercado pra ir visitar você",
+        "Priscilla 🌻 (25520947339303): M"
       ]
     },
     "120363409727467494@g.us": {
@@ -15536,7 +15538,9 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): O motivo do off:\nVou muda minhas 4 mil figurinhas para o grupo ali \nQ tá eu e o número da loja \nPq vou desinstalar meu whatsapp \nTá cheio de bug vou tenta arruma esse infame",
         "Gabriel (145381035905262): Entendi",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Tudo bem",
-        "Gabriel (145381035905262): Eu acho que o lailson é mais baixo que tu @53537388122141"
+        "Gabriel (145381035905262): Eu acho que o lailson é mais baixo que tu @53537388122141",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tá zuando",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Qual a altura dele?"
       ]
     },
     "120363411233423709@g.us": {
@@ -16987,6 +16991,18 @@
         "authorName": "Souza",
         "text": "Mercado é puxado",
         "timestamp": 1787876789311
+      },
+      {
+        "authorNum": "155503636275307",
+        "authorName": "Clayton 🇳🇬",
+        "text": "Onde e o mercado pra ir visitar você",
+        "timestamp": 1787876828696
+      },
+      {
+        "authorNum": "25520947339303",
+        "authorName": "Priscilla 🌻",
+        "text": "M",
+        "timestamp": 1787876845629
       }
     ],
     "120363409727467494@g.us": [],
@@ -17134,6 +17150,18 @@
         "authorName": "Gabriel",
         "text": "Eu acho que o lailson é mais baixo que tu @53537388122141",
         "timestamp": 1787876793113
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Tá zuando",
+        "timestamp": 1787876828519
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Qual a altura dele?",
+        "timestamp": 1787876832641
       }
     ],
     "120363411233423709@g.us": [],
@@ -17150,9 +17178,9 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 21010,
-    "120363428464897153@g.us": 6038,
+    "120363428464897153@g.us": 6040,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1697,
+    "120363412288900422@g.us": 1699,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -172764,6 +172792,18 @@
         "text": "Mercado é puxado",
         "pushName": "Souza",
         "timestamp": 1787876789311
+      },
+      "ACE1243DE0F15400D9A1E01CC90AA0DB": {
+        "sender": "155503636275307@lid",
+        "text": "Onde e o mercado pra ir visitar você",
+        "pushName": "Clayton 🇳🇬",
+        "timestamp": 1787876828696
+      },
+      "AC00071074C7E975440A484B0BD72EFD": {
+        "sender": "25520947339303@lid",
+        "text": "M",
+        "pushName": "Priscilla 🌻",
+        "timestamp": 1787876845629
       }
     },
     "120363409727467494@g.us": {
@@ -184150,6 +184190,18 @@
         "text": "Eu acho que o lailson é mais baixo que tu @53537388122141",
         "pushName": "Gabriel",
         "timestamp": 1787876793113
+      },
+      "AC71D73DA2E480F52AC0C74C1D40F346": {
+        "sender": "53537388122141@lid",
+        "text": "Tá zuando",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787876828519
+      },
+      "AC93D5BE8BA3790CB739F7DCC982A801": {
+        "sender": "53537388122141@lid",
+        "text": "Qual a altura dele?",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787876832641
       }
     },
     "120363411233423709@g.us": {
@@ -186706,9 +186758,9 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787876762191,
-    "120363428464897153@g.us": 1787876789311,
+    "120363428464897153@g.us": 1787876849870,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787876793113,
+    "120363412288900422@g.us": 1787876832641,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
