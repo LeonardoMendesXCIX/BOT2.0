@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2382,
+        "text": 2383,
         "media": 330,
-        "total": 2712
+        "total": 2713
       },
       "252922705240205": {
         "text": 80,
@@ -2603,9 +2603,9 @@
         "total": 41
       },
       "190864487919667": {
-        "text": 365,
+        "text": 367,
         "media": 52,
-        "total": 417
+        "total": 419
       },
       "82227819987089": {
         "text": 2,
@@ -9950,9 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Wagner Cabral (240716089413724): Kkkkkkk",
-        "May (227783724793861): Aqui eu já n senti inveja kkkkk",
-        "Wagner Cabral (240716089413724): Inveja eu tenho disso aqui",
         "May (227783724793861): Bloqueia adm",
         "May (227783724793861): Ninguém merece 😔",
         "Rafael Moura (57707230945348): ?",
@@ -10449,7 +10446,10 @@
         "Souza (190864487919667): Q",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Teu nome e Fernando",
         "Souza (190864487919667): É",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Isso aqui é pra ti\n@190864487919667"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Isso aqui é pra ti\n@190864487919667",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tá na etiqueta dele amiga",
+        "Souza (190864487919667): 🫪🫪🫪",
+        "Souza (190864487919667): Pois se apresente"
       ]
     },
     "120363428464897153@g.us": {
@@ -17764,6 +17764,24 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Isso aqui é pra ti\n@190864487919667",
         "timestamp": 1787957265765
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Tá na etiqueta dele amiga",
+        "timestamp": 1787957280338
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "🫪🫪🫪",
+        "timestamp": 1787957288577
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Pois se apresente",
+        "timestamp": 1787957294522
       }
     ],
     "120363428464897153@g.us": [],
@@ -18060,7 +18078,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22552,
+    "120363432018531082@g.us": 22555,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2136,
@@ -147407,6 +147425,24 @@
         "text": "Isso aqui é pra ti\n@190864487919667",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787957265765
+      },
+      "AC57CA812C47AAEB4ACAE6890A728535": {
+        "sender": "53537388122141@lid",
+        "text": "Tá na etiqueta dele amiga",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787957280338
+      },
+      "AC5CAB51BC58B52C34B3BA62FCD07333": {
+        "sender": "190864487919667@lid",
+        "text": "🫪🫪🫪",
+        "pushName": "Souza",
+        "timestamp": 1787957288577
+      },
+      "AC95CCC44B6B38827494B1572E4F974C": {
+        "sender": "190864487919667@lid",
+        "text": "Pois se apresente",
+        "pushName": "Souza",
+        "timestamp": 1787957294522
       }
     },
     "120363428464897153@g.us": {
@@ -201192,7 +201228,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787957265765,
+    "120363432018531082@g.us": 1787957294522,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787957058249,
