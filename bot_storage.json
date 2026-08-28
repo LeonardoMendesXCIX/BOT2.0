@@ -274,9 +274,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2221,
-        "media": 296,
-        "total": 2517
+        "text": 2222,
+        "media": 297,
+        "total": 2519
       },
       "252922705240205": {
         "text": 80,
@@ -449,9 +449,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1669,
+        "text": 1671,
         "media": 322,
-        "total": 1991
+        "total": 1993
       },
       "252600633041077": {
         "text": 1,
@@ -2827,8 +2827,8 @@
       },
       "5511927018683": {
         "text": 390,
-        "media": 78,
-        "total": 468
+        "media": 79,
+        "total": 469
       },
       "120363428464897153": {
         "text": 11,
@@ -9267,9 +9267,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Jennifer🦋 (205621945192508): KKKkkkkkkk",
-        "LUCIANO (57561571176651): Bv",
-        "Gleydson Souza (274384656834700): Bem vinda",
         "... (207361708961911): Nome : Welinton Makkenzzy Rodrigues Santos tenho 17 anos sou daqui de Minas Gerais",
         "Pedro Henrique (172868239380659): Único defeito é ser Corinthians",
         "Gleydson Souza (274384656834700): Bem vindo",
@@ -9766,7 +9763,10 @@
         "Leandro (+55 (11) 92701-8683): !del",
         "Leandro (+55 (11) 92701-8683): !del",
         "Leandro (+55 (11) 92701-8683): !status",
-        "Leandro (+55 (11) 92701-8683): !del"
+        "Leandro (+55 (11) 92701-8683): !del",
+        "Leandro (+55 (11) 92701-8683): !del",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): O bot no seu dia mais normal",
+        "Leandro (+55 (11) 92701-8683): Né"
       ]
     },
     "120363428464897153@g.us": {
@@ -16504,6 +16504,24 @@
         "authorName": "Leandro",
         "text": "!del",
         "timestamp": 1787884599843
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!del",
+        "timestamp": 1787884605676
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "O bot no seu dia mais normal",
+        "timestamp": 1787884627633
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Né",
+        "timestamp": 1787884634829
       }
     ],
     "120363428464897153@g.us": [
@@ -16735,7 +16753,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21084,
+    "120363432018531082@g.us": 21087,
     "120363428464897153@g.us": 6227,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1736,
@@ -137373,6 +137391,24 @@
         "text": "!del",
         "pushName": "Leandro",
         "timestamp": 1787884599843
+      },
+      "A53442C278B797FB31BB3F9AE9A98908": {
+        "sender": "54259127210155@lid",
+        "text": "!del",
+        "pushName": "Leandro",
+        "timestamp": 1787884605676
+      },
+      "AC7D2371A6F28558EFBBD401DE25CDCE": {
+        "sender": "53537388122141@lid",
+        "text": "O bot no seu dia mais normal",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787884627634
+      },
+      "A5D28AE459931C9DD9A5CAC3BAC4E2CB": {
+        "sender": "54259127210155@lid",
+        "text": "Né",
+        "pushName": "Leandro",
+        "timestamp": 1787884634829
       }
     },
     "120363428464897153@g.us": {
@@ -188114,8 +188150,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787884599843,
-    "120363428464897153@g.us": 1787884560295,
+    "120363432018531082@g.us": 1787884634829,
+    "120363428464897153@g.us": 1787884627779,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787884390062,
     "120363411233423709@g.us": 1787113553426,
