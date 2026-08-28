@@ -188,9 +188,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2249,
+        "text": 2250,
         "media": 474,
-        "total": 2723
+        "total": 2724
       },
       "184237705699536": {
         "text": 524,
@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2388,
-        "media": 333,
-        "total": 2721
+        "text": 2389,
+        "media": 334,
+        "total": 2723
       },
       "252922705240205": {
         "text": 80,
@@ -2629,8 +2629,8 @@
       },
       "75797868064796": {
         "text": 40,
-        "media": 110,
-        "total": 150
+        "media": 111,
+        "total": 151
       },
       "153764728184839": {
         "text": 2,
@@ -3549,9 +3549,9 @@
         "total": 646
       },
       "53537388122141": {
-        "text": 819,
+        "text": 821,
         "media": 62,
-        "total": 881
+        "total": 883
       },
       "120363412288900422": {
         "text": 1,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Gleydson Souza (274384656834700): Tem nem como sentir kkkk",
         "Gleydson Souza (274384656834700): Novidade",
         "Gleydson Souza (274384656834700): Tarde",
         "May (227783724793861): Nossa nem sei o que é isso aqui o máximo é 28 e eu acho quente demais haha",
@@ -10449,7 +10448,8 @@
         "Gabriel (145381035905262): Tô falando, eu nem sabia que eu era pai, fiquei sabendo aqui",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Sou sozinha no mundo, pessoal",
         "Leandro (+55 (11) 92701-8683): Tu vai ver coisa...",
-        "Leandro (+55 (11) 92701-8683): Dindinha já dizia..."
+        "Leandro (+55 (11) 92701-8683): Dindinha já dizia...",
+        "Gabriel (145381035905262): Kkkkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -17018,7 +17018,9 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Kkkkk eu deixava, só pra zuar com a guria",
         "Gabriel (145381035905262): Namoradinha",
         "Gabriel (145381035905262): Isso não faz mulher",
-        "Gabriel (145381035905262): Se faz"
+        "Gabriel (145381035905262): Se faz",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Ué, um dragão",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Quer o que?"
       ]
     },
     "120363411233423709@g.us": {
@@ -17807,6 +17809,12 @@
         "authorName": "Leandro",
         "text": "Dindinha já dizia...",
         "timestamp": 1787958013939
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Kkkkk",
+        "timestamp": 1787958039223
       }
     ],
     "120363428464897153@g.us": [],
@@ -18045,6 +18053,18 @@
         "authorName": "Gabriel",
         "text": "Se faz",
         "timestamp": 1787958020850
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Ué, um dragão",
+        "timestamp": 1787958034382
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Quer o que?",
+        "timestamp": 1787958036056
       }
     ],
     "120363411233423709@g.us": [],
@@ -18061,10 +18081,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22566,
+    "120363432018531082@g.us": 22567,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2143,
+    "120363412288900422@g.us": 2145,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -147492,6 +147512,12 @@
         "text": "Dindinha já dizia...",
         "pushName": "Leandro",
         "timestamp": 1787958013939
+      },
+      "AC4805995492AEADFF846182C22702FA": {
+        "sender": "145381035905262@lid",
+        "text": "Kkkkk",
+        "pushName": "Gabriel",
+        "timestamp": 1787958039223
       }
     },
     "120363428464897153@g.us": {
@@ -198438,6 +198464,18 @@
         "text": "Se faz",
         "pushName": "Gabriel",
         "timestamp": 1787958020850
+      },
+      "AC3B4AF350978C44144E8F329F6372F2": {
+        "sender": "53537388122141@lid",
+        "text": "Ué, um dragão",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787958034382
+      },
+      "ACA706C655A3F35D28DA7AD24B1BC004": {
+        "sender": "53537388122141@lid",
+        "text": "Quer o que?",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787958036056
       }
     },
     "120363411233423709@g.us": {
@@ -201319,10 +201357,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787958018704,
+    "120363432018531082@g.us": 1787958057296,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787958020850,
+    "120363412288900422@g.us": 1787958036056,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
