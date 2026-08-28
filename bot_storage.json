@@ -178,9 +178,9 @@
         "total": 1943
       },
       "81991328395336": {
-        "text": 3909,
+        "text": 3910,
         "media": 1324,
-        "total": 5233
+        "total": 5234
       },
       "179040627490824": {
         "text": 433,
@@ -2783,9 +2783,9 @@
         "total": 1
       },
       "37826582323373": {
-        "text": 4,
+        "text": 5,
         "media": 2,
-        "total": 6
+        "total": 7
       }
     },
     "120363428464897153@g.us": {
@@ -9923,7 +9923,9 @@
         "Leandro (+55 (11) 92701-8683): Bom dia a @all",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): O casal que não dormi",
         "Leandro (+55 (11) 92701-8683): Pois então",
-        "Alexandre Bastos (75797868064796): Vamos mais um dia"
+        "Alexandre Bastos (75797868064796): Vamos mais um dia",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Vms",
+        "eduardo (37826582323373): ne isso"
       ]
     },
     "120363428464897153@g.us": {
@@ -16931,6 +16933,18 @@
         "authorName": "Alexandre Bastos",
         "text": "Vamos mais um dia",
         "timestamp": 1787903178282
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Vms",
+        "timestamp": 1787903187233
+      },
+      {
+        "authorNum": "37826582323373",
+        "authorName": "eduardo",
+        "text": "ne isso",
+        "timestamp": 1787903190129
       }
     ],
     "120363428464897153@g.us": [],
@@ -16950,7 +16964,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21191,
+    "120363432018531082@g.us": 21193,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1989,
@@ -138220,6 +138234,18 @@
         "text": "Vamos mais um dia",
         "pushName": "Alexandre Bastos",
         "timestamp": 1787903178282
+      },
+      "ACCF35EE4377EF5E89B23C30E365FE6D": {
+        "sender": "81991328395336@lid",
+        "text": "Vms",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787903187233
+      },
+      "ACACF7FFBB3B2388200DAFA8FBE1FFFD": {
+        "sender": "37826582323373@lid",
+        "text": "ne isso",
+        "pushName": "eduardo",
+        "timestamp": 1787903190129
       }
     },
     "120363428464897153@g.us": {
@@ -190991,7 +191017,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787903178282,
+    "120363432018531082@g.us": 1787903190129,
     "120363428464897153@g.us": 1787902098969,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787894166886,
