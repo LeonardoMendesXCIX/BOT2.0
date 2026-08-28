@@ -173,9 +173,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1572,
-        "media": 427,
-        "total": 1999
+        "text": 1575,
+        "media": 428,
+        "total": 2003
       },
       "81991328395336": {
         "text": 3941,
@@ -188,9 +188,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2225,
+        "text": 2226,
         "media": 472,
-        "total": 2697
+        "total": 2698
       },
       "184237705699536": {
         "text": 524,
@@ -9950,8 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Nanda (263797142995147): brigadaa",
-        "Nanda (263797142995147): e gente fazendo oq em plena sexta?",
         "Souza (190864487919667): Trabalhar né",
         "Souza (190864487919667): Fortal eu conheço, a outra não",
         "Nanda (263797142995147): eu tô com mo vontade de ir pra praia",
@@ -10449,7 +10447,9 @@
         "Celiete Souza (129373172711439): Acabei de ver morri rindo 😂",
         "Celiete Souza (129373172711439): Boazinha hoje 🙏🏼",
         "Gabriel (145381035905262): O povo inventa 😂😂",
-        "Juliano Perlin (222595437858867): Que bomm🙌🏻🤗"
+        "Juliano Perlin (222595437858867): Que bomm🙌🏻🤗",
+        "Gabriel (145381035905262): @129373172711439  é bom que pensem deste jeito, assim eles não sabem o que realmente faço!",
+        "Celiete Souza (129373172711439): Com certeza 🙏🏼"
       ]
     },
     "120363428464897153@g.us": {
@@ -17471,30 +17471,6 @@
       {
         "authorNum": "222595437858867",
         "authorName": "Juliano Perlin",
-        "text": "Oii fofa🤗",
-        "timestamp": 1787939808584
-      },
-      {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "Ta bem?",
-        "timestamp": 1787939812076
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Oieeee",
-        "timestamp": 1787939825495
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Tô bem e vale?",
-        "timestamp": 1787939828163
-      },
-      {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
         "text": "To bemm",
         "timestamp": 1787939849865
       },
@@ -18061,6 +18037,18 @@
         "authorName": "Juliano Perlin",
         "text": "Que bomm🙌🏻🤗",
         "timestamp": 1787941591752
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "@129373172711439  é bom que pensem deste jeito, assim eles não sabem o que realmente faço!",
+        "timestamp": 1787941631078
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Com certeza 🙏🏼",
+        "timestamp": 1787941646963
       }
     ],
     "120363428464897153@g.us": [],
@@ -18153,7 +18141,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22243,
+    "120363432018531082@g.us": 22245,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2075,
@@ -145682,6 +145670,18 @@
         "text": "Que bomm🙌🏻🤗",
         "pushName": "Juliano Perlin",
         "timestamp": 1787941591752
+      },
+      "ACD3E09CDFCAC1F348447FFD1CA18CBA": {
+        "sender": "145381035905262@lid",
+        "text": "@129373172711439  é bom que pensem deste jeito, assim eles não sabem o que realmente faço!",
+        "pushName": "Gabriel",
+        "timestamp": 1787941631078
+      },
+      "AC58E0C245A5DB2D204F813ED4196832": {
+        "sender": "129373172711439@lid",
+        "text": "Com certeza 🙏🏼",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787941646963
       }
     },
     "120363428464897153@g.us": {
@@ -199053,7 +199053,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787941591752,
+    "120363432018531082@g.us": 1787941646963,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787940055842,
