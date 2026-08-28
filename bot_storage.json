@@ -178,9 +178,9 @@
         "total": 1943
       },
       "81991328395336": {
-        "text": 3904,
+        "text": 3905,
         "media": 1322,
-        "total": 5226
+        "total": 5227
       },
       "179040627490824": {
         "text": 433,
@@ -453,9 +453,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1705,
+        "text": 1706,
         "media": 332,
-        "total": 2037
+        "total": 2038
       },
       "252600633041077": {
         "text": 1,
@@ -2783,9 +2783,9 @@
         "total": 1
       },
       "37826582323373": {
-        "text": 1,
+        "text": 3,
         "media": 1,
-        "total": 2
+        "total": 4
       }
     },
     "120363428464897153@g.us": {
@@ -9913,7 +9913,11 @@
         " (120363432018531082): nome. kaua eduardo \nidade.18\nmoro.Brasil",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Bem vindo jovem 🤝",
         "Leandro (+55 (11) 92701-8683): Bem vindo jovem! 🤝",
-        "eduardo (37826582323373): muito obrigado gente"
+        "eduardo (37826582323373): muito obrigado gente",
+        "eduardo (37826582323373): 😘",
+        "Leandro (+55 (11) 92701-8683): Às ordens!",
+        "eduardo (37826582323373): asim",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Disponha"
       ]
     },
     "120363428464897153@g.us": {
@@ -16867,6 +16871,30 @@
         "authorName": "eduardo",
         "text": "muito obrigado gente",
         "timestamp": 1787901888337
+      },
+      {
+        "authorNum": "37826582323373",
+        "authorName": "eduardo",
+        "text": "😘",
+        "timestamp": 1787901891206
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Às ordens!",
+        "timestamp": 1787901900593
+      },
+      {
+        "authorNum": "37826582323373",
+        "authorName": "eduardo",
+        "text": "asim",
+        "timestamp": 1787901913366
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Disponha",
+        "timestamp": 1787901914366
       }
     ],
     "120363428464897153@g.us": [],
@@ -16886,7 +16914,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21181,
+    "120363432018531082@g.us": 21185,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1989,
@@ -138096,6 +138124,30 @@
         "text": "muito obrigado gente",
         "pushName": "eduardo",
         "timestamp": 1787901888337
+      },
+      "AC23F4F3B7FA21F8530ED2D9FF815ECA": {
+        "sender": "37826582323373@lid",
+        "text": "😘",
+        "pushName": "eduardo",
+        "timestamp": 1787901891206
+      },
+      "A580EDD94D8CC400B28299B789BA096D": {
+        "sender": "54259127210155@lid",
+        "text": "Às ordens!",
+        "pushName": "Leandro",
+        "timestamp": 1787901900593
+      },
+      "ACD6672B74DE88CE00371C7E2B67FF06": {
+        "sender": "37826582323373@lid",
+        "text": "asim",
+        "pushName": "eduardo",
+        "timestamp": 1787901913366
+      },
+      "AC3A263AF11AAF0CB6062F5D1C94AF76": {
+        "sender": "81991328395336@lid",
+        "text": "Disponha",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787901914366
       }
     },
     "120363428464897153@g.us": {
@@ -190867,7 +190919,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787901888337,
+    "120363432018531082@g.us": 1787901914366,
     "120363428464897153@g.us": 1787898005021,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787894166886,
