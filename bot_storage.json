@@ -253,9 +253,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1494,
+        "text": 1495,
         "media": 1113,
-        "total": 2607
+        "total": 2608
       },
       "3126803329115": {
         "text": 87,
@@ -2709,8 +2709,8 @@
       },
       "108461127897146": {
         "text": 25,
-        "media": 3,
-        "total": 28
+        "media": 4,
+        "total": 29
       },
       "10050861031495": {
         "text": 0,
@@ -9900,8 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tô zuando 😂",
-        "Rafael Moura (57707230945348): Ela vai ter um mini infarto",
         "Rafael Moura (57707230945348): Pessoal caiu o VR, quem quer açai",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Quero Pix",
         "Pedro Henrique (172868239380659): O meu já foi kkkk",
@@ -10399,7 +10397,9 @@
         "Camila Designer (92629643563147): Tipo, me siga para mais dicas 🤣🤣🤣🤣",
         "~Gará (83911531044906): Alguém aqui tem interesse em comprar um rins?\nFaço promoção",
         "~Gará (83911531044906): @~Camila Designer\nVou vender o meu primeiro..kkkk",
-        " (120363432018531082): Boa tarde pessoas"
+        " (120363432018531082): Boa tarde pessoas",
+        "jaciara (108461127897146): Boa tarde pessoas",
+        "Camila Designer (92629643563147): Acho que vamos ter público para nós dois 🤣🤣🤣"
       ]
     },
     "120363428464897153@g.us": {
@@ -17344,24 +17344,6 @@
       {
         "authorNum": "190864487919667",
         "authorName": "Souza",
-        "text": "Se for só, nem leva celular",
-        "timestamp": 1787926821107
-      },
-      {
-        "authorNum": "37826582323373",
-        "authorName": "eduardo",
-        "text": "obrigada",
-        "timestamp": 1787926821983
-      },
-      {
-        "authorNum": "1395881181241",
-        "authorName": "Bruno Aguiar",
-        "text": "Vc cuida bem de nós ❤️",
-        "timestamp": 1787926822002
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
         "text": "Ou tome banho próximo dos seus pertences",
         "timestamp": 1787926830462
       },
@@ -17676,6 +17658,18 @@
         "authorName": "",
         "text": "Boa tarde pessoas",
         "timestamp": 1787928607218
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Boa tarde pessoas",
+        "timestamp": 1787928609650
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Acho que vamos ter público para nós dois 🤣🤣🤣",
+        "timestamp": 1787928628126
       }
     ],
     "120363428464897153@g.us": [],
@@ -17702,7 +17696,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21824,
+    "120363432018531082@g.us": 21826,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -17757,7 +17751,6 @@
       "92629643563147@lid",
       "155503636275307@lid",
       "136408815665242@lid",
-      "219980373176429@lid",
       "180285564035215@lid"
     ],
     "120363432018531082@g.us": [],
@@ -142739,10 +142732,16 @@
         "timestamp": 1787928572036
       },
       "AC3BF0845F455973BC9B672998F4C9E2": {
-        "sender": "120363432018531082@g.us",
+        "sender": "108461127897146@lid",
         "text": "Boa tarde pessoas",
-        "pushName": "",
-        "timestamp": 1787928607218
+        "pushName": "jaciara",
+        "timestamp": 1787928609650
+      },
+      "2AC847DEF7E8A79B346F": {
+        "sender": "92629643563147@lid",
+        "text": "Acho que vamos ter público para nós dois 🤣🤣🤣",
+        "pushName": "Camila Designer",
+        "timestamp": 1787928628127
       }
     },
     "120363428464897153@g.us": {
@@ -195652,7 +195651,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787928607218,
+    "120363432018531082@g.us": 1787928628126,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
