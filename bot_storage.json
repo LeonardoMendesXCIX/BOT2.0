@@ -2628,9 +2628,9 @@
         "total": 46
       },
       "75797868064796": {
-        "text": 25,
+        "text": 26,
         "media": 87,
-        "total": 112
+        "total": 113
       },
       "153764728184839": {
         "text": 2,
@@ -3499,9 +3499,9 @@
     },
     "120363412288900422@g.us": {
       "81991328395336": {
-        "text": 470,
+        "text": 471,
         "media": 122,
-        "total": 592
+        "total": 593
       },
       "5511927018683": {
         "text": 535,
@@ -9865,7 +9865,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Jk (120542904463568): Se aperrei não",
         "Jk (120542904463568): No planeta tem espaço",
         "Leandro (+55 (11) 92701-8683): Pois bem",
         "🦅⚡️😍 (163686253629557): Não da pra entrar",
@@ -10364,7 +10363,8 @@
         "Camila Designer (92629643563147): Por que? Quer falar sobre?👀",
         "Alexandre Bastos (75797868064796): Trabalhando hoje",
         "Alexandre Bastos (75797868064796): E o seu",
-        "Camila Designer (92629643563147): Eu dei uma pausa aqui, 10hrs chega minha próxima cliente 😌"
+        "Camila Designer (92629643563147): Eu dei uma pausa aqui, 10hrs chega minha próxima cliente 😌",
+        "Alexandre Bastos (75797868064796): Bom"
       ]
     },
     "120363428464897153@g.us": {
@@ -16789,7 +16789,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bora",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Tem as figurinhas @81991328395336 ?",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Não",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Mais posso ir atrás"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Mais posso ir atrás",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @54259127210155 deu essa sugestão"
       ]
     },
     "120363411233423709@g.us": {
@@ -17293,12 +17294,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Desgrama",
-        "timestamp": 1787919543204
-      },
-      {
         "authorNum": "11171897864256",
         "authorName": "🙃🙃🙃",
         "text": "Oi bom dia",
@@ -17429,6 +17424,12 @@
         "authorName": "Camila Designer",
         "text": "Eu dei uma pausa aqui, 10hrs chega minha próxima cliente 😌",
         "timestamp": 1787921333435
+      },
+      {
+        "authorNum": "75797868064796",
+        "authorName": "Alexandre Bastos",
+        "text": "Bom",
+        "timestamp": 1787921356849
       }
     ],
     "120363428464897153@g.us": [],
@@ -17463,6 +17464,12 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Mais posso ir atrás",
         "timestamp": 1787921310126
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "@54259127210155 deu essa sugestão",
+        "timestamp": 1787921346361
       }
     ],
     "120363411233423709@g.us": [],
@@ -17479,10 +17486,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21649,
+    "120363432018531082@g.us": 21650,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1998,
+    "120363412288900422@g.us": 1999,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -141483,6 +141490,12 @@
         "text": "Eu dei uma pausa aqui, 10hrs chega minha próxima cliente 😌",
         "pushName": "Camila Designer",
         "timestamp": 1787921333435
+      },
+      "AC0E50E44CCFB591B4F6BFE92D734B28": {
+        "sender": "75797868064796@lid",
+        "text": "Bom",
+        "pushName": "Alexandre Bastos",
+        "timestamp": 1787921356849
       }
     },
     "120363428464897153@g.us": {
@@ -191565,6 +191578,12 @@
         "text": "Mais posso ir atrás",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787921310126
+      },
+      "ACE4E679950555BD94FDB3CD74BE7A83": {
+        "sender": "81991328395336@lid",
+        "text": "@54259127210155 deu essa sugestão",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787921346361
       }
     },
     "120363411233423709@g.us": {
@@ -194308,10 +194327,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787921333435,
+    "120363432018531082@g.us": 1787921356849,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787921321242,
+    "120363412288900422@g.us": 1787921346361,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
