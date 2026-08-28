@@ -2826,9 +2826,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 390,
+        "text": 391,
         "media": 79,
-        "total": 469
+        "total": 470
       },
       "120363428464897153": {
         "text": 11,
@@ -3425,9 +3425,9 @@
         "total": 513
       },
       "53537388122141": {
-        "text": 713,
+        "text": 715,
         "media": 55,
-        "total": 768
+        "total": 770
       },
       "120363412288900422": {
         "text": 1,
@@ -13850,7 +13850,8 @@
         "F. RicaRdo sAnToS (193729163993156): Boua noite gurizada fandangueira",
         "F. RicaRdo sAnToS (193729163993156): Ótimo descanso a todas",
         "F. RicaRdo sAnToS (193729163993156): Fuiii",
-        "F. RicaRdo sAnToS (193729163993156): Até semana que vem"
+        "F. RicaRdo sAnToS (193729163993156): Até semana que vem",
+        "Leandro (+55 (11) 92701-8683): Boa noite jovem!"
       ]
     },
     "120363409727467494@g.us": {
@@ -15902,7 +15903,9 @@
         "Leandro (+55 (11) 92701-8683): Dificilmente ia mandar só \"oi\"",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Eu expliquei por cima o que tava rolando, mandei bloquear todo mundo",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Pq eu sabia que ia acontecer",
-        "Leandro (+55 (11) 92701-8683): Povo chatão 🙄"
+        "Leandro (+55 (11) 92701-8683): Povo chatão 🙄",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Cara",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Sem brincadeira"
       ]
     },
     "120363411233423709@g.us": {
@@ -16644,46 +16647,16 @@
         "authorName": "F. RicaRdo sAnToS",
         "text": "Até semana que vem",
         "timestamp": 1787885154095
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Boa noite jovem!",
+        "timestamp": 1787885346052
       }
     ],
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Já é bom para testar se o antifake tá funcionando",
-        "timestamp": 1787883535098
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "É para estar funcionando",
-        "timestamp": 1787883538659
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Entendi",
-        "timestamp": 1787883546594
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "A remoção ali foi por invasão de Pv",
-        "timestamp": 1787883552579
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "O meu 🤡",
-        "timestamp": 1787883561063
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Imaginei",
-        "timestamp": 1787883562314
-      },
       {
         "authorNum": "5511927018683",
         "authorName": "Leandro",
@@ -16929,6 +16902,18 @@
         "authorName": "Leandro",
         "text": "Povo chatão 🙄",
         "timestamp": 1787885329881
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Cara",
+        "timestamp": 1787885378857
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Sem brincadeira",
+        "timestamp": 1787885381058
       }
     ],
     "120363411233423709@g.us": [],
@@ -16952,9 +16937,9 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 21092,
-    "120363428464897153@g.us": 6229,
+    "120363428464897153@g.us": 6230,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1770,
+    "120363412288900422@g.us": 1772,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -174185,6 +174170,12 @@
         "text": "Até semana que vem",
         "pushName": "F. RicaRdo sAnToS",
         "timestamp": 1787885154096
+      },
+      "A5FCA01CD025C4617DBF948CF867BD59": {
+        "sender": "54259127210155@lid",
+        "text": "Boa noite jovem!",
+        "pushName": "Leandro",
+        "timestamp": 1787885346052
       }
     },
     "120363409727467494@g.us": {
@@ -186009,6 +186000,18 @@
         "text": "Povo chatão 🙄",
         "pushName": "Leandro",
         "timestamp": 1787885329882
+      },
+      "AC6484B01FC3B0249B31B966F71C02FB": {
+        "sender": "53537388122141@lid",
+        "text": "Cara",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787885378857
+      },
+      "AC4F3A0991F6F034BF5A2728F362AC56": {
+        "sender": "53537388122141@lid",
+        "text": "Sem brincadeira",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787885381058
       }
     },
     "120363411233423709@g.us": {
@@ -188595,9 +188598,9 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787884904333,
-    "120363428464897153@g.us": 1787885273311,
+    "120363428464897153@g.us": 1787885346052,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787885329881,
+    "120363412288900422@g.us": 1787885381058,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
