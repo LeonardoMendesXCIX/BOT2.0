@@ -3415,9 +3415,9 @@
         "total": 554
       },
       "5511927018683": {
-        "text": 449,
+        "text": 450,
         "media": 78,
-        "total": 527
+        "total": 528
       },
       "145381035905262": {
         "text": 369,
@@ -3425,9 +3425,9 @@
         "total": 513
       },
       "53537388122141": {
-        "text": 696,
+        "text": 697,
         "media": 55,
-        "total": 751
+        "total": 752
       },
       "120363412288900422": {
         "text": 1,
@@ -15872,7 +15872,9 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Eu queria entender",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): A cisma que esse povo que sai",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Quer voltar",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): E essa porra desse grupão"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): E essa porra desse grupão",
+        "Leandro (+55 (11) 92701-8683): Quem?",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): @54259127210155"
       ]
     },
     "120363411233423709@g.us": {
@@ -16761,6 +16763,18 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "E essa porra desse grupão",
         "timestamp": 1787885033557
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Quem?",
+        "timestamp": 1787885053480
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "@54259127210155",
+        "timestamp": 1787885066620
       }
     ],
     "120363411233423709@g.us": [],
@@ -16786,7 +16800,7 @@
     "120363432018531082@g.us": 21092,
     "120363428464897153@g.us": 6227,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1742,
+    "120363412288900422@g.us": 1744,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -185661,6 +185675,18 @@
         "text": "E essa porra desse grupão",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787885033557
+      },
+      "A51A1CE32E99DCDAC68459608347C799": {
+        "sender": "54259127210155@lid",
+        "text": "Quem?",
+        "pushName": "Leandro",
+        "timestamp": 1787885053480
+      },
+      "AC04EAA8EF479EDB49555C46BC604425": {
+        "sender": "53537388122141@lid",
+        "text": "@54259127210155",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787885066621
       }
     },
     "120363411233423709@g.us": {
@@ -188249,7 +188275,7 @@
     "120363432018531082@g.us": 1787884904333,
     "120363428464897153@g.us": 1787884927674,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787885033557,
+    "120363412288900422@g.us": 1787885066620,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
