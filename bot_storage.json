@@ -13,6 +13,18 @@
     "contacts": {
       "lidMap": {},
       "contactCache": {
+        "81991328395336": {
+          "name": "~🌪️𝓁𝒶𝓎𝒽🦋",
+          "time": 1787861481343
+        },
+        "153764728184839": {
+          "name": "Eduardo",
+          "time": 1787860405386
+        },
+        "120542904463568": {
+          "name": "Jk",
+          "time": 1787896165686
+        },
         "190864487919667": {
           "name": "Souza",
           "time": 1787861268004
@@ -45,10 +57,6 @@
           "name": "Milena B. Costa",
           "time": 1787856560294
         },
-        "81991328395336": {
-          "name": "~🌪️𝓁𝒶𝓎𝒽🦋",
-          "time": 1787861481343
-        },
         "145381035905262": {
           "name": "Gabriel",
           "time": 1787859897583
@@ -72,10 +80,6 @@
         "238233849983072": {
           "name": "Neto prime",
           "time": 1787859782371
-        },
-        "153764728184839": {
-          "name": "Eduardo",
-          "time": 1787860405386
         },
         "188845719089205": {
           "name": "Camila Viana",
@@ -449,9 +453,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1684,
+        "text": 1685,
         "media": 327,
-        "total": 2011
+        "total": 2012
       },
       "252600633041077": {
         "text": 1,
@@ -9843,7 +9847,8 @@
         "Jk (120542904463568): E obrigado por me aceitar no grupo",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Disponha",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): 💥 BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Queremos conhecer você! ✨\n\n📸 Sua foto:\n💬 Nome:\n🎂 Idade:\n📍 De onde sou:\n\n*🫶🏻 Seja bem-vindo(a)!*\n\n✨ Sinta-se à vontade para interagir, conhecer a galera e fazer no",
-        "Leandro (+55 (11) 92701-8683): Ele tinha reiniciado e eu nem vi"
+        "Leandro (+55 (11) 92701-8683): Ele tinha reiniciado e eu nem vi",
+        "Leandro (+55 (11) 92701-8683): !inativos"
       ]
     },
     "120363428464897153@g.us": {
@@ -16817,6 +16822,12 @@
         "authorName": "Leandro",
         "text": "Ele tinha reiniciado e eu nem vi",
         "timestamp": 1787896233573
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!inativos",
+        "timestamp": 1787896265011
       }
     ],
     "120363428464897153@g.us": [],
@@ -16862,7 +16873,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21130,
+    "120363432018531082@g.us": 21131,
     "120363428464897153@g.us": 6280,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1989,
@@ -137777,6 +137788,12 @@
         "text": "Ele tinha reiniciado e eu nem vi",
         "pushName": "Leandro",
         "timestamp": 1787896233573
+      },
+      "A5C5674C73F376F56A95EF0D268E0DC0": {
+        "sender": "54259127210155@lid",
+        "text": "!inativos",
+        "pushName": "Leandro",
+        "timestamp": 1787896265011
       }
     },
     "120363428464897153@g.us": {
@@ -190416,7 +190433,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787896233573,
+    "120363432018531082@g.us": 1787896265011,
     "120363428464897153@g.us": 1787892526637,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787894166886,
