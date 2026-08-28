@@ -2745,8 +2745,8 @@
       },
       "86793403801839": {
         "text": 260,
-        "media": 33,
-        "total": 293
+        "media": 34,
+        "total": 294
       },
       "179040627490824": {
         "text": 7,
@@ -2910,8 +2910,8 @@
       },
       "92629643563147": {
         "text": 571,
-        "media": 385,
-        "total": 956
+        "media": 386,
+        "total": 957
       },
       "122552932372575": {
         "text": 0,
@@ -2949,9 +2949,9 @@
         "total": 9
       },
       "129373172711439": {
-        "text": 914,
+        "text": 918,
         "media": 234,
-        "total": 1148
+        "total": 1152
       },
       "16007578021977": {
         "text": 50,
@@ -3295,13 +3295,13 @@
       },
       "190864487919667": {
         "text": 37,
-        "media": 7,
-        "total": 44
+        "media": 8,
+        "total": 45
       },
       "118515428286715": {
-        "text": 10,
+        "text": 12,
         "media": 2,
-        "total": 12
+        "total": 14
       },
       "274384656834700": {
         "text": 6,
@@ -3314,9 +3314,9 @@
         "total": 1
       },
       "75797868064796": {
-        "text": 1,
+        "text": 2,
         "media": 3,
-        "total": 4
+        "total": 5
       }
     },
     "120363409727467494@g.us": {
@@ -13698,7 +13698,10 @@
         "Gleydson Souza (274384656834700): .",
         "Celiete Souza (129373172711439): Agora eu vi 🤐",
         "Gleydson Souza (274384656834700): To aqui tmb",
-        "Saul (118515428286715): Me senti o Mucilon indesejado 🤣"
+        "Saul (118515428286715): Me senti o Mucilon indesejado 🤣",
+        "Saul (118515428286715): Vou mudar, de não tenho 25, tenho 52",
+        "Alexandre Bastos (75797868064796): Eu tenho 35",
+        "Celiete Souza (129373172711439): Não exagere"
       ]
     },
     "120363409727467494@g.us": {
@@ -16689,6 +16692,24 @@
         "authorName": "Saul",
         "text": "Me senti o Mucilon indesejado 🤣",
         "timestamp": 1787879724221
+      },
+      {
+        "authorNum": "118515428286715",
+        "authorName": "Saul",
+        "text": "Vou mudar, de não tenho 25, tenho 52",
+        "timestamp": 1787879742530
+      },
+      {
+        "authorNum": "75797868064796",
+        "authorName": "Alexandre Bastos",
+        "text": "Eu tenho 35",
+        "timestamp": 1787879763901
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Não exagere",
+        "timestamp": 1787879775063
       }
     ],
     "120363409727467494@g.us": [],
@@ -16707,7 +16728,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 21033,
-    "120363428464897153@g.us": 6139,
+    "120363428464897153@g.us": 6142,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1711,
     "120363411233423709@g.us": 5,
@@ -173059,6 +173080,24 @@
         "text": "Me senti o Mucilon indesejado 🤣",
         "pushName": "Saul",
         "timestamp": 1787879724222
+      },
+      "3A020C9B431A1AA39DCE": {
+        "sender": "118515428286715@lid",
+        "text": "Vou mudar, de não tenho 25, tenho 52",
+        "pushName": "Saul",
+        "timestamp": 1787879742530
+      },
+      "AC75A9EA54BF4DB5C96584B2FCA1E60F": {
+        "sender": "75797868064796@lid",
+        "text": "Eu tenho 35",
+        "pushName": "Alexandre Bastos",
+        "timestamp": 1787879763901
+      },
+      "ACF6BFF5D2A834CC7EEB92ABD48FD8F3": {
+        "sender": "129373172711439@lid",
+        "text": "Não exagere",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787879775064
       }
     },
     "120363409727467494@g.us": {
@@ -187103,7 +187142,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787879318050,
-    "120363428464897153@g.us": 1787879729420,
+    "120363428464897153@g.us": 1787879784926,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787877736241,
     "120363411233423709@g.us": 1787113553426,
