@@ -3415,9 +3415,9 @@
         "total": 556
       },
       "5511927018683": {
-        "text": 456,
+        "text": 457,
         "media": 80,
-        "total": 536
+        "total": 537
       },
       "145381035905262": {
         "text": 369,
@@ -3425,9 +3425,9 @@
         "total": 513
       },
       "53537388122141": {
-        "text": 711,
+        "text": 713,
         "media": 55,
-        "total": 766
+        "total": 768
       },
       "120363412288900422": {
         "text": 1,
@@ -15898,7 +15898,10 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Só vai na dos outros",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Se fosse, ia ser mais que isso",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Não ia ficar no oi kkkk",
-        "Leandro (+55 (11) 92701-8683): É, do jeito que ela é..."
+        "Leandro (+55 (11) 92701-8683): É, do jeito que ela é...",
+        "Leandro (+55 (11) 92701-8683): Dificilmente ia mandar só \"oi\"",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Eu expliquei por cima o que tava rolando, mandei bloquear todo mundo",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Pq eu sabia que ia acontecer"
       ]
     },
     "120363411233423709@g.us": {
@@ -16645,18 +16648,6 @@
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [
       {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Como assim?",
-        "timestamp": 1787883490421
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Os números de fora que entrarem",
-        "timestamp": 1787883502215
-      },
-      {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "DDD de fora",
@@ -16919,6 +16910,24 @@
         "authorName": "Leandro",
         "text": "É, do jeito que ela é...",
         "timestamp": 1787885271661
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Dificilmente ia mandar só \"oi\"",
+        "timestamp": 1787885284163
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Eu expliquei por cima o que tava rolando, mandei bloquear todo mundo",
+        "timestamp": 1787885290502
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Pq eu sabia que ia acontecer",
+        "timestamp": 1787885303722
       }
     ],
     "120363411233423709@g.us": [],
@@ -16944,7 +16953,7 @@
     "120363432018531082@g.us": 21092,
     "120363428464897153@g.us": 6229,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1766,
+    "120363412288900422@g.us": 1769,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -185975,6 +185984,24 @@
         "text": "É, do jeito que ela é...",
         "pushName": "Leandro",
         "timestamp": 1787885271661
+      },
+      "A5D1B2627709055514E168FA55C5E218": {
+        "sender": "54259127210155@lid",
+        "text": "Dificilmente ia mandar só \"oi\"",
+        "pushName": "Leandro",
+        "timestamp": 1787885284163
+      },
+      "AC2B1197CDC0C937FCA9E9C0A9E043DA": {
+        "sender": "53537388122141@lid",
+        "text": "Eu expliquei por cima o que tava rolando, mandei bloquear todo mundo",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787885290502
+      },
+      "AC50325B1729A3E94A4B1BDA9E173D4F": {
+        "sender": "53537388122141@lid",
+        "text": "Pq eu sabia que ia acontecer",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787885303722
       }
     },
     "120363411233423709@g.us": {
@@ -188563,7 +188590,7 @@
     "120363432018531082@g.us": 1787884904333,
     "120363428464897153@g.us": 1787885273311,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787885271661,
+    "120363412288900422@g.us": 1787885303722,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
