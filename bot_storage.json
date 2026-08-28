@@ -1863,9 +1863,9 @@
         "total": 6
       },
       "1395881181241": {
-        "text": 127,
+        "text": 128,
         "media": 5,
-        "total": 132
+        "total": 133
       },
       "198595546501333": {
         "text": 2,
@@ -2658,9 +2658,9 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 72,
+        "text": 74,
         "media": 14,
-        "total": 86
+        "total": 88
       },
       "172868239380659": {
         "text": 182,
@@ -9895,8 +9895,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Camila Designer (92629643563147): Bom que faço textos curtos e objetivo!🤣🤣🤣🤣",
-        "Dany (262182034002040): Bom dia, grupo! SEXTOU!!! Uhuuuuu\n\nBoa sexta-feira, galera!!",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Graças a Deus",
         "Gabi 💋 (247020967165997): Bom dia a todos \nPrazer Gabi \nSou do abc paulista santo André \n30 anos",
         " (120363432018531082): Bom dia a todos \nPrazer Gabi \nSou do abc paulista santo André \n30 anos",
@@ -10394,7 +10392,9 @@
         "Arthur (206253020176458): Ss e vc como esta",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Não se apresentou e invasão de Pv",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Aí me quebra as pernas",
-        "Bruno Aguiar (+1395881181241): Seja bem vinda!!!"
+        "Bruno Aguiar (+1395881181241): Seja bem vinda!!!",
+        "Bruno Aguiar (+1395881181241): Olha a faca😂😂😂",
+        "Gleydson Souza (274384656834700): Bem vinda"
       ]
     },
     "120363428464897153@g.us": {
@@ -17561,6 +17561,18 @@
         "authorName": "Bruno Aguiar",
         "text": "Seja bem vinda!!!",
         "timestamp": 1787925232029
+      },
+      {
+        "authorNum": "1395881181241",
+        "authorName": "Bruno Aguiar",
+        "text": "Olha a faca😂😂😂",
+        "timestamp": 1787925247366
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Bem vinda",
+        "timestamp": 1787925264885
       }
     ],
     "120363428464897153@g.us": [],
@@ -17605,7 +17617,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21719,
+    "120363432018531082@g.us": 21721,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2010,
@@ -142022,6 +142034,18 @@
         "text": "Seja bem vinda!!!",
         "pushName": "Bruno Aguiar",
         "timestamp": 1787925232029
+      },
+      "AC4BF0494D33861A2ECB217CFD501AF8": {
+        "sender": "1395881181241@lid",
+        "text": "Olha a faca😂😂😂",
+        "pushName": "Bruno Aguiar",
+        "timestamp": 1787925247367
+      },
+      "AC7EB020867E78F1F8F79D853F0D667A": {
+        "sender": "274384656834700@lid",
+        "text": "Bem vinda",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787925264885
       }
     },
     "120363428464897153@g.us": {
@@ -194919,7 +194943,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787925232029,
+    "120363432018531082@g.us": 1787925264885,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787924999186,
