@@ -2603,9 +2603,9 @@
         "total": 30
       },
       "190864487919667": {
-        "text": 315,
+        "text": 316,
         "media": 47,
-        "total": 362
+        "total": 363
       },
       "82227819987089": {
         "text": 2,
@@ -9930,7 +9930,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Pedro Henrique (172868239380659): Foi mal, sustentada pelo lula",
         "Pedro Henrique (172868239380659): Tem a cara de petista",
         "Souza (190864487919667): ?",
         "Souza (190864487919667): O que tem haver?",
@@ -10429,7 +10428,8 @@
         "Celiete Souza (129373172711439): ? Outro",
         "Rafael Moura (57707230945348): Grupo de figurinhas",
         "Bruno Aguiar (+1395881181241): E a faca pegou 🔪🔪",
-        "Gabi 💋 (247020967165997): Bem isso"
+        "Gabi 💋 (247020967165997): Bem isso",
+        "Souza (190864487919667): Igual eu quero alguém desse grupo"
       ]
     },
     "120363428464897153@g.us": {
@@ -17877,6 +17877,12 @@
         "authorName": "Gabi 💋",
         "text": "Bem isso",
         "timestamp": 1787932326116
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Igual eu quero alguém desse grupo",
+        "timestamp": 1787932394845
       }
     ],
     "120363428464897153@g.us": [],
@@ -17951,7 +17957,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22018,
+    "120363432018531082@g.us": 22019,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -144137,6 +144143,12 @@
         "text": "Bem isso",
         "pushName": "Gabi 💋",
         "timestamp": 1787932326116
+      },
+      "ACB28ADF98CFE39AF5FC2627511A687C": {
+        "sender": "190864487919667@lid",
+        "text": "Igual eu quero alguém desse grupo",
+        "pushName": "Souza",
+        "timestamp": 1787932394845
       }
     },
     "120363428464897153@g.us": {
@@ -197100,7 +197112,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787932375645,
+    "120363432018531082@g.us": 1787932394845,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
