@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2275,
+        "text": 2276,
         "media": 309,
-        "total": 2584
+        "total": 2585
       },
       "252922705240205": {
         "text": 80,
@@ -2603,9 +2603,9 @@
         "total": 29
       },
       "190864487919667": {
-        "text": 274,
+        "text": 275,
         "media": 42,
-        "total": 316
+        "total": 317
       },
       "82227819987089": {
         "text": 2,
@@ -2708,9 +2708,9 @@
         "total": 2
       },
       "108461127897146": {
-        "text": 25,
+        "text": 28,
         "media": 4,
-        "total": 29
+        "total": 32
       },
       "10050861031495": {
         "text": 0,
@@ -9900,10 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Rafael Moura (57707230945348): Dia baum",
-        "Souza (190864487919667): Morto e acabado, enterrado, solo",
-        "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Em que sentido ?",
-        "Rafael Moura (57707230945348): Mas ja ??",
         "Dany (262182034002040): Oi!",
         "Rafael Moura (57707230945348): No sentido de interagir, gostei",
         "Dany (262182034002040): Oxi",
@@ -10399,7 +10395,11 @@
         "🙃🙃🙃 (11171897864256): Aah tá por isso entrei e senti um cheiro estranho 🤣🤪",
         "🙃🙃🙃 (11171897864256): Bem vinda ☺️",
         "🙃🙃🙃 (11171897864256): Vai sábado",
-        "Alexandre Bastos (75797868064796): 🥰🥰"
+        "Alexandre Bastos (75797868064796): 🥰🥰",
+        "Souza (190864487919667): Boa Jaci",
+        "jaciara (108461127897146): Tá bem ?",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Obrigada 🥹",
+        "jaciara (108461127897146): Cê tá bem ?"
       ]
     },
     "120363428464897153@g.us": {
@@ -17344,24 +17344,6 @@
       {
         "authorNum": "263797142995147",
         "authorName": "Nanda",
-        "text": "assim n tem perigo",
-        "timestamp": 1787926940335
-      },
-      {
-        "authorNum": "263797142995147",
-        "authorName": "Nanda",
-        "text": "mn sem contar q as praias em fortal tem cada coisa bonita",
-        "timestamp": 1787926957567
-      },
-      {
-        "authorNum": "263797142995147",
-        "authorName": "Nanda",
-        "text": "mais é a noite",
-        "timestamp": 1787926964573
-      },
-      {
-        "authorNum": "263797142995147",
-        "authorName": "Nanda",
         "text": "queeroo",
         "timestamp": 1787926985127
       },
@@ -17634,6 +17616,30 @@
         "authorName": "Alexandre Bastos",
         "text": "🥰🥰",
         "timestamp": 1787928738395
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Boa Jaci",
+        "timestamp": 1787928752479
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Tá bem ?",
+        "timestamp": 1787928754711
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Obrigada 🥹",
+        "timestamp": 1787928756167
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Cê tá bem ?",
+        "timestamp": 1787928771891
       }
     ],
     "120363428464897153@g.us": [],
@@ -17660,7 +17666,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21831,
+    "120363432018531082@g.us": 21835,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -142736,6 +142742,30 @@
         "text": "🥰🥰",
         "pushName": "Alexandre Bastos",
         "timestamp": 1787928738395
+      },
+      "ACFD39FE96A7CDFF91D79129B5014BE7": {
+        "sender": "190864487919667@lid",
+        "text": "Boa Jaci",
+        "pushName": "Souza",
+        "timestamp": 1787928752479
+      },
+      "ACBF9AD698FB42AC6DF0E421B852D012": {
+        "sender": "108461127897146@lid",
+        "text": "Tá bem ?",
+        "pushName": "jaciara",
+        "timestamp": 1787928754711
+      },
+      "AC3F36AF237F4D6985F6A67EF170BC30": {
+        "sender": "53537388122141@lid",
+        "text": "Obrigada 🥹",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787928756167
+      },
+      "AC0F8C9E2CC16B94364435AACEA4C986": {
+        "sender": "108461127897146@lid",
+        "text": "Cê tá bem ?",
+        "pushName": "jaciara",
+        "timestamp": 1787928771891
       }
     },
     "120363428464897153@g.us": {
@@ -195645,7 +195675,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787928738395,
+    "120363432018531082@g.us": 1787928771891,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
