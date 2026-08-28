@@ -242,9 +242,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2198,
+        "text": 2199,
         "media": 292,
-        "total": 2490
+        "total": 2491
       },
       "252922705240205": {
         "text": 80,
@@ -2627,9 +2627,9 @@
         "total": 70
       },
       "172868239380659": {
-        "text": 81,
+        "text": 82,
         "media": 14,
-        "total": 95
+        "total": 96
       },
       "170455038193841": {
         "text": 1,
@@ -2672,9 +2672,9 @@
         "total": 2
       },
       "108461127897146": {
-        "text": 8,
-        "media": 1,
-        "total": 9
+        "text": 9,
+        "media": 2,
+        "total": 11
       }
     },
     "120363428464897153@g.us": {
@@ -3009,9 +3009,9 @@
         "total": 2
       },
       "53537388122141": {
-        "text": 56,
+        "text": 59,
         "media": 0,
-        "total": 56
+        "total": 59
       },
       "253626509443178": {
         "text": 3,
@@ -9165,9 +9165,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Pedro Henrique (172868239380659): Ou na casinha do cachorro",
-        "Gleydson Souza (274384656834700): Ela ja ta assim mano",
-        "willian (163530946961491): Misericórdia então eu devo me preocupar pensei que ela ia me chamar para jantar na casa dela hoje klkk",
         "Pedro Henrique (172868239380659): Tu vai ser o jantar",
         "Souza (190864487919667): KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK",
         "Souza (190864487919667): Se fudeu",
@@ -9664,7 +9661,10 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Tá, não sou",
         "Jennifer🦋 (205621945192508): 🤡🤡🤡🤡🤡🤡",
         "Souza (190864487919667): Tá bom mesmo assim",
-        "Pedro Henrique (172868239380659): Se for de leite melhor ainda"
+        "Pedro Henrique (172868239380659): Se for de leite melhor ainda",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Então tá",
+        "jaciara (108461127897146): Obrigada maravilhosa",
+        "Pedro Henrique (172868239380659): KKK brincadeira"
       ]
     },
     "120363428464897153@g.us": {
@@ -13514,7 +13514,10 @@
         "Leandro (+55 (11) 92701-8683): Pelo menos pra fechar ele tá seguindo o horário 🫡",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Bot vai ser demitido",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Kbaré aberto",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Enquanto o bot"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Enquanto o bot",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): !fechar",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): !abrir 21:10",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): 👀👀"
       ]
     },
     "120363409727467494@g.us": {
@@ -15940,12 +15943,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "274384656834700",
-        "authorName": "Gleydson Souza",
-        "text": "Esse combo ai é um sonho kkkkk",
-        "timestamp": 1787873793809
-      },
-      {
         "authorNum": "222595437858867",
         "authorName": "Juliano Perlin",
         "text": "To vendo que vou pra SC e nao vou voltar mais😍",
@@ -16676,6 +16673,24 @@
         "authorName": "Pedro Henrique",
         "text": "Se for de leite melhor ainda",
         "timestamp": 1787875592101
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Então tá",
+        "timestamp": 1787875593016
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Obrigada maravilhosa",
+        "timestamp": 1787875598986
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "KKK brincadeira",
+        "timestamp": 1787875610082
       }
     ],
     "120363428464897153@g.us": [
@@ -16696,6 +16711,24 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Enquanto o bot",
         "timestamp": 1787875403064
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "!fechar",
+        "timestamp": 1787875612803
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "!abrir 21:10",
+        "timestamp": 1787875624455
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "👀👀",
+        "timestamp": 1787875636463
       }
     ],
     "120363409727467494@g.us": [],
@@ -16792,8 +16825,8 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20958,
-    "120363428464897153@g.us": 5995,
+    "120363432018531082@g.us": 20961,
+    "120363428464897153@g.us": 5998,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1677,
     "120363411233423709@g.us": 5,
@@ -16910,7 +16943,7 @@
   "pendingPresentations": [],
   "groupSchedules": {
     "120363428464897153@g.us": {
-      "openTime": "21:00",
+      "openTime": "21:10",
       "closeTime": "03:00"
     },
     "120363409024805409@g.us": {
@@ -136693,6 +136726,24 @@
         "text": "Se for de leite melhor ainda",
         "pushName": "Pedro Henrique",
         "timestamp": 1787875592101
+      },
+      "AC42618AE5EDB477BA7073C0121F7129": {
+        "sender": "53537388122141@lid",
+        "text": "Então tá",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787875593017
+      },
+      "AC78C271D8BF61C424CEC306A281B59F": {
+        "sender": "108461127897146@lid",
+        "text": "Obrigada maravilhosa",
+        "pushName": "jaciara",
+        "timestamp": 1787875598986
+      },
+      "AC5092B457749635500B2B17EA9DC71F": {
+        "sender": "172868239380659@lid",
+        "text": "KKK brincadeira",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787875610082
       }
     },
     "120363428464897153@g.us": {
@@ -171843,6 +171894,24 @@
         "text": "Enquanto o bot",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787875403064
+      },
+      "AC31F896C13AFFB85CD4EE94DDDBF205": {
+        "sender": "53537388122141@lid",
+        "text": "!fechar",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787875612803
+      },
+      "AC622BB8F9B34F28461F747FDB7D6D17": {
+        "sender": "53537388122141@lid",
+        "text": "!abrir 21:10",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787875624455
+      },
+      "AC539549F35A58CEDC575D9E332D5D0C": {
+        "sender": "53537388122141@lid",
+        "text": "👀👀",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787875636463
       }
     },
     "120363409727467494@g.us": {
@@ -185664,8 +185733,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787875592101,
-    "120363428464897153@g.us": 1787875550569,
+    "120363432018531082@g.us": 1787875620860,
+    "120363428464897153@g.us": 1787875636463,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787875588011,
     "120363411233423709@g.us": 1787113553426,
