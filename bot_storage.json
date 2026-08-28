@@ -252,9 +252,9 @@
         "total": 99
       },
       "233161007071346": {
-        "text": 414,
+        "text": 415,
         "media": 49,
-        "total": 463
+        "total": 464
       },
       "262182034002040": {
         "text": 1868,
@@ -2909,9 +2909,9 @@
         "total": 1
       },
       "92629643563147": {
-        "text": 572,
+        "text": 573,
         "media": 387,
-        "total": 959
+        "total": 960
       },
       "122552932372575": {
         "text": 0,
@@ -2949,9 +2949,9 @@
         "total": 9
       },
       "129373172711439": {
-        "text": 921,
+        "text": 923,
         "media": 234,
-        "total": 1155
+        "total": 1157
       },
       "16007578021977": {
         "text": 50,
@@ -3294,9 +3294,9 @@
         "total": 1
       },
       "190864487919667": {
-        "text": 39,
+        "text": 40,
         "media": 9,
-        "total": 48
+        "total": 49
       },
       "118515428286715": {
         "text": 13,
@@ -3314,9 +3314,9 @@
         "total": 1
       },
       "75797868064796": {
-        "text": 2,
+        "text": 3,
         "media": 3,
-        "total": 5
+        "total": 6
       }
     },
     "120363409727467494@g.us": {
@@ -9205,7 +9205,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Rafael Moura (57707230945348): Bem vinda Jessica",
         "Gleydson Souza (274384656834700): Bem vinda",
         "Jessica (208958782488665): Vim pela fofoca",
         "F. RicaRdo sAnToS (193729163993156): Bem vinda",
@@ -9704,7 +9703,8 @@
         "Gleydson Souza (274384656834700): Bom demais",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Ss",
         "Edison Medeiros💚 (108268240302270): Boah noite a todos !\nMe chamo Edison tenho 44 aninhos sou solteiro e moro em Votorantim SP",
-        " (120363432018531082): Boah noite a todos !\nMe chamo Edison tenho 44 aninhos sou solteiro e moro em Votorantim SP"
+        " (120363432018531082): Boah noite a todos !\nMe chamo Edison tenho 44 aninhos sou solteiro e moro em Votorantim SP",
+        "Milena B. Costa (233161007071346): Como ele é generoso, me deu dois centímetros a mais kkkkkkk 🤌🏻"
       ]
     },
     "120363428464897153@g.us": {
@@ -13706,7 +13706,11 @@
         "Saul (118515428286715): Que horas a porta do kbare abre ?",
         "Souza (190864487919667): Já tá aberto",
         "Celiete Souza (129373172711439): Ouviu né",
-        "Gleydson Souza (274384656834700): Esse é o segredo que poucas contam"
+        "Gleydson Souza (274384656834700): Esse é o segredo que poucas contam",
+        "Camila Designer (92629643563147): Não sei se é verdade, estou pensando sobre o assunto 🤣🤣🤣",
+        "Celiete Souza (129373172711439): Sei kkkk",
+        "Souza (190864487919667): Falam de mucilon mas não usam o tal",
+        "Alexandre Bastos (75797868064796): Obg"
       ]
     },
     "120363409727467494@g.us": {
@@ -16169,12 +16173,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Bem vindo",
-        "timestamp": 1787877994866
-      },
-      {
         "authorNum": "118395236282617",
         "authorName": "Caroline",
         "text": "Bem vindo",
@@ -16221,21 +16219,15 @@
         "authorName": "",
         "text": "Boah noite a todos !\nMe chamo Edison tenho 44 aninhos sou solteiro e moro em Votorantim SP",
         "timestamp": 1787879318050
+      },
+      {
+        "authorNum": "233161007071346",
+        "authorName": "Milena B. Costa",
+        "text": "Como ele é generoso, me deu dois centímetros a mais kkkkkkk 🤌🏻",
+        "timestamp": 1787879888423
       }
     ],
     "120363428464897153@g.us": [
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Só administro",
-        "timestamp": 1787878061175
-      },
-      {
-        "authorNum": "25520947339303",
-        "authorName": "Priscilla 🌻",
-        "text": "Sou atleticana",
-        "timestamp": 1787878073376
-      },
       {
         "authorNum": "190864487919667",
         "authorName": "Souza",
@@ -16739,6 +16731,30 @@
         "authorName": "Gleydson Souza",
         "text": "Esse é o segredo que poucas contam",
         "timestamp": 1787879844122
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Não sei se é verdade, estou pensando sobre o assunto 🤣🤣🤣",
+        "timestamp": 1787879863260
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Sei kkkk",
+        "timestamp": 1787879871609
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Falam de mucilon mas não usam o tal",
+        "timestamp": 1787879873262
+      },
+      {
+        "authorNum": "75797868064796",
+        "authorName": "Alexandre Bastos",
+        "text": "Obg",
+        "timestamp": 1787879877264
       }
     ],
     "120363409727467494@g.us": [],
@@ -16756,8 +16772,8 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21033,
-    "120363428464897153@g.us": 6147,
+    "120363432018531082@g.us": 21034,
+    "120363428464897153@g.us": 6151,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1711,
     "120363411233423709@g.us": 5,
@@ -137094,6 +137110,12 @@
         "text": "Boah noite a todos !\nMe chamo Edison tenho 44 aninhos sou solteiro e moro em Votorantim SP",
         "pushName": "",
         "timestamp": 1787879318050
+      },
+      "AC2E4F5AA8DD8E1AC5E7487913FCF6BD": {
+        "sender": "233161007071346@lid",
+        "text": "Como ele é generoso, me deu dois centímetros a mais kkkkkkk 🤌🏻",
+        "pushName": "Milena B. Costa",
+        "timestamp": 1787879888423
       }
     },
     "120363428464897153@g.us": {
@@ -173150,6 +173172,30 @@
         "text": "Esse é o segredo que poucas contam",
         "pushName": "Gleydson Souza",
         "timestamp": 1787879844123
+      },
+      "2A62838D47EE9F5FB405": {
+        "sender": "92629643563147@lid",
+        "text": "Não sei se é verdade, estou pensando sobre o assunto 🤣🤣🤣",
+        "pushName": "Camila Designer",
+        "timestamp": 1787879863260
+      },
+      "AC1581A68A75811232C17C1C23BC1E9B": {
+        "sender": "129373172711439@lid",
+        "text": "Sei kkkk",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787879871609
+      },
+      "AC6A5582CFC0F4392B03EC0C8D368EE4": {
+        "sender": "190864487919667@lid",
+        "text": "Falam de mucilon mas não usam o tal",
+        "pushName": "Souza",
+        "timestamp": 1787879873263
+      },
+      "AC8CDF8C4C07E83031EFE52D318FFE2E": {
+        "sender": "75797868064796@lid",
+        "text": "Obg",
+        "pushName": "Alexandre Bastos",
+        "timestamp": 1787879877264
       }
     },
     "120363409727467494@g.us": {
@@ -187193,8 +187239,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787879318050,
-    "120363428464897153@g.us": 1787879844315,
+    "120363432018531082@g.us": 1787879888423,
+    "120363428464897153@g.us": 1787879877264,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787877736241,
     "120363411233423709@g.us": 1787113553426,
