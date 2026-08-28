@@ -1953,9 +1953,9 @@
         "total": 5
       },
       "83911531044906": {
-        "text": 69,
+        "text": 71,
         "media": 4,
-        "total": 73
+        "total": 75
       },
       "172864548434113": {
         "text": 42,
@@ -2833,9 +2833,9 @@
         "total": 5
       },
       "78143406768201": {
-        "text": 7,
+        "text": 8,
         "media": 0,
-        "total": 7
+        "total": 8
       },
       "227783724793861": {
         "text": 2,
@@ -9930,9 +9930,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Gabi 💋 (247020967165997): Adorei falar com você",
-        "Souza (190864487919667): 😂😂😂",
-        "Gabi 💋 (247020967165997): Miojinho",
         "Gleydson Souza (274384656834700): Bom dia a todos @todos",
         "Pedro Henrique (172868239380659): Tmj.\n\nA verdade é que tem homens aqui que pensa a mesma coisa, só não concorda pq tem medo do cancelamento",
         "Gabi 💋 (247020967165997): Menino para com isso \nNinguém gostar de beijar puta com sabor p..... Não",
@@ -10429,7 +10426,10 @@
         "Bruno Aguiar (+1395881181241): Eita",
         "Celiete Souza (129373172711439): Então já estou lá",
         "Celiete Souza (129373172711439): Vai um cafezinho após o almoço?",
-        "Kamila (78143406768201): Oiê gente"
+        "Kamila (78143406768201): Oiê gente",
+        "~Gará (83911531044906): Oiii",
+        "Kamila (78143406768201): Tudo bem",
+        "~Gará (83911531044906): Tudo,e vc como ta?"
       ]
     },
     "120363428464897153@g.us": {
@@ -17381,24 +17381,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Que se não era mais fácil ir no puteiro",
-        "timestamp": 1787930902124
-      },
-      {
-        "authorNum": "83911531044906",
-        "authorName": "~Gará",
-        "text": "Era só brincadeira caramba...rsrs",
-        "timestamp": 1787930908408
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Beleza, acredito",
-        "timestamp": 1787930918025
-      },
-      {
         "authorNum": "129373172711439",
         "authorName": "Celiete Souza",
         "text": "Aí complica, na minha opinião o homem que for cavalheiro não deixa isto acontecer",
@@ -17775,6 +17757,24 @@
         "authorName": "Kamila",
         "text": "Oiê gente",
         "timestamp": 1787932693632
+      },
+      {
+        "authorNum": "83911531044906",
+        "authorName": "~Gará",
+        "text": "Oiii",
+        "timestamp": 1787932715991
+      },
+      {
+        "authorNum": "78143406768201",
+        "authorName": "Kamila",
+        "text": "Tudo bem",
+        "timestamp": 1787932722931
+      },
+      {
+        "authorNum": "83911531044906",
+        "authorName": "~Gará",
+        "text": "Tudo,e vc como ta?",
+        "timestamp": 1787932739157
       }
     ],
     "120363428464897153@g.us": [],
@@ -17849,7 +17849,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22028,
+    "120363432018531082@g.us": 22031,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -144095,6 +144095,24 @@
         "text": "Oiê gente",
         "pushName": "Kamila",
         "timestamp": 1787932693632
+      },
+      "ACBD410844E9F6C4CFD277452ACAFA39": {
+        "sender": "83911531044906@lid",
+        "text": "Oiii",
+        "pushName": "~Gará",
+        "timestamp": 1787932715991
+      },
+      "ACF7F96BB52D982ECC446B57F67F5E43": {
+        "sender": "78143406768201@lid",
+        "text": "Tudo bem",
+        "pushName": "Kamila",
+        "timestamp": 1787932722931
+      },
+      "ACAAF484344BEAD3ECB0CC32D951513A": {
+        "sender": "83911531044906@lid",
+        "text": "Tudo,e vc como ta?",
+        "pushName": "~Gará",
+        "timestamp": 1787932739157
       }
     },
     "120363428464897153@g.us": {
@@ -197058,7 +197076,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787932693632,
+    "120363432018531082@g.us": 1787932739157,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
