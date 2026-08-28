@@ -2603,9 +2603,9 @@
         "total": 26
       },
       "190864487919667": {
-        "text": 263,
+        "text": 265,
         "media": 42,
-        "total": 305
+        "total": 307
       },
       "82227819987089": {
         "text": 2,
@@ -9900,8 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Rafael Moura (57707230945348): Tava mesmo 🤣🤣🤣🤣",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): !ban @279628962885736",
         "Camila Designer (92629643563147): Acho que ela acordou a tempo 🤣🤣🤣",
         "Rafael Moura (57707230945348): É igual dinheiro, vai e vem 🤣",
         "Rafael Moura (57707230945348): Alias Gabi é novata aqui ne👀",
@@ -10399,7 +10397,9 @@
         "Nanda (263797142995147): mais é a noite",
         "Nanda (263797142995147): queeroo",
         "Nanda (263797142995147): nunca comi, mais se me convidasse eu iria",
-        "Gleydson Souza (274384656834700): Risoto to passando obg pelo convite"
+        "Gleydson Souza (274384656834700): Risoto to passando obg pelo convite",
+        "Souza (190864487919667): Tem dinheiro pra te sequestrarem?",
+        "Souza (190864487919667): Aceito"
       ]
     },
     "120363428464897153@g.us": {
@@ -17341,24 +17341,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "1395881181241",
-        "authorName": "Bruno Aguiar",
-        "text": "Seja bem vinda!!!",
-        "timestamp": 1787925232029
-      },
-      {
-        "authorNum": "1395881181241",
-        "authorName": "Bruno Aguiar",
-        "text": "Olha a faca😂😂😂",
-        "timestamp": 1787925247366
-      },
-      {
-        "authorNum": "274384656834700",
-        "authorName": "Gleydson Souza",
-        "text": "Bem vinda",
-        "timestamp": 1787925264885
-      },
-      {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Sempre",
@@ -17759,6 +17741,18 @@
         "authorName": "Gleydson Souza",
         "text": "Risoto to passando obg pelo convite",
         "timestamp": 1787927021238
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Tem dinheiro pra te sequestrarem?",
+        "timestamp": 1787927116611
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Aceito",
+        "timestamp": 1787927127962
       }
     ],
     "120363428464897153@g.us": [],
@@ -17785,7 +17779,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21788,
+    "120363432018531082@g.us": 21790,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2011,
@@ -142610,6 +142604,18 @@
         "text": "Risoto to passando obg pelo convite",
         "pushName": "Gleydson Souza",
         "timestamp": 1787927021238
+      },
+      "AC5C7966A07C63097E73107CF726E0EC": {
+        "sender": "190864487919667@lid",
+        "text": "Tem dinheiro pra te sequestrarem?",
+        "pushName": "Souza",
+        "timestamp": 1787927116611
+      },
+      "AC50229027A67844551A140E656393C0": {
+        "sender": "190864487919667@lid",
+        "text": "Aceito",
+        "pushName": "Souza",
+        "timestamp": 1787927127962
       }
     },
     "120363428464897153@g.us": {
@@ -195513,7 +195519,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787927082998,
+    "120363432018531082@g.us": 1787927127962,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787926648480,
