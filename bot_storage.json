@@ -2663,9 +2663,9 @@
         "total": 82
       },
       "172868239380659": {
-        "text": 164,
+        "text": 165,
         "media": 31,
-        "total": 195
+        "total": 196
       },
       "170455038193841": {
         "text": 1,
@@ -2799,8 +2799,8 @@
       },
       "247020967165997": {
         "text": 96,
-        "media": 26,
-        "total": 122
+        "media": 27,
+        "total": 123
       },
       "206253020176458": {
         "text": 3,
@@ -10342,7 +10342,8 @@
         "Pedro Henrique (172868239380659): Uma zoeira saudável daquela",
         "Pedro Henrique (172868239380659): @247020967165997 vc tava brava ?",
         "Rafael Moura (57707230945348): Sei não em",
-        "Rafael Moura (57707230945348): Não acho que chamar uma mulher de \"rodada\" seja uma zoeira saudavel, mas aí vai de cada um"
+        "Rafael Moura (57707230945348): Não acho que chamar uma mulher de \"rodada\" seja uma zoeira saudavel, mas aí vai de cada um",
+        "Pedro Henrique (172868239380659): Eu ? Em plena sexta? só se acontecer uma tragédia"
       ]
     },
     "120363428464897153@g.us": {
@@ -17266,42 +17267,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Kkkkkkkkkkkk",
-        "timestamp": 1787916736095
-      },
-      {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Sai",
-        "timestamp": 1787916737596
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Não achei minha boca no lixo igual você",
-        "timestamp": 1787916741231
-      },
-      {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Levou pro coração?",
-        "timestamp": 1787916761028
-      },
-      {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "KKK",
-        "timestamp": 1787916762461
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Levei não",
-        "timestamp": 1787916767085
-      },
-      {
         "authorNum": "247020967165997",
         "authorName": "Gabi 💋",
         "text": "Tu que está passando vergonha",
@@ -18032,6 +17997,12 @@
         "authorName": "Rafael Moura",
         "text": "Não acho que chamar uma mulher de \"rodada\" seja uma zoeira saudavel, mas aí vai de cada um",
         "timestamp": 1787918536072
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Eu ? Em plena sexta? só se acontecer uma tragédia",
+        "timestamp": 1787918573374
       }
     ],
     "120363428464897153@g.us": [],
@@ -18051,7 +18022,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21580,
+    "120363432018531082@g.us": 21581,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -141641,6 +141612,12 @@
         "text": "Não acho que chamar uma mulher de \"rodada\" seja uma zoeira saudavel, mas aí vai de cada um",
         "pushName": "Rafael Moura",
         "timestamp": 1787918536072
+      },
+      "ACA611347E8005B13C884EEA7F666C7F": {
+        "sender": "172868239380659@lid",
+        "text": "Eu ? Em plena sexta? só se acontecer uma tragédia",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787918573374
       }
     },
     "120363428464897153@g.us": {
@@ -194436,7 +194413,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787918536232,
+    "120363432018531082@g.us": 1787918574407,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
