@@ -2833,9 +2833,9 @@
         "total": 5
       },
       "78143406768201": {
-        "text": 8,
+        "text": 9,
         "media": 0,
-        "total": 8
+        "total": 9
       },
       "227783724793861": {
         "text": 22,
@@ -3534,9 +3534,9 @@
     },
     "120363412288900422@g.us": {
       "81991328395336": {
-        "text": 478,
+        "text": 479,
         "media": 123,
-        "total": 601
+        "total": 602
       },
       "5511927018683": {
         "text": 579,
@@ -3549,9 +3549,9 @@
         "total": 630
       },
       "53537388122141": {
-        "text": 809,
+        "text": 810,
         "media": 62,
-        "total": 871
+        "total": 872
       },
       "120363412288900422": {
         "text": 1,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Arthur (206253020176458): Fazendo oq kamila de bom",
         "Rafael Moura (57707230945348): Paz amor e muito miojo",
         "Bruno Aguiar (+1395881181241): É bom repor as energias",
         "Bruno Aguiar (+1395881181241): Oiii",
@@ -10449,7 +10448,8 @@
         "Celiete Souza (129373172711439): Vdd",
         "Celiete Souza (129373172711439): Amo eles",
         "Celiete Souza (129373172711439): Henrique e Juliano, minha paixão",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Sertanejo universitário, praticamente todos são bons"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Sertanejo universitário, praticamente todos são bons",
+        "Kamila (78143406768201): Boa noite"
       ]
     },
     "120363428464897153@g.us": {
@@ -16984,7 +16984,9 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): As músicas estão funcionando?",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): @54259127210155",
         "Leandro (+55 (11) 92701-8683): Vou subir o bot de música agora",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Por favoooor"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Por favoooor",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Já vou durmi \nTchau meu povo \nAté amanhã \nSe cuidem e cuidem do grupo !!?\nBjs de luz",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Beijo amiga, boa noite!"
       ]
     },
     "120363411233423709@g.us": {
@@ -17629,6 +17631,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Sertanejo universitário, praticamente todos são bons",
         "timestamp": 1787956451248
+      },
+      {
+        "authorNum": "78143406768201",
+        "authorName": "Kamila",
+        "text": "Boa noite",
+        "timestamp": 1787956457761
       }
     ],
     "120363428464897153@g.us": [],
@@ -17747,6 +17755,18 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Por favoooor",
         "timestamp": 1787956417038
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Já vou durmi \nTchau meu povo \nAté amanhã \nSe cuidem e cuidem do grupo !!?\nBjs de luz",
+        "timestamp": 1787956465603
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Beijo amiga, boa noite!",
+        "timestamp": 1787956486404
       }
     ],
     "120363411233423709@g.us": [],
@@ -17782,10 +17802,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22534,
+    "120363432018531082@g.us": 22535,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2109,
+    "120363412288900422@g.us": 2111,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -147027,6 +147047,12 @@
         "text": "Sertanejo universitário, praticamente todos são bons",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787956451248
+      },
+      "ACA1D32DC4A916F35D4659815126E078": {
+        "sender": "78143406768201@lid",
+        "text": "Boa noite",
+        "pushName": "Kamila",
+        "timestamp": 1787956457761
       }
     },
     "120363428464897153@g.us": {
@@ -197769,6 +197795,18 @@
         "text": "Por favoooor",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787956417039
+      },
+      "AC0FC1AF5B7C8647BC0397C880400180": {
+        "sender": "81991328395336@lid",
+        "text": "Já vou durmi \nTchau meu povo \nAté amanhã \nSe cuidem e cuidem do grupo !!?\nBjs de luz",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787956465603
+      },
+      "AC85AD356CDFDD349792127553FD635E": {
+        "sender": "53537388122141@lid",
+        "text": "Beijo amiga, boa noite!",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787956486404
       }
     },
     "120363411233423709@g.us": {
@@ -200650,10 +200688,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787956451248,
+    "120363432018531082@g.us": 1787956457761,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787956417038,
+    "120363412288900422@g.us": 1787956486404,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
