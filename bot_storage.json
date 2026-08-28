@@ -2629,8 +2629,8 @@
       },
       "75797868064796": {
         "text": 18,
-        "media": 44,
-        "total": 62
+        "media": 45,
+        "total": 63
       },
       "153764728184839": {
         "text": 2,
@@ -2663,9 +2663,9 @@
         "total": 77
       },
       "172868239380659": {
-        "text": 103,
-        "media": 15,
-        "total": 118
+        "text": 104,
+        "media": 16,
+        "total": 120
       },
       "170455038193841": {
         "text": 1,
@@ -2688,9 +2688,9 @@
         "total": 62
       },
       "208958782488665": {
-        "text": 16,
+        "text": 17,
         "media": 12,
-        "total": 28
+        "total": 29
       },
       "262456945414267": {
         "text": 9,
@@ -2814,8 +2814,8 @@
       },
       "221307534876912": {
         "text": 2,
-        "media": 1,
-        "total": 3
+        "media": 2,
+        "total": 4
       }
     },
     "120363428464897153@g.us": {
@@ -10150,7 +10150,9 @@
         "Alexandre Bastos (75797868064796): Vc que disse",
         "Pedro Henrique (172868239380659): Se não for pensar na intenção é melhor ficar em casa",
         "Pedro Henrique (172868239380659): Sem ser no cabaré",
-        "Gabi 💋 (247020967165997): Meu Deus"
+        "Gabi 💋 (247020967165997): Meu Deus",
+        "Pedro Henrique (172868239380659): Já criei a primeira discórdia da sexta, agora iremos trabalhar",
+        "Jessica (208958782488665): Por essas e outras que eu não saio com ninguém. Hoje dia de academia se louco"
       ]
     },
     "120363428464897153@g.us": {
@@ -17725,6 +17727,18 @@
         "authorName": "Gabi 💋",
         "text": "Meu Deus",
         "timestamp": 1787915750073
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Já criei a primeira discórdia da sexta, agora iremos trabalhar",
+        "timestamp": 1787915769324
+      },
+      {
+        "authorNum": "208958782488665",
+        "authorName": "Jessica",
+        "text": "Por essas e outras que eu não saio com ninguém. Hoje dia de academia se louco",
+        "timestamp": 1787915788039
       }
     ],
     "120363428464897153@g.us": [],
@@ -17763,7 +17777,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21388,
+    "120363432018531082@g.us": 21390,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1992,
@@ -140201,6 +140215,18 @@
         "text": "Meu Deus",
         "pushName": "Gabi 💋",
         "timestamp": 1787915750073
+      },
+      "ACA4F36E79943BC861E3E8889C9ACE17": {
+        "sender": "172868239380659@lid",
+        "text": "Já criei a primeira discórdia da sexta, agora iremos trabalhar",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787915769324
+      },
+      "ACEEE426D2A86EAE305F6346C0428F01": {
+        "sender": "208958782488665@lid",
+        "text": "Por essas e outras que eu não saio com ninguém. Hoje dia de academia se louco",
+        "pushName": "Jessica",
+        "timestamp": 1787915788039
       }
     },
     "120363428464897153@g.us": {
@@ -192990,7 +193016,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787915750073,
+    "120363432018531082@g.us": 1787915788039,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787914462012,
