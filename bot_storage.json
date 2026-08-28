@@ -2603,9 +2603,9 @@
         "total": 23
       },
       "190864487919667": {
-        "text": 221,
+        "text": 223,
         "media": 39,
-        "total": 260
+        "total": 262
       },
       "82227819987089": {
         "text": 2,
@@ -2629,8 +2629,8 @@
       },
       "75797868064796": {
         "text": 19,
-        "media": 57,
-        "total": 76
+        "media": 58,
+        "total": 77
       },
       "153764728184839": {
         "text": 2,
@@ -10191,7 +10191,8 @@
         "Alexandre Bastos (75797868064796): Quando e isso tem alguma coisa",
         "Saul (118515428286715): QUE ISSO, na cara não kkkk",
         "Gabi 💋 (247020967165997): Ok",
-        "Gabi 💋 (247020967165997): Coisa fofa"
+        "Gabi 💋 (247020967165997): Coisa fofa",
+        "Souza (190864487919667): Receba"
       ]
     },
     "120363428464897153@g.us": {
@@ -17115,36 +17116,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "199733712785531",
-        "authorName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
-        "text": "Bem vinda.",
-        "timestamp": 1787914658606
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Morto",
-        "timestamp": 1787914660872
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "@262182034002040 corre aqui",
-        "timestamp": 1787914663750
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Bem vinda",
-        "timestamp": 1787914671593
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Tô zuando 😂",
-        "timestamp": 1787914671902
-      },
-      {
         "authorNum": "57707230945348",
         "authorName": "Rafael Moura",
         "text": "Ela vai ter um mini infarto",
@@ -17767,6 +17738,12 @@
         "authorName": "Gabi 💋",
         "text": "Coisa fofa",
         "timestamp": 1787916457536
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Receba",
+        "timestamp": 1787916479846
       }
     ],
     "120363428464897153@g.us": [],
@@ -17793,7 +17770,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21429,
+    "120363432018531082@g.us": 21430,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -140477,6 +140454,12 @@
         "text": "Coisa fofa",
         "pushName": "Gabi 💋",
         "timestamp": 1787916457536
+      },
+      "AC102C3DA173B418BC4E69C8C8F8D090": {
+        "sender": "190864487919667@lid",
+        "text": "Receba",
+        "pushName": "Souza",
+        "timestamp": 1787916479846
       }
     },
     "120363428464897153@g.us": {
@@ -193272,7 +193255,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787916457536,
+    "120363432018531082@g.us": 1787916494030,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
