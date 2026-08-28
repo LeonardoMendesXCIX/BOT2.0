@@ -2629,8 +2629,8 @@
       },
       "75797868064796": {
         "text": 13,
-        "media": 20,
-        "total": 33
+        "media": 21,
+        "total": 34
       },
       "153764728184839": {
         "text": 2,
@@ -2683,9 +2683,9 @@
         "total": 7
       },
       "205621945192508": {
-        "text": 39,
+        "text": 40,
         "media": 20,
-        "total": 59
+        "total": 60
       },
       "208958782488665": {
         "text": 13,
@@ -10038,7 +10038,9 @@
         "Celiete Souza (129373172711439): Boa sexta-feira pra todos 🙏🏼",
         "Bruno (210152934359048): Bom diaa",
         "Alexandre Bastos (75797868064796): Bem vinda",
-        "Gabi 💋 (247020967165997): Obrigada"
+        "Gabi 💋 (247020967165997): Obrigada",
+        "Alexandre Bastos (75797868064796): Bom dia mais um plantão",
+        "Jennifer🦋 (205621945192508): Bom dia pessoal, um dia abençoado pra todos nós 🙏🏻"
       ]
     },
     "120363428464897153@g.us": {
@@ -17274,6 +17276,18 @@
         "authorName": "Gabi 💋",
         "text": "Obrigada",
         "timestamp": 1787914238034
+      },
+      {
+        "authorNum": "75797868064796",
+        "authorName": "Alexandre Bastos",
+        "text": "Bom dia mais um plantão",
+        "timestamp": 1787914260667
+      },
+      {
+        "authorNum": "205621945192508",
+        "authorName": "Jennifer🦋",
+        "text": "Bom dia pessoal, um dia abençoado pra todos nós 🙏🏻",
+        "timestamp": 1787914266318
       }
     ],
     "120363428464897153@g.us": [],
@@ -17293,7 +17307,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21281,
+    "120363432018531082@g.us": 21283,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1989,
@@ -139096,6 +139110,18 @@
         "text": "Obrigada",
         "pushName": "Gabi 💋",
         "timestamp": 1787914238034
+      },
+      "AC088472ACC145995A7EB82BCCF04528": {
+        "sender": "75797868064796@lid",
+        "text": "Bom dia mais um plantão",
+        "pushName": "Alexandre Bastos",
+        "timestamp": 1787914260667
+      },
+      "AC50C719231CF7CAE1D32B7D67002CF4": {
+        "sender": "205621945192508@lid",
+        "text": "Bom dia pessoal, um dia abençoado pra todos nós 🙏🏻",
+        "pushName": "Jennifer🦋",
+        "timestamp": 1787914266319
       }
     },
     "120363428464897153@g.us": {
@@ -191867,7 +191893,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787914238034,
+    "120363432018531082@g.us": 1787914266318,
     "120363428464897153@g.us": 1787913193216,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787894166886,
