@@ -318,9 +318,9 @@
         "total": 117
       },
       "199733712785531": {
-        "text": 199,
+        "text": 201,
         "media": 113,
-        "total": 312
+        "total": 314
       },
       "153596754661626": {
         "text": 1,
@@ -383,9 +383,9 @@
         "total": 480
       },
       "222595437858867": {
-        "text": 500,
+        "text": 501,
         "media": 53,
-        "total": 553
+        "total": 554
       },
       "83280154103884": {
         "text": 36,
@@ -2603,9 +2603,9 @@
         "total": 21
       },
       "190864487919667": {
-        "text": 201,
+        "text": 202,
         "media": 35,
-        "total": 236
+        "total": 237
       },
       "82227819987089": {
         "text": 2,
@@ -2798,9 +2798,9 @@
         "total": 4
       },
       "247020967165997": {
-        "text": 1,
+        "text": 2,
         "media": 1,
-        "total": 2
+        "total": 3
       }
     },
     "120363428464897153@g.us": {
@@ -9982,7 +9982,11 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Tô bem e você??",
         "Souza (190864487919667): Vamos trabalhar né",
         "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Bom dia!",
-        "Souza (190864487919667): Pq meu sextou é só amanhã"
+        "Souza (190864487919667): Pq meu sextou é só amanhã",
+        "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Bem vinda.",
+        "Juliano Perlin (222595437858867): To bemm sua fofa🥹",
+        "Souza (190864487919667): Buenos",
+        "Gabi 💋 (247020967165997): Obrigada"
       ]
     },
     "120363428464897153@g.us": {
@@ -17050,6 +17054,30 @@
         "authorName": "Souza",
         "text": "Pq meu sextou é só amanhã",
         "timestamp": 1787912706820
+      },
+      {
+        "authorNum": "199733712785531",
+        "authorName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
+        "text": "Bem vinda.",
+        "timestamp": 1787912714706
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "To bemm sua fofa🥹",
+        "timestamp": 1787912716003
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Buenos",
+        "timestamp": 1787912716590
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Obrigada",
+        "timestamp": 1787912722318
       }
     ],
     "120363428464897153@g.us": [],
@@ -17069,7 +17097,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21235,
+    "120363432018531082@g.us": 21239,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1989,
@@ -138596,6 +138624,30 @@
         "text": "Pq meu sextou é só amanhã",
         "pushName": "Souza",
         "timestamp": 1787912706820
+      },
+      "3A9873DB6F5E271F1EB1": {
+        "sender": "199733712785531@lid",
+        "text": "Bem vinda.",
+        "pushName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
+        "timestamp": 1787912714706
+      },
+      "ACAEB545EF3D4F611B759D6CABF18D59": {
+        "sender": "222595437858867@lid",
+        "text": "To bemm sua fofa🥹",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1787912716003
+      },
+      "AC811FFC1D5CD7FA4CE3694EA15938AC": {
+        "sender": "190864487919667@lid",
+        "text": "Buenos",
+        "pushName": "Souza",
+        "timestamp": 1787912716590
+      },
+      "ACCD391169E3A158C52ADD05A462704E": {
+        "sender": "247020967165997@lid",
+        "text": "Obrigada",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787912722318
       }
     },
     "120363428464897153@g.us": {
@@ -191367,7 +191419,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787912706820,
+    "120363432018531082@g.us": 1787912723857,
     "120363428464897153@g.us": 1787912432171,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787894166886,
