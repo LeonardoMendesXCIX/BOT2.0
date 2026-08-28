@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2347,
+        "text": 2349,
         "media": 328,
-        "total": 2675
+        "total": 2677
       },
       "252922705240205": {
         "text": 80,
@@ -2708,9 +2708,9 @@
         "total": 2
       },
       "108461127897146": {
-        "text": 98,
+        "text": 99,
         "media": 12,
-        "total": 110
+        "total": 111
       },
       "10050861031495": {
         "text": 0,
@@ -2858,9 +2858,9 @@
         "total": 4
       },
       "263797142995147": {
-        "text": 63,
+        "text": 65,
         "media": 4,
-        "total": 67
+        "total": 69
       }
     },
     "120363428464897153@g.us": {
@@ -9950,11 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Souza (190864487919667): Mais quente ainda",
-        "F. RicaRdo sAnToS (193729163993156): Tudo jóia 💎",
-        "Souza (190864487919667): Amém",
-        "jaciara (108461127897146): Passando alguns meses , até minha bebê nascer",
-        "jaciara (108461127897146): Estou grávida",
         "Camila Designer (92629643563147): Ah sim, sua família está aí?",
         "Souza (190864487919667): O pai foi também?",
         "jaciara (108461127897146): Minha mãe mora aqui , e eu sou mãe solo kkkk",
@@ -10449,7 +10444,12 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): 👀👀",
         "jaciara (108461127897146): O ruim é que sou curiosa",
         "Nanda (263797142995147): isso é da onde?",
-        "Nanda (263797142995147): nem sabia q ainda existia isso"
+        "Nanda (263797142995147): nem sabia q ainda existia isso",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): O correio anônimo??",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Interessado, chamar ela no Pv 😂😂",
+        "Nanda (263797142995147): sim, usei faz um bom tempo kkk no tempo da escola",
+        "jaciara (108461127897146): Simmmmm",
+        "Nanda (263797142995147): é legal"
       ]
     },
     "120363428464897153@g.us": {
@@ -17664,6 +17664,36 @@
         "authorName": "Nanda",
         "text": "nem sabia q ainda existia isso",
         "timestamp": 1787947207399
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "O correio anônimo??",
+        "timestamp": 1787947227803
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Interessado, chamar ela no Pv 😂😂",
+        "timestamp": 1787947243045
+      },
+      {
+        "authorNum": "263797142995147",
+        "authorName": "Nanda",
+        "text": "sim, usei faz um bom tempo kkk no tempo da escola",
+        "timestamp": 1787947261077
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Simmmmm",
+        "timestamp": 1787947261820
+      },
+      {
+        "authorNum": "263797142995147",
+        "authorName": "Nanda",
+        "text": "é legal",
+        "timestamp": 1787947263181
       }
     ],
     "120363428464897153@g.us": [],
@@ -17690,7 +17720,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22348,
+    "120363432018531082@g.us": 22353,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -145837,6 +145867,36 @@
         "text": "nem sabia q ainda existia isso",
         "pushName": "Nanda",
         "timestamp": 1787947207399
+      },
+      "AC7649EFAF59FE2DC2ACC2A54B902790": {
+        "sender": "53537388122141@lid",
+        "text": "O correio anônimo??",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787947227803
+      },
+      "ACE600FBDD5CCE4D0714A8A59C8944AF": {
+        "sender": "53537388122141@lid",
+        "text": "Interessado, chamar ela no Pv 😂😂",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787947243045
+      },
+      "AC5267EA497582CAA31614B56E748002": {
+        "sender": "263797142995147@lid",
+        "text": "sim, usei faz um bom tempo kkk no tempo da escola",
+        "pushName": "Nanda",
+        "timestamp": 1787947261077
+      },
+      "AC3944AEDD7E2CD9B1B4354FF8C1B95A": {
+        "sender": "108461127897146@lid",
+        "text": "Simmmmm",
+        "pushName": "jaciara",
+        "timestamp": 1787947261820
+      },
+      "ACAB5DF4FE4B8374FA26E7AA356FE606": {
+        "sender": "263797142995147@lid",
+        "text": "é legal",
+        "pushName": "Nanda",
+        "timestamp": 1787947263181
       }
     },
     "120363428464897153@g.us": {
@@ -199310,7 +199370,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787947207399,
+    "120363432018531082@g.us": 1787947263181,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
