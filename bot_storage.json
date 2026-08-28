@@ -2663,9 +2663,9 @@
         "total": 77
       },
       "172868239380659": {
-        "text": 104,
-        "media": 18,
-        "total": 122
+        "text": 105,
+        "media": 19,
+        "total": 124
       },
       "170455038193841": {
         "text": 1,
@@ -2798,9 +2798,9 @@
         "total": 4
       },
       "247020967165997": {
-        "text": 27,
+        "text": 28,
         "media": 6,
-        "total": 33
+        "total": 34
       },
       "206253020176458": {
         "text": 3,
@@ -3489,9 +3489,9 @@
     },
     "120363412288900422@g.us": {
       "81991328395336": {
-        "text": 466,
+        "text": 467,
         "media": 121,
-        "total": 587
+        "total": 588
       },
       "5511927018683": {
         "text": 535,
@@ -10156,7 +10156,9 @@
         "Gabi 💋 (247020967165997): Discórdia não \nVirou piada ksksks",
         "Souza (190864487919667): Por isso não conseguem nada",
         "Gabi 💋 (247020967165997): Bem isso",
-        "Jessica (208958782488665): Neeh puxar peso que ganho mais"
+        "Jessica (208958782488665): Neeh puxar peso que ganho mais",
+        "Gabi 💋 (247020967165997): Vou a noite com o meu belo fone para não ouvir asneira é vida",
+        "Pedro Henrique (172868239380659): Vou é trabalhar pra pagar a viagem do feriado"
       ]
     },
     "120363428464897153@g.us": {
@@ -16575,7 +16577,8 @@
         "Leandro (+55 (11) 92701-8683): O cara tem uma faixa de pedestre na testa 🤦🏻‍♂️",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bom dia adms",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Facão logo cedo",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Invasão de Pv"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Invasão de Pv",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Quem ?"
       ]
     },
     "120363411233423709@g.us": {
@@ -17767,6 +17770,18 @@
         "authorName": "Jessica",
         "text": "Neeh puxar peso que ganho mais",
         "timestamp": 1787915826823
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Vou a noite com o meu belo fone para não ouvir asneira é vida",
+        "timestamp": 1787915868760
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Vou é trabalhar pra pagar a viagem do feriado",
+        "timestamp": 1787915889223
       }
     ],
     "120363428464897153@g.us": [],
@@ -17789,6 +17804,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Invasão de Pv",
         "timestamp": 1787914462012
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Quem ?",
+        "timestamp": 1787915873458
       }
     ],
     "120363411233423709@g.us": [],
@@ -17805,10 +17826,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21394,
+    "120363432018531082@g.us": 21396,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1992,
+    "120363412288900422@g.us": 1993,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -140279,6 +140300,18 @@
         "text": "Neeh puxar peso que ganho mais",
         "pushName": "Jessica",
         "timestamp": 1787915826823
+      },
+      "AC3612576B46C3159B5BA4AB0905BAB3": {
+        "sender": "247020967165997@lid",
+        "text": "Vou a noite com o meu belo fone para não ouvir asneira é vida",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787915868760
+      },
+      "ACD11CE3018968865D5A5B9839D0EB69": {
+        "sender": "172868239380659@lid",
+        "text": "Vou é trabalhar pra pagar a viagem do feriado",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787915889223
       }
     },
     "120363428464897153@g.us": {
@@ -190325,6 +190358,12 @@
         "text": "Invasão de Pv",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787914462012
+      },
+      "AC04CEF0916F719E12E118579BDD48B9": {
+        "sender": "81991328395336@lid",
+        "text": "Quem ?",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787915873458
       }
     },
     "120363411233423709@g.us": {
@@ -193068,10 +193107,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787915853877,
+    "120363432018531082@g.us": 1787915890028,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787914462012,
+    "120363412288900422@g.us": 1787915873458,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
