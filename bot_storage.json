@@ -242,9 +242,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2199,
+        "text": 2200,
         "media": 292,
-        "total": 2491
+        "total": 2492
       },
       "252922705240205": {
         "text": 80,
@@ -2627,9 +2627,9 @@
         "total": 70
       },
       "172868239380659": {
-        "text": 82,
+        "text": 83,
         "media": 14,
-        "total": 96
+        "total": 97
       },
       "170455038193841": {
         "text": 1,
@@ -2672,9 +2672,9 @@
         "total": 2
       },
       "108461127897146": {
-        "text": 9,
+        "text": 10,
         "media": 2,
-        "total": 11
+        "total": 12
       }
     },
     "120363428464897153@g.us": {
@@ -3324,13 +3324,13 @@
       },
       "145381035905262": {
         "text": 358,
-        "media": 141,
-        "total": 499
+        "media": 142,
+        "total": 500
       },
       "53537388122141": {
-        "text": 661,
+        "text": 662,
         "media": 51,
-        "total": 712
+        "total": 713
       },
       "120363412288900422": {
         "text": 1,
@@ -9165,8 +9165,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Pedro Henrique (172868239380659): Tu vai ser o jantar",
-        "Souza (190864487919667): KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK",
         "Souza (190864487919667): Se fudeu",
         "Souza (190864487919667): Se",
         "Souza (190864487919667): Fu",
@@ -9664,7 +9662,9 @@
         "Pedro Henrique (172868239380659): Se for de leite melhor ainda",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Então tá",
         "jaciara (108461127897146): Obrigada maravilhosa",
-        "Pedro Henrique (172868239380659): KKK brincadeira"
+        "Pedro Henrique (172868239380659): KKK brincadeira",
+        "jaciara (108461127897146): Vc mora onde ?",
+        "Pedro Henrique (172868239380659): Brasília"
       ]
     },
     "120363428464897153@g.us": {
@@ -15476,7 +15476,9 @@
         "Gabriel (145381035905262): Ahammm",
         "Gabriel (145381035905262): 💥 BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Queremos conhecer você! ✨\n\n📸 Sua foto:\n💬 Nome:Jaciara Vargas \n🎂 Idade:28 anos \n📍 De onde sou: fortaleza dos Nogueiras (MA)\n\n*🫶🏻 Seja bem-vindo(a)!*\n\n✨ Sinta-se à ",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Uma gatinha que diz né",
-        "Gabriel (145381035905262): Pelo nome achei que teria uns 70 anos"
+        "Gabriel (145381035905262): Pelo nome achei que teria uns 70 anos",
+        "Gabriel (145381035905262): Me chamo Jennifer, tenho 21 anos e moro em Belém do Pará",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Mas que é gatinha, é sim 👀"
       ]
     },
     "120363411233423709@g.us": {
@@ -15942,12 +15944,6 @@
   },
   "memoryCluster": {
     "120363432018531082@g.us": [
-      {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "To vendo que vou pra SC e nao vou voltar mais😍",
-        "timestamp": 1787873833795
-      },
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
@@ -16691,6 +16687,18 @@
         "authorName": "Pedro Henrique",
         "text": "KKK brincadeira",
         "timestamp": 1787875610082
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Vc mora onde ?",
+        "timestamp": 1787875638487
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Brasília",
+        "timestamp": 1787875657456
       }
     ],
     "120363428464897153@g.us": [
@@ -16810,6 +16818,18 @@
         "authorName": "Gabriel",
         "text": "Pelo nome achei que teria uns 70 anos",
         "timestamp": 1787875588011
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Me chamo Jennifer, tenho 21 anos e moro em Belém do Pará",
+        "timestamp": 1787875664867
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Mas que é gatinha, é sim 👀",
+        "timestamp": 1787875665645
       }
     ],
     "120363411233423709@g.us": [],
@@ -16825,10 +16845,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20961,
+    "120363432018531082@g.us": 20963,
     "120363428464897153@g.us": 5998,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1677,
+    "120363412288900422@g.us": 1679,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -136744,6 +136764,18 @@
         "text": "KKK brincadeira",
         "pushName": "Pedro Henrique",
         "timestamp": 1787875610082
+      },
+      "AC3CD1006FF722D7B2359646E39B1158": {
+        "sender": "108461127897146@lid",
+        "text": "Vc mora onde ?",
+        "pushName": "jaciara",
+        "timestamp": 1787875638487
+      },
+      "ACF186FFFF0A38A34F55BDD8DE21F9F8": {
+        "sender": "172868239380659@lid",
+        "text": "Brasília",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787875657456
       }
     },
     "120363428464897153@g.us": {
@@ -183178,6 +183210,18 @@
         "text": "Pelo nome achei que teria uns 70 anos",
         "pushName": "Gabriel",
         "timestamp": 1787875588011
+      },
+      "AC30A68063860617B87A484AF7522761": {
+        "sender": "145381035905262@lid",
+        "text": "Me chamo Jennifer, tenho 21 anos e moro em Belém do Pará",
+        "pushName": "Gabriel",
+        "timestamp": 1787875664867
+      },
+      "ACFDA6EBEF9C13671458CA86049959C4": {
+        "sender": "53537388122141@lid",
+        "text": "Mas que é gatinha, é sim 👀",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787875665646
       }
     },
     "120363411233423709@g.us": {
@@ -185733,10 +185777,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787875620860,
+    "120363432018531082@g.us": 1787875657456,
     "120363428464897153@g.us": 1787875636463,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787875588011,
+    "120363412288900422@g.us": 1787875665645,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
