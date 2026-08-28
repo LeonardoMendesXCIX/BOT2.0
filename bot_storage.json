@@ -2604,8 +2604,8 @@
       },
       "190864487919667": {
         "text": 219,
-        "media": 38,
-        "total": 257
+        "media": 39,
+        "total": 258
       },
       "82227819987089": {
         "text": 2,
@@ -2629,8 +2629,8 @@
       },
       "75797868064796": {
         "text": 18,
-        "media": 51,
-        "total": 69
+        "media": 52,
+        "total": 70
       },
       "153764728184839": {
         "text": 2,
@@ -2663,9 +2663,9 @@
         "total": 77
       },
       "172868239380659": {
-        "text": 110,
+        "text": 111,
         "media": 20,
-        "total": 130
+        "total": 131
       },
       "170455038193841": {
         "text": 1,
@@ -10173,7 +10173,8 @@
         "Rafael Moura (57707230945348): E eu tenho dois pontos, olha aqui !",
         "Rafael Moura (57707230945348): ..",
         "Gabi 💋 (247020967165997): Adoro um sabor de outros ksksks",
-        "Gabi 💋 (247020967165997): Que delícia"
+        "Gabi 💋 (247020967165997): Que delícia",
+        "Pedro Henrique (172868239380659): Brincadeira a parte, hoje em dia tá tudo caro, antigamente tinha uns lugares mais em conta em restaurante"
       ]
     },
     "120363428464897153@g.us": {
@@ -17863,6 +17864,12 @@
         "authorName": "Gabi 💋",
         "text": "Que delícia",
         "timestamp": 1787916078881
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Brincadeira a parte, hoje em dia tá tudo caro, antigamente tinha uns lugares mais em conta em restaurante",
+        "timestamp": 1787916106303
       }
     ],
     "120363428464897153@g.us": [],
@@ -17907,7 +17914,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21411,
+    "120363432018531082@g.us": 21412,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -140483,6 +140490,12 @@
         "text": "Que delícia",
         "pushName": "Gabi 💋",
         "timestamp": 1787916078881
+      },
+      "AC306A4630392D0A521FF3599ABE0B02": {
+        "sender": "172868239380659@lid",
+        "text": "Brincadeira a parte, hoje em dia tá tudo caro, antigamente tinha uns lugares mais em conta em restaurante",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787916106303
       }
     },
     "120363428464897153@g.us": {
@@ -193278,7 +193291,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787916090378,
+    "120363432018531082@g.us": 1787916147723,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
