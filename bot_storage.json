@@ -453,9 +453,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1718,
+        "text": 1719,
         "media": 334,
-        "total": 2052
+        "total": 2053
       },
       "252600633041077": {
         "text": 1,
@@ -2604,8 +2604,8 @@
       },
       "190864487919667": {
         "text": 315,
-        "media": 46,
-        "total": 361
+        "media": 47,
+        "total": 362
       },
       "82227819987089": {
         "text": 2,
@@ -2674,8 +2674,8 @@
       },
       "193729163993156": {
         "text": 39,
-        "media": 7,
-        "total": 46
+        "media": 8,
+        "total": 47
       },
       "151582733820115": {
         "text": 5,
@@ -2813,9 +2813,9 @@
         "total": 16
       },
       "221307534876912": {
-        "text": 12,
+        "text": 13,
         "media": 17,
-        "total": 29
+        "total": 30
       },
       "238388519141379": {
         "text": 7,
@@ -9905,8 +9905,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Rafael Moura (57707230945348): 3 min é podcast",
-        "Rafael Moura (57707230945348): @221307534876912 😏",
         "Gabi 💋 (247020967165997): Acho que o do Pedro é um minuto pelo grana que ele tem",
         "Gabi 💋 (247020967165997): Tem que ser rápido",
         "Rafael Moura (57707230945348): Tadinho pow",
@@ -10404,7 +10402,9 @@
         "Leandro (+55 (11) 92701-8683): !fixar",
         "Bruno Aguiar (+1395881181241): Tudo tranquilo",
         "Souza (190864487919667): Tu se apresentou?",
-        "Leandro (+55 (11) 92701-8683): !megafone para os novatos que ainda não conhece, temos nosso grupo de figurinhas, fiquem a vontade!"
+        "Leandro (+55 (11) 92701-8683): !megafone para os novatos que ainda não conhece, temos nosso grupo de figurinhas, fiquem a vontade!",
+        "𝔞𝔩𝔦𝔫𝔢🫶🏽 (221307534876912): Yes",
+        "Leandro (+55 (11) 92701-8683): !todos"
       ]
     },
     "120363428464897153@g.us": {
@@ -17881,6 +17881,18 @@
         "authorName": "Leandro",
         "text": "!megafone para os novatos que ainda não conhece, temos nosso grupo de figurinhas, fiquem a vontade!",
         "timestamp": 1787931676510
+      },
+      {
+        "authorNum": "221307534876912",
+        "authorName": "𝔞𝔩𝔦𝔫𝔢🫶🏽",
+        "text": "Yes",
+        "timestamp": 1787931688713
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!todos",
+        "timestamp": 1787931691638
       }
     ],
     "120363428464897153@g.us": [],
@@ -17913,7 +17925,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22010,
+    "120363432018531082@g.us": 22012,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -144057,6 +144069,18 @@
         "text": "!megafone para os novatos que ainda não conhece, temos nosso grupo de figurinhas, fiquem a vontade!",
         "pushName": "Leandro",
         "timestamp": 1787931676510
+      },
+      "ACD6F4839AA9F9F73D4FC99D40414A2F": {
+        "sender": "221307534876912@lid",
+        "text": "Yes",
+        "pushName": "𝔞𝔩𝔦𝔫𝔢🫶🏽",
+        "timestamp": 1787931688713
+      },
+      "A586447F3C76509FF2D51B1BC9F7DDD8": {
+        "sender": "54259127210155@lid",
+        "text": "!todos",
+        "pushName": "Leandro",
+        "timestamp": 1787931691638
       }
     },
     "120363428464897153@g.us": {
@@ -196978,7 +197002,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787931676510,
+    "120363432018531082@g.us": 1787931706906,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
