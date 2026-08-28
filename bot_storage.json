@@ -2718,9 +2718,9 @@
         "total": 1
       },
       "118515428286715": {
-        "text": 4,
+        "text": 5,
         "media": 1,
-        "total": 5
+        "total": 6
       },
       "108268240302270": {
         "text": 1,
@@ -2798,9 +2798,9 @@
         "total": 5
       },
       "247020967165997": {
-        "text": 118,
+        "text": 119,
         "media": 31,
-        "total": 149
+        "total": 150
       },
       "206253020176458": {
         "text": 16,
@@ -9900,7 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Gabi 💋 (247020967165997): Vai levar uma acompanhante",
         "Gabi 💋 (247020967165997): A não pq vai que é miojo",
         "Alexandre Bastos (75797868064796): Vai leva do job",
         "Pedro Henrique (172868239380659): Esqueci da comida",
@@ -10399,7 +10398,8 @@
         "jaciara (108461127897146): Logo logo",
         "Alexandre Bastos (75797868064796): Eita porra",
         "Alexandre Bastos (75797868064796): Eita porra",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Quem é o atacanteeeee??"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Quem é o atacanteeeee??",
+        "Gabi 💋 (247020967165997): O Pedro ksks"
       ]
     },
     "120363428464897153@g.us": {
@@ -17344,12 +17344,6 @@
       {
         "authorNum": "83911531044906",
         "authorName": "~Gará",
-        "text": "Alguém aqui tem interesse em comprar um rins?\nFaço promoção",
-        "timestamp": 1787928524724
-      },
-      {
-        "authorNum": "83911531044906",
-        "authorName": "~Gará",
         "text": "@~Camila Designer\nVou vender o meu primeiro..kkkk",
         "timestamp": 1787928572036
       },
@@ -18018,6 +18012,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Quem é o atacanteeeee??",
         "timestamp": 1787930256566
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "O Pedro ksks",
+        "timestamp": 1787930325529
       }
     ],
     "120363428464897153@g.us": [],
@@ -18037,7 +18037,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21934,
+    "120363432018531082@g.us": 21935,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -143725,6 +143725,12 @@
         "text": "Quem é o atacanteeeee??",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787930256566
+      },
+      "AC3A07C6CE86EEEBB5FDA6A852B4EADC": {
+        "sender": "247020967165997@lid",
+        "text": "O Pedro ksks",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787930325529
       }
     },
     "120363428464897153@g.us": {
@@ -196634,7 +196640,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787930256566,
+    "120363432018531082@g.us": 1787930326730,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
