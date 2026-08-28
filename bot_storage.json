@@ -2629,8 +2629,8 @@
       },
       "75797868064796": {
         "text": 33,
-        "media": 90,
-        "total": 123
+        "media": 91,
+        "total": 124
       },
       "153764728184839": {
         "text": 2,
@@ -2658,9 +2658,9 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 74,
+        "text": 75,
         "media": 14,
-        "total": 88
+        "total": 89
       },
       "172868239380659": {
         "text": 182,
@@ -2858,9 +2858,9 @@
         "total": 4
       },
       "263797142995147": {
-        "text": 10,
+        "text": 12,
         "media": 1,
-        "total": 11
+        "total": 13
       }
     },
     "120363428464897153@g.us": {
@@ -9900,8 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Arthur (206253020176458): Obrigado",
-        "Pedro Henrique (172868239380659): Vou pedir 300 orçamento e não fechar nenhum",
         "Souza (190864487919667): Aí não compensa",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindo",
         "Bruno (210152934359048): Obrigado Sabrina",
@@ -10399,7 +10397,9 @@
         "Souza (190864487919667): Fortal eu conheço, a outra não",
         "Nanda (263797142995147): eu tô com mo vontade de ir pra praia",
         "Nanda (263797142995147): tomar um sol",
-        "Souza (190864487919667): Inveja"
+        "Souza (190864487919667): Inveja",
+        "Nanda (263797142995147): são irmões",
+        "Gleydson Souza (274384656834700): Trabalhando"
       ]
     },
     "120363428464897153@g.us": {
@@ -17584,6 +17584,18 @@
         "authorName": "Souza",
         "text": "Inveja",
         "timestamp": 1787926611700
+      },
+      {
+        "authorNum": "263797142995147",
+        "authorName": "Nanda",
+        "text": "são irmões",
+        "timestamp": 1787926630291
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Trabalhando",
+        "timestamp": 1787926633484
       }
     ],
     "120363428464897153@g.us": [],
@@ -17610,7 +17622,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21749,
+    "120363432018531082@g.us": 21751,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2010,
@@ -142201,6 +142213,18 @@
         "text": "Inveja",
         "pushName": "Souza",
         "timestamp": 1787926611700
+      },
+      "AC3E1EF8BC5BD99C87E91383020AFF26": {
+        "sender": "263797142995147@lid",
+        "text": "são irmões",
+        "pushName": "Nanda",
+        "timestamp": 1787926630291
+      },
+      "AC6B2109C7C2ECA8CCB854A4D802095E": {
+        "sender": "274384656834700@lid",
+        "text": "Trabalhando",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787926633484
       }
     },
     "120363428464897153@g.us": {
@@ -195098,7 +195122,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787926611700,
+    "120363432018531082@g.us": 1787926635649,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787924999186,
