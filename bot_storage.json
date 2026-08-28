@@ -698,9 +698,9 @@
         "total": 95
       },
       "57707230945348": {
-        "text": 1214,
+        "text": 1215,
         "media": 225,
-        "total": 1439
+        "total": 1440
       },
       "152218690924790": {
         "text": 309,
@@ -2664,8 +2664,8 @@
       },
       "172868239380659": {
         "text": 167,
-        "media": 32,
-        "total": 199
+        "media": 33,
+        "total": 200
       },
       "170455038193841": {
         "text": 1,
@@ -2798,9 +2798,9 @@
         "total": 5
       },
       "247020967165997": {
-        "text": 102,
+        "text": 105,
         "media": 28,
-        "total": 130
+        "total": 133
       },
       "206253020176458": {
         "text": 3,
@@ -9855,9 +9855,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "🦅⚡️😍 (163686253629557): 👀",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Caroline n entra mais",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindo",
         "SiLvAa 🕸️ (214375055007755): Obrigada",
         "Gabriel (145381035905262): Como é amigo, bissexual",
         "SiLvAa 🕸️ (214375055007755): sente atração tanto por homem quanto por mulher",
@@ -10354,7 +10351,10 @@
         "Rafael Moura (57707230945348): Amem",
         "Rafael Moura (57707230945348): 😂",
         "Gabi 💋 (247020967165997): Concelho de amiga",
-        "Pedro Henrique (172868239380659): Pow acho que morrer assim é muita humilhação, imagina o bombeiro te ver pelado com o negócio mole"
+        "Pedro Henrique (172868239380659): Pow acho que morrer assim é muita humilhação, imagina o bombeiro te ver pelado com o negócio mole",
+        "Gabi 💋 (247020967165997): Menino ele foi cortado",
+        "Gabi 💋 (247020967165997): Tá na Netflix",
+        "Gabi 💋 (247020967165997): Olha lá o filme"
       ]
     },
     "120363428464897153@g.us": {
@@ -17278,18 +17278,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Cuidado, ela vai achar que significa algo",
-        "timestamp": 1787916910728
-      },
-      {
-        "authorNum": "221307534876912",
-        "authorName": "𝔞𝔩𝔦𝔫𝔢🫶🏽",
-        "text": "Kkkk",
-        "timestamp": 1787916911180
-      },
-      {
         "authorNum": "57707230945348",
         "authorName": "Rafael Moura",
         "text": "Aline so botando lenha na fogueira",
@@ -18002,6 +17990,24 @@
         "authorName": "Pedro Henrique",
         "text": "Pow acho que morrer assim é muita humilhação, imagina o bombeiro te ver pelado com o negócio mole",
         "timestamp": 1787918699150
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Menino ele foi cortado",
+        "timestamp": 1787918719785
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Tá na Netflix",
+        "timestamp": 1787918722595
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Olha lá o filme",
+        "timestamp": 1787918726056
       }
     ],
     "120363428464897153@g.us": [],
@@ -18021,7 +18027,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21592,
+    "120363432018531082@g.us": 21595,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -141683,6 +141689,24 @@
         "text": "Pow acho que morrer assim é muita humilhação, imagina o bombeiro te ver pelado com o negócio mole",
         "pushName": "Pedro Henrique",
         "timestamp": 1787918699150
+      },
+      "ACE769D68CF72D342CE30E0AA8E972E8": {
+        "sender": "247020967165997@lid",
+        "text": "Menino ele foi cortado",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787918719785
+      },
+      "AC8357C8DAFD3DEF90A07874D66D9BBE": {
+        "sender": "247020967165997@lid",
+        "text": "Tá na Netflix",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787918722595
+      },
+      "AC9D88F700E0B4248CA017D8E2355647": {
+        "sender": "247020967165997@lid",
+        "text": "Olha lá o filme",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787918726056
       }
     },
     "120363428464897153@g.us": {
@@ -194478,7 +194502,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787918699150,
+    "120363432018531082@g.us": 1787918726056,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
