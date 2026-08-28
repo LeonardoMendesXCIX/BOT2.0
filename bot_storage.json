@@ -698,9 +698,9 @@
         "total": 95
       },
       "57707230945348": {
-        "text": 1176,
-        "media": 212,
-        "total": 1388
+        "text": 1178,
+        "media": 213,
+        "total": 1391
       },
       "152218690924790": {
         "text": 309,
@@ -2629,8 +2629,8 @@
       },
       "75797868064796": {
         "text": 18,
-        "media": 49,
-        "total": 67
+        "media": 51,
+        "total": 69
       },
       "153764728184839": {
         "text": 2,
@@ -10169,7 +10169,9 @@
         "Pedro Henrique (172868239380659): Nada",
         "Pedro Henrique (172868239380659): Ela tem um ponto e eu tenho outro",
         "Pedro Henrique (172868239380659): Tá tudo certo",
-        "Gabi 💋 (247020967165997): Bem isso"
+        "Gabi 💋 (247020967165997): Bem isso",
+        "Rafael Moura (57707230945348): E eu tenho dois pontos, olha aqui !",
+        "Rafael Moura (57707230945348): .."
       ]
     },
     "120363428464897153@g.us": {
@@ -17859,6 +17861,18 @@
         "authorName": "Gabi 💋",
         "text": "Bem isso",
         "timestamp": 1787915996956
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "E eu tenho dois pontos, olha aqui !",
+        "timestamp": 1787916006903
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "..",
+        "timestamp": 1787916009275
       }
     ],
     "120363428464897153@g.us": [],
@@ -17903,7 +17917,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21407,
+    "120363432018531082@g.us": 21409,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -140455,6 +140469,18 @@
         "text": "Bem isso",
         "pushName": "Gabi 💋",
         "timestamp": 1787915996956
+      },
+      "AC5A8F0FF72CA6BDFC926971B8A300ED": {
+        "sender": "57707230945348@lid",
+        "text": "E eu tenho dois pontos, olha aqui !",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787916006903
+      },
+      "AC207580C04B819ECBFA5683E5AB453E": {
+        "sender": "57707230945348@lid",
+        "text": "..",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787916009275
       }
     },
     "120363428464897153@g.us": {
@@ -193250,7 +193276,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787915998102,
+    "120363432018531082@g.us": 1787916041184,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
