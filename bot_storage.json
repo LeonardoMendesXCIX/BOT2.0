@@ -173,9 +173,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1598,
-        "media": 438,
-        "total": 2036
+        "text": 1599,
+        "media": 439,
+        "total": 2038
       },
       "81991328395336": {
         "text": 3943,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Camila Designer (92629643563147): Eu também 🤣🤣🤣",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Obrigada pelo elogio 🥹",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Deliciaaaaa\nEu quero",
         "jaciara (108461127897146): De qual cidade ?",
@@ -10449,7 +10448,8 @@
         "Celiete Souza (129373172711439): Tudo queto",
         "Souza (190864487919667): Eu tô procrastinando no trabalho",
         "Souza (190864487919667): Chegar em casa é só estudar 🤡",
-        "Leandro (+55 (11) 92701-8683): Quem foi o inteligente?"
+        "Leandro (+55 (11) 92701-8683): Quem foi o inteligente?",
+        "Celiete Souza (129373172711439): Minha internet está ruim, podem ir msgs atrasadas 😘"
       ]
     },
     "120363428464897153@g.us": {
@@ -17485,12 +17485,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "1395881181241",
-        "authorName": "Bruno Aguiar",
-        "text": "😢😢",
-        "timestamp": 1787942871988
-      },
-      {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "@145381035905262",
@@ -17681,6 +17675,12 @@
         "authorName": "Leandro",
         "text": "Quem foi o inteligente?",
         "timestamp": 1787944544821
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Minha internet está ruim, podem ir msgs atrasadas 😘",
+        "timestamp": 1787944766573
       }
     ],
     "120363428464897153@g.us": [],
@@ -17798,7 +17798,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22314,
+    "120363432018531082@g.us": 22315,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -145741,6 +145741,12 @@
         "text": "Quem foi o inteligente?",
         "pushName": "Leandro",
         "timestamp": 1787944544822
+      },
+      "AC54D7E84AAC57E7AD79C3B914208230": {
+        "sender": "129373172711439@lid",
+        "text": "Minha internet está ruim, podem ir msgs atrasadas 😘",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787944766573
       }
     },
     "120363428464897153@g.us": {
@@ -199208,7 +199214,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787944663432,
+    "120363432018531082@g.us": 1787944768653,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
