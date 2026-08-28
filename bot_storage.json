@@ -274,9 +274,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2217,
+        "text": 2219,
         "media": 296,
-        "total": 2513
+        "total": 2515
       },
       "252922705240205": {
         "text": 80,
@@ -449,9 +449,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1659,
+        "text": 1660,
         "media": 322,
-        "total": 1981
+        "total": 1982
       },
       "252600633041077": {
         "text": 1,
@@ -9257,9 +9257,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Bruno Aguiar (+1395881181241): Olha ela kkkk",
-        "Gabriel (145381035905262): Nem precisa né queridão",
-        "Gabriel (145381035905262): Tu tem vários kkkkk",
         "Souza (190864487919667): Tu não entendeu, e não sou \"queridão\", mas agradeço o teu elogio",
         "willian (163530946961491): Kkkk",
         "Pedro Henrique (172868239380659): Vou ganhar o açaí com peixe",
@@ -9756,7 +9753,10 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Resolvido já",
         "Leandro (+55 (11) 92701-8683): 🫡",
         "Souza (190864487919667): A foto do menino parecia de menor",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): 🫡"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): 🫡",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Nem vi kkkk nem foi por esse motivo",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Mas tudo bem, resolvido",
+        "Leandro (+55 (11) 92701-8683): !megafone novamente, aviso a todos, sem invasão de privado, se não é remoção imediata!!!"
       ]
     },
     "120363428464897153@g.us": {
@@ -16501,21 +16501,27 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "🫡",
         "timestamp": 1787883591326
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Nem vi kkkk nem foi por esse motivo",
+        "timestamp": 1787883602057
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Mas tudo bem, resolvido",
+        "timestamp": 1787883606737
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!megafone novamente, aviso a todos, sem invasão de privado, se não é remoção imediata!!!",
+        "timestamp": 1787883632064
       }
     ],
     "120363428464897153@g.us": [
-      {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "Eu ia enviar um video meu sem camisa. Agora nao vou😎..tu ta de castigo",
-        "timestamp": 1787881569089
-      },
-      {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "Kkkkk",
-        "timestamp": 1787881571170
-      },
       {
         "authorNum": "129373172711439",
         "authorName": "Celiete Souza",
@@ -16774,7 +16780,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21071,
+    "120363432018531082@g.us": 21074,
     "120363428464897153@g.us": 6218,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1729,
@@ -137334,6 +137340,24 @@
         "text": "🫡",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787883591326
+      },
+      "AC296805BAEA71B15A2750E2362B49F8": {
+        "sender": "53537388122141@lid",
+        "text": "Nem vi kkkk nem foi por esse motivo",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787883602058
+      },
+      "AC750B7DBB44069120E2FDB5809B7FA1": {
+        "sender": "53537388122141@lid",
+        "text": "Mas tudo bem, resolvido",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787883606737
+      },
+      "A5A6B977C853B3552ADDEAA24D39440E": {
+        "sender": "54259127210155@lid",
+        "text": "!megafone novamente, aviso a todos, sem invasão de privado, se não é remoção imediata!!!",
+        "pushName": "Leandro",
+        "timestamp": 1787883632064
       }
     },
     "120363428464897153@g.us": {
@@ -187973,7 +187997,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787883591326,
+    "120363432018531082@g.us": 1787883632064,
     "120363428464897153@g.us": 1787883101464,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787883567287,
