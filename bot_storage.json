@@ -3539,9 +3539,9 @@
         "total": 608
       },
       "5511927018683": {
-        "text": 591,
+        "text": 594,
         "media": 113,
-        "total": 704
+        "total": 707
       },
       "145381035905262": {
         "text": 499,
@@ -3946,8 +3946,8 @@
       },
       "81991328395336": {
         "text": 17,
-        "media": 1487,
-        "total": 1504
+        "media": 1503,
+        "total": 1520
       },
       "145381035905262": {
         "text": 7,
@@ -17056,7 +17056,10 @@
         "Leandro (+55 (11) 92701-8683): Mandei 3 vezes",
         "Leandro (+55 (11) 92701-8683): Daqui uns 30 minutos, se ninguém se manifestar, mandem +3 vezes, por favor",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Ok",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): 3° vez que entra e sai neste carai. Agora pediu solicitação de novo"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): 3° vez que entra e sai neste carai. Agora pediu solicitação de novo",
+        "Leandro (+55 (11) 92701-8683): Eu vi",
+        "Leandro (+55 (11) 92701-8683): Aprova e da ban",
+        "Leandro (+55 (11) 92701-8683): Me ajuda aí meu povo @all"
       ]
     },
     "120363411233423709@g.us": {
@@ -17784,6 +17787,24 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "3° vez que entra e sai neste carai. Agora pediu solicitação de novo",
         "timestamp": 1787960414035
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Eu vi",
+        "timestamp": 1787960466261
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Aprova e da ban",
+        "timestamp": 1787960471146
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Me ajuda aí meu povo @all",
+        "timestamp": 1787960491549
       }
     ],
     "120363411233423709@g.us": [],
@@ -17810,7 +17831,7 @@
     "120363432018531082@g.us": 22614,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2181,
+    "120363412288900422@g.us": 2184,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -198695,6 +198716,24 @@
         "text": "3° vez que entra e sai neste carai. Agora pediu solicitação de novo",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787960414035
+      },
+      "A5A989D09888D21327D014D38885A46D": {
+        "sender": "54259127210155@lid",
+        "text": "Eu vi",
+        "pushName": "Leandro",
+        "timestamp": 1787960466261
+      },
+      "A55563A653EE3DD91F916081080C3F76": {
+        "sender": "54259127210155@lid",
+        "text": "Aprova e da ban",
+        "pushName": "Leandro",
+        "timestamp": 1787960471146
+      },
+      "A524FC061A42E35E70DB594867C03EF8": {
+        "sender": "54259127210155@lid",
+        "text": "Me ajuda aí meu povo @all",
+        "pushName": "Leandro",
+        "timestamp": 1787960491549
       }
     },
     "120363411233423709@g.us": {
@@ -201585,7 +201624,7 @@
     "120363432018531082@g.us": 1787960373739,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787960414035,
+    "120363412288900422@g.us": 1787960491549,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
@@ -201593,7 +201632,7 @@
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1787868477291,
-    "120363409024805409@g.us": 1787960446636,
+    "120363409024805409@g.us": 1787960454258,
     "120363411043114631@g.us": 1787897464612
   },
   "autoAnimSent": {
