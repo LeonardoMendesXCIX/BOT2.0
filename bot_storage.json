@@ -2598,9 +2598,9 @@
         "total": 2
       },
       "11171897864256": {
-        "text": 23,
+        "text": 24,
         "media": 1,
-        "total": 24
+        "total": 25
       },
       "190864487919667": {
         "text": 244,
@@ -9895,7 +9895,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Souza (190864487919667): Maravilhosa ela",
         "Gabi 💋 (247020967165997): Obrigada",
         "Juliano Perlin (222595437858867): Bom diaa🤗",
         "Juliano Perlin (222595437858867): Ta bemm??",
@@ -10394,7 +10393,8 @@
         "Bruno Aguiar (+1395881181241): Sempre na ativa,sem perder tempo",
         "Dany (262182034002040): Opa! Só chamar!",
         "Dany (262182034002040): Dou sim",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Exatamente"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Exatamente",
+        "🙃🙃🙃 (11171897864256): Pessoal o que fazem de bom"
       ]
     },
     "120363428464897153@g.us": {
@@ -17337,24 +17337,6 @@
       {
         "authorNum": "238388519141379",
         "authorName": "Nickolas",
-        "text": "Você professora de que ?",
-        "timestamp": 1787924492083
-      },
-      {
-        "authorNum": "163530946961491",
-        "authorName": "willian",
-        "text": "Bem vinda",
-        "timestamp": 1787924494517
-      },
-      {
-        "authorNum": "262182034002040",
-        "authorName": "Dany",
-        "text": "Inglês 🥰",
-        "timestamp": 1787924522630
-      },
-      {
-        "authorNum": "238388519141379",
-        "authorName": "Nickolas",
         "text": "To preciso de aulas de inglês",
         "timestamp": 1787924540323
       },
@@ -17507,6 +17489,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Exatamente",
         "timestamp": 1787926197629
+      },
+      {
+        "authorNum": "11171897864256",
+        "authorName": "🙃🙃🙃",
+        "text": "Pessoal o que fazem de bom",
+        "timestamp": 1787926333283
       }
     ],
     "120363428464897153@g.us": [],
@@ -17533,7 +17521,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21727,
+    "120363432018531082@g.us": 21728,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2010,
@@ -141998,6 +141986,12 @@
         "text": "Exatamente",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787926197629
+      },
+      "AC1112A9F2C20A81D2A12F8993D347A1": {
+        "sender": "11171897864256@lid",
+        "text": "Pessoal o que fazem de bom",
+        "pushName": "🙃🙃🙃",
+        "timestamp": 1787926333283
       }
     },
     "120363428464897153@g.us": {
@@ -194895,7 +194889,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787926197629,
+    "120363432018531082@g.us": 1787926333283,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787924999186,
