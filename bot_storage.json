@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2283,
+        "text": 2285,
         "media": 309,
-        "total": 2592
+        "total": 2594
       },
       "252922705240205": {
         "text": 80,
@@ -1863,9 +1863,9 @@
         "total": 6
       },
       "1395881181241": {
-        "text": 136,
+        "text": 137,
         "media": 5,
-        "total": 141
+        "total": 142
       },
       "198595546501333": {
         "text": 2,
@@ -2673,9 +2673,9 @@
         "total": 3
       },
       "193729163993156": {
-        "text": 33,
+        "text": 35,
         "media": 7,
-        "total": 40
+        "total": 42
       },
       "151582733820115": {
         "text": 5,
@@ -2708,9 +2708,9 @@
         "total": 2
       },
       "108461127897146": {
-        "text": 56,
-        "media": 5,
-        "total": 61
+        "text": 57,
+        "media": 6,
+        "total": 63
       },
       "10050861031495": {
         "text": 0,
@@ -2803,9 +2803,9 @@
         "total": 149
       },
       "206253020176458": {
-        "text": 13,
+        "text": 15,
         "media": 6,
-        "total": 19
+        "total": 21
       },
       "210152934359048": {
         "text": 16,
@@ -9900,10 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Pedro Henrique (172868239380659): Nada",
-        "Pedro Henrique (172868239380659): Ela tem um ponto e eu tenho outro",
-        "Pedro Henrique (172868239380659): Tá tudo certo",
-        "Gabi 💋 (247020967165997): Bem isso",
         "Rafael Moura (57707230945348): E eu tenho dois pontos, olha aqui !",
         "Rafael Moura (57707230945348): ..",
         "Gabi 💋 (247020967165997): Adoro um sabor de outros ksksks",
@@ -10399,7 +10395,11 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Por nada 🥰",
         "Gleydson Souza (274384656834700): Ue so to mostrando a mensagem",
         "jaciara (108461127897146): Uma moça",
-        "Souza (190864487919667): Mó barrigão"
+        "Souza (190864487919667): Mó barrigão",
+        "Arthur (206253020176458): Q paisagem linda onde fica",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Coitada da moça, tadinha",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Ah que linda 😍",
+        "jaciara (108461127897146): Maranhão"
       ]
     },
     "120363428464897153@g.us": {
@@ -17874,6 +17874,30 @@
         "authorName": "Souza",
         "text": "Mó barrigão",
         "timestamp": 1787929702595
+      },
+      {
+        "authorNum": "206253020176458",
+        "authorName": "Arthur",
+        "text": "Q paisagem linda onde fica",
+        "timestamp": 1787929722054
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Coitada da moça, tadinha",
+        "timestamp": 1787929727314
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Ah que linda 😍",
+        "timestamp": 1787929751479
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Maranhão",
+        "timestamp": 1787929755919
       }
     ],
     "120363428464897153@g.us": [],
@@ -17900,7 +17924,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21903,
+    "120363432018531082@g.us": 21907,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -143408,6 +143432,30 @@
         "text": "Mó barrigão",
         "pushName": "Souza",
         "timestamp": 1787929702596
+      },
+      "AC448A9D70DBC4A7E7FBAA7E9A17E736": {
+        "sender": "206253020176458@lid",
+        "text": "Q paisagem linda onde fica",
+        "pushName": "Arthur",
+        "timestamp": 1787929722054
+      },
+      "AC8D0928228C505B4BA24425D9D0D58B": {
+        "sender": "53537388122141@lid",
+        "text": "Coitada da moça, tadinha",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787929727314
+      },
+      "AC82EDAC3C930FCF884D7A6F05B4CB1A": {
+        "sender": "53537388122141@lid",
+        "text": "Ah que linda 😍",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787929751479
+      },
+      "ACBF576FCCB8BB9BAB7534229A191AC8": {
+        "sender": "108461127897146@lid",
+        "text": "Maranhão",
+        "pushName": "jaciara",
+        "timestamp": 1787929755920
       }
     },
     "120363428464897153@g.us": {
@@ -196317,7 +196365,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787929702595,
+    "120363432018531082@g.us": 1787929760535,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
