@@ -2652,9 +2652,9 @@
         "total": 59
       },
       "208958782488665": {
-        "text": 11,
+        "text": 12,
         "media": 11,
-        "total": 22
+        "total": 23
       },
       "262456945414267": {
         "text": 9,
@@ -9175,7 +9175,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): 👋🏻👋🏻",
         "Pedro Henrique (172868239380659): 👀",
         "Jennifer🦋 (205621945192508): Pode sim",
         "Gabriel (145381035905262): Só você",
@@ -9674,7 +9673,8 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Graças",
         "Jessica (208958782488665): Trabalho em hospital, e faço musculação não pode ser muito grande e nem ter unhas chamativas por isso que fui minimalista",
         "Souza (190864487919667): Aaaaaaaaaaaaaa",
-        "Clayton 🇳🇬 (155503636275307): Parabéns uma cor bonita vc escolheu pra deixa suas unhas lindas"
+        "Clayton 🇳🇬 (155503636275307): Parabéns uma cor bonita vc escolheu pra deixa suas unhas lindas",
+        "Jessica (208958782488665): Não fui eu que escolhi foi uma amiga e ela foi cirúrgica se eu não pintasse dessa cor ia ter briga"
       ]
     },
     "120363428464897153@g.us": {
@@ -16037,48 +16037,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Traga uns doce aí pra gente",
-        "timestamp": 1787875451732
-      },
-      {
-        "authorNum": "205621945192508",
-        "authorName": "Jennifer🦋",
-        "text": "🫪🫪🌚",
-        "timestamp": 1787875452363
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Povo tudo alto",
-        "timestamp": 1787875475006
-      },
-      {
-        "authorNum": "205621945192508",
-        "authorName": "Jennifer🦋",
-        "text": "Perto de tu eu sou miúda, Vey🤡🤡",
-        "timestamp": 1787875480184
-      },
-      {
-        "authorNum": "274384656834700",
-        "authorName": "Gleydson Souza",
-        "text": "Um pouco mais baixo que eu só daora",
-        "timestamp": 1787875482170
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Se acostuma",
-        "timestamp": 1787875488235
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "E nós nanica",
-        "timestamp": 1787875496553
-      },
-      {
         "authorNum": "205621945192508",
         "authorName": "Jennifer🦋",
         "text": "Eu tenho 1.65 🤡🤡🤡",
@@ -16563,15 +16521,15 @@
         "authorName": "Clayton 🇳🇬",
         "text": "Parabéns uma cor bonita vc escolheu pra deixa suas unhas lindas",
         "timestamp": 1787877248812
+      },
+      {
+        "authorNum": "208958782488665",
+        "authorName": "Jessica",
+        "text": "Não fui eu que escolhi foi uma amiga e ela foi cirúrgica se eu não pintasse dessa cor ia ter briga",
+        "timestamp": 1787877309457
       }
     ],
     "120363428464897153@g.us": [
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Enquanto o bot",
-        "timestamp": 1787875403064
-      },
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
@@ -17118,7 +17076,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21020,
+    "120363432018531082@g.us": 21021,
     "120363428464897153@g.us": 6053,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1703,
@@ -137385,6 +137343,12 @@
         "text": "Parabéns uma cor bonita vc escolheu pra deixa suas unhas lindas",
         "pushName": "Clayton 🇳🇬",
         "timestamp": 1787877248812
+      },
+      "AC33C000E055F15DB00385ACEF850D59": {
+        "sender": "208958782488665@lid",
+        "text": "Não fui eu que escolhi foi uma amiga e ela foi cirúrgica se eu não pintasse dessa cor ia ter briga",
+        "pushName": "Jessica",
+        "timestamp": 1787877309457
       }
     },
     "120363428464897153@g.us": {
@@ -186878,7 +186842,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787877248812,
+    "120363432018531082@g.us": 1787877309457,
     "120363428464897153@g.us": 1787877155814,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787877253185,
