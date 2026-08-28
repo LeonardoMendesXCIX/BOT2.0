@@ -2663,9 +2663,9 @@
         "total": 82
       },
       "172868239380659": {
-        "text": 171,
+        "text": 172,
         "media": 34,
-        "total": 205
+        "total": 206
       },
       "170455038193841": {
         "text": 1,
@@ -2798,9 +2798,9 @@
         "total": 5
       },
       "247020967165997": {
-        "text": 110,
+        "text": 112,
         "media": 30,
-        "total": 140
+        "total": 142
       },
       "206253020176458": {
         "text": 3,
@@ -9855,9 +9855,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Leandro (+55 (11) 92701-8683): Teu xará aí @199733712785531",
-        "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Será? Haha",
-        "Gabriel (145381035905262): Saudações",
         "Leandro (+55 (11) 92701-8683): Bem vindo jovem! 🤝",
         "Leandro (+55 (11) 92701-8683): Pelo jeito sim em",
         "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): 🤔",
@@ -10354,7 +10351,10 @@
         "Gabi 💋 (247020967165997): Aí é corte na certa",
         "Pedro Henrique (172868239380659): Agora pergunta sincera, pq ela matou ele",
         "Gabi 💋 (247020967165997): Assisti o filme",
-        "Gabi 💋 (247020967165997): Ela não queria perder a família e ela era obcecado igual você por cabaré"
+        "Gabi 💋 (247020967165997): Ela não queria perder a família e ela era obcecado igual você por cabaré",
+        "Gabi 💋 (247020967165997): Aí ela descobriu que ele estava com outra no cabaré e cortou ele",
+        "Gabi 💋 (247020967165997): Não julgo ela não",
+        "Pedro Henrique (172868239380659): Em Brasília quase não tem, muito difícil achar"
       ]
     },
     "120363428464897153@g.us": {
@@ -17280,30 +17280,6 @@
       {
         "authorNum": "57707230945348",
         "authorName": "Rafael Moura",
-        "text": "Vem ver a treta",
-        "timestamp": 1787917025766
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Ksksks",
-        "timestamp": 1787917030878
-      },
-      {
-        "authorNum": "208958782488665",
-        "authorName": "Jessica",
-        "text": "Opaaa",
-        "timestamp": 1787917039414
-      },
-      {
-        "authorNum": "221307534876912",
-        "authorName": "𝔞𝔩𝔦𝔫𝔢🫶🏽",
-        "text": "Ae tu é homem n obedeço n filho",
-        "timestamp": 1787917045039
-      },
-      {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
         "text": "Deus leu o que vc apagou",
         "timestamp": 1787917060757
       },
@@ -17972,6 +17948,24 @@
         "authorName": "Gabi 💋",
         "text": "Ela não queria perder a família e ela era obcecado igual você por cabaré",
         "timestamp": 1787918825722
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Aí ela descobriu que ele estava com outra no cabaré e cortou ele",
+        "timestamp": 1787918844592
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Não julgo ela não",
+        "timestamp": 1787918851807
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Em Brasília quase não tem, muito difícil achar",
+        "timestamp": 1787918855755
       }
     ],
     "120363428464897153@g.us": [],
@@ -17991,7 +17985,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21604,
+    "120363432018531082@g.us": 21607,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -141725,6 +141719,24 @@
         "text": "Ela não queria perder a família e ela era obcecado igual você por cabaré",
         "pushName": "Gabi 💋",
         "timestamp": 1787918825722
+      },
+      "AC876EB61465CF58BA8DC300EE8A67CF": {
+        "sender": "247020967165997@lid",
+        "text": "Aí ela descobriu que ele estava com outra no cabaré e cortou ele",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787918844592
+      },
+      "ACC649FB8A4DEC6CDD622DFF21D285D1": {
+        "sender": "247020967165997@lid",
+        "text": "Não julgo ela não",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787918851808
+      },
+      "ACB304CABB2DA6D88341316C58CC5CD4": {
+        "sender": "172868239380659@lid",
+        "text": "Em Brasília quase não tem, muito difícil achar",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787918855755
       }
     },
     "120363428464897153@g.us": {
@@ -194520,7 +194532,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787918827621,
+    "120363432018531082@g.us": 1787918855755,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
