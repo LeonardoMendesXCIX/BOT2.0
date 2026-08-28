@@ -2628,9 +2628,9 @@
         "total": 46
       },
       "75797868064796": {
-        "text": 19,
+        "text": 21,
         "media": 59,
-        "total": 78
+        "total": 80
       },
       "153764728184839": {
         "text": 2,
@@ -2663,9 +2663,9 @@
         "total": 77
       },
       "172868239380659": {
-        "text": 117,
+        "text": 119,
         "media": 20,
-        "total": 137
+        "total": 139
       },
       "170455038193841": {
         "text": 1,
@@ -2798,9 +2798,9 @@
         "total": 5
       },
       "247020967165997": {
-        "text": 42,
-        "media": 10,
-        "total": 52
+        "text": 45,
+        "media": 11,
+        "total": 56
       },
       "206253020176458": {
         "text": 3,
@@ -10194,7 +10194,14 @@
         "Gabi 💋 (247020967165997): Coisa fofa",
         "Souza (190864487919667): Receba",
         "Pedro Henrique (172868239380659): 980- diária do chalé\n250- lavagem do carro e da gasolina",
-        "Pedro Henrique (172868239380659): É o que eu tô lembrando no momento"
+        "Pedro Henrique (172868239380659): É o que eu tô lembrando no momento",
+        "Gabi 💋 (247020967165997): Fala o Pix",
+        "Alexandre Bastos (75797868064796): Só isso",
+        "Gabi 💋 (247020967165997): Vai levar uma acompanhante",
+        "Gabi 💋 (247020967165997): A não pq vai que é miojo",
+        "Alexandre Bastos (75797868064796): Vai leva do job",
+        "Pedro Henrique (172868239380659): Esqueci da comida",
+        "Pedro Henrique (172868239380659): Verdade"
       ]
     },
     "120363428464897153@g.us": {
@@ -17118,24 +17125,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "206253020176458",
-        "authorName": "Arthur",
-        "text": "Também quero jjjkkkkk",
-        "timestamp": 1787914723332
-      },
-      {
-        "authorNum": "1395881181241",
-        "authorName": "Bruno Aguiar",
-        "text": "Bom dia povo🙏🏼🙏🏼🙏🏼",
-        "timestamp": 1787914750928
-      },
-      {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Dia baum",
-        "timestamp": 1787914757213
-      },
-      {
         "authorNum": "190864487919667",
         "authorName": "Souza",
         "text": "Morto e acabado, enterrado, solo",
@@ -17734,6 +17723,48 @@
         "authorName": "Pedro Henrique",
         "text": "É o que eu tô lembrando no momento",
         "timestamp": 1787916521890
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Fala o Pix",
+        "timestamp": 1787916530061
+      },
+      {
+        "authorNum": "75797868064796",
+        "authorName": "Alexandre Bastos",
+        "text": "Só isso",
+        "timestamp": 1787916534009
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Vai levar uma acompanhante",
+        "timestamp": 1787916536109
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "A não pq vai que é miojo",
+        "timestamp": 1787916546299
+      },
+      {
+        "authorNum": "75797868064796",
+        "authorName": "Alexandre Bastos",
+        "text": "Vai leva do job",
+        "timestamp": 1787916548646
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Esqueci da comida",
+        "timestamp": 1787916562089
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Verdade",
+        "timestamp": 1787916563372
       }
     ],
     "120363428464897153@g.us": [],
@@ -17760,7 +17791,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21432,
+    "120363432018531082@g.us": 21439,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -140462,6 +140493,48 @@
         "text": "É o que eu tô lembrando no momento",
         "pushName": "Pedro Henrique",
         "timestamp": 1787916521890
+      },
+      "AC45CE985149F1AF139F15EE14D9EB79": {
+        "sender": "247020967165997@lid",
+        "text": "Fala o Pix",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787916530061
+      },
+      "ACEBFF8D810560BCE496811CD0819A7D": {
+        "sender": "75797868064796@lid",
+        "text": "Só isso",
+        "pushName": "Alexandre Bastos",
+        "timestamp": 1787916534009
+      },
+      "AC9CBA79ED1E43CC5C6676F182D5E2BC": {
+        "sender": "247020967165997@lid",
+        "text": "Vai levar uma acompanhante",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787916536109
+      },
+      "ACC37115D2542F6C43200ABBF51536B9": {
+        "sender": "247020967165997@lid",
+        "text": "A não pq vai que é miojo",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787916546299
+      },
+      "AC31DD15AD9361B78E4477D54DD87C90": {
+        "sender": "75797868064796@lid",
+        "text": "Vai leva do job",
+        "pushName": "Alexandre Bastos",
+        "timestamp": 1787916548647
+      },
+      "AC8732EA71BD31B5B928B08944B9F244": {
+        "sender": "172868239380659@lid",
+        "text": "Esqueci da comida",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787916562089
+      },
+      "AC9C8590085A09262E46003A908536C9": {
+        "sender": "172868239380659@lid",
+        "text": "Verdade",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787916563372
       }
     },
     "120363428464897153@g.us": {
@@ -193257,7 +193330,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787916521890,
+    "120363432018531082@g.us": 1787916563372,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
