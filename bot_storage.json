@@ -2658,9 +2658,9 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 71,
+        "text": 72,
         "media": 14,
-        "total": 85
+        "total": 86
       },
       "172868239380659": {
         "text": 182,
@@ -9895,7 +9895,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "jaciara (108461127897146): Bem também",
         "Alexandre Bastos (75797868064796): Bom ótimo dia",
         ". (279628962885736): Bom dia pessoal \nVamos que vamos",
         "Edison Medeiros💚 (108268240302270): Bom dia",
@@ -10394,7 +10393,8 @@
         "fé ! (147940920283293): Bom diaa...",
         "~Gará (83911531044906): Da aulas on-line?",
         "Arthur (206253020176458): Q linda bem vinda ao grupo",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bom dia e seja bem vindo(a)! Se apresente pra nós, por favor"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bom dia e seja bem vindo(a)! Se apresente pra nós, por favor",
+        "Gleydson Souza (274384656834700): Bem vinda"
       ]
     },
     "120363428464897153@g.us": {
@@ -17530,29 +17530,17 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Bom dia e seja bem vindo(a)! Se apresente pra nós, por favor",
         "timestamp": 1787924688957
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Bem vinda",
+        "timestamp": 1787924693882
       }
     ],
     "120363428464897153@g.us": [],
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Aquela Amanda era do grupão?",
-        "timestamp": 1787922734977
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Ou do condomínio",
-        "timestamp": 1787922738141
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Lembro dela de algum grupo",
-        "timestamp": 1787922745298
-      },
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
@@ -17586,7 +17574,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21706,
+    "120363432018531082@g.us": 21707,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2009,
@@ -141925,6 +141913,12 @@
         "text": "Bom dia e seja bem vindo(a)! Se apresente pra nós, por favor",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787924688957
+      },
+      "AC1DD748322947805F6075828DAF2214": {
+        "sender": "274384656834700@lid",
+        "text": "Bem vinda",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787924693882
       }
     },
     "120363428464897153@g.us": {
@@ -194816,7 +194810,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787924688957,
+    "120363432018531082@g.us": 1787924693882,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787923699618,
