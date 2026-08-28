@@ -188,9 +188,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2205,
+        "text": 2206,
         "media": 471,
-        "total": 2676
+        "total": 2677
       },
       "184237705699536": {
         "text": 524,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Pedro Henrique (172868239380659): Não sei",
         "Pedro Henrique (172868239380659): Mas essa morte aí é paia",
         "Souza (190864487919667): 👀",
         "Souza (190864487919667): Como uma porta",
@@ -10449,7 +10448,8 @@
         "Souza (190864487919667): Solteiro",
         "jaciara (108461127897146): 😂😂😂😂",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @145381035905262",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tenho experiência em criança pequena, mas não tenho filhos."
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tenho experiência em criança pequena, mas não tenho filhos.",
+        "Gabriel (145381035905262): Eu cobiçado?"
       ]
     },
     "120363428464897153@g.us": {
@@ -17456,18 +17456,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "263797142995147",
-        "authorName": "Nanda",
-        "text": "flnd em outros grupos",
-        "timestamp": 1787937646402
-      },
-      {
-        "authorNum": "263797142995147",
-        "authorName": "Nanda",
-        "text": "coisa aleatória",
-        "timestamp": 1787937654309
-      },
-      {
         "authorNum": "206253020176458",
         "authorName": "Arthur",
         "text": "Kkkk",
@@ -17604,6 +17592,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Tenho experiência em criança pequena, mas não tenho filhos.",
         "timestamp": 1787939375388
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Eu cobiçado?",
+        "timestamp": 1787939457061
       }
     ],
     "120363428464897153@g.us": [],
@@ -17853,7 +17847,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22120,
+    "120363432018531082@g.us": 22121,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2061,
@@ -144644,6 +144638,12 @@
         "text": "Tenho experiência em criança pequena, mas não tenho filhos.",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787939375388
+      },
+      "AC01D00455831D307A350C6E26248911": {
+        "sender": "145381035905262@lid",
+        "text": "Eu cobiçado?",
+        "pushName": "Gabriel",
+        "timestamp": 1787939457061
       }
     },
     "120363428464897153@g.us": {
@@ -197937,7 +197937,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787939388553,
+    "120363432018531082@g.us": 1787939457061,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787939104507,
