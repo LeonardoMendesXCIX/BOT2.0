@@ -3539,14 +3539,14 @@
         "total": 598
       },
       "5511927018683": {
-        "text": 554,
+        "text": 557,
         "media": 105,
-        "total": 659
+        "total": 662
       },
       "145381035905262": {
-        "text": 458,
+        "text": 461,
         "media": 152,
-        "total": 610
+        "total": 613
       },
       "53537388122141": {
         "text": 789,
@@ -16916,7 +16916,13 @@
         "Gabriel (145381035905262): Não compensa",
         "Leandro (+55 (11) 92701-8683): Nãn",
         "Gabriel (145381035905262): Mas aqui, tem uma pista, de uns 10 km, e não tem nada e ali que a mágica acontece",
-        "Leandro (+55 (11) 92701-8683): Aí é sonho em! 🤌🏼"
+        "Leandro (+55 (11) 92701-8683): Aí é sonho em! 🤌🏼",
+        "Leandro (+55 (11) 92701-8683): Começou a época do ano que eu mais detesto 😒",
+        "Leandro (+55 (11) 92701-8683): Época de campanha eleitoral",
+        "Leandro (+55 (11) 92701-8683): 🙄",
+        "Gabriel (145381035905262): Sim",
+        "Gabriel (145381035905262): Bannn",
+        "Gabriel (145381035905262): E aí sampa é loucura"
       ]
     },
     "120363411233423709@g.us": {
@@ -17718,6 +17724,42 @@
         "authorName": "Leandro",
         "text": "Aí é sonho em! 🤌🏼",
         "timestamp": 1787938684302
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Começou a época do ano que eu mais detesto 😒",
+        "timestamp": 1787938712601
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Época de campanha eleitoral",
+        "timestamp": 1787938719814
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "🙄",
+        "timestamp": 1787938724642
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Sim",
+        "timestamp": 1787938729039
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Bannn",
+        "timestamp": 1787938731401
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "E aí sampa é loucura",
+        "timestamp": 1787938737325
       }
     ],
     "120363411233423709@g.us": [],
@@ -17737,7 +17779,7 @@
     "120363432018531082@g.us": 22099,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2050,
+    "120363412288900422@g.us": 2056,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -194793,6 +194835,42 @@
         "text": "Aí é sonho em! 🤌🏼",
         "pushName": "Leandro",
         "timestamp": 1787938684302
+      },
+      "A57F4809E4D382CB0D35EFF0F2B94F1B": {
+        "sender": "54259127210155@lid",
+        "text": "Começou a época do ano que eu mais detesto 😒",
+        "pushName": "Leandro",
+        "timestamp": 1787938712601
+      },
+      "A52C98F28CCC82FDEB6A10A35BA1EF9C": {
+        "sender": "54259127210155@lid",
+        "text": "Época de campanha eleitoral",
+        "pushName": "Leandro",
+        "timestamp": 1787938719814
+      },
+      "A546D92AAAA238FC58EF4AAEC6B1B16A": {
+        "sender": "54259127210155@lid",
+        "text": "🙄",
+        "pushName": "Leandro",
+        "timestamp": 1787938724642
+      },
+      "AC3C8F71ADC282FF44BF3DD1C4317E63": {
+        "sender": "145381035905262@lid",
+        "text": "Sim",
+        "pushName": "Gabriel",
+        "timestamp": 1787938729039
+      },
+      "ACA2EC960BD34797AD6CEECAC22BE782": {
+        "sender": "145381035905262@lid",
+        "text": "Bannn",
+        "pushName": "Gabriel",
+        "timestamp": 1787938731401
+      },
+      "ACBB540D4E15CF274C927BEB25148566": {
+        "sender": "145381035905262@lid",
+        "text": "E aí sampa é loucura",
+        "pushName": "Gabriel",
+        "timestamp": 1787938737325
       }
     },
     "120363411233423709@g.us": {
@@ -197623,7 +197701,7 @@
     "120363432018531082@g.us": 1787938486996,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787938684302,
+    "120363412288900422@g.us": 1787938737325,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
