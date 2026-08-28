@@ -2213,9 +2213,9 @@
         "total": 33
       },
       "240716089413724": {
-        "text": 32,
+        "text": 33,
         "media": 1,
-        "total": 33
+        "total": 34
       },
       "260426164125939": {
         "text": 90,
@@ -2838,9 +2838,9 @@
         "total": 8
       },
       "227783724793861": {
-        "text": 6,
+        "text": 7,
         "media": 1,
-        "total": 7
+        "total": 8
       },
       "159304631980141": {
         "text": 1,
@@ -3544,9 +3544,9 @@
         "total": 640
       },
       "145381035905262": {
-        "text": 445,
+        "text": 447,
         "media": 151,
-        "total": 596
+        "total": 598
       },
       "53537388122141": {
         "text": 782,
@@ -9930,8 +9930,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Bruno Aguiar (+1395881181241): Eita",
-        "Pedro Henrique (172868239380659): Mas na bíblia não fala sobre qual",
         "Pedro Henrique (172868239380659): Se Deus escreveu quem sou eu pra falar algo",
         "Gabi 💋 (247020967165997): É por isso que vai no cabaré né meu filho",
         "Gabi 💋 (247020967165997): Eu entendo",
@@ -10429,7 +10427,9 @@
         "Bruno Aguiar (+1395881181241): Mas aí tem que ter um Rum kkk",
         "Bruno Aguiar (+1395881181241): Nem fale",
         "Wagner Cabral (240716089413724): Tá lascado",
-        "May (227783724793861): Nossa\nQue inveja hahaha"
+        "May (227783724793861): Nossa\nQue inveja hahaha",
+        "Wagner Cabral (240716089413724): Kkkkkkk",
+        "May (227783724793861): Aqui eu já n senti inveja kkkkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -16870,7 +16870,9 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Br\nN achei as figurinhas",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Vou atrás pra ver também",
         "Leandro (+55 (11) 92701-8683): Boa tarde a @all",
-        "Leandro (+55 (11) 92701-8683): Como vocês estão galera? Todos bem?"
+        "Leandro (+55 (11) 92701-8683): Como vocês estão galera? Todos bem?",
+        "Gabriel (145381035905262): Tô trabalhando",
+        "Gabriel (145381035905262): Mais tarde apareço"
       ]
     },
     "120363411233423709@g.us": {
@@ -17387,12 +17389,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Grupo de figurinhas",
-        "timestamp": 1787932269693
-      },
-      {
         "authorNum": "1395881181241",
         "authorName": "Bruno Aguiar",
         "text": "E a faca pegou 🔪🔪",
@@ -17607,6 +17603,18 @@
         "authorName": "May",
         "text": "Nossa\nQue inveja hahaha",
         "timestamp": 1787934054565
+      },
+      {
+        "authorNum": "240716089413724",
+        "authorName": "Wagner Cabral",
+        "text": "Kkkkkkk",
+        "timestamp": 1787934094040
+      },
+      {
+        "authorNum": "227783724793861",
+        "authorName": "May",
+        "text": "Aqui eu já n senti inveja kkkkk",
+        "timestamp": 1787934096590
       }
     ],
     "120363428464897153@g.us": [],
@@ -17623,6 +17631,18 @@
         "authorName": "Leandro",
         "text": "Como vocês estão galera? Todos bem?",
         "timestamp": 1787932967702
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Tô trabalhando",
+        "timestamp": 1787934073914
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Mais tarde apareço",
+        "timestamp": 1787934085129
       }
     ],
     "120363411233423709@g.us": [],
@@ -17664,10 +17684,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22052,
+    "120363432018531082@g.us": 22054,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2014,
+    "120363412288900422@g.us": 2016,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -144054,6 +144074,18 @@
         "text": "Nossa\nQue inveja hahaha",
         "pushName": "May",
         "timestamp": 1787934054565
+      },
+      "AC76479F989A8EE4D13F9BE1E43A767D": {
+        "sender": "240716089413724@lid",
+        "text": "Kkkkkkk",
+        "pushName": "Wagner Cabral",
+        "timestamp": 1787934094040
+      },
+      "AC105ADACD440349214C4FA359A4F3E6": {
+        "sender": "227783724793861@lid",
+        "text": "Aqui eu já n senti inveja kkkkk",
+        "pushName": "May",
+        "timestamp": 1787934096590
       }
     },
     "120363428464897153@g.us": {
@@ -194232,6 +194264,18 @@
         "text": "Como vocês estão galera? Todos bem?",
         "pushName": "Leandro",
         "timestamp": 1787932967702
+      },
+      "AC097ECF128A4BB4DEFA1037952576C6": {
+        "sender": "145381035905262@lid",
+        "text": "Tô trabalhando",
+        "pushName": "Gabriel",
+        "timestamp": 1787934073914
+      },
+      "ACB8E41DDF4EECD1CD19DC9446F229BA": {
+        "sender": "145381035905262@lid",
+        "text": "Mais tarde apareço",
+        "pushName": "Gabriel",
+        "timestamp": 1787934085129
       }
     },
     "120363411233423709@g.us": {
@@ -197053,10 +197097,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787934054565,
+    "120363432018531082@g.us": 1787934096590,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787932967702,
+    "120363412288900422@g.us": 1787934085129,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
