@@ -2949,9 +2949,9 @@
         "total": 9
       },
       "129373172711439": {
-        "text": 910,
+        "text": 911,
         "media": 234,
-        "total": 1144
+        "total": 1145
       },
       "16007578021977": {
         "text": 50,
@@ -3304,9 +3304,9 @@
         "total": 11
       },
       "274384656834700": {
-        "text": 3,
+        "text": 4,
         "media": 2,
-        "total": 5
+        "total": 6
       },
       "34626781356198": {
         "text": 0,
@@ -13689,7 +13689,9 @@
         "Camila Designer (92629643563147): 👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼",
         "Celiete Souza (129373172711439): Estou aprendendo",
         "Camila Designer (92629643563147): Saindo melhor que encomenda kkkk",
-        "Saul (118515428286715): Acabei de fazer, ufa"
+        "Saul (118515428286715): Acabei de fazer, ufa",
+        "Gleydson Souza (274384656834700): Quase que n escapa",
+        "Celiete Souza (129373172711439): Sei de nada, eu não vi"
       ]
     },
     "120363409727467494@g.us": {
@@ -16650,6 +16652,18 @@
         "authorName": "Saul",
         "text": "Acabei de fazer, ufa",
         "timestamp": 1787879602976
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Quase que n escapa",
+        "timestamp": 1787879613291
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Sei de nada, eu não vi",
+        "timestamp": 1787879617521
       }
     ],
     "120363409727467494@g.us": [],
@@ -16717,7 +16731,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 21033,
-    "120363428464897153@g.us": 6130,
+    "120363428464897153@g.us": 6132,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1711,
     "120363411233423709@g.us": 5,
@@ -173021,6 +173035,18 @@
         "text": "Acabei de fazer, ufa",
         "pushName": "Saul",
         "timestamp": 1787879602976
+      },
+      "ACF9E3E77BA81C65837A27A1C05D7149": {
+        "sender": "274384656834700@lid",
+        "text": "Quase que n escapa",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787879613291
+      },
+      "AC909544A7FAF8BF6698662CF6D485B4": {
+        "sender": "129373172711439@lid",
+        "text": "Sei de nada, eu não vi",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787879617521
       }
     },
     "120363409727467494@g.us": {
@@ -187065,7 +187091,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787879318050,
-    "120363428464897153@g.us": 1787879602976,
+    "120363428464897153@g.us": 1787879617521,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787877736241,
     "120363411233423709@g.us": 1787113553426,
