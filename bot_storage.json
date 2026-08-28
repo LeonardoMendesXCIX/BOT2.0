@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2308,
+        "text": 2312,
         "media": 320,
-        "total": 2628
+        "total": 2632
       },
       "252922705240205": {
         "text": 80,
@@ -2603,9 +2603,9 @@
         "total": 30
       },
       "190864487919667": {
-        "text": 331,
+        "text": 332,
         "media": 49,
-        "total": 380
+        "total": 381
       },
       "82227819987089": {
         "text": 2,
@@ -2708,9 +2708,9 @@
         "total": 2
       },
       "108461127897146": {
-        "text": 91,
+        "text": 93,
         "media": 9,
-        "total": 100
+        "total": 102
       },
       "10050861031495": {
         "text": 0,
@@ -9950,10 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Souza (190864487919667): Cidade de novo estranha",
-        "Souza (190864487919667): Bem vinda May",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vinda!!!",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vinda",
         "Alexandre Bastos (75797868064796): Bem vinda",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Óia quem tá aqui\nBem vinda May",
         "F. RicaRdo sAnToS (193729163993156): Bem vinda",
@@ -10449,7 +10445,11 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): @all \nRespondam a opinião de vocês",
         "Souza (190864487919667): Vish",
         "Juliano Perlin (222595437858867): Eu sou o mais lindo daqui😎",
-        "Juliano Perlin (222595437858867): 🤣🤣🤣"
+        "Juliano Perlin (222595437858867): 🤣🤣🤣",
+        "jaciara (108461127897146): Eu preciso ver fotos 🧐",
+        "jaciara (108461127897146): Aí eu digo",
+        "Souza (190864487919667): .",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): 👀👀"
       ]
     },
     "120363428464897153@g.us": {
@@ -17977,6 +17977,30 @@
         "authorName": "Juliano Perlin",
         "text": "🤣🤣🤣",
         "timestamp": 1787940445215
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Eu preciso ver fotos 🧐",
+        "timestamp": 1787940453599
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Aí eu digo",
+        "timestamp": 1787940462064
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": ".",
+        "timestamp": 1787940469051
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "👀👀",
+        "timestamp": 1787940475884
       }
     ],
     "120363428464897153@g.us": [],
@@ -18226,7 +18250,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22184,
+    "120363432018531082@g.us": 22188,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2075,
@@ -145401,6 +145425,30 @@
         "text": "🤣🤣🤣",
         "pushName": "Juliano Perlin",
         "timestamp": 1787940445215
+      },
+      "ACDDDCC060F80431EC55621AE91F92AC": {
+        "sender": "108461127897146@lid",
+        "text": "Eu preciso ver fotos 🧐",
+        "pushName": "jaciara",
+        "timestamp": 1787940453599
+      },
+      "AC8F79AE13057CA63B403E4A39E3AC31": {
+        "sender": "108461127897146@lid",
+        "text": "Aí eu digo",
+        "pushName": "jaciara",
+        "timestamp": 1787940462065
+      },
+      "ACAE20298293C032D249A1845E4FFC2A": {
+        "sender": "190864487919667@lid",
+        "text": ".",
+        "pushName": "Souza",
+        "timestamp": 1787940469051
+      },
+      "AC2CD6D1290F555185A19B41B759C47B": {
+        "sender": "53537388122141@lid",
+        "text": "👀👀",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787940475884
       }
     },
     "120363428464897153@g.us": {
@@ -198772,7 +198820,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787940445215,
+    "120363432018531082@g.us": 1787940475884,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787940055842,
