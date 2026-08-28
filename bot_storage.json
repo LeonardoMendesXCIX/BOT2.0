@@ -2629,8 +2629,8 @@
       },
       "75797868064796": {
         "text": 18,
-        "media": 55,
-        "total": 73
+        "media": 56,
+        "total": 74
       },
       "153764728184839": {
         "text": 2,
@@ -2663,9 +2663,9 @@
         "total": 77
       },
       "172868239380659": {
-        "text": 113,
+        "text": 114,
         "media": 20,
-        "total": 133
+        "total": 134
       },
       "170455038193841": {
         "text": 1,
@@ -2718,9 +2718,9 @@
         "total": 1
       },
       "118515428286715": {
-        "text": 2,
+        "text": 3,
         "media": 1,
-        "total": 3
+        "total": 4
       },
       "108268240302270": {
         "text": 1,
@@ -2798,9 +2798,9 @@
         "total": 5
       },
       "247020967165997": {
-        "text": 38,
+        "text": 40,
         "media": 10,
-        "total": 48
+        "total": 50
       },
       "206253020176458": {
         "text": 3,
@@ -10183,7 +10183,10 @@
         "Souza (190864487919667): Liso tem que andar com liso",
         "Gabi 💋 (247020967165997): Pedro adorei a \"briga\" pode ir trabalhar eu deixo ksksks",
         "Pedro Henrique (172868239380659): Tmj, mais tarde arrumo outra \" briga\"",
-        "Saul (118515428286715): Bom dia, tenho que levar 6 pessoas para o buteco, alguém se habilita?"
+        "Saul (118515428286715): Bom dia, tenho que levar 6 pessoas para o buteco, alguém se habilita?",
+        "Gabi 💋 (247020967165997): Se fosse aqui em só eu topo",
+        "Pedro Henrique (172868239380659): Quer pagar a minha viagem?",
+        "Saul (118515428286715): É sim, bora"
       ]
     },
     "120363428464897153@g.us": {
@@ -17107,36 +17110,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "120363432018531082",
-        "authorName": "",
-        "text": "@190864487919667",
-        "timestamp": 1787914548716
-      },
-      {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Hoje se Deus quiser terei tempo pra falar",
-        "timestamp": 1787914550195
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Já me apresentei",
-        "timestamp": 1787914552780
-      },
-      {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Ahhhhhhh",
-        "timestamp": 1787914560528
-      },
-      {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Uauuuu",
-        "timestamp": 1787914562826
-      },
-      {
         "authorNum": "57707230945348",
         "authorName": "Rafael Moura",
         "text": "A marquinha Senhor",
@@ -17789,6 +17762,24 @@
         "authorName": "Saul",
         "text": "Bom dia, tenho que levar 6 pessoas para o buteco, alguém se habilita?",
         "timestamp": 1787916341204
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Se fosse aqui em só eu topo",
+        "timestamp": 1787916353714
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Quer pagar a minha viagem?",
+        "timestamp": 1787916373186
+      },
+      {
+        "authorNum": "118515428286715",
+        "authorName": "Saul",
+        "text": "É sim, bora",
+        "timestamp": 1787916373699
       }
     ],
     "120363428464897153@g.us": [],
@@ -17815,7 +17806,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21421,
+    "120363432018531082@g.us": 21424,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -140451,6 +140442,24 @@
         "text": "Bom dia, tenho que levar 6 pessoas para o buteco, alguém se habilita?",
         "pushName": "Saul",
         "timestamp": 1787916341204
+      },
+      "AC7D82A2572DA618C19F004416C0A935": {
+        "sender": "247020967165997@lid",
+        "text": "Se fosse aqui em só eu topo",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787916353714
+      },
+      "AC2D832E1EB97155CB3E0867781231DD": {
+        "sender": "172868239380659@lid",
+        "text": "Quer pagar a minha viagem?",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787916373186
+      },
+      "3A5A482AD158244C9E97": {
+        "sender": "118515428286715@lid",
+        "text": "É sim, bora",
+        "pushName": "Saul",
+        "timestamp": 1787916373699
       }
     },
     "120363428464897153@g.us": {
@@ -193246,7 +193255,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787916341204,
+    "120363432018531082@g.us": 1787916373699,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
