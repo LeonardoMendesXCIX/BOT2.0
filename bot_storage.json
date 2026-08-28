@@ -1953,9 +1953,9 @@
         "total": 5
       },
       "83911531044906": {
-        "text": 41,
+        "text": 42,
         "media": 2,
-        "total": 43
+        "total": 44
       },
       "172864548434113": {
         "text": 42,
@@ -9900,7 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Rafael Moura (57707230945348): A marquinha Senhor",
         "Rafael Moura (57707230945348): Eita Alexandre camisa 9",
         "𝔞𝔩𝔦𝔫𝔢🫶🏽 (221307534876912): Bom dia gente meu nm é aline tenho 18 anos moro no Paraná",
         "Gabi 💋 (247020967165997): Seja bem vinda",
@@ -10399,7 +10398,8 @@
         "Souza (190864487919667): Só o pó do machucado",
         "Nanda (263797142995147): decepções amorosas?",
         "Souza (190864487919667): Todas",
-        "Arthur (206253020176458): Q lindaa"
+        "Arthur (206253020176458): Q lindaa",
+        "~Gará (83911531044906): Eu venderia meus rins."
       ]
     },
     "120363428464897153@g.us": {
@@ -17855,6 +17855,12 @@
         "authorName": "Arthur",
         "text": "Q lindaa",
         "timestamp": 1787927642361
+      },
+      {
+        "authorNum": "83911531044906",
+        "authorName": "~Gará",
+        "text": "Eu venderia meus rins.",
+        "timestamp": 1787927834907
       }
     ],
     "120363428464897153@g.us": [],
@@ -17881,7 +17887,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21812,
+    "120363432018531082@g.us": 21813,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2011,
@@ -142850,6 +142856,12 @@
         "text": "Q lindaa",
         "pushName": "Arthur",
         "timestamp": 1787927642361
+      },
+      "ACF180F657B76D1312E34910D8D1F4AD": {
+        "sender": "83911531044906@lid",
+        "text": "Eu venderia meus rins.",
+        "pushName": "~Gará",
+        "timestamp": 1787927834907
       }
     },
     "120363428464897153@g.us": {
@@ -195753,7 +195765,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787927642361,
+    "120363432018531082@g.us": 1787927834907,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787926648480,
