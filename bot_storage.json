@@ -279,8 +279,8 @@
       },
       "53537388122141": {
         "text": 2393,
-        "media": 334,
-        "total": 2727
+        "media": 335,
+        "total": 2728
       },
       "252922705240205": {
         "text": 80,
@@ -2658,9 +2658,9 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 103,
-        "media": 15,
-        "total": 118
+        "text": 104,
+        "media": 16,
+        "total": 120
       },
       "172868239380659": {
         "text": 182,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Camila Designer (92629643563147): Boa tarde pessoal!",
         "Arthur (206253020176458): Boaa",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Tá sim, e já tá tacando as figurinhas\n@81991328395336",
         "Nanda (263797142995147): 19",
@@ -10449,7 +10448,8 @@
         "Juliano Perlin (222595437858867): Nao ta mais. Pega minha mao😎",
         "Juliano Perlin (222595437858867): Eitaaaa🔥🔥",
         "Juliano Perlin (222595437858867): 🤣🤣",
-        "Juliano Perlin (222595437858867): Se nao é pra chegar chegando, eu nem chego"
+        "Juliano Perlin (222595437858867): Se nao é pra chegar chegando, eu nem chego",
+        "Gleydson Souza (274384656834700): Boa noite a todos"
       ]
     },
     "120363428464897153@g.us": {
@@ -17871,6 +17871,12 @@
         "authorName": "Juliano Perlin",
         "text": "Se nao é pra chegar chegando, eu nem chego",
         "timestamp": 1787958522630
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Boa noite a todos",
+        "timestamp": 1787958555741
       }
     ],
     "120363428464897153@g.us": [],
@@ -18227,7 +18233,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22584,
+    "120363432018531082@g.us": 22585,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2177,
@@ -18250,7 +18256,8 @@
     "120363428662766282@g.us": true,
     "120363428079168524@g.us": false,
     "120363411246936023@g.us": false,
-    "120363409024805409@g.us": false
+    "120363409024805409@g.us": false,
+    "120363409496810190@g.us": true
   },
   "queuedWelcomes": {
     "120363428464897153@g.us": [
@@ -147766,6 +147773,12 @@
         "text": "Se nao é pra chegar chegando, eu nem chego",
         "pushName": "Juliano Perlin",
         "timestamp": 1787958522630
+      },
+      "ACBF5F814E578EB7D0C61CF4DF562A47": {
+        "sender": "274384656834700@lid",
+        "text": "Boa noite a todos",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787958555741
       }
     },
     "120363428464897153@g.us": {
@@ -201797,7 +201810,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787958522630,
+    "120363432018531082@g.us": 1787958557327,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787958481180,
