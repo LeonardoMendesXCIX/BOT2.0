@@ -1953,9 +1953,9 @@
         "total": 5
       },
       "83911531044906": {
-        "text": 68,
+        "text": 69,
         "media": 4,
-        "total": 72
+        "total": 73
       },
       "172864548434113": {
         "text": 42,
@@ -2603,9 +2603,9 @@
         "total": 30
       },
       "190864487919667": {
-        "text": 308,
+        "text": 310,
         "media": 45,
-        "total": 353
+        "total": 355
       },
       "82227819987089": {
         "text": 2,
@@ -9900,8 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Pedro Henrique (172868239380659): Realmente, essa não entendi",
-        "Rafael Moura (57707230945348): Vem ver a treta",
         "Gabi 💋 (247020967165997): Ksksks",
         "Jessica (208958782488665): Opaaa",
         "𝔞𝔩𝔦𝔫𝔢🫶🏽 (221307534876912): Ae tu é homem n obedeço n filho",
@@ -10399,7 +10397,9 @@
         "jaciara (108461127897146): As vezes nem precisa de um encontro kkkk percebemos só na conversa",
         "Celiete Souza (129373172711439): Exatamente, nós sabemos, vai dos nossos propósitos e valores manter ou não o contato 😉",
         "Arthur (206253020176458): Mas ten mulher q falar vamos dividir a conta o homem diz q nn precisa mas as mulheres fazem questão pq ali é um conexão verdadeira de q ambos podem se ajudar pode até nascer um amor q pode durar pra s",
-        "jaciara (108461127897146): Isso mesmo"
+        "jaciara (108461127897146): Isso mesmo",
+        "Souza (190864487919667): O menino triste",
+        "Souza (190864487919667): Só queria outro irmãozinho"
       ]
     },
     "120363428464897153@g.us": {
@@ -17344,36 +17344,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "274384656834700",
-        "authorName": "Gleydson Souza",
-        "text": ".",
-        "timestamp": 1787929534911
-      },
-      {
-        "authorNum": "274384656834700",
-        "authorName": "Gleydson Souza",
-        "text": "@53537388122141",
-        "timestamp": 1787929541582
-      },
-      {
-        "authorNum": "206253020176458",
-        "authorName": "Arthur",
-        "text": "Assim os homens vão se apaixonar em",
-        "timestamp": 1787929570619
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Kkkkkkkk manda em vizu única amiga",
-        "timestamp": 1787929575818
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Cuidado com o cabaré",
-        "timestamp": 1787929592465
-      },
-      {
         "authorNum": "108461127897146",
         "authorName": "jaciara",
         "text": "Tabom , obrigado ☺️",
@@ -17918,6 +17888,18 @@
         "authorName": "jaciara",
         "text": "Isso mesmo",
         "timestamp": 1787931317943
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "O menino triste",
+        "timestamp": 1787931408484
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Só queria outro irmãozinho",
+        "timestamp": 1787931416558
       }
     ],
     "120363428464897153@g.us": [],
@@ -17950,7 +17932,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21987,
+    "120363432018531082@g.us": 21989,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -143956,6 +143938,18 @@
         "text": "Isso mesmo",
         "pushName": "jaciara",
         "timestamp": 1787931317943
+      },
+      "AC59C7DECB199258A064C1577AE5F968": {
+        "sender": "190864487919667@lid",
+        "text": "O menino triste",
+        "pushName": "Souza",
+        "timestamp": 1787931408484
+      },
+      "AC9B9A871FC69D41B078D776B022F18A": {
+        "sender": "190864487919667@lid",
+        "text": "Só queria outro irmãozinho",
+        "pushName": "Souza",
+        "timestamp": 1787931416558
       }
     },
     "120363428464897153@g.us": {
@@ -196877,7 +196871,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787931353319,
+    "120363432018531082@g.us": 1787931416642,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
