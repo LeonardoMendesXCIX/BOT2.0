@@ -279,8 +279,8 @@
       },
       "53537388122141": {
         "text": 2308,
-        "media": 319,
-        "total": 2627
+        "media": 320,
+        "total": 2628
       },
       "252922705240205": {
         "text": 80,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Lailson Nathan. (272048228188398): Seja bem vinda.",
         "Bruno Aguiar (+1395881181241): Seja bem vinda",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Bem vinda 🩷",
         "May (227783724793861): 💥 BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Queremos conhecer você! ✨\n\n📸 Sua foto:\n💬 Nome:May\n🎂 Idade:37\n📍 De onde sou: Matinhos/Curitiba",
@@ -10449,7 +10448,8 @@
         "Leandro (+55 (11) 92701-8683): Meu nível de tdah",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): @272048228188398",
         "Juliano Perlin (222595437858867): 🤣🤣🤣🤣",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): @81991328395336"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): @81991328395336",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): @all \nRespondam a opinião de vocês"
       ]
     },
     "120363428464897153@g.us": {
@@ -17953,6 +17953,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "@81991328395336",
         "timestamp": 1787940371805
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "@all \nRespondam a opinião de vocês",
+        "timestamp": 1787940417132
       }
     ],
     "120363428464897153@g.us": [],
@@ -18202,7 +18208,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22180,
+    "120363432018531082@g.us": 22181,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2075,
@@ -145353,6 +145359,12 @@
         "text": "@81991328395336",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787940371805
+      },
+      "ACBB1411B048AB7E46D5F2F33AA03C60": {
+        "sender": "53537388122141@lid",
+        "text": "@all \nRespondam a opinião de vocês",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787940417132
       }
     },
     "120363428464897153@g.us": {
@@ -198724,7 +198736,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787940371805,
+    "120363432018531082@g.us": 1787940417132,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787940055842,
