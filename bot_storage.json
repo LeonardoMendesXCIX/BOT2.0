@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2330,
+        "text": 2333,
         "media": 325,
-        "total": 2655
+        "total": 2658
       },
       "252922705240205": {
         "text": 80,
@@ -3544,14 +3544,14 @@
         "total": 674
       },
       "145381035905262": {
-        "text": 469,
+        "text": 470,
         "media": 154,
-        "total": 623
+        "total": 624
       },
       "53537388122141": {
-        "text": 792,
+        "text": 793,
         "media": 61,
-        "total": 853
+        "total": 854
       },
       "120363412288900422": {
         "text": 1,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Nanda (263797142995147): mais é a noite",
         "Nanda (263797142995147): queeroo",
         "Nanda (263797142995147): nunca comi, mais se me convidasse eu iria",
         "Gleydson Souza (274384656834700): Risoto to passando obg pelo convite",
@@ -10449,7 +10448,8 @@
         "Bruno Aguiar (+1395881181241): 😢😢",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): @145381035905262",
         "Leandro (+55 (11) 92701-8683): Eu não digo é nada 😂",
-        "Gabriel (145381035905262): Vai começar cupinxa, será 😂😂😂"
+        "Gabriel (145381035905262): Vai começar cupinxa, será 😂😂😂",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Acho que vai😂😂😂"
       ]
     },
     "120363428464897153@g.us": {
@@ -16950,7 +16950,9 @@
         "Gabriel (145381035905262): Mas agora tá vindo suave",
         "Leandro (+55 (11) 92701-8683): Agora tá de boa, como sempre",
         "Leandro (+55 (11) 92701-8683): Aqui somos nós",
-        "Leandro (+55 (11) 92701-8683): Tô dando risada com esse bot agora 😂"
+        "Leandro (+55 (11) 92701-8683): Tô dando risada com esse bot agora 😂",
+        "Gabriel (145381035905262): Annn se produzindo",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Sempre"
       ]
     },
     "120363411233423709@g.us": {
@@ -17469,18 +17471,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Boa tarde",
-        "timestamp": 1787941296758
-      },
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Tarde ju",
-        "timestamp": 1787941307570
-      },
-      {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
         "text": "@163530946961491 quando vai reassumir seu cargo no Kabaré?🤔",
@@ -17815,11 +17805,30 @@
         "authorName": "Gabriel",
         "text": "Vai começar cupinxa, será 😂😂😂",
         "timestamp": 1787943064408
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Acho que vai😂😂😂",
+        "timestamp": 1787943113360
       }
     ],
     "120363428464897153@g.us": [],
     "120363409727467494@g.us": [],
-    "120363412288900422@g.us": [],
+    "120363412288900422@g.us": [
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Annn se produzindo",
+        "timestamp": 1787943110474
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Sempre",
+        "timestamp": 1787943120874
+      }
+    ],
     "120363411233423709@g.us": [],
     "120363428079168524@g.us": [],
     "120363411246936023@g.us": [],
@@ -17834,10 +17843,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22285,
+    "120363432018531082@g.us": 22286,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2075,
+    "120363412288900422@g.us": 2077,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -145615,6 +145624,12 @@
         "text": "Vai começar cupinxa, será 😂😂😂",
         "pushName": "Gabriel",
         "timestamp": 1787943064408
+      },
+      "AC354070BF1B00781A6DD36BB5F8B42D": {
+        "sender": "53537388122141@lid",
+        "text": "Acho que vai😂😂😂",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787943113360
       }
     },
     "120363428464897153@g.us": {
@@ -196153,6 +196168,18 @@
         "text": "Tô dando risada com esse bot agora 😂",
         "pushName": "Leandro",
         "timestamp": 1787940007363
+      },
+      "AC17F0E6A869B508A8DE13FBD4E9BFE4": {
+        "sender": "145381035905262@lid",
+        "text": "Annn se produzindo",
+        "pushName": "Gabriel",
+        "timestamp": 1787943110474
+      },
+      "AC42EC62F9E422B8290CE304A9A9A9DC": {
+        "sender": "53537388122141@lid",
+        "text": "Sempre",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787943120874
       }
     },
     "120363411233423709@g.us": {
@@ -198986,10 +199013,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787943064408,
+    "120363432018531082@g.us": 1787943116111,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787940055842,
+    "120363412288900422@g.us": 1787943120874,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
