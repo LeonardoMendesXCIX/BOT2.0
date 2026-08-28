@@ -173,9 +173,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1533,
+        "text": 1534,
         "media": 424,
-        "total": 1957
+        "total": 1958
       },
       "81991328395336": {
         "text": 3923,
@@ -1954,8 +1954,8 @@
       },
       "83911531044906": {
         "text": 66,
-        "media": 3,
-        "total": 69
+        "media": 4,
+        "total": 70
       },
       "172864548434113": {
         "text": 42,
@@ -2708,9 +2708,9 @@
         "total": 2
       },
       "108461127897146": {
-        "text": 71,
+        "text": 72,
         "media": 8,
-        "total": 79
+        "total": 80
       },
       "10050861031495": {
         "text": 0,
@@ -9900,8 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Rafael Moura (57707230945348): Porra entao voltei a ser 0KM",
-        "Clayton 🇳🇬 (155503636275307): Queremos o final desta novela",
         "Gabi 💋 (247020967165997): Pra tu caçar no puteiro e eu que sou rodada",
         "Rafael Moura (57707230945348): Nem falo meu tempo de solterice🙈",
         "Gabi 💋 (247020967165997): Quem deve está com doença é tu",
@@ -10399,7 +10397,9 @@
         "Souza (190864487919667): Que se não era mais fácil ir no puteiro",
         "~Gará (83911531044906): Era só brincadeira caramba...rsrs",
         "Souza (190864487919667): Beleza, acredito",
-        "Celiete Souza (129373172711439): Aí complica, na minha opinião o homem que for cavalheiro não deixa isto acontecer"
+        "Celiete Souza (129373172711439): Aí complica, na minha opinião o homem que for cavalheiro não deixa isto acontecer",
+        "jaciara (108461127897146): Hoje me dia os homens querem ir pra casa da mulher no primeiro encontro kkkkkk",
+        "Celiete Souza (129373172711439): Isso vai depender da conexão, na minha opinião pode sim acontecer e ser maravilhoso"
       ]
     },
     "120363428464897153@g.us": {
@@ -17342,24 +17342,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Assim de cara ?",
-        "timestamp": 1787929190738
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Kkkkk",
-        "timestamp": 1787929191998
-      },
-      {
-        "authorNum": "193729163993156",
-        "authorName": "F. RicaRdo sAnToS",
-        "text": "@53537388122141 a @108461127897146 quer postar um foto, aceita ai p nos",
-        "timestamp": 1787929213050
-      },
-      {
         "authorNum": "83911531044906",
         "authorName": "~Gará",
         "text": "Oq tem?\nRsrs",
@@ -17886,6 +17868,18 @@
         "authorName": "Celiete Souza",
         "text": "Aí complica, na minha opinião o homem que for cavalheiro não deixa isto acontecer",
         "timestamp": 1787930964944
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Hoje me dia os homens querem ir pra casa da mulher no primeiro encontro kkkkkk",
+        "timestamp": 1787930999259
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Isso vai depender da conexão, na minha opinião pode sim acontecer e ser maravilhoso",
+        "timestamp": 1787931013442
       }
     ],
     "120363428464897153@g.us": [],
@@ -17905,7 +17899,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21966,
+    "120363432018531082@g.us": 21968,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -143785,6 +143779,18 @@
         "text": "Aí complica, na minha opinião o homem que for cavalheiro não deixa isto acontecer",
         "pushName": "Celiete Souza",
         "timestamp": 1787930964944
+      },
+      "ACFA81DD3E85FEE20140243C8791E0EA": {
+        "sender": "108461127897146@lid",
+        "text": "Hoje me dia os homens querem ir pra casa da mulher no primeiro encontro kkkkkk",
+        "pushName": "jaciara",
+        "timestamp": 1787930999259
+      },
+      "AC1345F32B8D4C47AF27EE5258FC7F05": {
+        "sender": "129373172711439@lid",
+        "text": "Isso vai depender da conexão, na minha opinião pode sim acontecer e ser maravilhoso",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787931013442
       }
     },
     "120363428464897153@g.us": {
@@ -196694,7 +196700,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787930964944,
+    "120363432018531082@g.us": 1787931013442,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
