@@ -2628,9 +2628,9 @@
         "total": 46
       },
       "75797868064796": {
-        "text": 18,
+        "text": 19,
         "media": 56,
-        "total": 74
+        "total": 75
       },
       "153764728184839": {
         "text": 2,
@@ -2663,9 +2663,9 @@
         "total": 77
       },
       "172868239380659": {
-        "text": 114,
+        "text": 115,
         "media": 20,
-        "total": 134
+        "total": 135
       },
       "170455038193841": {
         "text": 1,
@@ -10186,7 +10186,9 @@
         "Saul (118515428286715): Bom dia, tenho que levar 6 pessoas para o buteco, alguém se habilita?",
         "Gabi 💋 (247020967165997): Se fosse aqui em só eu topo",
         "Pedro Henrique (172868239380659): Quer pagar a minha viagem?",
-        "Saul (118515428286715): É sim, bora"
+        "Saul (118515428286715): É sim, bora",
+        "Pedro Henrique (172868239380659): Vou mandar os valores aí pra vc",
+        "Alexandre Bastos (75797868064796): Quando e isso tem alguma coisa"
       ]
     },
     "120363428464897153@g.us": {
@@ -17110,24 +17112,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "A marquinha Senhor",
-        "timestamp": 1787914577458
-      },
-      {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Eita Alexandre camisa 9",
-        "timestamp": 1787914596988
-      },
-      {
-        "authorNum": "221307534876912",
-        "authorName": "𝔞𝔩𝔦𝔫𝔢🫶🏽",
-        "text": "Bom dia gente meu nm é aline tenho 18 anos moro no Paraná",
-        "timestamp": 1787914604441
-      },
-      {
         "authorNum": "247020967165997",
         "authorName": "Gabi 💋",
         "text": "Seja bem vinda",
@@ -17780,6 +17764,18 @@
         "authorName": "Saul",
         "text": "É sim, bora",
         "timestamp": 1787916373699
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Vou mandar os valores aí pra vc",
+        "timestamp": 1787916395186
+      },
+      {
+        "authorNum": "75797868064796",
+        "authorName": "Alexandre Bastos",
+        "text": "Quando e isso tem alguma coisa",
+        "timestamp": 1787916411853
       }
     ],
     "120363428464897153@g.us": [],
@@ -17806,7 +17802,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21424,
+    "120363432018531082@g.us": 21426,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -140460,6 +140456,18 @@
         "text": "É sim, bora",
         "pushName": "Saul",
         "timestamp": 1787916373699
+      },
+      "AC17823BDAD2E6C43A780CF662414D7C": {
+        "sender": "172868239380659@lid",
+        "text": "Vou mandar os valores aí pra vc",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787916395187
+      },
+      "ACADF0072733D904FDB70AC14A6C2BC6": {
+        "sender": "75797868064796@lid",
+        "text": "Quando e isso tem alguma coisa",
+        "pushName": "Alexandre Bastos",
+        "timestamp": 1787916411853
       }
     },
     "120363428464897153@g.us": {
@@ -193255,7 +193263,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787916373699,
+    "120363432018531082@g.us": 1787916411853,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
