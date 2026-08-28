@@ -173,9 +173,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1577,
+        "text": 1580,
         "media": 429,
-        "total": 2006
+        "total": 2009
       },
       "81991328395336": {
         "text": 3941,
@@ -188,9 +188,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2227,
+        "text": 2228,
         "media": 472,
-        "total": 2699
+        "total": 2700
       },
       "184237705699536": {
         "text": 524,
@@ -383,9 +383,9 @@
         "total": 487
       },
       "222595437858867": {
-        "text": 520,
+        "text": 521,
         "media": 55,
-        "total": 575
+        "total": 576
       },
       "83280154103884": {
         "text": 36,
@@ -2603,9 +2603,9 @@
         "total": 30
       },
       "190864487919667": {
-        "text": 338,
+        "text": 339,
         "media": 50,
-        "total": 388
+        "total": 389
       },
       "82227819987089": {
         "text": 2,
@@ -9950,10 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Gleydson Souza (274384656834700): Trabalhando",
-        "Nanda (263797142995147): né, mais nem da",
-        "Nanda (263797142995147): num vou só",
-        "Nanda (263797142995147): mo vergonha",
         "Souza (190864487919667): Oxe",
         "Souza (190864487919667): Sozinho é bom",
         "Nanda (263797142995147): mais tarde, ainda ta cedo",
@@ -10449,7 +10445,11 @@
         "willian (163530946961491): Sem cargo kkkk",
         "Nickolas (238388519141379): Boa tarde galerinha",
         "Souza (190864487919667): Que chuvam",
-        "Celiete Souza (129373172711439): Em casa sentada no sofá e tomando um chá kkk"
+        "Celiete Souza (129373172711439): Em casa sentada no sofá e tomando um chá kkk",
+        "Gabriel (145381035905262): Beleza, se prepara pra trabalhar, te chamaremos agora em setembro. Pra trabalhar na Jequiti junto",
+        "Juliano Perlin (222595437858867): Aproveita pra converssar com nós entao🤣🤣",
+        "Celiete Souza (129373172711439): Muita chuva, agora parou",
+        "Celiete Souza (129373172711439): Tamo junto 🫶🏻😂😂😂"
       ]
     },
     "120363428464897153@g.us": {
@@ -18073,6 +18073,30 @@
         "authorName": "Celiete Souza",
         "text": "Em casa sentada no sofá e tomando um chá kkk",
         "timestamp": 1787941709394
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Beleza, se prepara pra trabalhar, te chamaremos agora em setembro. Pra trabalhar na Jequiti junto",
+        "timestamp": 1787941716071
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Aproveita pra converssar com nós entao🤣🤣",
+        "timestamp": 1787941722215
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Muita chuva, agora parou",
+        "timestamp": 1787941736764
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Tamo junto 🫶🏻😂😂😂",
+        "timestamp": 1787941757169
       }
     ],
     "120363428464897153@g.us": [],
@@ -18165,7 +18189,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22251,
+    "120363432018531082@g.us": 22255,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2075,
@@ -145742,6 +145766,30 @@
         "text": "Em casa sentada no sofá e tomando um chá kkk",
         "pushName": "Celiete Souza",
         "timestamp": 1787941709394
+      },
+      "AC05C92174A2E4CBC2284695CFC9438D": {
+        "sender": "145381035905262@lid",
+        "text": "Beleza, se prepara pra trabalhar, te chamaremos agora em setembro. Pra trabalhar na Jequiti junto",
+        "pushName": "Gabriel",
+        "timestamp": 1787941716071
+      },
+      "AC27ACD6AB152A3FF93E1A32BC5D935A": {
+        "sender": "222595437858867@lid",
+        "text": "Aproveita pra converssar com nós entao🤣🤣",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1787941722215
+      },
+      "ACC5A63C8B016CDE3D2A73A45BE56D0F": {
+        "sender": "129373172711439@lid",
+        "text": "Muita chuva, agora parou",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787941736764
+      },
+      "ACB54235CDB8E045F7CE4ED7AAD880F7": {
+        "sender": "129373172711439@lid",
+        "text": "Tamo junto 🫶🏻😂😂😂",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787941757169
       }
     },
     "120363428464897153@g.us": {
@@ -199113,7 +199161,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787941709394,
+    "120363432018531082@g.us": 1787941757169,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787940055842,
