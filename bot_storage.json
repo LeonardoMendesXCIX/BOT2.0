@@ -2598,9 +2598,9 @@
         "total": 2
       },
       "11171897864256": {
-        "text": 27,
+        "text": 28,
         "media": 2,
-        "total": 29
+        "total": 30
       },
       "190864487919667": {
         "text": 290,
@@ -9900,7 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Gabi 💋 (247020967165997): Coisa fofa",
         "Souza (190864487919667): Receba",
         "Pedro Henrique (172868239380659): 980- diária do chalé\n250- lavagem do carro e da gasolina",
         "Pedro Henrique (172868239380659): É o que eu tô lembrando no momento",
@@ -10399,7 +10398,8 @@
         "~Gará (83911531044906): Não mesmo",
         "~Gará (83911531044906): Ainda mais quem maltrata uma mulher grávida.\nQue esta carregando um filho dele.",
         "F. RicaRdo sAnToS (193729163993156): Boa tarde pra quem fica....ótima sexta-feira",
-        "~Gará (83911531044906): Pra ti também"
+        "~Gará (83911531044906): Pra ti também",
+        "🙃🙃🙃 (11171897864256): A menina nasce quando ???"
       ]
     },
     "120363428464897153@g.us": {
@@ -17342,12 +17342,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "1395881181241",
-        "authorName": "Bruno Aguiar",
-        "text": "E se precisar estamos aqui 😉❤️",
-        "timestamp": 1787928258114
-      },
-      {
         "authorNum": "83911531044906",
         "authorName": "~Gará",
         "text": "Tamos juntos nessa então",
@@ -18000,6 +17994,12 @@
         "authorName": "~Gará",
         "text": "Pra ti também",
         "timestamp": 1787930011134
+      },
+      {
+        "authorNum": "11171897864256",
+        "authorName": "🙃🙃🙃",
+        "text": "A menina nasce quando ???",
+        "timestamp": 1787930069791
       }
     ],
     "120363428464897153@g.us": [],
@@ -18026,7 +18026,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21928,
+    "120363432018531082@g.us": 21929,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -143684,6 +143684,12 @@
         "text": "Pra ti também",
         "pushName": "~Gará",
         "timestamp": 1787930011134
+      },
+      "AC0196A024A8E8E1DA95C40B261EE92B": {
+        "sender": "11171897864256@lid",
+        "text": "A menina nasce quando ???",
+        "pushName": "🙃🙃🙃",
+        "timestamp": 1787930069792
       }
     },
     "120363428464897153@g.us": {
@@ -196593,7 +196599,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787930011134,
+    "120363432018531082@g.us": 1787930069791,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
