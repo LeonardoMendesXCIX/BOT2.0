@@ -254,8 +254,8 @@
       },
       "92629643563147": {
         "text": 1491,
-        "media": 1110,
-        "total": 2601
+        "media": 1111,
+        "total": 2602
       },
       "3126803329115": {
         "text": 87,
@@ -2603,9 +2603,9 @@
         "total": 26
       },
       "190864487919667": {
-        "text": 271,
+        "text": 273,
         "media": 42,
-        "total": 313
+        "total": 315
       },
       "82227819987089": {
         "text": 2,
@@ -9900,8 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        " (120363432018531082): @190864487919667",
-        "Rafael Moura (57707230945348): Hoje se Deus quiser terei tempo pra falar",
         "Gabi 💋 (247020967165997): Já me apresentei",
         "Rafael Moura (57707230945348): Ahhhhhhh",
         "Rafael Moura (57707230945348): Uauuuu",
@@ -10399,7 +10397,9 @@
         "Camila Designer (92629643563147): Então eu ainda tenho meus dois rins funcionando 👀",
         "Nanda (263797142995147): eu tmb kkk",
         "Camila Designer (92629643563147): Então já é uma coisa",
-        "Camila Designer (92629643563147): Kkkk"
+        "Camila Designer (92629643563147): Kkkk",
+        "Souza (190864487919667): Meu coração mesmo nem presta tanto assim",
+        "Souza (190864487919667): Só o pó do machucado"
       ]
     },
     "120363428464897153@g.us": {
@@ -17843,6 +17843,18 @@
         "authorName": "Camila Designer",
         "text": "Kkkk",
         "timestamp": 1787927242763
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Meu coração mesmo nem presta tanto assim",
+        "timestamp": 1787927249626
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Só o pó do machucado",
+        "timestamp": 1787927260417
       }
     ],
     "120363428464897153@g.us": [],
@@ -17869,7 +17881,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21807,
+    "120363432018531082@g.us": 21809,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2011,
@@ -142808,6 +142820,18 @@
         "text": "Kkkk",
         "pushName": "Camila Designer",
         "timestamp": 1787927242763
+      },
+      "AC02C81D0CEF8E8E47EA91E06F2C24FD": {
+        "sender": "190864487919667@lid",
+        "text": "Meu coração mesmo nem presta tanto assim",
+        "pushName": "Souza",
+        "timestamp": 1787927249626
+      },
+      "AC858FDB65545F137B53DA2D5983B98A": {
+        "sender": "190864487919667@lid",
+        "text": "Só o pó do machucado",
+        "pushName": "Souza",
+        "timestamp": 1787927260417
       }
     },
     "120363428464897153@g.us": {
@@ -195711,7 +195735,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787927242763,
+    "120363432018531082@g.us": 1787927263400,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787926648480,
