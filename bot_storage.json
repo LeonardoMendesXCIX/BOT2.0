@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2254,
+        "text": 2255,
         "media": 306,
-        "total": 2560
+        "total": 2561
       },
       "252922705240205": {
         "text": 80,
@@ -1953,9 +1953,9 @@
         "total": 5
       },
       "83911531044906": {
-        "text": 31,
+        "text": 32,
         "media": 2,
-        "total": 33
+        "total": 34
       },
       "172864548434113": {
         "text": 42,
@@ -9865,8 +9865,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Jk (120542904463568): Sobre quais assuntos o pessoal conversa aqui ? Assuntos variados ?",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): É",
         "Jk (120542904463568): Legal",
         "Leandro (+55 (11) 92701-8683): Até tu usando essa?",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Só que assuntos mais fora do eixo é no Kbaré",
@@ -10364,7 +10362,9 @@
         "Nickolas (238388519141379): Normal ? Ou visu única ?",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Do jeito que preferir",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Sejam bem vindo jovem🤝🫡",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindo!"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindo!",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindo",
+        "~Gará (83911531044906): Obg"
       ]
     },
     "120363428464897153@g.us": {
@@ -17288,54 +17288,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "75797868064796",
-        "authorName": "Alexandre Bastos",
-        "text": "E coelho",
-        "timestamp": 1787919114271
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Não adianta da concelho",
-        "timestamp": 1787919120173
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Ele não escuta",
-        "timestamp": 1787919125212
-      },
-      {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "O ex da mulher?",
-        "timestamp": 1787919130477
-      },
-      {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Não sei",
-        "timestamp": 1787919133951
-      },
-      {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Mas essa morte aí é paia",
-        "timestamp": 1787919138537
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "👀",
-        "timestamp": 1787919150153
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Como uma porta",
-        "timestamp": 1787919234043
-      },
-      {
         "authorNum": "247020967165997",
         "authorName": "Gabi 💋",
         "text": "Obrigada",
@@ -17406,6 +17358,18 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Bem vindo!",
         "timestamp": 1787920710396
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Bem vindo",
+        "timestamp": 1787921030808
+      },
+      {
+        "authorNum": "83911531044906",
+        "authorName": "~Gará",
+        "text": "Obg",
+        "timestamp": 1787921051212
       }
     ],
     "120363428464897153@g.us": [],
@@ -17425,7 +17389,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21635,
+    "120363432018531082@g.us": 21637,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -141345,6 +141309,18 @@
         "text": "Bem vindo!",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787920710396
+      },
+      "AC7D47B905C82197FB2D677B309B38F0": {
+        "sender": "53537388122141@lid",
+        "text": "Bem vindo",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787921030808
+      },
+      "AC30D6735F846E1439853DAE464A4396": {
+        "sender": "83911531044906@lid",
+        "text": "Obg",
+        "pushName": "~Gará",
+        "timestamp": 1787921051212
       }
     },
     "120363428464897153@g.us": {
@@ -194140,7 +194116,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787921020307,
+    "120363432018531082@g.us": 1787921051212,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787920577610,
