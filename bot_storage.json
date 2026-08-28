@@ -253,9 +253,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1483,
+        "text": 1484,
         "media": 1108,
-        "total": 2591
+        "total": 2592
       },
       "3126803329115": {
         "text": 87,
@@ -1863,9 +1863,9 @@
         "total": 6
       },
       "1395881181241": {
-        "text": 131,
+        "text": 132,
         "media": 5,
-        "total": 136
+        "total": 137
       },
       "198595546501333": {
         "text": 2,
@@ -2603,9 +2603,9 @@
         "total": 26
       },
       "190864487919667": {
-        "text": 259,
+        "text": 261,
         "media": 42,
-        "total": 301
+        "total": 303
       },
       "82227819987089": {
         "text": 2,
@@ -2658,9 +2658,9 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 75,
+        "text": 77,
         "media": 14,
-        "total": 89
+        "total": 91
       },
       "172868239380659": {
         "text": 182,
@@ -2783,9 +2783,9 @@
         "total": 1
       },
       "37826582323373": {
-        "text": 9,
+        "text": 10,
         "media": 2,
-        "total": 11
+        "total": 12
       },
       "279628962885736": {
         "text": 1,
@@ -9900,11 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "🙃🙃🙃 (11171897864256): Bom dia cheguei agora",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Era eu e @54259127210155 \nAcordados",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Meu sono é parcelado",
-        "Bruno (210152934359048): Vcs são todos daí?",
-        "Bruno (210152934359048): Do sul",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Nn",
         "🙃🙃🙃 (11171897864256): 👽 sou do Ceará",
         "Bruno (210152934359048): Nossa tem do Brasil inteiro então uai",
@@ -10399,7 +10394,12 @@
         "Souza (190864487919667): leva só o básico",
         "~Gará (83911531044906): Bem vinda",
         "Nanda (263797142995147): pior q eu tento kkkkk",
-        "Nanda (263797142995147): brigada"
+        "Nanda (263797142995147): brigada",
+        "Gleydson Souza (274384656834700): Bem vinda",
+        "Camila Designer (92629643563147): Vi que entrou bastante pessoas, sejam todos bem vindos!😌",
+        "Souza (190864487919667): Se for só, nem leva celular",
+        "eduardo (37826582323373): obrigada",
+        "Bruno Aguiar (+1395881181241): Vc cuida bem de nós ❤️"
       ]
     },
     "120363428464897153@g.us": {
@@ -17657,17 +17657,41 @@
         "authorName": "Nanda",
         "text": "brigada",
         "timestamp": 1787926746746
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Bem vinda",
+        "timestamp": 1787926800633
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Vi que entrou bastante pessoas, sejam todos bem vindos!😌",
+        "timestamp": 1787926801037
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Se for só, nem leva celular",
+        "timestamp": 1787926821107
+      },
+      {
+        "authorNum": "37826582323373",
+        "authorName": "eduardo",
+        "text": "obrigada",
+        "timestamp": 1787926821983
+      },
+      {
+        "authorNum": "1395881181241",
+        "authorName": "Bruno Aguiar",
+        "text": "Vc cuida bem de nós ❤️",
+        "timestamp": 1787926822002
       }
     ],
     "120363428464897153@g.us": [],
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Bora @81991328395336 ?",
-        "timestamp": 1787924999186
-      },
       {
         "authorNum": "81991328395336",
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
@@ -17689,7 +17713,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21766,
+    "120363432018531082@g.us": 21771,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2011,
@@ -142382,6 +142406,36 @@
         "text": "brigada",
         "pushName": "Nanda",
         "timestamp": 1787926746746
+      },
+      "ACBB715A4327A9B9F34257BFE4ABA003": {
+        "sender": "274384656834700@lid",
+        "text": "Bem vinda",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787926800633
+      },
+      "2A9141B834E2D701E9FB": {
+        "sender": "92629643563147@lid",
+        "text": "Vi que entrou bastante pessoas, sejam todos bem vindos!😌",
+        "pushName": "Camila Designer",
+        "timestamp": 1787926801037
+      },
+      "AC90669691EE9B4C5746A996CA074D28": {
+        "sender": "190864487919667@lid",
+        "text": "Se for só, nem leva celular",
+        "pushName": "Souza",
+        "timestamp": 1787926821107
+      },
+      "ACEB15157C22FC08668D1CFB46AB51B8": {
+        "sender": "37826582323373@lid",
+        "text": "obrigada",
+        "pushName": "eduardo",
+        "timestamp": 1787926821983
+      },
+      "ACF8CB61CAF31C2942F230553A8B1825": {
+        "sender": "1395881181241@lid",
+        "text": "Vc cuida bem de nós ❤️",
+        "pushName": "Bruno Aguiar",
+        "timestamp": 1787926822002
       }
     },
     "120363428464897153@g.us": {
@@ -195285,7 +195339,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787926762666,
+    "120363432018531082@g.us": 1787926822002,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787926648480,
