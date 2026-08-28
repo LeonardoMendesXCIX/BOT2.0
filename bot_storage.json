@@ -173,9 +173,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1558,
+        "text": 1560,
         "media": 427,
-        "total": 1985
+        "total": 1987
       },
       "81991328395336": {
         "text": 3940,
@@ -188,9 +188,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2219,
+        "text": 2220,
         "media": 472,
-        "total": 2691
+        "total": 2692
       },
       "184237705699536": {
         "text": 524,
@@ -9950,8 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Bruno Aguiar (+1395881181241): Seja bem vinda!!!",
-        "Bruno Aguiar (+1395881181241): Olha a faca😂😂😂",
         "Gleydson Souza (274384656834700): Bem vinda",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Sempre",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Obrigada pela figurinha",
@@ -10449,7 +10447,9 @@
         "Gabriel (145381035905262): Para com essas conversas kkkk",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @145381035905262",
         "Celiete Souza (129373172711439): Eu queria isso",
-        "Gabriel (145381035905262): Chutaram o balde legal 😂😂😂"
+        "Gabriel (145381035905262): Chutaram o balde legal 😂😂😂",
+        "Gabriel (145381035905262): Nunca nem usei Jequiti",
+        "Celiete Souza (129373172711439): Boa tarde nega 😘"
       ]
     },
     "120363428464897153@g.us": {
@@ -17469,36 +17469,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Isso mesmo",
-        "timestamp": 1787939313397
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Um sol pra casa corno",
-        "timestamp": 1787939318051
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Solteiro",
-        "timestamp": 1787939318390
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "😂😂😂😂",
-        "timestamp": 1787939320974
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "@145381035905262",
-        "timestamp": 1787939332304
-      },
-      {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Tenho experiência em criança pequena, mas não tenho filhos.",
@@ -18097,6 +18067,18 @@
         "authorName": "Gabriel",
         "text": "Chutaram o balde legal 😂😂😂",
         "timestamp": 1787941112620
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Nunca nem usei Jequiti",
+        "timestamp": 1787941133214
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Boa tarde nega 😘",
+        "timestamp": 1787941133749
       }
     ],
     "120363428464897153@g.us": [],
@@ -18214,7 +18196,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22219,
+    "120363432018531082@g.us": 22221,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2075,
@@ -145599,6 +145581,18 @@
         "text": "Chutaram o balde legal 😂😂😂",
         "pushName": "Gabriel",
         "timestamp": 1787941112620
+      },
+      "AC7BC69280110E4A823D6ABCEC822499": {
+        "sender": "145381035905262@lid",
+        "text": "Nunca nem usei Jequiti",
+        "pushName": "Gabriel",
+        "timestamp": 1787941133215
+      },
+      "AC87D47B386C27F97F71110352766ADB": {
+        "sender": "129373172711439@lid",
+        "text": "Boa tarde nega 😘",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787941133749
       }
     },
     "120363428464897153@g.us": {
@@ -198970,7 +198964,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787941117693,
+    "120363432018531082@g.us": 1787941153534,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787940055842,
