@@ -178,9 +178,9 @@
         "total": 1983
       },
       "81991328395336": {
-        "text": 3930,
+        "text": 3931,
         "media": 1333,
-        "total": 5263
+        "total": 5264
       },
       "179040627490824": {
         "text": 433,
@@ -453,9 +453,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1730,
+        "text": 1731,
         "media": 339,
-        "total": 2069
+        "total": 2070
       },
       "252600633041077": {
         "text": 1,
@@ -2603,9 +2603,9 @@
         "total": 30
       },
       "190864487919667": {
-        "text": 325,
+        "text": 327,
         "media": 49,
-        "total": 374
+        "total": 376
       },
       "82227819987089": {
         "text": 2,
@@ -9950,10 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Nickolas (238388519141379): Normal ? Ou visu única ?",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Do jeito que preferir",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Sejam bem vindo jovem🤝🫡",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindo!",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindo",
         "~Gará (83911531044906): Obg",
         "eduardo (37826582323373): eita 😘",
@@ -10449,7 +10445,11 @@
         "Souza (190864487919667): Preciso falar não, a pessoa já sabe",
         "Leandro (+55 (11) 92701-8683): Trabalhamos com nomes",
         "Leandro (+55 (11) 92701-8683): Diga para nós",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tô lá já, aham"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tô lá já, aham",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Quiser fala pra ADM Fifi aqui\nAceito",
+        "Leandro (+55 (11) 92701-8683): Prometemos guardar segredo 🤞🏼",
+        "Souza (190864487919667): Agonia",
+        "Souza (190864487919667): Bando de fofoqueiros"
       ]
     },
     "120363428464897153@g.us": {
@@ -17658,6 +17658,30 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Tô lá já, aham",
         "timestamp": 1787939591048
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Quiser fala pra ADM Fifi aqui\nAceito",
+        "timestamp": 1787939595955
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Prometemos guardar segredo 🤞🏼",
+        "timestamp": 1787939597373
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Agonia",
+        "timestamp": 1787939611485
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Bando de fofoqueiros",
+        "timestamp": 1787939616025
       }
     ],
     "120363428464897153@g.us": [],
@@ -17907,7 +17931,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22132,
+    "120363432018531082@g.us": 22136,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2061,
@@ -144770,6 +144794,30 @@
         "text": "Tô lá já, aham",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787939591048
+      },
+      "ACA60D9CA48E3C2AF93D4FFA8D8B41D9": {
+        "sender": "81991328395336@lid",
+        "text": "Quiser fala pra ADM Fifi aqui\nAceito",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787939595955
+      },
+      "A5A98B3E1B78D73F1C8E80698315AEA3": {
+        "sender": "54259127210155@lid",
+        "text": "Prometemos guardar segredo 🤞🏼",
+        "pushName": "Leandro",
+        "timestamp": 1787939597373
+      },
+      "AC3A25F90C00EA4F851C36745AFCD90C": {
+        "sender": "190864487919667@lid",
+        "text": "Agonia",
+        "pushName": "Souza",
+        "timestamp": 1787939611485
+      },
+      "AC864BF7517D44BCE67FB2510F915FB2": {
+        "sender": "190864487919667@lid",
+        "text": "Bando de fofoqueiros",
+        "pushName": "Souza",
+        "timestamp": 1787939616025
       }
     },
     "120363428464897153@g.us": {
@@ -198063,7 +198111,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787939591048,
+    "120363432018531082@g.us": 1787939616025,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787939104507,
