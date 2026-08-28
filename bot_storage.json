@@ -178,9 +178,9 @@
         "total": 1983
       },
       "81991328395336": {
-        "text": 3927,
+        "text": 3928,
         "media": 1330,
-        "total": 5257
+        "total": 5258
       },
       "179040627490824": {
         "text": 433,
@@ -279,8 +279,8 @@
       },
       "53537388122141": {
         "text": 2290,
-        "media": 314,
-        "total": 2604
+        "media": 315,
+        "total": 2605
       },
       "252922705240205": {
         "text": 80,
@@ -2578,9 +2578,9 @@
         "total": 3
       },
       "234324976738434": {
-        "text": 1,
+        "text": 2,
         "media": 1,
-        "total": 2
+        "total": 3
       },
       "39402768232586": {
         "text": 5,
@@ -2813,9 +2813,9 @@
         "total": 16
       },
       "221307534876912": {
-        "text": 13,
+        "text": 14,
         "media": 18,
-        "total": 31
+        "total": 32
       },
       "238388519141379": {
         "text": 7,
@@ -9940,9 +9940,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Gabi 💋 (247020967165997): Ela não queria perder a família e ela era obcecado igual você por cabaré",
-        "Gabi 💋 (247020967165997): Aí ela descobriu que ele estava com outra no cabaré e cortou ele",
-        "Gabi 💋 (247020967165997): Não julgo ela não",
         "Pedro Henrique (172868239380659): Em Brasília quase não tem, muito difícil achar",
         "Alexandre Bastos (75797868064796): Eita gosta muito de cabaré",
         "Pedro Henrique (172868239380659): Ahhh ele tava traindo ela",
@@ -10439,7 +10436,10 @@
         "Leandro (+55 (11) 92701-8683): Eu também sou casado e muito bem casado, graças a Deus! 🙏🏻",
         "jaciara (108461127897146): Eu sou solteira , não estou atrás de relacionamento kkkk só que se for",
         "Gleydson Souza (274384656834700): Solteiro",
-        "jaciara (108461127897146): Só que meu PV só está liberado se pedir permissão , sem permissão nem adianta mandar mensagem"
+        "jaciara (108461127897146): Só que meu PV só está liberado se pedir permissão , sem permissão nem adianta mandar mensagem",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): 👀",
+        "𝔞𝔩𝔦𝔫𝔢🫶🏽 (221307534876912): Solteira o tristeza",
+        "Breno (234324976738434): Eu solteiro"
       ]
     },
     "120363428464897153@g.us": {
@@ -17504,6 +17504,24 @@
         "authorName": "jaciara",
         "text": "Só que meu PV só está liberado se pedir permissão , sem permissão nem adianta mandar mensagem",
         "timestamp": 1787939131840
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "👀",
+        "timestamp": 1787939145842
+      },
+      {
+        "authorNum": "221307534876912",
+        "authorName": "𝔞𝔩𝔦𝔫𝔢🫶🏽",
+        "text": "Solteira o tristeza",
+        "timestamp": 1787939147325
+      },
+      {
+        "authorNum": "234324976738434",
+        "authorName": "Breno",
+        "text": "Eu solteiro",
+        "timestamp": 1787939153169
       }
     ],
     "120363428464897153@g.us": [],
@@ -17753,7 +17771,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22104,
+    "120363432018531082@g.us": 22107,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2061,
@@ -144448,6 +144466,24 @@
         "text": "Só que meu PV só está liberado se pedir permissão , sem permissão nem adianta mandar mensagem",
         "pushName": "jaciara",
         "timestamp": 1787939131840
+      },
+      "ACB96B2668F9EB641B11F262D090398C": {
+        "sender": "53537388122141@lid",
+        "text": "👀",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787939145842
+      },
+      "AC5F2B32B7E16811E0AE4F522F7E3E11": {
+        "sender": "221307534876912@lid",
+        "text": "Solteira o tristeza",
+        "pushName": "𝔞𝔩𝔦𝔫𝔢🫶🏽",
+        "timestamp": 1787939147325
+      },
+      "3ACFA73005A60F107BD9": {
+        "sender": "234324976738434@lid",
+        "text": "Eu solteiro",
+        "pushName": "Breno",
+        "timestamp": 1787939153169
       }
     },
     "120363428464897153@g.us": {
@@ -197741,7 +197777,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787939131840,
+    "120363432018531082@g.us": 1787939158631,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787939104507,
