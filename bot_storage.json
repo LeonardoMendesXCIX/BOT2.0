@@ -309,8 +309,8 @@
       },
       "120363432018531082": {
         "text": 315,
-        "media": 89,
-        "total": 404
+        "media": 90,
+        "total": 405
       },
       "97535100252296": {
         "text": 96,
@@ -9940,7 +9940,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Gabi 💋 (247020967165997): Tá na Netflix",
         "Gabi 💋 (247020967165997): Olha lá o filme",
         "Pedro Henrique (172868239380659): Qual o nome?",
         "Pedro Henrique (172868239380659): Do filme",
@@ -10439,7 +10438,8 @@
         "Nanda (263797142995147): nem",
         "Bruno Aguiar (+1395881181241): 👀",
         "Arthur (206253020176458): Kkkkkk",
-        "Arthur (206253020176458): E vc faz oq de bom agr"
+        "Arthur (206253020176458): E vc faz oq de bom agr",
+        " (120363432018531082): Tá sim, e já tá tacando as figurinhas\n@81991328395336"
       ]
     },
     "120363428464897153@g.us": {
@@ -17408,12 +17408,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "274384656834700",
-        "authorName": "Gleydson Souza",
-        "text": "Oii",
-        "timestamp": 1787935534817
-      },
-      {
         "authorNum": "206253020176458",
         "authorName": "Arthur",
         "text": "Tem q mata",
@@ -17514,6 +17508,12 @@
         "authorName": "Arthur",
         "text": "E vc faz oq de bom agr",
         "timestamp": 1787937013330
+      },
+      {
+        "authorNum": "120363432018531082",
+        "authorName": "",
+        "text": "Tá sim, e já tá tacando as figurinhas\n@81991328395336",
+        "timestamp": 1787937492943
       }
     ],
     "120363428464897153@g.us": [],
@@ -17552,7 +17552,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22094,
+    "120363432018531082@g.us": 22095,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2024,
@@ -144147,10 +144147,10 @@
         "timestamp": 1787936883373
       },
       "AC90C2B8956B76AC481DF6AE44BF1CEB": {
-        "sender": "53537388122141@lid",
+        "sender": "120363432018531082@g.us",
         "text": "Tá sim, e já tá tacando as figurinhas\n@81991328395336",
-        "pushName": "Sabrina Bartolucci 🤌🏻",
-        "timestamp": 1787936895415
+        "pushName": "",
+        "timestamp": 1787937492943
       },
       "AC0FC61876152F7E0D5BC7C5AEB464E2": {
         "sender": "263797142995147@lid",
@@ -197258,7 +197258,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787937013330,
+    "120363432018531082@g.us": 1787937492943,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787936837794,
