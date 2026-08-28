@@ -1953,9 +1953,9 @@
         "total": 5
       },
       "83911531044906": {
-        "text": 35,
+        "text": 36,
         "media": 2,
-        "total": 37
+        "total": 38
       },
       "172864548434113": {
         "text": 42,
@@ -9865,7 +9865,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Tu removeu o homem aranha pq?",
         "Jk (120542904463568): Sim..sim",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Aqui durante o dia \nLá durante a noite",
         "Leandro (+55 (11) 92701-8683): @81991328395336",
@@ -10364,7 +10363,8 @@
         "~Gará (83911531044906): Amo",
         "Camila Designer (92629643563147): Explique isso melhor 🤣🤣🤣",
         "Souza (190864487919667): Também",
-        "F. RicaRdo sAnToS (193729163993156): Ja ja te explico 🫠🙃"
+        "F. RicaRdo sAnToS (193729163993156): Ja ja te explico 🫠🙃",
+        "~Gará (83911531044906): Tédio"
       ]
     },
     "120363428464897153@g.us": {
@@ -17298,12 +17298,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "11171897864256",
-        "authorName": "🙃🙃🙃",
-        "text": "Oi bom dia",
-        "timestamp": 1787920216083
-      },
-      {
         "authorNum": "274384656834700",
         "authorName": "Gleydson Souza",
         "text": "Bom dia",
@@ -17500,6 +17494,12 @@
         "authorName": "F. RicaRdo sAnToS",
         "text": "Ja ja te explico 🫠🙃",
         "timestamp": 1787921952527
+      },
+      {
+        "authorNum": "83911531044906",
+        "authorName": "~Gará",
+        "text": "Tédio",
+        "timestamp": 1787922107500
       }
     ],
     "120363428464897153@g.us": [],
@@ -17580,7 +17580,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21661,
+    "120363432018531082@g.us": 21662,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2003,
@@ -141656,6 +141656,12 @@
         "text": "Ja ja te explico 🫠🙃",
         "pushName": "F. RicaRdo sAnToS",
         "timestamp": 1787921952527
+      },
+      "ACB22FDDFE689BD451C4A1EE41AB0E7C": {
+        "sender": "83911531044906@lid",
+        "text": "Tédio",
+        "pushName": "~Gará",
+        "timestamp": 1787922107500
       }
     },
     "120363428464897153@g.us": {
@@ -194511,7 +194517,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787921968285,
+    "120363432018531082@g.us": 1787922107500,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787921575912,
