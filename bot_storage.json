@@ -383,9 +383,9 @@
         "total": 485
       },
       "222595437858867": {
-        "text": 501,
+        "text": 503,
         "media": 53,
-        "total": 554
+        "total": 556
       },
       "83280154103884": {
         "text": 36,
@@ -3535,8 +3535,8 @@
     "120363412288900422@g.us": {
       "81991328395336": {
         "text": 476,
-        "media": 122,
-        "total": 598
+        "media": 123,
+        "total": 599
       },
       "5511927018683": {
         "text": 561,
@@ -3544,9 +3544,9 @@
         "total": 666
       },
       "145381035905262": {
-        "text": 463,
-        "media": 152,
-        "total": 615
+        "text": 464,
+        "media": 153,
+        "total": 617
       },
       "53537388122141": {
         "text": 791,
@@ -9950,8 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Camila Designer (92629643563147): Voltei, alguém me atualize 👀",
-        "~Gará (83911531044906): Eu cheguei agr",
         "Camila Designer (92629643563147): Como estão o dia de vocês hein?",
         "Souza (190864487919667): Chato",
         "~Gará (83911531044906): O meu ta parado",
@@ -10449,7 +10447,9 @@
         "Leandro (+55 (11) 92701-8683): A bichinha sabe guardar segredo em",
         "willian (163530946961491): Boa tarde seus lindos ❣️",
         "Gabriel (145381035905262): Lili cantou",
-        "willian (163530946961491): Alvara tá na mão kkkk"
+        "willian (163530946961491): Alvara tá na mão kkkk",
+        "Juliano Perlin (222595437858867): Tarde povo",
+        "Juliano Perlin (222595437858867): 🙋🏻‍♂️"
       ]
     },
     "120363428464897153@g.us": {
@@ -16940,7 +16940,8 @@
         "Leandro (+55 (11) 92701-8683): Todos os dias que chego em casa, tiro trocentos papéis da minha mochila, por que não jogo lixo na rua",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): 😂😂😂",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Povo tem o que fazer não cara?",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Ninguém trabalha nessa porra não?"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Ninguém trabalha nessa porra não?",
+        "Gabriel (145381035905262): Mano, que viagem"
       ]
     },
     "120363411233423709@g.us": {
@@ -17709,6 +17710,18 @@
         "authorName": "willian",
         "text": "Alvara tá na mão kkkk",
         "timestamp": 1787939711966
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Tarde povo",
+        "timestamp": 1787939733966
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "🙋🏻‍♂️",
+        "timestamp": 1787939737752
       }
     ],
     "120363428464897153@g.us": [],
@@ -17953,6 +17966,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Ninguém trabalha nessa porra não?",
         "timestamp": 1787939715387
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Mano, que viagem",
+        "timestamp": 1787939729142
       }
     ],
     "120363411233423709@g.us": [],
@@ -17976,10 +17995,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22140,
+    "120363432018531082@g.us": 22142,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2064,
+    "120363412288900422@g.us": 2065,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -144887,6 +144906,18 @@
         "text": "Alvara tá na mão kkkk",
         "pushName": "willian",
         "timestamp": 1787939711966
+      },
+      "ACB36F67D22CC519F9E31B8FA78CC6E2": {
+        "sender": "222595437858867@lid",
+        "text": "Tarde povo",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1787939733967
+      },
+      "ACA1E44157F73507091288E5D8DF49C4": {
+        "sender": "222595437858867@lid",
+        "text": "🙋🏻‍♂️",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1787939737752
       }
     },
     "120363428464897153@g.us": {
@@ -195365,6 +195396,12 @@
         "text": "Ninguém trabalha nessa porra não?",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787939715387
+      },
+      "ACB956FB0944EE2091DC0B667D712722": {
+        "sender": "145381035905262@lid",
+        "text": "Mano, que viagem",
+        "pushName": "Gabriel",
+        "timestamp": 1787939729142
       }
     },
     "120363411233423709@g.us": {
@@ -198198,10 +198235,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787939711966,
+    "120363432018531082@g.us": 1787939737752,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787939715387,
+    "120363412288900422@g.us": 1787939738645,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
