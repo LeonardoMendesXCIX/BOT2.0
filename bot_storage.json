@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2289,
+        "text": 2290,
         "media": 312,
-        "total": 2601
+        "total": 2602
       },
       "252922705240205": {
         "text": 80,
@@ -1548,9 +1548,9 @@
         "total": 4
       },
       "272048228188398": {
-        "text": 85,
+        "text": 86,
         "media": 15,
-        "total": 100
+        "total": 101
       },
       "55959196049495": {
         "text": 6,
@@ -1863,9 +1863,9 @@
         "total": 6
       },
       "1395881181241": {
-        "text": 146,
+        "text": 147,
         "media": 5,
-        "total": 151
+        "total": 152
       },
       "198595546501333": {
         "text": 2,
@@ -2803,9 +2803,9 @@
         "total": 155
       },
       "206253020176458": {
-        "text": 31,
+        "text": 32,
         "media": 9,
-        "total": 40
+        "total": 41
       },
       "210152934359048": {
         "text": 16,
@@ -2858,9 +2858,9 @@
         "total": 4
       },
       "263797142995147": {
-        "text": 58,
+        "text": 59,
         "media": 4,
-        "total": 62
+        "total": 63
       }
     },
     "120363428464897153@g.us": {
@@ -9940,10 +9940,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Rafael Moura (57707230945348): Morreu gozando pela menos",
-        "Rafael Moura (57707230945348): Amem",
-        "Rafael Moura (57707230945348): 😂",
-        "Gabi 💋 (247020967165997): Concelho de amiga",
         "Pedro Henrique (172868239380659): Pow acho que morrer assim é muita humilhação, imagina o bombeiro te ver pelado com o negócio mole",
         "Gabi 💋 (247020967165997): Menino ele foi cortado",
         "Gabi 💋 (247020967165997): Tá na Netflix",
@@ -10439,7 +10435,11 @@
         "Camila Designer (92629643563147): Boa tarde pessoal!",
         "Arthur (206253020176458): Boaa",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Tá sim, e já tá tacando as figurinhas\n@81991328395336",
-        "Nanda (263797142995147): 19"
+        "Nanda (263797142995147): 19",
+        "Arthur (206253020176458): Vc fazia isso de six seven",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Acesse este link para entrar no meu grupo do WhatsApp: https://chat.whatsapp.com/LjudUJTLkZQDIyER0LAwHJ?s=sh&p=a&mlu=0",
+        "Nanda (263797142995147): nem",
+        "Bruno Aguiar (+1395881181241): 👀"
       ]
     },
     "120363428464897153@g.us": {
@@ -17478,6 +17478,30 @@
         "authorName": "Nanda",
         "text": "19",
         "timestamp": 1787936897334
+      },
+      {
+        "authorNum": "206253020176458",
+        "authorName": "Arthur",
+        "text": "Vc fazia isso de six seven",
+        "timestamp": 1787936932402
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Acesse este link para entrar no meu grupo do WhatsApp: https://chat.whatsapp.com/LjudUJTLkZQDIyER0LAwHJ?s=sh&p=a&mlu=0",
+        "timestamp": 1787936940711
+      },
+      {
+        "authorNum": "263797142995147",
+        "authorName": "Nanda",
+        "text": "nem",
+        "timestamp": 1787936955580
+      },
+      {
+        "authorNum": "1395881181241",
+        "authorName": "Bruno Aguiar",
+        "text": "👀",
+        "timestamp": 1787936957826
       }
     ],
     "120363428464897153@g.us": [],
@@ -17516,7 +17540,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22088,
+    "120363432018531082@g.us": 22092,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2024,
@@ -144121,6 +144145,30 @@
         "text": "19",
         "pushName": "Nanda",
         "timestamp": 1787936897334
+      },
+      "ACB2F76890FE708B2D0A013489BE5644": {
+        "sender": "206253020176458@lid",
+        "text": "Vc fazia isso de six seven",
+        "pushName": "Arthur",
+        "timestamp": 1787936932402
+      },
+      "AC4A11739697435FAC49D4AECEFE7CB6": {
+        "sender": "53537388122141@lid",
+        "text": "Acesse este link para entrar no meu grupo do WhatsApp: https://chat.whatsapp.com/LjudUJTLkZQDIyER0LAwHJ?s=sh&p=a&mlu=0",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787936940711
+      },
+      "ACB4EBBA6D24055368BF1F5EA627376B": {
+        "sender": "263797142995147@lid",
+        "text": "nem",
+        "pushName": "Nanda",
+        "timestamp": 1787936955580
+      },
+      "ACE6F860898970A2A62CF7A7455AC9DE": {
+        "sender": "1395881181241@lid",
+        "text": "👀",
+        "pushName": "Bruno Aguiar",
+        "timestamp": 1787936957826
       }
     },
     "120363428464897153@g.us": {
@@ -197186,7 +197234,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787936906588,
+    "120363432018531082@g.us": 1787936957826,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787936837794,
