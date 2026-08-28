@@ -173,9 +173,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1534,
+        "text": 1535,
         "media": 424,
-        "total": 1958
+        "total": 1959
       },
       "81991328395336": {
         "text": 3923,
@@ -3935,9 +3935,9 @@
         "total": 136
       },
       "5511927018683": {
-        "text": 53,
+        "text": 54,
         "media": 10,
-        "total": 63
+        "total": 64
       },
       "30486281900223": {
         "text": 1,
@@ -9900,7 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Gabi 💋 (247020967165997): Quem deve está com doença é tu",
         "Pedro Henrique (172868239380659): Cuidado, ela vai achar que significa algo",
         "𝔞𝔩𝔦𝔫𝔢🫶🏽 (221307534876912): Kkkk",
         "Rafael Moura (57707230945348): Aline so botando lenha na fogueira",
@@ -10399,7 +10398,8 @@
         "jaciara (108461127897146): Hoje me dia os homens querem ir pra casa da mulher no primeiro encontro kkkkkk",
         "Celiete Souza (129373172711439): Isso vai depender da conexão, na minha opinião pode sim acontecer e ser maravilhoso",
         "Souza (190864487919667): Mas ir pro primeiro encontro já pensando nisso, pra mim não rola",
-        "Souza (190864487919667): Deixa fluir"
+        "Souza (190864487919667): Deixa fluir",
+        "Celiete Souza (129373172711439): Deixar fluir, sem pressão, e outra a mulher sabe e senti sobre as intenções do homem."
       ]
     },
     "120363428464897153@g.us": {
@@ -17314,7 +17314,8 @@
         "Leandro (+55 (11) 92701-8683): !fechar",
         "Leandro (+55 (11) 92701-8683): Pqp",
         "Leandro (+55 (11) 92701-8683): Se for com a boca de baixo 🤭",
-        "Leandro (+55 (11) 92701-8683): !abrir"
+        "Leandro (+55 (11) 92701-8683): !abrir",
+        "Leandro (+55 (11) 92701-8683): Boa tarde a @all"
       ]
     },
     "120363411043114631@g.us": {
@@ -17342,24 +17343,6 @@
   },
   "memoryCluster": {
     "120363432018531082@g.us": [
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Só tem maluco no grupo 😂😂😂",
-        "timestamp": 1787929251914
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Fazemos algumas exigências kkkkk",
-        "timestamp": 1787929260145
-      },
-      {
-        "authorNum": "83911531044906",
-        "authorName": "~Gará",
-        "text": "Manda a lista",
-        "timestamp": 1787929277745
-      },
       {
         "authorNum": "108461127897146",
         "authorName": "jaciara",
@@ -17875,6 +17858,12 @@
         "authorName": "Souza",
         "text": "Deixa fluir",
         "timestamp": 1787931043458
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Deixar fluir, sem pressão, e outra a mulher sabe e senti sobre as intenções do homem.",
+        "timestamp": 1787931085223
       }
     ],
     "120363428464897153@g.us": [],
@@ -17889,6 +17878,12 @@
         "authorName": "Leandro",
         "text": "!abrir",
         "timestamp": 1787931043856
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Boa tarde a @all",
+        "timestamp": 1787931057405
       }
     ],
     "120363050678635389@g.us": [],
@@ -17901,14 +17896,14 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21970,
+    "120363432018531082@g.us": 21971,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
-    "120363409024805409@g.us": 71,
+    "120363409024805409@g.us": 72,
     "120363050678635389@g.us": 1,
     "120363411043114631@g.us": 20
   },
@@ -143805,6 +143800,12 @@
         "text": "Deixa fluir",
         "pushName": "Souza",
         "timestamp": 1787931043458
+      },
+      "AC056940053B37D16B540EC60E439EED": {
+        "sender": "129373172711439@lid",
+        "text": "Deixar fluir, sem pressão, e outra a mulher sabe e senti sobre as intenções do homem.",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787931085223
       }
     },
     "120363428464897153@g.us": {
@@ -196517,6 +196518,12 @@
         "text": "!abrir",
         "pushName": "Leandro",
         "timestamp": 1787931043856
+      },
+      "A5D8E5C417B45B95E0AA16B590C0E775": {
+        "sender": "54259127210155@lid",
+        "text": "Boa tarde a @all",
+        "pushName": "Leandro",
+        "timestamp": 1787931057405
       }
     },
     "120363050678635389@g.us": {
@@ -196720,7 +196727,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787931043458,
+    "120363432018531082@g.us": 1787931085223,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
@@ -196731,7 +196738,7 @@
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1787868477291,
-    "120363409024805409@g.us": 1787931043856,
+    "120363409024805409@g.us": 1787931057405,
     "120363411043114631@g.us": 1787897464612
   },
   "autoAnimSent": {
