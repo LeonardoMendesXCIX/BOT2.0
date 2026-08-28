@@ -1953,9 +1953,9 @@
         "total": 5
       },
       "83911531044906": {
-        "text": 53,
+        "text": 54,
         "media": 3,
-        "total": 56
+        "total": 57
       },
       "172864548434113": {
         "text": 42,
@@ -2708,9 +2708,9 @@
         "total": 2
       },
       "108461127897146": {
-        "text": 53,
+        "text": 54,
         "media": 5,
-        "total": 58
+        "total": 59
       },
       "10050861031495": {
         "text": 0,
@@ -9900,8 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Pedro Henrique (172868239380659): Sem ser no cabaré",
-        "Gabi 💋 (247020967165997): Meu Deus",
         "Pedro Henrique (172868239380659): Já criei a primeira discórdia da sexta, agora iremos trabalhar",
         "Jessica (208958782488665): Por essas e outras que eu não saio com ninguém. Hoje dia de academia se louco",
         "Gabi 💋 (247020967165997): Discórdia não \nVirou piada ksksks",
@@ -10399,7 +10397,9 @@
         "jaciara (108461127897146): Fazemos algumas exigências kkkkk",
         "~Gará (83911531044906): Manda a lista",
         "jaciara (108461127897146): Primeiramente qual a idade , dependendo da idade aí eu e a bebê pensamos se mandamos a lista",
-        "F. RicaRdo sAnToS (193729163993156): Cuidado com os cara q tem perfil nas gestantes @108461127897146"
+        "F. RicaRdo sAnToS (193729163993156): Cuidado com os cara q tem perfil nas gestantes @108461127897146",
+        "~Gará (83911531044906): Tenho 33",
+        "jaciara (108461127897146): Sim sim , eu sou bem esperta em relação a isso"
       ]
     },
     "120363428464897153@g.us": {
@@ -17342,12 +17342,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Todas",
-        "timestamp": 1787927533566
-      },
-      {
         "authorNum": "206253020176458",
         "authorName": "Arthur",
         "text": "Q lindaa",
@@ -17796,6 +17790,18 @@
         "authorName": "F. RicaRdo sAnToS",
         "text": "Cuidado com os cara q tem perfil nas gestantes @108461127897146",
         "timestamp": 1787929333501
+      },
+      {
+        "authorNum": "83911531044906",
+        "authorName": "~Gará",
+        "text": "Tenho 33",
+        "timestamp": 1787929355537
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Sim sim , eu sou bem esperta em relação a isso",
+        "timestamp": 1787929360059
       }
     ],
     "120363428464897153@g.us": [],
@@ -17822,7 +17828,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21886,
+    "120363432018531082@g.us": 21888,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -143228,6 +143234,18 @@
         "text": "Cuidado com os cara q tem perfil nas gestantes @108461127897146",
         "pushName": "F. RicaRdo sAnToS",
         "timestamp": 1787929333501
+      },
+      "AC4A1316610D9898E7F3289867B7748C": {
+        "sender": "83911531044906@lid",
+        "text": "Tenho 33",
+        "pushName": "~Gará",
+        "timestamp": 1787929355537
+      },
+      "ACFC32B651D20ED8C17B377EEE65DAF4": {
+        "sender": "108461127897146@lid",
+        "text": "Sim sim , eu sou bem esperta em relação a isso",
+        "pushName": "jaciara",
+        "timestamp": 1787929360059
       }
     },
     "120363428464897153@g.us": {
@@ -196137,7 +196155,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787929340587,
+    "120363432018531082@g.us": 1787929360059,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
