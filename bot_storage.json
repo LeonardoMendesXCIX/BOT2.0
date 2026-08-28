@@ -453,9 +453,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1700,
+        "text": 1702,
         "media": 330,
-        "total": 2030
+        "total": 2032
       },
       "252600633041077": {
         "text": 1,
@@ -9894,7 +9894,9 @@
         " (120363432018531082): @54259127210155",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @54259127210155",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Vem conversa tbm",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Parem de manda caixinha"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Parem de manda caixinha",
+        "Leandro (+55 (11) 92701-8683): Então",
+        "Leandro (+55 (11) 92701-8683): Em vez de conversar, mandam caixinha"
       ]
     },
     "120363428464897153@g.us": {
@@ -16920,6 +16922,18 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Parem de manda caixinha",
         "timestamp": 1787899449639
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Então",
+        "timestamp": 1787899492926
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Em vez de conversar, mandam caixinha",
+        "timestamp": 1787899502396
       }
     ],
     "120363428464897153@g.us": [
@@ -16937,32 +16951,7 @@
     "120363411246936023@g.us": [],
     "120363409024805409@g.us": [],
     "120363050678635389@g.us": [],
-    "120363411043114631@g.us": [
-      {
-        "authorNum": "153764728184839",
-        "authorName": "Eduardo",
-        "text": "!sorteios",
-        "timestamp": 1787897421165
-      },
-      {
-        "authorNum": "153764728184839",
-        "authorName": "Eduardo",
-        "text": "!sorteio",
-        "timestamp": 1787897425692
-      },
-      {
-        "authorNum": "153764728184839",
-        "authorName": "Eduardo",
-        "text": "!sorteio",
-        "timestamp": 1787897438113
-      },
-      {
-        "authorNum": "153764728184839",
-        "authorName": "Eduardo",
-        "text": "!all",
-        "timestamp": 1787897464612
-      }
-    ]
+    "120363411043114631@g.us": []
   },
   "lastJarvisIntervention": {
     "120363409727467494@g.us": 1786781516987,
@@ -16971,7 +16960,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21172,
+    "120363432018531082@g.us": 21174,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1989,
@@ -138133,6 +138122,18 @@
         "text": "Parem de manda caixinha",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787899449639
+      },
+      "A5DB308CE5352057008E938740ACB6EB": {
+        "sender": "54259127210155@lid",
+        "text": "Então",
+        "pushName": "Leandro",
+        "timestamp": 1787899492926
+      },
+      "A5DADFF184D0B2FA1FB02132CB614C9B": {
+        "sender": "54259127210155@lid",
+        "text": "Em vez de conversar, mandam caixinha",
+        "pushName": "Leandro",
+        "timestamp": 1787899502396
       }
     },
     "120363428464897153@g.us": {
@@ -190904,7 +190905,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787899449639,
+    "120363432018531082@g.us": 1787899502396,
     "120363428464897153@g.us": 1787898005021,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787894166886,
