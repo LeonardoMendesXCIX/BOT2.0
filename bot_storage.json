@@ -2567,9 +2567,9 @@
         "total": 21
       },
       "190864487919667": {
-        "text": 175,
+        "text": 178,
         "media": 33,
-        "total": 208
+        "total": 211
       },
       "82227819987089": {
         "text": 2,
@@ -2720,8 +2720,8 @@
       },
       "1645576491019": {
         "text": 332,
-        "media": 126,
-        "total": 458
+        "media": 127,
+        "total": 459
       },
       "262182034002040": {
         "text": 326,
@@ -3009,9 +3009,9 @@
         "total": 2
       },
       "53537388122141": {
-        "text": 65,
+        "text": 69,
         "media": 0,
-        "total": 65
+        "total": 69
       },
       "253626509443178": {
         "text": 3,
@@ -3280,8 +3280,8 @@
       },
       "190864487919667": {
         "text": 0,
-        "media": 1,
-        "total": 1
+        "media": 2,
+        "total": 2
       }
     },
     "120363409727467494@g.us": {
@@ -9165,8 +9165,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Souza (190864487919667): Se fudeu",
-        "Souza (190864487919667): Se",
         "Souza (190864487919667): Fu",
         "Souza (190864487919667): Deu",
         "Souza (190864487919667): Ela achou teu erro",
@@ -9664,7 +9662,9 @@
         "jaciara (108461127897146): Obrigada maravilhosa",
         "Pedro Henrique (172868239380659): KKK brincadeira",
         "jaciara (108461127897146): Vc mora onde ?",
-        "Pedro Henrique (172868239380659): Brasília"
+        "Pedro Henrique (172868239380659): Brasília",
+        "Souza (190864487919667): Morreu aqui",
+        "Souza (190864487919667): Cabaré abrir"
       ]
     },
     "120363428464897153@g.us": {
@@ -13523,7 +13523,9 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Aguentei não",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Tô vendo",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Abriu nada 😂😂",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): !abrir"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): !abrir",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Kabaré aberto, pessoal",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Muito bem"
       ]
     },
     "120363409727467494@g.us": {
@@ -15958,36 +15960,6 @@
       {
         "authorNum": "155503636275307",
         "authorName": "Clayton 🇳🇬",
-        "text": "Como foi seu dia Sabrina",
-        "timestamp": 1787874031352
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Tranquilinho e o seu? Como foi?",
-        "timestamp": 1787874043184
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Como foi o dia de vocês povo?",
-        "timestamp": 1787874048581
-      },
-      {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "Fim de ano vou mesmo",
-        "timestamp": 1787874052150
-      },
-      {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "Ja estive la ano passado",
-        "timestamp": 1787874063115
-      },
-      {
-        "authorNum": "155503636275307",
-        "authorName": "Clayton 🇳🇬",
         "text": "Foi corrido mais foi ótimo",
         "timestamp": 1787874112530
       },
@@ -16692,6 +16664,18 @@
         "authorName": "Pedro Henrique",
         "text": "Brasília",
         "timestamp": 1787875657456
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Morreu aqui",
+        "timestamp": 1787875901260
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Cabaré abrir",
+        "timestamp": 1787875904328
       }
     ],
     "120363428464897153@g.us": [
@@ -16766,6 +16750,18 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "!abrir",
         "timestamp": 1787875874046
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Kabaré aberto, pessoal",
+        "timestamp": 1787875884639
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Muito bem",
+        "timestamp": 1787875894649
       }
     ],
     "120363409727467494@g.us": [],
@@ -16898,8 +16894,8 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20963,
-    "120363428464897153@g.us": 6004,
+    "120363432018531082@g.us": 20965,
+    "120363428464897153@g.us": 6006,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1684,
     "120363411233423709@g.us": 5,
@@ -136829,6 +136825,18 @@
         "text": "Brasília",
         "pushName": "Pedro Henrique",
         "timestamp": 1787875657456
+      },
+      "AC8DA5CBF49C757A30F54BDC9FE788B7": {
+        "sender": "190864487919667@lid",
+        "text": "Morreu aqui",
+        "pushName": "Souza",
+        "timestamp": 1787875901260
+      },
+      "AC78EE267A206DFE1787CE658548B323": {
+        "sender": "190864487919667@lid",
+        "text": "Cabaré abrir",
+        "pushName": "Souza",
+        "timestamp": 1787875904328
       }
     },
     "120363428464897153@g.us": {
@@ -172033,6 +172041,18 @@
         "text": "!abrir",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787875874046
+      },
+      "ACC6FC29F173469EA9C8095899112975": {
+        "sender": "53537388122141@lid",
+        "text": "Kabaré aberto, pessoal",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787875884639
+      },
+      "AC1BD290440AD8F68E356D7B88967491": {
+        "sender": "53537388122141@lid",
+        "text": "Muito bem",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787875894649
       }
     },
     "120363409727467494@g.us": {
@@ -185896,8 +185916,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787875657456,
-    "120363428464897153@g.us": 1787875874046,
+    "120363432018531082@g.us": 1787875910688,
+    "120363428464897153@g.us": 1787875908993,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787875833838,
     "120363411233423709@g.us": 1787113553426,
