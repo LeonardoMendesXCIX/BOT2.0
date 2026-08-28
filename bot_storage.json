@@ -309,8 +309,8 @@
       },
       "120363432018531082": {
         "text": 315,
-        "media": 86,
-        "total": 401
+        "media": 87,
+        "total": 402
       },
       "97535100252296": {
         "text": 96,
@@ -2825,6 +2825,11 @@
       "269625715650683": {
         "text": 1,
         "media": 0,
+        "total": 1
+      },
+      "94227841179800": {
+        "text": 0,
+        "media": 1,
         "total": 1
       }
     },
@@ -9865,8 +9870,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): 🤡",
-        "Leandro (+55 (11) 92701-8683): Pensei a mesma coisa",
         " (120363432018531082): @54259127210155",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @54259127210155",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Vem conversa tbm",
@@ -10364,7 +10367,9 @@
         "Arthur (206253020176458): Eoq",
         "F. RicaRdo sAnToS (193729163993156): Parece que o povo tem tesao em pão 🍞 e com alguma sobremesa kk",
         "Camila Designer (92629643563147): Gente tenham amigos assim",
-        "Camila Designer (92629643563147): 🤣🤣🤣🤣🤣"
+        "Camila Designer (92629643563147): 🤣🤣🤣🤣🤣",
+        "amanda🫶 (94227841179800): 💥 BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Queremos conhecer você! \n💬 Nome:amanda\n🎂 Idade:34anos\n📍 De onde sou:Rj\n\n*🫶🏻 Seja bem-vindo(a)!*",
+        " (120363432018531082): 💥 BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Queremos conhecer você! \n💬 Nome:amanda\n🎂 Idade:34anos\n📍 De onde sou:Rj\n\n*🫶🏻 Seja bem-vindo(a)!*"
       ]
     },
     "120363428464897153@g.us": {
@@ -17482,6 +17487,18 @@
         "authorName": "Camila Designer",
         "text": "🤣🤣🤣🤣🤣",
         "timestamp": 1787922388157
+      },
+      {
+        "authorNum": "94227841179800",
+        "authorName": "amanda🫶",
+        "text": "💥 BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Queremos conhecer você! \n💬 Nome:amanda\n🎂 Idade:34anos\n📍 De onde sou:Rj\n\n*🫶🏻 Seja bem-vindo(a)!*",
+        "timestamp": 1787922699328
+      },
+      {
+        "authorNum": "120363432018531082",
+        "authorName": "",
+        "text": "💥 BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Queremos conhecer você! \n💬 Nome:amanda\n🎂 Idade:34anos\n📍 De onde sou:Rj\n\n*🫶🏻 Seja bem-vindo(a)!*",
+        "timestamp": 1787922699941
       }
     ],
     "120363428464897153@g.us": [],
@@ -17562,7 +17579,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21666,
+    "120363432018531082@g.us": 21668,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2003,
@@ -141668,6 +141685,12 @@
         "text": "🤣🤣🤣🤣🤣",
         "pushName": "Camila Designer",
         "timestamp": 1787922388157
+      },
+      "AC21A32842880101EB1F6818FDD59F2F": {
+        "sender": "120363432018531082@g.us",
+        "text": "💥 BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Queremos conhecer você! \n💬 Nome:amanda\n🎂 Idade:34anos\n📍 De onde sou:Rj\n\n*🫶🏻 Seja bem-vindo(a)!*",
+        "pushName": "",
+        "timestamp": 1787922699941
       }
     },
     "120363428464897153@g.us": {
@@ -194523,7 +194546,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787922388157,
+    "120363432018531082@g.us": 1787922699941,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787921575912,
