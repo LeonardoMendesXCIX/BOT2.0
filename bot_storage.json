@@ -2838,9 +2838,9 @@
         "total": 8
       },
       "227783724793861": {
-        "text": 3,
+        "text": 4,
         "media": 1,
-        "total": 4
+        "total": 5
       },
       "159304631980141": {
         "text": 1,
@@ -9930,7 +9930,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Pedro Henrique (172868239380659): Eu nem ligo, sou da zoeira",
         "Gabi 💋 (247020967165997): Peço perdão",
         "Pedro Henrique (172868239380659): Não fui eu que partiu pra ofensa de primeira kkkk",
         "Pedro Henrique (172868239380659): Relaxa sem problema",
@@ -10429,7 +10428,8 @@
         "Rafael Moura (57707230945348): Paz amor e muito miojo",
         "Bruno Aguiar (+1395881181241): É bom repor as energias",
         "Bruno Aguiar (+1395881181241): Oiii",
-        "Rafael Moura (57707230945348): Vai uma coquinha?"
+        "Rafael Moura (57707230945348): Vai uma coquinha?",
+        "May (227783724793861): Que lindaaa"
       ]
     },
     "120363428464897153@g.us": {
@@ -17387,60 +17387,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "O menino triste",
-        "timestamp": 1787931408484
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Só queria outro irmãozinho",
-        "timestamp": 1787931416558
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Kkkkk no dia ele não gostou muito não",
-        "timestamp": 1787931444372
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Só que hoje ele já acostumou",
-        "timestamp": 1787931451952
-      },
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Sim entendo tua colocação, mas isso ao me ver seria após uma conexão e entendimento das situações financeiras dos dois, um exemplo eu e meu ex marido qdo estávamos namorando, a gente dividia as contas porque tínhamos um propósito juntos",
-        "timestamp": 1787931461220
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Fazer o que né 😌",
-        "timestamp": 1787931502223
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Boa tarde a @all",
-        "timestamp": 1787931513540
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Bora dar o play no fim de semana?",
-        "timestamp": 1787931526981
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Só amanhã às 12",
-        "timestamp": 1787931534418
-      },
-      {
         "authorNum": "57707230945348",
         "authorName": "Rafael Moura",
         "text": "👀",
@@ -17697,6 +17643,12 @@
         "authorName": "Rafael Moura",
         "text": "Vai uma coquinha?",
         "timestamp": 1787933143047
+      },
+      {
+        "authorNum": "227783724793861",
+        "authorName": "May",
+        "text": "Que lindaaa",
+        "timestamp": 1787933339423
       }
     ],
     "120363428464897153@g.us": [],
@@ -17796,7 +17748,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22039,
+    "120363432018531082@g.us": 22040,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2014,
@@ -144108,6 +144060,12 @@
         "text": "Vai uma coquinha?",
         "pushName": "Rafael Moura",
         "timestamp": 1787933143048
+      },
+      "AC057105CCE6528FCD6B96B818CCFBC9": {
+        "sender": "227783724793861@lid",
+        "text": "Que lindaaa",
+        "pushName": "May",
+        "timestamp": 1787933339423
       }
     },
     "120363428464897153@g.us": {
@@ -197107,7 +197065,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787933172722,
+    "120363432018531082@g.us": 1787933339423,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787932967702,
