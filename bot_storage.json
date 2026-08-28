@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2256,
+        "text": 2258,
         "media": 306,
-        "total": 2562
+        "total": 2564
       },
       "252922705240205": {
         "text": 80,
@@ -2840,6 +2840,11 @@
       "227783724793861": {
         "text": 0,
         "media": 1,
+        "total": 1
+      },
+      "159304631980141": {
+        "text": 1,
+        "media": 0,
         "total": 1
       }
     },
@@ -9880,8 +9885,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): *Bom dia pessoal, que Deus abençoe o nosso dia, nossa sexta-feira, que tenhamos um dia produtivo e cheio de surpresas boas, a todos um bom final de semana!*❣️✨",
-        "Leandro (+55 (11) 92701-8683): Bom dia meu amor, amém! Deus abençoe todos nós! 🙏🏻🙌🏻",
         "Leandro (+55 (11) 92701-8683): Bom dia a @all",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): O casal que não dormi",
         "Leandro (+55 (11) 92701-8683): Pois então",
@@ -10379,7 +10382,9 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Bem vinda 🩷",
         "May (227783724793861): 💥 BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Queremos conhecer você! ✨\n\n📸 Sua foto:\n💬 Nome:May\n🎂 Idade:37\n📍 De onde sou: Matinhos/Curitiba",
         "Souza (190864487919667): Cidade de novo estranha",
-        "Souza (190864487919667): Bem vinda May"
+        "Souza (190864487919667): Bem vinda May",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vinda!!!",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vinda"
       ]
     },
     "120363428464897153@g.us": {
@@ -17317,18 +17322,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "83911531044906",
-        "authorName": "~Gará",
-        "text": "Amo",
-        "timestamp": 1787921820480
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Explique isso melhor 🤣🤣🤣",
-        "timestamp": 1787921869334
-      },
-      {
         "authorNum": "190864487919667",
         "authorName": "Souza",
         "text": "Também",
@@ -17483,6 +17476,18 @@
         "authorName": "Souza",
         "text": "Bem vinda May",
         "timestamp": 1787923587160
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Bem vinda!!!",
+        "timestamp": 1787923655880
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Bem vinda",
+        "timestamp": 1787923674363
       }
     ],
     "120363428464897153@g.us": [],
@@ -17527,7 +17532,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21685,
+    "120363432018531082@g.us": 21687,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2007,
@@ -141740,6 +141745,18 @@
         "text": "Bem vinda May",
         "pushName": "Souza",
         "timestamp": 1787923587160
+      },
+      "ACB01BF69658028E4064B9E4D330A99D": {
+        "sender": "53537388122141@lid",
+        "text": "Bem vinda!!!",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787923655880
+      },
+      "AC376050BFDA52B59713BEC2E8CB26F5": {
+        "sender": "53537388122141@lid",
+        "text": "Bem vinda",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787923674363
       }
     },
     "120363428464897153@g.us": {
@@ -194619,7 +194636,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787923649516,
+    "120363432018531082@g.us": 1787923674363,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787923635894,
