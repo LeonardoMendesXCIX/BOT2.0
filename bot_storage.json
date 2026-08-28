@@ -2904,9 +2904,9 @@
         "total": 1
       },
       "92629643563147": {
-        "text": 568,
-        "media": 382,
-        "total": 950
+        "text": 569,
+        "media": 383,
+        "total": 952
       },
       "122552932372575": {
         "text": 0,
@@ -2944,9 +2944,9 @@
         "total": 9
       },
       "129373172711439": {
-        "text": 904,
+        "text": 906,
         "media": 232,
-        "total": 1136
+        "total": 1138
       },
       "16007578021977": {
         "text": 50,
@@ -3289,9 +3289,9 @@
         "total": 1
       },
       "190864487919667": {
-        "text": 33,
+        "text": 35,
         "media": 6,
-        "total": 39
+        "total": 41
       },
       "118515428286715": {
         "text": 8,
@@ -3299,9 +3299,9 @@
         "total": 10
       },
       "274384656834700": {
-        "text": 1,
+        "text": 2,
         "media": 2,
-        "total": 3
+        "total": 4
       },
       "34626781356198": {
         "text": 0,
@@ -13677,7 +13677,10 @@
         "Celiete Souza (129373172711439): Bom, só posso dizer que todos os novos precisariam mostrar seus requisitos a fim de aprimorar o bom andamento do grupo",
         "Juliano Perlin (222595437858867): Bem q fez",
         "Camila Designer (92629643563147): Seja mais clara amiga",
-        "Celiete Souza (129373172711439): Né @92629643563147"
+        "Celiete Souza (129373172711439): Né @92629643563147",
+        "Camila Designer (92629643563147): Calma gente, estou treinando a @129373172711439",
+        "Celiete Souza (129373172711439): Ou seja: peitoral, altura, peso e voz",
+        "Celiete Souza (129373172711439): Tá bom assim!"
       ]
     },
     "120363409727467494@g.us": {
@@ -16626,6 +16629,24 @@
         "authorName": "Celiete Souza",
         "text": "Né @92629643563147",
         "timestamp": 1787879217510
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Calma gente, estou treinando a @129373172711439",
+        "timestamp": 1787879238004
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Ou seja: peitoral, altura, peso e voz",
+        "timestamp": 1787879243535
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Tá bom assim!",
+        "timestamp": 1787879251833
       }
     ],
     "120363409727467494@g.us": [],
@@ -16693,7 +16714,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 21031,
-    "120363428464897153@g.us": 6123,
+    "120363428464897153@g.us": 6126,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1711,
     "120363411233423709@g.us": 5,
@@ -172961,6 +172982,24 @@
         "text": "Né @92629643563147",
         "pushName": "Celiete Souza",
         "timestamp": 1787879217510
+      },
+      "2AA887B73D5A7828E4E1": {
+        "sender": "92629643563147@lid",
+        "text": "Calma gente, estou treinando a @129373172711439",
+        "pushName": "Camila Designer",
+        "timestamp": 1787879238004
+      },
+      "AC89E9B17E4E6136241B63499A6C1C0B": {
+        "sender": "129373172711439@lid",
+        "text": "Ou seja: peitoral, altura, peso e voz",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787879243535
+      },
+      "ACD5DA8F625F6A11AD79EBA746D97482": {
+        "sender": "129373172711439@lid",
+        "text": "Tá bom assim!",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787879251833
       }
     },
     "120363409727467494@g.us": {
@@ -187005,7 +187044,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787878669226,
-    "120363428464897153@g.us": 1787879222527,
+    "120363428464897153@g.us": 1787879254161,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787877736241,
     "120363411233423709@g.us": 1787113553426,
