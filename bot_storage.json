@@ -2910,8 +2910,8 @@
       },
       "92629643563147": {
         "text": 572,
-        "media": 386,
-        "total": 958
+        "media": 387,
+        "total": 959
       },
       "122552932372575": {
         "text": 0,
@@ -2949,9 +2949,9 @@
         "total": 9
       },
       "129373172711439": {
-        "text": 919,
+        "text": 921,
         "media": 234,
-        "total": 1153
+        "total": 1155
       },
       "16007578021977": {
         "text": 50,
@@ -3294,19 +3294,19 @@
         "total": 1
       },
       "190864487919667": {
-        "text": 37,
+        "text": 39,
         "media": 9,
-        "total": 46
+        "total": 48
       },
       "118515428286715": {
-        "text": 12,
-        "media": 2,
-        "total": 14
+        "text": 13,
+        "media": 3,
+        "total": 16
       },
       "274384656834700": {
-        "text": 6,
+        "text": 8,
         "media": 2,
-        "total": 8
+        "total": 10
       },
       "34626781356198": {
         "text": 0,
@@ -13702,7 +13702,11 @@
         "Saul (118515428286715): Vou mudar, de não tenho 25, tenho 52",
         "Alexandre Bastos (75797868064796): Eu tenho 35",
         "Celiete Souza (129373172711439): Não exagere",
-        "Camila Designer (92629643563147): @129373172711439 ouvir falar que Mucilon é o segredo para não envelhecer 😏🤣🤣🤣"
+        "Camila Designer (92629643563147): @129373172711439 ouvir falar que Mucilon é o segredo para não envelhecer 😏🤣🤣🤣",
+        "Saul (118515428286715): Que horas a porta do kbare abre ?",
+        "Souza (190864487919667): Já tá aberto",
+        "Celiete Souza (129373172711439): Ouviu né",
+        "Gleydson Souza (274384656834700): Esse é o segredo que poucas contam"
       ]
     },
     "120363409727467494@g.us": {
@@ -16221,12 +16225,6 @@
     ],
     "120363428464897153@g.us": [
       {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Faça as honras",
-        "timestamp": 1787878042687
-      },
-      {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
         "text": "Só administro",
@@ -16717,6 +16715,30 @@
         "authorName": "Camila Designer",
         "text": "@129373172711439 ouvir falar que Mucilon é o segredo para não envelhecer 😏🤣🤣🤣",
         "timestamp": 1787879808705
+      },
+      {
+        "authorNum": "118515428286715",
+        "authorName": "Saul",
+        "text": "Que horas a porta do kbare abre ?",
+        "timestamp": 1787879819055
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Já tá aberto",
+        "timestamp": 1787879824843
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Ouviu né",
+        "timestamp": 1787879838419
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Esse é o segredo que poucas contam",
+        "timestamp": 1787879844122
       }
     ],
     "120363409727467494@g.us": [],
@@ -16735,7 +16757,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 21033,
-    "120363428464897153@g.us": 6143,
+    "120363428464897153@g.us": 6147,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1711,
     "120363411233423709@g.us": 5,
@@ -173104,6 +173126,30 @@
         "text": "@129373172711439 ouvir falar que Mucilon é o segredo para não envelhecer 😏🤣🤣🤣",
         "pushName": "Camila Designer",
         "timestamp": 1787879808705
+      },
+      "3A629FF562D96626E1BF": {
+        "sender": "118515428286715@lid",
+        "text": "Que horas a porta do kbare abre ?",
+        "pushName": "Saul",
+        "timestamp": 1787879819055
+      },
+      "AC134894D18642F70D68CFCD6743DD41": {
+        "sender": "190864487919667@lid",
+        "text": "Já tá aberto",
+        "pushName": "Souza",
+        "timestamp": 1787879824843
+      },
+      "ACDDAFBE823ACF9480D5B19D2CBBB6F2": {
+        "sender": "129373172711439@lid",
+        "text": "Ouviu né",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787879838419
+      },
+      "AC5FFEF06317A8ED0C1D247C331B9D81": {
+        "sender": "274384656834700@lid",
+        "text": "Esse é o segredo que poucas contam",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787879844123
       }
     },
     "120363409727467494@g.us": {
@@ -187148,7 +187194,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787879318050,
-    "120363428464897153@g.us": 1787879808705,
+    "120363428464897153@g.us": 1787879844315,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787877736241,
     "120363411233423709@g.us": 1787113553426,
