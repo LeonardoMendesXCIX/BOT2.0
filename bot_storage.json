@@ -2629,8 +2629,8 @@
       },
       "75797868064796": {
         "text": 21,
-        "media": 80,
-        "total": 101
+        "media": 81,
+        "total": 102
       },
       "153764728184839": {
         "text": 2,
@@ -2663,9 +2663,9 @@
         "total": 82
       },
       "172868239380659": {
-        "text": 162,
+        "text": 164,
         "media": 31,
-        "total": 193
+        "total": 195
       },
       "170455038193841": {
         "text": 1,
@@ -10338,7 +10338,9 @@
         "Rafael Moura (57707230945348): Acalmou aqui pelo visto",
         "Gabi 💋 (247020967165997): Amém",
         "Gleydson Souza (274384656834700): Kkkk vcs falam mt tava tentando ler tudo mas desisti",
-        "Pedro Henrique (172868239380659): Mas quem tava bravo?"
+        "Pedro Henrique (172868239380659): Mas quem tava bravo?",
+        "Pedro Henrique (172868239380659): Uma zoeira saudável daquela",
+        "Pedro Henrique (172868239380659): @247020967165997 vc tava brava ?"
       ]
     },
     "120363428464897153@g.us": {
@@ -17262,36 +17264,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "🤣",
-        "timestamp": 1787916644392
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Eita entendi foi tudo",
-        "timestamp": 1787916646685
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "E muito molho verde",
-        "timestamp": 1787916652859
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Vai falar que é pq você quer",
-        "timestamp": 1787916664122
-      },
-      {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Lá em São Sebastião, lugar longe kkk",
-        "timestamp": 1787916664795
-      },
-      {
         "authorNum": "190864487919667",
         "authorName": "Souza",
         "text": "Tu merece é uma peia",
@@ -18046,6 +18018,18 @@
         "authorName": "Pedro Henrique",
         "text": "Mas quem tava bravo?",
         "timestamp": 1787918440722
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Uma zoeira saudável daquela",
+        "timestamp": 1787918458002
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "@247020967165997 vc tava brava ?",
+        "timestamp": 1787918467944
       }
     ],
     "120363428464897153@g.us": [],
@@ -18065,7 +18049,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21576,
+    "120363432018531082@g.us": 21578,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -141631,6 +141615,18 @@
         "text": "Mas quem tava bravo?",
         "pushName": "Pedro Henrique",
         "timestamp": 1787918440722
+      },
+      "ACEFA5AD8AAFDB7E5A99DB2767AFFF2A": {
+        "sender": "172868239380659@lid",
+        "text": "Uma zoeira saudável daquela",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787918458002
+      },
+      "ACF949890761F3C9258E1C8081597C90": {
+        "sender": "172868239380659@lid",
+        "text": "@247020967165997 vc tava brava ?",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787918467945
       }
     },
     "120363428464897153@g.us": {
@@ -194426,7 +194422,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787918440722,
+    "120363432018531082@g.us": 1787918467944,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
