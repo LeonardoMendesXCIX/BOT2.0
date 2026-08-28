@@ -453,9 +453,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1724,
-        "media": 335,
-        "total": 2059
+        "text": 1725,
+        "media": 336,
+        "total": 2061
       },
       "252600633041077": {
         "text": 1,
@@ -2629,8 +2629,8 @@
       },
       "75797868064796": {
         "text": 38,
-        "media": 97,
-        "total": 135
+        "media": 98,
+        "total": 136
       },
       "153764728184839": {
         "text": 2,
@@ -2708,9 +2708,9 @@
         "total": 2
       },
       "108461127897146": {
-        "text": 80,
+        "text": 81,
         "media": 8,
-        "total": 88
+        "total": 89
       },
       "10050861031495": {
         "text": 0,
@@ -3544,9 +3544,9 @@
         "total": 664
       },
       "145381035905262": {
-        "text": 461,
+        "text": 462,
         "media": 152,
-        "total": 613
+        "total": 614
       },
       "53537388122141": {
         "text": 789,
@@ -9940,8 +9940,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Gabi 💋 (247020967165997): Essa matou e cortou tome cuidado pra nenhuma não se apaixonar pela sua grana",
-        "Gabi 💋 (247020967165997): Aí é corte na certa",
         "Pedro Henrique (172868239380659): Agora pergunta sincera, pq ela matou ele",
         "Gabi 💋 (247020967165997): Assisti o filme",
         "Gabi 💋 (247020967165997): Ela não queria perder a família e ela era obcecado igual você por cabaré",
@@ -10439,7 +10437,9 @@
         "Nanda (263797142995147): coisa aleatória",
         "Arthur (206253020176458): Kkkk",
         "Leandro (+55 (11) 92701-8683): Ela não mandou nem 500 ainda 😂",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @all \n\n\n\nBom, eu sou casada !!!"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @all \n\n\n\nBom, eu sou casada !!!",
+        "Leandro (+55 (11) 92701-8683): Eu também sou casado e muito bem casado, graças a Deus! 🙏🏻",
+        "jaciara (108461127897146): Eu sou solteira , não estou atrás de relacionamento kkkk só que se for"
       ]
     },
     "120363428464897153@g.us": {
@@ -16924,7 +16924,8 @@
         "Gabriel (145381035905262): Bannn",
         "Gabriel (145381035905262): E aí sampa é loucura",
         "Leandro (+55 (11) 92701-8683): Às ruas tudo suja de santinhos 🤦🏻‍♂️",
-        "Leandro (+55 (11) 92701-8683): Vira um salseiro só"
+        "Leandro (+55 (11) 92701-8683): Vira um salseiro só",
+        "Gabriel (145381035905262): Que porcaria"
       ]
     },
     "120363411233423709@g.us": {
@@ -17476,6 +17477,18 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "@all \n\n\n\nBom, eu sou casada !!!",
         "timestamp": 1787938944345
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Eu também sou casado e muito bem casado, graças a Deus! 🙏🏻",
+        "timestamp": 1787939026547
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Eu sou solteira , não estou atrás de relacionamento kkkk só que se for",
+        "timestamp": 1787939040242
       }
     ],
     "120363428464897153@g.us": [],
@@ -17684,6 +17697,12 @@
         "authorName": "Leandro",
         "text": "Vira um salseiro só",
         "timestamp": 1787938764821
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Que porcaria",
+        "timestamp": 1787938998728
       }
     ],
     "120363411233423709@g.us": [],
@@ -17700,10 +17719,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22100,
+    "120363432018531082@g.us": 22102,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2058,
+    "120363412288900422@g.us": 2059,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -144371,6 +144390,18 @@
         "text": "@all \n\n\n\nBom, eu sou casada !!!",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787938944345
+      },
+      "A5EDAFF8929DBCB38B2AA6F20EDC1ED3": {
+        "sender": "54259127210155@lid",
+        "text": "Eu também sou casado e muito bem casado, graças a Deus! 🙏🏻",
+        "pushName": "Leandro",
+        "timestamp": 1787939026547
+      },
+      "ACEFEDD935F4718E82D0DD90CC41F596": {
+        "sender": "108461127897146@lid",
+        "text": "Eu sou solteira , não estou atrás de relacionamento kkkk só que se for",
+        "pushName": "jaciara",
+        "timestamp": 1787939040242
       }
     },
     "120363428464897153@g.us": {
@@ -194813,6 +194844,12 @@
         "text": "Vira um salseiro só",
         "pushName": "Leandro",
         "timestamp": 1787938764821
+      },
+      "AC63F824258A47A8D80A0AA93B30330E": {
+        "sender": "145381035905262@lid",
+        "text": "Que porcaria",
+        "pushName": "Gabriel",
+        "timestamp": 1787938998728
       }
     },
     "120363411233423709@g.us": {
@@ -197640,10 +197677,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787938959937,
+    "120363432018531082@g.us": 1787939040242,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787938764821,
+    "120363412288900422@g.us": 1787938998728,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
