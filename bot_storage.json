@@ -2896,9 +2896,9 @@
         "total": 23
       },
       "270377049690114": {
-        "text": 302,
+        "text": 305,
         "media": 50,
-        "total": 352
+        "total": 355
       },
       "76914341503187": {
         "text": 20,
@@ -3381,9 +3381,9 @@
         "total": 4
       },
       "82227819987089": {
-        "text": 6,
-        "media": 0,
-        "total": 6
+        "text": 7,
+        "media": 1,
+        "total": 8
       }
     },
     "120363409727467494@g.us": {
@@ -3415,14 +3415,14 @@
     },
     "120363412288900422@g.us": {
       "81991328395336": {
-        "text": 451,
+        "text": 452,
         "media": 118,
-        "total": 569
+        "total": 570
       },
       "5511927018683": {
-        "text": 464,
+        "text": 465,
         "media": 83,
-        "total": 547
+        "total": 548
       },
       "145381035905262": {
         "text": 369,
@@ -13862,7 +13862,11 @@
         "Pedro Henrique (82227819987089): Se referindo a qm joia ?",
         "Pedro Henrique (82227819987089): E nois Enzo",
         "Pedro Henrique (82227819987089): Chuta uma bola e tá se achando 😂",
-        "Vini 👑🏁🙌⚽ (270377049690114): ???? Oxi oh o Maluco 😂😂😂😂"
+        "Vini 👑🏁🙌⚽ (270377049690114): ???? Oxi oh o Maluco 😂😂😂😂",
+        "Vini 👑🏁🙌⚽ (270377049690114): Tu entrou agora no grupo, abaixa a bola irmão",
+        "Pedro Henrique (82227819987089): Faz favor fio",
+        "Vini 👑🏁🙌⚽ (270377049690114): E já quer sentar na janelinha",
+        "Vini 👑🏁🙌⚽ (270377049690114): 🤣🤣🤣"
       ]
     },
     "120363409727467494@g.us": {
@@ -15950,7 +15954,9 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Sim, tá afetando outras pessoas e saindo fora do controle... Não sei aonde vai parar isso",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): SIM",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Processo cairia bem",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Sim, tô precisando de grana"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Sim, tô precisando de grana",
+        "Leandro (+55 (11) 92701-8683): Defensoria Pública",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Pq tua vida pessoal tem nada haver com grupos"
       ]
     },
     "120363411233423709@g.us": {
@@ -16620,6 +16626,30 @@
         "authorName": "Vini 👑🏁🙌⚽",
         "text": "???? Oxi oh o Maluco 😂😂😂😂",
         "timestamp": 1787885921414
+      },
+      {
+        "authorNum": "270377049690114",
+        "authorName": "Vini 👑🏁🙌⚽",
+        "text": "Tu entrou agora no grupo, abaixa a bola irmão",
+        "timestamp": 1787885941076
+      },
+      {
+        "authorNum": "82227819987089",
+        "authorName": "Pedro Henrique",
+        "text": "Faz favor fio",
+        "timestamp": 1787885947853
+      },
+      {
+        "authorNum": "270377049690114",
+        "authorName": "Vini 👑🏁🙌⚽",
+        "text": "E já quer sentar na janelinha",
+        "timestamp": 1787885953149
+      },
+      {
+        "authorNum": "270377049690114",
+        "authorName": "Vini 👑🏁🙌⚽",
+        "text": "🤣🤣🤣",
+        "timestamp": 1787885955202
       }
     ],
     "120363409727467494@g.us": [],
@@ -17043,6 +17073,18 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Sim, tô precisando de grana",
         "timestamp": 1787885854744
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Defensoria Pública",
+        "timestamp": 1787885937254
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Pq tua vida pessoal tem nada haver com grupos",
+        "timestamp": 1787885962514
       }
     ],
     "120363411233423709@g.us": [],
@@ -17059,9 +17101,9 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 21092,
-    "120363428464897153@g.us": 6236,
+    "120363428464897153@g.us": 6240,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1806,
+    "120363412288900422@g.us": 1808,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -174334,6 +174376,30 @@
         "text": "???? Oxi oh o Maluco 😂😂😂😂",
         "pushName": "Vini 👑🏁🙌⚽",
         "timestamp": 1787885921414
+      },
+      "ACB6E3EC623F1EF3788A3A9722A11CA6": {
+        "sender": "270377049690114@lid",
+        "text": "Tu entrou agora no grupo, abaixa a bola irmão",
+        "pushName": "Vini 👑🏁🙌⚽",
+        "timestamp": 1787885941076
+      },
+      "3A6EBE446AAD2D67905E": {
+        "sender": "82227819987089@lid",
+        "text": "Faz favor fio",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787885947853
+      },
+      "ACF50888A9CAF75045A8FE04B4BE61FB": {
+        "sender": "270377049690114@lid",
+        "text": "E já quer sentar na janelinha",
+        "pushName": "Vini 👑🏁🙌⚽",
+        "timestamp": 1787885953149
+      },
+      "ACDF0CFA3A29146AA49382A653B7CFEB": {
+        "sender": "270377049690114@lid",
+        "text": "🤣🤣🤣",
+        "pushName": "Vini 👑🏁🙌⚽",
+        "timestamp": 1787885955202
       }
     },
     "120363409727467494@g.us": {
@@ -186374,6 +186440,18 @@
         "text": "Sim, tô precisando de grana",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787885854744
+      },
+      "A54FC1643A36E9AFDDDC4CC92A489D00": {
+        "sender": "54259127210155@lid",
+        "text": "Defensoria Pública",
+        "pushName": "Leandro",
+        "timestamp": 1787885937254
+      },
+      "AC47DEB36314BD9B91E067821210CD8F": {
+        "sender": "81991328395336@lid",
+        "text": "Pq tua vida pessoal tem nada haver com grupos",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787885962514
       }
     },
     "120363411233423709@g.us": {
@@ -188960,9 +189038,9 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787884904333,
-    "120363428464897153@g.us": 1787885921414,
+    "120363428464897153@g.us": 1787885955202,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787885854744,
+    "120363412288900422@g.us": 1787885962514,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
