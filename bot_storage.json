@@ -2603,9 +2603,9 @@
         "total": 23
       },
       "190864487919667": {
-        "text": 223,
+        "text": 224,
         "media": 39,
-        "total": 262
+        "total": 263
       },
       "82227819987089": {
         "text": 2,
@@ -2629,8 +2629,8 @@
       },
       "75797868064796": {
         "text": 21,
-        "media": 59,
-        "total": 80
+        "media": 60,
+        "total": 81
       },
       "153764728184839": {
         "text": 2,
@@ -2798,9 +2798,9 @@
         "total": 5
       },
       "247020967165997": {
-        "text": 45,
+        "text": 46,
         "media": 11,
-        "total": 56
+        "total": 57
       },
       "206253020176458": {
         "text": 3,
@@ -10201,7 +10201,9 @@
         "Gabi 💋 (247020967165997): A não pq vai que é miojo",
         "Alexandre Bastos (75797868064796): Vai leva do job",
         "Pedro Henrique (172868239380659): Esqueci da comida",
-        "Pedro Henrique (172868239380659): Verdade"
+        "Pedro Henrique (172868239380659): Verdade",
+        "Souza (190864487919667): KKKKKKKKKKKKKKKKKKKKKK",
+        "Gabi 💋 (247020967165997): Uma pergunta quanto tempo solteiro meu bem. ?"
       ]
     },
     "120363428464897153@g.us": {
@@ -17125,30 +17127,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Morto e acabado, enterrado, solo",
-        "timestamp": 1787914778638
-      },
-      {
-        "authorNum": "199733712785531",
-        "authorName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
-        "text": "Em que sentido ?",
-        "timestamp": 1787914787535
-      },
-      {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Mas ja ??",
-        "timestamp": 1787914791355
-      },
-      {
-        "authorNum": "262182034002040",
-        "authorName": "Dany",
-        "text": "Oi!",
-        "timestamp": 1787914794441
-      },
-      {
         "authorNum": "57707230945348",
         "authorName": "Rafael Moura",
         "text": "No sentido de interagir, gostei",
@@ -17765,6 +17743,18 @@
         "authorName": "Pedro Henrique",
         "text": "Verdade",
         "timestamp": 1787916563372
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "KKKKKKKKKKKKKKKKKKKKKK",
+        "timestamp": 1787916591015
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Uma pergunta quanto tempo solteiro meu bem. ?",
+        "timestamp": 1787916596253
       }
     ],
     "120363428464897153@g.us": [],
@@ -17791,7 +17781,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21439,
+    "120363432018531082@g.us": 21441,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -140535,6 +140525,18 @@
         "text": "Verdade",
         "pushName": "Pedro Henrique",
         "timestamp": 1787916563372
+      },
+      "AC82BD20F2C2D96671E2FDA3DEAB7208": {
+        "sender": "190864487919667@lid",
+        "text": "KKKKKKKKKKKKKKKKKKKKKK",
+        "pushName": "Souza",
+        "timestamp": 1787916591015
+      },
+      "AC8D2F585346F1BEB074CC9AAEF3B7A2": {
+        "sender": "247020967165997@lid",
+        "text": "Uma pergunta quanto tempo solteiro meu bem. ?",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787916596253
       }
     },
     "120363428464897153@g.us": {
@@ -193330,7 +193332,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787916563372,
+    "120363432018531082@g.us": 1787916596253,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
