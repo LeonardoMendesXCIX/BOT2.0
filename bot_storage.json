@@ -2567,9 +2567,9 @@
         "total": 21
       },
       "190864487919667": {
-        "text": 186,
+        "text": 187,
         "media": 33,
-        "total": 219
+        "total": 220
       },
       "82227819987089": {
         "text": 2,
@@ -9180,7 +9180,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Gabriel (145381035905262): Uma em cada grupo 😂😂😂",
         "F. RicaRdo sAnToS (193729163993156): De Rocha agora",
         "willian (163530946961491): Tiroso 😅😅😅",
         "Rafael Moura (57707230945348): Gente hoje foi foda",
@@ -9679,7 +9678,8 @@
         "Jessica (208958782488665): Não fui eu que escolhi foi uma amiga e ela foi cirúrgica se eu não pintasse dessa cor ia ter briga",
         "Jessica (208958782488665): É complicado.",
         "Clayton 🇳🇬 (155503636275307): Amiga de bom gosto",
-        "Saul (118515428286715): Boa Noite, sou Saul tenho 25 anos e moro em Andradina- SP (interior)"
+        "Saul (118515428286715): Boa Noite, sou Saul tenho 25 anos e moro em Andradina- SP (interior)",
+        "Souza (190864487919667): Bem vindo"
       ]
     },
     "120363428464897153@g.us": {
@@ -16367,6 +16367,12 @@
         "authorName": "Saul",
         "text": "Boa Noite, sou Saul tenho 25 anos e moro em Andradina- SP (interior)",
         "timestamp": 1787877707664
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Bem vindo",
+        "timestamp": 1787877994866
       }
     ],
     "120363428464897153@g.us": [
@@ -16868,7 +16874,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21024,
+    "120363432018531082@g.us": 21025,
     "120363428464897153@g.us": 6060,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1711,
@@ -137159,6 +137165,12 @@
         "text": "Boa Noite, sou Saul tenho 25 anos e moro em Andradina- SP (interior)",
         "pushName": "Saul",
         "timestamp": 1787877707664
+      },
+      "AC1630A6E8CB234AE0A572CEC81EFF4A": {
+        "sender": "190864487919667@lid",
+        "text": "Bem vindo",
+        "pushName": "Souza",
+        "timestamp": 1787877994866
       }
     },
     "120363428464897153@g.us": {
@@ -186742,7 +186754,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787877707664,
+    "120363432018531082@g.us": 1787877994866,
     "120363428464897153@g.us": 1787877908805,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787877736241,
