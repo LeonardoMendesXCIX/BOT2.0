@@ -698,9 +698,9 @@
         "total": 95
       },
       "57707230945348": {
-        "text": 1208,
+        "text": 1209,
         "media": 225,
-        "total": 1433
+        "total": 1434
       },
       "152218690924790": {
         "text": 309,
@@ -10334,7 +10334,8 @@
         "Gabi 💋 (247020967165997): Sim toma cuidado pra não criar bolhas",
         "𝔞𝔩𝔦𝔫𝔢🫶🏽 (221307534876912): Ontem um menino me disse q tinha um ovo atrás da cabeça dele kkkk",
         "Rafael Moura (57707230945348): Ma rapaz",
-        "Gabi 💋 (247020967165997): Ksksks"
+        "Gabi 💋 (247020967165997): Ksksks",
+        "Rafael Moura (57707230945348): Acalmou aqui pelo visto"
       ]
     },
     "120363428464897153@g.us": {
@@ -17258,36 +17259,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Quer pagar a minha viagem?",
-        "timestamp": 1787916373186
-      },
-      {
-        "authorNum": "118515428286715",
-        "authorName": "Saul",
-        "text": "É sim, bora",
-        "timestamp": 1787916373699
-      },
-      {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Vou mandar os valores aí pra vc",
-        "timestamp": 1787916395186
-      },
-      {
-        "authorNum": "75797868064796",
-        "authorName": "Alexandre Bastos",
-        "text": "Quando e isso tem alguma coisa",
-        "timestamp": 1787916411853
-      },
-      {
-        "authorNum": "118515428286715",
-        "authorName": "Saul",
-        "text": "QUE ISSO, na cara não kkkk",
-        "timestamp": 1787916420600
-      },
-      {
         "authorNum": "247020967165997",
         "authorName": "Gabi 💋",
         "text": "Ok",
@@ -18156,6 +18127,12 @@
         "authorName": "Gabi 💋",
         "text": "Ksksks",
         "timestamp": 1787918166757
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Acalmou aqui pelo visto",
+        "timestamp": 1787918234974
       }
     ],
     "120363428464897153@g.us": [],
@@ -18175,7 +18152,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21572,
+    "120363432018531082@g.us": 21573,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -141717,6 +141694,12 @@
         "text": "Ksksks",
         "pushName": "Gabi 💋",
         "timestamp": 1787918166758
+      },
+      "AC4F544B81EB72AC1A5D42314539DF2E": {
+        "sender": "57707230945348@lid",
+        "text": "Acalmou aqui pelo visto",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787918234974
       }
     },
     "120363428464897153@g.us": {
@@ -194512,7 +194495,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787918177793,
+    "120363432018531082@g.us": 1787918234974,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
