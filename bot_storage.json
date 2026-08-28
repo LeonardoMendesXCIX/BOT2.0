@@ -274,9 +274,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2222,
-        "media": 297,
-        "total": 2519
+        "text": 2223,
+        "media": 298,
+        "total": 2521
       },
       "252922705240205": {
         "text": 80,
@@ -449,9 +449,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1671,
-        "media": 322,
-        "total": 1993
+        "text": 1672,
+        "media": 324,
+        "total": 1996
       },
       "252600633041077": {
         "text": 1,
@@ -9267,8 +9267,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "... (207361708961911): Nome : Welinton Makkenzzy Rodrigues Santos tenho 17 anos sou daqui de Minas Gerais",
-        "Pedro Henrique (172868239380659): Único defeito é ser Corinthians",
         "Gleydson Souza (274384656834700): Bem vindo",
         "Souza (190864487919667): Calma aí pô",
         "Souza (190864487919667): Defeito seu zoio",
@@ -9766,7 +9764,9 @@
         "Leandro (+55 (11) 92701-8683): !del",
         "Leandro (+55 (11) 92701-8683): !del",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): O bot no seu dia mais normal",
-        "Leandro (+55 (11) 92701-8683): Né"
+        "Leandro (+55 (11) 92701-8683): Né",
+        "Leandro (+55 (11) 92701-8683): O bot e o desenvolvedor dele se entendendo",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Apaga y apaga"
       ]
     },
     "120363428464897153@g.us": {
@@ -16522,6 +16522,18 @@
         "authorName": "Leandro",
         "text": "Né",
         "timestamp": 1787884634829
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "O bot e o desenvolvedor dele se entendendo",
+        "timestamp": 1787884647368
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Apaga y apaga",
+        "timestamp": 1787884660649
       }
     ],
     "120363428464897153@g.us": [
@@ -16753,7 +16765,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21087,
+    "120363432018531082@g.us": 21089,
     "120363428464897153@g.us": 6227,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1736,
@@ -137409,6 +137421,18 @@
         "text": "Né",
         "pushName": "Leandro",
         "timestamp": 1787884634829
+      },
+      "A5A20E029512398409DC292070D763B1": {
+        "sender": "54259127210155@lid",
+        "text": "O bot e o desenvolvedor dele se entendendo",
+        "pushName": "Leandro",
+        "timestamp": 1787884647368
+      },
+      "AC34426C922BBD347A911CD1C67D1936": {
+        "sender": "53537388122141@lid",
+        "text": "Apaga y apaga",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787884660649
       }
     },
     "120363428464897153@g.us": {
@@ -188150,7 +188174,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787884634829,
+    "120363432018531082@g.us": 1787884662515,
     "120363428464897153@g.us": 1787884627779,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787884390062,
