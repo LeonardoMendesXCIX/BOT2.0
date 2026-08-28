@@ -2663,9 +2663,9 @@
         "total": 82
       },
       "172868239380659": {
-        "text": 161,
+        "text": 162,
         "media": 31,
-        "total": 192
+        "total": 193
       },
       "170455038193841": {
         "text": 1,
@@ -10337,7 +10337,8 @@
         "Gabi 💋 (247020967165997): Ksksks",
         "Rafael Moura (57707230945348): Acalmou aqui pelo visto",
         "Gabi 💋 (247020967165997): Amém",
-        "Gleydson Souza (274384656834700): Kkkk vcs falam mt tava tentando ler tudo mas desisti"
+        "Gleydson Souza (274384656834700): Kkkk vcs falam mt tava tentando ler tudo mas desisti",
+        "Pedro Henrique (172868239380659): Mas quem tava bravo?"
       ]
     },
     "120363428464897153@g.us": {
@@ -17263,30 +17264,6 @@
       {
         "authorNum": "57707230945348",
         "authorName": "Rafael Moura",
-        "text": "Se me chamar pra comer um xtudo na rua eu caso em",
-        "timestamp": 1787916611033
-      },
-      {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "1 ano",
-        "timestamp": 1787916611753
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Bora um podrão",
-        "timestamp": 1787916628347
-      },
-      {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Bastante gordura",
-        "timestamp": 1787916640013
-      },
-      {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
         "text": "🤣",
         "timestamp": 1787916644392
       },
@@ -18063,6 +18040,12 @@
         "authorName": "Gleydson Souza",
         "text": "Kkkk vcs falam mt tava tentando ler tudo mas desisti",
         "timestamp": 1787918299786
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Mas quem tava bravo?",
+        "timestamp": 1787918440722
       }
     ],
     "120363428464897153@g.us": [],
@@ -18082,7 +18065,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21575,
+    "120363432018531082@g.us": 21576,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -141642,6 +141625,12 @@
         "text": "Kkkk vcs falam mt tava tentando ler tudo mas desisti",
         "pushName": "Gleydson Souza",
         "timestamp": 1787918299786
+      },
+      "AC6CDBF3359BDC210E6CF7CD08D91CBC": {
+        "sender": "172868239380659@lid",
+        "text": "Mas quem tava bravo?",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787918440722
       }
     },
     "120363428464897153@g.us": {
@@ -194437,7 +194426,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787918377301,
+    "120363432018531082@g.us": 1787918440722,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
