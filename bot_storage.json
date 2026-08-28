@@ -2699,9 +2699,9 @@
         "total": 78
       },
       "81991328395336": {
-        "text": 581,
+        "text": 582,
         "media": 165,
-        "total": 746
+        "total": 747
       },
       "99338701258949": {
         "text": 499,
@@ -2905,8 +2905,8 @@
       },
       "92629643563147": {
         "text": 564,
-        "media": 377,
-        "total": 941
+        "media": 378,
+        "total": 942
       },
       "122552932372575": {
         "text": 0,
@@ -2945,8 +2945,8 @@
       },
       "129373172711439": {
         "text": 897,
-        "media": 229,
-        "total": 1126
+        "media": 230,
+        "total": 1127
       },
       "16007578021977": {
         "text": 50,
@@ -3210,8 +3210,8 @@
       },
       "155503636275307": {
         "text": 27,
-        "media": 19,
-        "total": 46
+        "media": 21,
+        "total": 48
       },
       "241553943601214": {
         "text": 5,
@@ -3289,14 +3289,14 @@
         "total": 1
       },
       "190864487919667": {
-        "text": 29,
+        "text": 31,
         "media": 6,
-        "total": 35
+        "total": 37
       },
       "118515428286715": {
-        "text": 3,
+        "text": 6,
         "media": 2,
-        "total": 5
+        "total": 8
       },
       "274384656834700": {
         "text": 0,
@@ -13649,7 +13649,11 @@
         "Priscilla 🌻 (25520947339303): Kkk",
         "Saul (118515428286715): 🤣🤣🤣",
         "Gleydson Souza (274384656834700): Gleydson souza\n22 anos\nÁguas lindas GO\nSolteiro \nConhecer\nPrivado aberto",
-        "Celiete Souza (129373172711439): Pareceu mesmo kkkk"
+        "Celiete Souza (129373172711439): Pareceu mesmo kkkk",
+        "Souza (190864487919667): Confia",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Ela gosta de vê peitoral",
+        "Saul (118515428286715): Eu esperando o cara falar “comum o aditivada” pra rachar o bico",
+        "Saul (118515428286715): Kkk"
       ]
     },
     "120363409727467494@g.us": {
@@ -16234,24 +16238,6 @@
     ],
     "120363428464897153@g.us": [
       {
-        "authorNum": "155503636275307",
-        "authorName": "Clayton 🇳🇬",
-        "text": "Deve torcer pro galo 🐓 neh",
-        "timestamp": 1787877139839
-      },
-      {
-        "authorNum": "155503636275307",
-        "authorName": "Clayton 🇳🇬",
-        "text": "Ou pro Maria",
-        "timestamp": 1787877147158
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Passei dessa fase de mercado",
-        "timestamp": 1787877155814
-      },
-      {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
         "text": "Olha estamos perto ☺️",
@@ -16562,6 +16548,30 @@
         "authorName": "Celiete Souza",
         "text": "Pareceu mesmo kkkk",
         "timestamp": 1787878917413
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Confia",
+        "timestamp": 1787878952169
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Ela gosta de vê peitoral",
+        "timestamp": 1787878954664
+      },
+      {
+        "authorNum": "118515428286715",
+        "authorName": "Saul",
+        "text": "Eu esperando o cara falar “comum o aditivada” pra rachar o bico",
+        "timestamp": 1787878966200
+      },
+      {
+        "authorNum": "118515428286715",
+        "authorName": "Saul",
+        "text": "Kkk",
+        "timestamp": 1787878967085
       }
     ],
     "120363409727467494@g.us": [],
@@ -16672,7 +16682,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 21031,
-    "120363428464897153@g.us": 6105,
+    "120363428464897153@g.us": 6109,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1711,
     "120363411233423709@g.us": 5,
@@ -172839,6 +172849,30 @@
         "text": "Pareceu mesmo kkkk",
         "pushName": "Celiete Souza",
         "timestamp": 1787878917415
+      },
+      "AC46CCA550D98BFDA0EBE5090DBD7FC0": {
+        "sender": "190864487919667@lid",
+        "text": "Confia",
+        "pushName": "Souza",
+        "timestamp": 1787878952169
+      },
+      "AC30412A79BF776492B4BE3174ACED29": {
+        "sender": "81991328395336@lid",
+        "text": "Ela gosta de vê peitoral",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787878954664
+      },
+      "3A8DBCBFFC4744BD90EC": {
+        "sender": "118515428286715@lid",
+        "text": "Eu esperando o cara falar “comum o aditivada” pra rachar o bico",
+        "pushName": "Saul",
+        "timestamp": 1787878966201
+      },
+      "3AE1C1E80BF694A3BA63": {
+        "sender": "118515428286715@lid",
+        "text": "Kkk",
+        "pushName": "Saul",
+        "timestamp": 1787878967085
       }
     },
     "120363409727467494@g.us": {
@@ -186883,7 +186917,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787878669226,
-    "120363428464897153@g.us": 1787878917586,
+    "120363428464897153@g.us": 1787878967187,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787877736241,
     "120363411233423709@g.us": 1787113553426,
