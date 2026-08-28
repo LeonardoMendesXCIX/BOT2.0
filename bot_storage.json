@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2236,
-        "media": 302,
-        "total": 2538
+        "text": 2237,
+        "media": 303,
+        "total": 2540
       },
       "252922705240205": {
         "text": 80,
@@ -2808,9 +2808,9 @@
         "total": 2
       },
       "210152934359048": {
-        "text": 3,
+        "text": 4,
         "media": 0,
-        "total": 3
+        "total": 4
       }
     },
     "120363428464897153@g.us": {
@@ -10013,7 +10013,10 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindo",
         "Bruno (210152934359048): Obrigado Sabrina",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Bem vindos",
-        "Bruno (210152934359048): Obrigado"
+        "Bruno (210152934359048): Obrigado",
+        "Bruno (210152934359048): É de onde?",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): @81991328395336",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Jajá quem vai de dormes sou eu, isso sim"
       ]
     },
     "120363428464897153@g.us": {
@@ -17195,6 +17198,24 @@
         "authorName": "Bruno",
         "text": "Obrigado",
         "timestamp": 1787913404859
+      },
+      {
+        "authorNum": "210152934359048",
+        "authorName": "Bruno",
+        "text": "É de onde?",
+        "timestamp": 1787913475996
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "@81991328395336",
+        "timestamp": 1787913476361
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Jajá quem vai de dormes sou eu, isso sim",
+        "timestamp": 1787913483542
       }
     ],
     "120363428464897153@g.us": [],
@@ -17214,7 +17235,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21256,
+    "120363432018531082@g.us": 21259,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1989,
@@ -138867,6 +138888,24 @@
         "text": "Obrigado",
         "pushName": "Bruno",
         "timestamp": 1787913404859
+      },
+      "ACD71FFAEDDD0AB563D585CDE495B62B": {
+        "sender": "210152934359048@lid",
+        "text": "É de onde?",
+        "pushName": "Bruno",
+        "timestamp": 1787913475996
+      },
+      "AC6FE6A0B2FDB3BF41C39D17CA988083": {
+        "sender": "53537388122141@lid",
+        "text": "@81991328395336",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787913476361
+      },
+      "ACA37BD0F3B61BFFDEBAADC40382CE32": {
+        "sender": "53537388122141@lid",
+        "text": "Jajá quem vai de dormes sou eu, isso sim",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787913483542
       }
     },
     "120363428464897153@g.us": {
@@ -191638,7 +191677,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787913442157,
+    "120363432018531082@g.us": 1787913483542,
     "120363428464897153@g.us": 1787913193216,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787894166886,
