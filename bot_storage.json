@@ -2603,9 +2603,9 @@
         "total": 26
       },
       "190864487919667": {
-        "text": 253,
+        "text": 255,
         "media": 42,
-        "total": 295
+        "total": 297
       },
       "82227819987089": {
         "text": 2,
@@ -2858,9 +2858,9 @@
         "total": 4
       },
       "263797142995147": {
-        "text": 12,
+        "text": 17,
         "media": 1,
-        "total": 13
+        "total": 18
       }
     },
     "120363428464897153@g.us": {
@@ -3534,9 +3534,9 @@
     },
     "120363412288900422@g.us": {
       "81991328395336": {
-        "text": 475,
+        "text": 476,
         "media": 122,
-        "total": 597
+        "total": 598
       },
       "5511927018683": {
         "text": 535,
@@ -9900,12 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Souza (190864487919667): Aí não compensa",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindo",
-        "Bruno (210152934359048): Obrigado Sabrina",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Bem vindos",
-        "Bruno (210152934359048): Obrigado",
-        "Bruno (210152934359048): É de onde?",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): @81991328395336",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Jajá quem vai de dormes sou eu, isso sim",
         "Camila Designer (92629643563147): Quem está anunciando está a venda? Se tiver eu quero 😏",
@@ -10399,7 +10393,13 @@
         "Nanda (263797142995147): tomar um sol",
         "Souza (190864487919667): Inveja",
         "Nanda (263797142995147): são irmões",
-        "Gleydson Souza (274384656834700): Trabalhando"
+        "Gleydson Souza (274384656834700): Trabalhando",
+        "Nanda (263797142995147): né, mais nem da",
+        "Nanda (263797142995147): num vou só",
+        "Nanda (263797142995147): mo vergonha",
+        "Souza (190864487919667): Oxe",
+        "Souza (190864487919667): Sozinho é bom",
+        "Nanda (263797142995147): mais tarde, ainda ta cedo"
       ]
     },
     "120363428464897153@g.us": {
@@ -16836,7 +16836,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Vou ver já",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Aquela May eu conheço",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Era de algum grupo simmmm",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bora @81991328395336 ?"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bora @81991328395336 ?",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Br\nN achei as figurinhas"
       ]
     },
     "120363411233423709@g.us": {
@@ -17342,24 +17343,6 @@
       {
         "authorNum": "78143406768201",
         "authorName": "Kamila",
-        "text": "Brigada",
-        "timestamp": 1787924837379
-      },
-      {
-        "authorNum": "78143406768201",
-        "authorName": "Kamila",
-        "text": "Brigada",
-        "timestamp": 1787924840392
-      },
-      {
-        "authorNum": "206253020176458",
-        "authorName": "Arthur",
-        "text": "De nada",
-        "timestamp": 1787924855483
-      },
-      {
-        "authorNum": "78143406768201",
-        "authorName": "Kamila",
         "text": "Tudo bem",
         "timestamp": 1787924919124
       },
@@ -17596,6 +17579,42 @@
         "authorName": "Gleydson Souza",
         "text": "Trabalhando",
         "timestamp": 1787926633484
+      },
+      {
+        "authorNum": "263797142995147",
+        "authorName": "Nanda",
+        "text": "né, mais nem da",
+        "timestamp": 1787926648134
+      },
+      {
+        "authorNum": "263797142995147",
+        "authorName": "Nanda",
+        "text": "num vou só",
+        "timestamp": 1787926650739
+      },
+      {
+        "authorNum": "263797142995147",
+        "authorName": "Nanda",
+        "text": "mo vergonha",
+        "timestamp": 1787926653685
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Oxe",
+        "timestamp": 1787926661862
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Sozinho é bom",
+        "timestamp": 1787926665097
+      },
+      {
+        "authorNum": "263797142995147",
+        "authorName": "Nanda",
+        "text": "mais tarde, ainda ta cedo",
+        "timestamp": 1787926668022
       }
     ],
     "120363428464897153@g.us": [],
@@ -17606,6 +17625,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Bora @81991328395336 ?",
         "timestamp": 1787924999186
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Br\nN achei as figurinhas",
+        "timestamp": 1787926648480
       }
     ],
     "120363411233423709@g.us": [],
@@ -17622,10 +17647,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21751,
+    "120363432018531082@g.us": 21757,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2010,
+    "120363412288900422@g.us": 2011,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -142225,6 +142250,42 @@
         "text": "Trabalhando",
         "pushName": "Gleydson Souza",
         "timestamp": 1787926633484
+      },
+      "AC3EBADE23B429E6D7C151E7578F4348": {
+        "sender": "263797142995147@lid",
+        "text": "né, mais nem da",
+        "pushName": "Nanda",
+        "timestamp": 1787926648135
+      },
+      "ACA6801E3ED814127C0A3B11E4E662B5": {
+        "sender": "263797142995147@lid",
+        "text": "num vou só",
+        "pushName": "Nanda",
+        "timestamp": 1787926650740
+      },
+      "AC13C1F32329BFD58099697B6B454164": {
+        "sender": "263797142995147@lid",
+        "text": "mo vergonha",
+        "pushName": "Nanda",
+        "timestamp": 1787926653685
+      },
+      "AC987090D70AA33CBD154E8831749F6B": {
+        "sender": "190864487919667@lid",
+        "text": "Oxe",
+        "pushName": "Souza",
+        "timestamp": 1787926661862
+      },
+      "ACA89E96E0BBED205AF7CF3F49F0D5DD": {
+        "sender": "190864487919667@lid",
+        "text": "Sozinho é bom",
+        "pushName": "Souza",
+        "timestamp": 1787926665097
+      },
+      "AC6A98D3E09C18DF199DDB68536E9240": {
+        "sender": "263797142995147@lid",
+        "text": "mais tarde, ainda ta cedo",
+        "pushName": "Nanda",
+        "timestamp": 1787926668022
       }
     },
     "120363428464897153@g.us": {
@@ -192379,6 +192440,12 @@
         "text": "Bora @81991328395336 ?",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787924999186
+      },
+      "AC159FACB3FB703594B837F08DEFF345": {
+        "sender": "81991328395336@lid",
+        "text": "Br\nN achei as figurinhas",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787926648480
       }
     },
     "120363411233423709@g.us": {
@@ -195122,10 +195189,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787926635649,
+    "120363432018531082@g.us": 1787926668022,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787924999186,
+    "120363412288900422@g.us": 1787926648480,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
