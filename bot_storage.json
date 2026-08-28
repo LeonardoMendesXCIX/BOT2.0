@@ -309,8 +309,8 @@
       },
       "120363432018531082": {
         "text": 315,
-        "media": 90,
-        "total": 405
+        "media": 92,
+        "total": 407
       },
       "97535100252296": {
         "text": 96,
@@ -9950,8 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Souza (190864487919667): Aceito",
-        "Camila Designer (92629643563147): Mas tem os órgãos 🤣🤣🤣",
         "Nanda (263797142995147): tenho n, mais tem coisa q vale mais né",
         "Souza (190864487919667): Tá nem valendo tanto assim",
         "Nanda (263797142995147): deuzulive",
@@ -10449,7 +10447,9 @@
         "Souza (190864487919667): 😂",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): @81991328395336 \n@54259127210155",
         "Gabriel (145381035905262): Exatamente isso",
-        "Gabriel (145381035905262): Parabéns pela inteligência"
+        "Gabriel (145381035905262): Parabéns pela inteligência",
+        " (120363432018531082): @all",
+        " (120363432018531082): @92629643563147"
       ]
     },
     "120363428464897153@g.us": {
@@ -17484,12 +17484,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "1395881181241",
-        "authorName": "Bruno Aguiar",
-        "text": "Aproveitando a chuva por ai @129373172711439",
-        "timestamp": 1787941663241
-      },
-      {
         "authorNum": "129373172711439",
         "authorName": "Celiete Souza",
         "text": "@145381035905262 sai do emprego kkkk",
@@ -17752,6 +17746,18 @@
         "authorName": "Gabriel",
         "text": "Parabéns pela inteligência",
         "timestamp": 1787943447425
+      },
+      {
+        "authorNum": "120363432018531082",
+        "authorName": "",
+        "text": "@all",
+        "timestamp": 1787943471840
+      },
+      {
+        "authorNum": "120363432018531082",
+        "authorName": "",
+        "text": "@92629643563147",
+        "timestamp": 1787943471856
       }
     ],
     "120363428464897153@g.us": [],
@@ -17863,7 +17869,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22290,
+    "120363432018531082@g.us": 22292,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -145496,10 +145502,10 @@
         "timestamp": 1787941824217
       },
       "AC7112A5E787E09C5AA9859456C1D40A": {
-        "sender": "53537388122141@lid",
+        "sender": "120363432018531082@g.us",
         "text": "@all",
-        "pushName": "Sabrina Bartolucci 🤌🏻",
-        "timestamp": 1787941838128
+        "pushName": "",
+        "timestamp": 1787943471840
       },
       "AC6AD9A9C554E420B05D90ADC8617C38": {
         "sender": "1395881181241@lid",
@@ -145508,10 +145514,10 @@
         "timestamp": 1787941842513
       },
       "ACC6B247DA7447DA10385081F908038A": {
-        "sender": "81991328395336@lid",
+        "sender": "120363432018531082@g.us",
         "text": "@92629643563147",
-        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "timestamp": 1787941869978
+        "pushName": "",
+        "timestamp": 1787943471856
       },
       "AC8988A16130BE19E8524BA9A3CEDBD2": {
         "sender": "129373172711439@lid",
@@ -199135,7 +199141,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787943447425,
+    "120363432018531082@g.us": 1787943471856,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
