@@ -453,9 +453,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1691,
+        "text": 1693,
         "media": 329,
-        "total": 2020
+        "total": 2022
       },
       "252600633041077": {
         "text": 1,
@@ -2768,9 +2768,9 @@
         "total": 3
       },
       "120542904463568": {
-        "text": 9,
+        "text": 11,
         "media": 1,
-        "total": 10
+        "total": 12
       }
     },
     "120363428464897153@g.us": {
@@ -3902,9 +3902,9 @@
     },
     "120363411043114631@g.us": {
       "153764728184839": {
-        "text": 14,
+        "text": 16,
         "media": 0,
-        "total": 14
+        "total": 16
       }
     }
   },
@@ -9865,7 +9865,11 @@
         "Jk (120542904463568): Kbaré da lalay",
         "Jk (120542904463568): Gostei do nome",
         "Jk (120542904463568): Deu até vontade de empreender",
-        "Leandro (+55 (11) 92701-8683): Vá empreender pra lá"
+        "Leandro (+55 (11) 92701-8683): Vá empreender pra lá",
+        "Leandro (+55 (11) 92701-8683): Que esse empreendimento já é meu e dela @81991328395336",
+        "Jk (120542904463568): Se aperrei não",
+        "Jk (120542904463568): No planeta tem espaço",
+        "Leandro (+55 (11) 92701-8683): Pois bem"
       ]
     },
     "120363428464897153@g.us": {
@@ -16773,7 +16777,9 @@
         "Eduardo (153764728184839): !status",
         "Eduardo (153764728184839): !todos",
         "Eduardo (153764728184839): !if",
-        "Eduardo (153764728184839): !fechar"
+        "Eduardo (153764728184839): !fechar",
+        "Eduardo (153764728184839): !sorteios",
+        "Eduardo (153764728184839): !sorteio"
       ]
     }
   },
@@ -16964,6 +16970,30 @@
         "authorName": "Leandro",
         "text": "Vá empreender pra lá",
         "timestamp": 1787897379282
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Que esse empreendimento já é meu e dela @81991328395336",
+        "timestamp": 1787897391782
+      },
+      {
+        "authorNum": "120542904463568",
+        "authorName": "Jk",
+        "text": "Se aperrei não",
+        "timestamp": 1787897406199
+      },
+      {
+        "authorNum": "120542904463568",
+        "authorName": "Jk",
+        "text": "No planeta tem espaço",
+        "timestamp": 1787897419400
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Pois bem",
+        "timestamp": 1787897431755
       }
     ],
     "120363428464897153@g.us": [
@@ -17108,6 +17138,24 @@
         "authorName": "Eduardo",
         "text": "!fechar",
         "timestamp": 1787897367923
+      },
+      {
+        "authorNum": "153764728184839",
+        "authorName": "Eduardo",
+        "text": "!admins @65996225477",
+        "timestamp": 1787897392410
+      },
+      {
+        "authorNum": "153764728184839",
+        "authorName": "Eduardo",
+        "text": "!sorteios",
+        "timestamp": 1787897421165
+      },
+      {
+        "authorNum": "153764728184839",
+        "authorName": "Eduardo",
+        "text": "!sorteio",
+        "timestamp": 1787897425692
       }
     ]
   },
@@ -17118,7 +17166,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21148,
+    "120363432018531082@g.us": 21152,
     "120363428464897153@g.us": 6285,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1989,
@@ -17127,7 +17175,7 @@
     "120363411246936023@g.us": 21,
     "120363409024805409@g.us": 70,
     "120363050678635389@g.us": 1,
-    "120363411043114631@g.us": 15
+    "120363411043114631@g.us": 18
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -138142,6 +138190,30 @@
         "text": "Vá empreender pra lá",
         "pushName": "Leandro",
         "timestamp": 1787897379282
+      },
+      "A5D67B6961D3E79179A9F10B3E6F70A5": {
+        "sender": "54259127210155@lid",
+        "text": "Que esse empreendimento já é meu e dela @81991328395336",
+        "pushName": "Leandro",
+        "timestamp": 1787897391782
+      },
+      "ACEEA6B3F0722AE26FA8B2209641AAB9": {
+        "sender": "120542904463568@lid",
+        "text": "Se aperrei não",
+        "pushName": "Jk",
+        "timestamp": 1787897406199
+      },
+      "AC3ADC7EC0743AA58F52031C81FAC902": {
+        "sender": "120542904463568@lid",
+        "text": "No planeta tem espaço",
+        "pushName": "Jk",
+        "timestamp": 1787897419400
+      },
+      "A57A0126A1150069DAB47695C38504FD": {
+        "sender": "54259127210155@lid",
+        "text": "Pois bem",
+        "pushName": "Leandro",
+        "timestamp": 1787897431755
       }
     },
     "120363428464897153@g.us": {
@@ -190798,6 +190870,18 @@
         "text": "!fechar",
         "pushName": "Eduardo",
         "timestamp": 1787897367923
+      },
+      "AC8C56E14096C35CFDDBAED79080F4C8": {
+        "sender": "153764728184839@lid",
+        "text": "!sorteios",
+        "pushName": "Eduardo",
+        "timestamp": 1787897421165
+      },
+      "ACF371D1C3925E5E4902DEB4350D710C": {
+        "sender": "153764728184839@lid",
+        "text": "!sorteio",
+        "pushName": "Eduardo",
+        "timestamp": 1787897425692
       }
     }
   },
@@ -190883,7 +190967,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787897379282,
+    "120363432018531082@g.us": 1787897431755,
     "120363428464897153@g.us": 1787897317546,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787894166886,
@@ -190895,7 +190979,7 @@
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1787868477291,
     "120363409024805409@g.us": 1787897222829,
-    "120363411043114631@g.us": 1787897367923
+    "120363411043114631@g.us": 1787897425692
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
