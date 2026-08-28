@@ -188,9 +188,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2242,
+        "text": 2243,
         "media": 472,
-        "total": 2714
+        "total": 2715
       },
       "184237705699536": {
         "text": 524,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Camila Designer (92629643563147): Então eu ainda tenho meus dois rins funcionando 👀",
         "Nanda (263797142995147): eu tmb kkk",
         "Camila Designer (92629643563147): Então já é uma coisa",
         "Camila Designer (92629643563147): Kkkk",
@@ -10449,7 +10448,8 @@
         "May (227783724793861): Nossa demais",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Doideira guria",
         "May (227783724793861): O pior que é sempre nessa dinâmica de anônimo ne , botar a cara nunca tem coragem hahahaha",
-        "May (227783724793861): Desculpem é que odeio Talaricos hahahaha"
+        "May (227783724793861): Desculpem é que odeio Talaricos hahahaha",
+        "Gabriel (145381035905262): E vai botar né, aí complica kkkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -17680,6 +17680,12 @@
         "authorName": "May",
         "text": "Desculpem é que odeio Talaricos hahahaha",
         "timestamp": 1787943752652
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "E vai botar né, aí complica kkkk",
+        "timestamp": 1787943756049
       }
     ],
     "120363428464897153@g.us": [],
@@ -17791,7 +17797,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22304,
+    "120363432018531082@g.us": 22305,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -145674,6 +145680,12 @@
         "text": "Desculpem é que odeio Talaricos hahahaha",
         "pushName": "May",
         "timestamp": 1787943752652
+      },
+      "AC15EE2F3C07EFD3ED9F7D72271F5B61": {
+        "sender": "145381035905262@lid",
+        "text": "E vai botar né, aí complica kkkk",
+        "pushName": "Gabriel",
+        "timestamp": 1787943756049
       }
     },
     "120363428464897153@g.us": {
@@ -199135,7 +199147,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787943752652,
+    "120363432018531082@g.us": 1787943756049,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
