@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2307,
-        "media": 317,
-        "total": 2624
+        "text": 2308,
+        "media": 318,
+        "total": 2626
       },
       "252922705240205": {
         "text": 80,
@@ -383,9 +383,9 @@
         "total": 485
       },
       "222595437858867": {
-        "text": 514,
+        "text": 515,
         "media": 53,
-        "total": 567
+        "total": 568
       },
       "83280154103884": {
         "text": 36,
@@ -454,8 +454,8 @@
       },
       "5511927018683": {
         "text": 1736,
-        "media": 344,
-        "total": 2080
+        "media": 346,
+        "total": 2082
       },
       "252600633041077": {
         "text": 1,
@@ -9950,9 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "amanda🫶 (94227841179800): Itaboraí",
-        "Alexandre Bastos (75797868064796): Sou da barra",
-        "Alexandre Bastos (75797868064796): Prazer Alexandre",
         "Souza (190864487919667): Bem vinda",
         "Lailson Nathan. (272048228188398): Seja bem vinda.",
         "Bruno Aguiar (+1395881181241): Seja bem vinda",
@@ -10449,7 +10446,10 @@
         "Gabriel (145381035905262): Surubao",
         "Souza (190864487919667): Surubasso com meu nome",
         "Souza (190864487919667): Mas infelizmente, eu não gosto dessa putaria aí não",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @222595437858867"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @222595437858867",
+        "Leandro (+55 (11) 92701-8683): Meu nível de tdah",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): @272048228188398",
+        "Juliano Perlin (222595437858867): 🤣🤣🤣🤣"
       ]
     },
     "120363428464897153@g.us": {
@@ -17929,6 +17929,24 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "@222595437858867",
         "timestamp": 1787940245478
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Meu nível de tdah",
+        "timestamp": 1787940318828
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "@272048228188398",
+        "timestamp": 1787940320919
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "🤣🤣🤣🤣",
+        "timestamp": 1787940344187
       }
     ],
     "120363428464897153@g.us": [],
@@ -18178,7 +18196,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22176,
+    "120363432018531082@g.us": 22179,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2075,
@@ -145305,6 +145323,24 @@
         "text": "@222595437858867",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787940245478
+      },
+      "A520D4601A80E8669A83B100A548F86B": {
+        "sender": "54259127210155@lid",
+        "text": "Meu nível de tdah",
+        "pushName": "Leandro",
+        "timestamp": 1787940318828
+      },
+      "AC267F91F3A0F5AA0518E284CB3E96A8": {
+        "sender": "53537388122141@lid",
+        "text": "@272048228188398",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787940320919
+      },
+      "ACEBC6EF1CF53D2C1FBAE459D063EF81": {
+        "sender": "222595437858867@lid",
+        "text": "🤣🤣🤣🤣",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1787940344187
       }
     },
     "120363428464897153@g.us": {
@@ -198676,7 +198712,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787940285945,
+    "120363432018531082@g.us": 1787940344187,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787940055842,
