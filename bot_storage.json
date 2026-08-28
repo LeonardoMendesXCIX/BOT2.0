@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2361,
+        "text": 2362,
         "media": 329,
-        "total": 2690
+        "total": 2691
       },
       "252922705240205": {
         "text": 80,
@@ -383,9 +383,9 @@
         "total": 489
       },
       "222595437858867": {
-        "text": 522,
+        "text": 524,
         "media": 55,
-        "total": 577
+        "total": 579
       },
       "83280154103884": {
         "text": 36,
@@ -9950,8 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Souza (190864487919667): Cuidado com o cabaré",
-        "jaciara (108461127897146): Tabom , obrigado ☺️",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): É uma foto viu? 👀",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Fotos assim, Kabaré",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Por nada 🥰",
@@ -10449,7 +10447,9 @@
         "jaciara (108461127897146): Kkkkkk",
         "Celiete Souza (129373172711439): Há bom kkkkkkk",
         "Celiete Souza (129373172711439): Pela diversão",
-        "Celiete Souza (129373172711439): Sextou 🔥"
+        "Celiete Souza (129373172711439): Sextou 🔥",
+        "Juliano Perlin (222595437858867): Mas que fogolenta",
+        "Juliano Perlin (222595437858867): 🤣🤣🤣"
       ]
     },
     "120363428464897153@g.us": {
@@ -17487,36 +17487,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Tu também kkk",
-        "timestamp": 1787946333592
-      },
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Não podemos perder a fé",
-        "timestamp": 1787946339756
-      },
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Agora vou ter um tempinho a mais de repente, ai me chamem lá 😘",
-        "timestamp": 1787946357086
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Podem falar mais sobre o empreendimento kkkkkk",
-        "timestamp": 1787946412599
-      },
-      {
-        "authorNum": "227783724793861",
-        "authorName": "May",
-        "text": "Você aquiiiii hahaha",
-        "timestamp": 1787946477113
-      },
-      {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Pinto de preto Azulado\nJá fui ruiva\nCor natural é castanho claro",
@@ -17893,6 +17863,18 @@
         "authorName": "Celiete Souza",
         "text": "Sextou 🔥",
         "timestamp": 1787948112456
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Mas que fogolenta",
+        "timestamp": 1787948296721
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "🤣🤣🤣",
+        "timestamp": 1787948298025
       }
     ],
     "120363428464897153@g.us": [],
@@ -17925,7 +17907,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22396,
+    "120363432018531082@g.us": 22398,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -146360,6 +146342,18 @@
         "text": "Sextou 🔥",
         "pushName": "Celiete Souza",
         "timestamp": 1787948112456
+      },
+      "AC951B3058BE445CF11DE06C3B9843A6": {
+        "sender": "222595437858867@lid",
+        "text": "Mas que fogolenta",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1787948296721
+      },
+      "AC12958674322C34F08BEC317522454D": {
+        "sender": "222595437858867@lid",
+        "text": "🤣🤣🤣",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1787948298025
       }
     },
     "120363428464897153@g.us": {
@@ -199839,7 +199833,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787948237104,
+    "120363432018531082@g.us": 1787948298025,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
