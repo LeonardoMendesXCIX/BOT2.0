@@ -698,9 +698,9 @@
         "total": 95
       },
       "57707230945348": {
-        "text": 1205,
-        "media": 222,
-        "total": 1427
+        "text": 1206,
+        "media": 223,
+        "total": 1429
       },
       "152218690924790": {
         "text": 309,
@@ -2663,9 +2663,9 @@
         "total": 81
       },
       "172868239380659": {
-        "text": 151,
+        "text": 152,
         "media": 26,
-        "total": 177
+        "total": 178
       },
       "170455038193841": {
         "text": 1,
@@ -10307,7 +10307,9 @@
         "Pedro Henrique (172868239380659): Relaxa sem problema",
         "Gabi 💋 (247020967165997): Minha condolência",
         "Gabi 💋 (247020967165997): Vou ser mas tranquila",
-        "Gabi 💋 (247020967165997): E submissa"
+        "Gabi 💋 (247020967165997): E submissa",
+        "Pedro Henrique (172868239380659): Na bíblia fala isso mesmo",
+        "Rafael Moura (57707230945348): 🤣"
       ]
     },
     "120363428464897153@g.us": {
@@ -17231,12 +17233,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Vou é trabalhar pra pagar a viagem do feriado",
-        "timestamp": 1787915889223
-      },
-      {
         "authorNum": "247020967165997",
         "authorName": "Gabi 💋",
         "text": "Pra pagar a sua psicóloga que está no cabaré",
@@ -18129,6 +18125,18 @@
         "authorName": "Gabi 💋",
         "text": "E submissa",
         "timestamp": 1787917675029
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Na bíblia fala isso mesmo",
+        "timestamp": 1787917686075
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "🤣",
+        "timestamp": 1787917700315
       }
     ],
     "120363428464897153@g.us": [],
@@ -18155,7 +18163,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21545,
+    "120363432018531082@g.us": 21547,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -141535,6 +141543,18 @@
         "text": "E submissa",
         "pushName": "Gabi 💋",
         "timestamp": 1787917675029
+      },
+      "ACBA07DF54A52074929319A91242A53D": {
+        "sender": "172868239380659@lid",
+        "text": "Na bíblia fala isso mesmo",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787917686075
+      },
+      "AC0FBD0B61145E913CFB893088B8C424": {
+        "sender": "57707230945348@lid",
+        "text": "🤣",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787917700315
       }
     },
     "120363428464897153@g.us": {
@@ -194330,7 +194350,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787917677938,
+    "120363432018531082@g.us": 1787917700315,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
