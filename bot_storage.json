@@ -449,9 +449,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1672,
-        "media": 324,
-        "total": 1996
+        "text": 1673,
+        "media": 325,
+        "total": 1998
       },
       "252600633041077": {
         "text": 1,
@@ -9267,7 +9267,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Gleydson Souza (274384656834700): Bem vindo",
         "Souza (190864487919667): Calma aí pô",
         "Souza (190864487919667): Defeito seu zoio",
         "Souza (190864487919667): Respeita o timão",
@@ -9766,7 +9765,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): O bot no seu dia mais normal",
         "Leandro (+55 (11) 92701-8683): Né",
         "Leandro (+55 (11) 92701-8683): O bot e o desenvolvedor dele se entendendo",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Apaga y apaga"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Apaga y apaga",
+        "Leandro (+55 (11) 92701-8683): Informações confidenciais 😌"
       ]
     },
     "120363428464897153@g.us": {
@@ -16528,6 +16528,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Apaga y apaga",
         "timestamp": 1787884660649
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Informações confidenciais 😌",
+        "timestamp": 1787884812405
       }
     ],
     "120363428464897153@g.us": [
@@ -16753,7 +16759,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21089,
+    "120363432018531082@g.us": 21090,
     "120363428464897153@g.us": 6227,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1736,
@@ -137421,6 +137427,12 @@
         "text": "Apaga y apaga",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787884660649
+      },
+      "A572ACCA71F85668897B4D7084632BBF": {
+        "sender": "54259127210155@lid",
+        "text": "Informações confidenciais 😌",
+        "pushName": "Leandro",
+        "timestamp": 1787884812405
       }
     },
     "120363428464897153@g.us": {
@@ -188162,7 +188174,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787884662515,
+    "120363432018531082@g.us": 1787884814691,
     "120363428464897153@g.us": 1787884627779,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787884390062,
