@@ -453,9 +453,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1717,
+        "text": 1718,
         "media": 334,
-        "total": 2051
+        "total": 2052
       },
       "252600633041077": {
         "text": 1,
@@ -1863,9 +1863,9 @@
         "total": 6
       },
       "1395881181241": {
-        "text": 137,
+        "text": 138,
         "media": 5,
-        "total": 142
+        "total": 143
       },
       "198595546501333": {
         "text": 2,
@@ -2603,9 +2603,9 @@
         "total": 30
       },
       "190864487919667": {
-        "text": 314,
+        "text": 315,
         "media": 46,
-        "total": 360
+        "total": 361
       },
       "82227819987089": {
         "text": 2,
@@ -2804,8 +2804,8 @@
       },
       "206253020176458": {
         "text": 24,
-        "media": 6,
-        "total": 30
+        "media": 7,
+        "total": 31
       },
       "210152934359048": {
         "text": 16,
@@ -9905,9 +9905,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Rafael Moura (57707230945348): Ta mais precoce ainda",
-        "Gabi 💋 (247020967165997): Vdd 3 minutos",
-        "Gabi 💋 (247020967165997): Obrigada",
         "Rafael Moura (57707230945348): 3 min é podcast",
         "Rafael Moura (57707230945348): @221307534876912 😏",
         "Gabi 💋 (247020967165997): Acho que o do Pedro é um minuto pelo grana que ele tem",
@@ -10404,7 +10401,10 @@
         "Celiete Souza (129373172711439): Bemm",
         "Leandro (+55 (11) 92701-8683): Acesse este link para entrar no meu grupo do WhatsApp: https://chat.whatsapp.com/LjudUJTLkZQDIyER0LAwHJ?s=sw&p=a&mlu=4",
         "Rafael Moura (57707230945348): Contando dinheiro",
-        "Leandro (+55 (11) 92701-8683): !fixar"
+        "Leandro (+55 (11) 92701-8683): !fixar",
+        "Bruno Aguiar (+1395881181241): Tudo tranquilo",
+        "Souza (190864487919667): Tu se apresentou?",
+        "Leandro (+55 (11) 92701-8683): !megafone para os novatos que ainda não conhece, temos nosso grupo de figurinhas, fiquem a vontade!"
       ]
     },
     "120363428464897153@g.us": {
@@ -17349,24 +17349,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Barrigão tá eu, e nem tô grávida",
-        "timestamp": 1787929842889
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Essa é minha 3 e última gravidez",
-        "timestamp": 1787929843295
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Aí já não sei",
-        "timestamp": 1787929853245
-      },
-      {
         "authorNum": "108461127897146",
         "authorName": "jaciara",
         "text": "A gente namorou 8 meses e começou a me maltratar no início da gravidez e eu terminei o relacionamento",
@@ -17881,6 +17863,24 @@
         "authorName": "Leandro",
         "text": "!fixar",
         "timestamp": 1787931635030
+      },
+      {
+        "authorNum": "1395881181241",
+        "authorName": "Bruno Aguiar",
+        "text": "Tudo tranquilo",
+        "timestamp": 1787931659637
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Tu se apresentou?",
+        "timestamp": 1787931669141
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!megafone para os novatos que ainda não conhece, temos nosso grupo de figurinhas, fiquem a vontade!",
+        "timestamp": 1787931676510
       }
     ],
     "120363428464897153@g.us": [],
@@ -17913,7 +17913,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22007,
+    "120363432018531082@g.us": 22010,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -144039,6 +144039,24 @@
         "text": "!fixar",
         "pushName": "Leandro",
         "timestamp": 1787931635030
+      },
+      "AC5D4CEF14CB44E0C66BDAA1712DB8B7": {
+        "sender": "1395881181241@lid",
+        "text": "Tudo tranquilo",
+        "pushName": "Bruno Aguiar",
+        "timestamp": 1787931659638
+      },
+      "AC319035B8948830961D21CC4B5C2E4D": {
+        "sender": "190864487919667@lid",
+        "text": "Tu se apresentou?",
+        "pushName": "Souza",
+        "timestamp": 1787931669141
+      },
+      "A5C6AC2F75212CEF81D2BDAC696EC732": {
+        "sender": "54259127210155@lid",
+        "text": "!megafone para os novatos que ainda não conhece, temos nosso grupo de figurinhas, fiquem a vontade!",
+        "pushName": "Leandro",
+        "timestamp": 1787931676510
       }
     },
     "120363428464897153@g.us": {
@@ -196960,7 +196978,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787931653858,
+    "120363432018531082@g.us": 1787931676510,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
