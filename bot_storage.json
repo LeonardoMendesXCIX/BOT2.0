@@ -2603,9 +2603,9 @@
         "total": 24
       },
       "190864487919667": {
-        "text": 239,
+        "text": 240,
         "media": 41,
-        "total": 280
+        "total": 281
       },
       "82227819987089": {
         "text": 2,
@@ -9870,7 +9870,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Bem vindo jovem 🤝",
         "Leandro (+55 (11) 92701-8683): Bem vindo jovem! 🤝",
         "eduardo (37826582323373): muito obrigado gente",
         "eduardo (37826582323373): 😘",
@@ -10369,7 +10368,8 @@
         "Alexandre Bastos (75797868064796): Da onde do rj",
         "amanda🫶 (94227841179800): Itaboraí",
         "Alexandre Bastos (75797868064796): Sou da barra",
-        "Alexandre Bastos (75797868064796): Prazer Alexandre"
+        "Alexandre Bastos (75797868064796): Prazer Alexandre",
+        "Souza (190864487919667): Bem vinda"
       ]
     },
     "120363428464897153@g.us": {
@@ -17472,6 +17472,12 @@
         "authorName": "Alexandre Bastos",
         "text": "Prazer Alexandre",
         "timestamp": 1787923081633
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Bem vinda",
+        "timestamp": 1787923225016
       }
     ],
     "120363428464897153@g.us": [],
@@ -17534,7 +17540,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21678,
+    "120363432018531082@g.us": 21679,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2006,
@@ -141705,6 +141711,12 @@
         "text": "Prazer Alexandre",
         "pushName": "Alexandre Bastos",
         "timestamp": 1787923081633
+      },
+      "ACB434B0D9786A5870CB2CFA0295B623": {
+        "sender": "190864487919667@lid",
+        "text": "Bem vinda",
+        "pushName": "Souza",
+        "timestamp": 1787923225016
       }
     },
     "120363428464897153@g.us": {
@@ -194578,7 +194590,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787923081633,
+    "120363432018531082@g.us": 1787923225016,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787922745298,
