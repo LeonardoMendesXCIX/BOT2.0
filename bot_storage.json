@@ -2688,9 +2688,9 @@
         "total": 62
       },
       "208958782488665": {
-        "text": 15,
+        "text": 16,
         "media": 12,
-        "total": 27
+        "total": 28
       },
       "262456945414267": {
         "text": 9,
@@ -10123,7 +10123,8 @@
         "Rafael Moura (57707230945348): VR caiu, alegria subiu",
         "Gabi 💋 (247020967165997): Hoje eu queria um Poke",
         "Jessica (208958782488665): Que hoje tem reunião dos internados do hospital 😬",
-        "Rafael Moura (57707230945348): Oi doutora 😏"
+        "Rafael Moura (57707230945348): Oi doutora 😏",
+        "Jessica (208958782488665): Hj já tomo meus psico kkkkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -17046,30 +17047,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Bem vindo",
-        "timestamp": 1787913363732
-      },
-      {
-        "authorNum": "210152934359048",
-        "authorName": "Bruno",
-        "text": "Obrigado Sabrina",
-        "timestamp": 1787913388906
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Bem vindos",
-        "timestamp": 1787913396853
-      },
-      {
-        "authorNum": "210152934359048",
-        "authorName": "Bruno",
-        "text": "Obrigado",
-        "timestamp": 1787913404859
-      },
-      {
         "authorNum": "210152934359048",
         "authorName": "Bruno",
         "text": "É de onde?",
@@ -17698,6 +17675,12 @@
         "authorName": "Rafael Moura",
         "text": "Oi doutora 😏",
         "timestamp": 1787915162597
+      },
+      {
+        "authorNum": "208958782488665",
+        "authorName": "Jessica",
+        "text": "Hj já tomo meus psico kkkkk",
+        "timestamp": 1787915238383
       }
     ],
     "120363428464897153@g.us": [],
@@ -17736,7 +17719,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21361,
+    "120363432018531082@g.us": 21362,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1992,
@@ -140013,6 +139996,12 @@
         "text": "Oi doutora 😏",
         "pushName": "Rafael Moura",
         "timestamp": 1787915162597
+      },
+      "AC39FBC9408C713BD96401CD2C53019B": {
+        "sender": "208958782488665@lid",
+        "text": "Hj já tomo meus psico kkkkk",
+        "pushName": "Jessica",
+        "timestamp": 1787915238383
       }
     },
     "120363428464897153@g.us": {
@@ -192802,7 +192791,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787915206488,
+    "120363432018531082@g.us": 1787915238382,
     "120363428464897153@g.us": 1787913193216,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787914462012,
