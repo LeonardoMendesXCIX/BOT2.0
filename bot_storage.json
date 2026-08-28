@@ -2900,8 +2900,8 @@
       },
       "92629643563147": {
         "text": 558,
-        "media": 367,
-        "total": 925
+        "media": 368,
+        "total": 926
       },
       "122552932372575": {
         "text": 0,
@@ -3114,9 +3114,9 @@
         "total": 3
       },
       "57561571176651": {
-        "text": 28,
+        "text": 29,
         "media": 36,
-        "total": 64
+        "total": 65
       },
       "201257922908323": {
         "text": 3,
@@ -3284,9 +3284,9 @@
         "total": 1
       },
       "190864487919667": {
-        "text": 19,
+        "text": 20,
         "media": 4,
-        "total": 23
+        "total": 24
       }
     },
     "120363409727467494@g.us": {
@@ -13584,7 +13584,8 @@
         "Clayton 🇳🇬 (155503636275307): Ou pro Maria",
         "Souza (190864487919667): Passei dessa fase de mercado",
         "Camila Designer (92629643563147): Olha estamos perto ☺️",
-        "Camila Designer (92629643563147): @190864487919667 saidinho hein"
+        "Camila Designer (92629643563147): @190864487919667 saidinho hein",
+        "Souza (190864487919667): Sei de nada"
       ]
     },
     "120363409727467494@g.us": {
@@ -16039,18 +16040,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Vc mora onde ?",
-        "timestamp": 1787875638487
-      },
-      {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Brasília",
-        "timestamp": 1787875657456
-      },
-      {
         "authorNum": "190864487919667",
         "authorName": "Souza",
         "text": "Morreu aqui",
@@ -16415,12 +16404,6 @@
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Tô vendo",
-        "timestamp": 1787875768613
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Abriu nada 😂😂",
         "timestamp": 1787875861910
       },
@@ -16735,58 +16718,16 @@
         "authorName": "Camila Designer",
         "text": "@190864487919667 saidinho hein",
         "timestamp": 1787877561409
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Sei de nada",
+        "timestamp": 1787877594074
       }
     ],
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Pelo nome achei que teria uns 70 anos",
-        "timestamp": 1787875588011
-      },
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Me chamo Jennifer, tenho 21 anos e moro em Belém do Pará",
-        "timestamp": 1787875664867
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Mas que é gatinha, é sim 👀",
-        "timestamp": 1787875665645
-      },
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "O que essa boca comeee",
-        "timestamp": 1787875676562
-      },
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Mulher é virada em boca",
-        "timestamp": 1787875687455
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Eu imagino que na minha apresentação o Gabriel mandou no grupo de Adms",
-        "timestamp": 1787875738119
-      },
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Mandei nada",
-        "timestamp": 1787875765505
-      },
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Da lay não mandei",
-        "timestamp": 1787875785214
-      },
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
@@ -16935,7 +16876,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 21023,
-    "120363428464897153@g.us": 6055,
+    "120363428464897153@g.us": 6056,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1703,
     "120363411233423709@g.us": 5,
@@ -172729,6 +172670,12 @@
         "text": "@190864487919667 saidinho hein",
         "pushName": "Camila Designer",
         "timestamp": 1787877561409
+      },
+      "AC5B31136A9FCD240B7508F724614F14": {
+        "sender": "190864487919667@lid",
+        "text": "Sei de nada",
+        "pushName": "Souza",
+        "timestamp": 1787877594074
       }
     },
     "120363409727467494@g.us": {
@@ -186725,7 +186672,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787877547915,
-    "120363428464897153@g.us": 1787877572148,
+    "120363428464897153@g.us": 1787877595162,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787877253185,
     "120363411233423709@g.us": 1787113553426,
