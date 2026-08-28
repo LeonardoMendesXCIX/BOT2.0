@@ -453,9 +453,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1731,
+        "text": 1732,
         "media": 339,
-        "total": 2070
+        "total": 2071
       },
       "252600633041077": {
         "text": 1,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindo",
         "~Gará (83911531044906): Obg",
         "eduardo (37826582323373): eita 😘",
         "Camila Designer (92629643563147): Sejam todos bem vindos!",
@@ -10449,7 +10448,8 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Quiser fala pra ADM Fifi aqui\nAceito",
         "Leandro (+55 (11) 92701-8683): Prometemos guardar segredo 🤞🏼",
         "Souza (190864487919667): Agonia",
-        "Souza (190864487919667): Bando de fofoqueiros"
+        "Souza (190864487919667): Bando de fofoqueiros",
+        "Leandro (+55 (11) 92701-8683): A bichinha sabe guardar segredo em"
       ]
     },
     "120363428464897153@g.us": {
@@ -17682,6 +17682,12 @@
         "authorName": "Souza",
         "text": "Bando de fofoqueiros",
         "timestamp": 1787939616025
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "A bichinha sabe guardar segredo em",
+        "timestamp": 1787939641566
       }
     ],
     "120363428464897153@g.us": [],
@@ -17931,7 +17937,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22136,
+    "120363432018531082@g.us": 22137,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2061,
@@ -144818,6 +144824,12 @@
         "text": "Bando de fofoqueiros",
         "pushName": "Souza",
         "timestamp": 1787939616025
+      },
+      "A5FB46CEADCC2983E7C109A1406EA9C6": {
+        "sender": "54259127210155@lid",
+        "text": "A bichinha sabe guardar segredo em",
+        "pushName": "Leandro",
+        "timestamp": 1787939641566
       }
     },
     "120363428464897153@g.us": {
@@ -198111,7 +198123,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787939616025,
+    "120363432018531082@g.us": 1787939641566,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787939104507,
