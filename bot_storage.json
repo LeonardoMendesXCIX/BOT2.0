@@ -1863,9 +1863,9 @@
         "total": 6
       },
       "1395881181241": {
-        "text": 138,
+        "text": 139,
         "media": 5,
-        "total": 143
+        "total": 144
       },
       "198595546501333": {
         "text": 2,
@@ -2798,9 +2798,9 @@
         "total": 5
       },
       "247020967165997": {
-        "text": 119,
+        "text": 120,
         "media": 32,
-        "total": 151
+        "total": 152
       },
       "206253020176458": {
         "text": 24,
@@ -9930,8 +9930,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Gabi 💋 (247020967165997): Entrou caiu",
-        "𝔞𝔩𝔦𝔫𝔢🫶🏽 (221307534876912): Oq tem eu",
         "Pedro Henrique (172868239380659): Foi mal, sustentada pelo lula",
         "Pedro Henrique (172868239380659): Tem a cara de petista",
         "Souza (190864487919667): ?",
@@ -10429,7 +10427,9 @@
         "Leandro (+55 (11) 92701-8683): !todos",
         "jaciara (108461127897146): Eu estou bem graças a Deus e vc como está ?",
         "Celiete Souza (129373172711439): ? Outro",
-        "Rafael Moura (57707230945348): Grupo de figurinhas"
+        "Rafael Moura (57707230945348): Grupo de figurinhas",
+        "Bruno Aguiar (+1395881181241): E a faca pegou 🔪🔪",
+        "Gabi 💋 (247020967165997): Bem isso"
       ]
     },
     "120363428464897153@g.us": {
@@ -17865,6 +17865,18 @@
         "authorName": "Rafael Moura",
         "text": "Grupo de figurinhas",
         "timestamp": 1787932269693
+      },
+      {
+        "authorNum": "1395881181241",
+        "authorName": "Bruno Aguiar",
+        "text": "E a faca pegou 🔪🔪",
+        "timestamp": 1787932304745
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Bem isso",
+        "timestamp": 1787932326116
       }
     ],
     "120363428464897153@g.us": [],
@@ -17939,7 +17951,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22016,
+    "120363432018531082@g.us": 22018,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -144113,6 +144125,18 @@
         "text": "Grupo de figurinhas",
         "pushName": "Rafael Moura",
         "timestamp": 1787932269693
+      },
+      "AC5AB80B41A2BC471A633C09CB12054D": {
+        "sender": "1395881181241@lid",
+        "text": "E a faca pegou 🔪🔪",
+        "pushName": "Bruno Aguiar",
+        "timestamp": 1787932304746
+      },
+      "AC0AC73DE42C5D52379E4626C514E7A1": {
+        "sender": "247020967165997@lid",
+        "text": "Bem isso",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787932326116
       }
     },
     "120363428464897153@g.us": {
@@ -197076,7 +197100,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787932269693,
+    "120363432018531082@g.us": 1787932326116,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
