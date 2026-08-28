@@ -253,9 +253,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1509,
+        "text": 1510,
         "media": 1118,
-        "total": 2627
+        "total": 2628
       },
       "3126803329115": {
         "text": 87,
@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2321,
+        "text": 2324,
         "media": 321,
-        "total": 2642
+        "total": 2645
       },
       "252922705240205": {
         "text": 80,
@@ -9950,8 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Souza (190864487919667): Nada",
-        "Souza (190864487919667): Procrastinando no trabalho",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Querendo ir tomar banho, mas enrolando",
         "Nanda (263797142995147): fernanda\n19y\nfortaleza",
         " (120363432018531082): fernanda\n19y\nfortaleza",
@@ -10449,7 +10447,9 @@
         "Camila Designer (92629643563147): E eu sobrevivendo 😂😂😂",
         "Camila Designer (92629643563147): Zuando 😂😂😂",
         "Celiete Souza (129373172711439): Boa tarde",
-        "Celiete Souza (129373172711439): Tarde ju"
+        "Celiete Souza (129373172711439): Tarde ju",
+        "Camila Designer (92629643563147): @163530946961491 quando vai reassumir seu cargo no Kabaré?🤔",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Obrigada o elogiooo, se identifique no Pv"
       ]
     },
     "120363428464897153@g.us": {
@@ -17469,24 +17469,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Metida, cobiçado...\nO que mais que falta?",
-        "timestamp": 1787939522292
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "@190864487919667",
-        "timestamp": 1787939529051
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Vai boba cair no golpe",
-        "timestamp": 1787939553167
-      },
-      {
         "authorNum": "190864487919667",
         "authorName": "Souza",
         "text": "Preciso falar não, a pessoa já sabe",
@@ -18091,6 +18073,18 @@
         "authorName": "Celiete Souza",
         "text": "Tarde ju",
         "timestamp": 1787941307570
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "@163530946961491 quando vai reassumir seu cargo no Kabaré?🤔",
+        "timestamp": 1787941341513
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Obrigada o elogiooo, se identifique no Pv",
+        "timestamp": 1787941354673
       }
     ],
     "120363428464897153@g.us": [],
@@ -18195,7 +18189,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22229,
+    "120363432018531082@g.us": 22231,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2075,
@@ -145640,6 +145634,18 @@
         "text": "Tarde ju",
         "pushName": "Celiete Souza",
         "timestamp": 1787941307570
+      },
+      "2A26982A882264F1B2C6": {
+        "sender": "92629643563147@lid",
+        "text": "@163530946961491 quando vai reassumir seu cargo no Kabaré?🤔",
+        "pushName": "Camila Designer",
+        "timestamp": 1787941341513
+      },
+      "ACAB2BAC4736FB4DA5E84C1FBC0814EA": {
+        "sender": "53537388122141@lid",
+        "text": "Obrigada o elogiooo, se identifique no Pv",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787941354673
       }
     },
     "120363428464897153@g.us": {
@@ -199011,7 +199017,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787941331231,
+    "120363432018531082@g.us": 1787941364128,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787940055842,
