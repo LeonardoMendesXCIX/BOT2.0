@@ -2699,9 +2699,9 @@
         "total": 78
       },
       "81991328395336": {
-        "text": 580,
-        "media": 164,
-        "total": 744
+        "text": 581,
+        "media": 165,
+        "total": 746
       },
       "99338701258949": {
         "text": 499,
@@ -2905,8 +2905,8 @@
       },
       "92629643563147": {
         "text": 564,
-        "media": 376,
-        "total": 940
+        "media": 377,
+        "total": 941
       },
       "122552932372575": {
         "text": 0,
@@ -2944,9 +2944,9 @@
         "total": 9
       },
       "129373172711439": {
-        "text": 895,
+        "text": 897,
         "media": 229,
-        "total": 1124
+        "total": 1126
       },
       "16007578021977": {
         "text": 50,
@@ -3144,9 +3144,9 @@
         "total": 1
       },
       "25520947339303": {
-        "text": 46,
+        "text": 47,
         "media": 1,
-        "total": 47
+        "total": 48
       },
       "66743926038604": {
         "text": 57,
@@ -3294,9 +3294,14 @@
         "total": 35
       },
       "118515428286715": {
-        "text": 1,
+        "text": 3,
         "media": 2,
-        "total": 3
+        "total": 5
+      },
+      "274384656834700": {
+        "text": 0,
+        "media": 1,
+        "total": 1
       }
     },
     "120363409727467494@g.us": {
@@ -13639,7 +13644,12 @@
         "Souza (190864487919667): Pessoal tá devagar hoje",
         "Souza (190864487919667): Cortada ou completa?",
         "Camila Designer (92629643563147): Completa por favor",
-        "LUCIANO (57561571176651): Eita kkkk"
+        "LUCIANO (57561571176651): Eita kkkk",
+        "Saul (118515428286715): Vocês estão falando de gasolina?",
+        "Priscilla 🌻 (25520947339303): Kkk",
+        "Saul (118515428286715): 🤣🤣🤣",
+        "Gleydson Souza (274384656834700): Gleydson souza\n22 anos\nÁguas lindas GO\nSolteiro \nConhecer\nPrivado aberto",
+        "Celiete Souza (129373172711439): Pareceu mesmo kkkk"
       ]
     },
     "120363409727467494@g.us": {
@@ -16224,24 +16234,6 @@
     ],
     "120363428464897153@g.us": [
       {
-        "authorNum": "25520947339303",
-        "authorName": "Priscilla 🌻",
-        "text": "Oxe kkk",
-        "timestamp": 1787877089205
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Vida boa",
-        "timestamp": 1787877090495
-      },
-      {
-        "authorNum": "25520947339303",
-        "authorName": "Priscilla 🌻",
-        "text": "Sim kkk",
-        "timestamp": 1787877097020
-      },
-      {
         "authorNum": "155503636275307",
         "authorName": "Clayton 🇳🇬",
         "text": "Deve torcer pro galo 🐓 neh",
@@ -16540,6 +16532,36 @@
         "authorName": "LUCIANO",
         "text": "Eita kkkk",
         "timestamp": 1787878872957
+      },
+      {
+        "authorNum": "118515428286715",
+        "authorName": "Saul",
+        "text": "Vocês estão falando de gasolina?",
+        "timestamp": 1787878885779
+      },
+      {
+        "authorNum": "25520947339303",
+        "authorName": "Priscilla 🌻",
+        "text": "Kkk",
+        "timestamp": 1787878896949
+      },
+      {
+        "authorNum": "118515428286715",
+        "authorName": "Saul",
+        "text": "🤣🤣🤣",
+        "timestamp": 1787878897278
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Gleydson souza\n22 anos\nÁguas lindas GO\nSolteiro \nConhecer\nPrivado aberto",
+        "timestamp": 1787878899280
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Pareceu mesmo kkkk",
+        "timestamp": 1787878917413
       }
     ],
     "120363409727467494@g.us": [],
@@ -16650,7 +16672,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 21031,
-    "120363428464897153@g.us": 6100,
+    "120363428464897153@g.us": 6105,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1711,
     "120363411233423709@g.us": 5,
@@ -172787,6 +172809,36 @@
         "text": "Eita kkkk",
         "pushName": "LUCIANO",
         "timestamp": 1787878872957
+      },
+      "3ADBCB55C2419EAC6CAA": {
+        "sender": "118515428286715@lid",
+        "text": "Vocês estão falando de gasolina?",
+        "pushName": "Saul",
+        "timestamp": 1787878885779
+      },
+      "AC38658C29F9F4C2C57E222FA486133A": {
+        "sender": "25520947339303@lid",
+        "text": "Kkk",
+        "pushName": "Priscilla 🌻",
+        "timestamp": 1787878896949
+      },
+      "3AC2B60D9ACF01861D2F": {
+        "sender": "118515428286715@lid",
+        "text": "🤣🤣🤣",
+        "pushName": "Saul",
+        "timestamp": 1787878897278
+      },
+      "AC332787748BEF6F0E3CA16E304E7CC5": {
+        "sender": "274384656834700@lid",
+        "text": "Gleydson souza\n22 anos\nÁguas lindas GO\nSolteiro \nConhecer\nPrivado aberto",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787878899280
+      },
+      "ACFF257EB5454926D685EFAB40D9B19C": {
+        "sender": "129373172711439@lid",
+        "text": "Pareceu mesmo kkkk",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787878917415
       }
     },
     "120363409727467494@g.us": {
@@ -186831,7 +186883,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787878669226,
-    "120363428464897153@g.us": 1787878872957,
+    "120363428464897153@g.us": 1787878917586,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787877736241,
     "120363411233423709@g.us": 1787113553426,
