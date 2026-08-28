@@ -173,9 +173,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1683,
+        "text": 1684,
         "media": 466,
-        "total": 2149
+        "total": 2150
       },
       "81991328395336": {
         "text": 3946,
@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2373,
+        "text": 2374,
         "media": 330,
-        "total": 2703
+        "total": 2704
       },
       "252922705240205": {
         "text": 80,
@@ -9950,8 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Leandro (+55 (11) 92701-8683): Estou bem, graças a Deus! 🙏🏻🙌🏻",
-        "Leandro (+55 (11) 92701-8683): Divulgou link, é tchau, o bot pega",
         "Arthur (206253020176458): Fazendo oq kamila de bom",
         "Rafael Moura (57707230945348): Paz amor e muito miojo",
         "Bruno Aguiar (+1395881181241): É bom repor as energias",
@@ -10449,7 +10447,9 @@
         "Leandro (+55 (11) 92701-8683): Tem pra ninguém, Cristiano Araújo e Marília Mendonça 🤌🏼",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): 🤌🏻🤌🏻🤌🏻🤌🏻",
         "Celiete Souza (129373172711439): Vdd",
-        "Celiete Souza (129373172711439): Amo eles"
+        "Celiete Souza (129373172711439): Amo eles",
+        "Celiete Souza (129373172711439): Henrique e Juliano, minha paixão",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Sertanejo universitário, praticamente todos são bons"
       ]
     },
     "120363428464897153@g.us": {
@@ -17617,6 +17617,18 @@
         "authorName": "Celiete Souza",
         "text": "Amo eles",
         "timestamp": 1787956413503
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Henrique e Juliano, minha paixão",
+        "timestamp": 1787956428239
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Sertanejo universitário, praticamente todos são bons",
+        "timestamp": 1787956451248
       }
     ],
     "120363428464897153@g.us": [],
@@ -17770,7 +17782,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22532,
+    "120363432018531082@g.us": 22534,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2109,
@@ -147003,6 +147015,18 @@
         "text": "Amo eles",
         "pushName": "Celiete Souza",
         "timestamp": 1787956413503
+      },
+      "AC33976D70E1EEABDC1CABBA103C025B": {
+        "sender": "129373172711439@lid",
+        "text": "Henrique e Juliano, minha paixão",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787956428239
+      },
+      "AC47B447C138D88FC9D61FF850F2979A": {
+        "sender": "53537388122141@lid",
+        "text": "Sertanejo universitário, praticamente todos são bons",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787956451248
       }
     },
     "120363428464897153@g.us": {
@@ -200626,7 +200650,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787956413503,
+    "120363432018531082@g.us": 1787956451248,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787956417038,
