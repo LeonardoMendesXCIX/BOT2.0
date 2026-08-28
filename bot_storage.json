@@ -2598,9 +2598,9 @@
         "total": 2
       },
       "11171897864256": {
-        "text": 24,
+        "text": 26,
         "media": 2,
-        "total": 26
+        "total": 28
       },
       "190864487919667": {
         "text": 274,
@@ -9900,8 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Quero Pix",
-        "Pedro Henrique (172868239380659): O meu já foi kkkk",
         "Arthur (206253020176458): Também quero jjjkkkkk",
         "Bruno Aguiar (+1395881181241): Bom dia povo🙏🏼🙏🏼🙏🏼",
         "Rafael Moura (57707230945348): Dia baum",
@@ -10399,7 +10397,9 @@
         " (120363432018531082): Boa tarde pessoas",
         "jaciara (108461127897146): Boa tarde pessoas",
         "Camila Designer (92629643563147): Acho que vamos ter público para nós dois 🤣🤣🤣",
-        "Camila Designer (92629643563147): Boa tarde ❤️"
+        "Camila Designer (92629643563147): Boa tarde ❤️",
+        "🙃🙃🙃 (11171897864256): Aah tá por isso entrei e senti um cheiro estranho 🤣🤪",
+        "🙃🙃🙃 (11171897864256): Bem vinda ☺️"
       ]
     },
     "120363428464897153@g.us": {
@@ -17342,42 +17342,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "263797142995147",
-        "authorName": "Nanda",
-        "text": "eu tenho namorado, porém ele trabalha tmb né, normal de todo clt. e a unica amiguinha q tenho q mora perto, tmb trabalha e eu sou ajudante de cuidadora de idosos, n é td dia q trabalho, hj é minha folga e n tem nd pra fazer",
-        "timestamp": 1787926849125
-      },
-      {
-        "authorNum": "263797142995147",
-        "authorName": "Nanda",
-        "text": "brigadaa",
-        "timestamp": 1787926857165
-      },
-      {
-        "authorNum": "263797142995147",
-        "authorName": "Nanda",
-        "text": "pior",
-        "timestamp": 1787926866431
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Tem que ter mais amigos então 😂",
-        "timestamp": 1787926869409
-      },
-      {
-        "authorNum": "263797142995147",
-        "authorName": "Nanda",
-        "text": "ai eu vou me comunicar como se me sequestrarem?",
-        "timestamp": 1787926876617
-      },
-      {
-        "authorNum": "263797142995147",
-        "authorName": "Nanda",
-        "text": "eu penso cada coisa mn",
-        "timestamp": 1787926881646
-      },
-      {
         "authorNum": "37826582323373",
         "authorName": "eduardo",
         "text": "Já imagino",
@@ -17670,6 +17634,18 @@
         "authorName": "Camila Designer",
         "text": "Boa tarde ❤️",
         "timestamp": 1787928644723
+      },
+      {
+        "authorNum": "11171897864256",
+        "authorName": "🙃🙃🙃",
+        "text": "Aah tá por isso entrei e senti um cheiro estranho 🤣🤪",
+        "timestamp": 1787928680751
+      },
+      {
+        "authorNum": "11171897864256",
+        "authorName": "🙃🙃🙃",
+        "text": "Bem vinda ☺️",
+        "timestamp": 1787928703717
       }
     ],
     "120363428464897153@g.us": [],
@@ -17696,7 +17672,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21827,
+    "120363432018531082@g.us": 21829,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -142748,6 +142724,18 @@
         "text": "Boa tarde ❤️",
         "pushName": "Camila Designer",
         "timestamp": 1787928644723
+      },
+      "AC20FBB9318704828D64C22551FD2A02": {
+        "sender": "11171897864256@lid",
+        "text": "Aah tá por isso entrei e senti um cheiro estranho 🤣🤪",
+        "pushName": "🙃🙃🙃",
+        "timestamp": 1787928680752
+      },
+      "ACD00BA0FCD633B1D448175D0DADAED5": {
+        "sender": "11171897864256@lid",
+        "text": "Bem vinda ☺️",
+        "pushName": "🙃🙃🙃",
+        "timestamp": 1787928703718
       }
     },
     "120363428464897153@g.us": {
@@ -195657,7 +195645,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787928644723,
+    "120363432018531082@g.us": 1787928703717,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
