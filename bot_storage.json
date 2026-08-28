@@ -698,9 +698,9 @@
         "total": 95
       },
       "57707230945348": {
-        "text": 1186,
+        "text": 1187,
         "media": 214,
-        "total": 1400
+        "total": 1401
       },
       "152218690924790": {
         "text": 309,
@@ -2663,9 +2663,9 @@
         "total": 77
       },
       "172868239380659": {
-        "text": 128,
+        "text": 129,
         "media": 20,
-        "total": 148
+        "total": 149
       },
       "170455038193841": {
         "text": 1,
@@ -2798,9 +2798,9 @@
         "total": 5
       },
       "247020967165997": {
-        "text": 55,
+        "text": 56,
         "media": 13,
-        "total": 68
+        "total": 69
       },
       "206253020176458": {
         "text": 3,
@@ -2813,9 +2813,9 @@
         "total": 16
       },
       "221307534876912": {
-        "text": 2,
-        "media": 2,
-        "total": 4
+        "text": 3,
+        "media": 3,
+        "total": 6
       }
     },
     "120363428464897153@g.us": {
@@ -10231,7 +10231,11 @@
         "Clayton 🇳🇬 (155503636275307): Acabou a briga",
         "Rafael Moura (57707230945348): Porra entao voltei a ser 0KM",
         "Clayton 🇳🇬 (155503636275307): Queremos o final desta novela",
-        "Gabi 💋 (247020967165997): Pra tu caçar no puteiro e eu que sou rodada"
+        "Gabi 💋 (247020967165997): Pra tu caçar no puteiro e eu que sou rodada",
+        "Rafael Moura (57707230945348): Nem falo meu tempo de solterice🙈",
+        "Gabi 💋 (247020967165997): Quem deve está com doença é tu",
+        "Pedro Henrique (172868239380659): Cuidado, ela vai achar que significa algo",
+        "𝔞𝔩𝔦𝔫𝔢🫶🏽 (221307534876912): Kkkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -17813,6 +17817,30 @@
         "authorName": "Gabi 💋",
         "text": "Pra tu caçar no puteiro e eu que sou rodada",
         "timestamp": 1787916876236
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Nem falo meu tempo de solterice🙈",
+        "timestamp": 1787916890303
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Quem deve está com doença é tu",
+        "timestamp": 1787916898670
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Cuidado, ela vai achar que significa algo",
+        "timestamp": 1787916910728
+      },
+      {
+        "authorNum": "221307534876912",
+        "authorName": "𝔞𝔩𝔦𝔫𝔢🫶🏽",
+        "text": "Kkkk",
+        "timestamp": 1787916911180
       }
     ],
     "120363428464897153@g.us": [],
@@ -17839,7 +17867,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21469,
+    "120363432018531082@g.us": 21473,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -140763,6 +140791,30 @@
         "text": "Pra tu caçar no puteiro e eu que sou rodada",
         "pushName": "Gabi 💋",
         "timestamp": 1787916876236
+      },
+      "AC21135C4DA66A198BFEA2BC7200C64F": {
+        "sender": "57707230945348@lid",
+        "text": "Nem falo meu tempo de solterice🙈",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787916890303
+      },
+      "AC178AAA10EEF263D8AE00C3251A2E76": {
+        "sender": "247020967165997@lid",
+        "text": "Quem deve está com doença é tu",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787916898670
+      },
+      "ACC1BE1A6C0AE47EC43480D16DFB04D7": {
+        "sender": "172868239380659@lid",
+        "text": "Cuidado, ela vai achar que significa algo",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787916910728
+      },
+      "AC294A631A38FA9AD3800103055E7570": {
+        "sender": "221307534876912@lid",
+        "text": "Kkkk",
+        "pushName": "𝔞𝔩𝔦𝔫𝔢🫶🏽",
+        "timestamp": 1787916911181
       }
     },
     "120363428464897153@g.us": {
@@ -193558,7 +193610,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787916876236,
+    "120363432018531082@g.us": 1787916911180,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
