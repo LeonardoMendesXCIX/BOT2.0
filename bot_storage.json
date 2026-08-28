@@ -1953,9 +1953,9 @@
         "total": 5
       },
       "83911531044906": {
-        "text": 63,
+        "text": 64,
         "media": 3,
-        "total": 66
+        "total": 67
       },
       "172864548434113": {
         "text": 42,
@@ -9900,7 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Gabi 💋 (247020967165997): Ok",
         "Gabi 💋 (247020967165997): Coisa fofa",
         "Souza (190864487919667): Receba",
         "Pedro Henrique (172868239380659): 980- diária do chalé\n250- lavagem do carro e da gasolina",
@@ -10399,7 +10398,8 @@
         "jaciara (108461127897146): Porque nao sou obrigada ficar com macho escroto só por causa que estou grávida",
         "~Gará (83911531044906): Não mesmo",
         "~Gará (83911531044906): Ainda mais quem maltrata uma mulher grávida.\nQue esta carregando um filho dele.",
-        "F. RicaRdo sAnToS (193729163993156): Boa tarde pra quem fica....ótima sexta-feira"
+        "F. RicaRdo sAnToS (193729163993156): Boa tarde pra quem fica....ótima sexta-feira",
+        "~Gará (83911531044906): Pra ti também"
       ]
     },
     "120363428464897153@g.us": {
@@ -17994,6 +17994,12 @@
         "authorName": "F. RicaRdo sAnToS",
         "text": "Boa tarde pra quem fica....ótima sexta-feira",
         "timestamp": 1787929996925
+      },
+      {
+        "authorNum": "83911531044906",
+        "authorName": "~Gará",
+        "text": "Pra ti também",
+        "timestamp": 1787930011134
       }
     ],
     "120363428464897153@g.us": [],
@@ -18020,7 +18026,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21927,
+    "120363432018531082@g.us": 21928,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -143672,6 +143678,12 @@
         "text": "Boa tarde pra quem fica....ótima sexta-feira",
         "pushName": "F. RicaRdo sAnToS",
         "timestamp": 1787929996925
+      },
+      "ACFA7D447466FF87B0E1B58F6EE4FCB4": {
+        "sender": "83911531044906@lid",
+        "text": "Pra ti também",
+        "pushName": "~Gará",
+        "timestamp": 1787930011134
       }
     },
     "120363428464897153@g.us": {
@@ -196581,7 +196593,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787929996925,
+    "120363432018531082@g.us": 1787930011134,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
