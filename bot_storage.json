@@ -2628,9 +2628,9 @@
         "total": 46
       },
       "75797868064796": {
-        "text": 35,
+        "text": 37,
         "media": 96,
-        "total": 131
+        "total": 133
       },
       "153764728184839": {
         "text": 2,
@@ -9900,8 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Pedro Henrique (172868239380659): É o que eu tô lembrando no momento",
-        "Gabi 💋 (247020967165997): Fala o Pix",
         "Alexandre Bastos (75797868064796): Só isso",
         "Gabi 💋 (247020967165997): Vai levar uma acompanhante",
         "Gabi 💋 (247020967165997): A não pq vai que é miojo",
@@ -10399,7 +10397,9 @@
         "~Gará (83911531044906): Pra ti também",
         "🙃🙃🙃 (11171897864256): A menina nasce quando ???",
         "jaciara (108461127897146): Final de novembro ou começo de dezembro",
-        "jaciara (108461127897146): Logo logo"
+        "jaciara (108461127897146): Logo logo",
+        "Alexandre Bastos (75797868064796): Eita porra",
+        "Alexandre Bastos (75797868064796): Eita porra"
       ]
     },
     "120363428464897153@g.us": {
@@ -18006,6 +18006,18 @@
         "authorName": "jaciara",
         "text": "Logo logo",
         "timestamp": 1787930094629
+      },
+      {
+        "authorNum": "75797868064796",
+        "authorName": "Alexandre Bastos",
+        "text": "Eita porra",
+        "timestamp": 1787930150656
+      },
+      {
+        "authorNum": "75797868064796",
+        "authorName": "Alexandre Bastos",
+        "text": "Eita porra",
+        "timestamp": 1787930152039
       }
     ],
     "120363428464897153@g.us": [],
@@ -18025,7 +18037,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21931,
+    "120363432018531082@g.us": 21933,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -143701,6 +143713,12 @@
         "text": "Logo logo",
         "pushName": "jaciara",
         "timestamp": 1787930094629
+      },
+      "AC60000CBA1B5F9EFCDCDBEAC48A4937": {
+        "sender": "75797868064796@lid",
+        "text": "Eita porra",
+        "pushName": "Alexandre Bastos",
+        "timestamp": 1787930152039
       }
     },
     "120363428464897153@g.us": {
@@ -196610,7 +196628,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787930094629,
+    "120363432018531082@g.us": 1787930152039,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
