@@ -2629,8 +2629,8 @@
       },
       "75797868064796": {
         "text": 21,
-        "media": 62,
-        "total": 83
+        "media": 64,
+        "total": 85
       },
       "153764728184839": {
         "text": 2,
@@ -2663,9 +2663,9 @@
         "total": 77
       },
       "172868239380659": {
-        "text": 120,
+        "text": 121,
         "media": 20,
-        "total": 140
+        "total": 141
       },
       "170455038193841": {
         "text": 1,
@@ -2798,9 +2798,9 @@
         "total": 5
       },
       "247020967165997": {
-        "text": 49,
+        "text": 50,
         "media": 11,
-        "total": 60
+        "total": 61
       },
       "206253020176458": {
         "text": 3,
@@ -10210,7 +10210,9 @@
         "Rafael Moura (57707230945348): Bastante gordura",
         "Rafael Moura (57707230945348): 🤣",
         "Gabi 💋 (247020967165997): Eita entendi foi tudo",
-        "Gabi 💋 (247020967165997): E muito molho verde"
+        "Gabi 💋 (247020967165997): E muito molho verde",
+        "Gabi 💋 (247020967165997): Vai falar que é pq você quer",
+        "Pedro Henrique (172868239380659): Lá em São Sebastião, lugar longe kkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -17792,6 +17794,18 @@
         "authorName": "Gabi 💋",
         "text": "E muito molho verde",
         "timestamp": 1787916652859
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Vai falar que é pq você quer",
+        "timestamp": 1787916664122
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Lá em São Sebastião, lugar longe kkk",
+        "timestamp": 1787916664795
       }
     ],
     "120363428464897153@g.us": [],
@@ -17818,7 +17832,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21448,
+    "120363432018531082@g.us": 21450,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -140616,6 +140630,18 @@
         "text": "E muito molho verde",
         "pushName": "Gabi 💋",
         "timestamp": 1787916652859
+      },
+      "ACD829CA375A79FF9F1306E2F345243A": {
+        "sender": "247020967165997@lid",
+        "text": "Vai falar que é pq você quer",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787916664122
+      },
+      "AC49EF60270978F208D1D45D8631ACCC": {
+        "sender": "172868239380659@lid",
+        "text": "Lá em São Sebastião, lugar longe kkk",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787916664795
       }
     },
     "120363428464897153@g.us": {
@@ -193411,7 +193437,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787916652859,
+    "120363432018531082@g.us": 1787916694904,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
