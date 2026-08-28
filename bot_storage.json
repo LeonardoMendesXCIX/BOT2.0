@@ -1953,9 +1953,9 @@
         "total": 5
       },
       "83911531044906": {
-        "text": 61,
+        "text": 62,
         "media": 3,
-        "total": 64
+        "total": 65
       },
       "172864548434113": {
         "text": 42,
@@ -9900,7 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Pedro Henrique (172868239380659): Vou mandar os valores aí pra vc",
         "Alexandre Bastos (75797868064796): Quando e isso tem alguma coisa",
         "Saul (118515428286715): QUE ISSO, na cara não kkkk",
         "Gabi 💋 (247020967165997): Ok",
@@ -10399,7 +10398,8 @@
         "Souza (190864487919667): Aí já não sei",
         "jaciara (108461127897146): A gente namorou 8 meses e começou a me maltratar no início da gravidez e eu terminei o relacionamento",
         "~Gará (83911531044906): Certíssima",
-        "jaciara (108461127897146): Porque nao sou obrigada ficar com macho escroto só por causa que estou grávida"
+        "jaciara (108461127897146): Porque nao sou obrigada ficar com macho escroto só por causa que estou grávida",
+        "~Gará (83911531044906): Não mesmo"
       ]
     },
     "120363428464897153@g.us": {
@@ -17976,6 +17976,12 @@
         "authorName": "jaciara",
         "text": "Porque nao sou obrigada ficar com macho escroto só por causa que estou grávida",
         "timestamp": 1787929939678
+      },
+      {
+        "authorNum": "83911531044906",
+        "authorName": "~Gará",
+        "text": "Não mesmo",
+        "timestamp": 1787929950338
       }
     ],
     "120363428464897153@g.us": [],
@@ -18002,7 +18008,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21924,
+    "120363432018531082@g.us": 21925,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -143636,6 +143642,12 @@
         "text": "Porque nao sou obrigada ficar com macho escroto só por causa que estou grávida",
         "pushName": "jaciara",
         "timestamp": 1787929939678
+      },
+      "AC79C03024EC4A3928D91022B2E1ED85": {
+        "sender": "83911531044906@lid",
+        "text": "Não mesmo",
+        "pushName": "~Gará",
+        "timestamp": 1787929950338
       }
     },
     "120363428464897153@g.us": {
@@ -196545,7 +196557,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787929939678,
+    "120363432018531082@g.us": 1787929950338,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
