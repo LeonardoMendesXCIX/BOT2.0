@@ -2803,9 +2803,9 @@
         "total": 155
       },
       "206253020176458": {
-        "text": 26,
+        "text": 27,
         "media": 7,
-        "total": 33
+        "total": 34
       },
       "210152934359048": {
         "text": 16,
@@ -3935,9 +3935,9 @@
         "total": 136
       },
       "5511927018683": {
-        "text": 54,
+        "text": 55,
         "media": 10,
-        "total": 64
+        "total": 65
       },
       "30486281900223": {
         "text": 1,
@@ -9930,7 +9930,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Gabi 💋 (247020967165997): Bora Rafael",
         "Pedro Henrique (172868239380659): A Gabi?",
         "Gabi 💋 (247020967165997): E eu não estava brincando não",
         "Pedro Henrique (172868239380659): A Gabi apelou, não aguentou a brincadeira saudável e partiu pra ofensa, aqui o pessoal tem um humor muito ácido",
@@ -10429,7 +10428,8 @@
         "~Gará (83911531044906): Tudo,e vc como ta?",
         "Arthur (206253020176458): Ss e com vc",
         "Leandro (+55 (11) 92701-8683): Estou bem, graças a Deus! 🙏🏻🙌🏻",
-        "Leandro (+55 (11) 92701-8683): Divulgou link, é tchau, o bot pega"
+        "Leandro (+55 (11) 92701-8683): Divulgou link, é tchau, o bot pega",
+        "Arthur (206253020176458): Fazendo oq kamila de bom"
       ]
     },
     "120363428464897153@g.us": {
@@ -17354,7 +17354,8 @@
         "Kamila (78143406768201): Tá bom",
         "Alexandre Bastos (75797868064796): Ok",
         "~Gará (83911531044906): Ok",
-        "eduardo (37826582323373): Oi gente tudo bem pra todos"
+        "eduardo (37826582323373): Oi gente tudo bem pra todos",
+        "Leandro (+55 (11) 92701-8683): Boa tarde a @all"
       ]
     },
     "120363411043114631@g.us": {
@@ -17681,6 +17682,12 @@
         "authorName": "Leandro",
         "text": "Divulgou link, é tchau, o bot pega",
         "timestamp": 1787933032947
+      },
+      {
+        "authorNum": "206253020176458",
+        "authorName": "Arthur",
+        "text": "Fazendo oq kamila de bom",
+        "timestamp": 1787933075675
       }
     ],
     "120363428464897153@g.us": [],
@@ -17703,18 +17710,6 @@
     "120363428079168524@g.us": [],
     "120363411246936023@g.us": [],
     "120363409024805409@g.us": [
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "!abrir",
-        "timestamp": 1787931043856
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Boa tarde a @all",
-        "timestamp": 1787931057405
-      },
       {
         "authorNum": "270377049690114",
         "authorName": "Vini 👑🏁🙌⚽",
@@ -17756,6 +17751,12 @@
         "authorName": "eduardo",
         "text": "Oi gente tudo bem pra todos",
         "timestamp": 1787932115133
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Boa tarde a @all",
+        "timestamp": 1787933072923
       }
     ],
     "120363050678635389@g.us": [],
@@ -17768,14 +17769,14 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22034,
+    "120363432018531082@g.us": 22035,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2014,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
-    "120363409024805409@g.us": 79,
+    "120363409024805409@g.us": 80,
     "120363050678635389@g.us": 1,
     "120363411043114631@g.us": 20
   },
@@ -144050,6 +144051,12 @@
         "text": "Divulgou link, é tchau, o bot pega",
         "pushName": "Leandro",
         "timestamp": 1787933032947
+      },
+      "AC64F08A9AB9349CC3086EBD41B55A70": {
+        "sender": "206253020176458@lid",
+        "text": "Fazendo oq kamila de bom",
+        "pushName": "Arthur",
+        "timestamp": 1787933075676
       }
     },
     "120363428464897153@g.us": {
@@ -196822,6 +196829,12 @@
         "text": "Oi gente tudo bem pra todos",
         "pushName": "eduardo",
         "timestamp": 1787932115133
+      },
+      "A59D2D9DCB318BF6C853FDE14ED4EF93": {
+        "sender": "54259127210155@lid",
+        "text": "Boa tarde a @all",
+        "pushName": "Leandro",
+        "timestamp": 1787933072923
       }
     },
     "120363050678635389@g.us": {
@@ -197025,7 +197038,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787933032946,
+    "120363432018531082@g.us": 1787933075675,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787932967702,
@@ -197036,7 +197049,7 @@
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1787868477291,
-    "120363409024805409@g.us": 1787932115133,
+    "120363409024805409@g.us": 1787933072923,
     "120363411043114631@g.us": 1787897464612
   },
   "autoAnimSent": {
