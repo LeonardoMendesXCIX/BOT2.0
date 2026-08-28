@@ -1558,9 +1558,9 @@
         "total": 6
       },
       "56603776680152": {
-        "text": 49,
+        "text": 50,
         "media": 14,
-        "total": 63
+        "total": 64
       },
       "219881320521868": {
         "text": 13,
@@ -9928,7 +9928,8 @@
         "eduardo (37826582323373): ne isso",
         "eduardo (37826582323373): e babando",
         "eduardo (37826582323373): Kkkkk",
-        "Alexandre Bastos (75797868064796): Kkkkk"
+        "Alexandre Bastos (75797868064796): Kkkkk",
+        "Dáfi (56603776680152): Bom dia gente"
       ]
     },
     "120363428464897153@g.us": {
@@ -16848,24 +16849,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Às ordens!",
-        "timestamp": 1787901900593
-      },
-      {
-        "authorNum": "37826582323373",
-        "authorName": "eduardo",
-        "text": "asim",
-        "timestamp": 1787901913366
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Disponha",
-        "timestamp": 1787901914366
-      },
-      {
         "authorNum": "81991328395336",
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "*Bom dia pessoal, que Deus abençoe o nosso dia, nossa sexta-feira, que tenhamos um dia produtivo e cheio de surpresas boas, a todos um bom final de semana!*❣️✨",
@@ -16930,6 +16913,12 @@
         "authorName": "Alexandre Bastos",
         "text": "Kkkkk",
         "timestamp": 1787903321081
+      },
+      {
+        "authorNum": "56603776680152",
+        "authorName": "Dáfi",
+        "text": "Bom dia gente",
+        "timestamp": 1787903833586
       }
     ],
     "120363428464897153@g.us": [],
@@ -16949,7 +16938,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21196,
+    "120363432018531082@g.us": 21197,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1989,
@@ -138249,6 +138238,12 @@
         "text": "Kkkkk",
         "pushName": "Alexandre Bastos",
         "timestamp": 1787903321081
+      },
+      "3AADE28D8787AE4A57D7": {
+        "sender": "56603776680152@lid",
+        "text": "Bom dia gente",
+        "pushName": "Dáfi",
+        "timestamp": 1787903833586
       }
     },
     "120363428464897153@g.us": {
@@ -191020,7 +191015,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787903321081,
+    "120363432018531082@g.us": 1787903833586,
     "120363428464897153@g.us": 1787902098969,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787894166886,
