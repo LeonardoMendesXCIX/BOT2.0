@@ -1953,9 +1953,9 @@
         "total": 5
       },
       "83911531044906": {
-        "text": 39,
+        "text": 40,
         "media": 2,
-        "total": 41
+        "total": 42
       },
       "172864548434113": {
         "text": 42,
@@ -2603,9 +2603,9 @@
         "total": 26
       },
       "190864487919667": {
-        "text": 257,
+        "text": 259,
         "media": 42,
-        "total": 299
+        "total": 301
       },
       "82227819987089": {
         "text": 2,
@@ -2673,9 +2673,9 @@
         "total": 3
       },
       "193729163993156": {
-        "text": 19,
+        "text": 20,
         "media": 5,
-        "total": 24
+        "total": 25
       },
       "151582733820115": {
         "text": 5,
@@ -2858,9 +2858,9 @@
         "total": 4
       },
       "263797142995147": {
-        "text": 20,
+        "text": 22,
         "media": 2,
-        "total": 22
+        "total": 24
       }
     },
     "120363428464897153@g.us": {
@@ -9900,10 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Aaah simmm",
-        "Souza (190864487919667): Tô quase me vendendo por um pastel",
-        "Bruno (210152934359048): Floripa, deve ser maneiro ai",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Daora, e bonito também",
         "🙃🙃🙃 (11171897864256): Bom dia cheguei agora",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Era eu e @54259127210155 \nAcordados",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Meu sono é parcelado",
@@ -10399,7 +10395,11 @@
         "Nanda (263797142995147): eu corro q nem uma pata",
         "Bruno Aguiar (+1395881181241): Seja bem vinda!",
         "Nanda (263797142995147): brigada",
-        "Souza (190864487919667): KKKKKKKKKKKKKKKKKKKKKK"
+        "Souza (190864487919667): KKKKKKKKKKKKKKKKKKKKKK",
+        "Souza (190864487919667): leva só o básico",
+        "~Gará (83911531044906): Bem vinda",
+        "Nanda (263797142995147): pior q eu tento kkkkk",
+        "Nanda (263797142995147): brigada"
       ]
     },
     "120363428464897153@g.us": {
@@ -17341,18 +17341,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "78143406768201",
-        "authorName": "Kamila",
-        "text": "Tudo bem",
-        "timestamp": 1787924919124
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "!ban",
-        "timestamp": 1787924934729
-      },
-      {
         "authorNum": "190864487919667",
         "authorName": "Souza",
         "text": "Ish",
@@ -17645,6 +17633,30 @@
         "authorName": "Souza",
         "text": "KKKKKKKKKKKKKKKKKKKKKK",
         "timestamp": 1787926715017
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "leva só o básico",
+        "timestamp": 1787926724761
+      },
+      {
+        "authorNum": "83911531044906",
+        "authorName": "~Gará",
+        "text": "Bem vinda",
+        "timestamp": 1787926736216
+      },
+      {
+        "authorNum": "263797142995147",
+        "authorName": "Nanda",
+        "text": "pior q eu tento kkkkk",
+        "timestamp": 1787926744179
+      },
+      {
+        "authorNum": "263797142995147",
+        "authorName": "Nanda",
+        "text": "brigada",
+        "timestamp": 1787926746746
       }
     ],
     "120363428464897153@g.us": [],
@@ -17677,7 +17689,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21762,
+    "120363432018531082@g.us": 21766,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2011,
@@ -142346,6 +142358,30 @@
         "text": "KKKKKKKKKKKKKKKKKKKKKK",
         "pushName": "Souza",
         "timestamp": 1787926715017
+      },
+      "ACDEA61A5B1891BC099FD68934A034FC": {
+        "sender": "190864487919667@lid",
+        "text": "leva só o básico",
+        "pushName": "Souza",
+        "timestamp": 1787926724761
+      },
+      "ACD0B1FB640EAFA5F7A60BA88EFF28F9": {
+        "sender": "83911531044906@lid",
+        "text": "Bem vinda",
+        "pushName": "~Gará",
+        "timestamp": 1787926736217
+      },
+      "ACCBA5C0A2D863443C5E8EBDB7C42BDF": {
+        "sender": "263797142995147@lid",
+        "text": "pior q eu tento kkkkk",
+        "pushName": "Nanda",
+        "timestamp": 1787926744179
+      },
+      "ACDDA9FC2A0125A8B024F112544CCB89": {
+        "sender": "263797142995147@lid",
+        "text": "brigada",
+        "pushName": "Nanda",
+        "timestamp": 1787926746746
       }
     },
     "120363428464897153@g.us": {
@@ -195249,7 +195285,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787926715017,
+    "120363432018531082@g.us": 1787926746746,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787926648480,
