@@ -152,9 +152,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2191,
+        "text": 2192,
         "media": 471,
-        "total": 2662
+        "total": 2663
       },
       "184237705699536": {
         "text": 524,
@@ -242,9 +242,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2207,
+        "text": 2208,
         "media": 293,
-        "total": 2500
+        "total": 2501
       },
       "252922705240205": {
         "text": 80,
@@ -3199,9 +3199,9 @@
         "total": 29
       },
       "155503636275307": {
-        "text": 17,
+        "text": 18,
         "media": 16,
-        "total": 33
+        "total": 34
       },
       "241553943601214": {
         "text": 5,
@@ -3324,8 +3324,8 @@
       },
       "145381035905262": {
         "text": 364,
-        "media": 143,
-        "total": 507
+        "media": 144,
+        "total": 508
       },
       "53537388122141": {
         "text": 667,
@@ -9165,7 +9165,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Jennifer🦋 (205621945192508): Obgda",
         "Pedro Henrique (172868239380659): Já vou ir fazer amizade com você, vai que ganhou açaí com peixe",
         "Gabriel🙅🏻‍♂️💸 (151582733820115): Boa noite pode PV",
         "willian (163530946961491): Não né mas é fiel a uma só",
@@ -9664,7 +9663,8 @@
         "Gabriel (145381035905262): Ainda bem",
         "jaciara (108461127897146): Minha mãe , minha tia .",
         "Jessica (208958782488665): Já mostro",
-        "Pedro Henrique (172868239380659): Me conte mais sobre, só falta saber fazer requeijão"
+        "Pedro Henrique (172868239380659): Me conte mais sobre, só falta saber fazer requeijão",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Melhorou"
       ]
     },
     "120363428464897153@g.us": {
@@ -13553,7 +13553,8 @@
         "Souza (190864487919667): Ish",
         "Souza (190864487919667): Povo tá quieto hoje?",
         "Priscilla 🌻 (25520947339303): Sim",
-        "Souza (190864487919667): Trabalha com q?"
+        "Souza (190864487919667): Trabalha com q?",
+        "Clayton 🇳🇬 (155503636275307): Meninas mamde foto de vocês bem avontade"
       ]
     },
     "120363409727467494@g.us": {
@@ -15994,30 +15995,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Só sei de uma coisa",
-        "timestamp": 1787874804025
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "21h",
-        "timestamp": 1787874808013
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Jajá kbaré",
-        "timestamp": 1787874820598
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Abre",
-        "timestamp": 1787874822440
-      },
-      {
         "authorNum": "172868239380659",
         "authorName": "Pedro Henrique",
         "text": "O que?",
@@ -16724,6 +16701,12 @@
         "authorName": "Pedro Henrique",
         "text": "Me conte mais sobre, só falta saber fazer requeijão",
         "timestamp": 1787876592726
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Melhorou",
+        "timestamp": 1787876655987
       }
     ],
     "120363428464897153@g.us": [
@@ -16978,6 +16961,12 @@
         "authorName": "Souza",
         "text": "Trabalha com q?",
         "timestamp": 1787876633098
+      },
+      {
+        "authorNum": "155503636275307",
+        "authorName": "Clayton 🇳🇬",
+        "text": "Meninas mamde foto de vocês bem avontade",
+        "timestamp": 1787876671065
       }
     ],
     "120363409727467494@g.us": [],
@@ -17134,8 +17123,8 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21005,
-    "120363428464897153@g.us": 6034,
+    "120363432018531082@g.us": 21006,
+    "120363428464897153@g.us": 6035,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1692,
     "120363411233423709@g.us": 5,
@@ -137311,6 +137300,12 @@
         "text": "Me conte mais sobre, só falta saber fazer requeijão",
         "pushName": "Pedro Henrique",
         "timestamp": 1787876592727
+      },
+      "AC557F2E5ADCF2E0F2CE465CAB9C11A9": {
+        "sender": "53537388122141@lid",
+        "text": "Melhorou",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787876655987
       }
     },
     "120363428464897153@g.us": {
@@ -172695,6 +172690,12 @@
         "text": "Trabalha com q?",
         "pushName": "Souza",
         "timestamp": 1787876633099
+      },
+      "AC6413EE7847C4744707207F2C516436": {
+        "sender": "155503636275307@lid",
+        "text": "Meninas mamde foto de vocês bem avontade",
+        "pushName": "Clayton 🇳🇬",
+        "timestamp": 1787876671065
       }
     },
     "120363409727467494@g.us": {
@@ -186606,10 +186607,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787876592726,
-    "120363428464897153@g.us": 1787876633098,
+    "120363432018531082@g.us": 1787876665319,
+    "120363428464897153@g.us": 1787876671065,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787876606434,
+    "120363412288900422@g.us": 1787876670770,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
