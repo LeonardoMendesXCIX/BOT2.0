@@ -314,9 +314,9 @@
         "total": 117
       },
       "199733712785531": {
-        "text": 192,
+        "text": 193,
         "media": 112,
-        "total": 304
+        "total": 305
       },
       "153596754661626": {
         "text": 1,
@@ -2654,9 +2654,9 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 62,
+        "text": 63,
         "media": 13,
-        "total": 75
+        "total": 76
       },
       "172868239380659": {
         "text": 93,
@@ -3351,9 +3351,9 @@
         "total": 20
       },
       "274384656834700": {
-        "text": 28,
+        "text": 29,
         "media": 11,
-        "total": 39
+        "total": 40
       },
       "34626781356198": {
         "text": 0,
@@ -9257,8 +9257,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Rafael Moura (57707230945348): Mas enfim",
-        "Souza (190864487919667): O nome dela é jennifer, eu encontrei ela no tiiiinder",
         "Gabriel (145381035905262): Graças a Deus pai",
         "Jennifer🦋 (205621945192508): Tinder não",
         "Jennifer🦋 (205621945192508): Aqui no grupo é melhor KKKkkkkk",
@@ -9756,7 +9754,9 @@
         "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Como estão?",
         "Leandro (+55 (11) 92701-8683): Quero integrantes ativos",
         "Leandro (+55 (11) 92701-8683): Tranquilo e calmo, graças a Deus",
-        "Leandro (+55 (11) 92701-8683): E tu?"
+        "Leandro (+55 (11) 92701-8683): E tu?",
+        "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Também",
+        "Gleydson Souza (274384656834700): Justo kkkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -16398,6 +16398,18 @@
         "authorName": "Leandro",
         "text": "E tu?",
         "timestamp": 1787882444680
+      },
+      {
+        "authorNum": "199733712785531",
+        "authorName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
+        "text": "Também",
+        "timestamp": 1787882485976
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Justo kkkk",
+        "timestamp": 1787882508026
       }
     ],
     "120363428464897153@g.us": [
@@ -16683,7 +16695,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21054,
+    "120363432018531082@g.us": 21056,
     "120363428464897153@g.us": 6216,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1712,
@@ -137154,6 +137166,18 @@
         "text": "E tu?",
         "pushName": "Leandro",
         "timestamp": 1787882444680
+      },
+      "3AE644CC61D4F1716D9D": {
+        "sender": "199733712785531@lid",
+        "text": "Também",
+        "pushName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
+        "timestamp": 1787882485976
+      },
+      "AC10BB2E0BEAAE7FFA55E0AF0A10B7A3": {
+        "sender": "274384656834700@lid",
+        "text": "Justo kkkk",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787882508026
       }
     },
     "120363428464897153@g.us": {
@@ -187679,8 +187703,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787882444680,
-    "120363428464897153@g.us": 1787882414753,
+    "120363432018531082@g.us": 1787882508026,
+    "120363428464897153@g.us": 1787882516466,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787881450994,
     "120363411233423709@g.us": 1787113553426,
