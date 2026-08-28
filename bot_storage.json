@@ -383,9 +383,9 @@
         "total": 480
       },
       "222595437858867": {
-        "text": 498,
+        "text": 499,
         "media": 53,
-        "total": 551
+        "total": 552
       },
       "83280154103884": {
         "text": 36,
@@ -2603,9 +2603,9 @@
         "total": 21
       },
       "190864487919667": {
-        "text": 198,
+        "text": 199,
         "media": 35,
-        "total": 233
+        "total": 234
       },
       "82227819987089": {
         "text": 2,
@@ -2798,9 +2798,9 @@
         "total": 4
       },
       "247020967165997": {
-        "text": 0,
+        "text": 1,
         "media": 1,
-        "total": 1
+        "total": 2
       }
     },
     "120363428464897153@g.us": {
@@ -9975,7 +9975,9 @@
         "Souza (190864487919667): Bem vinda Gabi",
         "Dany (262182034002040): Bem-vinda!!!",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindaaaa",
-        "Souza (190864487919667): Maravilhosa ela"
+        "Souza (190864487919667): Maravilhosa ela",
+        "Gabi 💋 (247020967165997): Obrigada",
+        "Juliano Perlin (222595437858867): Bom diaa🤗"
       ]
     },
     "120363428464897153@g.us": {
@@ -17007,6 +17009,18 @@
         "authorName": "Souza",
         "text": "Maravilhosa ela",
         "timestamp": 1787912410077
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Obrigada",
+        "timestamp": 1787912537888
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Bom diaa🤗",
+        "timestamp": 1787912576237
       }
     ],
     "120363428464897153@g.us": [],
@@ -17026,7 +17040,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21228,
+    "120363432018531082@g.us": 21230,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1989,
@@ -138511,6 +138525,18 @@
         "text": "Maravilhosa ela",
         "pushName": "Souza",
         "timestamp": 1787912410077
+      },
+      "ACE4D7725C5B675FFF27FC701C8D72CF": {
+        "sender": "247020967165997@lid",
+        "text": "Obrigada",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787912537888
+      },
+      "ACD4AA1A833F6719F9540B026855C60E": {
+        "sender": "222595437858867@lid",
+        "text": "Bom diaa🤗",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1787912576237
       }
     },
     "120363428464897153@g.us": {
@@ -191282,7 +191308,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787912410077,
+    "120363432018531082@g.us": 1787912576237,
     "120363428464897153@g.us": 1787912432171,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787894166886,
