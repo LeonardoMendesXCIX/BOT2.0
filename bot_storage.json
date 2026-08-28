@@ -173,9 +173,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1631,
+        "text": 1632,
         "media": 453,
-        "total": 2084
+        "total": 2085
       },
       "81991328395336": {
         "text": 3945,
@@ -253,9 +253,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1513,
-        "media": 1126,
-        "total": 2639
+        "text": 1515,
+        "media": 1127,
+        "total": 2642
       },
       "3126803329115": {
         "text": 87,
@@ -693,9 +693,9 @@
         "total": 2
       },
       "90130358485223": {
-        "text": 84,
+        "text": 86,
         "media": 11,
-        "total": 95
+        "total": 97
       },
       "57707230945348": {
         "text": 1225,
@@ -2629,8 +2629,8 @@
       },
       "75797868064796": {
         "text": 39,
-        "media": 107,
-        "total": 146
+        "media": 108,
+        "total": 147
       },
       "153764728184839": {
         "text": 2,
@@ -2674,8 +2674,8 @@
       },
       "193729163993156": {
         "text": 46,
-        "media": 25,
-        "total": 71
+        "media": 26,
+        "total": 72
       },
       "151582733820115": {
         "text": 5,
@@ -9950,8 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Souza (190864487919667): Que venha com saúde",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Meu Deus 🤡",
         "Arthur (206253020176458): Paz, saúde e muita felicidade e alegria",
         "jaciara (108461127897146): Amém 🙏🏼",
         "Jessica (208958782488665): Que linda que venha com saude",
@@ -10449,7 +10447,9 @@
         "F. RicaRdo sAnToS (193729163993156): Literalmente isso",
         "F. RicaRdo sAnToS (193729163993156): Liso",
         "jaciara (108461127897146): Lindona",
-        "Celiete Souza (129373172711439): Obrigada amada"
+        "Celiete Souza (129373172711439): Obrigada amada",
+        "Gabriel Ohi (90130358485223): A loira mais linda desse grupo 🤭🤭🤭",
+        "Camila Designer (92629643563147): Maravilhosa"
       ]
     },
     "120363428464897153@g.us": {
@@ -17487,12 +17487,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Muito obrigada 😊",
-        "timestamp": 1787946967852
-      },
-      {
         "authorNum": "108461127897146",
         "authorName": "jaciara",
         "text": "Acho interessante kkkk",
@@ -17893,6 +17887,18 @@
         "authorName": "Celiete Souza",
         "text": "Obrigada amada",
         "timestamp": 1787948719486
+      },
+      {
+        "authorNum": "90130358485223",
+        "authorName": "Gabriel Ohi",
+        "text": "A loira mais linda desse grupo 🤭🤭🤭",
+        "timestamp": 1787948773190
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Maravilhosa",
+        "timestamp": 1787948775963
       }
     ],
     "120363428464897153@g.us": [],
@@ -17919,7 +17925,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22410,
+    "120363432018531082@g.us": 22412,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -146438,6 +146444,18 @@
         "text": "Obrigada amada",
         "pushName": "Celiete Souza",
         "timestamp": 1787948719486
+      },
+      "ACB4EB51CF2414CA78BCAB692E426822": {
+        "sender": "90130358485223@lid",
+        "text": "A loira mais linda desse grupo 🤭🤭🤭",
+        "pushName": "Gabriel Ohi",
+        "timestamp": 1787948773190
+      },
+      "2A17D29FCBD029327F7A": {
+        "sender": "92629643563147@lid",
+        "text": "Maravilhosa",
+        "pushName": "Camila Designer",
+        "timestamp": 1787948775963
       }
     },
     "120363428464897153@g.us": {
@@ -199917,7 +199935,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787948764106,
+    "120363432018531082@g.us": 1787948795696,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
