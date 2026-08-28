@@ -453,9 +453,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1739,
+        "text": 1740,
         "media": 348,
-        "total": 2087
+        "total": 2088
       },
       "252600633041077": {
         "text": 1,
@@ -1863,9 +1863,9 @@
         "total": 6
       },
       "1395881181241": {
-        "text": 160,
+        "text": 161,
         "media": 5,
-        "total": 165
+        "total": 166
       },
       "198595546501333": {
         "text": 2,
@@ -9950,8 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "jaciara (108461127897146): Boa tarde pessoas",
-        "Camila Designer (92629643563147): Acho que vamos ter público para nós dois 🤣🤣🤣",
         "Camila Designer (92629643563147): Boa tarde ❤️",
         "🙃🙃🙃 (11171897864256): Aah tá por isso entrei e senti um cheiro estranho 🤣🤪",
         "🙃🙃🙃 (11171897864256): Bem vinda ☺️",
@@ -10449,7 +10447,9 @@
         "Celiete Souza (129373172711439): Sim, tudo morrido",
         "Celiete Souza (129373172711439): Vamos ver hj",
         "willian (163530946961491): Eu sempre falo pra ele aqui esse homem é gato de mais 🤣",
-        "Souza (190864487919667): Eu mandei ontem"
+        "Souza (190864487919667): Eu mandei ontem",
+        "Bruno Aguiar (+1395881181241): Estou só por quero kkkkk",
+        "Leandro (+55 (11) 92701-8683): Ela está desacreditada do nosso empreendimento @81991328395336"
       ]
     },
     "120363428464897153@g.us": {
@@ -17485,12 +17485,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Sigo solteiro",
-        "timestamp": 1787944278297
-      },
-      {
         "authorNum": "129373172711439",
         "authorName": "Celiete Souza",
         "text": "Tudo queto",
@@ -17579,6 +17573,18 @@
         "authorName": "Souza",
         "text": "Eu mandei ontem",
         "timestamp": 1787946064322
+      },
+      {
+        "authorNum": "1395881181241",
+        "authorName": "Bruno Aguiar",
+        "text": "Estou só por quero kkkkk",
+        "timestamp": 1787946222391
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Ela está desacreditada do nosso empreendimento @81991328395336",
+        "timestamp": 1787946232374
       }
     ],
     "120363428464897153@g.us": [],
@@ -17605,7 +17611,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22325,
+    "120363432018531082@g.us": 22327,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -145614,6 +145620,18 @@
         "text": "Eu mandei ontem",
         "pushName": "Souza",
         "timestamp": 1787946064322
+      },
+      "AC70DA1BA0D3A6F56C7C4AEBDA0A1DB2": {
+        "sender": "1395881181241@lid",
+        "text": "Estou só por quero kkkkk",
+        "pushName": "Bruno Aguiar",
+        "timestamp": 1787946222391
+      },
+      "A5559B8CD328F67AE068565EE1112C04": {
+        "sender": "54259127210155@lid",
+        "text": "Ela está desacreditada do nosso empreendimento @81991328395336",
+        "pushName": "Leandro",
+        "timestamp": 1787946232374
       }
     },
     "120363428464897153@g.us": {
@@ -199081,7 +199099,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787946193982,
+    "120363432018531082@g.us": 1787946232374,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
