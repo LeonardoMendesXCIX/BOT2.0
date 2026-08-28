@@ -3381,9 +3381,9 @@
         "total": 4
       },
       "82227819987089": {
-        "text": 2,
+        "text": 3,
         "media": 0,
-        "total": 2
+        "total": 3
       }
     },
     "120363409727467494@g.us": {
@@ -3415,9 +3415,9 @@
     },
     "120363412288900422@g.us": {
       "81991328395336": {
-        "text": 447,
-        "media": 116,
-        "total": 563
+        "text": 448,
+        "media": 117,
+        "total": 565
       },
       "5511927018683": {
         "text": 464,
@@ -13858,7 +13858,8 @@
         "F. RicaRdo sAnToS (193729163993156): Até semana que vem",
         "Leandro (+55 (11) 92701-8683): Boa noite jovem!",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Semana que vem?",
-        "Vini 👑🏁🙌⚽ (270377049690114): Só entra maluco no grupo!!!! 😂😂😂😂"
+        "Vini 👑🏁🙌⚽ (270377049690114): Só entra maluco no grupo!!!! 😂😂😂😂",
+        "Pedro Henrique (82227819987089): Se referindo a qm joia ?"
       ]
     },
     "120363409727467494@g.us": {
@@ -15936,7 +15937,9 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): E n",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Vou atrás da ft",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mostre aí",
-        "Leandro (+55 (11) 92701-8683): Eu não tenho mais a figurinha \"o cão é sujo\""
+        "Leandro (+55 (11) 92701-8683): Eu não tenho mais a figurinha \"o cão é sujo\"",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Esse q ela mandou",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): O pai do Miquéias"
       ]
     },
     "120363411233423709@g.us": {
@@ -16410,24 +16413,6 @@
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Nem vi kkkk nem foi por esse motivo",
-        "timestamp": 1787883602057
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Mas tudo bem, resolvido",
-        "timestamp": 1787883606737
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "!megafone novamente, aviso a todos, sem invasão de privado, se não é remoção imediata!!!",
-        "timestamp": 1787883632064
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "!ban @199956849774653",
         "timestamp": 1787884424124
       },
@@ -16612,6 +16597,12 @@
         "authorName": "Vini 👑🏁🙌⚽",
         "text": "Só entra maluco no grupo!!!! 😂😂😂😂",
         "timestamp": 1787885662996
+      },
+      {
+        "authorNum": "82227819987089",
+        "authorName": "Pedro Henrique",
+        "text": "Se referindo a qm joia ?",
+        "timestamp": 1787885716083
       }
     ],
     "120363409727467494@g.us": [],
@@ -16975,19 +16966,24 @@
         "authorName": "Leandro",
         "text": "Eu não tenho mais a figurinha \"o cão é sujo\"",
         "timestamp": 1787885630807
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Esse q ela mandou",
+        "timestamp": 1787885696187
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "O pai do Miquéias",
+        "timestamp": 1787885720639
       }
     ],
     "120363411233423709@g.us": [],
     "120363428079168524@g.us": [],
     "120363411246936023@g.us": [],
-    "120363409024805409@g.us": [
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "!megafone novamente, aviso a todos, sem invasão de privado, se não é remoção imediata!!!",
-        "timestamp": 1787883710784
-      }
-    ],
+    "120363409024805409@g.us": [],
     "120363050678635389@g.us": []
   },
   "lastJarvisIntervention": {
@@ -16998,9 +16994,9 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 21092,
-    "120363428464897153@g.us": 6232,
+    "120363428464897153@g.us": 6233,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1796,
+    "120363412288900422@g.us": 1798,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -174249,6 +174245,12 @@
         "text": "Só entra maluco no grupo!!!! 😂😂😂😂",
         "pushName": "Vini 👑🏁🙌⚽",
         "timestamp": 1787885662996
+      },
+      "3A57C36143AC9FBF52F7": {
+        "sender": "82227819987089@lid",
+        "text": "Se referindo a qm joia ?",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787885716084
       }
     },
     "120363409727467494@g.us": {
@@ -186229,6 +186231,18 @@
         "text": "Eu não tenho mais a figurinha \"o cão é sujo\"",
         "pushName": "Leandro",
         "timestamp": 1787885630807
+      },
+      "AC10835FAF2E08AE674C373A54F147F6": {
+        "sender": "81991328395336@lid",
+        "text": "Esse q ela mandou",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787885696187
+      },
+      "ACC1D0817F038B147A914DDB85B0080B": {
+        "sender": "81991328395336@lid",
+        "text": "O pai do Miquéias",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787885720639
       }
     },
     "120363411233423709@g.us": {
@@ -188815,9 +188829,9 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787884904333,
-    "120363428464897153@g.us": 1787885670024,
+    "120363428464897153@g.us": 1787885716083,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787885658726,
+    "120363412288900422@g.us": 1787885720639,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
