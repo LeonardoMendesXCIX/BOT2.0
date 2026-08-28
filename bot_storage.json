@@ -342,9 +342,9 @@
         "total": 3
       },
       "163530946961491": {
-        "text": 409,
+        "text": 410,
         "media": 70,
-        "total": 479
+        "total": 480
       },
       "222595437858867": {
         "text": 497,
@@ -3009,9 +3009,9 @@
         "total": 2
       },
       "53537388122141": {
-        "text": 69,
+        "text": 72,
         "media": 0,
-        "total": 69
+        "total": 72
       },
       "253626509443178": {
         "text": 3,
@@ -3279,9 +3279,9 @@
         "total": 1
       },
       "190864487919667": {
-        "text": 0,
+        "text": 1,
         "media": 2,
-        "total": 2
+        "total": 3
       }
     },
     "120363409727467494@g.us": {
@@ -13525,7 +13525,11 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Abriu nada 😂😂",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): !abrir",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Kabaré aberto, pessoal",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Muito bem"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Muito bem",
+        "Souza (190864487919667): 👀",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bora gente",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Kabaré aberto",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): @all"
       ]
     },
     "120363409727467494@g.us": {
@@ -15958,24 +15962,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Quero é chuva",
-        "timestamp": 1787874264615
-      },
-      {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "Quero é sol. Chega de chuva",
-        "timestamp": 1787874292105
-      },
-      {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "🤣🤣",
-        "timestamp": 1787874293435
-      },
-      {
         "authorNum": "222595437858867",
         "authorName": "Juliano Perlin",
         "text": "Ta marcando chuva até segunda pra nós",
@@ -16762,22 +16748,34 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Muito bem",
         "timestamp": 1787875894649
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "👀",
+        "timestamp": 1787876082426
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Bora gente",
+        "timestamp": 1787876090215
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Kabaré aberto",
+        "timestamp": 1787876092907
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "@all",
+        "timestamp": 1787876099219
       }
     ],
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Agora a minha resposta",
-        "timestamp": 1787874171238
-      },
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Peguem",
-        "timestamp": 1787874173140
-      },
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
@@ -16895,7 +16893,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 20972,
-    "120363428464897153@g.us": 6006,
+    "120363428464897153@g.us": 6010,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1684,
     "120363411233423709@g.us": 5,
@@ -172095,6 +172093,30 @@
         "text": "Muito bem",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787875894649
+      },
+      "ACEE642C745D2452C967CAB2184667F5": {
+        "sender": "190864487919667@lid",
+        "text": "👀",
+        "pushName": "Souza",
+        "timestamp": 1787876082426
+      },
+      "AC46AD85539140DCD84C615DA9DD1727": {
+        "sender": "53537388122141@lid",
+        "text": "Bora gente",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787876090215
+      },
+      "AC92F347A046136F0ACA88F67FCAA6FD": {
+        "sender": "53537388122141@lid",
+        "text": "Kabaré aberto",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787876092908
+      },
+      "ACEBC22ED03D1A4DB83C7A3CEB51C021": {
+        "sender": "53537388122141@lid",
+        "text": "@all",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787876099219
       }
     },
     "120363409727467494@g.us": {
@@ -185958,8 +185980,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787876058152,
-    "120363428464897153@g.us": 1787875908993,
+    "120363432018531082@g.us": 1787876080638,
+    "120363428464897153@g.us": 1787876099219,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787875833838,
     "120363411233423709@g.us": 1787113553426,
