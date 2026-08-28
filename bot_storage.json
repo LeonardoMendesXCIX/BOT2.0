@@ -253,9 +253,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1495,
+        "text": 1496,
         "media": 1113,
-        "total": 2608
+        "total": 2609
       },
       "3126803329115": {
         "text": 87,
@@ -9900,7 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Rafael Moura (57707230945348): Pessoal caiu o VR, quem quer açai",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Quero Pix",
         "Pedro Henrique (172868239380659): O meu já foi kkkk",
         "Arthur (206253020176458): Também quero jjjkkkkk",
@@ -10399,7 +10398,8 @@
         "~Gará (83911531044906): @~Camila Designer\nVou vender o meu primeiro..kkkk",
         " (120363432018531082): Boa tarde pessoas",
         "jaciara (108461127897146): Boa tarde pessoas",
-        "Camila Designer (92629643563147): Acho que vamos ter público para nós dois 🤣🤣🤣"
+        "Camila Designer (92629643563147): Acho que vamos ter público para nós dois 🤣🤣🤣",
+        "Camila Designer (92629643563147): Boa tarde ❤️"
       ]
     },
     "120363428464897153@g.us": {
@@ -17342,12 +17342,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Ou tome banho próximo dos seus pertences",
-        "timestamp": 1787926830462
-      },
-      {
         "authorNum": "263797142995147",
         "authorName": "Nanda",
         "text": "eu tenho namorado, porém ele trabalha tmb né, normal de todo clt. e a unica amiguinha q tenho q mora perto, tmb trabalha e eu sou ajudante de cuidadora de idosos, n é td dia q trabalho, hj é minha folga e n tem nd pra fazer",
@@ -17670,6 +17664,12 @@
         "authorName": "Camila Designer",
         "text": "Acho que vamos ter público para nós dois 🤣🤣🤣",
         "timestamp": 1787928628126
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Boa tarde ❤️",
+        "timestamp": 1787928644723
       }
     ],
     "120363428464897153@g.us": [],
@@ -17696,7 +17696,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21826,
+    "120363432018531082@g.us": 21827,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -142742,6 +142742,12 @@
         "text": "Acho que vamos ter público para nós dois 🤣🤣🤣",
         "pushName": "Camila Designer",
         "timestamp": 1787928628127
+      },
+      "2ADCA39AA3B87043FB27": {
+        "sender": "92629643563147@lid",
+        "text": "Boa tarde ❤️",
+        "pushName": "Camila Designer",
+        "timestamp": 1787928644723
       }
     },
     "120363428464897153@g.us": {
@@ -195651,7 +195657,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787928628126,
+    "120363432018531082@g.us": 1787928644723,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
