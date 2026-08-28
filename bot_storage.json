@@ -2603,9 +2603,9 @@
         "total": 26
       },
       "190864487919667": {
-        "text": 273,
+        "text": 274,
         "media": 42,
-        "total": 315
+        "total": 316
       },
       "82227819987089": {
         "text": 2,
@@ -9900,7 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Rafael Moura (57707230945348): Ahhhhhhh",
         "Rafael Moura (57707230945348): Uauuuu",
         "Rafael Moura (57707230945348): A marquinha Senhor",
         "Rafael Moura (57707230945348): Eita Alexandre camisa 9",
@@ -10399,7 +10398,8 @@
         "Camila Designer (92629643563147): Kkkk",
         "Souza (190864487919667): Meu coração mesmo nem presta tanto assim",
         "Souza (190864487919667): Só o pó do machucado",
-        "Nanda (263797142995147): decepções amorosas?"
+        "Nanda (263797142995147): decepções amorosas?",
+        "Souza (190864487919667): Todas"
       ]
     },
     "120363428464897153@g.us": {
@@ -17843,6 +17843,12 @@
         "authorName": "Nanda",
         "text": "decepções amorosas?",
         "timestamp": 1787927279440
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Todas",
+        "timestamp": 1787927533566
       }
     ],
     "120363428464897153@g.us": [],
@@ -17869,7 +17875,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21810,
+    "120363432018531082@g.us": 21811,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2011,
@@ -142826,6 +142832,12 @@
         "text": "decepções amorosas?",
         "pushName": "Nanda",
         "timestamp": 1787927279440
+      },
+      "AC866F881E3713C5812A154C4A403C71": {
+        "sender": "190864487919667@lid",
+        "text": "Todas",
+        "pushName": "Souza",
+        "timestamp": 1787927533566
       }
     },
     "120363428464897153@g.us": {
@@ -195729,7 +195741,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787927290651,
+    "120363432018531082@g.us": 1787927533566,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787926648480,
