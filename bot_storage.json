@@ -178,9 +178,9 @@
         "total": 1980
       },
       "81991328395336": {
-        "text": 3924,
+        "text": 3925,
         "media": 1326,
-        "total": 5250
+        "total": 5251
       },
       "179040627490824": {
         "text": 433,
@@ -2658,9 +2658,9 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 98,
+        "text": 99,
         "media": 14,
-        "total": 112
+        "total": 113
       },
       "172868239380659": {
         "text": 182,
@@ -2838,9 +2838,9 @@
         "total": 8
       },
       "227783724793861": {
-        "text": 13,
+        "text": 14,
         "media": 1,
-        "total": 14
+        "total": 15
       },
       "159304631980141": {
         "text": 1,
@@ -3946,8 +3946,8 @@
       },
       "81991328395336": {
         "text": 15,
-        "media": 293,
-        "total": 308
+        "media": 299,
+        "total": 314
       },
       "145381035905262": {
         "text": 7,
@@ -9930,8 +9930,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "𝔞𝔩𝔦𝔫𝔢🫶🏽 (221307534876912): Ontem um menino me disse q tinha um ovo atrás da cabeça dele kkkk",
-        "Rafael Moura (57707230945348): Ma rapaz",
         "Gabi 💋 (247020967165997): Ksksks",
         "Rafael Moura (57707230945348): Acalmou aqui pelo visto",
         "Gabi 💋 (247020967165997): Amém",
@@ -10429,7 +10427,9 @@
         "Gleydson Souza (274384656834700): Tem nem como sentir kkkk",
         "Gleydson Souza (274384656834700): Novidade",
         "Gleydson Souza (274384656834700): Tarde",
-        "May (227783724793861): Nossa nem sei o que é isso aqui o máximo é 28 e eu acho quente demais haha"
+        "May (227783724793861): Nossa nem sei o que é isso aqui o máximo é 28 e eu acho quente demais haha",
+        "Gleydson Souza (274384656834700): Nuh ia derreter aqui então, ta marcando que ate as 20h vai estar em 30 graus kkkkk",
+        "May (227783724793861): MDS haha"
       ]
     },
     "120363428464897153@g.us": {
@@ -17389,18 +17389,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "1395881181241",
-        "authorName": "Bruno Aguiar",
-        "text": "Tudo tem limites \nRespeito se conquista",
-        "timestamp": 1787932573965
-      },
-      {
-        "authorNum": "1395881181241",
-        "authorName": "Bruno Aguiar",
-        "text": "Eita",
-        "timestamp": 1787932584735
-      },
-      {
         "authorNum": "129373172711439",
         "authorName": "Celiete Souza",
         "text": "Então já estou lá",
@@ -17669,6 +17657,18 @@
         "authorName": "May",
         "text": "Nossa nem sei o que é isso aqui o máximo é 28 e eu acho quente demais haha",
         "timestamp": 1787934338838
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Nuh ia derreter aqui então, ta marcando que ate as 20h vai estar em 30 graus kkkkk",
+        "timestamp": 1787934372827
+      },
+      {
+        "authorNum": "227783724793861",
+        "authorName": "May",
+        "text": "MDS haha",
+        "timestamp": 1787934387180
       }
     ],
     "120363428464897153@g.us": [],
@@ -17738,7 +17738,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22070,
+    "120363432018531082@g.us": 22072,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2016,
@@ -144236,6 +144236,18 @@
         "text": "Nossa nem sei o que é isso aqui o máximo é 28 e eu acho quente demais haha",
         "pushName": "May",
         "timestamp": 1787934338838
+      },
+      "AC68A9FE36E8C61AB9AA9B2644EE23FC": {
+        "sender": "274384656834700@lid",
+        "text": "Nuh ia derreter aqui então, ta marcando que ate as 20h vai estar em 30 graus kkkkk",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787934372828
+      },
+      "AC29EEC17D14D9B33D1542B7BB49462B": {
+        "sender": "227783724793861@lid",
+        "text": "MDS haha",
+        "pushName": "May",
+        "timestamp": 1787934387180
       }
     },
     "120363428464897153@g.us": {
@@ -197247,7 +197259,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787934338838,
+    "120363432018531082@g.us": 1787934387180,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787934085129,
@@ -197258,7 +197270,7 @@
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1787868477291,
-    "120363409024805409@g.us": 1787933266753,
+    "120363409024805409@g.us": 1787934360323,
     "120363411043114631@g.us": 1787897464612
   },
   "autoAnimSent": {
