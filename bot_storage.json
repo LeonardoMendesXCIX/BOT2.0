@@ -2603,9 +2603,9 @@
         "total": 21
       },
       "190864487919667": {
-        "text": 207,
+        "text": 208,
         "media": 35,
-        "total": 242
+        "total": 243
       },
       "82227819987089": {
         "text": 2,
@@ -2663,9 +2663,9 @@
         "total": 77
       },
       "172868239380659": {
-        "text": 93,
+        "text": 94,
         "media": 15,
-        "total": 108
+        "total": 109
       },
       "170455038193841": {
         "text": 1,
@@ -10002,7 +10002,9 @@
         "Souza (190864487919667): Só pra passar o tempo mais rápido",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindo",
         "Souza (190864487919667): Eu senti a inveja",
-        "Arthur (206253020176458): Obrigado"
+        "Arthur (206253020176458): Obrigado",
+        "Pedro Henrique (172868239380659): Vou pedir 300 orçamento e não fechar nenhum",
+        "Souza (190864487919667): Aí não compensa"
       ]
     },
     "120363428464897153@g.us": {
@@ -17154,6 +17156,18 @@
         "authorName": "Arthur",
         "text": "Obrigado",
         "timestamp": 1787913077272
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Vou pedir 300 orçamento e não fechar nenhum",
+        "timestamp": 1787913093849
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Aí não compensa",
+        "timestamp": 1787913105640
       }
     ],
     "120363428464897153@g.us": [],
@@ -17173,7 +17187,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21250,
+    "120363432018531082@g.us": 21252,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1989,
@@ -138790,6 +138804,18 @@
         "text": "Obrigado",
         "pushName": "Arthur",
         "timestamp": 1787913077272
+      },
+      "AC9C47FD039AA82D1335CEB6467E5210": {
+        "sender": "172868239380659@lid",
+        "text": "Vou pedir 300 orçamento e não fechar nenhum",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787913093849
+      },
+      "AC60F6AB03388DFA8663737049711B7C": {
+        "sender": "190864487919667@lid",
+        "text": "Aí não compensa",
+        "pushName": "Souza",
+        "timestamp": 1787913105640
       }
     },
     "120363428464897153@g.us": {
@@ -191561,7 +191587,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787913085946,
+    "120363432018531082@g.us": 1787913105640,
     "120363428464897153@g.us": 1787912432171,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787894166886,
