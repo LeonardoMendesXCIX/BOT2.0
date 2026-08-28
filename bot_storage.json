@@ -179,8 +179,8 @@
       },
       "81991328395336": {
         "text": 3911,
-        "media": 1324,
-        "total": 5235
+        "media": 1325,
+        "total": 5236
       },
       "179040627490824": {
         "text": 433,
@@ -698,9 +698,9 @@
         "total": 95
       },
       "57707230945348": {
-        "text": 1132,
+        "text": 1133,
         "media": 199,
-        "total": 1331
+        "total": 1332
       },
       "152218690924790": {
         "text": 309,
@@ -2603,9 +2603,9 @@
         "total": 21
       },
       "190864487919667": {
-        "text": 202,
+        "text": 203,
         "media": 35,
-        "total": 237
+        "total": 238
       },
       "82227819987089": {
         "text": 2,
@@ -9986,7 +9986,8 @@
         "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Bem vinda.",
         "Juliano Perlin (222595437858867): To bemm sua fofa🥹",
         "Souza (190864487919667): Buenos",
-        "Gabi 💋 (247020967165997): Obrigada"
+        "Gabi 💋 (247020967165997): Obrigada",
+        "Rafael Moura (57707230945348): Bom dia 😴"
       ]
     },
     "120363428464897153@g.us": {
@@ -16906,12 +16907,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "129978696003832",
-        "authorName": "PAULO PEREIRA",
-        "text": "Nome : Paulo Pereira \nIdade : 32 \nCidade : São Carlos-SP",
-        "timestamp": 1787910923305
-      },
-      {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Bommm diaaa a @all vocês! Ótima sexta feira, que seja abençoada ❤️🙏🏼",
@@ -17078,6 +17073,12 @@
         "authorName": "Gabi 💋",
         "text": "Obrigada",
         "timestamp": 1787912722318
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Bom dia 😴",
+        "timestamp": 1787912890886
       }
     ],
     "120363428464897153@g.us": [],
@@ -17097,7 +17098,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21239,
+    "120363432018531082@g.us": 21240,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1989,
@@ -138648,6 +138649,12 @@
         "text": "Obrigada",
         "pushName": "Gabi 💋",
         "timestamp": 1787912722318
+      },
+      "ACB58EE590FE7B3C79CB8ED32D41BEF7": {
+        "sender": "57707230945348@lid",
+        "text": "Bom dia 😴",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787912890886
       }
     },
     "120363428464897153@g.us": {
@@ -191419,7 +191426,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787912842394,
+    "120363432018531082@g.us": 1787912899710,
     "120363428464897153@g.us": 1787912432171,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787894166886,
