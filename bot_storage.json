@@ -152,9 +152,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2193,
+        "text": 2194,
         "media": 471,
-        "total": 2664
+        "total": 2665
       },
       "184237705699536": {
         "text": 524,
@@ -3328,9 +3328,9 @@
         "total": 509
       },
       "53537388122141": {
-        "text": 668,
+        "text": 669,
         "media": 53,
-        "total": 721
+        "total": 722
       },
       "120363412288900422": {
         "text": 1,
@@ -9165,7 +9165,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "willian (163530946961491): Não né mas é fiel a uma só",
         "F. RicaRdo sAnToS (193729163993156): Pq para uns pode visualização única e outras não :(\n\nBem vinda",
         "Jennifer🦋 (205621945192508): KKKKKkkk",
         "Jennifer🦋 (205621945192508): Eu não sabia amigo💁🏻‍♀️entrei agorinha",
@@ -9664,7 +9663,8 @@
         "Pedro Henrique (172868239380659): Me conte mais sobre, só falta saber fazer requeijão",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Melhorou",
         "Gabriel (145381035905262): Qual tua altura cpx ?",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): 1,62 cpx"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): 1,62 cpx",
+        "Gabriel (145381035905262): 2 a mais que @81991328395336"
       ]
     },
     "120363428464897153@g.us": {
@@ -15531,7 +15531,8 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Então qualquer assunto que for pra me resolver @53537388122141  decidirá no meu lugar",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Ok",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): O motivo do off:\nVou muda minhas 4 mil figurinhas para o grupo ali \nQ tá eu e o número da loja \nPq vou desinstalar meu whatsapp \nTá cheio de bug vou tenta arruma esse infame",
-        "Gabriel (145381035905262): Entendi"
+        "Gabriel (145381035905262): Entendi",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tudo bem"
       ]
     },
     "120363411233423709@g.us": {
@@ -15997,24 +15998,6 @@
   },
   "memoryCluster": {
     "120363432018531082@g.us": [
-      {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "To perguntando de onde ela veio🤣🤣🤣",
-        "timestamp": 1787874919986
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Tá me achando com cara de jornal pra vim trazer informação?",
-        "timestamp": 1787874927353
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "👀👀👀",
-        "timestamp": 1787874931421
-      },
       {
         "authorNum": "222595437858867",
         "authorName": "Juliano Perlin",
@@ -16710,6 +16693,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "1,62 cpx",
         "timestamp": 1787876702595
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "2 a mais que @81991328395336",
+        "timestamp": 1787876738373
       }
     ],
     "120363428464897153@g.us": [
@@ -17129,6 +17118,12 @@
         "authorName": "Gabriel",
         "text": "Entendi",
         "timestamp": 1787876717887
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Tudo bem",
+        "timestamp": 1787876723642
       }
     ],
     "120363411233423709@g.us": [],
@@ -17144,10 +17139,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21008,
+    "120363432018531082@g.us": 21009,
     "120363428464897153@g.us": 6035,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1695,
+    "120363412288900422@g.us": 1696,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -137339,6 +137334,12 @@
         "text": "1,62 cpx",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787876702595
+      },
+      "ACB66768AFC7057D7181A8AD8939180F": {
+        "sender": "145381035905262@lid",
+        "text": "2 a mais que @81991328395336",
+        "pushName": "Gabriel",
+        "timestamp": 1787876738373
       }
     },
     "120363428464897153@g.us": {
@@ -184103,6 +184104,12 @@
         "text": "Entendi",
         "pushName": "Gabriel",
         "timestamp": 1787876717887
+      },
+      "AC889C6A9C09EC7DE5BBF4E4D46999F6": {
+        "sender": "53537388122141@lid",
+        "text": "Tudo bem",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787876723642
       }
     },
     "120363411233423709@g.us": {
@@ -186658,10 +186665,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787876702595,
+    "120363432018531082@g.us": 1787876738373,
     "120363428464897153@g.us": 1787876671065,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787876717887,
+    "120363412288900422@g.us": 1787876723642,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
