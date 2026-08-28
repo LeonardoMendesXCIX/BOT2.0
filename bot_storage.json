@@ -2803,9 +2803,9 @@
         "total": 148
       },
       "206253020176458": {
-        "text": 5,
+        "text": 6,
         "media": 6,
-        "total": 11
+        "total": 12
       },
       "210152934359048": {
         "text": 16,
@@ -2833,9 +2833,9 @@
         "total": 4
       },
       "78143406768201": {
-        "text": 3,
+        "text": 5,
         "media": 0,
-        "total": 3
+        "total": 5
       },
       "227783724793861": {
         "text": 1,
@@ -9895,9 +9895,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        ". (279628962885736): Bom dia pessoal \nVamos que vamos",
-        "Edison Medeiros💚 (108268240302270): Bom dia",
-        "PAULO PEREIRA (129978696003832): Nome : Paulo Pereira \nIdade : 32 \nCidade : São Carlos-SP",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bommm diaaa a @all vocês! Ótima sexta feira, que seja abençoada ❤️🙏🏼",
         "PAULO PEREIRA (129978696003832): Bom dia a todos , e ótima Sexta .",
         "Juliano Perlin (222595437858867): Bom diaa😘❤️",
@@ -10394,7 +10391,10 @@
         "Arthur (206253020176458): Q linda bem vinda ao grupo",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bom dia e seja bem vindo(a)! Se apresente pra nós, por favor",
         "Gleydson Souza (274384656834700): Bem vinda",
-        "fé ! (147940920283293): Diferente dos iguais aí sim 👌"
+        "fé ! (147940920283293): Diferente dos iguais aí sim 👌",
+        "Kamila (78143406768201): Brigada",
+        "Kamila (78143406768201): Brigada",
+        "Arthur (206253020176458): De nada"
       ]
     },
     "120363428464897153@g.us": {
@@ -17334,18 +17334,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "94227841179800",
-        "authorName": "amanda🫶",
-        "text": "Itaboraí",
-        "timestamp": 1787923037459
-      },
-      {
-        "authorNum": "75797868064796",
-        "authorName": "Alexandre Bastos",
-        "text": "Sou da barra",
-        "timestamp": 1787923053456
-      },
-      {
         "authorNum": "75797868064796",
         "authorName": "Alexandre Bastos",
         "text": "Prazer Alexandre",
@@ -17530,6 +17518,24 @@
         "authorName": "fé !",
         "text": "Diferente dos iguais aí sim 👌",
         "timestamp": 1787924762383
+      },
+      {
+        "authorNum": "78143406768201",
+        "authorName": "Kamila",
+        "text": "Brigada",
+        "timestamp": 1787924837379
+      },
+      {
+        "authorNum": "78143406768201",
+        "authorName": "Kamila",
+        "text": "Brigada",
+        "timestamp": 1787924840392
+      },
+      {
+        "authorNum": "206253020176458",
+        "authorName": "Arthur",
+        "text": "De nada",
+        "timestamp": 1787924855483
       }
     ],
     "120363428464897153@g.us": [],
@@ -17568,7 +17574,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21708,
+    "120363432018531082@g.us": 21711,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2009,
@@ -141919,6 +141925,24 @@
         "text": "Diferente dos iguais aí sim 👌",
         "pushName": "fé !",
         "timestamp": 1787924762383
+      },
+      "AC95117D00E4A4A06D226951BD38B4AC": {
+        "sender": "78143406768201@lid",
+        "text": "Brigada",
+        "pushName": "Kamila",
+        "timestamp": 1787924837379
+      },
+      "AC305EFD8FDB8295A5BA7F9535EB55C9": {
+        "sender": "78143406768201@lid",
+        "text": "Brigada",
+        "pushName": "Kamila",
+        "timestamp": 1787924840392
+      },
+      "AC1002254CFD618FFDBD407F95EDB224": {
+        "sender": "206253020176458@lid",
+        "text": "De nada",
+        "pushName": "Arthur",
+        "timestamp": 1787924855483
       }
     },
     "120363428464897153@g.us": {
@@ -194810,7 +194834,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787924814293,
+    "120363432018531082@g.us": 1787924855483,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787923699618,
