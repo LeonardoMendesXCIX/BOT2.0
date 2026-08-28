@@ -2598,9 +2598,9 @@
         "total": 2
       },
       "11171897864256": {
-        "text": 37,
+        "text": 39,
         "media": 2,
-        "total": 39
+        "total": 41
       },
       "190864487919667": {
         "text": 356,
@@ -9950,8 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "jaciara (108461127897146): Primeiramente qual a idade , dependendo da idade aí eu e a bebê pensamos se mandamos a lista",
-        "F. RicaRdo sAnToS (193729163993156): Cuidado com os cara q tem perfil nas gestantes @108461127897146",
         "~Gará (83911531044906): Tenho 33",
         "jaciara (108461127897146): Sim sim , eu sou bem esperta em relação a isso",
         "F. RicaRdo sAnToS (193729163993156): Tem candidato forte aqui",
@@ -10449,7 +10447,9 @@
         "F. RicaRdo sAnToS (193729163993156): Aqui é para iludir os emocionados 🤣🤣🤣🤣\nE tem bastante gente",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mais fácil você procurar outro emprego e entregar a carta",
         "🙃🙃🙃 (11171897864256): Vou segunda 😃",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): É nada"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): É nada",
+        "🙃🙃🙃 (11171897864256): Numa chamada vicunha",
+        "🙃🙃🙃 (11171897864256): Aqui do estado"
       ]
     },
     "120363428464897153@g.us": {
@@ -17875,6 +17875,18 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "É nada",
         "timestamp": 1787947715432
+      },
+      {
+        "authorNum": "11171897864256",
+        "authorName": "🙃🙃🙃",
+        "text": "Numa chamada vicunha",
+        "timestamp": 1787947721163
+      },
+      {
+        "authorNum": "11171897864256",
+        "authorName": "🙃🙃🙃",
+        "text": "Aqui do estado",
+        "timestamp": 1787947725605
       }
     ],
     "120363428464897153@g.us": [],
@@ -17907,7 +17919,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22385,
+    "120363432018531082@g.us": 22387,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -146276,6 +146288,18 @@
         "text": "É nada",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787947715432
+      },
+      "ACBB84025490BF9D1078D12F5BAD93A4": {
+        "sender": "11171897864256@lid",
+        "text": "Numa chamada vicunha",
+        "pushName": "🙃🙃🙃",
+        "timestamp": 1787947721163
+      },
+      "AC6C3B9F37C40175B2FE7C357F571EAA": {
+        "sender": "11171897864256@lid",
+        "text": "Aqui do estado",
+        "pushName": "🙃🙃🙃",
+        "timestamp": 1787947725605
       }
     },
     "120363428464897153@g.us": {
@@ -199755,7 +199779,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787947715432,
+    "120363432018531082@g.us": 1787947725605,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
