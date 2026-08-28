@@ -698,9 +698,9 @@
         "total": 95
       },
       "57707230945348": {
-        "text": 1209,
+        "text": 1210,
         "media": 225,
-        "total": 1434
+        "total": 1435
       },
       "152218690924790": {
         "text": 309,
@@ -10340,7 +10340,8 @@
         "Gleydson Souza (274384656834700): Kkkk vcs falam mt tava tentando ler tudo mas desisti",
         "Pedro Henrique (172868239380659): Mas quem tava bravo?",
         "Pedro Henrique (172868239380659): Uma zoeira saudável daquela",
-        "Pedro Henrique (172868239380659): @247020967165997 vc tava brava ?"
+        "Pedro Henrique (172868239380659): @247020967165997 vc tava brava ?",
+        "Rafael Moura (57707230945348): Sei não em"
       ]
     },
     "120363428464897153@g.us": {
@@ -18030,6 +18031,12 @@
         "authorName": "Pedro Henrique",
         "text": "@247020967165997 vc tava brava ?",
         "timestamp": 1787918467944
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Sei não em",
+        "timestamp": 1787918489272
       }
     ],
     "120363428464897153@g.us": [],
@@ -18049,7 +18056,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21578,
+    "120363432018531082@g.us": 21579,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -141627,6 +141634,12 @@
         "text": "@247020967165997 vc tava brava ?",
         "pushName": "Pedro Henrique",
         "timestamp": 1787918467945
+      },
+      "AC3C95FE1448D62A6655E4A7522FCA91": {
+        "sender": "57707230945348@lid",
+        "text": "Sei não em",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787918489272
       }
     },
     "120363428464897153@g.us": {
@@ -194422,7 +194435,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787918467944,
+    "120363432018531082@g.us": 1787918489272,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
