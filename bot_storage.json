@@ -3435,14 +3435,14 @@
         "total": 583
       },
       "5511927018683": {
-        "text": 526,
+        "text": 528,
         "media": 101,
-        "total": 627
+        "total": 629
       },
       "145381035905262": {
         "text": 438,
-        "media": 150,
-        "total": 588
+        "media": 151,
+        "total": 589
       },
       "53537388122141": {
         "text": 769,
@@ -16198,7 +16198,9 @@
         "Leandro (+55 (11) 92701-8683): Quem não tem?",
         "Gabriel (145381035905262): Aí é frouxo mesmo",
         "Leandro (+55 (11) 92701-8683): Mas calma aí, não sou tão medroso assim 🤨 @81991328395336",
-        "Gabriel (145381035905262): Então faz o que eu fiz lá no grupo"
+        "Gabriel (145381035905262): Então faz o que eu fiz lá no grupo",
+        "Leandro (+55 (11) 92701-8683): Mas também não sou idiota né",
+        "Leandro (+55 (11) 92701-8683): 🙄"
       ]
     },
     "120363411233423709@g.us": {
@@ -16677,12 +16679,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "199733712785531",
-        "authorName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
-        "text": "👀",
-        "timestamp": 1787889106380
-      },
-      {
         "authorNum": "145381035905262",
         "authorName": "Gabriel",
         "text": "Saudações",
@@ -16735,12 +16731,6 @@
       {
         "authorNum": "81991328395336",
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "A pessoa te faz um pergunta no Pv com uma numeração e tu responde no grupo \nTipo assim (no PV a pessoa coloca \n109-tu namora ?\nAí no grupo tu respondi \n109-sim)\n\nMas pra isso tem q coloca no grupo a figurinha PV liberado",
-        "timestamp": 1787889273501
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Aliás irei lança no conexão amanhã",
         "timestamp": 1787889484667
       },
@@ -16765,12 +16755,6 @@
     ],
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Parabéns Gabriel",
-        "timestamp": 1787889268756
-      },
       {
         "authorNum": "145381035905262",
         "authorName": "Gabriel",
@@ -16962,6 +16946,18 @@
         "authorName": "Gabriel",
         "text": "Então faz o que eu fiz lá no grupo",
         "timestamp": 1787891066016
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Mas também não sou idiota né",
+        "timestamp": 1787891078131
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "🙄",
+        "timestamp": 1787891082116
       }
     ],
     "120363411233423709@g.us": [],
@@ -16980,7 +16976,7 @@
     "120363432018531082@g.us": 21110,
     "120363428464897153@g.us": 6279,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1972,
+    "120363412288900422@g.us": 1974,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -187655,6 +187651,18 @@
         "text": "Então faz o que eu fiz lá no grupo",
         "pushName": "Gabriel",
         "timestamp": 1787891066016
+      },
+      "A5C429F315C9703672BEE8635A05FD00": {
+        "sender": "54259127210155@lid",
+        "text": "Mas também não sou idiota né",
+        "pushName": "Leandro",
+        "timestamp": 1787891078132
+      },
+      "A54479C076567BCDE2DC044020819E12": {
+        "sender": "54259127210155@lid",
+        "text": "🙄",
+        "pushName": "Leandro",
+        "timestamp": 1787891082116
       }
     },
     "120363411233423709@g.us": {
@@ -190273,7 +190281,7 @@
     "120363432018531082@g.us": 1787890494475,
     "120363428464897153@g.us": 1787890423703,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787891066016,
+    "120363412288900422@g.us": 1787891082116,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
