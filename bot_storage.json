@@ -2629,8 +2629,8 @@
       },
       "75797868064796": {
         "text": 19,
-        "media": 56,
-        "total": 75
+        "media": 57,
+        "total": 76
       },
       "153764728184839": {
         "text": 2,
@@ -2718,9 +2718,9 @@
         "total": 1
       },
       "118515428286715": {
-        "text": 3,
+        "text": 4,
         "media": 1,
-        "total": 4
+        "total": 5
       },
       "108268240302270": {
         "text": 1,
@@ -2798,9 +2798,9 @@
         "total": 5
       },
       "247020967165997": {
-        "text": 40,
+        "text": 42,
         "media": 10,
-        "total": 50
+        "total": 52
       },
       "206253020176458": {
         "text": 3,
@@ -10188,7 +10188,10 @@
         "Pedro Henrique (172868239380659): Quer pagar a minha viagem?",
         "Saul (118515428286715): É sim, bora",
         "Pedro Henrique (172868239380659): Vou mandar os valores aí pra vc",
-        "Alexandre Bastos (75797868064796): Quando e isso tem alguma coisa"
+        "Alexandre Bastos (75797868064796): Quando e isso tem alguma coisa",
+        "Saul (118515428286715): QUE ISSO, na cara não kkkk",
+        "Gabi 💋 (247020967165997): Ok",
+        "Gabi 💋 (247020967165997): Coisa fofa"
       ]
     },
     "120363428464897153@g.us": {
@@ -17112,36 +17115,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Seja bem vinda",
-        "timestamp": 1787914621075
-      },
-      {
-        "authorNum": "75797868064796",
-        "authorName": "Alexandre Bastos",
-        "text": "Bem vinda",
-        "timestamp": 1787914630924
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Bem vindaaa",
-        "timestamp": 1787914634841
-      },
-      {
-        "authorNum": "221307534876912",
-        "authorName": "𝔞𝔩𝔦𝔫𝔢🫶🏽",
-        "text": "Obrigada meus amores",
-        "timestamp": 1787914645073
-      },
-      {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Gus ta soltinho ne",
-        "timestamp": 1787914647138
-      },
-      {
         "authorNum": "199733712785531",
         "authorName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
         "text": "Bem vinda.",
@@ -17776,6 +17749,24 @@
         "authorName": "Alexandre Bastos",
         "text": "Quando e isso tem alguma coisa",
         "timestamp": 1787916411853
+      },
+      {
+        "authorNum": "118515428286715",
+        "authorName": "Saul",
+        "text": "QUE ISSO, na cara não kkkk",
+        "timestamp": 1787916420600
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Ok",
+        "timestamp": 1787916452718
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Coisa fofa",
+        "timestamp": 1787916457536
       }
     ],
     "120363428464897153@g.us": [],
@@ -17802,7 +17793,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21426,
+    "120363432018531082@g.us": 21429,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -140468,6 +140459,24 @@
         "text": "Quando e isso tem alguma coisa",
         "pushName": "Alexandre Bastos",
         "timestamp": 1787916411853
+      },
+      "3A2757D29338AC6CC34B": {
+        "sender": "118515428286715@lid",
+        "text": "QUE ISSO, na cara não kkkk",
+        "pushName": "Saul",
+        "timestamp": 1787916420600
+      },
+      "AC1CED7A81C146FF21E5A603F9DBF68E": {
+        "sender": "247020967165997@lid",
+        "text": "Ok",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787916452718
+      },
+      "ACE2CEFBBF71179A022BC858D9D3A337": {
+        "sender": "247020967165997@lid",
+        "text": "Coisa fofa",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787916457536
       }
     },
     "120363428464897153@g.us": {
@@ -193263,7 +193272,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787916411853,
+    "120363432018531082@g.us": 1787916457536,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
