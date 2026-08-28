@@ -3935,9 +3935,9 @@
         "total": 136
       },
       "5511927018683": {
-        "text": 57,
-        "media": 92,
-        "total": 149
+        "text": 58,
+        "media": 93,
+        "total": 151
       },
       "30486281900223": {
         "text": 1,
@@ -3946,8 +3946,8 @@
       },
       "81991328395336": {
         "text": 16,
-        "media": 626,
-        "total": 642
+        "media": 628,
+        "total": 644
       },
       "145381035905262": {
         "text": 7,
@@ -17455,7 +17455,8 @@
         "Rafael Moura (57707230945348): O loco",
         "Celiete Souza (129373172711439): Tô pegando",
         "Leandro (+55 (11) 92701-8683): A minha conta aí 🌝",
-        "eduardo (37826582323373): Misericórdia haja figurinha"
+        "eduardo (37826582323373): Misericórdia haja figurinha",
+        "Leandro (+55 (11) 92701-8683): Ela mandou só 1000 das 5000 e poucas que tem"
       ]
     },
     "120363411043114631@g.us": {
@@ -17779,6 +17780,12 @@
         "authorName": "eduardo",
         "text": "Misericórdia haja figurinha",
         "timestamp": 1787943227864
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Ela mandou só 1000 das 5000 e poucas que tem",
+        "timestamp": 1787944581607
       }
     ],
     "120363050678635389@g.us": [],
@@ -17798,7 +17805,7 @@
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
-    "120363409024805409@g.us": 86,
+    "120363409024805409@g.us": 87,
     "120363050678635389@g.us": 1,
     "120363411043114631@g.us": 20
   },
@@ -198992,6 +198999,12 @@
         "text": "Misericórdia haja figurinha",
         "pushName": "eduardo",
         "timestamp": 1787943227864
+      },
+      "A5CB71D898D6059CD25837CCB5DF919A": {
+        "sender": "54259127210155@lid",
+        "text": "Ela mandou só 1000 das 5000 e poucas que tem",
+        "pushName": "Leandro",
+        "timestamp": 1787944581607
       }
     },
     "120363050678635389@g.us": {
@@ -199206,7 +199219,7 @@
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1787868477291,
-    "120363409024805409@g.us": 1787944057476,
+    "120363409024805409@g.us": 1787944593392,
     "120363411043114631@g.us": 1787897464612
   },
   "autoAnimSent": {
