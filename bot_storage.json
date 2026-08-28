@@ -2949,9 +2949,9 @@
         "total": 9
       },
       "129373172711439": {
-        "text": 913,
+        "text": 914,
         "media": 234,
-        "total": 1147
+        "total": 1148
       },
       "16007578021977": {
         "text": 50,
@@ -3294,19 +3294,19 @@
         "total": 1
       },
       "190864487919667": {
-        "text": 36,
+        "text": 37,
         "media": 7,
-        "total": 43
+        "total": 44
       },
       "118515428286715": {
-        "text": 9,
+        "text": 10,
         "media": 2,
-        "total": 11
+        "total": 12
       },
       "274384656834700": {
-        "text": 5,
+        "text": 6,
         "media": 2,
-        "total": 7
+        "total": 8
       },
       "34626781356198": {
         "text": 0,
@@ -13695,7 +13695,10 @@
         "Souza (190864487919667): @129373172711439",
         "Celiete Souza (129373172711439): Cadê os 40+ deste grupo?",
         "Alexandre Bastos (75797868064796): Eu tô aqui",
-        "Gleydson Souza (274384656834700): ."
+        "Gleydson Souza (274384656834700): .",
+        "Celiete Souza (129373172711439): Agora eu vi 🤐",
+        "Gleydson Souza (274384656834700): To aqui tmb",
+        "Saul (118515428286715): Me senti o Mucilon indesejado 🤣"
       ]
     },
     "120363409727467494@g.us": {
@@ -16668,6 +16671,24 @@
         "authorName": "Gleydson Souza",
         "text": ".",
         "timestamp": 1787879706883
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Agora eu vi 🤐",
+        "timestamp": 1787879716334
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "To aqui tmb",
+        "timestamp": 1787879722370
+      },
+      {
+        "authorNum": "118515428286715",
+        "authorName": "Saul",
+        "text": "Me senti o Mucilon indesejado 🤣",
+        "timestamp": 1787879724221
       }
     ],
     "120363409727467494@g.us": [],
@@ -16686,7 +16707,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 21033,
-    "120363428464897153@g.us": 6136,
+    "120363428464897153@g.us": 6139,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1711,
     "120363411233423709@g.us": 5,
@@ -173020,6 +173041,24 @@
         "text": ".",
         "pushName": "Gleydson Souza",
         "timestamp": 1787879706883
+      },
+      "AC491E2742F55E64B79A411EE940937A": {
+        "sender": "129373172711439@lid",
+        "text": "Agora eu vi 🤐",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787879716335
+      },
+      "AC1AEAA038CFB6A25010C8AB674068E0": {
+        "sender": "274384656834700@lid",
+        "text": "To aqui tmb",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787879722370
+      },
+      "3A9BF45485DDD88311FC": {
+        "sender": "118515428286715@lid",
+        "text": "Me senti o Mucilon indesejado 🤣",
+        "pushName": "Saul",
+        "timestamp": 1787879724222
       }
     },
     "120363409727467494@g.us": {
@@ -187064,7 +187103,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787879318050,
-    "120363428464897153@g.us": 1787879706883,
+    "120363428464897153@g.us": 1787879729420,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787877736241,
     "120363411233423709@g.us": 1787113553426,
