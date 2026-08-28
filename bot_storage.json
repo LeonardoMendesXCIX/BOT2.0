@@ -279,8 +279,8 @@
       },
       "53537388122141": {
         "text": 2289,
-        "media": 309,
-        "total": 2598
+        "media": 310,
+        "total": 2599
       },
       "252922705240205": {
         "text": 80,
@@ -9900,7 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Alexandre Bastos (75797868064796): Só isso",
         "Gabi 💋 (247020967165997): Vai levar uma acompanhante",
         "Gabi 💋 (247020967165997): A não pq vai que é miojo",
         "Alexandre Bastos (75797868064796): Vai leva do job",
@@ -10399,7 +10398,8 @@
         "jaciara (108461127897146): Final de novembro ou começo de dezembro",
         "jaciara (108461127897146): Logo logo",
         "Alexandre Bastos (75797868064796): Eita porra",
-        "Alexandre Bastos (75797868064796): Eita porra"
+        "Alexandre Bastos (75797868064796): Eita porra",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Quem é o atacanteeeee??"
       ]
     },
     "120363428464897153@g.us": {
@@ -17342,12 +17342,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Tipo, me siga para mais dicas 🤣🤣🤣🤣",
-        "timestamp": 1787928438872
-      },
-      {
         "authorNum": "83911531044906",
         "authorName": "~Gará",
         "text": "Alguém aqui tem interesse em comprar um rins?\nFaço promoção",
@@ -18018,6 +18012,12 @@
         "authorName": "Alexandre Bastos",
         "text": "Eita porra",
         "timestamp": 1787930152039
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Quem é o atacanteeeee??",
+        "timestamp": 1787930256566
       }
     ],
     "120363428464897153@g.us": [],
@@ -18037,7 +18037,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21933,
+    "120363432018531082@g.us": 21934,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -143719,6 +143719,12 @@
         "text": "Eita porra",
         "pushName": "Alexandre Bastos",
         "timestamp": 1787930152039
+      },
+      "AC5605286FB68248BC0EBA9456350DFE": {
+        "sender": "53537388122141@lid",
+        "text": "Quem é o atacanteeeee??",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787930256566
       }
     },
     "120363428464897153@g.us": {
@@ -196628,7 +196634,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787930203395,
+    "120363432018531082@g.us": 1787930256566,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
