@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2341,
-        "media": 327,
-        "total": 2668
+        "text": 2342,
+        "media": 328,
+        "total": 2670
       },
       "252922705240205": {
         "text": 80,
@@ -3946,8 +3946,8 @@
       },
       "81991328395336": {
         "text": 17,
-        "media": 945,
-        "total": 962
+        "media": 960,
+        "total": 977
       },
       "145381035905262": {
         "text": 7,
@@ -9950,8 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Camila Designer (92629643563147): Sim ☺️",
-        "Camila Designer (92629643563147): E com você @108461127897146 ?",
         "Souza (190864487919667): Tô bem e você? Como anda Goiânia?",
         "jaciara (108461127897146): Estou bem graças a Deus",
         "jaciara (108461127897146): Que bom , eu estou bem",
@@ -10449,7 +10447,9 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Pinto de preto Azulado\nJá fui ruiva\nCor natural é castanho claro",
         "Bruno Aguiar (+1395881181241): Humm vc ruiva",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Já fui 😂😂",
-        "Bruno Aguiar (+1395881181241): Fica linda"
+        "Bruno Aguiar (+1395881181241): Fica linda",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Deu ruim na época. Mas no começo ficou legalzinho até 😂😂",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): @108461127897146"
       ]
     },
     "120363428464897153@g.us": {
@@ -17488,24 +17488,6 @@
       {
         "authorNum": "129373172711439",
         "authorName": "Celiete Souza",
-        "text": "Bom menino 🫶🏻",
-        "timestamp": 1787944903806
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "😂",
-        "timestamp": 1787944924953
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Estudar pra Petrobrás",
-        "timestamp": 1787944931057
-      },
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
         "text": "Essa tropinha no cabaré mais tarde kkkkkk @92629643563147",
         "timestamp": 1787945587421
       },
@@ -17616,6 +17598,18 @@
         "authorName": "Bruno Aguiar",
         "text": "Fica linda",
         "timestamp": 1787946677469
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Deu ruim na época. Mas no começo ficou legalzinho até 😂😂",
+        "timestamp": 1787946808906
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "@108461127897146",
+        "timestamp": 1787946836185
       }
     ],
     "120363428464897153@g.us": [],
@@ -17642,7 +17636,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22337,
+    "120363432018531082@g.us": 22339,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -145723,6 +145717,18 @@
         "text": "Fica linda",
         "pushName": "Bruno Aguiar",
         "timestamp": 1787946677469
+      },
+      "AC9D91AE6E311440FDD67A201315F345": {
+        "sender": "53537388122141@lid",
+        "text": "Deu ruim na época. Mas no começo ficou legalzinho até 😂😂",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787946808906
+      },
+      "ACCF3588A5FB2BC99A59CD941007842C": {
+        "sender": "53537388122141@lid",
+        "text": "@108461127897146",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787946836185
       }
     },
     "120363428464897153@g.us": {
@@ -199196,7 +199202,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787946800055,
+    "120363432018531082@g.us": 1787946836185,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
@@ -199207,7 +199213,7 @@
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1787868477291,
-    "120363409024805409@g.us": 1787946774564,
+    "120363409024805409@g.us": 1787946832222,
     "120363411043114631@g.us": 1787897464612
   },
   "autoAnimSent": {
