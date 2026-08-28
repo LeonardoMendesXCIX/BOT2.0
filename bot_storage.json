@@ -293,9 +293,9 @@
         "total": 464
       },
       "262182034002040": {
-        "text": 1886,
+        "text": 1887,
         "media": 122,
-        "total": 2008
+        "total": 2009
       },
       "219245581488326": {
         "text": 4,
@@ -2603,9 +2603,9 @@
         "total": 42
       },
       "190864487919667": {
-        "text": 368,
+        "text": 369,
         "media": 55,
-        "total": 423
+        "total": 424
       },
       "82227819987089": {
         "text": 2,
@@ -2708,9 +2708,9 @@
         "total": 2
       },
       "108461127897146": {
-        "text": 140,
-        "media": 25,
-        "total": 165
+        "text": 141,
+        "media": 26,
+        "total": 167
       },
       "10050861031495": {
         "text": 0,
@@ -2723,9 +2723,9 @@
         "total": 8
       },
       "108268240302270": {
-        "text": 2,
-        "media": 2,
-        "total": 4
+        "text": 3,
+        "media": 3,
+        "total": 6
       },
       "94738589974623": {
         "text": 1,
@@ -9950,8 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Leandro (+55 (11) 92701-8683): Trabalhamos com nomes",
-        "Leandro (+55 (11) 92701-8683): Diga para nós",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Tô lá já, aham",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Quiser fala pra ADM Fifi aqui\nAceito",
         "Leandro (+55 (11) 92701-8683): Prometemos guardar segredo 🤞🏼",
@@ -10449,7 +10447,9 @@
         "jaciara (108461127897146): BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Queremos conhecer você! ✨\n\n📸 Sua foto:\n💬 Nome:Jaciara Vargas \n🎂 Idade:28 anos \n📍 De onde sou: Maranhão ( moro em aparecida de Goiânia) porém estou passando alguns mese",
         "Souza (190864487919667): 💥 BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Queremos conhecer você! ✨\n\n📸 Sua foto:\n💬 Nome: Fernando\n🎂 Idade: 24\n📍 De onde sou: Salvador (porém moro no DF)\n\n*🫶🏻 Seja bem-vindo(a)!*\n\n✨ Sinta-se à vontade para",
         " (120363432018531082): 💥 BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Queremos conhecer você! ✨\n\n📸 Sua foto:\n💬 Nome: Fernando\n🎂 Idade: 24\n📍 De onde sou: Salvador (porém moro no DF)\n\n*🫶🏻 Seja bem-vindo(a)!*\n\n✨ Sinta-se à vontade para",
-        "Edison Medeiros💚 (108268240302270): Buuuu, me chamo Edison tenho 44 anos sou de votorantin SP e solteiro"
+        "Edison Medeiros💚 (108268240302270): Buuuu, me chamo Edison tenho 44 anos sou de votorantin SP e solteiro",
+        "Dany (262182034002040): Boa noite, meu povooooo",
+        "Edison Medeiros💚 (108268240302270): Boah noite minha linda"
       ]
     },
     "120363428464897153@g.us": {
@@ -17757,6 +17757,18 @@
         "authorName": "Edison Medeiros💚",
         "text": "Buuuu, me chamo Edison tenho 44 anos sou de votorantin SP e solteiro",
         "timestamp": 1787961334367
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Boa noite, meu povooooo",
+        "timestamp": 1787961365770
+      },
+      {
+        "authorNum": "108268240302270",
+        "authorName": "Edison Medeiros💚",
+        "text": "Boah noite minha linda",
+        "timestamp": 1787961383429
       }
     ],
     "120363428464897153@g.us": [],
@@ -17886,7 +17898,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22629,
+    "120363432018531082@g.us": 22631,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2194,
@@ -147684,6 +147696,18 @@
         "text": "Buuuu, me chamo Edison tenho 44 anos sou de votorantin SP e solteiro",
         "pushName": "Edison Medeiros💚",
         "timestamp": 1787961334367
+      },
+      "3A5106C5A56B8EB16866": {
+        "sender": "262182034002040@lid",
+        "text": "Boa noite, meu povooooo",
+        "pushName": "Dany",
+        "timestamp": 1787961365770
+      },
+      "ACA0D4D54A06BC7E5DE09AFFA00192BC": {
+        "sender": "108268240302270@lid",
+        "text": "Boah noite minha linda",
+        "pushName": "Edison Medeiros💚",
+        "timestamp": 1787961383429
       }
     },
     "120363428464897153@g.us": {
@@ -201823,7 +201847,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787961358763,
+    "120363432018531082@g.us": 1787961384841,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787961328766,
