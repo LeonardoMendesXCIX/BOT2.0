@@ -1863,9 +1863,9 @@
         "total": 6
       },
       "1395881181241": {
-        "text": 133,
+        "text": 134,
         "media": 5,
-        "total": 138
+        "total": 139
       },
       "198595546501333": {
         "text": 2,
@@ -1953,9 +1953,9 @@
         "total": 5
       },
       "83911531044906": {
-        "text": 42,
+        "text": 43,
         "media": 2,
-        "total": 44
+        "total": 45
       },
       "172864548434113": {
         "text": 42,
@@ -9900,7 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "𝔞𝔩𝔦𝔫𝔢🫶🏽 (221307534876912): Obrigada meus amores",
         "Rafael Moura (57707230945348): Gus ta soltinho ne",
         "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Bem vinda.",
         "Souza (190864487919667): Morto",
@@ -10399,7 +10398,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Obrigada pelo elogio 🥹",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Deliciaaaaa\nEu quero",
         "jaciara (108461127897146): De qual cidade ?",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tá perdendoooo\nUma delícia"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tá perdendoooo\nUma delícia",
+        "Bruno Aguiar (+1395881181241): E se precisar estamos aqui 😉❤️"
       ]
     },
     "120363428464897153@g.us": {
@@ -17342,30 +17342,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "11171897864256",
-        "authorName": "🙃🙃🙃",
-        "text": "Pessoal o que fazem de bom",
-        "timestamp": 1787926333283
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Nada",
-        "timestamp": 1787926387425
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Procrastinando no trabalho",
-        "timestamp": 1787926390850
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Querendo ir tomar banho, mas enrolando",
-        "timestamp": 1787926457487
-      },
-      {
         "authorNum": "263797142995147",
         "authorName": "Nanda",
         "text": "fernanda\n19y\nfortaleza",
@@ -17886,6 +17862,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Tá perdendoooo\nUma delícia",
         "timestamp": 1787928108225
+      },
+      {
+        "authorNum": "1395881181241",
+        "authorName": "Bruno Aguiar",
+        "text": "E se precisar estamos aqui 😉❤️",
+        "timestamp": 1787928258114
       }
     ],
     "120363428464897153@g.us": [],
@@ -17918,7 +17900,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21818,
+    "120363432018531082@g.us": 21819,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -142923,6 +142905,12 @@
         "text": "Tá perdendoooo\nUma delícia",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787928108225
+      },
+      "ACDAD2CB722DB8825EE217A1B261FA08": {
+        "sender": "1395881181241@lid",
+        "text": "E se precisar estamos aqui 😉❤️",
+        "pushName": "Bruno Aguiar",
+        "timestamp": 1787928258114
       }
     },
     "120363428464897153@g.us": {
@@ -195832,7 +195820,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787928168350,
+    "120363432018531082@g.us": 1787928263156,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
