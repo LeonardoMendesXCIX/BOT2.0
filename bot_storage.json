@@ -453,9 +453,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1697,
+        "text": 1698,
         "media": 330,
-        "total": 2027
+        "total": 2028
       },
       "252600633041077": {
         "text": 1,
@@ -9877,7 +9877,8 @@
         "Leandro (+55 (11) 92701-8683): Uai",
         "Leandro (+55 (11) 92701-8683): O @120542904463568 acabou de entrar no grupo",
         "Leandro (+55 (11) 92701-8683): !ban @153764728184839",
-        "Leandro (+55 (11) 92701-8683): 😒"
+        "Leandro (+55 (11) 92701-8683): 😒",
+        "Leandro (+55 (11) 92701-8683): Esse fresco tá querendo usar o bot e nem pergunta se pode"
       ]
     },
     "120363428464897153@g.us": {
@@ -16799,12 +16800,6 @@
       {
         "authorNum": "5511927018683",
         "authorName": "Leandro",
-        "text": "Ele tinha reiniciado e eu nem vi",
-        "timestamp": 1787896233573
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
         "text": "!inativos",
         "timestamp": 1787896265011
       },
@@ -16981,6 +16976,12 @@
         "authorName": "Leandro",
         "text": "😒",
         "timestamp": 1787898019389
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Esse fresco tá querendo usar o bot e nem pergunta se pode",
+        "timestamp": 1787898033624
       }
     ],
     "120363428464897153@g.us": [
@@ -17147,7 +17148,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21160,
+    "120363432018531082@g.us": 21161,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1989,
@@ -138243,6 +138244,12 @@
         "text": "😒",
         "pushName": "Leandro",
         "timestamp": 1787898019389
+      },
+      "A55481D884F1CA5547D49F5B3EC51672": {
+        "sender": "54259127210155@lid",
+        "text": "Esse fresco tá querendo usar o bot e nem pergunta se pode",
+        "pushName": "Leandro",
+        "timestamp": 1787898033624
       }
     },
     "120363428464897153@g.us": {
@@ -191014,7 +191021,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787898019389,
+    "120363432018531082@g.us": 1787898033624,
     "120363428464897153@g.us": 1787898005021,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787894166886,
