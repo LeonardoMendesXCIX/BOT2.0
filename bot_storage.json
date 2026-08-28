@@ -253,9 +253,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1470,
+        "text": 1471,
         "media": 1105,
-        "total": 2575
+        "total": 2576
       },
       "3126803329115": {
         "text": 87,
@@ -3499,9 +3499,9 @@
     },
     "120363412288900422@g.us": {
       "81991328395336": {
-        "text": 467,
+        "text": 468,
         "media": 121,
-        "total": 588
+        "total": 589
       },
       "5511927018683": {
         "text": 535,
@@ -9865,7 +9865,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Leandro (+55 (11) 92701-8683): Acesse este link para entrar no meu grupo do WhatsApp: https://chat.whatsapp.com/CS9G5GGA1nq0Ix6dP4CQX5?s=sw&p=a&mlu=4",
         "Leandro (+55 (11) 92701-8683): Fiquem a vontade para conhecer o kbaré da lalay",
         "Jk (120542904463568): Kkkkk eita",
         "Jk (120542904463568): Kbaré da lalay",
@@ -10364,7 +10363,8 @@
         "eduardo (37826582323373): eita 😘",
         "Camila Designer (92629643563147): Sejam todos bem vindos!",
         "Camila Designer (92629643563147): Voltei, alguém me atualize 👀",
-        "~Gará (83911531044906): Eu cheguei agr"
+        "~Gará (83911531044906): Eu cheguei agr",
+        "Camila Designer (92629643563147): Como estão o dia de vocês hein?"
       ]
     },
     "120363428464897153@g.us": {
@@ -16784,7 +16784,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bom dia adms",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Facão logo cedo",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Invasão de Pv",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Quem ?"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Quem ?",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): E aí @53537388122141 \nBora lançar PV liberado no conexão?"
       ]
     },
     "120363411233423709@g.us": {
@@ -17382,11 +17383,24 @@
         "authorName": "~Gará",
         "text": "Eu cheguei agr",
         "timestamp": 1787921187196
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Como estão o dia de vocês hein?",
+        "timestamp": 1787921232174
       }
     ],
     "120363428464897153@g.us": [],
     "120363409727467494@g.us": [],
-    "120363412288900422@g.us": [],
+    "120363412288900422@g.us": [
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "E aí @53537388122141 \nBora lançar PV liberado no conexão?",
+        "timestamp": 1787921223335
+      }
+    ],
     "120363411233423709@g.us": [],
     "120363428079168524@g.us": [],
     "120363411246936023@g.us": [],
@@ -17401,10 +17415,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21641,
+    "120363432018531082@g.us": 21642,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1993,
+    "120363412288900422@g.us": 1994,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -141357,6 +141371,12 @@
         "text": "Eu cheguei agr",
         "pushName": "~Gará",
         "timestamp": 1787921187196
+      },
+      "2A7142186CD3B0C49E9E": {
+        "sender": "92629643563147@lid",
+        "text": "Como estão o dia de vocês hein?",
+        "pushName": "Camila Designer",
+        "timestamp": 1787921232174
       }
     },
     "120363428464897153@g.us": {
@@ -191409,6 +191429,12 @@
         "text": "Quem ?",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787915873458
+      },
+      "ACC7712EF9D93EC8D95F54C452A6B42A": {
+        "sender": "81991328395336@lid",
+        "text": "E aí @53537388122141 \nBora lançar PV liberado no conexão?",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787921223335
       }
     },
     "120363411233423709@g.us": {
@@ -194152,10 +194178,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787921199939,
+    "120363432018531082@g.us": 1787921232174,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787920577610,
+    "120363412288900422@g.us": 1787921223335,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
