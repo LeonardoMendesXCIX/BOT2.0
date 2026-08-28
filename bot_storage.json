@@ -2663,9 +2663,9 @@
         "total": 82
       },
       "172868239380659": {
-        "text": 175,
+        "text": 177,
         "media": 35,
-        "total": 210
+        "total": 212
       },
       "170455038193841": {
         "text": 1,
@@ -2814,8 +2814,8 @@
       },
       "221307534876912": {
         "text": 10,
-        "media": 12,
-        "total": 22
+        "media": 13,
+        "total": 23
       }
     },
     "120363428464897153@g.us": {
@@ -9855,8 +9855,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Gustavo Willians Lopes (265811516211241): Gustavo \nJoinville SC \nSolteiro \n32",
-        "Leandro (+55 (11) 92701-8683): Bem vindo jovem! 🫡",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Bem vindo jovem 🤝",
         "Gustavo Willians Lopes (265811516211241): 👍🏻👍🏻",
         "Leandro (+55 (11) 92701-8683): Coisa que claramente aconteceria comigo... @81991328395336 🌝🤡",
@@ -10354,7 +10352,9 @@
         "Gabi 💋 (247020967165997): No cabaré",
         "Pedro Henrique (172868239380659): Pelo menos transou antes de morrer",
         "Gabi 💋 (247020967165997): Tu só se queima né miojo",
-        "Pedro Henrique (172868239380659): Lá ele"
+        "Pedro Henrique (172868239380659): Lá ele",
+        "Pedro Henrique (172868239380659): Mas entendi já sobre o filme",
+        "Pedro Henrique (172868239380659): Vou assistir depois"
       ]
     },
     "120363428464897153@g.us": {
@@ -17278,12 +17278,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Miojo é bom vei",
-        "timestamp": 1787917135545
-      },
-      {
         "authorNum": "247020967165997",
         "authorName": "Gabi 💋",
         "text": "Sim, faz em dois minutos",
@@ -17930,6 +17924,18 @@
         "authorName": "Pedro Henrique",
         "text": "Lá ele",
         "timestamp": 1787918933100
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Mas entendi já sobre o filme",
+        "timestamp": 1787918942678
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Vou assistir depois",
+        "timestamp": 1787918948711
       }
     ],
     "120363428464897153@g.us": [],
@@ -17949,7 +17955,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21613,
+    "120363432018531082@g.us": 21615,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -141737,6 +141743,18 @@
         "text": "Lá ele",
         "pushName": "Pedro Henrique",
         "timestamp": 1787918933100
+      },
+      "AC6E575EBDC506C7E6D58DFB2B6D4996": {
+        "sender": "172868239380659@lid",
+        "text": "Mas entendi já sobre o filme",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787918942678
+      },
+      "ACB95EC7616E7FA9561C7FE6D8AE317D": {
+        "sender": "172868239380659@lid",
+        "text": "Vou assistir depois",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787918948711
       }
     },
     "120363428464897153@g.us": {
@@ -194532,7 +194550,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787918933100,
+    "120363432018531082@g.us": 1787918959466,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
