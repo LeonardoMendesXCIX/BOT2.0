@@ -293,9 +293,9 @@
         "total": 464
       },
       "262182034002040": {
-        "text": 1881,
+        "text": 1882,
         "media": 122,
-        "total": 2003
+        "total": 2004
       },
       "219245581488326": {
         "text": 4,
@@ -2673,9 +2673,9 @@
         "total": 3
       },
       "193729163993156": {
-        "text": 18,
+        "text": 19,
         "media": 5,
-        "total": 23
+        "total": 24
       },
       "151582733820115": {
         "text": 5,
@@ -2818,9 +2818,9 @@
         "total": 26
       },
       "238388519141379": {
-        "text": 5,
+        "text": 6,
         "media": 1,
-        "total": 6
+        "total": 7
       },
       "269625715650683": {
         "text": 1,
@@ -9890,8 +9890,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "jaciara (108461127897146): Bom diaaaa",
-        "🦅⚡️😍 (163686253629557): Bom dia",
         "Alexandre Bastos (75797868064796): Bom dia",
         "jaciara (108461127897146): Estão bem ?",
         "Alexandre Bastos (75797868064796): Sextou",
@@ -10389,7 +10387,9 @@
         "Dany (262182034002040): Tá indo… tô fazendo umas atividades mais de boas com os alunos então tá indo bem hahahha",
         "Dany (262182034002040): Eu!",
         "Nickolas (238388519141379): Você professora de que ?",
-        "willian (163530946961491): Bem vinda"
+        "willian (163530946961491): Bem vinda",
+        "Dany (262182034002040): Inglês 🥰",
+        "Nickolas (238388519141379): To preciso de aulas de inglês"
       ]
     },
     "120363428464897153@g.us": {
@@ -17329,18 +17329,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "94227841179800",
-        "authorName": "amanda🫶",
-        "text": "💥 BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Queremos conhecer você! \n💬 Nome:amanda\n🎂 Idade:34anos\n📍 De onde sou:Rj\n\n*🫶🏻 Seja bem-vindo(a)!*",
-        "timestamp": 1787922699328
-      },
-      {
-        "authorNum": "120363432018531082",
-        "authorName": "",
-        "text": "💥 BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Queremos conhecer você! \n💬 Nome:amanda\n🎂 Idade:34anos\n📍 De onde sou:Rj\n\n*🫶🏻 Seja bem-vindo(a)!*",
-        "timestamp": 1787922699941
-      },
-      {
         "authorNum": "75797868064796",
         "authorName": "Alexandre Bastos",
         "text": "Bem vinda",
@@ -17531,6 +17519,18 @@
         "authorName": "willian",
         "text": "Bem vinda",
         "timestamp": 1787924494517
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Inglês 🥰",
+        "timestamp": 1787924522630
+      },
+      {
+        "authorNum": "238388519141379",
+        "authorName": "Nickolas",
+        "text": "To preciso de aulas de inglês",
+        "timestamp": 1787924540323
       }
     ],
     "120363428464897153@g.us": [],
@@ -17587,7 +17587,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21700,
+    "120363432018531082@g.us": 21702,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2009,
@@ -141890,6 +141890,18 @@
         "text": "Bem vinda",
         "pushName": "willian",
         "timestamp": 1787924494517
+      },
+      "3AEB8F15BE36C50DCDF0": {
+        "sender": "262182034002040@lid",
+        "text": "Inglês 🥰",
+        "pushName": "Dany",
+        "timestamp": 1787924522630
+      },
+      "3AC252835C3AEDEA09A4": {
+        "sender": "238388519141379@lid",
+        "text": "To preciso de aulas de inglês",
+        "pushName": "Nickolas",
+        "timestamp": 1787924540324
       }
     },
     "120363428464897153@g.us": {
@@ -194781,7 +194793,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787924494517,
+    "120363432018531082@g.us": 1787924547131,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787923699618,
