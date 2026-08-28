@@ -2603,9 +2603,9 @@
         "total": 24
       },
       "190864487919667": {
-        "text": 240,
+        "text": 242,
         "media": 41,
-        "total": 281
+        "total": 283
       },
       "82227819987089": {
         "text": 2,
@@ -9880,8 +9880,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "eduardo (37826582323373): asim",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Disponha",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): *Bom dia pessoal, que Deus abençoe o nosso dia, nossa sexta-feira, que tenhamos um dia produtivo e cheio de surpresas boas, a todos um bom final de semana!*❣️✨",
         "Leandro (+55 (11) 92701-8683): Bom dia meu amor, amém! Deus abençoe todos nós! 🙏🏻🙌🏻",
         "Leandro (+55 (11) 92701-8683): Bom dia a @all",
@@ -10379,7 +10377,9 @@
         "Lailson Nathan. (272048228188398): Seja bem vinda.",
         "Bruno Aguiar (+1395881181241): Seja bem vinda",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Bem vinda 🩷",
-        "May (227783724793861): 💥 BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Queremos conhecer você! ✨\n\n📸 Sua foto:\n💬 Nome:May\n🎂 Idade:37\n📍 De onde sou: Matinhos/Curitiba"
+        "May (227783724793861): 💥 BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Queremos conhecer você! ✨\n\n📸 Sua foto:\n💬 Nome:May\n🎂 Idade:37\n📍 De onde sou: Matinhos/Curitiba",
+        "Souza (190864487919667): Cidade de novo estranha",
+        "Souza (190864487919667): Bem vinda May"
       ]
     },
     "120363428464897153@g.us": {
@@ -17470,6 +17470,18 @@
         "authorName": "May",
         "text": "💥 BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Queremos conhecer você! ✨\n\n📸 Sua foto:\n💬 Nome:May\n🎂 Idade:37\n📍 De onde sou: Matinhos/Curitiba",
         "timestamp": 1787923527449
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Cidade de novo estranha",
+        "timestamp": 1787923582022
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Bem vinda May",
+        "timestamp": 1787923587160
       }
     ],
     "120363428464897153@g.us": [],
@@ -17508,7 +17520,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21683,
+    "120363432018531082@g.us": 21685,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2006,
@@ -141709,6 +141721,18 @@
         "text": "💥 BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Queremos conhecer você! ✨\n\n📸 Sua foto:\n💬 Nome:May\n🎂 Idade:37\n📍 De onde sou: Matinhos/Curitiba",
         "pushName": "May",
         "timestamp": 1787923527449
+      },
+      "AC08AE8E7DD5171D27533B157B54E5A7": {
+        "sender": "190864487919667@lid",
+        "text": "Cidade de novo estranha",
+        "pushName": "Souza",
+        "timestamp": 1787923582022
+      },
+      "ACEE817614FFC7B596206D42DADB1C6F": {
+        "sender": "190864487919667@lid",
+        "text": "Bem vinda May",
+        "pushName": "Souza",
+        "timestamp": 1787923587160
       }
     },
     "120363428464897153@g.us": {
@@ -194582,7 +194606,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787923527449,
+    "120363432018531082@g.us": 1787923587160,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787922745298,
