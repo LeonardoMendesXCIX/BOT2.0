@@ -698,9 +698,9 @@
         "total": 95
       },
       "57707230945348": {
-        "text": 1175,
-        "media": 211,
-        "total": 1386
+        "text": 1176,
+        "media": 212,
+        "total": 1388
       },
       "152218690924790": {
         "text": 309,
@@ -2604,8 +2604,8 @@
       },
       "190864487919667": {
         "text": 219,
-        "media": 37,
-        "total": 256
+        "media": 38,
+        "total": 257
       },
       "82227819987089": {
         "text": 2,
@@ -2663,9 +2663,9 @@
         "total": 77
       },
       "172868239380659": {
-        "text": 107,
-        "media": 19,
-        "total": 126
+        "text": 110,
+        "media": 20,
+        "total": 130
       },
       "170455038193841": {
         "text": 1,
@@ -2794,13 +2794,13 @@
       },
       "129978696003832": {
         "text": 3,
-        "media": 1,
-        "total": 4
+        "media": 2,
+        "total": 5
       },
       "247020967165997": {
-        "text": 31,
+        "text": 32,
         "media": 7,
-        "total": 38
+        "total": 39
       },
       "206253020176458": {
         "text": 3,
@@ -10164,7 +10164,12 @@
         "Rafael Moura (57707230945348): Nossa mulher aranha 😏",
         "Pedro Henrique (172868239380659): Alguém ficou sentida com a história 😏",
         "Gabi 💋 (247020967165997): Eu não",
-        "Gabi 💋 (247020967165997): Eu tô é rindo"
+        "Gabi 💋 (247020967165997): Eu tô é rindo",
+        "Rafael Moura (57707230945348): Epa ta rolando briga?",
+        "Pedro Henrique (172868239380659): Nada",
+        "Pedro Henrique (172868239380659): Ela tem um ponto e eu tenho outro",
+        "Pedro Henrique (172868239380659): Tá tudo certo",
+        "Gabi 💋 (247020967165997): Bem isso"
       ]
     },
     "120363428464897153@g.us": {
@@ -17824,6 +17829,36 @@
         "authorName": "Gabi 💋",
         "text": "Eu tô é rindo",
         "timestamp": 1787915959580
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Epa ta rolando briga?",
+        "timestamp": 1787915974313
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Nada",
+        "timestamp": 1787915979581
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Ela tem um ponto e eu tenho outro",
+        "timestamp": 1787915988470
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Tá tudo certo",
+        "timestamp": 1787915993289
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Bem isso",
+        "timestamp": 1787915996956
       }
     ],
     "120363428464897153@g.us": [],
@@ -17868,7 +17903,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21402,
+    "120363432018531082@g.us": 21407,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -140390,6 +140425,36 @@
         "text": "Eu tô é rindo",
         "pushName": "Gabi 💋",
         "timestamp": 1787915959580
+      },
+      "AC4158C4D7D7DAA7E0F7CB8DBC4E86CB": {
+        "sender": "57707230945348@lid",
+        "text": "Epa ta rolando briga?",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787915974314
+      },
+      "AC983724E96167A66B679F3B4F40F3A6": {
+        "sender": "172868239380659@lid",
+        "text": "Nada",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787915979581
+      },
+      "AC9F6F8A28C33A44336B1A9009774ED2": {
+        "sender": "172868239380659@lid",
+        "text": "Ela tem um ponto e eu tenho outro",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787915988471
+      },
+      "ACB5FFD6983AC04C1EF628E5EEEE7DB0": {
+        "sender": "172868239380659@lid",
+        "text": "Tá tudo certo",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787915993289
+      },
+      "ACCAB5CB8684C55D3493A1841749CDA1": {
+        "sender": "247020967165997@lid",
+        "text": "Bem isso",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787915996956
       }
     },
     "120363428464897153@g.us": {
@@ -193185,7 +193250,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787915959580,
+    "120363432018531082@g.us": 1787915998102,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
