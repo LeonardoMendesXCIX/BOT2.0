@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2278,
+        "text": 2279,
         "media": 309,
-        "total": 2587
+        "total": 2588
       },
       "252922705240205": {
         "text": 80,
@@ -1953,9 +1953,9 @@
         "total": 5
       },
       "83911531044906": {
-        "text": 56,
+        "text": 57,
         "media": 3,
-        "total": 59
+        "total": 60
       },
       "172864548434113": {
         "text": 42,
@@ -2658,9 +2658,9 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 85,
+        "text": 87,
         "media": 14,
-        "total": 99
+        "total": 101
       },
       "172868239380659": {
         "text": 182,
@@ -9900,8 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Souza (190864487919667): Por isso não conseguem nada",
-        "Gabi 💋 (247020967165997): Bem isso",
         "Jessica (208958782488665): Neeh puxar peso que ganho mais",
         "Gabi 💋 (247020967165997): Vou a noite com o meu belo fone para não ouvir asneira é vida",
         "Pedro Henrique (172868239380659): Vou é trabalhar pra pagar a viagem do feriado",
@@ -10399,7 +10397,9 @@
         "jaciara (108461127897146): Sim sim , eu sou bem esperta em relação a isso",
         "F. RicaRdo sAnToS (193729163993156): Tem candidato forte aqui",
         "~Gará (83911531044906): Tenho três filhos.\nPorém descobrir em 2020 que não faço mais devidos uns problemas,mais queria ter mais um pra mim acompanhar de perto desde o nascimento ao crescimento.",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Que foto? @108461127897146"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Que foto? @108461127897146",
+        "Gleydson Souza (274384656834700): .",
+        "Gleydson Souza (274384656834700): @53537388122141"
       ]
     },
     "120363428464897153@g.us": {
@@ -17814,6 +17814,18 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Que foto? @108461127897146",
         "timestamp": 1787929502190
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": ".",
+        "timestamp": 1787929534911
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "@53537388122141",
+        "timestamp": 1787929541582
       }
     ],
     "120363428464897153@g.us": [],
@@ -17840,7 +17852,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21891,
+    "120363432018531082@g.us": 21893,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -143276,6 +143288,18 @@
         "text": "Que foto? @108461127897146",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787929502191
+      },
+      "AC3B008974FC68B64118991368D8E543": {
+        "sender": "274384656834700@lid",
+        "text": ".",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787929534911
+      },
+      "ACF7249CC02C585C8E7BD7F9244E4647": {
+        "sender": "274384656834700@lid",
+        "text": "@53537388122141",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787929541582
       }
     },
     "120363428464897153@g.us": {
@@ -196185,7 +196209,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787929502190,
+    "120363432018531082@g.us": 1787929552047,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
