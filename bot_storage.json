@@ -449,9 +449,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1656,
+        "text": 1657,
         "media": 322,
-        "total": 1978
+        "total": 1979
       },
       "252600633041077": {
         "text": 1,
@@ -2599,9 +2599,9 @@
         "total": 21
       },
       "190864487919667": {
-        "text": 188,
+        "text": 189,
         "media": 34,
-        "total": 222
+        "total": 223
       },
       "82227819987089": {
         "text": 2,
@@ -9257,7 +9257,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Souza (190864487919667): Bem vinda",
         "Souza (190864487919667): Menino rápido",
         "Gabriel (145381035905262): Rapaiz a @233161007071346 é toda engraçadinha, mas é uma oncinha",
         "Souza (190864487919667): Quem?",
@@ -9756,7 +9755,8 @@
         "Leandro (+55 (11) 92701-8683): Boa noite meu patrão! 🫡",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): @81991328395336",
         " (120363432018531082): @81991328395336",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Vou deixar o Adm @54259127210155 explicar pra vocês! 🫡"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Vou deixar o Adm @54259127210155 explicar pra vocês! 🫡",
+        "Leandro (+55 (11) 92701-8683): Bot é uma automação que ajuda nós adms (eu, @81991328395336 @53537388122141 @145381035905262) a gerenciar o grupo"
       ]
     },
     "120363428464897153@g.us": {
@@ -16432,6 +16432,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Vou deixar o Adm @54259127210155 explicar pra vocês! 🫡",
         "timestamp": 1787883372650
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Bot é uma automação que ajuda nós adms (eu, @81991328395336 @53537388122141 @145381035905262) a gerenciar o grupo",
+        "timestamp": 1787883446738
       }
     ],
     "120363428464897153@g.us": [
@@ -16651,7 +16657,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21061,
+    "120363432018531082@g.us": 21062,
     "120363428464897153@g.us": 6218,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1720,
@@ -137151,6 +137157,12 @@
         "text": "Vou deixar o Adm @54259127210155 explicar pra vocês! 🫡",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787883372650
+      },
+      "A5CA2C7BC7968E0C7B8B05686E5E77E8": {
+        "sender": "54259127210155@lid",
+        "text": "Bot é uma automação que ajuda nós adms (eu, @81991328395336 @53537388122141 @145381035905262) a gerenciar o grupo",
+        "pushName": "Leandro",
+        "timestamp": 1787883446738
       }
     },
     "120363428464897153@g.us": {
@@ -187736,7 +187748,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787883380851,
+    "120363432018531082@g.us": 1787883446738,
     "120363428464897153@g.us": 1787883101464,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787883415106,
