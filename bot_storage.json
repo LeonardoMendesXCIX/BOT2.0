@@ -3539,14 +3539,14 @@
         "total": 598
       },
       "5511927018683": {
-        "text": 543,
+        "text": 546,
         "media": 104,
-        "total": 647
+        "total": 650
       },
       "145381035905262": {
-        "text": 451,
+        "text": 453,
         "media": 152,
-        "total": 603
+        "total": 605
       },
       "53537388122141": {
         "text": 789,
@@ -3946,8 +3946,8 @@
       },
       "81991328395336": {
         "text": 16,
-        "media": 525,
-        "total": 541
+        "media": 555,
+        "total": 571
       },
       "145381035905262": {
         "text": 7,
@@ -16898,7 +16898,12 @@
         "Gabriel (145381035905262): Manda",
         "Leandro (+55 (11) 92701-8683): Nuu 🤌🏼",
         "Gabriel (145381035905262): Mano já coloquei 300 nela",
-        "Gabriel (145381035905262): Vendi ela com esse km"
+        "Gabriel (145381035905262): Vendi ela com esse km",
+        "Leandro (+55 (11) 92701-8683): Estamos falando S1000 né papito",
+        "Gabriel (145381035905262): Sim, que moto, que moto cara",
+        "Leandro (+55 (11) 92701-8683): Se ela estiver com remap, chega a 320",
+        "Leandro (+55 (11) 92701-8683): Fácil, fácil",
+        "Gabriel (145381035905262): Tava"
       ]
     },
     "120363411233423709@g.us": {
@@ -17610,6 +17615,36 @@
         "authorName": "Gabriel",
         "text": "Vendi ela com esse km",
         "timestamp": 1787938380576
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Estamos falando S1000 né papito",
+        "timestamp": 1787938415994
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Sim, que moto, que moto cara",
+        "timestamp": 1787938429298
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Se ela estiver com remap, chega a 320",
+        "timestamp": 1787938431399
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Fácil, fácil",
+        "timestamp": 1787938442760
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Tava",
+        "timestamp": 1787938444754
       }
     ],
     "120363411233423709@g.us": [],
@@ -17629,7 +17664,7 @@
     "120363432018531082@g.us": 22099,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2032,
+    "120363412288900422@g.us": 2037,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -194577,6 +194612,36 @@
         "text": "Vendi ela com esse km",
         "pushName": "Gabriel",
         "timestamp": 1787938380576
+      },
+      "A508C70E0A36B00470C02D15D773901A": {
+        "sender": "54259127210155@lid",
+        "text": "Estamos falando S1000 né papito",
+        "pushName": "Leandro",
+        "timestamp": 1787938415994
+      },
+      "AC5431DFD6DA55A0485EF91829926DBB": {
+        "sender": "145381035905262@lid",
+        "text": "Sim, que moto, que moto cara",
+        "pushName": "Gabriel",
+        "timestamp": 1787938429298
+      },
+      "A5495296FEE2A06CFA321D5A0CB3590B": {
+        "sender": "54259127210155@lid",
+        "text": "Se ela estiver com remap, chega a 320",
+        "pushName": "Leandro",
+        "timestamp": 1787938431399
+      },
+      "A55C5E7028904B7E96E6E53C3CF6FB2E": {
+        "sender": "54259127210155@lid",
+        "text": "Fácil, fácil",
+        "pushName": "Leandro",
+        "timestamp": 1787938442760
+      },
+      "AC648EF1F971E1574951B0FCBDC46A65": {
+        "sender": "145381035905262@lid",
+        "text": "Tava",
+        "pushName": "Gabriel",
+        "timestamp": 1787938444754
       }
     },
     "120363411233423709@g.us": {
@@ -197407,7 +197472,7 @@
     "120363432018531082@g.us": 1787938394833,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787938380576,
+    "120363412288900422@g.us": 1787938444754,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
@@ -197415,7 +197480,7 @@
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1787868477291,
-    "120363409024805409@g.us": 1787938326768,
+    "120363409024805409@g.us": 1787938453582,
     "120363411043114631@g.us": 1787897464612
   },
   "autoAnimSent": {
