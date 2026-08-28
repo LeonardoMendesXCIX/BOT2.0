@@ -2628,9 +2628,9 @@
         "total": 46
       },
       "75797868064796": {
-        "text": 9,
+        "text": 11,
         "media": 19,
-        "total": 28
+        "total": 30
       },
       "153764728184839": {
         "text": 2,
@@ -2708,9 +2708,9 @@
         "total": 2
       },
       "108461127897146": {
-        "text": 23,
+        "text": 24,
         "media": 3,
-        "total": 26
+        "total": 27
       },
       "10050861031495": {
         "text": 0,
@@ -9936,7 +9936,10 @@
         "jaciara (108461127897146): Bom diaaaa",
         "🦅⚡️😍 (163686253629557): Bom dia",
         "Alexandre Bastos (75797868064796): Bom dia",
-        "jaciara (108461127897146): Estão bem ?"
+        "jaciara (108461127897146): Estão bem ?",
+        "Alexandre Bastos (75797868064796): Sextou",
+        "Alexandre Bastos (75797868064796): Sim e vc",
+        "jaciara (108461127897146): Bem também"
       ]
     },
     "120363428464897153@g.us": {
@@ -16856,12 +16859,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Bom dia",
-        "timestamp": 1787906758607
-      },
-      {
         "authorNum": "75797868064796",
         "authorName": "Alexandre Bastos",
         "text": "Bom dia",
@@ -16890,6 +16887,24 @@
         "authorName": "jaciara",
         "text": "Estão bem ?",
         "timestamp": 1787908542834
+      },
+      {
+        "authorNum": "75797868064796",
+        "authorName": "Alexandre Bastos",
+        "text": "Sextou",
+        "timestamp": 1787908576840
+      },
+      {
+        "authorNum": "75797868064796",
+        "authorName": "Alexandre Bastos",
+        "text": "Sim e vc",
+        "timestamp": 1787908584245
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Bem também",
+        "timestamp": 1787908599804
       }
     ],
     "120363428464897153@g.us": [],
@@ -16909,7 +16924,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21204,
+    "120363432018531082@g.us": 21207,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1989,
@@ -138257,6 +138272,24 @@
         "text": "Estão bem ?",
         "pushName": "jaciara",
         "timestamp": 1787908542834
+      },
+      "AC9CE20D68775F1CAEE9E79F49F269A2": {
+        "sender": "75797868064796@lid",
+        "text": "Sextou",
+        "pushName": "Alexandre Bastos",
+        "timestamp": 1787908576840
+      },
+      "AC2F27F3F785FF56335010D1A9E67932": {
+        "sender": "75797868064796@lid",
+        "text": "Sim e vc",
+        "pushName": "Alexandre Bastos",
+        "timestamp": 1787908584245
+      },
+      "AC6BE20966329C1502A7A29E4497B2B1": {
+        "sender": "108461127897146@lid",
+        "text": "Bem também",
+        "pushName": "jaciara",
+        "timestamp": 1787908599804
       }
     },
     "120363428464897153@g.us": {
@@ -191028,7 +191061,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787908542834,
+    "120363432018531082@g.us": 1787908599804,
     "120363428464897153@g.us": 1787902098969,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787894166886,
