@@ -698,9 +698,9 @@
         "total": 95
       },
       "57707230945348": {
-        "text": 1206,
-        "media": 224,
-        "total": 1430
+        "text": 1207,
+        "media": 225,
+        "total": 1432
       },
       "152218690924790": {
         "text": 309,
@@ -2798,9 +2798,9 @@
         "total": 5
       },
       "247020967165997": {
-        "text": 85,
+        "text": 87,
         "media": 20,
-        "total": 105
+        "total": 107
       },
       "206253020176458": {
         "text": 3,
@@ -10316,7 +10316,10 @@
         "Pedro Henrique (172868239380659): Sexta feira pow, tem que dá uma animada, só trabalhar não da",
         "Bruno Aguiar (+1395881181241): Eita",
         "Pedro Henrique (172868239380659): Mas na bíblia não fala sobre qual",
-        "Pedro Henrique (172868239380659): Se Deus escreveu quem sou eu pra falar algo"
+        "Pedro Henrique (172868239380659): Se Deus escreveu quem sou eu pra falar algo",
+        "Gabi 💋 (247020967165997): É por isso que vai no cabaré né meu filho",
+        "Gabi 💋 (247020967165997): Eu entendo",
+        "Rafael Moura (57707230945348): 😏"
       ]
     },
     "120363428464897153@g.us": {
@@ -17240,36 +17243,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Ela tem um ponto e eu tenho outro",
-        "timestamp": 1787915988470
-      },
-      {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Tá tudo certo",
-        "timestamp": 1787915993289
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Bem isso",
-        "timestamp": 1787915996956
-      },
-      {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "E eu tenho dois pontos, olha aqui !",
-        "timestamp": 1787916006903
-      },
-      {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "..",
-        "timestamp": 1787916009275
-      },
-      {
         "authorNum": "247020967165997",
         "authorName": "Gabi 💋",
         "text": "Adoro um sabor de outros ksksks",
@@ -18138,18 +18111,29 @@
         "authorName": "Pedro Henrique",
         "text": "Se Deus escreveu quem sou eu pra falar algo",
         "timestamp": 1787917781533
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "É por isso que vai no cabaré né meu filho",
+        "timestamp": 1787917795565
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Eu entendo",
+        "timestamp": 1787917799757
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "😏",
+        "timestamp": 1787917814538
       }
     ],
     "120363428464897153@g.us": [],
     "120363409727467494@g.us": [],
-    "120363412288900422@g.us": [
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Quem ?",
-        "timestamp": 1787915873458
-      }
-    ],
+    "120363412288900422@g.us": [],
     "120363411233423709@g.us": [],
     "120363428079168524@g.us": [],
     "120363411246936023@g.us": [],
@@ -18164,7 +18148,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21554,
+    "120363432018531082@g.us": 21557,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -141598,6 +141582,24 @@
         "text": "Se Deus escreveu quem sou eu pra falar algo",
         "pushName": "Pedro Henrique",
         "timestamp": 1787917781533
+      },
+      "ACAD68AC483C1C33F109162889209296": {
+        "sender": "247020967165997@lid",
+        "text": "É por isso que vai no cabaré né meu filho",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787917795565
+      },
+      "ACB4D5234678A8CC4334017FDF063A99": {
+        "sender": "247020967165997@lid",
+        "text": "Eu entendo",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787917799757
+      },
+      "AC5552C0F18DBACF6645BAE094693F84": {
+        "sender": "57707230945348@lid",
+        "text": "😏",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787917814539
       }
     },
     "120363428464897153@g.us": {
@@ -194393,7 +194395,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787917781533,
+    "120363432018531082@g.us": 1787917814538,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
