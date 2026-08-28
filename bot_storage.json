@@ -254,8 +254,8 @@
       },
       "92629643563147": {
         "text": 1521,
-        "media": 1149,
-        "total": 2670
+        "media": 1150,
+        "total": 2671
       },
       "3126803329115": {
         "text": 87,
@@ -2603,9 +2603,9 @@
         "total": 41
       },
       "190864487919667": {
-        "text": 356,
+        "text": 357,
         "media": 51,
-        "total": 407
+        "total": 408
       },
       "82227819987089": {
         "text": 2,
@@ -2674,8 +2674,8 @@
       },
       "193729163993156": {
         "text": 49,
-        "media": 29,
-        "total": 78
+        "media": 30,
+        "total": 79
       },
       "151582733820115": {
         "text": 5,
@@ -2709,8 +2709,8 @@
       },
       "108461127897146": {
         "text": 127,
-        "media": 19,
-        "total": 146
+        "media": 20,
+        "total": 147
       },
       "10050861031495": {
         "text": 0,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Celiete Souza (129373172711439): Política?",
         "~Gará (83911531044906): Concordo",
         "Celiete Souza (129373172711439): Política, religião não se discute",
         "Nanda (263797142995147): sim, da pra perceber muita coisa no primeiro encontro",
@@ -10449,7 +10448,8 @@
         "Gabriel Ohi (90130358485223): Pra q fui ver isso kkkkkk 🤦🏻‍♂️ vai me dar pesadelo hoje 😂😂😂",
         "jaciara (108461127897146): Tem que tá né kkkk",
         "Gabriel Ohi (90130358485223): É bom mesmo kkkkkkk",
-        "Gabriel Ohi (90130358485223): Ainda mais na sexta feira 😂😂😂😂😂"
+        "Gabriel Ohi (90130358485223): Ainda mais na sexta feira 😂😂😂😂😂",
+        "Souza (190864487919667): Liberdade cantou"
       ]
     },
     "120363428464897153@g.us": {
@@ -17487,42 +17487,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "Mas que fogolenta",
-        "timestamp": 1787948296721
-      },
-      {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "🤣🤣🤣",
-        "timestamp": 1787948298025
-      },
-      {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "Apaga esse fogo",
-        "timestamp": 1787948309414
-      },
-      {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "Ora bolas",
-        "timestamp": 1787948314163
-      },
-      {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "5 e 20 de fogo aceso",
-        "timestamp": 1787948328184
-      },
-      {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "🤣🤣🤣",
-        "timestamp": 1787948330307
-      },
-      {
         "authorNum": "129373172711439",
         "authorName": "Celiete Souza",
         "text": "Eu estou feliz 😍",
@@ -17959,6 +17923,12 @@
         "authorName": "Gabriel Ohi",
         "text": "Ainda mais na sexta feira 😂😂😂😂😂",
         "timestamp": 1787950082661
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Liberdade cantou",
+        "timestamp": 1787950139693
       }
     ],
     "120363428464897153@g.us": [],
@@ -17978,7 +17948,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22475,
+    "120363432018531082@g.us": 22476,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -146887,6 +146857,12 @@
         "text": "Ainda mais na sexta feira 😂😂😂😂😂",
         "pushName": "Gabriel Ohi",
         "timestamp": 1787950082661
+      },
+      "ACEEBEB59B425BC69CCF3FEE0E2C64CF": {
+        "sender": "190864487919667@lid",
+        "text": "Liberdade cantou",
+        "pushName": "Souza",
+        "timestamp": 1787950139693
       }
     },
     "120363428464897153@g.us": {
@@ -200366,7 +200342,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787950085792,
+    "120363432018531082@g.us": 1787950142257,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
