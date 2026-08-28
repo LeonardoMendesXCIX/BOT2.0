@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2252,
+        "text": 2253,
         "media": 306,
-        "total": 2558
+        "total": 2559
       },
       "252922705240205": {
         "text": 80,
@@ -2818,9 +2818,9 @@
         "total": 24
       },
       "238388519141379": {
-        "text": 1,
+        "text": 2,
         "media": 0,
-        "total": 1
+        "total": 2
       },
       "269625715650683": {
         "text": 1,
@@ -9865,8 +9865,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "🦅⚡️😍 (163686253629557): 👀",
-        "Leandro (+55 (11) 92701-8683): Bom dia",
         "🦅⚡️😍 (163686253629557): Bom dia",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Bom dia",
         "Jk (120542904463568): Sobre quais assuntos o pessoal conversa aqui ? Assuntos variados ?",
@@ -10364,7 +10362,9 @@
         "🙃🙃🙃 (11171897864256): Oi bom dia",
         "Gleydson Souza (274384656834700): Bom dia",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Aos domingos",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Mas quem quiser, fique a vontade"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Mas quem quiser, fique a vontade",
+        "Nickolas (238388519141379): Normal ? Ou visu única ?",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Do jeito que preferir"
       ]
     },
     "120363428464897153@g.us": {
@@ -17290,72 +17290,6 @@
       {
         "authorNum": "247020967165997",
         "authorName": "Gabi 💋",
-        "text": "Menino ele foi cortado",
-        "timestamp": 1787918719785
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Tá na Netflix",
-        "timestamp": 1787918722595
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Olha lá o filme",
-        "timestamp": 1787918726056
-      },
-      {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Qual o nome?",
-        "timestamp": 1787918732456
-      },
-      {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Do filme",
-        "timestamp": 1787918736958
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Elize matsunaga ksksks",
-        "timestamp": 1787918746498
-      },
-      {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Ave Maria",
-        "timestamp": 1787918751964
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Essa matou e cortou tome cuidado pra nenhuma não se apaixonar pela sua grana",
-        "timestamp": 1787918775198
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Aí é corte na certa",
-        "timestamp": 1787918793660
-      },
-      {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Agora pergunta sincera, pq ela matou ele",
-        "timestamp": 1787918794268
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Assisti o filme",
-        "timestamp": 1787918803893
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
         "text": "Ela não queria perder a família e ela era obcecado igual você por cabaré",
         "timestamp": 1787918825722
       },
@@ -17520,6 +17454,18 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Mas quem quiser, fique a vontade",
         "timestamp": 1787920460488
+      },
+      {
+        "authorNum": "238388519141379",
+        "authorName": "Nickolas",
+        "text": "Normal ? Ou visu única ?",
+        "timestamp": 1787920599528
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Do jeito que preferir",
+        "timestamp": 1787920618898
       }
     ],
     "120363428464897153@g.us": [],
@@ -17539,7 +17485,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21631,
+    "120363432018531082@g.us": 21633,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -141435,6 +141381,18 @@
         "text": "Mas quem quiser, fique a vontade",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787920460488
+      },
+      "3AC6F3F1ECE5C385B614": {
+        "sender": "238388519141379@lid",
+        "text": "Normal ? Ou visu única ?",
+        "pushName": "Nickolas",
+        "timestamp": 1787920599528
+      },
+      "AC37C2B758EBC41BAF2D9E78080E64A0": {
+        "sender": "53537388122141@lid",
+        "text": "Do jeito que preferir",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787920618898
       }
     },
     "120363428464897153@g.us": {
@@ -194230,7 +194188,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787920487395,
+    "120363432018531082@g.us": 1787920618898,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787920577610,
