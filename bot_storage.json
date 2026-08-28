@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2349,
+        "text": 2350,
         "media": 328,
-        "total": 2677
+        "total": 2678
       },
       "252922705240205": {
         "text": 80,
@@ -2708,9 +2708,9 @@
         "total": 2
       },
       "108461127897146": {
-        "text": 99,
+        "text": 100,
         "media": 12,
-        "total": 111
+        "total": 112
       },
       "10050861031495": {
         "text": 0,
@@ -2858,9 +2858,9 @@
         "total": 4
       },
       "263797142995147": {
-        "text": 65,
+        "text": 67,
         "media": 4,
-        "total": 69
+        "total": 71
       }
     },
     "120363428464897153@g.us": {
@@ -3946,8 +3946,8 @@
       },
       "81991328395336": {
         "text": 17,
-        "media": 1024,
-        "total": 1041
+        "media": 1025,
+        "total": 1042
       },
       "145381035905262": {
         "text": 7,
@@ -9950,9 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Camila Designer (92629643563147): Ah sim, sua família está aí?",
-        "Souza (190864487919667): O pai foi também?",
-        "jaciara (108461127897146): Minha mãe mora aqui , e eu sou mãe solo kkkk",
         "jaciara (108461127897146): Vim com meus filhos",
         "jaciara (108461127897146): Tenho dois filhos",
         "Camila Designer (92629643563147): Ah que ótimo!",
@@ -10449,7 +10446,10 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Interessado, chamar ela no Pv 😂😂",
         "Nanda (263797142995147): sim, usei faz um bom tempo kkk no tempo da escola",
         "jaciara (108461127897146): Simmmmm",
-        "Nanda (263797142995147): é legal"
+        "Nanda (263797142995147): é legal",
+        "jaciara (108461127897146): Apareça kkkk",
+        "Nanda (263797142995147): eita tem paqueras",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Brincadeira pra animar o grupo"
       ]
     },
     "120363428464897153@g.us": {
@@ -17694,6 +17694,24 @@
         "authorName": "Nanda",
         "text": "é legal",
         "timestamp": 1787947263181
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Apareça kkkk",
+        "timestamp": 1787947286998
+      },
+      {
+        "authorNum": "263797142995147",
+        "authorName": "Nanda",
+        "text": "eita tem paqueras",
+        "timestamp": 1787947288704
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Brincadeira pra animar o grupo",
+        "timestamp": 1787947293275
       }
     ],
     "120363428464897153@g.us": [],
@@ -17720,7 +17738,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22353,
+    "120363432018531082@g.us": 22356,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -145897,6 +145915,24 @@
         "text": "é legal",
         "pushName": "Nanda",
         "timestamp": 1787947263181
+      },
+      "AC75DD4684D51002786017857D954669": {
+        "sender": "108461127897146@lid",
+        "text": "Apareça kkkk",
+        "pushName": "jaciara",
+        "timestamp": 1787947286998
+      },
+      "AC477ED2003E6790A86443A000B45923": {
+        "sender": "263797142995147@lid",
+        "text": "eita tem paqueras",
+        "pushName": "Nanda",
+        "timestamp": 1787947288704
+      },
+      "ACBF8CD901A843D609282139E72FB500": {
+        "sender": "53537388122141@lid",
+        "text": "Brincadeira pra animar o grupo",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787947293275
       }
     },
     "120363428464897153@g.us": {
@@ -199370,7 +199406,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787947263181,
+    "120363432018531082@g.us": 1787947293275,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
@@ -199381,7 +199417,7 @@
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1787868477291,
-    "120363409024805409@g.us": 1787947189568,
+    "120363409024805409@g.us": 1787947277773,
     "120363411043114631@g.us": 1787897464612
   },
   "autoAnimSent": {
