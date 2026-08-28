@@ -274,9 +274,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2211,
+        "text": 2213,
         "media": 296,
-        "total": 2507
+        "total": 2509
       },
       "252922705240205": {
         "text": 80,
@@ -3405,9 +3405,9 @@
         "total": 552
       },
       "5511927018683": {
-        "text": 440,
+        "text": 441,
         "media": 77,
-        "total": 517
+        "total": 518
       },
       "145381035905262": {
         "text": 369,
@@ -9257,7 +9257,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Souza (190864487919667): Menino rápido",
         "Gabriel (145381035905262): Rapaiz a @233161007071346 é toda engraçadinha, mas é uma oncinha",
         "Souza (190864487919667): Quem?",
         "Souza (190864487919667): Gente",
@@ -9756,7 +9755,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): @81991328395336",
         " (120363432018531082): @81991328395336",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Vou deixar o Adm @54259127210155 explicar pra vocês! 🫡",
-        "Leandro (+55 (11) 92701-8683): Bot é uma automação que ajuda nós adms (eu, @81991328395336 @53537388122141 @145381035905262) a gerenciar o grupo"
+        "Leandro (+55 (11) 92701-8683): Bot é uma automação que ajuda nós adms (eu, @81991328395336 @53537388122141 @145381035905262) a gerenciar o grupo",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): !ban @100004689649809"
       ]
     },
     "120363428464897153@g.us": {
@@ -15831,7 +15831,8 @@
         "Leandro (+55 (11) 92701-8683): Deixei o conexão liberado para o pessoal entrar, como o bot tá operando normalmente, aí ele vai mandar a ficha de apresentação",
         "Leandro (+55 (11) 92701-8683): Quando for mais tarde, quem não se apresentou, vou fazer limpeza pela lista de inativos",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mas e os de fora?",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Não vai ficar difícil de acompanhar?"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Não vai ficar difícil de acompanhar?",
+        "Leandro (+55 (11) 92701-8683): Como assim?"
       ]
     },
     "120363411233423709@g.us": {
@@ -16438,6 +16439,12 @@
         "authorName": "Leandro",
         "text": "Bot é uma automação que ajuda nós adms (eu, @81991328395336 @53537388122141 @145381035905262) a gerenciar o grupo",
         "timestamp": 1787883446738
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "!ban @100004689649809",
+        "timestamp": 1787883481279
       }
     ],
     "120363428464897153@g.us": [
@@ -16635,6 +16642,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Não vai ficar difícil de acompanhar?",
         "timestamp": 1787883415106
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Como assim?",
+        "timestamp": 1787883490421
       }
     ],
     "120363411233423709@g.us": [],
@@ -16657,10 +16670,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21062,
+    "120363432018531082@g.us": 21063,
     "120363428464897153@g.us": 6218,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1720,
+    "120363412288900422@g.us": 1721,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -137163,6 +137176,12 @@
         "text": "Bot é uma automação que ajuda nós adms (eu, @81991328395336 @53537388122141 @145381035905262) a gerenciar o grupo",
         "pushName": "Leandro",
         "timestamp": 1787883446738
+      },
+      "AC39D6D494437F0FB6A74FD33BEEAC0A": {
+        "sender": "53537388122141@lid",
+        "text": "!ban @100004689649809",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787883481279
       }
     },
     "120363428464897153@g.us": {
@@ -185169,6 +185188,12 @@
         "text": "Não vai ficar difícil de acompanhar?",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787883415106
+      },
+      "A555EAE3537F3FA849E1AA3987185C3A": {
+        "sender": "54259127210155@lid",
+        "text": "Como assim?",
+        "pushName": "Leandro",
+        "timestamp": 1787883490421
       }
     },
     "120363411233423709@g.us": {
@@ -187748,10 +187773,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787883446738,
+    "120363432018531082@g.us": 1787883488602,
     "120363428464897153@g.us": 1787883101464,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787883415106,
+    "120363412288900422@g.us": 1787883490421,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
