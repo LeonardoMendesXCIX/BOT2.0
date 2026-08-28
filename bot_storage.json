@@ -698,9 +698,9 @@
         "total": 95
       },
       "57707230945348": {
-        "text": 1190,
+        "text": 1192,
         "media": 214,
-        "total": 1404
+        "total": 1406
       },
       "152218690924790": {
         "text": 309,
@@ -2629,8 +2629,8 @@
       },
       "75797868064796": {
         "text": 21,
-        "media": 66,
-        "total": 87
+        "media": 67,
+        "total": 88
       },
       "153764728184839": {
         "text": 2,
@@ -2688,9 +2688,9 @@
         "total": 62
       },
       "208958782488665": {
-        "text": 18,
+        "text": 19,
         "media": 12,
-        "total": 30
+        "total": 31
       },
       "262456945414267": {
         "text": 9,
@@ -2798,9 +2798,9 @@
         "total": 5
       },
       "247020967165997": {
-        "text": 58,
+        "text": 59,
         "media": 13,
-        "total": 71
+        "total": 72
       },
       "206253020176458": {
         "text": 3,
@@ -10244,7 +10244,11 @@
         "Rafael Moura (57707230945348): Cade a doutora",
         "Pedro Henrique (172868239380659): Vc não come miojo?",
         "Gabi 💋 (247020967165997): Tu não entendeu",
-        "𝔞𝔩𝔦𝔫𝔢🫶🏽 (221307534876912): Tá vou ficar caladinha aqui"
+        "𝔞𝔩𝔦𝔫𝔢🫶🏽 (221307534876912): Tá vou ficar caladinha aqui",
+        "Rafael Moura (57707230945348): @208958782488665 vem ca",
+        "Gabi 💋 (247020967165997): Além de muquirana é burro",
+        "Rafael Moura (57707230945348): Nossa, adoro obedientes 😏",
+        "Jessica (208958782488665): Eu precisa do que??"
       ]
     },
     "120363428464897153@g.us": {
@@ -17892,6 +17896,30 @@
         "authorName": "𝔞𝔩𝔦𝔫𝔢🫶🏽",
         "text": "Tá vou ficar caladinha aqui",
         "timestamp": 1787916986517
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "@208958782488665 vem ca",
+        "timestamp": 1787916995742
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Além de muquirana é burro",
+        "timestamp": 1787916999383
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Nossa, adoro obedientes 😏",
+        "timestamp": 1787917009915
+      },
+      {
+        "authorNum": "208958782488665",
+        "authorName": "Jessica",
+        "text": "Eu precisa do que??",
+        "timestamp": 1787917018667
       }
     ],
     "120363428464897153@g.us": [],
@@ -17918,7 +17946,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21482,
+    "120363432018531082@g.us": 21486,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -140920,6 +140948,30 @@
         "text": "Tá vou ficar caladinha aqui",
         "pushName": "𝔞𝔩𝔦𝔫𝔢🫶🏽",
         "timestamp": 1787916986517
+      },
+      "AC9A7DC8AE891EEFA12751B633DA273D": {
+        "sender": "57707230945348@lid",
+        "text": "@208958782488665 vem ca",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787916995742
+      },
+      "ACA3BBF69C3E63793DF2EA2FCF604892": {
+        "sender": "247020967165997@lid",
+        "text": "Além de muquirana é burro",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787916999383
+      },
+      "ACE6A79A35E8FC8FF8AA9D25CAE317E9": {
+        "sender": "57707230945348@lid",
+        "text": "Nossa, adoro obedientes 😏",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787917009916
+      },
+      "ACE9670A32C0ABD2B01AD77E513D532A": {
+        "sender": "208958782488665@lid",
+        "text": "Eu precisa do que??",
+        "pushName": "Jessica",
+        "timestamp": 1787917018667
       }
     },
     "120363428464897153@g.us": {
@@ -193715,7 +193767,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787916986517,
+    "120363432018531082@g.us": 1787917018667,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
