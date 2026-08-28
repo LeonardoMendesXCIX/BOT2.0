@@ -449,9 +449,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1655,
+        "text": 1656,
         "media": 322,
-        "total": 1977
+        "total": 1978
       },
       "252600633041077": {
         "text": 1,
@@ -3367,8 +3367,8 @@
       },
       "153764728184839": {
         "text": 3,
-        "media": 0,
-        "total": 3
+        "media": 1,
+        "total": 4
       }
     },
     "120363409727467494@g.us": {
@@ -3415,9 +3415,9 @@
         "total": 513
       },
       "53537388122141": {
-        "text": 681,
+        "text": 682,
         "media": 53,
-        "total": 734
+        "total": 735
       },
       "120363412288900422": {
         "text": 1,
@@ -9257,7 +9257,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Jennifer🦋 (205621945192508): Tinder não",
         "Jennifer🦋 (205621945192508): Aqui no grupo é melhor KKKkkkkk",
         "Jennifer🦋 (205621945192508): 😂😂😂😂",
         "willian (163530946961491): Ontem eu quase fui dormir no presídio kkkk",
@@ -9756,7 +9755,8 @@
         "Leandro (+55 (11) 92701-8683): E tu?",
         "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Também",
         "Gleydson Souza (274384656834700): Justo kkkk",
-        "Gleydson Souza (274384656834700): Eu vou me indo boa noite a todos"
+        "Gleydson Souza (274384656834700): Eu vou me indo boa noite a todos",
+        "Leandro (+55 (11) 92701-8683): Boa noite meu patrão! 🫡"
       ]
     },
     "120363428464897153@g.us": {
@@ -15823,7 +15823,8 @@
         "Gabriel (145381035905262): A não pooo",
         "Gabriel (145381035905262): Levam tudo pra outro lado",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Só pq levou ban de mim",
-        "Leandro (+55 (11) 92701-8683): Aquele Gleydson Souza não tinha levado ban?"
+        "Leandro (+55 (11) 92701-8683): Aquele Gleydson Souza não tinha levado ban?",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Não lembro, tinha?"
       ]
     },
     "120363411233423709@g.us": {
@@ -16412,6 +16413,12 @@
         "authorName": "Gleydson Souza",
         "text": "Eu vou me indo boa noite a todos",
         "timestamp": 1787882924924
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Boa noite meu patrão! 🫡",
+        "timestamp": 1787883100683
       }
     ],
     "120363428464897153@g.us": [
@@ -16573,6 +16580,12 @@
         "authorName": "Leandro",
         "text": "Aquele Gleydson Souza não tinha levado ban?",
         "timestamp": 1787881450994
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Não lembro, tinha?",
+        "timestamp": 1787883087001
       }
     ],
     "120363411233423709@g.us": [],
@@ -16595,10 +16608,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21057,
+    "120363432018531082@g.us": 21058,
     "120363428464897153@g.us": 6218,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1712,
+    "120363412288900422@g.us": 1713,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -16708,14 +16721,7 @@
       "date": "2026-08-17T03:32:19.330Z"
     }
   },
-  "pendingBvReminders": [
-    {
-      "id": "1787882163406_153764728184839@lid",
-      "chatId": "120363428464897153@g.us",
-      "newMemberId": "153764728184839@lid",
-      "runAt": 1787883063406
-    }
-  ],
+  "pendingBvReminders": [],
   "pendingPresentations": [],
   "groupSchedules": {
     "120363428464897153@g.us": {
@@ -137084,6 +137090,12 @@
         "text": "Eu vou me indo boa noite a todos",
         "pushName": "Gleydson Souza",
         "timestamp": 1787882924924
+      },
+      "A5B7B7B1023FDBB9E7034C94E83E5ADB": {
+        "sender": "54259127210155@lid",
+        "text": "Boa noite meu patrão! 🫡",
+        "pushName": "Leandro",
+        "timestamp": 1787883100683
       }
     },
     "120363428464897153@g.us": {
@@ -185042,6 +185054,12 @@
         "text": "Aquele Gleydson Souza não tinha levado ban?",
         "pushName": "Leandro",
         "timestamp": 1787881450994
+      },
+      "AC2F8099A802A2650AA49D19A5A2F818": {
+        "sender": "53537388122141@lid",
+        "text": "Não lembro, tinha?",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787883087001
       }
     },
     "120363411233423709@g.us": {
@@ -187621,10 +187639,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787882967362,
-    "120363428464897153@g.us": 1787882984620,
+    "120363432018531082@g.us": 1787883100683,
+    "120363428464897153@g.us": 1787883101464,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787881450994,
+    "120363412288900422@g.us": 1787883087001,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
