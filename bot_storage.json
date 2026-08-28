@@ -152,9 +152,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2189,
+        "text": 2191,
         "media": 471,
-        "total": 2660
+        "total": 2662
       },
       "184237705699536": {
         "text": 524,
@@ -2653,8 +2653,8 @@
       },
       "208958782488665": {
         "text": 9,
-        "media": 9,
-        "total": 18
+        "media": 10,
+        "total": 19
       },
       "262456945414267": {
         "text": 9,
@@ -2673,8 +2673,8 @@
       },
       "108461127897146": {
         "text": 19,
-        "media": 2,
-        "total": 21
+        "media": 3,
+        "total": 22
       }
     },
     "120363428464897153@g.us": {
@@ -2690,8 +2690,8 @@
       },
       "81991328395336": {
         "text": 578,
-        "media": 162,
-        "total": 740
+        "media": 163,
+        "total": 741
       },
       "99338701258949": {
         "text": 499,
@@ -3110,8 +3110,8 @@
       },
       "57561571176651": {
         "text": 28,
-        "media": 35,
-        "total": 63
+        "media": 36,
+        "total": 64
       },
       "201257922908323": {
         "text": 3,
@@ -3279,9 +3279,9 @@
         "total": 1
       },
       "190864487919667": {
-        "text": 10,
+        "text": 11,
         "media": 3,
-        "total": 13
+        "total": 14
       }
     },
     "120363409727467494@g.us": {
@@ -9165,8 +9165,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Jennifer🦋 (205621945192508): Obgda 🙂",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Sim",
         "Gabriel🙅🏻‍♂️💸 (151582733820115): Oii",
         "Gleydson Souza (274384656834700): Bem vinda",
         "Jennifer🦋 (205621945192508): Oii boa noite",
@@ -9664,7 +9662,9 @@
         "jaciara (108461127897146): Não KKK deixar pra fazer o doce quando tiver perto de ir",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Começou a palhaçada",
         "Jessica (208958782488665): Minha unha ficou tão linda",
-        "Pedro Henrique (172868239380659): Tu que faz ?"
+        "Pedro Henrique (172868239380659): Tu que faz ?",
+        "Gabriel (145381035905262): Mostre aí",
+        "Gabriel (145381035905262): Ainda bem"
       ]
     },
     "120363428464897153@g.us": {
@@ -13549,7 +13549,8 @@
         "Souza (190864487919667): Muito trabalho hoje?",
         "Priscilla 🌻 (25520947339303): Como assim M",
         "Souza (190864487919667): Trabalhou muito?",
-        "Priscilla 🌻 (25520947339303): Eu comecei agora"
+        "Priscilla 🌻 (25520947339303): Eu comecei agora",
+        "Souza (190864487919667): Ish"
       ]
     },
     "120363409727467494@g.us": {
@@ -16693,6 +16694,18 @@
         "authorName": "Pedro Henrique",
         "text": "Tu que faz ?",
         "timestamp": 1787876518845
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Mostre aí",
+        "timestamp": 1787876534889
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Ainda bem",
+        "timestamp": 1787876553011
       }
     ],
     "120363428464897153@g.us": [
@@ -16923,6 +16936,12 @@
         "authorName": "Priscilla 🌻",
         "text": "Eu comecei agora",
         "timestamp": 1787876506715
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Ish",
+        "timestamp": 1787876563665
       }
     ],
     "120363409727467494@g.us": [],
@@ -17067,8 +17086,8 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21000,
-    "120363428464897153@g.us": 6030,
+    "120363432018531082@g.us": 21002,
+    "120363428464897153@g.us": 6031,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1689,
     "120363411233423709@g.us": 5,
@@ -137214,6 +137233,18 @@
         "text": "Tu que faz ?",
         "pushName": "Pedro Henrique",
         "timestamp": 1787876518845
+      },
+      "AC4C43DC774D9EF707BF51807A1AE406": {
+        "sender": "145381035905262@lid",
+        "text": "Mostre aí",
+        "pushName": "Gabriel",
+        "timestamp": 1787876534889
+      },
+      "ACA5202326ACEF7D8DB6B0426E265A4E": {
+        "sender": "145381035905262@lid",
+        "text": "Ainda bem",
+        "pushName": "Gabriel",
+        "timestamp": 1787876553012
       }
     },
     "120363428464897153@g.us": {
@@ -172574,6 +172605,12 @@
         "text": "Eu comecei agora",
         "pushName": "Priscilla 🌻",
         "timestamp": 1787876506715
+      },
+      "ACABE98424E90B593D7F8B693423ED8F": {
+        "sender": "190864487919667@lid",
+        "text": "Ish",
+        "pushName": "Souza",
+        "timestamp": 1787876563665
       }
     },
     "120363409727467494@g.us": {
@@ -186467,8 +186504,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787876518845,
-    "120363428464897153@g.us": 1787876506715,
+    "120363432018531082@g.us": 1787876563622,
+    "120363428464897153@g.us": 1787876563665,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787876496373,
     "120363411233423709@g.us": 1787113553426,
