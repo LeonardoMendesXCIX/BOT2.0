@@ -699,8 +699,8 @@
       },
       "57707230945348": {
         "text": 1205,
-        "media": 216,
-        "total": 1421
+        "media": 217,
+        "total": 1422
       },
       "152218690924790": {
         "text": 309,
@@ -2603,9 +2603,9 @@
         "total": 23
       },
       "190864487919667": {
-        "text": 225,
+        "text": 227,
         "media": 39,
-        "total": 264
+        "total": 266
       },
       "82227819987089": {
         "text": 2,
@@ -2629,8 +2629,8 @@
       },
       "75797868064796": {
         "text": 21,
-        "media": 72,
-        "total": 93
+        "media": 73,
+        "total": 94
       },
       "153764728184839": {
         "text": 2,
@@ -2664,8 +2664,8 @@
       },
       "172868239380659": {
         "text": 136,
-        "media": 24,
-        "total": 160
+        "media": 25,
+        "total": 161
       },
       "170455038193841": {
         "text": 1,
@@ -2799,8 +2799,8 @@
       },
       "247020967165997": {
         "text": 71,
-        "media": 16,
-        "total": 87
+        "media": 17,
+        "total": 88
       },
       "206253020176458": {
         "text": 3,
@@ -10281,7 +10281,9 @@
         "Gabi 💋 (247020967165997): Entrou caiu",
         "𝔞𝔩𝔦𝔫𝔢🫶🏽 (221307534876912): Oq tem eu",
         "Pedro Henrique (172868239380659): Foi mal, sustentada pelo lula",
-        "Pedro Henrique (172868239380659): Tem a cara de petista"
+        "Pedro Henrique (172868239380659): Tem a cara de petista",
+        "Souza (190864487919667): ?",
+        "Souza (190864487919667): O que tem haver?"
       ]
     },
     "120363428464897153@g.us": {
@@ -17205,30 +17207,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Nao deixa de ser algo que vc vá \"comer\" né",
-        "timestamp": 1787915479861
-      },
-      {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Ai depende",
-        "timestamp": 1787915481998
-      },
-      {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "🤣",
-        "timestamp": 1787915483572
-      },
-      {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Sim, é a necessidade da vida adulta",
-        "timestamp": 1787915498382
-      },
-      {
         "authorNum": "247020967165997",
         "authorName": "Gabi 💋",
         "text": "A selva está salgada, para procura no cabaré",
@@ -18121,6 +18099,18 @@
         "authorName": "Pedro Henrique",
         "text": "Tem a cara de petista",
         "timestamp": 1787917257454
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "?",
+        "timestamp": 1787917265726
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "O que tem haver?",
+        "timestamp": 1787917304052
       }
     ],
     "120363428464897153@g.us": [],
@@ -18147,7 +18137,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21519,
+    "120363432018531082@g.us": 21521,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -141371,6 +141361,18 @@
         "text": "Tem a cara de petista",
         "pushName": "Pedro Henrique",
         "timestamp": 1787917257454
+      },
+      "ACAE5CC331379D263A23ABE69C927F07": {
+        "sender": "190864487919667@lid",
+        "text": "?",
+        "pushName": "Souza",
+        "timestamp": 1787917265727
+      },
+      "AC84BE1A88EB9D522825DD96B26D807F": {
+        "sender": "190864487919667@lid",
+        "text": "O que tem haver?",
+        "pushName": "Souza",
+        "timestamp": 1787917304052
       }
     },
     "120363428464897153@g.us": {
@@ -194166,7 +194168,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787917260870,
+    "120363432018531082@g.us": 1787917304052,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
