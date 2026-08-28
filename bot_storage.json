@@ -383,9 +383,9 @@
         "total": 489
       },
       "222595437858867": {
-        "text": 534,
+        "text": 535,
         "media": 55,
-        "total": 589
+        "total": 590
       },
       "83280154103884": {
         "text": 36,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Rafael Moura (57707230945348): Contando dinheiro",
         "Leandro (+55 (11) 92701-8683): !fixar",
         "Bruno Aguiar (+1395881181241): Tudo tranquilo",
         "Souza (190864487919667): Tu se apresentou?",
@@ -10449,7 +10448,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Boa noiteeee",
         "Juliano Perlin (222595437858867): 🤭🤭🤭",
         "Juliano Perlin (222595437858867): Nao vou responder porq sou feio🤣🤣🤣",
-        "Juliano Perlin (222595437858867): Noite fofa🥰"
+        "Juliano Perlin (222595437858867): Noite fofa🥰",
+        "Juliano Perlin (222595437858867): Toda linda🥰"
       ]
     },
     "120363428464897153@g.us": {
@@ -17553,6 +17553,12 @@
         "authorName": "Juliano Perlin",
         "text": "Noite fofa🥰",
         "timestamp": 1787953659229
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Toda linda🥰",
+        "timestamp": 1787953677053
       }
     ],
     "120363428464897153@g.us": [],
@@ -17586,7 +17592,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22506,
+    "120363432018531082@g.us": 22507,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2090,
@@ -146681,6 +146687,12 @@
         "text": "Noite fofa🥰",
         "pushName": "Juliano Perlin",
         "timestamp": 1787953659229
+      },
+      "AC3465837375166CB0BC0F1679E75ADA": {
+        "sender": "222595437858867@lid",
+        "text": "Toda linda🥰",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1787953677053
       }
     },
     "120363428464897153@g.us": {
@@ -200172,7 +200184,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787953659229,
+    "120363432018531082@g.us": 1787953677053,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787953116483,
