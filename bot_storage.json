@@ -2603,9 +2603,9 @@
         "total": 30
       },
       "190864487919667": {
-        "text": 316,
+        "text": 317,
         "media": 47,
-        "total": 363
+        "total": 364
       },
       "82227819987089": {
         "text": 2,
@@ -9930,7 +9930,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Souza (190864487919667): O que tem haver?",
         "Gabi 💋 (247020967165997): Ele também não",
         "Pedro Henrique (172868239380659): Excelente sorriso em plena sexta",
         "Pedro Henrique (172868239380659): Fui",
@@ -10429,7 +10428,8 @@
         "Gabi 💋 (247020967165997): Bem isso",
         "Souza (190864487919667): Igual eu quero alguém desse grupo",
         "Gabi 💋 (247020967165997): Gente do nada",
-        "Gabi 💋 (247020967165997): Tem que ser igual eu paz e amor"
+        "Gabi 💋 (247020967165997): Tem que ser igual eu paz e amor",
+        "Souza (190864487919667): Era no bom sentido"
       ]
     },
     "120363428464897153@g.us": {
@@ -17381,36 +17381,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Tem gente de olho na grávida",
-        "timestamp": 1787930619799
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Teve briga de manhã",
-        "timestamp": 1787930623288
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Teve alguém que ia no puteiro",
-        "timestamp": 1787930635122
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Comer miojo",
-        "timestamp": 1787930639597
-      },
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Capaz",
-        "timestamp": 1787930665137
-      },
-      {
         "authorNum": "129373172711439",
         "authorName": "Celiete Souza",
         "text": "Como assim kkkkk",
@@ -17877,6 +17847,12 @@
         "authorName": "Gabi 💋",
         "text": "Tem que ser igual eu paz e amor",
         "timestamp": 1787932417138
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Era no bom sentido",
+        "timestamp": 1787932481218
       }
     ],
     "120363428464897153@g.us": [],
@@ -17951,7 +17927,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22021,
+    "120363432018531082@g.us": 22022,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -144155,6 +144131,12 @@
         "text": "Tem que ser igual eu paz e amor",
         "pushName": "Gabi 💋",
         "timestamp": 1787932417138
+      },
+      "AC36A76FDC6C3F81D63A1A6C1CC96F47": {
+        "sender": "190864487919667@lid",
+        "text": "Era no bom sentido",
+        "pushName": "Souza",
+        "timestamp": 1787932481218
       }
     },
     "120363428464897153@g.us": {
@@ -197118,7 +197100,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787932429434,
+    "120363432018531082@g.us": 1787932481218,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
