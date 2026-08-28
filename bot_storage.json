@@ -3430,14 +3430,14 @@
         "total": 582
       },
       "5511927018683": {
-        "text": 516,
-        "media": 96,
-        "total": 612
+        "text": 518,
+        "media": 97,
+        "total": 615
       },
       "145381035905262": {
-        "text": 427,
-        "media": 149,
-        "total": 576
+        "text": 428,
+        "media": 150,
+        "total": 578
       },
       "53537388122141": {
         "text": 769,
@@ -16166,7 +16166,10 @@
         "Leandro (+55 (11) 92701-8683): Essa abençoada @81991328395336 já tem ciúmes de mim, eu sem falar com ninguém, nem marcando ninguém",
         "Leandro (+55 (11) 92701-8683): Imagina se eu faço essa merda que tu fez? @145381035905262",
         "Gabriel (145381035905262): Irmão tem que ter coragem",
-        "Leandro (+55 (11) 92701-8683): Já tinha virado estampa de camisa"
+        "Leandro (+55 (11) 92701-8683): Já tinha virado estampa de camisa",
+        "Leandro (+55 (11) 92701-8683): Tá lendo isso? @81991328395336",
+        "Leandro (+55 (11) 92701-8683): Teu irmão",
+        "Gabriel (145381035905262): Foi o que tive coragem"
       ]
     },
     "120363411233423709@g.us": {
@@ -16818,30 +16821,6 @@
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [
       {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Que tô cheio de processo trabalhista",
-        "timestamp": 1787887861548
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "E as provas?",
-        "timestamp": 1787887868304
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Cadê?",
-        "timestamp": 1787887869552
-      },
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Vocês sabem ler né ? @all",
-        "timestamp": 1787887872334
-      },
-      {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Eu fiz o meu RG atualizado lá",
@@ -17188,6 +17167,24 @@
         "authorName": "Leandro",
         "text": "Já tinha virado estampa de camisa",
         "timestamp": 1787889657361
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Tá lendo isso? @81991328395336",
+        "timestamp": 1787889669001
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Teu irmão",
+        "timestamp": 1787889673310
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Foi o que tive coragem",
+        "timestamp": 1787889684342
       }
     ],
     "120363411233423709@g.us": [],
@@ -17206,7 +17203,7 @@
     "120363432018531082@g.us": 21104,
     "120363428464897153@g.us": 6278,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1952,
+    "120363412288900422@g.us": 1955,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -187719,6 +187716,24 @@
         "text": "Já tinha virado estampa de camisa",
         "pushName": "Leandro",
         "timestamp": 1787889657361
+      },
+      "A53ADADABD1A330D4DAAA36DA46F6F17": {
+        "sender": "54259127210155@lid",
+        "text": "Tá lendo isso? @81991328395336",
+        "pushName": "Leandro",
+        "timestamp": 1787889669001
+      },
+      "A53713F87382DB8C859BD58CEC77FF58": {
+        "sender": "54259127210155@lid",
+        "text": "Teu irmão",
+        "pushName": "Leandro",
+        "timestamp": 1787889673310
+      },
+      "AC8B66DF5E93F427AE390C2FF5C3EDAD": {
+        "sender": "145381035905262@lid",
+        "text": "Foi o que tive coragem",
+        "pushName": "Gabriel",
+        "timestamp": 1787889684342
       }
     },
     "120363411233423709@g.us": {
@@ -190337,7 +190352,7 @@
     "120363432018531082@g.us": 1787889540146,
     "120363428464897153@g.us": 1787889499365,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787889657361,
+    "120363412288900422@g.us": 1787889687636,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
