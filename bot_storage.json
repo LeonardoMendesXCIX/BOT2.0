@@ -2654,9 +2654,9 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 61,
+        "text": 62,
         "media": 13,
-        "total": 74
+        "total": 75
       },
       "172868239380659": {
         "text": 93,
@@ -2821,9 +2821,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 380,
+        "text": 383,
         "media": 76,
-        "total": 456
+        "total": 459
       },
       "120363428464897153": {
         "text": 11,
@@ -9257,7 +9257,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "willian (163530946961491): Seja bem vinda moça",
         "Bruno Aguiar (+1395881181241): Vc também é linda😊",
         "Jessica (208958782488665): Gracias...",
         "Gabriel (145381035905262): Tu para que quase fui de arrasta",
@@ -9756,7 +9755,8 @@
         "Leandro (+55 (11) 92701-8683): Boa noite Gus!",
         "Leandro (+55 (11) 92701-8683): !inativos",
         "Leandro (+55 (11) 92701-8683): !m",
-        "Leandro (+55 (11) 92701-8683): Tu fala em... @81991328395336"
+        "Leandro (+55 (11) 92701-8683): Tu fala em... @81991328395336",
+        "Gleydson Souza (274384656834700): Povo entrando e ja sendo expulso por n se apresentar kkkkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -13816,7 +13816,10 @@
         "Celiete Souza (129373172711439): Eu não fiz nada",
         "Leandro (+55 (11) 92701-8683): Uai",
         "Leandro (+55 (11) 92701-8683): Não disse nada",
-        "Leandro (+55 (11) 92701-8683): Só estou acompanhando"
+        "Leandro (+55 (11) 92701-8683): Só estou acompanhando",
+        "Leandro (+55 (11) 92701-8683): Bem vindo jovem! 🤝",
+        "Leandro (+55 (11) 92701-8683): !inativos",
+        "Leandro (+55 (11) 92701-8683): !m"
       ]
     },
     "120363409727467494@g.us": {
@@ -16344,39 +16347,15 @@
         "authorName": "Leandro",
         "text": "Tu fala em... @81991328395336",
         "timestamp": 1787882301074
-      }
-    ],
-    "120363428464897153@g.us": [
-      {
-        "authorNum": "16007578021977",
-        "authorName": "Jean Correa",
-        "text": "Eu ti não quis né",
-        "timestamp": 1787880498546
-      },
-      {
-        "authorNum": "16007578021977",
-        "authorName": "Jean Correa",
-        "text": "Tu*",
-        "timestamp": 1787880506037
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Ish",
-        "timestamp": 1787880516506
       },
       {
         "authorNum": "274384656834700",
         "authorName": "Gleydson Souza",
-        "text": "Ish",
-        "timestamp": 1787880525169
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Sou seletiva 😌😌😌",
-        "timestamp": 1787880552826
-      },
+        "text": "Povo entrando e ja sendo expulso por n se apresentar kkkkk",
+        "timestamp": 1787882343389
+      }
+    ],
+    "120363428464897153@g.us": [
       {
         "authorNum": "16007578021977",
         "authorName": "Jean Correa",
@@ -16574,6 +16553,24 @@
         "authorName": "Leandro",
         "text": "Só estou acompanhando",
         "timestamp": 1787882232656
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Bem vindo jovem! 🤝",
+        "timestamp": 1787882344538
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!inativos",
+        "timestamp": 1787882347378
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!m",
+        "timestamp": 1787882358146
       }
     ],
     "120363409727467494@g.us": [],
@@ -16598,8 +16595,8 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21047,
-    "120363428464897153@g.us": 6205,
+    "120363432018531082@g.us": 21048,
+    "120363428464897153@g.us": 6208,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1712,
     "120363411233423709@g.us": 5,
@@ -137027,6 +137024,12 @@
         "text": "Tu fala em... @81991328395336",
         "pushName": "Leandro",
         "timestamp": 1787882301074
+      },
+      "AC529FACB806CA64FADDB3666828466E": {
+        "sender": "274384656834700@lid",
+        "text": "Povo entrando e ja sendo expulso por n se apresentar kkkkk",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787882343389
       }
     },
     "120363428464897153@g.us": {
@@ -173431,6 +173434,24 @@
         "text": "Só estou acompanhando",
         "pushName": "Leandro",
         "timestamp": 1787882232656
+      },
+      "A55503E751299820AC0D2F49FC771BB7": {
+        "sender": "54259127210155@lid",
+        "text": "Bem vindo jovem! 🤝",
+        "pushName": "Leandro",
+        "timestamp": 1787882344538
+      },
+      "A5C7C82015DB69F4BAA0FC454123AD7B": {
+        "sender": "54259127210155@lid",
+        "text": "!inativos",
+        "pushName": "Leandro",
+        "timestamp": 1787882347378
+      },
+      "A501ADB0DD4CA9F4085760518C95F4FE": {
+        "sender": "54259127210155@lid",
+        "text": "!m",
+        "pushName": "Leandro",
+        "timestamp": 1787882358146
       }
     },
     "120363409727467494@g.us": {
@@ -187480,8 +187501,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787882307616,
-    "120363428464897153@g.us": 1787882327938,
+    "120363432018531082@g.us": 1787882343389,
+    "120363428464897153@g.us": 1787882358146,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787881450994,
     "120363411233423709@g.us": 1787113553426,
