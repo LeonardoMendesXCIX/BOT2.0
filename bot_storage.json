@@ -178,9 +178,9 @@
         "total": 1943
       },
       "81991328395336": {
-        "text": 3913,
+        "text": 3914,
         "media": 1325,
-        "total": 5238
+        "total": 5239
       },
       "179040627490824": {
         "text": 433,
@@ -223,9 +223,9 @@
         "total": 266
       },
       "68247365931226": {
-        "text": 115,
+        "text": 116,
         "media": 41,
-        "total": 156
+        "total": 157
       },
       "12791117307912": {
         "text": 3,
@@ -2603,9 +2603,9 @@
         "total": 21
       },
       "190864487919667": {
-        "text": 204,
+        "text": 205,
         "media": 35,
-        "total": 239
+        "total": 240
       },
       "82227819987089": {
         "text": 2,
@@ -2801,6 +2801,11 @@
         "text": 3,
         "media": 1,
         "total": 4
+      },
+      "206253020176458": {
+        "text": 1,
+        "media": 0,
+        "total": 1
       }
     },
     "120363428464897153@g.us": {
@@ -9990,7 +9995,10 @@
         "Rafael Moura (57707230945348): Bom dia 😴",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Bem vindaaa 🩷",
         "Gabi 💋 (247020967165997): Obrigada",
-        "Souza (190864487919667): Hoje office? Bom demaize"
+        "Souza (190864487919667): Hoje office? Bom demaize",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): N foi contigo meu amor",
+        "Van Librelon (68247365931226): Hoje sim 😌",
+        "Souza (190864487919667): Alguém quer comprar uma tinta de carro aí não?"
       ]
     },
     "120363428464897153@g.us": {
@@ -17100,6 +17108,24 @@
         "authorName": "Souza",
         "text": "Hoje office? Bom demaize",
         "timestamp": 1787913001148
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "N foi contigo meu amor",
+        "timestamp": 1787913025666
+      },
+      {
+        "authorNum": "68247365931226",
+        "authorName": "Van Librelon",
+        "text": "Hoje sim 😌",
+        "timestamp": 1787913050719
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Alguém quer comprar uma tinta de carro aí não?",
+        "timestamp": 1787913055342
       }
     ],
     "120363428464897153@g.us": [],
@@ -17119,7 +17145,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21243,
+    "120363432018531082@g.us": 21246,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1989,
@@ -138694,6 +138720,24 @@
         "text": "Hoje office? Bom demaize",
         "pushName": "Souza",
         "timestamp": 1787913001148
+      },
+      "ACCF53656B5086AA3A5F713B7158C647": {
+        "sender": "81991328395336@lid",
+        "text": "N foi contigo meu amor",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787913025666
+      },
+      "AC8C27E538539CCDEFA87AE120E7E175": {
+        "sender": "68247365931226@lid",
+        "text": "Hoje sim 😌",
+        "pushName": "Van Librelon",
+        "timestamp": 1787913050719
+      },
+      "ACAC1916FEDBCFF89D9ABB8920E559DE": {
+        "sender": "190864487919667@lid",
+        "text": "Alguém quer comprar uma tinta de carro aí não?",
+        "pushName": "Souza",
+        "timestamp": 1787913055342
       }
     },
     "120363428464897153@g.us": {
@@ -191465,7 +191509,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787913001148,
+    "120363432018531082@g.us": 1787913055342,
     "120363428464897153@g.us": 1787912432171,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787894166886,
