@@ -2567,9 +2567,9 @@
         "total": 21
       },
       "190864487919667": {
-        "text": 180,
+        "text": 181,
         "media": 33,
-        "total": 213
+        "total": 214
       },
       "82227819987089": {
         "text": 2,
@@ -2627,9 +2627,9 @@
         "total": 70
       },
       "172868239380659": {
-        "text": 84,
+        "text": 85,
         "media": 14,
-        "total": 98
+        "total": 99
       },
       "170455038193841": {
         "text": 1,
@@ -2652,9 +2652,9 @@
         "total": 59
       },
       "208958782488665": {
-        "text": 7,
+        "text": 8,
         "media": 9,
-        "total": 16
+        "total": 17
       },
       "262456945414267": {
         "text": 9,
@@ -2672,9 +2672,9 @@
         "total": 2
       },
       "108461127897146": {
-        "text": 13,
+        "text": 14,
         "media": 2,
-        "total": 15
+        "total": 16
       }
     },
     "120363428464897153@g.us": {
@@ -2894,9 +2894,9 @@
         "total": 1
       },
       "92629643563147": {
-        "text": 555,
-        "media": 363,
-        "total": 918
+        "text": 556,
+        "media": 364,
+        "total": 920
       },
       "122552932372575": {
         "text": 0,
@@ -3110,8 +3110,8 @@
       },
       "57561571176651": {
         "text": 28,
-        "media": 33,
-        "total": 61
+        "media": 34,
+        "total": 62
       },
       "201257922908323": {
         "text": 3,
@@ -9165,9 +9165,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Pedro Henrique (172868239380659): Aí sim",
-        "Milena B. Costa (233161007071346): Exatamente",
-        "Milena B. Costa (233161007071346): Ontem o biel tava quase com a batata queimada 😂😂😂😂",
         "willian (163530946961491): Vai nada se eu ir de arrastar para cima fica sem pensão kkk",
         "Milena B. Costa (233161007071346): Mas ele voltou a vida",
         "Pedro Henrique (172868239380659): Vc tem seguro de vida ?",
@@ -9664,7 +9661,10 @@
         "jaciara (108461127897146): Entendi , é nordestino ?",
         "Pedro Henrique (172868239380659): Sim, eu nasci na Bahia.",
         "jaciara (108461127897146): Obrigado",
-        "Souza (190864487919667): Oxe, que lugar pai?"
+        "Souza (190864487919667): Oxe, que lugar pai?",
+        "jaciara (108461127897146): Ah sim",
+        "Pedro Henrique (172868239380659): Xique Xique, mas minha cidade natal mesmo é santa Rita de Cassia",
+        "Jessica (208958782488665): Ela deve ser gente boa se oferece comigo"
       ]
     },
     "120363428464897153@g.us": {
@@ -13534,7 +13534,8 @@
         "Vini 👑🏁🙌⚽ (270377049690114): Opa boa noite gente",
         "Priscilla 🌻 (25520947339303): 👀boa noite",
         "Souza (190864487919667): Buenas noites",
-        "Vini 👑🏁🙌⚽ (270377049690114): boa noite 👀👀"
+        "Vini 👑🏁🙌⚽ (270377049690114): boa noite 👀👀",
+        "Camila Designer (92629643563147): Hoje estou ausente"
       ]
     },
     "120363409727467494@g.us": {
@@ -16643,6 +16644,24 @@
         "authorName": "Souza",
         "text": "Oxe, que lugar pai?",
         "timestamp": 1787876272108
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Ah sim",
+        "timestamp": 1787876298267
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Xique Xique, mas minha cidade natal mesmo é santa Rita de Cassia",
+        "timestamp": 1787876304792
+      },
+      {
+        "authorNum": "208958782488665",
+        "authorName": "Jessica",
+        "text": "Ela deve ser gente boa se oferece comigo",
+        "timestamp": 1787876307329
       }
     ],
     "120363428464897153@g.us": [
@@ -16783,6 +16802,12 @@
         "authorName": "Vini 👑🏁🙌⚽",
         "text": "boa noite 👀👀",
         "timestamp": 1787876189354
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Hoje estou ausente",
+        "timestamp": 1787876302939
       }
     ],
     "120363409727467494@g.us": [],
@@ -16903,8 +16928,8 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20976,
-    "120363428464897153@g.us": 6015,
+    "120363432018531082@g.us": 20979,
+    "120363428464897153@g.us": 6016,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1684,
     "120363411233423709@g.us": 5,
@@ -136912,6 +136937,24 @@
         "text": "Oxe, que lugar pai?",
         "pushName": "Souza",
         "timestamp": 1787876272108
+      },
+      "AC02137384A5ED6C74C5B43952CB53A8": {
+        "sender": "108461127897146@lid",
+        "text": "Ah sim",
+        "pushName": "jaciara",
+        "timestamp": 1787876298268
+      },
+      "ACDFBE1198E457E5EE14BD1F027C93C4": {
+        "sender": "172868239380659@lid",
+        "text": "Xique Xique, mas minha cidade natal mesmo é santa Rita de Cassia",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787876304792
+      },
+      "AC20221723A214078B17D0828BD332DB": {
+        "sender": "208958782488665@lid",
+        "text": "Ela deve ser gente boa se oferece comigo",
+        "pushName": "Jessica",
+        "timestamp": 1787876307329
       }
     },
     "120363428464897153@g.us": {
@@ -172182,6 +172225,12 @@
         "text": "boa noite 👀👀",
         "pushName": "Vini 👑🏁🙌⚽",
         "timestamp": 1787876189354
+      },
+      "2AAD3F00711C38AC6B93": {
+        "sender": "92629643563147@lid",
+        "text": "Hoje estou ausente",
+        "pushName": "Camila Designer",
+        "timestamp": 1787876302939
       }
     },
     "120363409727467494@g.us": {
@@ -186045,8 +186094,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787876272108,
-    "120363428464897153@g.us": 1787876251079,
+    "120363432018531082@g.us": 1787876313125,
+    "120363428464897153@g.us": 1787876306699,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787875833838,
     "120363411233423709@g.us": 1787113553426,
