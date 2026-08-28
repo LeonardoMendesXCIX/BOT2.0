@@ -173,9 +173,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1567,
+        "text": 1569,
         "media": 427,
-        "total": 1994
+        "total": 1996
       },
       "81991328395336": {
         "text": 3941,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Souza (190864487919667): No no, nascido em salvador, atualmente em Brasília",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindaaa",
         "Alexandre Bastos (75797868064796): Bem vinda",
         "Souza (190864487919667): E quase xará",
@@ -10449,7 +10448,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Opiniões galera\n@all",
         "Gabriel (145381035905262): Puta merda",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Ia passar uma vergonha",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Exatamente"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Exatamente",
+        "Celiete Souza (129373172711439): Acabei de ver morri rindo 😂"
       ]
     },
     "120363428464897153@g.us": {
@@ -17469,12 +17469,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "163530946961491",
-        "authorName": "willian",
-        "text": "Alvara tá na mão kkkk",
-        "timestamp": 1787939711966
-      },
-      {
         "authorNum": "222595437858867",
         "authorName": "Juliano Perlin",
         "text": "Tarde povo",
@@ -18067,6 +18061,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Exatamente",
         "timestamp": 1787941448817
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Acabei de ver morri rindo 😂",
+        "timestamp": 1787941525708
       }
     ],
     "120363428464897153@g.us": [],
@@ -18159,7 +18159,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22239,
+    "120363432018531082@g.us": 22240,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2075,
@@ -145664,6 +145664,12 @@
         "text": "Exatamente",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787941448817
+      },
+      "AC79B7E86B1F8B35C6AC42F4B6DDFDD5": {
+        "sender": "129373172711439@lid",
+        "text": "Acabei de ver morri rindo 😂",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787941525709
       }
     },
     "120363428464897153@g.us": {
@@ -199035,7 +199041,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787941489877,
+    "120363432018531082@g.us": 1787941525708,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787940055842,
