@@ -3416,8 +3416,8 @@
     "120363412288900422@g.us": {
       "81991328395336": {
         "text": 460,
-        "media": 119,
-        "total": 579
+        "media": 120,
+        "total": 580
       },
       "5511927018683": {
         "text": 498,
@@ -3425,14 +3425,14 @@
         "total": 591
       },
       "145381035905262": {
-        "text": 405,
+        "text": 406,
         "media": 144,
-        "total": 549
+        "total": 550
       },
       "53537388122141": {
-        "text": 764,
+        "text": 766,
         "media": 59,
-        "total": 823
+        "total": 825
       },
       "120363412288900422": {
         "text": 1,
@@ -16091,7 +16091,9 @@
         "Leandro (+55 (11) 92701-8683): Por que tu não meteu no rabo desse cara?",
         "Gabriel (145381035905262): Negativa de débito trabalhista",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Atualizou meu RG na palhoça, @145381035905262 \nMas sou nascida em Floripa",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Li Gabriel navara"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Li Gabriel navara",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Amiga, tu tá bem?",
+        "Gabriel (145381035905262): Naveira idiota"
       ]
     },
     "120363411233423709@g.us": {
@@ -17233,6 +17235,18 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Li Gabriel navara",
         "timestamp": 1787888010073
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Amiga, tu tá bem?",
+        "timestamp": 1787888042905
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Naveira idiota",
+        "timestamp": 1787888047071
       }
     ],
     "120363411233423709@g.us": [],
@@ -17282,7 +17296,7 @@
     "120363432018531082@g.us": 21094,
     "120363428464897153@g.us": 6262,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1913,
+    "120363412288900422@g.us": 1915,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -187405,6 +187419,18 @@
         "text": "Li Gabriel navara",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787888010073
+      },
+      "AC443FA92CDB9672E93F953FC036D41C": {
+        "sender": "53537388122141@lid",
+        "text": "Amiga, tu tá bem?",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787888042905
+      },
+      "ACEED4016EA74F0E49DD03B6931D5ED0": {
+        "sender": "145381035905262@lid",
+        "text": "Naveira idiota",
+        "pushName": "Gabriel",
+        "timestamp": 1787888047071
       }
     },
     "120363411233423709@g.us": {
@@ -190023,7 +190049,7 @@
     "120363432018531082@g.us": 1787887872075,
     "120363428464897153@g.us": 1787888004951,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787888010073,
+    "120363412288900422@g.us": 1787888052566,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
