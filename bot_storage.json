@@ -698,9 +698,9 @@
         "total": 95
       },
       "57707230945348": {
-        "text": 1134,
+        "text": 1135,
         "media": 199,
-        "total": 1333
+        "total": 1334
       },
       "152218690924790": {
         "text": 309,
@@ -2603,9 +2603,9 @@
         "total": 23
       },
       "190864487919667": {
-        "text": 210,
+        "text": 211,
         "media": 37,
-        "total": 247
+        "total": 248
       },
       "82227819987089": {
         "text": 2,
@@ -2683,9 +2683,9 @@
         "total": 7
       },
       "205621945192508": {
-        "text": 40,
+        "text": 41,
         "media": 20,
-        "total": 60
+        "total": 61
       },
       "208958782488665": {
         "text": 13,
@@ -2811,6 +2811,11 @@
         "text": 14,
         "media": 0,
         "total": 14
+      },
+      "221307534876912": {
+        "text": 1,
+        "media": 0,
+        "total": 1
       }
     },
     "120363428464897153@g.us": {
@@ -10041,7 +10046,8 @@
         "Gabi 💋 (247020967165997): Obrigada",
         "Alexandre Bastos (75797868064796): Bom dia mais um plantão",
         "Jennifer🦋 (205621945192508): Bom dia pessoal, um dia abençoado pra todos nós 🙏🏻",
-        "Rafael Moura (57707230945348): Uai a mina me chama pra Pv, fala que \"sou seu\" e depois sai daqui e nem responde mais"
+        "Rafael Moura (57707230945348): Uai a mina me chama pra Pv, fala que \"sou seu\" e depois sai daqui e nem responde mais",
+        "Rafael Moura (57707230945348): Eu nao entendo 🤣🤣🤣"
       ]
     },
     "120363428464897153@g.us": {
@@ -16961,12 +16967,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Obrigada",
-        "timestamp": 1787912537888
-      },
-      {
         "authorNum": "222595437858867",
         "authorName": "Juliano Perlin",
         "text": "Bom diaa🤗",
@@ -17295,6 +17295,12 @@
         "authorName": "Rafael Moura",
         "text": "Uai a mina me chama pra Pv, fala que \"sou seu\" e depois sai daqui e nem responde mais",
         "timestamp": 1787914333320
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Eu nao entendo 🤣🤣🤣",
+        "timestamp": 1787914345094
       }
     ],
     "120363428464897153@g.us": [],
@@ -17314,7 +17320,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21284,
+    "120363432018531082@g.us": 21285,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1989,
@@ -139135,6 +139141,12 @@
         "text": "Uai a mina me chama pra Pv, fala que \"sou seu\" e depois sai daqui e nem responde mais",
         "pushName": "Rafael Moura",
         "timestamp": 1787914333320
+      },
+      "AC8833329A9B9E066B5415A1382B5073": {
+        "sender": "57707230945348@lid",
+        "text": "Eu nao entendo 🤣🤣🤣",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787914345094
       }
     },
     "120363428464897153@g.us": {
@@ -191906,7 +191918,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787914333320,
+    "120363432018531082@g.us": 1787914360077,
     "120363428464897153@g.us": 1787913193216,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787894166886,
