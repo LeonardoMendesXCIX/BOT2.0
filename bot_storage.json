@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2249,
+        "text": 2251,
         "media": 306,
-        "total": 2555
+        "total": 2557
       },
       "252922705240205": {
         "text": 80,
@@ -2816,6 +2816,11 @@
         "text": 10,
         "media": 14,
         "total": 24
+      },
+      "238388519141379": {
+        "text": 1,
+        "media": 0,
+        "total": 1
       }
     },
     "120363428464897153@g.us": {
@@ -9855,7 +9860,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Leandro (+55 (11) 92701-8683): Ele tinha reiniciado e eu nem vi",
         "Leandro (+55 (11) 92701-8683): !inativos",
         "🦅⚡️😍 (163686253629557): 👀",
         "Leandro (+55 (11) 92701-8683): Bom dia",
@@ -10354,7 +10358,8 @@
         "F. RicaRdo sAnToS (193729163993156): Bom dia a todas a todos a todes a tody Nescau nesquik... \nBom Dia a eles elas, ilix, asterix, obelix, dickyWinks, Lala, Pow, Teletubbies.\nBom dia aos binários, não binários, bilionários centenários.\n\n",
         "Pedro Henrique (172868239380659): Desgrama",
         "🙃🙃🙃 (11171897864256): Oi bom dia",
-        "Gleydson Souza (274384656834700): Bom dia"
+        "Gleydson Souza (274384656834700): Bom dia",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Aos domingos"
       ]
     },
     "120363428464897153@g.us": {
@@ -17278,30 +17283,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Não acho que chamar uma mulher de \"rodada\" seja uma zoeira saudavel, mas aí vai de cada um",
-        "timestamp": 1787918536072
-      },
-      {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Eu ? Em plena sexta? só se acontecer uma tragédia",
-        "timestamp": 1787918573374
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Beleza miojo",
-        "timestamp": 1787918595755
-      },
-      {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Vamos partir do princípio que ela ofendeu primeiro, ambos já se pediu desculpas e tá tudo certo",
-        "timestamp": 1787918611736
-      },
-      {
         "authorNum": "247020967165997",
         "authorName": "Gabi 💋",
         "text": "Só uma dica \nUm homem do zóio rasgado foi morto por uma garota de programa",
@@ -17576,6 +17557,12 @@
         "authorName": "Gleydson Souza",
         "text": "Bom dia",
         "timestamp": 1787920324888
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Aos domingos",
+        "timestamp": 1787920438661
       }
     ],
     "120363428464897153@g.us": [],
@@ -17595,7 +17582,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21629,
+    "120363432018531082@g.us": 21630,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -141479,6 +141466,12 @@
         "text": "Bom dia",
         "pushName": "Gleydson Souza",
         "timestamp": 1787920324888
+      },
+      "ACCBA0D235C97DA7EBDED38BC3DA0EEB": {
+        "sender": "53537388122141@lid",
+        "text": "Aos domingos",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787920438661
       }
     },
     "120363428464897153@g.us": {
@@ -194274,7 +194267,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787920324888,
+    "120363432018531082@g.us": 1787920438661,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
