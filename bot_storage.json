@@ -2798,9 +2798,9 @@
         "total": 5
       },
       "247020967165997": {
-        "text": 32,
-        "media": 7,
-        "total": 39
+        "text": 34,
+        "media": 8,
+        "total": 42
       },
       "206253020176458": {
         "text": 3,
@@ -10171,7 +10171,9 @@
         "Pedro Henrique (172868239380659): Tá tudo certo",
         "Gabi 💋 (247020967165997): Bem isso",
         "Rafael Moura (57707230945348): E eu tenho dois pontos, olha aqui !",
-        "Rafael Moura (57707230945348): .."
+        "Rafael Moura (57707230945348): ..",
+        "Gabi 💋 (247020967165997): Adoro um sabor de outros ksksks",
+        "Gabi 💋 (247020967165997): Que delícia"
       ]
     },
     "120363428464897153@g.us": {
@@ -17095,30 +17097,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "75797868064796",
-        "authorName": "Alexandre Bastos",
-        "text": "Bem vinda",
-        "timestamp": 1787914230744
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Obrigada",
-        "timestamp": 1787914238034
-      },
-      {
-        "authorNum": "75797868064796",
-        "authorName": "Alexandre Bastos",
-        "text": "Bom dia mais um plantão",
-        "timestamp": 1787914260667
-      },
-      {
-        "authorNum": "205621945192508",
-        "authorName": "Jennifer🦋",
-        "text": "Bom dia pessoal, um dia abençoado pra todos nós 🙏🏻",
-        "timestamp": 1787914266318
-      },
-      {
         "authorNum": "57707230945348",
         "authorName": "Rafael Moura",
         "text": "Uai a mina me chama pra Pv, fala que \"sou seu\" e depois sai daqui e nem responde mais",
@@ -17873,6 +17851,18 @@
         "authorName": "Rafael Moura",
         "text": "..",
         "timestamp": 1787916009275
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Adoro um sabor de outros ksksks",
+        "timestamp": 1787916076839
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Que delícia",
+        "timestamp": 1787916078881
       }
     ],
     "120363428464897153@g.us": [],
@@ -17917,7 +17907,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21409,
+    "120363432018531082@g.us": 21411,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -140481,6 +140471,18 @@
         "text": "..",
         "pushName": "Rafael Moura",
         "timestamp": 1787916009275
+      },
+      "AC745117A3DF3A137963823C44A547EE": {
+        "sender": "247020967165997@lid",
+        "text": "Adoro um sabor de outros ksksks",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787916076839
+      },
+      "AC6A7DF79B3A7BD70C83E0CE71930C73": {
+        "sender": "247020967165997@lid",
+        "text": "Que delícia",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787916078881
       }
     },
     "120363428464897153@g.us": {
@@ -193276,7 +193278,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787916041184,
+    "120363432018531082@g.us": 1787916090378,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
