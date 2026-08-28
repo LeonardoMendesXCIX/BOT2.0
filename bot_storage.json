@@ -698,9 +698,9 @@
         "total": 95
       },
       "57707230945348": {
-        "text": 1178,
+        "text": 1179,
         "media": 213,
-        "total": 1391
+        "total": 1392
       },
       "152218690924790": {
         "text": 309,
@@ -2798,9 +2798,9 @@
         "total": 5
       },
       "247020967165997": {
-        "text": 34,
+        "text": 36,
         "media": 9,
-        "total": 43
+        "total": 45
       },
       "206253020176458": {
         "text": 3,
@@ -10174,7 +10174,10 @@
         "Rafael Moura (57707230945348): ..",
         "Gabi 💋 (247020967165997): Adoro um sabor de outros ksksks",
         "Gabi 💋 (247020967165997): Que delícia",
-        "Pedro Henrique (172868239380659): Brincadeira a parte, hoje em dia tá tudo caro, antigamente tinha uns lugares mais em conta em restaurante"
+        "Pedro Henrique (172868239380659): Brincadeira a parte, hoje em dia tá tudo caro, antigamente tinha uns lugares mais em conta em restaurante",
+        "Rafael Moura (57707230945348): Mas ce ta braba?",
+        "Gabi 💋 (247020967165997): Eu tô é rindo",
+        "Gabi 💋 (247020967165997): Da carência da pessoa"
       ]
     },
     "120363428464897153@g.us": {
@@ -17100,54 +17103,6 @@
       {
         "authorNum": "57707230945348",
         "authorName": "Rafael Moura",
-        "text": "Uai a mina me chama pra Pv, fala que \"sou seu\" e depois sai daqui e nem responde mais",
-        "timestamp": 1787914333320
-      },
-      {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Eu nao entendo 🤣🤣🤣",
-        "timestamp": 1787914345094
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "O amor acabou",
-        "timestamp": 1787914392126
-      },
-      {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Bem vindas meninas, nao me maltratem",
-        "timestamp": 1787914392988
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Tava bom demais pra ser verdade",
-        "timestamp": 1787914395910
-      },
-      {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Tava mesmo 🤣🤣🤣🤣",
-        "timestamp": 1787914404534
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "!ban @279628962885736",
-        "timestamp": 1787914404792
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Acho que ela acordou a tempo 🤣🤣🤣",
-        "timestamp": 1787914405370
-      },
-      {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
         "text": "É igual dinheiro, vai e vem 🤣",
         "timestamp": 1787914426498
       },
@@ -17870,6 +17825,24 @@
         "authorName": "Pedro Henrique",
         "text": "Brincadeira a parte, hoje em dia tá tudo caro, antigamente tinha uns lugares mais em conta em restaurante",
         "timestamp": 1787916106303
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Mas ce ta braba?",
+        "timestamp": 1787916195294
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Eu tô é rindo",
+        "timestamp": 1787916204264
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Da carência da pessoa",
+        "timestamp": 1787916209567
       }
     ],
     "120363428464897153@g.us": [],
@@ -17914,7 +17887,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21412,
+    "120363432018531082@g.us": 21415,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -140496,6 +140469,24 @@
         "text": "Brincadeira a parte, hoje em dia tá tudo caro, antigamente tinha uns lugares mais em conta em restaurante",
         "pushName": "Pedro Henrique",
         "timestamp": 1787916106303
+      },
+      "AC05F69DB3A8F215CDE02092048663B4": {
+        "sender": "57707230945348@lid",
+        "text": "Mas ce ta braba?",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787916195294
+      },
+      "ACBF8AFE30A04331D1267FB1BE272D95": {
+        "sender": "247020967165997@lid",
+        "text": "Eu tô é rindo",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787916204264
+      },
+      "AC201A0C15CA3BAD64AB1D8E4A46CF04": {
+        "sender": "247020967165997@lid",
+        "text": "Da carência da pessoa",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787916209567
       }
     },
     "120363428464897153@g.us": {
@@ -193291,7 +193282,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787916162949,
+    "120363432018531082@g.us": 1787916209567,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
