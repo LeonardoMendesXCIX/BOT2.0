@@ -173,9 +173,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1580,
+        "text": 1581,
         "media": 429,
-        "total": 2009
+        "total": 2010
       },
       "81991328395336": {
         "text": 3941,
@@ -188,9 +188,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2228,
+        "text": 2229,
         "media": 472,
-        "total": 2700
+        "total": 2701
       },
       "184237705699536": {
         "text": 524,
@@ -1863,9 +1863,9 @@
         "total": 6
       },
       "1395881181241": {
-        "text": 152,
+        "text": 153,
         "media": 5,
-        "total": 157
+        "total": 158
       },
       "198595546501333": {
         "text": 2,
@@ -9950,8 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Souza (190864487919667): Oxe",
-        "Souza (190864487919667): Sozinho é bom",
         "Nanda (263797142995147): mais tarde, ainda ta cedo",
         "Nanda (263797142995147): eu acho ruim, pq eu levo tanta coisa, medo de levarem enquanto tô la no mar",
         "Nanda (263797142995147): eu corro q nem uma pata",
@@ -10449,7 +10447,9 @@
         "Gabriel (145381035905262): Beleza, se prepara pra trabalhar, te chamaremos agora em setembro. Pra trabalhar na Jequiti junto",
         "Juliano Perlin (222595437858867): Aproveita pra converssar com nós entao🤣🤣",
         "Celiete Souza (129373172711439): Muita chuva, agora parou",
-        "Celiete Souza (129373172711439): Tamo junto 🫶🏻😂😂😂"
+        "Celiete Souza (129373172711439): Tamo junto 🫶🏻😂😂😂",
+        "Celiete Souza (129373172711439): Sim, agora vou desopilar kkkk",
+        "Bruno Aguiar (+1395881181241): Por aqui está chovendo,fazer oq"
       ]
     },
     "120363428464897153@g.us": {
@@ -17469,12 +17469,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "@1395881181241 \n@163530946961491 \n@75797868064796 \n@190864487919667 \n@222595437858867",
-        "timestamp": 1787939969976
-      },
-      {
         "authorNum": "145381035905262",
         "authorName": "Gabriel",
         "text": "Caraca Meri Jane",
@@ -18097,6 +18091,18 @@
         "authorName": "Celiete Souza",
         "text": "Tamo junto 🫶🏻😂😂😂",
         "timestamp": 1787941757169
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Sim, agora vou desopilar kkkk",
+        "timestamp": 1787941783601
+      },
+      {
+        "authorNum": "1395881181241",
+        "authorName": "Bruno Aguiar",
+        "text": "Por aqui está chovendo,fazer oq",
+        "timestamp": 1787941783709
       }
     ],
     "120363428464897153@g.us": [],
@@ -18189,7 +18195,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22255,
+    "120363432018531082@g.us": 22257,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2075,
@@ -145790,6 +145796,18 @@
         "text": "Tamo junto 🫶🏻😂😂😂",
         "pushName": "Celiete Souza",
         "timestamp": 1787941757169
+      },
+      "AC9D170B4D28C86F13AEAACDB05EF54B": {
+        "sender": "129373172711439@lid",
+        "text": "Sim, agora vou desopilar kkkk",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787941783601
+      },
+      "AC67CD878D1946357D11D4B9B32BB0E4": {
+        "sender": "1395881181241@lid",
+        "text": "Por aqui está chovendo,fazer oq",
+        "pushName": "Bruno Aguiar",
+        "timestamp": 1787941783709
       }
     },
     "120363428464897153@g.us": {
@@ -199161,7 +199179,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787941757169,
+    "120363432018531082@g.us": 1787941783709,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787940055842,
