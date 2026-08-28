@@ -173,9 +173,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1541,
+        "text": 1542,
         "media": 424,
-        "total": 1965
+        "total": 1966
       },
       "81991328395336": {
         "text": 3923,
@@ -2803,9 +2803,9 @@
         "total": 150
       },
       "206253020176458": {
-        "text": 21,
+        "text": 22,
         "media": 6,
-        "total": 27
+        "total": 28
       },
       "210152934359048": {
         "text": 16,
@@ -9900,8 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Rafael Moura (57707230945348): Nossa, adoro obedientes 😏",
-        "Jessica (208958782488665): Eu precisa do que??",
         "Clayton 🇳🇬 (155503636275307): Humilhou",
         "Pedro Henrique (172868239380659): Realmente, essa não entendi",
         "Rafael Moura (57707230945348): Vem ver a treta",
@@ -10399,7 +10397,9 @@
         "Souza (190864487919667): Foi uma treta das boas",
         "Celiete Souza (129373172711439): Eu perdi",
         "Celiete Souza (129373172711439): Até foi bom 🤣🤦🏼‍♀️",
-        "jaciara (108461127897146): As vezes nem precisa de um encontro kkkk percebemos só na conversa"
+        "jaciara (108461127897146): As vezes nem precisa de um encontro kkkk percebemos só na conversa",
+        "Celiete Souza (129373172711439): Exatamente, nós sabemos, vai dos nossos propósitos e valores manter ou não o contato 😉",
+        "Arthur (206253020176458): Mas ten mulher q falar vamos dividir a conta o homem diz q nn precisa mas as mulheres fazem questão pq ali é um conexão verdadeira de q ambos podem se ajudar pode até nascer um amor q pode durar pra s"
       ]
     },
     "120363428464897153@g.us": {
@@ -17344,18 +17344,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "193729163993156",
-        "authorName": "F. RicaRdo sAnToS",
-        "text": "Tem candidato forte aqui",
-        "timestamp": 1787929440650
-      },
-      {
-        "authorNum": "83911531044906",
-        "authorName": "~Gará",
-        "text": "Tenho três filhos.\nPorém descobrir em 2020 que não faço mais devidos uns problemas,mais queria ter mais um pra mim acompanhar de perto desde o nascimento ao crescimento.",
-        "timestamp": 1787929475872
-      },
-      {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Que foto? @108461127897146",
@@ -17918,6 +17906,18 @@
         "authorName": "jaciara",
         "text": "As vezes nem precisa de um encontro kkkk percebemos só na conversa",
         "timestamp": 1787931202840
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Exatamente, nós sabemos, vai dos nossos propósitos e valores manter ou não o contato 😉",
+        "timestamp": 1787931280101
+      },
+      {
+        "authorNum": "206253020176458",
+        "authorName": "Arthur",
+        "text": "Mas ten mulher q falar vamos dividir a conta o homem diz q nn precisa mas as mulheres fazem questão pq ali é um conexão verdadeira de q ambos podem se ajudar pode até nascer um amor q pode durar pra sempre e sempre vão se ajudar em tudo",
+        "timestamp": 1787931288284
       }
     ],
     "120363428464897153@g.us": [],
@@ -17950,7 +17950,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21984,
+    "120363432018531082@g.us": 21986,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -143938,6 +143938,18 @@
         "text": "As vezes nem precisa de um encontro kkkk percebemos só na conversa",
         "pushName": "jaciara",
         "timestamp": 1787931202840
+      },
+      "ACC3ED3ECB72E3E4DF2CF72457CC4A98": {
+        "sender": "129373172711439@lid",
+        "text": "Exatamente, nós sabemos, vai dos nossos propósitos e valores manter ou não o contato 😉",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787931280101
+      },
+      "AC43A9DD6EDA2070918315C00C732246": {
+        "sender": "206253020176458@lid",
+        "text": "Mas ten mulher q falar vamos dividir a conta o homem diz q nn precisa mas as mulheres fazem questão pq ali é um conexão verdadeira de q ambos podem se ajudar pode até nascer um amor q pode durar pra sempre e sempre vão se ajudar em tudo",
+        "pushName": "Arthur",
+        "timestamp": 1787931288284
       }
     },
     "120363428464897153@g.us": {
@@ -196859,7 +196871,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787931202840,
+    "120363432018531082@g.us": 1787931288284,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
