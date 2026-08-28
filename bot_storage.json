@@ -293,9 +293,9 @@
         "total": 464
       },
       "262182034002040": {
-        "text": 1877,
+        "text": 1879,
         "media": 122,
-        "total": 1999
+        "total": 2001
       },
       "219245581488326": {
         "text": 4,
@@ -698,9 +698,9 @@
         "total": 95
       },
       "57707230945348": {
-        "text": 1165,
+        "text": 1166,
         "media": 209,
-        "total": 1374
+        "total": 1375
       },
       "152218690924790": {
         "text": 309,
@@ -2603,9 +2603,9 @@
         "total": 23
       },
       "190864487919667": {
-        "text": 214,
+        "text": 215,
         "media": 37,
-        "total": 251
+        "total": 252
       },
       "82227819987089": {
         "text": 2,
@@ -2798,9 +2798,9 @@
         "total": 4
       },
       "247020967165997": {
-        "text": 14,
+        "text": 16,
         "media": 1,
-        "total": 15
+        "total": 17
       },
       "206253020176458": {
         "text": 3,
@@ -10116,7 +10116,10 @@
         "Rafael Moura (57707230945348): Opa",
         "Rafael Moura (57707230945348): @53537388122141",
         "Rafael Moura (57707230945348): Marquei errado",
-        "Alexandre Bastos (75797868064796): Quem"
+        "Alexandre Bastos (75797868064796): Quem",
+        "Gabi 💋 (247020967165997): Vê ksksks",
+        "Souza (190864487919667): Tô esperando meu VR cair hein",
+        "Rafael Moura (57707230945348): Hoje tem Coca em"
       ]
     },
     "120363428464897153@g.us": {
@@ -17649,6 +17652,24 @@
         "authorName": "Alexandre Bastos",
         "text": "Quem",
         "timestamp": 1787914988029
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Vê ksksks",
+        "timestamp": 1787915022587
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Tô esperando meu VR cair hein",
+        "timestamp": 1787915030428
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Hoje tem Coca em",
+        "timestamp": 1787915036573
       }
     ],
     "120363428464897153@g.us": [],
@@ -17687,7 +17708,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21354,
+    "120363432018531082@g.us": 21357,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1992,
@@ -139922,6 +139943,24 @@
         "text": "Quem",
         "pushName": "Alexandre Bastos",
         "timestamp": 1787914988029
+      },
+      "ACB5950219A88EF11C42F50A4ABFB9D4": {
+        "sender": "247020967165997@lid",
+        "text": "Vê ksksks",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787915022587
+      },
+      "AC45A94B6B49D6246D600DF5926F46FC": {
+        "sender": "190864487919667@lid",
+        "text": "Tô esperando meu VR cair hein",
+        "pushName": "Souza",
+        "timestamp": 1787915030429
+      },
+      "ACAA1A02BAF45263188F046DC66B94D5": {
+        "sender": "57707230945348@lid",
+        "text": "Hoje tem Coca em",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787915036573
       }
     },
     "120363428464897153@g.us": {
@@ -192711,7 +192750,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787914988029,
+    "120363432018531082@g.us": 1787915036573,
     "120363428464897153@g.us": 1787913193216,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787914462012,
