@@ -253,9 +253,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1501,
+        "text": 1502,
         "media": 1116,
-        "total": 2617
+        "total": 2618
       },
       "3126803329115": {
         "text": 87,
@@ -1953,9 +1953,9 @@
         "total": 5
       },
       "83911531044906": {
-        "text": 46,
+        "text": 48,
         "media": 2,
-        "total": 48
+        "total": 50
       },
       "172864548434113": {
         "text": 42,
@@ -2603,9 +2603,9 @@
         "total": 29
       },
       "190864487919667": {
-        "text": 279,
+        "text": 280,
         "media": 42,
-        "total": 321
+        "total": 322
       },
       "82227819987089": {
         "text": 2,
@@ -2658,9 +2658,9 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 78,
+        "text": 80,
         "media": 14,
-        "total": 92
+        "total": 94
       },
       "172868239380659": {
         "text": 182,
@@ -2708,9 +2708,9 @@
         "total": 2
       },
       "108461127897146": {
-        "text": 36,
+        "text": 40,
         "media": 4,
-        "total": 40
+        "total": 44
       },
       "10050861031495": {
         "text": 0,
@@ -9900,12 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Gabi 💋 (247020967165997): Vê ksksks",
-        "Souza (190864487919667): Tô esperando meu VR cair hein",
-        "Rafael Moura (57707230945348): Hoje tem Coca em",
-        "Rafael Moura (57707230945348): VR caiu, alegria subiu",
-        "Gabi 💋 (247020967165997): Hoje eu queria um Poke",
-        "Jessica (208958782488665): Que hoje tem reunião dos internados do hospital 😬",
         "Rafael Moura (57707230945348): Oi doutora 😏",
         "Jessica (208958782488665): Hj já tomo meus psico kkkkk",
         "Gabi 💋 (247020967165997): Ferrou cheguei agora",
@@ -10399,7 +10393,13 @@
         "jaciara (108461127897146): Passando alguns meses , até minha bebê nascer",
         "jaciara (108461127897146): Estou grávida",
         "Camila Designer (92629643563147): Ah sim, sua família está aí?",
-        "Souza (190864487919667): O pai foi também?"
+        "Souza (190864487919667): O pai foi também?",
+        "jaciara (108461127897146): Minha mãe mora aqui , e eu sou mãe solo kkkk",
+        "jaciara (108461127897146): Vim com meus filhos",
+        "jaciara (108461127897146): Tenho dois filhos",
+        "Camila Designer (92629643563147): Ah que ótimo!",
+        "jaciara (108461127897146): O pai sou eu kkkkk",
+        "Gleydson Souza (274384656834700): Parabéns"
       ]
     },
     "120363428464897153@g.us": {
@@ -17342,36 +17342,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Mas tem os órgãos 🤣🤣🤣",
-        "timestamp": 1787927163775
-      },
-      {
-        "authorNum": "263797142995147",
-        "authorName": "Nanda",
-        "text": "tenho n, mais tem coisa q vale mais né",
-        "timestamp": 1787927177613
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Tá nem valendo tanto assim",
-        "timestamp": 1787927180424
-      },
-      {
-        "authorNum": "263797142995147",
-        "authorName": "Nanda",
-        "text": "deuzulive",
-        "timestamp": 1787927180496
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Pra vender",
-        "timestamp": 1787927182357
-      },
-      {
         "authorNum": "263797142995147",
         "authorName": "Nanda",
         "text": "eu ia flr isso",
@@ -17724,6 +17694,42 @@
         "authorName": "Souza",
         "text": "O pai foi também?",
         "timestamp": 1787928932846
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Minha mãe mora aqui , e eu sou mãe solo kkkk",
+        "timestamp": 1787928958407
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Vim com meus filhos",
+        "timestamp": 1787928963216
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Tenho dois filhos",
+        "timestamp": 1787928966823
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Ah que ótimo!",
+        "timestamp": 1787928976974
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "O pai sou eu kkkkk",
+        "timestamp": 1787928988982
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Parabéns",
+        "timestamp": 1787928989704
       }
     ],
     "120363428464897153@g.us": [],
@@ -17750,7 +17756,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21854,
+    "120363432018531082@g.us": 21860,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -142964,6 +142970,42 @@
         "text": "O pai foi também?",
         "pushName": "Souza",
         "timestamp": 1787928932846
+      },
+      "AC51DCD7C4B60C30CD234529D6638710": {
+        "sender": "108461127897146@lid",
+        "text": "Minha mãe mora aqui , e eu sou mãe solo kkkk",
+        "pushName": "jaciara",
+        "timestamp": 1787928958407
+      },
+      "AC41D27880D638648C8D6E70AE4AF4E3": {
+        "sender": "108461127897146@lid",
+        "text": "Vim com meus filhos",
+        "pushName": "jaciara",
+        "timestamp": 1787928963216
+      },
+      "AC49F1E90E6832B90DB97BBEDAE9C821": {
+        "sender": "108461127897146@lid",
+        "text": "Tenho dois filhos",
+        "pushName": "jaciara",
+        "timestamp": 1787928966823
+      },
+      "2AF7027420692F631645": {
+        "sender": "92629643563147@lid",
+        "text": "Ah que ótimo!",
+        "pushName": "Camila Designer",
+        "timestamp": 1787928976974
+      },
+      "AC2451F49102E192F1199CDDD52FA671": {
+        "sender": "108461127897146@lid",
+        "text": "O pai sou eu kkkkk",
+        "pushName": "jaciara",
+        "timestamp": 1787928988982
+      },
+      "AC7D7E08445CDEB1572E7A436FA9BD4D": {
+        "sender": "274384656834700@lid",
+        "text": "Parabéns",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787928989704
       }
     },
     "120363428464897153@g.us": {
@@ -195873,7 +195915,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787928946985,
+    "120363432018531082@g.us": 1787928998412,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
