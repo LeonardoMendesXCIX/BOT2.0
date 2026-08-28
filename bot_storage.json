@@ -173,9 +173,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1607,
+        "text": 1608,
         "media": 441,
-        "total": 2048
+        "total": 2049
       },
       "81991328395336": {
         "text": 3944,
@@ -2708,9 +2708,9 @@
         "total": 2
       },
       "108461127897146": {
-        "text": 94,
+        "text": 95,
         "media": 11,
-        "total": 105
+        "total": 106
       },
       "10050861031495": {
         "text": 0,
@@ -3945,9 +3945,9 @@
         "total": 3
       },
       "81991328395336": {
-        "text": 16,
+        "text": 17,
         "media": 930,
-        "total": 946
+        "total": 947
       },
       "145381035905262": {
         "text": 7,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Alexandre Bastos (75797868064796): 🥰🥰",
         "Souza (190864487919667): Boa Jaci",
         "jaciara (108461127897146): Tá bem ?",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Obrigada 🥹",
@@ -10449,7 +10448,8 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Tô ocupada nas figurinhas dps volto akiii",
         "Celiete Souza (129373172711439): Tu também kkk",
         "Celiete Souza (129373172711439): Não podemos perder a fé",
-        "Celiete Souza (129373172711439): Agora vou ter um tempinho a mais de repente, ai me chamem lá 😘"
+        "Celiete Souza (129373172711439): Agora vou ter um tempinho a mais de repente, ai me chamem lá 😘",
+        "jaciara (108461127897146): Podem falar mais sobre o empreendimento kkkkkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -17456,7 +17456,8 @@
         "Celiete Souza (129373172711439): Tô pegando",
         "Leandro (+55 (11) 92701-8683): A minha conta aí 🌝",
         "eduardo (37826582323373): Misericórdia haja figurinha",
-        "Leandro (+55 (11) 92701-8683): Ela mandou só 1000 das 5000 e poucas que tem"
+        "Leandro (+55 (11) 92701-8683): Ela mandou só 1000 das 5000 e poucas que tem",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): *PAREI*"
       ]
     },
     "120363411043114631@g.us": {
@@ -17585,6 +17586,12 @@
         "authorName": "Celiete Souza",
         "text": "Agora vou ter um tempinho a mais de repente, ai me chamem lá 😘",
         "timestamp": 1787946357086
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Podem falar mais sobre o empreendimento kkkkkk",
+        "timestamp": 1787946412599
       }
     ],
     "120363428464897153@g.us": [],
@@ -17595,10 +17602,10 @@
     "120363411246936023@g.us": [],
     "120363409024805409@g.us": [
       {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Ela mandou só 1000 das 5000 e poucas que tem",
-        "timestamp": 1787944581607
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "*PAREI*",
+        "timestamp": 1787946405178
       }
     ],
     "120363050678635389@g.us": [],
@@ -17611,14 +17618,14 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22331,
+    "120363432018531082@g.us": 22332,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
-    "120363409024805409@g.us": 87,
+    "120363409024805409@g.us": 88,
     "120363050678635389@g.us": 1,
     "120363411043114631@g.us": 20
   },
@@ -145656,6 +145663,12 @@
         "text": "Agora vou ter um tempinho a mais de repente, ai me chamem lá 😘",
         "pushName": "Celiete Souza",
         "timestamp": 1787946357086
+      },
+      "AC889237DE1CDD8A7857A79AA92BB8B3": {
+        "sender": "108461127897146@lid",
+        "text": "Podem falar mais sobre o empreendimento kkkkkk",
+        "pushName": "jaciara",
+        "timestamp": 1787946412599
       }
     },
     "120363428464897153@g.us": {
@@ -198920,6 +198933,12 @@
         "text": "Ela mandou só 1000 das 5000 e poucas que tem",
         "pushName": "Leandro",
         "timestamp": 1787944581607
+      },
+      "AC9FF714FC9333F6F88D467EC65D7C59": {
+        "sender": "81991328395336@lid",
+        "text": "*PAREI*",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787946405178
       }
     },
     "120363050678635389@g.us": {
@@ -199123,7 +199142,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787946357086,
+    "120363432018531082@g.us": 1787946412599,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
@@ -199134,7 +199153,7 @@
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1787868477291,
-    "120363409024805409@g.us": 1787946352771,
+    "120363409024805409@g.us": 1787946405178,
     "120363411043114631@g.us": 1787897464612
   },
   "autoAnimSent": {
