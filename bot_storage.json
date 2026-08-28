@@ -178,9 +178,9 @@
         "total": 1946
       },
       "81991328395336": {
-        "text": 3922,
+        "text": 3923,
         "media": 1326,
-        "total": 5248
+        "total": 5249
       },
       "179040627490824": {
         "text": 433,
@@ -9875,7 +9875,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "eduardo (37826582323373): 😘",
         "Leandro (+55 (11) 92701-8683): Às ordens!",
         "eduardo (37826582323373): asim",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Disponha",
@@ -10374,7 +10373,8 @@
         "Alexandre Bastos (75797868064796): Prazer Alexandre",
         "Souza (190864487919667): Bem vinda",
         "Lailson Nathan. (272048228188398): Seja bem vinda.",
-        "Bruno Aguiar (+1395881181241): Seja bem vinda"
+        "Bruno Aguiar (+1395881181241): Seja bem vinda",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Bem vinda 🩷"
       ]
     },
     "120363428464897153@g.us": {
@@ -17311,12 +17311,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "221307534876912",
-        "authorName": "𝔞𝔩𝔦𝔫𝔢🫶🏽",
-        "text": "Eitttaaa",
-        "timestamp": 1787921587891
-      },
-      {
         "authorNum": "193729163993156",
         "authorName": "F. RicaRdo sAnToS",
         "text": "Pão sexual é o que transa com Pão 🌭??? 🧐🧐",
@@ -17465,6 +17459,12 @@
         "authorName": "Bruno Aguiar",
         "text": "Seja bem vinda",
         "timestamp": 1787923386606
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Bem vinda 🩷",
+        "timestamp": 1787923476311
       }
     ],
     "120363428464897153@g.us": [],
@@ -17527,7 +17527,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21681,
+    "120363432018531082@g.us": 21682,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2006,
@@ -141716,6 +141716,12 @@
         "text": "Seja bem vinda",
         "pushName": "Bruno Aguiar",
         "timestamp": 1787923386606
+      },
+      "AC967EF7465FD1AB7ABF874641E92BEC": {
+        "sender": "81991328395336@lid",
+        "text": "Bem vinda 🩷",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787923476311
       }
     },
     "120363428464897153@g.us": {
@@ -194589,7 +194595,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787923386606,
+    "120363432018531082@g.us": 1787923476311,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787922745298,
