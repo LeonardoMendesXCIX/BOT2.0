@@ -1953,9 +1953,9 @@
         "total": 5
       },
       "83911531044906": {
-        "text": 60,
+        "text": 61,
         "media": 3,
-        "total": 63
+        "total": 64
       },
       "172864548434113": {
         "text": 42,
@@ -2708,9 +2708,9 @@
         "total": 2
       },
       "108461127897146": {
-        "text": 64,
+        "text": 66,
         "media": 7,
-        "total": 71
+        "total": 73
       },
       "10050861031495": {
         "text": 0,
@@ -9900,9 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Gabi 💋 (247020967165997): Se fosse aqui em só eu topo",
-        "Pedro Henrique (172868239380659): Quer pagar a minha viagem?",
-        "Saul (118515428286715): É sim, bora",
         "Pedro Henrique (172868239380659): Vou mandar os valores aí pra vc",
         "Alexandre Bastos (75797868064796): Quando e isso tem alguma coisa",
         "Saul (118515428286715): QUE ISSO, na cara não kkkk",
@@ -10399,7 +10396,10 @@
         "jaciara (108461127897146): Tenho um rapaz de 10 anos e uma moça de 6",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Barrigão tá eu, e nem tô grávida",
         "jaciara (108461127897146): Essa é minha 3 e última gravidez",
-        "Souza (190864487919667): Aí já não sei"
+        "Souza (190864487919667): Aí já não sei",
+        "jaciara (108461127897146): A gente namorou 8 meses e começou a me maltratar no início da gravidez e eu terminei o relacionamento",
+        "~Gará (83911531044906): Certíssima",
+        "jaciara (108461127897146): Porque nao sou obrigada ficar com macho escroto só por causa que estou grávida"
       ]
     },
     "120363428464897153@g.us": {
@@ -17342,30 +17342,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Obrigada pelo elogio 🥹",
-        "timestamp": 1787928067636
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Deliciaaaaa\nEu quero",
-        "timestamp": 1787928092341
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "De qual cidade ?",
-        "timestamp": 1787928105045
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Tá perdendoooo\nUma delícia",
-        "timestamp": 1787928108225
-      },
-      {
         "authorNum": "1395881181241",
         "authorName": "Bruno Aguiar",
         "text": "E se precisar estamos aqui 😉❤️",
@@ -17982,6 +17958,24 @@
         "authorName": "Souza",
         "text": "Aí já não sei",
         "timestamp": 1787929853245
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "A gente namorou 8 meses e começou a me maltratar no início da gravidez e eu terminei o relacionamento",
+        "timestamp": 1787929910808
+      },
+      {
+        "authorNum": "83911531044906",
+        "authorName": "~Gará",
+        "text": "Certíssima",
+        "timestamp": 1787929939277
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Porque nao sou obrigada ficar com macho escroto só por causa que estou grávida",
+        "timestamp": 1787929939678
       }
     ],
     "120363428464897153@g.us": [],
@@ -18008,7 +18002,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21921,
+    "120363432018531082@g.us": 21924,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -143624,6 +143618,24 @@
         "text": "Aí já não sei",
         "pushName": "Souza",
         "timestamp": 1787929853245
+      },
+      "ACA63154BAA38166565D22FE346909D3": {
+        "sender": "108461127897146@lid",
+        "text": "A gente namorou 8 meses e começou a me maltratar no início da gravidez e eu terminei o relacionamento",
+        "pushName": "jaciara",
+        "timestamp": 1787929910808
+      },
+      "AC77F43A19E7D3F1090A3D09D1105031": {
+        "sender": "83911531044906@lid",
+        "text": "Certíssima",
+        "pushName": "~Gará",
+        "timestamp": 1787929939277
+      },
+      "AC9CD83EC8B64DA35A93410D8B846030": {
+        "sender": "108461127897146@lid",
+        "text": "Porque nao sou obrigada ficar com macho escroto só por causa que estou grávida",
+        "pushName": "jaciara",
+        "timestamp": 1787929939678
       }
     },
     "120363428464897153@g.us": {
@@ -196533,7 +196545,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787929857891,
+    "120363432018531082@g.us": 1787929939678,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
