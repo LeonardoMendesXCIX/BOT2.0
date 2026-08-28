@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2240,
+        "text": 2241,
         "media": 303,
-        "total": 2543
+        "total": 2544
       },
       "252922705240205": {
         "text": 80,
@@ -2808,9 +2808,9 @@
         "total": 2
       },
       "210152934359048": {
-        "text": 6,
+        "text": 7,
         "media": 0,
-        "total": 6
+        "total": 7
       }
     },
     "120363428464897153@g.us": {
@@ -10022,7 +10022,8 @@
         "Bruno (210152934359048): Aah sim , sou de juiz de fora mg",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Aaah simmm",
         "Souza (190864487919667): Tô quase me vendendo por um pastel",
-        "Bruno (210152934359048): Floripa, deve ser maneiro ai"
+        "Bruno (210152934359048): Floripa, deve ser maneiro ai",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Daora, e bonito também"
       ]
     },
     "120363428464897153@g.us": {
@@ -17252,6 +17253,12 @@
         "authorName": "Bruno",
         "text": "Floripa, deve ser maneiro ai",
         "timestamp": 1787913558599
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Daora, e bonito também",
+        "timestamp": 1787913570293
       }
     ],
     "120363428464897153@g.us": [],
@@ -17271,7 +17278,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21265,
+    "120363432018531082@g.us": 21266,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1989,
@@ -138978,6 +138985,12 @@
         "text": "Floripa, deve ser maneiro ai",
         "pushName": "Bruno",
         "timestamp": 1787913558599
+      },
+      "AC899C7E371ACDE7D29C10CAA8F102F2": {
+        "sender": "53537388122141@lid",
+        "text": "Daora, e bonito também",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787913570293
       }
     },
     "120363428464897153@g.us": {
@@ -191749,7 +191762,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787913558599,
+    "120363432018531082@g.us": 1787913582722,
     "120363428464897153@g.us": 1787913193216,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787894166886,
