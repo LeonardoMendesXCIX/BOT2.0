@@ -188,9 +188,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2221,
+        "text": 2222,
         "media": 472,
-        "total": 2693
+        "total": 2694
       },
       "184237705699536": {
         "text": 524,
@@ -253,9 +253,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1507,
+        "text": 1509,
         "media": 1118,
-        "total": 2625
+        "total": 2627
       },
       "3126803329115": {
         "text": 87,
@@ -9950,9 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Bruno Aguiar (+1395881181241): Sempre na ativa,sem perder tempo",
-        "Dany (262182034002040): Opa! Só chamar!",
-        "Dany (262182034002040): Dou sim",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Exatamente",
         "🙃🙃🙃 (11171897864256): Pessoal o que fazem de bom",
         "Souza (190864487919667): Nada",
@@ -10449,7 +10446,10 @@
         "Celiete Souza (129373172711439): Boa tarde nega 😘",
         "Gabriel (145381035905262): @272048228188398 , @214156045242435 , @129373172711439  olhem isso 😂😂",
         "Camila Designer (92629643563147): Eu acho que sim 😂😂😂",
-        "Celiete Souza (129373172711439): Tô vivendo apenas kkkkkk"
+        "Celiete Souza (129373172711439): Tô vivendo apenas kkkkkk",
+        "Gabriel (145381035905262): Você sabe que não",
+        "Camila Designer (92629643563147): E eu sobrevivendo 😂😂😂",
+        "Camila Designer (92629643563147): Zuando 😂😂😂"
       ]
     },
     "120363428464897153@g.us": {
@@ -17471,12 +17471,6 @@
       {
         "authorNum": "145381035905262",
         "authorName": "Gabriel",
-        "text": "Eu cobiçado?",
-        "timestamp": 1787939457061
-      },
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
         "text": "Ma não é possível",
         "timestamp": 1787939466827
       },
@@ -18091,6 +18085,24 @@
         "authorName": "Celiete Souza",
         "text": "Tô vivendo apenas kkkkkk",
         "timestamp": 1787941222335
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Você sabe que não",
+        "timestamp": 1787941234613
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "E eu sobrevivendo 😂😂😂",
+        "timestamp": 1787941252747
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Zuando 😂😂😂",
+        "timestamp": 1787941261079
       }
     ],
     "120363428464897153@g.us": [],
@@ -18195,7 +18207,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22224,
+    "120363432018531082@g.us": 22227,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2075,
@@ -145610,6 +145622,24 @@
         "text": "Tô vivendo apenas kkkkkk",
         "pushName": "Celiete Souza",
         "timestamp": 1787941222335
+      },
+      "ACACDCC3C54E55A2204859E12B947A4D": {
+        "sender": "145381035905262@lid",
+        "text": "Você sabe que não",
+        "pushName": "Gabriel",
+        "timestamp": 1787941234613
+      },
+      "2A3641910AA0E9E1EB67": {
+        "sender": "92629643563147@lid",
+        "text": "E eu sobrevivendo 😂😂😂",
+        "pushName": "Camila Designer",
+        "timestamp": 1787941252747
+      },
+      "2A4F37355B3097498D3E": {
+        "sender": "92629643563147@lid",
+        "text": "Zuando 😂😂😂",
+        "pushName": "Camila Designer",
+        "timestamp": 1787941261080
       }
     },
     "120363428464897153@g.us": {
@@ -198981,7 +199011,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787941222335,
+    "120363432018531082@g.us": 1787941261079,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787940055842,
