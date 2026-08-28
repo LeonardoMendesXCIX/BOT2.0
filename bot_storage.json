@@ -2623,8 +2623,8 @@
       },
       "274384656834700": {
         "text": 61,
-        "media": 11,
-        "total": 72
+        "media": 13,
+        "total": 74
       },
       "172868239380659": {
         "text": 93,
@@ -2910,8 +2910,8 @@
       },
       "92629643563147": {
         "text": 580,
-        "media": 400,
-        "total": 980
+        "media": 401,
+        "total": 981
       },
       "122552932372575": {
         "text": 0,
@@ -2999,9 +2999,9 @@
         "total": 94
       },
       "222595437858867": {
-        "text": 149,
+        "text": 150,
         "media": 11,
-        "total": 160
+        "total": 161
       },
       "104003018985518": {
         "text": 40,
@@ -3294,9 +3294,9 @@
         "total": 1
       },
       "190864487919667": {
-        "text": 58,
+        "text": 59,
         "media": 11,
-        "total": 69
+        "total": 70
       },
       "118515428286715": {
         "text": 16,
@@ -13746,7 +13746,9 @@
         "Camila Designer (92629643563147): Está interessado em alguém @190864487919667 ?",
         "Souza (190864487919667): Vá não",
         "Souza (190864487919667): Contribua",
-        "Souza (190864487919667): A princípio, sim"
+        "Souza (190864487919667): A princípio, sim",
+        "Juliano Perlin (222595437858867): Bahh hoje tava trabalhando, todo suado. Aí tirei a camisa, sabe que to criando peito mesmo🤣🤣?? Se eu largasse uma foto aqui vcs iam a loucura eu acho🤭🤣🤣",
+        "Souza (190864487919667): 👀"
       ]
     },
     "120363409727467494@g.us": {
@@ -16247,12 +16249,6 @@
     ],
     "120363428464897153@g.us": [
       {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Eu?",
-        "timestamp": 1787879103495
-      },
-      {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
         "text": "😏",
@@ -16671,6 +16667,18 @@
         "authorName": "Souza",
         "text": "A princípio, sim",
         "timestamp": 1787880758612
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Bahh hoje tava trabalhando, todo suado. Aí tirei a camisa, sabe que to criando peito mesmo🤣🤣?? Se eu largasse uma foto aqui vcs iam a loucura eu acho🤭🤣🤣",
+        "timestamp": 1787880913361
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "👀",
+        "timestamp": 1787880942009
       }
     ],
     "120363409727467494@g.us": [],
@@ -16689,7 +16697,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 21037,
-    "120363428464897153@g.us": 6187,
+    "120363428464897153@g.us": 6189,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1711,
     "120363411233423709@g.us": 5,
@@ -173346,6 +173354,18 @@
         "text": "A princípio, sim",
         "pushName": "Souza",
         "timestamp": 1787880758612
+      },
+      "AC3E2F059DFAD1A51FE9BA84AEF64010": {
+        "sender": "222595437858867@lid",
+        "text": "Bahh hoje tava trabalhando, todo suado. Aí tirei a camisa, sabe que to criando peito mesmo🤣🤣?? Se eu largasse uma foto aqui vcs iam a loucura eu acho🤭🤣🤣",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1787880913361
+      },
+      "ACF67AF342E41B6E89B2C073DABCBFCD": {
+        "sender": "190864487919667@lid",
+        "text": "👀",
+        "pushName": "Souza",
+        "timestamp": 1787880942009
       }
     },
     "120363409727467494@g.us": {
@@ -187389,8 +187409,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787880901977,
-    "120363428464897153@g.us": 1787880816051,
+    "120363432018531082@g.us": 1787880921396,
+    "120363428464897153@g.us": 1787880942009,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787877736241,
     "120363411233423709@g.us": 1787113553426,
