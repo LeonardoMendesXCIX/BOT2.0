@@ -318,9 +318,9 @@
         "total": 117
       },
       "199733712785531": {
-        "text": 206,
+        "text": 207,
         "media": 122,
-        "total": 328
+        "total": 329
       },
       "153596754661626": {
         "text": 1,
@@ -648,9 +648,9 @@
         "total": 1
       },
       "86793403801839": {
-        "text": 60,
+        "text": 61,
         "media": 6,
-        "total": 66
+        "total": 67
       },
       "78070107140221": {
         "text": 7,
@@ -9950,8 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Celiete Souza (129373172711439): Boa tarde",
-        "Jessica (208958782488665): Tarde",
         "Souza (190864487919667): Amanhã tem show do melhor rapper aqui em Brasília",
         "jaciara (108461127897146): Boa tarde",
         "Leandro (+55 (11) 92701-8683): Como 6 tão? @all bem?",
@@ -10449,7 +10447,9 @@
         "Souza (190864487919667): @83911531044906 apareça",
         "Saul (118515428286715): Boa Noite",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Boa noite a @all 🫶🏻",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Como vocês estão?"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Como vocês estão?",
+        "Sacola S10 (86793403801839): Opa boenas tardes",
+        "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Boa noite!!"
       ]
     },
     "120363428464897153@g.us": {
@@ -17505,6 +17505,18 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Como vocês estão?",
         "timestamp": 1787952931764
+      },
+      {
+        "authorNum": "86793403801839",
+        "authorName": "Sacola S10",
+        "text": "Opa boenas tardes",
+        "timestamp": 1787952955643
+      },
+      {
+        "authorNum": "199733712785531",
+        "authorName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
+        "text": "Boa noite!!",
+        "timestamp": 1787952984995
       }
     ],
     "120363428464897153@g.us": [],
@@ -17538,7 +17550,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22498,
+    "120363432018531082@g.us": 22500,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2090,
@@ -146585,6 +146597,18 @@
         "text": "Como vocês estão?",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787952931764
+      },
+      "ACCF3CD53CCCE4FC07593D974E702F74": {
+        "sender": "86793403801839@lid",
+        "text": "Opa boenas tardes",
+        "pushName": "Sacola S10",
+        "timestamp": 1787952955643
+      },
+      "3A89F9C5652BA59370A9": {
+        "sender": "199733712785531@lid",
+        "text": "Boa noite!!",
+        "pushName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
+        "timestamp": 1787952984995
       }
     },
     "120363428464897153@g.us": {
@@ -200076,7 +200100,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787952941024,
+    "120363432018531082@g.us": 1787952984995,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787952802711,
