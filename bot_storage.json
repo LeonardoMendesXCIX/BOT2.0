@@ -188,9 +188,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2209,
+        "text": 2210,
         "media": 471,
-        "total": 2680
+        "total": 2681
       },
       "184237705699536": {
         "text": 524,
@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2298,
+        "text": 2299,
         "media": 317,
-        "total": 2615
+        "total": 2616
       },
       "252922705240205": {
         "text": 80,
@@ -383,9 +383,9 @@
         "total": 485
       },
       "222595437858867": {
-        "text": 503,
+        "text": 505,
         "media": 53,
-        "total": 556
+        "total": 558
       },
       "83280154103884": {
         "text": 36,
@@ -3544,9 +3544,9 @@
         "total": 666
       },
       "145381035905262": {
-        "text": 465,
+        "text": 466,
         "media": 153,
-        "total": 618
+        "total": 619
       },
       "53537388122141": {
         "text": 792,
@@ -9950,10 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Camila Designer (92629643563147): Como estão o dia de vocês hein?",
-        "Souza (190864487919667): Chato",
-        "~Gará (83911531044906): O meu ta parado",
-        "Camila Designer (92629643563147): @81991328395336 que horário vai fazer a interação do PV",
         "Camila Designer (92629643563147): Por que? Quer falar sobre?👀",
         "Alexandre Bastos (75797868064796): Trabalhando hoje",
         "Alexandre Bastos (75797868064796): E o seu",
@@ -10449,7 +10445,11 @@
         "Gabriel (145381035905262): Lili cantou",
         "willian (163530946961491): Alvara tá na mão kkkk",
         "Juliano Perlin (222595437858867): Tarde povo",
-        "Juliano Perlin (222595437858867): 🙋🏻‍♂️"
+        "Juliano Perlin (222595437858867): 🙋🏻‍♂️",
+        "Gabriel (145381035905262): Boaaa",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Taaaarrrde",
+        "Juliano Perlin (222595437858867): Oii fofa🤗",
+        "Juliano Perlin (222595437858867): Ta bem?"
       ]
     },
     "120363428464897153@g.us": {
@@ -16943,7 +16943,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Ninguém trabalha nessa porra não?",
         "Gabriel (145381035905262): Mano, que viagem",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Muito triste amiga, vamos morrer",
-        "Gabriel (145381035905262): Ainda falam só tem 10 pessoas 😂😂"
+        "Gabriel (145381035905262): Ainda falam só tem 10 pessoas 😂😂",
+        "Gabriel (145381035905262): Parece que saíram mais encrenqueiros, as caixinhas voltaram a normalidade"
       ]
     },
     "120363411233423709@g.us": {
@@ -17724,6 +17725,30 @@
         "authorName": "Juliano Perlin",
         "text": "🙋🏻‍♂️",
         "timestamp": 1787939737752
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Boaaa",
+        "timestamp": 1787939779033
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Taaaarrrde",
+        "timestamp": 1787939787447
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Oii fofa🤗",
+        "timestamp": 1787939808584
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Ta bem?",
+        "timestamp": 1787939812076
       }
     ],
     "120363428464897153@g.us": [],
@@ -17986,6 +18011,12 @@
         "authorName": "Gabriel",
         "text": "Ainda falam só tem 10 pessoas 😂😂",
         "timestamp": 1787939768168
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Parece que saíram mais encrenqueiros, as caixinhas voltaram a normalidade",
+        "timestamp": 1787939805950
       }
     ],
     "120363411233423709@g.us": [],
@@ -18009,10 +18040,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22142,
+    "120363432018531082@g.us": 22146,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2067,
+    "120363412288900422@g.us": 2068,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -144932,6 +144963,30 @@
         "text": "🙋🏻‍♂️",
         "pushName": "Juliano Perlin",
         "timestamp": 1787939737752
+      },
+      "ACC801C05049F2A01865E60D95568CAD": {
+        "sender": "145381035905262@lid",
+        "text": "Boaaa",
+        "pushName": "Gabriel",
+        "timestamp": 1787939779033
+      },
+      "ACA81E86B8DB4A11598FBA8C2772DCCA": {
+        "sender": "53537388122141@lid",
+        "text": "Taaaarrrde",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787939787447
+      },
+      "AC45765CFE74E99DCE0498C0F70680DC": {
+        "sender": "222595437858867@lid",
+        "text": "Oii fofa🤗",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1787939808584
+      },
+      "AC0A7CA073537AB86046EA96125D0AFF": {
+        "sender": "222595437858867@lid",
+        "text": "Ta bem?",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1787939812076
       }
     },
     "120363428464897153@g.us": {
@@ -195428,6 +195483,12 @@
         "text": "Ainda falam só tem 10 pessoas 😂😂",
         "pushName": "Gabriel",
         "timestamp": 1787939768168
+      },
+      "AC5AE09905C7AC4AA90ACB7F92871B10": {
+        "sender": "145381035905262@lid",
+        "text": "Parece que saíram mais encrenqueiros, as caixinhas voltaram a normalidade",
+        "pushName": "Gabriel",
+        "timestamp": 1787939805950
       }
     },
     "120363411233423709@g.us": {
@@ -198261,10 +198322,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787939737752,
+    "120363432018531082@g.us": 1787939812075,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787939768168,
+    "120363412288900422@g.us": 1787939805950,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
