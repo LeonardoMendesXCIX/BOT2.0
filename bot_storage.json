@@ -2798,9 +2798,9 @@
         "total": 4
       },
       "247020967165997": {
-        "text": 19,
+        "text": 20,
         "media": 1,
-        "total": 20
+        "total": 21
       },
       "206253020176458": {
         "text": 3,
@@ -10126,7 +10126,8 @@
         "Rafael Moura (57707230945348): Oi doutora 😏",
         "Jessica (208958782488665): Hj já tomo meus psico kkkkk",
         "Gabi 💋 (247020967165997): Ferrou cheguei agora",
-        "Gabi 💋 (247020967165997): Mas aceitou um dia na camisa de força"
+        "Gabi 💋 (247020967165997): Mas aceitou um dia na camisa de força",
+        "Gabi 💋 (247020967165997): Ksksks"
       ]
     },
     "120363428464897153@g.us": {
@@ -17049,36 +17050,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "210152934359048",
-        "authorName": "Bruno",
-        "text": "Aah sim , sou de juiz de fora mg",
-        "timestamp": 1787913524384
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Aaah simmm",
-        "timestamp": 1787913536792
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Tô quase me vendendo por um pastel",
-        "timestamp": 1787913552745
-      },
-      {
-        "authorNum": "210152934359048",
-        "authorName": "Bruno",
-        "text": "Floripa, deve ser maneiro ai",
-        "timestamp": 1787913558599
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Daora, e bonito também",
-        "timestamp": 1787913570293
-      },
-      {
         "authorNum": "11171897864256",
         "authorName": "🙃🙃🙃",
         "text": "Bom dia cheguei agora",
@@ -17665,6 +17636,12 @@
         "authorName": "Gabi 💋",
         "text": "Mas aceitou um dia na camisa de força",
         "timestamp": 1787915304658
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Ksksks",
+        "timestamp": 1787915409274
       }
     ],
     "120363428464897153@g.us": [],
@@ -17703,7 +17680,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21364,
+    "120363432018531082@g.us": 21365,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1992,
@@ -139998,6 +139975,12 @@
         "text": "Mas aceitou um dia na camisa de força",
         "pushName": "Gabi 💋",
         "timestamp": 1787915304658
+      },
+      "ACBD35026BA56EB391EAC73CC98680F6": {
+        "sender": "247020967165997@lid",
+        "text": "Ksksks",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787915409274
       }
     },
     "120363428464897153@g.us": {
@@ -192787,7 +192770,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787915317377,
+    "120363432018531082@g.us": 1787915409274,
     "120363428464897153@g.us": 1787913193216,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787914462012,
