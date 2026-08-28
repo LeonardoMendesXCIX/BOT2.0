@@ -184,9 +184,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2198,
+        "text": 2199,
         "media": 471,
-        "total": 2669
+        "total": 2670
       },
       "184237705699536": {
         "text": 524,
@@ -274,9 +274,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2224,
+        "text": 2225,
         "media": 300,
-        "total": 2524
+        "total": 2525
       },
       "252922705240205": {
         "text": 80,
@@ -2744,9 +2744,9 @@
         "total": 1
       },
       "214375055007755": {
-        "text": 1,
+        "text": 2,
         "media": 0,
-        "total": 1
+        "total": 2
       }
     },
     "120363428464897153@g.us": {
@@ -2761,9 +2761,9 @@
         "total": 78
       },
       "81991328395336": {
-        "text": 585,
+        "text": 586,
         "media": 167,
-        "total": 752
+        "total": 753
       },
       "99338701258949": {
         "text": 499,
@@ -9780,7 +9780,10 @@
       ],
       "28/08/2026": [
         "🦅⚡️😍 (163686253629557): 👀",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Caroline n entra mais"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Caroline n entra mais",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindo",
+        "SiLvAa 🕸️ (214375055007755): Obrigada",
+        "Gabriel (145381035905262): Como é amigo, bissexual"
       ]
     },
     "120363428464897153@g.us": {
@@ -13906,7 +13909,8 @@
         "Saul (118515428286715): Deixei quieto",
         "Souza (190864487919667): Vou é dormir",
         "Souza (190864487919667): Até amanhã",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Eu já"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Eu já",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Exato"
       ]
     },
     "120363409727467494@g.us": {
@@ -16599,6 +16603,24 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Caroline n entra mais",
         "timestamp": 1787887384256
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Bem vindo",
+        "timestamp": 1787888507965
+      },
+      {
+        "authorNum": "214375055007755",
+        "authorName": "SiLvAa 🕸️",
+        "text": "Obrigada",
+        "timestamp": 1787888523742
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Como é amigo, bissexual",
+        "timestamp": 1787888527069
       }
     ],
     "120363428464897153@g.us": [
@@ -16703,6 +16725,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Eu já",
         "timestamp": 1787888327882
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Exato",
+        "timestamp": 1787888517940
       }
     ],
     "120363409727467494@g.us": [],
@@ -17292,8 +17320,8 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21094,
-    "120363428464897153@g.us": 6269,
+    "120363432018531082@g.us": 21097,
+    "120363428464897153@g.us": 6270,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1926,
     "120363411233423709@g.us": 5,
@@ -137990,6 +138018,24 @@
         "text": "Caroline n entra mais",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787887384256
+      },
+      "AC6311D464DC1D33FEAB462CC86A0D06": {
+        "sender": "53537388122141@lid",
+        "text": "Bem vindo",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787888507966
+      },
+      "AC9BB71EC5C824C5CB783EEA453C85BC": {
+        "sender": "214375055007755@lid",
+        "text": "Obrigada",
+        "pushName": "SiLvAa 🕸️",
+        "timestamp": 1787888523742
+      },
+      "AC8DEE3B292E08F8197FEB1FA47B524C": {
+        "sender": "145381035905262@lid",
+        "text": "Como é amigo, bissexual",
+        "pushName": "Gabriel",
+        "timestamp": 1787888527069
       }
     },
     "120363428464897153@g.us": {
@@ -174778,6 +174824,12 @@
         "text": "Eu já",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787888327883
+      },
+      "AC91CED87116CF1B686E907DEAA8CEFB": {
+        "sender": "81991328395336@lid",
+        "text": "Exato",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787888517940
       }
     },
     "120363409727467494@g.us": {
@@ -190153,8 +190205,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787888491162,
-    "120363428464897153@g.us": 1787888327882,
+    "120363432018531082@g.us": 1787888527069,
+    "120363428464897153@g.us": 1787888517940,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787888461553,
     "120363411233423709@g.us": 1787113553426,
