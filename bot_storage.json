@@ -275,8 +275,8 @@
       },
       "53537388122141": {
         "text": 2211,
-        "media": 294,
-        "total": 2505
+        "media": 295,
+        "total": 2506
       },
       "252922705240205": {
         "text": 80,
@@ -305,8 +305,8 @@
       },
       "120363432018531082": {
         "text": 315,
-        "media": 81,
-        "total": 396
+        "media": 82,
+        "total": 397
       },
       "97535100252296": {
         "text": 96,
@@ -3405,9 +3405,9 @@
         "total": 552
       },
       "5511927018683": {
-        "text": 438,
+        "text": 439,
         "media": 77,
-        "total": 515
+        "total": 516
       },
       "145381035905262": {
         "text": 369,
@@ -9257,8 +9257,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Jennifer🦋 (205621945192508): Aqui no grupo é melhor KKKkkkkk",
-        "Jennifer🦋 (205621945192508): 😂😂😂😂",
         "willian (163530946961491): Ontem eu quase fui dormir no presídio kkkk",
         "Souza (190864487919667): Bem vinda",
         "Souza (190864487919667): Menino rápido",
@@ -9756,7 +9754,9 @@
         "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Também",
         "Gleydson Souza (274384656834700): Justo kkkk",
         "Gleydson Souza (274384656834700): Eu vou me indo boa noite a todos",
-        "Leandro (+55 (11) 92701-8683): Boa noite meu patrão! 🫡"
+        "Leandro (+55 (11) 92701-8683): Boa noite meu patrão! 🫡",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): @81991328395336",
+        " (120363432018531082): @81991328395336"
       ]
     },
     "120363428464897153@g.us": {
@@ -15827,7 +15827,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Não lembro, tinha?",
         "Leandro (+55 (11) 92701-8683): Acho que não",
         "Leandro (+55 (11) 92701-8683): Deve ser alguém com nome parecido",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Ata"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Ata",
+        "Leandro (+55 (11) 92701-8683): Deixei o conexão liberado para o pessoal entrar, como o bot tá operando normalmente, aí ele vai mandar a ficha de apresentação"
       ]
     },
     "120363411233423709@g.us": {
@@ -16410,6 +16411,18 @@
         "authorName": "Leandro",
         "text": "Boa noite meu patrão! 🫡",
         "timestamp": 1787883100683
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "@81991328395336",
+        "timestamp": 1787883354338
+      },
+      {
+        "authorNum": "120363432018531082",
+        "authorName": "",
+        "text": "@81991328395336",
+        "timestamp": 1787883354722
       }
     ],
     "120363428464897153@g.us": [
@@ -16583,6 +16596,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Ata",
         "timestamp": 1787883138534
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Deixei o conexão liberado para o pessoal entrar, como o bot tá operando normalmente, aí ele vai mandar a ficha de apresentação",
+        "timestamp": 1787883349278
       }
     ],
     "120363411233423709@g.us": [],
@@ -16605,10 +16624,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21058,
+    "120363432018531082@g.us": 21060,
     "120363428464897153@g.us": 6218,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1716,
+    "120363412288900422@g.us": 1717,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -137093,6 +137112,12 @@
         "text": "Boa noite meu patrão! 🫡",
         "pushName": "Leandro",
         "timestamp": 1787883100683
+      },
+      "ACBC9F3A7CCCD66D50F6749ED2678996": {
+        "sender": "120363432018531082@g.us",
+        "text": "@81991328395336",
+        "pushName": "",
+        "timestamp": 1787883354722
       }
     },
     "120363428464897153@g.us": {
@@ -185075,6 +185100,12 @@
         "text": "Ata",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787883138534
+      },
+      "A508C80CDC99DBBAC826883D669E9A0D": {
+        "sender": "54259127210155@lid",
+        "text": "Deixei o conexão liberado para o pessoal entrar, como o bot tá operando normalmente, aí ele vai mandar a ficha de apresentação",
+        "pushName": "Leandro",
+        "timestamp": 1787883349278
       }
     },
     "120363411233423709@g.us": {
@@ -187654,10 +187685,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787883100683,
+    "120363432018531082@g.us": 1787883354722,
     "120363428464897153@g.us": 1787883101464,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787883138534,
+    "120363412288900422@g.us": 1787883349278,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
