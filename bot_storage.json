@@ -2673,9 +2673,9 @@
         "total": 3
       },
       "193729163993156": {
-        "text": 15,
+        "text": 16,
         "media": 5,
-        "total": 20
+        "total": 21
       },
       "151582733820115": {
         "text": 5,
@@ -9865,7 +9865,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Aqui durante o dia \nLá durante a noite",
         "Leandro (+55 (11) 92701-8683): @81991328395336",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Aaa",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): 🤡",
@@ -10364,7 +10363,8 @@
         "Souza (190864487919667): Também",
         "F. RicaRdo sAnToS (193729163993156): Ja ja te explico 🫠🙃",
         "~Gará (83911531044906): Tédio",
-        "Arthur (206253020176458): Eoq"
+        "Arthur (206253020176458): Eoq",
+        "F. RicaRdo sAnToS (193729163993156): Parece que o povo tem tesao em pão 🍞 e com alguma sobremesa kk"
       ]
     },
     "120363428464897153@g.us": {
@@ -17298,18 +17298,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Aos domingos",
-        "timestamp": 1787920438661
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Mas quem quiser, fique a vontade",
-        "timestamp": 1787920460488
-      },
-      {
         "authorNum": "238388519141379",
         "authorName": "Nickolas",
         "text": "Normal ? Ou visu única ?",
@@ -17500,6 +17488,12 @@
         "authorName": "Arthur",
         "text": "Eoq",
         "timestamp": 1787922173781
+      },
+      {
+        "authorNum": "193729163993156",
+        "authorName": "F. RicaRdo sAnToS",
+        "text": "Parece que o povo tem tesao em pão 🍞 e com alguma sobremesa kk",
+        "timestamp": 1787922289089
       }
     ],
     "120363428464897153@g.us": [],
@@ -17580,7 +17574,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21663,
+    "120363432018531082@g.us": 21664,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2003,
@@ -141668,6 +141662,12 @@
         "text": "Eoq",
         "pushName": "Arthur",
         "timestamp": 1787922173781
+      },
+      "AC7E20E083AF2E7219BC75BBA949466A": {
+        "sender": "193729163993156@lid",
+        "text": "Parece que o povo tem tesao em pão 🍞 e com alguma sobremesa kk",
+        "pushName": "F. RicaRdo sAnToS",
+        "timestamp": 1787922289089
       }
     },
     "120363428464897153@g.us": {
@@ -194523,7 +194523,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787922248445,
+    "120363432018531082@g.us": 1787922289089,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787921575912,
