@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2268,
+        "text": 2269,
         "media": 309,
-        "total": 2577
+        "total": 2578
       },
       "252922705240205": {
         "text": 80,
@@ -9895,7 +9895,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindaaaa",
         "Souza (190864487919667): Maravilhosa ela",
         "Gabi 💋 (247020967165997): Obrigada",
         "Juliano Perlin (222595437858867): Bom diaa🤗",
@@ -10394,7 +10393,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Obrigada pela figurinha",
         "Bruno Aguiar (+1395881181241): Sempre na ativa,sem perder tempo",
         "Dany (262182034002040): Opa! Só chamar!",
-        "Dany (262182034002040): Dou sim"
+        "Dany (262182034002040): Dou sim",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Exatamente"
       ]
     },
     "120363428464897153@g.us": {
@@ -17335,18 +17335,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "262182034002040",
-        "authorName": "Dany",
-        "text": "Tá indo… tô fazendo umas atividades mais de boas com os alunos então tá indo bem hahahha",
-        "timestamp": 1787924350312
-      },
-      {
-        "authorNum": "262182034002040",
-        "authorName": "Dany",
-        "text": "Eu!",
-        "timestamp": 1787924358902
-      },
-      {
         "authorNum": "238388519141379",
         "authorName": "Nickolas",
         "text": "Você professora de que ?",
@@ -17513,6 +17501,12 @@
         "authorName": "Dany",
         "text": "Dou sim",
         "timestamp": 1787925530489
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Exatamente",
+        "timestamp": 1787926197629
       }
     ],
     "120363428464897153@g.us": [],
@@ -17539,7 +17533,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21726,
+    "120363432018531082@g.us": 21727,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2010,
@@ -141998,6 +141992,12 @@
         "text": "Dou sim",
         "pushName": "Dany",
         "timestamp": 1787925530489
+      },
+      "ACD547967908E68CBF51AA02752FAF28": {
+        "sender": "53537388122141@lid",
+        "text": "Exatamente",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787926197629
       }
     },
     "120363428464897153@g.us": {
@@ -194895,7 +194895,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787925530489,
+    "120363432018531082@g.us": 1787926197629,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787924999186,
