@@ -2603,9 +2603,9 @@
         "total": 23
       },
       "190864487919667": {
-        "text": 224,
+        "text": 225,
         "media": 39,
-        "total": 263
+        "total": 264
       },
       "82227819987089": {
         "text": 2,
@@ -2663,9 +2663,9 @@
         "total": 77
       },
       "172868239380659": {
-        "text": 121,
+        "text": 122,
         "media": 20,
-        "total": 141
+        "total": 142
       },
       "170455038193841": {
         "text": 1,
@@ -10212,7 +10212,9 @@
         "Gabi 💋 (247020967165997): Eita entendi foi tudo",
         "Gabi 💋 (247020967165997): E muito molho verde",
         "Gabi 💋 (247020967165997): Vai falar que é pq você quer",
-        "Pedro Henrique (172868239380659): Lá em São Sebastião, lugar longe kkk"
+        "Pedro Henrique (172868239380659): Lá em São Sebastião, lugar longe kkk",
+        "Souza (190864487919667): Tu merece é uma peia",
+        "Pedro Henrique (172868239380659): Oxe, tu namora a cada dois meses?"
       ]
     },
     "120363428464897153@g.us": {
@@ -17136,66 +17138,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Oh meu já se foi",
-        "timestamp": 1787914869470
-      },
-      {
-        "authorNum": "262182034002040",
-        "authorName": "Dany",
-        "text": "Oi amor!",
-        "timestamp": 1787914873247
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Acabei com ele no mesmo dia",
-        "timestamp": 1787914876119
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Sou do Maranhão",
-        "timestamp": 1787914879218
-      },
-      {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Nossa senhora",
-        "timestamp": 1787914882544
-      },
-      {
-        "authorNum": "262182034002040",
-        "authorName": "Dany",
-        "text": "Hahahahha",
-        "timestamp": 1787914896940
-      },
-      {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Eu preciso dosar o uso pq senão acaba em 5 dias",
-        "timestamp": 1787914899106
-      },
-      {
-        "authorNum": "199733712785531",
-        "authorName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
-        "text": "Ah sim",
-        "timestamp": 1787914900247
-      },
-      {
-        "authorNum": "199733712785531",
-        "authorName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
-        "text": "Oii amor 🥰",
-        "timestamp": 1787914907884
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Bem isso",
-        "timestamp": 1787914909383
-      },
-      {
         "authorNum": "208958782488665",
         "authorName": "Jessica",
         "text": "Hoje tô toda na paleta rosa",
@@ -17806,6 +17748,18 @@
         "authorName": "Pedro Henrique",
         "text": "Lá em São Sebastião, lugar longe kkk",
         "timestamp": 1787916664795
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Tu merece é uma peia",
+        "timestamp": 1787916714447
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Oxe, tu namora a cada dois meses?",
+        "timestamp": 1787916726596
       }
     ],
     "120363428464897153@g.us": [],
@@ -17832,7 +17786,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21450,
+    "120363432018531082@g.us": 21452,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -140642,6 +140596,18 @@
         "text": "Lá em São Sebastião, lugar longe kkk",
         "pushName": "Pedro Henrique",
         "timestamp": 1787916664795
+      },
+      "AC837EC615FDD21924DB9EC74E7397A2": {
+        "sender": "190864487919667@lid",
+        "text": "Tu merece é uma peia",
+        "pushName": "Souza",
+        "timestamp": 1787916714447
+      },
+      "AC4186557CE6A7343FA87EC8D86FBB1C": {
+        "sender": "172868239380659@lid",
+        "text": "Oxe, tu namora a cada dois meses?",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787916726597
       }
     },
     "120363428464897153@g.us": {
@@ -193437,7 +193403,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787916694904,
+    "120363432018531082@g.us": 1787916726596,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
