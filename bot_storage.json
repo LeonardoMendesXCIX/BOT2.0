@@ -253,9 +253,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1468,
-        "media": 1102,
-        "total": 2570
+        "text": 1470,
+        "media": 1104,
+        "total": 2574
       },
       "3126803329115": {
         "text": 87,
@@ -2783,9 +2783,9 @@
         "total": 1
       },
       "37826582323373": {
-        "text": 7,
+        "text": 9,
         "media": 2,
-        "total": 9
+        "total": 11
       },
       "279628962885736": {
         "text": 1,
@@ -9865,9 +9865,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Jk (120542904463568): Legal",
-        "Leandro (+55 (11) 92701-8683): Até tu usando essa?",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Só que assuntos mais fora do eixo é no Kbaré",
         "Leandro (+55 (11) 92701-8683): Fora da curva",
         "Leandro (+55 (11) 92701-8683): Acesse este link para entrar no meu grupo do WhatsApp: https://chat.whatsapp.com/CS9G5GGA1nq0Ix6dP4CQX5?s=sw&p=a&mlu=4",
         "Leandro (+55 (11) 92701-8683): Fiquem a vontade para conhecer o kbaré da lalay",
@@ -10364,7 +10361,10 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Sejam bem vindo jovem🤝🫡",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindo!",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindo",
-        "~Gará (83911531044906): Obg"
+        "~Gará (83911531044906): Obg",
+        "eduardo (37826582323373): eita 😘",
+        "Camila Designer (92629643563147): Sejam todos bem vindos!",
+        "Camila Designer (92629643563147): Voltei, alguém me atualize 👀"
       ]
     },
     "120363428464897153@g.us": {
@@ -17364,6 +17364,24 @@
         "authorName": "~Gará",
         "text": "Obg",
         "timestamp": 1787921051212
+      },
+      {
+        "authorNum": "37826582323373",
+        "authorName": "eduardo",
+        "text": "eita 😘",
+        "timestamp": 1787921140149
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Sejam todos bem vindos!",
+        "timestamp": 1787921151685
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Voltei, alguém me atualize 👀",
+        "timestamp": 1787921167566
       }
     ],
     "120363428464897153@g.us": [],
@@ -17383,7 +17401,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21637,
+    "120363432018531082@g.us": 21640,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -141315,6 +141333,24 @@
         "text": "Obg",
         "pushName": "~Gará",
         "timestamp": 1787921051212
+      },
+      "ACFEFE99DBAB5CD4C35689F1668CFFB4": {
+        "sender": "37826582323373@lid",
+        "text": "eita 😘",
+        "pushName": "eduardo",
+        "timestamp": 1787921140149
+      },
+      "2AD4FFE6804D65EDDDAC": {
+        "sender": "92629643563147@lid",
+        "text": "Sejam todos bem vindos!",
+        "pushName": "Camila Designer",
+        "timestamp": 1787921151685
+      },
+      "2A8DC2D77C1B3D35E0A7": {
+        "sender": "92629643563147@lid",
+        "text": "Voltei, alguém me atualize 👀",
+        "pushName": "Camila Designer",
+        "timestamp": 1787921167566
       }
     },
     "120363428464897153@g.us": {
@@ -194110,7 +194146,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787921051212,
+    "120363432018531082@g.us": 1787921178351,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787920577610,
