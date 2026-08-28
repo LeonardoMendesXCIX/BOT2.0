@@ -2629,8 +2629,8 @@
       },
       "75797868064796": {
         "text": 16,
-        "media": 35,
-        "total": 51
+        "media": 37,
+        "total": 53
       },
       "153764728184839": {
         "text": 2,
@@ -2663,9 +2663,9 @@
         "total": 77
       },
       "172868239380659": {
-        "text": 95,
+        "text": 96,
         "media": 15,
-        "total": 110
+        "total": 111
       },
       "170455038193841": {
         "text": 1,
@@ -10127,7 +10127,8 @@
         "Jessica (208958782488665): Hj já tomo meus psico kkkkk",
         "Gabi 💋 (247020967165997): Ferrou cheguei agora",
         "Gabi 💋 (247020967165997): Mas aceitou um dia na camisa de força",
-        "Gabi 💋 (247020967165997): Ksksks"
+        "Gabi 💋 (247020967165997): Ksksks",
+        "Pedro Henrique (172868239380659): Será que já está valendo a lei que passa em todo os lugares? vou procurar uns cabaré"
       ]
     },
     "120363428464897153@g.us": {
@@ -17050,18 +17051,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "11171897864256",
-        "authorName": "🙃🙃🙃",
-        "text": "Bom dia cheguei agora",
-        "timestamp": 1787913615917
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Era eu e @54259127210155 \nAcordados",
-        "timestamp": 1787913647550
-      },
-      {
         "authorNum": "81991328395336",
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Meu sono é parcelado",
@@ -17642,6 +17631,12 @@
         "authorName": "Gabi 💋",
         "text": "Ksksks",
         "timestamp": 1787915409274
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Será que já está valendo a lei que passa em todo os lugares? vou procurar uns cabaré",
+        "timestamp": 1787915457213
       }
     ],
     "120363428464897153@g.us": [],
@@ -17680,7 +17675,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21365,
+    "120363432018531082@g.us": 21366,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1992,
@@ -17737,7 +17732,6 @@
       "136408815665242@lid",
       "219980373176429@lid",
       "180285564035215@lid",
-      "138397217734812@lid",
       "120542904463568@lid"
     ],
     "120363432018531082@g.us": [],
@@ -139981,6 +139975,12 @@
         "text": "Ksksks",
         "pushName": "Gabi 💋",
         "timestamp": 1787915409274
+      },
+      "AC7CF61E3999F9AB5241CD15DA089006": {
+        "sender": "172868239380659@lid",
+        "text": "Será que já está valendo a lei que passa em todo os lugares? vou procurar uns cabaré",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787915457213
       }
     },
     "120363428464897153@g.us": {
@@ -192770,7 +192770,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787915409274,
+    "120363432018531082@g.us": 1787915470498,
     "120363428464897153@g.us": 1787913193216,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787914462012,
