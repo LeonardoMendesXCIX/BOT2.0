@@ -173,9 +173,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1535,
+        "text": 1536,
         "media": 424,
-        "total": 1959
+        "total": 1960
       },
       "81991328395336": {
         "text": 3923,
@@ -1953,9 +1953,9 @@
         "total": 5
       },
       "83911531044906": {
-        "text": 66,
+        "text": 68,
         "media": 4,
-        "total": 70
+        "total": 72
       },
       "172864548434113": {
         "text": 42,
@@ -2603,9 +2603,9 @@
         "total": 30
       },
       "190864487919667": {
-        "text": 304,
+        "text": 306,
         "media": 44,
-        "total": 348
+        "total": 350
       },
       "82227819987089": {
         "text": 2,
@@ -9900,11 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Pedro Henrique (172868239380659): Cuidado, ela vai achar que significa algo",
-        "𝔞𝔩𝔦𝔫𝔢🫶🏽 (221307534876912): Kkkk",
-        "Rafael Moura (57707230945348): Aline so botando lenha na fogueira",
-        "Pedro Henrique (172868239380659): Calma, rodada.",
-        "Gabi 💋 (247020967165997): Calma miojo",
         "𝔞𝔩𝔦𝔫𝔢🫶🏽 (221307534876912): Amooo kkkk",
         "Rafael Moura (57707230945348): @221307534876912 calma vamos ficar de 👀",
         "Rafael Moura (57707230945348): Cade a doutora",
@@ -10399,7 +10394,12 @@
         "Celiete Souza (129373172711439): Isso vai depender da conexão, na minha opinião pode sim acontecer e ser maravilhoso",
         "Souza (190864487919667): Mas ir pro primeiro encontro já pensando nisso, pra mim não rola",
         "Souza (190864487919667): Deixa fluir",
-        "Celiete Souza (129373172711439): Deixar fluir, sem pressão, e outra a mulher sabe e senti sobre as intenções do homem."
+        "Celiete Souza (129373172711439): Deixar fluir, sem pressão, e outra a mulher sabe e senti sobre as intenções do homem.",
+        "~Gará (83911531044906): Kkkk",
+        "Souza (190864487919667): Continuando a fofoca",
+        "Souza (190864487919667): Meteram política no meio também",
+        "Celiete Souza (129373172711439): Política?",
+        "~Gará (83911531044906): Concordo"
       ]
     },
     "120363428464897153@g.us": {
@@ -17344,12 +17344,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Primeiramente qual a idade , dependendo da idade aí eu e a bebê pensamos se mandamos a lista",
-        "timestamp": 1787929317688
-      },
-      {
         "authorNum": "193729163993156",
         "authorName": "F. RicaRdo sAnToS",
         "text": "Cuidado com os cara q tem perfil nas gestantes @108461127897146",
@@ -17864,6 +17858,36 @@
         "authorName": "Celiete Souza",
         "text": "Deixar fluir, sem pressão, e outra a mulher sabe e senti sobre as intenções do homem.",
         "timestamp": 1787931085223
+      },
+      {
+        "authorNum": "83911531044906",
+        "authorName": "~Gará",
+        "text": "Kkkk",
+        "timestamp": 1787931092411
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Continuando a fofoca",
+        "timestamp": 1787931101570
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Meteram política no meio também",
+        "timestamp": 1787931107794
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Política?",
+        "timestamp": 1787931118141
+      },
+      {
+        "authorNum": "83911531044906",
+        "authorName": "~Gará",
+        "text": "Concordo",
+        "timestamp": 1787931122871
       }
     ],
     "120363428464897153@g.us": [],
@@ -17896,7 +17920,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21971,
+    "120363432018531082@g.us": 21976,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -143806,6 +143830,36 @@
         "text": "Deixar fluir, sem pressão, e outra a mulher sabe e senti sobre as intenções do homem.",
         "pushName": "Celiete Souza",
         "timestamp": 1787931085223
+      },
+      "AC9D96BAF7CE593B16D5724B238D60F2": {
+        "sender": "83911531044906@lid",
+        "text": "Kkkk",
+        "pushName": "~Gará",
+        "timestamp": 1787931092411
+      },
+      "ACCA8212559DF58DC8FC8E7B5DDA594E": {
+        "sender": "190864487919667@lid",
+        "text": "Continuando a fofoca",
+        "pushName": "Souza",
+        "timestamp": 1787931101570
+      },
+      "AC79952D4B7350CA19B056225219B6EE": {
+        "sender": "190864487919667@lid",
+        "text": "Meteram política no meio também",
+        "pushName": "Souza",
+        "timestamp": 1787931107794
+      },
+      "AC3AD0487E7726B4F4615914B660BD89": {
+        "sender": "129373172711439@lid",
+        "text": "Política?",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787931118141
+      },
+      "ACAC04CC96C09112B69F0781A297711C": {
+        "sender": "83911531044906@lid",
+        "text": "Concordo",
+        "pushName": "~Gará",
+        "timestamp": 1787931122871
       }
     },
     "120363428464897153@g.us": {
@@ -196727,7 +196781,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787931085223,
+    "120363432018531082@g.us": 1787931122871,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
