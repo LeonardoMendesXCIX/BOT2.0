@@ -3549,9 +3549,9 @@
         "total": 598
       },
       "53537388122141": {
-        "text": 782,
+        "text": 785,
         "media": 60,
-        "total": 842
+        "total": 845
       },
       "120363412288900422": {
         "text": 1,
@@ -16872,7 +16872,9 @@
         "Leandro (+55 (11) 92701-8683): Boa tarde a @all",
         "Leandro (+55 (11) 92701-8683): Como vocês estão galera? Todos bem?",
         "Gabriel (145381035905262): Tô trabalhando",
-        "Gabriel (145381035905262): Mais tarde apareço"
+        "Gabriel (145381035905262): Mais tarde apareço",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Boa tarde a @all adms",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Como estão?m"
       ]
     },
     "120363411233423709@g.us": {
@@ -17390,36 +17392,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Vai um cafezinho após o almoço?",
-        "timestamp": 1787932639690
-      },
-      {
-        "authorNum": "78143406768201",
-        "authorName": "Kamila",
-        "text": "Oiê gente",
-        "timestamp": 1787932693632
-      },
-      {
-        "authorNum": "83911531044906",
-        "authorName": "~Gará",
-        "text": "Oiii",
-        "timestamp": 1787932715991
-      },
-      {
-        "authorNum": "78143406768201",
-        "authorName": "Kamila",
-        "text": "Tudo bem",
-        "timestamp": 1787932722931
-      },
-      {
-        "authorNum": "83911531044906",
-        "authorName": "~Gará",
-        "text": "Tudo,e vc como ta?",
-        "timestamp": 1787932739157
-      },
-      {
         "authorNum": "206253020176458",
         "authorName": "Arthur",
         "text": "Ss e com vc",
@@ -17704,6 +17676,18 @@
         "authorName": "Gabriel",
         "text": "Mais tarde apareço",
         "timestamp": 1787934085129
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Boa tarde a @all adms",
+        "timestamp": 1787934628645
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Como estão?m",
+        "timestamp": 1787934630264
       }
     ],
     "120363411233423709@g.us": [],
@@ -17754,7 +17738,7 @@
     "120363432018531082@g.us": 22074,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2016,
+    "120363412288900422@g.us": 2018,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -194463,6 +194447,18 @@
         "text": "Mais tarde apareço",
         "pushName": "Gabriel",
         "timestamp": 1787934085129
+      },
+      "ACD9443B04B35946655348CFDB478959": {
+        "sender": "53537388122141@lid",
+        "text": "Boa tarde a @all adms",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787934628645
+      },
+      "AC9AECC0E5FA4945383629F60D9A5F5A": {
+        "sender": "53537388122141@lid",
+        "text": "Como estão?m",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787934630264
       }
     },
     "120363411233423709@g.us": {
@@ -197293,7 +197289,7 @@
     "120363432018531082@g.us": 1787934435046,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787934085129,
+    "120363412288900422@g.us": 1787934635399,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
