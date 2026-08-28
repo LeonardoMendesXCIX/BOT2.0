@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2230,
+        "text": 2231,
         "media": 302,
-        "total": 2532
+        "total": 2533
       },
       "252922705240205": {
         "text": 80,
@@ -9978,7 +9978,8 @@
         "Souza (190864487919667): Maravilhosa ela",
         "Gabi 💋 (247020967165997): Obrigada",
         "Juliano Perlin (222595437858867): Bom diaa🤗",
-        "Juliano Perlin (222595437858867): Ta bemm??"
+        "Juliano Perlin (222595437858867): Ta bemm??",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tô bem e você??"
       ]
     },
     "120363428464897153@g.us": {
@@ -16898,12 +16899,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "108268240302270",
-        "authorName": "Edison Medeiros💚",
-        "text": "Bom dia",
-        "timestamp": 1787910808872
-      },
-      {
         "authorNum": "129978696003832",
         "authorName": "PAULO PEREIRA",
         "text": "Nome : Paulo Pereira \nIdade : 32 \nCidade : São Carlos-SP",
@@ -17028,6 +17023,12 @@
         "authorName": "Juliano Perlin",
         "text": "Ta bemm??",
         "timestamp": 1787912599602
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Tô bem e você??",
+        "timestamp": 1787912644286
       }
     ],
     "120363428464897153@g.us": [],
@@ -17047,7 +17048,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21231,
+    "120363432018531082@g.us": 21232,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1989,
@@ -138550,6 +138551,12 @@
         "text": "Ta bemm??",
         "pushName": "Juliano Perlin",
         "timestamp": 1787912599602
+      },
+      "ACD9E706D431EDB9E5B33D95CFEE1BD6": {
+        "sender": "53537388122141@lid",
+        "text": "Tô bem e você??",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787912644286
       }
     },
     "120363428464897153@g.us": {
@@ -191321,7 +191328,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787912599602,
+    "120363432018531082@g.us": 1787912644286,
     "120363428464897153@g.us": 1787912432171,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787894166886,
