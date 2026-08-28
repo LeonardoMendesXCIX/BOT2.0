@@ -173,9 +173,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1536,
+        "text": 1539,
         "media": 424,
-        "total": 1960
+        "total": 1963
       },
       "81991328395336": {
         "text": 3923,
@@ -2858,9 +2858,9 @@
         "total": 4
       },
       "263797142995147": {
-        "text": 55,
+        "text": 56,
         "media": 4,
-        "total": 59
+        "total": 60
       }
     },
     "120363428464897153@g.us": {
@@ -9900,9 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "𝔞𝔩𝔦𝔫𝔢🫶🏽 (221307534876912): Amooo kkkk",
-        "Rafael Moura (57707230945348): @221307534876912 calma vamos ficar de 👀",
-        "Rafael Moura (57707230945348): Cade a doutora",
         "Pedro Henrique (172868239380659): Vc não come miojo?",
         "Gabi 💋 (247020967165997): Tu não entendeu",
         "𝔞𝔩𝔦𝔫𝔢🫶🏽 (221307534876912): Tá vou ficar caladinha aqui",
@@ -10399,7 +10396,10 @@
         "Souza (190864487919667): Continuando a fofoca",
         "Souza (190864487919667): Meteram política no meio também",
         "Celiete Souza (129373172711439): Política?",
-        "~Gará (83911531044906): Concordo"
+        "~Gará (83911531044906): Concordo",
+        "Celiete Souza (129373172711439): Política, religião não se discute",
+        "Nanda (263797142995147): sim, da pra perceber muita coisa no primeiro encontro",
+        "Celiete Souza (129373172711439): Cada um no seu quadrado kkkk e respeito"
       ]
     },
     "120363428464897153@g.us": {
@@ -17344,12 +17344,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "193729163993156",
-        "authorName": "F. RicaRdo sAnToS",
-        "text": "Cuidado com os cara q tem perfil nas gestantes @108461127897146",
-        "timestamp": 1787929333501
-      },
-      {
         "authorNum": "83911531044906",
         "authorName": "~Gará",
         "text": "Tenho 33",
@@ -17888,6 +17882,24 @@
         "authorName": "~Gará",
         "text": "Concordo",
         "timestamp": 1787931122871
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Política, religião não se discute",
+        "timestamp": 1787931132023
+      },
+      {
+        "authorNum": "263797142995147",
+        "authorName": "Nanda",
+        "text": "sim, da pra perceber muita coisa no primeiro encontro",
+        "timestamp": 1787931149569
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Cada um no seu quadrado kkkk e respeito",
+        "timestamp": 1787931154786
       }
     ],
     "120363428464897153@g.us": [],
@@ -17920,7 +17932,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21976,
+    "120363432018531082@g.us": 21979,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -143860,6 +143872,24 @@
         "text": "Concordo",
         "pushName": "~Gará",
         "timestamp": 1787931122871
+      },
+      "AC04FE638C7536711E8E0C3EFDC7D7E4": {
+        "sender": "129373172711439@lid",
+        "text": "Política, religião não se discute",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787931132023
+      },
+      "AC7CB1A879CB8419CCF64433466E3BB3": {
+        "sender": "263797142995147@lid",
+        "text": "sim, da pra perceber muita coisa no primeiro encontro",
+        "pushName": "Nanda",
+        "timestamp": 1787931149569
+      },
+      "AC18D13F9787E94EA397FD3C7F8A559C": {
+        "sender": "129373172711439@lid",
+        "text": "Cada um no seu quadrado kkkk e respeito",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787931154786
       }
     },
     "120363428464897153@g.us": {
@@ -196781,7 +196811,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787931122871,
+    "120363432018531082@g.us": 1787931159893,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
