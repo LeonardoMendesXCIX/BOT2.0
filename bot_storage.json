@@ -2858,9 +2858,9 @@
         "total": 4
       },
       "263797142995147": {
-        "text": 61,
+        "text": 63,
         "media": 4,
-        "total": 65
+        "total": 67
       }
     },
     "120363428464897153@g.us": {
@@ -9950,8 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "jaciara (108461127897146): Logo logo estou de volta no Goiás",
-        "jaciara (108461127897146): Tudo bem ?",
         "Souza (190864487919667): Mais quente ainda",
         "F. RicaRdo sAnToS (193729163993156): Tudo jóia 💎",
         "Souza (190864487919667): Amém",
@@ -10449,7 +10447,9 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Muito obrigada 😊",
         "jaciara (108461127897146): Acho interessante kkkk",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): 👀👀",
-        "jaciara (108461127897146): O ruim é que sou curiosa"
+        "jaciara (108461127897146): O ruim é que sou curiosa",
+        "Nanda (263797142995147): isso é da onde?",
+        "Nanda (263797142995147): nem sabia q ainda existia isso"
       ]
     },
     "120363428464897153@g.us": {
@@ -17652,6 +17652,18 @@
         "authorName": "jaciara",
         "text": "O ruim é que sou curiosa",
         "timestamp": 1787947163476
+      },
+      {
+        "authorNum": "263797142995147",
+        "authorName": "Nanda",
+        "text": "isso é da onde?",
+        "timestamp": 1787947197386
+      },
+      {
+        "authorNum": "263797142995147",
+        "authorName": "Nanda",
+        "text": "nem sabia q ainda existia isso",
+        "timestamp": 1787947207399
       }
     ],
     "120363428464897153@g.us": [],
@@ -17678,7 +17690,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22346,
+    "120363432018531082@g.us": 22348,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -145813,6 +145825,18 @@
         "text": "O ruim é que sou curiosa",
         "pushName": "jaciara",
         "timestamp": 1787947163476
+      },
+      "ACC25648F579EE77CC1427ED4283070D": {
+        "sender": "263797142995147@lid",
+        "text": "isso é da onde?",
+        "pushName": "Nanda",
+        "timestamp": 1787947197387
+      },
+      "AC5F1A902903A2B8E23C55C967565083": {
+        "sender": "263797142995147@lid",
+        "text": "nem sabia q ainda existia isso",
+        "pushName": "Nanda",
+        "timestamp": 1787947207399
       }
     },
     "120363428464897153@g.us": {
@@ -199286,7 +199310,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787947163476,
+    "120363432018531082@g.us": 1787947207399,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
