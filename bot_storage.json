@@ -178,9 +178,9 @@
         "total": 1946
       },
       "81991328395336": {
-        "text": 3921,
+        "text": 3922,
         "media": 1326,
-        "total": 5247
+        "total": 5248
       },
       "179040627490824": {
         "text": 433,
@@ -2628,9 +2628,9 @@
         "total": 46
       },
       "75797868064796": {
-        "text": 27,
+        "text": 28,
         "media": 88,
-        "total": 115
+        "total": 116
       },
       "153764728184839": {
         "text": 2,
@@ -2673,9 +2673,9 @@
         "total": 3
       },
       "193729163993156": {
-        "text": 16,
+        "text": 17,
         "media": 5,
-        "total": 21
+        "total": 22
       },
       "151582733820115": {
         "text": 5,
@@ -2828,9 +2828,9 @@
         "total": 1
       },
       "94227841179800": {
-        "text": 0,
+        "text": 1,
         "media": 1,
-        "total": 1
+        "total": 2
       }
     },
     "120363428464897153@g.us": {
@@ -9870,10 +9870,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @54259127210155",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Vem conversa tbm",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Parem de manda caixinha",
-        "Leandro (+55 (11) 92701-8683): Então",
         "Leandro (+55 (11) 92701-8683): Em vez de conversar, mandam caixinha",
         "Leandro (+55 (11) 92701-8683): 😒",
         "Leandro (+55 (11) 92701-8683): Partiu a mimir... 😴",
@@ -10369,7 +10365,11 @@
         "Camila Designer (92629643563147): 🤣🤣🤣🤣🤣",
         "amanda🫶 (94227841179800): 💥 BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Queremos conhecer você! \n💬 Nome:amanda\n🎂 Idade:34anos\n📍 De onde sou:Rj\n\n*🫶🏻 Seja bem-vindo(a)!*",
         " (120363432018531082): 💥 BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Queremos conhecer você! \n💬 Nome:amanda\n🎂 Idade:34anos\n📍 De onde sou:Rj\n\n*🫶🏻 Seja bem-vindo(a)!*",
-        "Alexandre Bastos (75797868064796): Bem vinda"
+        "Alexandre Bastos (75797868064796): Bem vinda",
+        "amanda🫶 (94227841179800): Obg:)",
+        "F. RicaRdo sAnToS (193729163993156): Bem-vinda",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Bem  vinda 🫡🩷",
+        "Alexandre Bastos (75797868064796): Do RJ tbm"
       ]
     },
     "120363428464897153@g.us": {
@@ -17306,18 +17306,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Bem vindo",
-        "timestamp": 1787921030808
-      },
-      {
-        "authorNum": "83911531044906",
-        "authorName": "~Gará",
-        "text": "Obg",
-        "timestamp": 1787921051212
-      },
-      {
         "authorNum": "37826582323373",
         "authorName": "eduardo",
         "text": "eita 😘",
@@ -17508,6 +17496,30 @@
         "authorName": "Alexandre Bastos",
         "text": "Bem vinda",
         "timestamp": 1787922825977
+      },
+      {
+        "authorNum": "94227841179800",
+        "authorName": "amanda🫶",
+        "text": "Obg:)",
+        "timestamp": 1787922849475
+      },
+      {
+        "authorNum": "193729163993156",
+        "authorName": "F. RicaRdo sAnToS",
+        "text": "Bem-vinda",
+        "timestamp": 1787922871505
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Bem  vinda 🫡🩷",
+        "timestamp": 1787922872110
+      },
+      {
+        "authorNum": "75797868064796",
+        "authorName": "Alexandre Bastos",
+        "text": "Do RJ tbm",
+        "timestamp": 1787922885845
       }
     ],
     "120363428464897153@g.us": [],
@@ -17606,7 +17618,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21669,
+    "120363432018531082@g.us": 21673,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2006,
@@ -141724,6 +141736,30 @@
         "text": "Bem vinda",
         "pushName": "Alexandre Bastos",
         "timestamp": 1787922825977
+      },
+      "AC4241F3D28A72A9DDCCA48FE415332D": {
+        "sender": "94227841179800@lid",
+        "text": "Obg:)",
+        "pushName": "amanda🫶",
+        "timestamp": 1787922849475
+      },
+      "AC140AC88098B5266357D7433805083D": {
+        "sender": "193729163993156@lid",
+        "text": "Bem-vinda",
+        "pushName": "F. RicaRdo sAnToS",
+        "timestamp": 1787922871506
+      },
+      "AC39D35061836863ECBB8790CB662DE6": {
+        "sender": "81991328395336@lid",
+        "text": "Bem  vinda 🫡🩷",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787922872110
+      },
+      "ACEC84DB73C35D5B84456295EF93017F": {
+        "sender": "75797868064796@lid",
+        "text": "Do RJ tbm",
+        "pushName": "Alexandre Bastos",
+        "timestamp": 1787922885845
       }
     },
     "120363428464897153@g.us": {
@@ -194597,7 +194633,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787922825977,
+    "120363432018531082@g.us": 1787922885845,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787922745298,
