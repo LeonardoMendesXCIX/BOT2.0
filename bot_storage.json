@@ -2603,9 +2603,9 @@
         "total": 30
       },
       "190864487919667": {
-        "text": 302,
+        "text": 304,
         "media": 44,
-        "total": 346
+        "total": 348
       },
       "82227819987089": {
         "text": 2,
@@ -3935,9 +3935,9 @@
         "total": 136
       },
       "5511927018683": {
-        "text": 52,
+        "text": 53,
         "media": 10,
-        "total": 62
+        "total": 63
       },
       "30486281900223": {
         "text": 1,
@@ -9900,8 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Gabi 💋 (247020967165997): Pra tu caçar no puteiro e eu que sou rodada",
-        "Rafael Moura (57707230945348): Nem falo meu tempo de solterice🙈",
         "Gabi 💋 (247020967165997): Quem deve está com doença é tu",
         "Pedro Henrique (172868239380659): Cuidado, ela vai achar que significa algo",
         "𝔞𝔩𝔦𝔫𝔢🫶🏽 (221307534876912): Kkkk",
@@ -10399,7 +10397,9 @@
         "Souza (190864487919667): Beleza, acredito",
         "Celiete Souza (129373172711439): Aí complica, na minha opinião o homem que for cavalheiro não deixa isto acontecer",
         "jaciara (108461127897146): Hoje me dia os homens querem ir pra casa da mulher no primeiro encontro kkkkkk",
-        "Celiete Souza (129373172711439): Isso vai depender da conexão, na minha opinião pode sim acontecer e ser maravilhoso"
+        "Celiete Souza (129373172711439): Isso vai depender da conexão, na minha opinião pode sim acontecer e ser maravilhoso",
+        "Souza (190864487919667): Mas ir pro primeiro encontro já pensando nisso, pra mim não rola",
+        "Souza (190864487919667): Deixa fluir"
       ]
     },
     "120363428464897153@g.us": {
@@ -17313,7 +17313,8 @@
         "Leandro (+55 (11) 92701-8683): Eita kgai",
         "Leandro (+55 (11) 92701-8683): !fechar",
         "Leandro (+55 (11) 92701-8683): Pqp",
-        "Leandro (+55 (11) 92701-8683): Se for com a boca de baixo 🤭"
+        "Leandro (+55 (11) 92701-8683): Se for com a boca de baixo 🤭",
+        "Leandro (+55 (11) 92701-8683): !abrir"
       ]
     },
     "120363411043114631@g.us": {
@@ -17341,24 +17342,6 @@
   },
   "memoryCluster": {
     "120363432018531082@g.us": [
-      {
-        "authorNum": "83911531044906",
-        "authorName": "~Gará",
-        "text": "Oq tem?\nRsrs",
-        "timestamp": 1787929214017
-      },
-      {
-        "authorNum": "193729163993156",
-        "authorName": "F. RicaRdo sAnToS",
-        "text": "De costas tbm ķkk",
-        "timestamp": 1787929236915
-      },
-      {
-        "authorNum": "1395881181241",
-        "authorName": "Bruno Aguiar",
-        "text": "Merece🫶🏼",
-        "timestamp": 1787929242889
-      },
       {
         "authorNum": "190864487919667",
         "authorName": "Souza",
@@ -17880,6 +17863,18 @@
         "authorName": "Celiete Souza",
         "text": "Isso vai depender da conexão, na minha opinião pode sim acontecer e ser maravilhoso",
         "timestamp": 1787931013442
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Mas ir pro primeiro encontro já pensando nisso, pra mim não rola",
+        "timestamp": 1787931039177
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Deixa fluir",
+        "timestamp": 1787931043458
       }
     ],
     "120363428464897153@g.us": [],
@@ -17888,7 +17883,14 @@
     "120363411233423709@g.us": [],
     "120363428079168524@g.us": [],
     "120363411246936023@g.us": [],
-    "120363409024805409@g.us": [],
+    "120363409024805409@g.us": [
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!abrir",
+        "timestamp": 1787931043856
+      }
+    ],
     "120363050678635389@g.us": [],
     "120363411043114631@g.us": []
   },
@@ -17899,14 +17901,14 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21968,
+    "120363432018531082@g.us": 21970,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
-    "120363409024805409@g.us": 70,
+    "120363409024805409@g.us": 71,
     "120363050678635389@g.us": 1,
     "120363411043114631@g.us": 20
   },
@@ -17922,7 +17924,7 @@
     "120363428662766282@g.us": true,
     "120363428079168524@g.us": false,
     "120363411246936023@g.us": false,
-    "120363409024805409@g.us": true
+    "120363409024805409@g.us": false
   },
   "queuedWelcomes": {
     "120363428464897153@g.us": [
@@ -143791,6 +143793,18 @@
         "text": "Isso vai depender da conexão, na minha opinião pode sim acontecer e ser maravilhoso",
         "pushName": "Celiete Souza",
         "timestamp": 1787931013442
+      },
+      "ACA11DE5CC451EE0994C5F4E49FA599C": {
+        "sender": "190864487919667@lid",
+        "text": "Mas ir pro primeiro encontro já pensando nisso, pra mim não rola",
+        "pushName": "Souza",
+        "timestamp": 1787931039177
+      },
+      "AC72B03B5EDFBE3C864729DAA426B269": {
+        "sender": "190864487919667@lid",
+        "text": "Deixa fluir",
+        "pushName": "Souza",
+        "timestamp": 1787931043458
       }
     },
     "120363428464897153@g.us": {
@@ -196497,6 +196511,12 @@
         "text": "Se for com a boca de baixo 🤭",
         "pushName": "Leandro",
         "timestamp": 1787897140099
+      },
+      "A5B9064D91B8B993B9EBFE1C71E3332F": {
+        "sender": "54259127210155@lid",
+        "text": "!abrir",
+        "pushName": "Leandro",
+        "timestamp": 1787931043856
       }
     },
     "120363050678635389@g.us": {
@@ -196700,7 +196720,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787931013442,
+    "120363432018531082@g.us": 1787931043458,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
@@ -196711,7 +196731,7 @@
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1787868477291,
-    "120363409024805409@g.us": 1787923114509,
+    "120363409024805409@g.us": 1787931043856,
     "120363411043114631@g.us": 1787897464612
   },
   "autoAnimSent": {
