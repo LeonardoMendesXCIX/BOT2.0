@@ -178,9 +178,9 @@
         "total": 1943
       },
       "81991328395336": {
-        "text": 3890,
+        "text": 3891,
         "media": 1312,
-        "total": 5202
+        "total": 5203
       },
       "179040627490824": {
         "text": 433,
@@ -619,8 +619,8 @@
       },
       "104003018985518": {
         "text": 98,
-        "media": 47,
-        "total": 145
+        "media": 49,
+        "total": 147
       },
       "242073584320728": {
         "text": 8,
@@ -9853,7 +9853,8 @@
         "Leandro (+55 (11) 92701-8683): Bom dia",
         "🦅⚡️😍 (163686253629557): Bom dia",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Bom dia",
-        "Jk (120542904463568): Sobre quais assuntos o pessoal conversa aqui ? Assuntos variados ?"
+        "Jk (120542904463568): Sobre quais assuntos o pessoal conversa aqui ? Assuntos variados ?",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): É"
       ]
     },
     "120363428464897153@g.us": {
@@ -16863,6 +16864,12 @@
         "authorName": "Jk",
         "text": "Sobre quais assuntos o pessoal conversa aqui ? Assuntos variados ?",
         "timestamp": 1787896913748
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "É",
+        "timestamp": 1787896946324
       }
     ],
     "120363428464897153@g.us": [],
@@ -16908,7 +16915,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21136,
+    "120363432018531082@g.us": 21137,
     "120363428464897153@g.us": 6280,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1989,
@@ -137859,6 +137866,12 @@
         "text": "Sobre quais assuntos o pessoal conversa aqui ? Assuntos variados ?",
         "pushName": "Jk",
         "timestamp": 1787896913748
+      },
+      "AC026666F701814F365929FE005E3933": {
+        "sender": "81991328395336@lid",
+        "text": "É",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787896946324
       }
     },
     "120363428464897153@g.us": {
@@ -190498,7 +190511,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787896913748,
+    "120363432018531082@g.us": 1787896956895,
     "120363428464897153@g.us": 1787892526637,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787894166886,
