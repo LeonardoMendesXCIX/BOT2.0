@@ -173,9 +173,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1624,
+        "text": 1628,
         "media": 452,
-        "total": 2076
+        "total": 2080
       },
       "81991328395336": {
         "text": 3945,
@@ -2629,8 +2629,8 @@
       },
       "75797868064796": {
         "text": 39,
-        "media": 102,
-        "total": 141
+        "media": 105,
+        "total": 144
       },
       "153764728184839": {
         "text": 2,
@@ -2673,9 +2673,9 @@
         "total": 3
       },
       "193729163993156": {
-        "text": 43,
-        "media": 24,
-        "total": 67
+        "text": 46,
+        "media": 25,
+        "total": 71
       },
       "151582733820115": {
         "text": 5,
@@ -2708,9 +2708,9 @@
         "total": 2
       },
       "108461127897146": {
-        "text": 105,
+        "text": 107,
         "media": 14,
-        "total": 119
+        "total": 121
       },
       "10050861031495": {
         "text": 0,
@@ -9950,10 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Coitada da moça, tadinha",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Ah que linda 😍",
-        "jaciara (108461127897146): Maranhão",
-        "Souza (190864487919667): Ué, mas a barriga é grande",
         "F. RicaRdo sAnToS (193729163993156): Linda parabéns, que venha com muita saúde....",
         "Souza (190864487919667): Que venha com saúde",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Meu Deus 🤡",
@@ -10449,7 +10445,11 @@
         "Juliano Perlin (222595437858867): 🤣🤣🤣",
         "Celiete Souza (129373172711439): Eu estou feliz 😍",
         "Celiete Souza (129373172711439): Quero que vcs também estejam kkkk",
-        "Celiete Souza (129373172711439): Eita, tá bom então, senhor que manda kkkk"
+        "Celiete Souza (129373172711439): Eita, tá bom então, senhor que manda kkkk",
+        "Celiete Souza (129373172711439): Quase isso kkk",
+        "F. RicaRdo sAnToS (193729163993156): Literalmente isso",
+        "F. RicaRdo sAnToS (193729163993156): Liso",
+        "jaciara (108461127897146): Lindona"
       ]
     },
     "120363428464897153@g.us": {
@@ -17487,24 +17487,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "@108461127897146",
-        "timestamp": 1787946836185
-      },
-      {
-        "authorNum": "1395881181241",
-        "authorName": "Bruno Aguiar",
-        "text": "São coisas que acontece \nO importante é o resultado final",
-        "timestamp": 1787946847700
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Exatamente 😊",
-        "timestamp": 1787946885194
-      },
-      {
         "authorNum": "1395881181241",
         "authorName": "Bruno Aguiar",
         "text": "Por isso acredito que ficou linda",
@@ -17887,6 +17869,30 @@
         "authorName": "Celiete Souza",
         "text": "Eita, tá bom então, senhor que manda kkkk",
         "timestamp": 1787948635540
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Quase isso kkk",
+        "timestamp": 1787948687499
+      },
+      {
+        "authorNum": "193729163993156",
+        "authorName": "F. RicaRdo sAnToS",
+        "text": "Literalmente isso",
+        "timestamp": 1787948696225
+      },
+      {
+        "authorNum": "193729163993156",
+        "authorName": "F. RicaRdo sAnToS",
+        "text": "Liso",
+        "timestamp": 1787948699193
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Lindona",
+        "timestamp": 1787948699943
       }
     ],
     "120363428464897153@g.us": [],
@@ -17913,7 +17919,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22405,
+    "120363432018531082@g.us": 22409,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -146402,6 +146408,30 @@
         "text": "Eita, tá bom então, senhor que manda kkkk",
         "pushName": "Celiete Souza",
         "timestamp": 1787948635540
+      },
+      "ACF26C7F9528BC928C4830DA95ADE91D": {
+        "sender": "129373172711439@lid",
+        "text": "Quase isso kkk",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787948687499
+      },
+      "AC9D7469EF2142A6638CEF557B4CAE0E": {
+        "sender": "193729163993156@lid",
+        "text": "Literalmente isso",
+        "pushName": "F. RicaRdo sAnToS",
+        "timestamp": 1787948696225
+      },
+      "ACFD1C7C384A1F08DF3D1F784A4CAFE2": {
+        "sender": "193729163993156@lid",
+        "text": "Liso",
+        "pushName": "F. RicaRdo sAnToS",
+        "timestamp": 1787948699193
+      },
+      "ACB6F69A3789EEBBA2122AE2374D79C5": {
+        "sender": "108461127897146@lid",
+        "text": "Lindona",
+        "pushName": "jaciara",
+        "timestamp": 1787948699943
       }
     },
     "120363428464897153@g.us": {
@@ -199881,7 +199911,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787948649886,
+    "120363432018531082@g.us": 1787948707085,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
