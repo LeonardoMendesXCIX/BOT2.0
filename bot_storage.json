@@ -2474,9 +2474,9 @@
         "total": 1
       },
       "163686253629557": {
-        "text": 10,
+        "text": 11,
         "media": 1,
-        "total": 11
+        "total": 12
       },
       "246900624224419": {
         "text": 2,
@@ -2749,9 +2749,9 @@
         "total": 3
       },
       "165687523848431": {
-        "text": 1,
+        "text": 2,
         "media": 0,
-        "total": 1
+        "total": 2
       }
     },
     "120363428464897153@g.us": {
@@ -3435,9 +3435,9 @@
         "total": 605
       },
       "145381035905262": {
-        "text": 423,
+        "text": 425,
         "media": 149,
-        "total": 572
+        "total": 574
       },
       "53537388122141": {
         "text": 769,
@@ -9794,7 +9794,8 @@
         "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Boa noite a todos",
         "🦅⚡️😍 (163686253629557): 👀",
         "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): 👀",
-        "Gabriel (145381035905262): Saudações"
+        "Gabriel (145381035905262): Saudações",
+        "Alexandre Henrique (165687523848431): Obg"
       ]
     },
     "120363428464897153@g.us": {
@@ -16155,7 +16156,8 @@
         "Gabriel (145381035905262): Tá feito a merda",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Parabéns Gabriel",
         "Gabriel (145381035905262): Aí @81991328395336  tem que sentar a ripa no lombo",
-        "Gabriel (145381035905262): Aí vocês já viram né"
+        "Gabriel (145381035905262): Aí vocês já viram né",
+        "Gabriel (145381035905262): Culpa tua"
       ]
     },
     "120363411233423709@g.us": {
@@ -16686,6 +16688,12 @@
         "authorName": "Gabriel",
         "text": "Saudações",
         "timestamp": 1787889510825
+      },
+      {
+        "authorNum": "165687523848431",
+        "authorName": "Alexandre Henrique",
+        "text": "Obg",
+        "timestamp": 1787889540146
       }
     ],
     "120363428464897153@g.us": [
@@ -16806,48 +16814,6 @@
     ],
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "A Sabrina de irmã 😂😂😂😂",
-        "timestamp": 1787887589070
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Não fala assim",
-        "timestamp": 1787887600678
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Era pra mim ser gêmea",
-        "timestamp": 1787887613522
-      },
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Vai me pedir pra pagar teu casamento também é quando casar 😂😂😂",
-        "timestamp": 1787887620481
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Xiu @145381035905262",
-        "timestamp": 1787887621027
-      },
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "O primeiro pedido do @54259127210155  e da @81991328395336  foi patrocina nosso casamento \n\nE eu sou banco é",
-        "timestamp": 1787887658141
-      },
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Nome da mãe da Sá também é",
-        "timestamp": 1787887715161
-      },
       {
         "authorNum": "81991328395336",
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
@@ -17207,6 +17173,12 @@
         "authorName": "Gabriel",
         "text": "Aí vocês já viram né",
         "timestamp": 1787889385427
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Culpa tua",
+        "timestamp": 1787889531768
       }
     ],
     "120363411233423709@g.us": [],
@@ -17229,10 +17201,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21103,
+    "120363432018531082@g.us": 21104,
     "120363428464897153@g.us": 6278,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1942,
+    "120363412288900422@g.us": 1943,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -137981,6 +137953,12 @@
         "text": "Saudações",
         "pushName": "Gabriel",
         "timestamp": 1787889510825
+      },
+      "A56496E588D840CCF291BA1FF5A3770D": {
+        "sender": "165687523848431@lid",
+        "text": "Obg",
+        "pushName": "Alexandre Henrique",
+        "timestamp": 1787889540146
       }
     },
     "120363428464897153@g.us": {
@@ -187679,6 +187657,12 @@
         "text": "Aí vocês já viram né",
         "pushName": "Gabriel",
         "timestamp": 1787889385427
+      },
+      "AC2D5B34387EE5FCB81050EE8E7E420F": {
+        "sender": "145381035905262@lid",
+        "text": "Culpa tua",
+        "pushName": "Gabriel",
+        "timestamp": 1787889531768
       }
     },
     "120363411233423709@g.us": {
@@ -190294,10 +190278,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787889510825,
+    "120363432018531082@g.us": 1787889540146,
     "120363428464897153@g.us": 1787889499365,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787889485337,
+    "120363412288900422@g.us": 1787889531768,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
