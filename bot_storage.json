@@ -1863,9 +1863,9 @@
         "total": 6
       },
       "1395881181241": {
-        "text": 163,
+        "text": 164,
         "media": 5,
-        "total": 168
+        "total": 169
       },
       "198595546501333": {
         "text": 2,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Já tomeeeeei 😂😂",
         "Camila Designer (92629643563147): Sim ☺️",
         "Camila Designer (92629643563147): E com você @108461127897146 ?",
         "Souza (190864487919667): Tô bem e você? Como anda Goiânia?",
@@ -10449,7 +10448,8 @@
         "May (227783724793861): Você aquiiiii hahaha",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Pinto de preto Azulado\nJá fui ruiva\nCor natural é castanho claro",
         "Bruno Aguiar (+1395881181241): Humm vc ruiva",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Já fui 😂😂"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Já fui 😂😂",
+        "Bruno Aguiar (+1395881181241): Fica linda"
       ]
     },
     "120363428464897153@g.us": {
@@ -17610,6 +17610,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Já fui 😂😂",
         "timestamp": 1787946635431
+      },
+      {
+        "authorNum": "1395881181241",
+        "authorName": "Bruno Aguiar",
+        "text": "Fica linda",
+        "timestamp": 1787946677469
       }
     ],
     "120363428464897153@g.us": [],
@@ -17636,7 +17642,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22336,
+    "120363432018531082@g.us": 22337,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -145711,6 +145717,12 @@
         "text": "Já fui 😂😂",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787946635431
+      },
+      "AC28C441E9628499B17B4A6EC8C06B56": {
+        "sender": "1395881181241@lid",
+        "text": "Fica linda",
+        "pushName": "Bruno Aguiar",
+        "timestamp": 1787946677469
       }
     },
     "120363428464897153@g.us": {
@@ -199184,7 +199196,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787946635431,
+    "120363432018531082@g.us": 1787946677469,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
