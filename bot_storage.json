@@ -254,8 +254,8 @@
       },
       "92629643563147": {
         "text": 1491,
-        "media": 1111,
-        "total": 2602
+        "media": 1112,
+        "total": 2603
       },
       "3126803329115": {
         "text": 87,
@@ -2858,9 +2858,9 @@
         "total": 4
       },
       "263797142995147": {
-        "text": 44,
+        "text": 45,
         "media": 4,
-        "total": 48
+        "total": 49
       }
     },
     "120363428464897153@g.us": {
@@ -9900,7 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Gabi 💋 (247020967165997): Já me apresentei",
         "Rafael Moura (57707230945348): Ahhhhhhh",
         "Rafael Moura (57707230945348): Uauuuu",
         "Rafael Moura (57707230945348): A marquinha Senhor",
@@ -10399,7 +10398,8 @@
         "Camila Designer (92629643563147): Então já é uma coisa",
         "Camila Designer (92629643563147): Kkkk",
         "Souza (190864487919667): Meu coração mesmo nem presta tanto assim",
-        "Souza (190864487919667): Só o pó do machucado"
+        "Souza (190864487919667): Só o pó do machucado",
+        "Nanda (263797142995147): decepções amorosas?"
       ]
     },
     "120363428464897153@g.us": {
@@ -17341,12 +17341,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "1395881181241",
-        "authorName": "Bruno Aguiar",
-        "text": "Sempre na ativa,sem perder tempo",
-        "timestamp": 1787925470508
-      },
-      {
         "authorNum": "262182034002040",
         "authorName": "Dany",
         "text": "Opa! Só chamar!",
@@ -17855,6 +17849,12 @@
         "authorName": "Souza",
         "text": "Só o pó do machucado",
         "timestamp": 1787927260417
+      },
+      {
+        "authorNum": "263797142995147",
+        "authorName": "Nanda",
+        "text": "decepções amorosas?",
+        "timestamp": 1787927279440
       }
     ],
     "120363428464897153@g.us": [],
@@ -17881,7 +17881,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21809,
+    "120363432018531082@g.us": 21810,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2011,
@@ -142832,6 +142832,12 @@
         "text": "Só o pó do machucado",
         "pushName": "Souza",
         "timestamp": 1787927260417
+      },
+      "ACFAE33B6118D3334D17B7E064E084B3": {
+        "sender": "263797142995147@lid",
+        "text": "decepções amorosas?",
+        "pushName": "Nanda",
+        "timestamp": 1787927279440
       }
     },
     "120363428464897153@g.us": {
@@ -195735,7 +195741,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787927263400,
+    "120363432018531082@g.us": 1787927290651,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787926648480,
