@@ -2597,9 +2597,9 @@
         "total": 19
       },
       "153764728184839": {
-        "text": 1,
-        "media": 2,
-        "total": 3
+        "text": 2,
+        "media": 3,
+        "total": 5
       },
       "188845719089205": {
         "text": 18,
@@ -3134,9 +3134,9 @@
         "total": 1
       },
       "25520947339303": {
-        "text": 39,
+        "text": 41,
         "media": 1,
-        "total": 40
+        "total": 42
       },
       "66743926038604": {
         "text": 57,
@@ -3279,9 +3279,9 @@
         "total": 1
       },
       "190864487919667": {
-        "text": 17,
+        "text": 18,
         "media": 3,
-        "total": 20
+        "total": 21
       }
     },
     "120363409727467494@g.us": {
@@ -3724,9 +3724,9 @@
         "total": 3
       },
       "81991328395336": {
-        "text": 7,
+        "text": 9,
         "media": 192,
-        "total": 199
+        "total": 201
       },
       "145381035905262": {
         "text": 7,
@@ -13566,7 +13566,10 @@
         "Clayton 🇳🇬 (155503636275307): Logem kkk de sao paulo",
         "Priscilla 🌻 (25520947339303): Exatamente eu mesmo não faço nada fico na parte  camisa branca ficou mais no setor sentada kkkk",
         "Clayton 🇳🇬 (155503636275307): Nao trabalhar no mercado BH",
-        "Priscilla 🌻 (25520947339303): Sim kkkk"
+        "Priscilla 🌻 (25520947339303): Sim kkkk",
+        "Priscilla 🌻 (25520947339303): Oxe kkk",
+        "Souza (190864487919667): Vida boa",
+        "Priscilla 🌻 (25520947339303): Sim kkk"
       ]
     },
     "120363409727467494@g.us": {
@@ -16008,7 +16011,9 @@
         "Leandro (+55 (11) 92701-8683): Mais tarde manda mais",
         "Leandro (+55 (11) 92701-8683): É bem assim mesmo",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Aqui eu me acabo nas figurinhas agora \nObgd @54259127210155 pela idéia ❤️🤌🏾",
-        "Leandro (+55 (11) 92701-8683): Bom dia a todos! @all"
+        "Leandro (+55 (11) 92701-8683): Bom dia a todos! @all",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Odeio",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Lembra uma pessoa"
       ]
     }
   },
@@ -16643,12 +16648,6 @@
       {
         "authorNum": "81991328395336",
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Bot vai ser demitido",
-        "timestamp": 1787875277876
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Kbaré aberto",
         "timestamp": 1787875298701
       },
@@ -16969,6 +16968,24 @@
         "authorName": "Priscilla 🌻",
         "text": "Sim kkkk",
         "timestamp": 1787877026974
+      },
+      {
+        "authorNum": "25520947339303",
+        "authorName": "Priscilla 🌻",
+        "text": "Oxe kkk",
+        "timestamp": 1787877089205
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Vida boa",
+        "timestamp": 1787877090495
+      },
+      {
+        "authorNum": "25520947339303",
+        "authorName": "Priscilla 🌻",
+        "text": "Sim kkk",
+        "timestamp": 1787877097020
       }
     ],
     "120363409727467494@g.us": [],
@@ -17139,7 +17156,20 @@
     "120363411233423709@g.us": [],
     "120363428079168524@g.us": [],
     "120363411246936023@g.us": [],
-    "120363409024805409@g.us": [],
+    "120363409024805409@g.us": [
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Odeio",
+        "timestamp": 1787877079515
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Lembra uma pessoa",
+        "timestamp": 1787877091819
+      }
+    ],
     "120363050678635389@g.us": []
   },
   "lastJarvisIntervention": {
@@ -17150,13 +17180,13 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 21011,
-    "120363428464897153@g.us": 6047,
+    "120363428464897153@g.us": 6050,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1700,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
-    "120363409024805409@g.us": 57,
+    "120363409024805409@g.us": 59,
     "120363050678635389@g.us": 1
   },
   "botDisabled": {
@@ -172824,6 +172854,24 @@
         "text": "Sim kkkk",
         "pushName": "Priscilla 🌻",
         "timestamp": 1787877026974
+      },
+      "ACDC2CC70E1BEBF14FCE7A5FDDFA2CCF": {
+        "sender": "25520947339303@lid",
+        "text": "Oxe kkk",
+        "pushName": "Priscilla 🌻",
+        "timestamp": 1787877089206
+      },
+      "AC0D74AB705503A262F4FB383EE2AE19": {
+        "sender": "190864487919667@lid",
+        "text": "Vida boa",
+        "pushName": "Souza",
+        "timestamp": 1787877090495
+      },
+      "AC5D01333F12815A81C9D4EFC9491FD9": {
+        "sender": "25520947339303@lid",
+        "text": "Sim kkk",
+        "pushName": "Priscilla 🌻",
+        "timestamp": 1787877097020
       }
     },
     "120363409727467494@g.us": {
@@ -186690,6 +186738,18 @@
         "text": "Bom dia a todos! @all",
         "pushName": "Leandro",
         "timestamp": 1787839342860
+      },
+      "AC4F88D1A0CD1F6F6CC63ED1722AD058": {
+        "sender": "81991328395336@lid",
+        "text": "Odeio",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787877079515
+      },
+      "ACD4078E16AB7294DB929DE170707AB8": {
+        "sender": "81991328395336@lid",
+        "text": "Lembra uma pessoa",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787877091819
       }
     },
     "120363050678635389@g.us": {
@@ -186783,8 +186843,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787876980448,
-    "120363428464897153@g.us": 1787877026974,
+    "120363432018531082@g.us": 1787877070661,
+    "120363428464897153@g.us": 1787877097020,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787877019468,
     "120363411233423709@g.us": 1787113553426,
@@ -186794,7 +186854,7 @@
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1787868477291,
-    "120363409024805409@g.us": 1787858703981
+    "120363409024805409@g.us": 1787877091819
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
