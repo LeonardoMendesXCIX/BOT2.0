@@ -173,9 +173,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1560,
+        "text": 1561,
         "media": 427,
-        "total": 1987
+        "total": 1988
       },
       "81991328395336": {
         "text": 3940,
@@ -253,9 +253,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1506,
+        "text": 1507,
         "media": 1118,
-        "total": 2624
+        "total": 2625
       },
       "3126803329115": {
         "text": 87,
@@ -9950,8 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Sempre",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Obrigada pela figurinha",
         "Bruno Aguiar (+1395881181241): Sempre na ativa,sem perder tempo",
         "Dany (262182034002040): Opa! Só chamar!",
         "Dany (262182034002040): Dou sim",
@@ -10449,7 +10447,9 @@
         "Gabriel (145381035905262): Chutaram o balde legal 😂😂😂",
         "Gabriel (145381035905262): Nunca nem usei Jequiti",
         "Celiete Souza (129373172711439): Boa tarde nega 😘",
-        "Gabriel (145381035905262): @272048228188398 , @214156045242435 , @129373172711439  olhem isso 😂😂"
+        "Gabriel (145381035905262): @272048228188398 , @214156045242435 , @129373172711439  olhem isso 😂😂",
+        "Camila Designer (92629643563147): Eu acho que sim 😂😂😂",
+        "Celiete Souza (129373172711439): Tô vivendo apenas kkkkkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -17469,12 +17469,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Tenho experiência em criança pequena, mas não tenho filhos.",
-        "timestamp": 1787939375388
-      },
-      {
         "authorNum": "145381035905262",
         "authorName": "Gabriel",
         "text": "Eu cobiçado?",
@@ -18085,17 +18079,23 @@
         "authorName": "Gabriel",
         "text": "@272048228188398 , @214156045242435 , @129373172711439  olhem isso 😂😂",
         "timestamp": 1787941159966
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Eu acho que sim 😂😂😂",
+        "timestamp": 1787941213329
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Tô vivendo apenas kkkkkk",
+        "timestamp": 1787941222335
       }
     ],
     "120363428464897153@g.us": [],
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Todos os dias que chego em casa, tiro trocentos papéis da minha mochila, por que não jogo lixo na rua",
-        "timestamp": 1787939104507
-      },
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
@@ -18184,14 +18184,7 @@
     "120363411233423709@g.us": [],
     "120363428079168524@g.us": [],
     "120363411246936023@g.us": [],
-    "120363409024805409@g.us": [
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "A minha conta aí 🌝",
-        "timestamp": 1787939136342
-      }
-    ],
+    "120363409024805409@g.us": [],
     "120363050678635389@g.us": [],
     "120363411043114631@g.us": []
   },
@@ -18202,7 +18195,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22222,
+    "120363432018531082@g.us": 22224,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2075,
@@ -145605,6 +145598,18 @@
         "text": "@272048228188398 , @214156045242435 , @129373172711439  olhem isso 😂😂",
         "pushName": "Gabriel",
         "timestamp": 1787941159966
+      },
+      "2A94A9E7198196DAA4C7": {
+        "sender": "92629643563147@lid",
+        "text": "Eu acho que sim 😂😂😂",
+        "pushName": "Camila Designer",
+        "timestamp": 1787941213329
+      },
+      "ACB216A7BCD3D8BA013E2D555028627D": {
+        "sender": "129373172711439@lid",
+        "text": "Tô vivendo apenas kkkkkk",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787941222335
       }
     },
     "120363428464897153@g.us": {
@@ -198976,7 +198981,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787941159966,
+    "120363432018531082@g.us": 1787941222335,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787940055842,
