@@ -223,9 +223,9 @@
         "total": 266
       },
       "68247365931226": {
-        "text": 116,
+        "text": 117,
         "media": 41,
-        "total": 157
+        "total": 158
       },
       "12791117307912": {
         "text": 3,
@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2232,
+        "text": 2234,
         "media": 302,
-        "total": 2534
+        "total": 2536
       },
       "252922705240205": {
         "text": 80,
@@ -2603,9 +2603,9 @@
         "total": 21
       },
       "190864487919667": {
-        "text": 205,
+        "text": 207,
         "media": 35,
-        "total": 240
+        "total": 242
       },
       "82227819987089": {
         "text": 2,
@@ -2803,9 +2803,9 @@
         "total": 4
       },
       "206253020176458": {
-        "text": 1,
+        "text": 2,
         "media": 0,
-        "total": 1
+        "total": 2
       }
     },
     "120363428464897153@g.us": {
@@ -9998,7 +9998,11 @@
         "Souza (190864487919667): Hoje office? Bom demaize",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): N foi contigo meu amor",
         "Van Librelon (68247365931226): Hoje sim 😌",
-        "Souza (190864487919667): Alguém quer comprar uma tinta de carro aí não?"
+        "Souza (190864487919667): Alguém quer comprar uma tinta de carro aí não?",
+        "Souza (190864487919667): Só pra passar o tempo mais rápido",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindo",
+        "Souza (190864487919667): Eu senti a inveja",
+        "Arthur (206253020176458): Obrigado"
       ]
     },
     "120363428464897153@g.us": {
@@ -17126,6 +17130,30 @@
         "authorName": "Souza",
         "text": "Alguém quer comprar uma tinta de carro aí não?",
         "timestamp": 1787913055342
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Só pra passar o tempo mais rápido",
+        "timestamp": 1787913063075
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Bem vindo",
+        "timestamp": 1787913068299
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Eu senti a inveja",
+        "timestamp": 1787913069960
+      },
+      {
+        "authorNum": "206253020176458",
+        "authorName": "Arthur",
+        "text": "Obrigado",
+        "timestamp": 1787913077272
       }
     ],
     "120363428464897153@g.us": [],
@@ -17145,7 +17173,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21246,
+    "120363432018531082@g.us": 21250,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1989,
@@ -138738,6 +138766,30 @@
         "text": "Alguém quer comprar uma tinta de carro aí não?",
         "pushName": "Souza",
         "timestamp": 1787913055342
+      },
+      "AC805A3F1FFE60CBCD6B5C6941879150": {
+        "sender": "190864487919667@lid",
+        "text": "Só pra passar o tempo mais rápido",
+        "pushName": "Souza",
+        "timestamp": 1787913063075
+      },
+      "ACDBC0EDEA6E96261504EB3B73A1AA19": {
+        "sender": "53537388122141@lid",
+        "text": "Bem vindo",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787913068299
+      },
+      "AC0DF2029CDD953797D7DAA72A38B706": {
+        "sender": "190864487919667@lid",
+        "text": "Eu senti a inveja",
+        "pushName": "Souza",
+        "timestamp": 1787913069960
+      },
+      "AC023E5BA90D3147154115485CBB3168": {
+        "sender": "206253020176458@lid",
+        "text": "Obrigado",
+        "pushName": "Arthur",
+        "timestamp": 1787913077272
       }
     },
     "120363428464897153@g.us": {
@@ -191509,7 +191561,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787913055342,
+    "120363432018531082@g.us": 1787913085946,
     "120363428464897153@g.us": 1787912432171,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787894166886,
