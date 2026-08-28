@@ -3435,14 +3435,14 @@
         "total": 583
       },
       "5511927018683": {
-        "text": 524,
+        "text": 526,
         "media": 101,
-        "total": 625
+        "total": 627
       },
       "145381035905262": {
-        "text": 436,
+        "text": 438,
         "media": 150,
-        "total": 586
+        "total": 588
       },
       "53537388122141": {
         "text": 769,
@@ -16194,7 +16194,11 @@
         "Gabriel (145381035905262): Meu papagaio 🦜, a bicha é rústica",
         "Leandro (+55 (11) 92701-8683): Se eu levar ripada por sua culpa, tu vai ver Moreira @145381035905262",
         "Gabriel (145381035905262): O que eu tenho aver com isso ?",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Ele tem medo de compra briga mais eu"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Ele tem medo de compra briga mais eu",
+        "Leandro (+55 (11) 92701-8683): Quem não tem?",
+        "Gabriel (145381035905262): Aí é frouxo mesmo",
+        "Leandro (+55 (11) 92701-8683): Mas calma aí, não sou tão medroso assim 🤨 @81991328395336",
+        "Gabriel (145381035905262): Então faz o que eu fiz lá no grupo"
       ]
     },
     "120363411233423709@g.us": {
@@ -16762,24 +16766,6 @@
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [
       {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Aqui tem coragem",
-        "timestamp": 1787889201594
-      },
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Aí ela foi pedir conselho pra quem ? \nPra mais atentada @81991328395336",
-        "timestamp": 1787889223556
-      },
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Tá feito a merda",
-        "timestamp": 1787889231409
-      },
-      {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Parabéns Gabriel",
@@ -16952,6 +16938,30 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Ele tem medo de compra briga mais eu",
         "timestamp": 1787890990044
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Quem não tem?",
+        "timestamp": 1787890999513
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Aí é frouxo mesmo",
+        "timestamp": 1787891002095
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Mas calma aí, não sou tão medroso assim 🤨 @81991328395336",
+        "timestamp": 1787891048076
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Então faz o que eu fiz lá no grupo",
+        "timestamp": 1787891066016
       }
     ],
     "120363411233423709@g.us": [],
@@ -16970,7 +16980,7 @@
     "120363432018531082@g.us": 21110,
     "120363428464897153@g.us": 6279,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1968,
+    "120363412288900422@g.us": 1972,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -187621,6 +187631,30 @@
         "text": "Ele tem medo de compra briga mais eu",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787890990044
+      },
+      "A53FC95E2F69FF12B975FF23F43BA1D1": {
+        "sender": "54259127210155@lid",
+        "text": "Quem não tem?",
+        "pushName": "Leandro",
+        "timestamp": 1787890999513
+      },
+      "AC8761D54A3B72F9690D5843D1BC9163": {
+        "sender": "145381035905262@lid",
+        "text": "Aí é frouxo mesmo",
+        "pushName": "Gabriel",
+        "timestamp": 1787891002095
+      },
+      "A58355EFF67242F9B75688B4DAB06CCA": {
+        "sender": "54259127210155@lid",
+        "text": "Mas calma aí, não sou tão medroso assim 🤨 @81991328395336",
+        "pushName": "Leandro",
+        "timestamp": 1787891048076
+      },
+      "AC9A38D292411612997B64011F617BCF": {
+        "sender": "145381035905262@lid",
+        "text": "Então faz o que eu fiz lá no grupo",
+        "pushName": "Gabriel",
+        "timestamp": 1787891066016
       }
     },
     "120363411233423709@g.us": {
@@ -190239,7 +190273,7 @@
     "120363432018531082@g.us": 1787890494475,
     "120363428464897153@g.us": 1787890423703,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787890995538,
+    "120363412288900422@g.us": 1787891066016,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
