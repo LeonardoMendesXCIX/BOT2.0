@@ -253,9 +253,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1500,
+        "text": 1501,
         "media": 1116,
-        "total": 2616
+        "total": 2617
       },
       "3126803329115": {
         "text": 87,
@@ -2603,9 +2603,9 @@
         "total": 29
       },
       "190864487919667": {
-        "text": 278,
+        "text": 279,
         "media": 42,
-        "total": 320
+        "total": 321
       },
       "82227819987089": {
         "text": 2,
@@ -2673,9 +2673,9 @@
         "total": 3
       },
       "193729163993156": {
-        "text": 23,
+        "text": 24,
         "media": 6,
-        "total": 29
+        "total": 30
       },
       "151582733820115": {
         "text": 5,
@@ -9900,8 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Rafael Moura (57707230945348): Marquei errado",
-        "Alexandre Bastos (75797868064796): Quem",
         "Gabi 💋 (247020967165997): Vê ksksks",
         "Souza (190864487919667): Tô esperando meu VR cair hein",
         "Rafael Moura (57707230945348): Hoje tem Coca em",
@@ -10399,7 +10397,9 @@
         "F. RicaRdo sAnToS (193729163993156): Tudo jóia 💎",
         "Souza (190864487919667): Amém",
         "jaciara (108461127897146): Passando alguns meses , até minha bebê nascer",
-        "jaciara (108461127897146): Estou grávida"
+        "jaciara (108461127897146): Estou grávida",
+        "Camila Designer (92629643563147): Ah sim, sua família está aí?",
+        "Souza (190864487919667): O pai foi também?"
       ]
     },
     "120363428464897153@g.us": {
@@ -17342,12 +17342,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Aceito",
-        "timestamp": 1787927127962
-      },
-      {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
         "text": "Mas tem os órgãos 🤣🤣🤣",
@@ -17718,6 +17712,18 @@
         "authorName": "jaciara",
         "text": "Estou grávida",
         "timestamp": 1787928920407
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Ah sim, sua família está aí?",
+        "timestamp": 1787928930676
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "O pai foi também?",
+        "timestamp": 1787928932846
       }
     ],
     "120363428464897153@g.us": [],
@@ -17744,7 +17750,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21852,
+    "120363432018531082@g.us": 21854,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -142946,6 +142952,18 @@
         "text": "Estou grávida",
         "pushName": "jaciara",
         "timestamp": 1787928920408
+      },
+      "2AB925E593129D0A3393": {
+        "sender": "92629643563147@lid",
+        "text": "Ah sim, sua família está aí?",
+        "pushName": "Camila Designer",
+        "timestamp": 1787928930676
+      },
+      "AC69A95C77B03C0BFE15A5A4339F7BA3": {
+        "sender": "190864487919667@lid",
+        "text": "O pai foi também?",
+        "pushName": "Souza",
+        "timestamp": 1787928932846
       }
     },
     "120363428464897153@g.us": {
@@ -195855,7 +195873,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787928920407,
+    "120363432018531082@g.us": 1787928946985,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
