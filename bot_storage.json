@@ -2603,9 +2603,9 @@
         "total": 21
       },
       "190864487919667": {
-        "text": 208,
-        "media": 35,
-        "total": 243
+        "text": 209,
+        "media": 36,
+        "total": 245
       },
       "82227819987089": {
         "text": 2,
@@ -2808,9 +2808,9 @@
         "total": 2
       },
       "210152934359048": {
-        "text": 5,
+        "text": 6,
         "media": 0,
-        "total": 5
+        "total": 6
       }
     },
     "120363428464897153@g.us": {
@@ -10020,7 +10020,9 @@
         "Camila Designer (92629643563147): Quem está anunciando está a venda? Se tiver eu quero 😏",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Florianópolis, Santa Catarina. E você?",
         "Bruno (210152934359048): Aah sim , sou de juiz de fora mg",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Aaah simmm"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Aaah simmm",
+        "Souza (190864487919667): Tô quase me vendendo por um pastel",
+        "Bruno (210152934359048): Floripa, deve ser maneiro ai"
       ]
     },
     "120363428464897153@g.us": {
@@ -17238,6 +17240,18 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Aaah simmm",
         "timestamp": 1787913536792
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Tô quase me vendendo por um pastel",
+        "timestamp": 1787913552745
+      },
+      {
+        "authorNum": "210152934359048",
+        "authorName": "Bruno",
+        "text": "Floripa, deve ser maneiro ai",
+        "timestamp": 1787913558599
       }
     ],
     "120363428464897153@g.us": [],
@@ -17257,7 +17271,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21263,
+    "120363432018531082@g.us": 21265,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1989,
@@ -138952,6 +138966,18 @@
         "text": "Aaah simmm",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787913536792
+      },
+      "ACBD7E30671B3C129A10ECA2CFAC4F4A": {
+        "sender": "190864487919667@lid",
+        "text": "Tô quase me vendendo por um pastel",
+        "pushName": "Souza",
+        "timestamp": 1787913552745
+      },
+      "AC788430AE43A84B8EB052BA88E38BA0": {
+        "sender": "210152934359048@lid",
+        "text": "Floripa, deve ser maneiro ai",
+        "pushName": "Bruno",
+        "timestamp": 1787913558599
       }
     },
     "120363428464897153@g.us": {
@@ -191723,7 +191749,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787913536792,
+    "120363432018531082@g.us": 1787913558599,
     "120363428464897153@g.us": 1787913193216,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787894166886,
