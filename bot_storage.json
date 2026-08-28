@@ -2566,9 +2566,9 @@
         "total": 21
       },
       "190864487919667": {
-        "text": 161,
+        "text": 162,
         "media": 32,
-        "total": 193
+        "total": 194
       },
       "82227819987089": {
         "text": 2,
@@ -9154,7 +9154,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): É nada",
         "Gleydson Souza (274384656834700): Kkkkk",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Qual que tava falando verdade?",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): A figurinha da discórdia",
@@ -9653,7 +9652,8 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Amg eu não demonstro Aqui \nMais as vezes povo testa a paciência dps ADMs",
         "Juliano Perlin (222595437858867): Calma🤣",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Realmente",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): @190864487919667"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): @190864487919667",
+        "Souza (190864487919667): 1,91"
       ]
     },
     "120363428464897153@g.us": {
@@ -15922,18 +15922,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Tô com porra de paciência não",
-        "timestamp": 1787873423133
-      },
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "!ban @238233849983072",
-        "timestamp": 1787873432616
-      },
-      {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Deu nem tempo de ler 😂",
@@ -16538,6 +16526,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "@190864487919667",
         "timestamp": 1787875212189
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "1,91",
+        "timestamp": 1787875235833
       }
     ],
     "120363428464897153@g.us": [],
@@ -16659,7 +16653,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20908,
+    "120363432018531082@g.us": 20909,
     "120363428464897153@g.us": 5992,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1673,
@@ -136260,6 +136254,12 @@
         "text": "@190864487919667",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787875212189
+      },
+      "AC5E02C7603D6A60DA60F32E7DAB2FE5": {
+        "sender": "190864487919667@lid",
+        "text": "1,91",
+        "pushName": "Souza",
+        "timestamp": 1787875235834
       }
     },
     "120363428464897153@g.us": {
@@ -185189,7 +185189,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787875212189,
+    "120363432018531082@g.us": 1787875235833,
     "120363428464897153@g.us": 1787867258569,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787874989315,
