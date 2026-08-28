@@ -2904,9 +2904,9 @@
         "total": 1
       },
       "92629643563147": {
-        "text": 562,
-        "media": 374,
-        "total": 936
+        "text": 563,
+        "media": 375,
+        "total": 938
       },
       "122552932372575": {
         "text": 0,
@@ -2944,9 +2944,9 @@
         "total": 9
       },
       "129373172711439": {
-        "text": 894,
+        "text": 895,
         "media": 228,
-        "total": 1122
+        "total": 1123
       },
       "16007578021977": {
         "text": 50,
@@ -3119,9 +3119,9 @@
         "total": 3
       },
       "57561571176651": {
-        "text": 33,
-        "media": 48,
-        "total": 81
+        "text": 34,
+        "media": 49,
+        "total": 83
       },
       "201257922908323": {
         "text": 3,
@@ -3289,9 +3289,9 @@
         "total": 1
       },
       "190864487919667": {
-        "text": 26,
+        "text": 28,
         "media": 6,
-        "total": 32
+        "total": 34
       },
       "118515428286715": {
         "text": 1,
@@ -13633,7 +13633,10 @@
         "Priscilla 🌻 (25520947339303): Tô no trabalho kkkk",
         "Camila Designer (92629643563147): 🤣🤣🤣",
         "Celiete Souza (129373172711439): Eu bloquiei meu chamando  no pv",
-        "Clayton 🇳🇬 (155503636275307): Ai sim e trabalho bom"
+        "Clayton 🇳🇬 (155503636275307): Ai sim e trabalho bom",
+        "Souza (190864487919667): Rapaz",
+        "Camila Designer (92629643563147): @190864487919667 não consegui avaliar direito sua foto, tem como reenviar 😌",
+        "Souza (190864487919667): Pessoal tá devagar hoje"
       ]
     },
     "120363409727467494@g.us": {
@@ -16096,12 +16099,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Eu acho que ela sabe fazer também kkk",
-        "timestamp": 1787876980448
-      },
-      {
         "authorNum": "190864487919667",
         "authorName": "Souza",
         "text": "Prefiro mais pontudas",
@@ -16223,12 +16220,6 @@
       }
     ],
     "120363428464897153@g.us": [
-      {
-        "authorNum": "155503636275307",
-        "authorName": "Clayton 🇳🇬",
-        "text": "Logem kkk de sao paulo",
-        "timestamp": 1787876974559
-      },
       {
         "authorNum": "25520947339303",
         "authorName": "Priscilla 🌻",
@@ -16528,40 +16519,28 @@
         "authorName": "Clayton 🇳🇬",
         "text": "Ai sim e trabalho bom",
         "timestamp": 1787878765872
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Rapaz",
+        "timestamp": 1787878796690
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "@190864487919667 não consegui avaliar direito sua foto, tem como reenviar 😌",
+        "timestamp": 1787878803776
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Pessoal tá devagar hoje",
+        "timestamp": 1787878803900
       }
     ],
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Entendi",
-        "timestamp": 1787876717887
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Tudo bem",
-        "timestamp": 1787876723642
-      },
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Eu acho que o lailson é mais baixo que tu @53537388122141",
-        "timestamp": 1787876793113
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Tá zuando",
-        "timestamp": 1787876828519
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Qual a altura dele?",
-        "timestamp": 1787876832641
-      },
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
@@ -16668,7 +16647,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 21031,
-    "120363428464897153@g.us": 6094,
+    "120363428464897153@g.us": 6097,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1711,
     "120363411233423709@g.us": 5,
@@ -172763,6 +172742,24 @@
         "text": "Ai sim e trabalho bom",
         "pushName": "Clayton 🇳🇬",
         "timestamp": 1787878765872
+      },
+      "ACDEC56296F643F1186023205863AA9D": {
+        "sender": "190864487919667@lid",
+        "text": "Rapaz",
+        "pushName": "Souza",
+        "timestamp": 1787878796690
+      },
+      "2A6141C3628CE04681E2": {
+        "sender": "92629643563147@lid",
+        "text": "@190864487919667 não consegui avaliar direito sua foto, tem como reenviar 😌",
+        "pushName": "Camila Designer",
+        "timestamp": 1787878803776
+      },
+      "AC9FEAB8010F1BB4E9FACD760E80DFBC": {
+        "sender": "190864487919667@lid",
+        "text": "Pessoal tá devagar hoje",
+        "pushName": "Souza",
+        "timestamp": 1787878803900
       }
     },
     "120363409727467494@g.us": {
@@ -186807,7 +186804,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787878669226,
-    "120363428464897153@g.us": 1787878774914,
+    "120363428464897153@g.us": 1787878816933,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787877736241,
     "120363411233423709@g.us": 1787113553426,
