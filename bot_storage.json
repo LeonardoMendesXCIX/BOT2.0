@@ -314,9 +314,9 @@
         "total": 117
       },
       "199733712785531": {
-        "text": 197,
+        "text": 198,
         "media": 113,
-        "total": 310
+        "total": 311
       },
       "153596754661626": {
         "text": 1,
@@ -449,9 +449,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1675,
+        "text": 1676,
         "media": 326,
-        "total": 2001
+        "total": 2002
       },
       "252600633041077": {
         "text": 1,
@@ -9804,7 +9804,9 @@
         "Leandro (+55 (11) 92701-8683): Teu xará aí @199733712785531",
         "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Será? Haha",
         "Gabriel (145381035905262): Saudações",
-        "Leandro (+55 (11) 92701-8683): Bem vindo jovem! 🤝"
+        "Leandro (+55 (11) 92701-8683): Bem vindo jovem! 🤝",
+        "Leandro (+55 (11) 92701-8683): Pelo jeito sim em",
+        "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): 🤔"
       ]
     },
     "120363428464897153@g.us": {
@@ -16713,27 +16715,21 @@
         "authorName": "Leandro",
         "text": "Bem vindo jovem! 🤝",
         "timestamp": 1787890470852
-      }
-    ],
-    "120363428464897153@g.us": [
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Exato",
-        "timestamp": 1787888517940
       },
       {
-        "authorNum": "76914341503187",
-        "authorName": "Joseph",
-        "text": "como é essa brincadeira de pv liberado?",
-        "timestamp": 1787888661495
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Pelo jeito sim em",
+        "timestamp": 1787890478903
       },
       {
         "authorNum": "199733712785531",
         "authorName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
-        "text": "Verdade kk",
-        "timestamp": 1787888675103
-      },
+        "text": "🤔",
+        "timestamp": 1787890494475
+      }
+    ],
+    "120363428464897153@g.us": [
       {
         "authorNum": "190864487919667",
         "authorName": "Souza",
@@ -17021,7 +17017,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21108,
+    "120363432018531082@g.us": 21110,
     "120363428464897153@g.us": 6279,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1964,
@@ -137803,6 +137799,18 @@
         "text": "Bem vindo jovem! 🤝",
         "pushName": "Leandro",
         "timestamp": 1787890470853
+      },
+      "A59685E6865552E0D5BADD32911D9AAB": {
+        "sender": "54259127210155@lid",
+        "text": "Pelo jeito sim em",
+        "pushName": "Leandro",
+        "timestamp": 1787890478903
+      },
+      "3A30F8DF58931BFD98DE": {
+        "sender": "199733712785531@lid",
+        "text": "🤔",
+        "pushName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
+        "timestamp": 1787890494476
       }
     },
     "120363428464897153@g.us": {
@@ -190254,7 +190262,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787890470852,
+    "120363432018531082@g.us": 1787890494475,
     "120363428464897153@g.us": 1787890423703,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787890452260,
