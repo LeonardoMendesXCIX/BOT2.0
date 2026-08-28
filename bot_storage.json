@@ -152,9 +152,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2196,
+        "text": 2197,
         "media": 471,
-        "total": 2667
+        "total": 2668
       },
       "184237705699536": {
         "text": 524,
@@ -2949,9 +2949,9 @@
         "total": 9
       },
       "129373172711439": {
-        "text": 923,
+        "text": 924,
         "media": 235,
-        "total": 1158
+        "total": 1159
       },
       "16007578021977": {
         "text": 50,
@@ -3294,19 +3294,19 @@
         "total": 1
       },
       "190864487919667": {
-        "text": 40,
+        "text": 42,
         "media": 9,
-        "total": 49
+        "total": 51
       },
       "118515428286715": {
-        "text": 13,
+        "text": 14,
         "media": 3,
-        "total": 16
+        "total": 17
       },
       "274384656834700": {
-        "text": 9,
+        "text": 12,
         "media": 2,
-        "total": 11
+        "total": 14
       },
       "34626781356198": {
         "text": 0,
@@ -3314,9 +3314,9 @@
         "total": 1
       },
       "75797868064796": {
-        "text": 4,
+        "text": 5,
         "media": 3,
-        "total": 7
+        "total": 8
       }
     },
     "120363409727467494@g.us": {
@@ -9205,7 +9205,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Gleydson Souza (274384656834700): Bem vinda",
         "Jessica (208958782488665): Vim pela fofoca",
         "F. RicaRdo sAnToS (193729163993156): Bem vinda",
         "Rafael Moura (57707230945348): Ja acabou",
@@ -9704,7 +9703,8 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Ss",
         "Edison Medeiros💚 (108268240302270): Boah noite a todos !\nMe chamo Edison tenho 44 aninhos sou solteiro e moro em Votorantim SP",
         " (120363432018531082): Boah noite a todos !\nMe chamo Edison tenho 44 aninhos sou solteiro e moro em Votorantim SP",
-        "Milena B. Costa (233161007071346): Como ele é generoso, me deu dois centímetros a mais kkkkkkk 🤌🏻"
+        "Milena B. Costa (233161007071346): Como ele é generoso, me deu dois centímetros a mais kkkkkkk 🤌🏻",
+        "Gabriel (145381035905262): Claro"
       ]
     },
     "120363428464897153@g.us": {
@@ -13712,7 +13712,11 @@
         "Souza (190864487919667): Falam de mucilon mas não usam o tal",
         "Alexandre Bastos (75797868064796): Obg",
         "Alexandre Bastos (75797868064796): Eita",
-        "Gleydson Souza (274384656834700): Mas quando usam tmb nuh kkkkk"
+        "Gleydson Souza (274384656834700): Mas quando usam tmb nuh kkkkk",
+        "Celiete Souza (129373172711439): Kkkkkk",
+        "Souza (190864487919667): Quero ser o Mucilon da vez",
+        "Saul (118515428286715): Vixe, que papo é esse de me usar? Lá ele",
+        "Alexandre Bastos (75797868064796): Aí não irmão"
       ]
     },
     "120363409727467494@g.us": {
@@ -16175,12 +16179,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "118395236282617",
-        "authorName": "Caroline",
-        "text": "Bem vindo",
-        "timestamp": 1787878140621
-      },
-      {
         "authorNum": "81991328395336",
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Bem vindo jovem",
@@ -16227,15 +16225,15 @@
         "authorName": "Milena B. Costa",
         "text": "Como ele é generoso, me deu dois centímetros a mais kkkkkkk 🤌🏻",
         "timestamp": 1787879888423
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Claro",
+        "timestamp": 1787879951406
       }
     ],
     "120363428464897153@g.us": [
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Oi",
-        "timestamp": 1787878158484
-      },
       {
         "authorNum": "129373172711439",
         "authorName": "Celiete Souza",
@@ -16763,6 +16761,30 @@
         "authorName": "Gleydson Souza",
         "text": "Mas quando usam tmb nuh kkkkk",
         "timestamp": 1787879914580
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Kkkkkk",
+        "timestamp": 1787879933296
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Quero ser o Mucilon da vez",
+        "timestamp": 1787879948734
+      },
+      {
+        "authorNum": "118515428286715",
+        "authorName": "Saul",
+        "text": "Vixe, que papo é esse de me usar? Lá ele",
+        "timestamp": 1787879951132
+      },
+      {
+        "authorNum": "75797868064796",
+        "authorName": "Alexandre Bastos",
+        "text": "Aí não irmão",
+        "timestamp": 1787879965602
       }
     ],
     "120363409727467494@g.us": [],
@@ -16780,8 +16802,8 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21034,
-    "120363428464897153@g.us": 6153,
+    "120363432018531082@g.us": 21035,
+    "120363428464897153@g.us": 6157,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1711,
     "120363411233423709@g.us": 5,
@@ -137124,6 +137146,12 @@
         "text": "Como ele é generoso, me deu dois centímetros a mais kkkkkkk 🤌🏻",
         "pushName": "Milena B. Costa",
         "timestamp": 1787879888423
+      },
+      "ACD8946981383A7FB318C3E74DBCD283": {
+        "sender": "145381035905262@lid",
+        "text": "Claro",
+        "pushName": "Gabriel",
+        "timestamp": 1787879951406
       }
     },
     "120363428464897153@g.us": {
@@ -173216,6 +173244,30 @@
         "text": "Mas quando usam tmb nuh kkkkk",
         "pushName": "Gleydson Souza",
         "timestamp": 1787879914580
+      },
+      "ACF3EE7AE09DF489C7CB1DE23D000A20": {
+        "sender": "129373172711439@lid",
+        "text": "Kkkkkk",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787879933297
+      },
+      "AC1007B9B7E9D146719228E55B9DC630": {
+        "sender": "190864487919667@lid",
+        "text": "Quero ser o Mucilon da vez",
+        "pushName": "Souza",
+        "timestamp": 1787879948734
+      },
+      "3A44F901EF71EBEE1D19": {
+        "sender": "118515428286715@lid",
+        "text": "Vixe, que papo é esse de me usar? Lá ele",
+        "pushName": "Saul",
+        "timestamp": 1787879951132
+      },
+      "ACA63610036FE258F9106BCA215CC6C9": {
+        "sender": "75797868064796@lid",
+        "text": "Aí não irmão",
+        "pushName": "Alexandre Bastos",
+        "timestamp": 1787879965602
       }
     },
     "120363409727467494@g.us": {
@@ -187259,8 +187311,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787879888423,
-    "120363428464897153@g.us": 1787879914580,
+    "120363432018531082@g.us": 1787879951404,
+    "120363428464897153@g.us": 1787879965602,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787877736241,
     "120363411233423709@g.us": 1787113553426,
