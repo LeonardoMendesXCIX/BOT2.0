@@ -453,9 +453,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1738,
+        "text": 1739,
         "media": 347,
-        "total": 2085
+        "total": 2086
       },
       "252600633041077": {
         "text": 1,
@@ -2603,9 +2603,9 @@
         "total": 31
       },
       "190864487919667": {
-        "text": 344,
+        "text": 347,
         "media": 51,
-        "total": 395
+        "total": 398
       },
       "82227819987089": {
         "text": 2,
@@ -9950,9 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Souza (190864487919667): Todas",
-        "Arthur (206253020176458): Q lindaa",
-        "~Gará (83911531044906): Eu venderia meus rins.",
         "Camila Designer (92629643563147): Eu também 🤣🤣🤣",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Obrigada pelo elogio 🥹",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Deliciaaaaa\nEu quero",
@@ -10449,7 +10446,10 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): 🫡🔥",
         "Gabriel (145381035905262): Fritando",
         "Souza (190864487919667): Sigo solteiro",
-        "Celiete Souza (129373172711439): Tudo queto"
+        "Celiete Souza (129373172711439): Tudo queto",
+        "Souza (190864487919667): Eu tô procrastinando no trabalho",
+        "Souza (190864487919667): Chegar em casa é só estudar 🤡",
+        "Leandro (+55 (11) 92701-8683): Quem foi o inteligente?"
       ]
     },
     "120363428464897153@g.us": {
@@ -17662,6 +17662,24 @@
         "authorName": "Celiete Souza",
         "text": "Tudo queto",
         "timestamp": 1787944511767
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Eu tô procrastinando no trabalho",
+        "timestamp": 1787944523775
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Chegar em casa é só estudar 🤡",
+        "timestamp": 1787944537831
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Quem foi o inteligente?",
+        "timestamp": 1787944544821
       }
     ],
     "120363428464897153@g.us": [],
@@ -17773,7 +17791,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22311,
+    "120363432018531082@g.us": 22314,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -145698,6 +145716,24 @@
         "text": "Tudo queto",
         "pushName": "Celiete Souza",
         "timestamp": 1787944511768
+      },
+      "AC71B6454BEA8B847102A1B46EFFCE48": {
+        "sender": "190864487919667@lid",
+        "text": "Eu tô procrastinando no trabalho",
+        "pushName": "Souza",
+        "timestamp": 1787944523775
+      },
+      "AC3D863FAE4168DFE99EE9C24B6C4F82": {
+        "sender": "190864487919667@lid",
+        "text": "Chegar em casa é só estudar 🤡",
+        "pushName": "Souza",
+        "timestamp": 1787944537831
+      },
+      "A5A74F759A36B53E51F2E87EB746424F": {
+        "sender": "54259127210155@lid",
+        "text": "Quem foi o inteligente?",
+        "pushName": "Leandro",
+        "timestamp": 1787944544822
       }
     },
     "120363428464897153@g.us": {
@@ -199159,7 +199195,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787944511767,
+    "120363432018531082@g.us": 1787944555153,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
