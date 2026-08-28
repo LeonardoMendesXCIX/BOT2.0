@@ -2629,8 +2629,8 @@
       },
       "75797868064796": {
         "text": 18,
-        "media": 48,
-        "total": 66
+        "media": 49,
+        "total": 67
       },
       "153764728184839": {
         "text": 2,
@@ -2798,9 +2798,9 @@
         "total": 4
       },
       "247020967165997": {
-        "text": 29,
+        "text": 31,
         "media": 7,
-        "total": 36
+        "total": 38
       },
       "206253020176458": {
         "text": 3,
@@ -10162,7 +10162,9 @@
         "Gabi 💋 (247020967165997): Pra pagar a sua psicóloga que está no cabaré",
         "Pedro Henrique (172868239380659): Nada, viagem mesmo eu nunca nem fui no cabaré",
         "Rafael Moura (57707230945348): Nossa mulher aranha 😏",
-        "Pedro Henrique (172868239380659): Alguém ficou sentida com a história 😏"
+        "Pedro Henrique (172868239380659): Alguém ficou sentida com a história 😏",
+        "Gabi 💋 (247020967165997): Eu não",
+        "Gabi 💋 (247020967165997): Eu tô é rindo"
       ]
     },
     "120363428464897153@g.us": {
@@ -17810,6 +17812,18 @@
         "authorName": "Pedro Henrique",
         "text": "Alguém ficou sentida com a história 😏",
         "timestamp": 1787915938982
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Eu não",
+        "timestamp": 1787915948640
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Eu tô é rindo",
+        "timestamp": 1787915959580
       }
     ],
     "120363428464897153@g.us": [],
@@ -17854,7 +17868,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21400,
+    "120363432018531082@g.us": 21402,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -140364,6 +140378,18 @@
         "text": "Alguém ficou sentida com a história 😏",
         "pushName": "Pedro Henrique",
         "timestamp": 1787915938983
+      },
+      "AC053E9B04F39F6F6A91D3CFE97A7FAA": {
+        "sender": "247020967165997@lid",
+        "text": "Eu não",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787915948640
+      },
+      "ACB9EFAE9366CFC97E3B820ADAC06E12": {
+        "sender": "247020967165997@lid",
+        "text": "Eu tô é rindo",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787915959580
       }
     },
     "120363428464897153@g.us": {
@@ -193159,7 +193185,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787915938982,
+    "120363432018531082@g.us": 1787915959580,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
