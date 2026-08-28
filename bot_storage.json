@@ -2628,9 +2628,9 @@
         "total": 46
       },
       "75797868064796": {
-        "text": 11,
-        "media": 19,
-        "total": 30
+        "text": 12,
+        "media": 20,
+        "total": 32
       },
       "153764728184839": {
         "text": 2,
@@ -9939,7 +9939,8 @@
         "jaciara (108461127897146): Estão bem ?",
         "Alexandre Bastos (75797868064796): Sextou",
         "Alexandre Bastos (75797868064796): Sim e vc",
-        "jaciara (108461127897146): Bem também"
+        "jaciara (108461127897146): Bem também",
+        "Alexandre Bastos (75797868064796): Bom ótimo dia"
       ]
     },
     "120363428464897153@g.us": {
@@ -16905,6 +16906,12 @@
         "authorName": "jaciara",
         "text": "Bem também",
         "timestamp": 1787908599804
+      },
+      {
+        "authorNum": "75797868064796",
+        "authorName": "Alexandre Bastos",
+        "text": "Bom ótimo dia",
+        "timestamp": 1787908633207
       }
     ],
     "120363428464897153@g.us": [],
@@ -16924,7 +16931,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21207,
+    "120363432018531082@g.us": 21208,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1989,
@@ -138290,6 +138297,12 @@
         "text": "Bem também",
         "pushName": "jaciara",
         "timestamp": 1787908599804
+      },
+      "ACE056A1AECBC15FAFBD452261454E8F": {
+        "sender": "75797868064796@lid",
+        "text": "Bom ótimo dia",
+        "pushName": "Alexandre Bastos",
+        "timestamp": 1787908633207
       }
     },
     "120363428464897153@g.us": {
@@ -191061,7 +191074,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787908599804,
+    "120363432018531082@g.us": 1787908633207,
     "120363428464897153@g.us": 1787902098969,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787894166886,
