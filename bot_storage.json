@@ -3295,18 +3295,18 @@
       },
       "190864487919667": {
         "text": 35,
-        "media": 6,
-        "total": 41
+        "media": 7,
+        "total": 42
       },
       "118515428286715": {
-        "text": 8,
+        "text": 9,
         "media": 2,
-        "total": 10
+        "total": 11
       },
       "274384656834700": {
-        "text": 2,
+        "text": 3,
         "media": 2,
-        "total": 4
+        "total": 5
       },
       "34626781356198": {
         "text": 0,
@@ -13688,7 +13688,8 @@
         "Celiete Souza (129373172711439): Tá bom assim!",
         "Camila Designer (92629643563147): 👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼",
         "Celiete Souza (129373172711439): Estou aprendendo",
-        "Camila Designer (92629643563147): Saindo melhor que encomenda kkkk"
+        "Camila Designer (92629643563147): Saindo melhor que encomenda kkkk",
+        "Saul (118515428286715): Acabei de fazer, ufa"
       ]
     },
     "120363409727467494@g.us": {
@@ -16213,24 +16214,6 @@
     ],
     "120363428464897153@g.us": [
       {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "@190864487919667 saidinho hein",
-        "timestamp": 1787877561409
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Sei de nada",
-        "timestamp": 1787877594074
-      },
-      {
-        "authorNum": "120044990287992",
-        "authorName": "negoh🐻",
-        "text": "Pq esse grupo tá parado",
-        "timestamp": 1787877748272
-      },
-      {
         "authorNum": "190864487919667",
         "authorName": "Souza",
         "text": "Aí aí",
@@ -16661,6 +16644,12 @@
         "authorName": "Camila Designer",
         "text": "Saindo melhor que encomenda kkkk",
         "timestamp": 1787879316500
+      },
+      {
+        "authorNum": "118515428286715",
+        "authorName": "Saul",
+        "text": "Acabei de fazer, ufa",
+        "timestamp": 1787879602976
       }
     ],
     "120363409727467494@g.us": [],
@@ -16728,7 +16717,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 21033,
-    "120363428464897153@g.us": 6129,
+    "120363428464897153@g.us": 6130,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1711,
     "120363411233423709@g.us": 5,
@@ -16841,12 +16830,6 @@
     }
   },
   "pendingBvReminders": [
-    {
-      "id": "1787878624628_118515428286715@lid",
-      "chatId": "120363428464897153@g.us",
-      "newMemberId": "118515428286715@lid",
-      "runAt": 1787879524628
-    },
     {
       "id": "1787878754249_274384656834700@lid",
       "chatId": "120363428464897153@g.us",
@@ -173032,6 +173015,12 @@
         "text": "Saindo melhor que encomenda kkkk",
         "pushName": "Camila Designer",
         "timestamp": 1787879316500
+      },
+      "3A66D876A17FA81EDCD4": {
+        "sender": "118515428286715@lid",
+        "text": "Acabei de fazer, ufa",
+        "pushName": "Saul",
+        "timestamp": 1787879602976
       }
     },
     "120363409727467494@g.us": {
@@ -187076,7 +187065,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787879318050,
-    "120363428464897153@g.us": 1787879382505,
+    "120363428464897153@g.us": 1787879602976,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787877736241,
     "120363411233423709@g.us": 1787113553426,
