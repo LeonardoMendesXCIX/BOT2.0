@@ -2603,9 +2603,9 @@
         "total": 26
       },
       "190864487919667": {
-        "text": 262,
+        "text": 263,
         "media": 42,
-        "total": 304
+        "total": 305
       },
       "82227819987089": {
         "text": 2,
@@ -2858,9 +2858,9 @@
         "total": 4
       },
       "263797142995147": {
-        "text": 24,
+        "text": 29,
         "media": 3,
-        "total": 27
+        "total": 32
       }
     },
     "120363428464897153@g.us": {
@@ -9900,11 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Bruno (210152934359048): Nossa tem do Brasil inteiro então uai",
-        "Bruno (210152934359048): Kakakaka",
-        "Bruno (210152934359048): Bom demais",
-        "Celiete Souza (129373172711439): Bomm diaaaa 🌻",
-        "Celiete Souza (129373172711439): Boa sexta-feira pra todos 🙏🏼",
         "Bruno (210152934359048): Bom diaa",
         "Alexandre Bastos (75797868064796): Bem vinda",
         "Gabi 💋 (247020967165997): Obrigada",
@@ -10399,7 +10394,12 @@
         "eduardo (37826582323373): obrigada",
         "Bruno Aguiar (+1395881181241): Vc cuida bem de nós ❤️",
         "Souza (190864487919667): Ou tome banho próximo dos seus pertences",
-        "Nanda (263797142995147): eu tenho namorado, porém ele trabalha tmb né, normal de todo clt. e a unica amiguinha q tenho q mora perto, tmb trabalha e eu sou ajudante de cuidadora de idosos, n é td dia q trabalho, hj é minha fol"
+        "Nanda (263797142995147): eu tenho namorado, porém ele trabalha tmb né, normal de todo clt. e a unica amiguinha q tenho q mora perto, tmb trabalha e eu sou ajudante de cuidadora de idosos, n é td dia q trabalho, hj é minha fol",
+        "Nanda (263797142995147): brigadaa",
+        "Nanda (263797142995147): pior",
+        "Souza (190864487919667): Tem que ter mais amigos então 😂",
+        "Nanda (263797142995147): ai eu vou me comunicar como se me sequestrarem?",
+        "Nanda (263797142995147): eu penso cada coisa mn"
       ]
     },
     "120363428464897153@g.us": {
@@ -17341,12 +17341,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "206253020176458",
-        "authorName": "Arthur",
-        "text": "Ss e vc como esta",
-        "timestamp": 1787925050739
-      },
-      {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Não se apresentou e invasão de Pv",
@@ -17687,6 +17681,36 @@
         "authorName": "Nanda",
         "text": "eu tenho namorado, porém ele trabalha tmb né, normal de todo clt. e a unica amiguinha q tenho q mora perto, tmb trabalha e eu sou ajudante de cuidadora de idosos, n é td dia q trabalho, hj é minha folga e n tem nd pra fazer",
         "timestamp": 1787926849125
+      },
+      {
+        "authorNum": "263797142995147",
+        "authorName": "Nanda",
+        "text": "brigadaa",
+        "timestamp": 1787926857165
+      },
+      {
+        "authorNum": "263797142995147",
+        "authorName": "Nanda",
+        "text": "pior",
+        "timestamp": 1787926866431
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Tem que ter mais amigos então 😂",
+        "timestamp": 1787926869409
+      },
+      {
+        "authorNum": "263797142995147",
+        "authorName": "Nanda",
+        "text": "ai eu vou me comunicar como se me sequestrarem?",
+        "timestamp": 1787926876617
+      },
+      {
+        "authorNum": "263797142995147",
+        "authorName": "Nanda",
+        "text": "eu penso cada coisa mn",
+        "timestamp": 1787926881646
       }
     ],
     "120363428464897153@g.us": [],
@@ -17713,7 +17737,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21773,
+    "120363432018531082@g.us": 21778,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2011,
@@ -142448,6 +142472,36 @@
         "text": "eu tenho namorado, porém ele trabalha tmb né, normal de todo clt. e a unica amiguinha q tenho q mora perto, tmb trabalha e eu sou ajudante de cuidadora de idosos, n é td dia q trabalho, hj é minha folga e n tem nd pra fazer",
         "pushName": "Nanda",
         "timestamp": 1787926849125
+      },
+      "ACDCAB3FE6E0E41B2DCCF066546710DF": {
+        "sender": "263797142995147@lid",
+        "text": "brigadaa",
+        "pushName": "Nanda",
+        "timestamp": 1787926857165
+      },
+      "AC5AEEE3D6FA131740D1FD197E44C9BD": {
+        "sender": "263797142995147@lid",
+        "text": "pior",
+        "pushName": "Nanda",
+        "timestamp": 1787926866432
+      },
+      "AC5EE070AC37045244F9770F92DD7FE1": {
+        "sender": "190864487919667@lid",
+        "text": "Tem que ter mais amigos então 😂",
+        "pushName": "Souza",
+        "timestamp": 1787926869409
+      },
+      "ACA06C73637A156846DDE0015CA6A24A": {
+        "sender": "263797142995147@lid",
+        "text": "ai eu vou me comunicar como se me sequestrarem?",
+        "pushName": "Nanda",
+        "timestamp": 1787926876617
+      },
+      "AC15F4198D9C612EE50FCFCB484C8C4A": {
+        "sender": "263797142995147@lid",
+        "text": "eu penso cada coisa mn",
+        "pushName": "Nanda",
+        "timestamp": 1787926881646
       }
     },
     "120363428464897153@g.us": {
@@ -195351,7 +195405,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787926852348,
+    "120363432018531082@g.us": 1787926881646,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787926648480,
