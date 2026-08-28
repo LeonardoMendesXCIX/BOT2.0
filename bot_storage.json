@@ -449,9 +449,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1679,
+        "text": 1680,
         "media": 326,
-        "total": 2005
+        "total": 2006
       },
       "252600633041077": {
         "text": 1,
@@ -9815,7 +9815,8 @@
         "Leandro (+55 (11) 92701-8683): Aí aí aí @81991328395336",
         "Leandro (+55 (11) 92701-8683): Só espero que não seja quem estou pensando",
         "Leandro (+55 (11) 92701-8683): Se apresenta aí @265811516211241",
-        "Gustavo Willians Lopes (265811516211241): Gustavo \nJoinville SC \nSolteiro \n32"
+        "Gustavo Willians Lopes (265811516211241): Gustavo \nJoinville SC \nSolteiro \n32",
+        "Leandro (+55 (11) 92701-8683): Bem vindo jovem! 🫡"
       ]
     },
     "120363428464897153@g.us": {
@@ -16726,6 +16727,12 @@
         "authorName": "Gustavo Willians Lopes",
         "text": "Gustavo \nJoinville SC \nSolteiro \n32",
         "timestamp": 1787893753643
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Bem vindo jovem! 🫡",
+        "timestamp": 1787894050464
       }
     ],
     "120363428464897153@g.us": [
@@ -16795,7 +16802,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21114,
+    "120363432018531082@g.us": 21115,
     "120363428464897153@g.us": 6280,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1988,
@@ -137613,6 +137620,12 @@
         "text": "Gustavo \nJoinville SC \nSolteiro \n32",
         "pushName": "Gustavo Willians Lopes",
         "timestamp": 1787893753643
+      },
+      "A535681C4B118113EECC1552897C2F65": {
+        "sender": "54259127210155@lid",
+        "text": "Bem vindo jovem! 🫡",
+        "pushName": "Leandro",
+        "timestamp": 1787894050464
       }
     },
     "120363428464897153@g.us": {
@@ -190220,7 +190233,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787893753643,
+    "120363432018531082@g.us": 1787894050464,
     "120363428464897153@g.us": 1787892526637,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787892491773,
