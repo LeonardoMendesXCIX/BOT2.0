@@ -178,9 +178,9 @@
         "total": 2151
       },
       "81991328395336": {
-        "text": 3948,
+        "text": 3949,
         "media": 1350,
-        "total": 5298
+        "total": 5299
       },
       "179040627490824": {
         "text": 433,
@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2381,
+        "text": 2382,
         "media": 330,
-        "total": 2711
+        "total": 2712
       },
       "252922705240205": {
         "text": 80,
@@ -2603,9 +2603,9 @@
         "total": 41
       },
       "190864487919667": {
-        "text": 363,
+        "text": 365,
         "media": 52,
-        "total": 415
+        "total": 417
       },
       "82227819987089": {
         "text": 2,
@@ -9950,10 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Bruno Aguiar (+1395881181241): Mas aí tem que ter um Rum kkk",
-        "Bruno Aguiar (+1395881181241): Nem fale",
-        "Wagner Cabral (240716089413724): Tá lascado",
-        "May (227783724793861): Nossa\nQue inveja hahaha",
         "Wagner Cabral (240716089413724): Kkkkkkk",
         "May (227783724793861): Aqui eu já n senti inveja kkkkk",
         "Wagner Cabral (240716089413724): Inveja eu tenho disso aqui",
@@ -10449,7 +10445,11 @@
         "Celiete Souza (129373172711439): Dia 19 tem show aqui em Porto Alegre ❤️\nVou ir",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): E o nome dele é Fernando",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Sim amiga kkkkk",
-        "Souza (190864487919667): Eu o q?"
+        "Souza (190864487919667): Eu o q?",
+        "Souza (190864487919667): Q",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Teu nome e Fernando",
+        "Souza (190864487919667): É",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Isso aqui é pra ti\n@190864487919667"
       ]
     },
     "120363428464897153@g.us": {
@@ -17740,6 +17740,30 @@
         "authorName": "Souza",
         "text": "Eu o q?",
         "timestamp": 1787957220161
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Q",
+        "timestamp": 1787957235296
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Teu nome e Fernando",
+        "timestamp": 1787957244736
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "É",
+        "timestamp": 1787957254926
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Isso aqui é pra ti\n@190864487919667",
+        "timestamp": 1787957265765
       }
     ],
     "120363428464897153@g.us": [],
@@ -18036,7 +18060,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22548,
+    "120363432018531082@g.us": 22552,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2136,
@@ -147359,6 +147383,30 @@
         "text": "Eu o q?",
         "pushName": "Souza",
         "timestamp": 1787957220161
+      },
+      "ACD66C1551AF7EC9B5EF9D724D052D89": {
+        "sender": "190864487919667@lid",
+        "text": "Q",
+        "pushName": "Souza",
+        "timestamp": 1787957235296
+      },
+      "ACDD4314501B1AE8C17C50D3CBB96748": {
+        "sender": "81991328395336@lid",
+        "text": "Teu nome e Fernando",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787957244736
+      },
+      "AC0BA48F33047AFD86EAC9C1B78C658F": {
+        "sender": "190864487919667@lid",
+        "text": "É",
+        "pushName": "Souza",
+        "timestamp": 1787957254926
+      },
+      "AC75AACCF1A29ED159D35F1911676987": {
+        "sender": "53537388122141@lid",
+        "text": "Isso aqui é pra ti\n@190864487919667",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787957265765
       }
     },
     "120363428464897153@g.us": {
@@ -201144,7 +201192,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787957220161,
+    "120363432018531082@g.us": 1787957265765,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787957058249,
