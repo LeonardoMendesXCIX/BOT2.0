@@ -173,9 +173,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1691,
-        "media": 470,
-        "total": 2161
+        "text": 1693,
+        "media": 471,
+        "total": 2164
       },
       "81991328395336": {
         "text": 3954,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "jaciara (108461127897146): Eu sou solteira , não estou atrás de relacionamento kkkk só que se for",
         "Gleydson Souza (274384656834700): Solteiro",
         "jaciara (108461127897146): Só que meu PV só está liberado se pedir permissão , sem permissão nem adianta mandar mensagem",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): 👀",
@@ -10449,7 +10448,8 @@
         "Juliano Perlin (222595437858867): Ja vai pro berço??",
         "Juliano Perlin (222595437858867): 🤣",
         "Celiete Souza (129373172711439): Pq Ju? Kkkkkkll",
-        "Juliano Perlin (222595437858867): Saber ué🤣🤣🤣"
+        "Juliano Perlin (222595437858867): Saber ué🤣🤣🤣",
+        "Celiete Souza (129373172711439): Tô aqui"
       ]
     },
     "120363428464897153@g.us": {
@@ -17579,18 +17579,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "A pronto, começou\n@54259127210155 \n@81991328395336",
-        "timestamp": 1787957400549
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "O Leônidas, você tem que parar de arrumar essas confusão...",
-        "timestamp": 1787957563570
-      },
-      {
         "authorNum": "81991328395336",
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "@53537388122141",
@@ -17841,6 +17829,12 @@
         "authorName": "Juliano Perlin",
         "text": "Saber ué🤣🤣🤣",
         "timestamp": 1787959181197
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Tô aqui",
+        "timestamp": 1787959414726
       }
     ],
     "120363428464897153@g.us": [],
@@ -18107,7 +18101,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22601,
+    "120363432018531082@g.us": 22602,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2177,
@@ -147749,6 +147743,12 @@
         "text": "Saber ué🤣🤣🤣",
         "pushName": "Juliano Perlin",
         "timestamp": 1787959181197
+      },
+      "ACD37FF30380DE51646085B21B55387F": {
+        "sender": "129373172711439@lid",
+        "text": "Tô aqui",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787959414727
       }
     },
     "120363428464897153@g.us": {
@@ -201780,7 +201780,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787959320875,
+    "120363432018531082@g.us": 1787959426250,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787958481180,
