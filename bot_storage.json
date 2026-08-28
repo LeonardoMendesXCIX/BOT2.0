@@ -1954,8 +1954,8 @@
       },
       "83911531044906": {
         "text": 53,
-        "media": 2,
-        "total": 55
+        "media": 3,
+        "total": 56
       },
       "172864548434113": {
         "text": 42,
@@ -2673,9 +2673,9 @@
         "total": 3
       },
       "193729163993156": {
-        "text": 29,
+        "text": 30,
         "media": 6,
-        "total": 35
+        "total": 36
       },
       "151582733820115": {
         "text": 5,
@@ -2708,9 +2708,9 @@
         "total": 2
       },
       "108461127897146": {
-        "text": 52,
-        "media": 4,
-        "total": 56
+        "text": 53,
+        "media": 5,
+        "total": 58
       },
       "10050861031495": {
         "text": 0,
@@ -9900,8 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Alexandre Bastos (75797868064796): Vc que disse",
-        "Pedro Henrique (172868239380659): Se não for pensar na intenção é melhor ficar em casa",
         "Pedro Henrique (172868239380659): Sem ser no cabaré",
         "Gabi 💋 (247020967165997): Meu Deus",
         "Pedro Henrique (172868239380659): Já criei a primeira discórdia da sexta, agora iremos trabalhar",
@@ -10399,7 +10397,9 @@
         "Bruno Aguiar (+1395881181241): Merece🫶🏼",
         "Souza (190864487919667): Só tem maluco no grupo 😂😂😂",
         "jaciara (108461127897146): Fazemos algumas exigências kkkkk",
-        "~Gará (83911531044906): Manda a lista"
+        "~Gará (83911531044906): Manda a lista",
+        "jaciara (108461127897146): Primeiramente qual a idade , dependendo da idade aí eu e a bebê pensamos se mandamos a lista",
+        "F. RicaRdo sAnToS (193729163993156): Cuidado com os cara q tem perfil nas gestantes @108461127897146"
       ]
     },
     "120363428464897153@g.us": {
@@ -17784,6 +17784,18 @@
         "authorName": "~Gará",
         "text": "Manda a lista",
         "timestamp": 1787929277745
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Primeiramente qual a idade , dependendo da idade aí eu e a bebê pensamos se mandamos a lista",
+        "timestamp": 1787929317688
+      },
+      {
+        "authorNum": "193729163993156",
+        "authorName": "F. RicaRdo sAnToS",
+        "text": "Cuidado com os cara q tem perfil nas gestantes @108461127897146",
+        "timestamp": 1787929333501
       }
     ],
     "120363428464897153@g.us": [],
@@ -17810,7 +17822,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21884,
+    "120363432018531082@g.us": 21886,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -143204,6 +143216,18 @@
         "text": "Manda a lista",
         "pushName": "~Gará",
         "timestamp": 1787929277745
+      },
+      "AC9B7022115ED50A0FAB7088D7FACC05": {
+        "sender": "108461127897146@lid",
+        "text": "Primeiramente qual a idade , dependendo da idade aí eu e a bebê pensamos se mandamos a lista",
+        "pushName": "jaciara",
+        "timestamp": 1787929317688
+      },
+      "AC7B590ABA4F233200BC7522D95CE72D": {
+        "sender": "193729163993156@lid",
+        "text": "Cuidado com os cara q tem perfil nas gestantes @108461127897146",
+        "pushName": "F. RicaRdo sAnToS",
+        "timestamp": 1787929333501
       }
     },
     "120363428464897153@g.us": {
@@ -196113,7 +196137,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787929277745,
+    "120363432018531082@g.us": 1787929340587,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
