@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2356,
+        "text": 2357,
         "media": 329,
-        "total": 2685
+        "total": 2686
       },
       "252922705240205": {
         "text": 80,
@@ -2598,14 +2598,14 @@
         "total": 2
       },
       "11171897864256": {
-        "text": 30,
+        "text": 32,
         "media": 2,
-        "total": 32
+        "total": 34
       },
       "190864487919667": {
-        "text": 352,
+        "text": 354,
         "media": 51,
-        "total": 403
+        "total": 405
       },
       "82227819987089": {
         "text": 2,
@@ -3946,8 +3946,8 @@
       },
       "81991328395336": {
         "text": 17,
-        "media": 1064,
-        "total": 1081
+        "media": 1065,
+        "total": 1082
       },
       "145381035905262": {
         "text": 7,
@@ -9950,10 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "~Gará (83911531044906): Oxee",
-        "jaciara (108461127897146): O que ?",
-        "Souza (190864487919667): Já sou pai já, com muito orgulho",
-        "Souza (190864487919667): Vê com a Sabrina",
         "F. RicaRdo sAnToS (193729163993156): Aoooo",
         "~Gará (83911531044906): Eu posso ser o pai..🫢",
         "jaciara (108461127897146): Assim de cara ?",
@@ -10449,7 +10445,11 @@
         "jaciara (108461127897146): Vai longe",
         "jaciara (108461127897146): Criamos expectativas kkkkkk",
         "Bruno Aguiar (+1395881181241): Com certeza kkk",
-        "🙃🙃🙃 (11171897864256): Vou falta hoje 😁"
+        "🙃🙃🙃 (11171897864256): Vou falta hoje 😁",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Ficou rico?",
+        "Souza (190864487919667): O tempo tá passando hein",
+        "🙃🙃🙃 (11171897864256): Quem dera",
+        "🙃🙃🙃 (11171897864256): Quero que me coloquem pra fora sem eh pedir"
       ]
     },
     "120363428464897153@g.us": {
@@ -17785,6 +17785,30 @@
         "authorName": "🙃🙃🙃",
         "text": "Vou falta hoje 😁",
         "timestamp": 1787947564683
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Ficou rico?",
+        "timestamp": 1787947584872
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "O tempo tá passando hein",
+        "timestamp": 1787947591541
+      },
+      {
+        "authorNum": "11171897864256",
+        "authorName": "🙃🙃🙃",
+        "text": "Quem dera",
+        "timestamp": 1787947594877
+      },
+      {
+        "authorNum": "11171897864256",
+        "authorName": "🙃🙃🙃",
+        "text": "Quero que me coloquem pra fora sem eh pedir",
+        "timestamp": 1787947606684
       }
     ],
     "120363428464897153@g.us": [],
@@ -17817,7 +17841,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22370,
+    "120363432018531082@g.us": 22374,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -146096,6 +146120,30 @@
         "text": "Vou falta hoje 😁",
         "pushName": "🙃🙃🙃",
         "timestamp": 1787947564684
+      },
+      "AC38BB5844603933A2D56F9FDD43F02B": {
+        "sender": "53537388122141@lid",
+        "text": "Ficou rico?",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787947584872
+      },
+      "AC891D80D165292297E0BA9087E342FA": {
+        "sender": "190864487919667@lid",
+        "text": "O tempo tá passando hein",
+        "pushName": "Souza",
+        "timestamp": 1787947591541
+      },
+      "AC4B9525201FE14E8FE7DA3F1BAEC83F": {
+        "sender": "11171897864256@lid",
+        "text": "Quem dera",
+        "pushName": "🙃🙃🙃",
+        "timestamp": 1787947594877
+      },
+      "AC6AE2AE84E2EF1DA5BFB1F89DD8A125": {
+        "sender": "11171897864256@lid",
+        "text": "Quero que me coloquem pra fora sem eh pedir",
+        "pushName": "🙃🙃🙃",
+        "timestamp": 1787947606684
       }
     },
     "120363428464897153@g.us": {
@@ -199575,7 +199623,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787947564683,
+    "120363432018531082@g.us": 1787947606684,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
@@ -199586,7 +199634,7 @@
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1787868477291,
-    "120363409024805409@g.us": 1787947530062,
+    "120363409024805409@g.us": 1787947595276,
     "120363411043114631@g.us": 1787897464612
   },
   "autoAnimSent": {
