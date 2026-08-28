@@ -188,9 +188,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2248,
+        "text": 2249,
         "media": 474,
-        "total": 2722
+        "total": 2723
       },
       "184237705699536": {
         "text": 524,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Boa tarde @all \n\n\nSumida pq tô no dentista com meu baby",
         "May (227783724793861): Aceito",
         "jaciara (108461127897146): Tarde",
         "Bruno Aguiar (+1395881181241): Boa tarde 😘",
@@ -10449,7 +10448,8 @@
         "Leandro (+55 (11) 92701-8683): O Leônidas, você tem que parar de arrumar essas confusão...",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @53537388122141",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @163530946961491",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Mas cês tão sabendo de mais coisa que eu mesma, meu povo"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Mas cês tão sabendo de mais coisa que eu mesma, meu povo",
+        "Gabriel (145381035905262): Tô falando, eu nem sabia que eu era pai, fiquei sabendo aqui"
       ]
     },
     "120363428464897153@g.us": {
@@ -17782,6 +17782,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Mas cês tão sabendo de mais coisa que eu mesma, meu povo",
         "timestamp": 1787957808345
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Tô falando, eu nem sabia que eu era pai, fiquei sabendo aqui",
+        "timestamp": 1787957901280
       }
     ],
     "120363428464897153@g.us": [],
@@ -18078,7 +18084,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22562,
+    "120363432018531082@g.us": 22563,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2136,
@@ -147485,6 +147491,12 @@
         "text": "Mas cês tão sabendo de mais coisa que eu mesma, meu povo",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787957808345
+      },
+      "AC6472AF4680F5694D492D65EB7554FD": {
+        "sender": "145381035905262@lid",
+        "text": "Tô falando, eu nem sabia que eu era pai, fiquei sabendo aqui",
+        "pushName": "Gabriel",
+        "timestamp": 1787957901280
       }
     },
     "120363428464897153@g.us": {
@@ -201270,7 +201282,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787957864887,
+    "120363432018531082@g.us": 1787957901280,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787957058249,
