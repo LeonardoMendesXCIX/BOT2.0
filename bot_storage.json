@@ -2654,9 +2654,9 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 63,
+        "text": 64,
         "media": 13,
-        "total": 76
+        "total": 77
       },
       "172868239380659": {
         "text": 93,
@@ -9257,7 +9257,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Gabriel (145381035905262): Graças a Deus pai",
         "Jennifer🦋 (205621945192508): Tinder não",
         "Jennifer🦋 (205621945192508): Aqui no grupo é melhor KKKkkkkk",
         "Jennifer🦋 (205621945192508): 😂😂😂😂",
@@ -9756,7 +9755,8 @@
         "Leandro (+55 (11) 92701-8683): Tranquilo e calmo, graças a Deus",
         "Leandro (+55 (11) 92701-8683): E tu?",
         "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Também",
-        "Gleydson Souza (274384656834700): Justo kkkk"
+        "Gleydson Souza (274384656834700): Justo kkkk",
+        "Gleydson Souza (274384656834700): Eu vou me indo boa noite a todos"
       ]
     },
     "120363428464897153@g.us": {
@@ -16293,12 +16293,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "_10 minutos de silêncio, o grupo morreu na quinta-feira._",
-        "timestamp": 1787880901977
-      },
-      {
         "authorNum": "5511927018683",
         "authorName": "Leandro",
         "text": "!inativos",
@@ -16411,6 +16405,12 @@
         "authorName": "Gleydson Souza",
         "text": "Justo kkkk",
         "timestamp": 1787882508026
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Eu vou me indo boa noite a todos",
+        "timestamp": 1787882924924
       }
     ],
     "120363428464897153@g.us": [
@@ -16624,7 +16624,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21056,
+    "120363432018531082@g.us": 21057,
     "120363428464897153@g.us": 6217,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1712,
@@ -137107,6 +137107,12 @@
         "text": "Justo kkkk",
         "pushName": "Gleydson Souza",
         "timestamp": 1787882508026
+      },
+      "ACAE6A19656A5A8BB774807ACE63F65A": {
+        "sender": "274384656834700@lid",
+        "text": "Eu vou me indo boa noite a todos",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787882924924
       }
     },
     "120363428464897153@g.us": {
@@ -187638,7 +187644,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787882662731,
+    "120363432018531082@g.us": 1787882924924,
     "120363428464897153@g.us": 1787882861813,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787881450994,
