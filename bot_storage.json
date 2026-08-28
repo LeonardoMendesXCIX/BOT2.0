@@ -242,9 +242,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2200,
+        "text": 2201,
         "media": 292,
-        "total": 2492
+        "total": 2493
       },
       "252922705240205": {
         "text": 80,
@@ -1512,9 +1512,9 @@
         "total": 4
       },
       "272048228188398": {
-        "text": 83,
+        "text": 84,
         "media": 15,
-        "total": 98
+        "total": 99
       },
       "55959196049495": {
         "text": 6,
@@ -2567,9 +2567,9 @@
         "total": 21
       },
       "190864487919667": {
-        "text": 178,
+        "text": 179,
         "media": 33,
-        "total": 211
+        "total": 212
       },
       "82227819987089": {
         "text": 2,
@@ -9165,9 +9165,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Souza (190864487919667): Fu",
-        "Souza (190864487919667): Deu",
-        "Souza (190864487919667): Ela achou teu erro",
         "Souza (190864487919667): O que tu acha que ela não sabe",
         "Souza (190864487919667): Ela sabe",
         "Lailson Nathan. (272048228188398): Tá na merda kkkk",
@@ -9664,7 +9661,10 @@
         "jaciara (108461127897146): Vc mora onde ?",
         "Pedro Henrique (172868239380659): Brasília",
         "Souza (190864487919667): Morreu aqui",
-        "Souza (190864487919667): Cabaré abrir"
+        "Souza (190864487919667): Cabaré abrir",
+        "Lailson Nathan. (272048228188398): Seja bem vinda.",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Credo moço",
+        "Souza (190864487919667): 🫪"
       ]
     },
     "120363428464897153@g.us": {
@@ -15958,24 +15958,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "155503636275307",
-        "authorName": "Clayton 🇳🇬",
-        "text": "Foi corrido mais foi ótimo",
-        "timestamp": 1787874112530
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Que bom!!!",
-        "timestamp": 1787874134910
-      },
-      {
-        "authorNum": "274384656834700",
-        "authorName": "Gleydson Souza",
-        "text": "Cansativo",
-        "timestamp": 1787874138647
-      },
-      {
         "authorNum": "274384656834700",
         "authorName": "Gleydson Souza",
         "text": "Organizar evento e uma merda kkkk",
@@ -16676,6 +16658,24 @@
         "authorName": "Souza",
         "text": "Cabaré abrir",
         "timestamp": 1787875904328
+      },
+      {
+        "authorNum": "272048228188398",
+        "authorName": "Lailson Nathan.",
+        "text": "Seja bem vinda.",
+        "timestamp": 1787875935651
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Credo moço",
+        "timestamp": 1787875936035
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "🫪",
+        "timestamp": 1787875944972
       }
     ],
     "120363428464897153@g.us": [
@@ -16894,7 +16894,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20965,
+    "120363432018531082@g.us": 20968,
     "120363428464897153@g.us": 6006,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1684,
@@ -136837,6 +136837,24 @@
         "text": "Cabaré abrir",
         "pushName": "Souza",
         "timestamp": 1787875904328
+      },
+      "ACF16AFF3C1E33F0E6E58590E7E69EE6": {
+        "sender": "272048228188398@lid",
+        "text": "Seja bem vinda.",
+        "pushName": "Lailson Nathan.",
+        "timestamp": 1787875935651
+      },
+      "ACEF5811E0906294321E4430B57D6F67": {
+        "sender": "53537388122141@lid",
+        "text": "Credo moço",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787875936035
+      },
+      "AC3577EBFCBC757B9952507B3CCCB957": {
+        "sender": "190864487919667@lid",
+        "text": "🫪",
+        "pushName": "Souza",
+        "timestamp": 1787875944972
       }
     },
     "120363428464897153@g.us": {
@@ -185916,7 +185934,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787875910688,
+    "120363432018531082@g.us": 1787875944972,
     "120363428464897153@g.us": 1787875908993,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787875833838,
