@@ -1548,9 +1548,9 @@
         "total": 4
       },
       "272048228188398": {
-        "text": 84,
+        "text": 85,
         "media": 15,
-        "total": 99
+        "total": 100
       },
       "55959196049495": {
         "text": 6,
@@ -9875,7 +9875,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Leandro (+55 (11) 92701-8683): Bem vindo jovem! 🤝",
         "eduardo (37826582323373): muito obrigado gente",
         "eduardo (37826582323373): 😘",
         "Leandro (+55 (11) 92701-8683): Às ordens!",
@@ -10374,7 +10373,8 @@
         "amanda🫶 (94227841179800): Itaboraí",
         "Alexandre Bastos (75797868064796): Sou da barra",
         "Alexandre Bastos (75797868064796): Prazer Alexandre",
-        "Souza (190864487919667): Bem vinda"
+        "Souza (190864487919667): Bem vinda",
+        "Lailson Nathan. (272048228188398): Seja bem vinda."
       ]
     },
     "120363428464897153@g.us": {
@@ -17311,36 +17311,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Porque adulto faz o que precisa ser feito!😅😅😅",
-        "timestamp": 1787921439206
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Só o dia mesmo",
-        "timestamp": 1787921454744
-      },
-      {
-        "authorNum": "238388519141379",
-        "authorName": "Nickolas",
-        "text": "Verdade kkk",
-        "timestamp": 1787921488923
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Entendo, eu não vejo a hora desse mês de Agosto acabar, pra mim já deu",
-        "timestamp": 1787921494864
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Agosto está pank 🤣🤣🤣",
-        "timestamp": 1787921555665
-      },
-      {
         "authorNum": "221307534876912",
         "authorName": "𝔞𝔩𝔦𝔫𝔢🫶🏽",
         "text": "Eitttaaa",
@@ -17483,6 +17453,12 @@
         "authorName": "Souza",
         "text": "Bem vinda",
         "timestamp": 1787923225016
+      },
+      {
+        "authorNum": "272048228188398",
+        "authorName": "Lailson Nathan.",
+        "text": "Seja bem vinda.",
+        "timestamp": 1787923365502
       }
     ],
     "120363428464897153@g.us": [],
@@ -17545,7 +17521,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21679,
+    "120363432018531082@g.us": 21680,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2006,
@@ -141722,6 +141698,12 @@
         "text": "Bem vinda",
         "pushName": "Souza",
         "timestamp": 1787923225016
+      },
+      "ACF78FB03892F9202037545365E85FF6": {
+        "sender": "272048228188398@lid",
+        "text": "Seja bem vinda.",
+        "pushName": "Lailson Nathan.",
+        "timestamp": 1787923365502
       }
     },
     "120363428464897153@g.us": {
@@ -194595,7 +194577,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787923280587,
+    "120363432018531082@g.us": 1787923365502,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787922745298,
