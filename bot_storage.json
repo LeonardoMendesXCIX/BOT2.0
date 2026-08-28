@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2362,
+        "text": 2363,
         "media": 329,
-        "total": 2691
+        "total": 2692
       },
       "252922705240205": {
         "text": 80,
@@ -2718,9 +2718,9 @@
         "total": 1
       },
       "118515428286715": {
-        "text": 6,
+        "text": 7,
         "media": 1,
-        "total": 7
+        "total": 8
       },
       "108268240302270": {
         "text": 1,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Leandro (+55 (11) 92701-8683): Bora dar o play no fim de semana?",
         "Souza (190864487919667): Só amanhã às 12",
         "Rafael Moura (57707230945348): 👀",
         "Celiete Souza (129373172711439): Boa tarde",
@@ -10449,7 +10448,8 @@
         "jaciara (108461127897146): Eu estou procurando oportunidades kkkk estou abandonada agora que estou grávida",
         "Lailson Nathan. (272048228188398): Boa noite turma.",
         "Celiete Souza (129373172711439): Boa noite",
-        "Souza (190864487919667): @83911531044906 apareça"
+        "Souza (190864487919667): @83911531044906 apareça",
+        "Saul (118515428286715): Boa Noite"
       ]
     },
     "120363428464897153@g.us": {
@@ -17489,10 +17489,10 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "@83911531044906 apareça",
-        "timestamp": 1787950949766
+        "authorNum": "118515428286715",
+        "authorName": "Saul",
+        "text": "Boa Noite",
+        "timestamp": 1787952895040
       }
     ],
     "120363428464897153@g.us": [],
@@ -17526,7 +17526,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22495,
+    "120363432018531082@g.us": 22496,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2090,
@@ -146555,6 +146555,12 @@
         "text": "@83911531044906 apareça",
         "pushName": "Souza",
         "timestamp": 1787950949766
+      },
+      "3AA0527430234B07F9EE": {
+        "sender": "118515428286715@lid",
+        "text": "Boa Noite",
+        "pushName": "Saul",
+        "timestamp": 1787952895040
       }
     },
     "120363428464897153@g.us": {
@@ -200046,7 +200052,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787951945891,
+    "120363432018531082@g.us": 1787952895040,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787952802711,
