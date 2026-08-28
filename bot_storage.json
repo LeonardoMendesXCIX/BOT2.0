@@ -188,9 +188,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2206,
+        "text": 2207,
         "media": 471,
-        "total": 2677
+        "total": 2678
       },
       "184237705699536": {
         "text": 524,
@@ -453,9 +453,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1726,
+        "text": 1727,
         "media": 337,
-        "total": 2063
+        "total": 2064
       },
       "252600633041077": {
         "text": 1,
@@ -9950,8 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Pedro Henrique (172868239380659): Mas essa morte aí é paia",
-        "Souza (190864487919667): 👀",
         "Souza (190864487919667): Como uma porta",
         "Gabi 💋 (247020967165997): Obrigada",
         "Pedro Henrique (172868239380659): Muito tarde",
@@ -10449,7 +10447,9 @@
         "jaciara (108461127897146): 😂😂😂😂",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @145381035905262",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Tenho experiência em criança pequena, mas não tenho filhos.",
-        "Gabriel (145381035905262): Eu cobiçado?"
+        "Gabriel (145381035905262): Eu cobiçado?",
+        "Gabriel (145381035905262): Ma não é possível",
+        "Leandro (+55 (11) 92701-8683): Aí o Sol não tem preguiça não"
       ]
     },
     "120363428464897153@g.us": {
@@ -17598,6 +17598,18 @@
         "authorName": "Gabriel",
         "text": "Eu cobiçado?",
         "timestamp": 1787939457061
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Ma não é possível",
+        "timestamp": 1787939466827
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Aí o Sol não tem preguiça não",
+        "timestamp": 1787939467521
       }
     ],
     "120363428464897153@g.us": [],
@@ -17847,7 +17859,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22121,
+    "120363432018531082@g.us": 22123,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2061,
@@ -144644,6 +144656,18 @@
         "text": "Eu cobiçado?",
         "pushName": "Gabriel",
         "timestamp": 1787939457061
+      },
+      "AC08A2283D294F17E33894CAB504C562": {
+        "sender": "145381035905262@lid",
+        "text": "Ma não é possível",
+        "pushName": "Gabriel",
+        "timestamp": 1787939466827
+      },
+      "A59400505D5C88D8AB5912C1D2F5648B": {
+        "sender": "54259127210155@lid",
+        "text": "Aí o Sol não tem preguiça não",
+        "pushName": "Leandro",
+        "timestamp": 1787939467521
       }
     },
     "120363428464897153@g.us": {
@@ -197937,7 +197961,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787939457061,
+    "120363432018531082@g.us": 1787939467521,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787939104507,
