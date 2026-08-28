@@ -253,9 +253,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1510,
-        "media": 1119,
-        "total": 2629
+        "text": 1512,
+        "media": 1120,
+        "total": 2632
       },
       "3126803329115": {
         "text": 87,
@@ -2603,9 +2603,9 @@
         "total": 31
       },
       "190864487919667": {
-        "text": 339,
+        "text": 341,
         "media": 50,
-        "total": 389
+        "total": 391
       },
       "82227819987089": {
         "text": 2,
@@ -9950,9 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Nanda (263797142995147): eu tenho namorado, porém ele trabalha tmb né, normal de todo clt. e a unica amiguinha q tenho q mora perto, tmb trabalha e eu sou ajudante de cuidadora de idosos, n é td dia q trabalho, hj é minha fol",
-        "Nanda (263797142995147): brigadaa",
-        "Nanda (263797142995147): pior",
         "Souza (190864487919667): Tem que ter mais amigos então 😂",
         "Nanda (263797142995147): ai eu vou me comunicar como se me sequestrarem?",
         "Nanda (263797142995147): eu penso cada coisa mn",
@@ -10449,7 +10446,10 @@
         "Gabriel (145381035905262): Deu falha no engano",
         "Celiete Souza (129373172711439): 😂😂😂😂",
         "Celiete Souza (129373172711439): Coisas da Cê",
-        "Gabriel (145381035905262): O que tu fez ?"
+        "Gabriel (145381035905262): O que tu fez ?",
+        "Souza (190864487919667): Já mandei já",
+        "Camila Designer (92629643563147): Hidratação e escova nos cabelos 😂😂😂",
+        "Camila Designer (92629643563147): Queria cortar, mas controlei"
       ]
     },
     "120363428464897153@g.us": {
@@ -17469,24 +17469,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Surubao",
-        "timestamp": 1787940165929
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Surubasso com meu nome",
-        "timestamp": 1787940177128
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Mas infelizmente, eu não gosto dessa putaria aí não",
-        "timestamp": 1787940200996
-      },
-      {
         "authorNum": "81991328395336",
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "@222595437858867",
@@ -18073,6 +18055,24 @@
         "authorName": "Gabriel",
         "text": "O que tu fez ?",
         "timestamp": 1787941965280
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Já mandei já",
+        "timestamp": 1787942004082
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Hidratação e escova nos cabelos 😂😂😂",
+        "timestamp": 1787942006654
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Queria cortar, mas controlei",
+        "timestamp": 1787942024551
       }
     ],
     "120363428464897153@g.us": [],
@@ -18099,7 +18099,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22273,
+    "120363432018531082@g.us": 22276,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2075,
@@ -145808,6 +145808,24 @@
         "text": "O que tu fez ?",
         "pushName": "Gabriel",
         "timestamp": 1787941965280
+      },
+      "ACEEDA1FF79A8D51151779D7C63460AD": {
+        "sender": "190864487919667@lid",
+        "text": "Já mandei já",
+        "pushName": "Souza",
+        "timestamp": 1787942004082
+      },
+      "2A32D2C5D7D1BB213022": {
+        "sender": "92629643563147@lid",
+        "text": "Hidratação e escova nos cabelos 😂😂😂",
+        "pushName": "Camila Designer",
+        "timestamp": 1787942006654
+      },
+      "2AF19966BE76B56E4717": {
+        "sender": "92629643563147@lid",
+        "text": "Queria cortar, mas controlei",
+        "pushName": "Camila Designer",
+        "timestamp": 1787942024552
       }
     },
     "120363428464897153@g.us": {
@@ -199179,7 +199197,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787941997357,
+    "120363432018531082@g.us": 1787942034033,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787940055842,
