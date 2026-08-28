@@ -3119,9 +3119,9 @@
         "total": 3
       },
       "57561571176651": {
-        "text": 29,
+        "text": 31,
         "media": 40,
-        "total": 69
+        "total": 71
       },
       "201257922908323": {
         "text": 3,
@@ -13600,7 +13600,8 @@
         "Priscilla 🌻 (25520947339303): Sou atleticana",
         "Souza (190864487919667): Aí aí",
         "Celiete Souza (129373172711439): Oi",
-        "Celiete Souza (129373172711439): Só o meus neurônios que estão kkkk"
+        "Celiete Souza (129373172711439): Só o meus neurônios que estão kkkk",
+        "LUCIANO (57561571176651): Estão melhores que o meu então kkkk"
       ]
     },
     "120363409727467494@g.us": {
@@ -16301,18 +16302,6 @@
       {
         "authorNum": "25520947339303",
         "authorName": "Priscilla 🌻",
-        "text": "Q bom",
-        "timestamp": 1787876461806
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Muito trabalho hoje?",
-        "timestamp": 1787876469102
-      },
-      {
-        "authorNum": "25520947339303",
-        "authorName": "Priscilla 🌻",
         "text": "Como assim M",
         "timestamp": 1787876486509
       },
@@ -16543,6 +16532,12 @@
         "authorName": "Celiete Souza",
         "text": "Só o meus neurônios que estão kkkk",
         "timestamp": 1787878251781
+      },
+      {
+        "authorNum": "57561571176651",
+        "authorName": "LUCIANO",
+        "text": "Estão melhores que o meu então kkkk",
+        "timestamp": 1787878286402
       }
     ],
     "120363409727467494@g.us": [],
@@ -16713,7 +16708,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 21026,
-    "120363428464897153@g.us": 6066,
+    "120363428464897153@g.us": 6067,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1711,
     "120363411233423709@g.us": 5,
@@ -172591,6 +172586,12 @@
         "text": "Só o meus neurônios que estão kkkk",
         "pushName": "Celiete Souza",
         "timestamp": 1787878251781
+      },
+      "ACA922AC856916F363DD7A9786C544E0": {
+        "sender": "57561571176651@lid",
+        "text": "Estão melhores que o meu então kkkk",
+        "pushName": "LUCIANO",
+        "timestamp": 1787878286403
       }
     },
     "120363409727467494@g.us": {
@@ -186635,7 +186636,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787878140621,
-    "120363428464897153@g.us": 1787878257986,
+    "120363428464897153@g.us": 1787878286402,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787877736241,
     "120363411233423709@g.us": 1787113553426,
