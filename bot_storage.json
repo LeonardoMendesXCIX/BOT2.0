@@ -2783,9 +2783,9 @@
         "total": 1
       },
       "37826582323373": {
-        "text": 10,
+        "text": 11,
         "media": 2,
-        "total": 12
+        "total": 13
       },
       "279628962885736": {
         "text": 1,
@@ -2858,9 +2858,9 @@
         "total": 4
       },
       "263797142995147": {
-        "text": 29,
+        "text": 30,
         "media": 3,
-        "total": 32
+        "total": 33
       }
     },
     "120363428464897153@g.us": {
@@ -9900,7 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Bruno (210152934359048): Bom diaa",
         "Alexandre Bastos (75797868064796): Bem vinda",
         "Gabi 💋 (247020967165997): Obrigada",
         "Alexandre Bastos (75797868064796): Bom dia mais um plantão",
@@ -10399,7 +10398,8 @@
         "Nanda (263797142995147): pior",
         "Souza (190864487919667): Tem que ter mais amigos então 😂",
         "Nanda (263797142995147): ai eu vou me comunicar como se me sequestrarem?",
-        "Nanda (263797142995147): eu penso cada coisa mn"
+        "Nanda (263797142995147): eu penso cada coisa mn",
+        "eduardo (37826582323373): Já imagino"
       ]
     },
     "120363428464897153@g.us": {
@@ -17341,18 +17341,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Não se apresentou e invasão de Pv",
-        "timestamp": 1787925086285
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Aí me quebra as pernas",
-        "timestamp": 1787925092786
-      },
-      {
         "authorNum": "1395881181241",
         "authorName": "Bruno Aguiar",
         "text": "Seja bem vinda!!!",
@@ -17711,6 +17699,12 @@
         "authorName": "Nanda",
         "text": "eu penso cada coisa mn",
         "timestamp": 1787926881646
+      },
+      {
+        "authorNum": "37826582323373",
+        "authorName": "eduardo",
+        "text": "Já imagino",
+        "timestamp": 1787926904456
       }
     ],
     "120363428464897153@g.us": [],
@@ -17737,7 +17731,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21778,
+    "120363432018531082@g.us": 21779,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2011,
@@ -142502,6 +142496,12 @@
         "text": "eu penso cada coisa mn",
         "pushName": "Nanda",
         "timestamp": 1787926881646
+      },
+      "AC67892CCBE6B2AE835C0AE792B3EB3E": {
+        "sender": "37826582323373@lid",
+        "text": "Já imagino",
+        "pushName": "eduardo",
+        "timestamp": 1787926904456
       }
     },
     "120363428464897153@g.us": {
@@ -195405,7 +195405,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787926881646,
+    "120363432018531082@g.us": 1787926904456,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787926648480,
