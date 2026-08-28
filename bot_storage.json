@@ -173,9 +173,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1532,
+        "text": 1533,
         "media": 424,
-        "total": 1956
+        "total": 1957
       },
       "81991328395336": {
         "text": 3923,
@@ -2604,8 +2604,8 @@
       },
       "190864487919667": {
         "text": 302,
-        "media": 43,
-        "total": 345
+        "media": 44,
+        "total": 346
       },
       "82227819987089": {
         "text": 2,
@@ -9900,7 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Clayton 🇳🇬 (155503636275307): Acabou a briga",
         "Rafael Moura (57707230945348): Porra entao voltei a ser 0KM",
         "Clayton 🇳🇬 (155503636275307): Queremos o final desta novela",
         "Gabi 💋 (247020967165997): Pra tu caçar no puteiro e eu que sou rodada",
@@ -10399,7 +10398,8 @@
         "Souza (190864487919667): De que a mulher tinha que dar algo pro cara no primeiro",
         "Souza (190864487919667): Que se não era mais fácil ir no puteiro",
         "~Gará (83911531044906): Era só brincadeira caramba...rsrs",
-        "Souza (190864487919667): Beleza, acredito"
+        "Souza (190864487919667): Beleza, acredito",
+        "Celiete Souza (129373172711439): Aí complica, na minha opinião o homem que for cavalheiro não deixa isto acontecer"
       ]
     },
     "120363428464897153@g.us": {
@@ -17344,36 +17344,6 @@
       {
         "authorNum": "108461127897146",
         "authorName": "jaciara",
-        "text": "O que ?",
-        "timestamp": 1787929120820
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Já sou pai já, com muito orgulho",
-        "timestamp": 1787929123797
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Vê com a Sabrina",
-        "timestamp": 1787929134571
-      },
-      {
-        "authorNum": "193729163993156",
-        "authorName": "F. RicaRdo sAnToS",
-        "text": "Aoooo",
-        "timestamp": 1787929136842
-      },
-      {
-        "authorNum": "83911531044906",
-        "authorName": "~Gará",
-        "text": "Eu posso ser o pai..🫢",
-        "timestamp": 1787929158545
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
         "text": "Assim de cara ?",
         "timestamp": 1787929190738
       },
@@ -17910,6 +17880,12 @@
         "authorName": "Souza",
         "text": "Beleza, acredito",
         "timestamp": 1787930918025
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Aí complica, na minha opinião o homem que for cavalheiro não deixa isto acontecer",
+        "timestamp": 1787930964944
       }
     ],
     "120363428464897153@g.us": [],
@@ -17929,7 +17905,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21965,
+    "120363432018531082@g.us": 21966,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -143803,6 +143779,12 @@
         "text": "Beleza, acredito",
         "pushName": "Souza",
         "timestamp": 1787930918025
+      },
+      "ACE3A56DB47B9A042E11D253ECBEE94B": {
+        "sender": "129373172711439@lid",
+        "text": "Aí complica, na minha opinião o homem que for cavalheiro não deixa isto acontecer",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787930964944
       }
     },
     "120363428464897153@g.us": {
@@ -196712,7 +196694,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787930918025,
+    "120363432018531082@g.us": 1787930964944,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
