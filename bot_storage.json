@@ -173,9 +173,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1531,
+        "text": 1532,
         "media": 424,
-        "total": 1955
+        "total": 1956
       },
       "81991328395336": {
         "text": 3923,
@@ -1953,9 +1953,9 @@
         "total": 5
       },
       "83911531044906": {
-        "text": 64,
+        "text": 66,
         "media": 3,
-        "total": 67
+        "total": 69
       },
       "172864548434113": {
         "text": 42,
@@ -2603,9 +2603,9 @@
         "total": 30
       },
       "190864487919667": {
-        "text": 300,
+        "text": 302,
         "media": 43,
-        "total": 343
+        "total": 345
       },
       "82227819987089": {
         "text": 2,
@@ -2709,8 +2709,8 @@
       },
       "108461127897146": {
         "text": 71,
-        "media": 7,
-        "total": 78
+        "media": 8,
+        "total": 79
       },
       "10050861031495": {
         "text": 0,
@@ -9900,9 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Gabi 💋 (247020967165997): Obrigada",
-        "Pedro Henrique (172868239380659): Se tu fala que só 1 ano de solteiro é pouco, significa que vc é rodada",
-        "Pedro Henrique (172868239380659): Kkkkkkkkkkkk",
         "Clayton 🇳🇬 (155503636275307): Acabou a briga",
         "Rafael Moura (57707230945348): Porra entao voltei a ser 0KM",
         "Clayton 🇳🇬 (155503636275307): Queremos o final desta novela",
@@ -10399,7 +10396,10 @@
         "Nanda (263797142995147): reagindo tem, no youtube",
         "Souza (190864487919667): Tavam falando de dividir a conta no primeiro encontro",
         "Nanda (263797142995147): ela nem foi atrás",
-        "Souza (190864487919667): De que a mulher tinha que dar algo pro cara no primeiro"
+        "Souza (190864487919667): De que a mulher tinha que dar algo pro cara no primeiro",
+        "Souza (190864487919667): Que se não era mais fácil ir no puteiro",
+        "~Gará (83911531044906): Era só brincadeira caramba...rsrs",
+        "Souza (190864487919667): Beleza, acredito"
       ]
     },
     "120363428464897153@g.us": {
@@ -17342,30 +17342,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "274384656834700",
-        "authorName": "Gleydson Souza",
-        "text": "Acho q sim",
-        "timestamp": 1787929090437
-      },
-      {
-        "authorNum": "193729163993156",
-        "authorName": "F. RicaRdo sAnToS",
-        "text": "Souza quer ser pai",
-        "timestamp": 1787929092294
-      },
-      {
-        "authorNum": "193729163993156",
-        "authorName": "F. RicaRdo sAnToS",
-        "text": "🤣🤣",
-        "timestamp": 1787929097673
-      },
-      {
-        "authorNum": "83911531044906",
-        "authorName": "~Gará",
-        "text": "Oxee",
-        "timestamp": 1787929108434
-      },
-      {
         "authorNum": "108461127897146",
         "authorName": "jaciara",
         "text": "O que ?",
@@ -17916,6 +17892,24 @@
         "authorName": "Souza",
         "text": "De que a mulher tinha que dar algo pro cara no primeiro",
         "timestamp": 1787930888871
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Que se não era mais fácil ir no puteiro",
+        "timestamp": 1787930902124
+      },
+      {
+        "authorNum": "83911531044906",
+        "authorName": "~Gará",
+        "text": "Era só brincadeira caramba...rsrs",
+        "timestamp": 1787930908408
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Beleza, acredito",
+        "timestamp": 1787930918025
       }
     ],
     "120363428464897153@g.us": [],
@@ -17935,7 +17929,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21962,
+    "120363432018531082@g.us": 21965,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -143791,6 +143785,24 @@
         "text": "De que a mulher tinha que dar algo pro cara no primeiro",
         "pushName": "Souza",
         "timestamp": 1787930888871
+      },
+      "AC9A6EF2EAC6323E8798A450DF4E8BB0": {
+        "sender": "190864487919667@lid",
+        "text": "Que se não era mais fácil ir no puteiro",
+        "pushName": "Souza",
+        "timestamp": 1787930902124
+      },
+      "AC5AD56AEE64B3EA1ED09393D9447874": {
+        "sender": "83911531044906@lid",
+        "text": "Era só brincadeira caramba...rsrs",
+        "pushName": "~Gará",
+        "timestamp": 1787930908408
+      },
+      "AC009975F44707F041A87B2FA89A6285": {
+        "sender": "190864487919667@lid",
+        "text": "Beleza, acredito",
+        "pushName": "Souza",
+        "timestamp": 1787930918025
       }
     },
     "120363428464897153@g.us": {
@@ -196700,7 +196712,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787930888871,
+    "120363432018531082@g.us": 1787930918025,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
