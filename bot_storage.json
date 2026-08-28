@@ -151,9 +151,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2185,
+        "text": 2186,
         "media": 471,
-        "total": 2656
+        "total": 2657
       },
       "184237705699536": {
         "text": 524,
@@ -2626,9 +2626,9 @@
         "total": 68
       },
       "172868239380659": {
-        "text": 78,
+        "text": 79,
         "media": 14,
-        "total": 92
+        "total": 93
       },
       "170455038193841": {
         "text": 1,
@@ -2646,9 +2646,9 @@
         "total": 7
       },
       "205621945192508": {
-        "text": 33,
+        "text": 34,
         "media": 16,
-        "total": 49
+        "total": 50
       },
       "208958782488665": {
         "text": 7,
@@ -9164,9 +9164,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Pedro Henrique (172868239380659): Não me pedindo Pix, pode chamar no PV as mulheres 🤣🤣🤣",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Já resolvo isso",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Deixo pra ela kkk",
         "Rafael Moura (57707230945348): Eu avisei que isso de correio ia causar 🤣",
         "F. RicaRdo sAnToS (193729163993156): Ricardo\nCasado\n39\n🥼Medicina \n🦁Leonino \n\nSou uma mistura de safadeza, timidez, romantismo.\n\n\"A vida é uma jornada, não um destino\",",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bom que aqui é ban",
@@ -9663,7 +9660,10 @@
         "jaciara (108461127897146): Simmm , sou maranhense , moro em Goiânia porém estou passando alguns meses no Maranhão kkkk",
         "jaciara (108461127897146): Obrigada 😊",
         "jaciara (108461127897146): Obrigado",
-        "Souza (190864487919667): 🫪🫪🫪"
+        "Souza (190864487919667): 🫪🫪🫪",
+        "Gabriel (145381035905262): Bem vindaaa",
+        "Pedro Henrique (172868239380659): Traga uns doce aí pra gente",
+        "Jennifer🦋 (205621945192508): 🫪🫪🌚"
       ]
     },
     "120363428464897153@g.us": {
@@ -15938,30 +15938,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Tu é muito elegante @53537388122141  mas a casa tem o charme. Foi mal 😂😂",
-        "timestamp": 1787873630008
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Gamou",
-        "timestamp": 1787873631159
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Cheguei",
-        "timestamp": 1787873635524
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Com fome",
-        "timestamp": 1787873639703
-      },
-      {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "A casa é linda mesmo\nEu morando aí ia ser combo completo 😂😂😂",
@@ -16578,6 +16554,24 @@
         "authorName": "Souza",
         "text": "🫪🫪🫪",
         "timestamp": 1787875424433
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Bem vindaaa",
+        "timestamp": 1787875447256
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Traga uns doce aí pra gente",
+        "timestamp": 1787875451732
+      },
+      {
+        "authorNum": "205621945192508",
+        "authorName": "Jennifer🦋",
+        "text": "🫪🫪🌚",
+        "timestamp": 1787875452363
       }
     ],
     "120363428464897153@g.us": [
@@ -16700,7 +16694,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20931,
+    "120363432018531082@g.us": 20934,
     "120363428464897153@g.us": 5995,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1676,
@@ -136439,6 +136433,24 @@
         "text": "🫪🫪🫪",
         "pushName": "Souza",
         "timestamp": 1787875424433
+      },
+      "AC53E1F0FC6589990D71CFAC7594CAEC": {
+        "sender": "145381035905262@lid",
+        "text": "Bem vindaaa",
+        "pushName": "Gabriel",
+        "timestamp": 1787875447256
+      },
+      "AC4E1ED4477A07BCE015FE392AD33429": {
+        "sender": "172868239380659@lid",
+        "text": "Traga uns doce aí pra gente",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787875451733
+      },
+      "ACA539E84423BBC39ED2E6E085A9B3FA": {
+        "sender": "205621945192508@lid",
+        "text": "🫪🫪🌚",
+        "pushName": "Jennifer🦋",
+        "timestamp": 1787875452363
       }
     },
     "120363428464897153@g.us": {
@@ -185404,7 +185416,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787875424433,
+    "120363432018531082@g.us": 1787875452363,
     "120363428464897153@g.us": 1787875412948,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787875387532,
