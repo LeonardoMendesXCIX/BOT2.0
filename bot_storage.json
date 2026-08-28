@@ -1953,9 +1953,9 @@
         "total": 5
       },
       "83911531044906": {
-        "text": 62,
+        "text": 63,
         "media": 3,
-        "total": 65
+        "total": 66
       },
       "172864548434113": {
         "text": 42,
@@ -2673,9 +2673,9 @@
         "total": 3
       },
       "193729163993156": {
-        "text": 37,
+        "text": 38,
         "media": 7,
-        "total": 44
+        "total": 45
       },
       "151582733820115": {
         "text": 5,
@@ -9900,8 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Alexandre Bastos (75797868064796): Quando e isso tem alguma coisa",
-        "Saul (118515428286715): QUE ISSO, na cara não kkkk",
         "Gabi 💋 (247020967165997): Ok",
         "Gabi 💋 (247020967165997): Coisa fofa",
         "Souza (190864487919667): Receba",
@@ -10399,7 +10397,9 @@
         "jaciara (108461127897146): A gente namorou 8 meses e começou a me maltratar no início da gravidez e eu terminei o relacionamento",
         "~Gará (83911531044906): Certíssima",
         "jaciara (108461127897146): Porque nao sou obrigada ficar com macho escroto só por causa que estou grávida",
-        "~Gará (83911531044906): Não mesmo"
+        "~Gará (83911531044906): Não mesmo",
+        "~Gará (83911531044906): Ainda mais quem maltrata uma mulher grávida.\nQue esta carregando um filho dele.",
+        "F. RicaRdo sAnToS (193729163993156): Boa tarde pra quem fica....ótima sexta-feira"
       ]
     },
     "120363428464897153@g.us": {
@@ -17982,6 +17982,18 @@
         "authorName": "~Gará",
         "text": "Não mesmo",
         "timestamp": 1787929950338
+      },
+      {
+        "authorNum": "83911531044906",
+        "authorName": "~Gará",
+        "text": "Ainda mais quem maltrata uma mulher grávida.\nQue esta carregando um filho dele.",
+        "timestamp": 1787929988579
+      },
+      {
+        "authorNum": "193729163993156",
+        "authorName": "F. RicaRdo sAnToS",
+        "text": "Boa tarde pra quem fica....ótima sexta-feira",
+        "timestamp": 1787929996925
       }
     ],
     "120363428464897153@g.us": [],
@@ -18008,7 +18020,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21925,
+    "120363432018531082@g.us": 21927,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -143648,6 +143660,18 @@
         "text": "Não mesmo",
         "pushName": "~Gará",
         "timestamp": 1787929950338
+      },
+      "AC76F8C9665AD014F51933194BB0E75C": {
+        "sender": "83911531044906@lid",
+        "text": "Ainda mais quem maltrata uma mulher grávida.\nQue esta carregando um filho dele.",
+        "pushName": "~Gará",
+        "timestamp": 1787929988579
+      },
+      "ACCEC74E8C845B7F4F622CFD27FE52C8": {
+        "sender": "193729163993156@lid",
+        "text": "Boa tarde pra quem fica....ótima sexta-feira",
+        "pushName": "F. RicaRdo sAnToS",
+        "timestamp": 1787929996925
       }
     },
     "120363428464897153@g.us": {
@@ -196557,7 +196581,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787929950338,
+    "120363432018531082@g.us": 1787929996925,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
