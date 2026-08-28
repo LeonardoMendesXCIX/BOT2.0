@@ -2904,9 +2904,9 @@
         "total": 1
       },
       "92629643563147": {
-        "text": 566,
+        "text": 567,
         "media": 381,
-        "total": 947
+        "total": 948
       },
       "122552932372575": {
         "text": 0,
@@ -3294,14 +3294,14 @@
         "total": 39
       },
       "118515428286715": {
-        "text": 6,
+        "text": 7,
         "media": 2,
-        "total": 8
+        "total": 9
       },
       "274384656834700": {
-        "text": 0,
+        "text": 1,
         "media": 2,
-        "total": 2
+        "total": 3
       },
       "34626781356198": {
         "text": 0,
@@ -13671,7 +13671,9 @@
         "Alexandre Bastos (75797868064796): 💥 BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Agora queremos conhecer você! ✨\n📸 Sua foto:\n💬 Nome: Alexandre \n🎂 Idade:35\n📍 De onde sou:rj\n💍 Estado civil: solteiro \n👀 Entrei no grupo para:\n🗣️ Meu privado está:",
         " (120363428464897153): 💥 BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Agora queremos conhecer você! ✨\n📸 Sua foto:\n💬 Nome: Alexandre \n🎂 Idade:35\n📍 De onde sou:rj\n💍 Estado civil: solteiro \n👀 Entrei no grupo para:\n🗣️ Meu privado está:",
         "Camila Designer (92629643563147): @129373172711439 mande a regra do grupo",
-        "Celiete Souza (129373172711439): Eu?"
+        "Celiete Souza (129373172711439): Eu?",
+        "Camila Designer (92629643563147): 😏",
+        "Saul (118515428286715): Gente, tem que se apresentar ?"
       ]
     },
     "120363409727467494@g.us": {
@@ -16584,6 +16586,18 @@
         "authorName": "Celiete Souza",
         "text": "Eu?",
         "timestamp": 1787879103495
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "😏",
+        "timestamp": 1787879155059
+      },
+      {
+        "authorNum": "118515428286715",
+        "authorName": "Saul",
+        "text": "Gente, tem que se apresentar ?",
+        "timestamp": 1787879161744
       }
     ],
     "120363409727467494@g.us": [],
@@ -16651,7 +16665,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 21031,
-    "120363428464897153@g.us": 6117,
+    "120363428464897153@g.us": 6119,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1711,
     "120363411233423709@g.us": 5,
@@ -172883,6 +172897,18 @@
         "text": "Eu?",
         "pushName": "Celiete Souza",
         "timestamp": 1787879103495
+      },
+      "2A2BCBF58740B97470B0": {
+        "sender": "92629643563147@lid",
+        "text": "😏",
+        "pushName": "Camila Designer",
+        "timestamp": 1787879155059
+      },
+      "3A2B2200737E1441F0BA": {
+        "sender": "118515428286715@lid",
+        "text": "Gente, tem que se apresentar ?",
+        "pushName": "Saul",
+        "timestamp": 1787879161744
       }
     },
     "120363409727467494@g.us": {
@@ -186927,7 +186953,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787878669226,
-    "120363428464897153@g.us": 1787879132492,
+    "120363428464897153@g.us": 1787879176638,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787877736241,
     "120363411233423709@g.us": 1787113553426,
