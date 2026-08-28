@@ -2682,9 +2682,9 @@
         "total": 1
       },
       "118515428286715": {
-        "text": 0,
+        "text": 1,
         "media": 1,
-        "total": 1
+        "total": 2
       }
     },
     "120363428464897153@g.us": {
@@ -2944,9 +2944,9 @@
         "total": 9
       },
       "129373172711439": {
-        "text": 889,
-        "media": 219,
-        "total": 1108
+        "text": 890,
+        "media": 221,
+        "total": 1111
       },
       "16007578021977": {
         "text": 50,
@@ -3119,9 +3119,9 @@
         "total": 3
       },
       "57561571176651": {
-        "text": 32,
+        "text": 33,
         "media": 42,
-        "total": 74
+        "total": 75
       },
       "201257922908323": {
         "text": 3,
@@ -9180,7 +9180,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Rafael Moura (57707230945348): Gente hoje foi foda",
         "Rafael Moura (57707230945348): So agora cheguei em casa",
         "Rafael Moura (57707230945348): Jesus amado, acho que agora sim posso conversar um pouco",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Ela saiu por conta do ciúme imaginário",
@@ -9679,7 +9678,8 @@
         "Saul (118515428286715): Boa Noite, sou Saul tenho 25 anos e moro em Andradina- SP (interior)",
         "Souza (190864487919667): Bem vindo",
         "Caroline (118395236282617): Bem vindo",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Bem vindo jovem"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Bem vindo jovem",
+        "Saul (118515428286715): Obrigado, gente o churrasco é quando? Onde? 🤣"
       ]
     },
     "120363428464897153@g.us": {
@@ -13609,7 +13609,8 @@
         "LUCIANO (57561571176651): Guardando o q??",
         "Souza (190864487919667): Ish",
         "Celiete Souza (129373172711439): Eu vou me recolher pra me guardar pra amanhã também",
-        "negoh🐻 (120044990287992): Vou me guarda pra amanhã"
+        "negoh🐻 (120044990287992): Vou me guarda pra amanhã",
+        "Celiete Souza (129373172711439): Credo kkkk"
       ]
     },
     "120363409727467494@g.us": {
@@ -16072,12 +16073,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Melhorou",
-        "timestamp": 1787876655987
-      },
-      {
         "authorNum": "145381035905262",
         "authorName": "Gabriel",
         "text": "Qual tua altura cpx ?",
@@ -16202,21 +16197,15 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Bem vindo jovem",
         "timestamp": 1787878394668
+      },
+      {
+        "authorNum": "118515428286715",
+        "authorName": "Saul",
+        "text": "Obrigado, gente o churrasco é quando? Onde? 🤣",
+        "timestamp": 1787878461631
       }
     ],
     "120363428464897153@g.us": [
-      {
-        "authorNum": "25520947339303",
-        "authorName": "Priscilla 🌻",
-        "text": "Sim",
-        "timestamp": 1787876621241
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Trabalha com q?",
-        "timestamp": 1787876633098
-      },
       {
         "authorNum": "155503636275307",
         "authorName": "Clayton 🇳🇬",
@@ -16462,6 +16451,12 @@
         "authorName": "negoh🐻",
         "text": "Vou me guarda pra amanhã",
         "timestamp": 1787878410780
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Credo kkkk",
+        "timestamp": 1787878465596
       }
     ],
     "120363409727467494@g.us": [],
@@ -16631,8 +16626,8 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21027,
-    "120363428464897153@g.us": 6075,
+    "120363432018531082@g.us": 21028,
+    "120363428464897153@g.us": 6076,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1711,
     "120363411233423709@g.us": 5,
@@ -136940,6 +136935,12 @@
         "text": "Bem vindo jovem",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787878394668
+      },
+      "3AE6C891BDD441A89032": {
+        "sender": "118515428286715@lid",
+        "text": "Obrigado, gente o churrasco é quando? Onde? 🤣",
+        "pushName": "Saul",
+        "timestamp": 1787878461650
       }
     },
     "120363428464897153@g.us": {
@@ -172570,6 +172571,12 @@
         "text": "Vou me guarda pra amanhã",
         "pushName": "negoh🐻",
         "timestamp": 1787878410780
+      },
+      "AC302BF9CCE021D8F4FF2E564F08174B": {
+        "sender": "129373172711439@lid",
+        "text": "Credo kkkk",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787878465596
       }
     },
     "120363409727467494@g.us": {
@@ -186613,8 +186620,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787878394668,
-    "120363428464897153@g.us": 1787878443777,
+    "120363432018531082@g.us": 1787878461631,
+    "120363428464897153@g.us": 1787878484497,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787877736241,
     "120363411233423709@g.us": 1787113553426,
