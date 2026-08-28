@@ -253,9 +253,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1463,
+        "text": 1464,
         "media": 1099,
-        "total": 2562
+        "total": 2563
       },
       "3126803329115": {
         "text": 87,
@@ -279,8 +279,8 @@
       },
       "53537388122141": {
         "text": 2228,
-        "media": 300,
-        "total": 2528
+        "media": 301,
+        "total": 2529
       },
       "252922705240205": {
         "text": 80,
@@ -9961,7 +9961,8 @@
         "Souza (190864487919667): Bom dia Jess",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bom diaaa ❤️",
         "Dany (262182034002040): Eita! Me senti suavemente atacada, confesso… 🥲😅",
-        "Souza (190864487919667): Bom dia seus malucos"
+        "Souza (190864487919667): Bom dia seus malucos",
+        "Camila Designer (92629643563147): Bom que faço textos curtos e objetivo!🤣🤣🤣🤣"
       ]
     },
     "120363428464897153@g.us": {
@@ -16939,6 +16940,12 @@
         "authorName": "Souza",
         "text": "Bom dia seus malucos",
         "timestamp": 1787912191012
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Bom que faço textos curtos e objetivo!🤣🤣🤣🤣",
+        "timestamp": 1787912257483
       }
     ],
     "120363428464897153@g.us": [],
@@ -16958,7 +16965,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21219,
+    "120363432018531082@g.us": 21220,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1989,
@@ -138395,6 +138402,12 @@
         "text": "Bom dia seus malucos",
         "pushName": "Souza",
         "timestamp": 1787912191012
+      },
+      "2A71B38217BEF013728D": {
+        "sender": "92629643563147@lid",
+        "text": "Bom que faço textos curtos e objetivo!🤣🤣🤣🤣",
+        "pushName": "Camila Designer",
+        "timestamp": 1787912257483
       }
     },
     "120363428464897153@g.us": {
@@ -191166,7 +191179,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787912191012,
+    "120363432018531082@g.us": 1787912257483,
     "120363428464897153@g.us": 1787909941077,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787894166886,
