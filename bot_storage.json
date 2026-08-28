@@ -293,9 +293,9 @@
         "total": 464
       },
       "262182034002040": {
-        "text": 1876,
+        "text": 1877,
         "media": 122,
-        "total": 1998
+        "total": 1999
       },
       "219245581488326": {
         "text": 4,
@@ -318,9 +318,9 @@
         "total": 117
       },
       "199733712785531": {
-        "text": 204,
+        "text": 206,
         "media": 122,
-        "total": 326
+        "total": 328
       },
       "153596754661626": {
         "text": 1,
@@ -698,9 +698,9 @@
         "total": 95
       },
       "57707230945348": {
-        "text": 1160,
+        "text": 1161,
         "media": 207,
-        "total": 1367
+        "total": 1368
       },
       "152218690924790": {
         "text": 309,
@@ -2798,14 +2798,14 @@
         "total": 4
       },
       "247020967165997": {
-        "text": 13,
+        "text": 14,
         "media": 1,
-        "total": 14
+        "total": 15
       },
       "206253020176458": {
         "text": 3,
-        "media": 5,
-        "total": 8
+        "media": 6,
+        "total": 9
       },
       "210152934359048": {
         "text": 15,
@@ -10105,7 +10105,12 @@
         "Dany (262182034002040): Oi amor!",
         "Gabi 💋 (247020967165997): Acabei com ele no mesmo dia",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Sou do Maranhão",
-        "Rafael Moura (57707230945348): Nossa senhora"
+        "Rafael Moura (57707230945348): Nossa senhora",
+        "Dany (262182034002040): Hahahahha",
+        "Rafael Moura (57707230945348): Eu preciso dosar o uso pq senão acaba em 5 dias",
+        "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Ah sim",
+        "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Oii amor 🥰",
+        "Gabi 💋 (247020967165997): Bem isso"
       ]
     },
     "120363428464897153@g.us": {
@@ -17028,18 +17033,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Vou pedir 300 orçamento e não fechar nenhum",
-        "timestamp": 1787913093849
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Aí não compensa",
-        "timestamp": 1787913105640
-      },
-      {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Bem vindo",
@@ -17584,6 +17577,36 @@
         "authorName": "Rafael Moura",
         "text": "Nossa senhora",
         "timestamp": 1787914882544
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Hahahahha",
+        "timestamp": 1787914896940
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Eu preciso dosar o uso pq senão acaba em 5 dias",
+        "timestamp": 1787914899106
+      },
+      {
+        "authorNum": "199733712785531",
+        "authorName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
+        "text": "Ah sim",
+        "timestamp": 1787914900247
+      },
+      {
+        "authorNum": "199733712785531",
+        "authorName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
+        "text": "Oii amor 🥰",
+        "timestamp": 1787914907884
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Bem isso",
+        "timestamp": 1787914909383
       }
     ],
     "120363428464897153@g.us": [],
@@ -17622,7 +17645,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21343,
+    "120363432018531082@g.us": 21348,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1992,
@@ -139791,6 +139814,36 @@
         "text": "Nossa senhora",
         "pushName": "Rafael Moura",
         "timestamp": 1787914882545
+      },
+      "3AE0BF1518F31BE3419A": {
+        "sender": "262182034002040@lid",
+        "text": "Hahahahha",
+        "pushName": "Dany",
+        "timestamp": 1787914896940
+      },
+      "AC68C351C68CADBD6C88C11390CC6E0F": {
+        "sender": "57707230945348@lid",
+        "text": "Eu preciso dosar o uso pq senão acaba em 5 dias",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787914899106
+      },
+      "3A3AB749B8B9100444AC": {
+        "sender": "199733712785531@lid",
+        "text": "Ah sim",
+        "pushName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
+        "timestamp": 1787914900247
+      },
+      "3A84A4FA537DE1091703": {
+        "sender": "199733712785531@lid",
+        "text": "Oii amor 🥰",
+        "pushName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
+        "timestamp": 1787914907884
+      },
+      "AC474794439B115ABA6910318C7E5E1E": {
+        "sender": "247020967165997@lid",
+        "text": "Bem isso",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787914909384
       }
     },
     "120363428464897153@g.us": {
@@ -192580,7 +192633,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787914882544,
+    "120363432018531082@g.us": 1787914909383,
     "120363428464897153@g.us": 1787913193216,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787914462012,
