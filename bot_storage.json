@@ -449,9 +449,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1666,
+        "text": 1669,
         "media": 322,
-        "total": 1988
+        "total": 1991
       },
       "252600633041077": {
         "text": 1,
@@ -9267,9 +9267,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Jennifer🦋 (205621945192508): Deixa eu quietinha no meu canto😂😂😂😂😂😂😂",
-        "Bruno Aguiar (+1395881181241): Não está mais aqui quem falou kkkk",
-        "Beatriz Ferreira 🦅 (262456945414267): Nome: Beatriz \nIdade: 30 anos \nDe onde sou: São Paulo",
         "Jennifer🦋 (205621945192508): KKKkkkkkkk",
         "LUCIANO (57561571176651): Bv",
         "Gleydson Souza (274384656834700): Bem vinda",
@@ -9766,6 +9763,9 @@
         "Leandro (+55 (11) 92701-8683): !antidelete off",
         "Leandro (+55 (11) 92701-8683): !del",
         "Leandro (+55 (11) 92701-8683): !del",
+        "Leandro (+55 (11) 92701-8683): !del",
+        "Leandro (+55 (11) 92701-8683): !del",
+        "Leandro (+55 (11) 92701-8683): !status",
         "Leandro (+55 (11) 92701-8683): !del"
       ]
     },
@@ -16486,6 +16486,24 @@
         "authorName": "Leandro",
         "text": "!del",
         "timestamp": 1787884575051
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!del",
+        "timestamp": 1787884581776
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!status",
+        "timestamp": 1787884590959
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!del",
+        "timestamp": 1787884599843
       }
     ],
     "120363428464897153@g.us": [
@@ -16717,7 +16735,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21081,
+    "120363432018531082@g.us": 21084,
     "120363428464897153@g.us": 6227,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1736,
@@ -137337,6 +137355,24 @@
         "text": "!del",
         "pushName": "Leandro",
         "timestamp": 1787884575051
+      },
+      "A54189C6B33E499CCFCA84F1BCA14519": {
+        "sender": "54259127210155@lid",
+        "text": "!del",
+        "pushName": "Leandro",
+        "timestamp": 1787884581776
+      },
+      "A5D8CBE9A9B369C2FCB344AA52761C96": {
+        "sender": "54259127210155@lid",
+        "text": "!status",
+        "pushName": "Leandro",
+        "timestamp": 1787884590960
+      },
+      "A5CAEFD0C253555528742B2EBCCB50EF": {
+        "sender": "54259127210155@lid",
+        "text": "!del",
+        "pushName": "Leandro",
+        "timestamp": 1787884599843
       }
     },
     "120363428464897153@g.us": {
@@ -188078,7 +188114,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787884575051,
+    "120363432018531082@g.us": 1787884599843,
     "120363428464897153@g.us": 1787884560295,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787884390062,
