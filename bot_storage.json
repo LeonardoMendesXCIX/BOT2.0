@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2263,
-        "media": 306,
-        "total": 2569
+        "text": 2265,
+        "media": 307,
+        "total": 2572
       },
       "252922705240205": {
         "text": 80,
@@ -2604,8 +2604,8 @@
       },
       "190864487919667": {
         "text": 244,
-        "media": 41,
-        "total": 285
+        "media": 42,
+        "total": 286
       },
       "82227819987089": {
         "text": 2,
@@ -9895,8 +9895,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bom diaaa ❤️",
-        "Dany (262182034002040): Eita! Me senti suavemente atacada, confesso… 🥲😅",
         "Souza (190864487919667): Bom dia seus malucos",
         "Camila Designer (92629643563147): Bom que faço textos curtos e objetivo!🤣🤣🤣🤣",
         "Dany (262182034002040): Bom dia, grupo! SEXTOU!!! Uhuuuuu\n\nBoa sexta-feira, galera!!",
@@ -10394,7 +10392,9 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): !ban",
         "Souza (190864487919667): Ish",
         "Souza (190864487919667): Ban do nada",
-        "Arthur (206253020176458): Ss e vc como esta"
+        "Arthur (206253020176458): Ss e vc como esta",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Não se apresentou e invasão de Pv",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Aí me quebra as pernas"
       ]
     },
     "120363428464897153@g.us": {
@@ -17555,6 +17555,18 @@
         "authorName": "Arthur",
         "text": "Ss e vc como esta",
         "timestamp": 1787925050739
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Não se apresentou e invasão de Pv",
+        "timestamp": 1787925086285
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Aí me quebra as pernas",
+        "timestamp": 1787925092786
       }
     ],
     "120363428464897153@g.us": [],
@@ -17599,7 +17611,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21716,
+    "120363432018531082@g.us": 21718,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2010,
@@ -141998,6 +142010,18 @@
         "text": "Ss e vc como esta",
         "pushName": "Arthur",
         "timestamp": 1787925050739
+      },
+      "AC8D3C76828BC9489E171CF8489EDBDD": {
+        "sender": "53537388122141@lid",
+        "text": "Não se apresentou e invasão de Pv",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787925086285
+      },
+      "ACE3926F95FCF3A9C974EBB11A979DD2": {
+        "sender": "53537388122141@lid",
+        "text": "Aí me quebra as pernas",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787925092786
       }
     },
     "120363428464897153@g.us": {
@@ -194895,7 +194919,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787925050739,
+    "120363432018531082@g.us": 1787925103841,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787924999186,
