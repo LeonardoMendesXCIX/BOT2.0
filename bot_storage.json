@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2245,
+        "text": 2247,
         "media": 305,
-        "total": 2550
+        "total": 2552
       },
       "252922705240205": {
         "text": 80,
@@ -319,8 +319,8 @@
       },
       "199733712785531": {
         "text": 203,
-        "media": 118,
-        "total": 321
+        "media": 120,
+        "total": 323
       },
       "153596754661626": {
         "text": 1,
@@ -698,9 +698,9 @@
         "total": 95
       },
       "57707230945348": {
-        "text": 1154,
-        "media": 203,
-        "total": 1357
+        "text": 1156,
+        "media": 204,
+        "total": 1360
       },
       "152218690924790": {
         "text": 309,
@@ -2663,9 +2663,9 @@
         "total": 77
       },
       "172868239380659": {
-        "text": 94,
+        "text": 95,
         "media": 15,
-        "total": 109
+        "total": 110
       },
       "170455038193841": {
         "text": 1,
@@ -2803,9 +2803,9 @@
         "total": 12
       },
       "206253020176458": {
-        "text": 2,
+        "text": 3,
         "media": 3,
-        "total": 5
+        "total": 6
       },
       "210152934359048": {
         "text": 15,
@@ -10087,7 +10087,12 @@
         "Souza (190864487919667): Morto",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): @262182034002040 corre aqui",
         "Souza (190864487919667): Bem vinda",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tô zuando 😂"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tô zuando 😂",
+        "Rafael Moura (57707230945348): Ela vai ter um mini infarto",
+        "Rafael Moura (57707230945348): Pessoal caiu o VR, quem quer açai",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Quero Pix",
+        "Pedro Henrique (172868239380659): O meu já foi kkkk",
+        "Arthur (206253020176458): Também quero jjjkkkkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -17010,12 +17015,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Bom dia 😴",
-        "timestamp": 1787912890886
-      },
-      {
         "authorNum": "81991328395336",
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Bem vindaaa 🩷",
@@ -17524,6 +17523,36 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Tô zuando 😂",
         "timestamp": 1787914671902
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Ela vai ter um mini infarto",
+        "timestamp": 1787914682360
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Pessoal caiu o VR, quem quer açai",
+        "timestamp": 1787914695804
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Quero Pix",
+        "timestamp": 1787914706290
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "O meu já foi kkkk",
+        "timestamp": 1787914717115
+      },
+      {
+        "authorNum": "206253020176458",
+        "authorName": "Arthur",
+        "text": "Também quero jjjkkkkk",
+        "timestamp": 1787914723332
       }
     ],
     "120363428464897153@g.us": [],
@@ -17562,7 +17591,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21325,
+    "120363432018531082@g.us": 21330,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1992,
@@ -139623,6 +139652,36 @@
         "text": "Tô zuando 😂",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787914671902
+      },
+      "AC5F747C02F9721AF09B2F2160B2355C": {
+        "sender": "57707230945348@lid",
+        "text": "Ela vai ter um mini infarto",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787914682360
+      },
+      "AC4B6B70BEA8DBAC6B8CF87FA5B0AB96": {
+        "sender": "57707230945348@lid",
+        "text": "Pessoal caiu o VR, quem quer açai",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787914695804
+      },
+      "AC1053D8F84093FD06E3C12D5C6EF4EA": {
+        "sender": "53537388122141@lid",
+        "text": "Quero Pix",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787914706290
+      },
+      "AC33472B1466952DA4374F409252AA71": {
+        "sender": "172868239380659@lid",
+        "text": "O meu já foi kkkk",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787914717115
+      },
+      "ACB1E62E73416A11936E1EAFAC9CE1C9": {
+        "sender": "206253020176458@lid",
+        "text": "Também quero jjjkkkkk",
+        "pushName": "Arthur",
+        "timestamp": 1787914723333
       }
     },
     "120363428464897153@g.us": {
@@ -192412,7 +192471,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787914671902,
+    "120363432018531082@g.us": 1787914723332,
     "120363428464897153@g.us": 1787913193216,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787914462012,
