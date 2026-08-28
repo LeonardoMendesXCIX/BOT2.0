@@ -179,8 +179,8 @@
       },
       "81991328395336": {
         "text": 3946,
-        "media": 1348,
-        "total": 5294
+        "media": 1349,
+        "total": 5295
       },
       "179040627490824": {
         "text": 433,
@@ -309,8 +309,8 @@
       },
       "120363432018531082": {
         "text": 316,
-        "media": 94,
-        "total": 410
+        "media": 95,
+        "total": 411
       },
       "97535100252296": {
         "text": 96,
@@ -3539,9 +3539,9 @@
         "total": 602
       },
       "5511927018683": {
-        "text": 585,
+        "text": 587,
         "media": 113,
-        "total": 698
+        "total": 700
       },
       "145381035905262": {
         "text": 481,
@@ -9950,8 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Rafael Moura (57707230945348): Paz amor e muito miojo",
-        "Bruno Aguiar (+1395881181241): É bom repor as energias",
         "Bruno Aguiar (+1395881181241): Oiii",
         "Rafael Moura (57707230945348): Vai uma coquinha?",
         "May (227783724793861): Que lindaaa",
@@ -10449,7 +10447,9 @@
         "Celiete Souza (129373172711439): Amo eles",
         "Celiete Souza (129373172711439): Henrique e Juliano, minha paixão",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Sertanejo universitário, praticamente todos são bons",
-        "Kamila (78143406768201): Boa noite"
+        "Kamila (78143406768201): Boa noite",
+        " (120363432018531082): @53537388122141",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @53537388122141"
       ]
     },
     "120363428464897153@g.us": {
@@ -17009,7 +17009,9 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Valeu chefe 🫡",
         "Leandro (+55 (11) 92701-8683): Tmj 🤜🏼🤛🏼",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Tmj",
-        "Gabriel (145381035905262): 3 meses direto e reto, com a cara nos livros e outros"
+        "Gabriel (145381035905262): 3 meses direto e reto, com a cara nos livros e outros",
+        "Leandro (+55 (11) 92701-8683): O conteúdo teórico que tu montou aí, junto com esse vídeo que mandei 🤩🤌🏼",
+        "Leandro (+55 (11) 92701-8683): Bom demais"
       ]
     },
     "120363411233423709@g.us": {
@@ -17660,6 +17662,18 @@
         "authorName": "Kamila",
         "text": "Boa noite",
         "timestamp": 1787956457761
+      },
+      {
+        "authorNum": "120363432018531082",
+        "authorName": "",
+        "text": "@53537388122141",
+        "timestamp": 1787957007065
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "@53537388122141",
+        "timestamp": 1787957008915
       }
     ],
     "120363428464897153@g.us": [],
@@ -17928,6 +17942,18 @@
         "authorName": "Gabriel",
         "text": "3 meses direto e reto, com a cara nos livros e outros",
         "timestamp": 1787956971413
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "O conteúdo teórico que tu montou aí, junto com esse vídeo que mandei 🤩🤌🏼",
+        "timestamp": 1787956999454
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Bom demais",
+        "timestamp": 1787957002396
       }
     ],
     "120363411233423709@g.us": [],
@@ -17963,10 +17989,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22535,
+    "120363432018531082@g.us": 22537,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2134,
+    "120363412288900422@g.us": 2136,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -147214,6 +147240,12 @@
         "text": "Boa noite",
         "pushName": "Kamila",
         "timestamp": 1787956457761
+      },
+      "ACF42F3F9E2F582E587786CBD7F0B9D5": {
+        "sender": "81991328395336@lid",
+        "text": "@53537388122141",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787957008915
       }
     },
     "120363428464897153@g.us": {
@@ -198106,6 +198138,18 @@
         "text": "3 meses direto e reto, com a cara nos livros e outros",
         "pushName": "Gabriel",
         "timestamp": 1787956971413
+      },
+      "A595AAE7136B30A561FB5C95E2A90A96": {
+        "sender": "54259127210155@lid",
+        "text": "O conteúdo teórico que tu montou aí, junto com esse vídeo que mandei 🤩🤌🏼",
+        "pushName": "Leandro",
+        "timestamp": 1787956999455
+      },
+      "A5F0E131F3855A502541F00DC015C022": {
+        "sender": "54259127210155@lid",
+        "text": "Bom demais",
+        "pushName": "Leandro",
+        "timestamp": 1787957002396
       }
     },
     "120363411233423709@g.us": {
@@ -200987,10 +201031,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787956950544,
+    "120363432018531082@g.us": 1787957008915,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787956971413,
+    "120363412288900422@g.us": 1787957002396,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
