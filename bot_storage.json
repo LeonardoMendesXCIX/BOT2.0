@@ -173,9 +173,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1628,
-        "media": 452,
-        "total": 2080
+        "text": 1630,
+        "media": 453,
+        "total": 2083
       },
       "81991328395336": {
         "text": 3945,
@@ -2629,8 +2629,8 @@
       },
       "75797868064796": {
         "text": 39,
-        "media": 105,
-        "total": 144
+        "media": 106,
+        "total": 145
       },
       "153764728184839": {
         "text": 2,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "F. RicaRdo sAnToS (193729163993156): Linda parabéns, que venha com muita saúde....",
         "Souza (190864487919667): Que venha com saúde",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Meu Deus 🤡",
         "Arthur (206253020176458): Paz, saúde e muita felicidade e alegria",
@@ -10449,7 +10448,8 @@
         "Celiete Souza (129373172711439): Quase isso kkk",
         "F. RicaRdo sAnToS (193729163993156): Literalmente isso",
         "F. RicaRdo sAnToS (193729163993156): Liso",
-        "jaciara (108461127897146): Lindona"
+        "jaciara (108461127897146): Lindona",
+        "Celiete Souza (129373172711439): Obrigada amada"
       ]
     },
     "120363428464897153@g.us": {
@@ -17487,12 +17487,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "1395881181241",
-        "authorName": "Bruno Aguiar",
-        "text": "Por isso acredito que ficou linda",
-        "timestamp": 1787946906419
-      },
-      {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Muito obrigada 😊",
@@ -17893,6 +17887,12 @@
         "authorName": "jaciara",
         "text": "Lindona",
         "timestamp": 1787948699943
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Obrigada amada",
+        "timestamp": 1787948719486
       }
     ],
     "120363428464897153@g.us": [],
@@ -17919,7 +17919,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22409,
+    "120363432018531082@g.us": 22410,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -146432,6 +146432,12 @@
         "text": "Lindona",
         "pushName": "jaciara",
         "timestamp": 1787948699943
+      },
+      "ACE8C7B9D5572F28CC20F397488E2E1E": {
+        "sender": "129373172711439@lid",
+        "text": "Obrigada amada",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787948719486
       }
     },
     "120363428464897153@g.us": {
@@ -199911,7 +199917,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787948707085,
+    "120363432018531082@g.us": 1787948735069,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
