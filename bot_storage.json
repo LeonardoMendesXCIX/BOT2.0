@@ -2598,9 +2598,9 @@
         "total": 2
       },
       "11171897864256": {
-        "text": 26,
+        "text": 27,
         "media": 2,
-        "total": 28
+        "total": 29
       },
       "190864487919667": {
         "text": 274,
@@ -2628,9 +2628,9 @@
         "total": 46
       },
       "75797868064796": {
-        "text": 34,
+        "text": 35,
         "media": 96,
-        "total": 130
+        "total": 131
       },
       "153764728184839": {
         "text": 2,
@@ -9900,8 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Arthur (206253020176458): Também quero jjjkkkkk",
-        "Bruno Aguiar (+1395881181241): Bom dia povo🙏🏼🙏🏼🙏🏼",
         "Rafael Moura (57707230945348): Dia baum",
         "Souza (190864487919667): Morto e acabado, enterrado, solo",
         "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Em que sentido ?",
@@ -10399,7 +10397,9 @@
         "Camila Designer (92629643563147): Acho que vamos ter público para nós dois 🤣🤣🤣",
         "Camila Designer (92629643563147): Boa tarde ❤️",
         "🙃🙃🙃 (11171897864256): Aah tá por isso entrei e senti um cheiro estranho 🤣🤪",
-        "🙃🙃🙃 (11171897864256): Bem vinda ☺️"
+        "🙃🙃🙃 (11171897864256): Bem vinda ☺️",
+        "🙃🙃🙃 (11171897864256): Vai sábado",
+        "Alexandre Bastos (75797868064796): 🥰🥰"
       ]
     },
     "120363428464897153@g.us": {
@@ -17342,30 +17342,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "37826582323373",
-        "authorName": "eduardo",
-        "text": "Já imagino",
-        "timestamp": 1787926904456
-      },
-      {
-        "authorNum": "263797142995147",
-        "authorName": "Nanda",
-        "text": "psr",
-        "timestamp": 1787926928159
-      },
-      {
-        "authorNum": "227783724793861",
-        "authorName": "May",
-        "text": "Obrigada",
-        "timestamp": 1787926932639
-      },
-      {
-        "authorNum": "263797142995147",
-        "authorName": "Nanda",
-        "text": "ai eu fica revezando",
-        "timestamp": 1787926935937
-      },
-      {
         "authorNum": "263797142995147",
         "authorName": "Nanda",
         "text": "assim n tem perigo",
@@ -17646,6 +17622,18 @@
         "authorName": "🙃🙃🙃",
         "text": "Bem vinda ☺️",
         "timestamp": 1787928703717
+      },
+      {
+        "authorNum": "11171897864256",
+        "authorName": "🙃🙃🙃",
+        "text": "Vai sábado",
+        "timestamp": 1787928716796
+      },
+      {
+        "authorNum": "75797868064796",
+        "authorName": "Alexandre Bastos",
+        "text": "🥰🥰",
+        "timestamp": 1787928738395
       }
     ],
     "120363428464897153@g.us": [],
@@ -17672,7 +17660,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21829,
+    "120363432018531082@g.us": 21831,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -142736,6 +142724,18 @@
         "text": "Bem vinda ☺️",
         "pushName": "🙃🙃🙃",
         "timestamp": 1787928703718
+      },
+      "AC1A6E66B1E67E3A5F124E0DBF3BAFB6": {
+        "sender": "11171897864256@lid",
+        "text": "Vai sábado",
+        "pushName": "🙃🙃🙃",
+        "timestamp": 1787928716796
+      },
+      "AC70A96633065180A5E9A1F104DFBA61": {
+        "sender": "75797868064796@lid",
+        "text": "🥰🥰",
+        "pushName": "Alexandre Bastos",
+        "timestamp": 1787928738395
       }
     },
     "120363428464897153@g.us": {
@@ -195645,7 +195645,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787928703717,
+    "120363432018531082@g.us": 1787928738395,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
