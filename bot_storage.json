@@ -274,9 +274,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2214,
+        "text": 2217,
         "media": 296,
-        "total": 2510
+        "total": 2513
       },
       "252922705240205": {
         "text": 80,
@@ -449,9 +449,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1658,
+        "text": 1659,
         "media": 322,
-        "total": 1980
+        "total": 1981
       },
       "252600633041077": {
         "text": 1,
@@ -2599,9 +2599,9 @@
         "total": 21
       },
       "190864487919667": {
-        "text": 190,
+        "text": 191,
         "media": 35,
-        "total": 225
+        "total": 226
       },
       "82227819987089": {
         "text": 2,
@@ -9257,11 +9257,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Souza (190864487919667): Eu só associo o nome quando eu vejo uma foto",
-        "Souza (190864487919667): Só conheço 2 pessoas nesse grupo",
-        "Souza (190864487919667): De resto é tudo estranho",
-        "willian (163530946961491): Mas irmão essas daí que são perigosas são traiçoeira kkk",
-        "Souza (190864487919667): Não pô, é que tu marcou a mulher, mas eu não sei quem é",
         "Bruno Aguiar (+1395881181241): Olha ela kkkk",
         "Gabriel (145381035905262): Nem precisa né queridão",
         "Gabriel (145381035905262): Tu tem vários kkkkk",
@@ -9756,7 +9751,12 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): !ban @100004689649809",
         "Leandro (+55 (11) 92701-8683): RH",
         "Souza (190864487919667): Era de menor",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Ok"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Ok",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Não",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Resolvido já",
+        "Leandro (+55 (11) 92701-8683): 🫡",
+        "Souza (190864487919667): A foto do menino parecia de menor",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): 🫡"
       ]
     },
     "120363428464897153@g.us": {
@@ -16471,6 +16471,36 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Ok",
         "timestamp": 1787883530452
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Não",
+        "timestamp": 1787883576677
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Resolvido já",
+        "timestamp": 1787883581010
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "🫡",
+        "timestamp": 1787883586738
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "A foto do menino parecia de menor",
+        "timestamp": 1787883589871
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "🫡",
+        "timestamp": 1787883591326
       }
     ],
     "120363428464897153@g.us": [
@@ -16744,7 +16774,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21066,
+    "120363432018531082@g.us": 21071,
     "120363428464897153@g.us": 6218,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1729,
@@ -137274,6 +137304,36 @@
         "text": "Ok",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787883530452
+      },
+      "AC99D2138001948AC85CF1AEC061BE15": {
+        "sender": "53537388122141@lid",
+        "text": "Não",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787883576677
+      },
+      "AC7B0967085D2484444D6810B3BFC56B": {
+        "sender": "53537388122141@lid",
+        "text": "Resolvido já",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787883581010
+      },
+      "A5BD9AF0C74C3CCFC94A9D5BF8A796BC": {
+        "sender": "54259127210155@lid",
+        "text": "🫡",
+        "pushName": "Leandro",
+        "timestamp": 1787883586738
+      },
+      "AC0B45378A73C83114BAD6E1D934F464": {
+        "sender": "190864487919667@lid",
+        "text": "A foto do menino parecia de menor",
+        "pushName": "Souza",
+        "timestamp": 1787883589871
+      },
+      "ACED944DF3D330C7E37F22566190A92A": {
+        "sender": "53537388122141@lid",
+        "text": "🫡",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787883591326
       }
     },
     "120363428464897153@g.us": {
@@ -187913,7 +187973,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787883530452,
+    "120363432018531082@g.us": 1787883591326,
     "120363428464897153@g.us": 1787883101464,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787883567287,
