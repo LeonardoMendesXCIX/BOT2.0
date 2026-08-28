@@ -1863,9 +1863,9 @@
         "total": 6
       },
       "1395881181241": {
-        "text": 141,
+        "text": 143,
         "media": 5,
-        "total": 146
+        "total": 148
       },
       "198595546501333": {
         "text": 2,
@@ -9930,8 +9930,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Gabi 💋 (247020967165997): E eu não estava brincando não",
-        "Pedro Henrique (172868239380659): A Gabi apelou, não aguentou a brincadeira saudável e partiu pra ofensa, aqui o pessoal tem um humor muito ácido",
         "Gabi 💋 (247020967165997): Oxi eu",
         "Pedro Henrique (172868239380659): Eu nem ligo, sou da zoeira",
         "Gabi 💋 (247020967165997): Peço perdão",
@@ -10429,7 +10427,9 @@
         "Leandro (+55 (11) 92701-8683): Estou bem, graças a Deus! 🙏🏻🙌🏻",
         "Leandro (+55 (11) 92701-8683): Divulgou link, é tchau, o bot pega",
         "Arthur (206253020176458): Fazendo oq kamila de bom",
-        "Rafael Moura (57707230945348): Paz amor e muito miojo"
+        "Rafael Moura (57707230945348): Paz amor e muito miojo",
+        "Bruno Aguiar (+1395881181241): É bom repor as energias",
+        "Bruno Aguiar (+1395881181241): Oiii"
       ]
     },
     "120363428464897153@g.us": {
@@ -17384,12 +17384,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Isso mesmo",
-        "timestamp": 1787931317943
-      },
-      {
         "authorNum": "190864487919667",
         "authorName": "Souza",
         "text": "O menino triste",
@@ -17682,6 +17676,18 @@
         "authorName": "Rafael Moura",
         "text": "Paz amor e muito miojo",
         "timestamp": 1787933104314
+      },
+      {
+        "authorNum": "1395881181241",
+        "authorName": "Bruno Aguiar",
+        "text": "É bom repor as energias",
+        "timestamp": 1787933119882
+      },
+      {
+        "authorNum": "1395881181241",
+        "authorName": "Bruno Aguiar",
+        "text": "Oiii",
+        "timestamp": 1787933133503
       }
     ],
     "120363428464897153@g.us": [],
@@ -17763,7 +17769,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22036,
+    "120363432018531082@g.us": 22038,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2014,
@@ -144057,6 +144063,18 @@
         "text": "Paz amor e muito miojo",
         "pushName": "Rafael Moura",
         "timestamp": 1787933104314
+      },
+      "ACF5292080D27BAC829695A9266A13F6": {
+        "sender": "1395881181241@lid",
+        "text": "É bom repor as energias",
+        "pushName": "Bruno Aguiar",
+        "timestamp": 1787933119882
+      },
+      "AC63F51FE9850DD2F996FF6FD2E381EF": {
+        "sender": "1395881181241@lid",
+        "text": "Oiii",
+        "pushName": "Bruno Aguiar",
+        "timestamp": 1787933133503
       }
     },
     "120363428464897153@g.us": {
@@ -197038,7 +197056,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787933104314,
+    "120363432018531082@g.us": 1787933133503,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787932967702,
