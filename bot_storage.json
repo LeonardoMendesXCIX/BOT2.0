@@ -3544,14 +3544,14 @@
         "total": 666
       },
       "145381035905262": {
-        "text": 464,
+        "text": 465,
         "media": 153,
-        "total": 617
+        "total": 618
       },
       "53537388122141": {
-        "text": 791,
+        "text": 792,
         "media": 61,
-        "total": 852
+        "total": 853
       },
       "120363412288900422": {
         "text": 1,
@@ -16941,7 +16941,9 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): 😂😂😂",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Povo tem o que fazer não cara?",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Ninguém trabalha nessa porra não?",
-        "Gabriel (145381035905262): Mano, que viagem"
+        "Gabriel (145381035905262): Mano, que viagem",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Muito triste amiga, vamos morrer",
+        "Gabriel (145381035905262): Ainda falam só tem 10 pessoas 😂😂"
       ]
     },
     "120363411233423709@g.us": {
@@ -17972,6 +17974,18 @@
         "authorName": "Gabriel",
         "text": "Mano, que viagem",
         "timestamp": 1787939729142
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Muito triste amiga, vamos morrer",
+        "timestamp": 1787939748226
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Ainda falam só tem 10 pessoas 😂😂",
+        "timestamp": 1787939768168
       }
     ],
     "120363411233423709@g.us": [],
@@ -17998,7 +18012,7 @@
     "120363432018531082@g.us": 22142,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2065,
+    "120363412288900422@g.us": 2067,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -195402,6 +195416,18 @@
         "text": "Mano, que viagem",
         "pushName": "Gabriel",
         "timestamp": 1787939729142
+      },
+      "AC2A1DA3EF03478CD1A8C52AADB0E3FC": {
+        "sender": "53537388122141@lid",
+        "text": "Muito triste amiga, vamos morrer",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787939748226
+      },
+      "AC33B504235E8F0B9E09C931749A77FA": {
+        "sender": "145381035905262@lid",
+        "text": "Ainda falam só tem 10 pessoas 😂😂",
+        "pushName": "Gabriel",
+        "timestamp": 1787939768168
       }
     },
     "120363411233423709@g.us": {
@@ -198238,7 +198264,7 @@
     "120363432018531082@g.us": 1787939737752,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787939738645,
+    "120363412288900422@g.us": 1787939768168,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
