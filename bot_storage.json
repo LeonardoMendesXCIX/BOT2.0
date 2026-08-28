@@ -2836,6 +2836,11 @@
         "text": 1,
         "media": 0,
         "total": 1
+      },
+      "227783724793861": {
+        "text": 0,
+        "media": 1,
+        "total": 1
       }
     },
     "120363428464897153@g.us": {
@@ -9875,7 +9880,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Leandro (+55 (11) 92701-8683): Às ordens!",
         "eduardo (37826582323373): asim",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Disponha",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): *Bom dia pessoal, que Deus abençoe o nosso dia, nossa sexta-feira, que tenhamos um dia produtivo e cheio de surpresas boas, a todos um bom final de semana!*❣️✨",
@@ -10374,7 +10378,8 @@
         "Souza (190864487919667): Bem vinda",
         "Lailson Nathan. (272048228188398): Seja bem vinda.",
         "Bruno Aguiar (+1395881181241): Seja bem vinda",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Bem vinda 🩷"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Bem vinda 🩷",
+        "May (227783724793861): 💥 BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Queremos conhecer você! ✨\n\n📸 Sua foto:\n💬 Nome:May\n🎂 Idade:37\n📍 De onde sou: Matinhos/Curitiba"
       ]
     },
     "120363428464897153@g.us": {
@@ -17311,12 +17316,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "193729163993156",
-        "authorName": "F. RicaRdo sAnToS",
-        "text": "Pão sexual é o que transa com Pão 🌭??? 🧐🧐",
-        "timestamp": 1787921723121
-      },
-      {
         "authorNum": "83911531044906",
         "authorName": "~Gará",
         "text": "Amo",
@@ -17465,6 +17464,12 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Bem vinda 🩷",
         "timestamp": 1787923476311
+      },
+      {
+        "authorNum": "227783724793861",
+        "authorName": "May",
+        "text": "💥 BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Queremos conhecer você! ✨\n\n📸 Sua foto:\n💬 Nome:May\n🎂 Idade:37\n📍 De onde sou: Matinhos/Curitiba",
+        "timestamp": 1787923527449
       }
     ],
     "120363428464897153@g.us": [],
@@ -17503,7 +17508,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21682,
+    "120363432018531082@g.us": 21683,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2006,
@@ -141698,6 +141703,12 @@
         "text": "Bem vinda 🩷",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787923476311
+      },
+      "AC1425E4C39DF6DD187CFE68CB5EF2FB": {
+        "sender": "227783724793861@lid",
+        "text": "💥 BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Queremos conhecer você! ✨\n\n📸 Sua foto:\n💬 Nome:May\n🎂 Idade:37\n📍 De onde sou: Matinhos/Curitiba",
+        "pushName": "May",
+        "timestamp": 1787923527449
       }
     },
     "120363428464897153@g.us": {
@@ -194571,7 +194582,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787923476311,
+    "120363432018531082@g.us": 1787923527449,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787922745298,
