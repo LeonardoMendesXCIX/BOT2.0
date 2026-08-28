@@ -309,8 +309,8 @@
       },
       "120363432018531082": {
         "text": 315,
-        "media": 84,
-        "total": 399
+        "media": 85,
+        "total": 400
       },
       "97535100252296": {
         "text": 96,
@@ -2796,6 +2796,11 @@
         "text": 3,
         "media": 1,
         "total": 4
+      },
+      "247020967165997": {
+        "text": 0,
+        "media": 1,
+        "total": 1
       }
     },
     "120363428464897153@g.us": {
@@ -9964,7 +9969,9 @@
         "Souza (190864487919667): Bom dia seus malucos",
         "Camila Designer (92629643563147): Bom que faço textos curtos e objetivo!🤣🤣🤣🤣",
         "Dany (262182034002040): Bom dia, grupo! SEXTOU!!! Uhuuuuu\n\nBoa sexta-feira, galera!!",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Graças a Deus"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Graças a Deus",
+        "Gabi 💋 (247020967165997): Bom dia a todos \nPrazer Gabi \nSou do abc paulista santo André \n30 anos",
+        " (120363432018531082): Bom dia a todos \nPrazer Gabi \nSou do abc paulista santo André \n30 anos"
       ]
     },
     "120363428464897153@g.us": {
@@ -16960,6 +16967,18 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Graças a Deus",
         "timestamp": 1787912279815
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Bom dia a todos \nPrazer Gabi \nSou do abc paulista santo André \n30 anos",
+        "timestamp": 1787912354430
+      },
+      {
+        "authorNum": "120363432018531082",
+        "authorName": "",
+        "text": "Bom dia a todos \nPrazer Gabi \nSou do abc paulista santo André \n30 anos",
+        "timestamp": 1787912361471
       }
     ],
     "120363428464897153@g.us": [],
@@ -16979,7 +16998,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21222,
+    "120363432018531082@g.us": 21224,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1989,
@@ -138434,6 +138453,12 @@
         "text": "Graças a Deus",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787912279815
+      },
+      "ACD16801922FCDE1139E4ACC24C17C9D": {
+        "sender": "120363432018531082@g.us",
+        "text": "Bom dia a todos \nPrazer Gabi \nSou do abc paulista santo André \n30 anos",
+        "pushName": "",
+        "timestamp": 1787912361471
       }
     },
     "120363428464897153@g.us": {
@@ -191205,7 +191230,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787912327396,
+    "120363432018531082@g.us": 1787912361471,
     "120363428464897153@g.us": 1787909941077,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787894166886,
