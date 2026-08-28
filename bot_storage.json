@@ -188,9 +188,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2238,
+        "text": 2239,
         "media": 472,
-        "total": 2710
+        "total": 2711
       },
       "184237705699536": {
         "text": 524,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Souza (190864487919667): Tá nem valendo tanto assim",
         "Nanda (263797142995147): deuzulive",
         "Camila Designer (92629643563147): Pra vender",
         "Nanda (263797142995147): eu ia flr isso",
@@ -10449,7 +10448,8 @@
         "Gabriel (145381035905262): Parabéns pela inteligência",
         " (120363432018531082): @all",
         " (120363432018531082): @92629643563147",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Nota dó"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Nota dó",
+        "Gabriel (145381035905262): Mas é isso mesmo, só concorda"
       ]
     },
     "120363428464897153@g.us": {
@@ -17484,18 +17484,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "Aproveita pra converssar com nós entao🤣🤣",
-        "timestamp": 1787941722215
-      },
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Muita chuva, agora parou",
-        "timestamp": 1787941736764
-      },
-      {
         "authorNum": "129373172711439",
         "authorName": "Celiete Souza",
         "text": "Tamo junto 🫶🏻😂😂😂",
@@ -17728,6 +17716,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Nota dó",
         "timestamp": 1787943518668
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Mas é isso mesmo, só concorda",
+        "timestamp": 1787943547730
       }
     ],
     "120363428464897153@g.us": [],
@@ -17839,7 +17833,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22293,
+    "120363432018531082@g.us": 22294,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -145656,6 +145650,12 @@
         "text": "Nota dó",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787943518668
+      },
+      "ACFB0E4AC8A5227F360877EF8D50FF40": {
+        "sender": "145381035905262@lid",
+        "text": "Mas é isso mesmo, só concorda",
+        "pushName": "Gabriel",
+        "timestamp": 1787943547730
       }
     },
     "120363428464897153@g.us": {
@@ -199117,7 +199117,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787943518668,
+    "120363432018531082@g.us": 1787943547730,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
