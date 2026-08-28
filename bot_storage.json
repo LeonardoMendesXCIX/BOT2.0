@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2227,
+        "text": 2228,
         "media": 300,
-        "total": 2527
+        "total": 2528
       },
       "252922705240205": {
         "text": 80,
@@ -293,9 +293,9 @@
         "total": 464
       },
       "262182034002040": {
-        "text": 1870,
+        "text": 1871,
         "media": 121,
-        "total": 1991
+        "total": 1992
       },
       "219245581488326": {
         "text": 4,
@@ -2603,9 +2603,9 @@
         "total": 21
       },
       "190864487919667": {
-        "text": 192,
+        "text": 194,
         "media": 35,
-        "total": 227
+        "total": 229
       },
       "82227819987089": {
         "text": 2,
@@ -9957,7 +9957,11 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bommm diaaa a @all vocês! Ótima sexta feira, que seja abençoada ❤️🙏🏼",
         "PAULO PEREIRA (129978696003832): Bom dia a todos , e ótima Sexta .",
         "Juliano Perlin (222595437858867): Bom diaa😘❤️",
-        "Camila Designer (92629643563147): Bom dia Pessoal!\n\nQue Deus abençoe o dia de vocês, que seja um dia muito produtivo, de muita paz!✌️"
+        "Camila Designer (92629643563147): Bom dia Pessoal!\n\nQue Deus abençoe o dia de vocês, que seja um dia muito produtivo, de muita paz!✌️",
+        "Souza (190864487919667): Bom dia Jess",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bom diaaa ❤️",
+        "Dany (262182034002040): Eita! Me senti suavemente atacada, confesso… 🥲😅",
+        "Souza (190864487919667): Bom dia seus malucos"
       ]
     },
     "120363428464897153@g.us": {
@@ -16911,6 +16915,30 @@
         "authorName": "Camila Designer",
         "text": "Bom dia Pessoal!\n\nQue Deus abençoe o dia de vocês, que seja um dia muito produtivo, de muita paz!✌️",
         "timestamp": 1787912068682
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Bom dia Jess",
+        "timestamp": 1787912164856
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Bom diaaa ❤️",
+        "timestamp": 1787912177947
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Eita! Me senti suavemente atacada, confesso… 🥲😅",
+        "timestamp": 1787912190937
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Bom dia seus malucos",
+        "timestamp": 1787912191012
       }
     ],
     "120363428464897153@g.us": [],
@@ -16930,7 +16958,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21215,
+    "120363432018531082@g.us": 21219,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1989,
@@ -16987,7 +17015,6 @@
       "136408815665242@lid",
       "219980373176429@lid",
       "180285564035215@lid",
-      "186466021941407@lid",
       "138397217734812@lid",
       "120542904463568@lid"
     ],
@@ -138344,6 +138371,30 @@
         "text": "Bom dia Pessoal!\n\nQue Deus abençoe o dia de vocês, que seja um dia muito produtivo, de muita paz!✌️",
         "pushName": "Camila Designer",
         "timestamp": 1787912068682
+      },
+      "AC6F4C85ED1CA0103628D1EC0A0FEC63": {
+        "sender": "190864487919667@lid",
+        "text": "Bom dia Jess",
+        "pushName": "Souza",
+        "timestamp": 1787912164856
+      },
+      "ACF98E9F1F1D5BCDC71DC380D388CE74": {
+        "sender": "53537388122141@lid",
+        "text": "Bom diaaa ❤️",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787912177947
+      },
+      "3A97B8A7365C9F11FA58": {
+        "sender": "262182034002040@lid",
+        "text": "Eita! Me senti suavemente atacada, confesso… 🥲😅",
+        "pushName": "Dany",
+        "timestamp": 1787912190937
+      },
+      "AC8530D55828135CF42497377DD52A86": {
+        "sender": "190864487919667@lid",
+        "text": "Bom dia seus malucos",
+        "pushName": "Souza",
+        "timestamp": 1787912191012
       }
     },
     "120363428464897153@g.us": {
@@ -191115,7 +191166,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787912096759,
+    "120363432018531082@g.us": 1787912191012,
     "120363428464897153@g.us": 1787909941077,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787894166886,
