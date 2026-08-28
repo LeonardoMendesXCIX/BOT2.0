@@ -2858,9 +2858,9 @@
         "total": 4
       },
       "263797142995147": {
-        "text": 0,
+        "text": 3,
         "media": 1,
-        "total": 1
+        "total": 4
       }
     },
     "120363428464897153@g.us": {
@@ -9900,9 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Bem vinda.",
-        "Juliano Perlin (222595437858867): To bemm sua fofa🥹",
-        "Souza (190864487919667): Buenos",
         "Gabi 💋 (247020967165997): Obrigada",
         "Rafael Moura (57707230945348): Bom dia 😴",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Bem vindaaa 🩷",
@@ -10399,7 +10396,10 @@
         "Nanda (263797142995147): fernanda\n19y\nfortaleza",
         " (120363432018531082): fernanda\n19y\nfortaleza",
         "Souza (190864487919667): Ihu, mais uma nordestina",
-        "Souza (190864487919667): Bem vinda"
+        "Souza (190864487919667): Bem vinda",
+        "Nanda (263797142995147): brigada lkk",
+        "Nanda (263797142995147): é de fortaleza tmb?",
+        "Nanda (263797142995147): eu moro entre fortaleza e maracanaú"
       ]
     },
     "120363428464897153@g.us": {
@@ -17506,6 +17506,24 @@
         "authorName": "Souza",
         "text": "Bem vinda",
         "timestamp": 1787926502726
+      },
+      {
+        "authorNum": "263797142995147",
+        "authorName": "Nanda",
+        "text": "brigada lkk",
+        "timestamp": 1787926519275
+      },
+      {
+        "authorNum": "263797142995147",
+        "authorName": "Nanda",
+        "text": "é de fortaleza tmb?",
+        "timestamp": 1787926526046
+      },
+      {
+        "authorNum": "263797142995147",
+        "authorName": "Nanda",
+        "text": "eu moro entre fortaleza e maracanaú",
+        "timestamp": 1787926536055
       }
     ],
     "120363428464897153@g.us": [],
@@ -17532,7 +17550,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21735,
+    "120363432018531082@g.us": 21738,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2010,
@@ -142039,6 +142057,24 @@
         "text": "Bem vinda",
         "pushName": "Souza",
         "timestamp": 1787926502727
+      },
+      "AC5A8D583E8656534646D4F260254016": {
+        "sender": "263797142995147@lid",
+        "text": "brigada lkk",
+        "pushName": "Nanda",
+        "timestamp": 1787926519275
+      },
+      "AC9157748C55863A2F0573095A40D11C": {
+        "sender": "263797142995147@lid",
+        "text": "é de fortaleza tmb?",
+        "pushName": "Nanda",
+        "timestamp": 1787926526046
+      },
+      "ACF19B4C200F0CBAB5424DB52CFC5224": {
+        "sender": "263797142995147@lid",
+        "text": "eu moro entre fortaleza e maracanaú",
+        "pushName": "Nanda",
+        "timestamp": 1787926536055
       }
     },
     "120363428464897153@g.us": {
@@ -194936,7 +194972,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787926502726,
+    "120363432018531082@g.us": 1787926536055,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787924999186,
