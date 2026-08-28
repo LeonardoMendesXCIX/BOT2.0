@@ -2658,9 +2658,9 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 82,
+        "text": 83,
         "media": 14,
-        "total": 96
+        "total": 97
       },
       "172868239380659": {
         "text": 182,
@@ -2708,9 +2708,9 @@
         "total": 2
       },
       "108461127897146": {
-        "text": 48,
+        "text": 50,
         "media": 4,
-        "total": 52
+        "total": 54
       },
       "10050861031495": {
         "text": 0,
@@ -9900,8 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Gabi 💋 (247020967165997): O bom que não tem a conversa estranha né e a mulher não vai reclamar se foi ruim",
-        "Rafael Moura (57707230945348): Vai comentar com as amigas rsrs",
         "Souza (190864487919667): 👀",
         "Gabi 💋 (247020967165997): Não vai ser chamado de milionário",
         "Pedro Henrique (172868239380659): Beijar é uma palavra forte",
@@ -10399,7 +10397,9 @@
         "Souza (190864487919667): Já sou pai já, com muito orgulho",
         "Souza (190864487919667): Vê com a Sabrina",
         "F. RicaRdo sAnToS (193729163993156): Aoooo",
-        "~Gará (83911531044906): Eu posso ser o pai..🫢"
+        "~Gará (83911531044906): Eu posso ser o pai..🫢",
+        "jaciara (108461127897146): Assim de cara ?",
+        "jaciara (108461127897146): Kkkkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -17730,6 +17730,18 @@
         "authorName": "~Gará",
         "text": "Eu posso ser o pai..🫢",
         "timestamp": 1787929158545
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Assim de cara ?",
+        "timestamp": 1787929190738
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Kkkkk",
+        "timestamp": 1787929191998
       }
     ],
     "120363428464897153@g.us": [],
@@ -17756,7 +17768,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21875,
+    "120363432018531082@g.us": 21877,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -143096,6 +143108,18 @@
         "text": "Eu posso ser o pai..🫢",
         "pushName": "~Gará",
         "timestamp": 1787929158545
+      },
+      "ACE221E4141C156BA2ECF46948DCBFF2": {
+        "sender": "108461127897146@lid",
+        "text": "Assim de cara ?",
+        "pushName": "jaciara",
+        "timestamp": 1787929190738
+      },
+      "ACECA6A5A9CC8E80CB3FEF59EC63A2A1": {
+        "sender": "108461127897146@lid",
+        "text": "Kkkkk",
+        "pushName": "jaciara",
+        "timestamp": 1787929191998
       }
     },
     "120363428464897153@g.us": {
@@ -196005,7 +196029,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787929158545,
+    "120363432018531082@g.us": 1787929191998,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
