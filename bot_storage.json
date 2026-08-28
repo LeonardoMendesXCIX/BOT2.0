@@ -293,9 +293,9 @@
         "total": 464
       },
       "262182034002040": {
-        "text": 1879,
+        "text": 1881,
         "media": 122,
-        "total": 2001
+        "total": 2003
       },
       "219245581488326": {
         "text": 4,
@@ -9890,8 +9890,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Dáfi (56603776680152): Bom dia gente",
-        "Alexandre Bastos (75797868064796): Bom dia",
         "Souza (190864487919667): Bom dia",
         "Alexandre Bastos (75797868064796): Bom dia",
         "jaciara (108461127897146): Bom diaaaa",
@@ -10389,7 +10387,9 @@
         "Alexandre Henrique (165687523848431): Bom dia a todos.",
         "Kamila (78143406768201): Obrigada",
         "Kamila (78143406768201): Brigada",
-        "Ismael (181892502569044): Obrigado"
+        "Ismael (181892502569044): Obrigado",
+        "Dany (262182034002040): Tá indo… tô fazendo umas atividades mais de boas com os alunos então tá indo bem hahahha",
+        "Dany (262182034002040): Eu!"
       ]
     },
     "120363428464897153@g.us": {
@@ -17329,18 +17329,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Gente tenham amigos assim",
-        "timestamp": 1787922349910
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "🤣🤣🤣🤣🤣",
-        "timestamp": 1787922388157
-      },
-      {
         "authorNum": "94227841179800",
         "authorName": "amanda🫶",
         "text": "💥 BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Queremos conhecer você! \n💬 Nome:amanda\n🎂 Idade:34anos\n📍 De onde sou:Rj\n\n*🫶🏻 Seja bem-vindo(a)!*",
@@ -17519,6 +17507,18 @@
         "authorName": "Ismael",
         "text": "Obrigado",
         "timestamp": 1787924031496
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Tá indo… tô fazendo umas atividades mais de boas com os alunos então tá indo bem hahahha",
+        "timestamp": 1787924350312
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Eu!",
+        "timestamp": 1787924358902
       }
     ],
     "120363428464897153@g.us": [],
@@ -17575,7 +17575,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21696,
+    "120363432018531082@g.us": 21698,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2009,
@@ -141854,6 +141854,18 @@
         "text": "Obrigado",
         "pushName": "Ismael",
         "timestamp": 1787924031496
+      },
+      "3A7CFD2D84F1DD800D46": {
+        "sender": "262182034002040@lid",
+        "text": "Tá indo… tô fazendo umas atividades mais de boas com os alunos então tá indo bem hahahha",
+        "pushName": "Dany",
+        "timestamp": 1787924350312
+      },
+      "3A97EE46FF43E754B9FA": {
+        "sender": "262182034002040@lid",
+        "text": "Eu!",
+        "pushName": "Dany",
+        "timestamp": 1787924358902
       }
     },
     "120363428464897153@g.us": {
@@ -194745,7 +194757,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787924031496,
+    "120363432018531082@g.us": 1787924358902,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787923699618,
