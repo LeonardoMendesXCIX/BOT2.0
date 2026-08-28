@@ -1863,9 +1863,9 @@
         "total": 6
       },
       "1395881181241": {
-        "text": 125,
+        "text": 126,
         "media": 5,
-        "total": 130
+        "total": 131
       },
       "198595546501333": {
         "text": 2,
@@ -9875,7 +9875,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "eduardo (37826582323373): muito obrigado gente",
         "eduardo (37826582323373): 😘",
         "Leandro (+55 (11) 92701-8683): Às ordens!",
         "eduardo (37826582323373): asim",
@@ -10374,7 +10373,8 @@
         "Alexandre Bastos (75797868064796): Sou da barra",
         "Alexandre Bastos (75797868064796): Prazer Alexandre",
         "Souza (190864487919667): Bem vinda",
-        "Lailson Nathan. (272048228188398): Seja bem vinda."
+        "Lailson Nathan. (272048228188398): Seja bem vinda.",
+        "Bruno Aguiar (+1395881181241): Seja bem vinda"
       ]
     },
     "120363428464897153@g.us": {
@@ -17459,6 +17459,12 @@
         "authorName": "Lailson Nathan.",
         "text": "Seja bem vinda.",
         "timestamp": 1787923365502
+      },
+      {
+        "authorNum": "1395881181241",
+        "authorName": "Bruno Aguiar",
+        "text": "Seja bem vinda",
+        "timestamp": 1787923386606
       }
     ],
     "120363428464897153@g.us": [],
@@ -17521,7 +17527,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21680,
+    "120363432018531082@g.us": 21681,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2006,
@@ -141704,6 +141710,12 @@
         "text": "Seja bem vinda.",
         "pushName": "Lailson Nathan.",
         "timestamp": 1787923365502
+      },
+      "ACDCFC7471905803DE93480CEB6347DB": {
+        "sender": "1395881181241@lid",
+        "text": "Seja bem vinda",
+        "pushName": "Bruno Aguiar",
+        "timestamp": 1787923386606
       }
     },
     "120363428464897153@g.us": {
@@ -194577,7 +194589,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787923365502,
+    "120363432018531082@g.us": 1787923386606,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787922745298,
