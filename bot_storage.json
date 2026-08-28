@@ -2598,9 +2598,9 @@
         "total": 2
       },
       "11171897864256": {
-        "text": 39,
+        "text": 40,
         "media": 2,
-        "total": 41
+        "total": 42
       },
       "190864487919667": {
         "text": 367,
@@ -3544,9 +3544,9 @@
         "total": 702
       },
       "145381035905262": {
-        "text": 497,
+        "text": 499,
         "media": 162,
-        "total": 659
+        "total": 661
       },
       "53537388122141": {
         "text": 834,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Rafael Moura (57707230945348): Oi menina de 3 numeros",
         "Rafael Moura (57707230945348): 👀",
         "Arthur (206253020176458): Kkkkkk",
         "Rafael Moura (57707230945348): Acho que agora so tem 2 kakakaka",
@@ -10449,7 +10448,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Sou kkk",
         "willian (163530946961491): Nem eu sei mais kkkk",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Eu sou curiosa",
-        "willian (163530946961491): Brincadeira"
+        "willian (163530946961491): Brincadeira",
+        "🙃🙃🙃 (11171897864256): Oooh sono 😴"
       ]
     },
     "120363428464897153@g.us": {
@@ -17050,7 +17050,9 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Vi nenhum ddd daqui, mas de boa 😂",
         "Leandro (+55 (11) 92701-8683): Cobra reapresentação de todos! @all",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Hoje?",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Esse só manda \nFaz nada"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Esse só manda \nFaz nada",
+        "Gabriel (145381035905262): A coisa pra tu @54259127210155",
+        "Gabriel (145381035905262): A layh tá só na marretada pesada"
       ]
     },
     "120363411233423709@g.us": {
@@ -17839,53 +17841,17 @@
         "authorName": "willian",
         "text": "Brincadeira",
         "timestamp": 1787958290899
+      },
+      {
+        "authorNum": "11171897864256",
+        "authorName": "🙃🙃🙃",
+        "text": "Oooh sono 😴",
+        "timestamp": 1787958490697
       }
     ],
     "120363428464897153@g.us": [],
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Exatamente",
-        "timestamp": 1787956658807
-      },
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Leia",
-        "timestamp": 1787956663997
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Sigo bem pleno aqui",
-        "timestamp": 1787956665231
-      },
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Leia aqui também",
-        "timestamp": 1787956669672
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Eu li",
-        "timestamp": 1787956670639
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "🫡",
-        "timestamp": 1787956675697
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Isso tudo por um grupo de WhatsApp?",
-        "timestamp": 1787956677599
-      },
       {
         "authorNum": "145381035905262",
         "authorName": "Gabriel",
@@ -18209,6 +18175,18 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Esse só manda \nFaz nada",
         "timestamp": 1787958450114
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "A coisa pra tu @54259127210155",
+        "timestamp": 1787958466279
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "A layh tá só na marretada pesada",
+        "timestamp": 1787958481180
       }
     ],
     "120363411233423709@g.us": [],
@@ -18225,10 +18203,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22579,
+    "120363432018531082@g.us": 22580,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2175,
+    "120363412288900422@g.us": 2177,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -147734,6 +147712,12 @@
         "text": "Brincadeira",
         "pushName": "willian",
         "timestamp": 1787958290899
+      },
+      "ACC2D67FF1EDE51AFC2C16477CE7C30F": {
+        "sender": "11171897864256@lid",
+        "text": "Oooh sono 😴",
+        "pushName": "🙃🙃🙃",
+        "timestamp": 1787958490697
       }
     },
     "120363428464897153@g.us": {
@@ -198872,6 +198856,18 @@
         "text": "Esse só manda \nFaz nada",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787958450114
+      },
+      "AC756B59ED9268F51ECF9A7C5FD4F1A4": {
+        "sender": "145381035905262@lid",
+        "text": "A coisa pra tu @54259127210155",
+        "pushName": "Gabriel",
+        "timestamp": 1787958466279
+      },
+      "AC45CD192FF030166C7B3655EE98545A": {
+        "sender": "145381035905262@lid",
+        "text": "A layh tá só na marretada pesada",
+        "pushName": "Gabriel",
+        "timestamp": 1787958481180
       }
     },
     "120363411233423709@g.us": {
@@ -201753,10 +201749,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787958361193,
+    "120363432018531082@g.us": 1787958490697,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787958457040,
+    "120363412288900422@g.us": 1787958481180,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
