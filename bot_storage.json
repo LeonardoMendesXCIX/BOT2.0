@@ -173,9 +173,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1547,
-        "media": 425,
-        "total": 1972
+        "text": 1549,
+        "media": 426,
+        "total": 1975
       },
       "81991328395336": {
         "text": 3923,
@@ -9930,8 +9930,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Pedro Henrique (172868239380659): Animar o grupo pow",
-        "Pedro Henrique (172868239380659): Tinha uns assuntos muito ruim aqui",
         "Gabi 💋 (247020967165997): Obrigada Pedro",
         "Gabi 💋 (247020967165997): Adorei falar com você",
         "Souza (190864487919667): 😂😂😂",
@@ -10429,7 +10427,9 @@
         "Souza (190864487919667): Era no bom sentido",
         "Arthur (206253020176458): Meu Deus olha essa figurinha",
         "Bruno Aguiar (+1395881181241): Tudo tem limites \nRespeito se conquista",
-        "Bruno Aguiar (+1395881181241): Eita"
+        "Bruno Aguiar (+1395881181241): Eita",
+        "Celiete Souza (129373172711439): Então já estou lá",
+        "Celiete Souza (129373172711439): Vai um cafezinho após o almoço?"
       ]
     },
     "120363428464897153@g.us": {
@@ -17381,42 +17381,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "263797142995147",
-        "authorName": "Nanda",
-        "text": "nossa",
-        "timestamp": 1787930790323
-      },
-      {
-        "authorNum": "263797142995147",
-        "authorName": "Nanda",
-        "text": "seis acabaram de me lembrar de um video pesado",
-        "timestamp": 1787930800487
-      },
-      {
-        "authorNum": "263797142995147",
-        "authorName": "Nanda",
-        "text": "um rietc",
-        "timestamp": 1787930808732
-      },
-      {
-        "authorNum": "263797142995147",
-        "authorName": "Nanda",
-        "text": "sla o nome, reagindo",
-        "timestamp": 1787930813083
-      },
-      {
-        "authorNum": "263797142995147",
-        "authorName": "Nanda",
-        "text": "a tal da blue que dormiu com 1.057 homens e engraviou",
-        "timestamp": 1787930831869
-      },
-      {
-        "authorNum": "206253020176458",
-        "authorName": "Arthur",
-        "text": "Tem o vídeo aí?",
-        "timestamp": 1787930834031
-      },
-      {
         "authorNum": "206253020176458",
         "authorName": "Arthur",
         "text": "Have Maria",
@@ -17847,6 +17811,18 @@
         "authorName": "Bruno Aguiar",
         "text": "Eita",
         "timestamp": 1787932584735
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Então já estou lá",
+        "timestamp": 1787932633546
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Vai um cafezinho após o almoço?",
+        "timestamp": 1787932639690
       }
     ],
     "120363428464897153@g.us": [],
@@ -17921,7 +17897,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22025,
+    "120363432018531082@g.us": 22027,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -144149,6 +144125,18 @@
         "text": "Eita",
         "pushName": "Bruno Aguiar",
         "timestamp": 1787932584735
+      },
+      "AC10F78B9BD159B3116EE7D157B93715": {
+        "sender": "129373172711439@lid",
+        "text": "Então já estou lá",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787932633546
+      },
+      "AC3BF22C4EF628375212E48DB2EB628C": {
+        "sender": "129373172711439@lid",
+        "text": "Vai um cafezinho após o almoço?",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787932639691
       }
     },
     "120363428464897153@g.us": {
@@ -197112,7 +197100,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787932584735,
+    "120363432018531082@g.us": 1787932639690,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
