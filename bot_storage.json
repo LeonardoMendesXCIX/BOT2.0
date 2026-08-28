@@ -2699,9 +2699,9 @@
         "total": 78
       },
       "81991328395336": {
-        "text": 579,
-        "media": 163,
-        "total": 742
+        "text": 580,
+        "media": 164,
+        "total": 744
       },
       "99338701258949": {
         "text": 499,
@@ -2904,9 +2904,9 @@
         "total": 1
       },
       "92629643563147": {
-        "text": 561,
+        "text": 562,
         "media": 374,
-        "total": 935
+        "total": 936
       },
       "122552932372575": {
         "text": 0,
@@ -2944,9 +2944,9 @@
         "total": 9
       },
       "129373172711439": {
-        "text": 893,
+        "text": 894,
         "media": 228,
-        "total": 1121
+        "total": 1122
       },
       "16007578021977": {
         "text": 50,
@@ -3120,8 +3120,8 @@
       },
       "57561571176651": {
         "text": 33,
-        "media": 47,
-        "total": 80
+        "media": 48,
+        "total": 81
       },
       "201257922908323": {
         "text": 3,
@@ -3209,9 +3209,9 @@
         "total": 29
       },
       "155503636275307": {
-        "text": 26,
+        "text": 27,
         "media": 19,
-        "total": 45
+        "total": 46
       },
       "241553943601214": {
         "text": 5,
@@ -13630,7 +13630,10 @@
         "Juliano Perlin (222595437858867): O povo safado",
         "Clayton 🇳🇬 (155503636275307): Eai que faz de bom",
         "negoh🐻 (120044990287992): Mas que eu duvido",
-        "Priscilla 🌻 (25520947339303): Tô no trabalho kkkk"
+        "Priscilla 🌻 (25520947339303): Tô no trabalho kkkk",
+        "Camila Designer (92629643563147): 🤣🤣🤣",
+        "Celiete Souza (129373172711439): Eu bloquiei meu chamando  no pv",
+        "Clayton 🇳🇬 (155503636275307): Ai sim e trabalho bom"
       ]
     },
     "120363409727467494@g.us": {
@@ -16507,6 +16510,24 @@
         "authorName": "Priscilla 🌻",
         "text": "Tô no trabalho kkkk",
         "timestamp": 1787878745117
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "🤣🤣🤣",
+        "timestamp": 1787878755287
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Eu bloquiei meu chamando  no pv",
+        "timestamp": 1787878756924
+      },
+      {
+        "authorNum": "155503636275307",
+        "authorName": "Clayton 🇳🇬",
+        "text": "Ai sim e trabalho bom",
+        "timestamp": 1787878765872
       }
     ],
     "120363409727467494@g.us": [],
@@ -16647,7 +16668,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 21031,
-    "120363428464897153@g.us": 6091,
+    "120363428464897153@g.us": 6094,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1711,
     "120363411233423709@g.us": 5,
@@ -16772,6 +16793,12 @@
       "chatId": "120363428464897153@g.us",
       "newMemberId": "34626781356198@lid",
       "runAt": 1787879525833
+    },
+    {
+      "id": "1787878754249_274384656834700@lid",
+      "chatId": "120363428464897153@g.us",
+      "newMemberId": "274384656834700@lid",
+      "runAt": 1787879654249
     }
   ],
   "pendingPresentations": [],
@@ -172718,6 +172745,24 @@
         "text": "Tô no trabalho kkkk",
         "pushName": "Priscilla 🌻",
         "timestamp": 1787878745117
+      },
+      "2AC59E7809E147665F0B": {
+        "sender": "92629643563147@lid",
+        "text": "🤣🤣🤣",
+        "pushName": "Camila Designer",
+        "timestamp": 1787878755287
+      },
+      "AC29F6A7B7A4FA393CF5A8CAECC5C679": {
+        "sender": "129373172711439@lid",
+        "text": "Eu bloquiei meu chamando  no pv",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787878756924
+      },
+      "ACDE5599394F5465F147DD847FAE0400": {
+        "sender": "155503636275307@lid",
+        "text": "Ai sim e trabalho bom",
+        "pushName": "Clayton 🇳🇬",
+        "timestamp": 1787878765872
       }
     },
     "120363409727467494@g.us": {
@@ -186762,7 +186807,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787878669226,
-    "120363428464897153@g.us": 1787878745117,
+    "120363428464897153@g.us": 1787878774914,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787877736241,
     "120363411233423709@g.us": 1787113553426,
