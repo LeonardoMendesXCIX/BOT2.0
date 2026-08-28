@@ -378,9 +378,9 @@
         "total": 3
       },
       "163530946961491": {
-        "text": 420,
+        "text": 421,
         "media": 73,
-        "total": 493
+        "total": 494
       },
       "222595437858867": {
         "text": 539,
@@ -3535,8 +3535,8 @@
     "120363412288900422@g.us": {
       "81991328395336": {
         "text": 483,
-        "media": 123,
-        "total": 606
+        "media": 124,
+        "total": 607
       },
       "5511927018683": {
         "text": 588,
@@ -3549,9 +3549,9 @@
         "total": 653
       },
       "53537388122141": {
-        "text": 828,
-        "media": 64,
-        "total": 892
+        "text": 829,
+        "media": 65,
+        "total": 894
       },
       "120363412288900422": {
         "text": 1,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Nanda (263797142995147): crianças sendo criança, agora adolescente nd haver LKKKK deixei de ser adolescente a 2 anos e n fazia nd disso",
         "Rafael Moura (57707230945348): Oi menina de 3 numeros",
         "Rafael Moura (57707230945348): 👀",
         "Arthur (206253020176458): Kkkkkk",
@@ -10449,7 +10448,8 @@
         "willian (163530946961491): Vcs são curiosos né kkkk",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Sou kkk",
         "willian (163530946961491): Nem eu sei mais kkkk",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Eu sou curiosa"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Eu sou curiosa",
+        "willian (163530946961491): Brincadeira"
       ]
     },
     "120363428464897153@g.us": {
@@ -17038,7 +17038,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Gabriel Dias tá no grupo",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Com outro número!!!",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Qual o ddd dele \nCês lembra?",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Ele mora a 4min da minha casa 😂"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Ele mora a 4min da minha casa 😂",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): DDD 48"
       ]
     },
     "120363411233423709@g.us": {
@@ -17821,17 +17822,17 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Eu sou curiosa",
         "timestamp": 1787958281789
+      },
+      {
+        "authorNum": "163530946961491",
+        "authorName": "willian",
+        "text": "Brincadeira",
+        "timestamp": 1787958290899
       }
     ],
     "120363428464897153@g.us": [],
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Beijo amiga, boa noite!",
-        "timestamp": 1787956486404
-      },
       {
         "authorNum": "145381035905262",
         "authorName": "Gabriel",
@@ -18143,6 +18144,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Ele mora a 4min da minha casa 😂",
         "timestamp": 1787958281601
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "DDD 48",
+        "timestamp": 1787958287581
       }
     ],
     "120363411233423709@g.us": [],
@@ -18159,10 +18166,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22578,
+    "120363432018531082@g.us": 22579,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2163,
+    "120363412288900422@g.us": 2164,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -147662,6 +147669,12 @@
         "text": "Eu sou curiosa",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787958281789
+      },
+      "AC2F56732CAA7254CE8AECE8E17D4A97": {
+        "sender": "163530946961491@lid",
+        "text": "Brincadeira",
+        "pushName": "willian",
+        "timestamp": 1787958290899
       }
     },
     "120363428464897153@g.us": {
@@ -198728,6 +198741,12 @@
         "text": "Ele mora a 4min da minha casa 😂",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787958281601
+      },
+      "ACCB1165DC6DF727912A3827290D8862": {
+        "sender": "53537388122141@lid",
+        "text": "DDD 48",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787958287581
       }
     },
     "120363411233423709@g.us": {
@@ -201609,10 +201628,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787958281789,
+    "120363432018531082@g.us": 1787958290899,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787958281601,
+    "120363412288900422@g.us": 1787958297867,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
