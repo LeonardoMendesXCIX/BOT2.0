@@ -294,8 +294,8 @@
       },
       "262182034002040": {
         "text": 1887,
-        "media": 122,
-        "total": 2009
+        "media": 123,
+        "total": 2010
       },
       "219245581488326": {
         "text": 4,
@@ -2658,9 +2658,9 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 106,
-        "media": 20,
-        "total": 126
+        "text": 107,
+        "media": 21,
+        "total": 128
       },
       "172868239380659": {
         "text": 182,
@@ -9950,8 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tô lá já, aham",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Quiser fala pra ADM Fifi aqui\nAceito",
         "Leandro (+55 (11) 92701-8683): Prometemos guardar segredo 🤞🏼",
         "Souza (190864487919667): Agonia",
         "Souza (190864487919667): Bando de fofoqueiros",
@@ -10449,7 +10447,9 @@
         " (120363432018531082): 💥 BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Queremos conhecer você! ✨\n\n📸 Sua foto:\n💬 Nome: Fernando\n🎂 Idade: 24\n📍 De onde sou: Salvador (porém moro no DF)\n\n*🫶🏻 Seja bem-vindo(a)!*\n\n✨ Sinta-se à vontade para",
         "Edison Medeiros💚 (108268240302270): Buuuu, me chamo Edison tenho 44 anos sou de votorantin SP e solteiro",
         "Dany (262182034002040): Boa noite, meu povooooo",
-        "Edison Medeiros💚 (108268240302270): Boah noite minha linda"
+        "Edison Medeiros💚 (108268240302270): Boah noite minha linda",
+        "Dany (262182034002040): *REAPRESENTAÇÃO*\n\n💬 Nome: Daniela, pode me chamar de Dany\n🎂 Idade: 32 anos\n📍 De onde sou: São Paulo, SP\n💍 Estado civil: namorando 🥰\n👀 Entrei no grupo para: Amizades e resenha\n🗣️ Meu privado est",
+        "Gleydson Souza (274384656834700): Boa noite"
       ]
     },
     "120363428464897153@g.us": {
@@ -17769,6 +17769,18 @@
         "authorName": "Edison Medeiros💚",
         "text": "Boah noite minha linda",
         "timestamp": 1787961383429
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "*REAPRESENTAÇÃO*\n\n💬 Nome: Daniela, pode me chamar de Dany\n🎂 Idade: 32 anos\n📍 De onde sou: São Paulo, SP\n💍 Estado civil: namorando 🥰\n👀 Entrei no grupo para: Amizades e resenha\n🗣️ Meu privado está: Aberto (✅) - pedindo permissão pelo grupo - Fechado ( )❌",
+        "timestamp": 1787961416597
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Boa noite",
+        "timestamp": 1787961431398
       }
     ],
     "120363428464897153@g.us": [],
@@ -17898,7 +17910,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22631,
+    "120363432018531082@g.us": 22633,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2194,
@@ -147708,6 +147720,18 @@
         "text": "Boah noite minha linda",
         "pushName": "Edison Medeiros💚",
         "timestamp": 1787961383429
+      },
+      "3A92F7E9F77126B07527": {
+        "sender": "262182034002040@lid",
+        "text": "*REAPRESENTAÇÃO*\n\n💬 Nome: Daniela, pode me chamar de Dany\n🎂 Idade: 32 anos\n📍 De onde sou: São Paulo, SP\n💍 Estado civil: namorando 🥰\n👀 Entrei no grupo para: Amizades e resenha\n🗣️ Meu privado está: Aberto (✅) - pedindo permissão pelo grupo - Fechado ( )❌",
+        "pushName": "Dany",
+        "timestamp": 1787961416598
+      },
+      "ACCDAF2A33CCA3789BEBA97AE487DDB0": {
+        "sender": "274384656834700@lid",
+        "text": "Boa noite",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787961431398
       }
     },
     "120363428464897153@g.us": {
@@ -201847,7 +201871,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787961384841,
+    "120363432018531082@g.us": 1787961431398,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787961328766,
