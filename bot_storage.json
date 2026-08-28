@@ -1863,9 +1863,9 @@
         "total": 6
       },
       "1395881181241": {
-        "text": 144,
+        "text": 145,
         "media": 5,
-        "total": 149
+        "total": 150
       },
       "198595546501333": {
         "text": 2,
@@ -2213,9 +2213,9 @@
         "total": 33
       },
       "240716089413724": {
-        "text": 31,
+        "text": 32,
         "media": 1,
-        "total": 32
+        "total": 33
       },
       "260426164125939": {
         "text": 90,
@@ -2838,9 +2838,9 @@
         "total": 8
       },
       "227783724793861": {
-        "text": 4,
+        "text": 6,
         "media": 1,
-        "total": 5
+        "total": 7
       },
       "159304631980141": {
         "text": 1,
@@ -9930,9 +9930,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Pedro Henrique (172868239380659): Nada pow, tá tudo certo entre eu e ela, só uma zoeira saudável",
-        "Gabi 💋 (247020967165997): Sim",
-        "Pedro Henrique (172868239380659): Sexta feira pow, tem que dá uma animada, só trabalhar não da",
         "Bruno Aguiar (+1395881181241): Eita",
         "Pedro Henrique (172868239380659): Mas na bíblia não fala sobre qual",
         "Pedro Henrique (172868239380659): Se Deus escreveu quem sou eu pra falar algo",
@@ -10429,7 +10426,10 @@
         "Gleydson Souza (274384656834700): Meu sonho kkkk",
         "Gleydson Souza (274384656834700): Amo chuva",
         "jaciara (108461127897146): Obrigada ☺️",
-        "Bruno Aguiar (+1395881181241): Mas aí tem que ter um Rum kkk"
+        "Bruno Aguiar (+1395881181241): Mas aí tem que ter um Rum kkk",
+        "Bruno Aguiar (+1395881181241): Nem fale",
+        "Wagner Cabral (240716089413724): Tá lascado",
+        "May (227783724793861): Nossa\nQue inveja hahaha"
       ]
     },
     "120363428464897153@g.us": {
@@ -17589,6 +17589,24 @@
         "authorName": "Bruno Aguiar",
         "text": "Mas aí tem que ter um Rum kkk",
         "timestamp": 1787934010506
+      },
+      {
+        "authorNum": "1395881181241",
+        "authorName": "Bruno Aguiar",
+        "text": "Nem fale",
+        "timestamp": 1787934031660
+      },
+      {
+        "authorNum": "240716089413724",
+        "authorName": "Wagner Cabral",
+        "text": "Tá lascado",
+        "timestamp": 1787934053462
+      },
+      {
+        "authorNum": "227783724793861",
+        "authorName": "May",
+        "text": "Nossa\nQue inveja hahaha",
+        "timestamp": 1787934054565
       }
     ],
     "120363428464897153@g.us": [],
@@ -17646,7 +17664,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22049,
+    "120363432018531082@g.us": 22052,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2014,
@@ -144018,6 +144036,24 @@
         "text": "Mas aí tem que ter um Rum kkk",
         "pushName": "Bruno Aguiar",
         "timestamp": 1787934010506
+      },
+      "AC9A8AE3A25D942F8A3C3B2C57139C9D": {
+        "sender": "1395881181241@lid",
+        "text": "Nem fale",
+        "pushName": "Bruno Aguiar",
+        "timestamp": 1787934031660
+      },
+      "ACF05ABF0ACD76CF169B24BFE9ADC52B": {
+        "sender": "240716089413724@lid",
+        "text": "Tá lascado",
+        "pushName": "Wagner Cabral",
+        "timestamp": 1787934053462
+      },
+      "ACA15756682BC26E245DFF699C726F31": {
+        "sender": "227783724793861@lid",
+        "text": "Nossa\nQue inveja hahaha",
+        "pushName": "May",
+        "timestamp": 1787934054565
       }
     },
     "120363428464897153@g.us": {
@@ -197017,7 +197053,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787934010506,
+    "120363432018531082@g.us": 1787934054565,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787932967702,
