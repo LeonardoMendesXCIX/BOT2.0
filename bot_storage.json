@@ -698,9 +698,9 @@
         "total": 95
       },
       "57707230945348": {
-        "text": 1187,
+        "text": 1188,
         "media": 214,
-        "total": 1401
+        "total": 1402
       },
       "152218690924790": {
         "text": 309,
@@ -2629,8 +2629,8 @@
       },
       "75797868064796": {
         "text": 21,
-        "media": 65,
-        "total": 86
+        "media": 66,
+        "total": 87
       },
       "153764728184839": {
         "text": 2,
@@ -2663,9 +2663,9 @@
         "total": 77
       },
       "172868239380659": {
-        "text": 129,
-        "media": 20,
-        "total": 149
+        "text": 130,
+        "media": 22,
+        "total": 152
       },
       "170455038193841": {
         "text": 1,
@@ -2798,9 +2798,9 @@
         "total": 5
       },
       "247020967165997": {
-        "text": 56,
+        "text": 57,
         "media": 13,
-        "total": 69
+        "total": 70
       },
       "206253020176458": {
         "text": 3,
@@ -10235,7 +10235,10 @@
         "Rafael Moura (57707230945348): Nem falo meu tempo de solterice🙈",
         "Gabi 💋 (247020967165997): Quem deve está com doença é tu",
         "Pedro Henrique (172868239380659): Cuidado, ela vai achar que significa algo",
-        "𝔞𝔩𝔦𝔫𝔢🫶🏽 (221307534876912): Kkkk"
+        "𝔞𝔩𝔦𝔫𝔢🫶🏽 (221307534876912): Kkkk",
+        "Rafael Moura (57707230945348): Aline so botando lenha na fogueira",
+        "Pedro Henrique (172868239380659): Calma, rodada.",
+        "Gabi 💋 (247020967165997): Calma miojo"
       ]
     },
     "120363428464897153@g.us": {
@@ -17159,12 +17162,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "208958782488665",
-        "authorName": "Jessica",
-        "text": "Que hoje tem reunião dos internados do hospital 😬",
-        "timestamp": 1787915141180
-      },
-      {
         "authorNum": "57707230945348",
         "authorName": "Rafael Moura",
         "text": "Oi doutora 😏",
@@ -17841,6 +17838,24 @@
         "authorName": "𝔞𝔩𝔦𝔫𝔢🫶🏽",
         "text": "Kkkk",
         "timestamp": 1787916911180
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Aline so botando lenha na fogueira",
+        "timestamp": 1787916926465
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Calma, rodada.",
+        "timestamp": 1787916934933
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Calma miojo",
+        "timestamp": 1787916943016
       }
     ],
     "120363428464897153@g.us": [],
@@ -17867,7 +17882,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21473,
+    "120363432018531082@g.us": 21476,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -140815,6 +140830,24 @@
         "text": "Kkkk",
         "pushName": "𝔞𝔩𝔦𝔫𝔢🫶🏽",
         "timestamp": 1787916911181
+      },
+      "ACEC4BB99A7D03AB2A7A509CA4B5DC65": {
+        "sender": "57707230945348@lid",
+        "text": "Aline so botando lenha na fogueira",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787916926465
+      },
+      "ACDFD4D19B9188D9493AFDD4C0E074DA": {
+        "sender": "172868239380659@lid",
+        "text": "Calma, rodada.",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787916934934
+      },
+      "AC52996A221C380399D49C614BAF78F8": {
+        "sender": "247020967165997@lid",
+        "text": "Calma miojo",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787916943017
       }
     },
     "120363428464897153@g.us": {
@@ -193610,7 +193643,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787916911180,
+    "120363432018531082@g.us": 1787916943016,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
