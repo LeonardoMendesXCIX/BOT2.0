@@ -2629,8 +2629,8 @@
       },
       "75797868064796": {
         "text": 18,
-        "media": 43,
-        "total": 61
+        "media": 44,
+        "total": 62
       },
       "153764728184839": {
         "text": 2,
@@ -2798,9 +2798,9 @@
         "total": 4
       },
       "247020967165997": {
-        "text": 24,
+        "text": 25,
         "media": 6,
-        "total": 30
+        "total": 31
       },
       "206253020176458": {
         "text": 3,
@@ -10149,7 +10149,8 @@
         "Souza (190864487919667): A pista só tá salgada pra quem não sabe andar",
         "Alexandre Bastos (75797868064796): Vc que disse",
         "Pedro Henrique (172868239380659): Se não for pensar na intenção é melhor ficar em casa",
-        "Pedro Henrique (172868239380659): Sem ser no cabaré"
+        "Pedro Henrique (172868239380659): Sem ser no cabaré",
+        "Gabi 💋 (247020967165997): Meu Deus"
       ]
     },
     "120363428464897153@g.us": {
@@ -17718,6 +17719,12 @@
         "authorName": "Pedro Henrique",
         "text": "Sem ser no cabaré",
         "timestamp": 1787915722333
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Meu Deus",
+        "timestamp": 1787915750073
       }
     ],
     "120363428464897153@g.us": [],
@@ -17756,7 +17763,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21387,
+    "120363432018531082@g.us": 21388,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1992,
@@ -140188,6 +140195,12 @@
         "text": "Sem ser no cabaré",
         "pushName": "Pedro Henrique",
         "timestamp": 1787915722334
+      },
+      "ACD1D9601E8A665705AA431877BAAC96": {
+        "sender": "247020967165997@lid",
+        "text": "Meu Deus",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787915750073
       }
     },
     "120363428464897153@g.us": {
@@ -192977,7 +192990,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787915722333,
+    "120363432018531082@g.us": 1787915750073,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787914462012,
