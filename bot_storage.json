@@ -179,8 +179,8 @@
       },
       "81991328395336": {
         "text": 3894,
-        "media": 1315,
-        "total": 5209
+        "media": 1316,
+        "total": 5210
       },
       "179040627490824": {
         "text": 433,
@@ -2768,9 +2768,9 @@
         "total": 3
       },
       "120542904463568": {
-        "text": 6,
+        "text": 8,
         "media": 1,
-        "total": 7
+        "total": 9
       }
     },
     "120363428464897153@g.us": {
@@ -3902,9 +3902,9 @@
     },
     "120363411043114631@g.us": {
       "153764728184839": {
-        "text": 5,
+        "text": 11,
         "media": 0,
-        "total": 5
+        "total": 11
       }
     }
   },
@@ -9861,7 +9861,9 @@
         "Leandro (+55 (11) 92701-8683): Fora da curva",
         "Leandro (+55 (11) 92701-8683): Acesse este link para entrar no meu grupo do WhatsApp: https://chat.whatsapp.com/CS9G5GGA1nq0Ix6dP4CQX5?s=sw&p=a&mlu=4",
         "Leandro (+55 (11) 92701-8683): Fiquem a vontade para conhecer o kbaré da lalay",
-        "Jk (120542904463568): Kkkkk eita"
+        "Jk (120542904463568): Kkkkk eita",
+        "Jk (120542904463568): Kbaré da lalay",
+        "Jk (120542904463568): Gostei do nome"
       ]
     },
     "120363428464897153@g.us": {
@@ -16757,7 +16759,13 @@
         "Eduardo (153764728184839): !fechar",
         "Eduardo (153764728184839): !menu",
         "Eduardo (153764728184839): !m",
-        "Eduardo (153764728184839): !fechar"
+        "Eduardo (153764728184839): !fechar",
+        "Eduardo (153764728184839): !fechar",
+        "Eduardo (153764728184839): !abrir",
+        "Eduardo (153764728184839): /a",
+        "Eduardo (153764728184839): !a",
+        "Eduardo (153764728184839): !y",
+        "Eduardo (153764728184839): !status"
       ]
     }
   },
@@ -16924,6 +16932,18 @@
         "authorName": "Jk",
         "text": "Kkkkk eita",
         "timestamp": 1787897250118
+      },
+      {
+        "authorNum": "120542904463568",
+        "authorName": "Jk",
+        "text": "Kbaré da lalay",
+        "timestamp": 1787897262475
+      },
+      {
+        "authorNum": "120542904463568",
+        "authorName": "Jk",
+        "text": "Gostei do nome",
+        "timestamp": 1787897266871
       }
     ],
     "120363428464897153@g.us": [
@@ -16990,6 +17010,42 @@
         "authorName": "Eduardo",
         "text": "!fechar",
         "timestamp": 1787897238708
+      },
+      {
+        "authorNum": "153764728184839",
+        "authorName": "Eduardo",
+        "text": "!fechar",
+        "timestamp": 1787897255065
+      },
+      {
+        "authorNum": "153764728184839",
+        "authorName": "Eduardo",
+        "text": "!abrir",
+        "timestamp": 1787897263842
+      },
+      {
+        "authorNum": "153764728184839",
+        "authorName": "Eduardo",
+        "text": "/a",
+        "timestamp": 1787897267630
+      },
+      {
+        "authorNum": "153764728184839",
+        "authorName": "Eduardo",
+        "text": "!a",
+        "timestamp": 1787897270135
+      },
+      {
+        "authorNum": "153764728184839",
+        "authorName": "Eduardo",
+        "text": "!y",
+        "timestamp": 1787897273930
+      },
+      {
+        "authorNum": "153764728184839",
+        "authorName": "Eduardo",
+        "text": "!status",
+        "timestamp": 1787897280435
       }
     ]
   },
@@ -17000,7 +17056,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21144,
+    "120363432018531082@g.us": 21146,
     "120363428464897153@g.us": 6282,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1989,
@@ -17009,7 +17065,7 @@
     "120363411246936023@g.us": 21,
     "120363409024805409@g.us": 70,
     "120363050678635389@g.us": 1,
-    "120363411043114631@g.us": 5
+    "120363411043114631@g.us": 11
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -137999,6 +138055,18 @@
         "text": "Kkkkk eita",
         "pushName": "Jk",
         "timestamp": 1787897250119
+      },
+      "AC3C3C435CE251A6937036EDD048DB11": {
+        "sender": "120542904463568@lid",
+        "text": "Kbaré da lalay",
+        "pushName": "Jk",
+        "timestamp": 1787897262475
+      },
+      "ACA74395A54D0ADEF4E3D604E0863DBA": {
+        "sender": "120542904463568@lid",
+        "text": "Gostei do nome",
+        "pushName": "Jk",
+        "timestamp": 1787897266871
       }
     },
     "120363428464897153@g.us": {
@@ -190583,6 +190651,42 @@
         "text": "!fechar",
         "pushName": "Eduardo",
         "timestamp": 1787897238708
+      },
+      "ACDE767331F4B7F3AC5087C89EC9B229": {
+        "sender": "153764728184839@lid",
+        "text": "!fechar",
+        "pushName": "Eduardo",
+        "timestamp": 1787897255065
+      },
+      "AC95545E1CC0200BB80624A52F28DBC9": {
+        "sender": "153764728184839@lid",
+        "text": "!abrir",
+        "pushName": "Eduardo",
+        "timestamp": 1787897263842
+      },
+      "AC69AC52D37DF56C9FFE1FDEEE108E91": {
+        "sender": "153764728184839@lid",
+        "text": "/a",
+        "pushName": "Eduardo",
+        "timestamp": 1787897267630
+      },
+      "AC9EA33D939F45F833E648CC01C16372": {
+        "sender": "153764728184839@lid",
+        "text": "!a",
+        "pushName": "Eduardo",
+        "timestamp": 1787897270136
+      },
+      "AC6C18C8103108FB945795BF7304DB91": {
+        "sender": "153764728184839@lid",
+        "text": "!y",
+        "pushName": "Eduardo",
+        "timestamp": 1787897273930
+      },
+      "ACB43D2331392A701B2719354E48AF5B": {
+        "sender": "153764728184839@lid",
+        "text": "!status",
+        "pushName": "Eduardo",
+        "timestamp": 1787897280436
       }
     }
   },
@@ -190668,7 +190772,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787897250118,
+    "120363432018531082@g.us": 1787897272881,
     "120363428464897153@g.us": 1787897246916,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787894166886,
@@ -190680,7 +190784,7 @@
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1787868477291,
     "120363409024805409@g.us": 1787897222829,
-    "120363411043114631@g.us": 1787897238708
+    "120363411043114631@g.us": 1787897280435
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
