@@ -178,9 +178,9 @@
         "total": 1983
       },
       "81991328395336": {
-        "text": 3929,
+        "text": 3930,
         "media": 1333,
-        "total": 5262
+        "total": 5263
       },
       "179040627490824": {
         "text": 433,
@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2295,
+        "text": 2296,
         "media": 317,
-        "total": 2612
+        "total": 2613
       },
       "252922705240205": {
         "text": 80,
@@ -454,8 +454,8 @@
       },
       "5511927018683": {
         "text": 1728,
-        "media": 338,
-        "total": 2066
+        "media": 339,
+        "total": 2067
       },
       "252600633041077": {
         "text": 1,
@@ -2603,9 +2603,9 @@
         "total": 30
       },
       "190864487919667": {
-        "text": 324,
-        "media": 48,
-        "total": 372
+        "text": 325,
+        "media": 49,
+        "total": 374
       },
       "82227819987089": {
         "text": 2,
@@ -9950,8 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Pedro Henrique (172868239380659): Desgrama",
-        "🙃🙃🙃 (11171897864256): Oi bom dia",
         "Gleydson Souza (274384656834700): Bom dia",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Aos domingos",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mas quem quiser, fique a vontade",
@@ -10449,7 +10447,9 @@
         "Leandro (+55 (11) 92701-8683): Iae cobiçado 🤏🏼😎",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Gente, a vida tá fácil assim né? 🤡🤡",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Metida, cobiçado...\nO que mais que falta?",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @190864487919667"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @190864487919667",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Vai boba cair no golpe",
+        "Souza (190864487919667): Preciso falar não, a pessoa já sabe"
       ]
     },
     "120363428464897153@g.us": {
@@ -17628,6 +17628,18 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "@190864487919667",
         "timestamp": 1787939529051
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Vai boba cair no golpe",
+        "timestamp": 1787939553167
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Preciso falar não, a pessoa já sabe",
+        "timestamp": 1787939556874
       }
     ],
     "120363428464897153@g.us": [],
@@ -17877,7 +17889,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22127,
+    "120363432018531082@g.us": 22129,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2061,
@@ -144710,6 +144722,18 @@
         "text": "@190864487919667",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787939529051
+      },
+      "AC7017EDC4AD29CAF79AFB0BB0595452": {
+        "sender": "81991328395336@lid",
+        "text": "Vai boba cair no golpe",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787939553168
+      },
+      "AC137573564E7F369E0D4EC6238F170C": {
+        "sender": "190864487919667@lid",
+        "text": "Preciso falar não, a pessoa já sabe",
+        "pushName": "Souza",
+        "timestamp": 1787939556874
       }
     },
     "120363428464897153@g.us": {
@@ -198003,7 +198027,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787939529051,
+    "120363432018531082@g.us": 1787939562315,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787939104507,
