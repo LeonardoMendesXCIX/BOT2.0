@@ -2603,9 +2603,9 @@
         "total": 24
       },
       "190864487919667": {
-        "text": 242,
+        "text": 244,
         "media": 41,
-        "total": 283
+        "total": 285
       },
       "82227819987089": {
         "text": 2,
@@ -9895,8 +9895,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Juliano Perlin (222595437858867): Bom diaa😘❤️",
-        "Camila Designer (92629643563147): Bom dia Pessoal!\n\nQue Deus abençoe o dia de vocês, que seja um dia muito produtivo, de muita paz!✌️",
         "Souza (190864487919667): Bom dia Jess",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bom diaaa ❤️",
         "Dany (262182034002040): Eita! Me senti suavemente atacada, confesso… 🥲😅",
@@ -10394,7 +10392,9 @@
         "Kamila (78143406768201): Brigada",
         "Arthur (206253020176458): De nada",
         "Kamila (78143406768201): Tudo bem",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): !ban"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): !ban",
+        "Souza (190864487919667): Ish",
+        "Souza (190864487919667): Ban do nada"
       ]
     },
     "120363428464897153@g.us": {
@@ -17335,12 +17335,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Bem vinda",
-        "timestamp": 1787923225016
-      },
-      {
         "authorNum": "272048228188398",
         "authorName": "Lailson Nathan.",
         "text": "Seja bem vinda.",
@@ -17543,6 +17537,18 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "!ban",
         "timestamp": 1787924934729
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Ish",
+        "timestamp": 1787925025326
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Ban do nada",
+        "timestamp": 1787925029612
       }
     ],
     "120363428464897153@g.us": [],
@@ -17587,7 +17593,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21713,
+    "120363432018531082@g.us": 21715,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2010,
@@ -141968,6 +141974,18 @@
         "text": "!ban",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787924934729
+      },
+      "AC5C0CD8A17F9D8210CB31456DDA56CE": {
+        "sender": "190864487919667@lid",
+        "text": "Ish",
+        "pushName": "Souza",
+        "timestamp": 1787925025326
+      },
+      "AC5C7314FC7FD765D636F9E11FCC30B0": {
+        "sender": "190864487919667@lid",
+        "text": "Ban do nada",
+        "pushName": "Souza",
+        "timestamp": 1787925029612
       }
     },
     "120363428464897153@g.us": {
@@ -194865,7 +194883,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787924934729,
+    "120363432018531082@g.us": 1787925029612,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787924999186,
