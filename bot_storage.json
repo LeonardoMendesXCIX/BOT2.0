@@ -2793,9 +2793,9 @@
         "total": 1
       },
       "129978696003832": {
-        "text": 1,
+        "text": 2,
         "media": 1,
-        "total": 2
+        "total": 3
       }
     },
     "120363428464897153@g.us": {
@@ -9952,7 +9952,8 @@
         "jaciara (108461127897146): Bem também",
         "Alexandre Bastos (75797868064796): Bom ótimo dia",
         ". (279628962885736): Bom dia pessoal \nVamos que vamos",
-        "Edison Medeiros💚 (108268240302270): Bom dia"
+        "Edison Medeiros💚 (108268240302270): Bom dia",
+        "PAULO PEREIRA (129978696003832): Nome : Paulo Pereira \nIdade : 32 \nCidade : São Carlos-SP"
       ]
     },
     "120363428464897153@g.us": {
@@ -16882,6 +16883,12 @@
         "authorName": "Edison Medeiros💚",
         "text": "Bom dia",
         "timestamp": 1787910808872
+      },
+      {
+        "authorNum": "129978696003832",
+        "authorName": "PAULO PEREIRA",
+        "text": "Nome : Paulo Pereira \nIdade : 32 \nCidade : São Carlos-SP",
+        "timestamp": 1787910923305
       }
     ],
     "120363428464897153@g.us": [],
@@ -16901,7 +16908,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21210,
+    "120363432018531082@g.us": 21211,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1989,
@@ -138285,6 +138292,12 @@
         "text": "Bom dia",
         "pushName": "Edison Medeiros💚",
         "timestamp": 1787910808872
+      },
+      "AC2503B3AA4DC210C81A42D0FD3421DB": {
+        "sender": "129978696003832@lid",
+        "text": "Nome : Paulo Pereira \nIdade : 32 \nCidade : São Carlos-SP",
+        "pushName": "PAULO PEREIRA",
+        "timestamp": 1787910923305
       }
     },
     "120363428464897153@g.us": {
@@ -191056,7 +191069,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787910856626,
+    "120363432018531082@g.us": 1787910923305,
     "120363428464897153@g.us": 1787909941077,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787894166886,
