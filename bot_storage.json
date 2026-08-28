@@ -3341,9 +3341,9 @@
         "total": 1
       },
       "190864487919667": {
-        "text": 61,
+        "text": 62,
         "media": 11,
-        "total": 72
+        "total": 73
       },
       "118515428286715": {
         "text": 17,
@@ -13834,7 +13834,8 @@
         "Henrique (66743926038604): Boa noite galera",
         "Vini 👑🏁🙌⚽ (270377049690114): Boa noite 👀🌚",
         "Leandro (+55 (11) 92701-8683): Boa noite a @all",
-        "Eduardo (153764728184839): Good nigth"
+        "Eduardo (153764728184839): Good nigth",
+        "Souza (190864487919667): Buenas"
       ]
     },
     "120363409727467494@g.us": {
@@ -16440,12 +16441,6 @@
     ],
     "120363428464897153@g.us": [
       {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Ó os papos 🌝",
-        "timestamp": 1787882692894
-      },
-      {
         "authorNum": "274384656834700",
         "authorName": "Gleydson Souza",
         "text": "Eu vou me indo boa noite a todos",
@@ -16480,6 +16475,12 @@
         "authorName": "Eduardo",
         "text": "Good nigth",
         "timestamp": 1787884357324
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Buenas",
+        "timestamp": 1787884471956
       }
     ],
     "120363409727467494@g.us": [],
@@ -16636,12 +16637,6 @@
       {
         "authorNum": "5511927018683",
         "authorName": "Leandro",
-        "text": "!del",
-        "timestamp": 1787882459863
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
         "text": "!megafone novamente, aviso a todos, sem invasão de privado, se não é remoção imediata!!!",
         "timestamp": 1787883710784
       }
@@ -16656,7 +16651,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 21075,
-    "120363428464897153@g.us": 6223,
+    "120363428464897153@g.us": 6224,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1736,
     "120363411233423709@g.us": 5,
@@ -173751,6 +173746,12 @@
         "text": "Good nigth",
         "pushName": "Eduardo",
         "timestamp": 1787884357324
+      },
+      "ACF0F2883B30A0F6A9D078F4BB4B6A61": {
+        "sender": "190864487919667@lid",
+        "text": "Buenas",
+        "pushName": "Souza",
+        "timestamp": 1787884471956
       }
     },
     "120363409727467494@g.us": {
@@ -187957,7 +187958,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787884424124,
-    "120363428464897153@g.us": 1787884468821,
+    "120363428464897153@g.us": 1787884471956,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787884390062,
     "120363411233423709@g.us": 1787113553426,
