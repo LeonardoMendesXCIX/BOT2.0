@@ -142,9 +142,9 @@
         "total": 1942
       },
       "81991328395336": {
-        "text": 3868,
+        "text": 3871,
         "media": 1308,
-        "total": 5176
+        "total": 5179
       },
       "179040627490824": {
         "text": 433,
@@ -242,9 +242,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2201,
+        "text": 2202,
         "media": 292,
-        "total": 2493
+        "total": 2494
       },
       "252922705240205": {
         "text": 80,
@@ -9165,9 +9165,6 @@
         "Gabriel (145381035905262): Bó"
       ],
       "27/08/2026": [
-        "Souza (190864487919667): O que tu acha que ela não sabe",
-        "Souza (190864487919667): Ela sabe",
-        "Lailson Nathan. (272048228188398): Tá na merda kkkk",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): O que tu fez?",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Pera ai\nQuem é a tua guria @163530946961491 ?",
         "Gabriel (145381035905262): Tu vai de arrasta pra cima",
@@ -9664,7 +9661,10 @@
         "Souza (190864487919667): Cabaré abrir",
         "Lailson Nathan. (272048228188398): Seja bem vinda.",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Credo moço",
-        "Souza (190864487919667): 🫪"
+        "Souza (190864487919667): 🫪",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Tu ainda é mais alta que eu",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tu tem quanto?",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): 1,60"
       ]
     },
     "120363428464897153@g.us": {
@@ -15958,18 +15958,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "274384656834700",
-        "authorName": "Gleydson Souza",
-        "text": "Organizar evento e uma merda kkkk",
-        "timestamp": 1787874154780
-      },
-      {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "Com calor",
-        "timestamp": 1787874190858
-      },
-      {
         "authorNum": "155503636275307",
         "authorName": "Clayton 🇳🇬",
         "text": "Sim sim",
@@ -16676,6 +16664,24 @@
         "authorName": "Souza",
         "text": "🫪",
         "timestamp": 1787875944972
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Tu ainda é mais alta que eu",
+        "timestamp": 1787875977882
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Tu tem quanto?",
+        "timestamp": 1787875986512
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "1,60",
+        "timestamp": 1787875995774
       }
     ],
     "120363428464897153@g.us": [
@@ -16894,7 +16900,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 20968,
+    "120363432018531082@g.us": 20971,
     "120363428464897153@g.us": 6006,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1684,
@@ -136855,6 +136861,24 @@
         "text": "🫪",
         "pushName": "Souza",
         "timestamp": 1787875944972
+      },
+      "AC0C48239D7C215D37DD4C45C1EB1364": {
+        "sender": "81991328395336@lid",
+        "text": "Tu ainda é mais alta que eu",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787875977882
+      },
+      "AC8C9EF801616E896721C65BE108D73F": {
+        "sender": "53537388122141@lid",
+        "text": "Tu tem quanto?",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787875986512
+      },
+      "ACC9425822C0A94232BD316E406CC193": {
+        "sender": "81991328395336@lid",
+        "text": "1,60",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787875995774
       }
     },
     "120363428464897153@g.us": {
@@ -185934,7 +185958,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787875944972,
+    "120363432018531082@g.us": 1787875995774,
     "120363428464897153@g.us": 1787875908993,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787875833838,
