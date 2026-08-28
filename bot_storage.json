@@ -693,9 +693,9 @@
         "total": 2
       },
       "90130358485223": {
-        "text": 86,
+        "text": 88,
         "media": 11,
-        "total": 97
+        "total": 99
       },
       "57707230945348": {
         "text": 1225,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Jessica (208958782488665): Que linda que venha com saude",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Parabéns amiga, que venha com muita saúde viu?",
         "~Gará (83911531044906): Desculpe a pergunta.\nOq aconteceu cm o pai da princesa?",
         "jaciara (108461127897146): Amém 🙏🏼",
@@ -10449,7 +10448,8 @@
         "Gabriel Ohi (90130358485223): A loira mais linda desse grupo 🤭🤭🤭",
         "Camila Designer (92629643563147): Maravilhosa",
         "Camila Designer (92629643563147): Hoje dia de sair com as amigas 😌",
-        "F. RicaRdo sAnToS (193729163993156): Eu voy dormir un poquito más"
+        "F. RicaRdo sAnToS (193729163993156): Eu voy dormir un poquito más",
+        "Gabriel Ohi (90130358485223): Mulher maravilhosa demais 😊😊😊"
       ]
     },
     "120363428464897153@g.us": {
@@ -17911,6 +17911,12 @@
         "authorName": "F. RicaRdo sAnToS",
         "text": "Eu voy dormir un poquito más",
         "timestamp": 1787948838552
+      },
+      {
+        "authorNum": "90130358485223",
+        "authorName": "Gabriel Ohi",
+        "text": "Mulher maravilhosa demais 😊😊😊",
+        "timestamp": 1787948865567
       }
     ],
     "120363428464897153@g.us": [],
@@ -17937,7 +17943,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22414,
+    "120363432018531082@g.us": 22415,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -146480,6 +146486,12 @@
         "text": "Eu voy dormir un poquito más",
         "pushName": "F. RicaRdo sAnToS",
         "timestamp": 1787948838552
+      },
+      "AC1E198A72F2D43E57A5D9DF28F596DD": {
+        "sender": "90130358485223@lid",
+        "text": "Mulher maravilhosa demais 😊😊😊",
+        "pushName": "Gabriel Ohi",
+        "timestamp": 1787948865567
       }
     },
     "120363428464897153@g.us": {
@@ -199959,7 +199971,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787948838552,
+    "120363432018531082@g.us": 1787948868524,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
