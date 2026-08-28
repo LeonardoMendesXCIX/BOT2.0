@@ -1863,9 +1863,9 @@
         "total": 6
       },
       "1395881181241": {
-        "text": 128,
+        "text": 129,
         "media": 5,
-        "total": 133
+        "total": 134
       },
       "198595546501333": {
         "text": 2,
@@ -9895,7 +9895,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        " (120363432018531082): Bom dia a todos \nPrazer Gabi \nSou do abc paulista santo André \n30 anos",
         "Souza (190864487919667): Bem vinda Gabi",
         "Dany (262182034002040): Bem-vinda!!!",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindaaaa",
@@ -10394,7 +10393,8 @@
         "Bruno Aguiar (+1395881181241): Olha a faca😂😂😂",
         "Gleydson Souza (274384656834700): Bem vinda",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Sempre",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Obrigada pela figurinha"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Obrigada pela figurinha",
+        "Bruno Aguiar (+1395881181241): Sempre na ativa,sem perder tempo"
       ]
     },
     "120363428464897153@g.us": {
@@ -17337,12 +17337,6 @@
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Bem vinda!!!",
-        "timestamp": 1787923655880
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Bem vinda",
         "timestamp": 1787923674363
       },
@@ -17561,6 +17555,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Obrigada pela figurinha",
         "timestamp": 1787925405543
+      },
+      {
+        "authorNum": "1395881181241",
+        "authorName": "Bruno Aguiar",
+        "text": "Sempre na ativa,sem perder tempo",
+        "timestamp": 1787925470508
       }
     ],
     "120363428464897153@g.us": [],
@@ -17605,7 +17605,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21723,
+    "120363432018531082@g.us": 21724,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2010,
@@ -142046,6 +142046,12 @@
         "text": "Obrigada pela figurinha",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787925405543
+      },
+      "AC410D7C2DA49A068C4F3DA83861BD41": {
+        "sender": "1395881181241@lid",
+        "text": "Sempre na ativa,sem perder tempo",
+        "pushName": "Bruno Aguiar",
+        "timestamp": 1787925470508
       }
     },
     "120363428464897153@g.us": {
@@ -194943,7 +194949,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787925433265,
+    "120363432018531082@g.us": 1787925470508,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787924999186,
