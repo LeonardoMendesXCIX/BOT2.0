@@ -3134,9 +3134,9 @@
         "total": 1
       },
       "25520947339303": {
-        "text": 30,
+        "text": 31,
         "media": 1,
-        "total": 31
+        "total": 32
       },
       "66743926038604": {
         "text": 57,
@@ -3279,9 +3279,9 @@
         "total": 1
       },
       "190864487919667": {
-        "text": 12,
+        "text": 13,
         "media": 3,
-        "total": 15
+        "total": 16
       }
     },
     "120363409727467494@g.us": {
@@ -13551,7 +13551,9 @@
         "Souza (190864487919667): Trabalhou muito?",
         "Priscilla 🌻 (25520947339303): Eu comecei agora",
         "Souza (190864487919667): Ish",
-        "Souza (190864487919667): Povo tá quieto hoje?"
+        "Souza (190864487919667): Povo tá quieto hoje?",
+        "Priscilla 🌻 (25520947339303): Sim",
+        "Souza (190864487919667): Trabalha com q?"
       ]
     },
     "120363409727467494@g.us": {
@@ -16964,6 +16966,18 @@
         "authorName": "Souza",
         "text": "Povo tá quieto hoje?",
         "timestamp": 1787876572020
+      },
+      {
+        "authorNum": "25520947339303",
+        "authorName": "Priscilla 🌻",
+        "text": "Sim",
+        "timestamp": 1787876621241
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Trabalha com q?",
+        "timestamp": 1787876633098
       }
     ],
     "120363409727467494@g.us": [],
@@ -17121,7 +17135,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 21005,
-    "120363428464897153@g.us": 6032,
+    "120363428464897153@g.us": 6034,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1692,
     "120363411233423709@g.us": 5,
@@ -172669,6 +172683,18 @@
         "text": "Povo tá quieto hoje?",
         "pushName": "Souza",
         "timestamp": 1787876572020
+      },
+      "ACFA3207F4377F78F61AD43BA84429FC": {
+        "sender": "25520947339303@lid",
+        "text": "Sim",
+        "pushName": "Priscilla 🌻",
+        "timestamp": 1787876621241
+      },
+      "ACD983907F949A6A6EBDE4C608D5F74E": {
+        "sender": "190864487919667@lid",
+        "text": "Trabalha com q?",
+        "pushName": "Souza",
+        "timestamp": 1787876633099
       }
     },
     "120363409727467494@g.us": {
@@ -186581,7 +186607,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787876592726,
-    "120363428464897153@g.us": 1787876585838,
+    "120363428464897153@g.us": 1787876633098,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787876606434,
     "120363411233423709@g.us": 1787113553426,
