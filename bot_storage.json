@@ -698,9 +698,9 @@
         "total": 95
       },
       "57707230945348": {
-        "text": 1193,
+        "text": 1195,
         "media": 214,
-        "total": 1407
+        "total": 1409
       },
       "152218690924790": {
         "text": 309,
@@ -2629,8 +2629,8 @@
       },
       "75797868064796": {
         "text": 21,
-        "media": 67,
-        "total": 88
+        "media": 68,
+        "total": 89
       },
       "153764728184839": {
         "text": 2,
@@ -2663,9 +2663,9 @@
         "total": 77
       },
       "172868239380659": {
-        "text": 132,
+        "text": 133,
         "media": 22,
-        "total": 154
+        "total": 155
       },
       "170455038193841": {
         "text": 1,
@@ -2798,9 +2798,9 @@
         "total": 5
       },
       "247020967165997": {
-        "text": 60,
+        "text": 61,
         "media": 13,
-        "total": 73
+        "total": 74
       },
       "206253020176458": {
         "text": 3,
@@ -2813,9 +2813,9 @@
         "total": 16
       },
       "221307534876912": {
-        "text": 7,
+        "text": 8,
         "media": 3,
-        "total": 10
+        "total": 11
       }
     },
     "120363428464897153@g.us": {
@@ -10254,7 +10254,12 @@
         "Rafael Moura (57707230945348): Vem ver a treta",
         "Gabi 💋 (247020967165997): Ksksks",
         "Jessica (208958782488665): Opaaa",
-        "𝔞𝔩𝔦𝔫𝔢🫶🏽 (221307534876912): Ae tu é homem n obedeço n filho"
+        "𝔞𝔩𝔦𝔫𝔢🫶🏽 (221307534876912): Ae tu é homem n obedeço n filho",
+        "Rafael Moura (57707230945348): Deus leu o que vc apagou",
+        "Pedro Henrique (172868239380659): Aqui a gente fala as coisas normal não por gíria",
+        "Rafael Moura (57707230945348): E eu tbm",
+        "Gabi 💋 (247020967165997): Eita miojo",
+        "𝔞𝔩𝔦𝔫𝔢🫶🏽 (221307534876912): Vc é homem nunca obedeço"
       ]
     },
     "120363428464897153@g.us": {
@@ -17956,6 +17961,36 @@
         "authorName": "𝔞𝔩𝔦𝔫𝔢🫶🏽",
         "text": "Ae tu é homem n obedeço n filho",
         "timestamp": 1787917045039
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Deus leu o que vc apagou",
+        "timestamp": 1787917060757
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Aqui a gente fala as coisas normal não por gíria",
+        "timestamp": 1787917062702
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "E eu tbm",
+        "timestamp": 1787917064804
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Eita miojo",
+        "timestamp": 1787917070992
+      },
+      {
+        "authorNum": "221307534876912",
+        "authorName": "𝔞𝔩𝔦𝔫𝔢🫶🏽",
+        "text": "Vc é homem nunca obedeço",
+        "timestamp": 1787917074784
       }
     ],
     "120363428464897153@g.us": [],
@@ -17982,7 +18017,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21492,
+    "120363432018531082@g.us": 21497,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -141044,6 +141079,36 @@
         "text": "Ae tu é homem n obedeço n filho",
         "pushName": "𝔞𝔩𝔦𝔫𝔢🫶🏽",
         "timestamp": 1787917045039
+      },
+      "ACCAA798361648F595852995320E62E0": {
+        "sender": "57707230945348@lid",
+        "text": "Deus leu o que vc apagou",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787917060757
+      },
+      "ACEFD852E974956AD040DCDABEDA3545": {
+        "sender": "172868239380659@lid",
+        "text": "Aqui a gente fala as coisas normal não por gíria",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787917062702
+      },
+      "ACA7EBA328B954C267FCDDDB1D98A0E1": {
+        "sender": "57707230945348@lid",
+        "text": "E eu tbm",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787917064804
+      },
+      "AC665E3074F8E0FF96BA7E644A2665AA": {
+        "sender": "247020967165997@lid",
+        "text": "Eita miojo",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787917070993
+      },
+      "AC4AE52D1E4C6CD0AE88CA194C0878EF": {
+        "sender": "221307534876912@lid",
+        "text": "Vc é homem nunca obedeço",
+        "pushName": "𝔞𝔩𝔦𝔫𝔢🫶🏽",
+        "timestamp": 1787917074785
       }
     },
     "120363428464897153@g.us": {
@@ -193839,7 +193904,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787917050016,
+    "120363432018531082@g.us": 1787917074784,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
