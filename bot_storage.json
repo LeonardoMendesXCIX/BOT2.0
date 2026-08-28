@@ -2603,9 +2603,9 @@
         "total": 31
       },
       "190864487919667": {
-        "text": 351,
+        "text": 352,
         "media": 51,
-        "total": 402
+        "total": 403
       },
       "82227819987089": {
         "text": 2,
@@ -3946,8 +3946,8 @@
       },
       "81991328395336": {
         "text": 16,
-        "media": 856,
-        "total": 872
+        "media": 870,
+        "total": 886
       },
       "145381035905262": {
         "text": 7,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        " (120363432018531082): Boa tarde pessoas",
         "jaciara (108461127897146): Boa tarde pessoas",
         "Camila Designer (92629643563147): Acho que vamos ter público para nós dois 🤣🤣🤣",
         "Camila Designer (92629643563147): Boa tarde ❤️",
@@ -10449,7 +10448,8 @@
         "Camila Designer (92629643563147): Ai amiga @129373172711439 já estou desacreditada do Kabaré kkk",
         "Celiete Souza (129373172711439): Sim, tudo morrido",
         "Celiete Souza (129373172711439): Vamos ver hj",
-        "willian (163530946961491): Eu sempre falo pra ele aqui esse homem é gato de mais 🤣"
+        "willian (163530946961491): Eu sempre falo pra ele aqui esse homem é gato de mais 🤣",
+        "Souza (190864487919667): Eu mandei ontem"
       ]
     },
     "120363428464897153@g.us": {
@@ -17485,12 +17485,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Fritando",
-        "timestamp": 1787944233406
-      },
-      {
         "authorNum": "190864487919667",
         "authorName": "Souza",
         "text": "Sigo solteiro",
@@ -17579,6 +17573,12 @@
         "authorName": "willian",
         "text": "Eu sempre falo pra ele aqui esse homem é gato de mais 🤣",
         "timestamp": 1787945993314
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Eu mandei ontem",
+        "timestamp": 1787946064322
       }
     ],
     "120363428464897153@g.us": [],
@@ -17605,7 +17605,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22324,
+    "120363432018531082@g.us": 22325,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -145608,6 +145608,12 @@
         "text": "Eu sempre falo pra ele aqui esse homem é gato de mais 🤣",
         "pushName": "willian",
         "timestamp": 1787945993314
+      },
+      "ACD5516E9BC4BCD7D6BC2C2E3D721CF4": {
+        "sender": "190864487919667@lid",
+        "text": "Eu mandei ontem",
+        "pushName": "Souza",
+        "timestamp": 1787946064322
       }
     },
     "120363428464897153@g.us": {
@@ -199075,7 +199081,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787945993314,
+    "120363432018531082@g.us": 1787946064322,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
@@ -199086,7 +199092,7 @@
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1787868477291,
-    "120363409024805409@g.us": 1787946043813,
+    "120363409024805409@g.us": 1787946108441,
     "120363411043114631@g.us": 1787897464612
   },
   "autoAnimSent": {
