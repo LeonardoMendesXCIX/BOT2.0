@@ -453,9 +453,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1714,
+        "text": 1715,
         "media": 334,
-        "total": 2048
+        "total": 2049
       },
       "252600633041077": {
         "text": 1,
@@ -2603,9 +2603,9 @@
         "total": 30
       },
       "190864487919667": {
-        "text": 312,
+        "text": 313,
         "media": 46,
-        "total": 358
+        "total": 359
       },
       "82227819987089": {
         "text": 2,
@@ -2708,9 +2708,9 @@
         "total": 2
       },
       "108461127897146": {
-        "text": 76,
+        "text": 77,
         "media": 8,
-        "total": 84
+        "total": 85
       },
       "10050861031495": {
         "text": 0,
@@ -3987,6 +3987,11 @@
       "60851868446964": {
         "text": 1,
         "media": 0,
+        "total": 1
+      },
+      "57707230945348": {
+        "text": 0,
+        "media": 1,
         "total": 1
       }
     },
@@ -9900,9 +9905,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Rafael Moura (57707230945348): Rsss",
-        "Gabi 💋 (247020967165997): Bem isso",
-        "Pedro Henrique (172868239380659): Quem precisa de calma é você, partiu pra ofensa do nada kkkkkkkkkkkk toma um suco de maracujá",
         "Gabi 💋 (247020967165997): Ksksks",
         "Gabi 💋 (247020967165997): Eu tô calma miojo",
         "Rafael Moura (57707230945348): Miojo é bom vei",
@@ -10399,7 +10401,10 @@
         "Souza (190864487919667): Só amanhã às 12",
         "Rafael Moura (57707230945348): 👀",
         "Celiete Souza (129373172711439): Boa tarde",
-        "Jessica (208958782488665): Tarde"
+        "Jessica (208958782488665): Tarde",
+        "Souza (190864487919667): Amanhã tem show do melhor rapper aqui em Brasília",
+        "jaciara (108461127897146): Boa tarde",
+        "Leandro (+55 (11) 92701-8683): Como 6 tão? @all bem?"
       ]
     },
     "120363428464897153@g.us": {
@@ -17344,54 +17349,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Ué, mas a barriga é grande",
-        "timestamp": 1787929770473
-      },
-      {
-        "authorNum": "193729163993156",
-        "authorName": "F. RicaRdo sAnToS",
-        "text": "Linda parabéns, que venha com muita saúde....",
-        "timestamp": 1787929771381
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Que venha com saúde",
-        "timestamp": 1787929773382
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Meu Deus 🤡",
-        "timestamp": 1787929780973
-      },
-      {
-        "authorNum": "206253020176458",
-        "authorName": "Arthur",
-        "text": "Paz, saúde e muita felicidade e alegria",
-        "timestamp": 1787929792918
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Amém 🙏🏼",
-        "timestamp": 1787929794372
-      },
-      {
-        "authorNum": "208958782488665",
-        "authorName": "Jessica",
-        "text": "Que linda que venha com saude",
-        "timestamp": 1787929805034
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Parabéns amiga, que venha com muita saúde viu?",
-        "timestamp": 1787929807782
-      },
-      {
         "authorNum": "83911531044906",
         "authorName": "~Gará",
         "text": "Desculpe a pergunta.\nOq aconteceu cm o pai da princesa?",
@@ -17894,6 +17851,24 @@
         "authorName": "Jessica",
         "text": "Tarde",
         "timestamp": 1787931568647
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Amanhã tem show do melhor rapper aqui em Brasília",
+        "timestamp": 1787931581542
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Boa tarde",
+        "timestamp": 1787931587746
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Como 6 tão? @all bem?",
+        "timestamp": 1787931609302
       }
     ],
     "120363428464897153@g.us": [],
@@ -17926,7 +17901,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21999,
+    "120363432018531082@g.us": 22002,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -144004,6 +143979,24 @@
         "text": "Tarde",
         "pushName": "Jessica",
         "timestamp": 1787931568647
+      },
+      "ACE9DBF70D71B73DC795D2885C7858C0": {
+        "sender": "190864487919667@lid",
+        "text": "Amanhã tem show do melhor rapper aqui em Brasília",
+        "pushName": "Souza",
+        "timestamp": 1787931581542
+      },
+      "ACB5600B47A60F318D3D20292024BD23": {
+        "sender": "108461127897146@lid",
+        "text": "Boa tarde",
+        "pushName": "jaciara",
+        "timestamp": 1787931587746
+      },
+      "A57E6F344C9567BB1728B087BE0C7EE0": {
+        "sender": "54259127210155@lid",
+        "text": "Como 6 tão? @all bem?",
+        "pushName": "Leandro",
+        "timestamp": 1787931609302
       }
     },
     "120363428464897153@g.us": {
@@ -196925,7 +196918,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787931573638,
+    "120363432018531082@g.us": 1787931609302,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
@@ -196936,7 +196929,7 @@
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1787868477291,
-    "120363409024805409@g.us": 1787931057405,
+    "120363409024805409@g.us": 1787931607094,
     "120363411043114631@g.us": 1787897464612
   },
   "autoAnimSent": {
