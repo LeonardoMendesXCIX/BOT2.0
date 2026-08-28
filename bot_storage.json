@@ -2603,9 +2603,9 @@
         "total": 23
       },
       "190864487919667": {
-        "text": 217,
+        "text": 218,
         "media": 37,
-        "total": 254
+        "total": 255
       },
       "82227819987089": {
         "text": 2,
@@ -2628,9 +2628,9 @@
         "total": 46
       },
       "75797868064796": {
-        "text": 17,
-        "media": 42,
-        "total": 59
+        "text": 18,
+        "media": 43,
+        "total": 61
       },
       "153764728184839": {
         "text": 2,
@@ -2663,9 +2663,9 @@
         "total": 77
       },
       "172868239380659": {
-        "text": 101,
+        "text": 103,
         "media": 15,
-        "total": 116
+        "total": 118
       },
       "170455038193841": {
         "text": 1,
@@ -2798,9 +2798,9 @@
         "total": 4
       },
       "247020967165997": {
-        "text": 23,
+        "text": 24,
         "media": 6,
-        "total": 29
+        "total": 30
       },
       "206253020176458": {
         "text": 3,
@@ -10145,7 +10145,11 @@
         "Pedro Henrique (172868239380659): Beijar é uma palavra forte",
         "Souza (190864487919667): Rapaz, se tu for apenas na intenção, vai conseguir nada não",
         "Pedro Henrique (172868239380659): Sim, todo mundo saí ganhando",
-        "Rafael Moura (57707230945348): Sheik"
+        "Rafael Moura (57707230945348): Sheik",
+        "Souza (190864487919667): A pista só tá salgada pra quem não sabe andar",
+        "Alexandre Bastos (75797868064796): Vc que disse",
+        "Pedro Henrique (172868239380659): Se não for pensar na intenção é melhor ficar em casa",
+        "Pedro Henrique (172868239380659): Sem ser no cabaré"
       ]
     },
     "120363428464897153@g.us": {
@@ -17690,6 +17694,30 @@
         "authorName": "Rafael Moura",
         "text": "Sheik",
         "timestamp": 1787915683466
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "A pista só tá salgada pra quem não sabe andar",
+        "timestamp": 1787915689782
+      },
+      {
+        "authorNum": "75797868064796",
+        "authorName": "Alexandre Bastos",
+        "text": "Vc que disse",
+        "timestamp": 1787915693649
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Se não for pensar na intenção é melhor ficar em casa",
+        "timestamp": 1787915719059
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Sem ser no cabaré",
+        "timestamp": 1787915722333
       }
     ],
     "120363428464897153@g.us": [],
@@ -17728,7 +17756,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21383,
+    "120363432018531082@g.us": 21387,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1992,
@@ -140136,6 +140164,30 @@
         "text": "Sheik",
         "pushName": "Rafael Moura",
         "timestamp": 1787915683466
+      },
+      "ACF57ADCDF299BE435F4EF336251C464": {
+        "sender": "190864487919667@lid",
+        "text": "A pista só tá salgada pra quem não sabe andar",
+        "pushName": "Souza",
+        "timestamp": 1787915689783
+      },
+      "ACBCACA6881E096B9242808552346961": {
+        "sender": "75797868064796@lid",
+        "text": "Vc que disse",
+        "pushName": "Alexandre Bastos",
+        "timestamp": 1787915693649
+      },
+      "ACF801A6A0B5125179C85E922D66816C": {
+        "sender": "172868239380659@lid",
+        "text": "Se não for pensar na intenção é melhor ficar em casa",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787915719060
+      },
+      "ACD2F5D5B489197D68AB2148F94D2DC1": {
+        "sender": "172868239380659@lid",
+        "text": "Sem ser no cabaré",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787915722334
       }
     },
     "120363428464897153@g.us": {
@@ -192925,7 +192977,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787915683466,
+    "120363432018531082@g.us": 1787915722333,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787914462012,
