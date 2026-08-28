@@ -383,9 +383,9 @@
         "total": 489
       },
       "222595437858867": {
-        "text": 532,
+        "text": 534,
         "media": 55,
-        "total": 587
+        "total": 589
       },
       "83280154103884": {
         "text": 36,
@@ -9950,8 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Celiete Souza (129373172711439): Bemm",
-        "Leandro (+55 (11) 92701-8683): Acesse este link para entrar no meu grupo do WhatsApp: https://chat.whatsapp.com/LjudUJTLkZQDIyER0LAwHJ?s=sw&p=a&mlu=4",
         "Rafael Moura (57707230945348): Contando dinheiro",
         "Leandro (+55 (11) 92701-8683): !fixar",
         "Bruno Aguiar (+1395881181241): Tudo tranquilo",
@@ -10449,7 +10447,9 @@
         "jaciara (108461127897146): Boa noiteee",
         "Jessica (208958782488665): Boa noitinha",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Boa noiteeee",
-        "Juliano Perlin (222595437858867): 🤭🤭🤭"
+        "Juliano Perlin (222595437858867): 🤭🤭🤭",
+        "Juliano Perlin (222595437858867): Nao vou responder porq sou feio🤣🤣🤣",
+        "Juliano Perlin (222595437858867): Noite fofa🥰"
       ]
     },
     "120363428464897153@g.us": {
@@ -17541,6 +17541,18 @@
         "authorName": "Juliano Perlin",
         "text": "🤭🤭🤭",
         "timestamp": 1787953627763
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Nao vou responder porq sou feio🤣🤣🤣",
+        "timestamp": 1787953646799
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Noite fofa🥰",
+        "timestamp": 1787953659229
       }
     ],
     "120363428464897153@g.us": [],
@@ -17574,7 +17586,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22504,
+    "120363432018531082@g.us": 22506,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2090,
@@ -146657,6 +146669,18 @@
         "text": "🤭🤭🤭",
         "pushName": "Juliano Perlin",
         "timestamp": 1787953627764
+      },
+      "AC38976E7B699C5AE8B4CEBB26110610": {
+        "sender": "222595437858867@lid",
+        "text": "Nao vou responder porq sou feio🤣🤣🤣",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1787953646799
+      },
+      "ACB94CE4ED3CCDB5E6B58172514D9ACF": {
+        "sender": "222595437858867@lid",
+        "text": "Noite fofa🥰",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1787953659229
       }
     },
     "120363428464897153@g.us": {
@@ -200148,7 +200172,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787953627763,
+    "120363432018531082@g.us": 1787953659229,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787953116483,
