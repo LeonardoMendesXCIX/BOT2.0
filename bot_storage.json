@@ -174,8 +174,8 @@
       },
       "129373172711439": {
         "text": 1610,
-        "media": 442,
-        "total": 2052
+        "media": 443,
+        "total": 2053
       },
       "81991328395336": {
         "text": 3944,
@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2343,
+        "text": 2344,
         "media": 328,
-        "total": 2671
+        "total": 2672
       },
       "252922705240205": {
         "text": 80,
@@ -3946,8 +3946,8 @@
       },
       "81991328395336": {
         "text": 17,
-        "media": 986,
-        "total": 1003
+        "media": 991,
+        "total": 1008
       },
       "145381035905262": {
         "text": 7,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "jaciara (108461127897146): Estou no Maranhão",
         "jaciara (108461127897146): Vim passar alguns meses",
         "F. RicaRdo sAnToS (193729163993156): Tarde moça",
         "Camila Designer (92629643563147): Visitando ou pensando em mudar?",
@@ -10449,7 +10448,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): @108461127897146",
         "Bruno Aguiar (+1395881181241): São coisas que acontece \nO importante é o resultado final",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Exatamente 😊",
-        "Bruno Aguiar (+1395881181241): Por isso acredito que ficou linda"
+        "Bruno Aguiar (+1395881181241): Por isso acredito que ficou linda",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Muito obrigada 😊"
       ]
     },
     "120363428464897153@g.us": {
@@ -17628,6 +17628,12 @@
         "authorName": "Bruno Aguiar",
         "text": "Por isso acredito que ficou linda",
         "timestamp": 1787946906419
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Muito obrigada 😊",
+        "timestamp": 1787946967852
       }
     ],
     "120363428464897153@g.us": [],
@@ -17654,7 +17660,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22342,
+    "120363432018531082@g.us": 22343,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -145765,6 +145771,12 @@
         "text": "Por isso acredito que ficou linda",
         "pushName": "Bruno Aguiar",
         "timestamp": 1787946906419
+      },
+      "AC3B28B801C05676A51C74D39D6F5E51": {
+        "sender": "53537388122141@lid",
+        "text": "Muito obrigada 😊",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787946967852
       }
     },
     "120363428464897153@g.us": {
@@ -199238,7 +199250,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787946906419,
+    "120363432018531082@g.us": 1787946967852,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
@@ -199249,7 +199261,7 @@
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1787868477291,
-    "120363409024805409@g.us": 1787946948511,
+    "120363409024805409@g.us": 1787946956917,
     "120363411043114631@g.us": 1787897464612
   },
   "autoAnimSent": {
