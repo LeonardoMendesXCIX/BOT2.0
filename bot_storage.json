@@ -2658,9 +2658,9 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 97,
+        "text": 98,
         "media": 14,
-        "total": 111
+        "total": 112
       },
       "172868239380659": {
         "text": 182,
@@ -2838,9 +2838,9 @@
         "total": 8
       },
       "227783724793861": {
-        "text": 12,
+        "text": 13,
         "media": 1,
-        "total": 13
+        "total": 14
       },
       "159304631980141": {
         "text": 1,
@@ -9930,8 +9930,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Pedro Henrique (172868239380659): Não, esse fds tenho compromisso já",
-        "Gabi 💋 (247020967165997): Sim toma cuidado pra não criar bolhas",
         "𝔞𝔩𝔦𝔫𝔢🫶🏽 (221307534876912): Ontem um menino me disse q tinha um ovo atrás da cabeça dele kkkk",
         "Rafael Moura (57707230945348): Ma rapaz",
         "Gabi 💋 (247020967165997): Ksksks",
@@ -10429,7 +10427,9 @@
         "jaciara (108461127897146): Tarde",
         "Bruno Aguiar (+1395881181241): Boa tarde 😘",
         "Gleydson Souza (274384656834700): Tem nem como sentir kkkk",
-        "Gleydson Souza (274384656834700): Novidade"
+        "Gleydson Souza (274384656834700): Novidade",
+        "Gleydson Souza (274384656834700): Tarde",
+        "May (227783724793861): Nossa nem sei o que é isso aqui o máximo é 28 e eu acho quente demais haha"
       ]
     },
     "120363428464897153@g.us": {
@@ -17657,6 +17657,18 @@
         "authorName": "Gleydson Souza",
         "text": "Novidade",
         "timestamp": 1787934302984
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Tarde",
+        "timestamp": 1787934315662
+      },
+      {
+        "authorNum": "227783724793861",
+        "authorName": "May",
+        "text": "Nossa nem sei o que é isso aqui o máximo é 28 e eu acho quente demais haha",
+        "timestamp": 1787934338838
       }
     ],
     "120363428464897153@g.us": [],
@@ -17726,7 +17738,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22068,
+    "120363432018531082@g.us": 22070,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2016,
@@ -144212,6 +144224,18 @@
         "text": "Novidade",
         "pushName": "Gleydson Souza",
         "timestamp": 1787934302984
+      },
+      "ACDFF363472BD9FBC58703B9AC2BBA3B": {
+        "sender": "274384656834700@lid",
+        "text": "Tarde",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787934315662
+      },
+      "AC48B14A247A96FA2A7E112FE4CCDCD1": {
+        "sender": "227783724793861@lid",
+        "text": "Nossa nem sei o que é isso aqui o máximo é 28 e eu acho quente demais haha",
+        "pushName": "May",
+        "timestamp": 1787934338838
       }
     },
     "120363428464897153@g.us": {
@@ -197223,7 +197247,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787934311813,
+    "120363432018531082@g.us": 1787934338838,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787934085129,
