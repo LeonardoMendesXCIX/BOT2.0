@@ -309,8 +309,8 @@
       },
       "120363432018531082": {
         "text": 315,
-        "media": 83,
-        "total": 398
+        "media": 84,
+        "total": 399
       },
       "97535100252296": {
         "text": 96,
@@ -2780,6 +2780,11 @@
       "148618770182336": {
         "text": 1,
         "media": 0,
+        "total": 1
+      },
+      "37826582323373": {
+        "text": 0,
+        "media": 1,
         "total": 1
       }
     },
@@ -9903,7 +9908,9 @@
         "Leandro (+55 (11) 92701-8683): Então",
         "Leandro (+55 (11) 92701-8683): Em vez de conversar, mandam caixinha",
         "Leandro (+55 (11) 92701-8683): 😒",
-        "Leandro (+55 (11) 92701-8683): Partiu a mimir... 😴"
+        "Leandro (+55 (11) 92701-8683): Partiu a mimir... 😴",
+        "eduardo (37826582323373): nome. kaua eduardo \nidade.18\nmoro.Brasil",
+        " (120363432018531082): nome. kaua eduardo \nidade.18\nmoro.Brasil"
       ]
     },
     "120363428464897153@g.us": {
@@ -16827,6 +16834,18 @@
         "authorName": "Leandro",
         "text": "Partiu a mimir... 😴",
         "timestamp": 1787900877493
+      },
+      {
+        "authorNum": "37826582323373",
+        "authorName": "eduardo",
+        "text": "nome. kaua eduardo \nidade.18\nmoro.Brasil",
+        "timestamp": 1787901853871
+      },
+      {
+        "authorNum": "120363432018531082",
+        "authorName": "",
+        "text": "nome. kaua eduardo \nidade.18\nmoro.Brasil",
+        "timestamp": 1787901854302
       }
     ],
     "120363428464897153@g.us": [],
@@ -16846,7 +16865,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21176,
+    "120363432018531082@g.us": 21178,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1989,
@@ -138032,6 +138051,12 @@
         "text": "Partiu a mimir... 😴",
         "pushName": "Leandro",
         "timestamp": 1787900877493
+      },
+      "ACAC54856E1E2207399909055C39C92F": {
+        "sender": "120363432018531082@g.us",
+        "text": "nome. kaua eduardo \nidade.18\nmoro.Brasil",
+        "pushName": "",
+        "timestamp": 1787901854302
       }
     },
     "120363428464897153@g.us": {
@@ -190803,7 +190828,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787901011808,
+    "120363432018531082@g.us": 1787901854302,
     "120363428464897153@g.us": 1787898005021,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787894166886,
