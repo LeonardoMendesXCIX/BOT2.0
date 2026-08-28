@@ -2821,9 +2821,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 388,
+        "text": 389,
         "media": 78,
-        "total": 466
+        "total": 467
       },
       "120363428464897153": {
         "text": 11,
@@ -3801,9 +3801,9 @@
         "total": 136
       },
       "5511927018683": {
-        "text": 45,
+        "text": 46,
         "media": 5,
-        "total": 50
+        "total": 51
       },
       "30486281900223": {
         "text": 1,
@@ -13829,7 +13829,8 @@
         "Celiete Souza (129373172711439): 👀",
         "Eduardo (153764728184839): thanks",
         "Leandro (+55 (11) 92701-8683): Ó os papos 🌝",
-        "Gleydson Souza (274384656834700): Eu vou me indo boa noite a todos"
+        "Gleydson Souza (274384656834700): Eu vou me indo boa noite a todos",
+        "Leandro (+55 (11) 92701-8683): !megafone novamente, aviso a todos, sem invasão de privado, se não é remoção imediata!!!"
       ]
     },
     "120363409727467494@g.us": {
@@ -16304,7 +16305,8 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Odeio",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Lembra uma pessoa",
         "gigi✨ (60851868446964): @53537388122141 🐍🐍🐍🐍🐍🐍🐍🐍🐍",
-        "Leandro (+55 (11) 92701-8683): !del"
+        "Leandro (+55 (11) 92701-8683): !del",
+        "Leandro (+55 (11) 92701-8683): !megafone novamente, aviso a todos, sem invasão de privado, se não é remoção imediata!!!"
       ]
     }
   },
@@ -16525,12 +16527,6 @@
       {
         "authorNum": "129373172711439",
         "authorName": "Celiete Souza",
-        "text": "Preciso fazer o meu",
-        "timestamp": 1787881878834
-      },
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
         "text": "Eu mesma vou fazer amanhã",
         "timestamp": 1787881928181
       },
@@ -16653,6 +16649,12 @@
         "authorName": "Gleydson Souza",
         "text": "Eu vou me indo boa noite a todos",
         "timestamp": 1787882961604
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!megafone novamente, aviso a todos, sem invasão de privado, se não é remoção imediata!!!",
+        "timestamp": 1787883710853
       }
     ],
     "120363409727467494@g.us": [],
@@ -16769,6 +16771,12 @@
         "authorName": "Leandro",
         "text": "!del",
         "timestamp": 1787882459863
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!megafone novamente, aviso a todos, sem invasão de privado, se não é remoção imediata!!!",
+        "timestamp": 1787883710784
       }
     ],
     "120363050678635389@g.us": []
@@ -16781,13 +16789,13 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 21074,
-    "120363428464897153@g.us": 6218,
+    "120363428464897153@g.us": 6219,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1729,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
-    "120363409024805409@g.us": 61,
+    "120363409024805409@g.us": 62,
     "120363050678635389@g.us": 1
   },
   "botDisabled": {
@@ -173840,6 +173848,12 @@
         "text": "Eu vou me indo boa noite a todos",
         "pushName": "Gleydson Souza",
         "timestamp": 1787882961604
+      },
+      "A5BB51A4636B9F5700E64E34C81EB099": {
+        "sender": "54259127210155@lid",
+        "text": "!megafone novamente, aviso a todos, sem invasão de privado, se não é remoção imediata!!!",
+        "pushName": "Leandro",
+        "timestamp": 1787883710853
       }
     },
     "120363409727467494@g.us": {
@@ -187904,6 +187918,12 @@
         "text": "!del",
         "pushName": "Leandro",
         "timestamp": 1787882459863
+      },
+      "A5D3DF03C0B6A664696B6AC6DE16ABF6": {
+        "sender": "54259127210155@lid",
+        "text": "!megafone novamente, aviso a todos, sem invasão de privado, se não é remoção imediata!!!",
+        "pushName": "Leandro",
+        "timestamp": 1787883710784
       }
     },
     "120363050678635389@g.us": {
@@ -187998,7 +188018,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787883632064,
-    "120363428464897153@g.us": 1787883101464,
+    "120363428464897153@g.us": 1787883710853,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787883567287,
     "120363411233423709@g.us": 1787113553426,
@@ -188008,7 +188028,7 @@
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1787868477291,
-    "120363409024805409@g.us": 1787882459863
+    "120363409024805409@g.us": 1787883710784
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
