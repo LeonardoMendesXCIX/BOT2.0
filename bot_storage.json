@@ -2629,8 +2629,8 @@
       },
       "75797868064796": {
         "text": 23,
-        "media": 84,
-        "total": 107
+        "media": 86,
+        "total": 109
       },
       "153764728184839": {
         "text": 2,
@@ -2663,9 +2663,9 @@
         "total": 82
       },
       "172868239380659": {
-        "text": 180,
+        "text": 181,
         "media": 38,
-        "total": 218
+        "total": 219
       },
       "170455038193841": {
         "text": 1,
@@ -9855,7 +9855,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Bem vindo jovem 🤝",
         "Jk (120542904463568): Opa ! Obrigado",
         "Jk (120542904463568): E obrigado por me aceitar no grupo",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Disponha",
@@ -10354,7 +10353,8 @@
         "Pedro Henrique (172868239380659): Mas essa morte aí é paia",
         "Souza (190864487919667): 👀",
         "Souza (190864487919667): Como uma porta",
-        "Gabi 💋 (247020967165997): Obrigada"
+        "Gabi 💋 (247020967165997): Obrigada",
+        "Pedro Henrique (172868239380659): Muito tarde"
       ]
     },
     "120363428464897153@g.us": {
@@ -17278,30 +17278,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Menino para com isso \nNinguém gostar de beijar puta com sabor p..... Não",
-        "timestamp": 1787917522617
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Bora Rafael",
-        "timestamp": 1787917566814
-      },
-      {
-        "authorNum": "172868239380659",
-        "authorName": "Pedro Henrique",
-        "text": "A Gabi?",
-        "timestamp": 1787917572319
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "E eu não estava brincando não",
-        "timestamp": 1787917572542
-      },
-      {
         "authorNum": "172868239380659",
         "authorName": "Pedro Henrique",
         "text": "A Gabi apelou, não aguentou a brincadeira saudável e partiu pra ofensa, aqui o pessoal tem um humor muito ácido",
@@ -17828,6 +17804,12 @@
         "authorName": "Gabi 💋",
         "text": "Obrigada",
         "timestamp": 1787919296997
+      },
+      {
+        "authorNum": "172868239380659",
+        "authorName": "Pedro Henrique",
+        "text": "Muito tarde",
+        "timestamp": 1787919387135
       }
     ],
     "120363428464897153@g.us": [],
@@ -17847,7 +17829,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21624,
+    "120363432018531082@g.us": 21625,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -141701,6 +141683,12 @@
         "text": "Obrigada",
         "pushName": "Gabi 💋",
         "timestamp": 1787919296997
+      },
+      "AC95C64E9828B5609C96A9F6A08E5657": {
+        "sender": "172868239380659@lid",
+        "text": "Muito tarde",
+        "pushName": "Pedro Henrique",
+        "timestamp": 1787919387135
       }
     },
     "120363428464897153@g.us": {
@@ -194496,7 +194484,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787919358523,
+    "120363432018531082@g.us": 1787919387135,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
