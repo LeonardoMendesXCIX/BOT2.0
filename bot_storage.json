@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2350,
+        "text": 2353,
         "media": 328,
-        "total": 2678
+        "total": 2681
       },
       "252922705240205": {
         "text": 80,
@@ -2858,9 +2858,9 @@
         "total": 4
       },
       "263797142995147": {
-        "text": 67,
+        "text": 68,
         "media": 4,
-        "total": 71
+        "total": 72
       }
     },
     "120363428464897153@g.us": {
@@ -9950,9 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "jaciara (108461127897146): Vim com meus filhos",
-        "jaciara (108461127897146): Tenho dois filhos",
-        "Camila Designer (92629643563147): Ah que ótimo!",
         "jaciara (108461127897146): O pai sou eu kkkkk",
         "Gleydson Souza (274384656834700): Parabéns",
         "Souza (190864487919667): Muita força pra ti",
@@ -10449,7 +10446,10 @@
         "Nanda (263797142995147): é legal",
         "jaciara (108461127897146): Apareça kkkk",
         "Nanda (263797142995147): eita tem paqueras",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Brincadeira pra animar o grupo"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Brincadeira pra animar o grupo",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Kkkkkkk",
+        "Nanda (263797142995147): isso é no insta?",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): https://ngl.link/sabrina.rb1\n\nhttps://ngl.link/lalayh64792"
       ]
     },
     "120363428464897153@g.us": {
@@ -17712,6 +17712,24 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Brincadeira pra animar o grupo",
         "timestamp": 1787947293275
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Kkkkkkk",
+        "timestamp": 1787947303510
+      },
+      {
+        "authorNum": "263797142995147",
+        "authorName": "Nanda",
+        "text": "isso é no insta?",
+        "timestamp": 1787947310185
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "https://ngl.link/sabrina.rb1\n\nhttps://ngl.link/lalayh64792",
+        "timestamp": 1787947317448
       }
     ],
     "120363428464897153@g.us": [],
@@ -17738,7 +17756,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22356,
+    "120363432018531082@g.us": 22359,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -145933,6 +145951,24 @@
         "text": "Brincadeira pra animar o grupo",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787947293275
+      },
+      "ACE04D11D447DC9837C9F20EC4A0D740": {
+        "sender": "53537388122141@lid",
+        "text": "Kkkkkkk",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787947303510
+      },
+      "ACA574D5555FB9DC328D92368E643861": {
+        "sender": "263797142995147@lid",
+        "text": "isso é no insta?",
+        "pushName": "Nanda",
+        "timestamp": 1787947310185
+      },
+      "AC490F9DD405E67A41AB514DA1B3C34F": {
+        "sender": "53537388122141@lid",
+        "text": "https://ngl.link/sabrina.rb1\n\nhttps://ngl.link/lalayh64792",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787947317448
       }
     },
     "120363428464897153@g.us": {
@@ -199406,7 +199442,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787947293275,
+    "120363432018531082@g.us": 1787947317448,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
