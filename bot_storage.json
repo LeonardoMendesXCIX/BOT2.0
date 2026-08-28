@@ -2664,8 +2664,8 @@
       },
       "172868239380659": {
         "text": 166,
-        "media": 31,
-        "total": 197
+        "media": 32,
+        "total": 198
       },
       "170455038193841": {
         "text": 1,
@@ -2798,9 +2798,9 @@
         "total": 5
       },
       "247020967165997": {
-        "text": 97,
+        "text": 100,
         "media": 27,
-        "total": 124
+        "total": 127
       },
       "206253020176458": {
         "text": 3,
@@ -10345,7 +10345,10 @@
         "Rafael Moura (57707230945348): Não acho que chamar uma mulher de \"rodada\" seja uma zoeira saudavel, mas aí vai de cada um",
         "Pedro Henrique (172868239380659): Eu ? Em plena sexta? só se acontecer uma tragédia",
         "Gabi 💋 (247020967165997): Beleza miojo",
-        "Pedro Henrique (172868239380659): Vamos partir do princípio que ela ofendeu primeiro, ambos já se pediu desculpas e tá tudo certo"
+        "Pedro Henrique (172868239380659): Vamos partir do princípio que ela ofendeu primeiro, ambos já se pediu desculpas e tá tudo certo",
+        "Gabi 💋 (247020967165997): Só uma dica \nUm homem do zóio rasgado foi morto por uma garota de programa",
+        "Gabi 💋 (247020967165997): Então só tome cuidado",
+        "Gabi 💋 (247020967165997): A tu não vai morrer não"
       ]
     },
     "120363428464897153@g.us": {
@@ -17269,18 +17272,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "No momento acompanho esta treta matutina",
-        "timestamp": 1787916814905
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Obrigada",
-        "timestamp": 1787916845096
-      },
-      {
         "authorNum": "172868239380659",
         "authorName": "Pedro Henrique",
         "text": "Se tu fala que só 1 ano de solteiro é pouco, significa que vc é rodada",
@@ -17999,6 +17990,24 @@
         "authorName": "Pedro Henrique",
         "text": "Vamos partir do princípio que ela ofendeu primeiro, ambos já se pediu desculpas e tá tudo certo",
         "timestamp": 1787918611736
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Só uma dica \nUm homem do zóio rasgado foi morto por uma garota de programa",
+        "timestamp": 1787918643385
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Então só tome cuidado",
+        "timestamp": 1787918647874
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "A tu não vai morrer não",
+        "timestamp": 1787918652567
       }
     ],
     "120363428464897153@g.us": [],
@@ -18018,7 +18027,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21583,
+    "120363432018531082@g.us": 21586,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -141626,6 +141635,24 @@
         "text": "Vamos partir do princípio que ela ofendeu primeiro, ambos já se pediu desculpas e tá tudo certo",
         "pushName": "Pedro Henrique",
         "timestamp": 1787918611737
+      },
+      "AC70F7F834D35759F9B8B4B5A3876FC3": {
+        "sender": "247020967165997@lid",
+        "text": "Só uma dica \nUm homem do zóio rasgado foi morto por uma garota de programa",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787918643385
+      },
+      "AC9C55C0C9AC6BE34E5F3BE9436C6716": {
+        "sender": "247020967165997@lid",
+        "text": "Então só tome cuidado",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787918647875
+      },
+      "AC0DCA7DF9F503ECF0CCE676F501F457": {
+        "sender": "247020967165997@lid",
+        "text": "A tu não vai morrer não",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787918652568
       }
     },
     "120363428464897153@g.us": {
@@ -194421,7 +194448,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787918611736,
+    "120363432018531082@g.us": 1787918652567,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
