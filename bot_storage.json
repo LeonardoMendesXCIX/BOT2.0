@@ -3376,9 +3376,9 @@
         "total": 5
       },
       "193729163993156": {
-        "text": 2,
+        "text": 3,
         "media": 0,
-        "total": 2
+        "total": 3
       }
     },
     "120363409727467494@g.us": {
@@ -3415,9 +3415,9 @@
         "total": 554
       },
       "5511927018683": {
-        "text": 450,
+        "text": 453,
         "media": 78,
-        "total": 528
+        "total": 531
       },
       "145381035905262": {
         "text": 369,
@@ -3425,9 +3425,9 @@
         "total": 513
       },
       "53537388122141": {
-        "text": 699,
+        "text": 701,
         "media": 55,
-        "total": 754
+        "total": 756
       },
       "120363412288900422": {
         "text": 1,
@@ -13848,7 +13848,8 @@
         "Souza (190864487919667): Buenas",
         "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Boa noite!!",
         "F. RicaRdo sAnToS (193729163993156): Boua noite gurizada fandangueira",
-        "F. RicaRdo sAnToS (193729163993156): Ótimo descanso a todas"
+        "F. RicaRdo sAnToS (193729163993156): Ótimo descanso a todas",
+        "F. RicaRdo sAnToS (193729163993156): Fuiii"
       ]
     },
     "120363409727467494@g.us": {
@@ -15876,7 +15877,12 @@
         "Leandro (+55 (11) 92701-8683): Quem?",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): @54259127210155",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Digo em geral",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Não é a primeira vez e não será a última"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Não é a primeira vez e não será a última",
+        "Leandro (+55 (11) 92701-8683): Quer ver não entrar mais?",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Ah eu quero sim",
+        "Leandro (+55 (11) 92701-8683): Aceita e já dá !ban logo em seguida",
+        "Leandro (+55 (11) 92701-8683): Pronto, aí não entra mais",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Cês acreditam que a Denize foi atrás do Lucas hoje?"
       ]
     },
     "120363411233423709@g.us": {
@@ -16606,6 +16612,12 @@
         "authorName": "F. RicaRdo sAnToS",
         "text": "Ótimo descanso a todas",
         "timestamp": 1787884540315
+      },
+      {
+        "authorNum": "193729163993156",
+        "authorName": "F. RicaRdo sAnToS",
+        "text": "Fuiii",
+        "timestamp": 1787885144126
       }
     ],
     "120363409727467494@g.us": [],
@@ -16789,6 +16801,36 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Não é a primeira vez e não será a última",
         "timestamp": 1787885089256
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Quer ver não entrar mais?",
+        "timestamp": 1787885103786
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Ah eu quero sim",
+        "timestamp": 1787885116005
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Aceita e já dá !ban logo em seguida",
+        "timestamp": 1787885119882
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Pronto, aí não entra mais",
+        "timestamp": 1787885129293
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Cês acreditam que a Denize foi atrás do Lucas hoje?",
+        "timestamp": 1787885138807
       }
     ],
     "120363411233423709@g.us": [],
@@ -16812,9 +16854,9 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 21092,
-    "120363428464897153@g.us": 6227,
+    "120363428464897153@g.us": 6228,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1746,
+    "120363412288900422@g.us": 1751,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -174033,6 +174075,12 @@
         "text": "Ótimo descanso a todas",
         "pushName": "F. RicaRdo sAnToS",
         "timestamp": 1787884540315
+      },
+      "AC06FF2D55C2E66D0FB9E6815EB07695": {
+        "sender": "193729163993156@lid",
+        "text": "Fuiii",
+        "pushName": "F. RicaRdo sAnToS",
+        "timestamp": 1787885144126
       }
     },
     "120363409727467494@g.us": {
@@ -185713,6 +185761,36 @@
         "text": "Não é a primeira vez e não será a última",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787885089256
+      },
+      "A5CC74A40F348FF0A70AE6689BC9442F": {
+        "sender": "54259127210155@lid",
+        "text": "Quer ver não entrar mais?",
+        "pushName": "Leandro",
+        "timestamp": 1787885103786
+      },
+      "AC61DDAEEB7422DE2E0176E876BFE674": {
+        "sender": "53537388122141@lid",
+        "text": "Ah eu quero sim",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787885116006
+      },
+      "A5D086C28D5931C0E9186D7D6B809C94": {
+        "sender": "54259127210155@lid",
+        "text": "Aceita e já dá !ban logo em seguida",
+        "pushName": "Leandro",
+        "timestamp": 1787885119882
+      },
+      "A5745989089715BF1224A524D5B0E01E": {
+        "sender": "54259127210155@lid",
+        "text": "Pronto, aí não entra mais",
+        "pushName": "Leandro",
+        "timestamp": 1787885129293
+      },
+      "AC189A632C9B0504A9499BFA82BEB9F4": {
+        "sender": "53537388122141@lid",
+        "text": "Cês acreditam que a Denize foi atrás do Lucas hoje?",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787885138807
       }
     },
     "120363411233423709@g.us": {
@@ -188299,9 +188377,9 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787884904333,
-    "120363428464897153@g.us": 1787884927674,
+    "120363428464897153@g.us": 1787885144126,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787885089256,
+    "120363412288900422@g.us": 1787885138807,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
