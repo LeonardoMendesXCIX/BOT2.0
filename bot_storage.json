@@ -319,8 +319,8 @@
       },
       "199733712785531": {
         "text": 201,
-        "media": 114,
-        "total": 315
+        "media": 116,
+        "total": 317
       },
       "153596754661626": {
         "text": 1,
@@ -698,9 +698,9 @@
         "total": 95
       },
       "57707230945348": {
-        "text": 1141,
-        "media": 199,
-        "total": 1340
+        "text": 1145,
+        "media": 200,
+        "total": 1345
       },
       "152218690924790": {
         "text": 309,
@@ -2619,8 +2619,8 @@
       },
       "187097969348735": {
         "text": 8,
-        "media": 3,
-        "total": 11
+        "media": 4,
+        "total": 12
       },
       "238233849983072": {
         "text": 42,
@@ -2628,9 +2628,9 @@
         "total": 46
       },
       "75797868064796": {
-        "text": 13,
-        "media": 22,
-        "total": 35
+        "text": 14,
+        "media": 23,
+        "total": 37
       },
       "153764728184839": {
         "text": 2,
@@ -2798,14 +2798,14 @@
         "total": 4
       },
       "247020967165997": {
-        "text": 6,
+        "text": 8,
         "media": 1,
-        "total": 7
+        "total": 9
       },
       "206253020176458": {
         "text": 2,
-        "media": 0,
-        "total": 2
+        "media": 1,
+        "total": 3
       },
       "210152934359048": {
         "text": 14,
@@ -10058,7 +10058,13 @@
         "Rafael Moura (57707230945348): Alias Gabi é novata aqui ne👀",
         "Rafael Moura (57707230945348): Aline, Jhennifer",
         "Rafael Moura (57707230945348): So observo👀",
-        "Gabi 💋 (247020967165997): Eu soun"
+        "Gabi 💋 (247020967165997): Eu soun",
+        "Rafael Moura (57707230945348): Se apresenta? 🙈",
+        "Alexandre Bastos (75797868064796): Linda",
+        "Rafael Moura (57707230945348): Gado",
+        "Gabi 💋 (247020967165997): Obrigada",
+        "Rafael Moura (57707230945348): Eae Gus bom dia 🤣",
+        "Gabi 💋 (247020967165997): Já me apresentei"
       ]
     },
     "120363428464897153@g.us": {
@@ -16981,24 +16987,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Vamos trabalhar né",
-        "timestamp": 1787912699865
-      },
-      {
-        "authorNum": "199733712785531",
-        "authorName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
-        "text": "Bom dia!",
-        "timestamp": 1787912702357
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Pq meu sextou é só amanhã",
-        "timestamp": 1787912706820
-      },
-      {
         "authorNum": "199733712785531",
         "authorName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
         "text": "Bem vinda.",
@@ -17363,6 +17351,42 @@
         "authorName": "Gabi 💋",
         "text": "Eu soun",
         "timestamp": 1787914462483
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Se apresenta? 🙈",
+        "timestamp": 1787914474757
+      },
+      {
+        "authorNum": "75797868064796",
+        "authorName": "Alexandre Bastos",
+        "text": "Linda",
+        "timestamp": 1787914480291
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Gado",
+        "timestamp": 1787914487567
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Obrigada",
+        "timestamp": 1787914499929
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Eae Gus bom dia 🤣",
+        "timestamp": 1787914509801
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Já me apresentei",
+        "timestamp": 1787914513638
       }
     ],
     "120363428464897153@g.us": [],
@@ -17401,7 +17425,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21296,
+    "120363432018531082@g.us": 21302,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1992,
@@ -139294,6 +139318,42 @@
         "text": "Eu soun",
         "pushName": "Gabi 💋",
         "timestamp": 1787914462483
+      },
+      "ACC900FEE6F951DB7910A6F137F49F34": {
+        "sender": "57707230945348@lid",
+        "text": "Se apresenta? 🙈",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787914474757
+      },
+      "ACBED300CC0107A7F274508378FB27E5": {
+        "sender": "75797868064796@lid",
+        "text": "Linda",
+        "pushName": "Alexandre Bastos",
+        "timestamp": 1787914480292
+      },
+      "AC6BA675ADB1C62537E7D47486EE574A": {
+        "sender": "57707230945348@lid",
+        "text": "Gado",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787914487567
+      },
+      "AC83156042436817DB749F203C0A8F97": {
+        "sender": "247020967165997@lid",
+        "text": "Obrigada",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787914499929
+      },
+      "AC701A90B8F5BD77D5D4BD8024CAD5DC": {
+        "sender": "57707230945348@lid",
+        "text": "Eae Gus bom dia 🤣",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787914509801
+      },
+      "ACD94CB8BAD667E6F85D86F565990C99": {
+        "sender": "247020967165997@lid",
+        "text": "Já me apresentei",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787914513638
       }
     },
     "120363428464897153@g.us": {
@@ -192083,7 +192143,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787914462483,
+    "120363432018531082@g.us": 1787914513638,
     "120363428464897153@g.us": 1787913193216,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787914462012,
