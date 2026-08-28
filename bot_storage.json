@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2285,
+        "text": 2286,
         "media": 309,
-        "total": 2594
+        "total": 2595
       },
       "252922705240205": {
         "text": 80,
@@ -2603,9 +2603,9 @@
         "total": 29
       },
       "190864487919667": {
-        "text": 287,
+        "text": 289,
         "media": 42,
-        "total": 329
+        "total": 331
       },
       "82227819987089": {
         "text": 2,
@@ -2673,9 +2673,9 @@
         "total": 3
       },
       "193729163993156": {
-        "text": 35,
+        "text": 36,
         "media": 7,
-        "total": 42
+        "total": 43
       },
       "151582733820115": {
         "text": 5,
@@ -2708,9 +2708,9 @@
         "total": 2
       },
       "108461127897146": {
-        "text": 57,
-        "media": 6,
-        "total": 63
+        "text": 59,
+        "media": 7,
+        "total": 66
       },
       "10050861031495": {
         "text": 0,
@@ -2803,9 +2803,9 @@
         "total": 149
       },
       "206253020176458": {
-        "text": 15,
+        "text": 16,
         "media": 6,
-        "total": 21
+        "total": 22
       },
       "210152934359048": {
         "text": 16,
@@ -9900,12 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Rafael Moura (57707230945348): E eu tenho dois pontos, olha aqui !",
-        "Rafael Moura (57707230945348): ..",
-        "Gabi 💋 (247020967165997): Adoro um sabor de outros ksksks",
-        "Gabi 💋 (247020967165997): Que delícia",
-        "Pedro Henrique (172868239380659): Brincadeira a parte, hoje em dia tá tudo caro, antigamente tinha uns lugares mais em conta em restaurante",
-        "Rafael Moura (57707230945348): Mas ce ta braba?",
         "Gabi 💋 (247020967165997): Eu tô é rindo",
         "Gabi 💋 (247020967165997): Da carência da pessoa",
         "Pedro Henrique (172868239380659): Não é sobre minhas condições, falo no sentido no total tu vai num rodízio de churrasco por exemplo triplicou o valor",
@@ -10399,7 +10393,13 @@
         "Arthur (206253020176458): Q paisagem linda onde fica",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Coitada da moça, tadinha",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Ah que linda 😍",
-        "jaciara (108461127897146): Maranhão"
+        "jaciara (108461127897146): Maranhão",
+        "Souza (190864487919667): Ué, mas a barriga é grande",
+        "F. RicaRdo sAnToS (193729163993156): Linda parabéns, que venha com muita saúde....",
+        "Souza (190864487919667): Que venha com saúde",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Meu Deus 🤡",
+        "Arthur (206253020176458): Paz, saúde e muita felicidade e alegria",
+        "jaciara (108461127897146): Amém 🙏🏼"
       ]
     },
     "120363428464897153@g.us": {
@@ -17898,6 +17898,42 @@
         "authorName": "jaciara",
         "text": "Maranhão",
         "timestamp": 1787929755919
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Ué, mas a barriga é grande",
+        "timestamp": 1787929770473
+      },
+      {
+        "authorNum": "193729163993156",
+        "authorName": "F. RicaRdo sAnToS",
+        "text": "Linda parabéns, que venha com muita saúde....",
+        "timestamp": 1787929771381
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Que venha com saúde",
+        "timestamp": 1787929773382
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Meu Deus 🤡",
+        "timestamp": 1787929780973
+      },
+      {
+        "authorNum": "206253020176458",
+        "authorName": "Arthur",
+        "text": "Paz, saúde e muita felicidade e alegria",
+        "timestamp": 1787929792918
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Amém 🙏🏼",
+        "timestamp": 1787929794372
       }
     ],
     "120363428464897153@g.us": [],
@@ -17924,7 +17960,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21907,
+    "120363432018531082@g.us": 21913,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -143456,6 +143492,42 @@
         "text": "Maranhão",
         "pushName": "jaciara",
         "timestamp": 1787929755920
+      },
+      "ACA6A5F45FBC5916D7392E973CFF032F": {
+        "sender": "190864487919667@lid",
+        "text": "Ué, mas a barriga é grande",
+        "pushName": "Souza",
+        "timestamp": 1787929770473
+      },
+      "AC1264DBC03102CBB4DDD123E475F434": {
+        "sender": "193729163993156@lid",
+        "text": "Linda parabéns, que venha com muita saúde....",
+        "pushName": "F. RicaRdo sAnToS",
+        "timestamp": 1787929771381
+      },
+      "AC2F0F2DD07EE2A7BECF455D08A86DF5": {
+        "sender": "190864487919667@lid",
+        "text": "Que venha com saúde",
+        "pushName": "Souza",
+        "timestamp": 1787929773382
+      },
+      "AC22633FB6D07EBD300641800D67A776": {
+        "sender": "53537388122141@lid",
+        "text": "Meu Deus 🤡",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787929780973
+      },
+      "AC4F93BD08E92A42464C6731490CB24F": {
+        "sender": "206253020176458@lid",
+        "text": "Paz, saúde e muita felicidade e alegria",
+        "pushName": "Arthur",
+        "timestamp": 1787929792918
+      },
+      "AC104ABB442ED8715D8CAA3CAEA1C3C6": {
+        "sender": "108461127897146@lid",
+        "text": "Amém 🙏🏼",
+        "pushName": "jaciara",
+        "timestamp": 1787929794372
       }
     },
     "120363428464897153@g.us": {
@@ -196365,7 +196437,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787929760535,
+    "120363432018531082@g.us": 1787929794372,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
