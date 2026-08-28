@@ -2658,9 +2658,9 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 95,
+        "text": 97,
         "media": 14,
-        "total": 109
+        "total": 111
       },
       "172868239380659": {
         "text": 182,
@@ -2838,9 +2838,9 @@
         "total": 8
       },
       "227783724793861": {
-        "text": 11,
+        "text": 12,
         "media": 1,
-        "total": 12
+        "total": 13
       },
       "159304631980141": {
         "text": 1,
@@ -9930,8 +9930,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Gabi 💋 (247020967165997): Agora vai trabalhar que mas tarde tu vai beijar na boca",
-        "Gabi 💋 (247020967165997): E sentir o sabor candida na boca",
         "Pedro Henrique (172868239380659): Não, esse fds tenho compromisso já",
         "Gabi 💋 (247020967165997): Sim toma cuidado pra não criar bolhas",
         "𝔞𝔩𝔦𝔫𝔢🫶🏽 (221307534876912): Ontem um menino me disse q tinha um ovo atrás da cabeça dele kkkk",
@@ -10429,7 +10427,9 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Boa tarde @all \n\n\nSumida pq tô no dentista com meu baby",
         "May (227783724793861): Aceito",
         "jaciara (108461127897146): Tarde",
-        "Bruno Aguiar (+1395881181241): Boa tarde 😘"
+        "Bruno Aguiar (+1395881181241): Boa tarde 😘",
+        "Gleydson Souza (274384656834700): Tem nem como sentir kkkk",
+        "Gleydson Souza (274384656834700): Novidade"
       ]
     },
     "120363428464897153@g.us": {
@@ -17389,18 +17389,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Era no bom sentido",
-        "timestamp": 1787932481218
-      },
-      {
-        "authorNum": "206253020176458",
-        "authorName": "Arthur",
-        "text": "Meu Deus olha essa figurinha",
-        "timestamp": 1787932501172
-      },
-      {
         "authorNum": "1395881181241",
         "authorName": "Bruno Aguiar",
         "text": "Tudo tem limites \nRespeito se conquista",
@@ -17657,6 +17645,18 @@
         "authorName": "Bruno Aguiar",
         "text": "Boa tarde 😘",
         "timestamp": 1787934266300
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Tem nem como sentir kkkk",
+        "timestamp": 1787934290885
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Novidade",
+        "timestamp": 1787934302984
       }
     ],
     "120363428464897153@g.us": [],
@@ -17726,7 +17726,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22066,
+    "120363432018531082@g.us": 22068,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2016,
@@ -144200,6 +144200,18 @@
         "text": "Boa tarde 😘",
         "pushName": "Bruno Aguiar",
         "timestamp": 1787934266300
+      },
+      "ACE7BE744268108A0AC3231CDC7297A1": {
+        "sender": "274384656834700@lid",
+        "text": "Tem nem como sentir kkkk",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787934290885
+      },
+      "ACF9DDD6ACA9DA4E677D52EEE9708A77": {
+        "sender": "274384656834700@lid",
+        "text": "Novidade",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787934302984
       }
     },
     "120363428464897153@g.us": {
@@ -197211,7 +197223,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787934269186,
+    "120363432018531082@g.us": 1787934311813,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787934085129,
