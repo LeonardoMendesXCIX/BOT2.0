@@ -309,8 +309,8 @@
       },
       "120363432018531082": {
         "text": 315,
-        "media": 88,
-        "total": 403
+        "media": 89,
+        "total": 404
       },
       "97535100252296": {
         "text": 96,
@@ -1953,9 +1953,9 @@
         "total": 5
       },
       "83911531044906": {
-        "text": 45,
+        "text": 46,
         "media": 2,
-        "total": 47
+        "total": 48
       },
       "172864548434113": {
         "text": 42,
@@ -9900,8 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): @262182034002040 corre aqui",
-        "Souza (190864487919667): Bem vinda",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Tô zuando 😂",
         "Rafael Moura (57707230945348): Ela vai ter um mini infarto",
         "Rafael Moura (57707230945348): Pessoal caiu o VR, quem quer açai",
@@ -10399,7 +10397,9 @@
         "Bruno Aguiar (+1395881181241): E se precisar estamos aqui 😉❤️",
         "~Gará (83911531044906): Tamos juntos nessa então",
         "Camila Designer (92629643563147): Tipo, me siga para mais dicas 🤣🤣🤣🤣",
-        "~Gará (83911531044906): Alguém aqui tem interesse em comprar um rins?\nFaço promoção"
+        "~Gará (83911531044906): Alguém aqui tem interesse em comprar um rins?\nFaço promoção",
+        "~Gará (83911531044906): @~Camila Designer\nVou vender o meu primeiro..kkkk",
+        " (120363432018531082): Boa tarde pessoas"
       ]
     },
     "120363428464897153@g.us": {
@@ -17344,42 +17344,6 @@
       {
         "authorNum": "190864487919667",
         "authorName": "Souza",
-        "text": "leva só o básico",
-        "timestamp": 1787926724761
-      },
-      {
-        "authorNum": "83911531044906",
-        "authorName": "~Gará",
-        "text": "Bem vinda",
-        "timestamp": 1787926736216
-      },
-      {
-        "authorNum": "263797142995147",
-        "authorName": "Nanda",
-        "text": "pior q eu tento kkkkk",
-        "timestamp": 1787926744179
-      },
-      {
-        "authorNum": "263797142995147",
-        "authorName": "Nanda",
-        "text": "brigada",
-        "timestamp": 1787926746746
-      },
-      {
-        "authorNum": "274384656834700",
-        "authorName": "Gleydson Souza",
-        "text": "Bem vinda",
-        "timestamp": 1787926800633
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Vi que entrou bastante pessoas, sejam todos bem vindos!😌",
-        "timestamp": 1787926801037
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
         "text": "Se for só, nem leva celular",
         "timestamp": 1787926821107
       },
@@ -17700,17 +17664,23 @@
         "authorName": "~Gará",
         "text": "Alguém aqui tem interesse em comprar um rins?\nFaço promoção",
         "timestamp": 1787928524724
+      },
+      {
+        "authorNum": "83911531044906",
+        "authorName": "~Gará",
+        "text": "@~Camila Designer\nVou vender o meu primeiro..kkkk",
+        "timestamp": 1787928572036
+      },
+      {
+        "authorNum": "120363432018531082",
+        "authorName": "",
+        "text": "Boa tarde pessoas",
+        "timestamp": 1787928607218
       }
     ],
     "120363428464897153@g.us": [],
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Br\nN achei as figurinhas",
-        "timestamp": 1787926648480
-      },
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
@@ -17732,7 +17702,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21822,
+    "120363432018531082@g.us": 21824,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -142761,6 +142731,18 @@
         "text": "Alguém aqui tem interesse em comprar um rins?\nFaço promoção",
         "pushName": "~Gará",
         "timestamp": 1787928524725
+      },
+      "ACD8D430AC314E74BDDCA2711133035D": {
+        "sender": "83911531044906@lid",
+        "text": "@~Camila Designer\nVou vender o meu primeiro..kkkk",
+        "pushName": "~Gará",
+        "timestamp": 1787928572036
+      },
+      "AC3BF0845F455973BC9B672998F4C9E2": {
+        "sender": "120363432018531082@g.us",
+        "text": "Boa tarde pessoas",
+        "pushName": "",
+        "timestamp": 1787928607218
       }
     },
     "120363428464897153@g.us": {
@@ -195670,7 +195652,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787928524724,
+    "120363432018531082@g.us": 1787928607218,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
