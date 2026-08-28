@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2357,
+        "text": 2358,
         "media": 329,
-        "total": 2686
+        "total": 2687
       },
       "252922705240205": {
         "text": 80,
@@ -2598,14 +2598,14 @@
         "total": 2
       },
       "11171897864256": {
-        "text": 32,
+        "text": 35,
         "media": 2,
-        "total": 34
+        "total": 37
       },
       "190864487919667": {
-        "text": 354,
+        "text": 356,
         "media": 51,
-        "total": 405
+        "total": 407
       },
       "82227819987089": {
         "text": 2,
@@ -9950,12 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "F. RicaRdo sAnToS (193729163993156): Aoooo",
-        "~Gará (83911531044906): Eu posso ser o pai..🫢",
-        "jaciara (108461127897146): Assim de cara ?",
-        "jaciara (108461127897146): Kkkkk",
-        "F. RicaRdo sAnToS (193729163993156): @53537388122141 a @108461127897146 quer postar um foto, aceita ai p nos",
-        "~Gará (83911531044906): Oq tem?\nRsrs",
         "F. RicaRdo sAnToS (193729163993156): De costas tbm ķkk",
         "Bruno Aguiar (+1395881181241): Merece🫶🏼",
         "Souza (190864487919667): Só tem maluco no grupo 😂😂😂",
@@ -10449,7 +10443,13 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Ficou rico?",
         "Souza (190864487919667): O tempo tá passando hein",
         "🙃🙃🙃 (11171897864256): Quem dera",
-        "🙃🙃🙃 (11171897864256): Quero que me coloquem pra fora sem eh pedir"
+        "🙃🙃🙃 (11171897864256): Quero que me coloquem pra fora sem eh pedir",
+        "🙃🙃🙃 (11171897864256): 2 anos",
+        "🙃🙃🙃 (11171897864256): Sem férias",
+        "Souza (190864487919667): Só ir no ministério do trabalho",
+        "🙃🙃🙃 (11171897864256): Pq eu vendi",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Minha nossa senhora",
+        "Souza (190864487919667): Aí é outra história"
       ]
     },
     "120363428464897153@g.us": {
@@ -17809,6 +17809,42 @@
         "authorName": "🙃🙃🙃",
         "text": "Quero que me coloquem pra fora sem eh pedir",
         "timestamp": 1787947606684
+      },
+      {
+        "authorNum": "11171897864256",
+        "authorName": "🙃🙃🙃",
+        "text": "2 anos",
+        "timestamp": 1787947614918
+      },
+      {
+        "authorNum": "11171897864256",
+        "authorName": "🙃🙃🙃",
+        "text": "Sem férias",
+        "timestamp": 1787947617446
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Só ir no ministério do trabalho",
+        "timestamp": 1787947630784
+      },
+      {
+        "authorNum": "11171897864256",
+        "authorName": "🙃🙃🙃",
+        "text": "Pq eu vendi",
+        "timestamp": 1787947640915
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Minha nossa senhora",
+        "timestamp": 1787947641046
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Aí é outra história",
+        "timestamp": 1787947651007
       }
     ],
     "120363428464897153@g.us": [],
@@ -17841,7 +17877,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22374,
+    "120363432018531082@g.us": 22380,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -146144,6 +146180,42 @@
         "text": "Quero que me coloquem pra fora sem eh pedir",
         "pushName": "🙃🙃🙃",
         "timestamp": 1787947606684
+      },
+      "AC955F21E3AE9DB045D6AA6345389179": {
+        "sender": "11171897864256@lid",
+        "text": "2 anos",
+        "pushName": "🙃🙃🙃",
+        "timestamp": 1787947614918
+      },
+      "ACF5AB36589AD5507686B4D09003D6A8": {
+        "sender": "11171897864256@lid",
+        "text": "Sem férias",
+        "pushName": "🙃🙃🙃",
+        "timestamp": 1787947617446
+      },
+      "ACD84D499715E66CB595904DE0228BE2": {
+        "sender": "190864487919667@lid",
+        "text": "Só ir no ministério do trabalho",
+        "pushName": "Souza",
+        "timestamp": 1787947630784
+      },
+      "ACFE17E9B690974A6F4C52B20C937E37": {
+        "sender": "11171897864256@lid",
+        "text": "Pq eu vendi",
+        "pushName": "🙃🙃🙃",
+        "timestamp": 1787947640915
+      },
+      "ACF43103F05D2BE9B7517C0134043CC0": {
+        "sender": "53537388122141@lid",
+        "text": "Minha nossa senhora",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787947641047
+      },
+      "AC4514F296C22DFA30DC3F429AB9DF17": {
+        "sender": "190864487919667@lid",
+        "text": "Aí é outra história",
+        "pushName": "Souza",
+        "timestamp": 1787947651008
       }
     },
     "120363428464897153@g.us": {
@@ -199623,7 +199695,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787947606684,
+    "120363432018531082@g.us": 1787947651007,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
