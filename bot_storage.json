@@ -453,9 +453,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1721,
+        "text": 1722,
         "media": 334,
-        "total": 2055
+        "total": 2056
       },
       "252600633041077": {
         "text": 1,
@@ -2604,8 +2604,8 @@
       },
       "190864487919667": {
         "text": 319,
-        "media": 47,
-        "total": 366
+        "media": 48,
+        "total": 367
       },
       "82227819987089": {
         "text": 2,
@@ -2658,9 +2658,9 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 100,
+        "text": 101,
         "media": 14,
-        "total": 114
+        "total": 115
       },
       "172868239380659": {
         "text": 182,
@@ -9930,7 +9930,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Gleydson Souza (274384656834700): Kkkk vcs falam mt tava tentando ler tudo mas desisti",
         "Pedro Henrique (172868239380659): Mas quem tava bravo?",
         "Pedro Henrique (172868239380659): Uma zoeira saudável daquela",
         "Pedro Henrique (172868239380659): @247020967165997 vc tava brava ?",
@@ -10429,7 +10428,8 @@
         "May (227783724793861): MDS haha",
         "Gleydson Souza (274384656834700): Pra quem ama chuva que nem eu isso aqui e o inferno kkkk",
         "Celiete Souza (129373172711439): Nosso clima aqui não é bom",
-        "May (227783724793861): Tem que morar em Curitiba"
+        "May (227783724793861): Tem que morar em Curitiba",
+        "Gleydson Souza (274384656834700): Já vou ver quanto custa as casas por ai kkkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -17394,30 +17394,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Paz amor e muito miojo",
-        "timestamp": 1787933104314
-      },
-      {
-        "authorNum": "1395881181241",
-        "authorName": "Bruno Aguiar",
-        "text": "É bom repor as energias",
-        "timestamp": 1787933119882
-      },
-      {
-        "authorNum": "1395881181241",
-        "authorName": "Bruno Aguiar",
-        "text": "Oiii",
-        "timestamp": 1787933133503
-      },
-      {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Vai uma coquinha?",
-        "timestamp": 1787933143047
-      },
-      {
         "authorNum": "227783724793861",
         "authorName": "May",
         "text": "Que lindaaa",
@@ -17632,6 +17608,12 @@
         "authorName": "May",
         "text": "Tem que morar em Curitiba",
         "timestamp": 1787934652734
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Já vou ver quanto custa as casas por ai kkkk",
+        "timestamp": 1787934944557
       }
     ],
     "120363428464897153@g.us": [],
@@ -17713,7 +17695,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22075,
+    "120363432018531082@g.us": 22076,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2020,
@@ -144240,6 +144222,12 @@
         "text": "Tem que morar em Curitiba",
         "pushName": "May",
         "timestamp": 1787934652735
+      },
+      "ACCD8FB5BB4BC92413E1BDC88F26C87F": {
+        "sender": "274384656834700@lid",
+        "text": "Já vou ver quanto custa as casas por ai kkkk",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787934944557
       }
     },
     "120363428464897153@g.us": {
@@ -197281,7 +197269,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787934652734,
+    "120363432018531082@g.us": 1787934958188,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787934857494,
