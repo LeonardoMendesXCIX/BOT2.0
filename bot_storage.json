@@ -173,9 +173,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1526,
+        "text": 1529,
         "media": 424,
-        "total": 1950
+        "total": 1953
       },
       "81991328395336": {
         "text": 3923,
@@ -9900,7 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Pedro Henrique (172868239380659): 1 ano",
         "Gabi 💋 (247020967165997): Bora um podrão",
         "Rafael Moura (57707230945348): Bastante gordura",
         "Rafael Moura (57707230945348): 🤣",
@@ -10399,7 +10398,8 @@
         "Souza (190864487919667): Tem gente de olho na grávida",
         "Souza (190864487919667): Teve briga de manhã",
         "Souza (190864487919667): Teve alguém que ia no puteiro",
-        "Souza (190864487919667): Comer miojo"
+        "Souza (190864487919667): Comer miojo",
+        "Celiete Souza (129373172711439): Capaz"
       ]
     },
     "120363428464897153@g.us": {
@@ -17342,24 +17342,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Que bom , eu estou bem",
-        "timestamp": 1787928841518
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Estou no Maranhão",
-        "timestamp": 1787928848360
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Vim passar alguns meses",
-        "timestamp": 1787928862501
-      },
-      {
         "authorNum": "193729163993156",
         "authorName": "F. RicaRdo sAnToS",
         "text": "Tarde moça",
@@ -17952,6 +17934,12 @@
         "authorName": "Souza",
         "text": "Comer miojo",
         "timestamp": 1787930639597
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Capaz",
+        "timestamp": 1787930665137
       }
     ],
     "120363428464897153@g.us": [],
@@ -17971,7 +17959,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21942,
+    "120363432018531082@g.us": 21943,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -143707,6 +143695,12 @@
         "text": "Comer miojo",
         "pushName": "Souza",
         "timestamp": 1787930639597
+      },
+      "AC73E2FA3BB624618A5F756B3DFF24A3": {
+        "sender": "129373172711439@lid",
+        "text": "Capaz",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787930665138
       }
     },
     "120363428464897153@g.us": {
@@ -196616,7 +196610,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787930639597,
+    "120363432018531082@g.us": 1787930678190,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
