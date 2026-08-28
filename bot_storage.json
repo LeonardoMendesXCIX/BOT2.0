@@ -3134,9 +3134,9 @@
         "total": 1
       },
       "25520947339303": {
-        "text": 37,
+        "text": 39,
         "media": 1,
-        "total": 38
+        "total": 40
       },
       "66743926038604": {
         "text": 57,
@@ -3199,9 +3199,9 @@
         "total": 29
       },
       "155503636275307": {
-        "text": 20,
+        "text": 21,
         "media": 16,
-        "total": 36
+        "total": 37
       },
       "241553943601214": {
         "text": 5,
@@ -3328,9 +3328,9 @@
         "total": 510
       },
       "53537388122141": {
-        "text": 671,
+        "text": 674,
         "media": 53,
-        "total": 724
+        "total": 727
       },
       "120363412288900422": {
         "text": 1,
@@ -13563,7 +13563,10 @@
         "Priscilla 🌻 (25520947339303): Noturno é tranquilo quem trabalha puxado são os meninos da mercearia pra abastecer meu setor é fazer compra por aplicativo",
         "Priscilla 🌻 (25520947339303): Em BH kkkk",
         "Souza (190864487919667): Trabalhei em algumas redes grandes, mercearia é o terror",
-        "Clayton 🇳🇬 (155503636275307): Logem kkk de sao paulo"
+        "Clayton 🇳🇬 (155503636275307): Logem kkk de sao paulo",
+        "Priscilla 🌻 (25520947339303): Exatamente eu mesmo não faço nada fico na parte  camisa branca ficou mais no setor sentada kkkk",
+        "Clayton 🇳🇬 (155503636275307): Nao trabalhar no mercado BH",
+        "Priscilla 🌻 (25520947339303): Sim kkkk"
       ]
     },
     "120363409727467494@g.us": {
@@ -15544,7 +15547,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Tudo bem",
         "Gabriel (145381035905262): Eu acho que o lailson é mais baixo que tu @53537388122141",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Tá zuando",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Qual a altura dele?"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Qual a altura dele?",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Perguntei aqui, não é não"
       ]
     },
     "120363411233423709@g.us": {
@@ -16947,6 +16951,24 @@
         "authorName": "Clayton 🇳🇬",
         "text": "Logem kkk de sao paulo",
         "timestamp": 1787876974559
+      },
+      {
+        "authorNum": "25520947339303",
+        "authorName": "Priscilla 🌻",
+        "text": "Exatamente eu mesmo não faço nada fico na parte  camisa branca ficou mais no setor sentada kkkk",
+        "timestamp": 1787877009326
+      },
+      {
+        "authorNum": "155503636275307",
+        "authorName": "Clayton 🇳🇬",
+        "text": "Nao trabalhar no mercado BH",
+        "timestamp": 1787877010990
+      },
+      {
+        "authorNum": "25520947339303",
+        "authorName": "Priscilla 🌻",
+        "text": "Sim kkkk",
+        "timestamp": 1787877026974
       }
     ],
     "120363409727467494@g.us": [],
@@ -17106,6 +17128,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Qual a altura dele?",
         "timestamp": 1787876832641
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Perguntei aqui, não é não",
+        "timestamp": 1787877019468
       }
     ],
     "120363411233423709@g.us": [],
@@ -17122,9 +17150,9 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 21011,
-    "120363428464897153@g.us": 6044,
+    "120363428464897153@g.us": 6047,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1699,
+    "120363412288900422@g.us": 1700,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -172778,6 +172806,24 @@
         "text": "Logem kkk de sao paulo",
         "pushName": "Clayton 🇳🇬",
         "timestamp": 1787876974559
+      },
+      "ACDBB3312C303983C2E540AB0C30DBB8": {
+        "sender": "25520947339303@lid",
+        "text": "Exatamente eu mesmo não faço nada fico na parte  camisa branca ficou mais no setor sentada kkkk",
+        "pushName": "Priscilla 🌻",
+        "timestamp": 1787877009326
+      },
+      "AC705C95F466C85920C6A7243E542955": {
+        "sender": "155503636275307@lid",
+        "text": "Nao trabalhar no mercado BH",
+        "pushName": "Clayton 🇳🇬",
+        "timestamp": 1787877010990
+      },
+      "AC45B3FE113EB20BA0CC6486F3E1048E": {
+        "sender": "25520947339303@lid",
+        "text": "Sim kkkk",
+        "pushName": "Priscilla 🌻",
+        "timestamp": 1787877026974
       }
     },
     "120363409727467494@g.us": {
@@ -184176,6 +184222,12 @@
         "text": "Qual a altura dele?",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787876832641
+      },
+      "AC350E3CE27F46810E764F03E3053AC9": {
+        "sender": "53537388122141@lid",
+        "text": "Perguntei aqui, não é não",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787877019468
       }
     },
     "120363411233423709@g.us": {
@@ -186732,9 +186784,9 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787876980448,
-    "120363428464897153@g.us": 1787876974559,
+    "120363428464897153@g.us": 1787877026974,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787876901272,
+    "120363412288900422@g.us": 1787877019468,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
