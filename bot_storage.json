@@ -2737,6 +2737,11 @@
         "text": 2,
         "media": 0,
         "total": 2
+      },
+      "84658721165327": {
+        "text": 1,
+        "media": 0,
+        "total": 1
       }
     },
     "120363428464897153@g.us": {
@@ -2861,9 +2866,9 @@
         "total": 1
       },
       "199733712785531": {
-        "text": 74,
+        "text": 75,
         "media": 94,
-        "total": 168
+        "total": 169
       },
       "162397679534082": {
         "text": 2,
@@ -3369,6 +3374,11 @@
         "text": 4,
         "media": 1,
         "total": 5
+      },
+      "193729163993156": {
+        "text": 1,
+        "media": 0,
+        "total": 1
       }
     },
     "120363409727467494@g.us": {
@@ -13835,7 +13845,9 @@
         "Vini 👑🏁🙌⚽ (270377049690114): Boa noite 👀🌚",
         "Leandro (+55 (11) 92701-8683): Boa noite a @all",
         "Eduardo (153764728184839): Good nigth",
-        "Souza (190864487919667): Buenas"
+        "Souza (190864487919667): Buenas",
+        "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Boa noite!!",
+        "F. RicaRdo sAnToS (193729163993156): Boua noite gurizada fandangueira"
       ]
     },
     "120363409727467494@g.us": {
@@ -16481,6 +16493,18 @@
         "authorName": "Souza",
         "text": "Buenas",
         "timestamp": 1787884471956
+      },
+      {
+        "authorNum": "199733712785531",
+        "authorName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
+        "text": "Boa noite!!",
+        "timestamp": 1787884500241
+      },
+      {
+        "authorNum": "193729163993156",
+        "authorName": "F. RicaRdo sAnToS",
+        "text": "Boua noite gurizada fandangueira",
+        "timestamp": 1787884520891
       }
     ],
     "120363409727467494@g.us": [],
@@ -16651,7 +16675,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 21075,
-    "120363428464897153@g.us": 6224,
+    "120363428464897153@g.us": 6226,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1736,
     "120363411233423709@g.us": 5,
@@ -173752,6 +173776,18 @@
         "text": "Buenas",
         "pushName": "Souza",
         "timestamp": 1787884471956
+      },
+      "3A8ACEE210B106FF50E7": {
+        "sender": "199733712785531@lid",
+        "text": "Boa noite!!",
+        "pushName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
+        "timestamp": 1787884500241
+      },
+      "AC5E76356E4607A8B79F6A03F0784410": {
+        "sender": "193729163993156@lid",
+        "text": "Boua noite gurizada fandangueira",
+        "pushName": "F. RicaRdo sAnToS",
+        "timestamp": 1787884520891
       }
     },
     "120363409727467494@g.us": {
@@ -187957,8 +187993,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787884424124,
-    "120363428464897153@g.us": 1787884471956,
+    "120363432018531082@g.us": 1787884510262,
+    "120363428464897153@g.us": 1787884520891,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787884390062,
     "120363411233423709@g.us": 1787113553426,
