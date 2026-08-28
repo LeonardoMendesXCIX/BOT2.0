@@ -178,9 +178,9 @@
         "total": 1943
       },
       "81991328395336": {
-        "text": 3914,
+        "text": 3915,
         "media": 1325,
-        "total": 5239
+        "total": 5240
       },
       "179040627490824": {
         "text": 433,
@@ -2808,9 +2808,9 @@
         "total": 2
       },
       "210152934359048": {
-        "text": 1,
+        "text": 3,
         "media": 0,
-        "total": 1
+        "total": 3
       }
     },
     "120363428464897153@g.us": {
@@ -10010,7 +10010,10 @@
         "Arthur (206253020176458): Obrigado",
         "Pedro Henrique (172868239380659): Vou pedir 300 orçamento e não fechar nenhum",
         "Souza (190864487919667): Aí não compensa",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindo"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindo",
+        "Bruno (210152934359048): Obrigado Sabrina",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Bem vindos",
+        "Bruno (210152934359048): Obrigado"
       ]
     },
     "120363428464897153@g.us": {
@@ -17174,6 +17177,24 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Bem vindo",
         "timestamp": 1787913363732
+      },
+      {
+        "authorNum": "210152934359048",
+        "authorName": "Bruno",
+        "text": "Obrigado Sabrina",
+        "timestamp": 1787913388906
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Bem vindos",
+        "timestamp": 1787913396853
+      },
+      {
+        "authorNum": "210152934359048",
+        "authorName": "Bruno",
+        "text": "Obrigado",
+        "timestamp": 1787913404859
       }
     ],
     "120363428464897153@g.us": [],
@@ -17193,7 +17214,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21253,
+    "120363432018531082@g.us": 21256,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1989,
@@ -138828,6 +138849,24 @@
         "text": "Bem vindo",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787913363732
+      },
+      "AC2CB1BDD0E9FEA20F6EBBC1F737DC9F": {
+        "sender": "210152934359048@lid",
+        "text": "Obrigado Sabrina",
+        "pushName": "Bruno",
+        "timestamp": 1787913388906
+      },
+      "ACEB27F920F5CFC5969E1C91032C1F1D": {
+        "sender": "81991328395336@lid",
+        "text": "Bem vindos",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787913396853
+      },
+      "ACF0172A22EA34AC67CE7479B971E65A": {
+        "sender": "210152934359048@lid",
+        "text": "Obrigado",
+        "pushName": "Bruno",
+        "timestamp": 1787913404859
       }
     },
     "120363428464897153@g.us": {
@@ -191599,7 +191638,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787913363732,
+    "120363432018531082@g.us": 1787913404859,
     "120363428464897153@g.us": 1787913193216,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787894166886,
