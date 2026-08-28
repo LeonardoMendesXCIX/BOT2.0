@@ -188,9 +188,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2246,
-        "media": 473,
-        "total": 2719
+        "text": 2248,
+        "media": 474,
+        "total": 2722
       },
       "184237705699536": {
         "text": 524,
@@ -308,9 +308,9 @@
         "total": 10
       },
       "120363432018531082": {
-        "text": 315,
-        "media": 92,
-        "total": 407
+        "text": 316,
+        "media": 93,
+        "total": 409
       },
       "97535100252296": {
         "text": 96,
@@ -453,9 +453,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1740,
-        "media": 348,
-        "total": 2088
+        "text": 1741,
+        "media": 349,
+        "total": 2090
       },
       "252600633041077": {
         "text": 1,
@@ -9950,11 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Bruno Aguiar (+1395881181241): Tudo tranquilo",
-        "Souza (190864487919667): Tu se apresentou?",
-        "Leandro (+55 (11) 92701-8683): !megafone para os novatos que ainda não conhece, temos nosso grupo de figurinhas, fiquem a vontade!",
-        "𝔞𝔩𝔦𝔫𝔢🫶🏽 (221307534876912): Yes",
-        "Leandro (+55 (11) 92701-8683): !todos",
         "jaciara (108461127897146): Eu estou bem graças a Deus e vc como está ?",
         "Celiete Souza (129373172711439): ? Outro",
         "Rafael Moura (57707230945348): Grupo de figurinhas",
@@ -10449,7 +10444,12 @@
         "Juliano Perlin (222595437858867): Nao vou responder porq sou feio🤣🤣🤣",
         "Juliano Perlin (222595437858867): Noite fofa🥰",
         "Juliano Perlin (222595437858867): Toda linda🥰",
-        "jaciara (108461127897146): Obrigado coração ❤️"
+        "jaciara (108461127897146): Obrigado coração ❤️",
+        " (120363432018531082): Aqui fazendo conteúdo...",
+        " (120363432018531082): E vocês aí",
+        "Gabriel (145381035905262): Aqui fazendo conteúdo...",
+        "Gabriel (145381035905262): Assim mesmo galo",
+        "Gabriel (145381035905262): E vocês aí"
       ]
     },
     "120363428464897153@g.us": {
@@ -17565,6 +17565,36 @@
         "authorName": "jaciara",
         "text": "Obrigado coração ❤️",
         "timestamp": 1787953788869
+      },
+      {
+        "authorNum": "120363432018531082",
+        "authorName": "",
+        "text": "Aqui fazendo conteúdo...",
+        "timestamp": 1787954069159
+      },
+      {
+        "authorNum": "120363432018531082",
+        "authorName": "",
+        "text": "E vocês aí",
+        "timestamp": 1787954073202
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Aqui fazendo conteúdo...",
+        "timestamp": 1787954078377
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Assim mesmo galo",
+        "timestamp": 1787954083305
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "E vocês aí",
+        "timestamp": 1787954085765
       }
     ],
     "120363428464897153@g.us": [],
@@ -17598,7 +17628,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22508,
+    "120363432018531082@g.us": 22513,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2090,
@@ -146705,6 +146735,24 @@
         "text": "Obrigado coração ❤️",
         "pushName": "jaciara",
         "timestamp": 1787953788869
+      },
+      "ACFD48F416BDA5B6ED8A4BE7730DB435": {
+        "sender": "145381035905262@lid",
+        "text": "Aqui fazendo conteúdo...",
+        "pushName": "Gabriel",
+        "timestamp": 1787954078377
+      },
+      "ACA15B46D95EEC57B83D2CDB69895106": {
+        "sender": "145381035905262@lid",
+        "text": "E vocês aí",
+        "pushName": "Gabriel",
+        "timestamp": 1787954085766
+      },
+      "AC1B984E6C4288411D9148A32073AA44": {
+        "sender": "145381035905262@lid",
+        "text": "Assim mesmo galo",
+        "pushName": "Gabriel",
+        "timestamp": 1787954083305
       }
     },
     "120363428464897153@g.us": {
@@ -200196,7 +200244,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787953788869,
+    "120363432018531082@g.us": 1787954091510,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787953116483,
