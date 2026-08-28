@@ -2803,9 +2803,9 @@
         "total": 155
       },
       "206253020176458": {
-        "text": 38,
+        "text": 41,
         "media": 9,
-        "total": 47
+        "total": 50
       },
       "210152934359048": {
         "text": 16,
@@ -9950,8 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "jaciara (108461127897146): Isso mesmo",
-        "Souza (190864487919667): O menino triste",
         "Souza (190864487919667): Só queria outro irmãozinho",
         "jaciara (108461127897146): Kkkkk no dia ele não gostou muito não",
         "jaciara (108461127897146): Só que hoje ele já acostumou",
@@ -10449,7 +10447,9 @@
         "Celiete Souza (129373172711439): Como se eu tivesse desesperada tu viu 🤣🤣🤣",
         "Arthur (206253020176458): Kkkkkk né",
         "Arthur (206253020176458): Kkkkk",
-        "Camila Designer (92629643563147): Não disse no desespero, mas questão de não perder oportunidades 😂😂😂"
+        "Camila Designer (92629643563147): Não disse no desespero, mas questão de não perder oportunidades 😂😂😂",
+        "Arthur (206253020176458): Agr eu concordo com ela kkkk",
+        "Arthur (206253020176458): Eu aí kkkkkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -17487,18 +17487,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Hoje dia de sair com as amigas 😌",
-        "timestamp": 1787948824987
-      },
-      {
-        "authorNum": "193729163993156",
-        "authorName": "F. RicaRdo sAnToS",
-        "text": "Eu voy dormir un poquito más",
-        "timestamp": 1787948838552
-      },
-      {
         "authorNum": "90130358485223",
         "authorName": "Gabriel Ohi",
         "text": "Mulher maravilhosa demais 😊😊😊",
@@ -17935,6 +17923,18 @@
         "authorName": "Camila Designer",
         "text": "Não disse no desespero, mas questão de não perder oportunidades 😂😂😂",
         "timestamp": 1787950618962
+      },
+      {
+        "authorNum": "206253020176458",
+        "authorName": "Arthur",
+        "text": "Agr eu concordo com ela kkkk",
+        "timestamp": 1787950639736
+      },
+      {
+        "authorNum": "206253020176458",
+        "authorName": "Arthur",
+        "text": "Eu aí kkkkkk",
+        "timestamp": 1787950650873
       }
     ],
     "120363428464897153@g.us": [],
@@ -17954,7 +17954,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22487,
+    "120363432018531082@g.us": 22489,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -146935,6 +146935,18 @@
         "text": "Não disse no desespero, mas questão de não perder oportunidades 😂😂😂",
         "pushName": "Camila Designer",
         "timestamp": 1787950618963
+      },
+      "AC094E287996A037858A2DAF6420FD00": {
+        "sender": "206253020176458@lid",
+        "text": "Agr eu concordo com ela kkkk",
+        "pushName": "Arthur",
+        "timestamp": 1787950639736
+      },
+      "AC6057CE438098F147966CCDBE210979": {
+        "sender": "206253020176458@lid",
+        "text": "Eu aí kkkkkk",
+        "pushName": "Arthur",
+        "timestamp": 1787950650873
       }
     },
     "120363428464897153@g.us": {
@@ -200414,7 +200426,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787950622672,
+    "120363432018531082@g.us": 1787950654690,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
