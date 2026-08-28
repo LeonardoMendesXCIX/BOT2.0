@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2299,
+        "text": 2302,
         "media": 317,
-        "total": 2616
+        "total": 2619
       },
       "252922705240205": {
         "text": 80,
@@ -383,9 +383,9 @@
         "total": 485
       },
       "222595437858867": {
-        "text": 505,
+        "text": 506,
         "media": 53,
-        "total": 558
+        "total": 559
       },
       "83280154103884": {
         "text": 36,
@@ -9950,9 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Camila Designer (92629643563147): Por que? Quer falar sobre?👀",
-        "Alexandre Bastos (75797868064796): Trabalhando hoje",
-        "Alexandre Bastos (75797868064796): E o seu",
         "Camila Designer (92629643563147): Eu dei uma pausa aqui, 10hrs chega minha próxima cliente 😌",
         "Alexandre Bastos (75797868064796): Bom",
         "Camila Designer (92629643563147): Porque adulto faz o que precisa ser feito!😅😅😅",
@@ -10449,7 +10446,10 @@
         "Gabriel (145381035905262): Boaaa",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Taaaarrrde",
         "Juliano Perlin (222595437858867): Oii fofa🤗",
-        "Juliano Perlin (222595437858867): Ta bem?"
+        "Juliano Perlin (222595437858867): Ta bem?",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Oieeee",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tô bem e vale?",
+        "Juliano Perlin (222595437858867): To bemm"
       ]
     },
     "120363428464897153@g.us": {
@@ -17749,6 +17749,24 @@
         "authorName": "Juliano Perlin",
         "text": "Ta bem?",
         "timestamp": 1787939812076
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Oieeee",
+        "timestamp": 1787939825495
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Tô bem e vale?",
+        "timestamp": 1787939828163
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "To bemm",
+        "timestamp": 1787939849865
       }
     ],
     "120363428464897153@g.us": [],
@@ -18040,7 +18058,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22146,
+    "120363432018531082@g.us": 22149,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2068,
@@ -144987,6 +145005,24 @@
         "text": "Ta bem?",
         "pushName": "Juliano Perlin",
         "timestamp": 1787939812076
+      },
+      "AC533F8FF463B9AAC76F626113805D3D": {
+        "sender": "53537388122141@lid",
+        "text": "Oieeee",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787939825496
+      },
+      "AC1512DA8AF40365331DC9925A2E19B5": {
+        "sender": "53537388122141@lid",
+        "text": "Tô bem e vale?",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787939828164
+      },
+      "AC548FE66705CD498F75CB4C12C74E67": {
+        "sender": "222595437858867@lid",
+        "text": "To bemm",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1787939849865
       }
     },
     "120363428464897153@g.us": {
@@ -198322,7 +198358,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787939812075,
+    "120363432018531082@g.us": 1787939849865,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787939805950,
