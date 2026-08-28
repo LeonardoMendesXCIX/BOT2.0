@@ -3420,19 +3420,19 @@
         "total": 580
       },
       "5511927018683": {
-        "text": 499,
-        "media": 94,
-        "total": 593
+        "text": 501,
+        "media": 95,
+        "total": 596
       },
       "145381035905262": {
-        "text": 407,
+        "text": 409,
         "media": 144,
-        "total": 551
+        "total": 553
       },
       "53537388122141": {
-        "text": 766,
+        "text": 767,
         "media": 59,
-        "total": 825
+        "total": 826
       },
       "120363412288900422": {
         "text": 1,
@@ -16095,7 +16095,11 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Amiga, tu tá bem?",
         "Gabriel (145381035905262): Naveira idiota",
         "Gabriel (145381035905262): Ela tá engraçadinha",
-        "Leandro (+55 (11) 92701-8683): Sem maldade, eu li a mesma coisa \"navara\""
+        "Leandro (+55 (11) 92701-8683): Sem maldade, eu li a mesma coisa \"navara\"",
+        "Leandro (+55 (11) 92701-8683): Sem zoeira nenhuma",
+        "Leandro (+55 (11) 92701-8683): Ainda pensei \"tô com a mente poluída\"",
+        "Gabriel (145381035905262): Vocês tão muito fafadin",
+        "Gabriel (145381035905262): Agora confundir meu sobrenome foi puta sacanagem"
       ]
     },
     "120363411233423709@g.us": {
@@ -17255,6 +17259,30 @@
         "authorName": "Leandro",
         "text": "Sem maldade, eu li a mesma coisa \"navara\"",
         "timestamp": 1787888114683
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Sem zoeira nenhuma",
+        "timestamp": 1787888120748
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Ainda pensei \"tô com a mente poluída\"",
+        "timestamp": 1787888132058
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Vocês tão muito fafadin",
+        "timestamp": 1787888145272
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Agora confundir meu sobrenome foi puta sacanagem",
+        "timestamp": 1787888160271
       }
     ],
     "120363411233423709@g.us": [],
@@ -17286,7 +17314,7 @@
     "120363432018531082@g.us": 21094,
     "120363428464897153@g.us": 6262,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1917,
+    "120363412288900422@g.us": 1921,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -187433,6 +187461,30 @@
         "text": "Sem maldade, eu li a mesma coisa \"navara\"",
         "pushName": "Leandro",
         "timestamp": 1787888114683
+      },
+      "A5D5EF51C638988B7805688F61BE0901": {
+        "sender": "54259127210155@lid",
+        "text": "Sem zoeira nenhuma",
+        "pushName": "Leandro",
+        "timestamp": 1787888120748
+      },
+      "A5596556EE29ECD0DE79B1AA888A9E22": {
+        "sender": "54259127210155@lid",
+        "text": "Ainda pensei \"tô com a mente poluída\"",
+        "pushName": "Leandro",
+        "timestamp": 1787888132058
+      },
+      "ACDE7D2246BC9353F0A134DD82E1CF2B": {
+        "sender": "145381035905262@lid",
+        "text": "Vocês tão muito fafadin",
+        "pushName": "Gabriel",
+        "timestamp": 1787888145272
+      },
+      "ACA12D9DBD5594C77D96A9D833A84CBD": {
+        "sender": "145381035905262@lid",
+        "text": "Agora confundir meu sobrenome foi puta sacanagem",
+        "pushName": "Gabriel",
+        "timestamp": 1787888160271
       }
     },
     "120363411233423709@g.us": {
@@ -190051,7 +190103,7 @@
     "120363432018531082@g.us": 1787887872075,
     "120363428464897153@g.us": 1787888004951,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787888114683,
+    "120363412288900422@g.us": 1787888160271,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
