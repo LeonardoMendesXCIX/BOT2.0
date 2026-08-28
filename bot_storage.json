@@ -2904,9 +2904,9 @@
         "total": 1
       },
       "92629643563147": {
-        "text": 563,
-        "media": 375,
-        "total": 938
+        "text": 564,
+        "media": 376,
+        "total": 940
       },
       "122552932372575": {
         "text": 0,
@@ -3119,9 +3119,9 @@
         "total": 3
       },
       "57561571176651": {
-        "text": 34,
+        "text": 35,
         "media": 49,
-        "total": 83
+        "total": 84
       },
       "201257922908323": {
         "text": 3,
@@ -13637,7 +13637,9 @@
         "Souza (190864487919667): Rapaz",
         "Camila Designer (92629643563147): @190864487919667 não consegui avaliar direito sua foto, tem como reenviar 😌",
         "Souza (190864487919667): Pessoal tá devagar hoje",
-        "Souza (190864487919667): Cortada ou completa?"
+        "Souza (190864487919667): Cortada ou completa?",
+        "Camila Designer (92629643563147): Completa por favor",
+        "LUCIANO (57561571176651): Eita kkkk"
       ]
     },
     "120363409727467494@g.us": {
@@ -16526,6 +16528,18 @@
         "authorName": "Souza",
         "text": "Cortada ou completa?",
         "timestamp": 1787878838905
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Completa por favor",
+        "timestamp": 1787878861913
+      },
+      {
+        "authorNum": "57561571176651",
+        "authorName": "LUCIANO",
+        "text": "Eita kkkk",
+        "timestamp": 1787878872957
       }
     ],
     "120363409727467494@g.us": [],
@@ -16636,7 +16650,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 21031,
-    "120363428464897153@g.us": 6098,
+    "120363428464897153@g.us": 6100,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1711,
     "120363411233423709@g.us": 5,
@@ -16767,6 +16781,12 @@
       "chatId": "120363428464897153@g.us",
       "newMemberId": "274384656834700@lid",
       "runAt": 1787879654249
+    },
+    {
+      "id": "1787878878892_75797868064796@lid",
+      "chatId": "120363428464897153@g.us",
+      "newMemberId": "75797868064796@lid",
+      "runAt": 1787879778892
     }
   ],
   "pendingPresentations": [],
@@ -172755,6 +172775,18 @@
         "text": "Cortada ou completa?",
         "pushName": "Souza",
         "timestamp": 1787878838905
+      },
+      "2AED2B575DF9B54286B4": {
+        "sender": "92629643563147@lid",
+        "text": "Completa por favor",
+        "pushName": "Camila Designer",
+        "timestamp": 1787878861913
+      },
+      "AC841E24B431A1EDB1FB9DC0D9DB1B8A": {
+        "sender": "57561571176651@lid",
+        "text": "Eita kkkk",
+        "pushName": "LUCIANO",
+        "timestamp": 1787878872957
       }
     },
     "120363409727467494@g.us": {
@@ -186799,7 +186831,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787878669226,
-    "120363428464897153@g.us": 1787878848246,
+    "120363428464897153@g.us": 1787878872957,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787877736241,
     "120363411233423709@g.us": 1787113553426,
