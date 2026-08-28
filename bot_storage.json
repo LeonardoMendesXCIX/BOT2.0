@@ -2603,9 +2603,9 @@
         "total": 23
       },
       "190864487919667": {
-        "text": 219,
+        "text": 221,
         "media": 39,
-        "total": 258
+        "total": 260
       },
       "82227819987089": {
         "text": 2,
@@ -2798,9 +2798,9 @@
         "total": 5
       },
       "247020967165997": {
-        "text": 37,
+        "text": 38,
         "media": 9,
-        "total": 46
+        "total": 47
       },
       "206253020176458": {
         "text": 3,
@@ -10178,7 +10178,10 @@
         "Rafael Moura (57707230945348): Mas ce ta braba?",
         "Gabi 💋 (247020967165997): Eu tô é rindo",
         "Gabi 💋 (247020967165997): Da carência da pessoa",
-        "Pedro Henrique (172868239380659): Não é sobre minhas condições, falo no sentido no total tu vai num rodízio de churrasco por exemplo triplicou o valor"
+        "Pedro Henrique (172868239380659): Não é sobre minhas condições, falo no sentido no total tu vai num rodízio de churrasco por exemplo triplicou o valor",
+        "Souza (190864487919667): Isso isso",
+        "Souza (190864487919667): Liso tem que andar com liso",
+        "Gabi 💋 (247020967165997): Pedro adorei a \"briga\" pode ir trabalhar eu deixo ksksks"
       ]
     },
     "120363428464897153@g.us": {
@@ -17104,36 +17107,6 @@
       {
         "authorNum": "57707230945348",
         "authorName": "Rafael Moura",
-        "text": "É igual dinheiro, vai e vem 🤣",
-        "timestamp": 1787914426498
-      },
-      {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Alias Gabi é novata aqui ne👀",
-        "timestamp": 1787914443136
-      },
-      {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "Aline, Jhennifer",
-        "timestamp": 1787914458205
-      },
-      {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
-        "text": "So observo👀",
-        "timestamp": 1787914461989
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Eu soun",
-        "timestamp": 1787914462483
-      },
-      {
-        "authorNum": "57707230945348",
-        "authorName": "Rafael Moura",
         "text": "Se apresenta? 🙈",
         "timestamp": 1787914474757
       },
@@ -17850,6 +17823,24 @@
         "authorName": "Pedro Henrique",
         "text": "Não é sobre minhas condições, falo no sentido no total tu vai num rodízio de churrasco por exemplo triplicou o valor",
         "timestamp": 1787916213501
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Isso isso",
+        "timestamp": 1787916244468
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Liso tem que andar com liso",
+        "timestamp": 1787916271610
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Pedro adorei a \"briga\" pode ir trabalhar eu deixo ksksks",
+        "timestamp": 1787916274489
       }
     ],
     "120363428464897153@g.us": [],
@@ -17894,7 +17885,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21416,
+    "120363432018531082@g.us": 21419,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -140500,6 +140491,24 @@
         "text": "Não é sobre minhas condições, falo no sentido no total tu vai num rodízio de churrasco por exemplo triplicou o valor",
         "pushName": "Pedro Henrique",
         "timestamp": 1787916213501
+      },
+      "AC0527D1B2846228BDAB3EBB66F341BE": {
+        "sender": "190864487919667@lid",
+        "text": "Isso isso",
+        "pushName": "Souza",
+        "timestamp": 1787916244469
+      },
+      "AC0517C95B08EC3B10339BB7D3998CF0": {
+        "sender": "190864487919667@lid",
+        "text": "Liso tem que andar com liso",
+        "pushName": "Souza",
+        "timestamp": 1787916271610
+      },
+      "ACE6CA22F8763D5E594D9EDA1EEA929D": {
+        "sender": "247020967165997@lid",
+        "text": "Pedro adorei a \"briga\" pode ir trabalhar eu deixo ksksks",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787916274489
       }
     },
     "120363428464897153@g.us": {
@@ -193295,7 +193304,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787916239450,
+    "120363432018531082@g.us": 1787916274489,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
