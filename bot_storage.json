@@ -2603,9 +2603,9 @@
         "total": 24
       },
       "190864487919667": {
-        "text": 236,
+        "text": 238,
         "media": 41,
-        "total": 277
+        "total": 279
       },
       "82227819987089": {
         "text": 2,
@@ -2658,9 +2658,9 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 70,
+        "text": 71,
         "media": 14,
-        "total": 84
+        "total": 85
       },
       "172868239380659": {
         "text": 182,
@@ -2818,9 +2818,9 @@
         "total": 24
       },
       "238388519141379": {
-        "text": 3,
+        "text": 4,
         "media": 0,
-        "total": 3
+        "total": 4
       },
       "269625715650683": {
         "text": 1,
@@ -9865,8 +9865,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Leandro (+55 (11) 92701-8683): Pois bem",
-        "🦅⚡️😍 (163686253629557): Não da pra entrar",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @54259127210155",
         "🦅⚡️😍 (163686253629557): 🤔",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Ele deve saber o motivo",
@@ -10364,7 +10362,9 @@
         "Alexandre Bastos (75797868064796): E o seu",
         "Camila Designer (92629643563147): Eu dei uma pausa aqui, 10hrs chega minha próxima cliente 😌",
         "Alexandre Bastos (75797868064796): Bom",
-        "Camila Designer (92629643563147): Porque adulto faz o que precisa ser feito!😅😅😅"
+        "Camila Designer (92629643563147): Porque adulto faz o que precisa ser feito!😅😅😅",
+        "Souza (190864487919667): Só o dia mesmo",
+        "Nickolas (238388519141379): Verdade kkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -17436,6 +17436,18 @@
         "authorName": "Camila Designer",
         "text": "Porque adulto faz o que precisa ser feito!😅😅😅",
         "timestamp": 1787921439206
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Só o dia mesmo",
+        "timestamp": 1787921454744
+      },
+      {
+        "authorNum": "238388519141379",
+        "authorName": "Nickolas",
+        "text": "Verdade kkk",
+        "timestamp": 1787921488923
       }
     ],
     "120363428464897153@g.us": [],
@@ -17492,7 +17504,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21651,
+    "120363432018531082@g.us": 21653,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1999,
@@ -141508,6 +141520,18 @@
         "text": "Porque adulto faz o que precisa ser feito!😅😅😅",
         "pushName": "Camila Designer",
         "timestamp": 1787921439206
+      },
+      "ACF0BDF842538388DCF80E715F0D3246": {
+        "sender": "190864487919667@lid",
+        "text": "Só o dia mesmo",
+        "pushName": "Souza",
+        "timestamp": 1787921454744
+      },
+      "3A1C05AFE97E8528FF79": {
+        "sender": "238388519141379@lid",
+        "text": "Verdade kkk",
+        "pushName": "Nickolas",
+        "timestamp": 1787921488923
       }
     },
     "120363428464897153@g.us": {
@@ -194339,7 +194363,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787921439206,
+    "120363432018531082@g.us": 1787921493047,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787921346361,
