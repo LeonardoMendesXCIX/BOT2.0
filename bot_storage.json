@@ -3544,14 +3544,14 @@
         "total": 701
       },
       "145381035905262": {
-        "text": 485,
+        "text": 488,
         "media": 161,
-        "total": 646
+        "total": 649
       },
       "53537388122141": {
-        "text": 821,
+        "text": 823,
         "media": 62,
-        "total": 883
+        "total": 885
       },
       "120363412288900422": {
         "text": 1,
@@ -17020,7 +17020,12 @@
         "Gabriel (145381035905262): Isso não faz mulher",
         "Gabriel (145381035905262): Se faz",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Ué, um dragão",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Quer o que?"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Quer o que?",
+        "Gabriel (145381035905262): Tá no nosso grupo?",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Não",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Mas ele quer entrar pra exibir o dragão dele",
+        "Gabriel (145381035905262): Mas porque ele iria querer mostrar o dragão ?",
+        "Gabriel (145381035905262): Deixa entrar"
       ]
     },
     "120363411233423709@g.us": {
@@ -17823,12 +17828,6 @@
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Eu tava pensando nisso mesmo...\nCriamos um grupo de figurinhas. Será que não era mais fácil associar no bot, ao invés de caçar no grupo?",
-        "timestamp": 1787956264463
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "As músicas estão funcionando?",
         "timestamp": 1787956367157
       },
@@ -18065,6 +18064,36 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Quer o que?",
         "timestamp": 1787958036056
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Tá no nosso grupo?",
+        "timestamp": 1787958062997
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Não",
+        "timestamp": 1787958078728
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Mas ele quer entrar pra exibir o dragão dele",
+        "timestamp": 1787958090312
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Mas porque ele iria querer mostrar o dragão ?",
+        "timestamp": 1787958097890
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Deixa entrar",
+        "timestamp": 1787958101845
       }
     ],
     "120363411233423709@g.us": [],
@@ -18084,7 +18113,7 @@
     "120363432018531082@g.us": 22567,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2145,
+    "120363412288900422@g.us": 2150,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -198476,6 +198505,36 @@
         "text": "Quer o que?",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787958036056
+      },
+      "ACB06D275E080E97C2A2B873BD63C7D4": {
+        "sender": "145381035905262@lid",
+        "text": "Tá no nosso grupo?",
+        "pushName": "Gabriel",
+        "timestamp": 1787958062997
+      },
+      "AC4251DFC9676D4D8D66B6594920AD1D": {
+        "sender": "53537388122141@lid",
+        "text": "Não",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787958078728
+      },
+      "ACF6644D631F7752E2236FCDA2815326": {
+        "sender": "53537388122141@lid",
+        "text": "Mas ele quer entrar pra exibir o dragão dele",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787958090312
+      },
+      "AC7CEBA767B060E6018B8DB59773B790": {
+        "sender": "145381035905262@lid",
+        "text": "Mas porque ele iria querer mostrar o dragão ?",
+        "pushName": "Gabriel",
+        "timestamp": 1787958097890
+      },
+      "AC8BB91E23F2CB8888F0181CBEB23D07": {
+        "sender": "145381035905262@lid",
+        "text": "Deixa entrar",
+        "pushName": "Gabriel",
+        "timestamp": 1787958101846
       }
     },
     "120363411233423709@g.us": {
@@ -201360,7 +201419,7 @@
     "120363432018531082@g.us": 1787958057296,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787958036056,
+    "120363412288900422@g.us": 1787958101845,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
