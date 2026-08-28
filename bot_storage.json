@@ -2833,9 +2833,9 @@
         "total": 4
       },
       "78143406768201": {
-        "text": 1,
+        "text": 3,
         "media": 0,
-        "total": 1
+        "total": 3
       },
       "227783724793861": {
         "text": 1,
@@ -9885,8 +9885,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "eduardo (37826582323373): e babando",
-        "eduardo (37826582323373): Kkkkk",
         "Alexandre Bastos (75797868064796): Kkkkk",
         "Dáfi (56603776680152): Bom dia gente",
         "Alexandre Bastos (75797868064796): Bom dia",
@@ -10384,7 +10382,9 @@
         "F. RicaRdo sAnToS (193729163993156): Bem vinda",
         "May (227783724793861): Obrigada 🫶",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): 🫶🏻🫶🏻",
-        "Alexandre Henrique (165687523848431): Bom dia a todos."
+        "Alexandre Henrique (165687523848431): Bom dia a todos.",
+        "Kamila (78143406768201): Obrigada",
+        "Kamila (78143406768201): Brigada"
       ]
     },
     "120363428464897153@g.us": {
@@ -17324,18 +17324,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "83911531044906",
-        "authorName": "~Gará",
-        "text": "Tédio",
-        "timestamp": 1787922107500
-      },
-      {
-        "authorNum": "206253020176458",
-        "authorName": "Arthur",
-        "text": "Eoq",
-        "timestamp": 1787922173781
-      },
-      {
         "authorNum": "193729163993156",
         "authorName": "F. RicaRdo sAnToS",
         "text": "Parece que o povo tem tesao em pão 🍞 e com alguma sobremesa kk",
@@ -17514,6 +17502,18 @@
         "authorName": "Alexandre Henrique",
         "text": "Bom dia a todos.",
         "timestamp": 1787923827436
+      },
+      {
+        "authorNum": "78143406768201",
+        "authorName": "Kamila",
+        "text": "Obrigada",
+        "timestamp": 1787923991671
+      },
+      {
+        "authorNum": "78143406768201",
+        "authorName": "Kamila",
+        "text": "Brigada",
+        "timestamp": 1787923998856
       }
     ],
     "120363428464897153@g.us": [],
@@ -17570,7 +17570,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21693,
+    "120363432018531082@g.us": 21695,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2009,
@@ -141831,6 +141831,18 @@
         "text": "Bom dia a todos.",
         "pushName": "Alexandre Henrique",
         "timestamp": 1787923827436
+      },
+      "AC1D791BDAE8074FBEB6423AB1F5AC6F": {
+        "sender": "78143406768201@lid",
+        "text": "Obrigada",
+        "pushName": "Kamila",
+        "timestamp": 1787923991671
+      },
+      "AC941F183BF7BA83E352D465D6808D72": {
+        "sender": "78143406768201@lid",
+        "text": "Brigada",
+        "pushName": "Kamila",
+        "timestamp": 1787923998856
       }
     },
     "120363428464897153@g.us": {
@@ -194722,7 +194734,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787923827436,
+    "120363432018531082@g.us": 1787923998856,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787923699618,
