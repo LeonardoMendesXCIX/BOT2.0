@@ -2708,9 +2708,9 @@
         "total": 2
       },
       "108461127897146": {
-        "text": 55,
+        "text": 56,
         "media": 5,
-        "total": 60
+        "total": 61
       },
       "10050861031495": {
         "text": 0,
@@ -9900,7 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Gabi 💋 (247020967165997): Eu tô é rindo",
         "Rafael Moura (57707230945348): Epa ta rolando briga?",
         "Pedro Henrique (172868239380659): Nada",
         "Pedro Henrique (172868239380659): Ela tem um ponto e eu tenho outro",
@@ -10399,7 +10398,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): É uma foto viu? 👀",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Fotos assim, Kabaré",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Por nada 🥰",
-        "Gleydson Souza (274384656834700): Ue so to mostrando a mensagem"
+        "Gleydson Souza (274384656834700): Ue so to mostrando a mensagem",
+        "jaciara (108461127897146): Uma moça"
       ]
     },
     "120363428464897153@g.us": {
@@ -17342,12 +17342,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Eu também 🤣🤣🤣",
-        "timestamp": 1787927877123
-      },
-      {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Obrigada pelo elogio 🥹",
@@ -17868,6 +17862,12 @@
         "authorName": "Gleydson Souza",
         "text": "Ue so to mostrando a mensagem",
         "timestamp": 1787929654515
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Uma moça",
+        "timestamp": 1787929683269
       }
     ],
     "120363428464897153@g.us": [],
@@ -17894,7 +17894,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21901,
+    "120363432018531082@g.us": 21902,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -143390,6 +143390,12 @@
         "text": "Ue so to mostrando a mensagem",
         "pushName": "Gleydson Souza",
         "timestamp": 1787929654515
+      },
+      "AC296CA2F7C89FEAB46A2B7DE9D57F7A": {
+        "sender": "108461127897146@lid",
+        "text": "Uma moça",
+        "pushName": "jaciara",
+        "timestamp": 1787929683269
       }
     },
     "120363428464897153@g.us": {
@@ -196299,7 +196305,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787929654515,
+    "120363432018531082@g.us": 1787929683269,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
