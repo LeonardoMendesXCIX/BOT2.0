@@ -188,9 +188,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2224,
+        "text": 2225,
         "media": 472,
-        "total": 2696
+        "total": 2697
       },
       "184237705699536": {
         "text": 524,
@@ -378,14 +378,14 @@
         "total": 3
       },
       "163530946961491": {
-        "text": 413,
+        "text": 414,
         "media": 72,
-        "total": 485
+        "total": 486
       },
       "222595437858867": {
-        "text": 519,
+        "text": 520,
         "media": 55,
-        "total": 574
+        "total": 575
       },
       "83280154103884": {
         "text": 36,
@@ -9950,8 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Alexandre Bastos (75797868064796): Bem vinda",
-        "Souza (190864487919667): E quase xará",
         "Nanda (263797142995147): brigadaa",
         "Nanda (263797142995147): e gente fazendo oq em plena sexta?",
         "Souza (190864487919667): Trabalhar né",
@@ -10449,7 +10447,9 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Ia passar uma vergonha",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Exatamente",
         "Celiete Souza (129373172711439): Acabei de ver morri rindo 😂",
-        "Celiete Souza (129373172711439): Boazinha hoje 🙏🏼"
+        "Celiete Souza (129373172711439): Boazinha hoje 🙏🏼",
+        "Gabriel (145381035905262): O povo inventa 😂😂",
+        "Juliano Perlin (222595437858867): Que bomm🙌🏻🤗"
       ]
     },
     "120363428464897153@g.us": {
@@ -17469,18 +17469,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Boaaa",
-        "timestamp": 1787939779033
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Taaaarrrde",
-        "timestamp": 1787939787447
-      },
-      {
         "authorNum": "222595437858867",
         "authorName": "Juliano Perlin",
         "text": "Oii fofa🤗",
@@ -18061,6 +18049,18 @@
         "authorName": "Celiete Souza",
         "text": "Boazinha hoje 🙏🏼",
         "timestamp": 1787941570724
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "O povo inventa 😂😂",
+        "timestamp": 1787941578545
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Que bomm🙌🏻🤗",
+        "timestamp": 1787941591752
       }
     ],
     "120363428464897153@g.us": [],
@@ -18153,7 +18153,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22241,
+    "120363432018531082@g.us": 22243,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2075,
@@ -145670,6 +145670,18 @@
         "text": "Boazinha hoje 🙏🏼",
         "pushName": "Celiete Souza",
         "timestamp": 1787941570724
+      },
+      "AC2550C77F14D583C967D06E9F0131DC": {
+        "sender": "145381035905262@lid",
+        "text": "O povo inventa 😂😂",
+        "pushName": "Gabriel",
+        "timestamp": 1787941578545
+      },
+      "AC6A100CEE4BC2F9E92EF3875CFDB81A": {
+        "sender": "222595437858867@lid",
+        "text": "Que bomm🙌🏻🤗",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1787941591752
       }
     },
     "120363428464897153@g.us": {
@@ -199041,7 +199053,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787941570724,
+    "120363432018531082@g.us": 1787941591752,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787940055842,
