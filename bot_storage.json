@@ -2803,9 +2803,9 @@
         "total": 155
       },
       "206253020176458": {
-        "text": 33,
+        "text": 34,
         "media": 9,
-        "total": 42
+        "total": 43
       },
       "210152934359048": {
         "text": 16,
@@ -9940,7 +9940,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Gabi 💋 (247020967165997): Menino ele foi cortado",
         "Gabi 💋 (247020967165997): Tá na Netflix",
         "Gabi 💋 (247020967165997): Olha lá o filme",
         "Pedro Henrique (172868239380659): Qual o nome?",
@@ -10439,7 +10438,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Acesse este link para entrar no meu grupo do WhatsApp: https://chat.whatsapp.com/LjudUJTLkZQDIyER0LAwHJ?s=sh&p=a&mlu=0",
         "Nanda (263797142995147): nem",
         "Bruno Aguiar (+1395881181241): 👀",
-        "Arthur (206253020176458): Kkkkkk"
+        "Arthur (206253020176458): Kkkkkk",
+        "Arthur (206253020176458): E vc faz oq de bom agr"
       ]
     },
     "120363428464897153@g.us": {
@@ -17508,6 +17508,12 @@
         "authorName": "Arthur",
         "text": "Kkkkkk",
         "timestamp": 1787936971869
+      },
+      {
+        "authorNum": "206253020176458",
+        "authorName": "Arthur",
+        "text": "E vc faz oq de bom agr",
+        "timestamp": 1787937013330
       }
     ],
     "120363428464897153@g.us": [],
@@ -17546,7 +17552,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22093,
+    "120363432018531082@g.us": 22094,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2024,
@@ -144181,6 +144187,12 @@
         "text": "Kkkkkk",
         "pushName": "Arthur",
         "timestamp": 1787936971869
+      },
+      "ACDBBC15B85C5F370BCB79B33A01D2C8": {
+        "sender": "206253020176458@lid",
+        "text": "E vc faz oq de bom agr",
+        "pushName": "Arthur",
+        "timestamp": 1787937013330
       }
     },
     "120363428464897153@g.us": {
@@ -197246,7 +197258,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787936971869,
+    "120363432018531082@g.us": 1787937013330,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787936837794,
