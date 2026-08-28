@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2340,
+        "text": 2341,
         "media": 327,
-        "total": 2667
+        "total": 2668
       },
       "252922705240205": {
         "text": 80,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "jaciara (108461127897146): Cê tá bem ?",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Já tomeeeeei 😂😂",
         "Camila Designer (92629643563147): Sim ☺️",
         "Camila Designer (92629643563147): E com você @108461127897146 ?",
@@ -10449,7 +10448,8 @@
         "jaciara (108461127897146): Podem falar mais sobre o empreendimento kkkkkk",
         "May (227783724793861): Você aquiiiii hahaha",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Pinto de preto Azulado\nJá fui ruiva\nCor natural é castanho claro",
-        "Bruno Aguiar (+1395881181241): Humm vc ruiva"
+        "Bruno Aguiar (+1395881181241): Humm vc ruiva",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Já fui 😂😂"
       ]
     },
     "120363428464897153@g.us": {
@@ -17604,6 +17604,12 @@
         "authorName": "Bruno Aguiar",
         "text": "Humm vc ruiva",
         "timestamp": 1787946566071
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Já fui 😂😂",
+        "timestamp": 1787946635431
       }
     ],
     "120363428464897153@g.us": [],
@@ -17630,7 +17636,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22335,
+    "120363432018531082@g.us": 22336,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -145699,6 +145705,12 @@
         "text": "Humm vc ruiva",
         "pushName": "Bruno Aguiar",
         "timestamp": 1787946566071
+      },
+      "AC83BBB73CAFE8C983DF00210464CAD2": {
+        "sender": "53537388122141@lid",
+        "text": "Já fui 😂😂",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787946635431
       }
     },
     "120363428464897153@g.us": {
@@ -199172,7 +199184,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787946566071,
+    "120363432018531082@g.us": 1787946635431,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
