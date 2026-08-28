@@ -2803,9 +2803,9 @@
         "total": 155
       },
       "206253020176458": {
-        "text": 25,
+        "text": 26,
         "media": 7,
-        "total": 32
+        "total": 33
       },
       "210152934359048": {
         "text": 16,
@@ -9930,7 +9930,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Gleydson Souza (274384656834700): Bom dia a todos @todos",
         "Pedro Henrique (172868239380659): Tmj.\n\nA verdade é que tem homens aqui que pensa a mesma coisa, só não concorda pq tem medo do cancelamento",
         "Gabi 💋 (247020967165997): Menino para com isso \nNinguém gostar de beijar puta com sabor p..... Não",
         "Gabi 💋 (247020967165997): Bora Rafael",
@@ -10429,7 +10428,8 @@
         "Kamila (78143406768201): Oiê gente",
         "~Gará (83911531044906): Oiii",
         "Kamila (78143406768201): Tudo bem",
-        "~Gará (83911531044906): Tudo,e vc como ta?"
+        "~Gará (83911531044906): Tudo,e vc como ta?",
+        "Arthur (206253020176458): Ss e com vc"
       ]
     },
     "120363428464897153@g.us": {
@@ -17383,18 +17383,6 @@
       {
         "authorNum": "129373172711439",
         "authorName": "Celiete Souza",
-        "text": "Aí complica, na minha opinião o homem que for cavalheiro não deixa isto acontecer",
-        "timestamp": 1787930964944
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Hoje me dia os homens querem ir pra casa da mulher no primeiro encontro kkkkkk",
-        "timestamp": 1787930999259
-      },
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
         "text": "Isso vai depender da conexão, na minha opinião pode sim acontecer e ser maravilhoso",
         "timestamp": 1787931013442
       },
@@ -17775,6 +17763,12 @@
         "authorName": "~Gará",
         "text": "Tudo,e vc como ta?",
         "timestamp": 1787932739157
+      },
+      {
+        "authorNum": "206253020176458",
+        "authorName": "Arthur",
+        "text": "Ss e com vc",
+        "timestamp": 1787932800158
       }
     ],
     "120363428464897153@g.us": [],
@@ -17849,7 +17843,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22031,
+    "120363432018531082@g.us": 22032,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -144113,6 +144107,12 @@
         "text": "Tudo,e vc como ta?",
         "pushName": "~Gará",
         "timestamp": 1787932739157
+      },
+      "AC2326B3775E28C9C14AF46E33B44EB8": {
+        "sender": "206253020176458@lid",
+        "text": "Ss e com vc",
+        "pushName": "Arthur",
+        "timestamp": 1787932800158
       }
     },
     "120363428464897153@g.us": {
@@ -197076,7 +197076,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787932739157,
+    "120363432018531082@g.us": 1787932800158,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
