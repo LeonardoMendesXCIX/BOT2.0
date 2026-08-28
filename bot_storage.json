@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2270,
+        "text": 2271,
         "media": 309,
-        "total": 2579
+        "total": 2580
       },
       "252922705240205": {
         "text": 80,
@@ -2603,9 +2603,9 @@
         "total": 26
       },
       "190864487919667": {
-        "text": 248,
+        "text": 250,
         "media": 42,
-        "total": 290
+        "total": 292
       },
       "82227819987089": {
         "text": 2,
@@ -2628,9 +2628,9 @@
         "total": 46
       },
       "75797868064796": {
-        "text": 32,
+        "text": 33,
         "media": 90,
-        "total": 122
+        "total": 123
       },
       "153764728184839": {
         "text": 2,
@@ -2858,9 +2858,9 @@
         "total": 4
       },
       "263797142995147": {
-        "text": 3,
+        "text": 4,
         "media": 1,
-        "total": 4
+        "total": 5
       }
     },
     "120363428464897153@g.us": {
@@ -9900,10 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Gabi 💋 (247020967165997): Obrigada",
-        "Rafael Moura (57707230945348): Bom dia 😴",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Bem vindaaa 🩷",
-        "Gabi 💋 (247020967165997): Obrigada",
         "Souza (190864487919667): Hoje office? Bom demaize",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): N foi contigo meu amor",
         "Van Librelon (68247365931226): Hoje sim 😌",
@@ -10399,7 +10395,11 @@
         "Souza (190864487919667): Bem vinda",
         "Nanda (263797142995147): brigada lkk",
         "Nanda (263797142995147): é de fortaleza tmb?",
-        "Nanda (263797142995147): eu moro entre fortaleza e maracanaú"
+        "Nanda (263797142995147): eu moro entre fortaleza e maracanaú",
+        "Souza (190864487919667): No no, nascido em salvador, atualmente em Brasília",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindaaa",
+        "Alexandre Bastos (75797868064796): Bem vinda",
+        "Souza (190864487919667): E quase xará"
       ]
     },
     "120363428464897153@g.us": {
@@ -17340,12 +17340,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "147940920283293",
-        "authorName": "fé !",
-        "text": "Diferente dos iguais aí sim 👌",
-        "timestamp": 1787924762383
-      },
-      {
         "authorNum": "78143406768201",
         "authorName": "Kamila",
         "text": "Brigada",
@@ -17524,6 +17518,30 @@
         "authorName": "Nanda",
         "text": "eu moro entre fortaleza e maracanaú",
         "timestamp": 1787926536055
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "No no, nascido em salvador, atualmente em Brasília",
+        "timestamp": 1787926544724
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Bem vindaaa",
+        "timestamp": 1787926560686
+      },
+      {
+        "authorNum": "75797868064796",
+        "authorName": "Alexandre Bastos",
+        "text": "Bem vinda",
+        "timestamp": 1787926562432
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "E quase xará",
+        "timestamp": 1787926565815
       }
     ],
     "120363428464897153@g.us": [],
@@ -17550,7 +17568,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21738,
+    "120363432018531082@g.us": 21742,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2010,
@@ -142075,6 +142093,30 @@
         "text": "eu moro entre fortaleza e maracanaú",
         "pushName": "Nanda",
         "timestamp": 1787926536055
+      },
+      "AC45CE2882F249C2CCF47D5551CD064A": {
+        "sender": "190864487919667@lid",
+        "text": "No no, nascido em salvador, atualmente em Brasília",
+        "pushName": "Souza",
+        "timestamp": 1787926544724
+      },
+      "AC55E8960B01FA4DC62EFBBACD647A44": {
+        "sender": "53537388122141@lid",
+        "text": "Bem vindaaa",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787926560687
+      },
+      "AC94AE1E98D4CE1E28F8DDD602401055": {
+        "sender": "75797868064796@lid",
+        "text": "Bem vinda",
+        "pushName": "Alexandre Bastos",
+        "timestamp": 1787926562432
+      },
+      "AC2575515C2DE4F87330DB3123197BDD": {
+        "sender": "190864487919667@lid",
+        "text": "E quase xará",
+        "pushName": "Souza",
+        "timestamp": 1787926565815
       }
     },
     "120363428464897153@g.us": {
@@ -194972,7 +195014,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787926536055,
+    "120363432018531082@g.us": 1787926565815,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787924999186,
