@@ -1863,9 +1863,9 @@
         "total": 6
       },
       "1395881181241": {
-        "text": 135,
+        "text": 136,
         "media": 5,
-        "total": 140
+        "total": 141
       },
       "198595546501333": {
         "text": 2,
@@ -1953,9 +1953,9 @@
         "total": 5
       },
       "83911531044906": {
-        "text": 51,
+        "text": 53,
         "media": 2,
-        "total": 53
+        "total": 55
       },
       "172864548434113": {
         "text": 42,
@@ -2658,9 +2658,9 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 83,
+        "text": 85,
         "media": 14,
-        "total": 97
+        "total": 99
       },
       "172868239380659": {
         "text": 182,
@@ -9900,7 +9900,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Souza (190864487919667): A pista só tá salgada pra quem não sabe andar",
         "Alexandre Bastos (75797868064796): Vc que disse",
         "Pedro Henrique (172868239380659): Se não for pensar na intenção é melhor ficar em casa",
         "Pedro Henrique (172868239380659): Sem ser no cabaré",
@@ -10399,7 +10398,8 @@
         "F. RicaRdo sAnToS (193729163993156): De costas tbm ķkk",
         "Bruno Aguiar (+1395881181241): Merece🫶🏼",
         "Souza (190864487919667): Só tem maluco no grupo 😂😂😂",
-        "jaciara (108461127897146): Fazemos algumas exigências kkkkk"
+        "jaciara (108461127897146): Fazemos algumas exigências kkkkk",
+        "~Gará (83911531044906): Manda a lista"
       ]
     },
     "120363428464897153@g.us": {
@@ -17778,6 +17778,12 @@
         "authorName": "jaciara",
         "text": "Fazemos algumas exigências kkkkk",
         "timestamp": 1787929260145
+      },
+      {
+        "authorNum": "83911531044906",
+        "authorName": "~Gará",
+        "text": "Manda a lista",
+        "timestamp": 1787929277745
       }
     ],
     "120363428464897153@g.us": [],
@@ -17804,7 +17810,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21883,
+    "120363432018531082@g.us": 21884,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2012,
@@ -143192,6 +143198,12 @@
         "text": "Fazemos algumas exigências kkkkk",
         "pushName": "jaciara",
         "timestamp": 1787929260145
+      },
+      "AC2CB53DE391890C14158C2D8E34017C": {
+        "sender": "83911531044906@lid",
+        "text": "Manda a lista",
+        "pushName": "~Gará",
+        "timestamp": 1787929277745
       }
     },
     "120363428464897153@g.us": {
@@ -196101,7 +196113,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787929260145,
+    "120363432018531082@g.us": 1787929277745,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787928156943,
