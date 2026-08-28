@@ -173,9 +173,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1650,
+        "text": 1651,
         "media": 457,
-        "total": 2107
+        "total": 2108
       },
       "81991328395336": {
         "text": 3945,
@@ -2708,9 +2708,9 @@
         "total": 2
       },
       "108461127897146": {
-        "text": 116,
-        "media": 14,
-        "total": 130
+        "text": 117,
+        "media": 15,
+        "total": 132
       },
       "10050861031495": {
         "text": 0,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Celiete Souza (129373172711439): Passando pra dar uma olhada ❤️",
         "Celiete Souza (129373172711439): Mas acompanhar está difícil",
         "Celiete Souza (129373172711439): O que está rolando neste momento, me atualizem kkkkk",
         "Souza (190864487919667): Tem gente de olho na grávida",
@@ -10449,7 +10448,8 @@
         "Celiete Souza (129373172711439): Bem simples né",
         "Gabriel Ohi (90130358485223): Verdade kkkkkk",
         "Celiete Souza (129373172711439): Gostei",
-        "Gabriel Ohi (90130358485223): O foda é quando os feios se colocam no pedestal 😂😂😂😂😂"
+        "Gabriel Ohi (90130358485223): O foda é quando os feios se colocam no pedestal 😂😂😂😂😂",
+        "jaciara (108461127897146): Provavelmente outro feio andou iludindo"
       ]
     },
     "120363428464897153@g.us": {
@@ -17487,12 +17487,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "1395881181241",
-        "authorName": "Bruno Aguiar",
-        "text": "Né",
-        "timestamp": 1787947424049
-      },
-      {
         "authorNum": "108461127897146",
         "authorName": "jaciara",
         "text": "Isso mesmo",
@@ -17929,6 +17923,12 @@
         "authorName": "Gabriel Ohi",
         "text": "O foda é quando os feios se colocam no pedestal 😂😂😂😂😂",
         "timestamp": 1787949218225
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Provavelmente outro feio andou iludindo",
+        "timestamp": 1787949257617
       }
     ],
     "120363428464897153@g.us": [],
@@ -17955,7 +17955,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22436,
+    "120363432018531082@g.us": 22437,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -146630,6 +146630,12 @@
         "text": "O foda é quando os feios se colocam no pedestal 😂😂😂😂😂",
         "pushName": "Gabriel Ohi",
         "timestamp": 1787949218226
+      },
+      "AC74164F23D0AE63F8BE55814EC07A3B": {
+        "sender": "108461127897146@lid",
+        "text": "Provavelmente outro feio andou iludindo",
+        "pushName": "jaciara",
+        "timestamp": 1787949257617
       }
     },
     "120363428464897153@g.us": {
@@ -200109,7 +200115,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787949218225,
+    "120363432018531082@g.us": 1787949257617,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
