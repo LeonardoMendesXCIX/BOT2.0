@@ -2673,9 +2673,9 @@
         "total": 3
       },
       "193729163993156": {
-        "text": 17,
+        "text": 18,
         "media": 5,
-        "total": 22
+        "total": 23
       },
       "151582733820115": {
         "text": 5,
@@ -2838,9 +2838,9 @@
         "total": 1
       },
       "227783724793861": {
-        "text": 0,
+        "text": 1,
         "media": 1,
-        "total": 1
+        "total": 2
       },
       "159304631980141": {
         "text": 1,
@@ -9885,8 +9885,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Leandro (+55 (11) 92701-8683): Pois então",
-        "Alexandre Bastos (75797868064796): Vamos mais um dia",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Vms",
         "eduardo (37826582323373): ne isso",
         "eduardo (37826582323373): e babando",
@@ -10384,7 +10382,9 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vinda!!!",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vinda",
         "Alexandre Bastos (75797868064796): Bem vinda",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Óia quem tá aqui\nBem vinda May"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Óia quem tá aqui\nBem vinda May",
+        "F. RicaRdo sAnToS (193729163993156): Bem vinda",
+        "May (227783724793861): Obrigada 🫶"
       ]
     },
     "120363428464897153@g.us": {
@@ -17502,6 +17502,18 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Óia quem tá aqui\nBem vinda May",
         "timestamp": 1787923724418
+      },
+      {
+        "authorNum": "193729163993156",
+        "authorName": "F. RicaRdo sAnToS",
+        "text": "Bem vinda",
+        "timestamp": 1787923744544
+      },
+      {
+        "authorNum": "227783724793861",
+        "authorName": "May",
+        "text": "Obrigada 🫶",
+        "timestamp": 1787923752058
       }
     ],
     "120363428464897153@g.us": [],
@@ -17558,7 +17570,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21689,
+    "120363432018531082@g.us": 21691,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2009,
@@ -141795,6 +141807,18 @@
         "text": "Óia quem tá aqui\nBem vinda May",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787923724418
+      },
+      "AC880AAFEFF4A38987F0E6F82DD5219D": {
+        "sender": "193729163993156@lid",
+        "text": "Bem vinda",
+        "pushName": "F. RicaRdo sAnToS",
+        "timestamp": 1787923744544
+      },
+      "ACFE3685E539771AE01397717005803F": {
+        "sender": "227783724793861@lid",
+        "text": "Obrigada 🫶",
+        "pushName": "May",
+        "timestamp": 1787923752058
       }
     },
     "120363428464897153@g.us": {
@@ -194686,7 +194710,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787923724418,
+    "120363432018531082@g.us": 1787923752058,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787923699618,
