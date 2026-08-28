@@ -2838,9 +2838,9 @@
         "total": 8
       },
       "227783724793861": {
-        "text": 21,
+        "text": 22,
         "media": 1,
-        "total": 22
+        "total": 23
       },
       "159304631980141": {
         "text": 1,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Souza (190864487919667): Boa Jaci",
         "jaciara (108461127897146): Tá bem ?",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Obrigada 🥹",
         "jaciara (108461127897146): Cê tá bem ?",
@@ -10449,7 +10448,8 @@
         "Celiete Souza (129373172711439): Tu também kkk",
         "Celiete Souza (129373172711439): Não podemos perder a fé",
         "Celiete Souza (129373172711439): Agora vou ter um tempinho a mais de repente, ai me chamem lá 😘",
-        "jaciara (108461127897146): Podem falar mais sobre o empreendimento kkkkkk"
+        "jaciara (108461127897146): Podem falar mais sobre o empreendimento kkkkkk",
+        "May (227783724793861): Você aquiiiii hahaha"
       ]
     },
     "120363428464897153@g.us": {
@@ -17592,6 +17592,12 @@
         "authorName": "jaciara",
         "text": "Podem falar mais sobre o empreendimento kkkkkk",
         "timestamp": 1787946412599
+      },
+      {
+        "authorNum": "227783724793861",
+        "authorName": "May",
+        "text": "Você aquiiiii hahaha",
+        "timestamp": 1787946477113
       }
     ],
     "120363428464897153@g.us": [],
@@ -17618,7 +17624,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22332,
+    "120363432018531082@g.us": 22333,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -145669,6 +145675,12 @@
         "text": "Podem falar mais sobre o empreendimento kkkkkk",
         "pushName": "jaciara",
         "timestamp": 1787946412599
+      },
+      "ACCAB1F68869023EC3D34FA18C78E7B3": {
+        "sender": "227783724793861@lid",
+        "text": "Você aquiiiii hahaha",
+        "pushName": "May",
+        "timestamp": 1787946477114
       }
     },
     "120363428464897153@g.us": {
@@ -199142,7 +199154,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787946454618,
+    "120363432018531082@g.us": 1787946477113,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
