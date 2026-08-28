@@ -698,9 +698,9 @@
         "total": 95
       },
       "57707230945348": {
-        "text": 1220,
+        "text": 1221,
         "media": 226,
-        "total": 1446
+        "total": 1447
       },
       "152218690924790": {
         "text": 309,
@@ -2213,9 +2213,9 @@
         "total": 33
       },
       "240716089413724": {
-        "text": 33,
+        "text": 34,
         "media": 1,
-        "total": 34
+        "total": 35
       },
       "260426164125939": {
         "text": 90,
@@ -2838,9 +2838,9 @@
         "total": 8
       },
       "227783724793861": {
-        "text": 7,
+        "text": 9,
         "media": 1,
-        "total": 8
+        "total": 10
       },
       "159304631980141": {
         "text": 1,
@@ -9930,10 +9930,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Pedro Henrique (172868239380659): Se Deus escreveu quem sou eu pra falar algo",
-        "Gabi 💋 (247020967165997): É por isso que vai no cabaré né meu filho",
-        "Gabi 💋 (247020967165997): Eu entendo",
-        "Rafael Moura (57707230945348): 😏",
         "Pedro Henrique (172868239380659): É pra não cobiça a mulher do próximo",
         "Gabi 💋 (247020967165997): Lá mulher aceita ser submissa mente que ama e",
         "Pedro Henrique (172868239380659): 😂😂😂😂",
@@ -10429,7 +10425,11 @@
         "Wagner Cabral (240716089413724): Tá lascado",
         "May (227783724793861): Nossa\nQue inveja hahaha",
         "Wagner Cabral (240716089413724): Kkkkkkk",
-        "May (227783724793861): Aqui eu já n senti inveja kkkkk"
+        "May (227783724793861): Aqui eu já n senti inveja kkkkk",
+        "Wagner Cabral (240716089413724): Inveja eu tenho disso aqui",
+        "May (227783724793861): Bloqueia adm",
+        "May (227783724793861): Ninguém merece 😔",
+        "Rafael Moura (57707230945348): ?"
       ]
     },
     "120363428464897153@g.us": {
@@ -17389,18 +17389,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "1395881181241",
-        "authorName": "Bruno Aguiar",
-        "text": "E a faca pegou 🔪🔪",
-        "timestamp": 1787932304745
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Bem isso",
-        "timestamp": 1787932326116
-      },
-      {
         "authorNum": "190864487919667",
         "authorName": "Souza",
         "text": "Igual eu quero alguém desse grupo",
@@ -17615,6 +17603,30 @@
         "authorName": "May",
         "text": "Aqui eu já n senti inveja kkkkk",
         "timestamp": 1787934096590
+      },
+      {
+        "authorNum": "240716089413724",
+        "authorName": "Wagner Cabral",
+        "text": "Inveja eu tenho disso aqui",
+        "timestamp": 1787934105022
+      },
+      {
+        "authorNum": "227783724793861",
+        "authorName": "May",
+        "text": "Bloqueia adm",
+        "timestamp": 1787934107037
+      },
+      {
+        "authorNum": "227783724793861",
+        "authorName": "May",
+        "text": "Ninguém merece 😔",
+        "timestamp": 1787934126864
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "?",
+        "timestamp": 1787934128939
       }
     ],
     "120363428464897153@g.us": [],
@@ -17684,7 +17696,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22054,
+    "120363432018531082@g.us": 22058,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2016,
@@ -144086,6 +144098,30 @@
         "text": "Aqui eu já n senti inveja kkkkk",
         "pushName": "May",
         "timestamp": 1787934096590
+      },
+      "AC68C0D5185634B2BA54CBAE9D53623B": {
+        "sender": "240716089413724@lid",
+        "text": "Inveja eu tenho disso aqui",
+        "pushName": "Wagner Cabral",
+        "timestamp": 1787934105022
+      },
+      "AC28068F6029D4B4817A6CD752A432C9": {
+        "sender": "227783724793861@lid",
+        "text": "Bloqueia adm",
+        "pushName": "May",
+        "timestamp": 1787934107037
+      },
+      "AC1AB7DF38B60A2BD1BCE05F776E1857": {
+        "sender": "227783724793861@lid",
+        "text": "Ninguém merece 😔",
+        "pushName": "May",
+        "timestamp": 1787934126865
+      },
+      "AC61DFB2ECFBD50DE57940B6C6DFC4B5": {
+        "sender": "57707230945348@lid",
+        "text": "?",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787934128939
       }
     },
     "120363428464897153@g.us": {
@@ -197097,7 +197133,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787934096590,
+    "120363432018531082@g.us": 1787934128939,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787934085129,
