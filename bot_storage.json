@@ -188,9 +188,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2211,
+        "text": 2212,
         "media": 471,
-        "total": 2682
+        "total": 2683
       },
       "184237705699536": {
         "text": 524,
@@ -453,9 +453,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1732,
-        "media": 339,
-        "total": 2071
+        "text": 1733,
+        "media": 340,
+        "total": 2073
       },
       "252600633041077": {
         "text": 1,
@@ -2689,8 +2689,8 @@
       },
       "208958782488665": {
         "text": 22,
-        "media": 13,
-        "total": 35
+        "media": 14,
+        "total": 36
       },
       "262456945414267": {
         "text": 9,
@@ -9950,8 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Souza (190864487919667): Também",
-        "F. RicaRdo sAnToS (193729163993156): Ja ja te explico 🫠🙃",
         "~Gará (83911531044906): Tédio",
         "Arthur (206253020176458): Eoq",
         "F. RicaRdo sAnToS (193729163993156): Parece que o povo tem tesao em pão 🍞 e com alguma sobremesa kk",
@@ -10449,7 +10447,9 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @92629643563147",
         "Juliano Perlin (222595437858867): Depois quero ver como vc ficou🥰",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mando foto depois",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): 🥰"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): 🥰",
+        "Gabriel (145381035905262): Bannnn tenso",
+        "Leandro (+55 (11) 92701-8683): Quem é a cidadã?"
       ]
     },
     "120363428464897153@g.us": {
@@ -17839,6 +17839,18 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "🥰",
         "timestamp": 1787940057117
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Bannnn tenso",
+        "timestamp": 1787940083612
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Quem é a cidadã?",
+        "timestamp": 1787940087767
       }
     ],
     "120363428464897153@g.us": [],
@@ -18160,7 +18172,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22160,
+    "120363432018531082@g.us": 22162,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2075,
@@ -145191,6 +145203,18 @@
         "text": "🥰",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787940057117
+      },
+      "AC0CFADA24ABB2D0D3997C7EC22B7091": {
+        "sender": "145381035905262@lid",
+        "text": "Bannnn tenso",
+        "pushName": "Gabriel",
+        "timestamp": 1787940083612
+      },
+      "A5A3263B6BB2C864499DC6F13CC78224": {
+        "sender": "54259127210155@lid",
+        "text": "Quem é a cidadã?",
+        "pushName": "Leandro",
+        "timestamp": 1787940087767
       }
     },
     "120363428464897153@g.us": {
@@ -198562,7 +198586,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787940057117,
+    "120363432018531082@g.us": 1787940087767,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787940055842,
