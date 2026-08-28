@@ -3430,9 +3430,9 @@
     },
     "120363412288900422@g.us": {
       "81991328395336": {
-        "text": 462,
+        "text": 463,
         "media": 121,
-        "total": 583
+        "total": 584
       },
       "5511927018683": {
         "text": 528,
@@ -3440,9 +3440,9 @@
         "total": 629
       },
       "145381035905262": {
-        "text": 438,
+        "text": 440,
         "media": 151,
-        "total": 589
+        "total": 591
       },
       "53537388122141": {
         "text": 769,
@@ -16200,7 +16200,9 @@
         "Leandro (+55 (11) 92701-8683): Mas calma aí, não sou tão medroso assim 🤨 @81991328395336",
         "Gabriel (145381035905262): Então faz o que eu fiz lá no grupo",
         "Leandro (+55 (11) 92701-8683): Mas também não sou idiota né",
-        "Leandro (+55 (11) 92701-8683): 🙄"
+        "Leandro (+55 (11) 92701-8683): 🙄",
+        "Gabriel (145381035905262): É vimos que a coragem dele tem limites @81991328395336",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Eu estou dando ideia ali \nAi ele coloca só \"cuidado\"\n\nAí perguntei se era um saco de batata"
       ]
     },
     "120363411233423709@g.us": {
@@ -16958,6 +16960,18 @@
         "authorName": "Leandro",
         "text": "🙄",
         "timestamp": 1787891082116
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "É vimos que a coragem dele tem limites @81991328395336",
+        "timestamp": 1787891108525
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Eu estou dando ideia ali \nAi ele coloca só \"cuidado\"\n\nAí perguntei se era um saco de batata",
+        "timestamp": 1787891116735
       }
     ],
     "120363411233423709@g.us": [],
@@ -16976,7 +16990,7 @@
     "120363432018531082@g.us": 21110,
     "120363428464897153@g.us": 6279,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1974,
+    "120363412288900422@g.us": 1976,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -187663,6 +187677,18 @@
         "text": "🙄",
         "pushName": "Leandro",
         "timestamp": 1787891082116
+      },
+      "AC9817024E8EC4F6975239EF27D0FB51": {
+        "sender": "145381035905262@lid",
+        "text": "É vimos que a coragem dele tem limites @81991328395336",
+        "pushName": "Gabriel",
+        "timestamp": 1787891108525
+      },
+      "AC1D2C8E21AA5F4E4C5D4D63087D4385": {
+        "sender": "81991328395336@lid",
+        "text": "Eu estou dando ideia ali \nAi ele coloca só \"cuidado\"\n\nAí perguntei se era um saco de batata",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787891116735
       }
     },
     "120363411233423709@g.us": {
@@ -190281,7 +190307,7 @@
     "120363432018531082@g.us": 1787890494475,
     "120363428464897153@g.us": 1787890423703,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787891082116,
+    "120363412288900422@g.us": 1787891147602,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
