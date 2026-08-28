@@ -698,9 +698,9 @@
         "total": 95
       },
       "57707230945348": {
-        "text": 1222,
+        "text": 1223,
         "media": 226,
-        "total": 1448
+        "total": 1449
       },
       "152218690924790": {
         "text": 309,
@@ -2858,9 +2858,9 @@
         "total": 4
       },
       "263797142995147": {
-        "text": 56,
+        "text": 57,
         "media": 4,
-        "total": 60
+        "total": 61
       }
     },
     "120363428464897153@g.us": {
@@ -3539,9 +3539,9 @@
         "total": 598
       },
       "5511927018683": {
-        "text": 539,
+        "text": 540,
         "media": 103,
-        "total": 642
+        "total": 643
       },
       "145381035905262": {
         "text": 447,
@@ -9940,8 +9940,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Pedro Henrique (172868239380659): @247020967165997 vc tava brava ?",
-        "Rafael Moura (57707230945348): Sei não em",
         "Rafael Moura (57707230945348): Não acho que chamar uma mulher de \"rodada\" seja uma zoeira saudavel, mas aí vai de cada um",
         "Pedro Henrique (172868239380659): Eu ? Em plena sexta? só se acontecer uma tragédia",
         "Gabi 💋 (247020967165997): Beleza miojo",
@@ -10439,7 +10437,9 @@
         "May (227783724793861): Tem que morar em Curitiba",
         "Gleydson Souza (274384656834700): Já vou ver quanto custa as casas por ai kkkk",
         "Gleydson Souza (274384656834700): Oii",
-        "Arthur (206253020176458): Tem q mata"
+        "Arthur (206253020176458): Tem q mata",
+        "Nanda (263797142995147): crianças sendo criança, agora adolescente nd haver LKKKK deixei de ser adolescente a 2 anos e n fazia nd disso",
+        "Rafael Moura (57707230945348): Oi menina de 3 numeros"
       ]
     },
     "120363428464897153@g.us": {
@@ -16887,7 +16887,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Como estão?m",
         "Leandro (+55 (11) 92701-8683): Tudo tranquilo 🫡",
         "Leandro (+55 (11) 92701-8683): E vocês?",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tudo na paz 🫡"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tudo na paz 🫡",
+        "Leandro (+55 (11) 92701-8683): Estou indo para consulta, consegue segurar as pontas aí? @53537388122141"
       ]
     },
     "120363411233423709@g.us": {
@@ -17421,6 +17422,18 @@
         "authorName": "Arthur",
         "text": "Tem q mata",
         "timestamp": 1787936396566
+      },
+      {
+        "authorNum": "263797142995147",
+        "authorName": "Nanda",
+        "text": "crianças sendo criança, agora adolescente nd haver LKKKK deixei de ser adolescente a 2 anos e n fazia nd disso",
+        "timestamp": 1787936732900
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Oi menina de 3 numeros",
+        "timestamp": 1787936743878
       }
     ],
     "120363428464897153@g.us": [],
@@ -17431,6 +17444,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Tudo na paz 🫡",
         "timestamp": 1787935011709
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Estou indo para consulta, consegue segurar as pontas aí? @53537388122141",
+        "timestamp": 1787936733165
       }
     ],
     "120363411233423709@g.us": [],
@@ -17447,10 +17466,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22078,
+    "120363432018531082@g.us": 22080,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2021,
+    "120363412288900422@g.us": 2022,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -143992,6 +144011,18 @@
         "text": "Tem q mata",
         "pushName": "Arthur",
         "timestamp": 1787936396566
+      },
+      "ACD73755861D3A99D014748D7458B743": {
+        "sender": "263797142995147@lid",
+        "text": "crianças sendo criança, agora adolescente nd haver LKKKK deixei de ser adolescente a 2 anos e n fazia nd disso",
+        "pushName": "Nanda",
+        "timestamp": 1787936732900
+      },
+      "AC776F29344033A45CB2D2803C936B4F": {
+        "sender": "57707230945348@lid",
+        "text": "Oi menina de 3 numeros",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787936743878
       }
     },
     "120363428464897153@g.us": {
@@ -194212,6 +194243,12 @@
         "text": "Tudo na paz 🫡",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787935011709
+      },
+      "A5CC38CBC5CC8DD32661BAE0A1D7C7E1": {
+        "sender": "54259127210155@lid",
+        "text": "Estou indo para consulta, consegue segurar as pontas aí? @53537388122141",
+        "pushName": "Leandro",
+        "timestamp": 1787936733165
       }
     },
     "120363411233423709@g.us": {
@@ -197039,10 +197076,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787936396566,
+    "120363432018531082@g.us": 1787936743878,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787935011709,
+    "120363412288900422@g.us": 1787936733165,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
