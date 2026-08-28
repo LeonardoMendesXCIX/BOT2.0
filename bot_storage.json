@@ -253,9 +253,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1471,
+        "text": 1473,
         "media": 1105,
-        "total": 2576
+        "total": 2578
       },
       "3126803329115": {
         "text": 87,
@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2255,
+        "text": 2256,
         "media": 306,
-        "total": 2561
+        "total": 2562
       },
       "252922705240205": {
         "text": 80,
@@ -1953,9 +1953,9 @@
         "total": 5
       },
       "83911531044906": {
-        "text": 33,
+        "text": 34,
         "media": 2,
-        "total": 35
+        "total": 36
       },
       "172864548434113": {
         "text": 42,
@@ -2603,9 +2603,9 @@
         "total": 24
       },
       "190864487919667": {
-        "text": 235,
+        "text": 236,
         "media": 41,
-        "total": 276
+        "total": 277
       },
       "82227819987089": {
         "text": 2,
@@ -3514,9 +3514,9 @@
         "total": 596
       },
       "53537388122141": {
-        "text": 772,
+        "text": 773,
         "media": 60,
-        "total": 832
+        "total": 833
       },
       "120363412288900422": {
         "text": 1,
@@ -9865,10 +9865,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Leandro (+55 (11) 92701-8683): Fiquem a vontade para conhecer o kbaré da lalay",
-        "Jk (120542904463568): Kkkkk eita",
-        "Jk (120542904463568): Kbaré da lalay",
-        "Jk (120542904463568): Gostei do nome",
         "Jk (120542904463568): Deu até vontade de empreender",
         "Leandro (+55 (11) 92701-8683): Vá empreender pra lá",
         "Leandro (+55 (11) 92701-8683): Que esse empreendimento já é meu e dela @81991328395336",
@@ -10364,7 +10360,11 @@
         "Camila Designer (92629643563147): Sejam todos bem vindos!",
         "Camila Designer (92629643563147): Voltei, alguém me atualize 👀",
         "~Gará (83911531044906): Eu cheguei agr",
-        "Camila Designer (92629643563147): Como estão o dia de vocês hein?"
+        "Camila Designer (92629643563147): Como estão o dia de vocês hein?",
+        "Souza (190864487919667): Chato",
+        "~Gará (83911531044906): O meu ta parado",
+        "Camila Designer (92629643563147): @81991328395336 que horário vai fazer a interação do PV",
+        "Camila Designer (92629643563147): Por que? Quer falar sobre?👀"
       ]
     },
     "120363428464897153@g.us": {
@@ -16785,7 +16785,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Facão logo cedo",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Invasão de Pv",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Quem ?",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): E aí @53537388122141 \nBora lançar PV liberado no conexão?"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): E aí @53537388122141 \nBora lançar PV liberado no conexão?",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bora"
       ]
     },
     "120363411233423709@g.us": {
@@ -17389,6 +17390,30 @@
         "authorName": "Camila Designer",
         "text": "Como estão o dia de vocês hein?",
         "timestamp": 1787921232174
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Chato",
+        "timestamp": 1787921241918
+      },
+      {
+        "authorNum": "83911531044906",
+        "authorName": "~Gará",
+        "text": "O meu ta parado",
+        "timestamp": 1787921250988
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "@81991328395336 que horário vai fazer a interação do PV",
+        "timestamp": 1787921259654
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Por que? Quer falar sobre?👀",
+        "timestamp": 1787921272204
       }
     ],
     "120363428464897153@g.us": [],
@@ -17399,6 +17424,12 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "E aí @53537388122141 \nBora lançar PV liberado no conexão?",
         "timestamp": 1787921223335
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Bora",
+        "timestamp": 1787921266474
       }
     ],
     "120363411233423709@g.us": [],
@@ -17415,10 +17446,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21642,
+    "120363432018531082@g.us": 21646,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 1994,
+    "120363412288900422@g.us": 1995,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -141377,6 +141408,30 @@
         "text": "Como estão o dia de vocês hein?",
         "pushName": "Camila Designer",
         "timestamp": 1787921232174
+      },
+      "ACAA2D8D03C350FE902A88E351D90D46": {
+        "sender": "190864487919667@lid",
+        "text": "Chato",
+        "pushName": "Souza",
+        "timestamp": 1787921241918
+      },
+      "AC4EC546B301220D46E6570141F6DCDC": {
+        "sender": "83911531044906@lid",
+        "text": "O meu ta parado",
+        "pushName": "~Gará",
+        "timestamp": 1787921250988
+      },
+      "2A3C4CF2F2280E051CAA": {
+        "sender": "92629643563147@lid",
+        "text": "@81991328395336 que horário vai fazer a interação do PV",
+        "pushName": "Camila Designer",
+        "timestamp": 1787921259654
+      },
+      "2ACB766FCA8FCEA73BFD": {
+        "sender": "92629643563147@lid",
+        "text": "Por que? Quer falar sobre?👀",
+        "pushName": "Camila Designer",
+        "timestamp": 1787921272204
       }
     },
     "120363428464897153@g.us": {
@@ -191435,6 +191490,12 @@
         "text": "E aí @53537388122141 \nBora lançar PV liberado no conexão?",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787921223335
+      },
+      "AC2D606641519EE20D77193103AF1E24": {
+        "sender": "53537388122141@lid",
+        "text": "Bora",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787921266474
       }
     },
     "120363411233423709@g.us": {
@@ -194178,10 +194239,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787921232174,
+    "120363432018531082@g.us": 1787921272204,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787921223335,
+    "120363412288900422@g.us": 1787921266474,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
