@@ -173,9 +173,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1654,
+        "text": 1655,
         "media": 457,
-        "total": 2111
+        "total": 2112
       },
       "81991328395336": {
         "text": 3945,
@@ -254,8 +254,8 @@
       },
       "92629643563147": {
         "text": 1519,
-        "media": 1132,
-        "total": 2651
+        "media": 1135,
+        "total": 2654
       },
       "3126803329115": {
         "text": 87,
@@ -693,9 +693,9 @@
         "total": 2
       },
       "90130358485223": {
-        "text": 98,
+        "text": 101,
         "media": 12,
-        "total": 110
+        "total": 113
       },
       "57707230945348": {
         "text": 1225,
@@ -9950,8 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Souza (190864487919667): Comer miojo",
-        "Celiete Souza (129373172711439): Capaz",
         "Celiete Souza (129373172711439): Como assim kkkkk",
         "jaciara (108461127897146): Quem ?",
         "jaciara (108461127897146): Kkkk",
@@ -10449,7 +10447,9 @@
         "F. RicaRdo sAnToS (193729163993156): Ate hje não entendi essa que mulher é BI?? Ela tem 2 títulos ⁉️🤔🤔",
         "Celiete Souza (129373172711439): Precisamos movimentar o grupo alguém tem que ser o foco 🤣",
         "Gabriel Ohi (90130358485223): Eu não duvido 😂😂😂",
-        "Celiete Souza (129373172711439): Isso aí kkk"
+        "Celiete Souza (129373172711439): Isso aí kkk",
+        "Gabriel Ohi (90130358485223): Pior q é verdade 😂😂😂",
+        "Gabriel Ohi (90130358485223): O foco é vc 😂😂😂😂"
       ]
     },
     "120363428464897153@g.us": {
@@ -17487,18 +17487,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "1395881181241",
-        "authorName": "Bruno Aguiar",
-        "text": "A imaginação vooa kkk",
-        "timestamp": 1787947494310
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Eitaaaa\n@190864487919667",
-        "timestamp": 1787947510252
-      },
-      {
         "authorNum": "108461127897146",
         "authorName": "jaciara",
         "text": "Vai longe",
@@ -17953,6 +17941,18 @@
         "authorName": "Celiete Souza",
         "text": "Isso aí kkk",
         "timestamp": 1787949292653
+      },
+      {
+        "authorNum": "90130358485223",
+        "authorName": "Gabriel Ohi",
+        "text": "Pior q é verdade 😂😂😂",
+        "timestamp": 1787949304185
+      },
+      {
+        "authorNum": "90130358485223",
+        "authorName": "Gabriel Ohi",
+        "text": "O foco é vc 😂😂😂😂",
+        "timestamp": 1787949324307
       }
     ],
     "120363428464897153@g.us": [],
@@ -17979,7 +17979,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22442,
+    "120363432018531082@g.us": 22444,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2089,
@@ -146690,6 +146690,18 @@
         "text": "Isso aí kkk",
         "pushName": "Celiete Souza",
         "timestamp": 1787949292653
+      },
+      "ACA9AA44929026652C61854DCB257334": {
+        "sender": "90130358485223@lid",
+        "text": "Pior q é verdade 😂😂😂",
+        "pushName": "Gabriel Ohi",
+        "timestamp": 1787949304185
+      },
+      "ACEC4F6A47D7E143B2B92BA6897AE855": {
+        "sender": "90130358485223@lid",
+        "text": "O foco é vc 😂😂😂😂",
+        "pushName": "Gabriel Ohi",
+        "timestamp": 1787949324307
       }
     },
     "120363428464897153@g.us": {
@@ -200169,7 +200181,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787949292653,
+    "120363432018531082@g.us": 1787949332331,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787943398895,
