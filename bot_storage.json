@@ -188,9 +188,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2252,
+        "text": 2253,
         "media": 477,
-        "total": 2729
+        "total": 2730
       },
       "184237705699536": {
         "text": 524,
@@ -3539,9 +3539,9 @@
         "total": 608
       },
       "5511927018683": {
-        "text": 594,
+        "text": 596,
         "media": 113,
-        "total": 707
+        "total": 709
       },
       "145381035905262": {
         "text": 499,
@@ -3549,9 +3549,9 @@
         "total": 661
       },
       "53537388122141": {
-        "text": 835,
+        "text": 836,
         "media": 66,
-        "total": 901
+        "total": 902
       },
       "120363412288900422": {
         "text": 1,
@@ -17059,7 +17059,10 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): 3° vez que entra e sai neste carai. Agora pediu solicitação de novo",
         "Leandro (+55 (11) 92701-8683): Eu vi",
         "Leandro (+55 (11) 92701-8683): Aprova e da ban",
-        "Leandro (+55 (11) 92701-8683): Me ajuda aí meu povo @all"
+        "Leandro (+55 (11) 92701-8683): Me ajuda aí meu povo @all",
+        "Leandro (+55 (11) 92701-8683): Já me apresentei lá",
+        "Leandro (+55 (11) 92701-8683): Agora é a vez de vocês",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Agora recusei, putassa. Se mandar de novo eu faço"
       ]
     },
     "120363411233423709@g.us": {
@@ -17805,6 +17808,24 @@
         "authorName": "Leandro",
         "text": "Me ajuda aí meu povo @all",
         "timestamp": 1787960491549
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Já me apresentei lá",
+        "timestamp": 1787960496910
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Agora é a vez de vocês",
+        "timestamp": 1787960503610
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Agora recusei, putassa. Se mandar de novo eu faço",
+        "timestamp": 1787960507568
       }
     ],
     "120363411233423709@g.us": [],
@@ -17831,7 +17852,7 @@
     "120363432018531082@g.us": 22614,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2184,
+    "120363412288900422@g.us": 2187,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -198734,6 +198755,24 @@
         "text": "Me ajuda aí meu povo @all",
         "pushName": "Leandro",
         "timestamp": 1787960491549
+      },
+      "A58170A65BF004EDD0FCDEBBCE35312A": {
+        "sender": "54259127210155@lid",
+        "text": "Já me apresentei lá",
+        "pushName": "Leandro",
+        "timestamp": 1787960496910
+      },
+      "A53BB65D9BCAC261CC7FBB89C391DC1A": {
+        "sender": "54259127210155@lid",
+        "text": "Agora é a vez de vocês",
+        "pushName": "Leandro",
+        "timestamp": 1787960503610
+      },
+      "AC7A26DED94E974DD0B7FDF51A1E41A7": {
+        "sender": "53537388122141@lid",
+        "text": "Agora recusei, putassa. Se mandar de novo eu faço",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787960507568
       }
     },
     "120363411233423709@g.us": {
@@ -201621,10 +201660,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787960373739,
+    "120363432018531082@g.us": 1787960518005,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787960491549,
+    "120363412288900422@g.us": 1787960507568,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
