@@ -2223,9 +2223,9 @@
         "total": 91
       },
       "155503636275307": {
-        "text": 74,
+        "text": 75,
         "media": 31,
-        "total": 105
+        "total": 106
       },
       "67035866357875": {
         "text": 84,
@@ -2724,8 +2724,8 @@
       },
       "108268240302270": {
         "text": 3,
-        "media": 3,
-        "total": 6
+        "media": 4,
+        "total": 7
       },
       "94738589974623": {
         "text": 1,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Leandro (+55 (11) 92701-8683): Prometemos guardar segredo 🤞🏼",
         "Souza (190864487919667): Agonia",
         "Souza (190864487919667): Bando de fofoqueiros",
         "Leandro (+55 (11) 92701-8683): A bichinha sabe guardar segredo em",
@@ -10449,7 +10448,8 @@
         "Dany (262182034002040): Boa noite, meu povooooo",
         "Edison Medeiros💚 (108268240302270): Boah noite minha linda",
         "Dany (262182034002040): *REAPRESENTAÇÃO*\n\n💬 Nome: Daniela, pode me chamar de Dany\n🎂 Idade: 32 anos\n📍 De onde sou: São Paulo, SP\n💍 Estado civil: namorando 🥰\n👀 Entrei no grupo para: Amizades e resenha\n🗣️ Meu privado est",
-        "Gleydson Souza (274384656834700): Boa noite"
+        "Gleydson Souza (274384656834700): Boa noite",
+        "Clayton 🇳🇬 (155503636275307): Olá professora linda"
       ]
     },
     "120363428464897153@g.us": {
@@ -17781,6 +17781,12 @@
         "authorName": "Gleydson Souza",
         "text": "Boa noite",
         "timestamp": 1787961431398
+      },
+      {
+        "authorNum": "155503636275307",
+        "authorName": "Clayton 🇳🇬",
+        "text": "Olá professora linda",
+        "timestamp": 1787961475950
       }
     ],
     "120363428464897153@g.us": [],
@@ -17910,7 +17916,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22633,
+    "120363432018531082@g.us": 22634,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2194,
@@ -147732,6 +147738,12 @@
         "text": "Boa noite",
         "pushName": "Gleydson Souza",
         "timestamp": 1787961431398
+      },
+      "AC2AF07915CFDDE435F00CCCDAADB598": {
+        "sender": "155503636275307@lid",
+        "text": "Olá professora linda",
+        "pushName": "Clayton 🇳🇬",
+        "timestamp": 1787961475950
       }
     },
     "120363428464897153@g.us": {
@@ -201871,7 +201883,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787961443375,
+    "120363432018531082@g.us": 1787961499079,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787961328766,
