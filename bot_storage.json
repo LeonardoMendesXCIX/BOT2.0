@@ -2603,9 +2603,9 @@
         "total": 23
       },
       "190864487919667": {
-        "text": 218,
+        "text": 219,
         "media": 37,
-        "total": 255
+        "total": 256
       },
       "82227819987089": {
         "text": 2,
@@ -2629,8 +2629,8 @@
       },
       "75797868064796": {
         "text": 18,
-        "media": 45,
-        "total": 63
+        "media": 46,
+        "total": 64
       },
       "153764728184839": {
         "text": 2,
@@ -2664,8 +2664,8 @@
       },
       "172868239380659": {
         "text": 104,
-        "media": 16,
-        "total": 120
+        "media": 17,
+        "total": 121
       },
       "170455038193841": {
         "text": 1,
@@ -2688,9 +2688,9 @@
         "total": 62
       },
       "208958782488665": {
-        "text": 17,
+        "text": 18,
         "media": 12,
-        "total": 29
+        "total": 30
       },
       "262456945414267": {
         "text": 9,
@@ -2798,9 +2798,9 @@
         "total": 4
       },
       "247020967165997": {
-        "text": 25,
+        "text": 27,
         "media": 6,
-        "total": 31
+        "total": 33
       },
       "206253020176458": {
         "text": 3,
@@ -10152,7 +10152,11 @@
         "Pedro Henrique (172868239380659): Sem ser no cabaré",
         "Gabi 💋 (247020967165997): Meu Deus",
         "Pedro Henrique (172868239380659): Já criei a primeira discórdia da sexta, agora iremos trabalhar",
-        "Jessica (208958782488665): Por essas e outras que eu não saio com ninguém. Hoje dia de academia se louco"
+        "Jessica (208958782488665): Por essas e outras que eu não saio com ninguém. Hoje dia de academia se louco",
+        "Gabi 💋 (247020967165997): Discórdia não \nVirou piada ksksks",
+        "Souza (190864487919667): Por isso não conseguem nada",
+        "Gabi 💋 (247020967165997): Bem isso",
+        "Jessica (208958782488665): Neeh puxar peso que ganho mais"
       ]
     },
     "120363428464897153@g.us": {
@@ -17739,6 +17743,30 @@
         "authorName": "Jessica",
         "text": "Por essas e outras que eu não saio com ninguém. Hoje dia de academia se louco",
         "timestamp": 1787915788039
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Discórdia não \nVirou piada ksksks",
+        "timestamp": 1787915793765
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Por isso não conseguem nada",
+        "timestamp": 1787915794343
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Bem isso",
+        "timestamp": 1787915807145
+      },
+      {
+        "authorNum": "208958782488665",
+        "authorName": "Jessica",
+        "text": "Neeh puxar peso que ganho mais",
+        "timestamp": 1787915826823
       }
     ],
     "120363428464897153@g.us": [],
@@ -17777,7 +17805,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21390,
+    "120363432018531082@g.us": 21394,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1992,
@@ -140227,6 +140255,30 @@
         "text": "Por essas e outras que eu não saio com ninguém. Hoje dia de academia se louco",
         "pushName": "Jessica",
         "timestamp": 1787915788039
+      },
+      "AC6C7CDA0DBA32E598B7F8199D7FAAA4": {
+        "sender": "247020967165997@lid",
+        "text": "Discórdia não \nVirou piada ksksks",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787915793765
+      },
+      "AC1A0E91255C5531DA7C629D09BE89E6": {
+        "sender": "190864487919667@lid",
+        "text": "Por isso não conseguem nada",
+        "pushName": "Souza",
+        "timestamp": 1787915794343
+      },
+      "AC2FE9AF2887759E261D5BE0B9FB862F": {
+        "sender": "247020967165997@lid",
+        "text": "Bem isso",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787915807145
+      },
+      "AC33FE7DC31814E7B2ED93E0D68BA84E": {
+        "sender": "208958782488665@lid",
+        "text": "Neeh puxar peso que ganho mais",
+        "pushName": "Jessica",
+        "timestamp": 1787915826823
       }
     },
     "120363428464897153@g.us": {
@@ -193016,7 +193068,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787915788039,
+    "120363432018531082@g.us": 1787915826823,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787914462012,
