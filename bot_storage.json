@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2391,
+        "text": 2392,
         "media": 334,
-        "total": 2725
+        "total": 2726
       },
       "252922705240205": {
         "text": 80,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Celiete Souza (129373172711439): Nosso clima aqui não é bom",
         "May (227783724793861): Tem que morar em Curitiba",
         "Gleydson Souza (274384656834700): Já vou ver quanto custa as casas por ai kkkk",
         "Gleydson Souza (274384656834700): Oii",
@@ -10449,7 +10448,8 @@
         "willian (163530946961491): Logo mais kkkk",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): 👀",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): E daqui?",
-        "Gabriel (145381035905262): Ele só se enrolou em qual dos grupos ele vai pedir"
+        "Gabriel (145381035905262): Ele só se enrolou em qual dos grupos ele vai pedir",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Quem é tua guria?"
       ]
     },
     "120363428464897153@g.us": {
@@ -17565,12 +17565,6 @@
       {
         "authorNum": "129373172711439",
         "authorName": "Celiete Souza",
-        "text": "Amo eles",
-        "timestamp": 1787956413503
-      },
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
         "text": "Henrique e Juliano, minha paixão",
         "timestamp": 1787956428239
       },
@@ -17813,6 +17807,12 @@
         "authorName": "Gabriel",
         "text": "Ele só se enrolou em qual dos grupos ele vai pedir",
         "timestamp": 1787958207807
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Quem é tua guria?",
+        "timestamp": 1787958217194
       }
     ],
     "120363428464897153@g.us": [],
@@ -18157,7 +18157,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22573,
+    "120363432018531082@g.us": 22574,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2161,
@@ -147630,6 +147630,12 @@
         "text": "Ele só se enrolou em qual dos grupos ele vai pedir",
         "pushName": "Gabriel",
         "timestamp": 1787958207807
+      },
+      "AC8245F9951D9C0493FC645EB87C5F91": {
+        "sender": "53537388122141@lid",
+        "text": "Quem é tua guria?",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787958217194
       }
     },
     "120363428464897153@g.us": {
@@ -201565,7 +201571,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787958207807,
+    "120363432018531082@g.us": 1787958217194,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787958197886,
