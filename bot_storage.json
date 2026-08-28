@@ -3539,14 +3539,14 @@
         "total": 598
       },
       "5511927018683": {
-        "text": 552,
+        "text": 553,
         "media": 105,
-        "total": 657
+        "total": 658
       },
       "145381035905262": {
-        "text": 457,
+        "text": 458,
         "media": 152,
-        "total": 609
+        "total": 610
       },
       "53537388122141": {
         "text": 789,
@@ -3946,8 +3946,8 @@
       },
       "81991328395336": {
         "text": 16,
-        "media": 556,
-        "total": 572
+        "media": 566,
+        "total": 582
       },
       "145381035905262": {
         "text": 7,
@@ -16913,7 +16913,9 @@
         "Gabriel (145381035905262): Mas pra levar ela, já gasta o preço dela 😂😂😂",
         "Leandro (+55 (11) 92701-8683): Aquela pista que o pessoal testou o Bugatti",
         "Leandro (+55 (11) 92701-8683): Pois então",
-        "Gabriel (145381035905262): Não compensa"
+        "Gabriel (145381035905262): Não compensa",
+        "Leandro (+55 (11) 92701-8683): Nãn",
+        "Gabriel (145381035905262): Mas aqui, tem uma pista, de uns 10 km, e não tem nada e ali que a mágica acontece"
       ]
     },
     "120363411233423709@g.us": {
@@ -17563,12 +17565,6 @@
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Deixa comigo",
-        "timestamp": 1787936816402
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "15h30 tenho compromisso também, mas vou ter Net e vou acompanhando",
         "timestamp": 1787936837794
       },
@@ -17709,6 +17705,18 @@
         "authorName": "Gabriel",
         "text": "Não compensa",
         "timestamp": 1787938565920
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Nãn",
+        "timestamp": 1787938594512
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Mas aqui, tem uma pista, de uns 10 km, e não tem nada e ali que a mágica acontece",
+        "timestamp": 1787938629841
       }
     ],
     "120363411233423709@g.us": [],
@@ -17728,7 +17736,7 @@
     "120363432018531082@g.us": 22099,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2047,
+    "120363412288900422@g.us": 2049,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -194766,6 +194774,18 @@
         "text": "Não compensa",
         "pushName": "Gabriel",
         "timestamp": 1787938565920
+      },
+      "A53F21B5CE37251CC0F7082851E48025": {
+        "sender": "54259127210155@lid",
+        "text": "Nãn",
+        "pushName": "Leandro",
+        "timestamp": 1787938594512
+      },
+      "ACC89BDCF4EABAAF7A9B046D55F92C3B": {
+        "sender": "145381035905262@lid",
+        "text": "Mas aqui, tem uma pista, de uns 10 km, e não tem nada e ali que a mágica acontece",
+        "pushName": "Gabriel",
+        "timestamp": 1787938629841
       }
     },
     "120363411233423709@g.us": {
@@ -197596,7 +197616,7 @@
     "120363432018531082@g.us": 1787938486996,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787938565920,
+    "120363412288900422@g.us": 1787938629841,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
@@ -197604,7 +197624,7 @@
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1787868477291,
-    "120363409024805409@g.us": 1787938564173,
+    "120363409024805409@g.us": 1787938634987,
     "120363411043114631@g.us": 1787897464612
   },
   "autoAnimSent": {
