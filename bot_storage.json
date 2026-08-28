@@ -698,9 +698,9 @@
         "total": 95
       },
       "57707230945348": {
-        "text": 1199,
+        "text": 1201,
         "media": 216,
-        "total": 1415
+        "total": 1417
       },
       "152218690924790": {
         "text": 309,
@@ -2798,9 +2798,9 @@
         "total": 5
       },
       "247020967165997": {
-        "text": 66,
+        "text": 68,
         "media": 14,
-        "total": 80
+        "total": 82
       },
       "206253020176458": {
         "text": 3,
@@ -10268,7 +10268,11 @@
         "Gabi 💋 (247020967165997): Ksksks",
         "Gabi 💋 (247020967165997): Eu tô calma miojo",
         "Rafael Moura (57707230945348): Miojo é bom vei",
-        "Gabi 💋 (247020967165997): Sim, faz em dois minutos"
+        "Gabi 💋 (247020967165997): Sim, faz em dois minutos",
+        "Rafael Moura (57707230945348): Nao era 3?",
+        "Rafael Moura (57707230945348): Ta mais precoce ainda",
+        "Gabi 💋 (247020967165997): Vdd 3 minutos",
+        "Gabi 💋 (247020967165997): Obrigada"
       ]
     },
     "120363428464897153@g.us": {
@@ -18042,6 +18046,30 @@
         "authorName": "Gabi 💋",
         "text": "Sim, faz em dois minutos",
         "timestamp": 1787917151071
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Nao era 3?",
+        "timestamp": 1787917158903
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Ta mais precoce ainda",
+        "timestamp": 1787917164265
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Vdd 3 minutos",
+        "timestamp": 1787917180763
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Obrigada",
+        "timestamp": 1787917183276
       }
     ],
     "120363428464897153@g.us": [],
@@ -18068,7 +18096,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 21506,
+    "120363432018531082@g.us": 21510,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 1993,
@@ -141214,6 +141242,30 @@
         "text": "Sim, faz em dois minutos",
         "pushName": "Gabi 💋",
         "timestamp": 1787917151071
+      },
+      "AC8AFC58CD112F220E4832993B185B07": {
+        "sender": "57707230945348@lid",
+        "text": "Nao era 3?",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787917158903
+      },
+      "AC75736B4137731E97CBCF0DBEB7A1AF": {
+        "sender": "57707230945348@lid",
+        "text": "Ta mais precoce ainda",
+        "pushName": "Rafael Moura",
+        "timestamp": 1787917164265
+      },
+      "AC496AEC792F2AACF4E66668D61E4005": {
+        "sender": "247020967165997@lid",
+        "text": "Vdd 3 minutos",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787917180764
+      },
+      "ACACA2F42EC87EB646B5F6CBF2DD7902": {
+        "sender": "247020967165997@lid",
+        "text": "Obrigada",
+        "pushName": "Gabi 💋",
+        "timestamp": 1787917183276
       }
     },
     "120363428464897153@g.us": {
@@ -194009,7 +194061,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787917154760,
+    "120363432018531082@g.us": 1787917183276,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787915873458,
