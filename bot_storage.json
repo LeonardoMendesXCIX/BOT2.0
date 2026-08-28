@@ -173,9 +173,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1576,
-        "media": 428,
-        "total": 2004
+        "text": 1577,
+        "media": 429,
+        "total": 2006
       },
       "81991328395336": {
         "text": 3941,
@@ -378,9 +378,9 @@
         "total": 3
       },
       "163530946961491": {
-        "text": 414,
+        "text": 415,
         "media": 72,
-        "total": 486
+        "total": 487
       },
       "222595437858867": {
         "text": 520,
@@ -2603,9 +2603,9 @@
         "total": 30
       },
       "190864487919667": {
-        "text": 337,
+        "text": 338,
         "media": 50,
-        "total": 387
+        "total": 388
       },
       "82227819987089": {
         "text": 2,
@@ -2818,9 +2818,9 @@
         "total": 32
       },
       "238388519141379": {
-        "text": 7,
+        "text": 8,
         "media": 2,
-        "total": 9
+        "total": 10
       },
       "269625715650683": {
         "text": 1,
@@ -9950,10 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Nanda (263797142995147): eu tô com mo vontade de ir pra praia",
-        "Nanda (263797142995147): tomar um sol",
-        "Souza (190864487919667): Inveja",
-        "Nanda (263797142995147): são irmões",
         "Gleydson Souza (274384656834700): Trabalhando",
         "Nanda (263797142995147): né, mais nem da",
         "Nanda (263797142995147): num vou só",
@@ -10449,7 +10445,11 @@
         "Gabriel (145381035905262): @129373172711439  é bom que pensem deste jeito, assim eles não sabem o que realmente faço!",
         "Celiete Souza (129373172711439): Com certeza 🙏🏼",
         "Bruno Aguiar (+1395881181241): Aproveitando a chuva por ai @129373172711439",
-        "Celiete Souza (129373172711439): @145381035905262 sai do emprego kkkk"
+        "Celiete Souza (129373172711439): @145381035905262 sai do emprego kkkk",
+        "willian (163530946961491): Sem cargo kkkk",
+        "Nickolas (238388519141379): Boa tarde galerinha",
+        "Souza (190864487919667): Que chuvam",
+        "Celiete Souza (129373172711439): Em casa sentada no sofá e tomando um chá kkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -18049,6 +18049,30 @@
         "authorName": "Celiete Souza",
         "text": "@145381035905262 sai do emprego kkkk",
         "timestamp": 1787941673953
+      },
+      {
+        "authorNum": "163530946961491",
+        "authorName": "willian",
+        "text": "Sem cargo kkkk",
+        "timestamp": 1787941683943
+      },
+      {
+        "authorNum": "238388519141379",
+        "authorName": "Nickolas",
+        "text": "Boa tarde galerinha",
+        "timestamp": 1787941707954
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Que chuvam",
+        "timestamp": 1787941709216
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Em casa sentada no sofá e tomando um chá kkk",
+        "timestamp": 1787941709394
       }
     ],
     "120363428464897153@g.us": [],
@@ -18141,7 +18165,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22247,
+    "120363432018531082@g.us": 22251,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2075,
@@ -145694,6 +145718,30 @@
         "text": "@145381035905262 sai do emprego kkkk",
         "pushName": "Celiete Souza",
         "timestamp": 1787941673953
+      },
+      "ACC36356882C82A9DD5F97A1A2131E5E": {
+        "sender": "163530946961491@lid",
+        "text": "Sem cargo kkkk",
+        "pushName": "willian",
+        "timestamp": 1787941683943
+      },
+      "3AEA5EED57119BA06C2E": {
+        "sender": "238388519141379@lid",
+        "text": "Boa tarde galerinha",
+        "pushName": "Nickolas",
+        "timestamp": 1787941707954
+      },
+      "AC69739BD3C6D74D61730AB7F4DCA04F": {
+        "sender": "190864487919667@lid",
+        "text": "Que chuvam",
+        "pushName": "Souza",
+        "timestamp": 1787941709216
+      },
+      "AC221665D53F66273A053A99B9B31645": {
+        "sender": "129373172711439@lid",
+        "text": "Em casa sentada no sofá e tomando um chá kkk",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787941709394
       }
     },
     "120363428464897153@g.us": {
@@ -199065,7 +199113,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787941673953,
+    "120363432018531082@g.us": 1787941709394,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787940055842,
