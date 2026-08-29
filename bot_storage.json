@@ -2864,9 +2864,9 @@
         "total": 72
       },
       "2135320166432": {
-        "text": 16,
+        "text": 17,
         "media": 2,
-        "total": 18
+        "total": 19
       },
       "239371546579166": {
         "text": 2,
@@ -9961,7 +9961,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Gabriel (145381035905262): Fritando",
         "Souza (190864487919667): Sigo solteiro",
         "Celiete Souza (129373172711439): Tudo queto",
         "Souza (190864487919667): Eu tô procrastinando no trabalho",
@@ -10460,7 +10459,8 @@
         "Dany (262182034002040): Foi para acompanhar o tempo verbal do “sabia”, Gabriel",
         "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Aceito hehe",
         "Dany (262182034002040): 🤣🫠",
-        "Dany (262182034002040): Amor, esses emojis não foram para você kkkkk"
+        "Dany (262182034002040): Amor, esses emojis não foram para você kkkkk",
+        "Anderson (+2135320166432): Vocês são idosos né? Dormem cedo kkkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -17779,6 +17779,12 @@
         "authorName": "Dany",
         "text": "Amor, esses emojis não foram para você kkkkk",
         "timestamp": 1787970444103
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Vocês são idosos né? Dormem cedo kkkk",
+        "timestamp": 1787971549354
       }
     ],
     "120363428464897153@g.us": [],
@@ -17841,7 +17847,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22808,
+    "120363432018531082@g.us": 22809,
     "120363428464897153@g.us": 6401,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2216,
@@ -148689,6 +148695,12 @@
         "text": "Amor, esses emojis não foram para você kkkkk",
         "pushName": "Dany",
         "timestamp": 1787970444103
+      },
+      "ACDE9B11F401B33ADCE83194EC9A60B8": {
+        "sender": "2135320166432@lid",
+        "text": "Vocês são idosos né? Dormem cedo kkkk",
+        "pushName": "Anderson",
+        "timestamp": 1787971549354
       }
     },
     "120363428464897153@g.us": {
@@ -203650,7 +203662,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787970444103,
+    "120363432018531082@g.us": 1787971549354,
     "120363428464897153@g.us": 1787971486620,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787971130819,
