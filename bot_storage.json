@@ -293,9 +293,9 @@
         "total": 464
       },
       "262182034002040": {
-        "text": 1900,
+        "text": 1901,
         "media": 123,
-        "total": 2023
+        "total": 2024
       },
       "219245581488326": {
         "text": 4,
@@ -318,9 +318,9 @@
         "total": 117
       },
       "199733712785531": {
-        "text": 210,
+        "text": 211,
         "media": 122,
-        "total": 332
+        "total": 333
       },
       "153596754661626": {
         "text": 1,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Juliano Perlin (222595437858867): Eu sou o mais lindo daqui😎",
         "Juliano Perlin (222595437858867): 🤣🤣🤣",
         "jaciara (108461127897146): Eu preciso ver fotos 🧐",
         "jaciara (108461127897146): Aí eu digo",
@@ -10449,7 +10448,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Nuuu, você que é 🤌🏻😍\n\nObrigada meu bem ❤️",
         "Lailson Nathan. (272048228188398): Gata.",
         "Jonathan Bráulio (187097969348735): Jonathan \n20 anos\nCéu azul BH",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Obrigada ❤️"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Obrigada ❤️",
+        "Dany (262182034002040): Bem-vindo 💖"
       ]
     },
     "120363428464897153@g.us": {
@@ -17614,18 +17614,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "Toda linda🥰❤️😍, se vc entrar no museu belas artes, nunca mais vao te deixar sair de la❤️😍 olhem que obra prima é essa🥰❤️..isso foi feito a pincel😘",
-        "timestamp": 1787960832556
-      },
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Queremos conhecer você! ✨\n\n📸 Sua foto: 👆🏼👆🏼\n💬 Nome:  Gabriel \n🎂 Idade: 32 \n📍 De onde sou: Xangrilá Atlântida RS \n💍 @233161007071346 \n\n*🫶🏻 Seja bem-vindo(a)!*\n\n✨ Sinta-se à vontade para interagir, conhecer a galera e fazer novas amizades! 🤝\n\n❌ *PROIBIDO A INVASÃO DE PRIVADO, SEM AUTORIZAÇÃO* ❌",
-        "timestamp": 1787960838893
-      },
-      {
         "authorNum": "5511927018683",
         "authorName": "Leandro",
         "text": "Aí sim meu sócio! 🫡",
@@ -18002,6 +17990,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Obrigada ❤️",
         "timestamp": 1787962607095
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Bem-vindo 💖",
+        "timestamp": 1787962679175
       }
     ],
     "120363428464897153@g.us": [
@@ -18149,7 +18143,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22682,
+    "120363432018531082@g.us": 22683,
     "120363428464897153@g.us": 6290,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2207,
@@ -148259,6 +148253,12 @@
         "text": "Obrigada ❤️",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787962607095
+      },
+      "3A9D8205B9EFA1630276": {
+        "sender": "262182034002040@lid",
+        "text": "Bem-vindo 💖",
+        "pushName": "Dany",
+        "timestamp": 1787962679175
       }
     },
     "120363428464897153@g.us": {
@@ -202500,7 +202500,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787962648335,
+    "120363432018531082@g.us": 1787962679175,
     "120363428464897153@g.us": 1787962653407,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787962621824,
