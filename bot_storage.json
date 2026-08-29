@@ -392,9 +392,9 @@
         "total": 495
       },
       "222595437858867": {
-        "text": 561,
+        "text": 562,
         "media": 59,
-        "total": 620
+        "total": 621
       },
       "83280154103884": {
         "text": 36,
@@ -7255,7 +7255,8 @@
         "Dany: É que da maneira que você colocou, ficou estranho",
         "Dany: Foi um mal entendido",
         "Dany: Foi um mal entendido, relaxa 😉",
-        "Sabrina Bartolucci 🤌🏻: Ok amiga"
+        "Sabrina Bartolucci 🤌🏻: Ok amiga",
+        "Juliano Perlin: Cadê o respeito??😠"
       ]
     },
     "120363428464897153@g.us": {
@@ -10694,6 +10695,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Ok amiga",
         "timestamp": 1788027147968
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Cadê o respeito??😠",
+        "timestamp": 1788027376134
       }
     ],
     "120363428464897153@g.us": [],
@@ -10781,7 +10788,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 40,
+    "120363432018531082@g.us": 41,
     "120363428464897153@g.us": 6425,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2256,
@@ -11201,6 +11208,12 @@
         "text": "Ok amiga",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1788027147968
+      },
+      "AC6E2DBCDBF5B0779617C33B9CE6B9E3": {
+        "sender": "222595437858867@lid",
+        "text": "Cadê o respeito??😠",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1788027376134
       }
     },
     "120363428464897153@g.us": {},
@@ -11430,7 +11443,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788027252438,
+    "120363432018531082@g.us": 1788027376134,
     "120363428464897153@g.us": 1787976748279,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788026544319,
