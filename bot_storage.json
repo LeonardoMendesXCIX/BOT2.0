@@ -302,9 +302,9 @@
         "total": 464
       },
       "262182034002040": {
-        "text": 1927,
+        "text": 1928,
         "media": 123,
-        "total": 2050
+        "total": 2051
       },
       "219245581488326": {
         "text": 4,
@@ -7241,7 +7241,8 @@
         "Sabrina Bartolucci 🤌🏻: Vou curtir a noite",
         "Leandro: !m",
         "Dany: Ele tentou fazer uma piada, sem graça, mas tentou",
-        "Dany: Talvez"
+        "Dany: Talvez",
+        "Dany: A etiqueta não aparece quando se responde a conversa do outro, pode ser que ele não tenha visto mesmo 💁🏻‍♀️"
       ]
     },
     "120363428464897153@g.us": {
@@ -10596,6 +10597,12 @@
         "authorName": "Dany",
         "text": "Talvez",
         "timestamp": 1788026680918
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "A etiqueta não aparece quando se responde a conversa do outro, pode ser que ele não tenha visto mesmo 💁🏻‍♀️",
+        "timestamp": 1788026761890
       }
     ],
     "120363428464897153@g.us": [],
@@ -10683,7 +10690,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 26,
+    "120363432018531082@g.us": 27,
     "120363428464897153@g.us": 6425,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2256,
@@ -11018,6 +11025,12 @@
         "text": "Talvez",
         "pushName": "Dany",
         "timestamp": 1788026680918
+      },
+      "3A18A4A394C34D99F317": {
+        "sender": "262182034002040@lid",
+        "text": "A etiqueta não aparece quando se responde a conversa do outro, pode ser que ele não tenha visto mesmo 💁🏻‍♀️",
+        "pushName": "Dany",
+        "timestamp": 1788026761890
       }
     },
     "120363428464897153@g.us": {},
@@ -11247,7 +11260,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788026708060,
+    "120363432018531082@g.us": 1788026761890,
     "120363428464897153@g.us": 1787976748279,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788026544319,
