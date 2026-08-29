@@ -174,14 +174,14 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1722,
+        "text": 1723,
         "media": 482,
-        "total": 2204
+        "total": 2205
       },
       "81991328395336": {
-        "text": 3975,
+        "text": 3976,
         "media": 1360,
-        "total": 5335
+        "total": 5336
       },
       "179040627490824": {
         "text": 433,
@@ -2864,9 +2864,9 @@
         "total": 72
       },
       "2135320166432": {
-        "text": 31,
+        "text": 32,
         "media": 3,
-        "total": 34
+        "total": 35
       },
       "239371546579166": {
         "text": 2,
@@ -3550,9 +3550,9 @@
         "total": 615
       },
       "5511927018683": {
-        "text": 615,
+        "text": 616,
         "media": 114,
-        "total": 729
+        "total": 730
       },
       "145381035905262": {
         "text": 506,
@@ -10485,7 +10485,9 @@
         "Celiete Souza (129373172711439): Geralmente é assim",
         "Anderson (+2135320166432): Eu só acordo meio dia",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Como tu sabe?",
-        "Anderson (+2135320166432): Pq quando era casado eu perguntava a minha ex mulher"
+        "Anderson (+2135320166432): Pq quando era casado eu perguntava a minha ex mulher",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Namorei um rapaz um tempo ele disse q não roncava \nFui dormi mais ele \nPassei a noite acordada \nEla cada barulho de ronco",
+        "Anderson (+2135320166432): 😂😂😂😂"
       ]
     },
     "120363428464897153@g.us": {
@@ -17256,7 +17258,8 @@
         "Leandro (+55 (11) 92701-8683): De onde puxou esses dados?",
         "Gabriel (145381035905262): De lá",
         "Leandro (+55 (11) 92701-8683): Mas nesses dados, tem números gringos, integrantes que arrumaram confusão, fakes, menores de idade e integrante de grupos concorrentes",
-        "Gabriel (145381035905262): É"
+        "Gabriel (145381035905262): É",
+        "Leandro (+55 (11) 92701-8683): Então reduz esses 172 para uns 132 ~ 120"
       ]
     },
     "120363411233423709@g.us": {
@@ -17950,6 +17953,18 @@
         "authorName": "Anderson",
         "text": "Pq quando era casado eu perguntava a minha ex mulher",
         "timestamp": 1787972747410
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Namorei um rapaz um tempo ele disse q não roncava \nFui dormi mais ele \nPassei a noite acordada \nEla cada barulho de ronco",
+        "timestamp": 1787972762344
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "😂😂😂😂",
+        "timestamp": 1787972773461
       }
     ],
     "120363428464897153@g.us": [
@@ -18027,6 +18042,12 @@
         "authorName": "Gabriel",
         "text": "É",
         "timestamp": 1787972720134
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Então reduz esses 172 para uns 132 ~ 120",
+        "timestamp": 1787972773167
       }
     ],
     "120363411233423709@g.us": [],
@@ -18043,10 +18064,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22836,
+    "120363432018531082@g.us": 22838,
     "120363428464897153@g.us": 6402,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2225,
+    "120363412288900422@g.us": 2226,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -149059,6 +149080,18 @@
         "text": "Pq quando era casado eu perguntava a minha ex mulher",
         "pushName": "Anderson",
         "timestamp": 1787972747410
+      },
+      "ACDDE228BB44B4B2D115F4BDE7F5F77B": {
+        "sender": "81991328395336@lid",
+        "text": "Namorei um rapaz um tempo ele disse q não roncava \nFui dormi mais ele \nPassei a noite acordada \nEla cada barulho de ronco",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787972762344
+      },
+      "ACFABBFADEDFED7678AB4F51E1E27780": {
+        "sender": "2135320166432@lid",
+        "text": "😂😂😂😂",
+        "pushName": "Anderson",
+        "timestamp": 1787972773461
       }
     },
     "120363428464897153@g.us": {
@@ -201193,6 +201226,12 @@
         "text": "É",
         "pushName": "Gabriel",
         "timestamp": 1787972720134
+      },
+      "A5EA924E0ECB08AB91092F95EAB9A096": {
+        "sender": "54259127210155@lid",
+        "text": "Então reduz esses 172 para uns 132 ~ 120",
+        "pushName": "Leandro",
+        "timestamp": 1787972773167
       }
     },
     "120363411233423709@g.us": {
@@ -204080,10 +204119,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787972747410,
+    "120363432018531082@g.us": 1787972774159,
     "120363428464897153@g.us": 1787972707416,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787972720134,
+    "120363412288900422@g.us": 1787972773166,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
