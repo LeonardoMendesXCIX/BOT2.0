@@ -178,9 +178,9 @@
         "total": 2165
       },
       "81991328395336": {
-        "text": 3955,
+        "text": 3956,
         "media": 1355,
-        "total": 5310
+        "total": 5311
       },
       "179040627490824": {
         "text": 433,
@@ -453,9 +453,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1764,
+        "text": 1765,
         "media": 358,
-        "total": 2122
+        "total": 2123
       },
       "252600633041077": {
         "text": 1,
@@ -9950,8 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Juliano Perlin (222595437858867): Q faz por ai?",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @1395881181241 \n@163530946961491 \n@75797868064796 \n@190864487919667 \n@222595437858867",
         "Gabriel (145381035905262): Caraca Meri Jane",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Jajá me arrumar pra ir no salão",
         "Juliano Perlin (222595437858867): Eitaaa",
@@ -10449,7 +10447,9 @@
         "Juliano Perlin (222595437858867): Ta ai minha apresentaçao",
         "Juliano Perlin (222595437858867): 😎",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Boa Ju",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Quero saber quem te deu permissão pra bota essa foto aqui"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Quero saber quem te deu permissão pra bota essa foto aqui",
+        "Leandro (+55 (11) 92701-8683): Que foto? 🌝",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Se faz"
       ]
     },
     "120363428464897153@g.us": {
@@ -17832,6 +17832,18 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Quero saber quem te deu permissão pra bota essa foto aqui",
         "timestamp": 1787961945273
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Que foto? 🌝",
+        "timestamp": 1787961965963
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Se faz",
+        "timestamp": 1787961970913
       }
     ],
     "120363428464897153@g.us": [],
@@ -17990,7 +18002,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22649,
+    "120363432018531082@g.us": 22651,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2203,
@@ -147902,6 +147914,18 @@
         "text": "Quero saber quem te deu permissão pra bota essa foto aqui",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787961945274
+      },
+      "A52D728B575AF05383A000AA6147B576": {
+        "sender": "54259127210155@lid",
+        "text": "Que foto? 🌝",
+        "pushName": "Leandro",
+        "timestamp": 1787961965963
+      },
+      "ACF6367D95BED1282F9308A5CED676A4": {
+        "sender": "81991328395336@lid",
+        "text": "Se faz",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787961970913
       }
     },
     "120363428464897153@g.us": {
@@ -202095,7 +202119,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787961947367,
+    "120363432018531082@g.us": 1787961970913,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787961762482,
