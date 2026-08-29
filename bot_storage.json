@@ -174,14 +174,14 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1733,
-        "media": 484,
-        "total": 2217
+        "text": 1735,
+        "media": 485,
+        "total": 2220
       },
       "81991328395336": {
-        "text": 3984,
+        "text": 3985,
         "media": 1361,
-        "total": 5345
+        "total": 5346
       },
       "179040627490824": {
         "text": 433,
@@ -294,9 +294,9 @@
         "total": 464
       },
       "262182034002040": {
-        "text": 1921,
+        "text": 1922,
         "media": 123,
-        "total": 2044
+        "total": 2045
       },
       "219245581488326": {
         "text": 4,
@@ -454,9 +454,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1795,
+        "text": 1796,
         "media": 364,
-        "total": 2159
+        "total": 2160
       },
       "252600633041077": {
         "text": 1,
@@ -2864,9 +2864,9 @@
         "total": 72
       },
       "2135320166432": {
-        "text": 40,
+        "text": 43,
         "media": 3,
-        "total": 43
+        "total": 46
       },
       "239371546579166": {
         "text": 2,
@@ -10509,7 +10509,13 @@
         "Anderson (+2135320166432): Deitou dormiu",
         "Anderson (+2135320166432): O mundo pode se acabar eu nem vejo",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Meu sonho",
-        "Celiete Souza (129373172711439): E acorda todo mundo kkkkkk"
+        "Celiete Souza (129373172711439): E acorda todo mundo kkkkkk",
+        "Leandro (+55 (11) 92701-8683): Tô procurando a respeito de apnéia do sono",
+        "Anderson (+2135320166432): Quer apostar?",
+        "Dany (262182034002040): Eu sou assim muitas vezes kkkkk",
+        "Anderson (+2135320166432): Tá super enganada",
+        "Celiete Souza (129373172711439): Boa kkkkkkk",
+        "Anderson (+2135320166432): Se quiser vou até você !"
       ]
     },
     "120363428464897153@g.us": {
@@ -18120,6 +18126,42 @@
         "authorName": "Celiete Souza",
         "text": "E acorda todo mundo kkkkkk",
         "timestamp": 1787973017166
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Tô procurando a respeito de apnéia do sono",
+        "timestamp": 1787973027721
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Quer apostar?",
+        "timestamp": 1787973031962
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Eu sou assim muitas vezes kkkkk",
+        "timestamp": 1787973040181
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Tá super enganada",
+        "timestamp": 1787973045535
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Boa kkkkkkk",
+        "timestamp": 1787973048938
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Se quiser vou até você !",
+        "timestamp": 1787973056977
       }
     ],
     "120363428464897153@g.us": [
@@ -18213,7 +18255,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22860,
+    "120363432018531082@g.us": 22866,
     "120363428464897153@g.us": 6402,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2227,
@@ -149373,6 +149415,42 @@
         "text": "E acorda todo mundo kkkkkk",
         "pushName": "Celiete Souza",
         "timestamp": 1787973017166
+      },
+      "A59649A80C64A53C3C29C93CE35C682D": {
+        "sender": "54259127210155@lid",
+        "text": "Tô procurando a respeito de apnéia do sono",
+        "pushName": "Leandro",
+        "timestamp": 1787973027721
+      },
+      "AC87093E53B48816442907B0EABE0065": {
+        "sender": "2135320166432@lid",
+        "text": "Quer apostar?",
+        "pushName": "Anderson",
+        "timestamp": 1787973031962
+      },
+      "3A27837493DA8BBD4B8F": {
+        "sender": "262182034002040@lid",
+        "text": "Eu sou assim muitas vezes kkkkk",
+        "pushName": "Dany",
+        "timestamp": 1787973040181
+      },
+      "AC529D15797521C8C22D72431427C403": {
+        "sender": "2135320166432@lid",
+        "text": "Tá super enganada",
+        "pushName": "Anderson",
+        "timestamp": 1787973045536
+      },
+      "AC88A2AFA2F23093DEAAE86BD502EFF9": {
+        "sender": "129373172711439@lid",
+        "text": "Boa kkkkkkk",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787973048939
+      },
+      "AC1A12966A14B5919CBC0FC485A67C89": {
+        "sender": "2135320166432@lid",
+        "text": "Se quiser vou até você !",
+        "pushName": "Anderson",
+        "timestamp": 1787973056977
       }
     },
     "120363428464897153@g.us": {
@@ -204406,7 +204484,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787973017166,
+    "120363432018531082@g.us": 1787973066550,
     "120363428464897153@g.us": 1787972707416,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787972789844,
