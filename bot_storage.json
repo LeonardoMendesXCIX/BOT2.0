@@ -319,9 +319,9 @@
         "total": 117
       },
       "199733712785531": {
-        "text": 214,
+        "text": 215,
         "media": 125,
-        "total": 339
+        "total": 340
       },
       "153596754661626": {
         "text": 1,
@@ -9961,7 +9961,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Souza (190864487919667): Chegar em casa é só estudar 🤡",
         "Leandro (+55 (11) 92701-8683): Quem foi o inteligente?",
         "Celiete Souza (129373172711439): Minha internet está ruim, podem ir msgs atrasadas 😘",
         "Celiete Souza (129373172711439): Bom menino 🫶🏻",
@@ -10460,7 +10459,8 @@
         "Anderson (+2135320166432): Vocês são idosos né? Dormem cedo kkkk",
         "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Porque não amor? 🤣🤣",
         "Dany (262182034002040): Hahahah eu tava complementando o que eu tinha escrito antes",
-        "Dany (262182034002040): 🤣🤣"
+        "Dany (262182034002040): 🤣🤣",
+        "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Ah sim 🤣🤣🤣🤣"
       ]
     },
     "120363428464897153@g.us": {
@@ -17750,12 +17750,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "262182034002040",
-        "authorName": "Dany",
-        "text": "Amor, esses emojis não foram para você kkkkk",
-        "timestamp": 1787970444103
-      },
-      {
         "authorNum": "2135320166432",
         "authorName": "Anderson",
         "text": "Vocês são idosos né? Dormem cedo kkkk",
@@ -17778,6 +17772,12 @@
         "authorName": "Dany",
         "text": "🤣🤣",
         "timestamp": 1787971849117
+      },
+      {
+        "authorNum": "199733712785531",
+        "authorName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
+        "text": "Ah sim 🤣🤣🤣🤣",
+        "timestamp": 1787972339501
       }
     ],
     "120363428464897153@g.us": [],
@@ -17870,7 +17870,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22812,
+    "120363432018531082@g.us": 22813,
     "120363428464897153@g.us": 6401,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2221,
@@ -148742,6 +148742,12 @@
         "text": "🤣🤣",
         "pushName": "Dany",
         "timestamp": 1787971849117
+      },
+      "3A91EE30D98D11A60473": {
+        "sender": "199733712785531@lid",
+        "text": "Ah sim 🤣🤣🤣🤣",
+        "pushName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
+        "timestamp": 1787972339501
       }
     },
     "120363428464897153@g.us": {
@@ -203733,7 +203739,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787971849117,
+    "120363432018531082@g.us": 1787972339501,
     "120363428464897153@g.us": 1787971486620,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787972155506,
