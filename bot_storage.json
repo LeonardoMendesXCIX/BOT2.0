@@ -2911,9 +2911,9 @@
         "total": 120
       },
       "1645576491019": {
-        "text": 335,
+        "text": 336,
         "media": 132,
-        "total": 467
+        "total": 468
       },
       "262182034002040": {
         "text": 330,
@@ -3481,9 +3481,9 @@
         "total": 26
       },
       "274384656834700": {
-        "text": 53,
+        "text": 54,
         "media": 18,
-        "total": 71
+        "total": 72
       },
       "34626781356198": {
         "text": 0,
@@ -14705,7 +14705,9 @@
         "Henrique (66743926038604): Tudo bem?",
         "Henrique (66743926038604): Que manda ?",
         "Dany (262182034002040): Boa noite",
-        "Henrique (66743926038604): Boa noite  minha amiga!"
+        "Henrique (66743926038604): Boa noite  minha amiga!",
+        "Gleydson Souza (274384656834700): Boa noite povo",
+        "Jose (+1645576491019): Bouuuaaa"
       ]
     },
     "120363409727467494@g.us": {
@@ -18061,6 +18063,18 @@
         "authorName": "Henrique",
         "text": "Boa noite  minha amiga!",
         "timestamp": 1787968551803
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Boa noite povo",
+        "timestamp": 1787968568767
+      },
+      {
+        "authorNum": "1645576491019",
+        "authorName": "Jose",
+        "text": "Bouuuaaa",
+        "timestamp": 1787968581415
       }
     ],
     "120363409727467494@g.us": [],
@@ -18080,7 +18094,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 22739,
-    "120363428464897153@g.us": 6393,
+    "120363428464897153@g.us": 6395,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2209,
     "120363411233423709@g.us": 5,
@@ -186051,6 +186065,18 @@
         "text": "Boa noite  minha amiga!",
         "pushName": "Henrique",
         "timestamp": 1787968551803
+      },
+      "AC9E77C22B18C506011C510F3A7EF9D3": {
+        "sender": "274384656834700@lid",
+        "text": "Boa noite povo",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787968568767
+      },
+      "3A6C67D7A80813AD9D9E": {
+        "sender": "1645576491019@lid",
+        "text": "Bouuuaaa",
+        "pushName": "Jose",
+        "timestamp": 1787968581415
       }
     },
     "120363409727467494@g.us": {
@@ -203391,7 +203417,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787968301317,
-    "120363428464897153@g.us": 1787968551803,
+    "120363428464897153@g.us": 1787968581415,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787964813002,
     "120363411233423709@g.us": 1787113553426,
