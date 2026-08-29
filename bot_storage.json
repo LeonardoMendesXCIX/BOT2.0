@@ -174,9 +174,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1746,
+        "text": 1747,
         "media": 490,
-        "total": 2236
+        "total": 2237
       },
       "81991328395336": {
         "text": 3989,
@@ -454,9 +454,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1797,
-        "media": 364,
-        "total": 2161
+        "text": 1798,
+        "media": 366,
+        "total": 2164
       },
       "252600633041077": {
         "text": 1,
@@ -2865,8 +2865,8 @@
       },
       "2135320166432": {
         "text": 56,
-        "media": 7,
-        "total": 63
+        "media": 8,
+        "total": 64
       },
       "239371546579166": {
         "text": 2,
@@ -10535,7 +10535,9 @@
         "Anderson (+2135320166432): Se der casamento a layh é a madrinha",
         "Anderson (+2135320166432): Muito",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): E pra isso qfico acordada até tarde",
-        "Leandro (+55 (11) 92701-8683): Pqp 😂"
+        "Leandro (+55 (11) 92701-8683): Pqp 😂",
+        "Leandro (+55 (11) 92701-8683): Essa figurinha do tiringa que faltava para o meu catálogo",
+        "Celiete Souza (129373172711439): Nem sei quem é kkkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -18290,6 +18292,18 @@
         "authorName": "Leandro",
         "text": "Pqp 😂",
         "timestamp": 1787973592930
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Essa figurinha do tiringa que faltava para o meu catálogo",
+        "timestamp": 1787973611497
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Nem sei quem é kkkk",
+        "timestamp": 1787973637011
       }
     ],
     "120363428464897153@g.us": [
@@ -18302,30 +18316,6 @@
     ],
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Uns 20 a 30 no máximo",
-        "timestamp": 1787971579614
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Só que eu já contei uns 15 que saiu por livre e espontânea vontade",
-        "timestamp": 1787971592246
-      },
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Sai, e vem mais",
-        "timestamp": 1787971606644
-      },
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Não precisamos se preocupar",
-        "timestamp": 1787971615435
-      },
       {
         "authorNum": "145381035905262",
         "authorName": "Gabriel",
@@ -18383,7 +18373,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22886,
+    "120363432018531082@g.us": 22888,
     "120363428464897153@g.us": 6402,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2227,
@@ -149699,6 +149689,18 @@
         "text": "Pqp 😂",
         "pushName": "Leandro",
         "timestamp": 1787973592930
+      },
+      "A5661B62C6D5D99BFD92ED4588203A16": {
+        "sender": "54259127210155@lid",
+        "text": "Essa figurinha do tiringa que faltava para o meu catálogo",
+        "pushName": "Leandro",
+        "timestamp": 1787973611498
+      },
+      "ACFE3314148E09DC6AB58768E8D4EBCD": {
+        "sender": "129373172711439@lid",
+        "text": "Nem sei quem é kkkk",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787973637012
       }
     },
     "120363428464897153@g.us": {
@@ -204732,7 +204734,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787973592930,
+    "120363432018531082@g.us": 1787973637011,
     "120363428464897153@g.us": 1787972707416,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787972789844,
