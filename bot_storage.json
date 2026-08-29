@@ -1,7 +1,9 @@
 {
   "states": {
     "145381035905262": {
-      "mode": "football_menu"
+      "mode": "football_query",
+      "leagueId": 73,
+      "leagueName": "Copa do Brasil"
     },
     "54259127210155": {
       "mode": "inativos_confirm_removal",
@@ -240,9 +242,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2288,
+        "text": 2290,
         "media": 481,
-        "total": 2769
+        "total": 2771
       },
       "184237705699536": {
         "text": 524,
@@ -7322,7 +7324,8 @@
         "Leandro: Bem vindo jovem 🤝",
         "Rodolfo Carmona Mazon: Valeu irmão 🙌🏻",
         "Gabriel: Saudações nobre",
-        "Leandro: !inativos"
+        "Leandro: !inativos",
+        "Gabriel: 2"
       ]
     },
     "120363428464897153@g.us": {
@@ -10545,6 +10548,12 @@
         "authorName": "Leandro",
         "text": "!inativos",
         "timestamp": 1788029977087
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "2",
+        "timestamp": 1788029987580
       }
     ],
     "120363428464897153@g.us": [],
@@ -10565,7 +10574,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 59,
+    "120363432018531082@g.us": 60,
     "120363428464897153@g.us": 6425,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2256,
@@ -11099,6 +11108,12 @@
         "text": "!inativos",
         "pushName": "Leandro",
         "timestamp": 1788029977087
+      },
+      "AC80D6CBB9D80A8F1BAE25AD6997AB8F": {
+        "sender": "145381035905262@lid",
+        "text": "2",
+        "pushName": "Gabriel",
+        "timestamp": 1788029987580
       }
     },
     "120363428464897153@g.us": {},
@@ -11328,7 +11343,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788029977087,
+    "120363432018531082@g.us": 1788030005133,
     "120363428464897153@g.us": 1787976748279,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788027730338,
