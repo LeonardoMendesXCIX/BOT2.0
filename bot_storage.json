@@ -4,33 +4,6 @@
       "mode": "football_query",
       "leagueId": 73,
       "leagueName": "Copa do Brasil"
-    },
-    "54259127210155": {
-      "mode": "inativos_confirm_removal",
-      "targetChat": "120363432018531082@g.us",
-      "inactiveList": [
-        {
-          "jid": "235080807116869@s.whatsapp.net",
-          "number": "235080807116869",
-          "formattedNum": "235080807116869",
-          "pushName": "",
-          "fullDisplay": "*Membro*",
-          "nameAndNumber": "*Membro*",
-          "mentionTag": "@235080807116869",
-          "removeJid": "235080807116869@lid"
-        },
-        {
-          "jid": "208855871008768@s.whatsapp.net",
-          "number": "208855871008768",
-          "formattedNum": "208855871008768",
-          "pushName": "",
-          "fullDisplay": "*Membro*",
-          "nameAndNumber": "*Membro*",
-          "mentionTag": "@208855871008768",
-          "removeJid": "208855871008768@lid"
-        }
-      ],
-      "date": 1788029977482
     }
   },
   "cache": {
@@ -242,9 +215,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2290,
+        "text": 2291,
         "media": 481,
-        "total": 2771
+        "total": 2772
       },
       "184237705699536": {
         "text": 524,
@@ -507,9 +480,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1822,
+        "text": 1823,
         "media": 373,
-        "total": 2195
+        "total": 2196
       },
       "252600633041077": {
         "text": 1,
@@ -7325,7 +7298,9 @@
         "Rodolfo Carmona Mazon: Valeu irmão 🙌🏻",
         "Gabriel: Saudações nobre",
         "Leandro: !inativos",
-        "Gabriel: 2"
+        "Gabriel: 2",
+        "Gabriel: Bicho tá doido",
+        "Leandro: Ele responde individualmente"
       ]
     },
     "120363428464897153@g.us": {
@@ -10554,6 +10529,18 @@
         "authorName": "Gabriel",
         "text": "2",
         "timestamp": 1788029987580
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Bicho tá doido",
+        "timestamp": 1788030013277
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Ele responde individualmente",
+        "timestamp": 1788030037459
       }
     ],
     "120363428464897153@g.us": [],
@@ -10574,7 +10561,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 60,
+    "120363432018531082@g.us": 62,
     "120363428464897153@g.us": 6425,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2256,
@@ -11114,6 +11101,18 @@
         "text": "2",
         "pushName": "Gabriel",
         "timestamp": 1788029987580
+      },
+      "AC69D7D42BC96BA3223A0E31FEA45505": {
+        "sender": "145381035905262@lid",
+        "text": "Bicho tá doido",
+        "pushName": "Gabriel",
+        "timestamp": 1788030013278
+      },
+      "A5CD5F5F1D4E705F29E50B93A1EF853C": {
+        "sender": "54259127210155@lid",
+        "text": "Ele responde individualmente",
+        "pushName": "Leandro",
+        "timestamp": 1788030037459
       }
     },
     "120363428464897153@g.us": {},
@@ -11343,7 +11342,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788030005133,
+    "120363432018531082@g.us": 1788030037459,
     "120363428464897153@g.us": 1787976748279,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788027730338,
