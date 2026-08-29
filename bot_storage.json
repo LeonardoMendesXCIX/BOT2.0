@@ -174,14 +174,14 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1728,
+        "text": 1731,
         "media": 483,
-        "total": 2211
+        "total": 2214
       },
       "81991328395336": {
-        "text": 3979,
+        "text": 3982,
         "media": 1361,
-        "total": 5340
+        "total": 5343
       },
       "179040627490824": {
         "text": 433,
@@ -294,9 +294,9 @@
         "total": 464
       },
       "262182034002040": {
-        "text": 1920,
+        "text": 1921,
         "media": 123,
-        "total": 2043
+        "total": 2044
       },
       "219245581488326": {
         "text": 4,
@@ -10497,7 +10497,10 @@
         "Anderson (+2135320166432): Ainda bem que sou de boa",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Tem uns que ronca que se engasga",
         "Anderson (+2135320166432): Kkkkk",
-        "Celiete Souza (129373172711439): Exatamente"
+        "Celiete Souza (129373172711439): Exatamente",
+        "Dany (262182034002040): Traumas… tenho traumas",
+        "Celiete Souza (129373172711439): Outra kkkk",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @54259127210155 tu ronca?"
       ]
     },
     "120363428464897153@g.us": {
@@ -18036,6 +18039,24 @@
         "authorName": "Celiete Souza",
         "text": "Exatamente",
         "timestamp": 1787972871549
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Traumas… tenho traumas",
+        "timestamp": 1787972932097
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Outra kkkk",
+        "timestamp": 1787972943716
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "@54259127210155 tu ronca?",
+        "timestamp": 1787972957477
       }
     ],
     "120363428464897153@g.us": [
@@ -18141,7 +18162,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22848,
+    "120363432018531082@g.us": 22851,
     "120363428464897153@g.us": 6402,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2227,
@@ -149229,6 +149250,24 @@
         "text": "Exatamente",
         "pushName": "Celiete Souza",
         "timestamp": 1787972871549
+      },
+      "3AD6807E60D641F16CDA": {
+        "sender": "262182034002040@lid",
+        "text": "Traumas… tenho traumas",
+        "pushName": "Dany",
+        "timestamp": 1787972932097
+      },
+      "AC67EAA7D7326DB8890623A8026E8433": {
+        "sender": "129373172711439@lid",
+        "text": "Outra kkkk",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787972943717
+      },
+      "AC427D215DD424614E9A1A3A07B5A61A": {
+        "sender": "81991328395336@lid",
+        "text": "@54259127210155 tu ronca?",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787972957478
       }
     },
     "120363428464897153@g.us": {
@@ -204262,7 +204301,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787972908318,
+    "120363432018531082@g.us": 1787972963209,
     "120363428464897153@g.us": 1787972707416,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787972789844,
