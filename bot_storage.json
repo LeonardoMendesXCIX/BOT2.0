@@ -174,9 +174,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1742,
+        "text": 1743,
         "media": 490,
-        "total": 2232
+        "total": 2233
       },
       "81991328395336": {
         "text": 3988,
@@ -2864,9 +2864,9 @@
         "total": 72
       },
       "2135320166432": {
-        "text": 50,
+        "text": 53,
         "media": 7,
-        "total": 57
+        "total": 60
       },
       "239371546579166": {
         "text": 2,
@@ -10525,7 +10525,11 @@
         "Anderson (+2135320166432): 😌",
         "Celiete Souza (129373172711439): Um bhaiano e uma gaúcha olha só",
         "Anderson (+2135320166432): Exatamente",
-        "Celiete Souza (129373172711439): Que mistura boa kkkkkl"
+        "Celiete Souza (129373172711439): Que mistura boa kkkkkl",
+        "Anderson (+2135320166432): Gravataí",
+        "Anderson (+2135320166432): Né ?",
+        "Celiete Souza (129373172711439): Sim kkkkkk",
+        "Anderson (+2135320166432): 😌"
       ]
     },
     "120363428464897153@g.us": {
@@ -17826,12 +17830,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "199733712785531",
-        "authorName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
-        "text": "Porque não amor? 🤣🤣",
-        "timestamp": 1787971637897
-      },
-      {
         "authorNum": "262182034002040",
         "authorName": "Dany",
         "text": "Hahahah eu tava complementando o que eu tinha escrito antes",
@@ -18226,6 +18224,30 @@
         "authorName": "Celiete Souza",
         "text": "Que mistura boa kkkkkl",
         "timestamp": 1787973380828
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Gravataí",
+        "timestamp": 1787973437561
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Né ?",
+        "timestamp": 1787973442567
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Sim kkkkkk",
+        "timestamp": 1787973451536
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "😌",
+        "timestamp": 1787973455402
       }
     ],
     "120363428464897153@g.us": [
@@ -18319,7 +18341,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22876,
+    "120363432018531082@g.us": 22880,
     "120363428464897153@g.us": 6402,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2227,
@@ -149575,6 +149597,30 @@
         "text": "Que mistura boa kkkkkl",
         "pushName": "Celiete Souza",
         "timestamp": 1787973380828
+      },
+      "AC8B09FF1C16144EBFB014B4598CEB95": {
+        "sender": "2135320166432@lid",
+        "text": "Gravataí",
+        "pushName": "Anderson",
+        "timestamp": 1787973437562
+      },
+      "ACDBA70BE5D4116F6130EF5003F013E2": {
+        "sender": "2135320166432@lid",
+        "text": "Né ?",
+        "pushName": "Anderson",
+        "timestamp": 1787973442567
+      },
+      "AC680831815DFD461F12BBC5C7746887": {
+        "sender": "129373172711439@lid",
+        "text": "Sim kkkkkk",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787973451536
+      },
+      "AC018E37B1D7A01FB689F5B06EE61529": {
+        "sender": "2135320166432@lid",
+        "text": "😌",
+        "pushName": "Anderson",
+        "timestamp": 1787973455402
       }
     },
     "120363428464897153@g.us": {
@@ -204608,7 +204654,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787973424348,
+    "120363432018531082@g.us": 1787973455402,
     "120363428464897153@g.us": 1787972707416,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787972789844,
