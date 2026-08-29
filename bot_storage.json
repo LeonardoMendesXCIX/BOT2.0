@@ -174,9 +174,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1723,
+        "text": 1725,
         "media": 482,
-        "total": 2205
+        "total": 2207
       },
       "81991328395336": {
         "text": 3976,
@@ -2864,9 +2864,9 @@
         "total": 72
       },
       "2135320166432": {
-        "text": 32,
+        "text": 33,
         "media": 3,
-        "total": 35
+        "total": 36
       },
       "239371546579166": {
         "text": 2,
@@ -3550,9 +3550,9 @@
         "total": 615
       },
       "5511927018683": {
-        "text": 616,
+        "text": 617,
         "media": 114,
-        "total": 730
+        "total": 731
       },
       "145381035905262": {
         "text": 506,
@@ -10487,7 +10487,10 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Como tu sabe?",
         "Anderson (+2135320166432): Pq quando era casado eu perguntava a minha ex mulher",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Namorei um rapaz um tempo ele disse q não roncava \nFui dormi mais ele \nPassei a noite acordada \nEla cada barulho de ronco",
-        "Anderson (+2135320166432): 😂😂😂😂"
+        "Anderson (+2135320166432): 😂😂😂😂",
+        "Celiete Souza (129373172711439): Tenho traumas com ronco kkkk",
+        "Anderson (+2135320166432): Haha ja se foi o tempo",
+        "Celiete Souza (129373172711439): Dormia com um trator"
       ]
     },
     "120363428464897153@g.us": {
@@ -17259,7 +17262,8 @@
         "Gabriel (145381035905262): De lá",
         "Leandro (+55 (11) 92701-8683): Mas nesses dados, tem números gringos, integrantes que arrumaram confusão, fakes, menores de idade e integrante de grupos concorrentes",
         "Gabriel (145381035905262): É",
-        "Leandro (+55 (11) 92701-8683): Então reduz esses 172 para uns 132 ~ 120"
+        "Leandro (+55 (11) 92701-8683): Então reduz esses 172 para uns 132 ~ 120",
+        "Leandro (+55 (11) 92701-8683): Ainda é um número alto"
       ]
     },
     "120363411233423709@g.us": {
@@ -17965,6 +17969,24 @@
         "authorName": "Anderson",
         "text": "😂😂😂😂",
         "timestamp": 1787972773461
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Tenho traumas com ronco kkkk",
+        "timestamp": 1787972787212
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Haha ja se foi o tempo",
+        "timestamp": 1787972806864
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Dormia com um trator",
+        "timestamp": 1787972807518
       }
     ],
     "120363428464897153@g.us": [
@@ -18048,6 +18070,12 @@
         "authorName": "Leandro",
         "text": "Então reduz esses 172 para uns 132 ~ 120",
         "timestamp": 1787972773167
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Ainda é um número alto",
+        "timestamp": 1787972789844
       }
     ],
     "120363411233423709@g.us": [],
@@ -18064,10 +18092,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22838,
+    "120363432018531082@g.us": 22841,
     "120363428464897153@g.us": 6402,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2226,
+    "120363412288900422@g.us": 2227,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -149092,6 +149120,24 @@
         "text": "😂😂😂😂",
         "pushName": "Anderson",
         "timestamp": 1787972773461
+      },
+      "AC10C253E52987CD5CCC5C6204865FC0": {
+        "sender": "129373172711439@lid",
+        "text": "Tenho traumas com ronco kkkk",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787972787212
+      },
+      "AC4E8A97854E064F009E8139C96655FB": {
+        "sender": "2135320166432@lid",
+        "text": "Haha ja se foi o tempo",
+        "pushName": "Anderson",
+        "timestamp": 1787972806864
+      },
+      "AC04B73881C275011BB796AC61DADAC9": {
+        "sender": "129373172711439@lid",
+        "text": "Dormia com um trator",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787972807518
       }
     },
     "120363428464897153@g.us": {
@@ -201232,6 +201278,12 @@
         "text": "Então reduz esses 172 para uns 132 ~ 120",
         "pushName": "Leandro",
         "timestamp": 1787972773167
+      },
+      "A523089564B445CFFAF8AED02743B5B1": {
+        "sender": "54259127210155@lid",
+        "text": "Ainda é um número alto",
+        "pushName": "Leandro",
+        "timestamp": 1787972789844
       }
     },
     "120363411233423709@g.us": {
@@ -204119,10 +204171,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787972774159,
+    "120363432018531082@g.us": 1787972807518,
     "120363428464897153@g.us": 1787972707416,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787972773166,
+    "120363412288900422@g.us": 1787972789844,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
