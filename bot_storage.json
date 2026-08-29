@@ -189,9 +189,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2267,
+        "text": 2268,
         "media": 479,
-        "total": 2746
+        "total": 2747
       },
       "184237705699536": {
         "text": 524,
@@ -294,9 +294,9 @@
         "total": 464
       },
       "262182034002040": {
-        "text": 1905,
+        "text": 1906,
         "media": 123,
-        "total": 2028
+        "total": 2029
       },
       "219245581488326": {
         "text": 4,
@@ -9961,8 +9961,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Celiete Souza (129373172711439): Eu sou uma anja",
-        "Bruno Aguiar (+1395881181241): Então sou um santo 😁😁",
         "Celiete Souza (129373172711439): Melhor deixar quieto né 🤣🤣🤣🤣",
         "F. RicaRdo sAnToS (193729163993156): Bom dos grupos é sempre renovar as figurinhas",
         "Bruno Aguiar (+1395881181241): 😢😢",
@@ -10460,7 +10458,9 @@
         "Lailson Nathan. (272048228188398): Quero ir e fazer história, construir um legado irmão.",
         "Gabriel (145381035905262): Então tá",
         "Gabriel (145381035905262): Nunca serão",
-        "Lailson Nathan. (272048228188398): Acho que lá vai dar bom,  tem muita gente de outro nível lá."
+        "Lailson Nathan. (272048228188398): Acho que lá vai dar bom,  tem muita gente de outro nível lá.",
+        "Dany (262182034002040): Hm sei",
+        "Gabriel (145381035905262): Dany, não perco pra ninguém na corretagem"
       ]
     },
     "120363428464897153@g.us": {
@@ -18083,6 +18083,18 @@
         "authorName": "Lailson Nathan.",
         "text": "Acho que lá vai dar bom,  tem muita gente de outro nível lá.",
         "timestamp": 1787969313992
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Hm sei",
+        "timestamp": 1787969322663
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Dany, não perco pra ninguém na corretagem",
+        "timestamp": 1787969344668
       }
     ],
     "120363428464897153@g.us": [
@@ -18259,7 +18271,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22777,
+    "120363432018531082@g.us": 22779,
     "120363428464897153@g.us": 6400,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2209,
@@ -148921,6 +148933,18 @@
         "text": "Acho que lá vai dar bom,  tem muita gente de outro nível lá.",
         "pushName": "Lailson Nathan.",
         "timestamp": 1787969313993
+      },
+      "3AA9648576EB4718176B": {
+        "sender": "262182034002040@lid",
+        "text": "Hm sei",
+        "pushName": "Dany",
+        "timestamp": 1787969322663
+      },
+      "AC68491BD7E9F2E3BA560974F011E55B": {
+        "sender": "145381035905262@lid",
+        "text": "Dany, não perco pra ninguém na corretagem",
+        "pushName": "Gabriel",
+        "timestamp": 1787969344669
       }
     },
     "120363428464897153@g.us": {
@@ -203834,7 +203858,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787969313992,
+    "120363432018531082@g.us": 1787969344668,
     "120363428464897153@g.us": 1787969267605,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787964813002,
