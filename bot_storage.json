@@ -383,9 +383,9 @@
         "total": 495
       },
       "222595437858867": {
-        "text": 560,
+        "text": 561,
         "media": 59,
-        "total": 619
+        "total": 620
       },
       "83280154103884": {
         "text": 36,
@@ -453,9 +453,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1765,
+        "text": 1768,
         "media": 358,
-        "total": 2123
+        "total": 2126
       },
       "252600633041077": {
         "text": 1,
@@ -9950,8 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Gabriel (145381035905262): Caraca Meri Jane",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Jajá me arrumar pra ir no salão",
         "Juliano Perlin (222595437858867): Eitaaa",
         "Juliano Perlin (222595437858867): 🤭",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): MEODEOS",
@@ -10449,7 +10447,9 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Boa Ju",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Quero saber quem te deu permissão pra bota essa foto aqui",
         "Leandro (+55 (11) 92701-8683): Que foto? 🌝",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Se faz"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Se faz",
+        "Juliano Perlin (222595437858867): Alguem vai dormir na casinha do cachorro hj🤣🤣🤣",
+        "Leandro (+55 (11) 92701-8683): Obrigado jovem! 🫡"
       ]
     },
     "120363428464897153@g.us": {
@@ -17844,6 +17844,18 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Se faz",
         "timestamp": 1787961970913
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Alguem vai dormir na casinha do cachorro hj🤣🤣🤣",
+        "timestamp": 1787961987825
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Obrigado jovem! 🫡",
+        "timestamp": 1787962002048
       }
     ],
     "120363428464897153@g.us": [],
@@ -18002,7 +18014,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22651,
+    "120363432018531082@g.us": 22653,
     "120363428464897153@g.us": 6286,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2203,
@@ -147926,6 +147938,18 @@
         "text": "Se faz",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787961970913
+      },
+      "AC53F1E0E7E1D0DFD90D142DD9D4E5F1": {
+        "sender": "222595437858867@lid",
+        "text": "Alguem vai dormir na casinha do cachorro hj🤣🤣🤣",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1787961987825
+      },
+      "A5D49FB2E7EC077F26756EA67D19F956": {
+        "sender": "54259127210155@lid",
+        "text": "Obrigado jovem! 🫡",
+        "pushName": "Leandro",
+        "timestamp": 1787962002048
       }
     },
     "120363428464897153@g.us": {
@@ -202119,7 +202143,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787961970913,
+    "120363432018531082@g.us": 1787962017565,
     "120363428464897153@g.us": 1787915623478,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787961762482,
