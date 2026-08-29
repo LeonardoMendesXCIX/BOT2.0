@@ -2956,9 +2956,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 413,
-        "media": 88,
-        "total": 501
+        "text": 416,
+        "media": 89,
+        "total": 505
       },
       "120363428464897153": {
         "text": 11,
@@ -3331,14 +3331,14 @@
         "total": 1
       },
       "25520947339303": {
-        "text": 48,
+        "text": 50,
         "media": 1,
-        "total": 49
+        "total": 51
       },
       "66743926038604": {
-        "text": 65,
+        "text": 66,
         "media": 13,
-        "total": 78
+        "total": 79
       },
       "227298829721789": {
         "text": 1,
@@ -14830,7 +14830,13 @@
         "Vini 👑🏁🙌⚽ (270377049690114): Eitaaa estilo dark é? 👀🖤",
         "Leandro (+55 (11) 92701-8683): Olha todo esse silêncio... @all",
         "Henrique (66743926038604): Tô por  aqui",
-        "Priscilla 🌻 (25520947339303): Eu tô trabalhando kkkkkkkk"
+        "Priscilla 🌻 (25520947339303): Eu tô trabalhando kkkkkkkk",
+        "Leandro (+55 (11) 92701-8683): Enquanto uns coisa, outros trabalham...",
+        "Leandro (+55 (11) 92701-8683): Fazer o que né",
+        "Leandro (+55 (11) 92701-8683): A vida da dessas",
+        "Henrique (66743926038604): Posso  PV ?",
+        "Priscilla 🌻 (25520947339303): Exatamente",
+        "Priscilla 🌻 (25520947339303): 🤣🤣🤣"
       ]
     },
     "120363409727467494@g.us": {
@@ -18131,6 +18137,42 @@
         "authorName": "Priscilla 🌻",
         "text": "Eu tô trabalhando kkkkkkkk",
         "timestamp": 1787975262801
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Enquanto uns coisa, outros trabalham...",
+        "timestamp": 1787975294252
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Fazer o que né",
+        "timestamp": 1787975298112
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "A vida da dessas",
+        "timestamp": 1787975301505
+      },
+      {
+        "authorNum": "66743926038604",
+        "authorName": "Henrique",
+        "text": "Posso  PV ?",
+        "timestamp": 1787975302492
+      },
+      {
+        "authorNum": "25520947339303",
+        "authorName": "Priscilla 🌻",
+        "text": "Exatamente",
+        "timestamp": 1787975306957
+      },
+      {
+        "authorNum": "25520947339303",
+        "authorName": "Priscilla 🌻",
+        "text": "🤣🤣🤣",
+        "timestamp": 1787975310066
       }
     ],
     "120363409727467494@g.us": [],
@@ -18157,7 +18199,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 22917,
-    "120363428464897153@g.us": 6405,
+    "120363428464897153@g.us": 6411,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2227,
     "120363411233423709@g.us": 5,
@@ -187262,6 +187304,42 @@
         "text": "Eu tô trabalhando kkkkkkkk",
         "pushName": "Priscilla 🌻",
         "timestamp": 1787975262802
+      },
+      "A51FB727A490AD5EAE25AC9D798A41EE": {
+        "sender": "54259127210155@lid",
+        "text": "Enquanto uns coisa, outros trabalham...",
+        "pushName": "Leandro",
+        "timestamp": 1787975294252
+      },
+      "A500A1546DA31BBFD4AC590B90C1CE46": {
+        "sender": "54259127210155@lid",
+        "text": "Fazer o que né",
+        "pushName": "Leandro",
+        "timestamp": 1787975298112
+      },
+      "A55F0FF92EA02D1D855D5F735333FFD4": {
+        "sender": "54259127210155@lid",
+        "text": "A vida da dessas",
+        "pushName": "Leandro",
+        "timestamp": 1787975301505
+      },
+      "AC3C976A5511BA0E3CA2EB78B16A8844": {
+        "sender": "66743926038604@lid",
+        "text": "Posso  PV ?",
+        "pushName": "Henrique",
+        "timestamp": 1787975302492
+      },
+      "AC9C3A8CB5E5E31F40C1B186A3F5081C": {
+        "sender": "25520947339303@lid",
+        "text": "Exatamente",
+        "pushName": "Priscilla 🌻",
+        "timestamp": 1787975306958
+      },
+      "AC4E2E527A79FDB706A0112F0492BEBB": {
+        "sender": "25520947339303@lid",
+        "text": "🤣🤣🤣",
+        "pushName": "Priscilla 🌻",
+        "timestamp": 1787975310066
       }
     },
     "120363409727467494@g.us": {
@@ -204716,7 +204794,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787975239325,
-    "120363428464897153@g.us": 1787975262801,
+    "120363428464897153@g.us": 1787975310066,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787972789844,
     "120363411233423709@g.us": 1787113553426,
