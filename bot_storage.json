@@ -174,9 +174,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1703,
+        "text": 1704,
         "media": 475,
-        "total": 2178
+        "total": 2179
       },
       "81991328395336": {
         "text": 3971,
@@ -9956,7 +9956,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Gabriel (145381035905262): Nunca nem usei Jequiti",
         "Celiete Souza (129373172711439): Boa tarde nega 😘",
         "Gabriel (145381035905262): @272048228188398 , @214156045242435 , @129373172711439  olhem isso 😂😂",
         "Camila Designer (92629643563147): Eu acho que sim 😂😂😂",
@@ -10455,7 +10454,8 @@
         "Anderson (+2135320166432): Anderson Silva \n34 anos\nIlhéus -bahia",
         "Anderson (+2135320166432): Boa noite",
         "Celiete Souza (129373172711439): Boa noite",
-        "Anderson (+2135320166432): Tudo bem ?"
+        "Anderson (+2135320166432): Tudo bem ?",
+        "Celiete Souza (129373172711439): Tudo bem"
       ]
     },
     "120363428464897153@g.us": {
@@ -17736,6 +17736,12 @@
         "authorName": "Anderson",
         "text": "Tudo bem ?",
         "timestamp": 1787967495812
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Tudo bem",
+        "timestamp": 1787967683355
       }
     ],
     "120363428464897153@g.us": [
@@ -17966,7 +17972,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22719,
+    "120363432018531082@g.us": 22720,
     "120363428464897153@g.us": 6382,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2209,
@@ -148286,6 +148292,12 @@
         "text": "Tudo bem ?",
         "pushName": "Anderson",
         "timestamp": 1787967495812
+      },
+      "AC4E2FE0BF56FD69C1578B84E33DAD30": {
+        "sender": "129373172711439@lid",
+        "text": "Tudo bem",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787967683356
       }
     },
     "120363428464897153@g.us": {
@@ -203091,7 +203103,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787967495812,
+    "120363432018531082@g.us": 1787967683354,
     "120363428464897153@g.us": 1787967661858,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787964813002,
