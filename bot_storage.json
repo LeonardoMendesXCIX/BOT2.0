@@ -3550,9 +3550,9 @@
         "total": 615
       },
       "5511927018683": {
-        "text": 617,
+        "text": 618,
         "media": 114,
-        "total": 731
+        "total": 732
       },
       "145381035905262": {
         "text": 506,
@@ -17372,7 +17372,8 @@
         "Leandro (+55 (11) 92701-8683): Mas nesses dados, tem números gringos, integrantes que arrumaram confusão, fakes, menores de idade e integrante de grupos concorrentes",
         "Gabriel (145381035905262): É",
         "Leandro (+55 (11) 92701-8683): Então reduz esses 172 para uns 132 ~ 120",
-        "Leandro (+55 (11) 92701-8683): Ainda é um número alto"
+        "Leandro (+55 (11) 92701-8683): Ainda é um número alto",
+        "Leandro (+55 (11) 92701-8683): Pessoal, vou fechar os 3 grupos e mais tarde o 1° que entrar aqui, abre os grupos... Já vou aproveitar que deu uma acalmada e fazer alguns ajustes no bot, por que tem umas correções pendentes, vou dei"
       ]
     },
     "120363411233423709@g.us": {
@@ -18236,7 +18237,14 @@
       }
     ],
     "120363409727467494@g.us": [],
-    "120363412288900422@g.us": [],
+    "120363412288900422@g.us": [
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Pessoal, vou fechar os 3 grupos e mais tarde o 1° que entrar aqui, abre os grupos... Já vou aproveitar que deu uma acalmada e fazer alguns ajustes no bot, por que tem umas correções pendentes, vou deixar a aprovação de membros habilitada",
+        "timestamp": 1787975765750
+      }
+    ],
     "120363411233423709@g.us": [],
     "120363428079168524@g.us": [],
     "120363411246936023@g.us": [],
@@ -18261,7 +18269,7 @@
     "120363432018531082@g.us": 22929,
     "120363428464897153@g.us": 6423,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2227,
+    "120363412288900422@g.us": 2228,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -202111,6 +202119,12 @@
         "text": "Ainda é um número alto",
         "pushName": "Leandro",
         "timestamp": 1787972789844
+      },
+      "A52440597F64C13D423618BF70858AF3": {
+        "sender": "54259127210155@lid",
+        "text": "Pessoal, vou fechar os 3 grupos e mais tarde o 1° que entrar aqui, abre os grupos... Já vou aproveitar que deu uma acalmada e fazer alguns ajustes no bot, por que tem umas correções pendentes, vou deixar a aprovação de membros habilitada",
+        "pushName": "Leandro",
+        "timestamp": 1787975765750
       }
     },
     "120363411233423709@g.us": {
@@ -205007,7 +205021,7 @@
     "120363432018531082@g.us": 1787975629806,
     "120363428464897153@g.us": 1787975585958,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787972789844,
+    "120363412288900422@g.us": 1787975765750,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
