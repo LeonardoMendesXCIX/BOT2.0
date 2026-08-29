@@ -215,9 +215,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2296,
+        "text": 2297,
         "media": 481,
-        "total": 2777
+        "total": 2778
       },
       "184237705699536": {
         "text": 524,
@@ -480,9 +480,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1827,
+        "text": 1828,
         "media": 373,
-        "total": 2200
+        "total": 2201
       },
       "252600633041077": {
         "text": 1,
@@ -7308,7 +7308,9 @@
         "Leandro: 🤷🏻‍♂️",
         "Gabriel: Bannn",
         "Gabriel: Bote, que vamos usar",
-        "Leandro: Vai usar mesmo?"
+        "Leandro: Vai usar mesmo?",
+        "Gabriel: Eu sempre usei",
+        "Leandro: Certeza?"
       ]
     },
     "120363428464897153@g.us": {
@@ -10597,6 +10599,18 @@
         "authorName": "Leandro",
         "text": "Vai usar mesmo?",
         "timestamp": 1788030334851
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Eu sempre usei",
+        "timestamp": 1788030344718
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Certeza?",
+        "timestamp": 1788030348643
       }
     ],
     "120363428464897153@g.us": [],
@@ -10617,7 +10631,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 1,
+    "120363432018531082@g.us": 3,
     "120363428464897153@g.us": 6425,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2256,
@@ -11217,6 +11231,18 @@
         "text": "Vai usar mesmo?",
         "pushName": "Leandro",
         "timestamp": 1788030334851
+      },
+      "AC38BB64C973D579E4967DD43A5AFF2A": {
+        "sender": "145381035905262@lid",
+        "text": "Eu sempre usei",
+        "pushName": "Gabriel",
+        "timestamp": 1788030344718
+      },
+      "A537DE6346DCC3B0E4DF36B5D3F9BB15": {
+        "sender": "54259127210155@lid",
+        "text": "Certeza?",
+        "pushName": "Leandro",
+        "timestamp": 1788030348643
       }
     },
     "120363428464897153@g.us": {},
@@ -11446,7 +11472,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788030334851,
+    "120363432018531082@g.us": 1788030348643,
     "120363428464897153@g.us": 1787976748279,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788027730338,
