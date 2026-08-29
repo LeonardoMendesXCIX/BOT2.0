@@ -180,8 +180,8 @@
       },
       "81991328395336": {
         "text": 3971,
-        "media": 1359,
-        "total": 5330
+        "media": 1360,
+        "total": 5331
       },
       "179040627490824": {
         "text": 433,
@@ -319,9 +319,9 @@
         "total": 117
       },
       "199733712785531": {
-        "text": 213,
+        "text": 214,
         "media": 125,
-        "total": 338
+        "total": 339
       },
       "153596754661626": {
         "text": 1,
@@ -3555,9 +3555,9 @@
         "total": 727
       },
       "145381035905262": {
-        "text": 502,
+        "text": 503,
         "media": 166,
-        "total": 668
+        "total": 669
       },
       "53537388122141": {
         "text": 843,
@@ -9961,7 +9961,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Souza (190864487919667): Sigo solteiro",
         "Celiete Souza (129373172711439): Tudo queto",
         "Souza (190864487919667): Eu tô procrastinando no trabalho",
         "Souza (190864487919667): Chegar em casa é só estudar 🤡",
@@ -10460,7 +10459,8 @@
         "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Aceito hehe",
         "Dany (262182034002040): 🤣🫠",
         "Dany (262182034002040): Amor, esses emojis não foram para você kkkkk",
-        "Anderson (+2135320166432): Vocês são idosos né? Dormem cedo kkkk"
+        "Anderson (+2135320166432): Vocês são idosos né? Dormem cedo kkkk",
+        "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Porque não amor? 🤣🤣"
       ]
     },
     "120363428464897153@g.us": {
@@ -17220,7 +17220,8 @@
         "Gabriel (145381035905262): A maioria",
         "Leandro (+55 (11) 92701-8683): Uns 20 a 30 no máximo",
         "Leandro (+55 (11) 92701-8683): Só que eu já contei uns 15 que saiu por livre e espontânea vontade",
-        "Gabriel (145381035905262): Sai, e vem mais"
+        "Gabriel (145381035905262): Sai, e vem mais",
+        "Gabriel (145381035905262): Não precisamos se preocupar"
       ]
     },
     "120363411233423709@g.us": {
@@ -17750,18 +17751,6 @@
       {
         "authorNum": "262182034002040",
         "authorName": "Dany",
-        "text": "Sabia que tu era um menino inteligente kkkkkkkk",
-        "timestamp": 1787969773983
-      },
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Era não né , to vivo",
-        "timestamp": 1787969793423
-      },
-      {
-        "authorNum": "262182034002040",
-        "authorName": "Dany",
         "text": "Foi para acompanhar o tempo verbal do “sabia”, Gabriel",
         "timestamp": 1787969856991
       },
@@ -17788,6 +17777,12 @@
         "authorName": "Anderson",
         "text": "Vocês são idosos né? Dormem cedo kkkk",
         "timestamp": 1787971549354
+      },
+      {
+        "authorNum": "199733712785531",
+        "authorName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
+        "text": "Porque não amor? 🤣🤣",
+        "timestamp": 1787971637897
       }
     ],
     "120363428464897153@g.us": [],
@@ -17852,6 +17847,12 @@
         "authorName": "Gabriel",
         "text": "Sai, e vem mais",
         "timestamp": 1787971606644
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Não precisamos se preocupar",
+        "timestamp": 1787971615435
       }
     ],
     "120363411233423709@g.us": [],
@@ -17868,10 +17869,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22809,
+    "120363432018531082@g.us": 22810,
     "120363428464897153@g.us": 6401,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2219,
+    "120363412288900422@g.us": 2220,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -148722,6 +148723,12 @@
         "text": "Vocês são idosos né? Dormem cedo kkkk",
         "pushName": "Anderson",
         "timestamp": 1787971549354
+      },
+      "3A67C8E8941690265667": {
+        "sender": "199733712785531@lid",
+        "text": "Porque não amor? 🤣🤣",
+        "pushName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
+        "timestamp": 1787971637897
       }
     },
     "120363428464897153@g.us": {
@@ -200814,6 +200821,12 @@
         "text": "Sai, e vem mais",
         "pushName": "Gabriel",
         "timestamp": 1787971606644
+      },
+      "ACF4A592472B9CD7D84A01B8B107B412": {
+        "sender": "145381035905262@lid",
+        "text": "Não precisamos se preocupar",
+        "pushName": "Gabriel",
+        "timestamp": 1787971615435
       }
     },
     "120363411233423709@g.us": {
@@ -203701,10 +203714,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787971549354,
+    "120363432018531082@g.us": 1787971641305,
     "120363428464897153@g.us": 1787971486620,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787971606644,
+    "120363412288900422@g.us": 1787971615435,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
