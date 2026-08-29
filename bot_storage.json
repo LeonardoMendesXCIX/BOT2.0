@@ -3131,9 +3131,9 @@
         "total": 9
       },
       "129373172711439": {
-        "text": 963,
+        "text": 967,
         "media": 258,
-        "total": 1221
+        "total": 1225
       },
       "16007578021977": {
         "text": 57,
@@ -14852,7 +14852,11 @@
         "Celiete Souza (129373172711439): Oh situação",
         "Leandro (+55 (11) 92701-8683): Fazer o que...",
         "Leandro (+55 (11) 92701-8683): Ou trabalha, ou não paga as contas",
-        "Leandro (+55 (11) 92701-8683): Aí ficamos sem bot"
+        "Leandro (+55 (11) 92701-8683): Aí ficamos sem bot",
+        "Celiete Souza (129373172711439): Boa noite gente",
+        "Celiete Souza (129373172711439): Vou dormir",
+        "Celiete Souza (129373172711439): Até amanhã 😘",
+        "Celiete Souza (129373172711439): Hj melhor"
       ]
     },
     "120363409727467494@g.us": {
@@ -18207,6 +18211,30 @@
         "authorName": "Leandro",
         "text": "Aí ficamos sem bot",
         "timestamp": 1787975449850
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Boa noite gente",
+        "timestamp": 1787975534774
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Vou dormir",
+        "timestamp": 1787975538625
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Até amanhã 😘",
+        "timestamp": 1787975557356
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Hj melhor",
+        "timestamp": 1787975562244
       }
     ],
     "120363409727467494@g.us": [],
@@ -18233,7 +18261,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 22926,
-    "120363428464897153@g.us": 6418,
+    "120363428464897153@g.us": 6422,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2227,
     "120363411233423709@g.us": 5,
@@ -18250,7 +18278,7 @@
     "120363432018531082@g.us": false
   },
   "closedGroups": {
-    "120363428464897153@g.us": true,
+    "120363428464897153@g.us": false,
     "120363432018531082@g.us": false,
     "120363428662766282@g.us": true,
     "120363428079168524@g.us": false,
@@ -18343,7 +18371,14 @@
       "date": "2026-08-17T03:32:19.330Z"
     }
   },
-  "pendingBvReminders": [],
+  "pendingBvReminders": [
+    {
+      "id": "1787975548680_2135320166432@lid",
+      "chatId": "120363428464897153@g.us",
+      "newMemberId": "2135320166432@lid",
+      "runAt": 1787976448680
+    }
+  ],
   "pendingPresentations": [],
   "groupSchedules": {
     "120363428464897153@g.us": {
@@ -187470,6 +187505,30 @@
         "text": "Aí ficamos sem bot",
         "pushName": "Leandro",
         "timestamp": 1787975449850
+      },
+      "AC217FAD92CF645AA44614950CD93319": {
+        "sender": "129373172711439@lid",
+        "text": "Boa noite gente",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787975534774
+      },
+      "AC47328C26A204A172BAA0B6CFD803EC": {
+        "sender": "129373172711439@lid",
+        "text": "Vou dormir",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787975538625
+      },
+      "ACE7B5C2D28907C3F75D42C7A3F75AE8": {
+        "sender": "129373172711439@lid",
+        "text": "Até amanhã 😘",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787975557356
+      },
+      "ACC0FA10739571BFAB159902DDCFCA98": {
+        "sender": "129373172711439@lid",
+        "text": "Hj melhor",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787975562244
       }
     },
     "120363409727467494@g.us": {
@@ -204924,7 +204983,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787975516297,
-    "120363428464897153@g.us": 1787975461200,
+    "120363428464897153@g.us": 1787975562244,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787972789844,
     "120363411233423709@g.us": 1787113553426,
