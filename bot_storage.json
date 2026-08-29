@@ -2864,9 +2864,9 @@
         "total": 72
       },
       "2135320166432": {
-        "text": 70,
+        "text": 71,
         "media": 9,
-        "total": 79
+        "total": 80
       },
       "239371546579166": {
         "text": 2,
@@ -2956,9 +2956,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 417,
-        "media": 90,
-        "total": 507
+        "text": 420,
+        "media": 91,
+        "total": 511
       },
       "120363428464897153": {
         "text": 11,
@@ -10571,7 +10571,8 @@
         "Leandro (+55 (11) 92701-8683): É foda interagir em 2 grupos ao mesmo tempo",
         "Anderson (+2135320166432): Qual outro grupo rs",
         "Leandro (+55 (11) 92701-8683): Fico 👈🏼👁️👁️👉🏼",
-        "Leandro (+55 (11) 92701-8683): Kbaré"
+        "Leandro (+55 (11) 92701-8683): Kbaré",
+        "Anderson (+2135320166432): Sei qual é não"
       ]
     },
     "120363428464897153@g.us": {
@@ -14845,7 +14846,10 @@
         "Celiete Souza (129373172711439): E quem não tá fazendo nenhum dois dois 🤣🤣🤣 tá no grupo",
         "Leandro (+55 (11) 92701-8683): E quem está trabalhando e está no grupo? Tipo eu? 🤔",
         "Celiete Souza (129373172711439): Poise kkkkkkk",
-        "Celiete Souza (129373172711439): Oh situação"
+        "Celiete Souza (129373172711439): Oh situação",
+        "Leandro (+55 (11) 92701-8683): Fazer o que...",
+        "Leandro (+55 (11) 92701-8683): Ou trabalha, ou não paga as contas",
+        "Leandro (+55 (11) 92701-8683): Aí ficamos sem bot"
       ]
     },
     "120363409727467494@g.us": {
@@ -18096,6 +18100,12 @@
         "authorName": "Leandro",
         "text": "Kbaré",
         "timestamp": 1787975421969
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Sei qual é não",
+        "timestamp": 1787975435066
       }
     ],
     "120363428464897153@g.us": [
@@ -18176,6 +18186,24 @@
         "authorName": "Celiete Souza",
         "text": "Oh situação",
         "timestamp": 1787975376759
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Fazer o que...",
+        "timestamp": 1787975434854
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Ou trabalha, ou não paga as contas",
+        "timestamp": 1787975444544
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Aí ficamos sem bot",
+        "timestamp": 1787975449850
       }
     ],
     "120363409727467494@g.us": [],
@@ -18201,8 +18229,8 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22922,
-    "120363428464897153@g.us": 6415,
+    "120363432018531082@g.us": 22923,
+    "120363428464897153@g.us": 6418,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2227,
     "120363411233423709@g.us": 5,
@@ -149733,6 +149761,12 @@
         "text": "Kbaré",
         "pushName": "Leandro",
         "timestamp": 1787975421970
+      },
+      "ACF86A2B99C9825650681C6D53FEEC7C": {
+        "sender": "2135320166432@lid",
+        "text": "Sei qual é não",
+        "pushName": "Anderson",
+        "timestamp": 1787975435067
       }
     },
     "120363428464897153@g.us": {
@@ -187397,6 +187431,24 @@
         "text": "Oh situação",
         "pushName": "Celiete Souza",
         "timestamp": 1787975376759
+      },
+      "A5AA63E931962BF46850F0C1954AE7C5": {
+        "sender": "54259127210155@lid",
+        "text": "Fazer o que...",
+        "pushName": "Leandro",
+        "timestamp": 1787975434854
+      },
+      "A5420BF88643FFC903087AC5B7DA7FFF": {
+        "sender": "54259127210155@lid",
+        "text": "Ou trabalha, ou não paga as contas",
+        "pushName": "Leandro",
+        "timestamp": 1787975444544
+      },
+      "A5DDFA579B472E3C4E8AB671BAEF9688": {
+        "sender": "54259127210155@lid",
+        "text": "Aí ficamos sem bot",
+        "pushName": "Leandro",
+        "timestamp": 1787975449850
       }
     },
     "120363409727467494@g.us": {
@@ -204850,8 +204902,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787975421969,
-    "120363428464897153@g.us": 1787975376759,
+    "120363432018531082@g.us": 1787975435066,
+    "120363428464897153@g.us": 1787975451841,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787972789844,
     "120363411233423709@g.us": 1787113553426,
