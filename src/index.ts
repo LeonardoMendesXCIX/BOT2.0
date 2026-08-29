@@ -15,6 +15,7 @@ import { startWebServer } from './services/webServer';
 import { getFunnyMessage } from './services/funnyMessages';
 
 process.env.TZ = 'America/Sao_Paulo';
+const TIMEZONE = 'America/Sao_Paulo';
 
 const originalConsoleError = console.error;
 console.error = (...args: any[]) => {
@@ -43,11 +44,28 @@ process.on('uncaughtException', (error: any) => {
 
 const storage = new StorageManager();
 let sockInstance: any = null;
+let reconnectDelay = 3000;
 
-// WebServer do Correio Anônimo
 startWebServer(() => sockInstance, storage, parseInt(process.env.WEB_PORT || '3000', 10));
 
-let reconnectDelay = 3000;
+// NOVO: HH:MM confiável no Windows (não depende do fuso do PC)
+function getHHMM(): string {
+    try {
+        return new Intl.DateTimeFormat('pt-BR', { timeZone: TIMEZONE, hour: '2-digit', minute: '2-digit', hourCycle: 'h23' }).format(new Date());
+    } catch (e) {
+        const d = new Date();
+        return String(d.getHours()).padStart(2, '0') + ':' + String(d.getMinutes()).padStart(2, '0');
+    }
+}
+
+// NOVO: janela abertura→fechamento (suporta virada de madrugada)
+function isWithinWindow(open?: string, close?: string, nowHHMM?: string): boolean {
+    const now = nowHHMM || getHHMM();
+    if (!open) return false;
+    if (!close) return now >= open;
+    if (open <= close) return now >= open && now < close;
+    return now >= open || now < close;
+}
 
 process.on('SIGINT', () => {
     console.log('\n[SISTEMA] Encerrando... salvando dados.');
@@ -61,7 +79,7 @@ process.on('SIGTERM', () => {
 
 cron.schedule('0 3 * * *', () => {
     storage.pruneStorage();
-}, { timezone: "America/Sao_Paulo" });
+}, { timezone: TIMEZONE });
 
 cron.schedule('0 * * * *', async () => {
     if (!storage.data.scheduledMsgs || storage.data.scheduledMsgs.length === 0) return;
@@ -90,40 +108,46 @@ cron.schedule('0 * * * *', async () => {
         }
     }
     if (modified) storage.flagSave();
-}, { timezone: "America/Sao_Paulo" });
+}, { timezone: TIMEZONE });
 
+// =====================================================================
+// CRON ABERTURA/FECHAMENTO — CORRIGIDO
+// (antes: grupos fechados eram pulados e NUNCA abriam de novo)
+// =====================================================================
 cron.schedule('* * * * *', async () => {
     if (!sockInstance) return;
-    const now = new Date();
-    const currentHHMM = now.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit', hour12: false });
+    const currentHHMM = getHHMM();
 
     if (storage.data.groupSchedules) {
         for (const chatId in storage.data.groupSchedules) {
-            if (storage.isBotDisabled(chatId) || storage.isGroupClosed(chatId)) continue;
+            // CORRIGIDO: só pula se o bot está desligado no grupo.
+            // Grupo FECHADO precisa continuar sendo verificado para poder ABRIR.
+            if (storage.isBotDisabled(chatId)) continue;
             const sched = storage.data.groupSchedules[chatId];
             if (!sched) continue;
+            if (storage.isFeatureDisabled(chatId, 'fechar_abrir')) continue;
 
-            if (sched.openTime === currentHHMM && !storage.isFeatureDisabled(chatId, 'fechar_abrir')) {
+            if (sched.openTime === currentHHMM) {
                 try {
                     await sockInstance.groupSettingUpdate(chatId, 'not_announcement');
                     storage.setGroupClosed(chatId, false);
                     await sockInstance.sendMessage(chatId, {
-                        text: '🔓 *BOM DIA! PROTOCOLO JARVIS DE ABERTURA:*\n\nO chat foi liberado conforme o horário programado (' + sched.openTime + ').'
+                        text: '🔓 *BOM DIA! PROTOCOLO JARVIS DE ABERTURA:*\n\nO chat foi liberado para todos os membros conversarem conforme o horário programado (' + sched.openTime + ').'
                     });
-                    console.log('[HORÁRIO AUTOMÁTICO] Grupo ' + chatId + ' aberto às ' + currentHHMM);
+                    console.log('[AGENDA] Grupo ' + chatId + ' aberto às ' + currentHHMM);
                 } catch (e: any) {
                     console.error('[ERRO AUTO ABRIR GRUPO]', e.message);
                 }
             }
 
-            if (sched.closeTime === currentHHMM && !storage.isFeatureDisabled(chatId, 'fechar_abrir')) {
+            if (sched.closeTime === currentHHMM) {
                 try {
                     await sockInstance.groupSettingUpdate(chatId, 'announcement');
                     storage.setGroupClosed(chatId, true);
                     await sockInstance.sendMessage(chatId, {
-                        text: '🔒 *BOA NOITE! PROTOCOLO JARVIS DE FECHAMENTO:*\n\nO chat foi fechado conforme o horário programado (' + sched.closeTime + ').'
+                        text: '🔒 *BOA NOITE! PROTOCOLO JARVIS DE FECHAMENTO:*\n\nO chat foi fechado para descanso/manutenção conforme o horário programado (' + sched.closeTime + '). Apenas administradores podem enviar mensagens neste momento.'
                     });
-                    console.log('[HORÁRIO AUTOMÁTICO] Grupo ' + chatId + ' fechado às ' + currentHHMM);
+                    console.log('[AGENDA] Grupo ' + chatId + ' fechado às ' + currentHHMM);
                 } catch (e: any) {
                     console.error('[ERRO AUTO FECHAR GRUPO]', e.message);
                 }
@@ -140,7 +164,7 @@ cron.schedule('* * * * *', async () => {
             if (promo.startTime === currentHHMM) {
                 try {
                     await sockInstance.sendMessage(chatId, {
-                        text: '📢 *HORÁRIO DE DIVULGAÇÕES ABERTO!* (' + promo.startTime + ' às ' + promo.endTime + ')\n\n' + promo.content + '\n\n🛡️ Envio de links liberado neste período.'
+                        text: '📢 *HORÁRIO DE DIVULGAÇÕES ABERTO!* (' + promo.startTime + ' às ' + promo.endTime + ')\n\n' + promo.content + '\n\n🛡️ *Atenção:* O envio de links está liberado para todos os membros durante este período sem risco de remoção!'
                     });
                 } catch (e: any) { }
             }
@@ -148,21 +172,49 @@ cron.schedule('* * * * *', async () => {
             if (promo.endTime === currentHHMM) {
                 try {
                     await sockInstance.sendMessage(chatId, {
-                        text: '🔒 *HORÁRIO DE DIVULGAÇÕES ENCERRADO!*\n\n_O Anti-Link voltou a operar normalmente._'
+                        text: '🔒 *HORÁRIO DE DIVULGAÇÕES ENCERRADO!*\n\n_O Anti-Link voltou a operar normalmente com expulsão automática para quem enviar links._'
                     });
                 } catch (e: any) { }
             }
         }
     }
-}, { timezone: "America/Sao_Paulo" });
+}, { timezone: TIMEZONE });
 
 cron.schedule('*/5 * * * *', () => {
     storage.purgeExpiredClusters();
 });
 
+// NOVO: ao (re)conectar, recupera horários perdidos enquanto o bot esteve offline
+async function syncSchedulesOnBoot(sock: any) {
+    try {
+        if (!storage.data.groupSchedules) return;
+        const currentHHMM = getHHMM();
+        for (const chatId in storage.data.groupSchedules) {
+            const sched = storage.data.groupSchedules[chatId];
+            if (!sched || storage.isBotDisabled(chatId) || storage.isFeatureDisabled(chatId, 'fechar_abrir')) continue;
+            const shouldOpen = isWithinWindow(sched.openTime, sched.closeTime, currentHHMM);
+            const meta = await sock.groupMetadata(chatId).catch(() => null);
+            if (!meta) continue;
+            const isAnnouncement = meta.announce === true;
+            if (shouldOpen && isAnnouncement) {
+                await sock.groupSettingUpdate(chatId, 'not_announcement');
+                storage.setGroupClosed(chatId, false);
+                console.log('[AGENDA BOOT] Grupo ' + chatId + ' deveria estar ABERTO → aberto.');
+            } else if (!shouldOpen && !isAnnouncement && sched.closeTime) {
+                await sock.groupSettingUpdate(chatId, 'announcement');
+                storage.setGroupClosed(chatId, true);
+                console.log('[AGENDA BOOT] Grupo ' + chatId + ' deveria estar FECHADO → fechado.');
+            }
+        }
+    } catch (e: any) {
+        console.error('[ERRO AGENDA BOOT]', e.message);
+    }
+}
+
 async function startBot() {
     const { state, saveCreds } = await useMultiFileAuthState('./sessions');
     const { version } = await fetchLatestBaileysVersion();
+    const needPairing = !state.creds.registered;
 
     const sock = makeWASocket({
         version,
@@ -183,11 +235,28 @@ async function startBot() {
 
     sockInstance = sock;
 
+    // NOVO: conexão por NÚMERO DE TELEFONE (código de pareamento) — mais estável que QR
+    if (needPairing) {
+        setTimeout(async () => {
+            try {
+                const phone = (process.env.PHONE_NUMBER || '5511927018683').replace(/\D/g, '');
+                let code = await sock.requestPairingCode(phone);
+                if (code) {
+                    code = (code.match(/.{1,4}/g) || [code]).join('-');
+                    console.log('\n[SISTEMA] 🔑 CÓDIGO DE PAREAMENTO: ' + code);
+                    console.log('[SISTEMA] No celular: Configurações > Aparelhos conectados > Conectar aparelho > usar código de pareamento');
+                }
+            } catch (e: any) {
+                console.error('[ERRO PAREAMENTO]', e.message);
+            }
+        }, 3000);
+    }
+
     sock.ev.on('creds.update', saveCreds);
 
     sock.ev.on('connection.update', (update) => {
         const { connection, lastDisconnect, qr } = update;
-        if (qr) {
+        if (qr && !needPairing) {
             qrcode.generate(qr, { small: true });
             console.log('\n[SISTEMA] Escaneie o QR Code acima com seu WhatsApp.');
         }
@@ -202,6 +271,7 @@ async function startBot() {
         } else if (connection === 'open') {
             reconnectDelay = 3000;
             console.log('[SISTEMA] JARVIS BOT2.0 conectado com sucesso!');
+            syncSchedulesOnBoot(sock);
         }
     });
 
