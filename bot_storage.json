@@ -174,14 +174,14 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1716,
+        "text": 1718,
         "media": 480,
-        "total": 2196
+        "total": 2198
       },
       "81991328395336": {
-        "text": 3973,
+        "text": 3974,
         "media": 1360,
-        "total": 5333
+        "total": 5334
       },
       "179040627490824": {
         "text": 433,
@@ -2864,9 +2864,9 @@
         "total": 72
       },
       "2135320166432": {
-        "text": 21,
+        "text": 25,
         "media": 3,
-        "total": 24
+        "total": 28
       },
       "239371546579166": {
         "text": 2,
@@ -3555,9 +3555,9 @@
         "total": 728
       },
       "145381035905262": {
-        "text": 504,
+        "text": 505,
         "media": 166,
-        "total": 670
+        "total": 671
       },
       "53537388122141": {
         "text": 843,
@@ -10470,7 +10470,13 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Eu na vida com meus sonos parcelados",
         "Anderson (+2135320166432): Se eu deitar aqui eu apago",
         "Celiete Souza (129373172711439): Euzinha",
-        "Anderson (+2135320166432): Eu nem dormir"
+        "Anderson (+2135320166432): Eu nem dormir",
+        "Celiete Souza (129373172711439): Cochilo as prestações",
+        "Anderson (+2135320166432): Tô bebendo desde ontem de ontem",
+        "Anderson (+2135320166432): Kkkkk",
+        "Anderson (+2135320166432): Eu dormir aqui eu só acordo amanhã",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Queria ser assim \nEu cochilo \nTenho um surto acordo",
+        "Anderson (+2135320166432): Kkkkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -17235,7 +17241,8 @@
         "Gabriel (145381035905262): 172 removidos no total \n\nContado que entrou uns 250 a 280 \n\nEstamos falando de uns 75% remoção"
       ],
       "29/08/2026": [
-        "Leandro (+55 (11) 92701-8683): De onde puxou esses dados?"
+        "Leandro (+55 (11) 92701-8683): De onde puxou esses dados?",
+        "Gabriel (145381035905262): De lá"
       ]
     },
     "120363411233423709@g.us": {
@@ -17839,6 +17846,42 @@
         "authorName": "Anderson",
         "text": "Eu nem dormir",
         "timestamp": 1787972600185
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Cochilo as prestações",
+        "timestamp": 1787972612053
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Tô bebendo desde ontem de ontem",
+        "timestamp": 1787972612142
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Kkkkk",
+        "timestamp": 1787972616619
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Eu dormir aqui eu só acordo amanhã",
+        "timestamp": 1787972627893
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Queria ser assim \nEu cochilo \nTenho um surto acordo",
+        "timestamp": 1787972634693
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Kkkkk",
+        "timestamp": 1787972644434
       }
     ],
     "120363428464897153@g.us": [],
@@ -17891,6 +17934,12 @@
         "authorName": "Leandro",
         "text": "De onde puxou esses dados?",
         "timestamp": 1787972593714
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "De lá",
+        "timestamp": 1787972620941
       }
     ],
     "120363411233423709@g.us": [],
@@ -17907,10 +17956,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22821,
+    "120363432018531082@g.us": 22827,
     "120363428464897153@g.us": 6401,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2222,
+    "120363412288900422@g.us": 2223,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -148833,6 +148882,42 @@
         "text": "Eu nem dormir",
         "pushName": "Anderson",
         "timestamp": 1787972600185
+      },
+      "ACF974850A13FB29D10B1102A3AC1450": {
+        "sender": "129373172711439@lid",
+        "text": "Cochilo as prestações",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787972612053
+      },
+      "AC6F2BEE07835F635C4EA0793892D89C": {
+        "sender": "2135320166432@lid",
+        "text": "Tô bebendo desde ontem de ontem",
+        "pushName": "Anderson",
+        "timestamp": 1787972612142
+      },
+      "AC2633C7F4E6FBBD7CD070D588D80640": {
+        "sender": "2135320166432@lid",
+        "text": "Kkkkk",
+        "pushName": "Anderson",
+        "timestamp": 1787972616619
+      },
+      "AC0EF81FAB9E3C2862AE76D8CD383EE6": {
+        "sender": "2135320166432@lid",
+        "text": "Eu dormir aqui eu só acordo amanhã",
+        "pushName": "Anderson",
+        "timestamp": 1787972627893
+      },
+      "AC808A1342432AD869305203AEB1305F": {
+        "sender": "81991328395336@lid",
+        "text": "Queria ser assim \nEu cochilo \nTenho um surto acordo",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787972634693
+      },
+      "ACEBAF489ED29132A07E6486E0791D2C": {
+        "sender": "2135320166432@lid",
+        "text": "Kkkkk",
+        "pushName": "Anderson",
+        "timestamp": 1787972644434
       }
     },
     "120363428464897153@g.us": {
@@ -200943,6 +201028,12 @@
         "text": "De onde puxou esses dados?",
         "pushName": "Leandro",
         "timestamp": 1787972593715
+      },
+      "ACF010A5C821460DBEE308E48C06EAB8": {
+        "sender": "145381035905262@lid",
+        "text": "De lá",
+        "pushName": "Gabriel",
+        "timestamp": 1787972620941
       }
     },
     "120363411233423709@g.us": {
@@ -203830,10 +203921,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787972600185,
+    "120363432018531082@g.us": 1787972645112,
     "120363428464897153@g.us": 1787972384184,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787972593714,
+    "120363412288900422@g.us": 1787972620940,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
