@@ -2864,9 +2864,9 @@
         "total": 72
       },
       "2135320166432": {
-        "text": 3,
+        "text": 4,
         "media": 1,
-        "total": 4
+        "total": 5
       }
     },
     "120363428464897153@g.us": {
@@ -9956,7 +9956,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Camila Designer (92629643563147): Eu acho que sim 😂😂😂",
         "Celiete Souza (129373172711439): Tô vivendo apenas kkkkkk",
         "Gabriel (145381035905262): Você sabe que não",
         "Camila Designer (92629643563147): E eu sobrevivendo 😂😂😂",
@@ -10455,7 +10454,8 @@
         "Anderson (+2135320166432): Tudo bem ?",
         "Celiete Souza (129373172711439): Tudo bem",
         "Anderson (+2135320166432): Obrigado !",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindo"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindo",
+        "Anderson (+2135320166432): Obrigado !"
       ]
     },
     "120363428464897153@g.us": {
@@ -17754,6 +17754,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Bem vindo",
         "timestamp": 1787967772795
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Obrigado !",
+        "timestamp": 1787967782096
       }
     ],
     "120363428464897153@g.us": [
@@ -17984,7 +17990,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22722,
+    "120363432018531082@g.us": 22723,
     "120363428464897153@g.us": 6382,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2209,
@@ -148322,6 +148328,12 @@
         "text": "Bem vindo",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787967772795
+      },
+      "AC2B51FA1872D45D460D9FBC9A38454D": {
+        "sender": "2135320166432@lid",
+        "text": "Obrigado !",
+        "pushName": "Anderson",
+        "timestamp": 1787967782096
       }
     },
     "120363428464897153@g.us": {
@@ -203127,7 +203139,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787967772795,
+    "120363432018531082@g.us": 1787967782096,
     "120363428464897153@g.us": 1787967661858,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787964813002,
