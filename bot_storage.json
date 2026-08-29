@@ -174,14 +174,14 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1720,
-        "media": 481,
-        "total": 2201
+        "text": 1722,
+        "media": 482,
+        "total": 2204
       },
       "81991328395336": {
-        "text": 3974,
+        "text": 3975,
         "media": 1360,
-        "total": 5334
+        "total": 5335
       },
       "179040627490824": {
         "text": 433,
@@ -2864,9 +2864,9 @@
         "total": 72
       },
       "2135320166432": {
-        "text": 29,
+        "text": 31,
         "media": 3,
-        "total": 32
+        "total": 34
       },
       "239371546579166": {
         "text": 2,
@@ -3555,9 +3555,9 @@
         "total": 729
       },
       "145381035905262": {
-        "text": 505,
+        "text": 506,
         "media": 166,
-        "total": 671
+        "total": 672
       },
       "53537388122141": {
         "text": 843,
@@ -10482,7 +10482,10 @@
         "Anderson (+2135320166432): Nops",
         "Anderson (+2135320166432): Ronco não",
         "Anderson (+2135320166432): Graças a Deus",
-        "Celiete Souza (129373172711439): Geralmente é assim"
+        "Celiete Souza (129373172711439): Geralmente é assim",
+        "Anderson (+2135320166432): Eu só acordo meio dia",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Como tu sabe?",
+        "Anderson (+2135320166432): Pq quando era casado eu perguntava a minha ex mulher"
       ]
     },
     "120363428464897153@g.us": {
@@ -17252,7 +17255,8 @@
       "29/08/2026": [
         "Leandro (+55 (11) 92701-8683): De onde puxou esses dados?",
         "Gabriel (145381035905262): De lá",
-        "Leandro (+55 (11) 92701-8683): Mas nesses dados, tem números gringos, integrantes que arrumaram confusão, fakes, menores de idade e integrante de grupos concorrentes"
+        "Leandro (+55 (11) 92701-8683): Mas nesses dados, tem números gringos, integrantes que arrumaram confusão, fakes, menores de idade e integrante de grupos concorrentes",
+        "Gabriel (145381035905262): É"
       ]
     },
     "120363411233423709@g.us": {
@@ -17928,6 +17932,24 @@
         "authorName": "Celiete Souza",
         "text": "Geralmente é assim",
         "timestamp": 1787972709005
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Eu só acordo meio dia",
+        "timestamp": 1787972720576
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Como tu sabe?",
+        "timestamp": 1787972726246
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Pq quando era casado eu perguntava a minha ex mulher",
+        "timestamp": 1787972747410
       }
     ],
     "120363428464897153@g.us": [
@@ -17999,6 +18021,12 @@
         "authorName": "Leandro",
         "text": "Mas nesses dados, tem números gringos, integrantes que arrumaram confusão, fakes, menores de idade e integrante de grupos concorrentes",
         "timestamp": 1787972705505
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "É",
+        "timestamp": 1787972720134
       }
     ],
     "120363411233423709@g.us": [],
@@ -18015,10 +18043,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22833,
+    "120363432018531082@g.us": 22836,
     "120363428464897153@g.us": 6402,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2224,
+    "120363412288900422@g.us": 2225,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -149013,6 +149041,24 @@
         "text": "Geralmente é assim",
         "pushName": "Celiete Souza",
         "timestamp": 1787972709005
+      },
+      "AC4B9FE3F811FB710DDFF4779687F222": {
+        "sender": "2135320166432@lid",
+        "text": "Eu só acordo meio dia",
+        "pushName": "Anderson",
+        "timestamp": 1787972720576
+      },
+      "ACCEC4C40F868F6A09A17D3FB186CC31": {
+        "sender": "81991328395336@lid",
+        "text": "Como tu sabe?",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787972726246
+      },
+      "AC57234429699E00ED3DB868A33F0437": {
+        "sender": "2135320166432@lid",
+        "text": "Pq quando era casado eu perguntava a minha ex mulher",
+        "pushName": "Anderson",
+        "timestamp": 1787972747410
       }
     },
     "120363428464897153@g.us": {
@@ -201141,6 +201187,12 @@
         "text": "Mas nesses dados, tem números gringos, integrantes que arrumaram confusão, fakes, menores de idade e integrante de grupos concorrentes",
         "pushName": "Leandro",
         "timestamp": 1787972705505
+      },
+      "AC203DB503E976410F68B7BA5A2EFE18": {
+        "sender": "145381035905262@lid",
+        "text": "É",
+        "pushName": "Gabriel",
+        "timestamp": 1787972720134
       }
     },
     "120363411233423709@g.us": {
@@ -204028,10 +204080,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787972709005,
+    "120363432018531082@g.us": 1787972747410,
     "120363428464897153@g.us": 1787972707416,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787972705505,
+    "120363412288900422@g.us": 1787972720134,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
