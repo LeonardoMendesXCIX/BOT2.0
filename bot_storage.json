@@ -294,9 +294,9 @@
         "total": 464
       },
       "262182034002040": {
-        "text": 1916,
+        "text": 1918,
         "media": 123,
-        "total": 2039
+        "total": 2041
       },
       "219245581488326": {
         "text": 4,
@@ -9961,8 +9961,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Celiete Souza (129373172711439): Tudo queto",
-        "Souza (190864487919667): Eu tô procrastinando no trabalho",
         "Souza (190864487919667): Chegar em casa é só estudar 🤡",
         "Leandro (+55 (11) 92701-8683): Quem foi o inteligente?",
         "Celiete Souza (129373172711439): Minha internet está ruim, podem ir msgs atrasadas 😘",
@@ -10460,7 +10458,9 @@
         "Dany (262182034002040): 🤣🫠",
         "Dany (262182034002040): Amor, esses emojis não foram para você kkkkk",
         "Anderson (+2135320166432): Vocês são idosos né? Dormem cedo kkkk",
-        "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Porque não amor? 🤣🤣"
+        "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Porque não amor? 🤣🤣",
+        "Dany (262182034002040): Hahahah eu tava complementando o que eu tinha escrito antes",
+        "Dany (262182034002040): 🤣🤣"
       ]
     },
     "120363428464897153@g.us": {
@@ -17765,6 +17765,18 @@
         "authorName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
         "text": "Porque não amor? 🤣🤣",
         "timestamp": 1787971637897
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Hahahah eu tava complementando o que eu tinha escrito antes",
+        "timestamp": 1787971843805
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "🤣🤣",
+        "timestamp": 1787971849117
       }
     ],
     "120363428464897153@g.us": [],
@@ -17851,7 +17863,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22810,
+    "120363432018531082@g.us": 22812,
     "120363428464897153@g.us": 6401,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2220,
@@ -148711,6 +148723,18 @@
         "text": "Porque não amor? 🤣🤣",
         "pushName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
         "timestamp": 1787971637897
+      },
+      "3A79BAF407CAF2A8D133": {
+        "sender": "262182034002040@lid",
+        "text": "Hahahah eu tava complementando o que eu tinha escrito antes",
+        "pushName": "Dany",
+        "timestamp": 1787971843805
+      },
+      "3AEE01B4F63AFC280E70": {
+        "sender": "262182034002040@lid",
+        "text": "🤣🤣",
+        "pushName": "Dany",
+        "timestamp": 1787971849117
       }
     },
     "120363428464897153@g.us": {
@@ -203696,7 +203720,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787971641305,
+    "120363432018531082@g.us": 1787971849117,
     "120363428464897153@g.us": 1787971486620,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787971615435,
