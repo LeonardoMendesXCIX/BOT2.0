@@ -279,9 +279,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2422,
-        "media": 341,
-        "total": 2763
+        "text": 2424,
+        "media": 342,
+        "total": 2766
       },
       "252922705240205": {
         "text": 80,
@@ -455,8 +455,8 @@
       },
       "5511927018683": {
         "text": 1792,
-        "media": 362,
-        "total": 2154
+        "media": 363,
+        "total": 2155
       },
       "252600633041077": {
         "text": 1,
@@ -2916,9 +2916,9 @@
         "total": 467
       },
       "262182034002040": {
-        "text": 326,
+        "text": 327,
         "media": 28,
-        "total": 354
+        "total": 355
       },
       "86793403801839": {
         "text": 264,
@@ -9956,8 +9956,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Ia passar uma vergonha",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Exatamente",
         "Celiete Souza (129373172711439): Acabei de ver morri rindo 😂",
         "Celiete Souza (129373172711439): Boazinha hoje 🙏🏼",
         "Gabriel (145381035905262): O povo inventa 😂😂",
@@ -10455,7 +10453,9 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Pior que bebi com uma amiga minha essa semana e esqueci de postar",
         "Leandro (+55 (11) 92701-8683): Que bom, por que eu não tô podendo beber",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bah, adoro",
-        "Leandro (+55 (11) 92701-8683): Aí seria muita sacanagem"
+        "Leandro (+55 (11) 92701-8683): Aí seria muita sacanagem",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Foi mal aí chefe",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Me demita não"
       ]
     },
     "120363428464897153@g.us": {
@@ -17853,6 +17853,18 @@
         "authorName": "Leandro",
         "text": "Aí seria muita sacanagem",
         "timestamp": 1787968263977
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Foi mal aí chefe",
+        "timestamp": 1787968274516
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Me demita não",
+        "timestamp": 1787968299237
       }
     ],
     "120363428464897153@g.us": [
@@ -18101,7 +18113,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22737,
+    "120363432018531082@g.us": 22739,
     "120363428464897153@g.us": 6391,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2209,
@@ -148529,6 +148541,18 @@
         "text": "Aí seria muita sacanagem",
         "pushName": "Leandro",
         "timestamp": 1787968263977
+      },
+      "AC130C90DC4F2B91F73C209946C91383": {
+        "sender": "53537388122141@lid",
+        "text": "Foi mal aí chefe",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787968274516
+      },
+      "AC0C3CC0C7E5F7868C66E4D58BC36C3E": {
+        "sender": "53537388122141@lid",
+        "text": "Me demita não",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787968299237
       }
     },
     "120363428464897153@g.us": {
@@ -203388,8 +203412,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787968263977,
-    "120363428464897153@g.us": 1787968237969,
+    "120363432018531082@g.us": 1787968301317,
+    "120363428464897153@g.us": 1787968281434,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787964813002,
     "120363411233423709@g.us": 1787113553426,
