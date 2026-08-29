@@ -174,9 +174,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1756,
-        "media": 493,
-        "total": 2249
+        "text": 1757,
+        "media": 494,
+        "total": 2251
       },
       "81991328395336": {
         "text": 3991,
@@ -10560,7 +10560,8 @@
         "Anderson (+2135320166432): Eu tbm tava",
         "Anderson (+2135320166432): Porém já vim pra casa",
         "Celiete Souza (129373172711439): Eu não",
-        "Celiete Souza (129373172711439): Estou longe de perigos noturnos"
+        "Celiete Souza (129373172711439): Estou longe de perigos noturnos",
+        "Celiete Souza (129373172711439): Minha casa, minha vida"
       ]
     },
     "120363428464897153@g.us": {
@@ -18117,6 +18118,12 @@
         "authorName": "Celiete Souza",
         "text": "Estou longe de perigos noturnos",
         "timestamp": 1787974977713
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Minha casa, minha vida",
+        "timestamp": 1787975008448
       }
     ],
     "120363428464897153@g.us": [],
@@ -18136,7 +18143,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22911,
+    "120363432018531082@g.us": 22912,
     "120363428464897153@g.us": 6402,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2227,
@@ -149602,6 +149609,12 @@
         "text": "Estou longe de perigos noturnos",
         "pushName": "Celiete Souza",
         "timestamp": 1787974977713
+      },
+      "ACC9D9D6D077A0ECD459B040909CCE70": {
+        "sender": "129373172711439@lid",
+        "text": "Minha casa, minha vida",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787975008448
       }
     },
     "120363428464897153@g.us": {
@@ -204635,7 +204648,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787974978094,
+    "120363432018531082@g.us": 1787975012327,
     "120363428464897153@g.us": 1787972707416,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787972789844,
