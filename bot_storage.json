@@ -174,9 +174,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1713,
+        "text": 1716,
         "media": 480,
-        "total": 2193
+        "total": 2196
       },
       "81991328395336": {
         "text": 3973,
@@ -2864,9 +2864,9 @@
         "total": 72
       },
       "2135320166432": {
-        "text": 19,
+        "text": 21,
         "media": 3,
-        "total": 22
+        "total": 24
       },
       "239371546579166": {
         "text": 2,
@@ -3550,9 +3550,9 @@
         "total": 615
       },
       "5511927018683": {
-        "text": 613,
+        "text": 614,
         "media": 114,
-        "total": 727
+        "total": 728
       },
       "145381035905262": {
         "text": 504,
@@ -10467,7 +10467,10 @@
         "Celiete Souza (129373172711439): Mas acordei",
         "Anderson (+2135320166432): Kkkkkk",
         "Anderson (+2135320166432): E eu falando sozinho",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Eu na vida com meus sonos parcelados"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Eu na vida com meus sonos parcelados",
+        "Anderson (+2135320166432): Se eu deitar aqui eu apago",
+        "Celiete Souza (129373172711439): Euzinha",
+        "Anderson (+2135320166432): Eu nem dormir"
       ]
     },
     "120363428464897153@g.us": {
@@ -17230,6 +17233,9 @@
         "Gabriel (145381035905262): Sai, e vem mais",
         "Gabriel (145381035905262): Não precisamos se preocupar",
         "Gabriel (145381035905262): 172 removidos no total \n\nContado que entrou uns 250 a 280 \n\nEstamos falando de uns 75% remoção"
+      ],
+      "29/08/2026": [
+        "Leandro (+55 (11) 92701-8683): De onde puxou esses dados?"
       ]
     },
     "120363411233423709@g.us": {
@@ -17815,23 +17821,29 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Eu na vida com meus sonos parcelados",
         "timestamp": 1787972570815
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Se eu deitar aqui eu apago",
+        "timestamp": 1787972595300
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Euzinha",
+        "timestamp": 1787972595335
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Eu nem dormir",
+        "timestamp": 1787972600185
       }
     ],
     "120363428464897153@g.us": [],
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Ontem chegou uma caixinha falando que 2 ou é 3 fulanos montaram um grupo com as mesmas regras do nosso",
-        "timestamp": 1787970716918
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "E de ontem para hoje começou a sair uma porrada de membros",
-        "timestamp": 1787970729987
-      },
       {
         "authorNum": "145381035905262",
         "authorName": "Gabriel",
@@ -17873,6 +17885,12 @@
         "authorName": "Gabriel",
         "text": "172 removidos no total \n\nContado que entrou uns 250 a 280 \n\nEstamos falando de uns 75% remoção",
         "timestamp": 1787972155506
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "De onde puxou esses dados?",
+        "timestamp": 1787972593714
       }
     ],
     "120363411233423709@g.us": [],
@@ -17889,10 +17907,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22818,
+    "120363432018531082@g.us": 22821,
     "120363428464897153@g.us": 6401,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2221,
+    "120363412288900422@g.us": 2222,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -148797,6 +148815,24 @@
         "text": "Eu na vida com meus sonos parcelados",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787972570815
+      },
+      "ACAD92DF93B6FD8B10E627118ED41501": {
+        "sender": "2135320166432@lid",
+        "text": "Se eu deitar aqui eu apago",
+        "pushName": "Anderson",
+        "timestamp": 1787972595300
+      },
+      "AC2D74627DAE6CAF22B81A601752D5EA": {
+        "sender": "129373172711439@lid",
+        "text": "Euzinha",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787972595335
+      },
+      "ACB34503CC2587353BDCA5A1B2B1F86A": {
+        "sender": "2135320166432@lid",
+        "text": "Eu nem dormir",
+        "pushName": "Anderson",
+        "timestamp": 1787972600185
       }
     },
     "120363428464897153@g.us": {
@@ -200901,6 +200937,12 @@
         "text": "172 removidos no total \n\nContado que entrou uns 250 a 280 \n\nEstamos falando de uns 75% remoção",
         "pushName": "Gabriel",
         "timestamp": 1787972155506
+      },
+      "A55BCC453ED5963A9FDF7A355177C977": {
+        "sender": "54259127210155@lid",
+        "text": "De onde puxou esses dados?",
+        "pushName": "Leandro",
+        "timestamp": 1787972593715
       }
     },
     "120363411233423709@g.us": {
@@ -203788,10 +203830,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787972570815,
+    "120363432018531082@g.us": 1787972600185,
     "120363428464897153@g.us": 1787972384184,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787972155506,
+    "120363412288900422@g.us": 1787972593714,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
