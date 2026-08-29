@@ -279,9 +279,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2420,
+        "text": 2421,
         "media": 341,
-        "total": 2761
+        "total": 2762
       },
       "252922705240205": {
         "text": 80,
@@ -3331,9 +3331,9 @@
         "total": 48
       },
       "66743926038604": {
-        "text": 60,
+        "text": 62,
         "media": 12,
-        "total": 72
+        "total": 74
       },
       "227298829721789": {
         "text": 1,
@@ -9956,7 +9956,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Celiete Souza (129373172711439): Todos tem sua beleza 👏🏻",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Gente KKKKKKKKK cês confundiro\n@81991328395336 \n@54259127210155",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Opiniões galera\n@all",
         "Gabriel (145381035905262): Puta merda",
@@ -10455,7 +10454,8 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Ah sim",
         "Leandro (+55 (11) 92701-8683): Tava achando estranho já... Ele não mandou foto com o copin 🍺",
         "Anderson (+2135320166432): Eu virei a noite",
-        "Anderson (+2135320166432): Parei hoje 7 da manhã e vou começar se novo rs"
+        "Anderson (+2135320166432): Parei hoje 7 da manhã e vou começar se novo rs",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Pior que bebi com uma amiga minha essa semana e esqueci de postar"
       ]
     },
     "120363428464897153@g.us": {
@@ -14701,7 +14701,9 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Boa",
         "Henrique (66743926038604): Boa noite galera!",
         "Celiete Souza (129373172711439): Boa noite",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Boa"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Boa",
+        "Henrique (66743926038604): Tudo bem?",
+        "Henrique (66743926038604): Que manda ?"
       ]
     },
     "120363409727467494@g.us": {
@@ -17827,21 +17829,15 @@
         "authorName": "Anderson",
         "text": "Parei hoje 7 da manhã e vou começar se novo rs",
         "timestamp": 1787968189612
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Pior que bebi com uma amiga minha essa semana e esqueci de postar",
+        "timestamp": 1787968230696
       }
     ],
     "120363428464897153@g.us": [
-      {
-        "authorNum": "109977201029253",
-        "authorName": "stefane Verônica 🌻",
-        "text": "Sempre hahaha",
-        "timestamp": 1787966360245
-      },
-      {
-        "authorNum": "270377049690114",
-        "authorName": "Vini 👑🏁🙌⚽",
-        "text": "Hahaha na maldade na mente bb",
-        "timestamp": 1787966369213
-      },
       {
         "authorNum": "120044990287992",
         "authorName": "negoh🐻",
@@ -18057,6 +18053,18 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Boa",
         "timestamp": 1787968148601
+      },
+      {
+        "authorNum": "66743926038604",
+        "authorName": "Henrique",
+        "text": "Tudo bem?",
+        "timestamp": 1787968233425
+      },
+      {
+        "authorNum": "66743926038604",
+        "authorName": "Henrique",
+        "text": "Que manda ?",
+        "timestamp": 1787968237969
       }
     ],
     "120363409727467494@g.us": [],
@@ -18075,8 +18083,8 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22733,
-    "120363428464897153@g.us": 6389,
+    "120363432018531082@g.us": 22734,
+    "120363428464897153@g.us": 6391,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2209,
     "120363411233423709@g.us": 5,
@@ -148479,6 +148487,12 @@
         "text": "Parei hoje 7 da manhã e vou começar se novo rs",
         "pushName": "Anderson",
         "timestamp": 1787968189612
+      },
+      "AC5A5AA09F33B302BAAA8361C5DE2B51": {
+        "sender": "53537388122141@lid",
+        "text": "Pior que bebi com uma amiga minha essa semana e esqueci de postar",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787968230696
       }
     },
     "120363428464897153@g.us": {
@@ -185987,6 +186001,18 @@
         "text": "Boa",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787968148601
+      },
+      "AC0ABDFE495C94C7D8533F53D2BAE617": {
+        "sender": "66743926038604@lid",
+        "text": "Tudo bem?",
+        "pushName": "Henrique",
+        "timestamp": 1787968233425
+      },
+      "AC0C0E522297B1043548C2CCBFCE5689": {
+        "sender": "66743926038604@lid",
+        "text": "Que manda ?",
+        "pushName": "Henrique",
+        "timestamp": 1787968237969
       }
     },
     "120363409727467494@g.us": {
@@ -203326,8 +203352,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787968189612,
-    "120363428464897153@g.us": 1787968148601,
+    "120363432018531082@g.us": 1787968230696,
+    "120363428464897153@g.us": 1787968237969,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787964813002,
     "120363411233423709@g.us": 1787113553426,
