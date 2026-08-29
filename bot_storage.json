@@ -294,9 +294,9 @@
         "total": 464
       },
       "262182034002040": {
-        "text": 1913,
+        "text": 1914,
         "media": 123,
-        "total": 2036
+        "total": 2037
       },
       "219245581488326": {
         "text": 4,
@@ -9961,7 +9961,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Gabriel (145381035905262): E vai botar né, aí complica kkkk",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @53537388122141",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Fui nesse parque em 2018",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): 🫡🔥",
@@ -10460,7 +10459,8 @@
         "Sr VIEGAS😊 (239371546579166): Obrigado",
         "Sr VIEGAS😊 (239371546579166): 😍 claro",
         "Dany (262182034002040): Sabia que tu era um menino inteligente kkkkkkkk",
-        "Gabriel (145381035905262): Era não né , to vivo"
+        "Gabriel (145381035905262): Era não né , to vivo",
+        "Dany (262182034002040): Foi para acompanhar o tempo verbal do “sabia”, Gabriel"
       ]
     },
     "120363428464897153@g.us": {
@@ -17738,36 +17738,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Florianópolis, SC",
-        "timestamp": 1787968028676
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "E você?",
-        "timestamp": 1787968031510
-      },
-      {
-        "authorNum": "2135320166432",
-        "authorName": "Anderson",
-        "text": "Ilhéus, bahia",
-        "timestamp": 1787968044397
-      },
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Rio grande do Sul",
-        "timestamp": 1787968044808
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Ah sim",
-        "timestamp": 1787968053251
-      },
-      {
         "authorNum": "5511927018683",
         "authorName": "Leandro",
         "text": "Tava achando estranho já... Ele não mandou foto com o copin 🍺",
@@ -18210,6 +18180,12 @@
         "authorName": "Gabriel",
         "text": "Era não né , to vivo",
         "timestamp": 1787969793423
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Foi para acompanhar o tempo verbal do “sabia”, Gabriel",
+        "timestamp": 1787969856991
       }
     ],
     "120363428464897153@g.us": [
@@ -18332,7 +18308,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22804,
+    "120363432018531082@g.us": 22805,
     "120363428464897153@g.us": 6401,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2209,
@@ -149156,6 +149132,12 @@
         "text": "Era não né , to vivo",
         "pushName": "Gabriel",
         "timestamp": 1787969793423
+      },
+      "3AFC3186BFE0A2BE2390": {
+        "sender": "262182034002040@lid",
+        "text": "Foi para acompanhar o tempo verbal do “sabia”, Gabriel",
+        "pushName": "Dany",
+        "timestamp": 1787969856991
       }
     },
     "120363428464897153@g.us": {
@@ -204075,7 +204057,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787969793423,
+    "120363432018531082@g.us": 1787969856991,
     "120363428464897153@g.us": 1787969596087,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787964813002,
