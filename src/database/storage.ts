@@ -24,6 +24,21 @@ export interface UserStats {
     total: number;
 }
 
+export interface AnonMessage {
+    id: string;
+    chatId: string;
+    senderJid: string;
+    senderNum: string;
+    senderName: string;
+    receiverJid: string;
+    receiverNum: string;
+    receiverName: string;
+    text: string;
+    timestamp: number;
+    type: 'anonimo' | 'resposta';
+    replyToId?: string;
+}
+
 export interface BotStorage {
     states: Record<string, any>;
     cache: Record<string, any>;
@@ -53,7 +68,6 @@ export interface BotStorage {
     pendingPresentations: Array<{ id: string; chatId: string; memberId: string; memberNum: string; memberName: string; deadline: number }>;
     groupSchedules: Record<string, { openTime?: string; closeTime?: string }>;
     exitMsgs: Record<string, { text: string; setBy?: string; date?: string }>;
-    // NOVO: mensagens personalizadas de remoção por admin (!msgradm)
     removalMsgs: Record<string, { text: string; setBy?: string; date?: string }>;
     inativosMsgs: Record<string, { text: string; setBy?: string; date?: string }>;
     antilink: Record<string, boolean>;
@@ -74,6 +88,8 @@ export interface BotStorage {
     lastGroupActivity: Record<string, number>;
     autoAnimSent: Record<string, boolean>;
     disabledFeatures: Record<string, Record<string, boolean>>;
+    anonMsgs: AnonMessage[];
+    anonCounter: number;
 }
 
 const STORAGE_FILE = path.join(__dirname, '..', '..', 'bot_storage.json');
@@ -122,14 +138,15 @@ export class StorageManager {
             autoAnim: {},
             lastGroupActivity: {},
             autoAnimSent: {},
-            disabledFeatures: {}
+            disabledFeatures: {},
+            anonMsgs: [],
+            anonCounter: 1000
         };
         this.load();
 
         setInterval(() => {
             if (this.pendingSave) {
                 this.saveSync();
-                this.pendingSave = false;
             }
         }, 15000);
     }
@@ -149,21 +166,68 @@ export class StorageManager {
         this.pendingSave = true;
     }
 
+    // CORREÇÃO: escrita atômica SÍNCRONA com retry (elimina EPERM/corrida de escrita no Windows)
     public saveSync(): void {
         try {
             const tmpFile = `${STORAGE_FILE}.tmp`;
-            fs.writeFile(tmpFile, JSON.stringify(this.data, null, 2), (err) => {
-                if (err) {
-                    console.error('[ERRO STORAGE] Gravação temporária:', err.message);
-                    return;
-                }
-                fs.rename(tmpFile, STORAGE_FILE, (renameErr) => {
-                    if (renameErr) console.error('[ERRO STORAGE] Renomeação atômica:', renameErr.message);
-                });
-            });
+            fs.writeFileSync(tmpFile, JSON.stringify(this.data, null, 2));
+            try {
+                fs.renameSync(tmpFile, STORAGE_FILE);
+            } catch (renameErr: any) {
+                setTimeout(() => {
+                    try {
+                        if (fs.existsSync(tmpFile)) fs.renameSync(tmpFile, STORAGE_FILE);
+                    } catch (e2: any) {
+                        console.error('[ERRO STORAGE] Renomeação após retry:', e2.message);
+                    }
+                }, 500);
+            }
+            this.pendingSave = false;
         } catch (e: any) {
             console.error('[ERRO STORAGE]', e.message);
         }
+    }
+
+    // NOVO: salva tudo ao encerrar o bot (Ctrl+C / SIGTERM)
+    public shutdown(): void {
+        try {
+            this.saveSync();
+            console.log('[STORAGE] Dados salvos no encerramento.');
+        } catch (e) { }
+    }
+
+    // NOVO: poda periódica para o bot_storage.json não crescer sem limite
+    public pruneStorage(): void {
+        const now = Date.now();
+        const SEVEN_DAYS = 7 * 24 * 60 * 60 * 1000;
+        const FIFTEEN_MIN = 15 * 60 * 1000;
+
+        if (this.data.chatHistory) {
+            for (const chatId in this.data.chatHistory) {
+                const days = this.data.chatHistory[chatId];
+                for (const dateKey in days) {
+                    const [d, m, y] = dateKey.split('/').map((n: string) => parseInt(n, 10));
+                    const t = new Date(y || 2026, (m || 1) - 1, d || 1).getTime();
+                    if (now - t > SEVEN_DAYS) delete days[dateKey];
+                }
+            }
+        }
+
+        if (this.data.messageBuffer) {
+            for (const chatId in this.data.messageBuffer) {
+                const buf = this.data.messageBuffer[chatId];
+                for (const msgId in buf) {
+                    if (now - (buf[msgId].timestamp || 0) > FIFTEEN_MIN) delete buf[msgId];
+                }
+            }
+        }
+
+        if (this.data.anonMsgs && this.data.anonMsgs.length > 500) {
+            this.data.anonMsgs = this.data.anonMsgs.slice(-500);
+        }
+
+        this.flagSave();
+        console.log('[STORAGE] Poda de dados concluída.');
     }
 
     public isBotDisabled(chatId: string): boolean {
@@ -266,7 +330,15 @@ export class StorageManager {
         this.flagSave();
     }
 
-    // CORREÇÃO: Advertências SEM auto-ban - a remoção é decisão exclusiva dos administradores
+    // NOVO: gera ID sequencial único para o Correio Anônimo
+    public generateAnonId(): string {
+        if (!this.data.anonCounter) this.data.anonCounter = 1000;
+        this.data.anonCounter++;
+        this.flagSave();
+        return `A${this.data.anonCounter}`;
+    }
+
+    // CORREÇÃO: advertências SEM auto-ban — a remoção é decisão exclusiva dos administradores
     public async applyWarning(
         sock: WASocket,
         chatId: string,

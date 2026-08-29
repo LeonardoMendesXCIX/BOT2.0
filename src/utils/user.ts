@@ -8,7 +8,7 @@ export interface UserDisplayInfo {
     mentionTag: string;
 }
 
-// CORREÇÃO: exportado para permitir persistência e consulta externa
+// CORREÇÃO: exportado para permitir consulta/persistência externa
 export const contactCache: Record<string, { name: string; time: number }> = {};
 export const lidMap: Record<string, string> = {};
 

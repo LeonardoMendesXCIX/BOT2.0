@@ -1,7 +1,7 @@
-import makeWASocket, { 
-    useMultiFileAuthState, 
-    DisconnectReason, 
-    fetchLatestBaileysVersion 
+import makeWASocket, {
+    useMultiFileAuthState,
+    DisconnectReason,
+    fetchLatestBaileysVersion
 } from '@whiskeysockets/baileys';
 import pino from 'pino';
 import qrcode from 'qrcode-terminal';
@@ -15,7 +15,6 @@ import { checkMatch } from './config/rbac';
 
 process.env.TZ = 'America/Sao_Paulo';
 
-// Suprime dumps repetitivos de criptografia do libsignal no terminal
 const originalConsoleError = console.error;
 console.error = (...args: any[]) => {
     const msg = args.map(a => a?.message || a?.toString() || '').join(' ');
@@ -44,7 +43,25 @@ process.on('uncaughtException', (error: any) => {
 const storage = new StorageManager();
 let sockInstance: any = null;
 
-// Cron 1: Mensagens Automáticas Programadas (!ma) a cada hora
+// NOVO: backoff exponencial de reconexão (3s → 6s → 12s ... teto 60s)
+let reconnectDelay = 3000;
+
+// NOVO: salva tudo ao encerrar (Ctrl+C)
+process.on('SIGINT', () => {
+    console.log('\n[SISTEMA] Encerrando... salvando dados.');
+    storage.shutdown();
+    process.exit(0);
+});
+process.on('SIGTERM', () => {
+    storage.shutdown();
+    process.exit(0);
+});
+
+// NOVO: poda diária de dados às 03:00
+cron.schedule('0 3 * * *', () => {
+    storage.pruneStorage();
+}, { timezone: "America/Sao_Paulo" });
+
 cron.schedule('0 * * * *', async () => {
     if (!storage.data.scheduledMsgs || storage.data.scheduledMsgs.length === 0) return;
     const now = new Date();
@@ -74,13 +91,11 @@ cron.schedule('0 * * * *', async () => {
     if (modified) storage.flagSave();
 }, { timezone: "America/Sao_Paulo" });
 
-// Cron 2: Agendador Diário de Abertura/Fechamento & Divulgações Programadas
 cron.schedule('* * * * *', async () => {
     if (!sockInstance) return;
     const now = new Date();
     const currentHHMM = now.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit', hour12: false });
 
-    // A. Abertura / Fechamento de Grupos
     if (storage.data.groupSchedules) {
         for (const chatId in storage.data.groupSchedules) {
             if (storage.isBotDisabled(chatId) || storage.isGroupClosed(chatId)) continue;
@@ -92,9 +107,7 @@ cron.schedule('* * * * *', async () => {
                     await sockInstance.groupSettingUpdate(chatId, 'not_announcement');
                     storage.setGroupClosed(chatId, false);
                     await sockInstance.sendMessage(chatId, {
-                        text: `🔓 *BOM DIA! PROTOCOLO JARVIS DE ABERTURA:*
-
-O chat foi liberado para todos os membros conversarem conforme o horário programado (${sched.openTime}).`
+                        text: `🔓 *BOM DIA! PROTOCOLO JARVIS DE ABERTURA:*\n\nO chat foi liberado para todos os membros conversarem conforme o horário programado (${sched.openTime}).`
                     });
                     console.log(`[HORÁRIO AUTOMÁTICO] Grupo ${chatId} aberto às ${currentHHMM}`);
                 } catch (e: any) {
@@ -107,9 +120,7 @@ O chat foi liberado para todos os membros conversarem conforme o horário progra
                     await sockInstance.groupSettingUpdate(chatId, 'announcement');
                     storage.setGroupClosed(chatId, true);
                     await sockInstance.sendMessage(chatId, {
-                        text: `🔒 *BOA NOITE! PROTOCOLO JARVIS DE FECHAMENTO:*
-
-O chat foi fechado para descanso/manutenção conforme o horário programado (${sched.closeTime}). Apenas administradores podem enviar mensagens neste momento.`
+                        text: `🔒 *BOA NOITE! PROTOCOLO JARVIS DE FECHAMENTO:*\n\nO chat foi fechado para descanso/manutenção conforme o horário programado (${sched.closeTime}). Apenas administradores podem enviar mensagens neste momento.`
                     });
                     console.log(`[HORÁRIO AUTOMÁTICO] Grupo ${chatId} fechado às ${currentHHMM}`);
                 } catch (e: any) {
@@ -119,35 +130,31 @@ O chat foi fechado para descanso/manutenção conforme o horário programado (${
         }
     }
 
-    // B. Divulgações Programadas (!divulga)
     if (storage.data.promoSchedule) {
         for (const chatId in storage.data.promoSchedule) {
             if (storage.isBotDisabled(chatId) || storage.isFeatureDisabled(chatId, 'divulga')) continue;
             const promo = storage.data.promoSchedule[chatId];
             if (!promo || !promo.active) continue;
 
-            // Início do Horário de Divulgação
             if (promo.startTime === currentHHMM) {
                 try {
                     await sockInstance.sendMessage(chatId, {
                         text: `📢 *HORÁRIO DE DIVULGAÇÕES ABERTO!* (${promo.startTime} às ${promo.endTime})\n\n${promo.content}\n\n🛡️ *Atenção:* O envio de links está liberado para todos os membros durante este período sem risco de remoção!`
                     });
-                } catch (e: any) {}
+                } catch (e: any) { }
             }
 
-            // Fim do Horário de Divulgação
             if (promo.endTime === currentHHMM) {
                 try {
                     await sockInstance.sendMessage(chatId, {
                         text: `🔒 *HORÁRIO DE DIVULGAÇÕES ENCERRADO!*\n\n_O Anti-Link voltou a operar normalmente com expulsão automática para quem enviar links._`
                     });
-                } catch (e: any) {}
+                } catch (e: any) { }
             }
         }
     }
 }, { timezone: "America/Sao_Paulo" });
 
-// Cron 3: Limpeza e Purga Contínua dos Clusters de Memória (> 30 Minutos)
 cron.schedule('*/5 * * * *', () => {
     storage.purgeExpiredClusters();
 });
@@ -186,16 +193,17 @@ async function startBot() {
 
         if (connection === 'close') {
             const shouldReconnect = (lastDisconnect?.error as any)?.output?.statusCode !== DisconnectReason.loggedOut;
-            console.log('[SISTEMA] Conexão fechada. Reconectando em 3 segundos...', shouldReconnect);
+            console.log(`[SISTEMA] Conexão fechada. Reconectando em ${reconnectDelay / 1000}s...`, shouldReconnect);
             if (shouldReconnect) {
-                setTimeout(() => startBot(), 3000);
+                setTimeout(() => startBot(), reconnectDelay);
+                reconnectDelay = Math.min(reconnectDelay * 2, 60000);
             }
         } else if (connection === 'open') {
+            reconnectDelay = 3000;
             console.log('[SISTEMA] JARVIS BOT2.0 conectado com sucesso!');
         }
     });
 
-    // Listener Anti-Delete (Detecção de Mensagens Apagadas no Grupo)
     sock.ev.on('messages.update', async (updates) => {
         for (const update of updates) {
             if (update.update?.messageStubType === 1 || (update.update as any)?.message === null) {
@@ -207,8 +215,8 @@ async function startBot() {
                     if (buffered && (Date.now() - buffered.timestamp < 15 * 60 * 1000)) {
                         const authorInfo = getUserInfo(buffered.sender);
                         const deletedMsg = `🗑️ *ANTI-DELETE (MENSAGEM APAGADA DETECTADA)* 🗑️\n\n` +
-                                          `👤 *Autor:* ${authorInfo.nameAndNumber}\n` +
-                                          `💬 *Conteúdo Apagado:*\n"${buffered.text}"`;
+                            `👤 *Autor:* ${authorInfo.nameAndNumber}\n` +
+                            `💬 *Conteúdo Apagado:*\n"${buffered.text}"`;
 
                         await sock.sendMessage(chatId, { text: deletedMsg, mentions: [authorInfo.jid] });
                         delete storage.data.messageBuffer[chatId][msgId];
@@ -222,13 +230,21 @@ async function startBot() {
     setupGroupEvents(sock, storage);
 
     // =====================================================================
-    // CORREÇÃO APLICADA AQUI (Filtro Anti-Loop Infinito)
+    // CORREÇÕES: anti-loop + anti-backlog de reconexão
     // =====================================================================
     sock.ev.on('messages.upsert', async (m) => {
+        // CORREÇÃO: ignora sincronização de histórico ('append') da reconexão
+        if (m.type !== 'notify') return;
+
         for (const msg of m.messages) {
-            // Ignora mensagens enviadas pelo próprio bot (fromMe) para evitar o loop infinito
-            // e ignora mensagens vazias (notificações de sistema/status).
-            if (msg.key.fromMe || !msg.message) continue;
+            // CORREÇÃO: ignora msgs do próprio bot e msgs vazias
+            if (!msg.message || msg.key.fromMe || !msg.key.remoteJid) continue;
+
+            // CORREÇÃO: ignora msgs antigas (+10min) para evitar advertências falsas
+            const rawTs: any = (msg as any).messageTimestamp;
+            const tsSec = typeof rawTs === 'number' ? rawTs : (rawTs?.low ?? rawTs?.toNumber?.() ?? 0);
+            const msgTime = Number(tsSec) * 1000;
+            if (msgTime && Date.now() - msgTime > 10 * 60 * 1000) continue;
 
             try {
                 await handleCommand(sock, msg, storage);
@@ -238,7 +254,6 @@ async function startBot() {
         }
     });
 
-    // Verificador 1: Sistema Anti-Ghost (10 minutos para apresentação)
     setInterval(async () => {
         if (!storage.data.pendingPresentations || storage.data.pendingPresentations.length === 0) return;
 
@@ -261,9 +276,9 @@ async function startBot() {
                             await sock.groupParticipantsUpdate(chatId, [item.memberId], 'remove');
                             await sock.sendMessage(chatId, {
                                 text: `👻 *JARVIS SECURITY (ANTI-GHOST):*\n\n` +
-                                      `👤 *Membro:* @${item.memberNum} (*${item.memberName}*)\n` +
-                                      `⏰ *Motivo:* Não enviou mensagem de apresentação no prazo de 10 minutos após entrar no grupo.\n\n` +
-                                      `_O grupo mantém apenas integrantes participativos._`,
+                                    `👤 *Membro:* @${item.memberNum} (*${item.memberName}*)\n` +
+                                    `⏰ *Motivo:* Não enviou mensagem de apresentação no prazo de 10 minutos após entrar no grupo.\n\n` +
+                                    `_O grupo mantém apenas integrantes participativos._`,
                                 mentions: [item.memberId]
                             });
                             console.log(`[ANTI-GHOST] Membro @${item.memberNum} removido.`);
@@ -283,7 +298,6 @@ async function startBot() {
         }
     }, 30000);
 
-    // Verificador 2: Lembrete de Boas-Vindas (!bv - 15 minutos com Verificação de Permanência)
     setInterval(async () => {
         if (!storage.data.pendingBvReminders || storage.data.pendingBvReminders.length === 0) return;
 
@@ -306,8 +320,8 @@ async function startBot() {
                         }
 
                         const rawMemberNum = extractRawNumber(reminder.newMemberId);
-                        const isStillInGroup = groupMeta.participants.some((p: any) => 
-                            p.id === reminder.newMemberId || 
+                        const isStillInGroup = groupMeta.participants.some((p: any) =>
+                            p.id === reminder.newMemberId ||
                             p.lid === reminder.newMemberId ||
                             (p.id && checkMatch(p.id.split('@')[0], rawMemberNum)) ||
                             (p.lid && checkMatch(p.lid.split('@')[0], rawMemberNum))
@@ -351,7 +365,6 @@ async function startBot() {
         }
     }, 30000);
 
-    // Verificador 3: Inatividade de 20 Minutos com Intervenção Contextual Jarvis
     setInterval(async () => {
         if (!storage.data.autoAnim) return;
 
@@ -372,7 +385,7 @@ async function startBot() {
                         const cluster = storage.data.memoryCluster?.[chatId] || [];
                         const clusterStrings = cluster.map(m => `${m.authorName} (+${m.authorNum}): ${m.text}`);
 
-                        const promptAnim = 
+                        const promptAnim =
                             `O grupo ficou completamente em silêncio por mais de 20 minutos.\n` +
                             `Como Jarvis, faça uma intervenção curta, perspicaz, elegante ou descontraída para reativar as conversas no grupo.\n` +
                             `Regra: Máximo 2 a 3 linhas com emojis.`;
