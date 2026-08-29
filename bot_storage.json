@@ -2869,9 +2869,9 @@
         "total": 18
       },
       "239371546579166": {
-        "text": 0,
+        "text": 1,
         "media": 1,
-        "total": 1
+        "total": 2
       }
     },
     "120363428464897153@g.us": {
@@ -9961,7 +9961,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "May (227783724793861): Nossa demais",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Doideira guria",
         "May (227783724793861): O pior que é sempre nessa dinâmica de anônimo ne , botar a cara nunca tem coragem hahahaha",
         "May (227783724793861): Desculpem é que odeio Talaricos hahahaha",
@@ -10460,7 +10459,8 @@
         "Dany (262182034002040): Carne belíssima",
         "Lailson Nathan. (272048228188398): Claro",
         "Anderson (+2135320166432): Graças a Deus",
-        "Anderson (+2135320166432): Temos que viver né"
+        "Anderson (+2135320166432): Temos que viver né",
+        "Sr VIEGAS😊 (239371546579166): Obrigado"
       ]
     },
     "120363428464897153@g.us": {
@@ -17740,30 +17740,6 @@
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Bem vindo",
-        "timestamp": 1787967772795
-      },
-      {
-        "authorNum": "2135320166432",
-        "authorName": "Anderson",
-        "text": "Obrigado !",
-        "timestamp": 1787967782096
-      },
-      {
-        "authorNum": "2135320166432",
-        "authorName": "Anderson",
-        "text": "De onde você é?",
-        "timestamp": 1787967836365
-      },
-      {
-        "authorNum": "2135320166432",
-        "authorName": "Anderson",
-        "text": "De onde você é?",
-        "timestamp": 1787967842747
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Florianópolis, SC",
         "timestamp": 1787968028676
       },
@@ -18210,6 +18186,12 @@
         "authorName": "Anderson",
         "text": "Temos que viver né",
         "timestamp": 1787969550596
+      },
+      {
+        "authorNum": "239371546579166",
+        "authorName": "Sr VIEGAS😊",
+        "text": "Obrigado",
+        "timestamp": 1787969679172
       }
     ],
     "120363428464897153@g.us": [
@@ -18344,7 +18326,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22800,
+    "120363432018531082@g.us": 22801,
     "120363428464897153@g.us": 6401,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2209,
@@ -149144,6 +149126,12 @@
         "text": "Temos que viver né",
         "pushName": "Anderson",
         "timestamp": 1787969550596
+      },
+      "ACA81FD173FBD713B11F4962E9EA0346": {
+        "sender": "239371546579166@lid",
+        "text": "Obrigado",
+        "pushName": "Sr VIEGAS😊",
+        "timestamp": 1787969679172
       }
     },
     "120363428464897153@g.us": {
@@ -204063,7 +204051,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787969550596,
+    "120363432018531082@g.us": 1787969679172,
     "120363428464897153@g.us": 1787969596087,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787964813002,
