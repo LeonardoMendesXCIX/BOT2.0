@@ -4060,9 +4060,9 @@
     },
     "120363409367298221@g.us": {
       "5511927018683": {
-        "text": 1,
+        "text": 3,
         "media": 0,
-        "total": 1
+        "total": 3
       }
     }
   },
@@ -10355,7 +10355,9 @@
     },
     "120363409367298221@g.us": {
       "29/08/2026": [
-        "Leandro: !status"
+        "Leandro: !status",
+        "Leandro: !ajuda",
+        "Leandro: !idgrupo"
       ]
     }
   },
@@ -10363,62 +10365,7 @@
     "120363432018531082@g.us": [],
     "120363428464897153@g.us": [],
     "120363409727467494@g.us": [],
-    "120363412288900422@g.us": [
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "!ajuda",
-        "timestamp": 1787982354438
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "!status",
-        "timestamp": 1787982387018
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "!voz esse é um texto teste para ver como funciona o comando",
-        "timestamp": 1787982434368
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "!enquete",
-        "timestamp": 1787982540363
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "!del",
-        "timestamp": 1787982597199
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "!del",
-        "timestamp": 1787982604591
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "!del",
-        "timestamp": 1787982617602
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "!del",
-        "timestamp": 1787982621334
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "!del",
-        "timestamp": 1787982631302
-      }
-    ],
+    "120363412288900422@g.us": [],
     "120363411233423709@g.us": [],
     "120363428079168524@g.us": [],
     "120363411246936023@g.us": [],
@@ -10431,6 +10378,18 @@
         "authorName": "Leandro",
         "text": "!status",
         "timestamp": 1787986161120
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!ajuda",
+        "timestamp": 1787986178095
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!idgrupo",
+        "timestamp": 1787986192012
       }
     ]
   },
@@ -10451,7 +10410,7 @@
     "120363409024805409@g.us": 96,
     "120363050678635389@g.us": 1,
     "120363411043114631@g.us": 20,
-    "120363409367298221@g.us": 1
+    "120363409367298221@g.us": 3
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -10675,6 +10634,18 @@
         "text": "!status",
         "pushName": "Leandro",
         "timestamp": 1787986161121
+      },
+      "A5A8504642490118B1D95988E138D917": {
+        "sender": "54259127210155@lid",
+        "text": "!ajuda",
+        "pushName": "Leandro",
+        "timestamp": 1787986178095
+      },
+      "A55B45B14A426BD484AC56D9160C1DF2": {
+        "sender": "54259127210155@lid",
+        "text": "!idgrupo",
+        "pushName": "Leandro",
+        "timestamp": 1787986192012
       }
     }
   },
@@ -10773,7 +10744,7 @@
     "120363411246936023@g.us": 1787868477291,
     "120363409024805409@g.us": 1787975843791,
     "120363411043114631@g.us": 1787897464612,
-    "120363409367298221@g.us": 1787986161120
+    "120363409367298221@g.us": 1787986192012
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
