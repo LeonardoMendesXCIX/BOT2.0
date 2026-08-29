@@ -8,7 +8,8 @@
     "names": {
       "5511927018683": "Leandro",
       "1395881181241": "Bruno Aguiar",
-      "1645576491019": "Jose"
+      "1645576491019": "Jose",
+      "2135320166432": "Anderson"
     },
     "contacts": {
       "lidMap": {},
@@ -2861,6 +2862,11 @@
         "text": 68,
         "media": 4,
         "total": 72
+      },
+      "2135320166432": {
+        "text": 1,
+        "media": 1,
+        "total": 2
       }
     },
     "120363428464897153@g.us": {
@@ -2885,9 +2891,9 @@
         "total": 545
       },
       "109977201029253": {
-        "text": 12,
+        "text": 13,
         "media": 5,
-        "total": 17
+        "total": 18
       },
       "145381035905262": {
         "text": 215,
@@ -3475,9 +3481,9 @@
         "total": 26
       },
       "274384656834700": {
-        "text": 47,
+        "text": 48,
         "media": 17,
-        "total": 64
+        "total": 65
       },
       "34626781356198": {
         "text": 0,
@@ -9950,8 +9956,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Gabriel (145381035905262): Para com essas conversas kkkk",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @145381035905262",
         "Celiete Souza (129373172711439): Eu queria isso",
         "Gabriel (145381035905262): Chutaram o balde legal 😂😂😂",
         "Gabriel (145381035905262): Nunca nem usei Jequiti",
@@ -10449,7 +10453,9 @@
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Pra não ser eliminado \n@54259127210155 \n@53537388122141",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Exatamente. Eliminar os inativos daqui",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mas de novo? 😂",
-        "Leandro (+55 (11) 92701-8683): Deu um b.o ali, aí mandei outra 😅"
+        "Leandro (+55 (11) 92701-8683): Deu um b.o ali, aí mandei outra 😅",
+        "Anderson (+2135320166432): Anderson Silva \n34 anos\nIlhéus -bahia",
+        "Anderson (+2135320166432): Boa noite"
       ]
     },
     "120363428464897153@g.us": {
@@ -14681,7 +14687,8 @@
         "negoh🐻 (120044990287992): De onde é ddd 99?",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Maranhão",
         "negoh🐻 (120044990287992): Ah",
-        "Gleydson Souza (274384656834700): Se tem até homem que gosta imagina mulher kkkkkk e so conquistar"
+        "Gleydson Souza (274384656834700): Se tem até homem que gosta imagina mulher kkkkkk e so conquistar",
+        "stefane Verônica 🌻 (109977201029253): Bem isso"
       ]
     },
     "120363409727467494@g.us": {
@@ -17699,20 +17706,21 @@
     }
   },
   "memoryCluster": {
-    "120363432018531082@g.us": [],
+    "120363432018531082@g.us": [
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Anderson Silva \n34 anos\nIlhéus -bahia",
+        "timestamp": 1787967376899
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Boa noite",
+        "timestamp": 1787967379188
+      }
+    ],
     "120363428464897153@g.us": [
-      {
-        "authorNum": "193729163993156",
-        "authorName": "F. RicaRdo sAnToS",
-        "text": "Un.pessoal do grupo ai",
-        "timestamp": 1787965546550
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Ele até correu",
-        "timestamp": 1787965571072
-      },
       {
         "authorNum": "5511927018683",
         "authorName": "Leandro",
@@ -17910,6 +17918,12 @@
         "authorName": "Gleydson Souza",
         "text": "Se tem até homem que gosta imagina mulher kkkkkk e so conquistar",
         "timestamp": 1787967307323
+      },
+      {
+        "authorNum": "109977201029253",
+        "authorName": "stefane Verônica 🌻",
+        "text": "Bem isso",
+        "timestamp": 1787967393904
       }
     ],
     "120363409727467494@g.us": [],
@@ -17928,8 +17942,8 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22715,
-    "120363428464897153@g.us": 6375,
+    "120363432018531082@g.us": 22717,
+    "120363428464897153@g.us": 6376,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2209,
     "120363411233423709@g.us": 5,
@@ -148224,6 +148238,18 @@
         "text": "Deu um b.o ali, aí mandei outra 😅",
         "pushName": "Leandro",
         "timestamp": 1787965477738
+      },
+      "AC63A30C4ED7962C45D8B1B379D8F678": {
+        "sender": "2135320166432@lid",
+        "text": "Anderson Silva \n34 anos\nIlhéus -bahia",
+        "pushName": "Anderson",
+        "timestamp": 1787967376899
+      },
+      "ACD80CFA041DE8C50589514A61AA7E6E": {
+        "sender": "2135320166432@lid",
+        "text": "Boa noite",
+        "pushName": "Anderson",
+        "timestamp": 1787967379188
       }
     },
     "120363428464897153@g.us": {
@@ -185648,6 +185674,12 @@
         "text": "Se tem até homem que gosta imagina mulher kkkkkk e so conquistar",
         "pushName": "Gleydson Souza",
         "timestamp": 1787967307323
+      },
+      "ACFD3219E204499B390D819DFEB12F30": {
+        "sender": "109977201029253@lid",
+        "text": "Bem isso",
+        "pushName": "stefane Verônica 🌻",
+        "timestamp": 1787967393904
       }
     },
     "120363409727467494@g.us": {
@@ -202987,8 +203019,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787967236361,
-    "120363428464897153@g.us": 1787967323453,
+    "120363432018531082@g.us": 1787967379188,
+    "120363428464897153@g.us": 1787967393904,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787964813002,
     "120363411233423709@g.us": 1787113553426,
