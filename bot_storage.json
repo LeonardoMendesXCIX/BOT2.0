@@ -215,9 +215,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2293,
+        "text": 2295,
         "media": 481,
-        "total": 2774
+        "total": 2776
       },
       "184237705699536": {
         "text": 524,
@@ -480,9 +480,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1824,
+        "text": 1826,
         "media": 373,
-        "total": 2197
+        "total": 2199
       },
       "252600633041077": {
         "text": 1,
@@ -7303,7 +7303,11 @@
         "Leandro: Ele responde individualmente",
         "Gabriel: Pode crê",
         "Gabriel: E as músicas?",
-        "Leandro: Se eu der o comando de inativos, só eu que posso responder"
+        "Leandro: Se eu der o comando de inativos, só eu que posso responder",
+        "Leandro: Desliguei, ninguém estava usando",
+        "Leandro: 🤷🏻‍♂️",
+        "Gabriel: Bannn",
+        "Gabriel: Bote, que vamos usar"
       ]
     },
     "120363428464897153@g.us": {
@@ -10562,6 +10566,30 @@
         "authorName": "Leandro",
         "text": "Se eu der o comando de inativos, só eu que posso responder",
         "timestamp": 1788030058470
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Desliguei, ninguém estava usando",
+        "timestamp": 1788030091375
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "🤷🏻‍♂️",
+        "timestamp": 1788030093547
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Bannn",
+        "timestamp": 1788030109310
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Bote, que vamos usar",
+        "timestamp": 1788030114211
       }
     ],
     "120363428464897153@g.us": [],
@@ -10577,12 +10605,12 @@
   },
   "lastJarvisIntervention": {
     "120363409727467494@g.us": 1786781516987,
-    "120363432018531082@g.us": 1788025783698,
+    "120363432018531082@g.us": 1788030114211,
     "120363428464897153@g.us": 1786844627016,
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 65,
+    "120363432018531082@g.us": 0,
     "120363428464897153@g.us": 6425,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2256,
@@ -11152,6 +11180,30 @@
         "text": "Se eu der o comando de inativos, só eu que posso responder",
         "pushName": "Leandro",
         "timestamp": 1788030058470
+      },
+      "A5218D5B65F8651B2B570707E3A4E910": {
+        "sender": "54259127210155@lid",
+        "text": "Desliguei, ninguém estava usando",
+        "pushName": "Leandro",
+        "timestamp": 1788030091375
+      },
+      "A5DA7EC5318F80130732486642AF148E": {
+        "sender": "54259127210155@lid",
+        "text": "🤷🏻‍♂️",
+        "pushName": "Leandro",
+        "timestamp": 1788030093547
+      },
+      "ACC6CCCB476ED527B4F11DB7DA5FA37D": {
+        "sender": "145381035905262@lid",
+        "text": "Bannn",
+        "pushName": "Gabriel",
+        "timestamp": 1788030109310
+      },
+      "AC25282C636F5B63683057889BEE173E": {
+        "sender": "145381035905262@lid",
+        "text": "Bote, que vamos usar",
+        "pushName": "Gabriel",
+        "timestamp": 1788030114211
       }
     },
     "120363428464897153@g.us": {},
@@ -11381,7 +11433,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788030081053,
+    "120363432018531082@g.us": 1788030114211,
     "120363428464897153@g.us": 1787976748279,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788027730338,
