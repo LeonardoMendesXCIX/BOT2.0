@@ -2667,9 +2667,9 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 114,
-        "media": 22,
-        "total": 136
+        "text": 116,
+        "media": 23,
+        "total": 139
       },
       "172868239380659": {
         "text": 182,
@@ -7245,7 +7245,9 @@
         "Dany: A etiqueta não aparece quando se responde a conversa do outro, pode ser que ele não tenha visto mesmo 💁🏻‍♀️",
         "Souza: Onde é isso?",
         "Gleydson Souza: Jubs Goiânia",
-        "Sabrina Bartolucci 🤌🏻: Qualquer coisa, é facão"
+        "Sabrina Bartolucci 🤌🏻: Qualquer coisa, é facão",
+        "Gleydson Souza: E melhor",
+        "Gleydson Souza: Mais rápido"
       ]
     },
     "120363428464897153@g.us": {
@@ -10624,6 +10626,18 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Qualquer coisa, é facão",
         "timestamp": 1788026946797
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "E melhor",
+        "timestamp": 1788026977982
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Mais rápido",
+        "timestamp": 1788026983582
       }
     ],
     "120363428464897153@g.us": [],
@@ -10711,7 +10725,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 30,
+    "120363432018531082@g.us": 32,
     "120363428464897153@g.us": 6425,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2256,
@@ -11070,6 +11084,18 @@
         "text": "Qualquer coisa, é facão",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1788026946797
+      },
+      "ACA7FFF44F801EFE08CD1B250F6B01A4": {
+        "sender": "274384656834700@lid",
+        "text": "E melhor",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1788026977982
+      },
+      "AC7D5B474949D5C2358A07054DFA2C23": {
+        "sender": "274384656834700@lid",
+        "text": "Mais rápido",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1788026983582
       }
     },
     "120363428464897153@g.us": {},
@@ -11299,7 +11325,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788026959475,
+    "120363432018531082@g.us": 1788026983582,
     "120363428464897153@g.us": 1787976748279,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788026544319,
