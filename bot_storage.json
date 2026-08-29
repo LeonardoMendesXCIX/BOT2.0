@@ -454,9 +454,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1806,
+        "text": 1807,
         "media": 371,
-        "total": 2177
+        "total": 2178
       },
       "252600633041077": {
         "text": 1,
@@ -3550,9 +3550,9 @@
         "total": 615
       },
       "5511927018683": {
-        "text": 618,
+        "text": 619,
         "media": 114,
-        "total": 732
+        "total": 733
       },
       "145381035905262": {
         "text": 506,
@@ -10578,7 +10578,8 @@
         "Anderson (+2135320166432): Ah blz",
         "Celiete Souza (129373172711439): Boa noite gente 😴 \nVou dormir 😘",
         "Anderson (+2135320166432): Boa noite meu bem !!",
-        "Anderson (+2135320166432): Dorme com Deus"
+        "Anderson (+2135320166432): Dorme com Deus",
+        "Leandro (+55 (11) 92701-8683): !fechar"
       ]
     },
     "120363428464897153@g.us": {
@@ -17373,7 +17374,8 @@
         "Gabriel (145381035905262): É",
         "Leandro (+55 (11) 92701-8683): Então reduz esses 172 para uns 132 ~ 120",
         "Leandro (+55 (11) 92701-8683): Ainda é um número alto",
-        "Leandro (+55 (11) 92701-8683): Pessoal, vou fechar os 3 grupos e mais tarde o 1° que entrar aqui, abre os grupos... Já vou aproveitar que deu uma acalmada e fazer alguns ajustes no bot, por que tem umas correções pendentes, vou dei"
+        "Leandro (+55 (11) 92701-8683): Pessoal, vou fechar os 3 grupos e mais tarde o 1° que entrar aqui, abre os grupos... Já vou aproveitar que deu uma acalmada e fazer alguns ajustes no bot, por que tem umas correções pendentes, vou dei",
+        "Leandro (+55 (11) 92701-8683): !megafone só aprova membros de manhã, lá para umas 07:00 ou 08:00 horas, por favor"
       ]
     },
     "120363411233423709@g.us": {
@@ -17904,18 +17906,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "2135320166432",
-        "authorName": "Anderson",
-        "text": "Ah legal",
-        "timestamp": 1787973913346
-      },
-      {
-        "authorNum": "2135320166432",
-        "authorName": "Anderson",
-        "text": "E eu e você agora né ?",
-        "timestamp": 1787973921379
-      },
-      {
         "authorNum": "199733712785531",
         "authorName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
         "text": "Sim!",
@@ -18106,6 +18096,12 @@
         "authorName": "Anderson",
         "text": "Dorme com Deus",
         "timestamp": 1787975623512
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!fechar",
+        "timestamp": 1787975825990
       }
     ],
     "120363428464897153@g.us": [
@@ -18243,6 +18239,12 @@
         "authorName": "Leandro",
         "text": "Pessoal, vou fechar os 3 grupos e mais tarde o 1° que entrar aqui, abre os grupos... Já vou aproveitar que deu uma acalmada e fazer alguns ajustes no bot, por que tem umas correções pendentes, vou deixar a aprovação de membros habilitada",
         "timestamp": 1787975765750
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!megafone só aprova membros de manhã, lá para umas 07:00 ou 08:00 horas, por favor",
+        "timestamp": 1787975805135
       }
     ],
     "120363411233423709@g.us": [],
@@ -18266,10 +18268,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22929,
+    "120363432018531082@g.us": 22930,
     "120363428464897153@g.us": 6423,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2228,
+    "120363412288900422@g.us": 2229,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -18285,7 +18287,7 @@
   },
   "closedGroups": {
     "120363428464897153@g.us": false,
-    "120363432018531082@g.us": false,
+    "120363432018531082@g.us": true,
     "120363428662766282@g.us": true,
     "120363428079168524@g.us": false,
     "120363411246936023@g.us": false,
@@ -149847,6 +149849,12 @@
         "text": "Dorme com Deus",
         "pushName": "Anderson",
         "timestamp": 1787975623512
+      },
+      "A57C5040C44C13055E9A44E74ED502C4": {
+        "sender": "54259127210155@lid",
+        "text": "!fechar",
+        "pushName": "Leandro",
+        "timestamp": 1787975825990
       }
     },
     "120363428464897153@g.us": {
@@ -202125,6 +202133,12 @@
         "text": "Pessoal, vou fechar os 3 grupos e mais tarde o 1° que entrar aqui, abre os grupos... Já vou aproveitar que deu uma acalmada e fazer alguns ajustes no bot, por que tem umas correções pendentes, vou deixar a aprovação de membros habilitada",
         "pushName": "Leandro",
         "timestamp": 1787975765750
+      },
+      "A56C6FBB4164C2C4263A3AF2DC4D42DC": {
+        "sender": "54259127210155@lid",
+        "text": "!megafone só aprova membros de manhã, lá para umas 07:00 ou 08:00 horas, por favor",
+        "pushName": "Leandro",
+        "timestamp": 1787975805135
       }
     },
     "120363411233423709@g.us": {
@@ -205018,10 +205032,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787975629806,
+    "120363432018531082@g.us": 1787975825989,
     "120363428464897153@g.us": 1787975585958,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787975765750,
+    "120363412288900422@g.us": 1787975805135,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
