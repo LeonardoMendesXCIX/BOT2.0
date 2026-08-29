@@ -6,6 +6,8 @@ import makeWASocket, {
 import pino from 'pino';
 import qrcode from 'qrcode-terminal';
 import cron from 'node-cron';
+import * as readline from 'readline/promises';
+import { stdin as input, stdout as output } from 'process';
 import { StorageManager } from './database/storage';
 import { handleCommand } from './handlers/commands';
 import { setupGroupEvents } from './handlers/events';
@@ -13,9 +15,11 @@ import { getUserInfo, extractRawNumber } from './utils/user';
 import { checkMatch } from './config/rbac';
 import { startWebServer } from './services/webServer';
 import { getFunnyMessage } from './services/funnyMessages';
+import { getHHMM, isWithinWindow } from './utils/time';
 
 process.env.TZ = 'America/Sao_Paulo';
 const TIMEZONE = 'America/Sao_Paulo';
+const CREATOR_JID = '5511927018683@s.whatsapp.net';
 
 const originalConsoleError = console.error;
 console.error = (...args: any[]) => {
@@ -45,27 +49,11 @@ process.on('uncaughtException', (error: any) => {
 const storage = new StorageManager();
 let sockInstance: any = null;
 let reconnectDelay = 3000;
+let lastDisconnectAt = 0;
+let downStartStr = '';
+let watchdogNotified = false;
 
 startWebServer(() => sockInstance, storage, parseInt(process.env.WEB_PORT || '3000', 10));
-
-// NOVO: HH:MM confiável no Windows (não depende do fuso do PC)
-function getHHMM(): string {
-    try {
-        return new Intl.DateTimeFormat('pt-BR', { timeZone: TIMEZONE, hour: '2-digit', minute: '2-digit', hourCycle: 'h23' }).format(new Date());
-    } catch (e) {
-        const d = new Date();
-        return String(d.getHours()).padStart(2, '0') + ':' + String(d.getMinutes()).padStart(2, '0');
-    }
-}
-
-// NOVO: janela abertura→fechamento (suporta virada de madrugada)
-function isWithinWindow(open?: string, close?: string, nowHHMM?: string): boolean {
-    const now = nowHHMM || getHHMM();
-    if (!open) return false;
-    if (!close) return now >= open;
-    if (open <= close) return now >= open && now < close;
-    return now >= open || now < close;
-}
 
 process.on('SIGINT', () => {
     console.log('\n[SISTEMA] Encerrando... salvando dados.');
@@ -110,18 +98,12 @@ cron.schedule('0 * * * *', async () => {
     if (modified) storage.flagSave();
 }, { timezone: TIMEZONE });
 
-// =====================================================================
-// CRON ABERTURA/FECHAMENTO — CORRIGIDO
-// (antes: grupos fechados eram pulados e NUNCA abriam de novo)
-// =====================================================================
 cron.schedule('* * * * *', async () => {
     if (!sockInstance) return;
     const currentHHMM = getHHMM();
 
     if (storage.data.groupSchedules) {
         for (const chatId in storage.data.groupSchedules) {
-            // CORRIGIDO: só pula se o bot está desligado no grupo.
-            // Grupo FECHADO precisa continuar sendo verificado para poder ABRIR.
             if (storage.isBotDisabled(chatId)) continue;
             const sched = storage.data.groupSchedules[chatId];
             if (!sched) continue;
@@ -184,7 +166,16 @@ cron.schedule('*/5 * * * *', () => {
     storage.purgeExpiredClusters();
 });
 
-// NOVO: ao (re)conectar, recupera horários perdidos enquanto o bot esteve offline
+setInterval(() => {
+    if (lastDisconnectAt > 0) {
+        const downMs = Date.now() - lastDisconnectAt;
+        if (downMs >= 5 * 60 * 1000 && !watchdogNotified) {
+            watchdogNotified = true;
+            console.log('[WATCHDOG] ⚠️ Bot fora do ar há mais de 5 minutos (desde ' + downStartStr + '). O criador será notificado no privado assim que reconectar.');
+        }
+    }
+}, 60000);
+
 async function syncSchedulesOnBoot(sock: any) {
     try {
         if (!storage.data.groupSchedules) return;
@@ -211,6 +202,30 @@ async function syncSchedulesOnBoot(sock: any) {
     }
 }
 
+// NOVO: pede o número no terminal quando não há sessão registrada
+async function askPhoneNumber(): Promise<string> {
+    const rl = readline.createInterface({ input, output });
+    console.log('\n╔════════════════════════════════════════════╗');
+    console.log('║   🔑 PAREAMENTO DO WHATSAPP (1ª vez)       ║');
+    console.log('╚════════════════════════════════════════════╝');
+    console.log('Digite o número do WhatsApp que será usado como bot.');
+    console.log('Formato: DDI + DDD + número (somente números, sem espaços, traços ou parênteses).');
+    console.log('Exemplo para SP: 5511987654321\n');
+
+    let phone = '';
+    while (true) {
+        const answer = await rl.question('📱 Número do bot (DDI+DDD+número): ');
+        const clean = answer.replace(/\D/g, '');
+        if (clean.length < 8 || clean.length > 15) {
+            console.log('❌ Número inválido. Deve ter entre 8 e 15 dígitos. Tente novamente.');
+            continue;
+        }
+        phone = clean;
+        break;
+    }
+    rl.close();
+    return phone;
+}
 async function startBot() {
     const { state, saveCreds } = await useMultiFileAuthState('./sessions');
     const { version } = await fetchLatestBaileysVersion();
@@ -235,42 +250,79 @@ async function startBot() {
 
     sockInstance = sock;
 
-    // NOVO: conexão por NÚMERO DE TELEFONE (código de pareamento) — mais estável que QR
+    // NOVO: pareamento interativo com prompt no terminal
     if (needPairing) {
-        setTimeout(async () => {
-            try {
-                const phone = (process.env.PHONE_NUMBER || '5511927018683').replace(/\D/g, '');
-                let code = await sock.requestPairingCode(phone);
-                if (code) {
-                    code = (code.match(/.{1,4}/g) || [code]).join('-');
-                    console.log('\n[SISTEMA] 🔑 CÓDIGO DE PAREAMENTO: ' + code);
-                    console.log('[SISTEMA] No celular: Configurações > Aparelhos conectados > Conectar aparelho > usar código de pareamento');
-                }
-            } catch (e: any) {
-                console.error('[ERRO PAREAMENTO]', e.message);
+        try {
+            const phone = await askPhoneNumber();
+            console.log('\n[SISTEMA] ⏳ Solicitando código de pareamento para +' + phone + '...');
+            let code = await sock.requestPairingCode(phone);
+            if (code) {
+                code = (code.match(/.{1,4}/g) || [code]).join('-');
+                console.log('\n╔════════════════════════════════════════════╗');
+                console.log('║   🔑 SEU CÓDIGO DE PAREAMENTO:             ║');
+                console.log('╚════════════════════════════════════════════╝');
+                console.log('\n        ' + code + '\n');
+                console.log('📱 Como usar:');
+                console.log('   1. Abra o WhatsApp no celular');
+                console.log('   2. Vá em Configurações > Aparelhos conectados');
+                console.log('   3. Toque em "Conectar um aparelho"');
+                console.log('   4. Toque em "Conectar com número de telefone"');
+                console.log('   5. Digite o código acima\n');
+                console.log('Aguardando pareamento...\n');
+            } else {
+                console.error('[ERRO] Não foi possível gerar o código de pareamento.');
             }
-        }, 3000);
+        } catch (e: any) {
+            console.error('[ERRO PAREAMENTO]', e.message);
+            console.log('[SISTEMA] Como fallback, mostrando QR Code abaixo:');
+            // se o pareamento falhar, deixa o QR aparecer no evento
+        }
     }
 
     sock.ev.on('creds.update', saveCreds);
 
     sock.ev.on('connection.update', (update) => {
         const { connection, lastDisconnect, qr } = update;
+        // mostra QR só se o pareamento não foi solicitado (fallback)
         if (qr && !needPairing) {
             qrcode.generate(qr, { small: true });
             console.log('\n[SISTEMA] Escaneie o QR Code acima com seu WhatsApp.');
         }
 
         if (connection === 'close') {
+            if (!lastDisconnectAt) {
+                lastDisconnectAt = Date.now();
+                downStartStr = getHHMM();
+            }
             const shouldReconnect = (lastDisconnect?.error as any)?.output?.statusCode !== DisconnectReason.loggedOut;
             console.log('[SISTEMA] Conexão fechada. Reconectando em ' + (reconnectDelay / 1000) + 's...', shouldReconnect);
             if (shouldReconnect) {
                 setTimeout(() => startBot(), reconnectDelay);
                 reconnectDelay = Math.min(reconnectDelay * 2, 60000);
+            } else {
+                console.log('[SISTEMA] ⚠️ Desconectado permanentemente. Apague a pasta ./sessions e reinicie para parear novamente.');
             }
         } else if (connection === 'open') {
             reconnectDelay = 3000;
-            console.log('[SISTEMA] JARVIS BOT2.0 conectado com sucesso!');
+            console.log('[SISTEMA] 🎉 JARVIS BOT2.0 conectado com sucesso!');
+
+            if (lastDisconnectAt > 0) {
+                const downMs = Date.now() - lastDisconnectAt;
+                lastDisconnectAt = 0;
+                if (downMs >= 5 * 60 * 1000 || watchdogNotified) {
+                    const downMin = Math.max(1, Math.round(downMs / 60000));
+                    try {
+                        sock.sendMessage(CREATOR_JID, {
+                            text: '🟢 *JARVIS VOLTOU ONLINE*\n\n' +
+                                '⚠️ Fiquei fora do ar por cerca de *' + downMin + ' min*.\n' +
+                                '🕒 Queda às ' + downStartStr + ' → retorno às ' + getHHMM() + '.\n\n' +
+                                '_Se isso se repetir, verifique se o PC/servidor está ligado e com internet._'
+                        });
+                    } catch (e) { }
+                }
+                watchdogNotified = false;
+            }
+
             syncSchedulesOnBoot(sock);
         }
     });

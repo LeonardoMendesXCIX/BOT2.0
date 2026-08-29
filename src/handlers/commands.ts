@@ -15,6 +15,7 @@ import { fetchWikipedia } from '../services/wikipedia';
 import { imageToStickerBuffer, stickerToImageBuffer } from '../utils/sticker';
 import { getUserInfo, updateLidMapping, extractRawNumber, UserDisplayInfo, lidMap, contactCache } from '../utils/user';
 import { generateNglCard } from '../services/nglCard';
+import { getHHMM, isWithinWindow } from '../utils/time';
 import axios from 'axios';
 const userMessageHistory: Record<string, number[]> = {};
 const aiCooldowns: Record<string, Record<string, number>> = {};
@@ -1003,6 +1004,40 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
         await sock.sendMessage(chatId, { text: '✅ *Log limpo!* 🗑️ ' + count + ' registros removidos.' }, { quoted: msg });
         return;
     }
+    if (firstWord === '!horariobot') {
+        if (isGroup) {
+            const userRole = parseInt(getUserRole(userId, storage.data.users));
+            if (userRole < 2) { await sock.sendMessage(chatId, { text: '❌ Apenas administradores.' }, { quoted: msg }); return; }
+        }
+        const nowHHMM = getHHMM();
+        let report = '🕒 *DEBUG DE HORÁRIO & AGENDA*\n\n';
+        report += '🇧🇷 *Hora de Brasília (bot):* ' + nowHHMM + '\n';
+        report += '🖥️ *Hora do PC:* ' + new Date().toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' }) + '\n';
+        report += '🌎 *TZ do processo:* ' + (process.env.TZ || '_não definido_') + '\n';
+        if (isGroup) {
+            const sched = storage.data.groupSchedules?.[chatId];
+            if (sched && (sched.openTime || sched.closeTime)) {
+                const shouldOpen = isWithinWindow(sched.openTime, sched.closeTime, nowHHMM);
+                const internalOpen = !storage.isGroupClosed(chatId);
+                report += '\n📅 *Agenda deste grupo:*\n';
+                report += '• Abertura: ' + (sched.openTime || '_não definida_') + '\n';
+                report += '• Fechamento: ' + (sched.closeTime || '_não definido_') + '\n';
+                report += '✅ *Deveria estar:* ' + (shouldOpen ? '🔓 ABERTO' : '🔒 FECHADO') + '\n';
+                report += '🤖 *Estado interno:* ' + (internalOpen ? '🔓 aberto' : '🔒 fechado') + '\n';
+                try {
+                    const meta = await sock.groupMetadata(chatId);
+                    report += '📡 *Estado real no WhatsApp:* ' + (meta.announce ? '🔒 fechado' : '🔓 aberto') + '\n';
+                    if ((meta.announce === true) === shouldOpen) report += '⚠️ *DIVERGÊNCIA:* o WhatsApp está diferente do que a agenda diz.\n';
+                } catch (e) { }
+                if (shouldOpen !== internalOpen) report += '⚠️ *DIVERGÊNCIA INTERNA:* agenda e estado interno não batem.\n';
+            } else {
+                report += '\n📅 *Agenda deste grupo:* nenhuma configurada.\n';
+            }
+        }
+        report += '\n⚙️ Agendar: `!abrir HH:MM` / `!fechar HH:MM`';
+        await sock.sendMessage(chatId, { text: report }, { quoted: msg });
+        return;
+    }
     if (['!s', '!sticker', '!figurinha'].includes(firstWord)) {
         try {
             const targetMsg = msg.message?.extendedTextMessage?.contextInfo?.quotedMessage ? { key: { remoteJid: chatId, id: msg.message.extendedTextMessage.contextInfo.stanzaId, participant: msg.message.extendedTextMessage.contextInfo.participant }, message: msg.message.extendedTextMessage.contextInfo.quotedMessage } : msg;
@@ -1306,7 +1341,8 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
             menu += '`!idgrupo` `!linkcorreio`\n';
             menu += '`!cadastroidgrupo`\n';
             menu += '`!anonimo` `!responder`\n';
-            menu += '`!vercorreio` `!limparcorreio`';
+            menu += '`!vercorreio` `!limparcorreio`\n';
+            menu += '`!horariobot` - Debug de horário';
         }
         if (userRole === 5) {
             menu += '\n\n*👑 SUPER ADMIN*\n';
