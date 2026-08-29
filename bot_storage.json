@@ -3555,9 +3555,9 @@
         "total": 725
       },
       "145381035905262": {
-        "text": 499,
+        "text": 501,
         "media": 166,
-        "total": 665
+        "total": 667
       },
       "53537388122141": {
         "text": 843,
@@ -17215,7 +17215,9 @@
         "Leandro (+55 (11) 92701-8683): @all",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): 👀👀",
         "Leandro (+55 (11) 92701-8683): Ontem chegou uma caixinha falando que 2 ou é 3 fulanos montaram um grupo com as mesmas regras do nosso",
-        "Leandro (+55 (11) 92701-8683): E de ontem para hoje começou a sair uma porrada de membros"
+        "Leandro (+55 (11) 92701-8683): E de ontem para hoje começou a sair uma porrada de membros",
+        "Gabriel (145381035905262): Muitos foram eliminados",
+        "Gabriel (145381035905262): A maioria"
       ]
     },
     "120363411233423709@g.us": {
@@ -18058,6 +18060,18 @@
         "authorName": "Leandro",
         "text": "E de ontem para hoje começou a sair uma porrada de membros",
         "timestamp": 1787970729987
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Muitos foram eliminados",
+        "timestamp": 1787971128014
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "A maioria",
+        "timestamp": 1787971130819
       }
     ],
     "120363411233423709@g.us": [],
@@ -18077,7 +18091,7 @@
     "120363432018531082@g.us": 22808,
     "120363428464897153@g.us": 6401,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2214,
+    "120363412288900422@g.us": 2216,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -200984,6 +200998,18 @@
         "text": "E de ontem para hoje começou a sair uma porrada de membros",
         "pushName": "Leandro",
         "timestamp": 1787970729987
+      },
+      "ACED575AC59255D317637C38157B7A0A": {
+        "sender": "145381035905262@lid",
+        "text": "Muitos foram eliminados",
+        "pushName": "Gabriel",
+        "timestamp": 1787971128014
+      },
+      "ACF3E5923ED9CA63F81FD57E23F58A32": {
+        "sender": "145381035905262@lid",
+        "text": "A maioria",
+        "pushName": "Gabriel",
+        "timestamp": 1787971130819
       }
     },
     "120363411233423709@g.us": {
@@ -203874,7 +203900,7 @@
     "120363432018531082@g.us": 1787970444103,
     "120363428464897153@g.us": 1787970000766,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787970729987,
+    "120363412288900422@g.us": 1787971130819,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
