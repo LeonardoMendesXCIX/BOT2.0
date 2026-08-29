@@ -189,9 +189,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2278,
+        "text": 2280,
         "media": 479,
-        "total": 2757
+        "total": 2759
       },
       "184237705699536": {
         "text": 524,
@@ -279,9 +279,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2429,
+        "text": 2430,
         "media": 342,
-        "total": 2771
+        "total": 2772
       },
       "252922705240205": {
         "text": 80,
@@ -454,9 +454,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1807,
+        "text": 1808,
         "media": 371,
-        "total": 2178
+        "total": 2179
       },
       "252600633041077": {
         "text": 1,
@@ -2604,9 +2604,9 @@
         "total": 42
       },
       "190864487919667": {
-        "text": 377,
+        "text": 380,
         "media": 55,
-        "total": 432
+        "total": 435
       },
       "82227819987089": {
         "text": 2,
@@ -2872,6 +2872,11 @@
         "text": 2,
         "media": 1,
         "total": 3
+      },
+      "57741892661357": {
+        "text": 4,
+        "media": 0,
+        "total": 4
       }
     },
     "120363428464897153@g.us": {
@@ -7198,7 +7203,16 @@
         "Celiete Souza (129373172711439): Boa noite gente 😴 \nVou dormir 😘",
         "Anderson (+2135320166432): Boa noite meu bem !!",
         "Anderson (+2135320166432): Dorme com Deus",
-        "Leandro (+55 (11) 92701-8683): !fechar"
+        "Leandro (+55 (11) 92701-8683): !fechar",
+        "Gabriel: Será que não tem respeito não, ainda tem meu nome esse fio do cão",
+        "Sabrina Bartolucci 🤌🏻: Ué, do nada?",
+        "Souza: Eita bot maluco",
+        "Gabriel: Eu como professor também",
+        "Gabriel: Que eu quis dizer",
+        "Gabriel: ! bot off",
+        "Gabriel: Mas sou de informática",
+        "Souza: @54259127210155  resolve aq",
+        "Leandro: !megafone bot online novamente"
       ]
     },
     "120363428464897153@g.us": {
@@ -10362,7 +10376,62 @@
     }
   },
   "memoryCluster": {
-    "120363432018531082@g.us": [],
+    "120363432018531082@g.us": [
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Será que não tem respeito não, ainda tem meu nome esse fio do cão",
+        "timestamp": 1788025783380
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Ué, do nada?",
+        "timestamp": 1788025783459
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Eita bot maluco",
+        "timestamp": 1788025783698
+      },
+      {
+        "authorNum": "57741892661357",
+        "authorName": "Gabriel",
+        "text": "Eu como professor também",
+        "timestamp": 1788025783864
+      },
+      {
+        "authorNum": "57741892661357",
+        "authorName": "Gabriel",
+        "text": "Que eu quis dizer",
+        "timestamp": 1788025784080
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "! bot off",
+        "timestamp": 1788025784119
+      },
+      {
+        "authorNum": "57741892661357",
+        "authorName": "Gabriel",
+        "text": "Mas sou de informática",
+        "timestamp": 1788025784162
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "@54259127210155  resolve aq",
+        "timestamp": 1788025784195
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!megafone bot online novamente",
+        "timestamp": 1788025784228
+      }
+    ],
     "120363428464897153@g.us": [],
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [],
@@ -10376,12 +10445,12 @@
   },
   "lastJarvisIntervention": {
     "120363409727467494@g.us": 1786781516987,
-    "120363432018531082@g.us": 1786831113696,
+    "120363432018531082@g.us": 1788025783698,
     "120363428464897153@g.us": 1786844627016,
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22930,
+    "120363432018531082@g.us": 5,
     "120363428464897153@g.us": 6425,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2245,
@@ -10537,7 +10606,62 @@
     "120363412288900422@g.us": false
   },
   "messageBuffer": {
-    "120363432018531082@g.us": {},
+    "120363432018531082@g.us": {
+      "ACFA4C4FCD04231EF9AA327B517343AA": {
+        "sender": "145381035905262@lid",
+        "text": "Será que não tem respeito não, ainda tem meu nome esse fio do cão",
+        "pushName": "Gabriel",
+        "timestamp": 1788025783381
+      },
+      "ACC1F4D3C6C84C39E414D0D108540826": {
+        "sender": "53537388122141@lid",
+        "text": "Ué, do nada?",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1788025783460
+      },
+      "AC14F76658B767F2266B6002633E80C8": {
+        "sender": "190864487919667@lid",
+        "text": "Eita bot maluco",
+        "pushName": "Souza",
+        "timestamp": 1788025783698
+      },
+      "3A1745248A72FC65B75A": {
+        "sender": "57741892661357@lid",
+        "text": "Eu como professor também",
+        "pushName": "Gabriel",
+        "timestamp": 1788025783864
+      },
+      "3AD06BA94EE5206A1424": {
+        "sender": "57741892661357@lid",
+        "text": "Que eu quis dizer",
+        "pushName": "Gabriel",
+        "timestamp": 1788025784080
+      },
+      "AC81F6729370679A71888601298AE933": {
+        "sender": "145381035905262@lid",
+        "text": "! bot off",
+        "pushName": "Gabriel",
+        "timestamp": 1788025784119
+      },
+      "3A024BE13986D7B4CC7D": {
+        "sender": "57741892661357@lid",
+        "text": "Mas sou de informática",
+        "pushName": "Gabriel",
+        "timestamp": 1788025784162
+      },
+      "ACC18A1CCEB860D49E5293B72F06D4E3": {
+        "sender": "190864487919667@lid",
+        "text": "@54259127210155  resolve aq",
+        "pushName": "Souza",
+        "timestamp": 1788025784195
+      },
+      "A59BA1D9CCB557EC51C48A009E70AD36": {
+        "sender": "54259127210155@lid",
+        "text": "!megafone bot online novamente",
+        "pushName": "Leandro",
+        "timestamp": 1788025784228
+      }
+    },
     "120363428464897153@g.us": {},
     "120363409727467494@g.us": {},
     "120363412288900422@g.us": {
@@ -10699,7 +10823,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787975825989,
+    "120363432018531082@g.us": 1788025784279,
     "120363428464897153@g.us": 1787976748279,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787982631302,
