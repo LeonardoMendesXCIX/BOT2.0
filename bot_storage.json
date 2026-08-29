@@ -179,8 +179,8 @@
       },
       "81991328395336": {
         "text": 3967,
-        "media": 1356,
-        "total": 5323
+        "media": 1357,
+        "total": 5324
       },
       "179040627490824": {
         "text": 433,
@@ -2603,9 +2603,9 @@
         "total": 42
       },
       "190864487919667": {
-        "text": 375,
+        "text": 376,
         "media": 55,
-        "total": 430
+        "total": 431
       },
       "82227819987089": {
         "text": 2,
@@ -2629,8 +2629,8 @@
       },
       "75797868064796": {
         "text": 40,
-        "media": 111,
-        "total": 151
+        "media": 112,
+        "total": 152
       },
       "153764728184839": {
         "text": 2,
@@ -2708,9 +2708,9 @@
         "total": 2
       },
       "108461127897146": {
-        "text": 143,
+        "text": 147,
         "media": 26,
-        "total": 169
+        "total": 173
       },
       "10050861031495": {
         "text": 0,
@@ -2875,9 +2875,9 @@
         "total": 78
       },
       "81991328395336": {
-        "text": 594,
+        "text": 595,
         "media": 170,
-        "total": 764
+        "total": 765
       },
       "99338701258949": {
         "text": 499,
@@ -9950,10 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Bruno Aguiar (+1395881181241): Eita,🔥🔥🔥",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Pra mim só meu maridinho mesmo",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Arrasou",
-        "Bruno Aguiar (+1395881181241): Estou longe disso kkkk",
         "Souza (190864487919667): 💥 BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Queremos conhecer você! ✨\n\n📸 Sua foto:\n💬 Nome: Fernando\n🎂 Idade: 24\n📍 De onde sou: Salvador (porém moro no DF)\n\n*🫶🏻 Seja bem-vindo(a)!*\n\n✨ Sinta-se à vontade para",
         "Vini 👑🏁🙌⚽ (270377049690114): Eu né!! 😌🤭",
         "Souza (190864487919667): Pra quem chegou depois",
@@ -10449,7 +10445,11 @@
         "Souza (190864487919667): Cabaré abriu povo",
         "Dany (262182034002040): Olha só",
         "Souza (190864487919667): Cadê a mulher que queria fazer um puteiro?",
-        "Souza (190864487919667): Cadê tu infeliz?"
+        "Souza (190864487919667): Cadê tu infeliz?",
+        "jaciara (108461127897146): Meu pai é dono de um cabaré",
+        "jaciara (108461127897146): E nem é meme",
+        "jaciara (108461127897146): Kkkkkkkkk",
+        "Souza (190864487919667): Ave Maria"
       ]
     },
     "120363428464897153@g.us": {
@@ -17619,12 +17619,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Aí que lindo 🥹🥹🥹",
-        "timestamp": 1787961063259
-      },
-      {
         "authorNum": "108268240302270",
         "authorName": "Edison Medeiros💚",
         "text": "Uau que linda bb",
@@ -18037,6 +18031,30 @@
         "authorName": "Souza",
         "text": "Cadê tu infeliz?",
         "timestamp": 1787962841663
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Meu pai é dono de um cabaré",
+        "timestamp": 1787962878063
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "E nem é meme",
+        "timestamp": 1787962880606
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Kkkkkkkkk",
+        "timestamp": 1787962882830
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Ave Maria",
+        "timestamp": 1787962885851
       }
     ],
     "120363428464897153@g.us": [
@@ -18202,7 +18220,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22692,
+    "120363432018531082@g.us": 22696,
     "120363428464897153@g.us": 6295,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2207,
@@ -148372,6 +148390,30 @@
         "text": "Cadê tu infeliz?",
         "pushName": "Souza",
         "timestamp": 1787962841663
+      },
+      "AC05BC857900A69D531DF2DCB1F09506": {
+        "sender": "108461127897146@lid",
+        "text": "Meu pai é dono de um cabaré",
+        "pushName": "jaciara",
+        "timestamp": 1787962878064
+      },
+      "ACAAC53C438E23BD0667DA78AC73981C": {
+        "sender": "108461127897146@lid",
+        "text": "E nem é meme",
+        "pushName": "jaciara",
+        "timestamp": 1787962880606
+      },
+      "ACA9E9DB4ECD381FA2CE0994965D9DC0": {
+        "sender": "108461127897146@lid",
+        "text": "Kkkkkkkkk",
+        "pushName": "jaciara",
+        "timestamp": 1787962882830
+      },
+      "ACCCD7F164513E50728DC8025682709A": {
+        "sender": "190864487919667@lid",
+        "text": "Ave Maria",
+        "pushName": "Souza",
+        "timestamp": 1787962885851
       }
     },
     "120363428464897153@g.us": {
@@ -202643,8 +202685,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787962860470,
-    "120363428464897153@g.us": 1787962860209,
+    "120363432018531082@g.us": 1787962908363,
+    "120363428464897153@g.us": 1787962908449,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787962621824,
     "120363411233423709@g.us": 1787113553426,
