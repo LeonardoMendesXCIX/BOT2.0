@@ -455,8 +455,8 @@
       },
       "5511927018683": {
         "text": 1799,
-        "media": 368,
-        "total": 2167
+        "media": 369,
+        "total": 2168
       },
       "252600633041077": {
         "text": 1,
@@ -2864,9 +2864,9 @@
         "total": 72
       },
       "2135320166432": {
-        "text": 58,
+        "text": 60,
         "media": 9,
-        "total": 67
+        "total": 69
       },
       "239371546579166": {
         "text": 2,
@@ -10544,7 +10544,9 @@
         "Anderson (+2135320166432): Qual foi o intuito de fazer o grupo?",
         "Anderson (+2135320166432): Já conseguiram arma algum casal aqui ?",
         "Celiete Souza (129373172711439): Meu Deus, de onde saem, onde vivem, e do que se alimentam, tantas figurinhas 🤣🤣🤣",
-        "Celiete Souza (129373172711439): Já tem casal, que se formou aqui, @262182034002040 e @199733712785531"
+        "Celiete Souza (129373172711439): Já tem casal, que se formou aqui, @262182034002040 e @199733712785531",
+        "Anderson (+2135320166432): Ah legal",
+        "Anderson (+2135320166432): E eu e você agora né ?"
       ]
     },
     "120363428464897153@g.us": {
@@ -18341,6 +18343,18 @@
         "authorName": "Celiete Souza",
         "text": "Já tem casal, que se formou aqui, @262182034002040 e @199733712785531",
         "timestamp": 1787973899041
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Ah legal",
+        "timestamp": 1787973913346
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "E eu e você agora né ?",
+        "timestamp": 1787973921379
       }
     ],
     "120363428464897153@g.us": [
@@ -18410,7 +18424,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22895,
+    "120363432018531082@g.us": 22897,
     "120363428464897153@g.us": 6402,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2227,
@@ -149780,6 +149794,18 @@
         "text": "Já tem casal, que se formou aqui, @262182034002040 e @199733712785531",
         "pushName": "Celiete Souza",
         "timestamp": 1787973899041
+      },
+      "AC9A8C4AC541344825F9B9C796694610": {
+        "sender": "2135320166432@lid",
+        "text": "Ah legal",
+        "pushName": "Anderson",
+        "timestamp": 1787973913347
+      },
+      "AC71AF159D2C5A321DEE1C65F72A5C19": {
+        "sender": "2135320166432@lid",
+        "text": "E eu e você agora né ?",
+        "pushName": "Anderson",
+        "timestamp": 1787973921379
       }
     },
     "120363428464897153@g.us": {
@@ -204813,7 +204839,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787973899041,
+    "120363432018531082@g.us": 1787973921794,
     "120363428464897153@g.us": 1787972707416,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787972789844,
