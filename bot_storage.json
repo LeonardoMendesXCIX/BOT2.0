@@ -174,9 +174,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1752,
-        "media": 492,
-        "total": 2244
+        "text": 1754,
+        "media": 493,
+        "total": 2247
       },
       "81991328395336": {
         "text": 3991,
@@ -2864,9 +2864,9 @@
         "total": 72
       },
       "2135320166432": {
-        "text": 64,
+        "text": 66,
         "media": 9,
-        "total": 73
+        "total": 75
       },
       "239371546579166": {
         "text": 2,
@@ -10554,7 +10554,11 @@
         "Anderson (+2135320166432): É isso",
         "Celiete Souza (129373172711439): Eu tentei puxar",
         "Celiete Souza (129373172711439): Mas tá difícil",
-        "Anderson (+2135320166432): Povo é idoso kkk"
+        "Anderson (+2135320166432): Povo é idoso kkk",
+        "Celiete Souza (129373172711439): Estão na rua curtindo",
+        "Celiete Souza (129373172711439): Os veio somos nós",
+        "Anderson (+2135320166432): Eu tbm tava",
+        "Anderson (+2135320166432): Porém já vim pra casa"
       ]
     },
     "120363428464897153@g.us": {
@@ -17855,12 +17859,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Uia",
-        "timestamp": 1787973123211
-      },
-      {
         "authorNum": "2135320166432",
         "authorName": "Anderson",
         "text": "😌",
@@ -18087,6 +18085,30 @@
         "authorName": "Anderson",
         "text": "Povo é idoso kkk",
         "timestamp": 1787974920877
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Estão na rua curtindo",
+        "timestamp": 1787974933217
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Os veio somos nós",
+        "timestamp": 1787974946326
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Eu tbm tava",
+        "timestamp": 1787974948401
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Porém já vim pra casa",
+        "timestamp": 1787974954775
       }
     ],
     "120363428464897153@g.us": [],
@@ -18106,7 +18128,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22905,
+    "120363432018531082@g.us": 22909,
     "120363428464897153@g.us": 6402,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2227,
@@ -149536,6 +149558,30 @@
         "text": "Povo é idoso kkk",
         "pushName": "Anderson",
         "timestamp": 1787974920877
+      },
+      "AC2741DCFE0B04AB26C9D9236A559337": {
+        "sender": "129373172711439@lid",
+        "text": "Estão na rua curtindo",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787974933217
+      },
+      "AC723D09E36C83A81E359513EB019BE9": {
+        "sender": "129373172711439@lid",
+        "text": "Os veio somos nós",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787974946327
+      },
+      "AC49582C142F60E5C96300DF2480648D": {
+        "sender": "2135320166432@lid",
+        "text": "Eu tbm tava",
+        "pushName": "Anderson",
+        "timestamp": 1787974948401
+      },
+      "AC39992CAFD29AC6D317D6CDA422390B": {
+        "sender": "2135320166432@lid",
+        "text": "Porém já vim pra casa",
+        "pushName": "Anderson",
+        "timestamp": 1787974954775
       }
     },
     "120363428464897153@g.us": {
@@ -204569,7 +204615,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787974920877,
+    "120363432018531082@g.us": 1787974954775,
     "120363428464897153@g.us": 1787972707416,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787972789844,
