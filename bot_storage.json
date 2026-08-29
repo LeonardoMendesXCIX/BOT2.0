@@ -2864,9 +2864,9 @@
         "total": 72
       },
       "2135320166432": {
-        "text": 1,
+        "text": 2,
         "media": 1,
-        "total": 2
+        "total": 3
       }
     },
     "120363428464897153@g.us": {
@@ -3126,9 +3126,9 @@
         "total": 9
       },
       "129373172711439": {
-        "text": 952,
-        "media": 250,
-        "total": 1202
+        "text": 953,
+        "media": 251,
+        "total": 1204
       },
       "16007578021977": {
         "text": 57,
@@ -3366,9 +3366,9 @@
         "total": 15
       },
       "120044990287992": {
-        "text": 213,
+        "text": 215,
         "media": 12,
-        "total": 225
+        "total": 227
       },
       "71120413843690": {
         "text": 2,
@@ -3481,9 +3481,9 @@
         "total": 26
       },
       "274384656834700": {
-        "text": 50,
+        "text": 52,
         "media": 18,
-        "total": 68
+        "total": 70
       },
       "34626781356198": {
         "text": 0,
@@ -9956,7 +9956,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Gabriel (145381035905262): Chutaram o balde legal 😂😂😂",
         "Gabriel (145381035905262): Nunca nem usei Jequiti",
         "Celiete Souza (129373172711439): Boa tarde nega 😘",
         "Gabriel (145381035905262): @272048228188398 , @214156045242435 , @129373172711439  olhem isso 😂😂",
@@ -10455,7 +10454,8 @@
         "Leandro (+55 (11) 92701-8683): Deu um b.o ali, aí mandei outra 😅",
         "Anderson (+2135320166432): Anderson Silva \n34 anos\nIlhéus -bahia",
         "Anderson (+2135320166432): Boa noite",
-        "Celiete Souza (129373172711439): Boa noite"
+        "Celiete Souza (129373172711439): Boa noite",
+        "Anderson (+2135320166432): Tudo bem ?"
       ]
     },
     "120363428464897153@g.us": {
@@ -14691,7 +14691,9 @@
         "stefane Verônica 🌻 (109977201029253): Bem isso",
         "Gleydson Souza (274384656834700): Nuh",
         "negoh🐻 (120044990287992): Vou levar meu pinto pra tomar banho",
-        "negoh🐻 (120044990287992): Gostou do meu pintão"
+        "negoh🐻 (120044990287992): Gostou do meu pintão",
+        "Gleydson Souza (274384656834700): Bom pra fazer galinhada kkkkkkkkk",
+        "negoh🐻 (120044990287992): Vc tá bem 😂😂😂"
       ]
     },
     "120363409727467494@g.us": {
@@ -17727,6 +17729,12 @@
         "authorName": "Celiete Souza",
         "text": "Boa noite",
         "timestamp": 1787967457411
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Tudo bem ?",
+        "timestamp": 1787967495812
       }
     ],
     "120363428464897153@g.us": [
@@ -17939,6 +17947,18 @@
         "authorName": "negoh🐻",
         "text": "Gostou do meu pintão",
         "timestamp": 1787967454904
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Bom pra fazer galinhada kkkkkkkkk",
+        "timestamp": 1787967481568
+      },
+      {
+        "authorNum": "120044990287992",
+        "authorName": "negoh🐻",
+        "text": "Vc tá bem 😂😂😂",
+        "timestamp": 1787967517694
       }
     ],
     "120363409727467494@g.us": [],
@@ -17957,8 +17977,8 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22718,
-    "120363428464897153@g.us": 6379,
+    "120363432018531082@g.us": 22719,
+    "120363428464897153@g.us": 6381,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2209,
     "120363411233423709@g.us": 5,
@@ -148271,6 +148291,12 @@
         "text": "Boa noite",
         "pushName": "Celiete Souza",
         "timestamp": 1787967457413
+      },
+      "AC4F5CB770B6C0F8151D1125570121C7": {
+        "sender": "2135320166432@lid",
+        "text": "Tudo bem ?",
+        "pushName": "Anderson",
+        "timestamp": 1787967495812
       }
     },
     "120363428464897153@g.us": {
@@ -185719,6 +185745,18 @@
         "text": "Gostou do meu pintão",
         "pushName": "negoh🐻",
         "timestamp": 1787967454904
+      },
+      "AC2258E8210F0F507511594C7EE74D41": {
+        "sender": "274384656834700@lid",
+        "text": "Bom pra fazer galinhada kkkkkkkkk",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1787967481569
+      },
+      "AC9E8625CE5BFF422D0A01CA84BAFD66": {
+        "sender": "120044990287992@lid",
+        "text": "Vc tá bem 😂😂😂",
+        "pushName": "negoh🐻",
+        "timestamp": 1787967517695
       }
     },
     "120363409727467494@g.us": {
@@ -203058,8 +203096,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787967457411,
-    "120363428464897153@g.us": 1787967454904,
+    "120363432018531082@g.us": 1787967495812,
+    "120363428464897153@g.us": 1787967517694,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787964813002,
     "120363411233423709@g.us": 1787113553426,
