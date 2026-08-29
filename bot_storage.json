@@ -302,9 +302,9 @@
         "total": 464
       },
       "262182034002040": {
-        "text": 1922,
+        "text": 1924,
         "media": 123,
-        "total": 2045
+        "total": 2047
       },
       "219245581488326": {
         "text": 4,
@@ -7239,7 +7239,8 @@
         "Wagner Cabral: Geral ta curtindo",
         "Wagner Cabral: E eu em casa",
         "Sabrina Bartolucci 🤌🏻: Vou curtir a noite",
-        "Leandro: !m"
+        "Leandro: !m",
+        "Dany: Ele tentou fazer uma piada, sem graça, mas tentou"
       ]
     },
     "120363428464897153@g.us": {
@@ -10582,6 +10583,12 @@
         "authorName": "Leandro",
         "text": "!m",
         "timestamp": 1788026525857
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Ele tentou fazer uma piada, sem graça, mas tentou",
+        "timestamp": 1788026670902
       }
     ],
     "120363428464897153@g.us": [],
@@ -10669,7 +10676,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 24,
+    "120363432018531082@g.us": 25,
     "120363428464897153@g.us": 6425,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2256,
@@ -10992,6 +10999,12 @@
         "text": "!m",
         "pushName": "Leandro",
         "timestamp": 1788026525857
+      },
+      "3AF8671E30C2C417A71C": {
+        "sender": "262182034002040@lid",
+        "text": "Ele tentou fazer uma piada, sem graça, mas tentou",
+        "pushName": "Dany",
+        "timestamp": 1788026670902
       }
     },
     "120363428464897153@g.us": {},
@@ -11221,7 +11234,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788026525857,
+    "120363432018531082@g.us": 1788026677593,
     "120363428464897153@g.us": 1787976748279,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788026544319,
