@@ -2888,8 +2888,8 @@
       },
       "115981515014219": {
         "text": 1,
-        "media": 0,
-        "total": 1
+        "media": 1,
+        "total": 2
       }
     },
     "120363428464897153@g.us": {
@@ -7274,7 +7274,8 @@
         "Leandro: Pois bem",
         "Leandro: Arrumei uma coisa e 💩 outra 🤦🏻‍♂️",
         "Dany: 🫠😅",
-        "Leandro: !del"
+        "Leandro: !del",
+        "Rodolfo Carmona Mazon: Rodolfo \n28 anos \nPsicanalista"
       ]
     },
     "120363428464897153@g.us": {
@@ -10467,6 +10468,12 @@
         "authorName": "Leandro",
         "text": "!del",
         "timestamp": 1788029795023
+      },
+      {
+        "authorNum": "115981515014219",
+        "authorName": "Rodolfo Carmona Mazon",
+        "text": "Rodolfo \n28 anos \nPsicanalista",
+        "timestamp": 1788029845946
       }
     ],
     "120363428464897153@g.us": [],
@@ -10487,7 +10494,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 54,
+    "120363432018531082@g.us": 55,
     "120363428464897153@g.us": 6425,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2256,
@@ -10991,6 +10998,12 @@
         "text": "!del",
         "pushName": "Leandro",
         "timestamp": 1788029795023
+      },
+      "3AA4F1B7633469C93CF9": {
+        "sender": "115981515014219@lid",
+        "text": "Rodolfo \n28 anos \nPsicanalista",
+        "pushName": "Rodolfo Carmona Mazon",
+        "timestamp": 1788029846591
       }
     },
     "120363428464897153@g.us": {},
@@ -11220,7 +11233,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788029795023,
+    "120363432018531082@g.us": 1788029845946,
     "120363428464897153@g.us": 1787976748279,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788027730338,
