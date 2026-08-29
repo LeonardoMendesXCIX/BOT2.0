@@ -215,9 +215,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2291,
+        "text": 2293,
         "media": 481,
-        "total": 2772
+        "total": 2774
       },
       "184237705699536": {
         "text": 524,
@@ -480,9 +480,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1823,
+        "text": 1824,
         "media": 373,
-        "total": 2196
+        "total": 2197
       },
       "252600633041077": {
         "text": 1,
@@ -676,8 +676,8 @@
       },
       "86793403801839": {
         "text": 63,
-        "media": 6,
-        "total": 69
+        "media": 7,
+        "total": 70
       },
       "78070107140221": {
         "text": 7,
@@ -7300,7 +7300,10 @@
         "Leandro: !inativos",
         "Gabriel: 2",
         "Gabriel: Bicho tá doido",
-        "Leandro: Ele responde individualmente"
+        "Leandro: Ele responde individualmente",
+        "Gabriel: Pode crê",
+        "Gabriel: E as músicas?",
+        "Leandro: Se eu der o comando de inativos, só eu que posso responder"
       ]
     },
     "120363428464897153@g.us": {
@@ -10541,6 +10544,24 @@
         "authorName": "Leandro",
         "text": "Ele responde individualmente",
         "timestamp": 1788030037459
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Pode crê",
+        "timestamp": 1788030044612
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "E as músicas?",
+        "timestamp": 1788030049877
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Se eu der o comando de inativos, só eu que posso responder",
+        "timestamp": 1788030058470
       }
     ],
     "120363428464897153@g.us": [],
@@ -10561,7 +10582,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 62,
+    "120363432018531082@g.us": 65,
     "120363428464897153@g.us": 6425,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2256,
@@ -11113,6 +11134,24 @@
         "text": "Ele responde individualmente",
         "pushName": "Leandro",
         "timestamp": 1788030037459
+      },
+      "ACF9014F1EC11F34822A9E58410B5414": {
+        "sender": "145381035905262@lid",
+        "text": "Pode crê",
+        "pushName": "Gabriel",
+        "timestamp": 1788030044612
+      },
+      "ACE383B97F46569F2FB766A4FEE57777": {
+        "sender": "145381035905262@lid",
+        "text": "E as músicas?",
+        "pushName": "Gabriel",
+        "timestamp": 1788030049877
+      },
+      "A545DF1659A71C1DE123D67955859789": {
+        "sender": "54259127210155@lid",
+        "text": "Se eu der o comando de inativos, só eu que posso responder",
+        "pushName": "Leandro",
+        "timestamp": 1788030058470
       }
     },
     "120363428464897153@g.us": {},
@@ -11342,7 +11381,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788030037459,
+    "120363432018531082@g.us": 1788030081053,
     "120363428464897153@g.us": 1787976748279,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788027730338,
