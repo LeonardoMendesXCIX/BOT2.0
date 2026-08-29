@@ -293,9 +293,9 @@
         "total": 464
       },
       "262182034002040": {
-        "text": 1894,
+        "text": 1895,
         "media": 123,
-        "total": 2017
+        "total": 2018
       },
       "219245581488326": {
         "text": 4,
@@ -318,9 +318,9 @@
         "total": 117
       },
       "199733712785531": {
-        "text": 208,
+        "text": 210,
         "media": 122,
-        "total": 330
+        "total": 332
       },
       "153596754661626": {
         "text": 1,
@@ -453,9 +453,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1771,
+        "text": 1773,
         "media": 358,
-        "total": 2129
+        "total": 2131
       },
       "252600633041077": {
         "text": 1,
@@ -9950,8 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Juliano Perlin (222595437858867): Eu tambem quero saber",
-        "Gabriel (145381035905262): Velório hoje as 16:99",
         "Juliano Perlin (222595437858867): Identifica-se no pv🤣🤣🤣",
         "Leandro (+55 (11) 92701-8683): Eu pensei a mesma coisa, só não disse",
         "Leandro (+55 (11) 92701-8683): O horário e o grupo não permite",
@@ -10449,7 +10447,9 @@
         "Edison Medeiros💚 (108268240302270): Estou bem tbm",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Acabei de abri amg \n\nA gente confia em bot da nisso",
         "Edison Medeiros💚 (108268240302270): Seu DDD é de SP que lugar?",
-        "Leandro (+55 (11) 92701-8683): Tua mãe não fez uma mulher, fez uma obra prima 🤌🏼"
+        "Leandro (+55 (11) 92701-8683): Tua mãe não fez uma mulher, fez uma obra prima 🤌🏼",
+        "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Boa noitee amor 🥰",
+        "Leandro (+55 (11) 92701-8683): O jovem Gus, aproveita que chegou agora"
       ]
     },
     "120363428464897153@g.us": {
@@ -17609,12 +17609,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Queremos conhecer você! ✨\n\n📸 Sua foto:\n💬 Nome: Sabrina Bartolucci\n🎂 Idade: 23 anos\n📍 De onde sou: Florianópolis, Santa Catarina\n\n*🫶🏻 Seja bem-vindo(a)!*\n\n✨ Sinta-se à vontade para interagir, conhecer a galera e fazer novas amizades! 🤝\n\n❌ *PROIBIDO A INVASÃO DE PRIVADO, SEM AUTORIZAÇÃO* ❌",
-        "timestamp": 1787960630212
-      },
-      {
         "authorNum": "227783724793861",
         "authorName": "May",
         "text": "Fofoca  pela metade quase mata o fofoqueiro",
@@ -17925,6 +17919,18 @@
         "authorName": "Leandro",
         "text": "Tua mãe não fez uma mulher, fez uma obra prima 🤌🏼",
         "timestamp": 1787962391309
+      },
+      {
+        "authorNum": "199733712785531",
+        "authorName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
+        "text": "Boa noitee amor 🥰",
+        "timestamp": 1787962426035
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "O jovem Gus, aproveita que chegou agora",
+        "timestamp": 1787962444692
       }
     ],
     "120363428464897153@g.us": [
@@ -18102,7 +18108,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22667,
+    "120363432018531082@g.us": 22669,
     "120363428464897153@g.us": 6288,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2204,
@@ -148122,6 +148128,18 @@
         "text": "Tua mãe não fez uma mulher, fez uma obra prima 🤌🏼",
         "pushName": "Leandro",
         "timestamp": 1787962391309
+      },
+      "3A089FCC4E5036CE97EF": {
+        "sender": "199733712785531@lid",
+        "text": "Boa noitee amor 🥰",
+        "pushName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
+        "timestamp": 1787962426035
+      },
+      "A5137F0069C5F1E0045F799BD913D39B": {
+        "sender": "54259127210155@lid",
+        "text": "O jovem Gus, aproveita que chegou agora",
+        "pushName": "Leandro",
+        "timestamp": 1787962444692
       }
     },
     "120363428464897153@g.us": {
@@ -202333,7 +202351,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787962410535,
+    "120363432018531082@g.us": 1787962444692,
     "120363428464897153@g.us": 1787962376250,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787962074634,
