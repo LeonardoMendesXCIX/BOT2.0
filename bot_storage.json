@@ -174,9 +174,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1750,
-        "media": 491,
-        "total": 2241
+        "text": 1752,
+        "media": 492,
+        "total": 2244
       },
       "81991328395336": {
         "text": 3991,
@@ -2864,9 +2864,9 @@
         "total": 72
       },
       "2135320166432": {
-        "text": 63,
+        "text": 64,
         "media": 9,
-        "total": 72
+        "total": 73
       },
       "239371546579166": {
         "text": 2,
@@ -10551,7 +10551,10 @@
         "Anderson (+2135320166432): 👏🏽👏🏽👏🏽",
         "Anderson (+2135320166432): ❤️",
         "Leandro (+55 (11) 92701-8683): Olha todo esse silêncio aqui... @all",
-        "Anderson (+2135320166432): É isso"
+        "Anderson (+2135320166432): É isso",
+        "Celiete Souza (129373172711439): Eu tentei puxar",
+        "Celiete Souza (129373172711439): Mas tá difícil",
+        "Anderson (+2135320166432): Povo é idoso kkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -17852,66 +17855,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "2135320166432",
-        "authorName": "Anderson",
-        "text": "Deitou dormiu",
-        "timestamp": 1787973005278
-      },
-      {
-        "authorNum": "2135320166432",
-        "authorName": "Anderson",
-        "text": "O mundo pode se acabar eu nem vejo",
-        "timestamp": 1787973015804
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Meu sonho",
-        "timestamp": 1787973016983
-      },
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "E acorda todo mundo kkkkkk",
-        "timestamp": 1787973017166
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Tô procurando a respeito de apnéia do sono",
-        "timestamp": 1787973027721
-      },
-      {
-        "authorNum": "2135320166432",
-        "authorName": "Anderson",
-        "text": "Quer apostar?",
-        "timestamp": 1787973031962
-      },
-      {
-        "authorNum": "262182034002040",
-        "authorName": "Dany",
-        "text": "Eu sou assim muitas vezes kkkkk",
-        "timestamp": 1787973040181
-      },
-      {
-        "authorNum": "2135320166432",
-        "authorName": "Anderson",
-        "text": "Tá super enganada",
-        "timestamp": 1787973045535
-      },
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Boa kkkkkkk",
-        "timestamp": 1787973048938
-      },
-      {
-        "authorNum": "2135320166432",
-        "authorName": "Anderson",
-        "text": "Se quiser vou até você !",
-        "timestamp": 1787973056977
-      },
-      {
         "authorNum": "81991328395336",
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Uia",
@@ -18126,6 +18069,24 @@
         "authorName": "Anderson",
         "text": "É isso",
         "timestamp": 1787974651762
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Eu tentei puxar",
+        "timestamp": 1787974893817
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Mas tá difícil",
+        "timestamp": 1787974904559
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Povo é idoso kkk",
+        "timestamp": 1787974920877
       }
     ],
     "120363428464897153@g.us": [],
@@ -18145,7 +18106,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22902,
+    "120363432018531082@g.us": 22905,
     "120363428464897153@g.us": 6402,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2227,
@@ -149557,6 +149518,24 @@
         "text": "É isso",
         "pushName": "Anderson",
         "timestamp": 1787974651762
+      },
+      "AC855ED8CA790A22425662FB7BB69CF7": {
+        "sender": "129373172711439@lid",
+        "text": "Eu tentei puxar",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787974893817
+      },
+      "AC6B1C46215428285877CAEB74AB1FAF": {
+        "sender": "129373172711439@lid",
+        "text": "Mas tá difícil",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787974904559
+      },
+      "AC3509D9E7EA76BE00A89BBDA383115F": {
+        "sender": "2135320166432@lid",
+        "text": "Povo é idoso kkk",
+        "pushName": "Anderson",
+        "timestamp": 1787974920877
       }
     },
     "120363428464897153@g.us": {
@@ -204590,7 +204569,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787974651762,
+    "120363432018531082@g.us": 1787974920877,
     "120363428464897153@g.us": 1787972707416,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787972789844,
