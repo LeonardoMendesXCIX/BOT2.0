@@ -2911,9 +2911,9 @@
         "total": 120
       },
       "1645576491019": {
-        "text": 334,
+        "text": 335,
         "media": 131,
-        "total": 465
+        "total": 466
       },
       "262182034002040": {
         "text": 326,
@@ -3176,9 +3176,9 @@
         "total": 95
       },
       "222595437858867": {
-        "text": 153,
+        "text": 154,
         "media": 11,
-        "total": 164
+        "total": 165
       },
       "104003018985518": {
         "text": 40,
@@ -14695,7 +14695,9 @@
         "Gleydson Souza (274384656834700): Bom pra fazer galinhada kkkkkkkkk",
         "negoh🐻 (120044990287992): Vc tá bem 😂😂😂",
         "Gleydson Souza (274384656834700): Chupar tudo ja faz ser bom kkkkkk",
-        "Juliano Perlin (222595437858867): 🤗"
+        "Juliano Perlin (222595437858867): 🤗",
+        "Juliano Perlin (222595437858867): Boa noite povo",
+        "Jose (+1645576491019): Boa noite 💤"
       ]
     },
     "120363409727467494@g.us": {
@@ -17985,6 +17987,18 @@
         "authorName": "Juliano Perlin",
         "text": "🤗",
         "timestamp": 1787967871622
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Boa noite povo",
+        "timestamp": 1787967881545
+      },
+      {
+        "authorNum": "1645576491019",
+        "authorName": "Jose",
+        "text": "Boa noite 💤",
+        "timestamp": 1787967902996
       }
     ],
     "120363409727467494@g.us": [],
@@ -18004,7 +18018,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 22725,
-    "120363428464897153@g.us": 6383,
+    "120363428464897153@g.us": 6385,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2209,
     "120363411233423709@g.us": 5,
@@ -185831,6 +185845,18 @@
         "text": "🤗",
         "pushName": "Juliano Perlin",
         "timestamp": 1787967871624
+      },
+      "AC2A45A462EAC084602916BDC429D0D3": {
+        "sender": "222595437858867@lid",
+        "text": "Boa noite povo",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1787967881546
+      },
+      "3A1231BF1817BC10B596": {
+        "sender": "1645576491019@lid",
+        "text": "Boa noite 💤",
+        "pushName": "Jose",
+        "timestamp": 1787967902996
       }
     },
     "120363409727467494@g.us": {
@@ -203171,7 +203197,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1787967842747,
-    "120363428464897153@g.us": 1787967871622,
+    "120363428464897153@g.us": 1787967902996,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787964813002,
     "120363411233423709@g.us": 1787113553426,
