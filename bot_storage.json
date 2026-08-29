@@ -287,9 +287,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2436,
+        "text": 2437,
         "media": 342,
-        "total": 2778
+        "total": 2779
       },
       "252922705240205": {
         "text": 80,
@@ -2222,9 +2222,9 @@
         "total": 33
       },
       "240716089413724": {
-        "text": 35,
+        "text": 38,
         "media": 1,
-        "total": 36
+        "total": 39
       },
       "260426164125939": {
         "text": 90,
@@ -3563,9 +3563,9 @@
         "total": 615
       },
       "5511927018683": {
-        "text": 642,
+        "text": 644,
         "media": 114,
-        "total": 756
+        "total": 758
       },
       "145381035905262": {
         "text": 509,
@@ -7232,7 +7232,11 @@
         "Sabrina Bartolucci 🤌🏻: Não, ele tava desligado só",
         "Leandro: Obrigado! 🫡",
         "Sabrina Bartolucci 🤌🏻: Disponha 🫡",
-        "Leandro: !inativos"
+        "Leandro: !inativos",
+        "Sabrina Bartolucci 🤌🏻: Povo morreu? 👀",
+        "Wagner Cabral: Mano",
+        "Wagner Cabral: E sábado",
+        "Wagner Cabral: Geral ta curtindo"
       ]
     },
     "120363428464897153@g.us": {
@@ -9963,7 +9967,9 @@
         "Leandro: !status",
         "Leandro: !ajuda",
         "Leandro: 👻 *INATIVOS (2)* 👻\n\n🏢 ᴄᴏɴᴇxᴀ̃ᴏ sᴏᴄɪᴀʟ\n\n1 - *Membro*\n2 - *Membro*\n\n⚠️ *Remover todos?*\n\nResponda: *SIM* (1) ou *NÃO* (2)",
-        "Leandro: Pessoal, esses 2 membros inativos que ele está apontando aqui, são os que entrou enquanto ele estava offline"
+        "Leandro: Pessoal, esses 2 membros inativos que ele está apontando aqui, são os que entrou enquanto ele estava offline",
+        "Leandro: Não necessariamente estão inativos no grupo",
+        "Leandro: @all"
       ]
     },
     "120363411233423709@g.us": {},
@@ -10526,6 +10532,30 @@
         "authorName": "Leandro",
         "text": "!inativos",
         "timestamp": 1788026385076
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Povo morreu? 👀",
+        "timestamp": 1788026459141
+      },
+      {
+        "authorNum": "240716089413724",
+        "authorName": "Wagner Cabral",
+        "text": "Mano",
+        "timestamp": 1788026472887
+      },
+      {
+        "authorNum": "240716089413724",
+        "authorName": "Wagner Cabral",
+        "text": "E sábado",
+        "timestamp": 1788026478784
+      },
+      {
+        "authorNum": "240716089413724",
+        "authorName": "Wagner Cabral",
+        "text": "Geral ta curtindo",
+        "timestamp": 1788026483098
       }
     ],
     "120363428464897153@g.us": [],
@@ -10554,6 +10584,18 @@
         "authorName": "Leandro",
         "text": "Pessoal, esses 2 membros inativos que ele está apontando aqui, são os que entrou enquanto ele estava offline",
         "timestamp": 1788026452393
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Não necessariamente estão inativos no grupo",
+        "timestamp": 1788026463421
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "@all",
+        "timestamp": 1788026467054
       }
     ],
     "120363411233423709@g.us": [],
@@ -10571,10 +10613,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 17,
+    "120363432018531082@g.us": 21,
     "120363428464897153@g.us": 6425,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2249,
+    "120363412288900422@g.us": 2251,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -10614,7 +10656,6 @@
       "93970126397545@lid",
       "53537388122141@lid",
       "159442087739425@lid",
-      "81991328395336@lid",
       "66743926038604@lid",
       "175655757050100@lid",
       "199733712785531@lid",
@@ -10853,6 +10894,30 @@
         "text": "!inativos",
         "pushName": "Leandro",
         "timestamp": 1788026385076
+      },
+      "AC82C1301216F38BCBCEE8B48BFE56F6": {
+        "sender": "53537388122141@lid",
+        "text": "Povo morreu? 👀",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1788026459142
+      },
+      "ACD0E6BA1965E35F047664C0CBD363E4": {
+        "sender": "240716089413724@lid",
+        "text": "Mano",
+        "pushName": "Wagner Cabral",
+        "timestamp": 1788026472887
+      },
+      "AC52AB8F3C856F47EECA7988B3B924B2": {
+        "sender": "240716089413724@lid",
+        "text": "E sábado",
+        "pushName": "Wagner Cabral",
+        "timestamp": 1788026478784
+      },
+      "ACFC79FA2723519A52CA9FF18E4C53D1": {
+        "sender": "240716089413724@lid",
+        "text": "Geral ta curtindo",
+        "pushName": "Wagner Cabral",
+        "timestamp": 1788026483098
       }
     },
     "120363428464897153@g.us": {},
@@ -10935,6 +11000,18 @@
         "text": "Pessoal, esses 2 membros inativos que ele está apontando aqui, são os que entrou enquanto ele estava offline",
         "pushName": "Leandro",
         "timestamp": 1788026452393
+      },
+      "A5F32BDFA8BFC52A17F5835AAAE66EB6": {
+        "sender": "54259127210155@lid",
+        "text": "Não necessariamente estão inativos no grupo",
+        "pushName": "Leandro",
+        "timestamp": 1788026463421
+      },
+      "A5CD29EA2B102950975C0749473CFCDD": {
+        "sender": "54259127210155@lid",
+        "text": "@all",
+        "pushName": "Leandro",
+        "timestamp": 1788026467054
       }
     },
     "120363411233423709@g.us": {},
@@ -11040,10 +11117,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788026385076,
+    "120363432018531082@g.us": 1788026483098,
     "120363428464897153@g.us": 1787976748279,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1788026452393,
+    "120363412288900422@g.us": 1788026467054,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
