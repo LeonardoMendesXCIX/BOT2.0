@@ -310,8 +310,8 @@
       },
       "120363432018531082": {
         "text": 316,
-        "media": 100,
-        "total": 416
+        "media": 101,
+        "total": 417
       },
       "97535100252296": {
         "text": 96,
@@ -2867,6 +2867,11 @@
         "text": 13,
         "media": 1,
         "total": 14
+      },
+      "239371546579166": {
+        "text": 0,
+        "media": 1,
+        "total": 1
       }
     },
     "120363428464897153@g.us": {
@@ -9956,8 +9961,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Nickolas (238388519141379): Boa tarde galerinha",
-        "Souza (190864487919667): Que chuvam",
         "Celiete Souza (129373172711439): Em casa sentada no sofá e tomando um chá kkk",
         "Gabriel (145381035905262): Beleza, se prepara pra trabalhar, te chamaremos agora em setembro. Pra trabalhar na Jequiti junto",
         "Juliano Perlin (222595437858867): Aproveita pra converssar com nós entao🤣🤣",
@@ -10455,7 +10458,9 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Cada um sextando do jeito que dá né",
         "Anderson (+2135320166432): Sim e você ?",
         "Kamila (78143406768201): Não muito bem",
-        "Anderson (+2135320166432): O que houve? Quer conversar?"
+        "Anderson (+2135320166432): O que houve? Quer conversar?",
+        "Sr VIEGAS😊 (239371546579166): Boa Noite !!\n\nNome: Ricardo viegas  \n\n Idade 33.\n\nSou de Belém do Pará",
+        " (120363432018531082): Boa Noite !!\n\nNome: Ricardo viegas  \n\n Idade 33.\n\nSou de Belém do Pará"
       ]
     },
     "120363428464897153@g.us": {
@@ -17924,21 +17929,21 @@
         "authorName": "Anderson",
         "text": "O que houve? Quer conversar?",
         "timestamp": 1787968769417
+      },
+      {
+        "authorNum": "239371546579166",
+        "authorName": "Sr VIEGAS😊",
+        "text": "Boa Noite !!\n\nNome: Ricardo viegas  \n\n Idade 33.\n\nSou de Belém do Pará",
+        "timestamp": 1787968800610
+      },
+      {
+        "authorNum": "120363432018531082",
+        "authorName": "",
+        "text": "Boa Noite !!\n\nNome: Ricardo viegas  \n\n Idade 33.\n\nSou de Belém do Pará",
+        "timestamp": 1787968801048
       }
     ],
     "120363428464897153@g.us": [
-      {
-        "authorNum": "120044990287992",
-        "authorName": "negoh🐻",
-        "text": "Gp barata da gota",
-        "timestamp": 1787966951064
-      },
-      {
-        "authorNum": "120044990287992",
-        "authorName": "negoh🐻",
-        "text": "De onde é ddd 99?",
-        "timestamp": 1787966975622
-      },
       {
         "authorNum": "81991328395336",
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
@@ -18100,7 +18105,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22748,
+    "120363432018531082@g.us": 22750,
     "120363428464897153@g.us": 6396,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2209,
@@ -148594,6 +148599,12 @@
         "text": "O que houve? Quer conversar?",
         "pushName": "Anderson",
         "timestamp": 1787968769417
+      },
+      "AC456AF089D0475240CD2C54B5B3DC39": {
+        "sender": "120363432018531082@g.us",
+        "text": "Boa Noite !!\n\nNome: Ricardo viegas  \n\n Idade 33.\n\nSou de Belém do Pará",
+        "pushName": "",
+        "timestamp": 1787968801048
       }
     },
     "120363428464897153@g.us": {
@@ -203483,7 +203494,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787968769416,
+    "120363432018531082@g.us": 1787968801048,
     "120363428464897153@g.us": 1787968726833,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787964813002,
