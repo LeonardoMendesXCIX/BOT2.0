@@ -14,9 +14,29 @@
     "contacts": {
       "lidMap": {},
       "contactCache": {
+        "145381035905262": {
+          "name": "Gabriel",
+          "time": 1787859897583
+        },
+        "53537388122141": {
+          "name": "Sabrina Bartolucci 🤌🏻",
+          "time": 1787861498012
+        },
+        "190864487919667": {
+          "name": "Souza",
+          "time": 1787861268004
+        },
+        "57741892661357": {
+          "name": "Gabriel",
+          "time": 1788025784259
+        },
         "81991328395336": {
           "name": "~🌪️𝓁𝒶𝓎𝒽🦋",
           "time": 1787861481343
+        },
+        "193729163993156": {
+          "name": "F. RicaRdo sAnToS",
+          "time": 1788025854572
         },
         "153764728184839": {
           "name": "Eduardo",
@@ -25,10 +45,6 @@
         "120542904463568": {
           "name": "Jk",
           "time": 1787896165686
-        },
-        "190864487919667": {
-          "name": "Souza",
-          "time": 1787861268004
         },
         "274384656834700": {
           "name": "Gleydson Souza",
@@ -57,10 +73,6 @@
         "233161007071346": {
           "name": "Milena B. Costa",
           "time": 1787856560294
-        },
-        "145381035905262": {
-          "name": "Gabriel",
-          "time": 1787859897583
         },
         "16007578021977": {
           "name": "Jean Correa",
@@ -109,10 +121,6 @@
         "85264194134079": {
           "name": "jefersonjgs25",
           "time": 1787860556002
-        },
-        "53537388122141": {
-          "name": "Sabrina Bartolucci 🤌🏻",
-          "time": 1787861498012
         },
         "111506477846600": {
           "name": "'   MƲRIԼԼƠ  🥶",
@@ -454,9 +462,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1811,
+        "text": 1812,
         "media": 371,
-        "total": 2182
+        "total": 2183
       },
       "252600633041077": {
         "text": 1,
@@ -7223,7 +7231,8 @@
         "Souza: Tá atrasado ele",
         "Sabrina Bartolucci 🤌🏻: Não, ele tava desligado só",
         "Leandro: Obrigado! 🫡",
-        "Sabrina Bartolucci 🤌🏻: Disponha 🫡"
+        "Sabrina Bartolucci 🤌🏻: Disponha 🫡",
+        "Leandro: !inativos"
       ]
     },
     "120363428464897153@g.us": {
@@ -10509,6 +10518,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Disponha 🫡",
         "timestamp": 1788025923648
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!inativos",
+        "timestamp": 1788026385076
       }
     ],
     "120363428464897153@g.us": [],
@@ -10542,7 +10557,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 16,
+    "120363432018531082@g.us": 17,
     "120363428464897153@g.us": 6425,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2247,
@@ -10818,6 +10833,12 @@
         "text": "Disponha 🫡",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1788025923648
+      },
+      "A51B58804AFADA865C2491D16FAC8CE9": {
+        "sender": "54259127210155@lid",
+        "text": "!inativos",
+        "pushName": "Leandro",
+        "timestamp": 1788026385076
       }
     },
     "120363428464897153@g.us": {},
@@ -10993,7 +11014,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788025923648,
+    "120363432018531082@g.us": 1788026385076,
     "120363428464897153@g.us": 1787976748279,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788026259002,
