@@ -279,9 +279,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2415,
+        "text": 2416,
         "media": 341,
-        "total": 2756
+        "total": 2757
       },
       "252922705240205": {
         "text": 80,
@@ -2864,9 +2864,9 @@
         "total": 72
       },
       "2135320166432": {
-        "text": 2,
+        "text": 3,
         "media": 1,
-        "total": 3
+        "total": 4
       }
     },
     "120363428464897153@g.us": {
@@ -9956,8 +9956,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Celiete Souza (129373172711439): Boa tarde nega 😘",
-        "Gabriel (145381035905262): @272048228188398 , @214156045242435 , @129373172711439  olhem isso 😂😂",
         "Camila Designer (92629643563147): Eu acho que sim 😂😂😂",
         "Celiete Souza (129373172711439): Tô vivendo apenas kkkkkk",
         "Gabriel (145381035905262): Você sabe que não",
@@ -10455,7 +10453,9 @@
         "Anderson (+2135320166432): Boa noite",
         "Celiete Souza (129373172711439): Boa noite",
         "Anderson (+2135320166432): Tudo bem ?",
-        "Celiete Souza (129373172711439): Tudo bem"
+        "Celiete Souza (129373172711439): Tudo bem",
+        "Anderson (+2135320166432): Obrigado !",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindo"
       ]
     },
     "120363428464897153@g.us": {
@@ -17742,6 +17742,18 @@
         "authorName": "Celiete Souza",
         "text": "Tudo bem",
         "timestamp": 1787967683355
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Obrigado !",
+        "timestamp": 1787967730155
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Bem vindo",
+        "timestamp": 1787967772795
       }
     ],
     "120363428464897153@g.us": [
@@ -17972,7 +17984,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22720,
+    "120363432018531082@g.us": 22722,
     "120363428464897153@g.us": 6382,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2209,
@@ -148298,6 +148310,18 @@
         "text": "Tudo bem",
         "pushName": "Celiete Souza",
         "timestamp": 1787967683356
+      },
+      "AC1A7A52E4C9A448DBF80D33BFEC3611": {
+        "sender": "2135320166432@lid",
+        "text": "Obrigado !",
+        "pushName": "Anderson",
+        "timestamp": 1787967730156
+      },
+      "AC94C2C27D57BDCFC8AB13B35CAB6930": {
+        "sender": "53537388122141@lid",
+        "text": "Bem vindo",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787967772795
       }
     },
     "120363428464897153@g.us": {
@@ -203103,7 +203127,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787967701045,
+    "120363432018531082@g.us": 1787967772795,
     "120363428464897153@g.us": 1787967661858,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787964813002,
