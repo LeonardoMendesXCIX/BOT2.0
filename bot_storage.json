@@ -294,9 +294,9 @@
         "total": 464
       },
       "262182034002040": {
-        "text": 1910,
+        "text": 1911,
         "media": 123,
-        "total": 2033
+        "total": 2034
       },
       "219245581488326": {
         "text": 4,
@@ -1549,9 +1549,9 @@
         "total": 4
       },
       "272048228188398": {
-        "text": 104,
+        "text": 105,
         "media": 17,
-        "total": 121
+        "total": 122
       },
       "55959196049495": {
         "text": 6,
@@ -2864,9 +2864,9 @@
         "total": 72
       },
       "2135320166432": {
-        "text": 14,
+        "text": 16,
         "media": 2,
-        "total": 16
+        "total": 18
       },
       "239371546579166": {
         "text": 0,
@@ -9961,10 +9961,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Gabriel (145381035905262): Sou normal pessoal",
-        "May (227783724793861): Impressionante como em todo grupo tem a mesma coisa, pode ter um milhão de pessoas e a pessoa foca nos casados , MDS sabe talaricagem pelo amor",
-        "May (227783724793861): Kkkkk",
-        "Gabriel (145381035905262): Loucura né",
         "May (227783724793861): Nossa demais",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Doideira guria",
         "May (227783724793861): O pior que é sempre nessa dinâmica de anônimo ne , botar a cara nunca tem coragem hahahaha",
@@ -10460,7 +10456,11 @@
         "Dany (262182034002040): Isso que quis dizer",
         "Gabriel (145381035905262): A sim",
         "Dany (262182034002040): ACEITO!!!",
-        "Gabriel (145381035905262): Agora faz sentido"
+        "Gabriel (145381035905262): Agora faz sentido",
+        "Dany (262182034002040): Carne belíssima",
+        "Lailson Nathan. (272048228188398): Claro",
+        "Anderson (+2135320166432): Graças a Deus",
+        "Anderson (+2135320166432): Temos que viver né"
       ]
     },
     "120363428464897153@g.us": {
@@ -17738,12 +17738,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "2135320166432",
-        "authorName": "Anderson",
-        "text": "Obrigado !",
-        "timestamp": 1787967730155
-      },
-      {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Bem vindo",
@@ -18192,6 +18186,30 @@
         "authorName": "Gabriel",
         "text": "Agora faz sentido",
         "timestamp": 1787969517700
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Carne belíssima",
+        "timestamp": 1787969533285
+      },
+      {
+        "authorNum": "272048228188398",
+        "authorName": "Lailson Nathan.",
+        "text": "Claro",
+        "timestamp": 1787969535828
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Graças a Deus",
+        "timestamp": 1787969549986
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Temos que viver né",
+        "timestamp": 1787969550596
       }
     ],
     "120363428464897153@g.us": [
@@ -18326,7 +18344,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22796,
+    "120363432018531082@g.us": 22800,
     "120363428464897153@g.us": 6401,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2209,
@@ -149102,6 +149120,30 @@
         "text": "Agora faz sentido",
         "pushName": "Gabriel",
         "timestamp": 1787969517700
+      },
+      "3A6D3006621DD53571DC": {
+        "sender": "262182034002040@lid",
+        "text": "Carne belíssima",
+        "pushName": "Dany",
+        "timestamp": 1787969533285
+      },
+      "ACC0D6DC6C6B98FC0F082A29A16B0A20": {
+        "sender": "272048228188398@lid",
+        "text": "Claro",
+        "pushName": "Lailson Nathan.",
+        "timestamp": 1787969535828
+      },
+      "AC79BB5F32A22C1F529D4789706E089E": {
+        "sender": "2135320166432@lid",
+        "text": "Graças a Deus",
+        "pushName": "Anderson",
+        "timestamp": 1787969549987
+      },
+      "ACB24E480FF99D8BC252173903E15E44": {
+        "sender": "2135320166432@lid",
+        "text": "Temos que viver né",
+        "pushName": "Anderson",
+        "timestamp": 1787969550596
       }
     },
     "120363428464897153@g.us": {
@@ -204021,7 +204063,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787969517700,
+    "120363432018531082@g.us": 1787969550596,
     "120363428464897153@g.us": 1787969376634,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787964813002,
