@@ -174,9 +174,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1757,
+        "text": 1758,
         "media": 495,
-        "total": 2252
+        "total": 2253
       },
       "81991328395336": {
         "text": 3991,
@@ -454,9 +454,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1800,
+        "text": 1801,
         "media": 370,
-        "total": 2170
+        "total": 2171
       },
       "252600633041077": {
         "text": 1,
@@ -3132,8 +3132,8 @@
       },
       "129373172711439": {
         "text": 957,
-        "media": 256,
-        "total": 1213
+        "media": 257,
+        "total": 1214
       },
       "16007578021977": {
         "text": 57,
@@ -10563,7 +10563,9 @@
         "Celiete Souza (129373172711439): Estou longe de perigos noturnos",
         "Celiete Souza (129373172711439): Minha casa, minha vida",
         "Anderson (+2135320166432): Rsrs",
-        "Anderson (+2135320166432): Kkkk"
+        "Anderson (+2135320166432): Kkkk",
+        "Leandro (+55 (11) 92701-8683): 5 online e só 2 interagindo?",
+        "Celiete Souza (129373172711439): Pois então"
       ]
     },
     "120363428464897153@g.us": {
@@ -17869,12 +17871,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Isso q da acorda do nd",
-        "timestamp": 1787973300867
-      },
-      {
         "authorNum": "2135320166432",
         "authorName": "Anderson",
         "text": "Vou visitar ela ano que vem",
@@ -18137,6 +18133,18 @@
         "authorName": "Anderson",
         "text": "Kkkk",
         "timestamp": 1787975035743
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "5 online e só 2 interagindo?",
+        "timestamp": 1787975098705
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Pois então",
+        "timestamp": 1787975105791
       }
     ],
     "120363428464897153@g.us": [
@@ -18176,7 +18184,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22914,
+    "120363432018531082@g.us": 22916,
     "120363428464897153@g.us": 6404,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2227,
@@ -149660,6 +149668,18 @@
         "text": "Kkkk",
         "pushName": "Anderson",
         "timestamp": 1787975035743
+      },
+      "A5AF93E1637CDF9DDF81911D59D6C416": {
+        "sender": "54259127210155@lid",
+        "text": "5 online e só 2 interagindo?",
+        "pushName": "Leandro",
+        "timestamp": 1787975098705
+      },
+      "ACD95500A68C1E066D39818161025E8F": {
+        "sender": "129373172711439@lid",
+        "text": "Pois então",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787975105791
       }
     },
     "120363428464897153@g.us": {
@@ -204711,8 +204731,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787975055442,
-    "120363428464897153@g.us": 1787975095253,
+    "120363432018531082@g.us": 1787975105791,
+    "120363428464897153@g.us": 1787975119264,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787972789844,
     "120363411233423709@g.us": 1787113553426,
