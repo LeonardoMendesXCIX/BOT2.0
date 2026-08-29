@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2408,
-        "media": 339,
-        "total": 2747
+        "text": 2411,
+        "media": 340,
+        "total": 2751
       },
       "252922705240205": {
         "text": 80,
@@ -2659,8 +2659,8 @@
       },
       "274384656834700": {
         "text": 110,
-        "media": 21,
-        "total": 131
+        "media": 22,
+        "total": 132
       },
       "172868239380659": {
         "text": 182,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Souza (190864487919667): Respira",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Tô calma Não Adm",
         "Souza (190864487919667): Tristeza",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): @145381035905262 sem dúvidas!",
@@ -10449,7 +10448,8 @@
         "Leandro (+55 (11) 92701-8683): Eu\n@⁨AMOR ❤️⁩ \n@⁨Sabrina⁩ \n@⁨~Gleydson Souza⁩ \n@⁨Gabriel⁩ \n@⁨~jaciara⁩ \n@⁨~Souza⁩ \n@⁨~Edison Medeiros💚⁩ \n@⁨Dany⁩ \n@⁨~Lailson Nathan.⁩ \n@⁨~Juliano Perlin⁩ \n@187097969348735\n\n*LISTA DE REAPRESENTAÇÃO*",
         "Leandro (+55 (11) 92701-8683): !fixar",
         "Leandro (+55 (11) 92701-8683): Uai, mas elas já estão na gerência kkk",
-        "Leandro (+55 (11) 92701-8683): 1 é a fundadora e minha esposa ❤️ e a outra é a diretora do grupo"
+        "Leandro (+55 (11) 92701-8683): 1 é a fundadora e minha esposa ❤️ e a outra é a diretora do grupo",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): A outra"
       ]
     },
     "120363428464897153@g.us": {
@@ -17944,6 +17944,12 @@
         "authorName": "Leandro",
         "text": "1 é a fundadora e minha esposa ❤️ e a outra é a diretora do grupo",
         "timestamp": 1787963879495
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "A outra",
+        "timestamp": 1787963928384
       }
     ],
     "120363428464897153@g.us": [
@@ -18169,7 +18175,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22704,
+    "120363432018531082@g.us": 22705,
     "120363428464897153@g.us": 6316,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2207,
@@ -148411,6 +148417,12 @@
         "text": "1 é a fundadora e minha esposa ❤️ e a outra é a diretora do grupo",
         "pushName": "Leandro",
         "timestamp": 1787963879496
+      },
+      "ACC3929375B9265A2FDDEFF31FC483D2": {
+        "sender": "53537388122141@lid",
+        "text": "A outra",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787963928385
       }
     },
     "120363428464897153@g.us": {
@@ -202808,7 +202820,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787963894250,
+    "120363432018531082@g.us": 1787963929458,
     "120363428464897153@g.us": 1787963891600,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787962621824,
