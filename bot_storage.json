@@ -454,9 +454,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1798,
-        "media": 367,
-        "total": 2165
+        "text": 1799,
+        "media": 368,
+        "total": 2167
       },
       "252600633041077": {
         "text": 1,
@@ -10538,7 +10538,8 @@
         "Leandro (+55 (11) 92701-8683): Pqp 😂",
         "Leandro (+55 (11) 92701-8683): Essa figurinha do tiringa que faltava para o meu catálogo",
         "Celiete Souza (129373172711439): Nem sei quem é kkkk",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Joguei ela lá no grupo"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Joguei ela lá no grupo",
+        "Leandro (+55 (11) 92701-8683): Ela e mais quantas?"
       ]
     },
     "120363428464897153@g.us": {
@@ -18299,6 +18300,12 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Joguei ela lá no grupo",
         "timestamp": 1787973696310
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Ela e mais quantas?",
+        "timestamp": 1787973708956
       }
     ],
     "120363428464897153@g.us": [
@@ -18368,7 +18375,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22889,
+    "120363432018531082@g.us": 22890,
     "120363428464897153@g.us": 6402,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2227,
@@ -149702,6 +149709,12 @@
         "text": "Joguei ela lá no grupo",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787973696310
+      },
+      "A5CAF6A58E11B6C4BFA9D92E5681010E": {
+        "sender": "54259127210155@lid",
+        "text": "Ela e mais quantas?",
+        "pushName": "Leandro",
+        "timestamp": 1787973708956
       }
     },
     "120363428464897153@g.us": {
@@ -204735,7 +204748,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787973696310,
+    "120363432018531082@g.us": 1787973711616,
     "120363428464897153@g.us": 1787972707416,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787972789844,
