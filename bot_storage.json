@@ -189,9 +189,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2280,
+        "text": 2281,
         "media": 479,
-        "total": 2759
+        "total": 2760
       },
       "184237705699536": {
         "text": 524,
@@ -279,9 +279,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2430,
+        "text": 2433,
         "media": 342,
-        "total": 2772
+        "total": 2775
       },
       "252922705240205": {
         "text": 80,
@@ -454,9 +454,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1808,
+        "text": 1809,
         "media": 371,
-        "total": 2179
+        "total": 2180
       },
       "252600633041077": {
         "text": 1,
@@ -2604,9 +2604,9 @@
         "total": 42
       },
       "190864487919667": {
-        "text": 380,
+        "text": 382,
         "media": 55,
-        "total": 435
+        "total": 437
       },
       "82227819987089": {
         "text": 2,
@@ -3555,14 +3555,14 @@
         "total": 615
       },
       "5511927018683": {
-        "text": 638,
+        "text": 639,
         "media": 114,
-        "total": 752
+        "total": 753
       },
       "145381035905262": {
-        "text": 508,
+        "text": 509,
         "media": 166,
-        "total": 674
+        "total": 675
       },
       "53537388122141": {
         "text": 843,
@@ -7212,7 +7212,11 @@
         "Gabriel: ! bot off",
         "Gabriel: Mas sou de informática",
         "Souza: @54259127210155  resolve aq",
-        "Leandro: !megafone bot online novamente"
+        "Leandro: !megafone bot online novamente",
+        "Leandro: O que?",
+        "Sabrina Bartolucci 🤌🏻: Kkkkkkk",
+        "Souza: Teu fio tá fora da casinha",
+        "Sabrina Bartolucci 🤌🏻: Bora tá normal agora"
       ]
     },
     "120363428464897153@g.us": {
@@ -9939,7 +9943,8 @@
         "Leandro: !del",
         "Leandro: !del",
         "Leandro: !del",
-        "Leandro: !del"
+        "Leandro: !del",
+        "Leandro: !status"
       ]
     },
     "120363411233423709@g.us": {},
@@ -10430,11 +10435,42 @@
         "authorName": "Leandro",
         "text": "!megafone bot online novamente",
         "timestamp": 1788025784228
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "O que?",
+        "timestamp": 1788025797086
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Kkkkkkk",
+        "timestamp": 1788025807328
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Teu fio tá fora da casinha",
+        "timestamp": 1788025812465
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Bora tá normal agora",
+        "timestamp": 1788025815378
       }
     ],
     "120363428464897153@g.us": [],
     "120363409727467494@g.us": [],
-    "120363412288900422@g.us": [],
+    "120363412288900422@g.us": [
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!status",
+        "timestamp": 1788025817763
+      }
+    ],
     "120363411233423709@g.us": [],
     "120363428079168524@g.us": [],
     "120363411246936023@g.us": [],
@@ -10450,10 +10486,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 5,
+    "120363432018531082@g.us": 9,
     "120363428464897153@g.us": 6425,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2245,
+    "120363412288900422@g.us": 2246,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -10660,6 +10696,30 @@
         "text": "!megafone bot online novamente",
         "pushName": "Leandro",
         "timestamp": 1788025784228
+      },
+      "A5764E15452289B5C71229EA875A09FE": {
+        "sender": "54259127210155@lid",
+        "text": "O que?",
+        "pushName": "Leandro",
+        "timestamp": 1788025797086
+      },
+      "AC6B1844D6006F61601A7E5FC2891FBB": {
+        "sender": "53537388122141@lid",
+        "text": "Kkkkkkk",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1788025807328
+      },
+      "AC15ECFBC4DD12A4F60FF57C4D05B935": {
+        "sender": "190864487919667@lid",
+        "text": "Teu fio tá fora da casinha",
+        "pushName": "Souza",
+        "timestamp": 1788025812465
+      },
+      "AC60C7115237B5A3A2DB1512A772F4C6": {
+        "sender": "53537388122141@lid",
+        "text": "Bora tá normal agora",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1788025815378
       }
     },
     "120363428464897153@g.us": {},
@@ -10718,6 +10778,12 @@
         "text": "!del",
         "pushName": "Leandro",
         "timestamp": 1787982631302
+      },
+      "A5CB96E8FC51CCEF44BB3A41BACB9CB9": {
+        "sender": "54259127210155@lid",
+        "text": "!status",
+        "pushName": "Leandro",
+        "timestamp": 1788025817763
       }
     },
     "120363411233423709@g.us": {},
@@ -10823,10 +10889,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788025784279,
+    "120363432018531082@g.us": 1788025825467,
     "120363428464897153@g.us": 1787976748279,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787982631302,
+    "120363412288900422@g.us": 1788025817763,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
