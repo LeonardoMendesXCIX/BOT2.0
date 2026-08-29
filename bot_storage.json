@@ -2869,9 +2869,9 @@
         "total": 18
       },
       "239371546579166": {
-        "text": 1,
+        "text": 2,
         "media": 1,
-        "total": 2
+        "total": 3
       }
     },
     "120363428464897153@g.us": {
@@ -9961,7 +9961,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Doideira guria",
         "May (227783724793861): O pior que é sempre nessa dinâmica de anônimo ne , botar a cara nunca tem coragem hahahaha",
         "May (227783724793861): Desculpem é que odeio Talaricos hahahaha",
         "Gabriel (145381035905262): E vai botar né, aí complica kkkk",
@@ -10460,7 +10459,8 @@
         "Lailson Nathan. (272048228188398): Claro",
         "Anderson (+2135320166432): Graças a Deus",
         "Anderson (+2135320166432): Temos que viver né",
-        "Sr VIEGAS😊 (239371546579166): Obrigado"
+        "Sr VIEGAS😊 (239371546579166): Obrigado",
+        "Sr VIEGAS😊 (239371546579166): 😍 claro"
       ]
     },
     "120363428464897153@g.us": {
@@ -18192,21 +18192,15 @@
         "authorName": "Sr VIEGAS😊",
         "text": "Obrigado",
         "timestamp": 1787969679172
+      },
+      {
+        "authorNum": "239371546579166",
+        "authorName": "Sr VIEGAS😊",
+        "text": "😍 claro",
+        "timestamp": 1787969696964
       }
     ],
     "120363428464897153@g.us": [
-      {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "🤗",
-        "timestamp": 1787967871622
-      },
-      {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "Boa noite povo",
-        "timestamp": 1787967881545
-      },
       {
         "authorNum": "1645576491019",
         "authorName": "Jose",
@@ -18326,7 +18320,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22801,
+    "120363432018531082@g.us": 22802,
     "120363428464897153@g.us": 6401,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2209,
@@ -149132,6 +149126,12 @@
         "text": "Obrigado",
         "pushName": "Sr VIEGAS😊",
         "timestamp": 1787969679172
+      },
+      "ACD42E64EE1701F23D0D3DE5D783818F": {
+        "sender": "239371546579166@lid",
+        "text": "😍 claro",
+        "pushName": "Sr VIEGAS😊",
+        "timestamp": 1787969696964
       }
     },
     "120363428464897153@g.us": {
@@ -204051,7 +204051,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787969679172,
+    "120363432018531082@g.us": 1787969696964,
     "120363428464897153@g.us": 1787969596087,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787964813002,
