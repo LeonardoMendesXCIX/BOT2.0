@@ -278,9 +278,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2407,
+        "text": 2408,
         "media": 338,
-        "total": 2745
+        "total": 2746
       },
       "252922705240205": {
         "text": 80,
@@ -408,9 +408,9 @@
         "total": 2677
       },
       "270377049690114": {
-        "text": 37,
+        "text": 38,
         "media": 2,
-        "total": 39
+        "total": 40
       },
       "209986084990976": {
         "text": 1,
@@ -2915,9 +2915,9 @@
         "total": 354
       },
       "86793403801839": {
-        "text": 260,
+        "text": 261,
         "media": 36,
-        "total": 296
+        "total": 297
       },
       "179040627490824": {
         "text": 7,
@@ -3486,8 +3486,8 @@
       },
       "75797868064796": {
         "text": 5,
-        "media": 14,
-        "total": 19
+        "media": 15,
+        "total": 20
       },
       "153764728184839": {
         "text": 4,
@@ -9950,8 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Souza (190864487919667): 💥 BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Queremos conhecer você! ✨\n\n📸 Sua foto:\n💬 Nome: Fernando\n🎂 Idade: 24\n📍 De onde sou: Salvador (porém moro no DF)\n\n*🫶🏻 Seja bem-vindo(a)!*\n\n✨ Sinta-se à vontade para",
-        "Vini 👑🏁🙌⚽ (270377049690114): Eu né!! 😌🤭",
         "Souza (190864487919667): Pra quem chegou depois",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mas de novo?",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Ata",
@@ -10449,7 +10447,9 @@
         "jaciara (108461127897146): Meu pai é dono de um cabaré",
         "jaciara (108461127897146): E nem é meme",
         "jaciara (108461127897146): Kkkkkkkkk",
-        "Souza (190864487919667): Ave Maria"
+        "Souza (190864487919667): Ave Maria",
+        "Vini 👑🏁🙌⚽ (270377049690114): Eita MDS 🫣🫣🫣",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): 👀👀👀👀"
       ]
     },
     "120363428464897153@g.us": {
@@ -17619,18 +17619,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "108268240302270",
-        "authorName": "Edison Medeiros💚",
-        "text": "Uau que linda bb",
-        "timestamp": 1787961137060
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Valeu kk",
-        "timestamp": 1787961147042
-      },
-      {
         "authorNum": "108461127897146",
         "authorName": "jaciara",
         "text": "BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Queremos conhecer você! ✨\n\n📸 Sua foto:\n💬 Nome:Jaciara Vargas \n🎂 Idade:28 anos \n📍 De onde sou: Maranhão ( moro em aparecida de Goiânia) porém estou passando alguns meses no Maranhão kkkk\n\n*🫶🏻 Seja bem-vindo(a)!*\n\n✨ Sinta-se à vontade para interagir, conhecer a galera e fazer novas amizades! 🤝\n\n❌ *PROIBIDO A INVASÃ",
@@ -18055,6 +18043,18 @@
         "authorName": "Souza",
         "text": "Ave Maria",
         "timestamp": 1787962885851
+      },
+      {
+        "authorNum": "270377049690114",
+        "authorName": "Vini 👑🏁🙌⚽",
+        "text": "Eita MDS 🫣🫣🫣",
+        "timestamp": 1787962975668
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "👀👀👀👀",
+        "timestamp": 1787962987361
       }
     ],
     "120363428464897153@g.us": [
@@ -18220,7 +18220,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22696,
+    "120363432018531082@g.us": 22698,
     "120363428464897153@g.us": 6295,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2207,
@@ -148414,6 +148414,18 @@
         "text": "Ave Maria",
         "pushName": "Souza",
         "timestamp": 1787962885851
+      },
+      "ACE10FF53B87A463CF2D45BD9ADC2EED": {
+        "sender": "270377049690114@lid",
+        "text": "Eita MDS 🫣🫣🫣",
+        "pushName": "Vini 👑🏁🙌⚽",
+        "timestamp": 1787962975668
+      },
+      "AC245456849AAB03309F083FCAF6A1C1": {
+        "sender": "53537388122141@lid",
+        "text": "👀👀👀👀",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787962987362
       }
     },
     "120363428464897153@g.us": {
@@ -202685,8 +202697,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787962932759,
-    "120363428464897153@g.us": 1787962908449,
+    "120363432018531082@g.us": 1787962987361,
+    "120363428464897153@g.us": 1787962992795,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787962621824,
     "120363411233423709@g.us": 1787113553426,
