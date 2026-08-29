@@ -189,9 +189,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2257,
+        "text": 2258,
         "media": 479,
-        "total": 2736
+        "total": 2737
       },
       "184237705699536": {
         "text": 524,
@@ -2834,9 +2834,9 @@
         "total": 5
       },
       "78143406768201": {
-        "text": 12,
+        "text": 13,
         "media": 0,
-        "total": 12
+        "total": 13
       },
       "227783724793861": {
         "text": 23,
@@ -2996,9 +2996,9 @@
         "total": 1
       },
       "199733712785531": {
-        "text": 77,
+        "text": 78,
         "media": 94,
-        "total": 171
+        "total": 172
       },
       "162397679534082": {
         "text": 2,
@@ -3336,9 +3336,9 @@
         "total": 48
       },
       "66743926038604": {
-        "text": 63,
+        "text": 64,
         "media": 12,
-        "total": 75
+        "total": 76
       },
       "227298829721789": {
         "text": 1,
@@ -9961,8 +9961,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Celiete Souza (129373172711439): Em casa sentada no sofá e tomando um chá kkk",
-        "Gabriel (145381035905262): Beleza, se prepara pra trabalhar, te chamaremos agora em setembro. Pra trabalhar na Jequiti junto",
         "Juliano Perlin (222595437858867): Aproveita pra converssar com nós entao🤣🤣",
         "Celiete Souza (129373172711439): Muita chuva, agora parou",
         "Celiete Souza (129373172711439): Tamo junto 🫶🏻😂😂😂",
@@ -10460,7 +10458,9 @@
         "Kamila (78143406768201): Não muito bem",
         "Anderson (+2135320166432): O que houve? Quer conversar?",
         "Sr VIEGAS😊 (239371546579166): Boa Noite !!\n\nNome: Ricardo viegas  \n\n Idade 33.\n\nSou de Belém do Pará",
-        " (120363432018531082): Boa Noite !!\n\nNome: Ricardo viegas  \n\n Idade 33.\n\nSou de Belém do Pará"
+        " (120363432018531082): Boa Noite !!\n\nNome: Ricardo viegas  \n\n Idade 33.\n\nSou de Belém do Pará",
+        "Gabriel (145381035905262): Business",
+        "Kamila (78143406768201): Seria bom conversar um pouco"
       ]
     },
     "120363428464897153@g.us": {
@@ -14713,7 +14713,9 @@
         "Henrique (66743926038604): Boa noite  minha amiga!",
         "Gleydson Souza (274384656834700): Boa noite povo",
         "Jose (+1645576491019): Bouuuaaa",
-        "Dany (262182034002040): Boa"
+        "Dany (262182034002040): Boa",
+        "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Boa noite",
+        "Henrique (66743926038604): Boa noite  Bro !"
       ]
     },
     "120363409727467494@g.us": {
@@ -17941,6 +17943,18 @@
         "authorName": "",
         "text": "Boa Noite !!\n\nNome: Ricardo viegas  \n\n Idade 33.\n\nSou de Belém do Pará",
         "timestamp": 1787968801048
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Business",
+        "timestamp": 1787968840370
+      },
+      {
+        "authorNum": "78143406768201",
+        "authorName": "Kamila",
+        "text": "Seria bom conversar um pouco",
+        "timestamp": 1787968858474
       }
     ],
     "120363428464897153@g.us": [
@@ -18087,6 +18101,18 @@
         "authorName": "Dany",
         "text": "Boa",
         "timestamp": 1787968726833
+      },
+      {
+        "authorNum": "199733712785531",
+        "authorName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
+        "text": "Boa noite",
+        "timestamp": 1787968816999
+      },
+      {
+        "authorNum": "66743926038604",
+        "authorName": "Henrique",
+        "text": "Boa noite  Bro !",
+        "timestamp": 1787968858851
       }
     ],
     "120363409727467494@g.us": [],
@@ -18105,8 +18131,8 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22750,
-    "120363428464897153@g.us": 6396,
+    "120363432018531082@g.us": 22752,
+    "120363428464897153@g.us": 6398,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2209,
     "120363411233423709@g.us": 5,
@@ -148605,6 +148631,18 @@
         "text": "Boa Noite !!\n\nNome: Ricardo viegas  \n\n Idade 33.\n\nSou de Belém do Pará",
         "pushName": "",
         "timestamp": 1787968801048
+      },
+      "AC6B1D4F44FCB572F70681A9391177EA": {
+        "sender": "145381035905262@lid",
+        "text": "Business",
+        "pushName": "Gabriel",
+        "timestamp": 1787968840370
+      },
+      "AC804EF86AA80E3BD0C2636BB2038612": {
+        "sender": "78143406768201@lid",
+        "text": "Seria bom conversar um pouco",
+        "pushName": "Kamila",
+        "timestamp": 1787968858474
       }
     },
     "120363428464897153@g.us": {
@@ -186155,6 +186193,18 @@
         "text": "Boa",
         "pushName": "Dany",
         "timestamp": 1787968726834
+      },
+      "3AE43EE53A0956E5C1B8": {
+        "sender": "199733712785531@lid",
+        "text": "Boa noite",
+        "pushName": "Gus Henrique 🎮👾🇧🇷🇪🇸",
+        "timestamp": 1787968816999
+      },
+      "AC9E32C8A63D490A8738FEB95E901EC0": {
+        "sender": "66743926038604@lid",
+        "text": "Boa noite  Bro !",
+        "pushName": "Henrique",
+        "timestamp": 1787968858854
       }
     },
     "120363409727467494@g.us": {
@@ -203494,8 +203544,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787968801048,
-    "120363428464897153@g.us": 1787968726833,
+    "120363432018531082@g.us": 1787968858474,
+    "120363428464897153@g.us": 1787968858851,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787964813002,
     "120363411233423709@g.us": 1787113553426,
