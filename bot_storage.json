@@ -174,9 +174,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1705,
+        "text": 1706,
         "media": 475,
-        "total": 2180
+        "total": 2181
       },
       "81991328395336": {
         "text": 3971,
@@ -279,9 +279,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2417,
+        "text": 2420,
         "media": 341,
-        "total": 2758
+        "total": 2761
       },
       "252922705240205": {
         "text": 80,
@@ -2864,9 +2864,9 @@
         "total": 72
       },
       "2135320166432": {
-        "text": 6,
+        "text": 7,
         "media": 1,
-        "total": 7
+        "total": 8
       }
     },
     "120363428464897153@g.us": {
@@ -9956,11 +9956,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Camila Designer (92629643563147): E eu sobrevivendo 😂😂😂",
-        "Camila Designer (92629643563147): Zuando 😂😂😂",
-        "Celiete Souza (129373172711439): Boa tarde",
-        "Celiete Souza (129373172711439): Tarde ju",
-        "Camila Designer (92629643563147): @163530946961491 quando vai reassumir seu cargo no Kabaré?🤔",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Obrigada o elogiooo, se identifique no Pv",
         "Juliano Perlin (222595437858867): Ta bem?",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Obrigada!",
@@ -10455,7 +10450,12 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindo",
         "Anderson (+2135320166432): Obrigado !",
         "Anderson (+2135320166432): De onde você é?",
-        "Anderson (+2135320166432): De onde você é?"
+        "Anderson (+2135320166432): De onde você é?",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Florianópolis, SC",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): E você?",
+        "Anderson (+2135320166432): Ilhéus, bahia",
+        "Celiete Souza (129373172711439): Rio grande do Sul",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Ah sim"
       ]
     },
     "120363428464897153@g.us": {
@@ -17778,6 +17778,36 @@
         "authorName": "Anderson",
         "text": "De onde você é?",
         "timestamp": 1787967842747
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Florianópolis, SC",
+        "timestamp": 1787968028676
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "E você?",
+        "timestamp": 1787968031510
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Ilhéus, bahia",
+        "timestamp": 1787968044397
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Rio grande do Sul",
+        "timestamp": 1787968044808
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Ah sim",
+        "timestamp": 1787968053251
       }
     ],
     "120363428464897153@g.us": [
@@ -18038,7 +18068,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22725,
+    "120363432018531082@g.us": 22730,
     "120363428464897153@g.us": 6388,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2209,
@@ -148394,6 +148424,36 @@
         "text": "De onde você é?",
         "pushName": "Anderson",
         "timestamp": 1787967842747
+      },
+      "AC9FD3E897FB680C012F06A2FED5D845": {
+        "sender": "53537388122141@lid",
+        "text": "Florianópolis, SC",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787968028676
+      },
+      "ACA3A5873AB53AF31547B1448848DC8D": {
+        "sender": "53537388122141@lid",
+        "text": "E você?",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787968031510
+      },
+      "AC3CB82AAB4EBD816C2FF21F8B5DA280": {
+        "sender": "2135320166432@lid",
+        "text": "Ilhéus, bahia",
+        "pushName": "Anderson",
+        "timestamp": 1787968044397
+      },
+      "ACCB74FB6DC38E7FD7871666C387F336": {
+        "sender": "129373172711439@lid",
+        "text": "Rio grande do Sul",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787968044808
+      },
+      "AC964737A628E4FA93CFF951314F6FDF": {
+        "sender": "53537388122141@lid",
+        "text": "Ah sim",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787968053251
       }
     },
     "120363428464897153@g.us": {
@@ -203235,7 +203295,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787967842747,
+    "120363432018531082@g.us": 1787968053251,
     "120363428464897153@g.us": 1787968019963,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787964813002,
