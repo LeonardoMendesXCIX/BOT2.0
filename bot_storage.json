@@ -174,14 +174,14 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1732,
+        "text": 1733,
         "media": 484,
-        "total": 2216
+        "total": 2217
       },
       "81991328395336": {
-        "text": 3983,
+        "text": 3984,
         "media": 1361,
-        "total": 5344
+        "total": 5345
       },
       "179040627490824": {
         "text": 433,
@@ -2864,9 +2864,9 @@
         "total": 72
       },
       "2135320166432": {
-        "text": 38,
+        "text": 40,
         "media": 3,
-        "total": 41
+        "total": 43
       },
       "239371546579166": {
         "text": 2,
@@ -10505,7 +10505,11 @@
         "Leandro (+55 (11) 92701-8683): Pareço um trator ligando num dia frio",
         "Anderson (+2135320166432): Kkkkk",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Nam",
-        "Anderson (+2135320166432): Eu sei que eu apago"
+        "Anderson (+2135320166432): Eu sei que eu apago",
+        "Anderson (+2135320166432): Deitou dormiu",
+        "Anderson (+2135320166432): O mundo pode se acabar eu nem vejo",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Meu sonho",
+        "Celiete Souza (129373172711439): E acorda todo mundo kkkkkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -18092,6 +18096,30 @@
         "authorName": "Anderson",
         "text": "Eu sei que eu apago",
         "timestamp": 1787972995900
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Deitou dormiu",
+        "timestamp": 1787973005278
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "O mundo pode se acabar eu nem vejo",
+        "timestamp": 1787973015804
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Meu sonho",
+        "timestamp": 1787973016983
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "E acorda todo mundo kkkkkk",
+        "timestamp": 1787973017166
       }
     ],
     "120363428464897153@g.us": [
@@ -18104,18 +18132,6 @@
     ],
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Muitos foram eliminados",
-        "timestamp": 1787971128014
-      },
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "A maioria",
-        "timestamp": 1787971130819
-      },
       {
         "authorNum": "5511927018683",
         "authorName": "Leandro",
@@ -18197,7 +18213,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22856,
+    "120363432018531082@g.us": 22860,
     "120363428464897153@g.us": 6402,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2227,
@@ -149333,6 +149349,30 @@
         "text": "Eu sei que eu apago",
         "pushName": "Anderson",
         "timestamp": 1787972995900
+      },
+      "ACDD16F1D8546273231BFA397BD5347D": {
+        "sender": "2135320166432@lid",
+        "text": "Deitou dormiu",
+        "pushName": "Anderson",
+        "timestamp": 1787973005278
+      },
+      "ACF72B600FDF26C8BB5F6CEA5FD2DEF3": {
+        "sender": "2135320166432@lid",
+        "text": "O mundo pode se acabar eu nem vejo",
+        "pushName": "Anderson",
+        "timestamp": 1787973015804
+      },
+      "AC92AB82A689CD162C04BFF1EEAEB38D": {
+        "sender": "81991328395336@lid",
+        "text": "Meu sonho",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787973016983
+      },
+      "AC8A5002CA8B333491A73879B8996FB7": {
+        "sender": "129373172711439@lid",
+        "text": "E acorda todo mundo kkkkkk",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787973017166
       }
     },
     "120363428464897153@g.us": {
@@ -204366,7 +204406,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787972995900,
+    "120363432018531082@g.us": 1787973017166,
     "120363428464897153@g.us": 1787972707416,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787972789844,
