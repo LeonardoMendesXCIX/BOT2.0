@@ -2612,9 +2612,9 @@
         "total": 42
       },
       "190864487919667": {
-        "text": 384,
+        "text": 385,
         "media": 55,
-        "total": 439
+        "total": 440
       },
       "82227819987089": {
         "text": 2,
@@ -7242,7 +7242,8 @@
         "Leandro: !m",
         "Dany: Ele tentou fazer uma piada, sem graça, mas tentou",
         "Dany: Talvez",
-        "Dany: A etiqueta não aparece quando se responde a conversa do outro, pode ser que ele não tenha visto mesmo 💁🏻‍♀️"
+        "Dany: A etiqueta não aparece quando se responde a conversa do outro, pode ser que ele não tenha visto mesmo 💁🏻‍♀️",
+        "Souza: Onde é isso?"
       ]
     },
     "120363428464897153@g.us": {
@@ -10603,6 +10604,12 @@
         "authorName": "Dany",
         "text": "A etiqueta não aparece quando se responde a conversa do outro, pode ser que ele não tenha visto mesmo 💁🏻‍♀️",
         "timestamp": 1788026761890
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Onde é isso?",
+        "timestamp": 1788026867331
       }
     ],
     "120363428464897153@g.us": [],
@@ -10690,7 +10697,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 27,
+    "120363432018531082@g.us": 28,
     "120363428464897153@g.us": 6425,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2256,
@@ -11031,6 +11038,12 @@
         "text": "A etiqueta não aparece quando se responde a conversa do outro, pode ser que ele não tenha visto mesmo 💁🏻‍♀️",
         "pushName": "Dany",
         "timestamp": 1788026761890
+      },
+      "AC68E9E912347F8F10BE6327C6BA7DAA": {
+        "sender": "190864487919667@lid",
+        "text": "Onde é isso?",
+        "pushName": "Souza",
+        "timestamp": 1788026867332
       }
     },
     "120363428464897153@g.us": {},
@@ -11260,7 +11273,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788026761890,
+    "120363432018531082@g.us": 1788026867331,
     "120363428464897153@g.us": 1787976748279,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788026544319,
