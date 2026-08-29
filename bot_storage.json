@@ -279,9 +279,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2421,
+        "text": 2422,
         "media": 341,
-        "total": 2762
+        "total": 2763
       },
       "252922705240205": {
         "text": 80,
@@ -454,9 +454,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1790,
+        "text": 1792,
         "media": 362,
-        "total": 2152
+        "total": 2154
       },
       "252600633041077": {
         "text": 1,
@@ -9956,9 +9956,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Gente KKKKKKKKK cês confundiro\n@81991328395336 \n@54259127210155",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Opiniões galera\n@all",
-        "Gabriel (145381035905262): Puta merda",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Ia passar uma vergonha",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Exatamente",
         "Celiete Souza (129373172711439): Acabei de ver morri rindo 😂",
@@ -10455,7 +10452,10 @@
         "Leandro (+55 (11) 92701-8683): Tava achando estranho já... Ele não mandou foto com o copin 🍺",
         "Anderson (+2135320166432): Eu virei a noite",
         "Anderson (+2135320166432): Parei hoje 7 da manhã e vou começar se novo rs",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Pior que bebi com uma amiga minha essa semana e esqueci de postar"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Pior que bebi com uma amiga minha essa semana e esqueci de postar",
+        "Leandro (+55 (11) 92701-8683): Que bom, por que eu não tô podendo beber",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bah, adoro",
+        "Leandro (+55 (11) 92701-8683): Aí seria muita sacanagem"
       ]
     },
     "120363428464897153@g.us": {
@@ -17835,6 +17835,24 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Pior que bebi com uma amiga minha essa semana e esqueci de postar",
         "timestamp": 1787968230696
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Que bom, por que eu não tô podendo beber",
+        "timestamp": 1787968256331
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Bah, adoro",
+        "timestamp": 1787968256795
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Aí seria muita sacanagem",
+        "timestamp": 1787968263977
       }
     ],
     "120363428464897153@g.us": [
@@ -18083,7 +18101,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22734,
+    "120363432018531082@g.us": 22737,
     "120363428464897153@g.us": 6391,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2209,
@@ -148493,6 +148511,24 @@
         "text": "Pior que bebi com uma amiga minha essa semana e esqueci de postar",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787968230696
+      },
+      "A5CBDCB3F84096435BACA84E9F3AC2CC": {
+        "sender": "54259127210155@lid",
+        "text": "Que bom, por que eu não tô podendo beber",
+        "pushName": "Leandro",
+        "timestamp": 1787968256331
+      },
+      "ACA4CF40368F07886B6D0354B224C2C1": {
+        "sender": "53537388122141@lid",
+        "text": "Bah, adoro",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787968256795
+      },
+      "A58EE34C7D60300AB17D6CAA0A66393E": {
+        "sender": "54259127210155@lid",
+        "text": "Aí seria muita sacanagem",
+        "pushName": "Leandro",
+        "timestamp": 1787968263977
       }
     },
     "120363428464897153@g.us": {
@@ -203352,7 +203388,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787968230696,
+    "120363432018531082@g.us": 1787968263977,
     "120363428464897153@g.us": 1787968237969,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787964813002,
