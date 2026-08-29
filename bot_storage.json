@@ -2,6 +2,33 @@
   "states": {
     "145381035905262": {
       "mode": "football_menu"
+    },
+    "54259127210155": {
+      "mode": "inativos_confirm_removal",
+      "targetChat": "120363432018531082@g.us",
+      "inactiveList": [
+        {
+          "jid": "235080807116869@s.whatsapp.net",
+          "number": "235080807116869",
+          "formattedNum": "235080807116869",
+          "pushName": "",
+          "fullDisplay": "*Membro*",
+          "nameAndNumber": "*Membro*",
+          "mentionTag": "@235080807116869",
+          "removeJid": "235080807116869@lid"
+        },
+        {
+          "jid": "208855871008768@s.whatsapp.net",
+          "number": "208855871008768",
+          "formattedNum": "208855871008768",
+          "pushName": "",
+          "fullDisplay": "*Membro*",
+          "nameAndNumber": "*Membro*",
+          "mentionTag": "@208855871008768",
+          "removeJid": "208855871008768@lid"
+        }
+      ],
+      "date": 1788029977482
     }
   },
   "cache": {
@@ -165,6 +192,22 @@
         "199733712785531": {
           "name": "Gus Henrique 🎮👾🇧🇷🇪🇸",
           "time": 1787882157983
+        },
+        "240716089413724": {
+          "name": "Wagner Cabral",
+          "time": 1788026487607
+        },
+        "262182034002040": {
+          "name": "Dany",
+          "time": 1788029711086
+        },
+        "171910679818445": {
+          "name": "Lari 🤎",
+          "time": 1788029512503
+        },
+        "115981515014219": {
+          "name": "Rodolfo Carmona Mazon",
+          "time": 1788029887050
         }
       }
     }
@@ -462,9 +505,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1821,
+        "text": 1822,
         "media": 373,
-        "total": 2194
+        "total": 2195
       },
       "252600633041077": {
         "text": 1,
@@ -7278,7 +7321,8 @@
         "Rodolfo Carmona Mazon: Rodolfo \n28 anos \nPsicanalista",
         "Leandro: Bem vindo jovem 🤝",
         "Rodolfo Carmona Mazon: Valeu irmão 🙌🏻",
-        "Gabriel: Saudações nobre"
+        "Gabriel: Saudações nobre",
+        "Leandro: !inativos"
       ]
     },
     "120363428464897153@g.us": {
@@ -10495,6 +10539,12 @@
         "authorName": "Gabriel",
         "text": "Saudações nobre",
         "timestamp": 1788029904950
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!inativos",
+        "timestamp": 1788029977087
       }
     ],
     "120363428464897153@g.us": [],
@@ -10515,7 +10565,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 58,
+    "120363432018531082@g.us": 59,
     "120363428464897153@g.us": 6425,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2256,
@@ -11043,6 +11093,12 @@
         "text": "Saudações nobre",
         "pushName": "Gabriel",
         "timestamp": 1788029904950
+      },
+      "A569C8822D383EA23F060A6B724B2BFF": {
+        "sender": "54259127210155@lid",
+        "text": "!inativos",
+        "pushName": "Leandro",
+        "timestamp": 1788029977087
       }
     },
     "120363428464897153@g.us": {},
@@ -11272,7 +11328,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788029912648,
+    "120363432018531082@g.us": 1788029977087,
     "120363428464897153@g.us": 1787976748279,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788027730338,
