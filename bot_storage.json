@@ -3550,14 +3550,14 @@
         "total": 615
       },
       "5511927018683": {
-        "text": 612,
+        "text": 613,
         "media": 114,
-        "total": 726
+        "total": 727
       },
       "145381035905262": {
-        "text": 501,
+        "text": 502,
         "media": 166,
-        "total": 667
+        "total": 668
       },
       "53537388122141": {
         "text": 843,
@@ -17218,7 +17218,9 @@
         "Leandro (+55 (11) 92701-8683): E de ontem para hoje começou a sair uma porrada de membros",
         "Gabriel (145381035905262): Muitos foram eliminados",
         "Gabriel (145381035905262): A maioria",
-        "Leandro (+55 (11) 92701-8683): Uns 20 a 30 no máximo"
+        "Leandro (+55 (11) 92701-8683): Uns 20 a 30 no máximo",
+        "Leandro (+55 (11) 92701-8683): Só que eu já contei uns 15 que saiu por livre e espontânea vontade",
+        "Gabriel (145381035905262): Sai, e vem mais"
       ]
     },
     "120363411233423709@g.us": {
@@ -17838,6 +17840,18 @@
         "authorName": "Leandro",
         "text": "Uns 20 a 30 no máximo",
         "timestamp": 1787971579614
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Só que eu já contei uns 15 que saiu por livre e espontânea vontade",
+        "timestamp": 1787971592246
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Sai, e vem mais",
+        "timestamp": 1787971606644
       }
     ],
     "120363411233423709@g.us": [],
@@ -17857,7 +17871,7 @@
     "120363432018531082@g.us": 22809,
     "120363428464897153@g.us": 6401,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2217,
+    "120363412288900422@g.us": 2219,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -200788,6 +200802,18 @@
         "text": "Uns 20 a 30 no máximo",
         "pushName": "Leandro",
         "timestamp": 1787971579614
+      },
+      "A516C0B4D063AEA923E9B5AA8A436C77": {
+        "sender": "54259127210155@lid",
+        "text": "Só que eu já contei uns 15 que saiu por livre e espontânea vontade",
+        "pushName": "Leandro",
+        "timestamp": 1787971592246
+      },
+      "ACD0F8CEF4C7F8020B02BA245B651177": {
+        "sender": "145381035905262@lid",
+        "text": "Sai, e vem mais",
+        "pushName": "Gabriel",
+        "timestamp": 1787971606644
       }
     },
     "120363411233423709@g.us": {
@@ -203678,7 +203704,7 @@
     "120363432018531082@g.us": 1787971549354,
     "120363428464897153@g.us": 1787971486620,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787971579614,
+    "120363412288900422@g.us": 1787971606644,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
