@@ -215,9 +215,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2297,
+        "text": 2298,
         "media": 481,
-        "total": 2778
+        "total": 2779
       },
       "184237705699536": {
         "text": 524,
@@ -480,9 +480,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1830,
+        "text": 1831,
         "media": 373,
-        "total": 2203
+        "total": 2204
       },
       "252600633041077": {
         "text": 1,
@@ -7312,7 +7312,9 @@
         "Gabriel: Eu sempre usei",
         "Leandro: Certeza?",
         "Leandro: Por que eu tô vendo em uso, só o bot de gestão",
-        "Leandro: Isso por que ele é automático"
+        "Leandro: Isso por que ele é automático",
+        "Gabriel: Que situação",
+        "Leandro: Já sei o por que disso, ele desvinculou a IA"
       ]
     },
     "120363428464897153@g.us": {
@@ -10625,6 +10627,18 @@
         "authorName": "Leandro",
         "text": "Isso por que ele é automático",
         "timestamp": 1788030391881
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Que situação",
+        "timestamp": 1788030402682
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Já sei o por que disso, ele desvinculou a IA",
+        "timestamp": 1788030413108
       }
     ],
     "120363428464897153@g.us": [],
@@ -10645,7 +10659,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 1,
+    "120363432018531082@g.us": 3,
     "120363428464897153@g.us": 6425,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2256,
@@ -11269,6 +11283,18 @@
         "text": "Isso por que ele é automático",
         "pushName": "Leandro",
         "timestamp": 1788030391881
+      },
+      "AC4C2705B47CC1614EB14BC61F492E6D": {
+        "sender": "145381035905262@lid",
+        "text": "Que situação",
+        "pushName": "Gabriel",
+        "timestamp": 1788030402682
+      },
+      "A5939674D6C12E1F1954CBD34E25AE6E": {
+        "sender": "54259127210155@lid",
+        "text": "Já sei o por que disso, ele desvinculou a IA",
+        "pushName": "Leandro",
+        "timestamp": 1788030413108
       }
     },
     "120363428464897153@g.us": {},
@@ -11498,7 +11524,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788030391881,
+    "120363432018531082@g.us": 1788030413108,
     "120363428464897153@g.us": 1787976748279,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788027730338,
