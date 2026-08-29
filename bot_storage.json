@@ -3550,9 +3550,9 @@
         "total": 615
       },
       "5511927018683": {
-        "text": 609,
+        "text": 611,
         "media": 114,
-        "total": 723
+        "total": 725
       },
       "145381035905262": {
         "text": 499,
@@ -17213,7 +17213,9 @@
         "Leandro (+55 (11) 92701-8683): Sim",
         "Leandro (+55 (11) 92701-8683): Tô sentindo cheiro de furto de membros... 👃🏼",
         "Leandro (+55 (11) 92701-8683): @all",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): 👀👀"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): 👀👀",
+        "Leandro (+55 (11) 92701-8683): Ontem chegou uma caixinha falando que 2 ou é 3 fulanos montaram um grupo com as mesmas regras do nosso",
+        "Leandro (+55 (11) 92701-8683): E de ontem para hoje começou a sair uma porrada de membros"
       ]
     },
     "120363411233423709@g.us": {
@@ -18152,6 +18154,18 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "👀👀",
         "timestamp": 1787970570537
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Ontem chegou uma caixinha falando que 2 ou é 3 fulanos montaram um grupo com as mesmas regras do nosso",
+        "timestamp": 1787970716918
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "E de ontem para hoje começou a sair uma porrada de membros",
+        "timestamp": 1787970729987
       }
     ],
     "120363411233423709@g.us": [],
@@ -18171,7 +18185,7 @@
     "120363432018531082@g.us": 22808,
     "120363428464897153@g.us": 6401,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2212,
+    "120363412288900422@g.us": 2214,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -201066,6 +201080,18 @@
         "text": "👀👀",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787970570538
+      },
+      "A52FECCCFA18702E31A06A5F1889C613": {
+        "sender": "54259127210155@lid",
+        "text": "Ontem chegou uma caixinha falando que 2 ou é 3 fulanos montaram um grupo com as mesmas regras do nosso",
+        "pushName": "Leandro",
+        "timestamp": 1787970716918
+      },
+      "A5AFCDD70FAEC054F8DDC2B5842B9C0E": {
+        "sender": "54259127210155@lid",
+        "text": "E de ontem para hoje começou a sair uma porrada de membros",
+        "pushName": "Leandro",
+        "timestamp": 1787970729987
       }
     },
     "120363411233423709@g.us": {
@@ -203956,7 +203982,7 @@
     "120363432018531082@g.us": 1787970444103,
     "120363428464897153@g.us": 1787970000766,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787970570537,
+    "120363412288900422@g.us": 1787970729987,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
