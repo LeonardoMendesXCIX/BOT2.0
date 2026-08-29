@@ -189,9 +189,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2271,
+        "text": 2272,
         "media": 479,
-        "total": 2750
+        "total": 2751
       },
       "184237705699536": {
         "text": 524,
@@ -279,9 +279,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2427,
+        "text": 2428,
         "media": 342,
-        "total": 2769
+        "total": 2770
       },
       "252922705240205": {
         "text": 80,
@@ -1549,9 +1549,9 @@
         "total": 4
       },
       "272048228188398": {
-        "text": 103,
+        "text": 104,
         "media": 17,
-        "total": 120
+        "total": 121
       },
       "55959196049495": {
         "text": 6,
@@ -9961,9 +9961,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Souza (190864487919667): 😂",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): @81991328395336 \n@54259127210155",
-        "Gabriel (145381035905262): Exatamente isso",
         "Gabriel (145381035905262): Parabéns pela inteligência",
         " (120363432018531082): @all",
         " (120363432018531082): @92629643563147",
@@ -10460,7 +10457,10 @@
         "Dany (262182034002040): Exatamente meu ponto 🫢",
         "Gabriel (145381035905262): Não entendi",
         "Lailson Nathan. (272048228188398): Lá sim vamos ter um vgv acima da média.",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tô lascada"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tô lascada",
+        "Gabriel (145381035905262): 1 M de comissão mês, segundo o gestor lá",
+        "Lailson Nathan. (272048228188398): Aí, já dá para começar a viver.",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindo"
       ]
     },
     "120363428464897153@g.us": {
@@ -18138,6 +18138,24 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Tô lascada",
         "timestamp": 1787969419706
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "1 M de comissão mês, segundo o gestor lá",
+        "timestamp": 1787969426148
+      },
+      {
+        "authorNum": "272048228188398",
+        "authorName": "Lailson Nathan.",
+        "text": "Aí, já dá para começar a viver.",
+        "timestamp": 1787969450270
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Bem vindo",
+        "timestamp": 1787969454060
       }
     ],
     "120363428464897153@g.us": [
@@ -18272,7 +18290,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22786,
+    "120363432018531082@g.us": 22789,
     "120363428464897153@g.us": 6401,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2209,
@@ -148988,6 +149006,24 @@
         "text": "Tô lascada",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787969419706
+      },
+      "ACFACB51FB039A1F7C2AF45AFC48EBCC": {
+        "sender": "145381035905262@lid",
+        "text": "1 M de comissão mês, segundo o gestor lá",
+        "pushName": "Gabriel",
+        "timestamp": 1787969426149
+      },
+      "ACF1E7D0740B0ADCF794648ACA31A58F": {
+        "sender": "272048228188398@lid",
+        "text": "Aí, já dá para começar a viver.",
+        "pushName": "Lailson Nathan.",
+        "timestamp": 1787969450270
+      },
+      "ACC97E60C287043D954E276C64CE20FD": {
+        "sender": "53537388122141@lid",
+        "text": "Bem vindo",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787969454060
       }
     },
     "120363428464897153@g.us": {
@@ -203907,7 +203943,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787969419706,
+    "120363432018531082@g.us": 1787969454060,
     "120363428464897153@g.us": 1787969376634,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787964813002,
