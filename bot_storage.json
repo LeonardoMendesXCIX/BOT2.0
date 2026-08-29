@@ -480,9 +480,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1826,
+        "text": 1827,
         "media": 373,
-        "total": 2199
+        "total": 2200
       },
       "252600633041077": {
         "text": 1,
@@ -7307,7 +7307,8 @@
         "Leandro: Desliguei, ninguém estava usando",
         "Leandro: 🤷🏻‍♂️",
         "Gabriel: Bannn",
-        "Gabriel: Bote, que vamos usar"
+        "Gabriel: Bote, que vamos usar",
+        "Leandro: Vai usar mesmo?"
       ]
     },
     "120363428464897153@g.us": {
@@ -10590,6 +10591,12 @@
         "authorName": "Gabriel",
         "text": "Bote, que vamos usar",
         "timestamp": 1788030114211
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Vai usar mesmo?",
+        "timestamp": 1788030334851
       }
     ],
     "120363428464897153@g.us": [],
@@ -10610,7 +10617,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 0,
+    "120363432018531082@g.us": 1,
     "120363428464897153@g.us": 6425,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2256,
@@ -11204,6 +11211,12 @@
         "text": "Bote, que vamos usar",
         "pushName": "Gabriel",
         "timestamp": 1788030114211
+      },
+      "A571F0210B57980A39D4E864C4C58D55": {
+        "sender": "54259127210155@lid",
+        "text": "Vai usar mesmo?",
+        "pushName": "Leandro",
+        "timestamp": 1788030334851
       }
     },
     "120363428464897153@g.us": {},
@@ -11433,7 +11446,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788030147313,
+    "120363432018531082@g.us": 1788030334851,
     "120363428464897153@g.us": 1787976748279,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788027730338,
