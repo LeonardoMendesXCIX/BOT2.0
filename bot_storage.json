@@ -173,14 +173,14 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1693,
+        "text": 1694,
         "media": 473,
-        "total": 2166
+        "total": 2167
       },
       "81991328395336": {
         "text": 3971,
-        "media": 1357,
-        "total": 5328
+        "media": 1358,
+        "total": 5329
       },
       "179040627490824": {
         "text": 433,
@@ -9950,7 +9950,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): @145381035905262 sem dúvidas!",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @92629643563147",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Ala, cobiçado de novo",
         "Camila Designer (92629643563147): Será????",
@@ -10449,7 +10448,8 @@
         "Leandro (+55 (11) 92701-8683): 1 é a fundadora e minha esposa ❤️ e a outra é a diretora do grupo",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): A outra",
         "Leandro (+55 (11) 92701-8683): Foi mal",
-        "Leandro (+55 (11) 92701-8683): Aí como eu acho ruim isso... 🫃🏻"
+        "Leandro (+55 (11) 92701-8683): Aí como eu acho ruim isso... 🫃🏻",
+        "Celiete Souza (129373172711439): Eu dormi 🤣🤣🤣"
       ]
     },
     "120363428464897153@g.us": {
@@ -17658,54 +17658,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Cadê a mulher que queria fazer um puteiro?",
-        "timestamp": 1787962819367
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Cadê tu infeliz?",
-        "timestamp": 1787962841663
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Meu pai é dono de um cabaré",
-        "timestamp": 1787962878063
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "E nem é meme",
-        "timestamp": 1787962880606
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Kkkkkkkkk",
-        "timestamp": 1787962882830
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Ave Maria",
-        "timestamp": 1787962885851
-      },
-      {
-        "authorNum": "270377049690114",
-        "authorName": "Vini 👑🏁🙌⚽",
-        "text": "Eita MDS 🫣🫣🫣",
-        "timestamp": 1787962975668
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "👀👀👀👀",
-        "timestamp": 1787962987361
-      },
-      {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Obrigada pelo elogio!! 🤌🏻\n@81991328395336",
@@ -17758,27 +17710,15 @@
         "authorName": "Leandro",
         "text": "Aí como eu acho ruim isso... 🫃🏻",
         "timestamp": 1787964035690
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Eu dormi 🤣🤣🤣",
+        "timestamp": 1787964888288
       }
     ],
     "120363428464897153@g.us": [
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "KABARÉ ABERTOOOOOOOO\n@all",
-        "timestamp": 1787962815372
-      },
-      {
-        "authorNum": "120044990287992",
-        "authorName": "negoh🐻",
-        "text": "O negócio tá fraco",
-        "timestamp": 1787963044103
-      },
-      {
-        "authorNum": "190864487919667",
-        "authorName": "Souza",
-        "text": "Tá",
-        "timestamp": 1787963087701
-      },
       {
         "authorNum": "81991328395336",
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
@@ -18019,7 +17959,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22707,
+    "120363432018531082@g.us": 22708,
     "120363428464897153@g.us": 6332,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2209,
@@ -148279,6 +148219,12 @@
         "text": "Aí como eu acho ruim isso... 🫃🏻",
         "pushName": "Leandro",
         "timestamp": 1787964035690
+      },
+      "ACC8D2CBC2CE269FF7BDBB121980A42A": {
+        "sender": "129373172711439@lid",
+        "text": "Eu dormi 🤣🤣🤣",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787964888288
       }
     },
     "120363428464897153@g.us": {
@@ -202784,7 +202730,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787964636741,
+    "120363432018531082@g.us": 1787964904471,
     "120363428464897153@g.us": 1787964720126,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787964813002,
