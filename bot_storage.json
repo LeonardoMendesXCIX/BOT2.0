@@ -197,9 +197,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2286,
+        "text": 2287,
         "media": 480,
-        "total": 2766
+        "total": 2767
       },
       "184237705699536": {
         "text": 524,
@@ -462,9 +462,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1816,
+        "text": 1817,
         "media": 373,
-        "total": 2189
+        "total": 2190
       },
       "252600633041077": {
         "text": 1,
@@ -7264,7 +7264,9 @@
         "Leandro: Pqp",
         "Gabriel: Depois diz que foi mal entendido",
         "Gabriel: Vire homem e assuma né meu",
-        "Leandro: O mal entendido aí 👆🏼👆🏼"
+        "Leandro: O mal entendido aí 👆🏼👆🏼",
+        "Gabriel: Só ripada",
+        "Leandro: Pois bem"
       ]
     },
     "120363428464897153@g.us": {
@@ -10679,6 +10681,18 @@
         "authorName": "Leandro",
         "text": "O mal entendido aí 👆🏼👆🏼",
         "timestamp": 1788027621640
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Só ripada",
+        "timestamp": 1788027629328
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Pois bem",
+        "timestamp": 1788027634565
       }
     ],
     "120363428464897153@g.us": [],
@@ -10766,7 +10780,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 49,
+    "120363432018531082@g.us": 51,
     "120363428464897153@g.us": 6425,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2256,
@@ -11240,6 +11254,18 @@
         "text": "O mal entendido aí 👆🏼👆🏼",
         "pushName": "Leandro",
         "timestamp": 1788027621640
+      },
+      "AC7B1155FDDBA712414B1EDCDD6073CB": {
+        "sender": "145381035905262@lid",
+        "text": "Só ripada",
+        "pushName": "Gabriel",
+        "timestamp": 1788027629328
+      },
+      "A593C05A17FE1E412F20F0A0D842A2B9": {
+        "sender": "54259127210155@lid",
+        "text": "Pois bem",
+        "pushName": "Leandro",
+        "timestamp": 1788027634565
       }
     },
     "120363428464897153@g.us": {},
@@ -11469,7 +11495,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788027621640,
+    "120363432018531082@g.us": 1788027634565,
     "120363428464897153@g.us": 1787976748279,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788026544319,
