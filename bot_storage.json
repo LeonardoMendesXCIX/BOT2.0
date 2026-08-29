@@ -454,9 +454,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1802,
+        "text": 1804,
         "media": 371,
-        "total": 2173
+        "total": 2175
       },
       "252600633041077": {
         "text": 1,
@@ -2864,9 +2864,9 @@
         "total": 72
       },
       "2135320166432": {
-        "text": 69,
+        "text": 70,
         "media": 9,
-        "total": 78
+        "total": 79
       },
       "239371546579166": {
         "text": 2,
@@ -10568,7 +10568,10 @@
         "Celiete Souza (129373172711439): Pois então",
         "Anderson (+2135320166432): É foda né",
         "Souza (190864487919667): 👀",
-        "Leandro (+55 (11) 92701-8683): É foda interagir em 2 grupos ao mesmo tempo"
+        "Leandro (+55 (11) 92701-8683): É foda interagir em 2 grupos ao mesmo tempo",
+        "Anderson (+2135320166432): Qual outro grupo rs",
+        "Leandro (+55 (11) 92701-8683): Fico 👈🏼👁️👁️👉🏼",
+        "Leandro (+55 (11) 92701-8683): Kbaré"
       ]
     },
     "120363428464897153@g.us": {
@@ -17885,12 +17888,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Essa figurinha do tiringa que faltava para o meu catálogo",
-        "timestamp": 1787973611497
-      },
-      {
         "authorNum": "129373172711439",
         "authorName": "Celiete Souza",
         "text": "Nem sei quem é kkkk",
@@ -18081,6 +18078,24 @@
         "authorName": "Leandro",
         "text": "É foda interagir em 2 grupos ao mesmo tempo",
         "timestamp": 1787975393612
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Qual outro grupo rs",
+        "timestamp": 1787975415598
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Fico 👈🏼👁️👁️👉🏼",
+        "timestamp": 1787975415885
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Kbaré",
+        "timestamp": 1787975421969
       }
     ],
     "120363428464897153@g.us": [
@@ -18186,7 +18201,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22919,
+    "120363432018531082@g.us": 22922,
     "120363428464897153@g.us": 6415,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2227,
@@ -149700,6 +149715,24 @@
         "text": "É foda interagir em 2 grupos ao mesmo tempo",
         "pushName": "Leandro",
         "timestamp": 1787975393612
+      },
+      "ACBB8BDC16E83EF25B3EBC87103593CA": {
+        "sender": "2135320166432@lid",
+        "text": "Qual outro grupo rs",
+        "pushName": "Anderson",
+        "timestamp": 1787975415598
+      },
+      "A54FEDF4DD9E4BA3CE6CD8EDB7268D39": {
+        "sender": "54259127210155@lid",
+        "text": "Fico 👈🏼👁️👁️👉🏼",
+        "pushName": "Leandro",
+        "timestamp": 1787975415885
+      },
+      "A53D55343BC9C2BA70DB637B7C7D4103": {
+        "sender": "54259127210155@lid",
+        "text": "Kbaré",
+        "pushName": "Leandro",
+        "timestamp": 1787975421970
       }
     },
     "120363428464897153@g.us": {
@@ -204817,7 +204850,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787975393612,
+    "120363432018531082@g.us": 1787975421969,
     "120363428464897153@g.us": 1787975376759,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787972789844,
