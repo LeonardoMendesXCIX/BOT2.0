@@ -189,9 +189,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2270,
+        "text": 2271,
         "media": 479,
-        "total": 2749
+        "total": 2750
       },
       "184237705699536": {
         "text": 524,
@@ -279,9 +279,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2426,
+        "text": 2427,
         "media": 342,
-        "total": 2768
+        "total": 2769
       },
       "252922705240205": {
         "text": 80,
@@ -1549,9 +1549,9 @@
         "total": 4
       },
       "272048228188398": {
-        "text": 102,
+        "text": 103,
         "media": 17,
-        "total": 119
+        "total": 120
       },
       "55959196049495": {
         "text": 6,
@@ -9961,9 +9961,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Leandro (+55 (11) 92701-8683): Eu não digo é nada 😂",
-        "Gabriel (145381035905262): Vai começar cupinxa, será 😂😂😂",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Acho que vai😂😂😂",
         "Souza (190864487919667): 😂",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): @81991328395336 \n@54259127210155",
         "Gabriel (145381035905262): Exatamente isso",
@@ -10460,7 +10457,10 @@
         "Gabriel (145381035905262): Sim meu nobre",
         "Gabriel (145381035905262): Por isso escolhemos lá",
         "Lailson Nathan. (272048228188398): Escolha boa.",
-        "Dany (262182034002040): Exatamente meu ponto 🫢"
+        "Dany (262182034002040): Exatamente meu ponto 🫢",
+        "Gabriel (145381035905262): Não entendi",
+        "Lailson Nathan. (272048228188398): Lá sim vamos ter um vgv acima da média.",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tô lascada"
       ]
     },
     "120363428464897153@g.us": {
@@ -18120,6 +18120,24 @@
         "authorName": "Dany",
         "text": "Exatamente meu ponto 🫢",
         "timestamp": 1787969383597
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Não entendi",
+        "timestamp": 1787969402007
+      },
+      {
+        "authorNum": "272048228188398",
+        "authorName": "Lailson Nathan.",
+        "text": "Lá sim vamos ter um vgv acima da média.",
+        "timestamp": 1787969402685
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Tô lascada",
+        "timestamp": 1787969419706
       }
     ],
     "120363428464897153@g.us": [
@@ -18254,7 +18272,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22783,
+    "120363432018531082@g.us": 22786,
     "120363428464897153@g.us": 6401,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2209,
@@ -148952,6 +148970,24 @@
         "text": "Exatamente meu ponto 🫢",
         "pushName": "Dany",
         "timestamp": 1787969383597
+      },
+      "ACEAFBA45C8B9FA38630708DE1AFFA4B": {
+        "sender": "145381035905262@lid",
+        "text": "Não entendi",
+        "pushName": "Gabriel",
+        "timestamp": 1787969402007
+      },
+      "AC29663215B7AA9FC8C5FBA7B7AB000A": {
+        "sender": "272048228188398@lid",
+        "text": "Lá sim vamos ter um vgv acima da média.",
+        "pushName": "Lailson Nathan.",
+        "timestamp": 1787969402685
+      },
+      "AC2A103C029FCFC75705CA12B310D082": {
+        "sender": "53537388122141@lid",
+        "text": "Tô lascada",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787969419706
       }
     },
     "120363428464897153@g.us": {
@@ -203871,7 +203907,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787969383597,
+    "120363432018531082@g.us": 1787969419706,
     "120363428464897153@g.us": 1787969376634,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787964813002,
