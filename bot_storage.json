@@ -197,9 +197,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2283,
+        "text": 2284,
         "media": 480,
-        "total": 2763
+        "total": 2764
       },
       "184237705699536": {
         "text": 524,
@@ -462,9 +462,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1814,
+        "text": 1815,
         "media": 371,
-        "total": 2185
+        "total": 2186
       },
       "252600633041077": {
         "text": 1,
@@ -3995,8 +3995,8 @@
       },
       "262182034002040": {
         "text": 3,
-        "media": 59,
-        "total": 62
+        "media": 64,
+        "total": 67
       },
       "129373172711439": {
         "text": 7,
@@ -7259,7 +7259,9 @@
         "Juliano Perlin: Cadê o respeito??😠",
         "Gabriel: Com meu nome e ainda fazendo cagada deste nível, admito não",
         "Leandro: O que o camarada fez?",
-        "Gabriel: A Dany falou que era professora e ele falou eu como professora"
+        "Gabriel: A Dany falou que era professora e ele falou eu como professora",
+        "Gabriel: Depois continuou a mesma conversa",
+        "Leandro: Pqp"
       ]
     },
     "120363428464897153@g.us": {
@@ -10722,6 +10724,18 @@
         "authorName": "Gabriel",
         "text": "A Dany falou que era professora e ele falou eu como professora",
         "timestamp": 1788027540651
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Depois continuou a mesma conversa",
+        "timestamp": 1788027552155
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Pqp",
+        "timestamp": 1788027578482
       }
     ],
     "120363428464897153@g.us": [],
@@ -10809,7 +10823,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 44,
+    "120363432018531082@g.us": 46,
     "120363428464897153@g.us": 6425,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2256,
@@ -11253,6 +11267,18 @@
         "text": "A Dany falou que era professora e ele falou eu como professora",
         "pushName": "Gabriel",
         "timestamp": 1788027540651
+      },
+      "AC52CF41D2E0BF0F55D81DA41625A281": {
+        "sender": "145381035905262@lid",
+        "text": "Depois continuou a mesma conversa",
+        "pushName": "Gabriel",
+        "timestamp": 1788027552156
+      },
+      "A5F77C4EFD035D28A2ADC1844D6F9550": {
+        "sender": "54259127210155@lid",
+        "text": "Pqp",
+        "pushName": "Leandro",
+        "timestamp": 1788027578482
       }
     },
     "120363428464897153@g.us": {},
@@ -11482,7 +11508,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788027540651,
+    "120363432018531082@g.us": 1788027578482,
     "120363428464897153@g.us": 1787976748279,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788026544319,
@@ -11493,7 +11519,7 @@
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1787868477291,
-    "120363409024805409@g.us": 1787975843791,
+    "120363409024805409@g.us": 1788027575887,
     "120363411043114631@g.us": 1787897464612,
     "120363409367298221@g.us": 1787986192012
   },
