@@ -2864,9 +2864,9 @@
         "total": 72
       },
       "2135320166432": {
-        "text": 13,
+        "text": 14,
         "media": 1,
-        "total": 14
+        "total": 15
       },
       "239371546579166": {
         "text": 0,
@@ -9961,7 +9961,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Juliano Perlin (222595437858867): Aproveita pra converssar com nós entao🤣🤣",
         "Celiete Souza (129373172711439): Muita chuva, agora parou",
         "Celiete Souza (129373172711439): Tamo junto 🫶🏻😂😂😂",
         "Celiete Souza (129373172711439): Sim, agora vou desopilar kkkk",
@@ -10460,7 +10459,8 @@
         "Sr VIEGAS😊 (239371546579166): Boa Noite !!\n\nNome: Ricardo viegas  \n\n Idade 33.\n\nSou de Belém do Pará",
         " (120363432018531082): Boa Noite !!\n\nNome: Ricardo viegas  \n\n Idade 33.\n\nSou de Belém do Pará",
         "Gabriel (145381035905262): Business",
-        "Kamila (78143406768201): Seria bom conversar um pouco"
+        "Kamila (78143406768201): Seria bom conversar um pouco",
+        "Anderson (+2135320166432): Vou te chamar aí"
       ]
     },
     "120363428464897153@g.us": {
@@ -17955,6 +17955,12 @@
         "authorName": "Kamila",
         "text": "Seria bom conversar um pouco",
         "timestamp": 1787968858474
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Vou te chamar aí",
+        "timestamp": 1787968898475
       }
     ],
     "120363428464897153@g.us": [
@@ -18131,7 +18137,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22752,
+    "120363432018531082@g.us": 22753,
     "120363428464897153@g.us": 6398,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2209,
@@ -148643,6 +148649,12 @@
         "text": "Seria bom conversar um pouco",
         "pushName": "Kamila",
         "timestamp": 1787968858474
+      },
+      "ACF4525686BEBA7C3FFCEFAC80B5F1BF": {
+        "sender": "2135320166432@lid",
+        "text": "Vou te chamar aí",
+        "pushName": "Anderson",
+        "timestamp": 1787968898475
       }
     },
     "120363428464897153@g.us": {
@@ -203544,7 +203556,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787968858474,
+    "120363432018531082@g.us": 1787968898475,
     "120363428464897153@g.us": 1787968858851,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787964813002,
