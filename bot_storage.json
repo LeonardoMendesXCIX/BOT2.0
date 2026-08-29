@@ -174,9 +174,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1754,
+        "text": 1756,
         "media": 493,
-        "total": 2247
+        "total": 2249
       },
       "81991328395336": {
         "text": 3991,
@@ -455,8 +455,8 @@
       },
       "5511927018683": {
         "text": 1800,
-        "media": 369,
-        "total": 2169
+        "media": 370,
+        "total": 2170
       },
       "252600633041077": {
         "text": 1,
@@ -10558,7 +10558,9 @@
         "Celiete Souza (129373172711439): Estão na rua curtindo",
         "Celiete Souza (129373172711439): Os veio somos nós",
         "Anderson (+2135320166432): Eu tbm tava",
-        "Anderson (+2135320166432): Porém já vim pra casa"
+        "Anderson (+2135320166432): Porém já vim pra casa",
+        "Celiete Souza (129373172711439): Eu não",
+        "Celiete Souza (129373172711439): Estou longe de perigos noturnos"
       ]
     },
     "120363428464897153@g.us": {
@@ -17861,12 +17863,6 @@
       {
         "authorNum": "2135320166432",
         "authorName": "Anderson",
-        "text": "😌",
-        "timestamp": 1787973163623
-      },
-      {
-        "authorNum": "2135320166432",
-        "authorName": "Anderson",
         "text": "❤️",
         "timestamp": 1787973228803
       },
@@ -18109,6 +18105,18 @@
         "authorName": "Anderson",
         "text": "Porém já vim pra casa",
         "timestamp": 1787974954775
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Eu não",
+        "timestamp": 1787974965327
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Estou longe de perigos noturnos",
+        "timestamp": 1787974977713
       }
     ],
     "120363428464897153@g.us": [],
@@ -18128,7 +18136,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22909,
+    "120363432018531082@g.us": 22911,
     "120363428464897153@g.us": 6402,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2227,
@@ -149582,6 +149590,18 @@
         "text": "Porém já vim pra casa",
         "pushName": "Anderson",
         "timestamp": 1787974954775
+      },
+      "ACDE3EE1D851DC2D188EE643FAF53A1A": {
+        "sender": "129373172711439@lid",
+        "text": "Eu não",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787974965327
+      },
+      "AC307174F237B83C3695CFBB0C438AFA": {
+        "sender": "129373172711439@lid",
+        "text": "Estou longe de perigos noturnos",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787974977713
       }
     },
     "120363428464897153@g.us": {
@@ -204615,7 +204635,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787974954775,
+    "120363432018531082@g.us": 1787974978094,
     "120363428464897153@g.us": 1787972707416,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787972789844,
