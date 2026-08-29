@@ -279,9 +279,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2424,
+        "text": 2425,
         "media": 342,
-        "total": 2766
+        "total": 2767
       },
       "252922705240205": {
         "text": 80,
@@ -2834,9 +2834,9 @@
         "total": 5
       },
       "78143406768201": {
-        "text": 10,
+        "text": 11,
         "media": 0,
-        "total": 10
+        "total": 11
       },
       "227783724793861": {
         "text": 23,
@@ -2916,9 +2916,9 @@
         "total": 468
       },
       "262182034002040": {
-        "text": 330,
+        "text": 331,
         "media": 28,
-        "total": 358
+        "total": 359
       },
       "86793403801839": {
         "text": 264,
@@ -9956,8 +9956,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Juliano Perlin (222595437858867): Que bomm🙌🏻🤗",
-        "Gabriel (145381035905262): @129373172711439  é bom que pensem deste jeito, assim eles não sabem o que realmente faço!",
         "Celiete Souza (129373172711439): Com certeza 🙏🏼",
         "Bruno Aguiar (+1395881181241): Aproveitando a chuva por ai @129373172711439",
         "Celiete Souza (129373172711439): @145381035905262 sai do emprego kkkk",
@@ -10455,7 +10453,9 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Me demita não",
         "Kamila (78143406768201): Boa noite",
         "Anderson (+2135320166432): Posso te chamar no Pv pra gente conversar?",
-        "Anderson (+2135320166432): Boa noite"
+        "Anderson (+2135320166432): Boa noite",
+        "Kamila (78143406768201): Tudo bem",
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Olha ele"
       ]
     },
     "120363428464897153@g.us": {
@@ -14707,7 +14707,8 @@
         "Dany (262182034002040): Boa noite",
         "Henrique (66743926038604): Boa noite  minha amiga!",
         "Gleydson Souza (274384656834700): Boa noite povo",
-        "Jose (+1645576491019): Bouuuaaa"
+        "Jose (+1645576491019): Bouuuaaa",
+        "Dany (262182034002040): Boa"
       ]
     },
     "120363409727467494@g.us": {
@@ -17887,63 +17888,21 @@
         "authorName": "Anderson",
         "text": "Boa noite",
         "timestamp": 1787968637320
+      },
+      {
+        "authorNum": "78143406768201",
+        "authorName": "Kamila",
+        "text": "Tudo bem",
+        "timestamp": 1787968705301
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Olha ele",
+        "timestamp": 1787968726250
       }
     ],
     "120363428464897153@g.us": [
-      {
-        "authorNum": "120044990287992",
-        "authorName": "negoh🐻",
-        "text": "Tá é barato kkkk",
-        "timestamp": 1787966790773
-      },
-      {
-        "authorNum": "120044990287992",
-        "authorName": "negoh🐻",
-        "text": "As mulheres falam tanto q são independentes",
-        "timestamp": 1787966820899
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Agora deu o krai mesmo 😂",
-        "timestamp": 1787966845691
-      },
-      {
-        "authorNum": "270377049690114",
-        "authorName": "Vini 👑🏁🙌⚽",
-        "text": "VTNC😂😂😂😂",
-        "timestamp": 1787966849027
-      },
-      {
-        "authorNum": "274384656834700",
-        "authorName": "Gleydson Souza",
-        "text": "Ahh pronto kkkkk",
-        "timestamp": 1787966858202
-      },
-      {
-        "authorNum": "120044990287992",
-        "authorName": "negoh🐻",
-        "text": "Aqui na minha cidade a pessoa só em falar oi elas já vem dizendo tem um Pix ai",
-        "timestamp": 1787966865199
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Ela chegou do rio agora e os homem daqui não pode vê mulher bonita cai pra cima",
-        "timestamp": 1787966917347
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Ela é gp",
-        "timestamp": 1787966922373
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Job",
-        "timestamp": 1787966926507
-      },
       {
         "authorNum": "120044990287992",
         "authorName": "negoh🐻",
@@ -18093,6 +18052,12 @@
         "authorName": "Jose",
         "text": "Bouuuaaa",
         "timestamp": 1787968581415
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Boa",
+        "timestamp": 1787968726833
       }
     ],
     "120363409727467494@g.us": [],
@@ -18111,8 +18076,8 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22742,
-    "120363428464897153@g.us": 6395,
+    "120363432018531082@g.us": 22744,
+    "120363428464897153@g.us": 6396,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2209,
     "120363411233423709@g.us": 5,
@@ -148569,6 +148534,18 @@
         "text": "Boa noite",
         "pushName": "Anderson",
         "timestamp": 1787968637320
+      },
+      "AC86E2F0A27E90EA2D4D3D1FBF88A711": {
+        "sender": "78143406768201@lid",
+        "text": "Tudo bem",
+        "pushName": "Kamila",
+        "timestamp": 1787968705301
+      },
+      "AC059177D6425BE30BAA9C5A27ED69A6": {
+        "sender": "53537388122141@lid",
+        "text": "Olha ele",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1787968726251
       }
     },
     "120363428464897153@g.us": {
@@ -186113,6 +186090,12 @@
         "text": "Bouuuaaa",
         "pushName": "Jose",
         "timestamp": 1787968581415
+      },
+      "3A2A854C6084D48DBDE7": {
+        "sender": "262182034002040@lid",
+        "text": "Boa",
+        "pushName": "Dany",
+        "timestamp": 1787968726834
       }
     },
     "120363409727467494@g.us": {
@@ -203452,8 +203435,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787968690035,
-    "120363428464897153@g.us": 1787968581415,
+    "120363432018531082@g.us": 1787968726250,
+    "120363428464897153@g.us": 1787968726833,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787964813002,
     "120363411233423709@g.us": 1787113553426,
