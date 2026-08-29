@@ -175,8 +175,8 @@
       },
       "129373172711439": {
         "text": 1707,
-        "media": 475,
-        "total": 2182
+        "media": 476,
+        "total": 2183
       },
       "81991328395336": {
         "text": 3971,
@@ -189,9 +189,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2259,
+        "text": 2260,
         "media": 479,
-        "total": 2738
+        "total": 2739
       },
       "184237705699536": {
         "text": 524,
@@ -1549,9 +1549,9 @@
         "total": 4
       },
       "272048228188398": {
-        "text": 91,
+        "text": 93,
         "media": 16,
-        "total": 107
+        "total": 109
       },
       "55959196049495": {
         "text": 6,
@@ -3337,8 +3337,8 @@
       },
       "66743926038604": {
         "text": 64,
-        "media": 12,
-        "total": 76
+        "media": 13,
+        "total": 77
       },
       "227298829721789": {
         "text": 1,
@@ -9961,9 +9961,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Celiete Souza (129373172711439): E encomodar aqui",
-        "🙃🙃🙃 (11171897864256): 🤔",
-        "Bruno Aguiar (+1395881181241): É bom, desfrutar de um chá e um bom descanso",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): @all",
         "Bruno Aguiar (+1395881181241): Aiaiaiai",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @92629643563147",
@@ -10460,7 +10457,10 @@
         "Kamila (78143406768201): Blz",
         "Leandro (+55 (11) 92701-8683): Você que decide @81991328395336 😌",
         "Gabriel (145381035905262): O que ouve ?",
-        "Lailson Nathan. (272048228188398): Sócio de que meu?"
+        "Lailson Nathan. (272048228188398): Sócio de que meu?",
+        "Gabriel (145381035905262): Startup",
+        "Lailson Nathan. (272048228188398): Saquei.",
+        "Lailson Nathan. (272048228188398): Eai meu e os negócios imobiliário nada?"
       ]
     },
     "120363428464897153@g.us": {
@@ -17987,6 +17987,24 @@
         "authorName": "Lailson Nathan.",
         "text": "Sócio de que meu?",
         "timestamp": 1787969033006
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Startup",
+        "timestamp": 1787969043581
+      },
+      {
+        "authorNum": "272048228188398",
+        "authorName": "Lailson Nathan.",
+        "text": "Saquei.",
+        "timestamp": 1787969055647
+      },
+      {
+        "authorNum": "272048228188398",
+        "authorName": "Lailson Nathan.",
+        "text": "Eai meu e os negócios imobiliário nada?",
+        "timestamp": 1787969077030
       }
     ],
     "120363428464897153@g.us": [
@@ -18163,7 +18181,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22757,
+    "120363432018531082@g.us": 22760,
     "120363428464897153@g.us": 6400,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2209,
@@ -148705,6 +148723,24 @@
         "text": "Sócio de que meu?",
         "pushName": "Lailson Nathan.",
         "timestamp": 1787969033006
+      },
+      "ACB230386B2D941CFEEBCA30DF72EBA6": {
+        "sender": "145381035905262@lid",
+        "text": "Startup",
+        "pushName": "Gabriel",
+        "timestamp": 1787969043581
+      },
+      "AC92BD3EF5CFC80AE453EC0D049D2EEF": {
+        "sender": "272048228188398@lid",
+        "text": "Saquei.",
+        "pushName": "Lailson Nathan.",
+        "timestamp": 1787969055647
+      },
+      "ACE6B65286F964081C6103C4A5CDF3A2": {
+        "sender": "272048228188398@lid",
+        "text": "Eai meu e os negócios imobiliário nada?",
+        "pushName": "Lailson Nathan.",
+        "timestamp": 1787969077030
       }
     },
     "120363428464897153@g.us": {
@@ -203618,8 +203654,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787969033006,
-    "120363428464897153@g.us": 1787969018220,
+    "120363432018531082@g.us": 1787969077611,
+    "120363428464897153@g.us": 1787969043223,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787964813002,
     "120363411233423709@g.us": 1787113553426,
