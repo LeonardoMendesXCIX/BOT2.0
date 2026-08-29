@@ -454,9 +454,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1789,
-        "media": 361,
-        "total": 2150
+        "text": 1790,
+        "media": 362,
+        "total": 2152
       },
       "252600633041077": {
         "text": 1,
@@ -2864,9 +2864,9 @@
         "total": 72
       },
       "2135320166432": {
-        "text": 7,
+        "text": 9,
         "media": 1,
-        "total": 8
+        "total": 10
       }
     },
     "120363428464897153@g.us": {
@@ -9956,9 +9956,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Obrigada o elogiooo, se identifique no Pv",
-        "Juliano Perlin (222595437858867): Ta bem?",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Obrigada!",
         "Celiete Souza (129373172711439): Todos tem sua beleza 👏🏻",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Gente KKKKKKKKK cês confundiro\n@81991328395336 \n@54259127210155",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Opiniões galera\n@all",
@@ -10455,7 +10452,10 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): E você?",
         "Anderson (+2135320166432): Ilhéus, bahia",
         "Celiete Souza (129373172711439): Rio grande do Sul",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Ah sim"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Ah sim",
+        "Leandro (+55 (11) 92701-8683): Tava achando estranho já... Ele não mandou foto com o copin 🍺",
+        "Anderson (+2135320166432): Eu virei a noite",
+        "Anderson (+2135320166432): Parei hoje 7 da manhã e vou começar se novo rs"
       ]
     },
     "120363428464897153@g.us": {
@@ -17809,6 +17809,24 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Ah sim",
         "timestamp": 1787968053251
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Tava achando estranho já... Ele não mandou foto com o copin 🍺",
+        "timestamp": 1787968164656
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Eu virei a noite",
+        "timestamp": 1787968179109
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Parei hoje 7 da manhã e vou começar se novo rs",
+        "timestamp": 1787968189612
       }
     ],
     "120363428464897153@g.us": [
@@ -18057,7 +18075,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22730,
+    "120363432018531082@g.us": 22733,
     "120363428464897153@g.us": 6389,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2209,
@@ -148443,6 +148461,24 @@
         "text": "Ah sim",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787968053251
+      },
+      "A537784C52F54ED00D9BA672EEABBEE4": {
+        "sender": "54259127210155@lid",
+        "text": "Tava achando estranho já... Ele não mandou foto com o copin 🍺",
+        "pushName": "Leandro",
+        "timestamp": 1787968164656
+      },
+      "AC63BBC684D0872119EB1EF6002B203C": {
+        "sender": "2135320166432@lid",
+        "text": "Eu virei a noite",
+        "pushName": "Anderson",
+        "timestamp": 1787968179109
+      },
+      "AC103C25F7296C0B694E6C8EBF01D2DD": {
+        "sender": "2135320166432@lid",
+        "text": "Parei hoje 7 da manhã e vou começar se novo rs",
+        "pushName": "Anderson",
+        "timestamp": 1787968189612
       }
     },
     "120363428464897153@g.us": {
@@ -203290,7 +203326,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787968053251,
+    "120363432018531082@g.us": 1787968189612,
     "120363428464897153@g.us": 1787968148601,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787964813002,
