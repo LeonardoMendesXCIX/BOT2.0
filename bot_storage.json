@@ -189,9 +189,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2266,
+        "text": 2267,
         "media": 479,
-        "total": 2745
+        "total": 2746
       },
       "184237705699536": {
         "text": 524,
@@ -1549,9 +1549,9 @@
         "total": 4
       },
       "272048228188398": {
-        "text": 100,
+        "text": 101,
         "media": 17,
-        "total": 117
+        "total": 118
       },
       "55959196049495": {
         "text": 6,
@@ -9961,8 +9961,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Camila Designer (92629643563147): Queria cortar, mas controlei",
-        "Gabriel (145381035905262): Boa,.ficou jóia",
         "Celiete Souza (129373172711439): Eu sou uma anja",
         "Bruno Aguiar (+1395881181241): Então sou um santo 😁😁",
         "Celiete Souza (129373172711439): Melhor deixar quieto né 🤣🤣🤣🤣",
@@ -10460,7 +10458,9 @@
         "Dany (262182034002040): Ala vem concorrência lkkkkk",
         "Gabriel (145381035905262): Tu que arregou, não me venha com história, tu sabe disso",
         "Lailson Nathan. (272048228188398): Quero ir e fazer história, construir um legado irmão.",
-        "Gabriel (145381035905262): Então tá"
+        "Gabriel (145381035905262): Então tá",
+        "Gabriel (145381035905262): Nunca serão",
+        "Lailson Nathan. (272048228188398): Acho que lá vai dar bom,  tem muita gente de outro nível lá."
       ]
     },
     "120363428464897153@g.us": {
@@ -17737,12 +17737,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "2135320166432",
-        "authorName": "Anderson",
-        "text": "Tudo bem ?",
-        "timestamp": 1787967495812
-      },
-      {
         "authorNum": "129373172711439",
         "authorName": "Celiete Souza",
         "text": "Tudo bem",
@@ -18077,6 +18071,18 @@
         "authorName": "Gabriel",
         "text": "Então tá",
         "timestamp": 1787969275060
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Nunca serão",
+        "timestamp": 1787969291884
+      },
+      {
+        "authorNum": "272048228188398",
+        "authorName": "Lailson Nathan.",
+        "text": "Acho que lá vai dar bom,  tem muita gente de outro nível lá.",
+        "timestamp": 1787969313992
       }
     ],
     "120363428464897153@g.us": [
@@ -18253,7 +18259,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22775,
+    "120363432018531082@g.us": 22777,
     "120363428464897153@g.us": 6400,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2209,
@@ -148903,6 +148909,18 @@
         "text": "Então tá",
         "pushName": "Gabriel",
         "timestamp": 1787969275061
+      },
+      "ACA70D97691F1840C25E933C3C39BCF5": {
+        "sender": "145381035905262@lid",
+        "text": "Nunca serão",
+        "pushName": "Gabriel",
+        "timestamp": 1787969291884
+      },
+      "AC05197844F7D14D0957823ED828D70B": {
+        "sender": "272048228188398@lid",
+        "text": "Acho que lá vai dar bom,  tem muita gente de outro nível lá.",
+        "pushName": "Lailson Nathan.",
+        "timestamp": 1787969313993
       }
     },
     "120363428464897153@g.us": {
@@ -203816,7 +203834,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787969275060,
+    "120363432018531082@g.us": 1787969313992,
     "120363428464897153@g.us": 1787969267605,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787964813002,
