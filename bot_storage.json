@@ -287,9 +287,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2439,
+        "text": 2441,
         "media": 343,
-        "total": 2782
+        "total": 2784
       },
       "252922705240205": {
         "text": 80,
@@ -2667,9 +2667,9 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 116,
+        "text": 117,
         "media": 23,
-        "total": 139
+        "total": 140
       },
       "172868239380659": {
         "text": 182,
@@ -7247,7 +7247,10 @@
         "Gleydson Souza: Jubs Goiânia",
         "Sabrina Bartolucci 🤌🏻: Qualquer coisa, é facão",
         "Gleydson Souza: E melhor",
-        "Gleydson Souza: Mais rápido"
+        "Gleydson Souza: Mais rápido",
+        "Sabrina Bartolucci 🤌🏻: Tinha perdido essa",
+        "Sabrina Bartolucci 🤌🏻: Valeu",
+        "Gleydson Souza: Kkkkkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -10638,6 +10641,24 @@
         "authorName": "Gleydson Souza",
         "text": "Mais rápido",
         "timestamp": 1788026983582
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Tinha perdido essa",
+        "timestamp": 1788027000553
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Valeu",
+        "timestamp": 1788027001477
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Kkkkkk",
+        "timestamp": 1788027025078
       }
     ],
     "120363428464897153@g.us": [],
@@ -10725,7 +10746,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 32,
+    "120363432018531082@g.us": 35,
     "120363428464897153@g.us": 6425,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2256,
@@ -11096,6 +11117,24 @@
         "text": "Mais rápido",
         "pushName": "Gleydson Souza",
         "timestamp": 1788026983582
+      },
+      "AC1571694A9A09E30D8E5E7F237C172E": {
+        "sender": "53537388122141@lid",
+        "text": "Tinha perdido essa",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1788027000553
+      },
+      "ACB1A080773F80405050591CB31BAC25": {
+        "sender": "53537388122141@lid",
+        "text": "Valeu",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1788027001477
+      },
+      "AC46BA975A537F304CBA02B7824DCB20": {
+        "sender": "274384656834700@lid",
+        "text": "Kkkkkk",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1788027025079
       }
     },
     "120363428464897153@g.us": {},
@@ -11325,7 +11364,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788026983582,
+    "120363432018531082@g.us": 1788027025078,
     "120363428464897153@g.us": 1787976748279,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788026544319,
