@@ -189,9 +189,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2263,
+        "text": 2264,
         "media": 479,
-        "total": 2742
+        "total": 2743
       },
       "184237705699536": {
         "text": 524,
@@ -294,9 +294,9 @@
         "total": 464
       },
       "262182034002040": {
-        "text": 1903,
+        "text": 1904,
         "media": 123,
-        "total": 2026
+        "total": 2027
       },
       "219245581488326": {
         "text": 4,
@@ -1549,9 +1549,9 @@
         "total": 4
       },
       "272048228188398": {
-        "text": 96,
+        "text": 97,
         "media": 17,
-        "total": 113
+        "total": 114
       },
       "55959196049495": {
         "text": 6,
@@ -9961,8 +9961,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Tava respondendo 😂",
-        "Celiete Souza (129373172711439): Tinha que ser eu kkkk",
         "Gabriel (145381035905262): Deu falha no engano",
         "Celiete Souza (129373172711439): 😂😂😂😂",
         "Celiete Souza (129373172711439): Coisas da Cê",
@@ -10460,7 +10458,9 @@
         "Lailson Nathan. (272048228188398): E aqui em sp nada ainda?",
         "Gabriel (145381035905262): Vamos montar imobiliária em são Paulo",
         "Celiete Souza (129373172711439): Eu vou pra Jequiti também kkkkk",
-        "Lailson Nathan. (272048228188398): Estou pensando em ir para SP o Rio já deu oque tinha que dar."
+        "Lailson Nathan. (272048228188398): Estou pensando em ir para SP o Rio já deu oque tinha que dar.",
+        "Lailson Nathan. (272048228188398): SP tem mais oportunidades.",
+        "Gabriel (145381035905262): Vai pra lá, em dezembro já tá pronto lá, só puxar a cadeira e pau na máquina, venda até o talo"
       ]
     },
     "120363428464897153@g.us": {
@@ -17737,18 +17737,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "2135320166432",
-        "authorName": "Anderson",
-        "text": "Anderson Silva \n34 anos\nIlhéus -bahia",
-        "timestamp": 1787967376899
-      },
-      {
-        "authorNum": "2135320166432",
-        "authorName": "Anderson",
-        "text": "Boa noite",
-        "timestamp": 1787967379188
-      },
-      {
         "authorNum": "129373172711439",
         "authorName": "Celiete Souza",
         "text": "Boa noite",
@@ -18047,6 +18035,18 @@
         "authorName": "Lailson Nathan.",
         "text": "Estou pensando em ir para SP o Rio já deu oque tinha que dar.",
         "timestamp": 1787969152239
+      },
+      {
+        "authorNum": "272048228188398",
+        "authorName": "Lailson Nathan.",
+        "text": "SP tem mais oportunidades.",
+        "timestamp": 1787969186054
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Vai pra lá, em dezembro já tá pronto lá, só puxar a cadeira e pau na máquina, venda até o talo",
+        "timestamp": 1787969202744
       }
     ],
     "120363428464897153@g.us": [
@@ -18223,7 +18223,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22767,
+    "120363432018531082@g.us": 22769,
     "120363428464897153@g.us": 6400,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2209,
@@ -148825,6 +148825,18 @@
         "text": "Estou pensando em ir para SP o Rio já deu oque tinha que dar.",
         "pushName": "Lailson Nathan.",
         "timestamp": 1787969152239
+      },
+      "AC86ED1981EC09E3FA2804E67AFF81E8": {
+        "sender": "272048228188398@lid",
+        "text": "SP tem mais oportunidades.",
+        "pushName": "Lailson Nathan.",
+        "timestamp": 1787969186058
+      },
+      "AC90C3A8B70CD21CA9E5F8171BDA4957": {
+        "sender": "145381035905262@lid",
+        "text": "Vai pra lá, em dezembro já tá pronto lá, só puxar a cadeira e pau na máquina, venda até o talo",
+        "pushName": "Gabriel",
+        "timestamp": 1787969202744
       }
     },
     "120363428464897153@g.us": {
@@ -203738,7 +203750,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787969155167,
+    "120363432018531082@g.us": 1787969202744,
     "120363428464897153@g.us": 1787969043223,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787964813002,
