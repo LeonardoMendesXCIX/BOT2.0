@@ -174,14 +174,14 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1725,
-        "media": 482,
-        "total": 2207
+        "text": 1727,
+        "media": 483,
+        "total": 2210
       },
       "81991328395336": {
-        "text": 3976,
-        "media": 1360,
-        "total": 5336
+        "text": 3979,
+        "media": 1361,
+        "total": 5340
       },
       "179040627490824": {
         "text": 433,
@@ -2864,9 +2864,9 @@
         "total": 72
       },
       "2135320166432": {
-        "text": 33,
+        "text": 35,
         "media": 3,
-        "total": 36
+        "total": 38
       },
       "239371546579166": {
         "text": 2,
@@ -10490,7 +10490,12 @@
         "Anderson (+2135320166432): 😂😂😂😂",
         "Celiete Souza (129373172711439): Tenho traumas com ronco kkkk",
         "Anderson (+2135320166432): Haha ja se foi o tempo",
-        "Celiete Souza (129373172711439): Dormia com um trator"
+        "Celiete Souza (129373172711439): Dormia com um trator",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): É duas.",
+        "Anderson (+2135320166432): Graças a Deus que quem dormir comigo não terá esse desespero",
+        "Celiete Souza (129373172711439): Complicado viu",
+        "Anderson (+2135320166432): Ainda bem que sou de boa",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Tem uns que ronca que se engasga"
       ]
     },
     "120363428464897153@g.us": {
@@ -17987,6 +17992,36 @@
         "authorName": "Celiete Souza",
         "text": "Dormia com um trator",
         "timestamp": 1787972807518
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "É duas.",
+        "timestamp": 1787972818614
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Graças a Deus que quem dormir comigo não terá esse desespero",
+        "timestamp": 1787972821217
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Complicado viu",
+        "timestamp": 1787972844803
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Ainda bem que sou de boa",
+        "timestamp": 1787972853602
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "Tem uns que ronca que se engasga",
+        "timestamp": 1787972859621
       }
     ],
     "120363428464897153@g.us": [
@@ -18092,7 +18127,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22841,
+    "120363432018531082@g.us": 22846,
     "120363428464897153@g.us": 6402,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2227,
@@ -149138,6 +149173,36 @@
         "text": "Dormia com um trator",
         "pushName": "Celiete Souza",
         "timestamp": 1787972807518
+      },
+      "ACD187EC83C98B7875358AE8FEFEBF8A": {
+        "sender": "81991328395336@lid",
+        "text": "É duas.",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787972818614
+      },
+      "ACAD3669F3479E3A91B59B0EC43F801D": {
+        "sender": "2135320166432@lid",
+        "text": "Graças a Deus que quem dormir comigo não terá esse desespero",
+        "pushName": "Anderson",
+        "timestamp": 1787972821217
+      },
+      "AC960BA038C761A821D8B808FDF0774B": {
+        "sender": "129373172711439@lid",
+        "text": "Complicado viu",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787972844803
+      },
+      "AC28C2DE10BF095D34D1BD6BC6AB0E4B": {
+        "sender": "2135320166432@lid",
+        "text": "Ainda bem que sou de boa",
+        "pushName": "Anderson",
+        "timestamp": 1787972853602
+      },
+      "AC3E8E0E0BC18324C9702EDEC6A13FBA": {
+        "sender": "81991328395336@lid",
+        "text": "Tem uns que ronca que se engasga",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787972859621
       }
     },
     "120363428464897153@g.us": {
@@ -204171,7 +204236,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787972807518,
+    "120363432018531082@g.us": 1787972859621,
     "120363428464897153@g.us": 1787972707416,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787972789844,
