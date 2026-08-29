@@ -2864,9 +2864,9 @@
         "total": 72
       },
       "2135320166432": {
-        "text": 56,
+        "text": 58,
         "media": 9,
-        "total": 65
+        "total": 67
       },
       "239371546579166": {
         "text": 2,
@@ -10540,7 +10540,9 @@
         "Celiete Souza (129373172711439): Nem sei quem é kkkk",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Joguei ela lá no grupo",
         "Leandro (+55 (11) 92701-8683): Ela e mais quantas?",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Postei 730 AGR a noite"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Postei 730 AGR a noite",
+        "Anderson (+2135320166432): Qual foi o intuito de fazer o grupo?",
+        "Anderson (+2135320166432): Já conseguiram arma algum casal aqui ?"
       ]
     },
     "120363428464897153@g.us": {
@@ -18313,6 +18315,18 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Postei 730 AGR a noite",
         "timestamp": 1787973755745
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Qual foi o intuito de fazer o grupo?",
+        "timestamp": 1787973786810
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Já conseguiram arma algum casal aqui ?",
+        "timestamp": 1787973800569
       }
     ],
     "120363428464897153@g.us": [
@@ -18382,7 +18396,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22891,
+    "120363432018531082@g.us": 22893,
     "120363428464897153@g.us": 6402,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2227,
@@ -149728,6 +149742,18 @@
         "text": "Postei 730 AGR a noite",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787973755745
+      },
+      "AC4316FA2A1F6019FD06D209241651B5": {
+        "sender": "2135320166432@lid",
+        "text": "Qual foi o intuito de fazer o grupo?",
+        "pushName": "Anderson",
+        "timestamp": 1787973786811
+      },
+      "ACDD366257F2B5B2FEA48440A68D2003": {
+        "sender": "2135320166432@lid",
+        "text": "Já conseguiram arma algum casal aqui ?",
+        "pushName": "Anderson",
+        "timestamp": 1787973800569
       }
     },
     "120363428464897153@g.us": {
@@ -204761,7 +204787,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787973767694,
+    "120363432018531082@g.us": 1787973800569,
     "120363428464897153@g.us": 1787972707416,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787972789844,
