@@ -287,9 +287,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2437,
+        "text": 2438,
         "media": 342,
-        "total": 2779
+        "total": 2780
       },
       "252922705240205": {
         "text": 80,
@@ -462,9 +462,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1812,
+        "text": 1813,
         "media": 371,
-        "total": 2183
+        "total": 2184
       },
       "252600633041077": {
         "text": 1,
@@ -3573,9 +3573,9 @@
         "total": 675
       },
       "53537388122141": {
-        "text": 845,
+        "text": 847,
         "media": 67,
-        "total": 912
+        "total": 914
       },
       "120363412288900422": {
         "text": 1,
@@ -7237,7 +7237,9 @@
         "Wagner Cabral: Mano",
         "Wagner Cabral: E sábado",
         "Wagner Cabral: Geral ta curtindo",
-        "Wagner Cabral: E eu em casa"
+        "Wagner Cabral: E eu em casa",
+        "Sabrina Bartolucci 🤌🏻: Vou curtir a noite",
+        "Leandro: !m"
       ]
     },
     "120363428464897153@g.us": {
@@ -9973,7 +9975,9 @@
         "Leandro: @all",
         "Sabrina Bartolucci 🤌🏻: Oxi",
         "Sabrina Bartolucci 🤌🏻: A Layse saiu pq???",
-        "Leandro: Ela tá resolvendo o negócio com o celular dela"
+        "Leandro: Ela tá resolvendo o negócio com o celular dela",
+        "Sabrina Bartolucci 🤌🏻: Ata",
+        "Sabrina Bartolucci 🤌🏻: Ok"
       ]
     },
     "120363411233423709@g.us": {},
@@ -10566,6 +10570,18 @@
         "authorName": "Wagner Cabral",
         "text": "E eu em casa",
         "timestamp": 1788026487607
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Vou curtir a noite",
+        "timestamp": 1788026515801
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!m",
+        "timestamp": 1788026525857
       }
     ],
     "120363428464897153@g.us": [],
@@ -10624,6 +10640,18 @@
         "authorName": "Leandro",
         "text": "Ela tá resolvendo o negócio com o celular dela",
         "timestamp": 1788026512007
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Ata",
+        "timestamp": 1788026524670
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Ok",
+        "timestamp": 1788026544319
       }
     ],
     "120363411233423709@g.us": [],
@@ -10641,10 +10669,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22,
+    "120363432018531082@g.us": 24,
     "120363428464897153@g.us": 6425,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2254,
+    "120363412288900422@g.us": 2256,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -10952,6 +10980,18 @@
         "text": "E eu em casa",
         "pushName": "Wagner Cabral",
         "timestamp": 1788026487607
+      },
+      "AC4EEFE38AC437810156B11ACC5010E5": {
+        "sender": "53537388122141@lid",
+        "text": "Vou curtir a noite",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1788026515801
+      },
+      "A54633E54600456E929A190BD8FBA428": {
+        "sender": "54259127210155@lid",
+        "text": "!m",
+        "pushName": "Leandro",
+        "timestamp": 1788026525857
       }
     },
     "120363428464897153@g.us": {},
@@ -11064,6 +11104,18 @@
         "text": "Ela tá resolvendo o negócio com o celular dela",
         "pushName": "Leandro",
         "timestamp": 1788026512007
+      },
+      "AC4DA79662FDE09492D18319E8617FAC": {
+        "sender": "53537388122141@lid",
+        "text": "Ata",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1788026524670
+      },
+      "AC4275C77B1EE5FF9F098577967AC5A4": {
+        "sender": "53537388122141@lid",
+        "text": "Ok",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1788026544319
       }
     },
     "120363411233423709@g.us": {},
@@ -11169,10 +11221,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788026512855,
+    "120363432018531082@g.us": 1788026525857,
     "120363428464897153@g.us": 1787976748279,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1788026512007,
+    "120363412288900422@g.us": 1788026544319,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
