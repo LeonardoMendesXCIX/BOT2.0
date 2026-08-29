@@ -287,9 +287,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2438,
-        "media": 342,
-        "total": 2780
+        "text": 2439,
+        "media": 343,
+        "total": 2782
       },
       "252922705240205": {
         "text": 80,
@@ -2667,9 +2667,9 @@
         "total": 2
       },
       "274384656834700": {
-        "text": 113,
+        "text": 114,
         "media": 22,
-        "total": 135
+        "total": 136
       },
       "172868239380659": {
         "text": 182,
@@ -7244,7 +7244,8 @@
         "Dany: Talvez",
         "Dany: A etiqueta não aparece quando se responde a conversa do outro, pode ser que ele não tenha visto mesmo 💁🏻‍♀️",
         "Souza: Onde é isso?",
-        "Gleydson Souza: Jubs Goiânia"
+        "Gleydson Souza: Jubs Goiânia",
+        "Sabrina Bartolucci 🤌🏻: Qualquer coisa, é facão"
       ]
     },
     "120363428464897153@g.us": {
@@ -10617,6 +10618,12 @@
         "authorName": "Gleydson Souza",
         "text": "Jubs Goiânia",
         "timestamp": 1788026919825
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Qualquer coisa, é facão",
+        "timestamp": 1788026946797
       }
     ],
     "120363428464897153@g.us": [],
@@ -10704,7 +10711,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 29,
+    "120363432018531082@g.us": 30,
     "120363428464897153@g.us": 6425,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2256,
@@ -11057,6 +11064,12 @@
         "text": "Jubs Goiânia",
         "pushName": "Gleydson Souza",
         "timestamp": 1788026919825
+      },
+      "AC179EFE9BB42AFA3F098DA6B65C4C96": {
+        "sender": "53537388122141@lid",
+        "text": "Qualquer coisa, é facão",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1788026946797
       }
     },
     "120363428464897153@g.us": {},
@@ -11286,7 +11299,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788026919825,
+    "120363432018531082@g.us": 1788026959475,
     "120363428464897153@g.us": 1787976748279,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788026544319,
