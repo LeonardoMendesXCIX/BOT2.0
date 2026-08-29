@@ -293,9 +293,9 @@
         "total": 464
       },
       "262182034002040": {
-        "text": 1901,
+        "text": 1902,
         "media": 123,
-        "total": 2024
+        "total": 2025
       },
       "219245581488326": {
         "text": 4,
@@ -2875,9 +2875,9 @@
         "total": 78
       },
       "81991328395336": {
-        "text": 592,
+        "text": 593,
         "media": 169,
-        "total": 761
+        "total": 762
       },
       "99338701258949": {
         "text": 499,
@@ -3465,9 +3465,9 @@
         "total": 1
       },
       "190864487919667": {
-        "text": 70,
+        "text": 71,
         "media": 14,
-        "total": 84
+        "total": 85
       },
       "118515428286715": {
         "text": 22,
@@ -3486,8 +3486,8 @@
       },
       "75797868064796": {
         "text": 5,
-        "media": 9,
-        "total": 14
+        "media": 10,
+        "total": 15
       },
       "153764728184839": {
         "text": 4,
@@ -14597,7 +14597,9 @@
         "Gleydson Souza (274384656834700): Mandar",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Vou dá as contas do bot daqui viu",
         "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @54259127210155 ?",
-        "Souza (190864487919667): Abriu esse diaxo"
+        "Souza (190864487919667): Abriu esse diaxo",
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): As mulheres passa o dia todo falando do kbaré \nNa hora q abre elas somi",
+        "Souza (190864487919667): Pois é né"
       ]
     },
     "120363409727467494@g.us": {
@@ -18047,6 +18049,18 @@
         "authorName": "Souza",
         "text": "Abriu esse diaxo",
         "timestamp": 1787962708331
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "text": "As mulheres passa o dia todo falando do kbaré \nNa hora q abre elas somi",
+        "timestamp": 1787962779109
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Pois é né",
+        "timestamp": 1787962788164
       }
     ],
     "120363409727467494@g.us": [],
@@ -18169,7 +18183,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 22688,
-    "120363428464897153@g.us": 6291,
+    "120363428464897153@g.us": 6293,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2207,
     "120363411233423709@g.us": 5,
@@ -185234,6 +185248,18 @@
         "text": "Abriu esse diaxo",
         "pushName": "Souza",
         "timestamp": 1787962708331
+      },
+      "AC5A14DB77E8E40A0C29BEBD4DD46FA7": {
+        "sender": "81991328395336@lid",
+        "text": "As mulheres passa o dia todo falando do kbaré \nNa hora q abre elas somi",
+        "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
+        "timestamp": 1787962779109
+      },
+      "ACF519B60290A90D0954A85B9B7E7740": {
+        "sender": "190864487919667@lid",
+        "text": "Pois é né",
+        "pushName": "Souza",
+        "timestamp": 1787962788164
       }
     },
     "120363409727467494@g.us": {
@@ -202561,8 +202587,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787962753413,
-    "120363428464897153@g.us": 1787962756776,
+    "120363432018531082@g.us": 1787962775476,
+    "120363428464897153@g.us": 1787962788164,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787962621824,
     "120363411233423709@g.us": 1787113553426,
