@@ -175,8 +175,8 @@
       },
       "129373172711439": {
         "text": 1708,
-        "media": 476,
-        "total": 2184
+        "media": 477,
+        "total": 2185
       },
       "81991328395336": {
         "text": 3971,
@@ -189,9 +189,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2262,
+        "text": 2263,
         "media": 479,
-        "total": 2741
+        "total": 2742
       },
       "184237705699536": {
         "text": 524,
@@ -1549,9 +1549,9 @@
         "total": 4
       },
       "272048228188398": {
-        "text": 94,
+        "text": 95,
         "media": 17,
-        "total": 111
+        "total": 112
       },
       "55959196049495": {
         "text": 6,
@@ -9961,8 +9961,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Celiete Souza (129373172711439): @53537388122141 sei que entraram muitas pessoas e eu não vi, mas desejo boas vindas a todos, e queria ver quem entrou 😬",
-        "Gabriel (145381035905262): Roubado na cara dura",
         "Jessica (208958782488665): To em reunião aqui 🥱",
         "Celiete Souza (129373172711439): Marquei errado kkkkkk",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Tava respondendo 😂",
@@ -10460,7 +10458,9 @@
         "Lailson Nathan. (272048228188398): Eai meu e os negócios imobiliário nada?",
         "Gabriel (145381035905262): Mano os cara aqui falaram que eu trabalho na Jequiti 🤣🤣🤣 tu conta ou eu conto",
         "Gabriel (145381035905262): Tá rodando né paeee",
-        "Lailson Nathan. (272048228188398): Pode contar."
+        "Lailson Nathan. (272048228188398): Pode contar.",
+        "Lailson Nathan. (272048228188398): E aqui em sp nada ainda?",
+        "Gabriel (145381035905262): Vamos montar imobiliária em são Paulo"
       ]
     },
     "120363428464897153@g.us": {
@@ -18023,6 +18023,18 @@
         "authorName": "Lailson Nathan.",
         "text": "Pode contar.",
         "timestamp": 1787969100038
+      },
+      {
+        "authorNum": "272048228188398",
+        "authorName": "Lailson Nathan.",
+        "text": "E aqui em sp nada ainda?",
+        "timestamp": 1787969119593
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Vamos montar imobiliária em são Paulo",
+        "timestamp": 1787969121735
       }
     ],
     "120363428464897153@g.us": [
@@ -18199,7 +18211,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22763,
+    "120363432018531082@g.us": 22765,
     "120363428464897153@g.us": 6400,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2209,
@@ -148777,6 +148789,18 @@
         "text": "Pode contar.",
         "pushName": "Lailson Nathan.",
         "timestamp": 1787969100038
+      },
+      "ACC28D8659DAE5430863FD735E40CB45": {
+        "sender": "272048228188398@lid",
+        "text": "E aqui em sp nada ainda?",
+        "pushName": "Lailson Nathan.",
+        "timestamp": 1787969119593
+      },
+      "AC99E0C93DFA46B31BE23A0C130AA1C8": {
+        "sender": "145381035905262@lid",
+        "text": "Vamos montar imobiliária em são Paulo",
+        "pushName": "Gabriel",
+        "timestamp": 1787969121735
       }
     },
     "120363428464897153@g.us": {
@@ -203690,7 +203714,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787969105131,
+    "120363432018531082@g.us": 1787969121735,
     "120363428464897153@g.us": 1787969043223,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787964813002,
