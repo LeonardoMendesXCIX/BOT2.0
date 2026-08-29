@@ -2864,9 +2864,9 @@
         "total": 72
       },
       "2135320166432": {
-        "text": 71,
+        "text": 72,
         "media": 9,
-        "total": 80
+        "total": 81
       },
       "239371546579166": {
         "text": 2,
@@ -10574,7 +10574,8 @@
         "Leandro (+55 (11) 92701-8683): Kbaré",
         "Anderson (+2135320166432): Sei qual é não",
         "Leandro (+55 (11) 92701-8683): Acesse este link para entrar no meu grupo do WhatsApp: https://chat.whatsapp.com/CS9G5GGA1nq0Ix6dP4CQX5?s=sw&p=a&mlu=4",
-        "Leandro (+55 (11) 92701-8683): Esse jovem"
+        "Leandro (+55 (11) 92701-8683): Esse jovem",
+        "Anderson (+2135320166432): Ah blz"
       ]
     },
     "120363428464897153@g.us": {
@@ -17896,18 +17897,6 @@
       {
         "authorNum": "81991328395336",
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Joguei ela lá no grupo",
-        "timestamp": 1787973696310
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Ela e mais quantas?",
-        "timestamp": 1787973708956
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Postei 730 AGR a noite",
         "timestamp": 1787973755745
       },
@@ -18114,6 +18103,12 @@
         "authorName": "Leandro",
         "text": "Esse jovem",
         "timestamp": 1787975468387
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Ah blz",
+        "timestamp": 1787975516297
       }
     ],
     "120363428464897153@g.us": [
@@ -18237,7 +18232,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22925,
+    "120363432018531082@g.us": 22926,
     "120363428464897153@g.us": 6418,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2227,
@@ -149787,6 +149782,12 @@
         "text": "Esse jovem",
         "pushName": "Leandro",
         "timestamp": 1787975468387
+      },
+      "AC15B8C18E652FCAABBE7D8EEE942D10": {
+        "sender": "2135320166432@lid",
+        "text": "Ah blz",
+        "pushName": "Anderson",
+        "timestamp": 1787975516297
       }
     },
     "120363428464897153@g.us": {
@@ -204922,7 +204923,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787975468387,
+    "120363432018531082@g.us": 1787975516297,
     "120363428464897153@g.us": 1787975461200,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787972789844,
