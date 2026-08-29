@@ -3550,9 +3550,9 @@
         "total": 615
       },
       "5511927018683": {
-        "text": 633,
+        "text": 638,
         "media": 114,
-        "total": 747
+        "total": 752
       },
       "145381035905262": {
         "text": 508,
@@ -17389,6 +17389,10 @@
         "Leandro: !status",
         "Leandro: !voz esse é um texto teste para ver como funciona o comando",
         "Leandro: !enquete",
+        "Leandro: !del",
+        "Leandro: !del",
+        "Leandro: !del",
+        "Leandro: !del",
         "Leandro: !del"
       ]
     },
@@ -17952,6 +17956,30 @@
         "authorName": "Leandro",
         "text": "!del",
         "timestamp": 1787982597199
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!del",
+        "timestamp": 1787982604591
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!del",
+        "timestamp": 1787982617602
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!del",
+        "timestamp": 1787982621334
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!del",
+        "timestamp": 1787982631302
       }
     ],
     "120363411233423709@g.us": [],
@@ -17971,7 +17999,7 @@
     "120363432018531082@g.us": 22930,
     "120363428464897153@g.us": 6425,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2241,
+    "120363412288900422@g.us": 2245,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 21,
@@ -201916,6 +201944,30 @@
         "text": "!del",
         "pushName": "Leandro",
         "timestamp": 1787982597199
+      },
+      "A55CA4FBC05D41C852616255A8300EEB": {
+        "sender": "54259127210155@lid",
+        "text": "!del",
+        "pushName": "Leandro",
+        "timestamp": 1787982604591
+      },
+      "A5658AAA67C5E7CA2EB7C24C4D76108A": {
+        "sender": "54259127210155@lid",
+        "text": "!del",
+        "pushName": "Leandro",
+        "timestamp": 1787982617602
+      },
+      "A565FDAD006FA1371F670DD66176B68D": {
+        "sender": "54259127210155@lid",
+        "text": "!del",
+        "pushName": "Leandro",
+        "timestamp": 1787982621334
+      },
+      "A5CA92E81E0A563A7E4F2A74BEFB3EB0": {
+        "sender": "54259127210155@lid",
+        "text": "!del",
+        "pushName": "Leandro",
+        "timestamp": 1787982631302
       }
     },
     "120363411233423709@g.us": {
@@ -204818,7 +204870,7 @@
     "120363432018531082@g.us": 1787975825989,
     "120363428464897153@g.us": 1787976748279,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1787982597199,
+    "120363412288900422@g.us": 1787982631302,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
