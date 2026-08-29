@@ -174,9 +174,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1707,
+        "text": 1708,
         "media": 476,
-        "total": 2183
+        "total": 2184
       },
       "81991328395336": {
         "text": 3971,
@@ -189,9 +189,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2260,
+        "text": 2262,
         "media": 479,
-        "total": 2739
+        "total": 2741
       },
       "184237705699536": {
         "text": 524,
@@ -1549,9 +1549,9 @@
         "total": 4
       },
       "272048228188398": {
-        "text": 93,
-        "media": 16,
-        "total": 109
+        "text": 94,
+        "media": 17,
+        "total": 111
       },
       "55959196049495": {
         "text": 6,
@@ -9961,9 +9961,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): @all",
-        "Bruno Aguiar (+1395881181241): Aiaiaiai",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): @92629643563147",
         "Celiete Souza (129373172711439): @53537388122141 sei que entraram muitas pessoas e eu não vi, mas desejo boas vindas a todos, e queria ver quem entrou 😬",
         "Gabriel (145381035905262): Roubado na cara dura",
         "Jessica (208958782488665): To em reunião aqui 🥱",
@@ -10460,7 +10457,10 @@
         "Lailson Nathan. (272048228188398): Sócio de que meu?",
         "Gabriel (145381035905262): Startup",
         "Lailson Nathan. (272048228188398): Saquei.",
-        "Lailson Nathan. (272048228188398): Eai meu e os negócios imobiliário nada?"
+        "Lailson Nathan. (272048228188398): Eai meu e os negócios imobiliário nada?",
+        "Gabriel (145381035905262): Mano os cara aqui falaram que eu trabalho na Jequiti 🤣🤣🤣 tu conta ou eu conto",
+        "Gabriel (145381035905262): Tá rodando né paeee",
+        "Lailson Nathan. (272048228188398): Pode contar."
       ]
     },
     "120363428464897153@g.us": {
@@ -18005,6 +18005,24 @@
         "authorName": "Lailson Nathan.",
         "text": "Eai meu e os negócios imobiliário nada?",
         "timestamp": 1787969077030
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Mano os cara aqui falaram que eu trabalho na Jequiti 🤣🤣🤣 tu conta ou eu conto",
+        "timestamp": 1787969079050
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Tá rodando né paeee",
+        "timestamp": 1787969090375
+      },
+      {
+        "authorNum": "272048228188398",
+        "authorName": "Lailson Nathan.",
+        "text": "Pode contar.",
+        "timestamp": 1787969100038
       }
     ],
     "120363428464897153@g.us": [
@@ -18181,7 +18199,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22760,
+    "120363432018531082@g.us": 22763,
     "120363428464897153@g.us": 6400,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2209,
@@ -148741,6 +148759,24 @@
         "text": "Eai meu e os negócios imobiliário nada?",
         "pushName": "Lailson Nathan.",
         "timestamp": 1787969077030
+      },
+      "ACAE82DD8F4623D163FE48E1A778897F": {
+        "sender": "145381035905262@lid",
+        "text": "Mano os cara aqui falaram que eu trabalho na Jequiti 🤣🤣🤣 tu conta ou eu conto",
+        "pushName": "Gabriel",
+        "timestamp": 1787969079051
+      },
+      "AC411410B75D5BB2F4FA93BE6DD6CC73": {
+        "sender": "145381035905262@lid",
+        "text": "Tá rodando né paeee",
+        "pushName": "Gabriel",
+        "timestamp": 1787969090376
+      },
+      "AC3906FD8819AF3AA2D472BC0A52045C": {
+        "sender": "272048228188398@lid",
+        "text": "Pode contar.",
+        "pushName": "Lailson Nathan.",
+        "timestamp": 1787969100038
       }
     },
     "120363428464897153@g.us": {
@@ -203654,7 +203690,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787969077611,
+    "120363432018531082@g.us": 1787969105131,
     "120363428464897153@g.us": 1787969043223,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787964813002,
