@@ -279,9 +279,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2416,
+        "text": 2417,
         "media": 341,
-        "total": 2757
+        "total": 2758
       },
       "252922705240205": {
         "text": 80,
@@ -2864,9 +2864,9 @@
         "total": 72
       },
       "2135320166432": {
-        "text": 4,
+        "text": 6,
         "media": 1,
-        "total": 5
+        "total": 7
       }
     },
     "120363428464897153@g.us": {
@@ -9956,8 +9956,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Celiete Souza (129373172711439): Tô vivendo apenas kkkkkk",
-        "Gabriel (145381035905262): Você sabe que não",
         "Camila Designer (92629643563147): E eu sobrevivendo 😂😂😂",
         "Camila Designer (92629643563147): Zuando 😂😂😂",
         "Celiete Souza (129373172711439): Boa tarde",
@@ -10455,7 +10453,9 @@
         "Celiete Souza (129373172711439): Tudo bem",
         "Anderson (+2135320166432): Obrigado !",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindo",
-        "Anderson (+2135320166432): Obrigado !"
+        "Anderson (+2135320166432): Obrigado !",
+        "Anderson (+2135320166432): De onde você é?",
+        "Anderson (+2135320166432): De onde você é?"
       ]
     },
     "120363428464897153@g.us": {
@@ -17760,6 +17760,18 @@
         "authorName": "Anderson",
         "text": "Obrigado !",
         "timestamp": 1787967782096
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "De onde você é?",
+        "timestamp": 1787967836365
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "De onde você é?",
+        "timestamp": 1787967842747
       }
     ],
     "120363428464897153@g.us": [
@@ -17990,7 +18002,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22723,
+    "120363432018531082@g.us": 22725,
     "120363428464897153@g.us": 6382,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2209,
@@ -148334,6 +148346,18 @@
         "text": "Obrigado !",
         "pushName": "Anderson",
         "timestamp": 1787967782096
+      },
+      "ACDB806E91941CEA4CFAC1D66C9CAF5E": {
+        "sender": "2135320166432@lid",
+        "text": "De onde você é?",
+        "pushName": "Anderson",
+        "timestamp": 1787967836365
+      },
+      "ACA668774FF8531D052D483E15E5B4EF": {
+        "sender": "2135320166432@lid",
+        "text": "De onde você é?",
+        "pushName": "Anderson",
+        "timestamp": 1787967842747
       }
     },
     "120363428464897153@g.us": {
@@ -203139,7 +203163,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787967782096,
+    "120363432018531082@g.us": 1787967842747,
     "120363428464897153@g.us": 1787967661858,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787964813002,
