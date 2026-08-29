@@ -2834,9 +2834,9 @@
         "total": 5
       },
       "78143406768201": {
-        "text": 9,
+        "text": 10,
         "media": 0,
-        "total": 9
+        "total": 10
       },
       "227783724793861": {
         "text": 23,
@@ -2864,9 +2864,9 @@
         "total": 72
       },
       "2135320166432": {
-        "text": 9,
+        "text": 11,
         "media": 1,
-        "total": 10
+        "total": 12
       }
     },
     "120363428464897153@g.us": {
@@ -9956,9 +9956,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Celiete Souza (129373172711439): Acabei de ver morri rindo 😂",
-        "Celiete Souza (129373172711439): Boazinha hoje 🙏🏼",
-        "Gabriel (145381035905262): O povo inventa 😂😂",
         "Juliano Perlin (222595437858867): Que bomm🙌🏻🤗",
         "Gabriel (145381035905262): @129373172711439  é bom que pensem deste jeito, assim eles não sabem o que realmente faço!",
         "Celiete Souza (129373172711439): Com certeza 🙏🏼",
@@ -10455,7 +10452,10 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bah, adoro",
         "Leandro (+55 (11) 92701-8683): Aí seria muita sacanagem",
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Foi mal aí chefe",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Me demita não"
+        "Sabrina Bartolucci 🤌🏻 (53537388122141): Me demita não",
+        "Kamila (78143406768201): Boa noite",
+        "Anderson (+2135320166432): Posso te chamar no Pv pra gente conversar?",
+        "Anderson (+2135320166432): Boa noite"
       ]
     },
     "120363428464897153@g.us": {
@@ -17869,6 +17869,24 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Me demita não",
         "timestamp": 1787968299237
+      },
+      {
+        "authorNum": "78143406768201",
+        "authorName": "Kamila",
+        "text": "Boa noite",
+        "timestamp": 1787968602288
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Posso te chamar no Pv pra gente conversar?",
+        "timestamp": 1787968626228
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Boa noite",
+        "timestamp": 1787968637320
       }
     ],
     "120363428464897153@g.us": [
@@ -18093,7 +18111,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22739,
+    "120363432018531082@g.us": 22742,
     "120363428464897153@g.us": 6395,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2209,
@@ -148533,6 +148551,24 @@
         "text": "Me demita não",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1787968299237
+      },
+      "AC5DCC6A37CC704BC08F2CAFED42ADB2": {
+        "sender": "78143406768201@lid",
+        "text": "Boa noite",
+        "pushName": "Kamila",
+        "timestamp": 1787968602288
+      },
+      "AC29726A69E7B8D6DD337870ABE2AB5F": {
+        "sender": "2135320166432@lid",
+        "text": "Posso te chamar no Pv pra gente conversar?",
+        "pushName": "Anderson",
+        "timestamp": 1787968626228
+      },
+      "AC7C3D6DF709B6684CD7E360398F3E21": {
+        "sender": "2135320166432@lid",
+        "text": "Boa noite",
+        "pushName": "Anderson",
+        "timestamp": 1787968637320
       }
     },
     "120363428464897153@g.us": {
@@ -203416,7 +203452,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787968301317,
+    "120363432018531082@g.us": 1787968637320,
     "120363428464897153@g.us": 1787968581415,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787964813002,
