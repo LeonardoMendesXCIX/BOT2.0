@@ -189,9 +189,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2264,
+        "text": 2266,
         "media": 479,
-        "total": 2743
+        "total": 2745
       },
       "184237705699536": {
         "text": 524,
@@ -1549,9 +1549,9 @@
         "total": 4
       },
       "272048228188398": {
-        "text": 99,
+        "text": 100,
         "media": 17,
-        "total": 116
+        "total": 117
       },
       "55959196049495": {
         "text": 6,
@@ -3132,8 +3132,8 @@
       },
       "129373172711439": {
         "text": 955,
-        "media": 254,
-        "total": 1209
+        "media": 255,
+        "total": 1210
       },
       "16007578021977": {
         "text": 57,
@@ -9961,9 +9961,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Gabriel (145381035905262): O que tu fez ?",
-        "Souza (190864487919667): Já mandei já",
-        "Camila Designer (92629643563147): Hidratação e escova nos cabelos 😂😂😂",
         "Camila Designer (92629643563147): Queria cortar, mas controlei",
         "Gabriel (145381035905262): Boa,.ficou jóia",
         "Celiete Souza (129373172711439): Eu sou uma anja",
@@ -10460,7 +10457,10 @@
         "Gabriel (145381035905262): Vai pra lá, em dezembro já tá pronto lá, só puxar a cadeira e pau na máquina, venda até o talo",
         "Lailson Nathan. (272048228188398): Nem se compara.",
         "Lailson Nathan. (272048228188398): Mais tem que ser papo sério pô.",
-        "Dany (262182034002040): Ala vem concorrência lkkkkk"
+        "Dany (262182034002040): Ala vem concorrência lkkkkk",
+        "Gabriel (145381035905262): Tu que arregou, não me venha com história, tu sabe disso",
+        "Lailson Nathan. (272048228188398): Quero ir e fazer história, construir um legado irmão.",
+        "Gabriel (145381035905262): Então tá"
       ]
     },
     "120363428464897153@g.us": {
@@ -17737,12 +17737,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Boa noite",
-        "timestamp": 1787967457411
-      },
-      {
         "authorNum": "2135320166432",
         "authorName": "Anderson",
         "text": "Tudo bem ?",
@@ -18065,6 +18059,24 @@
         "authorName": "Dany",
         "text": "Ala vem concorrência lkkkkk",
         "timestamp": 1787969236498
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Tu que arregou, não me venha com história, tu sabe disso",
+        "timestamp": 1787969263109
+      },
+      {
+        "authorNum": "272048228188398",
+        "authorName": "Lailson Nathan.",
+        "text": "Quero ir e fazer história, construir um legado irmão.",
+        "timestamp": 1787969263726
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Então tá",
+        "timestamp": 1787969275060
       }
     ],
     "120363428464897153@g.us": [
@@ -18241,7 +18253,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22772,
+    "120363432018531082@g.us": 22775,
     "120363428464897153@g.us": 6400,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2209,
@@ -148873,6 +148885,24 @@
         "text": "Ala vem concorrência lkkkkk",
         "pushName": "Dany",
         "timestamp": 1787969236498
+      },
+      "ACCA4EDDED91C793089C4429FB150B24": {
+        "sender": "145381035905262@lid",
+        "text": "Tu que arregou, não me venha com história, tu sabe disso",
+        "pushName": "Gabriel",
+        "timestamp": 1787969263109
+      },
+      "ACA64C48E3729CF623BCC666750F453C": {
+        "sender": "272048228188398@lid",
+        "text": "Quero ir e fazer história, construir um legado irmão.",
+        "pushName": "Lailson Nathan.",
+        "timestamp": 1787969263726
+      },
+      "ACDF7D9E72FC03FF41A741B516CDEECF": {
+        "sender": "145381035905262@lid",
+        "text": "Então tá",
+        "pushName": "Gabriel",
+        "timestamp": 1787969275061
       }
     },
     "120363428464897153@g.us": {
@@ -203786,8 +203816,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787969236498,
-    "120363428464897153@g.us": 1787969043223,
+    "120363432018531082@g.us": 1787969275060,
+    "120363428464897153@g.us": 1787969267605,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787964813002,
     "120363411233423709@g.us": 1787113553426,
