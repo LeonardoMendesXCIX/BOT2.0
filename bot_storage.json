@@ -189,9 +189,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2258,
+        "text": 2259,
         "media": 479,
-        "total": 2737
+        "total": 2738
       },
       "184237705699536": {
         "text": 524,
@@ -454,9 +454,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1792,
+        "text": 1793,
         "media": 363,
-        "total": 2155
+        "total": 2156
       },
       "252600633041077": {
         "text": 1,
@@ -2834,9 +2834,9 @@
         "total": 5
       },
       "78143406768201": {
-        "text": 13,
+        "text": 14,
         "media": 0,
-        "total": 13
+        "total": 14
       },
       "227783724793861": {
         "text": 23,
@@ -2916,9 +2916,9 @@
         "total": 120
       },
       "1645576491019": {
-        "text": 336,
+        "text": 337,
         "media": 132,
-        "total": 468
+        "total": 469
       },
       "262182034002040": {
         "text": 331,
@@ -3131,9 +3131,9 @@
         "total": 9
       },
       "129373172711439": {
-        "text": 954,
+        "text": 955,
         "media": 253,
-        "total": 1207
+        "total": 1208
       },
       "16007578021977": {
         "text": 57,
@@ -9961,9 +9961,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Celiete Souza (129373172711439): Muita chuva, agora parou",
-        "Celiete Souza (129373172711439): Tamo junto 🫶🏻😂😂😂",
-        "Celiete Souza (129373172711439): Sim, agora vou desopilar kkkk",
         "Bruno Aguiar (+1395881181241): Por aqui está chovendo,fazer oq",
         "Celiete Souza (129373172711439): E encomodar aqui",
         "🙃🙃🙃 (11171897864256): 🤔",
@@ -10460,7 +10457,10 @@
         " (120363432018531082): Boa Noite !!\n\nNome: Ricardo viegas  \n\n Idade 33.\n\nSou de Belém do Pará",
         "Gabriel (145381035905262): Business",
         "Kamila (78143406768201): Seria bom conversar um pouco",
-        "Anderson (+2135320166432): Vou te chamar aí"
+        "Anderson (+2135320166432): Vou te chamar aí",
+        "Kamila (78143406768201): Blz",
+        "Leandro (+55 (11) 92701-8683): Você que decide @81991328395336 😌",
+        "Gabriel (145381035905262): O que ouve ?"
       ]
     },
     "120363428464897153@g.us": {
@@ -14715,7 +14715,9 @@
         "Jose (+1645576491019): Bouuuaaa",
         "Dany (262182034002040): Boa",
         "Gus Henrique 🎮👾🇧🇷🇪🇸 (199733712785531): Boa noite",
-        "Henrique (66743926038604): Boa noite  Bro !"
+        "Henrique (66743926038604): Boa noite  Bro !",
+        "Celiete Souza (129373172711439): Boa noite a todos",
+        "Jose (+1645576491019): Boa noite 💤"
       ]
     },
     "120363409727467494@g.us": {
@@ -17961,21 +17963,27 @@
         "authorName": "Anderson",
         "text": "Vou te chamar aí",
         "timestamp": 1787968898475
+      },
+      {
+        "authorNum": "78143406768201",
+        "authorName": "Kamila",
+        "text": "Blz",
+        "timestamp": 1787968932232
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Você que decide @81991328395336 😌",
+        "timestamp": 1787968943309
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "O que ouve ?",
+        "timestamp": 1787968962513
       }
     ],
     "120363428464897153@g.us": [
-      {
-        "authorNum": "81991328395336",
-        "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
-        "text": "Maranhão",
-        "timestamp": 1787967142628
-      },
-      {
-        "authorNum": "120044990287992",
-        "authorName": "negoh🐻",
-        "text": "Ah",
-        "timestamp": 1787967155156
-      },
       {
         "authorNum": "274384656834700",
         "authorName": "Gleydson Souza",
@@ -18119,6 +18127,18 @@
         "authorName": "Henrique",
         "text": "Boa noite  Bro !",
         "timestamp": 1787968858851
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Boa noite a todos",
+        "timestamp": 1787968945575
+      },
+      {
+        "authorNum": "1645576491019",
+        "authorName": "Jose",
+        "text": "Boa noite 💤",
+        "timestamp": 1787968962231
       }
     ],
     "120363409727467494@g.us": [],
@@ -18137,8 +18157,8 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22753,
-    "120363428464897153@g.us": 6398,
+    "120363432018531082@g.us": 22756,
+    "120363428464897153@g.us": 6400,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2209,
     "120363411233423709@g.us": 5,
@@ -148655,6 +148675,24 @@
         "text": "Vou te chamar aí",
         "pushName": "Anderson",
         "timestamp": 1787968898475
+      },
+      "ACF60F252E4BFB0160C610A6AC370813": {
+        "sender": "78143406768201@lid",
+        "text": "Blz",
+        "pushName": "Kamila",
+        "timestamp": 1787968932232
+      },
+      "A540835EEA074B0420C7CD6DFE4577A9": {
+        "sender": "54259127210155@lid",
+        "text": "Você que decide @81991328395336 😌",
+        "pushName": "Leandro",
+        "timestamp": 1787968943310
+      },
+      "AC94443ECC164A44A7A8BAFF707CF824": {
+        "sender": "145381035905262@lid",
+        "text": "O que ouve ?",
+        "pushName": "Gabriel",
+        "timestamp": 1787968962513
       }
     },
     "120363428464897153@g.us": {
@@ -186217,6 +186255,18 @@
         "text": "Boa noite  Bro !",
         "pushName": "Henrique",
         "timestamp": 1787968858854
+      },
+      "AC20A5FD473A6E1C964D6F001DCD1CC6": {
+        "sender": "129373172711439@lid",
+        "text": "Boa noite a todos",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787968945575
+      },
+      "3A328C6390076D9782A5": {
+        "sender": "1645576491019@lid",
+        "text": "Boa noite 💤",
+        "pushName": "Jose",
+        "timestamp": 1787968962231
       }
     },
     "120363409727467494@g.us": {
@@ -203556,8 +203606,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787968898475,
-    "120363428464897153@g.us": 1787968858851,
+    "120363432018531082@g.us": 1787968962513,
+    "120363428464897153@g.us": 1787968962231,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787964813002,
     "120363411233423709@g.us": 1787113553426,
