@@ -27,9 +27,6 @@ export function setupGroupEvents(sock: WASocket, storage: StorageManager): void 
                 }
             }
 
-            // =================================================================
-            // 1. ENTRADA DE NOVO INTEGRANTE NO GRUPO
-            // =================================================================
             if (action === 'add') {
                 for (const newMemberId of participants) {
                     let realJid = newMemberId;
@@ -64,7 +61,6 @@ export function setupGroupEvents(sock: WASocket, storage: StorageManager): void 
                     const isBrazilianPhone = rawNum.startsWith('55') && (rawNum.length === 12 || rawNum.length === 13);
                     const isLidNumber = rawNum.length > 13;
 
-                    // A. Filtro Anti-Fake / DDI +55
                     const isAntiFakeActive = storage.data.antifake?.[chatId] === true || (!storage.isFeatureDisabled(chatId, 'antifake') && storage.data.antifake?.[chatId] !== false);
 
                     if (isAntiFakeActive && isRealPhoneNumber && !isBrazilianPhone && !isLidNumber) {
@@ -77,29 +73,28 @@ export function setupGroupEvents(sock: WASocket, storage: StorageManager): void 
                                 try {
                                     await sock.groupParticipantsUpdate(chatId, [newMemberId], 'remove');
                                 } catch (e) {
-                                    await sock.groupParticipantsUpdate(chatId, [realJid], 'remove').catch(() => {});
+                                    await sock.groupParticipantsUpdate(chatId, [realJid], 'remove').catch(() => { });
                                 }
 
                                 const displayName = memberInfo.nameAndNumber;
-                                const ddiDisplay = `+${rawNum}`;
+                                const ddiDisplay = '+' + rawNum;
 
                                 await sock.sendMessage(chatId, {
-                                    text: `🛡️ *JARVIS SECURITY (ANTI-FAKE / DDI)* 🛡️\n\n` +
-                                        `👤 *Infrator:* ${displayName}\n` +
-                                        `📱 *Identificação:* ${ddiDisplay}\n` +
-                                        `📝 *Motivo:* Entrada bloqueada por possuir DDI estrangeiro não autorizado (apenas números do Brasil +55 são permitidos).`
+                                    text: '🛡️ *JARVIS SECURITY (ANTI-FAKE / DDI)* 🛡️\n\n' +
+                                        '👤 *Infrator:* ' + displayName + '\n' +
+                                        '📱 *Identificação:* ' + ddiDisplay + '\n' +
+                                        '📝 *Motivo:* Entrada bloqueada por possuir DDI estrangeiro não autorizado (apenas números do Brasil +55 são permitidos).'
                                 });
-                                console.log(`[ANTI-FAKE] Número estrangeiro ${newMemberId} (+${rawNum}) removido do grupo ${chatId}.`);
+                                console.log('[ANTI-FAKE] Número estrangeiro ' + newMemberId + ' (+' + rawNum + ') removido do grupo ' + chatId + '.');
                                 continue;
                             } else {
-                                console.log(`[ANTI-FAKE ALERTA] Número estrangeiro +${rawNum} entrou no grupo ${chatId}, mas o bot precisa ser Administrador para removê-lo.`);
+                                console.log('[ANTI-FAKE ALERTA] Número estrangeiro +' + rawNum + ' entrou no grupo ' + chatId + ', mas o bot precisa ser Administrador para removê-lo.');
                             }
                         } catch (errKick: any) {
                             console.error('[ERRO KICK ANTI-FAKE]', errKick.message);
                         }
                     }
 
-                    // B. Grupo fechado: guarda na fila
                     const isGroupActuallyClosed = groupMeta?.announce === true || storage.isGroupClosed(chatId);
                     if (isGroupActuallyClosed) {
                         if (!storage.data.queuedWelcomes) storage.data.queuedWelcomes = {};
@@ -108,14 +103,13 @@ export function setupGroupEvents(sock: WASocket, storage: StorageManager): void 
                             storage.data.queuedWelcomes[chatId].push(realJid);
                             storage.flagSave();
                         }
-                        console.log(`[GRUPO FECHADO] Novo membro ${memberInfo.nameAndNumber} guardado na fila para abertura.`);
+                        console.log('[GRUPO FECHADO] Novo membro ' + memberInfo.nameAndNumber + ' guardado na fila para abertura.');
                         continue;
                     }
 
-                    // C. Saudação Automática (!sa)
                     if (!storage.isFeatureDisabled(chatId, 'sa')) {
                         const welcomeConfig = storage.data.welcomeMsgs ? storage.data.welcomeMsgs[chatId] : null;
-                        const defaultWelcome = `Seja muito bem-vindo(a) ao grupo!`;
+                        const defaultWelcome = 'Seja muito bem-vindo(a) ao grupo!';
                         let userText = welcomeConfig && welcomeConfig.text ? welcomeConfig.text.trim() : defaultWelcome;
 
                         const nameAndNum = memberInfo.nameAndNumber;
@@ -136,42 +130,39 @@ export function setupGroupEvents(sock: WASocket, storage: StorageManager): void 
                         if (processedText.includes(nameAndNum)) {
                             finalMsg = processedText;
                         } else {
-                            finalMsg = `${processedText}\n\n👋 ${nameAndNum}`;
+                            finalMsg = processedText + '\n\n👋 ' + nameAndNum;
                         }
 
                         const allMentions = Array.from(new Set([memberInfo.jid, newMemberId, realJid])).filter(Boolean);
                         await sock.sendMessage(chatId, { text: finalMsg, mentions: allMentions });
-                        console.log(`[SAUDAÇÃO ENVIADA] Mensagem enviada para ${memberInfo.nameAndNumber} no grupo ${chatId}`);
+                        console.log('[SAUDAÇÃO ENVIADA] Mensagem enviada para ' + memberInfo.nameAndNumber + ' no grupo ' + chatId);
                     }
 
-                    // D. Lembrete de Boas-Vindas (!bv - 15min)
+                    // LEMBRETE BV: agora 5 MINUTOS após a entrada
                     if (!storage.isFeatureDisabled(chatId, 'bv')) {
                         const bvConfig = storage.data.welcomeReminders ? storage.data.welcomeReminders[chatId] : null;
                         if (bvConfig && bvConfig.text) {
                             if (!storage.data.pendingBvReminders) storage.data.pendingBvReminders = [];
-                            const runAtTime = Date.now() + 15 * 60 * 1000;
+                            const runAtTime = Date.now() + 5 * 60 * 1000;
 
                             storage.data.pendingBvReminders.push({
-                                id: `${Date.now()}_${realJid}`,
+                                id: Date.now() + '_' + realJid,
                                 chatId: chatId,
                                 newMemberId: realJid,
                                 runAt: runAtTime
                             });
                             storage.flagSave();
-                            console.log(`[LEMBRETE BV AGENDADO] Lembrete programado para daqui a 15min para ${memberInfo.nameAndNumber}`);
+                            console.log('[LEMBRETE BV AGENDADO] Lembrete programado para daqui a 5min para ' + memberInfo.nameAndNumber);
                         }
                     }
                 }
             }
 
-            // =================================================================
-            // 2. SAÍDA OU REMOÇÃO DE MEMBRO DO GRUPO
-            // =================================================================
             if (action === 'remove') {
                 for (const leftMemberId of participants) {
                     const rawNum = extractRawNumber(leftMemberId);
-                    const realJid = `${rawNum}@s.whatsapp.net`;
-                    const memberInfo = getUserInfo(realJid);
+                    const realJid = rawNum + '@s.whatsapp.net';
+                    const memberInfo = getUserInfo(leftMemberId);
 
                     if (storage.data.queuedWelcomes?.[chatId]) {
                         storage.data.queuedWelcomes[chatId] = storage.data.queuedWelcomes[chatId].filter(id => id !== realJid && id !== leftMemberId);
@@ -190,27 +181,13 @@ export function setupGroupEvents(sock: WASocket, storage: StorageManager): void 
                     const allMentions = Array.from(new Set([memberInfo.jid, leftMemberId, realJid])).filter(Boolean);
 
                     if (isRemovedByAdmin) {
-                        // =====================================================================
-                        // NOVO: MENSAGEM DE REMOÇÃO PERSONALIZÁVEL (!msgradm)
-                        // Suporta os placeholders: {membro}, {nome}, {numero}
-                        // Se o admin não configurou, usa o padrão: "Xiii, acho que o integrante..."
-                        // =====================================================================
-                        const removalConfig = storage.data.removalMsgs ? storage.data.removalMsgs[chatId] : null;
-                        let finalMsg = '';
+                        // Mensagem de remoção PERSONALIZÁVEL via !msgremoveadm (padrão: Nome - Número)
+                        const removalCfg = storage.data.removalMsgs?.[chatId];
+                        const removalText = removalCfg && removalCfg.text
+                            ? removalCfg.text.replace(/\{membro\}/gi, nameAndNum)
+                            : 'Xiii, acho que o integrante ' + nameAndNum + ' fez algo de errado, pois foi removido!';
 
-                        if (removalConfig && removalConfig.text) {
-                            finalMsg = removalConfig.text
-                                .replace(/\{membro\}/gi, nameAndNum)
-                                .replace(/\{nome\}/gi, memberInfo.pushName || memberInfo.formattedNum)
-                                .replace(/\{numero\}/gi, memberInfo.formattedNum);
-                        } else {
-                            finalMsg = `Xiii, acho que o integrante ${nameAndNum} fez algo de errado, pois foi removido!`;
-                        }
-
-                        await sock.sendMessage(chatId, {
-                            text: finalMsg,
-                            mentions: allMentions
-                        });
+                        await sock.sendMessage(chatId, { text: removalText, mentions: allMentions });
                     } else if (!storage.isFeatureDisabled(chatId, 'exit') && !storage.isGroupClosed(chatId)) {
                         const exitConfig = storage.data.exitMsgs ? storage.data.exitMsgs[chatId] : null;
                         if (exitConfig && exitConfig.text) {
@@ -224,7 +201,7 @@ export function setupGroupEvents(sock: WASocket, storage: StorageManager): void 
                             } else if (userText.includes('{numero}')) {
                                 finalMsg = userText.replace(/\{numero\}/gi, memberInfo.formattedNum);
                             } else {
-                                finalMsg = `${userText}\n\n👋 ${nameAndNum}`;
+                                finalMsg = userText + '\n\n👋 ' + nameAndNum;
                             }
 
                             await sock.sendMessage(chatId, { text: finalMsg, mentions: allMentions });

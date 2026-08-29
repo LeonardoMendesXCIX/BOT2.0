@@ -6,8 +6,6 @@ import makeWASocket, {
 import pino from 'pino';
 import qrcode from 'qrcode-terminal';
 import cron from 'node-cron';
-import * as readline from 'readline/promises';
-import { stdin as input, stdout as output } from 'process';
 import { StorageManager } from './database/storage';
 import { handleCommand } from './handlers/commands';
 import { setupGroupEvents } from './handlers/events';
@@ -114,7 +112,7 @@ cron.schedule('* * * * *', async () => {
                     await sockInstance.groupSettingUpdate(chatId, 'not_announcement');
                     storage.setGroupClosed(chatId, false);
                     await sockInstance.sendMessage(chatId, {
-                        text: '🔓 *BOM DIA! PROTOCOLO JARVIS DE ABERTURA:*\n\nO chat foi liberado para todos os membros conversarem conforme o horário programado (' + sched.openTime + ').'
+                        text: '🔓 *BOM DIA! PROTOCOLO BOT DROPHTTP DE ABERTURA:*\n\nO chat foi liberado para todos os membros conversarem conforme o horário programado (' + sched.openTime + ').'
                     });
                     console.log('[AGENDA] Grupo ' + chatId + ' aberto às ' + currentHHMM);
                 } catch (e: any) {
@@ -127,7 +125,7 @@ cron.schedule('* * * * *', async () => {
                     await sockInstance.groupSettingUpdate(chatId, 'announcement');
                     storage.setGroupClosed(chatId, true);
                     await sockInstance.sendMessage(chatId, {
-                        text: '🔒 *BOA NOITE! PROTOCOLO JARVIS DE FECHAMENTO:*\n\nO chat foi fechado para descanso/manutenção conforme o horário programado (' + sched.closeTime + '). Apenas administradores podem enviar mensagens neste momento.'
+                        text: '🔒 *BOA NOITE! PROTOCOLO BOT DROPHTTP DE FECHAMENTO:*\n\nO chat foi fechado para descanso/manutenção conforme o horário programado (' + sched.closeTime + '). Apenas administradores podem enviar mensagens neste momento.'
                     });
                     console.log('[AGENDA] Grupo ' + chatId + ' fechado às ' + currentHHMM);
                 } catch (e: any) {
@@ -166,6 +164,40 @@ cron.schedule('*/5 * * * *', () => {
     storage.purgeExpiredClusters();
 });
 
+// NOVO: ANTIFAKE AUTOMÁTICO — varredura a cada 2 MINUTOS em todos os grupos que o bot é admin
+setInterval(async () => {
+    if (!sockInstance) return;
+    const groupSet = new Set<string>([
+        ...Object.keys(storage.data.groupStats || {}),
+        ...Object.keys(storage.data.antifake || {}),
+        ...Object.keys(storage.data.antilink || {})
+    ]);
+    for (const chatId of groupSet) {
+        try {
+            if (storage.isBotDisabled(chatId)) continue;
+            const antifakeOn = storage.data.antifake?.[chatId] === true || (!storage.isFeatureDisabled(chatId, 'antifake') && storage.data.antifake?.[chatId] !== false);
+            if (!antifakeOn) continue;
+
+            const meta = await sockInstance.groupMetadata(chatId).catch(() => null);
+            if (!meta) continue;
+
+            const botJid = sockInstance.user?.id || '';
+            const me = meta.participants.find(p => p.id === botJid);
+            if (!me || !(me.admin === 'admin' || me.admin === 'superadmin')) continue;
+
+            for (const p of meta.participants) {
+                if (p.admin === 'admin' || p.admin === 'superadmin') continue;
+                const num = extractRawNumber(p.id);
+                const isBr = num.startsWith('55') && (num.length === 12 || num.length === 13);
+                if (!isBr && num.length <= 15 && num.length >= 8) {
+                    await sockInstance.groupParticipantsUpdate(chatId, [p.id], 'remove').catch(() => { });
+                    console.log('[ANTIFAKE AUTO] Removido +' + num + ' do grupo ' + chatId);
+                }
+            }
+        } catch (e) { }
+    }
+}, 2 * 60 * 1000);
+
 setInterval(() => {
     if (lastDisconnectAt > 0) {
         const downMs = Date.now() - lastDisconnectAt;
@@ -202,34 +234,9 @@ async function syncSchedulesOnBoot(sock: any) {
     }
 }
 
-// NOVO: pede o número no terminal quando não há sessão registrada
-async function askPhoneNumber(): Promise<string> {
-    const rl = readline.createInterface({ input, output });
-    console.log('\n╔════════════════════════════════════════════╗');
-    console.log('║   🔑 PAREAMENTO DO WHATSAPP (1ª vez)       ║');
-    console.log('╚════════════════════════════════════════════╝');
-    console.log('Digite o número do WhatsApp que será usado como bot.');
-    console.log('Formato: DDI + DDD + número (somente números, sem espaços, traços ou parênteses).');
-    console.log('Exemplo para SP: 5511987654321\n');
-
-    let phone = '';
-    while (true) {
-        const answer = await rl.question('📱 Número do bot (DDI+DDD+número): ');
-        const clean = answer.replace(/\D/g, '');
-        if (clean.length < 8 || clean.length > 15) {
-            console.log('❌ Número inválido. Deve ter entre 8 e 15 dígitos. Tente novamente.');
-            continue;
-        }
-        phone = clean;
-        break;
-    }
-    rl.close();
-    return phone;
-}
 async function startBot() {
     const { state, saveCreds } = await useMultiFileAuthState('./sessions');
     const { version } = await fetchLatestBaileysVersion();
-    const needPairing = !state.creds.registered;
 
     const sock = makeWASocket({
         version,
@@ -237,7 +244,7 @@ async function startBot() {
         printQRInTerminal: false,
         auth: state,
         syncFullHistory: false,
-        browser: ['JARVIS AUTONOMOUS', 'Chrome', '2.5.0'],
+        browser: ['BOT DROPHTTP', 'Chrome', '2.5.0'],
         getMessage: async (key) => {
             const msgId = key.id;
             const chatId = key.remoteJid;
@@ -250,41 +257,11 @@ async function startBot() {
 
     sockInstance = sock;
 
-    // NOVO: pareamento interativo com prompt no terminal
-    if (needPairing) {
-        try {
-            const phone = await askPhoneNumber();
-            console.log('\n[SISTEMA] ⏳ Solicitando código de pareamento para +' + phone + '...');
-            let code = await sock.requestPairingCode(phone);
-            if (code) {
-                code = (code.match(/.{1,4}/g) || [code]).join('-');
-                console.log('\n╔════════════════════════════════════════════╗');
-                console.log('║   🔑 SEU CÓDIGO DE PAREAMENTO:             ║');
-                console.log('╚════════════════════════════════════════════╝');
-                console.log('\n        ' + code + '\n');
-                console.log('📱 Como usar:');
-                console.log('   1. Abra o WhatsApp no celular');
-                console.log('   2. Vá em Configurações > Aparelhos conectados');
-                console.log('   3. Toque em "Conectar um aparelho"');
-                console.log('   4. Toque em "Conectar com número de telefone"');
-                console.log('   5. Digite o código acima\n');
-                console.log('Aguardando pareamento...\n');
-            } else {
-                console.error('[ERRO] Não foi possível gerar o código de pareamento.');
-            }
-        } catch (e: any) {
-            console.error('[ERRO PAREAMENTO]', e.message);
-            console.log('[SISTEMA] Como fallback, mostrando QR Code abaixo:');
-            // se o pareamento falhar, deixa o QR aparecer no evento
-        }
-    }
-
     sock.ev.on('creds.update', saveCreds);
 
     sock.ev.on('connection.update', (update) => {
         const { connection, lastDisconnect, qr } = update;
-        // mostra QR só se o pareamento não foi solicitado (fallback)
-        if (qr && !needPairing) {
+        if (qr) {
             qrcode.generate(qr, { small: true });
             console.log('\n[SISTEMA] Escaneie o QR Code acima com seu WhatsApp.');
         }
@@ -300,11 +277,14 @@ async function startBot() {
                 setTimeout(() => startBot(), reconnectDelay);
                 reconnectDelay = Math.min(reconnectDelay * 2, 60000);
             } else {
-                console.log('[SISTEMA] ⚠️ Desconectado permanentemente. Apague a pasta ./sessions e reinicie para parear novamente.');
+                console.log('[SISTEMA] ⚠️ Desconectado permanentemente. Apague a pasta ./sessions e reinicie para escanear o QR novamente.');
             }
         } else if (connection === 'open') {
             reconnectDelay = 3000;
-            console.log('[SISTEMA] 🎉 JARVIS BOT2.0 conectado com sucesso!');
+            console.log('[SISTEMA] 🎉 BOT DROPHTTP conectado com sucesso!');
+            if (storage.data.maintenance) {
+                console.log('[SISTEMA] ⚠️ Bot em MODO MANUTENÇÃO. Use !botmanutencao off para voltar.');
+            }
 
             if (lastDisconnectAt > 0) {
                 const downMs = Date.now() - lastDisconnectAt;
@@ -313,7 +293,7 @@ async function startBot() {
                     const downMin = Math.max(1, Math.round(downMs / 60000));
                     try {
                         sock.sendMessage(CREATOR_JID, {
-                            text: '🟢 *JARVIS VOLTOU ONLINE*\n\n' +
+                            text: '🟢 *BOT DROPHTTP VOLTOU ONLINE*\n\n' +
                                 '⚠️ Fiquei fora do ar por cerca de *' + downMin + ' min*.\n' +
                                 '🕒 Queda às ' + downStartStr + ' → retorno às ' + getHHMM() + '.\n\n' +
                                 '_Se isso se repetir, verifique se o PC/servidor está ligado e com internet._'
@@ -370,50 +350,6 @@ async function startBot() {
             }
         }
     });
-
-    setInterval(async () => {
-        if (!storage.data.pendingPresentations || storage.data.pendingPresentations.length === 0) return;
-
-        const now = Date.now();
-        const remaining: any[] = [];
-
-        for (const item of storage.data.pendingPresentations) {
-            if (now >= item.deadline) {
-                try {
-                    const chatId = item.chatId;
-                    if (storage.isBotDisabled(chatId) || storage.isGroupClosed(chatId)) continue;
-
-                    const isAntiGhostActive = !storage.isFeatureDisabled(chatId, 'antighost') && storage.data.antighost[chatId] !== false;
-
-                    if (isAntiGhostActive) {
-                        const groupMeta = await sock.groupMetadata(chatId).catch(() => null);
-                        const isStillInGroup = groupMeta?.participants?.some(p => p.id === item.memberId || checkMatch(p.id.split('@')[0], item.memberNum));
-
-                        if (isStillInGroup) {
-                            await sock.groupParticipantsUpdate(chatId, [item.memberId], 'remove');
-                            await sock.sendMessage(chatId, {
-                                text: '👻 *JARVIS SECURITY (ANTI-GHOST):*\n\n' +
-                                    '👤 *Membro:* *' + item.memberName + '* - +' + item.memberNum + '\n' +
-                                    '⏰ *Motivo:* Não enviou mensagem de apresentação no prazo de 10 minutos após entrar no grupo.\n\n' +
-                                    '_O grupo mantém apenas integrantes participativos._',
-                                mentions: [item.memberId]
-                            });
-                            console.log('[ANTI-GHOST] Membro ' + item.memberName + ' removido.');
-                        }
-                    }
-                } catch (e: any) {
-                    console.error('[ERRO AUTO KICK ANTI-GHOST]', e.message);
-                }
-            } else {
-                remaining.push(item);
-            }
-        }
-
-        if (remaining.length !== storage.data.pendingPresentations.length) {
-            storage.data.pendingPresentations = remaining;
-            storage.flagSave();
-        }
-    }, 30000);
 
     setInterval(async () => {
         if (!storage.data.pendingBvReminders || storage.data.pendingBvReminders.length === 0) return;
@@ -500,7 +436,7 @@ async function startBot() {
                         storage.flagSave();
 
                         const funny = getFunnyMessage(storage);
-                        await sock.sendMessage(chatId, { text: '📢 @todos @all\n\n🤖 *Jarvis:* ' + funny });
+                        await sock.sendMessage(chatId, { text: '📢 @todos @all\n\n🤖 *BOT DROPHTTP:* ' + funny });
                     } catch (e: any) {
                         console.error('[ERRO AUTO ANIM]', e.message);
                     }

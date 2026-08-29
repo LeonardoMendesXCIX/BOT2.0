@@ -1,16 +1,14 @@
 import { WASocket, proto, downloadMediaMessage } from '@whiskeysockets/baileys';
 import { StorageManager } from '../database/storage';
 import { RBAC, getUserRole, hasPermission, isSuperAdmin, checkMatch } from '../config/rbac';
-import { SIGNS, FOOTBALL_CHAMPIONSHIPS, NEWS_TOPICS, QUIZ_DATABASE, FEATURE_MAP, FEATURE_NAMES, SETTINGS } from '../config/settings';
+import { SIGNS, FOOTBALL_CHAMPIONSHIPS, NEWS_TOPICS, FEATURE_MAP, FEATURE_NAMES, SETTINGS } from '../config/settings';
 import { callAI, evaluateAutonomousIntervention } from '../services/ai';
 import { checkImageNSFW } from '../services/nsfw';
 import { transcribeAudio } from '../services/transcription';
-import { generateAIImage } from '../services/imageGen';
 import { generateTTS } from '../services/tts';
 import { fetchHoroscope } from '../services/horoscope';
 import { fetchNews } from '../services/news';
 import { fetchFootballData } from '../services/football';
-import { fetchCurrency } from '../services/currency';
 import { fetchWikipedia } from '../services/wikipedia';
 import { imageToStickerBuffer, stickerToImageBuffer } from '../utils/sticker';
 import { getUserInfo, updateLidMapping, extractRawNumber, UserDisplayInfo, lidMap, contactCache } from '../utils/user';
@@ -67,6 +65,51 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
     const text = messageText.trim();
     const textLower = text.toLowerCase();
     const firstWord = text.split(/[\s+]+/)[0].toLowerCase();
+
+    // MODO MANUTENÇÃO: bloqueia todos os comandos, exceto !botmanutencao (para poder desligar)
+    if (storage.data.maintenance === true && firstWord !== '!botmanutencao') return;
+
+    // NOVO: !botmanutencao — contagem regressiva e modo offline
+    if (firstWord === '!botmanutencao') {
+        const userRole = parseInt(getUserRole(userId, storage.data.users));
+        const subArg = text.slice(firstWord.length).trim().toLowerCase();
+        if (subArg === 'off') {
+            if (!isSuperAdmin(userId, storage.data.users)) {
+                await sock.sendMessage(chatId, { text: '❌ Apenas super admin pode retirar do modo manutenção.' }, { quoted: msg });
+                return;
+            }
+            storage.data.maintenance = false;
+            storage.flagSave();
+            await sock.sendMessage(chatId, { text: '🟢 *BOT DROPHTTP ONLINE NOVAMENTE!*\n\n🤖 O bot saiu do modo manutenção e voltou a operar normalmente.' });
+            return;
+        }
+        if (!isSuperAdmin(userId, storage.data.users)) {
+            await sock.sendMessage(chatId, { text: '❌ Apenas super admin pode ativar o modo manutenção.' }, { quoted: msg });
+            return;
+        }
+        if (storage.data.maintenance === true) {
+            await sock.sendMessage(chatId, { text: 'ℹ️ O bot já está em modo manutenção. Use `!botmanutencao off` para voltar.' }, { quoted: msg });
+            return;
+        }
+        // Contagem regressiva 10 → 0
+        const avisoContagem = '🛠️ *INICIANDO MODO MANUTENÇÃO*\n\n' +
+            '⚠️ O bot entrará em modo offline em breve.\n\n' +
+            'Contagem regressiva iniciada...';
+        await sock.sendMessage(chatId, { text: avisoContagem }, { quoted: msg });
+        for (let i = 10; i >= 0; i--) {
+            await new Promise(r => setTimeout(r, 1000));
+            await sock.sendMessage(chatId, { text: '⏱️ *' + i + '*' });
+        }
+        storage.data.maintenance = true;
+        storage.flagSave();
+        await sock.sendMessage(chatId, {
+            text: '⚠️🔧🤖 *Bot em modo offline (MANUTENÇÃO)*\n\n' +
+                'O BOT DROPHTTP foi temporariamente desativado para manutenção.\n' +
+                '_Use `!botmanutencao off` para voltar ao normal._'
+        });
+        return;
+    }
+
     if (state && state.mode === 'inativos_confirm_removal') {
         const answer = textLower.trim();
         const isYes = ['sim', '1', 's', 'yes', 'si'].includes(answer);
@@ -83,7 +126,7 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
             await sock.sendMessage(chatId, { text: '🛑 *Limpeza de inativos cancelada.* Nenhum integrante foi removido.' }, { quoted: msg });
             return;
         }
-        await sock.sendMessage(chatId, { text: '🧹 *Jarvis:* Iniciando remoção de ' + inactiveList.length + ' integrante(s) inativo(s)...' }, { quoted: msg });
+        await sock.sendMessage(chatId, { text: '🧹 *BOT DROPHTTP:* Iniciando remoção de ' + inactiveList.length + ' integrante(s) inativo(s)...' }, { quoted: msg });
         let removedCount = 0;
         const removedNames: string[] = [];
         for (const u of inactiveList) {
@@ -103,6 +146,17 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
     }
     const IGNORED_MULTIMEDIA_PREFIXES = ['!p', '!pp', '!v', '!play', '!video', '!playlist', '!musica', '!song', '!msc', '!tocar', '!ytmp3'];
     if (IGNORED_MULTIMEDIA_PREFIXES.includes(firstWord) || IGNORED_MULTIMEDIA_PREFIXES.some(prefix => textLower.startsWith(prefix + ' ') || textLower.startsWith(prefix + '+'))) return;
+
+    // BLOQUEIA COMANDOS REMOVIDOS
+    if (['!desenhe', '!criarimg', '!gerarimg', '!sorteio', '!quiz', '!charada', '!moeda', '!cotacao', '!qrcode', '!antighost', '!alerta'].includes(firstWord)) {
+        await sock.sendMessage(chatId, { text: '⚠️ Este comando foi removido do BOT DROPHTTP.' }, { quoted: msg });
+        return;
+    }
+    if (textLower.startsWith('!jarvis on') || textLower.startsWith('!jarvis off')) {
+        await sock.sendMessage(chatId, { text: '⚠️ O comando !jarvis on/off foi removido do BOT DROPHTTP.' }, { quoted: msg });
+        return;
+    }
+
     if (firstWord === '!bot') {
         const parts = text.trim().split(/\s+/);
         const action = parts[1]?.toLowerCase();
@@ -113,9 +167,9 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
             const shouldDisable = action === 'off';
             storage.setBotDisabled(chatId, shouldDisable);
             if (shouldDisable) {
-                await sock.sendMessage(chatId, { text: '🔴 *JARVIS BOT DESATIVADO NESTE GRUPO*\n\nO bot foi colocado em modo de espera exclusivo para este grupo.\n_Para reativar:_ `!bot on`', mentions: [userInfo.jid] });
+                await sock.sendMessage(chatId, { text: '🔴 *BOT DROPHTTP DESATIVADO NESTE GRUPO*\n\nO bot foi colocado em modo de espera exclusivo para este grupo.\n_Para reativar:_ `!bot on`', mentions: [userInfo.jid] });
             } else {
-                await sock.sendMessage(chatId, { text: '🟢 *JARVIS BOT REATIVADO COM SUCESSO!*', mentions: [userInfo.jid] });
+                await sock.sendMessage(chatId, { text: '🟢 *BOT DROPHTTP REATIVADO COM SUCESSO!*', mentions: [userInfo.jid] });
             }
             return;
         }
@@ -145,15 +199,6 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
             if (storage.data.cache.names[userInfo.number] !== userInfo.pushName) {
                 storage.data.cache.names[userInfo.number] = userInfo.pushName;
                 storage.flagSave();
-            }
-        }
-        if (storage.data.pendingPresentations && storage.data.pendingPresentations.length > 0) {
-            const rawSenderNum = userInfo.number;
-            const beforeLen = storage.data.pendingPresentations.length;
-            storage.data.pendingPresentations = storage.data.pendingPresentations.filter(p => !(p.chatId === chatId && checkMatch(p.memberNum, rawSenderNum)));
-            if (storage.data.pendingPresentations.length !== beforeLen) {
-                storage.flagSave();
-                console.log('[ANTI-GHOST] Apresentação confirmada para ' + userInfo.pushName);
             }
         }
         if (text && !key.fromMe) storage.addMessageToCluster(chatId, userInfo.number, userInfo.pushName, text);
@@ -250,14 +295,6 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
             return;
         }
     }
-    if (isGroup && storage.data.activeQuiz && storage.data.activeQuiz[chatId] && !storage.isFeatureDisabled(chatId, 'quiz')) {
-        const currentQuiz = storage.data.activeQuiz[chatId];
-        if (text.toLowerCase().trim() === currentQuiz.answer) {
-            delete storage.data.activeQuiz[chatId];
-            storage.flagSave();
-            await sock.sendMessage(chatId, { text: '🎉 *PARABÉNS ' + userInfo.mentionTag + '!* VOCÊ ACERTOU!\n\n📱 ' + userInfo.formattedNum + '\n✅ Resposta: ' + currentQuiz.answer.toUpperCase(), mentions: [userInfo.jid] });
-        }
-    }
     const isAdminQuery = /(quem\s+(é|eh|sao|são)\s+(os|o)?\s*(admin|admins|administrador|administradores|adm|adms)|quem\s+manda|admins\s+do\s+grupo|administradores\s+do\s+grupo|marcar\s+adms|chama\s+os\s+adms)/i.test(textLower) || ['!admins', '!adms'].includes(firstWord);
     if (isGroup && isAdminQuery && !storage.isFeatureDisabled(chatId, 'admins')) {
         const lastTime = lastAdminResponse.get(chatId) || 0;
@@ -307,7 +344,7 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
                 if (userMessageHistory[userKey].length > 5) {
                     try { await sock.sendMessage(chatId, { delete: key }); } catch (e) { }
                     userMessageHistory[userKey] = [];
-                    await storage.applyWarning(sock, chatId, sender, 'Flood/Spam', 2);
+                    await storage.applyWarning(sock, chatId, sender, 'Flood/Spam');
                     return;
                 }
             }
@@ -324,13 +361,29 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
                     } catch (errKick: any) { console.error('[ERRO KICK ANTI-LINK]', errKick.message); }
                 }
             }
-            const isAlertActive = !storage.isFeatureDisabled(chatId, 'alerta') && storage.data.bannedWords[chatId]?.length > 0;
-            if (isAlertActive) {
-                const containsBanned = storage.data.bannedWords[chatId].some(w => text.toLowerCase().includes(w.toLowerCase()));
-                if (containsBanned) {
-                    try { await sock.sendMessage(chatId, { delete: key }); } catch (e) { }
-                    await storage.applyWarning(sock, chatId, sender, 'Palavra censurada', 2);
-                    return;
+        }
+        // ANTINSFW MAIS PRECISO: verifica imagem normal e "ver uma vez"
+        const isNsfwOn = storage.data.antinsfw?.[chatId] === true;
+        if (isNsfwOn && isGroup && !key.fromMe) {
+            const userRole2 = getUserRole(userId, storage.data.users);
+            const isAdm2 = parseInt(userRole2) >= 2;
+            if (!isAdm2) {
+                const imgMsg = msg.message?.imageMessage ||
+                    msg.message?.viewOnceMessage?.message?.imageMessage ||
+                    msg.message?.viewOnceMessageV2?.message?.imageMessage ||
+                    msg.message?.ephemeralMessage?.message?.imageMessage;
+                if (imgMsg) {
+                    try {
+                        const buf = await downloadMediaMessage(msg as any, 'buffer', {});
+                        if (buf) {
+                            const isNsfw = await checkImageNSFW(buf);
+                            if (isNsfw) {
+                                try { await sock.sendMessage(chatId, { delete: key }); } catch (e) { }
+                                await storage.applyWarning(sock, chatId, sender, 'Conteúdo impróprio (NSFW) detectado');
+                                return;
+                            }
+                        }
+                    } catch (e) { }
                 }
             }
         }
@@ -354,7 +407,7 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
         const zeroWidthCount = (text.match(/[\u200B-\u200D\uFEFF\u202A-\u202E]/g) || []).length;
         if (zeroWidthCount > 35) {
             try { await sock.sendMessage(chatId, { delete: key }); } catch (e) { }
-            await storage.applyWarning(sock, chatId, sender, 'Caracteres invisíveis', 2);
+            await storage.applyWarning(sock, chatId, sender, 'Caracteres invisíveis');
             return;
         }
         if (!storage.data.groupStats[chatId]) storage.data.groupStats[chatId] = {};
@@ -373,27 +426,26 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
     }
     if (!text) return;
     if (key.fromMe && !text.startsWith('!')) return;
-    const isJarvisDisabled = storage.isFeatureDisabled(chatId, 'jarvis') || storage.data.jarvisMode?.[chatId] === false;
-    if (isGroup && !isJarvisDisabled && !storage.isGroupClosed(chatId) && !text.startsWith('!')) {
+    if (isGroup && !storage.isGroupClosed(chatId) && !text.startsWith('!')) {
         const cluster = storage.data.memoryCluster?.[chatId] || [];
         const clusterStrings = cluster.map(m => m.authorName + ' (+' + m.authorNum + '): ' + m.text);
         const now = Date.now();
         const lastIntervention = storage.data.lastJarvisIntervention?.[chatId] || 0;
         const msgCountSince = storage.data.messageCountSinceLastJarvis?.[chatId] || 0;
-        const isExplicitCall = textLower.includes('jarvis') ||
+        const isExplicitCall = textLower.includes('drophttp') || textLower.includes('bot') ||
             (msg.message?.extendedTextMessage?.contextInfo?.mentionedJid?.some(j => j.includes(sock.user?.id?.split(':')[0] || ''))) ||
             (msg.message?.extendedTextMessage?.contextInfo?.participant?.includes(sock.user?.id?.split(':')[0] || ''));
         if (isExplicitCall) {
             try {
-                const cleanQuery = text.replace(/jarvis/gi, '').replace(/@\d+/g, '').trim() || text;
-                const prompt = 'O integrante ' + userInfo.pushName + ' disse: "' + cleanQuery + '". Responda como Jarvis.';
+                const cleanQuery = text.replace(/drophttp/gi, '').replace(/bot/gi, '').replace(/@\d+/g, '').trim() || text;
+                const prompt = 'O integrante ' + userInfo.pushName + ' disse: "' + cleanQuery + '". Responda como BOT DROPHTTP.';
                 const aiResponse = await callAI(prompt, clusterStrings);
                 storage.data.lastJarvisIntervention[chatId] = now;
                 storage.data.messageCountSinceLastJarvis[chatId] = 0;
                 storage.flagSave();
-                await sock.sendMessage(chatId, { text: '🤖 *Jarvis:* ' + aiResponse, mentions: [userInfo.jid] }, { quoted: msg });
+                await sock.sendMessage(chatId, { text: '🤖 *BOT DROPHTTP:* ' + aiResponse, mentions: [userInfo.jid] }, { quoted: msg });
                 return;
-            } catch (e: any) { console.error('[ERRO JARVIS EXPLÍCITO]', e.message); }
+            } catch (e: any) { console.error('[ERRO IA EXPLÍCITA]', e.message); }
         }
         const isCooldownElapsed = (now - lastIntervention) >= (45 * 1000);
         const hasEnoughTraffic = msgCountSince >= 4;
@@ -404,7 +456,7 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
                     storage.data.lastJarvisIntervention[chatId] = now;
                     storage.data.messageCountSinceLastJarvis[chatId] = 0;
                     storage.flagSave();
-                    await sock.sendMessage(chatId, { text: '🤖 *Jarvis:* ' + autoIntervention });
+                    await sock.sendMessage(chatId, { text: '🤖 *BOT DROPHTTP:* ' + autoIntervention });
                     return;
                 }
             } catch (errAuto: any) { console.error('[ERRO INTERVENÇÃO AUTÔNOMA]', errAuto.message); }
@@ -414,7 +466,8 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
         'cadastro_waiting_id', 'cadastro_waiting_role', 'remover_waiting_id',
         'bv_waiting_text', 'divulga_waiting_time', 'divulga_waiting_content', 'inativos_confirm_removal', 'inativos_select_keep',
         'ma_menu_main', 'ma_opt1_confirm', 'ma_opt2_text', 'ma_opt2_type', 'ma_opt3_hours', 'ma_opt4_reps',
-        'news_menu', 'news_city', 'news_topics_menu', 'horoscope_menu', 'horoscope_sign', 'weather_menu', 'weather_city', 'football_menu', 'football_query'
+        'news_menu', 'news_city', 'news_topics_menu', 'horoscope_menu', 'horoscope_sign', 'weather_menu', 'weather_city', 'football_menu', 'football_query',
+        'msgremoveadm_waiting_text'
     ].includes(state.mode);
     const parts = text.trim().split(/\s+/);
     const cmdCandidate = parts[0].toLowerCase();
@@ -429,7 +482,7 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
             storage.setFeatureStatus(chatId, featKey, enable);
             const statusWord = enable ? '*LIGADO*' : '*DESLIGADO*';
             const featName = FEATURE_NAMES[featKey] || cmdCandidate;
-            await sock.sendMessage(chatId, { text: (enable ? '🟢' : '🔴') + ' *CONTROLE JARVIS*\n\n⚙️ ' + featName + '\n📊 ' + statusWord, mentions: [userInfo.jid] });
+            await sock.sendMessage(chatId, { text: (enable ? '🟢' : '🔴') + ' *CONTROLE BOT DROPHTTP*\n\n⚙️ ' + featName + '\n📊 ' + statusWord, mentions: [userInfo.jid] });
             return;
         }
     }
@@ -444,30 +497,12 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
     if (['!voz', '!falar'].includes(firstWord)) {
         const queryVoz = text.slice(firstWord.length).trim();
         if (!queryVoz) { await sock.sendMessage(chatId, { text: '🗣️ *COMO USAR:*\n\n`!voz texto aqui`' }, { quoted: msg }); return; }
-        await sock.sendMessage(chatId, { text: '🗣️ *Jarvis:* Sintetizando voz...' }, { quoted: msg });
+        await sock.sendMessage(chatId, { text: '🗣️ *BOT DROPHTTP:* Sintetizando voz...' }, { quoted: msg });
         try {
             const audioBuffer = await generateTTS(queryVoz);
             if (audioBuffer) await sock.sendMessage(chatId, { audio: audioBuffer, mimetype: 'audio/mpeg' }, { quoted: msg });
             else await sock.sendMessage(chatId, { text: '❌ Não foi possível sintetizar.' });
         } catch (e: any) { await sock.sendMessage(chatId, { text: '❌ Erro no motor de voz.' }); }
-        return;
-    }
-    if (['!desenhe', '!criarimg', '!gerarimg'].includes(firstWord)) {
-        const promptText = text.slice(firstWord.length).trim();
-        if (!promptText) { await sock.sendMessage(chatId, { text: '🎨 *COMO USAR:*\n\n`!desenhe descrição da imagem`' }, { quoted: msg }); return; }
-        const userRole = parseInt(getUserRole(userId, storage.data.users));
-        if (userRole < 2) {
-            const lastUse = aiCooldowns[userId]?.['image_gen'] || 0;
-            const elapsed = Date.now() - lastUse;
-            if (elapsed < 15000) { await sock.sendMessage(chatId, { text: '⏳ Aguarde ' + Math.ceil((15000 - elapsed) / 1000) + 's.' }, { quoted: msg }); return; }
-            if (!aiCooldowns[userId]) aiCooldowns[userId] = {};
-            aiCooldowns[userId]['image_gen'] = Date.now();
-        }
-        try {
-            const imgBuffer = await generateAIImage(promptText);
-            if (imgBuffer) await sock.sendMessage(chatId, { image: imgBuffer, caption: '🎨 *IMAGEM GERADA*\n\n📝 ' + promptText + '\n👤 ' + userInfo.nameAndNumber, mentions: [userInfo.jid] }, { quoted: msg });
-            else await sock.sendMessage(chatId, { text: '❌ Não foi possível gerar.' }, { quoted: msg });
-        } catch (e: any) { await sock.sendMessage(chatId, { text: '❌ Erro ao gerar imagem.' }, { quoted: msg }); }
         return;
     }
     if (['!transcrever', '!ouvir', '!audio'].includes(firstWord)) {
@@ -526,13 +561,13 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
         await sock.sendMessage(chatId, { text: '⏰ *Qual horário da divulgação?*\n\n_Ex: "das 20:00 às 21:00"_' });
         return;
     }
-    if (['!ia', '!jarvis'].includes(firstWord)) {
+    if (['!ia', '!botia'].includes(firstWord)) {
         const q = text.slice(firstWord.length).trim();
-        if (!q) { await sock.sendMessage(chatId, { text: '🤖 *Jarvis:* Envie sua pergunta após o comando.' }, { quoted: msg }); return; }
+        if (!q) { await sock.sendMessage(chatId, { text: '🤖 *BOT DROPHTTP:* Envie sua pergunta após o comando.' }, { quoted: msg }); return; }
         const cluster = storage.data.memoryCluster?.[chatId] || [];
         const clusterStrings = cluster.map(m => m.authorName + ': ' + m.text);
         const aiRes = await callAI(q, clusterStrings);
-        await sock.sendMessage(chatId, { text: '🤖 *JARVIS:*\n\n' + aiRes, mentions: [userInfo.jid] });
+        await sock.sendMessage(chatId, { text: '🤖 *BOT DROPHTTP:*\n\n' + aiRes, mentions: [userInfo.jid] });
         return;
     }
     if (['!antifake', '!ddi', '!limparfakes'].includes(firstWord)) {
@@ -669,7 +704,7 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
     }
     if (['!status', '!painel'].includes(firstWord)) {
         if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
-        let panelMsg = '📊 *PAINEL JARVIS*\n\n';
+        let panelMsg = '📊 *PAINEL BOT DROPHTTP*\n\n';
         const uniqueKeys = Array.from(new Set(Object.values(FEATURE_MAP)));
         uniqueKeys.forEach(k => {
             const disabled = storage.isFeatureDisabled(chatId, k);
@@ -752,7 +787,7 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
         const targetInfo = getUserInfo(targetJid || sender);
         if (firstWord === '!warns' || firstWord === '!advertencias') {
             const warns = storage.data.warnings[chatId][targetNum] || 0;
-            const limit = storage.data.maxWarnings[chatId] || 2;
+            const limit = storage.data.maxWarnings[chatId] || 3;
             await sock.sendMessage(chatId, { text: '⚠️ ' + targetInfo.nameAndNumber + ' — ' + warns + '/' + limit, mentions: [targetInfo.jid] });
             return;
         }
@@ -770,7 +805,7 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
         if (firstWord === '!warn' || firstWord === '!advertir') {
             if (!targetJid) { await sock.sendMessage(chatId, { text: '❌ Marque o membro.' }, { quoted: msg }); return; }
             const reason = text.replace(firstWord, '').replace(/@\d+/, '').trim() || 'Violação das regras';
-            await storage.applyWarning(sock, chatId, targetJid, reason, 2);
+            await storage.applyWarning(sock, chatId, targetJid, reason);
             return;
         }
     }
@@ -821,18 +856,6 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
         await sock.sendMessage(chatId, { text: report, mentions: mentionsArr });
         return;
     }
-    if (firstWord === '!sorteio') {
-        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
-        try {
-            const groupMeta = await sock.groupMetadata(chatId);
-            const participants = groupMeta.participants;
-            if (!participants || participants.length === 0) { await sock.sendMessage(chatId, { text: '❌ Sem participantes.' }, { quoted: msg }); return; }
-            const winner = participants[Math.floor(Math.random() * participants.length)];
-            const winnerInfo = getUserInfo(winner.id);
-            await sock.sendMessage(chatId, { text: '🎲 *GANHADOR:*\n\n' + winnerInfo.nameAndNumber, mentions: [winnerInfo.jid] });
-        } catch (e) { await sock.sendMessage(chatId, { text: '❌ Erro no sorteio.' }); }
-        return;
-    }
     if (['!inativosmsg', '!msginativos'].includes(firstWord)) {
         if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
         const userRole = parseInt(getUserRole(userId, storage.data.users));
@@ -849,6 +872,42 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
         storage.data.inativosMsgs[chatId] = { text: customText, setBy: userId, date: new Date().toISOString() };
         storage.flagSave();
         await sock.sendMessage(chatId, { text: '✅ Mensagem de inativos definida:\n\n' + customText }, { quoted: msg });
+        return;
+    }
+    // NOVO: !msgremoveadm — personaliza a mensagem quando admin remove um membro
+    if (firstWord === '!msgremoveadm') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        const userRole = parseInt(getUserRole(userId, storage.data.users));
+        if (userRole < 2) { await sock.sendMessage(chatId, { text: '❌ Apenas administradores.' }, { quoted: msg }); return; }
+        let customText = '';
+        if (text.includes('+')) customText = text.slice(text.indexOf('+') + 1).trim();
+        else customText = text.slice(firstWord.length).trim();
+        if (customText.toLowerCase() === 'off') {
+            if (storage.data.removalMsgs && storage.data.removalMsgs[chatId]) {
+                delete storage.data.removalMsgs[chatId];
+                storage.flagSave();
+                await sock.sendMessage(chatId, { text: '🛑 Mensagem de remoção desativada. Usando padrão.' }, { quoted: msg });
+                return;
+            }
+            await sock.sendMessage(chatId, { text: 'ℹ️ Nenhuma mensagem personalizada ativa.' }, { quoted: msg });
+            return;
+        }
+        if (!customText) {
+            const current = storage.data.removalMsgs?.[chatId]?.text;
+            const defaultMsg = 'Xiii, acho que o integrante {membro} fez algo de errado, pois foi removido!';
+            await sock.sendMessage(chatId, {
+                text: '🚫 *MENSAGEM DE REMOÇÃO POR ADMIN*\n\n' +
+                    'Atual: ' + (current || '_' + defaultMsg + '_') + '\n\n' +
+                    '*Use:* `!msgremoveadm + sua mensagem`\n' +
+                    '*Variável:* `{membro}` (substitui pelo nome e número)\n' +
+                                   '*Desativar:* `!msgremoveadm off`'
+            }, { quoted: msg });
+            return;
+        }
+        if (!storage.data.removalMsgs) storage.data.removalMsgs = {};
+        storage.data.removalMsgs[chatId] = { text: customText, setBy: userId, date: new Date().toISOString() };
+        storage.flagSave();
+        await sock.sendMessage(chatId, { text: '✅ *Mensagem de remoção por admin definida:*\n\n' + customText }, { quoted: msg });
         return;
     }
     if (['!inativos', '!fantasmas'].includes(firstWord)) {
@@ -1194,35 +1253,16 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
             const clusterStrings = cluster.map(m => m.authorName + ': ' + m.text);
             if (clusterStrings.length === 0) { await sock.sendMessage(chatId, { text: 'ℹ️ Sem mensagens recentes.' }); return; }
             const dateStrLog = new Date().toLocaleDateString('pt-BR');
-            const promptMeta = 'Resumo do grupo:\n\n📌 *RELATÓRIO JARVIS*\n📅 ' + dateStrLog + '\n\n🗣️ Tópicos:\n👥 Membros:\n🌟 Clima:';
+            const promptMeta = 'Resumo do grupo:\n\n📌 *RELATÓRIO BOT DROPHTTP*\n📅 ' + dateStrLog + '\n\n🗣️ Tópicos:\n👥 Membros:\n🌟 Clima:';
             const summaryText = await callAI(promptMeta, clusterStrings);
             await sock.sendMessage(chatId, { text: summaryText });
         } catch (e) { await sock.sendMessage(chatId, { text: '❌ Erro no resumo.' }); }
         return;
     }
-    if (['!moeda', '!cotacao'].includes(firstWord)) { await sock.sendMessage(chatId, { text: await fetchCurrency() }, { quoted: msg }); return; }
     if (['!wiki', '!wikipedia'].includes(firstWord)) {
         const q = text.replace(firstWord, '').trim();
         if (!q) { await sock.sendMessage(chatId, { text: '⚠️ Use: `!wiki termo`' }, { quoted: msg }); return; }
         await sock.sendMessage(chatId, { text: await fetchWikipedia(q) }, { quoted: msg });
-        return;
-    }
-    if (firstWord === '!qrcode') {
-        const q = text.replace(firstWord, '').trim();
-        if (!q) { await sock.sendMessage(chatId, { text: '⚠️ Digite o texto/link.' }, { quoted: msg }); return; }
-        try {
-            const qrUrl = 'https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=' + encodeURIComponent(q);
-            const res = await axios.get(qrUrl, { responseType: 'arraybuffer' });
-            await sock.sendMessage(chatId, { image: Buffer.from(res.data), caption: '📱 QR Code' }, { quoted: msg });
-        } catch (e) { await sock.sendMessage(chatId, { text: '❌ Erro no QR.' }, { quoted: msg }); }
-        return;
-    }
-    if (['!quiz', '!charada'].includes(firstWord)) {
-        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
-        const q = QUIZ_DATABASE[Math.floor(Math.random() * QUIZ_DATABASE.length)];
-        storage.data.activeQuiz[chatId] = { question: q.question, answer: q.answer.toLowerCase().trim(), startedBy: userId, date: Date.now() };
-        storage.flagSave();
-        await sock.sendMessage(chatId, { text: '🧩 *QUIZ*\n\n❓ ' + q.question + '\n\nResponda no chat!' });
         return;
     }
     if (firstWord === '!regras') {
@@ -1276,13 +1316,13 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
         }
         if (!customText) {
             const current = storage.data.welcomeReminders?.[chatId]?.text;
-            await sock.sendMessage(chatId, { text: '🔔 *LEMBRETE 15MIN*\n\nAtual: ' + (current || '_nenhum_') + '\n\n*Use:* `!bv mensagem` ou `!bv off`' }, { quoted: msg });
+            await sock.sendMessage(chatId, { text: '🔔 *LEMBRETE 5 MIN*\n\nAtual: ' + (current || '_nenhum_') + '\n\n*Use:* `!bv mensagem` ou `!bv off`' }, { quoted: msg });
             return;
         }
         if (!storage.data.welcomeReminders) storage.data.welcomeReminders = {};
         storage.data.welcomeReminders[chatId] = { text: customText, setBy: userId, date: new Date().toISOString() };
         storage.flagSave();
-        await sock.sendMessage(chatId, { text: '✅ *LEMBRETE CONFIGURADO*\n\n' + customText }, { quoted: msg });
+        await sock.sendMessage(chatId, { text: '✅ *LEMBRETE CONFIGURADO (5min após entrada)*\n\n' + customText }, { quoted: msg });
         return;
     }
     if (['!exit', '!saida'].includes(firstWord)) {
@@ -1311,19 +1351,18 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
     if (text.toLowerCase() === '!ajuda') {
         const userRole = parseInt(getUserRole(userId, storage.data.users));
         const isAdmin = userRole >= 2;
-        let menu = '🤖 *JARVIS BOT2.0* 🤖\n\n';
+        let menu = '🤖 *BOT DROPHTTP* 🤖\n\n';
         menu += '*🔌 CONTROLE*\n';
         menu += '`!bot on/off` - Ligar/desligar\n';
         menu += '`!divulga` - Divulgação\n';
         menu += '`!admins` - Listar admins\n\n';
-        menu += '*🧠 JARVIS*\n';
-        menu += '`!jarvis on/off` - Análise em tempo real\n';
+        menu += '*🧠 IA*\n';
         menu += '`!ia [pergunta]` - Consulta IA\n';
-        menu += '`!status` - Painel\n\n';
+        menu += '`!status` - Painel\n';
+        menu += '`!horariobot` - Debug\n\n';
         menu += '*🎨 DIVERSÃO*\n';
         menu += '`!s` `!s2img` - Figurinhas\n';
-        menu += '`!quiz` `!qrcode` `!sorteio`\n';
-        menu += '`!moeda` `!wiki` `!rank`\n\n';
+        menu += '`!wiki` `!rank`\n\n';
         menu += '*📰 UTIL*\n';
         menu += '`!n` `!h` `!t` `!f`\n';
         menu += '`!regras` `!id`';
@@ -1332,22 +1371,23 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
             menu += '`!megafone + msg`\n';
             menu += '`!antilink on/off`\n';
             menu += '`!antifake on/off`\n';
-            menu += '`!antighost on/off`\n';
+            menu += '`!antinsfw on/off`\n';
             menu += '`!warn @membro`\n';
             menu += '`!ban @membro`\n';
             menu += '`!fechar` `!abrir`\n';
             menu += '`!sa` `!bv` `!exit`\n';
+            menu += '`!msgremoveadm` - Mensagem de remoção\n';
             menu += '`!inativos` `!m` `!r`\n';
             menu += '`!idgrupo` `!linkcorreio`\n';
             menu += '`!cadastroidgrupo`\n';
             menu += '`!anonimo` `!responder`\n';
-            menu += '`!vercorreio` `!limparcorreio`\n';
-            menu += '`!horariobot` - Debug de horário';
+            menu += '`!vercorreio` `!limparcorreio`';
         }
         if (userRole === 5) {
             menu += '\n\n*👑 SUPER ADMIN*\n';
             menu += '`!cadastro+num+nivel`\n';
-            menu += '`!remover`';
+            menu += '`!remover`\n';
+            menu += '`!botmanutencao` - Modo manutenção';
         }
         await sock.sendMessage(chatId, { text: menu, mentions: [userInfo.jid] });
         return;

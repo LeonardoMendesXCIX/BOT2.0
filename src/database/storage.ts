@@ -65,7 +65,6 @@ export interface BotStorage {
     welcomeMsgs: Record<string, { text: string; setBy?: string; date?: string }>;
     welcomeReminders: Record<string, { text: string; setBy?: string; date?: string }>;
     pendingBvReminders: Array<{ id: string; chatId: string; newMemberId: string; runAt: number }>;
-    pendingPresentations: Array<{ id: string; chatId: string; memberId: string; memberNum: string; memberName: string; deadline: number }>;
     groupSchedules: Record<string, { openTime?: string; closeTime?: string }>;
     exitMsgs: Record<string, { text: string; setBy?: string; date?: string }>;
     removalMsgs: Record<string, { text: string; setBy?: string; date?: string }>;
@@ -73,12 +72,10 @@ export interface BotStorage {
     antilink: Record<string, boolean>;
     antifake: Record<string, boolean>;
     antiflood: Record<string, boolean>;
-    antighost: Record<string, boolean>;
     antinsfw: Record<string, boolean>;
     autoTranscribe: Record<string, boolean>;
     antidelete: Record<string, boolean>;
     messageBuffer: Record<string, Record<string, { text: string; sender: string; pushName: string; timestamp: number }>>;
-    jarvisMode: Record<string, boolean>;
     bannedWords: Record<string, string[]>;
     groupRules: Record<string, string>;
     warnings: Record<string, Record<string, number>>;
@@ -90,6 +87,7 @@ export interface BotStorage {
     disabledFeatures: Record<string, Record<string, boolean>>;
     anonMsgs: AnonMessage[];
     anonCounter: number;
+    maintenance: boolean;
 }
 
 const STORAGE_FILE = path.join(__dirname, '..', '..', 'bot_storage.json');
@@ -116,7 +114,6 @@ export class StorageManager {
             welcomeMsgs: {},
             welcomeReminders: {},
             pendingBvReminders: [],
-            pendingPresentations: [],
             groupSchedules: {},
             exitMsgs: {},
             removalMsgs: {},
@@ -124,12 +121,10 @@ export class StorageManager {
             antilink: {},
             antifake: {},
             antiflood: {},
-            antighost: {},
             antinsfw: {},
             autoTranscribe: {},
             antidelete: {},
             messageBuffer: {},
-            jarvisMode: {},
             bannedWords: {},
             groupRules: {},
             warnings: {},
@@ -140,7 +135,8 @@ export class StorageManager {
             autoAnimSent: {},
             disabledFeatures: {},
             anonMsgs: [],
-            anonCounter: 1000
+            anonCounter: 1000,
+            maintenance: false
         };
         this.load();
 
@@ -166,29 +162,28 @@ export class StorageManager {
         this.pendingSave = true;
     }
 
-    // CORREÇÃO: escrita atômica SÍNCRONA com retry (elimina EPERM/corrida de escrita no Windows)
     public saveSync(): void {
         try {
-            const tmpFile = `${STORAGE_FILE}.tmp`;
+            const tmpFile = STORAGE_FILE + '.tmp';
             fs.writeFileSync(tmpFile, JSON.stringify(this.data, null, 2));
             try {
                 fs.renameSync(tmpFile, STORAGE_FILE);
+                this.pendingSave = false;
             } catch (renameErr: any) {
                 setTimeout(() => {
                     try {
                         if (fs.existsSync(tmpFile)) fs.renameSync(tmpFile, STORAGE_FILE);
+                        this.pendingSave = false;
                     } catch (e2: any) {
                         console.error('[ERRO STORAGE] Renomeação após retry:', e2.message);
                     }
                 }, 500);
             }
-            this.pendingSave = false;
         } catch (e: any) {
             console.error('[ERRO STORAGE]', e.message);
         }
     }
 
-    // NOVO: salva tudo ao encerrar o bot (Ctrl+C / SIGTERM)
     public shutdown(): void {
         try {
             this.saveSync();
@@ -196,7 +191,6 @@ export class StorageManager {
         } catch (e) { }
     }
 
-    // NOVO: poda periódica para o bot_storage.json não crescer sem limite
     public pruneStorage(): void {
         const now = Date.now();
         const SEVEN_DAYS = 7 * 24 * 60 * 60 * 1000;
@@ -320,31 +314,28 @@ export class StorageManager {
         if (featureKey === 'antilink') this.data.antilink[chatId] = enabled;
         if (featureKey === 'antifake') this.data.antifake[chatId] = enabled;
         if (featureKey === 'antiflood') this.data.antiflood[chatId] = enabled;
-        if (featureKey === 'antighost') this.data.antighost[chatId] = enabled;
         if (featureKey === 'antinsfw') this.data.antinsfw[chatId] = enabled;
         if (featureKey === 'audio_transcribe') this.data.autoTranscribe[chatId] = enabled;
         if (featureKey === 'antidelete') this.data.antidelete[chatId] = enabled;
-        if (featureKey === 'jarvis') this.data.jarvisMode[chatId] = enabled;
         if (featureKey === 'auto') this.data.autoAnim[chatId] = enabled;
 
         this.flagSave();
     }
 
-    // NOVO: gera ID sequencial único para o Correio Anônimo
     public generateAnonId(): string {
         if (!this.data.anonCounter) this.data.anonCounter = 1000;
         this.data.anonCounter++;
         this.flagSave();
-        return `A${this.data.anonCounter}`;
+        return 'A' + this.data.anonCounter;
     }
 
-    // CORREÇÃO: advertências SEM auto-ban — a remoção é decisão exclusiva dos administradores
+    // ADVERTÊNCIAS: 3 advertências = remoção SILENCIOSA (sem aviso público da política)
     public async applyWarning(
         sock: WASocket,
         chatId: string,
         targetJid: string,
         reason: string,
-        limitDefault: number = 2
+        limitDefault: number = 3
     ): Promise<void> {
         const targetNum = targetJid.split('@')[0].split(':')[0].replace(/\D/g, '');
         const targetInfo = getUserInfo(targetJid);
@@ -356,13 +347,31 @@ export class StorageManager {
         const currentWarns = this.data.warnings[chatId][targetNum];
         this.flagSave();
 
+        // Mensagem pública SEM mencionar a política de remoção
         await sock.sendMessage(chatId, {
-            text: `⚠️ *ADVERTÊNCIA REGISTRADA (${currentWarns}/${limit})*\n\n` +
-                `👤 *Membro:* ${targetInfo.mentionTag} (*${targetInfo.pushName}*)\n` +
-                `📱 *Número:* ${targetInfo.formattedNum}\n` +
-                `📝 *Motivo:* ${reason}\n\n` +
-                `_Advertência registrada no sistema. A decisão de remover um integrante é exclusiva dos administradores do grupo._`,
+            text: '⚠️ *ADVERTÊNCIA REGISTRADA (' + currentWarns + '/' + limit + ')*\n\n' +
+                '👤 *Membro:* ' + targetInfo.nameAndNumber + '\n' +
+                '📝 *Motivo:* ' + reason,
             mentions: [targetInfo.jid]
         });
+
+        // 3ª advertência: remoção automática silenciosa
+        if (currentWarns >= limit) {
+            try {
+                await sock.groupParticipantsUpdate(chatId, [targetInfo.jid], 'remove');
+                delete this.data.warnings[chatId][targetNum];
+                this.flagSave();
+
+                const removalCfg = this.data.removalMsgs?.[chatId];
+                const removalText = removalCfg && removalCfg.text
+                    ? removalCfg.text.replace(/\{membro\}/gi, targetInfo.nameAndNumber)
+                    : 'Xiii, acho que o integrante ' + targetInfo.nameAndNumber + ' fez algo de errado, pois foi removido!';
+
+                await sock.sendMessage(chatId, { text: removalText, mentions: [targetInfo.jid] });
+                console.log('[WARN AUTO-REMOVE] ' + targetInfo.nameAndNumber + ' removido após ' + currentWarns + ' advertências.');
+            } catch (e: any) {
+                console.error('[ERRO AUTO-REMOVE WARN]', e.message);
+            }
+        }
     }
 }

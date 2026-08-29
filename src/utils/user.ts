@@ -8,7 +8,6 @@ export interface UserDisplayInfo {
     mentionTag: string;
 }
 
-// CORREÇÃO: exportado para permitir consulta/persistência externa
 export const contactCache: Record<string, { name: string; time: number }> = {};
 export const lidMap: Record<string, string> = {};
 
@@ -42,22 +41,21 @@ export function formatPhoneNumber(rawNum: string): string {
         const ddd = num.slice(2, 4);
         const rest = num.slice(4);
         if (rest.length === 9) {
-            return `+55 (${ddd}) ${rest.slice(0, 5)}-${rest.slice(5)}`;
+            return '+55 (' + ddd + ') ' + rest.slice(0, 5) + '-' + rest.slice(5);
         } else if (rest.length === 8) {
-            return `+55 (${ddd}) ${rest.slice(0, 4)}-${rest.slice(4)}`;
+            return '+55 (' + ddd + ') ' + rest.slice(0, 4) + '-' + rest.slice(4);
         }
     }
     if (num.length > 13) {
         return '';
     }
-    return `+${num}`;
+    return '+' + num;
 }
 
 export function extractRawNumber(userIdOrMention: string): string {
     if (!userIdOrMention) return '';
     const part = userIdOrMention.split('@')[0].split(':')[0];
     let digits = part.replace(/\D/g, '');
-
     if (lidMap[digits]) {
         digits = lidMap[digits];
     }
@@ -71,16 +69,17 @@ export function getUserInfo(userIdOrMention: string, pushNameHint: string = ''):
             number: 'Desconhecido',
             formattedNum: 'Número Desconhecido',
             pushName: 'Membro',
-            fullDisplay: '@Desconhecido',
+            fullDisplay: 'Membro',
             nameAndNumber: 'Membro',
             mentionTag: '@Desconhecido'
         };
     }
 
+    const originalDigits = userIdOrMention.split('@')[0].split(':')[0].replace(/\D/g, '');
     const rawNum = extractRawNumber(userIdOrMention);
-    const cleanJid = `${rawNum}@s.whatsapp.net`;
+    const cleanJid = rawNum + '@s.whatsapp.net';
     const isLid = rawNum.length > 13;
-    const mentionTag = `@${rawNum}`;
+    const mentionTag = '@' + rawNum;
     const formattedNum = formatPhoneNumber(rawNum);
 
     const isCreator = rawNum === '5511927018683' || rawNum === '54259127210155';
@@ -101,39 +100,32 @@ export function getUserInfo(userIdOrMention: string, pushNameHint: string = ''):
     if (!pushName && contactCache[rawNum] && (Date.now() - contactCache[rawNum].time < 86400000)) {
         pushName = contactCache[rawNum].name;
     }
+    if (!pushName && contactCache[originalDigits] && (Date.now() - contactCache[originalDigits].time < 86400000)) {
+        pushName = contactCache[originalDigits].name;
+    }
     if (pushName) {
         contactCache[rawNum] = { name: pushName, time: Date.now() };
     }
-
     if (pushName.startsWith('@') || pushName === rawNum) {
         pushName = '';
     }
 
-    const finalName = pushName ? pushName : '';
+    // PADRÃO OBRIGATÓRIO: (Nome - Número) — NUNCA exibir ID/LID
     let nameAndNumber = '';
-    let fullDisplay = '';
-
-    if (finalName && !isLid && formattedNum) {
-        nameAndNumber = `*${finalName}* - ${formattedNum}`;
-        fullDisplay = `*${finalName}* - ${formattedNum}`;
-    } else if (finalName && isLid) {
-        nameAndNumber = `*${finalName}*`;
-        fullDisplay = `*${finalName}*`;
-    } else if (!finalName && !isLid && formattedNum) {
-        nameAndNumber = formattedNum;
-        fullDisplay = formattedNum;
+    if (!isLid && formattedNum) {
+        nameAndNumber = pushName ? ('*' + pushName + '* - ' + formattedNum) : formattedNum;
     } else {
-        nameAndNumber = `*Novo Membro* - ${formattedNum || `@${rawNum}`}`;
-        fullDisplay = `*Novo Membro* - ${formattedNum || `@${rawNum}`}`;
+        // LID não resolvido: mostra só o nome, jamais o ID
+        nameAndNumber = pushName ? ('*' + pushName + '*') : '*Membro*';
     }
 
     return {
         jid: cleanJid,
         number: rawNum,
         formattedNum: formattedNum || rawNum,
-        pushName: finalName,
-        fullDisplay,
-        nameAndNumber,
-        mentionTag
+        pushName: pushName,
+        fullDisplay: nameAndNumber,
+        nameAndNumber: nameAndNumber,
+        mentionTag: mentionTag
     };
 }
