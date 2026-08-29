@@ -189,9 +189,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2274,
+        "text": 2276,
         "media": 479,
-        "total": 2753
+        "total": 2755
       },
       "184237705699536": {
         "text": 524,
@@ -294,9 +294,9 @@
         "total": 464
       },
       "262182034002040": {
-        "text": 1908,
+        "text": 1910,
         "media": 123,
-        "total": 2031
+        "total": 2033
       },
       "219245581488326": {
         "text": 4,
@@ -9961,10 +9961,6 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Mona, TPM?"
       ],
       "28/08/2026": [
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Nota dó",
-        "Gabriel (145381035905262): Mas é isso mesmo, só concorda",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Brad Pitt ele\n@145381035905262",
-        "Sabrina Bartolucci 🤌🏻 (53537388122141): Sempre",
         "Gabriel (145381035905262): Sou normal pessoal",
         "May (227783724793861): Impressionante como em todo grupo tem a mesma coisa, pode ter um milhão de pessoas e a pessoa foca nos casados , MDS sabe talaricagem pelo amor",
         "May (227783724793861): Kkkkk",
@@ -10460,7 +10456,11 @@
         "Sabrina Bartolucci 🤌🏻 (53537388122141): Bem vindo",
         "Anderson (+2135320166432): Aceitam ?",
         "Gabriel (145381035905262): Tá vivendo bem em paeee",
-        "Dany (262182034002040): Uai, não perde para ninguém, se vem para cá vira concorrência do sr. Paulo"
+        "Dany (262182034002040): Uai, não perde para ninguém, se vem para cá vira concorrência do sr. Paulo",
+        "Dany (262182034002040): Isso que quis dizer",
+        "Gabriel (145381035905262): A sim",
+        "Dany (262182034002040): ACEITO!!!",
+        "Gabriel (145381035905262): Agora faz sentido"
       ]
     },
     "120363428464897153@g.us": {
@@ -18168,6 +18168,30 @@
         "authorName": "Dany",
         "text": "Uai, não perde para ninguém, se vem para cá vira concorrência do sr. Paulo",
         "timestamp": 1787969493289
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Isso que quis dizer",
+        "timestamp": 1787969500335
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "A sim",
+        "timestamp": 1787969513317
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "ACEITO!!!",
+        "timestamp": 1787969517546
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Agora faz sentido",
+        "timestamp": 1787969517700
       }
     ],
     "120363428464897153@g.us": [
@@ -18302,7 +18326,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22792,
+    "120363432018531082@g.us": 22796,
     "120363428464897153@g.us": 6401,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2209,
@@ -149054,6 +149078,30 @@
         "text": "Uai, não perde para ninguém, se vem para cá vira concorrência do sr. Paulo",
         "pushName": "Dany",
         "timestamp": 1787969493289
+      },
+      "3AFB19E902247051851E": {
+        "sender": "262182034002040@lid",
+        "text": "Isso que quis dizer",
+        "pushName": "Dany",
+        "timestamp": 1787969500335
+      },
+      "AC735287A33899D50DFB72CE2E34C05C": {
+        "sender": "145381035905262@lid",
+        "text": "A sim",
+        "pushName": "Gabriel",
+        "timestamp": 1787969513317
+      },
+      "3AB6AFD52F9A96B4C5F9": {
+        "sender": "262182034002040@lid",
+        "text": "ACEITO!!!",
+        "pushName": "Dany",
+        "timestamp": 1787969517546
+      },
+      "ACA40F34B8CCEA9B3CE734404E1FC0A7": {
+        "sender": "145381035905262@lid",
+        "text": "Agora faz sentido",
+        "pushName": "Gabriel",
+        "timestamp": 1787969517700
       }
     },
     "120363428464897153@g.us": {
@@ -203973,7 +204021,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787969493289,
+    "120363432018531082@g.us": 1787969517700,
     "120363428464897153@g.us": 1787969376634,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787964813002,
