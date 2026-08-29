@@ -174,9 +174,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1727,
+        "text": 1728,
         "media": 483,
-        "total": 2210
+        "total": 2211
       },
       "81991328395336": {
         "text": 3979,
@@ -2864,9 +2864,9 @@
         "total": 72
       },
       "2135320166432": {
-        "text": 35,
+        "text": 36,
         "media": 3,
-        "total": 38
+        "total": 39
       },
       "239371546579166": {
         "text": 2,
@@ -10495,7 +10495,9 @@
         "Anderson (+2135320166432): Graças a Deus que quem dormir comigo não terá esse desespero",
         "Celiete Souza (129373172711439): Complicado viu",
         "Anderson (+2135320166432): Ainda bem que sou de boa",
-        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Tem uns que ronca que se engasga"
+        "~🌪️𝓁𝒶𝓎𝒽🦋 (81991328395336): Tem uns que ronca que se engasga",
+        "Anderson (+2135320166432): Kkkkk",
+        "Celiete Souza (129373172711439): Exatamente"
       ]
     },
     "120363428464897153@g.us": {
@@ -18022,6 +18024,18 @@
         "authorName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "text": "Tem uns que ronca que se engasga",
         "timestamp": 1787972859621
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Kkkkk",
+        "timestamp": 1787972865371
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Exatamente",
+        "timestamp": 1787972871549
       }
     ],
     "120363428464897153@g.us": [
@@ -18127,7 +18141,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 22846,
+    "120363432018531082@g.us": 22848,
     "120363428464897153@g.us": 6402,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2227,
@@ -149203,6 +149217,18 @@
         "text": "Tem uns que ronca que se engasga",
         "pushName": "~🌪️𝓁𝒶𝓎𝒽🦋",
         "timestamp": 1787972859621
+      },
+      "ACE2679023F5AECC11BF955E6FA334B8": {
+        "sender": "2135320166432@lid",
+        "text": "Kkkkk",
+        "pushName": "Anderson",
+        "timestamp": 1787972865371
+      },
+      "AC2950C3B77A3D00F1C046C90C73F2AC": {
+        "sender": "129373172711439@lid",
+        "text": "Exatamente",
+        "pushName": "Celiete Souza",
+        "timestamp": 1787972871549
       }
     },
     "120363428464897153@g.us": {
@@ -204236,7 +204262,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1787972859621,
+    "120363432018531082@g.us": 1787972871549,
     "120363428464897153@g.us": 1787972707416,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1787972789844,
