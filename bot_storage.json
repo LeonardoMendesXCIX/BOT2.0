@@ -480,9 +480,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1828,
+        "text": 1830,
         "media": 373,
-        "total": 2201
+        "total": 2203
       },
       "252600633041077": {
         "text": 1,
@@ -7310,7 +7310,9 @@
         "Gabriel: Bote, que vamos usar",
         "Leandro: Vai usar mesmo?",
         "Gabriel: Eu sempre usei",
-        "Leandro: Certeza?"
+        "Leandro: Certeza?",
+        "Leandro: Por que eu tô vendo em uso, só o bot de gestão",
+        "Leandro: Isso por que ele é automático"
       ]
     },
     "120363428464897153@g.us": {
@@ -10611,6 +10613,18 @@
         "authorName": "Leandro",
         "text": "Certeza?",
         "timestamp": 1788030348643
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Por que eu tô vendo em uso, só o bot de gestão",
+        "timestamp": 1788030380012
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Isso por que ele é automático",
+        "timestamp": 1788030391881
       }
     ],
     "120363428464897153@g.us": [],
@@ -10626,12 +10640,12 @@
   },
   "lastJarvisIntervention": {
     "120363409727467494@g.us": 1786781516987,
-    "120363432018531082@g.us": 1788030114211,
+    "120363432018531082@g.us": 1788030380012,
     "120363428464897153@g.us": 1786844627016,
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 3,
+    "120363432018531082@g.us": 1,
     "120363428464897153@g.us": 6425,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2256,
@@ -11243,6 +11257,18 @@
         "text": "Certeza?",
         "pushName": "Leandro",
         "timestamp": 1788030348643
+      },
+      "A5CEDE5912140D849F95CF8FBA46CE2C": {
+        "sender": "54259127210155@lid",
+        "text": "Por que eu tô vendo em uso, só o bot de gestão",
+        "pushName": "Leandro",
+        "timestamp": 1788030380012
+      },
+      "A5C99C335A73AE22B3F78FC85554F46D": {
+        "sender": "54259127210155@lid",
+        "text": "Isso por que ele é automático",
+        "pushName": "Leandro",
+        "timestamp": 1788030391881
       }
     },
     "120363428464897153@g.us": {},
@@ -11472,7 +11498,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788030348643,
+    "120363432018531082@g.us": 1788030391881,
     "120363428464897153@g.us": 1787976748279,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788027730338,
