@@ -10,25 +10,38 @@ export interface UserDisplayInfo {
 
 export const contactCache: Record<string, { name: string; time: number }> = {};
 export const lidMap: Record<string, string> = {};
+// NOVO: banco de perfis (chave = números do jid) -> nome + número real
+export const profilesDB: Record<string, { name?: string; num?: string }> = {};
+
+let contactsLookup: ((jid: string) => { name?: string; num?: string } | null) | null = null;
+export function setContactsLookup(fn: typeof contactsLookup) { contactsLookup = fn; }
+
+// NOVO: registra nome/número vindos de qualquer fonte
+export function rememberProfile(jidOrNum: string, name?: string, realNum?: string) {
+    const key = (jidOrNum || '').split('@')[0].split(':')[0].replace(/\D/g, '');
+    if (!key) return;
+    if (!profilesDB[key]) profilesDB[key] = {};
+    if (name && name.trim() && name.trim() !== 'Membro') profilesDB[key].name = name.trim();
+    if (realNum) {
+        const rn = String(realNum).replace(/\D/g, '');
+        if (rn && rn.length <= 13) profilesDB[key].num = rn;
+    }
+}
 
 export function updateLidMapping(participants: any[]): void {
     if (!participants) return;
     for (const p of participants) {
-        if (p.id) {
-            const cleanId = p.id.split('@')[0].split(':')[0].replace(/\D/g, '');
-            if (p.lid) {
-                const cleanLid = p.lid.split('@')[0].split(':')[0].replace(/\D/g, '');
-                if (cleanId && cleanLid && cleanId !== cleanLid) {
-                    lidMap[cleanLid] = cleanId;
-                }
-            }
-            const name = p.name || p.notify || p.verifiedName;
-            if (cleanId && name) {
-                contactCache[cleanId] = { name: name.trim(), time: Date.now() };
-            }
-            if (p.lid && name) {
-                const cleanLid = p.lid.split('@')[0].split(':')[0].replace(/\D/g, '');
-                contactCache[cleanLid] = { name: name.trim(), time: Date.now() };
+        if (!p.id) continue;
+        const cleanId = p.id.split('@')[0].split(':')[0].replace(/\D/g, '');
+        const cleanLid = p.lid ? p.lid.split('@')[0].split(':')[0].replace(/\D/g, '') : '';
+        if (cleanLid && cleanId && cleanLid !== cleanId) lidMap[cleanLid] = cleanId;
+        const name = p.name || p.notify || p.verifiedName;
+        if (name) {
+            contactCache[cleanId] = { name, time: Date.now() };
+            rememberProfile(cleanId, name);
+            if (cleanLid) {
+                contactCache[cleanLid] = { name, time: Date.now() };
+                rememberProfile(cleanLid, name, cleanId);
             }
         }
     }
@@ -56,9 +69,8 @@ export function extractRawNumber(userIdOrMention: string): string {
     if (!userIdOrMention) return '';
     const part = userIdOrMention.split('@')[0].split(':')[0];
     let digits = part.replace(/\D/g, '');
-    if (lidMap[digits]) {
-        digits = lidMap[digits];
-    }
+    if (lidMap[digits]) digits = lidMap[digits];
+    if (digits.length > 13 && profilesDB[digits] && profilesDB[digits].num) digits = profilesDB[digits].num!;
     return digits;
 }
 
@@ -76,47 +88,48 @@ export function getUserInfo(userIdOrMention: string, pushNameHint: string = ''):
     }
 
     const originalDigits = userIdOrMention.split('@')[0].split(':')[0].replace(/\D/g, '');
-    const rawNum = extractRawNumber(userIdOrMention);
+    let rawNum = extractRawNumber(userIdOrMention);
     const cleanJid = rawNum + '@s.whatsapp.net';
     const isLid = rawNum.length > 13;
     const mentionTag = '@' + rawNum;
     const formattedNum = formatPhoneNumber(rawNum);
 
     const isCreator = rawNum === '5511927018683' || rawNum === '54259127210155';
-
     if (isCreator) {
         return {
             jid: cleanJid,
             number: '5511927018683',
             formattedNum: '+55 (11) 92701-8683',
             pushName: 'Leandro',
-            fullDisplay: '*Leandro* - +55 (11) 92701-8683',
-            nameAndNumber: '*Leandro* - +55 (11) 92701-8683',
+            fullDisplay: 'Leandro - +55 (11) 92701-8683',
+            nameAndNumber: 'Leandro - +55 (11) 92701-8683',
             mentionTag: '@5511927018683'
         };
     }
 
-    let pushName = pushNameHint ? pushNameHint.trim() : '';
-    if (!pushName && contactCache[rawNum] && (Date.now() - contactCache[rawNum].time < 86400000)) {
-        pushName = contactCache[rawNum].name;
-    }
-    if (!pushName && contactCache[originalDigits] && (Date.now() - contactCache[originalDigits].time < 86400000)) {
-        pushName = contactCache[originalDigits].name;
+    // Resolução de nome em várias fontes (padrão Nome - Número em todo o projeto)
+    let pushName = (pushNameHint || '').trim();
+    if (!pushName) pushName = (contactCache[rawNum] && contactCache[rawNum].name) || '';
+    if (!pushName) pushName = (profilesDB[rawNum] && profilesDB[rawNum].name) || '';
+    if (!pushName) pushName = (profilesDB[originalDigits] && profilesDB[originalDigits].name) || '';
+    if (!pushName) pushName = (contactCache[originalDigits] && contactCache[originalDigits].name) || '';
+    if (!pushName && contactsLookup) {
+        const r = contactsLookup(userIdOrMention) || (originalDigits !== rawNum ? contactsLookup(originalDigits + '@s.whatsapp.net') : null);
+        if (r && r.name) pushName = r.name;
     }
     if (pushName) {
         contactCache[rawNum] = { name: pushName, time: Date.now() };
+        rememberProfile(rawNum, pushName);
+        rememberProfile(originalDigits, pushName, rawNum);
     }
-    if (pushName.startsWith('@') || pushName === rawNum) {
-        pushName = '';
-    }
+    if (pushName.startsWith('@') || pushName === rawNum) pushName = '';
 
-    // PADRÃO OBRIGATÓRIO: (Nome - Número) — NUNCA exibir ID/LID
-    let nameAndNumber = '';
-    if (!isLid && formattedNum) {
-        nameAndNumber = pushName ? ('*' + pushName + '* - ' + formattedNum) : formattedNum;
+    // PADRÃO OBRIGATÓRIO: "Nome - +55XXXXXXXXXXX"
+    let nameAndNumber: string;
+    if (formattedNum) {
+        nameAndNumber = pushName ? (pushName + ' - ' + formattedNum) : formattedNum;
     } else {
-        // LID não resolvido: mostra só o nome, jamais o ID
-        nameAndNumber = pushName ? ('*' + pushName + '*') : '*Membro*';
+        nameAndNumber = pushName || 'Membro';
     }
 
     return {

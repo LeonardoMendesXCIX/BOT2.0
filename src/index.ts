@@ -1,7 +1,8 @@
 import makeWASocket, {
     useMultiFileAuthState,
     DisconnectReason,
-    fetchLatestBaileysVersion
+    fetchLatestBaileysVersion,
+    makeInMemoryStore
 } from '@whiskeysockets/baileys';
 import pino from 'pino';
 import qrcode from 'qrcode-terminal';
@@ -9,7 +10,7 @@ import cron from 'node-cron';
 import { StorageManager } from './database/storage';
 import { handleCommand } from './handlers/commands';
 import { setupGroupEvents } from './handlers/events';
-import { getUserInfo, extractRawNumber } from './utils/user';
+import { getUserInfo, extractRawNumber, rememberProfile, setContactsLookup } from './utils/user';
 import { checkMatch } from './config/rbac';
 import { startWebServer } from './services/webServer';
 import { getFunnyMessage } from './services/funnyMessages';
@@ -50,6 +51,18 @@ let reconnectDelay = 3000;
 let lastDisconnectAt = 0;
 let downStartStr = '';
 let watchdogNotified = false;
+
+// NOVO: banco de contatos do Baileys (nomes registrados no WhatsApp)
+const store = makeInMemoryStore({ logger: pino({ level: 'silent' }).child({ stream: 'store' }) });
+try { store.readFromFile('./baileys_store.json'); } catch (e) { }
+setInterval(() => { try { store.writeToFile('./baileys_store.json'); } catch (e) { } }, 60000);
+
+// Liga o banco de contatos ao getUserInfo (resolve nomes em todo o projeto)
+setContactsLookup((jid) => {
+    const c = (store as any).contacts && (store as any).contacts[jid];
+    if (c && (c.name || c.notify)) return { name: c.name || c.notify, num: undefined };
+    return null;
+});
 
 startWebServer(() => sockInstance, storage, parseInt(process.env.WEB_PORT || '3000', 10));
 
@@ -164,7 +177,7 @@ cron.schedule('*/5 * * * *', () => {
     storage.purgeExpiredClusters();
 });
 
-// NOVO: ANTIFAKE AUTOMÁTICO — varredura a cada 2 MINUTOS em todos os grupos que o bot é admin
+// ANTIFAKE AUTOMÁTICO: varredura a cada 2 minutos
 setInterval(async () => {
     if (!sockInstance) return;
     const groupSet = new Set<string>([
@@ -256,6 +269,14 @@ async function startBot() {
     });
 
     sockInstance = sock;
+    store.bind(sock.ev);
+
+    // NOVO: alimenta o banco de perfis com os contatos sincronizados do WhatsApp
+    sock.ev.on('contacts.upsert', (contacts) => {
+        for (const c of contacts) {
+            rememberProfile(c.id, c.name || c.notify);
+        }
+    });
 
     sock.ev.on('creds.update', saveCreds);
 
@@ -338,6 +359,12 @@ async function startBot() {
         for (const msg of m.messages) {
             if (!msg.message || msg.key.fromMe || !msg.key.remoteJid) continue;
 
+            // NOVO: registra nome + número real de quem manda mensagem (alimenta o padrão Nome - Número)
+            const senderPn = (msg.key as any).senderPn;
+            if (msg.pushName) {
+                rememberProfile(msg.key.participant || msg.key.remoteJid, msg.pushName, senderPn);
+            }
+
             const rawTs: any = (msg as any).messageTimestamp;
             const tsSec = typeof rawTs === 'number' ? rawTs : (rawTs?.low ?? rawTs?.toNumber?.() ?? 0);
             const msgTime = Number(tsSec) * 1000;
@@ -395,7 +422,7 @@ async function startBot() {
                         } else if (userText.includes('{numero}')) {
                             userText = userText.replace(/\{numero\}/gi, memberInfo.formattedNum);
                         } else {
-                            userText = '👋 ' + memberInfo.nameAndNumber + '\n\n' + userText;
+                            userText = userText + '\n\n👋 ' + memberInfo.nameAndNumber;
                         }
 
                         const fullText = '📢 @todos @all\n\n' + userText;
