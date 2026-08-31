@@ -675,8 +675,8 @@
       },
       "86793403801839": {
         "text": 65,
-        "media": 7,
-        "total": 72
+        "media": 8,
+        "total": 73
       },
       "78070107140221": {
         "text": 7,
@@ -1574,9 +1574,9 @@
         "total": 4
       },
       "272048228188398": {
-        "text": 134,
+        "text": 135,
         "media": 28,
-        "total": 162
+        "total": 163
       },
       "55959196049495": {
         "text": 6,
@@ -2979,9 +2979,9 @@
         "total": 1
       },
       "166452229341300": {
-        "text": 24,
+        "text": 25,
         "media": 1,
-        "total": 25
+        "total": 26
       }
     },
     "120363428464897153@g.us": {
@@ -7452,8 +7452,6 @@
         "Rodolfo Carmona Mazon: Geral é de Sorocaba?"
       ],
       "31/08/2026": [
-        "Leandro: !del",
-        "Leandro: Fazendo uns ajustes 🌝",
         "Leandro: !sa 💥 BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Queremos conhecer você! ✨\n\n📸 Sua foto:\n💬 Nome:\n🎂 Idade:\n📍 De onde sou:\n\n*🫶🏻 Seja bem-vindo(a)!*\n\n✨ Sinta-se à vontade para interagir, conhecer a galera e faze",
         "Leandro: !del",
         "Leandro: !del",
@@ -7951,7 +7949,9 @@
         "Srt Sousah: Obrigada princesa",
         "Sabrina Bartolucci 🤌🏻: 🥰🥰",
         "Srt Sousah: Obrigado príncipe",
-        "Srt Sousah: Se for velho \nLeva o tadala"
+        "Srt Sousah: Se for velho \nLeva o tadala",
+        "Lailson Nathan.: Bonita mesmo, tua chance irmão.",
+        "Srt Sousah: Desculpa a pergunta \nMais quem é essa lay?"
       ]
     },
     "120363428464897153@g.us": {
@@ -11393,12 +11393,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Oiê ❤️",
-        "timestamp": 1788217584550
-      },
-      {
         "authorNum": "2135320166432",
         "authorName": "Anderson",
         "text": "Oi amor ❤️",
@@ -11769,6 +11763,18 @@
         "authorName": "Srt Sousah",
         "text": "Se for velho \nLeva o tadala",
         "timestamp": 1788219373103
+      },
+      {
+        "authorNum": "272048228188398",
+        "authorName": "Lailson Nathan.",
+        "text": "Bonita mesmo, tua chance irmão.",
+        "timestamp": 1788219405368
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Srt Sousah",
+        "text": "Desculpa a pergunta \nMais quem é essa lay?",
+        "timestamp": 1788219416433
       }
     ],
     "120363428464897153@g.us": [
@@ -11839,7 +11845,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 1424,
+    "120363432018531082@g.us": 1426,
     "120363428464897153@g.us": 6471,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2408,
@@ -21082,6 +21088,18 @@
         "text": "Se for velho \nLeva o tadala",
         "pushName": "Srt Sousah",
         "timestamp": 1788219373103
+      },
+      "ACF8BA990B12B163288A2CAFF6A9BAA4": {
+        "sender": "272048228188398@lid",
+        "text": "Bonita mesmo, tua chance irmão.",
+        "pushName": "Lailson Nathan.",
+        "timestamp": 1788219405368
+      },
+      "A5E97BDF59CFE5BCE2C68B581D9847A3": {
+        "sender": "166452229341300@lid",
+        "text": "Desculpa a pergunta \nMais quem é essa lay?",
+        "pushName": "Srt Sousah",
+        "timestamp": 1788219416433
       }
     },
     "120363428464897153@g.us": {
@@ -22844,7 +22862,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788219373103,
+    "120363432018531082@g.us": 1788219416433,
     "120363428464897153@g.us": 1788219191019,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788219308141,
