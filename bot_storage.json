@@ -2734,9 +2734,9 @@
         "total": 2
       },
       "108461127897146": {
-        "text": 279,
+        "text": 280,
         "media": 41,
-        "total": 320
+        "total": 321
       },
       "10050861031495": {
         "text": 0,
@@ -7437,7 +7437,6 @@
         "Rodolfo Carmona Mazon: Geral é de Sorocaba?"
       ],
       "31/08/2026": [
-        "Celiete Souza: Oi?? Da onde",
         "Souza: Tem 90 ela",
         "Camila Designer: Ficar tentando entender em quem você quer dar o golpe",
         "Juliano Perlin: Eu nao sou golpista🥹",
@@ -7936,7 +7935,8 @@
         "Srt Sousah: ??",
         "Srt Sousah: Qual cidade?",
         "Anderson: Bem também",
-        "jaciara: Eu sou de Fortaleza dos Nogueiras"
+        "jaciara: Eu sou de Fortaleza dos Nogueiras",
+        "jaciara: Que bom ☺️"
       ]
     },
     "120363428464897153@g.us": {
@@ -11554,6 +11554,12 @@
         "authorName": "jaciara",
         "text": "Eu sou de Fortaleza dos Nogueiras",
         "timestamp": 1788217822108
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Que bom ☺️",
+        "timestamp": 1788217832595
       }
     ],
     "120363428464897153@g.us": [],
@@ -11574,7 +11580,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 1378,
+    "120363432018531082@g.us": 1379,
     "120363428464897153@g.us": 6464,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2407,
@@ -20526,6 +20532,12 @@
         "text": "Eu sou de Fortaleza dos Nogueiras",
         "pushName": "jaciara",
         "timestamp": 1788217822108
+      },
+      "AC0A775E7DEEA9834904D64F58AC6197": {
+        "sender": "108461127897146@lid",
+        "text": "Que bom ☺️",
+        "pushName": "jaciara",
+        "timestamp": 1788217832596
       }
     },
     "120363428464897153@g.us": {
@@ -22240,7 +22252,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788217822108,
+    "120363432018531082@g.us": 1788217832595,
     "120363428464897153@g.us": 1788203369966,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788203617394,
