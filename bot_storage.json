@@ -2824,9 +2824,9 @@
         "total": 5
       },
       "247020967165997": {
-        "text": 273,
+        "text": 274,
         "media": 37,
-        "total": 310
+        "total": 311
       },
       "206253020176458": {
         "text": 46,
@@ -2979,9 +2979,9 @@
         "total": 1
       },
       "166452229341300": {
-        "text": 36,
+        "text": 39,
         "media": 2,
-        "total": 38
+        "total": 41
       },
       "247150369894475": {
         "text": 4,
@@ -7477,9 +7477,6 @@
         "Rodolfo Carmona Mazon: Geral é de Sorocaba?"
       ],
       "31/08/2026": [
-        "🐦‍🔥: nem eu kkkk",
-        "Arthur: Bonita boa tarde",
-        "Gleydson Souza: Bem vinda",
         "Rafael Moura: Interessante",
         "negoh🐻: Bem novinha e gotosa",
         "Rafael Moura: Vish brotou pessoa que nunca vi",
@@ -7976,7 +7973,10 @@
         "Sabrina Bartolucci 🤌🏻: Bem vindo!",
         "Juliano Perlin: Oii meu docinho🥹",
         "🙏☝️: @54013592617050 É daqui tbm?",
-        "🙏☝️: Obrigado!"
+        "🙏☝️: Obrigado!",
+        "Layaninha: O que você deixou cai no chão ?",
+        "Layaninha: Poxa",
+        "Layaninha: Gosto de ver rostos"
       ]
     },
     "120363428464897153@g.us": {
@@ -11452,42 +11452,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "54013592617050",
-        "authorName": "🐦‍🔥",
-        "text": "eu só quero dormir",
-        "timestamp": 1788218410082
-      },
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Srt Sousah",
-        "text": "Layane\n\n27 anos\n\nSão Mateus-ma\n\nEntrei a procura de um vein da lancha (Sorry)\n\nEntrei pelo link de uma Layh no Kwai \n\nGosto de zuar, não m leve mto a sério\nO PV tá quebrado",
-        "timestamp": 1788218421704
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Isso mesmo",
-        "timestamp": 1788218422691
-      },
-      {
-        "authorNum": "54013592617050",
-        "authorName": "🐦‍🔥",
-        "text": "estou em pé desde 4",
-        "timestamp": 1788218430886
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Todo seu esforço vai valer a pena",
-        "timestamp": 1788218452786
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Acredite",
-        "timestamp": 1788218456175
-      },
-      {
         "authorNum": "247020967165997",
         "authorName": "Gabi 💋",
         "text": "Seja bem vinda",
@@ -11978,6 +11942,24 @@
         "authorName": "🙏☝️",
         "text": "Obrigado!",
         "timestamp": 1788220192840
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Layaninha",
+        "text": "O que você deixou cai no chão ?",
+        "timestamp": 1788220279357
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Layaninha",
+        "text": "Poxa",
+        "timestamp": 1788220280958
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Layaninha",
+        "text": "Gosto de ver rostos",
+        "timestamp": 1788220287156
       }
     ],
     "120363428464897153@g.us": [
@@ -12252,7 +12234,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 1492,
+    "120363432018531082@g.us": 1495,
     "120363428464897153@g.us": 6496,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2417,
@@ -21891,6 +21873,24 @@
         "text": "Obrigado!",
         "pushName": "🙏☝️",
         "timestamp": 1788220192840
+      },
+      "A504E68271FB6B7A2642EAE4510FB7D7": {
+        "sender": "166452229341300@lid",
+        "text": "O que você deixou cai no chão ?",
+        "pushName": "Layaninha",
+        "timestamp": 1788220279357
+      },
+      "A5283C2DB34693EBF84602EA411727B6": {
+        "sender": "166452229341300@lid",
+        "text": "Poxa",
+        "pushName": "Layaninha",
+        "timestamp": 1788220280958
+      },
+      "A57E26937339F3FFE6FD228C6EAA857A": {
+        "sender": "166452229341300@lid",
+        "text": "Gosto de ver rostos",
+        "pushName": "Layaninha",
+        "timestamp": 1788220287156
       }
     },
     "120363428464897153@g.us": {
@@ -23857,7 +23857,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788220252749,
+    "120363432018531082@g.us": 1788220287156,
     "120363428464897153@g.us": 1788220233126,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788219832739,
