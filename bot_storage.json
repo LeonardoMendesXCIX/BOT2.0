@@ -2929,9 +2929,9 @@
         "total": 6
       },
       "67392566734987": {
-        "text": 3,
+        "text": 4,
         "media": 1,
-        "total": 4
+        "total": 5
       },
       "59588929921175": {
         "text": 9,
@@ -3486,9 +3486,9 @@
         "total": 15
       },
       "120044990287992": {
-        "text": 219,
-        "media": 15,
-        "total": 234
+        "text": 220,
+        "media": 16,
+        "total": 236
       },
       "71120413843690": {
         "text": 2,
@@ -3656,9 +3656,9 @@
         "total": 2
       },
       "166452229341300": {
-        "text": 2,
+        "text": 3,
         "media": 1,
-        "total": 3
+        "total": 4
       },
       "109508781207612": {
         "text": 6,
@@ -7472,7 +7472,6 @@
         "Rodolfo Carmona Mazon: Geral é de Sorocaba?"
       ],
       "31/08/2026": [
-        "~🌪️𝓁𝒶𝓎𝒽🦋: quando fui ve expirou",
         "negoh🐻: Expira é?",
         "Anderson: Foi isso que eu disse ontem! Quando alguém quer corre atrás",
         "~🌪️𝓁𝒶𝓎𝒽🦋: o meu apareceu foto expirada",
@@ -7971,7 +7970,8 @@
         "Juliano Perlin: Espera, deixa eu juntar minha guampa que caiu aqui",
         "Juliano Perlin: 🤣🤣🤣🤣🤣",
         "🐦‍🔥: Perdeu play boy",
-        "🐦‍🔥: qual parte de guarulhos?"
+        "🐦‍🔥: qual parte de guarulhos?",
+        "🙏☝️: Pimentas"
       ]
     },
     "120363428464897153@g.us": {
@@ -9496,7 +9496,9 @@
         "pãobão 😂: Estão msm kkkk",
         "Layaninha: Não achei",
         "pãobão 😂: Obg",
-        "pãobão 😂: E olha q eu nem cuido tão bem assim kk"
+        "pãobão 😂: E olha q eu nem cuido tão bem assim kk",
+        "negoh🐻: Bem vinda d+",
+        "Layaninha: Obrigada"
       ]
     },
     "120363409727467494@g.us": {
@@ -11433,12 +11435,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "54013592617050",
-        "authorName": "🐦‍🔥",
-        "text": "eu quero ir embora galerinha",
-        "timestamp": 1788218292562
-      },
-      {
         "authorNum": "247020967165997",
         "authorName": "Gabi 💋",
         "text": "Meu Deus",
@@ -11965,6 +11961,12 @@
         "authorName": "🐦‍🔥",
         "text": "qual parte de guarulhos?",
         "timestamp": 1788220073239
+      },
+      {
+        "authorNum": "67392566734987",
+        "authorName": "🙏☝️",
+        "text": "Pimentas",
+        "timestamp": 1788220093219
       }
     ],
     "120363428464897153@g.us": [
@@ -12075,6 +12077,18 @@
         "authorName": "pãobão 😂",
         "text": "E olha q eu nem cuido tão bem assim kk",
         "timestamp": 1788220069980
+      },
+      {
+        "authorNum": "120044990287992",
+        "authorName": "negoh🐻",
+        "text": "Bem vinda d+",
+        "timestamp": 1788220079763
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Layaninha",
+        "text": "Obrigada",
+        "timestamp": 1788220097133
       }
     ],
     "120363409727467494@g.us": [],
@@ -12155,8 +12169,8 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 1485,
-    "120363428464897153@g.us": 6482,
+    "120363432018531082@g.us": 1486,
+    "120363428464897153@g.us": 6484,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2417,
     "120363411233423709@g.us": 5,
@@ -21752,6 +21766,12 @@
         "text": "qual parte de guarulhos?",
         "pushName": "🐦‍🔥",
         "timestamp": 1788220073239
+      },
+      "ACE4F9F523ACD8FC5AE2341CC7B42A12": {
+        "sender": "67392566734987@lid",
+        "text": "Pimentas",
+        "pushName": "🙏☝️",
+        "timestamp": 1788220093219
       }
     },
     "120363428464897153@g.us": {
@@ -22096,6 +22116,18 @@
         "text": "E olha q eu nem cuido tão bem assim kk",
         "pushName": "pãobão 😂",
         "timestamp": 1788220069981
+      },
+      "ACE4A0C16E1C8A25998E1C80F42DFAA8": {
+        "sender": "120044990287992@lid",
+        "text": "Bem vinda d+",
+        "pushName": "negoh🐻",
+        "timestamp": 1788220079763
+      },
+      "A532E6CD6F6E1B2EB3059A4B2AA85E1E": {
+        "sender": "166452229341300@lid",
+        "text": "Obrigada",
+        "pushName": "Layaninha",
+        "timestamp": 1788220097133
       }
     },
     "120363409727467494@g.us": {},
@@ -23634,8 +23666,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788220073239,
-    "120363428464897153@g.us": 1788220069980,
+    "120363432018531082@g.us": 1788220093219,
+    "120363428464897153@g.us": 1788220111712,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788219832739,
     "120363411233423709@g.us": 1787113553426,
