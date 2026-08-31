@@ -214,9 +214,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2304,
+        "text": 2305,
         "media": 481,
-        "total": 2785
+        "total": 2786
       },
       "184237705699536": {
         "text": 524,
@@ -410,8 +410,8 @@
       },
       "222595437858867": {
         "text": 653,
-        "media": 65,
-        "total": 718
+        "media": 66,
+        "total": 719
       },
       "83280154103884": {
         "text": 36,
@@ -2889,9 +2889,9 @@
         "total": 72
       },
       "2135320166432": {
-        "text": 194,
+        "text": 195,
         "media": 25,
-        "total": 219
+        "total": 220
       },
       "239371546579166": {
         "text": 2,
@@ -3661,14 +3661,14 @@
         "total": 2
       },
       "166452229341300": {
-        "text": 12,
+        "text": 13,
         "media": 1,
-        "total": 13
+        "total": 14
       },
       "109508781207612": {
-        "text": 11,
-        "media": 0,
-        "total": 11
+        "text": 14,
+        "media": 1,
+        "total": 15
       }
     },
     "120363409727467494@g.us": {
@@ -7477,8 +7477,6 @@
         "Rodolfo Carmona Mazon: Geral é de Sorocaba?"
       ],
       "31/08/2026": [
-        "Sabrina Bartolucci 🤌🏻: Óbvio! Sempre",
-        "~🌪️𝓁𝒶𝓎𝒽🦋: lindaaaa🥰",
         "Sabrina Bartolucci 🤌🏻: Passo o facão não",
         "Gabi 💋: Linda",
         "~🌪️𝓁𝒶𝓎𝒽🦋: sim.",
@@ -7976,7 +7974,9 @@
         "Layaninha: Gosto de ver rostos",
         "Juliano Perlin: Ainda colocou a maozinha de italiano pra mim🥹..capixe??🤌🏻",
         "Juliano Perlin: Kkkkk",
-        "Gabriel: Maravilha"
+        "Gabriel: Maravilha",
+        "Gabriel: Saudações",
+        "Anderson: Agora que eu vi olhar seu sobrenome  tu é dona do Milan da italia?🤔"
       ]
     },
     "120363428464897153@g.us": {
@@ -9517,7 +9517,11 @@
         "pãobão 😂: Para cntg tbm sua vc e uma mulher bonita elegante",
         "Sabrina Bartolucci 🤌🏻: Obrigada meu beeeem! Prazer, Sabrina!\nDiretora daqui",
         "Layaninha: 🥲quer me dá um pote de creme \nCê fala",
-        "Layaninha: 🤣🤣🤣🤣"
+        "Layaninha: 🤣🤣🤣🤣",
+        "Layaninha: Zuando",
+        "pãobão 😂: Qual vc usa ?",
+        "pãobão 😂: Kkkkkkk",
+        "pãobão 😂: Euserve ?"
       ]
     },
     "120363409727467494@g.us": {
@@ -11454,18 +11458,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Seja bem vinda",
-        "timestamp": 1788218528743
-      },
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Srt Sousah",
-        "text": "Obgd",
-        "timestamp": 1788218536137
-      },
-      {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Bem vinda!",
@@ -11980,6 +11972,18 @@
         "authorName": "Gabriel",
         "text": "Maravilha",
         "timestamp": 1788220314377
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Saudações",
+        "timestamp": 1788220337479
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Agora que eu vi olhar seu sobrenome  tu é dona do Milan da italia?🤔",
+        "timestamp": 1788220358919
       }
     ],
     "120363428464897153@g.us": [
@@ -12186,6 +12190,30 @@
         "authorName": "Layaninha",
         "text": "🤣🤣🤣🤣",
         "timestamp": 1788220315115
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Layaninha",
+        "text": "Zuando",
+        "timestamp": 1788220319898
+      },
+      {
+        "authorNum": "109508781207612",
+        "authorName": "pãobão 😂",
+        "text": "Qual vc usa ?",
+        "timestamp": 1788220324317
+      },
+      {
+        "authorNum": "109508781207612",
+        "authorName": "pãobão 😂",
+        "text": "Kkkkkkk",
+        "timestamp": 1788220325656
+      },
+      {
+        "authorNum": "109508781207612",
+        "authorName": "pãobão 😂",
+        "text": "Euserve ?",
+        "timestamp": 1788220330364
       }
     ],
     "120363409727467494@g.us": [],
@@ -12266,8 +12294,8 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 1498,
-    "120363428464897153@g.us": 6498,
+    "120363432018531082@g.us": 1500,
+    "120363428464897153@g.us": 6502,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2417,
     "120363411233423709@g.us": 5,
@@ -21941,6 +21969,18 @@
         "text": "Maravilha",
         "pushName": "Gabriel",
         "timestamp": 1788220314377
+      },
+      "AC47BA0C0FE6BDEEFFC2CFF527B81F81": {
+        "sender": "145381035905262@lid",
+        "text": "Saudações",
+        "pushName": "Gabriel",
+        "timestamp": 1788220337480
+      },
+      "ACAF2D296870B41E68CCA509219E126D": {
+        "sender": "2135320166432@lid",
+        "text": "Agora que eu vi olhar seu sobrenome  tu é dona do Milan da italia?🤔",
+        "pushName": "Anderson",
+        "timestamp": 1788220358919
       }
     },
     "120363428464897153@g.us": {
@@ -22381,6 +22421,30 @@
         "text": "🤣🤣🤣🤣",
         "pushName": "Layaninha",
         "timestamp": 1788220315115
+      },
+      "A51D1C198AA067B635E86DBEE5A77D83": {
+        "sender": "166452229341300@lid",
+        "text": "Zuando",
+        "pushName": "Layaninha",
+        "timestamp": 1788220319898
+      },
+      "ACB8B5E0272D8737AEF64C33E22FDA30": {
+        "sender": "109508781207612@lid",
+        "text": "Qual vc usa ?",
+        "pushName": "pãobão 😂",
+        "timestamp": 1788220324317
+      },
+      "AC36AEFF6B27EE029FE9336E1E8B1435": {
+        "sender": "109508781207612@lid",
+        "text": "Kkkkkkk",
+        "pushName": "pãobão 😂",
+        "timestamp": 1788220325656
+      },
+      "ACF144991CDD0EFCD8BF9DE4727EEC30": {
+        "sender": "109508781207612@lid",
+        "text": "Euserve ?",
+        "pushName": "pãobão 😂",
+        "timestamp": 1788220330364
       }
     },
     "120363409727467494@g.us": {},
@@ -23919,8 +23983,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788220314377,
-    "120363428464897153@g.us": 1788220315115,
+    "120363432018531082@g.us": 1788220358919,
+    "120363428464897153@g.us": 1788220333772,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788219832739,
     "120363411233423709@g.us": 1787113553426,
