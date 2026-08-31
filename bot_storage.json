@@ -3629,6 +3629,11 @@
         "text": 3,
         "media": 0,
         "total": 3
+      },
+      "247020967165997": {
+        "text": 4,
+        "media": 0,
+        "total": 4
       }
     },
     "120363409727467494@g.us": {
@@ -9443,7 +9448,10 @@
         "Sabrina Bartolucci 🤌🏻: Povo tudo animado",
         "Sabrina Bartolucci 🤌🏻: Se aquieeeeeetem",
         "Sabrina Bartolucci 🤌🏻: 16h da tarde ainda",
-        "Leandro: Pois então"
+        "Leandro: Pois então",
+        "Gabi 💋: Bora interagir",
+        "Gabi 💋: Ou está morto hoje",
+        "Gabi 💋: Boa noite"
       ]
     },
     "120363409727467494@g.us": {
@@ -11760,7 +11768,26 @@
         "timestamp": 1788218536137
       }
     ],
-    "120363428464897153@g.us": [],
+    "120363428464897153@g.us": [
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Bora interagir",
+        "timestamp": 1788219073945
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Ou está morto hoje",
+        "timestamp": 1788219077999
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Boa noite",
+        "timestamp": 1788219079450
+      }
+    ],
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [],
     "120363411233423709@g.us": [],
@@ -11779,7 +11806,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 1412,
-    "120363428464897153@g.us": 6464,
+    "120363428464897153@g.us": 6467,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2407,
     "120363411233423709@g.us": 5,
@@ -21170,6 +21197,24 @@
         "text": "Pois então",
         "pushName": "Leandro",
         "timestamp": 1788202705772
+      },
+      "ACA07A2D54ECF9455753476AD75EB719": {
+        "sender": "247020967165997@lid",
+        "text": "Bora interagir",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788219073946
+      },
+      "AC7E81835BD153C170D29069DF4D1218": {
+        "sender": "247020967165997@lid",
+        "text": "Ou está morto hoje",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788219077999
+      },
+      "AC4C97E8DCD3C28F727E5BEA9F8F218B": {
+        "sender": "247020967165997@lid",
+        "text": "Boa noite",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788219079451
       }
     },
     "120363409727467494@g.us": {},
@@ -22649,7 +22694,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1788218592820,
-    "120363428464897153@g.us": 1788203369966,
+    "120363428464897153@g.us": 1788219079450,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788203617394,
     "120363411233423709@g.us": 1787113553426,
