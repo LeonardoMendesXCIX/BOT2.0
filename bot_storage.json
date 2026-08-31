@@ -304,9 +304,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2545,
+        "text": 2546,
         "media": 354,
-        "total": 2899
+        "total": 2900
       },
       "252922705240205": {
         "text": 80,
@@ -2979,9 +2979,9 @@
         "total": 1
       },
       "166452229341300": {
-        "text": 25,
+        "text": 26,
         "media": 1,
-        "total": 26
+        "total": 27
       }
     },
     "120363428464897153@g.us": {
@@ -7452,8 +7452,6 @@
         "Rodolfo Carmona Mazon: Geral é de Sorocaba?"
       ],
       "31/08/2026": [
-        "Leandro: !sa 💥 BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Queremos conhecer você! ✨\n\n📸 Sua foto:\n💬 Nome:\n🎂 Idade:\n📍 De onde sou:\n\n*🫶🏻 Seja bem-vindo(a)!*\n\n✨ Sinta-se à vontade para interagir, conhecer a galera e faze",
-        "Leandro: !del",
         "Leandro: !del",
         "Sabrina Bartolucci 🤌🏻: Oxi, o que tem eu? Perdi a fofoca",
         "Leandro: Poronto! 🫡",
@@ -7951,7 +7949,9 @@
         "Srt Sousah: Obrigado príncipe",
         "Srt Sousah: Se for velho \nLeva o tadala",
         "Lailson Nathan.: Bonita mesmo, tua chance irmão.",
-        "Srt Sousah: Desculpa a pergunta \nMais quem é essa lay?"
+        "Srt Sousah: Desculpa a pergunta \nMais quem é essa lay?",
+        "Sabrina Bartolucci 🤌🏻: A fundadora, dona do grupo",
+        "Srt Sousah: Por que achei ela no Kwai no comentário lá \nJogando link e ela disse que esse grupo era a sensação do momento"
       ]
     },
     "120363428464897153@g.us": {
@@ -11393,24 +11393,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "2135320166432",
-        "authorName": "Anderson",
-        "text": "Oi amor ❤️",
-        "timestamp": 1788217625588
-      },
-      {
-        "authorNum": "2135320166432",
-        "authorName": "Anderson",
-        "text": "Tá bem ?",
-        "timestamp": 1788217630948
-      },
-      {
-        "authorNum": "272048228188398",
-        "authorName": "Lailson Nathan.",
-        "text": "Boa noite.",
-        "timestamp": 1788217638507
-      },
-      {
         "authorNum": "86793403801839",
         "authorName": "Sacola S10",
         "text": "Boa noite pra geral",
@@ -11775,6 +11757,18 @@
         "authorName": "Srt Sousah",
         "text": "Desculpa a pergunta \nMais quem é essa lay?",
         "timestamp": 1788219416433
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "A fundadora, dona do grupo",
+        "timestamp": 1788219445089
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Srt Sousah",
+        "text": "Por que achei ela no Kwai no comentário lá \nJogando link e ela disse que esse grupo era a sensação do momento",
+        "timestamp": 1788219445993
       }
     ],
     "120363428464897153@g.us": [
@@ -11845,7 +11839,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 1426,
+    "120363432018531082@g.us": 1428,
     "120363428464897153@g.us": 6471,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2408,
@@ -21100,6 +21094,18 @@
         "text": "Desculpa a pergunta \nMais quem é essa lay?",
         "pushName": "Srt Sousah",
         "timestamp": 1788219416433
+      },
+      "AC987E6A57ADD103086E8BF681D75517": {
+        "sender": "53537388122141@lid",
+        "text": "A fundadora, dona do grupo",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1788219445089
+      },
+      "A50E71ED5A8EE3664FBCF3FA8CD8FD29": {
+        "sender": "166452229341300@lid",
+        "text": "Por que achei ela no Kwai no comentário lá \nJogando link e ela disse que esse grupo era a sensação do momento",
+        "pushName": "Srt Sousah",
+        "timestamp": 1788219445993
       }
     },
     "120363428464897153@g.us": {
@@ -22862,7 +22868,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788219416433,
+    "120363432018531082@g.us": 1788219445993,
     "120363428464897153@g.us": 1788219191019,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788219308141,
