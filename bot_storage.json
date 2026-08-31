@@ -2889,9 +2889,9 @@
         "total": 72
       },
       "2135320166432": {
-        "text": 188,
+        "text": 189,
         "media": 23,
-        "total": 211
+        "total": 212
       },
       "239371546579166": {
         "text": 2,
@@ -2979,9 +2979,9 @@
         "total": 1
       },
       "166452229341300": {
-        "text": 10,
+        "text": 11,
         "media": 0,
-        "total": 10
+        "total": 11
       }
     },
     "120363428464897153@g.us": {
@@ -7437,8 +7437,6 @@
         "Rodolfo Carmona Mazon: Geral é de Sorocaba?"
       ],
       "31/08/2026": [
-        "Gabi 💋: Eu também",
-        "Juliano Perlin: Por exemplo...",
         "Souza: Ah idosa",
         "Celiete Souza: Oi?? Da onde",
         "Souza: Tem 90 ela",
@@ -7936,7 +7934,9 @@
         "Lailson Nathan.: Tudo certo com vocês?",
         "jaciara: Eu e a @81991328395336",
         "Srt Sousah: Precisa se apresentar!",
-        "Srt Sousah: ??"
+        "Srt Sousah: ??",
+        "Srt Sousah: Qual cidade?",
+        "Anderson: Bem também"
       ]
     },
     "120363428464897153@g.us": {
@@ -11536,6 +11536,18 @@
         "authorName": "Srt Sousah",
         "text": "??",
         "timestamp": 1788217733174
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Srt Sousah",
+        "text": "Qual cidade?",
+        "timestamp": 1788217742108
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Bem também",
+        "timestamp": 1788217752200
       }
     ],
     "120363428464897153@g.us": [],
@@ -11556,7 +11568,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 1375,
+    "120363432018531082@g.us": 1377,
     "120363428464897153@g.us": 6464,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2407,
@@ -20490,6 +20502,18 @@
         "text": "??",
         "pushName": "Srt Sousah",
         "timestamp": 1788217733174
+      },
+      "A5236F377FE15C2D43B05C830CD06D15": {
+        "sender": "166452229341300@lid",
+        "text": "Qual cidade?",
+        "pushName": "Srt Sousah",
+        "timestamp": 1788217742108
+      },
+      "AC879268AAFEFE1A1A36EF008F953782": {
+        "sender": "2135320166432@lid",
+        "text": "Bem também",
+        "pushName": "Anderson",
+        "timestamp": 1788217752200
       }
     },
     "120363428464897153@g.us": {
@@ -22204,7 +22228,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788217733174,
+    "120363432018531082@g.us": 1788217752200,
     "120363428464897153@g.us": 1788203369966,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788203617394,
