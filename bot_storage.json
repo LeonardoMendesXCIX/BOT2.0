@@ -2889,9 +2889,9 @@
         "total": 72
       },
       "2135320166432": {
-        "text": 190,
-        "media": 23,
-        "total": 213
+        "text": 191,
+        "media": 24,
+        "total": 215
       },
       "239371546579166": {
         "text": 2,
@@ -7437,7 +7437,6 @@
         "Rodolfo Carmona Mazon: Geral é de Sorocaba?"
       ],
       "31/08/2026": [
-        "Souza: Confia",
         "Camila Designer: Um golpe kkk",
         "Juliano Perlin: Q calunia contra minha pessoa🥺",
         "Celiete Souza: @222595437858867 não se torne um atirador",
@@ -7936,7 +7935,8 @@
         "jaciara: Que bom ☺️",
         "Juliano Perlin: Bão?? Kk",
         "Anderson: Faltou você aqui 😔😔😏",
-        "jaciara: Vc estava sumido , tava onde ? 🤔"
+        "jaciara: Vc estava sumido , tava onde ? 🤔",
+        "Anderson: Campanha do candidado da aqui que eu meu amigo"
       ]
     },
     "120363428464897153@g.us": {
@@ -11578,6 +11578,12 @@
         "authorName": "jaciara",
         "text": "Vc estava sumido , tava onde ? 🤔",
         "timestamp": 1788217960143
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Campanha do candidado da aqui que eu meu amigo",
+        "timestamp": 1788218037565
       }
     ],
     "120363428464897153@g.us": [],
@@ -11598,7 +11604,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 1382,
+    "120363432018531082@g.us": 1383,
     "120363428464897153@g.us": 6464,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2407,
@@ -20574,6 +20580,12 @@
         "text": "Vc estava sumido , tava onde ? 🤔",
         "pushName": "jaciara",
         "timestamp": 1788217960143
+      },
+      "AC18C503267296A572EDD7BB4CCAE1F7": {
+        "sender": "2135320166432@lid",
+        "text": "Campanha do candidado da aqui que eu meu amigo",
+        "pushName": "Anderson",
+        "timestamp": 1788218037565
       }
     },
     "120363428464897153@g.us": {
@@ -22288,7 +22300,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788217960143,
+    "120363432018531082@g.us": 1788218037565,
     "120363428464897153@g.us": 1788203369966,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788203617394,
