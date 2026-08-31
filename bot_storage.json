@@ -3036,9 +3036,9 @@
         "total": 363
       },
       "86793403801839": {
-        "text": 264,
+        "text": 266,
         "media": 37,
-        "total": 301
+        "total": 303
       },
       "179040627490824": {
         "text": 7,
@@ -3634,6 +3634,11 @@
         "text": 4,
         "media": 0,
         "total": 4
+      },
+      "272048228188398": {
+        "text": 1,
+        "media": 0,
+        "total": 1
       }
     },
     "120363409727467494@g.us": {
@@ -9451,7 +9456,10 @@
         "Leandro: Pois então",
         "Gabi 💋: Bora interagir",
         "Gabi 💋: Ou está morto hoje",
-        "Gabi 💋: Boa noite"
+        "Gabi 💋: Boa noite",
+        "Lailson Nathan.: Boa noite.",
+        "Sacola S10: Kkkkk",
+        "Sacola S10: Tô só o caco"
       ]
     },
     "120363409727467494@g.us": {
@@ -11786,6 +11794,24 @@
         "authorName": "Gabi 💋",
         "text": "Boa noite",
         "timestamp": 1788219079450
+      },
+      {
+        "authorNum": "272048228188398",
+        "authorName": "Lailson Nathan.",
+        "text": "Boa noite.",
+        "timestamp": 1788219124270
+      },
+      {
+        "authorNum": "86793403801839",
+        "authorName": "Sacola S10",
+        "text": "Kkkkk",
+        "timestamp": 1788219141668
+      },
+      {
+        "authorNum": "86793403801839",
+        "authorName": "Sacola S10",
+        "text": "Tô só o caco",
+        "timestamp": 1788219146098
       }
     ],
     "120363409727467494@g.us": [],
@@ -11806,7 +11832,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 1412,
-    "120363428464897153@g.us": 6467,
+    "120363428464897153@g.us": 6470,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2407,
     "120363411233423709@g.us": 5,
@@ -21215,6 +21241,24 @@
         "text": "Boa noite",
         "pushName": "Gabi 💋",
         "timestamp": 1788219079451
+      },
+      "ACB5A0A807E0A407E437986FA161952A": {
+        "sender": "272048228188398@lid",
+        "text": "Boa noite.",
+        "pushName": "Lailson Nathan.",
+        "timestamp": 1788219124270
+      },
+      "AC62C86CCBD7AB73D9FCE235CFBD7ABC": {
+        "sender": "86793403801839@lid",
+        "text": "Kkkkk",
+        "pushName": "Sacola S10",
+        "timestamp": 1788219141668
+      },
+      "AC81296A46780B74CBF25539D11F772F": {
+        "sender": "86793403801839@lid",
+        "text": "Tô só o caco",
+        "pushName": "Sacola S10",
+        "timestamp": 1788219146098
       }
     },
     "120363409727467494@g.us": {},
@@ -22694,7 +22738,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1788218592820,
-    "120363428464897153@g.us": 1788219079450,
+    "120363428464897153@g.us": 1788219146098,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788203617394,
     "120363411233423709@g.us": 1787113553426,
