@@ -3301,9 +3301,9 @@
         "total": 95
       },
       "222595437858867": {
-        "text": 157,
+        "text": 158,
         "media": 12,
-        "total": 169
+        "total": 170
       },
       "104003018985518": {
         "text": 40,
@@ -3661,9 +3661,9 @@
         "total": 2
       },
       "166452229341300": {
-        "text": 16,
+        "text": 19,
         "media": 1,
-        "total": 17
+        "total": 20
       },
       "109508781207612": {
         "text": 18,
@@ -9534,7 +9534,10 @@
         "Leandro: !sa",
         "Gabi 💋: Os novatos roubando a cena",
         "Juliano Perlin: Bem vinda aqui também🤗",
-        "pãobão 😂: Hj eu tô facim pra ti viu kkk"
+        "pãobão 😂: Hj eu tô facim pra ti viu kkk",
+        "Layaninha: Você e ADM?\nDeixa vê retrato teu ?",
+        "Juliano Perlin: Xuxuzim🥰🥹",
+        "Layaninha: Tu me deu uk fora no outro vim por kbaré"
       ]
     },
     "120363409727467494@g.us": {
@@ -12317,6 +12320,24 @@
         "authorName": "pãobão 😂",
         "text": "Hj eu tô facim pra ti viu kkk",
         "timestamp": 1788220476865
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Layaninha",
+        "text": "Você e ADM?\nDeixa vê retrato teu ?",
+        "timestamp": 1788220505662
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Xuxuzim🥰🥹",
+        "timestamp": 1788220521898
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Layaninha",
+        "text": "Tu me deu uk fora no outro vim por kbaré",
+        "timestamp": 1788220535649
       }
     ],
     "120363409727467494@g.us": [],
@@ -12398,7 +12419,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 1502,
-    "120363428464897153@g.us": 6515,
+    "120363428464897153@g.us": 6518,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2417,
     "120363411233423709@g.us": 5,
@@ -22638,6 +22659,24 @@
         "text": "Hj eu tô facim pra ti viu kkk",
         "pushName": "pãobão 😂",
         "timestamp": 1788220476865
+      },
+      "A500F34074B092D1304A80A7F99756C2": {
+        "sender": "166452229341300@lid",
+        "text": "Você e ADM?\nDeixa vê retrato teu ?",
+        "pushName": "Layaninha",
+        "timestamp": 1788220505662
+      },
+      "AC9E2AFC949038DD253BF5896CF933D3": {
+        "sender": "222595437858867@lid",
+        "text": "Xuxuzim🥰🥹",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1788220521898
+      },
+      "A595D9E0AFAFAC58F21441A6BB44ECD0": {
+        "sender": "166452229341300@lid",
+        "text": "Tu me deu uk fora no outro vim por kbaré",
+        "pushName": "Layaninha",
+        "timestamp": 1788220535649
       }
     },
     "120363409727467494@g.us": {},
@@ -24177,7 +24216,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1788220433924,
-    "120363428464897153@g.us": 1788220497371,
+    "120363428464897153@g.us": 1788220544204,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788219832739,
     "120363411233423709@g.us": 1787113553426,
