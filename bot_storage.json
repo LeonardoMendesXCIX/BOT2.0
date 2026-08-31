@@ -1574,9 +1574,9 @@
         "total": 4
       },
       "272048228188398": {
-        "text": 128,
-        "media": 26,
-        "total": 154
+        "text": 129,
+        "media": 27,
+        "total": 156
       },
       "55959196049495": {
         "text": 6,
@@ -2979,9 +2979,9 @@
         "total": 1
       },
       "166452229341300": {
-        "text": 11,
+        "text": 12,
         "media": 0,
-        "total": 11
+        "total": 12
       }
     },
     "120363428464897153@g.us": {
@@ -7437,7 +7437,6 @@
         "Rodolfo Carmona Mazon: Geral é de Sorocaba?"
       ],
       "31/08/2026": [
-        "Camila Designer: Um golpe kkk",
         "Juliano Perlin: Q calunia contra minha pessoa🥺",
         "Celiete Souza: @222595437858867 não se torne um atirador",
         "Souza: Tá aprendendo com o @120044990287992",
@@ -7936,7 +7935,8 @@
         "Juliano Perlin: Bão?? Kk",
         "Anderson: Faltou você aqui 😔😔😏",
         "jaciara: Vc estava sumido , tava onde ? 🤔",
-        "Anderson: Campanha do candidado da aqui que eu meu amigo"
+        "Anderson: Campanha do candidado da aqui que eu meu amigo",
+        "Lailson Nathan.: Mulherão para vocês aí rapaziada, só que tem que ser velho de 70."
       ]
     },
     "120363428464897153@g.us": {
@@ -11584,6 +11584,12 @@
         "authorName": "Anderson",
         "text": "Campanha do candidado da aqui que eu meu amigo",
         "timestamp": 1788218037565
+      },
+      {
+        "authorNum": "272048228188398",
+        "authorName": "Lailson Nathan.",
+        "text": "Mulherão para vocês aí rapaziada, só que tem que ser velho de 70.",
+        "timestamp": 1788218038689
       }
     ],
     "120363428464897153@g.us": [],
@@ -11604,7 +11610,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 1383,
+    "120363432018531082@g.us": 1384,
     "120363428464897153@g.us": 6464,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2407,
@@ -20586,6 +20592,12 @@
         "text": "Campanha do candidado da aqui que eu meu amigo",
         "pushName": "Anderson",
         "timestamp": 1788218037565
+      },
+      "AC39D86B4CE4314FF878CD34DEB630D4": {
+        "sender": "272048228188398@lid",
+        "text": "Mulherão para vocês aí rapaziada, só que tem que ser velho de 70.",
+        "pushName": "Lailson Nathan.",
+        "timestamp": 1788218038689
       }
     },
     "120363428464897153@g.us": {
@@ -22300,7 +22312,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788218037565,
+    "120363432018531082@g.us": 1788218054583,
     "120363428464897153@g.us": 1788203369966,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788203617394,
