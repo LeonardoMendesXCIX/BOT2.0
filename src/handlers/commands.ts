@@ -263,14 +263,6 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
             return;
         }
     }
-    if (isGroup && storage.data.activeQuiz && storage.data.activeQuiz[chatId] && !storage.isFeatureDisabled(chatId, 'quiz')) {
-        const currentQuiz = storage.data.activeQuiz[chatId];
-        if (text.toLowerCase().trim() === currentQuiz.answer) {
-            delete storage.data.activeQuiz[chatId];
-            storage.flagSave();
-            await sock.sendMessage(chatId, { text: '🎉 *PARABÉNS ' + userInfo.mentionTag + '!* VOCÊ ACERTOU!\n\n📱 ' + userInfo.formattedNum + '\n✅ Resposta: ' + currentQuiz.answer.toUpperCase(), mentions: [userInfo.jid] });
-        }
-    }
     const isAdminQuery = /(quem\s+(é|eh|sao|são)\s+(os|o)?\s*(admin|admins|administrador|administradores|adm|adms)|quem\s+manda|admins\s+do\s+grupo|administradores\s+do\s+grupo|marcar\s+adms|chama\s+os\s+adms)/i.test(textLower) || ['!admins', '!adms'].includes(firstWord);
     if (isGroup && isAdminQuery && !storage.isFeatureDisabled(chatId, 'admins')) {
         const lastTime = lastAdminResponse.get(chatId) || 0;
@@ -284,7 +276,7 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
                 const isAdm = p.admin === 'admin' || p.admin === 'superadmin';
                 if (!isAdm) return false;
                 const pNum = p.id ? p.id.split('@')[0].split(':')[0].replace(/\D/g, '') : '';
-                const pLid = p.lid ? p.lid.split('@')[0].split(':')[0].replace(/\D/g, '') : '';
+                const pLid = (p as any).lid ? (p as any).lid.split('@')[0].split(':')[0].replace(/\D/g, '') : '';
                 if (botIdClean && (checkMatch(botIdClean, pNum) || checkMatch(botIdClean, pLid))) return false;
                 if (botLidClean && (checkMatch(botLidClean, pNum) || checkMatch(botLidClean, pLid))) return false;
                 return true;
@@ -512,7 +504,7 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
         const partsEnquete = rawContent.split('|').map(s => s.trim()).filter(Boolean);
         if (partsEnquete.length < 3) { await sock.sendMessage(chatId, { text: '⚠️ Precisa de 1 pergunta e 2 opções.' }, { quoted: msg }); return; }
         try {
-            await sock.sendMessage(chatId, { poll: { name: '📊 ' + partsEnquete[0], values: partsEnquete.slice(1, 12), selectableCount: 1 } });
+            await sock.sendMessage(chatId, { poll: { name: '📊 ' + partsEnquete[0], values: partsEnquete.slice(1, 12), selectableCount: 1 } } as any);
         } catch (e: any) {
             console.error('[ERRO CRIAR ENQUETE]', e.message);
             await sock.sendMessage(chatId, { text: '❌ Erro ao criar enquete.' });
@@ -1422,7 +1414,7 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
             await sock.sendMessage(chatId, { text: '💡 Você quis dizer `' + suggestion + '`?' }, { quoted: msg });
             return;
         }
-        await sock.sendMessage(chatId, { text: '🤖 Comando não reconhecido.', mentions: [SETTINGS.CREATOR_JID] }, { quoted: msg });
+        await sock.sendMessage(chatId, { text: '🤖 Comando não reconhecido.' }, { quoted: msg });
         return;
     }
 }

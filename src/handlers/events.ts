@@ -35,9 +35,9 @@ export function setupGroupEvents(sock: WASocket, storage: StorageManager): void 
                     if (groupMeta?.participants) {
                         const found = groupMeta.participants.find(p =>
                             p.id === newMemberId ||
-                            p.lid === newMemberId ||
+                            (p as any).lid === newMemberId ||
                             p.id.split('@')[0] === newMemberId.split('@')[0] ||
-                            (p.lid && p.lid.split('@')[0] === newMemberId.split('@')[0])
+                            ((p as any).lid && (p as any).lid.split('@')[0] === newMemberId.split('@')[0])
                         );
                         if (found) {
                             if (found.id && found.id.endsWith('@s.whatsapp.net')) {
@@ -66,7 +66,7 @@ export function setupGroupEvents(sock: WASocket, storage: StorageManager): void 
                     if (isAntiFakeActive && isRealPhoneNumber && !isBrazilianPhone && !isLidNumber) {
                         try {
                             const botNum = sock.user?.id?.split(':')[0].replace(/\D/g, '') || '';
-                            const botParticipant = groupMeta?.participants?.find(p => p.id.split('@')[0].replace(/\D/g, '') === botNum || (p.lid && p.lid.split('@')[0].replace(/\D/g, '') === botNum));
+                            const botParticipant = groupMeta?.participants?.find(p => p.id.split('@')[0].replace(/\D/g, '') === botNum || ((p as any).lid && (p as any).lid.split('@')[0].replace(/\D/g, '') === botNum));
                             const isBotAdmin = botParticipant?.admin === 'admin' || botParticipant?.admin === 'superadmin';
 
                             if (isBotAdmin) {
@@ -80,7 +80,7 @@ export function setupGroupEvents(sock: WASocket, storage: StorageManager): void 
                                 const ddiDisplay = '+' + rawNum;
 
                                 await sock.sendMessage(chatId, {
-                                    text: '🛡️ *JARVIS SECURITY (ANTI-FAKE / DDI)* 🛡️\n\n' +
+                                    text: '🛡️ *BOT DROPHTTP SECURITY (ANTI-FAKE / DDI)* 🛡️\n\n' +
                                         '👤 *Infrator:* ' + displayName + '\n' +
                                         '📱 *Identificação:* ' + ddiDisplay + '\n' +
                                         '📝 *Motivo:* Entrada bloqueada por possuir DDI estrangeiro não autorizado (apenas números do Brasil +55 são permitidos).'

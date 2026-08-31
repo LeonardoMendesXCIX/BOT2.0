@@ -1,8 +1,7 @@
 import makeWASocket, {
     useMultiFileAuthState,
     DisconnectReason,
-    fetchLatestBaileysVersion,
-    makeInMemoryStore
+    fetchLatestBaileysVersion
 } from '@whiskeysockets/baileys';
 import pino from 'pino';
 import qrcode from 'qrcode-terminal';
@@ -52,15 +51,11 @@ let lastDisconnectAt = 0;
 let downStartStr = '';
 let watchdogNotified = false;
 
-// NOVO: banco de contatos do Baileys (nomes registrados no WhatsApp)
-const store = makeInMemoryStore({ logger: pino({ level: 'silent' }).child({ stream: 'store' }) });
-try { store.readFromFile('./baileys_store.json'); } catch (e) { }
-setInterval(() => { try { store.writeToFile('./baileys_store.json'); } catch (e) { } }, 60000);
-
-// Liga o banco de contatos ao getUserInfo (resolve nomes em todo o projeto)
+// Banco de contatos próprio (substitui o makeInMemoryStore, que não existe nesta versão do Baileys)
+const contactsDB: Record<string, { name?: string; notify?: string }> = {};
 setContactsLookup((jid) => {
-    const c = (store as any).contacts && (store as any).contacts[jid];
-    if (c && (c.name || c.notify)) return { name: c.name || c.notify, num: undefined };
+    const c = contactsDB[jid];
+    if (c && (c.name || c.notify)) return { name: c.name || c.notify };
     return null;
 });
 
@@ -269,11 +264,11 @@ async function startBot() {
     });
 
     sockInstance = sock;
-    store.bind(sock.ev);
 
-    // NOVO: alimenta o banco de perfis com os contatos sincronizados do WhatsApp
+    // Alimenta o banco de contatos próprio (nomes registrados no WhatsApp)
     sock.ev.on('contacts.upsert', (contacts) => {
         for (const c of contacts) {
+            contactsDB[c.id] = { name: c.name, notify: c.notify };
             rememberProfile(c.id, c.name || c.notify);
         }
     });
@@ -359,7 +354,6 @@ async function startBot() {
         for (const msg of m.messages) {
             if (!msg.message || msg.key.fromMe || !msg.key.remoteJid) continue;
 
-            // NOVO: registra nome + número real de quem manda mensagem (alimenta o padrão Nome - Número)
             const senderPn = (msg.key as any).senderPn;
             if (msg.pushName) {
                 rememberProfile(msg.key.participant || msg.key.remoteJid, msg.pushName, senderPn);
@@ -402,9 +396,9 @@ async function startBot() {
                         const rawMemberNum = extractRawNumber(reminder.newMemberId);
                         const isStillInGroup = groupMeta.participants.some((p: any) =>
                             p.id === reminder.newMemberId ||
-                            p.lid === reminder.newMemberId ||
+                            (p as any).lid === reminder.newMemberId ||
                             (p.id && checkMatch(p.id.split('@')[0], rawMemberNum)) ||
-                            (p.lid && checkMatch(p.lid.split('@')[0], rawMemberNum))
+                            ((p as any).lid && checkMatch((p as any).lid.split('@')[0], rawMemberNum))
                         );
 
                         if (!isStillInGroup) {

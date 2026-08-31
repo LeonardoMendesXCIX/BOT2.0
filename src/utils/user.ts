@@ -33,7 +33,7 @@ export function updateLidMapping(participants: any[]): void {
     for (const p of participants) {
         if (!p.id) continue;
         const cleanId = p.id.split('@')[0].split(':')[0].replace(/\D/g, '');
-        const cleanLid = p.lid ? p.lid.split('@')[0].split(':')[0].replace(/\D/g, '') : '';
+        const cleanLid = (p as any).lid ? (p as any).lid.split('@')[0].split(':')[0].replace(/\D/g, '') : '';
         if (cleanLid && cleanId && cleanLid !== cleanId) lidMap[cleanLid] = cleanId;
         const name = p.name || p.notify || p.verifiedName;
         if (name) {
