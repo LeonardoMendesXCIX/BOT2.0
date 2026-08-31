@@ -2987,6 +2987,11 @@
         "text": 4,
         "media": 0,
         "total": 4
+      },
+      "18774073856248": {
+        "text": 1,
+        "media": 0,
+        "total": 1
       }
     },
     "120363428464897153@g.us": {
@@ -3321,9 +3326,9 @@
         "total": 2
       },
       "53537388122141": {
-        "text": 82,
+        "text": 83,
         "media": 0,
-        "total": 82
+        "total": 83
       },
       "253626509443178": {
         "text": 3,
@@ -9509,7 +9514,8 @@
         "Layaninha: Meus gastos e só nele",
         "Layaninha: Mulher como tu é linda",
         "pãobão 😂: Rapaz só tem gente bonita aq uai",
-        "pãobão 😂: Para cntg tbm sua vc e uma mulher bonita elegante"
+        "pãobão 😂: Para cntg tbm sua vc e uma mulher bonita elegante",
+        "Sabrina Bartolucci 🤌🏻: Obrigada meu beeeem! Prazer, Sabrina!\nDiretora daqui"
       ]
     },
     "120363409727467494@g.us": {
@@ -12160,6 +12166,12 @@
         "authorName": "pãobão 😂",
         "text": "Para cntg tbm sua vc e uma mulher bonita elegante",
         "timestamp": 1788220229301
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Obrigada meu beeeem! Prazer, Sabrina!\nDiretora daqui",
+        "timestamp": 1788220233126
       }
     ],
     "120363409727467494@g.us": [],
@@ -12241,7 +12253,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 1492,
-    "120363428464897153@g.us": 6495,
+    "120363428464897153@g.us": 6496,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2417,
     "120363411233423709@g.us": 5,
@@ -22301,6 +22313,12 @@
         "text": "Para cntg tbm sua vc e uma mulher bonita elegante",
         "pushName": "pãobão 😂",
         "timestamp": 1788220229301
+      },
+      "AC1703E222F17A4CD6DAA3C7F6CAF6FC": {
+        "sender": "53537388122141@lid",
+        "text": "Obrigada meu beeeem! Prazer, Sabrina!\nDiretora daqui",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1788220233126
       }
     },
     "120363409727467494@g.us": {},
@@ -23839,8 +23857,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788220206225,
-    "120363428464897153@g.us": 1788220229301,
+    "120363432018531082@g.us": 1788220252749,
+    "120363428464897153@g.us": 1788220233126,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788219832739,
     "120363411233423709@g.us": 1787113553426,
