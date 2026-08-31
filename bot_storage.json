@@ -214,9 +214,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2303,
+        "text": 2304,
         "media": 481,
-        "total": 2784
+        "total": 2785
       },
       "184237705699536": {
         "text": 524,
@@ -409,9 +409,9 @@
         "total": 505
       },
       "222595437858867": {
-        "text": 651,
+        "text": 653,
         "media": 65,
-        "total": 716
+        "total": 718
       },
       "83280154103884": {
         "text": 36,
@@ -3661,9 +3661,9 @@
         "total": 2
       },
       "166452229341300": {
-        "text": 9,
+        "text": 12,
         "media": 1,
-        "total": 10
+        "total": 13
       },
       "109508781207612": {
         "text": 11,
@@ -7477,9 +7477,6 @@
         "Rodolfo Carmona Mazon: Geral é de Sorocaba?"
       ],
       "31/08/2026": [
-        "Rafael Moura: Interessante",
-        "negoh🐻: Bem novinha e gotosa",
-        "Rafael Moura: Vish brotou pessoa que nunca vi",
         "Sabrina Bartolucci 🤌🏻: Óbvio! Sempre",
         "~🌪️𝓁𝒶𝓎𝒽🦋: lindaaaa🥰",
         "Sabrina Bartolucci 🤌🏻: Passo o facão não",
@@ -7976,7 +7973,10 @@
         "🙏☝️: Obrigado!",
         "Layaninha: O que você deixou cai no chão ?",
         "Layaninha: Poxa",
-        "Layaninha: Gosto de ver rostos"
+        "Layaninha: Gosto de ver rostos",
+        "Juliano Perlin: Ainda colocou a maozinha de italiano pra mim🥹..capixe??🤌🏻",
+        "Juliano Perlin: Kkkkk",
+        "Gabriel: Maravilha"
       ]
     },
     "120363428464897153@g.us": {
@@ -9515,7 +9515,9 @@
         "Layaninha: Mulher como tu é linda",
         "pãobão 😂: Rapaz só tem gente bonita aq uai",
         "pãobão 😂: Para cntg tbm sua vc e uma mulher bonita elegante",
-        "Sabrina Bartolucci 🤌🏻: Obrigada meu beeeem! Prazer, Sabrina!\nDiretora daqui"
+        "Sabrina Bartolucci 🤌🏻: Obrigada meu beeeem! Prazer, Sabrina!\nDiretora daqui",
+        "Layaninha: 🥲quer me dá um pote de creme \nCê fala",
+        "Layaninha: 🤣🤣🤣🤣"
       ]
     },
     "120363409727467494@g.us": {
@@ -11960,6 +11962,24 @@
         "authorName": "Layaninha",
         "text": "Gosto de ver rostos",
         "timestamp": 1788220287156
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Ainda colocou a maozinha de italiano pra mim🥹..capixe??🤌🏻",
+        "timestamp": 1788220295715
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Kkkkk",
+        "timestamp": 1788220297701
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Maravilha",
+        "timestamp": 1788220314377
       }
     ],
     "120363428464897153@g.us": [
@@ -12154,6 +12174,18 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Obrigada meu beeeem! Prazer, Sabrina!\nDiretora daqui",
         "timestamp": 1788220233126
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Layaninha",
+        "text": "🥲quer me dá um pote de creme \nCê fala",
+        "timestamp": 1788220312313
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Layaninha",
+        "text": "🤣🤣🤣🤣",
+        "timestamp": 1788220315115
       }
     ],
     "120363409727467494@g.us": [],
@@ -12234,8 +12266,8 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 1495,
-    "120363428464897153@g.us": 6496,
+    "120363432018531082@g.us": 1498,
+    "120363428464897153@g.us": 6498,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2417,
     "120363411233423709@g.us": 5,
@@ -21891,6 +21923,24 @@
         "text": "Gosto de ver rostos",
         "pushName": "Layaninha",
         "timestamp": 1788220287156
+      },
+      "AC6CB247DDC77825B34E5FD5E7902A68": {
+        "sender": "222595437858867@lid",
+        "text": "Ainda colocou a maozinha de italiano pra mim🥹..capixe??🤌🏻",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1788220295715
+      },
+      "AC05EFE50074C6033E504E9551055988": {
+        "sender": "222595437858867@lid",
+        "text": "Kkkkk",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1788220297701
+      },
+      "AC45F7A4A7B5784D4F759B6EBC7D3114": {
+        "sender": "145381035905262@lid",
+        "text": "Maravilha",
+        "pushName": "Gabriel",
+        "timestamp": 1788220314377
       }
     },
     "120363428464897153@g.us": {
@@ -22319,6 +22369,18 @@
         "text": "Obrigada meu beeeem! Prazer, Sabrina!\nDiretora daqui",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1788220233126
+      },
+      "A5D6904B44325B7892BD39FFD5008812": {
+        "sender": "166452229341300@lid",
+        "text": "🥲quer me dá um pote de creme \nCê fala",
+        "pushName": "Layaninha",
+        "timestamp": 1788220312313
+      },
+      "A5B9D8016F9DF57196391E197F706A03": {
+        "sender": "166452229341300@lid",
+        "text": "🤣🤣🤣🤣",
+        "pushName": "Layaninha",
+        "timestamp": 1788220315115
       }
     },
     "120363409727467494@g.us": {},
@@ -23857,8 +23919,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788220287156,
-    "120363428464897153@g.us": 1788220233126,
+    "120363432018531082@g.us": 1788220314377,
+    "120363428464897153@g.us": 1788220315115,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788219832739,
     "120363411233423709@g.us": 1787113553426,
