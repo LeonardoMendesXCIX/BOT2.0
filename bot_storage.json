@@ -2989,9 +2989,9 @@
         "total": 4
       },
       "18774073856248": {
-        "text": 1,
+        "text": 2,
         "media": 0,
-        "total": 1
+        "total": 2
       }
     },
     "120363428464897153@g.us": {
@@ -3661,14 +3661,14 @@
         "total": 2
       },
       "166452229341300": {
-        "text": 13,
+        "text": 15,
         "media": 1,
-        "total": 14
+        "total": 16
       },
       "109508781207612": {
-        "text": 14,
+        "text": 15,
         "media": 1,
-        "total": 15
+        "total": 16
       }
     },
     "120363409727467494@g.us": {
@@ -7477,7 +7477,6 @@
         "Rodolfo Carmona Mazon: Geral é de Sorocaba?"
       ],
       "31/08/2026": [
-        "Sabrina Bartolucci 🤌🏻: Passo o facão não",
         "Gabi 💋: Linda",
         "~🌪️𝓁𝒶𝓎𝒽🦋: sim.",
         "~🌪️𝓁𝒶𝓎𝒽🦋: pra mim e boa tarde",
@@ -7976,7 +7975,8 @@
         "Juliano Perlin: Kkkkk",
         "Gabriel: Maravilha",
         "Gabriel: Saudações",
-        "Anderson: Agora que eu vi olhar seu sobrenome  tu é dona do Milan da italia?🤔"
+        "Anderson: Agora que eu vi olhar seu sobrenome  tu é dona do Milan da italia?🤔",
+        "Kelvin Luan Ribeiro Da Ro: Obrigado"
       ]
     },
     "120363428464897153@g.us": {
@@ -9521,7 +9521,10 @@
         "Layaninha: Zuando",
         "pãobão 😂: Qual vc usa ?",
         "pãobão 😂: Kkkkkkk",
-        "pãobão 😂: Euserve ?"
+        "pãobão 😂: Euserve ?",
+        "Layaninha: salon line",
+        "Layaninha: Serve",
+        "pãobão 😂: Esse e top"
       ]
     },
     "120363409727467494@g.us": {
@@ -11984,6 +11987,12 @@
         "authorName": "Anderson",
         "text": "Agora que eu vi olhar seu sobrenome  tu é dona do Milan da italia?🤔",
         "timestamp": 1788220358919
+      },
+      {
+        "authorNum": "18774073856248",
+        "authorName": "Kelvin Luan Ribeiro Da Ro",
+        "text": "Obrigado",
+        "timestamp": 1788220393194
       }
     ],
     "120363428464897153@g.us": [
@@ -12214,6 +12223,24 @@
         "authorName": "pãobão 😂",
         "text": "Euserve ?",
         "timestamp": 1788220330364
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Layaninha",
+        "text": "salon line",
+        "timestamp": 1788220375030
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Layaninha",
+        "text": "Serve",
+        "timestamp": 1788220386022
+      },
+      {
+        "authorNum": "109508781207612",
+        "authorName": "pãobão 😂",
+        "text": "Esse e top",
+        "timestamp": 1788220392958
       }
     ],
     "120363409727467494@g.us": [],
@@ -12294,8 +12321,8 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 1500,
-    "120363428464897153@g.us": 6502,
+    "120363432018531082@g.us": 1501,
+    "120363428464897153@g.us": 6505,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2417,
     "120363411233423709@g.us": 5,
@@ -21981,6 +22008,12 @@
         "text": "Agora que eu vi olhar seu sobrenome  tu é dona do Milan da italia?🤔",
         "pushName": "Anderson",
         "timestamp": 1788220358919
+      },
+      "AC98FF0A910075E423C43F63A1CBE248": {
+        "sender": "18774073856248@lid",
+        "text": "Obrigado",
+        "pushName": "Kelvin Luan Ribeiro Da Ro",
+        "timestamp": 1788220393195
       }
     },
     "120363428464897153@g.us": {
@@ -22445,6 +22478,24 @@
         "text": "Euserve ?",
         "pushName": "pãobão 😂",
         "timestamp": 1788220330364
+      },
+      "A5C1519AA512CCC527DCB652D2C3528D": {
+        "sender": "166452229341300@lid",
+        "text": "salon line",
+        "pushName": "Layaninha",
+        "timestamp": 1788220375030
+      },
+      "A539891743C6FA203B0454BEAA26BC23": {
+        "sender": "166452229341300@lid",
+        "text": "Serve",
+        "pushName": "Layaninha",
+        "timestamp": 1788220386023
+      },
+      "ACB02A600B1FBFF03567B548EB3BE85F": {
+        "sender": "109508781207612@lid",
+        "text": "Esse e top",
+        "pushName": "pãobão 😂",
+        "timestamp": 1788220392958
       }
     },
     "120363409727467494@g.us": {},
@@ -23983,8 +24034,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788220358919,
-    "120363428464897153@g.us": 1788220333772,
+    "120363432018531082@g.us": 1788220393194,
+    "120363428464897153@g.us": 1788220392958,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788219832739,
     "120363411233423709@g.us": 1787113553426,
