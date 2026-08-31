@@ -304,9 +304,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2548,
+        "text": 2549,
         "media": 354,
-        "total": 2902
+        "total": 2903
       },
       "252922705240205": {
         "text": 80,
@@ -409,9 +409,9 @@
         "total": 505
       },
       "222595437858867": {
-        "text": 635,
+        "text": 636,
         "media": 64,
-        "total": 699
+        "total": 700
       },
       "83280154103884": {
         "text": 36,
@@ -3700,9 +3700,9 @@
         "total": 683
       },
       "53537388122141": {
-        "text": 895,
+        "text": 897,
         "media": 74,
-        "total": 969
+        "total": 971
       },
       "120363412288900422": {
         "text": 1,
@@ -7465,8 +7465,6 @@
         "Leandro: !del",
         "Leandro: !del",
         "Leandro: !del",
-        "Leandro: !del",
-        "Leandro: !del",
         "Leandro: Paiaçada 😒",
         "Sabrina Bartolucci 🤌🏻: !ban @3900467884257",
         "~🌪️𝓁𝒶𝓎𝒽🦋: povo critica as caixinha",
@@ -7961,7 +7959,9 @@
         "🐦‍🔥: Bem e vc?",
         "Juliano Perlin: Me passa o link desse grupo",
         "🙏☝️: Estou bem e você?",
-        "Juliano Perlin: Vou espaia"
+        "Juliano Perlin: Vou espaia",
+        "Sabrina Bartolucci 🤌🏻: Boa noite meu beeem",
+        "Juliano Perlin: Senti q vc é da zoeira🤣🤣🤣🤣🤣"
       ]
     },
     "120363428464897153@g.us": {
@@ -10906,7 +10906,9 @@
         "Leandro: Eu vou pegar esse bot no murro 😒",
         "Leandro: @all",
         "Gabriel: Se ele não fez nada, da pra voltar",
-        "Sabrina Bartolucci 🤌🏻: Qualquer coisa, adiciona e joga as regras do grupo pra ele"
+        "Sabrina Bartolucci 🤌🏻: Qualquer coisa, adiciona e joga as regras do grupo pra ele",
+        "Sabrina Bartolucci 🤌🏻: Se ele fazer a segunda vez, remoção e não volta mais",
+        "Sabrina Bartolucci 🤌🏻: O que acham?\n@all"
       ]
     },
     "120363411233423709@g.us": {},
@@ -11408,18 +11410,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Eu sou de Fortaleza dos Nogueiras",
-        "timestamp": 1788217822108
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Que bom ☺️",
-        "timestamp": 1788217832595
-      },
-      {
         "authorNum": "222595437858867",
         "authorName": "Juliano Perlin",
         "text": "Bão?? Kk",
@@ -11760,6 +11750,18 @@
         "authorName": "Juliano Perlin",
         "text": "Vou espaia",
         "timestamp": 1788219607580
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Boa noite meu beeem",
+        "timestamp": 1788219651471
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Senti q vc é da zoeira🤣🤣🤣🤣🤣",
+        "timestamp": 1788219657807
       }
     ],
     "120363428464897153@g.us": [
@@ -11843,6 +11845,18 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Qualquer coisa, adiciona e joga as regras do grupo pra ele",
         "timestamp": 1788219623070
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Se ele fazer a segunda vez, remoção e não volta mais",
+        "timestamp": 1788219635424
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "O que acham?\n@all",
+        "timestamp": 1788219641583
       }
     ],
     "120363411233423709@g.us": [],
@@ -11860,10 +11874,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 1436,
+    "120363432018531082@g.us": 1438,
     "120363428464897153@g.us": 6473,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2411,
+    "120363412288900422@g.us": 2413,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 28,
@@ -21170,6 +21184,18 @@
         "text": "Vou espaia",
         "pushName": "Juliano Perlin",
         "timestamp": 1788219607580
+      },
+      "ACE76738F19A18FD22D599AA38952855": {
+        "sender": "53537388122141@lid",
+        "text": "Boa noite meu beeem",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1788219651471
+      },
+      "AC84BBF119A14457453EB40B8E988BB5": {
+        "sender": "222595437858867@lid",
+        "text": "Senti q vc é da zoeira🤣🤣🤣🤣🤣",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1788219657807
       }
     },
     "120363428464897153@g.us": {
@@ -22513,6 +22539,18 @@
         "text": "Qualquer coisa, adiciona e joga as regras do grupo pra ele",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1788219623070
+      },
+      "ACA854A5C35746FF0A75622BE835C4B6": {
+        "sender": "53537388122141@lid",
+        "text": "Se ele fazer a segunda vez, remoção e não volta mais",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1788219635424
+      },
+      "AC075E715186E1727EC50820E9C6AB8C": {
+        "sender": "53537388122141@lid",
+        "text": "O que acham?\n@all",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1788219641583
       }
     },
     "120363411233423709@g.us": {},
@@ -22962,10 +23000,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788219623658,
+    "120363432018531082@g.us": 1788219657807,
     "120363428464897153@g.us": 1788219599356,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1788219623070,
+    "120363412288900422@g.us": 1788219641583,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
