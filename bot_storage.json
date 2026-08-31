@@ -479,9 +479,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1913,
+        "text": 1914,
         "media": 389,
-        "total": 2302
+        "total": 2303
       },
       "252600633041077": {
         "text": 1,
@@ -3642,8 +3642,8 @@
       },
       "247020967165997": {
         "text": 5,
-        "media": 0,
-        "total": 5
+        "media": 1,
+        "total": 6
       },
       "272048228188398": {
         "text": 1,
@@ -3651,9 +3651,9 @@
         "total": 1
       },
       "2135320166432": {
-        "text": 2,
+        "text": 4,
         "media": 0,
-        "total": 2
+        "total": 4
       },
       "54013592617050": {
         "text": 2,
@@ -3661,14 +3661,14 @@
         "total": 2
       },
       "166452229341300": {
-        "text": 15,
+        "text": 16,
         "media": 1,
-        "total": 16
+        "total": 17
       },
       "109508781207612": {
-        "text": 15,
+        "text": 17,
         "media": 1,
-        "total": 16
+        "total": 18
       }
     },
     "120363409727467494@g.us": {
@@ -9524,7 +9524,12 @@
         "pãobão 😂: Euserve ?",
         "Layaninha: salon line",
         "Layaninha: Serve",
-        "pãobão 😂: Esse e top"
+        "pãobão 😂: Esse e top",
+        "Anderson: 👏🏽👏🏽👏🏽👏🏽👏🏽",
+        "pãobão 😂: Combinado me manda o endereço q vou me embrulha pra vc",
+        "Anderson: Soldado promovido",
+        "pãobão 😂: Já q euserve",
+        "Layaninha: 🤣🤣🤣🤣"
       ]
     },
     "120363409727467494@g.us": {
@@ -12241,6 +12246,36 @@
         "authorName": "pãobão 😂",
         "text": "Esse e top",
         "timestamp": 1788220392958
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "👏🏽👏🏽👏🏽👏🏽👏🏽",
+        "timestamp": 1788220394768
+      },
+      {
+        "authorNum": "109508781207612",
+        "authorName": "pãobão 😂",
+        "text": "Combinado me manda o endereço q vou me embrulha pra vc",
+        "timestamp": 1788220407795
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Soldado promovido",
+        "timestamp": 1788220409868
+      },
+      {
+        "authorNum": "109508781207612",
+        "authorName": "pãobão 😂",
+        "text": "Já q euserve",
+        "timestamp": 1788220411187
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Layaninha",
+        "text": "🤣🤣🤣🤣",
+        "timestamp": 1788220415413
       }
     ],
     "120363409727467494@g.us": [],
@@ -12322,7 +12357,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 1501,
-    "120363428464897153@g.us": 6505,
+    "120363428464897153@g.us": 6510,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2417,
     "120363411233423709@g.us": 5,
@@ -22496,6 +22531,36 @@
         "text": "Esse e top",
         "pushName": "pãobão 😂",
         "timestamp": 1788220392958
+      },
+      "ACE9B5EB36407F24F55FFEE66F5FA1B4": {
+        "sender": "2135320166432@lid",
+        "text": "👏🏽👏🏽👏🏽👏🏽👏🏽",
+        "pushName": "Anderson",
+        "timestamp": 1788220394768
+      },
+      "AC8A4F6BC7A5E93283ED5667B860EF29": {
+        "sender": "109508781207612@lid",
+        "text": "Combinado me manda o endereço q vou me embrulha pra vc",
+        "pushName": "pãobão 😂",
+        "timestamp": 1788220407795
+      },
+      "AC1932EF19959AD646347F2B349B7C7F": {
+        "sender": "2135320166432@lid",
+        "text": "Soldado promovido",
+        "pushName": "Anderson",
+        "timestamp": 1788220409868
+      },
+      "AC0C0AB6A9134CD7B65E9D89C12FFBE7": {
+        "sender": "109508781207612@lid",
+        "text": "Já q euserve",
+        "pushName": "pãobão 😂",
+        "timestamp": 1788220411187
+      },
+      "A50A5DA2B6191A6319A9A80FB04F641E": {
+        "sender": "166452229341300@lid",
+        "text": "🤣🤣🤣🤣",
+        "pushName": "Layaninha",
+        "timestamp": 1788220415413
       }
     },
     "120363409727467494@g.us": {},
@@ -24034,8 +24099,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788220393194,
-    "120363428464897153@g.us": 1788220392958,
+    "120363432018531082@g.us": 1788220417049,
+    "120363428464897153@g.us": 1788220421868,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788219832739,
     "120363411233423709@g.us": 1787113553426,
