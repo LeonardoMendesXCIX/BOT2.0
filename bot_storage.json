@@ -409,9 +409,9 @@
         "total": 505
       },
       "222595437858867": {
-        "text": 647,
+        "text": 648,
         "media": 64,
-        "total": 711
+        "total": 712
       },
       "83280154103884": {
         "text": 36,
@@ -2145,8 +2145,8 @@
       },
       "120044990287992": {
         "text": 75,
-        "media": 9,
-        "total": 84
+        "media": 10,
+        "total": 85
       },
       "238070154658000": {
         "text": 5,
@@ -2889,9 +2889,9 @@
         "total": 72
       },
       "2135320166432": {
-        "text": 193,
+        "text": 194,
         "media": 25,
-        "total": 218
+        "total": 219
       },
       "239371546579166": {
         "text": 2,
@@ -2979,9 +2979,9 @@
         "total": 1
       },
       "166452229341300": {
-        "text": 34,
+        "text": 35,
         "media": 2,
-        "total": 36
+        "total": 37
       },
       "247150369894475": {
         "text": 4,
@@ -7472,8 +7472,6 @@
         "Rodolfo Carmona Mazon: Geral é de Sorocaba?"
       ],
       "31/08/2026": [
-        "~🌪️𝓁𝒶𝓎𝒽🦋: a tua apresentação n\nabriu pra mim \ne homem ou mulher",
-        "🐦‍🔥: mulher, se quer que eu mande novo?",
         "negoh🐻: Quero",
         "~🌪️𝓁𝒶𝓎𝒽🦋: quero",
         "Rafael Moura: Queremos",
@@ -7971,7 +7969,9 @@
         "Rita💙: De momento tranquilo",
         "Sabrina Bartolucci 🤌🏻: Para garoto 😂😂😂😂",
         "Anderson: 😂😂😂😂😂😂😂",
-        "Juliano Perlin: Nóis é atentado"
+        "Juliano Perlin: Nóis é atentado",
+        "Srt Sousah: Já não quero",
+        "Anderson: #o fumo entrou aí em @222595437858867"
       ]
     },
     "120363428464897153@g.us": {
@@ -11957,6 +11957,18 @@
         "authorName": "Juliano Perlin",
         "text": "Nóis é atentado",
         "timestamp": 1788219937024
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Srt Sousah",
+        "text": "Já não quero",
+        "timestamp": 1788219948511
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "#o fumo entrou aí em @222595437858867",
+        "timestamp": 1788219948974
       }
     ],
     "120363428464897153@g.us": [
@@ -12099,7 +12111,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 1479,
+    "120363432018531082@g.us": 1481,
     "120363428464897153@g.us": 6474,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2417,
@@ -21660,6 +21672,18 @@
         "text": "Nóis é atentado",
         "pushName": "Juliano Perlin",
         "timestamp": 1788219937024
+      },
+      "A5B2122D65D239C6033875E9FBBDF1C8": {
+        "sender": "166452229341300@lid",
+        "text": "Já não quero",
+        "pushName": "Srt Sousah",
+        "timestamp": 1788219948511
+      },
+      "ACE66C9C09F28512880286439F4E516A": {
+        "sender": "2135320166432@lid",
+        "text": "#o fumo entrou aí em @222595437858867",
+        "pushName": "Anderson",
+        "timestamp": 1788219948974
       }
     },
     "120363428464897153@g.us": {
@@ -23494,7 +23518,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788219937024,
+    "120363432018531082@g.us": 1788219969548,
     "120363428464897153@g.us": 1788219819217,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788219832739,
