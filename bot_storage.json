@@ -409,9 +409,9 @@
         "total": 505
       },
       "222595437858867": {
-        "text": 629,
+        "text": 630,
         "media": 64,
-        "total": 693
+        "total": 694
       },
       "83280154103884": {
         "text": 36,
@@ -7437,7 +7437,6 @@
         "Rodolfo Carmona Mazon: Geral é de Sorocaba?"
       ],
       "31/08/2026": [
-        "Souza: Tem 90 ela",
         "Camila Designer: Ficar tentando entender em quem você quer dar o golpe",
         "Juliano Perlin: Eu nao sou golpista🥹",
         "Souza: Confia",
@@ -7936,7 +7935,8 @@
         "Srt Sousah: Qual cidade?",
         "Anderson: Bem também",
         "jaciara: Eu sou de Fortaleza dos Nogueiras",
-        "jaciara: Que bom ☺️"
+        "jaciara: Que bom ☺️",
+        "Juliano Perlin: Bão?? Kk"
       ]
     },
     "120363428464897153@g.us": {
@@ -11560,6 +11560,12 @@
         "authorName": "jaciara",
         "text": "Que bom ☺️",
         "timestamp": 1788217832595
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Bão?? Kk",
+        "timestamp": 1788217897490
       }
     ],
     "120363428464897153@g.us": [],
@@ -11580,7 +11586,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 1379,
+    "120363432018531082@g.us": 1380,
     "120363428464897153@g.us": 6464,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2407,
@@ -20538,6 +20544,12 @@
         "text": "Que bom ☺️",
         "pushName": "jaciara",
         "timestamp": 1788217832596
+      },
+      "ACF832E1DD2D5B36817B62A4AE08FF8B": {
+        "sender": "222595437858867@lid",
+        "text": "Bão?? Kk",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1788217897490
       }
     },
     "120363428464897153@g.us": {
@@ -22252,7 +22264,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788217832595,
+    "120363432018531082@g.us": 1788217897490,
     "120363428464897153@g.us": 1788203369966,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788203617394,
