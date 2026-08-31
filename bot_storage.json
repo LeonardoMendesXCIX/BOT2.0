@@ -2734,9 +2734,9 @@
         "total": 2
       },
       "108461127897146": {
-        "text": 284,
+        "text": 285,
         "media": 41,
-        "total": 325
+        "total": 326
       },
       "10050861031495": {
         "text": 0,
@@ -2914,9 +2914,9 @@
         "total": 5
       },
       "54013592617050": {
-        "text": 46,
+        "text": 48,
         "media": 5,
-        "total": 51
+        "total": 53
       },
       "78585838710792": {
         "text": 9,
@@ -7437,9 +7437,6 @@
         "Rodolfo Carmona Mazon: Geral é de Sorocaba?"
       ],
       "31/08/2026": [
-        "Celiete Souza: Sim foi feio Pix e tudo",
-        "Juliano Perlin: Ta",
-        "Celiete Souza: As pessoas não estão pra brincadeira",
         "🐦‍🔥: O do Rafael",
         "Camila Designer: Falando nisso alguém sabe o valor?😂😂😂",
         "Celiete Souza: Também queria saber",
@@ -7936,7 +7933,10 @@
         "Srt Sousah: Meu Deus",
         "🐦‍🔥: eu quero ir embora galerinha",
         "Gabi 💋: Meu Deus",
-        "jaciara: Está na faculdade?"
+        "jaciara: Está na faculdade?",
+        "🐦‍🔥: sim",
+        "🐦‍🔥: alguém me sequestre daqui",
+        "jaciara: Então aguente mais um pouco rsrss"
       ]
     },
     "120363428464897153@g.us": {
@@ -11680,6 +11680,24 @@
         "authorName": "jaciara",
         "text": "Está na faculdade?",
         "timestamp": 1788218307962
+      },
+      {
+        "authorNum": "54013592617050",
+        "authorName": "🐦‍🔥",
+        "text": "sim",
+        "timestamp": 1788218355724
+      },
+      {
+        "authorNum": "54013592617050",
+        "authorName": "🐦‍🔥",
+        "text": "alguém me sequestre daqui",
+        "timestamp": 1788218363032
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Então aguente mais um pouco rsrss",
+        "timestamp": 1788218373339
       }
     ],
     "120363428464897153@g.us": [],
@@ -11700,7 +11718,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 1399,
+    "120363432018531082@g.us": 1402,
     "120363428464897153@g.us": 6464,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2407,
@@ -20778,6 +20796,24 @@
         "text": "Está na faculdade?",
         "pushName": "jaciara",
         "timestamp": 1788218307962
+      },
+      "AC2BC7D7C157DD9FE8D511C4306B6871": {
+        "sender": "54013592617050@lid",
+        "text": "sim",
+        "pushName": "🐦‍🔥",
+        "timestamp": 1788218355724
+      },
+      "ACFA3FE0E31DF11A34A26BA06E8600EC": {
+        "sender": "54013592617050@lid",
+        "text": "alguém me sequestre daqui",
+        "pushName": "🐦‍🔥",
+        "timestamp": 1788218363032
+      },
+      "ACA0535E4F53639D77FF164DD273ECB0": {
+        "sender": "108461127897146@lid",
+        "text": "Então aguente mais um pouco rsrss",
+        "pushName": "jaciara",
+        "timestamp": 1788218373339
       }
     },
     "120363428464897153@g.us": {
@@ -22492,7 +22528,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788218307962,
+    "120363432018531082@g.us": 1788218373339,
     "120363428464897153@g.us": 1788203369966,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788203617394,
