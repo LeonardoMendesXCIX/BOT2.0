@@ -304,9 +304,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2546,
+        "text": 2547,
         "media": 354,
-        "total": 2900
+        "total": 2901
       },
       "252922705240205": {
         "text": 80,
@@ -7452,7 +7452,6 @@
         "Rodolfo Carmona Mazon: Geral é de Sorocaba?"
       ],
       "31/08/2026": [
-        "Leandro: !del",
         "Sabrina Bartolucci 🤌🏻: Oxi, o que tem eu? Perdi a fofoca",
         "Leandro: Poronto! 🫡",
         "Sabrina Bartolucci 🤌🏻: Kkkkkkkkkkkkkk passarei não",
@@ -7951,7 +7950,8 @@
         "Lailson Nathan.: Bonita mesmo, tua chance irmão.",
         "Srt Sousah: Desculpa a pergunta \nMais quem é essa lay?",
         "Sabrina Bartolucci 🤌🏻: A fundadora, dona do grupo",
-        "Srt Sousah: Por que achei ela no Kwai no comentário lá \nJogando link e ela disse que esse grupo era a sensação do momento"
+        "Srt Sousah: Por que achei ela no Kwai no comentário lá \nJogando link e ela disse que esse grupo era a sensação do momento",
+        "Sabrina Bartolucci 🤌🏻: @81991328395336"
       ]
     },
     "120363428464897153@g.us": {
@@ -11393,18 +11393,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "86793403801839",
-        "authorName": "Sacola S10",
-        "text": "Boa noite pra geral",
-        "timestamp": 1788217659789
-      },
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Srt Sousah",
-        "text": "Boa",
-        "timestamp": 1788217660120
-      },
-      {
         "authorNum": "108461127897146",
         "authorName": "jaciara",
         "text": "Tô bem e vc ?",
@@ -11769,6 +11757,12 @@
         "authorName": "Srt Sousah",
         "text": "Por que achei ela no Kwai no comentário lá \nJogando link e ela disse que esse grupo era a sensação do momento",
         "timestamp": 1788219445993
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "@81991328395336",
+        "timestamp": 1788219461001
       }
     ],
     "120363428464897153@g.us": [
@@ -11839,7 +11833,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 1428,
+    "120363432018531082@g.us": 1429,
     "120363428464897153@g.us": 6471,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2408,
@@ -21106,6 +21100,12 @@
         "text": "Por que achei ela no Kwai no comentário lá \nJogando link e ela disse que esse grupo era a sensação do momento",
         "pushName": "Srt Sousah",
         "timestamp": 1788219445993
+      },
+      "ACC0C76D6648FD033088744BF96579B6": {
+        "sender": "53537388122141@lid",
+        "text": "@81991328395336",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1788219461002
       }
     },
     "120363428464897153@g.us": {
@@ -22868,7 +22868,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788219445993,
+    "120363432018531082@g.us": 1788219461001,
     "120363428464897153@g.us": 1788219191019,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788219308141,
