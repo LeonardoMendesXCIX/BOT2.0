@@ -409,9 +409,9 @@
         "total": 505
       },
       "222595437858867": {
-        "text": 653,
+        "text": 654,
         "media": 66,
-        "total": 719
+        "total": 720
       },
       "83280154103884": {
         "text": 36,
@@ -2824,9 +2824,9 @@
         "total": 5
       },
       "247020967165997": {
-        "text": 274,
-        "media": 37,
-        "total": 311
+        "text": 276,
+        "media": 39,
+        "total": 315
       },
       "206253020176458": {
         "text": 46,
@@ -2910,8 +2910,8 @@
       },
       "111141304930334": {
         "text": 5,
-        "media": 0,
-        "total": 5
+        "media": 1,
+        "total": 6
       },
       "54013592617050": {
         "text": 59,
@@ -2979,9 +2979,9 @@
         "total": 1
       },
       "166452229341300": {
-        "text": 39,
+        "text": 40,
         "media": 2,
-        "total": 41
+        "total": 42
       },
       "247150369894475": {
         "text": 4,
@@ -3661,9 +3661,9 @@
         "total": 2
       },
       "166452229341300": {
-        "text": 20,
+        "text": 21,
         "media": 2,
-        "total": 22
+        "total": 23
       },
       "109508781207612": {
         "text": 18,
@@ -7477,10 +7477,6 @@
         "Rodolfo Carmona Mazon: Geral é de Sorocaba?"
       ],
       "31/08/2026": [
-        "Celiete Souza: Não vi kkkkk",
-        "🐦‍🔥: Obrigada",
-        "Sabrina Bartolucci 🤌🏻: Me chame no Pv Gabi",
-        "Arthur: Eu mandei a figurinha errada jjkkkkk",
         "🐦‍🔥: Boa tardee",
         "🐦‍🔥: obrigada kkk",
         "Arthur: Meu Deus kkkkk",
@@ -7976,7 +7972,11 @@
         "Kelvin Luan Ribeiro Da Ro: Obrigado",
         "Leandro: !sa",
         "Kelvin Luan Ribeiro Da Ro: Esse grupo fornece oque para os participantes?",
-        "negoh🐻: Pix"
+        "negoh🐻: Pix",
+        "Gabi 💋: Amizades, conversas",
+        "Juliano Perlin: Q foi🥹",
+        "Layaninha: Nada",
+        "Gabi 💋: Vc quer dinheiro é.meljor trabalhar"
       ]
     },
     "120363428464897153@g.us": {
@@ -9544,7 +9544,8 @@
         "Juliano Perlin: Vc faz oq da vida??",
         "Layaninha: Modelo na Minha cidade",
         "Juliano Perlin: Que bacana🤗",
-        "Juliano Perlin: Parabéns"
+        "Juliano Perlin: Parabéns",
+        "Layaninha: E tbm trabalho numa corretora de imóveis"
       ]
     },
     "120363409727467494@g.us": {
@@ -12031,6 +12032,30 @@
         "authorName": "negoh🐻",
         "text": "Pix",
         "timestamp": 1788220597954
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Amizades, conversas",
+        "timestamp": 1788220653693
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Q foi🥹",
+        "timestamp": 1788220658630
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Layaninha",
+        "text": "Nada",
+        "timestamp": 1788220658954
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Vc quer dinheiro é.meljor trabalhar",
+        "timestamp": 1788220663766
       }
     ],
     "120363428464897153@g.us": [
@@ -12399,6 +12424,12 @@
         "authorName": "Juliano Perlin",
         "text": "Parabéns",
         "timestamp": 1788220634189
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Layaninha",
+        "text": "E tbm trabalho numa corretora de imóveis",
+        "timestamp": 1788220643374
       }
     ],
     "120363409727467494@g.us": [],
@@ -12479,8 +12510,8 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 1504,
-    "120363428464897153@g.us": 6525,
+    "120363432018531082@g.us": 1508,
+    "120363428464897153@g.us": 6526,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2417,
     "120363411233423709@g.us": 5,
@@ -22190,6 +22221,30 @@
         "text": "Pix",
         "pushName": "negoh🐻",
         "timestamp": 1788220597954
+      },
+      "ACBE621C51EF25294F46EBE69563DA56": {
+        "sender": "247020967165997@lid",
+        "text": "Amizades, conversas",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788220653693
+      },
+      "AC5E786D0AD1290E8E6DA7B9BEFF0126": {
+        "sender": "222595437858867@lid",
+        "text": "Q foi🥹",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1788220658630
+      },
+      "A5785AF7346111B917D66AD28F5AE86F": {
+        "sender": "166452229341300@lid",
+        "text": "Nada",
+        "pushName": "Layaninha",
+        "timestamp": 1788220658954
+      },
+      "AC23D13DF2B2ED7B406E681067AFBA9B": {
+        "sender": "247020967165997@lid",
+        "text": "Vc quer dinheiro é.meljor trabalhar",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788220663766
       }
     },
     "120363428464897153@g.us": {
@@ -22792,6 +22847,12 @@
         "text": "Parabéns",
         "pushName": "Juliano Perlin",
         "timestamp": 1788220634190
+      },
+      "A58FF5329C117278A72709445F8ABBCC": {
+        "sender": "166452229341300@lid",
+        "text": "E tbm trabalho numa corretora de imóveis",
+        "pushName": "Layaninha",
+        "timestamp": 1788220643374
       }
     },
     "120363409727467494@g.us": {},
@@ -24330,8 +24391,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788220597954,
-    "120363428464897153@g.us": 1788220634189,
+    "120363432018531082@g.us": 1788220677494,
+    "120363428464897153@g.us": 1788220643374,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788219832739,
     "120363411233423709@g.us": 1787113553426,
