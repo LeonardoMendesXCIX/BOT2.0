@@ -304,9 +304,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2547,
+        "text": 2548,
         "media": 354,
-        "total": 2901
+        "total": 2902
       },
       "252922705240205": {
         "text": 80,
@@ -3641,6 +3641,11 @@
         "total": 1
       },
       "2135320166432": {
+        "text": 1,
+        "media": 0,
+        "total": 1
+      },
+      "54013592617050": {
         "text": 1,
         "media": 0,
         "total": 1
@@ -7452,7 +7457,6 @@
         "Rodolfo Carmona Mazon: Geral é de Sorocaba?"
       ],
       "31/08/2026": [
-        "Leandro: Poronto! 🫡",
         "Sabrina Bartolucci 🤌🏻: Kkkkkkkkkkkkkk passarei não",
         "Sabrina Bartolucci 🤌🏻: Cristo amado, Deus me livre de trisal\nQuero não",
         "Lexy: Chamem",
@@ -7951,7 +7955,8 @@
         "Sabrina Bartolucci 🤌🏻: A fundadora, dona do grupo",
         "Srt Sousah: Por que achei ela no Kwai no comentário lá \nJogando link e ela disse que esse grupo era a sensação do momento",
         "Sabrina Bartolucci 🤌🏻: @81991328395336",
-        "🙏☝️: Boa noite!"
+        "🙏☝️: Boa noite!",
+        "Sabrina Bartolucci 🤌🏻: Boa noite!!"
       ]
     },
     "120363428464897153@g.us": {
@@ -11393,12 +11398,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Eu e a @81991328395336",
-        "timestamp": 1788217714135
-      },
-      {
         "authorNum": "166452229341300",
         "authorName": "Srt Sousah",
         "text": "Precisa se apresentar!",
@@ -11739,6 +11738,12 @@
         "authorName": "🙏☝️",
         "text": "Boa noite!",
         "timestamp": 1788219503894
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Boa noite!!",
+        "timestamp": 1788219524626
       }
     ],
     "120363428464897153@g.us": [
@@ -11809,7 +11814,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 1430,
+    "120363432018531082@g.us": 1431,
     "120363428464897153@g.us": 6471,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2408,
@@ -21095,6 +21100,12 @@
         "text": "Boa noite!",
         "pushName": "🙏☝️",
         "timestamp": 1788219503894
+      },
+      "AC38A7E32F04E81738A790BFEF6A4F00": {
+        "sender": "53537388122141@lid",
+        "text": "Boa noite!!",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1788219524626
       }
     },
     "120363428464897153@g.us": {
@@ -22857,8 +22868,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788219507615,
-    "120363428464897153@g.us": 1788219191019,
+    "120363432018531082@g.us": 1788219524626,
+    "120363428464897153@g.us": 1788219531524,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788219308141,
     "120363411233423709@g.us": 1787113553426,
