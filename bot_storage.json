@@ -3301,9 +3301,9 @@
         "total": 95
       },
       "222595437858867": {
-        "text": 160,
+        "text": 162,
         "media": 12,
-        "total": 172
+        "total": 174
       },
       "104003018985518": {
         "text": 40,
@@ -3661,9 +3661,9 @@
         "total": 2
       },
       "166452229341300": {
-        "text": 19,
+        "text": 20,
         "media": 2,
-        "total": 21
+        "total": 22
       },
       "109508781207612": {
         "text": 18,
@@ -9541,7 +9541,10 @@
         "Leandro: Boa noite, sim, sou adm, casado com a @81991328395336",
         "Leandro: Vamos fazer reapresentação daqui uns dias",
         "Juliano Perlin: Eu nao moça..🥹🥰",
-        "Juliano Perlin: Vc faz oq da vida??"
+        "Juliano Perlin: Vc faz oq da vida??",
+        "Layaninha: Modelo na Minha cidade",
+        "Juliano Perlin: Que bacana🤗",
+        "Juliano Perlin: Parabéns"
       ]
     },
     "120363409727467494@g.us": {
@@ -12378,6 +12381,24 @@
         "authorName": "Juliano Perlin",
         "text": "Vc faz oq da vida??",
         "timestamp": 1788220583882
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Layaninha",
+        "text": "Modelo na Minha cidade",
+        "timestamp": 1788220605461
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Que bacana🤗",
+        "timestamp": 1788220627910
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Parabéns",
+        "timestamp": 1788220634189
       }
     ],
     "120363409727467494@g.us": [],
@@ -12459,7 +12480,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 1504,
-    "120363428464897153@g.us": 6522,
+    "120363428464897153@g.us": 6525,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2417,
     "120363411233423709@g.us": 5,
@@ -22753,6 +22774,24 @@
         "text": "Vc faz oq da vida??",
         "pushName": "Juliano Perlin",
         "timestamp": 1788220583882
+      },
+      "A5097638CACB81887117ECEF34DCCFA2": {
+        "sender": "166452229341300@lid",
+        "text": "Modelo na Minha cidade",
+        "pushName": "Layaninha",
+        "timestamp": 1788220605461
+      },
+      "ACB988B4DC52726C654EBA8B24FEDA69": {
+        "sender": "222595437858867@lid",
+        "text": "Que bacana🤗",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1788220627910
+      },
+      "AC06A86ECF6D1D9D5E5D97869CABFB5C": {
+        "sender": "222595437858867@lid",
+        "text": "Parabéns",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1788220634190
       }
     },
     "120363409727467494@g.us": {},
@@ -24292,7 +24331,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1788220597954,
-    "120363428464897153@g.us": 1788220585929,
+    "120363428464897153@g.us": 1788220634189,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788219832739,
     "120363411233423709@g.us": 1787113553426,
