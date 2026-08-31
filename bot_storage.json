@@ -304,9 +304,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2541,
+        "text": 2542,
         "media": 354,
-        "total": 2895
+        "total": 2896
       },
       "252922705240205": {
         "text": 80,
@@ -409,9 +409,9 @@
         "total": 505
       },
       "222595437858867": {
-        "text": 631,
+        "text": 632,
         "media": 64,
-        "total": 695
+        "total": 696
       },
       "83280154103884": {
         "text": 36,
@@ -7452,8 +7452,6 @@
         "Rodolfo Carmona Mazon: Geral é de Sorocaba?"
       ],
       "31/08/2026": [
-        "🐦‍🔥: Siimm, sabendo chegar oxe arroche",
-        "Leandro: !sa",
         "Leandro: !del",
         "Leandro: !del",
         "Leandro: !sa 👋 *SAUDAÇÃO*\n\nAtual: 💥 BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Queremos conhecer você! ✨\n\n📸 Sua foto:\n💬 Nome:\n🎂 Idade:\n📍 De onde sou:\n\n*🫶🏻 Seja bem-vindo(a)!*\n\n✨ Sinta-se à vontade para interagir, co",
@@ -7951,7 +7949,9 @@
         "Srt Sousah: Obgd",
         "Sabrina Bartolucci 🤌🏻: Bem vinda!",
         "Sabrina Bartolucci 🤌🏻: Foi aqui que pediram link do Kabaré?",
-        "Juliano Perlin: Bem vinda🤗"
+        "Juliano Perlin: Bem vinda🤗",
+        "Juliano Perlin: Eu posso ir la ficar pelado??🥹",
+        "Sabrina Bartolucci 🤌🏻: Pode ué, lá é liberado"
       ]
     },
     "120363428464897153@g.us": {
@@ -11392,12 +11392,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "166452229341300",
-        "authorName": "Srt Sousah",
-        "text": "Essa q é ADM?",
-        "timestamp": 1788217467228
-      },
-      {
         "authorNum": "5511927018683",
         "authorName": "Leandro",
         "text": "Acesse este link para entrar no meu grupo do WhatsApp: https://chat.whatsapp.com/CS9G5GGA1nq0Ix6dP4CQX5?s=sw&p=a&mlu=4",
@@ -11762,6 +11756,18 @@
         "authorName": "Juliano Perlin",
         "text": "Bem vinda🤗",
         "timestamp": 1788219253865
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Eu posso ir la ficar pelado??🥹",
+        "timestamp": 1788219277067
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Pode ué, lá é liberado",
+        "timestamp": 1788219292225
       }
     ],
     "120363428464897153@g.us": [
@@ -11825,7 +11831,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 1415,
+    "120363432018531082@g.us": 1417,
     "120363428464897153@g.us": 6471,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2407,
@@ -21014,6 +21020,18 @@
         "text": "Bem vinda🤗",
         "pushName": "Juliano Perlin",
         "timestamp": 1788219253865
+      },
+      "AC29E8113C19F46B4FC9F1CAF93361D9": {
+        "sender": "222595437858867@lid",
+        "text": "Eu posso ir la ficar pelado??🥹",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1788219277067
+      },
+      "AC81D76A4A7604A0BE7C15FAD5FA4679": {
+        "sender": "53537388122141@lid",
+        "text": "Pode ué, lá é liberado",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1788219292225
       }
     },
     "120363428464897153@g.us": {
@@ -22770,7 +22788,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788219253865,
+    "120363432018531082@g.us": 1788219292225,
     "120363428464897153@g.us": 1788219191019,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788203617394,
