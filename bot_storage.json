@@ -304,9 +304,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2540,
+        "text": 2541,
         "media": 354,
-        "total": 2894
+        "total": 2895
       },
       "252922705240205": {
         "text": 80,
@@ -409,9 +409,9 @@
         "total": 505
       },
       "222595437858867": {
-        "text": 630,
+        "text": 631,
         "media": 64,
-        "total": 694
+        "total": 695
       },
       "83280154103884": {
         "text": 36,
@@ -7452,8 +7452,6 @@
         "Rodolfo Carmona Mazon: Geral é de Sorocaba?"
       ],
       "31/08/2026": [
-        "Juliano Perlin: Ae termina o grupo",
-        "Celiete Souza: Isso é vdd",
         "🐦‍🔥: Siimm, sabendo chegar oxe arroche",
         "Leandro: !sa",
         "Leandro: !del",
@@ -7951,7 +7949,9 @@
         "jaciara: Acredite",
         "Gabi 💋: Seja bem vinda",
         "Srt Sousah: Obgd",
-        "Sabrina Bartolucci 🤌🏻: Bem vinda!"
+        "Sabrina Bartolucci 🤌🏻: Bem vinda!",
+        "Sabrina Bartolucci 🤌🏻: Foi aqui que pediram link do Kabaré?",
+        "Juliano Perlin: Bem vinda🤗"
       ]
     },
     "120363428464897153@g.us": {
@@ -11392,18 +11392,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Aí é com os ADMs",
-        "timestamp": 1788217426611
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "@81991328395336",
-        "timestamp": 1788217431962
-      },
-      {
         "authorNum": "166452229341300",
         "authorName": "Srt Sousah",
         "text": "Essa q é ADM?",
@@ -11762,6 +11750,18 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Bem vinda!",
         "timestamp": 1788219213920
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Foi aqui que pediram link do Kabaré?",
+        "timestamp": 1788219231509
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Bem vinda🤗",
+        "timestamp": 1788219253865
       }
     ],
     "120363428464897153@g.us": [
@@ -11825,7 +11825,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 1413,
+    "120363432018531082@g.us": 1415,
     "120363428464897153@g.us": 6471,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2407,
@@ -11978,7 +11978,9 @@
       "130589218856962@lid",
       "214156045242435@lid",
       "271940199665903@lid",
-      "18653797982263@lid"
+      "18653797982263@lid",
+      "54013592617050@lid",
+      "166452229341300@lid"
     ]
   },
   "promoSchedule": {},
@@ -12021,7 +12023,20 @@
       "date": "2026-08-17T03:32:19.330Z"
     }
   },
-  "pendingBvReminders": [],
+  "pendingBvReminders": [
+    {
+      "id": "1788219249538_54013592617050@lid",
+      "chatId": "120363428464897153@g.us",
+      "newMemberId": "54013592617050@lid",
+      "runAt": 1788219549537
+    },
+    {
+      "id": "1788219250783_166452229341300@lid",
+      "chatId": "120363428464897153@g.us",
+      "newMemberId": "166452229341300@lid",
+      "runAt": 1788219550783
+    }
+  ],
   "groupSchedules": {
     "120363428464897153@g.us": {
       "openTime": "20:30",
@@ -20987,6 +21002,18 @@
         "text": "Bem vinda!",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1788219213920
+      },
+      "AC334718095D63DDD742485E7047E72B": {
+        "sender": "53537388122141@lid",
+        "text": "Foi aqui que pediram link do Kabaré?",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1788219231509
+      },
+      "ACE0BF65A33AAA5D2E7242281D1A8D78": {
+        "sender": "222595437858867@lid",
+        "text": "Bem vinda🤗",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1788219253865
       }
     },
     "120363428464897153@g.us": {
@@ -22743,7 +22770,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788219213920,
+    "120363432018531082@g.us": 1788219253865,
     "120363428464897153@g.us": 1788219191019,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788203617394,
