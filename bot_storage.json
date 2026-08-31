@@ -1574,9 +1574,9 @@
         "total": 4
       },
       "272048228188398": {
-        "text": 129,
+        "text": 130,
         "media": 27,
-        "total": 156
+        "total": 157
       },
       "55959196049495": {
         "text": 6,
@@ -2890,8 +2890,8 @@
       },
       "2135320166432": {
         "text": 191,
-        "media": 24,
-        "total": 215
+        "media": 25,
+        "total": 216
       },
       "239371546579166": {
         "text": 2,
@@ -2979,9 +2979,9 @@
         "total": 1
       },
       "166452229341300": {
-        "text": 12,
+        "text": 13,
         "media": 0,
-        "total": 12
+        "total": 13
       }
     },
     "120363428464897153@g.us": {
@@ -7437,9 +7437,6 @@
         "Rodolfo Carmona Mazon: Geral é de Sorocaba?"
       ],
       "31/08/2026": [
-        "Juliano Perlin: Q calunia contra minha pessoa🥺",
-        "Celiete Souza: @222595437858867 não se torne um atirador",
-        "Souza: Tá aprendendo com o @120044990287992",
         "Celiete Souza: Pois então, ele não era assim",
         "Juliano Perlin: Minha fia eu nem tenho bodóque pra isso imagina revolver🤣🤣🤣",
         "Juliano Perlin: 🤭🤭",
@@ -7936,7 +7933,10 @@
         "Anderson: Faltou você aqui 😔😔😏",
         "jaciara: Vc estava sumido , tava onde ? 🤔",
         "Anderson: Campanha do candidado da aqui que eu meu amigo",
-        "Lailson Nathan.: Mulherão para vocês aí rapaziada, só que tem que ser velho de 70."
+        "Lailson Nathan.: Mulherão para vocês aí rapaziada, só que tem que ser velho de 70.",
+        "Srt Sousah: E rico\nLisa já basta eu",
+        "Anderson: Tava com som lá",
+        "Lailson Nathan.: Exigente."
       ]
     },
     "120363428464897153@g.us": {
@@ -11590,6 +11590,24 @@
         "authorName": "Lailson Nathan.",
         "text": "Mulherão para vocês aí rapaziada, só que tem que ser velho de 70.",
         "timestamp": 1788218038689
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Tava com som lá",
+        "timestamp": 1788218079867
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Srt Sousah",
+        "text": "E rico\nLisa já basta eu",
+        "timestamp": 1788218080434
+      },
+      {
+        "authorNum": "272048228188398",
+        "authorName": "Lailson Nathan.",
+        "text": "Exigente.",
+        "timestamp": 1788218098587
       }
     ],
     "120363428464897153@g.us": [],
@@ -11610,7 +11628,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 1384,
+    "120363432018531082@g.us": 1387,
     "120363428464897153@g.us": 6464,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2407,
@@ -20598,6 +20616,24 @@
         "text": "Mulherão para vocês aí rapaziada, só que tem que ser velho de 70.",
         "pushName": "Lailson Nathan.",
         "timestamp": 1788218038689
+      },
+      "A5CB9B651D7AFB0B4F4FD177E6B81987": {
+        "sender": "166452229341300@lid",
+        "text": "E rico\nLisa já basta eu",
+        "pushName": "Srt Sousah",
+        "timestamp": 1788218080434
+      },
+      "AC856A80ED00CF43BAFEFA3F3BC8C7EE": {
+        "sender": "2135320166432@lid",
+        "text": "Tava com som lá",
+        "pushName": "Anderson",
+        "timestamp": 1788218081142
+      },
+      "AC4929300A9651F137EC830C34F1BBD9": {
+        "sender": "272048228188398@lid",
+        "text": "Exigente.",
+        "pushName": "Lailson Nathan.",
+        "timestamp": 1788218098588
       }
     },
     "120363428464897153@g.us": {
@@ -22312,7 +22348,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788218054583,
+    "120363432018531082@g.us": 1788218098587,
     "120363428464897153@g.us": 1788203369966,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788203617394,
