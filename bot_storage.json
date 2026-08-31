@@ -2914,9 +2914,9 @@
         "total": 5
       },
       "54013592617050": {
-        "text": 57,
-        "media": 6,
-        "total": 63
+        "text": 59,
+        "media": 7,
+        "total": 66
       },
       "78585838710792": {
         "text": 9,
@@ -3486,9 +3486,9 @@
         "total": 15
       },
       "120044990287992": {
-        "text": 218,
+        "text": 219,
         "media": 15,
-        "total": 233
+        "total": 234
       },
       "71120413843690": {
         "text": 2,
@@ -3661,9 +3661,9 @@
         "total": 3
       },
       "109508781207612": {
-        "text": 4,
+        "text": 6,
         "media": 0,
-        "total": 4
+        "total": 6
       }
     },
     "120363409727467494@g.us": {
@@ -7472,8 +7472,6 @@
         "Rodolfo Carmona Mazon: Geral é de Sorocaba?"
       ],
       "31/08/2026": [
-        "Rafael Moura: Queremos",
-        "Rafael Moura: 👀",
         "~🌪️𝓁𝒶𝓎𝒽🦋: quando fui ve expirou",
         "negoh🐻: Expira é?",
         "Anderson: Foi isso que eu disse ontem! Quando alguém quer corre atrás",
@@ -7971,7 +7969,9 @@
         "Srt Sousah: Já não quero",
         "Anderson: #o fumo entrou aí em @222595437858867",
         "Juliano Perlin: Espera, deixa eu juntar minha guampa que caiu aqui",
-        "Juliano Perlin: 🤣🤣🤣🤣🤣"
+        "Juliano Perlin: 🤣🤣🤣🤣🤣",
+        "🐦‍🔥: Perdeu play boy",
+        "🐦‍🔥: qual parte de guarulhos?"
       ]
     },
     "120363428464897153@g.us": {
@@ -9494,7 +9494,9 @@
         "pãobão 😂: Minha pele tá mal cuidada ?",
         "pãobão 😂: 👀",
         "pãobão 😂: Estão msm kkkk",
-        "Layaninha: Não achei"
+        "Layaninha: Não achei",
+        "pãobão 😂: Obg",
+        "pãobão 😂: E olha q eu nem cuido tão bem assim kk"
       ]
     },
     "120363409727467494@g.us": {
@@ -11431,24 +11433,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "272048228188398",
-        "authorName": "Lailson Nathan.",
-        "text": "Se tiver filho, ele morreu e você não fica com a herança dele.",
-        "timestamp": 1788218222717
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Humm, entendi.",
-        "timestamp": 1788218240944
-      },
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Srt Sousah",
-        "text": "Meu Deus",
-        "timestamp": 1788218246608
-      },
-      {
         "authorNum": "54013592617050",
         "authorName": "🐦‍🔥",
         "text": "eu quero ir embora galerinha",
@@ -11969,6 +11953,18 @@
         "authorName": "Juliano Perlin",
         "text": "🤣🤣🤣🤣🤣",
         "timestamp": 1788219997464
+      },
+      {
+        "authorNum": "54013592617050",
+        "authorName": "🐦‍🔥",
+        "text": "Perdeu play boy",
+        "timestamp": 1788220055662
+      },
+      {
+        "authorNum": "54013592617050",
+        "authorName": "🐦‍🔥",
+        "text": "qual parte de guarulhos?",
+        "timestamp": 1788220073239
       }
     ],
     "120363428464897153@g.us": [
@@ -12067,6 +12063,18 @@
         "authorName": "Layaninha",
         "text": "Não achei",
         "timestamp": 1788220032621
+      },
+      {
+        "authorNum": "109508781207612",
+        "authorName": "pãobão 😂",
+        "text": "Obg",
+        "timestamp": 1788220055936
+      },
+      {
+        "authorNum": "109508781207612",
+        "authorName": "pãobão 😂",
+        "text": "E olha q eu nem cuido tão bem assim kk",
+        "timestamp": 1788220069980
       }
     ],
     "120363409727467494@g.us": [],
@@ -12147,8 +12155,8 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 1483,
-    "120363428464897153@g.us": 6480,
+    "120363432018531082@g.us": 1485,
+    "120363428464897153@g.us": 6482,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2417,
     "120363411233423709@g.us": 5,
@@ -21732,6 +21740,18 @@
         "text": "🤣🤣🤣🤣🤣",
         "pushName": "Juliano Perlin",
         "timestamp": 1788219997464
+      },
+      "AC671522C0F3CD2E5418D97C99626020": {
+        "sender": "54013592617050@lid",
+        "text": "Perdeu play boy",
+        "pushName": "🐦‍🔥",
+        "timestamp": 1788220055662
+      },
+      "AC109EC28EB22678FDA477FAAEE63624": {
+        "sender": "54013592617050@lid",
+        "text": "qual parte de guarulhos?",
+        "pushName": "🐦‍🔥",
+        "timestamp": 1788220073239
       }
     },
     "120363428464897153@g.us": {
@@ -22064,6 +22084,18 @@
         "text": "Não achei",
         "pushName": "Layaninha",
         "timestamp": 1788220032621
+      },
+      "AC496EE645BF14966D2A212B115844BB": {
+        "sender": "109508781207612@lid",
+        "text": "Obg",
+        "pushName": "pãobão 😂",
+        "timestamp": 1788220055936
+      },
+      "ACBCD0E32F0F1AE55B5A821E4E95C11A": {
+        "sender": "109508781207612@lid",
+        "text": "E olha q eu nem cuido tão bem assim kk",
+        "pushName": "pãobão 😂",
+        "timestamp": 1788220069981
       }
     },
     "120363409727467494@g.us": {},
@@ -23602,8 +23634,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788220021842,
-    "120363428464897153@g.us": 1788220032621,
+    "120363432018531082@g.us": 1788220073239,
+    "120363428464897153@g.us": 1788220069980,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788219832739,
     "120363411233423709@g.us": 1787113553426,
