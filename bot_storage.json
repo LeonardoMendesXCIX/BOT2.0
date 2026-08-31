@@ -304,9 +304,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2566,
+        "text": 2568,
         "media": 354,
-        "total": 2920
+        "total": 2922
       },
       "252922705240205": {
         "text": 80,
@@ -409,9 +409,9 @@
         "total": 505
       },
       "222595437858867": {
-        "text": 650,
+        "text": 651,
         "media": 65,
-        "total": 715
+        "total": 716
       },
       "83280154103884": {
         "text": 36,
@@ -3656,14 +3656,14 @@
         "total": 2
       },
       "166452229341300": {
-        "text": 5,
+        "text": 7,
         "media": 1,
-        "total": 6
+        "total": 8
       },
       "109508781207612": {
-        "text": 7,
+        "text": 8,
         "media": 0,
-        "total": 7
+        "total": 8
       }
     },
     "120363409727467494@g.us": {
@@ -7472,8 +7472,6 @@
         "Rodolfo Carmona Mazon: Geral é de Sorocaba?"
       ],
       "31/08/2026": [
-        "~🌪️𝓁𝒶𝓎𝒽🦋: o meu apareceu foto expirada",
-        "negoh🐻: Eu n sabia que expirava",
         "🐦‍🔥: Consegui ver?",
         "Rafael Moura: Hummm",
         "🐦‍🔥: nem eu kkkk",
@@ -7971,7 +7969,9 @@
         "🐦‍🔥: qual parte de guarulhos?",
         "🙏☝️: Pimentas",
         "Sabrina Bartolucci 🤌🏻: Juliano Julaaaano",
-        "Layaninha: Queria vê fotos dos Adms 🥲"
+        "Layaninha: Queria vê fotos dos Adms 🥲",
+        "Sabrina Bartolucci 🤌🏻: Bem vindo!",
+        "Juliano Perlin: Oii meu docinho🥹"
       ]
     },
     "120363428464897153@g.us": {
@@ -9501,7 +9501,10 @@
         "Layaninha: Obrigada",
         "Layaninha: Queria vê fotos dos Adms",
         "Layaninha: 🥲",
-        "pãobão 😂: Agora q vi sua FT"
+        "pãobão 😂: Agora q vi sua FT",
+        "pãobão 😂: Vc e bem linda seu cabelo e perfeito 😍",
+        "Layaninha: Obrigada",
+        "Layaninha: Meu amigo meu cabelo é luxo"
       ]
     },
     "120363409727467494@g.us": {
@@ -11438,18 +11441,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "54013592617050",
-        "authorName": "🐦‍🔥",
-        "text": "sim",
-        "timestamp": 1788218355724
-      },
-      {
-        "authorNum": "54013592617050",
-        "authorName": "🐦‍🔥",
-        "text": "alguém me sequestre daqui",
-        "timestamp": 1788218363032
-      },
-      {
         "authorNum": "108461127897146",
         "authorName": "jaciara",
         "text": "Então aguente mais um pouco rsrss",
@@ -11970,6 +11961,18 @@
         "authorName": "Layaninha",
         "text": "Queria vê fotos dos Adms 🥲",
         "timestamp": 1788220154020
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Bem vindo!",
+        "timestamp": 1788220162593
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Oii meu docinho🥹",
+        "timestamp": 1788220163184
       }
     ],
     "120363428464897153@g.us": [
@@ -12110,6 +12113,24 @@
         "authorName": "pãobão 😂",
         "text": "Agora q vi sua FT",
         "timestamp": 1788220149928
+      },
+      {
+        "authorNum": "109508781207612",
+        "authorName": "pãobão 😂",
+        "text": "Vc e bem linda seu cabelo e perfeito 😍",
+        "timestamp": 1788220159281
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Layaninha",
+        "text": "Obrigada",
+        "timestamp": 1788220165869
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Layaninha",
+        "text": "Meu amigo meu cabelo é luxo",
+        "timestamp": 1788220174615
       }
     ],
     "120363409727467494@g.us": [],
@@ -12190,8 +12211,8 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 1488,
-    "120363428464897153@g.us": 6487,
+    "120363432018531082@g.us": 1490,
+    "120363428464897153@g.us": 6490,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2417,
     "120363411233423709@g.us": 5,
@@ -21805,6 +21826,18 @@
         "text": "Queria vê fotos dos Adms 🥲",
         "pushName": "Layaninha",
         "timestamp": 1788220154020
+      },
+      "ACDACE5152A86C24A39509AFCEF6302B": {
+        "sender": "53537388122141@lid",
+        "text": "Bem vindo!",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1788220162594
+      },
+      "ACA6371254857B46576DE704195D4F3E": {
+        "sender": "222595437858867@lid",
+        "text": "Oii meu docinho🥹",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1788220163184
       }
     },
     "120363428464897153@g.us": {
@@ -22179,6 +22212,24 @@
         "text": "Agora q vi sua FT",
         "pushName": "pãobão 😂",
         "timestamp": 1788220149928
+      },
+      "AC7E4AFC4769FC65AFEF33405C6D4593": {
+        "sender": "109508781207612@lid",
+        "text": "Vc e bem linda seu cabelo e perfeito 😍",
+        "pushName": "pãobão 😂",
+        "timestamp": 1788220159281
+      },
+      "A55FEF8E825224C1ACE478BA2E7BC8C2": {
+        "sender": "166452229341300@lid",
+        "text": "Obrigada",
+        "pushName": "Layaninha",
+        "timestamp": 1788220165869
+      },
+      "A574AE16C325FD9CF2561BD49CAB3AC2": {
+        "sender": "166452229341300@lid",
+        "text": "Meu amigo meu cabelo é luxo",
+        "pushName": "Layaninha",
+        "timestamp": 1788220174615
       }
     },
     "120363409727467494@g.us": {},
@@ -23717,8 +23768,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788220154020,
-    "120363428464897153@g.us": 1788220149928,
+    "120363432018531082@g.us": 1788220178509,
+    "120363428464897153@g.us": 1788220174615,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788219832739,
     "120363411233423709@g.us": 1787113553426,
