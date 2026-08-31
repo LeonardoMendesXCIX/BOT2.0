@@ -409,9 +409,9 @@
         "total": 505
       },
       "222595437858867": {
-        "text": 632,
+        "text": 633,
         "media": 64,
-        "total": 696
+        "total": 697
       },
       "83280154103884": {
         "text": 36,
@@ -2929,9 +2929,9 @@
         "total": 6
       },
       "67392566734987": {
-        "text": 1,
+        "text": 2,
         "media": 1,
-        "total": 2
+        "total": 3
       },
       "59588929921175": {
         "text": 9,
@@ -7452,7 +7452,6 @@
         "Rodolfo Carmona Mazon: Geral é de Sorocaba?"
       ],
       "31/08/2026": [
-        "Sabrina Bartolucci 🤌🏻: Oxi, o que tem eu? Perdi a fofoca",
         "Leandro: Poronto! 🫡",
         "Sabrina Bartolucci 🤌🏻: Kkkkkkkkkkkkkk passarei não",
         "Sabrina Bartolucci 🤌🏻: Cristo amado, Deus me livre de trisal\nQuero não",
@@ -7951,7 +7950,8 @@
         "Srt Sousah: Desculpa a pergunta \nMais quem é essa lay?",
         "Sabrina Bartolucci 🤌🏻: A fundadora, dona do grupo",
         "Srt Sousah: Por que achei ela no Kwai no comentário lá \nJogando link e ela disse que esse grupo era a sensação do momento",
-        "Sabrina Bartolucci 🤌🏻: @81991328395336"
+        "Sabrina Bartolucci 🤌🏻: @81991328395336",
+        "🙏☝️: Boa noite!"
       ]
     },
     "120363428464897153@g.us": {
@@ -11395,36 +11395,6 @@
       {
         "authorNum": "108461127897146",
         "authorName": "jaciara",
-        "text": "Tô bem e vc ?",
-        "timestamp": 1788217668206
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Noiteeee",
-        "timestamp": 1788217683652
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Boa noite",
-        "timestamp": 1788217689022
-      },
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Srt Sousah",
-        "text": "Ninguém do Maranhão?",
-        "timestamp": 1788217695615
-      },
-      {
-        "authorNum": "272048228188398",
-        "authorName": "Lailson Nathan.",
-        "text": "Tudo certo com vocês?",
-        "timestamp": 1788217697995
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
         "text": "Eu e a @81991328395336",
         "timestamp": 1788217714135
       },
@@ -11763,6 +11733,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "@81991328395336",
         "timestamp": 1788219461001
+      },
+      {
+        "authorNum": "67392566734987",
+        "authorName": "🙏☝️",
+        "text": "Boa noite!",
+        "timestamp": 1788219503894
       }
     ],
     "120363428464897153@g.us": [
@@ -11833,7 +11809,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 1429,
+    "120363432018531082@g.us": 1430,
     "120363428464897153@g.us": 6471,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2408,
@@ -11988,7 +11964,8 @@
       "271940199665903@lid",
       "18653797982263@lid",
       "54013592617050@lid",
-      "166452229341300@lid"
+      "166452229341300@lid",
+      "138306604032063@lid"
     ]
   },
   "promoSchedule": {},
@@ -12043,6 +12020,12 @@
       "chatId": "120363428464897153@g.us",
       "newMemberId": "166452229341300@lid",
       "runAt": 1788219550783
+    },
+    {
+      "id": "1788219486201_138306604032063@lid",
+      "chatId": "120363428464897153@g.us",
+      "newMemberId": "138306604032063@lid",
+      "runAt": 1788219786201
     }
   ],
   "groupSchedules": {
@@ -21106,6 +21089,12 @@
         "text": "@81991328395336",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1788219461002
+      },
+      "AC708F0B850FD0DE2F15CA43326CAFDA": {
+        "sender": "67392566734987@lid",
+        "text": "Boa noite!",
+        "pushName": "🙏☝️",
+        "timestamp": 1788219503894
       }
     },
     "120363428464897153@g.us": {
@@ -22868,7 +22857,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788219461001,
+    "120363432018531082@g.us": 1788219507615,
     "120363428464897153@g.us": 1788219191019,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788219308141,
