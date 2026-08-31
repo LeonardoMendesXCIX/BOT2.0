@@ -304,9 +304,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2571,
+        "text": 2572,
         "media": 354,
-        "total": 2925
+        "total": 2926
       },
       "252922705240205": {
         "text": 80,
@@ -2734,9 +2734,9 @@
         "total": 2
       },
       "108461127897146": {
-        "text": 288,
+        "text": 289,
         "media": 41,
-        "total": 329
+        "total": 330
       },
       "10050861031495": {
         "text": 0,
@@ -2824,9 +2824,9 @@
         "total": 5
       },
       "247020967165997": {
-        "text": 278,
+        "text": 280,
         "media": 39,
-        "total": 317
+        "total": 319
       },
       "206253020176458": {
         "text": 46,
@@ -2889,9 +2889,9 @@
         "total": 72
       },
       "2135320166432": {
-        "text": 195,
+        "text": 196,
         "media": 25,
-        "total": 220
+        "total": 221
       },
       "239371546579166": {
         "text": 2,
@@ -2979,9 +2979,9 @@
         "total": 1
       },
       "166452229341300": {
-        "text": 40,
+        "text": 41,
         "media": 2,
-        "total": 42
+        "total": 43
       },
       "247150369894475": {
         "text": 4,
@@ -2990,8 +2990,8 @@
       },
       "18774073856248": {
         "text": 4,
-        "media": 0,
-        "total": 4
+        "media": 1,
+        "total": 5
       }
     },
     "120363428464897153@g.us": {
@@ -3301,9 +3301,9 @@
         "total": 95
       },
       "222595437858867": {
-        "text": 163,
+        "text": 165,
         "media": 12,
-        "total": 175
+        "total": 177
       },
       "104003018985518": {
         "text": 40,
@@ -3656,14 +3656,14 @@
         "total": 4
       },
       "54013592617050": {
-        "text": 2,
+        "text": 3,
         "media": 0,
-        "total": 2
+        "total": 3
       },
       "166452229341300": {
-        "text": 25,
+        "text": 26,
         "media": 2,
-        "total": 27
+        "total": 28
       },
       "109508781207612": {
         "text": 18,
@@ -7477,10 +7477,6 @@
         "Rodolfo Carmona Mazon: Geral é de Sorocaba?"
       ],
       "31/08/2026": [
-        "Gabriel: Cara parabéns, que venha com saúde",
-        "Anderson: Na barriga da @108461127897146",
-        "Rafael Moura: Ja tem um nome pra futura filha?",
-        "Rafael Moura: Escolheram*",
         "Leandro: Bem vinda jovem! 🤝",
         "~🌪️𝓁𝒶𝓎𝒽🦋: virtual?",
         "Rafael Moura: Primeiro caso de inseminação virtual registrado",
@@ -7976,7 +7972,11 @@
         "F. RicaRdo sAnToS: Para tristeza de uns e alegria de outros, eu voltei....ksksksk",
         "Sabrina Bartolucci 🤌🏻: Bem vindo!",
         "Kelvin Luan Ribeiro Da Ro: Dinheiro não é o problema é solução para nós",
-        "Gabi 💋: Perdão não te conheço"
+        "Gabi 💋: Perdão não te conheço",
+        "Gabi 💋: Então bora interagir",
+        "Gabi 💋: Aqui é bem divertido",
+        "Sabrina Bartolucci 🤌🏻: Ahahaha\nNão, mas sou descendente italiana. Parentes paternos vindos de Gênova, Itália",
+        "Anderson: Sim"
       ]
     },
     "120363428464897153@g.us": {
@@ -9550,7 +9550,11 @@
         "Juliano Perlin: Eitaa q tal",
         "Layaninha: Me dá os dados do teu cartão aí então",
         "Layaninha: 🤣🤣🤣🤣🤣",
-        "Layaninha: Brincando"
+        "Layaninha: Brincando",
+        "Juliano Perlin: Eu tenho um trabalho legal também",
+        "Juliano Perlin: 🤗",
+        "🐦‍🔥: minha gatinha ❤️",
+        "Layaninha: Qual?"
       ]
     },
     "120363409727467494@g.us": {
@@ -12091,6 +12095,30 @@
         "authorName": "Gabi 💋",
         "text": "Perdão não te conheço",
         "timestamp": 1788220707630
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Então bora interagir",
+        "timestamp": 1788220715034
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Aqui é bem divertido",
+        "timestamp": 1788220718928
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Ahahaha\nNão, mas sou descendente italiana. Parentes paternos vindos de Gênova, Itália",
+        "timestamp": 1788220741450
+      },
+      {
+        "authorNum": "2135320166432",
+        "authorName": "Anderson",
+        "text": "Sim",
+        "timestamp": 1788220753915
       }
     ],
     "120363428464897153@g.us": [
@@ -12495,6 +12523,30 @@
         "authorName": "Layaninha",
         "text": "Brincando",
         "timestamp": 1788220707682
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Eu tenho um trabalho legal também",
+        "timestamp": 1788220716928
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "🤗",
+        "timestamp": 1788220726854
+      },
+      {
+        "authorNum": "54013592617050",
+        "authorName": "🐦‍🔥",
+        "text": "minha gatinha ❤️",
+        "timestamp": 1788220732884
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Layaninha",
+        "text": "Qual?",
+        "timestamp": 1788220736945
       }
     ],
     "120363409727467494@g.us": [],
@@ -12575,8 +12627,8 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 1513,
-    "120363428464897153@g.us": 6531,
+    "120363432018531082@g.us": 1517,
+    "120363428464897153@g.us": 6535,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2417,
     "120363411233423709@g.us": 5,
@@ -22340,6 +22392,30 @@
         "text": "Perdão não te conheço",
         "pushName": "Gabi 💋",
         "timestamp": 1788220707630
+      },
+      "AC156EB33EFA740DC1B3B0E7609EDD8E": {
+        "sender": "247020967165997@lid",
+        "text": "Então bora interagir",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788220715034
+      },
+      "ACF04281F27CAC771F89109EFF453CA8": {
+        "sender": "247020967165997@lid",
+        "text": "Aqui é bem divertido",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788220718928
+      },
+      "AC9E31D484574F59DC82251BE192BAEE": {
+        "sender": "53537388122141@lid",
+        "text": "Ahahaha\nNão, mas sou descendente italiana. Parentes paternos vindos de Gênova, Itália",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1788220741451
+      },
+      "AC288B2003D2E049CC6BE155C28792CC": {
+        "sender": "2135320166432@lid",
+        "text": "Sim",
+        "pushName": "Anderson",
+        "timestamp": 1788220753915
       }
     },
     "120363428464897153@g.us": {
@@ -22978,6 +23054,30 @@
         "text": "Brincando",
         "pushName": "Layaninha",
         "timestamp": 1788220707682
+      },
+      "AC35B399242136B5BB735247B3A02010": {
+        "sender": "222595437858867@lid",
+        "text": "Eu tenho um trabalho legal também",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1788220716928
+      },
+      "AC0C58FAD0197C80CF8A26D20666DFF9": {
+        "sender": "222595437858867@lid",
+        "text": "🤗",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1788220726854
+      },
+      "ACA5C01C5BB04B5887E0E8A7DF7F87A8": {
+        "sender": "54013592617050@lid",
+        "text": "minha gatinha ❤️",
+        "pushName": "🐦‍🔥",
+        "timestamp": 1788220732884
+      },
+      "A53BC77576A00A5596A2A423396937C2": {
+        "sender": "166452229341300@lid",
+        "text": "Qual?",
+        "pushName": "Layaninha",
+        "timestamp": 1788220736945
       }
     },
     "120363409727467494@g.us": {},
@@ -24516,8 +24616,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788220707630,
-    "120363428464897153@g.us": 1788220707682,
+    "120363432018531082@g.us": 1788220753915,
+    "120363428464897153@g.us": 1788220736945,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788219832739,
     "120363411233423709@g.us": 1787113553426,
