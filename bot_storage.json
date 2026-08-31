@@ -2914,9 +2914,9 @@
         "total": 5
       },
       "54013592617050": {
-        "text": 50,
+        "text": 52,
         "media": 6,
-        "total": 56
+        "total": 58
       },
       "78585838710792": {
         "text": 9,
@@ -3316,9 +3316,9 @@
         "total": 2
       },
       "53537388122141": {
-        "text": 81,
+        "text": 82,
         "media": 0,
-        "total": 81
+        "total": 82
       },
       "253626509443178": {
         "text": 3,
@@ -3646,9 +3646,9 @@
         "total": 1
       },
       "54013592617050": {
-        "text": 1,
+        "text": 2,
         "media": 0,
-        "total": 1
+        "total": 2
       }
     },
     "120363409727467494@g.us": {
@@ -3686,8 +3686,8 @@
       },
       "5511927018683": {
         "text": 692,
-        "media": 138,
-        "total": 830
+        "media": 139,
+        "total": 831
       },
       "145381035905262": {
         "text": 514,
@@ -7457,8 +7457,6 @@
         "Rodolfo Carmona Mazon: Geral é de Sorocaba?"
       ],
       "31/08/2026": [
-        "Sabrina Bartolucci 🤌🏻: Kkkkkkkkkkkkkk passarei não",
-        "Sabrina Bartolucci 🤌🏻: Cristo amado, Deus me livre de trisal\nQuero não",
         "Lexy: Chamem",
         "Lexy: Vamos ganha dinheiro",
         "Leandro: !ban",
@@ -7956,7 +7954,9 @@
         "Srt Sousah: Por que achei ela no Kwai no comentário lá \nJogando link e ela disse que esse grupo era a sensação do momento",
         "Sabrina Bartolucci 🤌🏻: @81991328395336",
         "🙏☝️: Boa noite!",
-        "Sabrina Bartolucci 🤌🏻: Boa noite!!"
+        "Sabrina Bartolucci 🤌🏻: Boa noite!!",
+        "🐦‍🔥: Boa noite minha gatinha",
+        "🐦‍🔥: Bem e vc?"
       ]
     },
     "120363428464897153@g.us": {
@@ -9470,7 +9470,8 @@
         "Lailson Nathan.: Boa noite.",
         "Sacola S10: Kkkkk",
         "Sacola S10: Tô só o caco",
-        "Anderson: Boa noite"
+        "Anderson: Boa noite",
+        "Sabrina Bartolucci 🤌🏻: 🫶🏻"
       ]
     },
     "120363409727467494@g.us": {
@@ -10896,7 +10897,8 @@
         "Gabriel: Ela deve ter saído sem querer",
         "~🌪️𝓁𝒶𝓎𝒽🦋: Povo tudo doido \nFalta só o laudo",
         "Leandro: Aprovei, mas vê com ela o que aconteceu que saiu e voltou @81991328395336 ou @53537388122141",
-        "Leandro: Eu vou pegar esse bot no murro 😒"
+        "Leandro: Eu vou pegar esse bot no murro 😒",
+        "Leandro: @all"
       ]
     },
     "120363411233423709@g.us": {},
@@ -11398,30 +11400,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "166452229341300",
-        "authorName": "Srt Sousah",
-        "text": "Precisa se apresentar!",
-        "timestamp": 1788217731178
-      },
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Srt Sousah",
-        "text": "??",
-        "timestamp": 1788217733174
-      },
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Srt Sousah",
-        "text": "Qual cidade?",
-        "timestamp": 1788217742108
-      },
-      {
-        "authorNum": "2135320166432",
-        "authorName": "Anderson",
-        "text": "Bem também",
-        "timestamp": 1788217752200
-      },
-      {
         "authorNum": "108461127897146",
         "authorName": "jaciara",
         "text": "Eu sou de Fortaleza dos Nogueiras",
@@ -11744,6 +11722,18 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Boa noite!!",
         "timestamp": 1788219524626
+      },
+      {
+        "authorNum": "54013592617050",
+        "authorName": "🐦‍🔥",
+        "text": "Boa noite minha gatinha",
+        "timestamp": 1788219573906
+      },
+      {
+        "authorNum": "54013592617050",
+        "authorName": "🐦‍🔥",
+        "text": "Bem e vc?",
+        "timestamp": 1788219578608
       }
     ],
     "120363428464897153@g.us": [
@@ -11788,6 +11778,12 @@
         "authorName": "Anderson",
         "text": "Boa noite",
         "timestamp": 1788219168529
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "🫶🏻",
+        "timestamp": 1788219555216
       }
     ],
     "120363409727467494@g.us": [],
@@ -11797,6 +11793,12 @@
         "authorName": "Leandro",
         "text": "Eu vou pegar esse bot no murro 😒",
         "timestamp": 1788219308141
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "@all",
+        "timestamp": 1788219555110
       }
     ],
     "120363411233423709@g.us": [],
@@ -11814,10 +11816,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 1431,
-    "120363428464897153@g.us": 6471,
+    "120363432018531082@g.us": 1433,
+    "120363428464897153@g.us": 6472,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2408,
+    "120363412288900422@g.us": 2409,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 28,
@@ -12014,18 +12016,6 @@
     }
   },
   "pendingBvReminders": [
-    {
-      "id": "1788219249538_54013592617050@lid",
-      "chatId": "120363428464897153@g.us",
-      "newMemberId": "54013592617050@lid",
-      "runAt": 1788219549537
-    },
-    {
-      "id": "1788219250783_166452229341300@lid",
-      "chatId": "120363428464897153@g.us",
-      "newMemberId": "166452229341300@lid",
-      "runAt": 1788219550783
-    },
     {
       "id": "1788219486201_138306604032063@lid",
       "chatId": "120363428464897153@g.us",
@@ -21106,6 +21096,18 @@
         "text": "Boa noite!!",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1788219524626
+      },
+      "AC555937D14AE1F6849F0F0AEFDD5B2E": {
+        "sender": "54013592617050@lid",
+        "text": "Boa noite minha gatinha",
+        "pushName": "🐦‍🔥",
+        "timestamp": 1788219573906
+      },
+      "AC33C976E6F5FD311CEE6023DE831069": {
+        "sender": "54013592617050@lid",
+        "text": "Bem e vc?",
+        "pushName": "🐦‍🔥",
+        "timestamp": 1788219578608
       }
     },
     "120363428464897153@g.us": {
@@ -21384,6 +21386,12 @@
         "text": "Boa noite",
         "pushName": "Anderson",
         "timestamp": 1788219168529
+      },
+      "AC8A34689EEC8EA78E9C9A5B2EC698BC": {
+        "sender": "53537388122141@lid",
+        "text": "🫶🏻",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1788219555216
       }
     },
     "120363409727467494@g.us": {},
@@ -22419,6 +22427,12 @@
         "text": "Eu vou pegar esse bot no murro 😒",
         "pushName": "Leandro",
         "timestamp": 1788219308141
+      },
+      "A503AB37E48FF25F7283ABD90471471D": {
+        "sender": "54259127210155@lid",
+        "text": "@all",
+        "pushName": "Leandro",
+        "timestamp": 1788219555110
       }
     },
     "120363411233423709@g.us": {},
@@ -22868,10 +22882,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788219524626,
-    "120363428464897153@g.us": 1788219531524,
+    "120363432018531082@g.us": 1788219578608,
+    "120363428464897153@g.us": 1788219560752,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1788219308141,
+    "120363412288900422@g.us": 1788219555110,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
