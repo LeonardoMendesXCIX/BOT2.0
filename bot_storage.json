@@ -2734,9 +2734,9 @@
         "total": 2
       },
       "108461127897146": {
-        "text": 280,
+        "text": 281,
         "media": 41,
-        "total": 321
+        "total": 322
       },
       "10050861031495": {
         "text": 0,
@@ -7437,7 +7437,6 @@
         "Rodolfo Carmona Mazon: Geral é de Sorocaba?"
       ],
       "31/08/2026": [
-        "Juliano Perlin: Eu nao sou golpista🥹",
         "Souza: Confia",
         "Camila Designer: Um golpe kkk",
         "Juliano Perlin: Q calunia contra minha pessoa🥺",
@@ -7936,7 +7935,8 @@
         "jaciara: Eu sou de Fortaleza dos Nogueiras",
         "jaciara: Que bom ☺️",
         "Juliano Perlin: Bão?? Kk",
-        "Anderson: Faltou você aqui 😔😔😏"
+        "Anderson: Faltou você aqui 😔😔😏",
+        "jaciara: Vc estava sumido , tava onde ? 🤔"
       ]
     },
     "120363428464897153@g.us": {
@@ -11572,6 +11572,12 @@
         "authorName": "Anderson",
         "text": "Faltou você aqui 😔😔😏",
         "timestamp": 1788217932557
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Vc estava sumido , tava onde ? 🤔",
+        "timestamp": 1788217960143
       }
     ],
     "120363428464897153@g.us": [],
@@ -11592,7 +11598,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 1381,
+    "120363432018531082@g.us": 1382,
     "120363428464897153@g.us": 6464,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2407,
@@ -20562,6 +20568,12 @@
         "text": "Faltou você aqui 😔😔😏",
         "pushName": "Anderson",
         "timestamp": 1788217932557
+      },
+      "AC43F79FDFFE1E68103A7B86556A8FCC": {
+        "sender": "108461127897146@lid",
+        "text": "Vc estava sumido , tava onde ? 🤔",
+        "pushName": "jaciara",
+        "timestamp": 1788217960143
       }
     },
     "120363428464897153@g.us": {
@@ -22276,7 +22288,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788217932557,
+    "120363432018531082@g.us": 1788217960143,
     "120363428464897153@g.us": 1788203369966,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788203617394,
