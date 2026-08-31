@@ -304,9 +304,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2542,
+        "text": 2544,
         "media": 354,
-        "total": 2896
+        "total": 2898
       },
       "252922705240205": {
         "text": 80,
@@ -3680,9 +3680,9 @@
         "total": 662
       },
       "5511927018683": {
-        "text": 691,
+        "text": 692,
         "media": 138,
-        "total": 829
+        "total": 830
       },
       "145381035905262": {
         "text": 514,
@@ -7452,8 +7452,6 @@
         "Rodolfo Carmona Mazon: Geral é de Sorocaba?"
       ],
       "31/08/2026": [
-        "Leandro: !del",
-        "Leandro: !del",
         "Leandro: !sa 👋 *SAUDAÇÃO*\n\nAtual: 💥 BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Queremos conhecer você! ✨\n\n📸 Sua foto:\n💬 Nome:\n🎂 Idade:\n📍 De onde sou:\n\n*🫶🏻 Seja bem-vindo(a)!*\n\n✨ Sinta-se à vontade para interagir, co",
         "Leandro: !del",
         "Leandro: !del",
@@ -7951,7 +7949,9 @@
         "Sabrina Bartolucci 🤌🏻: Foi aqui que pediram link do Kabaré?",
         "Juliano Perlin: Bem vinda🤗",
         "Juliano Perlin: Eu posso ir la ficar pelado??🥹",
-        "Sabrina Bartolucci 🤌🏻: Pode ué, lá é liberado"
+        "Sabrina Bartolucci 🤌🏻: Pode ué, lá é liberado",
+        "Sabrina Bartolucci 🤌🏻: Boa noiteeee a @all",
+        "Sabrina Bartolucci 🤌🏻: Como vocês estão?"
       ]
     },
     "120363428464897153@g.us": {
@@ -10890,7 +10890,8 @@
         "Leandro: Sei não",
         "Gabriel: Ela deve ter saído sem querer",
         "~🌪️𝓁𝒶𝓎𝒽🦋: Povo tudo doido \nFalta só o laudo",
-        "Leandro: Aprovei, mas vê com ela o que aconteceu que saiu e voltou @81991328395336 ou @53537388122141"
+        "Leandro: Aprovei, mas vê com ela o que aconteceu que saiu e voltou @81991328395336 ou @53537388122141",
+        "Leandro: Eu vou pegar esse bot no murro 😒"
       ]
     },
     "120363411233423709@g.us": {},
@@ -11392,12 +11393,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Acesse este link para entrar no meu grupo do WhatsApp: https://chat.whatsapp.com/CS9G5GGA1nq0Ix6dP4CQX5?s=sw&p=a&mlu=4",
-        "timestamp": 1788217501191
-      },
-      {
         "authorNum": "54013592617050",
         "authorName": "🐦‍🔥",
         "text": "Boa noite",
@@ -11768,6 +11763,18 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Pode ué, lá é liberado",
         "timestamp": 1788219292225
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Boa noiteeee a @all",
+        "timestamp": 1788219307521
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Como vocês estão?",
+        "timestamp": 1788219312052
       }
     ],
     "120363428464897153@g.us": [
@@ -11815,7 +11822,14 @@
       }
     ],
     "120363409727467494@g.us": [],
-    "120363412288900422@g.us": [],
+    "120363412288900422@g.us": [
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Eu vou pegar esse bot no murro 😒",
+        "timestamp": 1788219308141
+      }
+    ],
     "120363411233423709@g.us": [],
     "120363428079168524@g.us": [],
     "120363411246936023@g.us": [],
@@ -11831,10 +11845,10 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 1417,
+    "120363432018531082@g.us": 1419,
     "120363428464897153@g.us": 6471,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2407,
+    "120363412288900422@g.us": 2408,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 28,
@@ -21032,6 +21046,18 @@
         "text": "Pode ué, lá é liberado",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1788219292225
+      },
+      "ACFA576E304CFC970DA71D96269D5BBA": {
+        "sender": "53537388122141@lid",
+        "text": "Boa noiteeee a @all",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1788219307521
+      },
+      "AC0582BE83C640B7205405A142262705": {
+        "sender": "53537388122141@lid",
+        "text": "Como vocês estão?",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1788219312052
       }
     },
     "120363428464897153@g.us": {
@@ -22339,6 +22365,12 @@
         "text": "Aprovei, mas vê com ela o que aconteceu que saiu e voltou @81991328395336 ou @53537388122141",
         "pushName": "Leandro",
         "timestamp": 1788202967140
+      },
+      "A58AA3351E7CF400D16745AF0A152332": {
+        "sender": "54259127210155@lid",
+        "text": "Eu vou pegar esse bot no murro 😒",
+        "pushName": "Leandro",
+        "timestamp": 1788219308141
       }
     },
     "120363411233423709@g.us": {},
@@ -22788,10 +22820,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788219292225,
+    "120363432018531082@g.us": 1788219312052,
     "120363428464897153@g.us": 1788219191019,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1788203617394,
+    "120363412288900422@g.us": 1788219308141,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
