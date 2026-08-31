@@ -2989,9 +2989,9 @@
         "total": 4
       },
       "18774073856248": {
-        "text": 2,
+        "text": 3,
         "media": 0,
-        "total": 2
+        "total": 3
       }
     },
     "120363428464897153@g.us": {
@@ -3076,9 +3076,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 456,
+        "text": 458,
         "media": 92,
-        "total": 548
+        "total": 550
       },
       "120363428464897153": {
         "text": 11,
@@ -3301,9 +3301,9 @@
         "total": 95
       },
       "222595437858867": {
-        "text": 158,
+        "text": 159,
         "media": 12,
-        "total": 170
+        "total": 171
       },
       "104003018985518": {
         "text": 40,
@@ -7477,7 +7477,6 @@
         "Rodolfo Carmona Mazon: Geral é de Sorocaba?"
       ],
       "31/08/2026": [
-        "~🌪️𝓁𝒶𝓎𝒽🦋: sim.",
         "~🌪️𝓁𝒶𝓎𝒽🦋: pra mim e boa tarde",
         "Celiete Souza: Não vi kkkkk",
         "🐦‍🔥: Obrigada",
@@ -7976,7 +7975,8 @@
         "Gabriel: Saudações",
         "Anderson: Agora que eu vi olhar seu sobrenome  tu é dona do Milan da italia?🤔",
         "Kelvin Luan Ribeiro Da Ro: Obrigado",
-        "Leandro: !sa"
+        "Leandro: !sa",
+        "Kelvin Luan Ribeiro Da Ro: Esse grupo fornece oque para os participantes?"
       ]
     },
     "120363428464897153@g.us": {
@@ -9537,7 +9537,10 @@
         "pãobão 😂: Hj eu tô facim pra ti viu kkk",
         "Layaninha: Você e ADM?\nDeixa vê retrato teu ?",
         "Juliano Perlin: Xuxuzim🥰🥹",
-        "Layaninha: Tu me deu uk fora no outro vim por kbaré"
+        "Layaninha: Tu me deu uk fora no outro vim por kbaré",
+        "Leandro: Boa noite, sim, sou adm, casado com a @81991328395336",
+        "Leandro: Vamos fazer reapresentação daqui uns dias",
+        "Juliano Perlin: Eu nao moça..🥹🥰"
       ]
     },
     "120363409727467494@g.us": {
@@ -12012,6 +12015,12 @@
         "authorName": "Leandro",
         "text": "!sa",
         "timestamp": 1788220433924
+      },
+      {
+        "authorNum": "18774073856248",
+        "authorName": "Kelvin Luan Ribeiro Da Ro",
+        "text": "Esse grupo fornece oque para os participantes?",
+        "timestamp": 1788220556120
       }
     ],
     "120363428464897153@g.us": [
@@ -12338,6 +12347,24 @@
         "authorName": "Layaninha",
         "text": "Tu me deu uk fora no outro vim por kbaré",
         "timestamp": 1788220535649
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Boa noite, sim, sou adm, casado com a @81991328395336",
+        "timestamp": 1788220549750
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Vamos fazer reapresentação daqui uns dias",
+        "timestamp": 1788220562514
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Eu nao moça..🥹🥰",
+        "timestamp": 1788220567354
       }
     ],
     "120363409727467494@g.us": [],
@@ -12418,8 +12445,8 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 1502,
-    "120363428464897153@g.us": 6518,
+    "120363432018531082@g.us": 1503,
+    "120363428464897153@g.us": 6521,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2417,
     "120363411233423709@g.us": 5,
@@ -22117,6 +22144,12 @@
         "text": "!sa",
         "pushName": "Leandro",
         "timestamp": 1788220433924
+      },
+      "ACA3DF3C54444348B0120890E1915B7D": {
+        "sender": "18774073856248@lid",
+        "text": "Esse grupo fornece oque para os participantes?",
+        "pushName": "Kelvin Luan Ribeiro Da Ro",
+        "timestamp": 1788220556121
       }
     },
     "120363428464897153@g.us": {
@@ -22677,6 +22710,24 @@
         "text": "Tu me deu uk fora no outro vim por kbaré",
         "pushName": "Layaninha",
         "timestamp": 1788220535649
+      },
+      "A581756D3746B5DAB57357CCAC53FE27": {
+        "sender": "54259127210155@lid",
+        "text": "Boa noite, sim, sou adm, casado com a @81991328395336",
+        "pushName": "Leandro",
+        "timestamp": 1788220549750
+      },
+      "A5A86BE9D59A4835003714C52FB5B6BE": {
+        "sender": "54259127210155@lid",
+        "text": "Vamos fazer reapresentação daqui uns dias",
+        "pushName": "Leandro",
+        "timestamp": 1788220562514
+      },
+      "AC84651DB39CB4E8D0C0CF990D50063E": {
+        "sender": "222595437858867@lid",
+        "text": "Eu nao moça..🥹🥰",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1788220567354
       }
     },
     "120363409727467494@g.us": {},
@@ -24215,8 +24266,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788220433924,
-    "120363428464897153@g.us": 1788220544204,
+    "120363432018531082@g.us": 1788220556120,
+    "120363428464897153@g.us": 1788220567354,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788219832739,
     "120363411233423709@g.us": 1787113553426,
