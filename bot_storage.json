@@ -199,9 +199,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1867,
+        "text": 1868,
         "media": 521,
-        "total": 2388
+        "total": 2389
       },
       "81991328395336": {
         "text": 4168,
@@ -409,9 +409,9 @@
         "total": 505
       },
       "222595437858867": {
-        "text": 636,
+        "text": 638,
         "media": 64,
-        "total": 700
+        "total": 702
       },
       "83280154103884": {
         "text": 36,
@@ -2144,9 +2144,9 @@
         "total": 2
       },
       "120044990287992": {
-        "text": 72,
+        "text": 73,
         "media": 8,
-        "total": 80
+        "total": 81
       },
       "238070154658000": {
         "text": 5,
@@ -2982,6 +2982,11 @@
         "text": 29,
         "media": 1,
         "total": 30
+      },
+      "247150369894475": {
+        "text": 1,
+        "media": 0,
+        "total": 1
       }
     },
     "120363428464897153@g.us": {
@@ -7462,8 +7467,6 @@
         "Rodolfo Carmona Mazon: Geral é de Sorocaba?"
       ],
       "31/08/2026": [
-        "Juliano Perlin: Pronto, ja abriu um no meio com o facao dela",
-        "Juliano Perlin: 🤣🤣🤣🤣🤣",
         "Gabi 💋: Queria entender o motivo",
         "Gabi 💋: Du nada",
         "Juliano Perlin: @53537388122141 eu te adoro ta❤️🥹",
@@ -7961,7 +7964,9 @@
         "Srt Sousah: Sim \nSou",
         "Sabrina Bartolucci 🤌🏻: Estou bem!",
         "Sabrina Bartolucci 🤌🏻: Valeu cpx",
-        "Srt Sousah: A vida já e uma merda \nPra entrar nos grupos e ser mal humorada não dá né"
+        "Srt Sousah: A vida já e uma merda \nPra entrar nos grupos e ser mal humorada não dá né",
+        "Juliano Perlin: Pronto, roubaram minha muié🥹",
+        "Juliano Perlin: De novo"
       ]
     },
     "120363428464897153@g.us": {
@@ -11411,12 +11416,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "2135320166432",
-        "authorName": "Anderson",
-        "text": "Faltou você aqui 😔😔😏",
-        "timestamp": 1788217932557
-      },
-      {
         "authorNum": "108461127897146",
         "authorName": "jaciara",
         "text": "Vc estava sumido , tava onde ? 🤔",
@@ -11811,6 +11810,18 @@
         "authorName": "Srt Sousah",
         "text": "A vida já e uma merda \nPra entrar nos grupos e ser mal humorada não dá né",
         "timestamp": 1788219698847
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Pronto, roubaram minha muié🥹",
+        "timestamp": 1788219754568
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "De novo",
+        "timestamp": 1788219757470
       }
     ],
     "120363428464897153@g.us": [
@@ -11929,7 +11940,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 1447,
+    "120363432018531082@g.us": 1449,
     "120363428464897153@g.us": 6474,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2413,
@@ -21305,6 +21316,18 @@
         "text": "A vida já e uma merda \nPra entrar nos grupos e ser mal humorada não dá né",
         "pushName": "Srt Sousah",
         "timestamp": 1788219698847
+      },
+      "ACD73E444CF3E256D8C07EEC469475ED": {
+        "sender": "222595437858867@lid",
+        "text": "Pronto, roubaram minha muié🥹",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1788219754568
+      },
+      "AC966E48BF9E09BABDC49054EB5CC999": {
+        "sender": "222595437858867@lid",
+        "text": "De novo",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1788219757470
       }
     },
     "120363428464897153@g.us": {
@@ -23115,7 +23138,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788219706750,
+    "120363432018531082@g.us": 1788219757470,
     "120363428464897153@g.us": 1788219711473,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788219641583,
