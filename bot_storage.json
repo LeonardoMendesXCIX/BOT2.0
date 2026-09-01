@@ -3217,8 +3217,8 @@
       },
       "92629643563147": {
         "text": 601,
-        "media": 439,
-        "total": 1040
+        "media": 442,
+        "total": 1043
       },
       "122552932372575": {
         "text": 0,
@@ -3256,9 +3256,9 @@
         "total": 9
       },
       "129373172711439": {
-        "text": 992,
-        "media": 267,
-        "total": 1259
+        "text": 993,
+        "media": 270,
+        "total": 1263
       },
       "16007578021977": {
         "text": 58,
@@ -3611,9 +3611,9 @@
         "total": 26
       },
       "274384656834700": {
-        "text": 88,
+        "text": 90,
         "media": 25,
-        "total": 113
+        "total": 115
       },
       "34626781356198": {
         "text": 0,
@@ -3687,8 +3687,8 @@
       },
       "138306604032063": {
         "text": 15,
-        "media": 10,
-        "total": 25
+        "media": 11,
+        "total": 26
       }
     },
     "120363409727467494@g.us": {
@@ -9888,7 +9888,9 @@
         "Camila Designer: @129373172711439 sumiu",
         "Gleydson Souza: Postou a foto e sumiu kkkkk",
         "Camila Designer: Quem viu viu, quem não viu não vê mais!🤣🤣🤣🤣",
-        "Celiete Souza: Aqui"
+        "Celiete Souza: Aqui",
+        "Gleydson Souza: Bom quem viu viu 🤣🤣",
+        "Celiete Souza: Quem não viu não viu"
       ]
     },
     "120363409727467494@g.us": {
@@ -11853,12 +11855,6 @@
     "120363432018531082@g.us": [],
     "120363428464897153@g.us": [
       {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Pode",
-        "timestamp": 1788224491269
-      },
-      {
         "authorNum": "270377049690114",
         "authorName": "Vini 👑🏁🙌⚽",
         "text": "Vish tenho vergonha sou tímido 🙈🙈",
@@ -12157,6 +12153,18 @@
         "authorName": "Celiete Souza",
         "text": "Aqui",
         "timestamp": 1788226244309
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Bom quem viu viu 🤣🤣",
+        "timestamp": 1788226296945
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Quem não viu não viu",
+        "timestamp": 1788226306131
       }
     ],
     "120363409727467494@g.us": [],
@@ -12238,7 +12246,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 1555,
-    "120363428464897153@g.us": 6849,
+    "120363428464897153@g.us": 6851,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2444,
     "120363411233423709@g.us": 5,
@@ -24799,6 +24807,18 @@
         "text": "Aqui",
         "pushName": "Celiete Souza",
         "timestamp": 1788226244309
+      },
+      "AC66C173B345047E8A0E6E83FE19A1C9": {
+        "sender": "274384656834700@lid",
+        "text": "Bom quem viu viu 🤣🤣",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1788226296945
+      },
+      "ACADCA9B0B23634941A9DF6EF4FC2CFF": {
+        "sender": "129373172711439@lid",
+        "text": "Quem não viu não viu",
+        "pushName": "Celiete Souza",
+        "timestamp": 1788226306131
       }
     },
     "120363409727467494@g.us": {},
@@ -26500,7 +26520,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1788226077175,
-    "120363428464897153@g.us": 1788226272891,
+    "120363428464897153@g.us": 1788226317755,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788226184183,
     "120363411233423709@g.us": 1787113553426,
