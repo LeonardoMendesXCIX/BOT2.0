@@ -214,9 +214,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2310,
+        "text": 2311,
         "media": 481,
-        "total": 2791
+        "total": 2792
       },
       "184237705699536": {
         "text": 524,
@@ -279,9 +279,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1645,
+        "text": 1646,
         "media": 1248,
-        "total": 2893
+        "total": 2894
       },
       "3126803329115": {
         "text": 87,
@@ -479,9 +479,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1922,
+        "text": 1923,
         "media": 390,
-        "total": 2312
+        "total": 2313
       },
       "252600633041077": {
         "text": 1,
@@ -2734,9 +2734,9 @@
         "total": 2
       },
       "108461127897146": {
-        "text": 290,
+        "text": 291,
         "media": 42,
-        "total": 332
+        "total": 333
       },
       "10050861031495": {
         "text": 0,
@@ -8011,7 +8011,10 @@
         "Leandro: !megafone boa noite a todos, pessoal, independente da crença, fé, religião, crendices, etc... Por favor, rezem, orem pela Layh, ela está no hospital e estou pedindo muito a Deus para ajudá-la nesse mo",
         "Rafael Moura: O que aconteceu com a Layh?",
         "Rafael Moura: Boa noite alias",
-        "jaciara: Vamos orar sim por a saúde dela"
+        "jaciara: Vamos orar sim por a saúde dela",
+        "jaciara: Nos dê notícias",
+        "Leandro: Obrigado a todos! 🙏🏼",
+        "Gabriel: A @81991328395336 , teve um problema na escola, e foi pra o hospital"
       ]
     },
     "120363428464897153@g.us": {
@@ -12029,28 +12032,32 @@
         "authorName": "jaciara",
         "text": "Vamos orar sim por a saúde dela",
         "timestamp": 1788233075436
-      }
-    ],
-    "120363428464897153@g.us": [
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Nos dê notícias",
+        "timestamp": 1788233086748
+      },
       {
         "authorNum": "5511927018683",
         "authorName": "Leandro",
-        "text": "!fechar",
-        "timestamp": 1788231227765
+        "text": "Obrigado a todos! 🙏🏼",
+        "timestamp": 1788233092903
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "A @81991328395336 , teve um problema na escola, e foi pra o hospital",
+        "timestamp": 1788233095156
       }
     ],
+    "120363428464897153@g.us": [],
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [],
     "120363411233423709@g.us": [],
     "120363428079168524@g.us": [],
-    "120363411246936023@g.us": [
-      {
-        "authorNum": "272048228188398",
-        "authorName": "Lailson Nathan.",
-        "text": "Parabéns pela decisão em querer evoluir e crescer.",
-        "timestamp": 1788231028192
-      }
-    ],
+    "120363411246936023@g.us": [],
     "120363409024805409@g.us": [],
     "120363050678635389@g.us": [],
     "120363411043114631@g.us": [],
@@ -12063,7 +12070,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 1573,
+    "120363432018531082@g.us": 1576,
     "120363428464897153@g.us": 7060,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2450,
@@ -22184,6 +22191,24 @@
         "text": "Vamos orar sim por a saúde dela",
         "pushName": "jaciara",
         "timestamp": 1788233075436
+      },
+      "ACA507C0113AA03518C91640FF2E086D": {
+        "sender": "108461127897146@lid",
+        "text": "Nos dê notícias",
+        "pushName": "jaciara",
+        "timestamp": 1788233086748
+      },
+      "A5C0CE208C7147B0B211C6F225C6F313": {
+        "sender": "54259127210155@lid",
+        "text": "Obrigado a todos! 🙏🏼",
+        "pushName": "Leandro",
+        "timestamp": 1788233092903
+      },
+      "ACB9F84A964F9ABC3AF099CACA385DB1": {
+        "sender": "145381035905262@lid",
+        "text": "A @81991328395336 , teve um problema na escola, e foi pra o hospital",
+        "pushName": "Gabriel",
+        "timestamp": 1788233095156
       }
     },
     "120363428464897153@g.us": {
@@ -27756,7 +27781,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788233075436,
+    "120363432018531082@g.us": 1788233095156,
     "120363428464897153@g.us": 1788231227765,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788227152321,
