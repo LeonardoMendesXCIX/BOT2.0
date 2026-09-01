@@ -479,9 +479,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 1923,
+        "text": 1924,
         "media": 390,
-        "total": 2313
+        "total": 2314
       },
       "252600633041077": {
         "text": 1,
@@ -3026,9 +3026,9 @@
         "total": 21
       },
       "145381035905262": {
-        "text": 221,
+        "text": 222,
         "media": 100,
-        "total": 321
+        "total": 322
       },
       "112987922817256": {
         "text": 13,
@@ -8021,7 +8021,8 @@
         "Gabriel: Não temos notícias concretas para passar a vocês. Mas ela ficará bem",
         "Celiete Souza: Vai dar tudo certo 🙏 fé",
         "Gabriel: Eu acho que deveriamos, respeitar o momento, que é bem complicado, pelas informações passadas a nós. Desejo a todos boa noite, se cuidem. Façam suas rezas por ela. \n\nFecharei os grupos em respeito a e",
-        "Gabriel: !fechar"
+        "Gabriel: !fechar",
+        "Leandro: Obrigado cara!"
       ]
     },
     "120363428464897153@g.us": {
@@ -9990,6 +9991,9 @@
         "Leandro: !megafone boa noite a todos! Galera devido a uns problemas, hoje não estaremos online, nem eu, nem a Layh @81991328395336 em breve, retornaremos, qualquer dúvida, procurem @145381035905262 ou @5353738",
         "Jean Correa: @247020967165997",
         "Leandro: !fechar"
+      ],
+      "01/09/2026": [
+        "Gabriel: Eu acho que deveriamos, respeitar o momento, que é bem complicado, pelas informações passadas a nós. Desejo a todos boa noite, se cuidem. Façam suas rezas por ela. \n\nFecharei os grupos em respeito a e"
       ]
     },
     "120363409727467494@g.us": {
@@ -12099,9 +12103,22 @@
         "authorName": "Gabriel",
         "text": "!fechar",
         "timestamp": 1788233292191
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Obrigado cara!",
+        "timestamp": 1788233312590
       }
     ],
-    "120363428464897153@g.us": [],
+    "120363428464897153@g.us": [
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Eu acho que deveriamos, respeitar o momento, que é bem complicado, pelas informações passadas a nós. Desejo a todos boa noite, se cuidem. Façam suas rezas por ela. \n\nFecharei os grupos em respeito a ela, hoje vamos descansar",
+        "timestamp": 1788233319644
+      }
+    ],
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [],
     "120363411233423709@g.us": [],
@@ -12119,8 +12136,8 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 1583,
-    "120363428464897153@g.us": 7060,
+    "120363432018531082@g.us": 1584,
+    "120363428464897153@g.us": 7061,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2450,
     "120363411233423709@g.us": 5,
@@ -22300,6 +22317,12 @@
         "text": "!fechar",
         "pushName": "Gabriel",
         "timestamp": 1788233292191
+      },
+      "A547A4A8EE4A7BE37EFD3C8C615429D7": {
+        "sender": "54259127210155@lid",
+        "text": "Obrigado cara!",
+        "pushName": "Leandro",
+        "timestamp": 1788233312590
       }
     },
     "120363428464897153@g.us": {
@@ -26112,6 +26135,12 @@
         "text": "!fechar",
         "pushName": "Leandro",
         "timestamp": 1788231228272
+      },
+      "AC0ECDC38FE531DC6587773951A6DC90": {
+        "sender": "145381035905262@lid",
+        "text": "Eu acho que deveriamos, respeitar o momento, que é bem complicado, pelas informações passadas a nós. Desejo a todos boa noite, se cuidem. Façam suas rezas por ela. \n\nFecharei os grupos em respeito a ela, hoje vamos descansar",
+        "pushName": "Gabriel",
+        "timestamp": 1788233319644
       }
     },
     "120363409727467494@g.us": {},
@@ -27872,8 +27901,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788233292191,
-    "120363428464897153@g.us": 1788231227765,
+    "120363432018531082@g.us": 1788233312590,
+    "120363428464897153@g.us": 1788233319644,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788227152321,
     "120363411233423709@g.us": 1787113553426,
