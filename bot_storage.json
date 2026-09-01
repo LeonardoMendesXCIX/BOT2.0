@@ -3646,9 +3646,9 @@
         "total": 3
       },
       "247020967165997": {
-        "text": 54,
+        "text": 55,
         "media": 6,
-        "total": 60
+        "total": 61
       },
       "272048228188398": {
         "text": 5,
@@ -3725,9 +3725,9 @@
         "total": 662
       },
       "5511927018683": {
-        "text": 701,
-        "media": 142,
-        "total": 843
+        "text": 703,
+        "media": 143,
+        "total": 846
       },
       "145381035905262": {
         "text": 529,
@@ -9846,7 +9846,8 @@
         "Gabi 💋: Vc acha",
         "Juliano Perlin: Eu hj to em casa🤣",
         "Juliano Perlin: Bahh",
-        "Gleydson Souza: To lendo aqui tudo kkkk mais de 500 mensagens muita coisa ta divertido e tem uma fotos bem interessante de se ver kkkkk"
+        "Gleydson Souza: To lendo aqui tudo kkkk mais de 500 mensagens muita coisa ta divertido e tem uma fotos bem interessante de se ver kkkkk",
+        "Gabi 💋: Ksksks"
       ]
     },
     "120363409727467494@g.us": {
@@ -11299,7 +11300,9 @@
         "Gabriel: https://open.spotify.com/track/0CXVjQI9wsqaGeIARkkpYc?si=D2tBqAAKTlW7kDjkn32Lvg&utm_source=whatsapp",
         "Gabriel: @54259127210155",
         "Leandro: 3",
-        "Leandro: Ele tá de palhaçada 😒"
+        "Leandro: Ele tá de palhaçada 😒",
+        "Leandro: Se não vai de um jeito, vai de outro... 🤷🏻‍♂️",
+        "Leandro: @145381035905262"
       ]
     },
     "120363411233423709@g.us": {},
@@ -11801,12 +11804,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [],
     "120363428464897153@g.us": [
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Layaninha",
-        "text": "🤣🤣🤣",
-        "timestamp": 1788222892873
-      },
       {
         "authorNum": "222595437858867",
         "authorName": "Juliano Perlin",
@@ -12544,6 +12541,12 @@
         "authorName": "Gleydson Souza",
         "text": "To lendo aqui tudo kkkk mais de 500 mensagens muita coisa ta divertido e tem uma fotos bem interessante de se ver kkkkk",
         "timestamp": 1788224656785
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Ksksks",
+        "timestamp": 1788224690485
       }
     ],
     "120363409727467494@g.us": [],
@@ -12649,6 +12652,18 @@
         "authorName": "Leandro",
         "text": "Ele tá de palhaçada 😒",
         "timestamp": 1788224437056
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Se não vai de um jeito, vai de outro... 🤷🏻‍♂️",
+        "timestamp": 1788224703165
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "@145381035905262",
+        "timestamp": 1788224706543
       }
     ],
     "120363411233423709@g.us": [],
@@ -12667,9 +12682,9 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 1555,
-    "120363428464897153@g.us": 6807,
+    "120363428464897153@g.us": 6808,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2435,
+    "120363412288900422@g.us": 2437,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 28,
@@ -24976,6 +24991,12 @@
         "text": "To lendo aqui tudo kkkk mais de 500 mensagens muita coisa ta divertido e tem uma fotos bem interessante de se ver kkkkk",
         "pushName": "Gleydson Souza",
         "timestamp": 1788224656785
+      },
+      "AC746178D1211AAC011FAF60198B53D8": {
+        "sender": "247020967165997@lid",
+        "text": "Ksksks",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788224690485
       }
     },
     "120363409727467494@g.us": {},
@@ -26173,6 +26194,18 @@
         "text": "Ele tá de palhaçada 😒",
         "pushName": "Leandro",
         "timestamp": 1788224437056
+      },
+      "A5C350E270853ADF8464756E69FCEAC8": {
+        "sender": "54259127210155@lid",
+        "text": "Se não vai de um jeito, vai de outro... 🤷🏻‍♂️",
+        "pushName": "Leandro",
+        "timestamp": 1788224703165
+      },
+      "A5663B2BA6CA5E552647370C1F4026EF": {
+        "sender": "54259127210155@lid",
+        "text": "@145381035905262",
+        "pushName": "Leandro",
+        "timestamp": 1788224706543
       }
     },
     "120363411233423709@g.us": {},
@@ -26623,9 +26656,9 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1788223223828,
-    "120363428464897153@g.us": 1788224656785,
+    "120363428464897153@g.us": 1788224690485,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1788224437056,
+    "120363412288900422@g.us": 1788224706543,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
