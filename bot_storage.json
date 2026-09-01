@@ -2924,9 +2924,9 @@
         "total": 11
       },
       "138306604032063": {
-        "text": 4,
+        "text": 5,
         "media": 2,
-        "total": 6
+        "total": 7
       },
       "67392566734987": {
         "text": 9,
@@ -3217,8 +3217,8 @@
       },
       "92629643563147": {
         "text": 601,
-        "media": 437,
-        "total": 1038
+        "media": 438,
+        "total": 1039
       },
       "122552932372575": {
         "text": 0,
@@ -3725,9 +3725,9 @@
         "total": 662
       },
       "5511927018683": {
-        "text": 704,
+        "text": 705,
         "media": 144,
-        "total": 848
+        "total": 849
       },
       "145381035905262": {
         "text": 532,
@@ -11346,7 +11346,8 @@
         "Gabriel: Mano essa música é foda",
         "Leandro: Gente teve um tiroteio na frente da faculdade da Lay e ela está no hospital, ainda não tenho mais notícias, mas assim que tiver, mando aqui pra vocês! 😰",
         "Gabriel: Meu papagaio",
-        "Gabriel: Ela tomou tiro ?"
+        "Gabriel: Ela tomou tiro ?",
+        "Leandro: Não sei ainda"
       ]
     },
     "120363411233423709@g.us": {},
@@ -12196,12 +12197,6 @@
       {
         "authorNum": "5511927018683",
         "authorName": "Leandro",
-        "text": "3",
-        "timestamp": 1788224230989
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
         "text": "Ele tá de palhaçada 😒",
         "timestamp": 1788224437056
       },
@@ -12240,6 +12235,12 @@
         "authorName": "Gabriel",
         "text": "Ela tomou tiro ?",
         "timestamp": 1788225346563
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Não sei ainda",
+        "timestamp": 1788226067562
       }
     ],
     "120363411233423709@g.us": [],
@@ -12260,7 +12261,7 @@
     "120363432018531082@g.us": 1555,
     "120363428464897153@g.us": 6848,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2441,
+    "120363412288900422@g.us": 2442,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 28,
@@ -26046,6 +26047,12 @@
         "text": "Ela tomou tiro ?",
         "pushName": "Gabriel",
         "timestamp": 1788225346563
+      },
+      "A515BD296BC5856B03CE9E6CD0E0DB2F": {
+        "sender": "54259127210155@lid",
+        "text": "Não sei ainda",
+        "pushName": "Leandro",
+        "timestamp": 1788226067562
       }
     },
     "120363411233423709@g.us": {},
@@ -26495,10 +26502,10 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788225752505,
-    "120363428464897153@g.us": 1788225991472,
+    "120363432018531082@g.us": 1788226077175,
+    "120363428464897153@g.us": 1788226067508,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1788225346563,
+    "120363412288900422@g.us": 1788226067562,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
