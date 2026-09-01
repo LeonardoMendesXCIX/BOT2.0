@@ -3256,9 +3256,9 @@
         "total": 1226
       },
       "16007578021977": {
-        "text": 57,
+        "text": 58,
         "media": 1,
-        "total": 58
+        "total": 59
       },
       "237353448796175": {
         "text": 65,
@@ -3301,9 +3301,9 @@
         "total": 95
       },
       "222595437858867": {
-        "text": 174,
+        "text": 175,
         "media": 12,
-        "total": 186
+        "total": 187
       },
       "104003018985518": {
         "text": 40,
@@ -3652,8 +3652,8 @@
       },
       "2135320166432": {
         "text": 5,
-        "media": 2,
-        "total": 7
+        "media": 4,
+        "total": 9
       },
       "54013592617050": {
         "text": 3,
@@ -3661,9 +3661,9 @@
         "total": 3
       },
       "166452229341300": {
-        "text": 32,
+        "text": 33,
         "media": 2,
-        "total": 34
+        "total": 35
       },
       "109508781207612": {
         "text": 25,
@@ -3676,9 +3676,9 @@
         "total": 2
       },
       "111141304930334": {
-        "text": 2,
+        "text": 3,
         "media": 0,
-        "total": 2
+        "total": 3
       }
     },
     "120363409727467494@g.us": {
@@ -9595,7 +9595,11 @@
         "Layaninha: Aeee \nFosse ela botava pra durmi na casa dos cachorro \nEla ocupada e o homem no Kbaré",
         "Layaninha: 🤣🤣",
         "Juliano Perlin: Bahh chega ser gratificante🥰",
-        "Layaninha: Brincando"
+        "Layaninha: Brincando",
+        "⚡: Sei como é \nTbm trabalho com o q amo",
+        "Jean Correa: Que raba nossa senhora",
+        "Layaninha: 🤣🤣🤣🤣🤣",
+        "Juliano Perlin: Vc trabalha no que??"
       ]
     },
     "120363409727467494@g.us": {
@@ -12786,6 +12790,30 @@
         "authorName": "Layaninha",
         "text": "Brincando",
         "timestamp": 1788221145507
+      },
+      {
+        "authorNum": "111141304930334",
+        "authorName": "⚡",
+        "text": "Sei como é \nTbm trabalho com o q amo",
+        "timestamp": 1788221183190
+      },
+      {
+        "authorNum": "16007578021977",
+        "authorName": "Jean Correa",
+        "text": "Que raba nossa senhora",
+        "timestamp": 1788221192282
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Layaninha",
+        "text": "🤣🤣🤣🤣🤣",
+        "timestamp": 1788221209029
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Vc trabalha no que??",
+        "timestamp": 1788221211883
       }
     ],
     "120363409727467494@g.us": [],
@@ -12867,7 +12895,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 1531,
-    "120363428464897153@g.us": 6566,
+    "120363428464897153@g.us": 6570,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2417,
     "120363411233423709@g.us": 5,
@@ -23586,6 +23614,30 @@
         "text": "Brincando",
         "pushName": "Layaninha",
         "timestamp": 1788221145507
+      },
+      "AC07C76E014985F5329175CFF9451436": {
+        "sender": "111141304930334@lid",
+        "text": "Sei como é \nTbm trabalho com o q amo",
+        "pushName": "⚡",
+        "timestamp": 1788221183190
+      },
+      "ACBCC22B677AE08A239978BF76562D1E": {
+        "sender": "16007578021977@lid",
+        "text": "Que raba nossa senhora",
+        "pushName": "Jean Correa",
+        "timestamp": 1788221192282
+      },
+      "A513285ED220D60A21D5007B56A15D56": {
+        "sender": "166452229341300@lid",
+        "text": "🤣🤣🤣🤣🤣",
+        "pushName": "Layaninha",
+        "timestamp": 1788221209029
+      },
+      "ACD3744028E7BBA0FE2BE7C581D0D1F5": {
+        "sender": "222595437858867@lid",
+        "text": "Vc trabalha no que??",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1788221211883
       }
     },
     "120363409727467494@g.us": {},
@@ -25125,7 +25177,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1788221147878,
-    "120363428464897153@g.us": 1788221145507,
+    "120363428464897153@g.us": 1788221211883,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788219832739,
     "120363411233423709@g.us": 1787113553426,
