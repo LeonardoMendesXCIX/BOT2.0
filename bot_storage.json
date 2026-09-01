@@ -2824,9 +2824,9 @@
         "total": 5
       },
       "247020967165997": {
-        "text": 283,
+        "text": 284,
         "media": 39,
-        "total": 322
+        "total": 323
       },
       "206253020176458": {
         "text": 46,
@@ -3251,9 +3251,9 @@
         "total": 9
       },
       "129373172711439": {
-        "text": 973,
+        "text": 975,
         "media": 258,
-        "total": 1231
+        "total": 1233
       },
       "16007578021977": {
         "text": 58,
@@ -3596,9 +3596,9 @@
         "total": 1
       },
       "190864487919667": {
-        "text": 83,
+        "text": 84,
         "media": 16,
-        "total": 99
+        "total": 100
       },
       "118515428286715": {
         "text": 22,
@@ -3661,14 +3661,14 @@
         "total": 7
       },
       "166452229341300": {
-        "text": 48,
+        "text": 50,
         "media": 5,
-        "total": 53
+        "total": 55
       },
       "109508781207612": {
         "text": 28,
-        "media": 5,
-        "total": 33
+        "media": 6,
+        "total": 34
       },
       "108461127897146": {
         "text": 2,
@@ -9641,7 +9641,10 @@
         "Vini 👑🏁🙌⚽: Aí é quando a filha chora e a mãe não ver 😂😂😂",
         "Gabriel: Deu vírus, abro nunca",
         "pãobão 😂: Kkkkk vdd",
-        "Vini 👑🏁🙌⚽: Kkkkk pser"
+        "Vini 👑🏁🙌⚽: Kkkkk pser",
+        "Souza: Nada de absurdo",
+        "Celiete Souza: Na cabeça",
+        "Celiete Souza: Ah não kkkkk"
       ]
     },
     "120363409727467494@g.us": {
@@ -11953,18 +11956,6 @@
     ],
     "120363428464897153@g.us": [
       {
-        "authorNum": "109508781207612",
-        "authorName": "pãobão 😂",
-        "text": "Para cntg tbm sua vc e uma mulher bonita elegante",
-        "timestamp": 1788220229301
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina Bartolucci 🤌🏻",
-        "text": "Obrigada meu beeeem! Prazer, Sabrina!\nDiretora daqui",
-        "timestamp": 1788220233126
-      },
-      {
         "authorNum": "166452229341300",
         "authorName": "Layaninha",
         "text": "🥲quer me dá um pote de creme \nCê fala",
@@ -12659,6 +12650,24 @@
         "authorName": "Vini 👑🏁🙌⚽",
         "text": "Kkkkk pser",
         "timestamp": 1788222014211
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Nada de absurdo",
+        "timestamp": 1788222029248
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Na cabeça",
+        "timestamp": 1788222031013
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Ah não kkkkk",
+        "timestamp": 1788222051842
       }
     ],
     "120363409727467494@g.us": [],
@@ -12686,7 +12695,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 1554,
-    "120363428464897153@g.us": 6612,
+    "120363428464897153@g.us": 6615,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2418,
     "120363411233423709@g.us": 5,
@@ -23819,6 +23828,24 @@
         "text": "Kkkkk pser",
         "pushName": "Vini 👑🏁🙌⚽",
         "timestamp": 1788222014211
+      },
+      "AC77FA9A780CDCA4EF32DF5D4B024C7A": {
+        "sender": "190864487919667@lid",
+        "text": "Nada de absurdo",
+        "pushName": "Souza",
+        "timestamp": 1788222029260
+      },
+      "ACE09B46ACA740D5600764F39DFC2288": {
+        "sender": "129373172711439@lid",
+        "text": "Na cabeça",
+        "pushName": "Celiete Souza",
+        "timestamp": 1788222031013
+      },
+      "ACD67DF853E0C60685FCB61D873A5056": {
+        "sender": "129373172711439@lid",
+        "text": "Ah não kkkkk",
+        "pushName": "Celiete Souza",
+        "timestamp": 1788222051842
       }
     },
     "120363409727467494@g.us": {},
@@ -25363,8 +25390,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788222014760,
-    "120363428464897153@g.us": 1788222014211,
+    "120363432018531082@g.us": 1788222029767,
+    "120363428464897153@g.us": 1788222052435,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788221779631,
     "120363411233423709@g.us": 1787113553426,
