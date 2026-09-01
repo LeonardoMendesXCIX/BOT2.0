@@ -214,9 +214,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2314,
+        "text": 2315,
         "media": 481,
-        "total": 2795
+        "total": 2796
       },
       "184237705699536": {
         "text": 524,
@@ -4161,9 +4161,9 @@
         "total": 1960
       },
       "145381035905262": {
-        "text": 9,
+        "text": 10,
         "media": 307,
-        "total": 316
+        "total": 317
       },
       "120363409024805409": {
         "text": 0,
@@ -8022,7 +8022,8 @@
         "Celiete Souza: Vai dar tudo certo 🙏 fé",
         "Gabriel: Eu acho que deveriamos, respeitar o momento, que é bem complicado, pelas informações passadas a nós. Desejo a todos boa noite, se cuidem. Façam suas rezas por ela. \n\nFecharei os grupos em respeito a e",
         "Gabriel: !fechar",
-        "Leandro: Obrigado cara!"
+        "Leandro: Obrigado cara!",
+        "Gabriel: Boa noite a todos. Amanhã voltamos!"
       ]
     },
     "120363428464897153@g.us": {
@@ -11931,7 +11932,9 @@
         "Leandro: 🌝",
         "Leandro: !megafone boa noite a todos! Galera devido a uns problemas, hoje não estaremos online, nem eu, nem a Layh @81991328395336 em breve, retornaremos, qualquer dúvida, procurem @145381035905262 ou @5353738"
       ],
-      "01/09/2026": []
+      "01/09/2026": [
+        "Gabriel: !fechar"
+      ]
     },
     "120363411043114631@g.us": {
       "28/08/2026": [
@@ -12111,6 +12114,12 @@
         "authorName": "Leandro",
         "text": "Obrigado cara!",
         "timestamp": 1788233312590
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Boa noite a todos. Amanhã voltamos!",
+        "timestamp": 1788233374165
       }
     ],
     "120363428464897153@g.us": [
@@ -12132,7 +12141,14 @@
     "120363411233423709@g.us": [],
     "120363428079168524@g.us": [],
     "120363411246936023@g.us": [],
-    "120363409024805409@g.us": [],
+    "120363409024805409@g.us": [
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "!fechar",
+        "timestamp": 1788233355077
+      }
+    ],
     "120363050678635389@g.us": [],
     "120363411043114631@g.us": [],
     "120363409367298221@g.us": []
@@ -12144,14 +12160,14 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 1584,
+    "120363432018531082@g.us": 1585,
     "120363428464897153@g.us": 7062,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2450,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 31,
-    "120363409024805409@g.us": 146,
+    "120363409024805409@g.us": 147,
     "120363050678635389@g.us": 1,
     "120363411043114631@g.us": 20,
     "120363409367298221@g.us": 4
@@ -12168,7 +12184,7 @@
     "120363428662766282@g.us": true,
     "120363428079168524@g.us": false,
     "120363411246936023@g.us": false,
-    "120363409024805409@g.us": false,
+    "120363409024805409@g.us": true,
     "120363409496810190@g.us": true,
     "120363428233177583@g.us": true
   },
@@ -22331,6 +22347,12 @@
         "text": "Obrigado cara!",
         "pushName": "Leandro",
         "timestamp": 1788233312590
+      },
+      "AC3442242FAA5DC03F62C18BD79C507C": {
+        "sender": "145381035905262@lid",
+        "text": "Boa noite a todos. Amanhã voltamos!",
+        "pushName": "Gabriel",
+        "timestamp": 1788233374165
       }
     },
     "120363428464897153@g.us": {
@@ -27808,6 +27830,12 @@
         "text": "!megafone boa noite a todos! Galera devido a uns problemas, hoje não estaremos online, nem eu, nem a Layh @81991328395336 em breve, retornaremos, qualquer dúvida, procurem @145381035905262 ou @53537388122141 eles estão na coordenação do grupo também",
         "pushName": "Leandro",
         "timestamp": 1788230804538
+      },
+      "ACF3C83C9516670E1514FD9EA0E192D4": {
+        "sender": "145381035905262@lid",
+        "text": "!fechar",
+        "pushName": "Gabriel",
+        "timestamp": 1788233355077
       }
     },
     "120363050678635389@g.us": {},
@@ -27915,7 +27943,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788233312590,
+    "120363432018531082@g.us": 1788233374165,
     "120363428464897153@g.us": 1788233325854,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788227152321,
@@ -27926,7 +27954,7 @@
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1788231210742,
-    "120363409024805409@g.us": 1788233348708,
+    "120363409024805409@g.us": 1788233355077,
     "120363411043114631@g.us": 1787897464612,
     "120363409367298221@g.us": 1788158816417
   },
