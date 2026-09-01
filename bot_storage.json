@@ -2909,9 +2909,9 @@
         "total": 5
       },
       "111141304930334": {
-        "text": 5,
+        "text": 6,
         "media": 2,
-        "total": 7
+        "total": 8
       },
       "54013592617050": {
         "text": 61,
@@ -3661,9 +3661,9 @@
         "total": 3
       },
       "166452229341300": {
-        "text": 31,
+        "text": 32,
         "media": 2,
-        "total": 33
+        "total": 34
       },
       "109508781207612": {
         "text": 25,
@@ -9594,7 +9594,8 @@
         "Juliano Perlin: Obrigado🥰",
         "Layaninha: Aeee \nFosse ela botava pra durmi na casa dos cachorro \nEla ocupada e o homem no Kbaré",
         "Layaninha: 🤣🤣",
-        "Juliano Perlin: Bahh chega ser gratificante🥰"
+        "Juliano Perlin: Bahh chega ser gratificante🥰",
+        "Layaninha: Brincando"
       ]
     },
     "120363409727467494@g.us": {
@@ -12779,6 +12780,12 @@
         "authorName": "Juliano Perlin",
         "text": "Bahh chega ser gratificante🥰",
         "timestamp": 1788221143120
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Layaninha",
+        "text": "Brincando",
+        "timestamp": 1788221145507
       }
     ],
     "120363409727467494@g.us": [],
@@ -12860,7 +12867,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 1531,
-    "120363428464897153@g.us": 6565,
+    "120363428464897153@g.us": 6566,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2417,
     "120363411233423709@g.us": 5,
@@ -23573,6 +23580,12 @@
         "text": "Bahh chega ser gratificante🥰",
         "pushName": "Juliano Perlin",
         "timestamp": 1788221143121
+      },
+      "A5A5F15D516469586C7ABF493B2E1466": {
+        "sender": "166452229341300@lid",
+        "text": "Brincando",
+        "pushName": "Layaninha",
+        "timestamp": 1788221145507
       }
     },
     "120363409727467494@g.us": {},
@@ -25111,8 +25124,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788221128246,
-    "120363428464897153@g.us": 1788221143120,
+    "120363432018531082@g.us": 1788221147878,
+    "120363428464897153@g.us": 1788221145507,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788219832739,
     "120363411233423709@g.us": 1787113553426,
