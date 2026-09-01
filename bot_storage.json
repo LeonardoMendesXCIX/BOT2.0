@@ -4064,9 +4064,9 @@
         "total": 1
       },
       "5511927018683": {
-        "text": 20,
+        "text": 21,
         "media": 0,
-        "total": 20
+        "total": 21
       },
       "179040627490824": {
         "text": 3,
@@ -4129,9 +4129,9 @@
         "total": 1
       },
       "272048228188398": {
-        "text": 1,
+        "text": 2,
         "media": 0,
-        "total": 1
+        "total": 2
       },
       "262182034002040": {
         "text": 2,
@@ -11740,7 +11740,9 @@
         "Gabriel: **Não espere estar perfeito* \n\n*1. A perfeição é uma desculpa sofisticada para não começar.*\nVocê não precisa enxergar o caminho inteiro. Precisa apenas ter clareza suficiente para dar o primeiro pass",
         "Gabriel: Já começa ouvir a frequência, pra entrar na energia da semana",
         "Lailson Nathan.: Bom dia turma.",
-        "Dany: Bom dia, gente!"
+        "Dany: Bom dia, gente!",
+        "Lailson Nathan.: Seja bem vindo.",
+        "Leandro: Obrigado jovem!"
       ]
     },
     "120363409024805409@g.us": {
@@ -12319,7 +12321,20 @@
     "120363412288900422@g.us": [],
     "120363411233423709@g.us": [],
     "120363428079168524@g.us": [],
-    "120363411246936023@g.us": [],
+    "120363411246936023@g.us": [
+      {
+        "authorNum": "272048228188398",
+        "authorName": "Lailson Nathan.",
+        "text": "Seja bem vindo.",
+        "timestamp": 1788230979867
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Obrigado jovem!",
+        "timestamp": 1788230995577
+      }
+    ],
     "120363409024805409@g.us": [
       {
         "authorNum": "5511927018683",
@@ -12345,7 +12360,7 @@
     "120363412288900422@g.us": 2450,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
-    "120363411246936023@g.us": 28,
+    "120363411246936023@g.us": 30,
     "120363409024805409@g.us": 146,
     "120363050678635389@g.us": 1,
     "120363411043114631@g.us": 20,
@@ -27523,6 +27538,18 @@
         "text": "Bom dia, gente!",
         "pushName": "Dany",
         "timestamp": 1788175141676
+      },
+      "ACBA0B305C4109822342FC20F5061C7C": {
+        "sender": "272048228188398@lid",
+        "text": "Seja bem vindo.",
+        "pushName": "Lailson Nathan.",
+        "timestamp": 1788230979867
+      },
+      "A52B39275EAC6C695AC011271A8D6FA2": {
+        "sender": "54259127210155@lid",
+        "text": "Obrigado jovem!",
+        "pushName": "Leandro",
+        "timestamp": 1788230995577
       }
     },
     "120363409024805409@g.us": {
@@ -27942,7 +27969,7 @@
     "120363050678635389@g.us": 1787865885764,
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
-    "120363411246936023@g.us": 1788175141676,
+    "120363411246936023@g.us": 1788230995577,
     "120363409024805409@g.us": 1788230804537,
     "120363411043114631@g.us": 1787897464612,
     "120363409367298221@g.us": 1788158816417
