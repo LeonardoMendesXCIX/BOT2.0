@@ -3146,9 +3146,9 @@
         "total": 23
       },
       "270377049690114": {
-        "text": 354,
+        "text": 358,
         "media": 61,
-        "total": 415
+        "total": 419
       },
       "76914341503187": {
         "text": 27,
@@ -3641,9 +3641,9 @@
         "total": 3
       },
       "247020967165997": {
-        "text": 30,
+        "text": 33,
         "media": 2,
-        "total": 32
+        "total": 35
       },
       "272048228188398": {
         "text": 5,
@@ -9733,7 +9733,14 @@
         "Vini 👑🏁🙌⚽: 4",
         "Gabi 💋: Eita",
         "Layaninha: 4000",
-        "Vini 👑🏁🙌⚽: 🤔🤔👀👀"
+        "Vini 👑🏁🙌⚽: 🤔🤔👀👀",
+        "Vini 👑🏁🙌⚽: Pensou o mesmo número que eu hein",
+        "Vini 👑🏁🙌⚽: Ainda mandou a mensagem na mesma hora",
+        "Gabi 💋: Gosto desse número",
+        "Gabi 💋: Foi isso que pensei ksks",
+        "Vini 👑🏁🙌⚽: Eita pq??",
+        "Vini 👑🏁🙌⚽: Ksksksks",
+        "Gabi 💋: Minhas posição favorita"
       ]
     },
     "120363409727467494@g.us": {
@@ -11817,18 +11824,6 @@
     ],
     "120363428464897153@g.us": [
       {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Boa noite gente",
-        "timestamp": 1788221364299
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Tem que tocar os negócios né 🫡",
-        "timestamp": 1788221366767
-      },
-      {
         "authorNum": "54013592617050",
         "authorName": "🐦‍🔥",
         "text": "Vai bater em mulher?",
@@ -12589,6 +12584,48 @@
         "authorName": "Vini 👑🏁🙌⚽",
         "text": "🤔🤔👀👀",
         "timestamp": 1788223131405
+      },
+      {
+        "authorNum": "270377049690114",
+        "authorName": "Vini 👑🏁🙌⚽",
+        "text": "Pensou o mesmo número que eu hein",
+        "timestamp": 1788223145017
+      },
+      {
+        "authorNum": "270377049690114",
+        "authorName": "Vini 👑🏁🙌⚽",
+        "text": "Ainda mandou a mensagem na mesma hora",
+        "timestamp": 1788223154391
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Gosto desse número",
+        "timestamp": 1788223157524
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Foi isso que pensei ksks",
+        "timestamp": 1788223162983
+      },
+      {
+        "authorNum": "270377049690114",
+        "authorName": "Vini 👑🏁🙌⚽",
+        "text": "Eita pq??",
+        "timestamp": 1788223165449
+      },
+      {
+        "authorNum": "270377049690114",
+        "authorName": "Vini 👑🏁🙌⚽",
+        "text": "Ksksksks",
+        "timestamp": 1788223167533
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Minhas posição favorita",
+        "timestamp": 1788223176820
       }
     ],
     "120363409727467494@g.us": [],
@@ -12616,7 +12653,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 1555,
-    "120363428464897153@g.us": 6704,
+    "120363428464897153@g.us": 6711,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2418,
     "120363411233423709@g.us": 5,
@@ -24307,6 +24344,48 @@
         "text": "🤔🤔👀👀",
         "pushName": "Vini 👑🏁🙌⚽",
         "timestamp": 1788223131415
+      },
+      "AC4550C1BBFE89AAC06D4937BDB3458B": {
+        "sender": "270377049690114@lid",
+        "text": "Pensou o mesmo número que eu hein",
+        "pushName": "Vini 👑🏁🙌⚽",
+        "timestamp": 1788223145017
+      },
+      "AC06194D18001B24697D9BC49EEA6D61": {
+        "sender": "270377049690114@lid",
+        "text": "Ainda mandou a mensagem na mesma hora",
+        "pushName": "Vini 👑🏁🙌⚽",
+        "timestamp": 1788223154391
+      },
+      "ACC7F276023372351DDB33C8DEBCD68A": {
+        "sender": "247020967165997@lid",
+        "text": "Gosto desse número",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788223157525
+      },
+      "AC9EBD3346147384F51D26AFAFC99198": {
+        "sender": "247020967165997@lid",
+        "text": "Foi isso que pensei ksks",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788223162983
+      },
+      "ACC74AB4468B9635803218DC276C11AF": {
+        "sender": "270377049690114@lid",
+        "text": "Eita pq??",
+        "pushName": "Vini 👑🏁🙌⚽",
+        "timestamp": 1788223165449
+      },
+      "ACE4881FF96F3433C77432FD2716BE0B": {
+        "sender": "270377049690114@lid",
+        "text": "Ksksksks",
+        "pushName": "Vini 👑🏁🙌⚽",
+        "timestamp": 1788223167533
+      },
+      "ACD27F4490B0F27F2BA7667E470B664D": {
+        "sender": "247020967165997@lid",
+        "text": "Minhas posição favorita",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788223176820
       }
     },
     "120363409727467494@g.us": {},
@@ -25852,7 +25931,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1788222448169,
-    "120363428464897153@g.us": 1788223131405,
+    "120363428464897153@g.us": 1788223176820,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788221779631,
     "120363411233423709@g.us": 1787113553426,
