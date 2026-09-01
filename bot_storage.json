@@ -3151,9 +3151,9 @@
         "total": 23
       },
       "270377049690114": {
-        "text": 364,
+        "text": 366,
         "media": 61,
-        "total": 425
+        "total": 427
       },
       "76914341503187": {
         "text": 27,
@@ -3306,9 +3306,9 @@
         "total": 95
       },
       "222595437858867": {
-        "text": 214,
+        "text": 215,
         "media": 16,
-        "total": 230
+        "total": 231
       },
       "104003018985518": {
         "text": 40,
@@ -3647,8 +3647,8 @@
       },
       "247020967165997": {
         "text": 47,
-        "media": 4,
-        "total": 51
+        "media": 5,
+        "total": 52
       },
       "272048228188398": {
         "text": 5,
@@ -3730,9 +3730,9 @@
         "total": 839
       },
       "145381035905262": {
-        "text": 525,
+        "text": 527,
         "media": 167,
-        "total": 692
+        "total": 694
       },
       "53537388122141": {
         "text": 897,
@@ -9813,7 +9813,10 @@
         "Leandro: Ela está off ainda, ocupada",
         "Leandro: Já já aparece por aí",
         "Juliano Perlin: A @53537388122141 ??",
-        "Layaninha: Ela faz o que?"
+        "Layaninha: Ela faz o que?",
+        "Vini 👑🏁🙌⚽: Sou o mais sério do grupo 😌",
+        "Vini 👑🏁🙌⚽: Quem conhece sabe.",
+        "Juliano Perlin: @81991328395336"
       ]
     },
     "120363409727467494@g.us": {
@@ -11260,7 +11263,8 @@
         "Gabriel: Pega essa relíquia @54259127210155",
         "Leandro: 😒",
         "Leandro: Se tratando de Akon, é boa 🤌🏼",
-        "Gabriel: Botsin, tá lentinho hein"
+        "Gabriel: Botsin, tá lentinho hein",
+        "Gabriel: 3"
       ]
     },
     "120363411233423709@g.us": {},
@@ -11775,18 +11779,6 @@
       }
     ],
     "120363428464897153@g.us": [
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "*pessoal peça permissão antes de chamar no PV*",
-        "timestamp": 1788222116390
-      },
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Pode, também vou mandar",
-        "timestamp": 1788222121348
-      },
       {
         "authorNum": "129373172711439",
         "authorName": "Celiete Souza",
@@ -12692,6 +12684,24 @@
         "authorName": "Layaninha",
         "text": "Ela faz o que?",
         "timestamp": 1788223915180
+      },
+      {
+        "authorNum": "270377049690114",
+        "authorName": "Vini 👑🏁🙌⚽",
+        "text": "Sou o mais sério do grupo 😌",
+        "timestamp": 1788223934033
+      },
+      {
+        "authorNum": "270377049690114",
+        "authorName": "Vini 👑🏁🙌⚽",
+        "text": "Quem conhece sabe.",
+        "timestamp": 1788223938338
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "@81991328395336",
+        "timestamp": 1788223939117
       }
     ],
     "120363409727467494@g.us": [],
@@ -12761,6 +12771,12 @@
         "authorName": "Gabriel",
         "text": "Botsin, tá lentinho hein",
         "timestamp": 1788223912586
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "3",
+        "timestamp": 1788223936093
       }
     ],
     "120363411233423709@g.us": [],
@@ -12779,9 +12795,9 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 1555,
-    "120363428464897153@g.us": 6774,
+    "120363428464897153@g.us": 6777,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2429,
+    "120363412288900422@g.us": 2430,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 28,
@@ -24892,6 +24908,24 @@
         "text": "Ela faz o que?",
         "pushName": "Layaninha",
         "timestamp": 1788223915181
+      },
+      "ACD7FAE30E7569ED2A5B4382A5FE0633": {
+        "sender": "270377049690114@lid",
+        "text": "Sou o mais sério do grupo 😌",
+        "pushName": "Vini 👑🏁🙌⚽",
+        "timestamp": 1788223934033
+      },
+      "AC5FFA6935C32B2DCBA3C43D429E1324": {
+        "sender": "270377049690114@lid",
+        "text": "Quem conhece sabe.",
+        "pushName": "Vini 👑🏁🙌⚽",
+        "timestamp": 1788223938338
+      },
+      "ACDADD1EF3EB0B64E14CDA239E3A0546": {
+        "sender": "222595437858867@lid",
+        "text": "@81991328395336",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1788223939117
       }
     },
     "120363409727467494@g.us": {},
@@ -26053,6 +26087,12 @@
         "text": "Botsin, tá lentinho hein",
         "pushName": "Gabriel",
         "timestamp": 1788223912586
+      },
+      "ACF770EB8F444104A9DE216D22328870": {
+        "sender": "145381035905262@lid",
+        "text": "3",
+        "pushName": "Gabriel",
+        "timestamp": 1788223936093
       }
     },
     "120363411233423709@g.us": {},
@@ -26503,9 +26543,9 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1788223223828,
-    "120363428464897153@g.us": 1788223915180,
+    "120363428464897153@g.us": 1788223939117,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1788223912586,
+    "120363412288900422@g.us": 1788223936093,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
