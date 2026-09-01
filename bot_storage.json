@@ -3256,9 +3256,9 @@
         "total": 9
       },
       "129373172711439": {
-        "text": 1033,
+        "text": 1035,
         "media": 288,
-        "total": 1321
+        "total": 1323
       },
       "16007578021977": {
         "text": 58,
@@ -3306,9 +3306,9 @@
         "total": 95
       },
       "222595437858867": {
-        "text": 246,
+        "text": 247,
         "media": 19,
-        "total": 265
+        "total": 266
       },
       "104003018985518": {
         "text": 40,
@@ -3601,9 +3601,9 @@
         "total": 1
       },
       "190864487919667": {
-        "text": 90,
+        "text": 91,
         "media": 18,
-        "total": 108
+        "total": 109
       },
       "118515428286715": {
         "text": 23,
@@ -3657,8 +3657,8 @@
       },
       "2135320166432": {
         "text": 9,
-        "media": 6,
-        "total": 15
+        "media": 7,
+        "total": 16
       },
       "54013592617050": {
         "text": 7,
@@ -3686,9 +3686,9 @@
         "total": 16
       },
       "138306604032063": {
-        "text": 26,
+        "text": 27,
         "media": 19,
-        "total": 45
+        "total": 46
       }
     },
     "120363409727467494@g.us": {
@@ -9465,9 +9465,6 @@
         "Leandro (+55 (11) 92701-8683): !del"
       ],
       "31/08/2026": [
-        "Juliano Perlin: Eu nao moça..🥹🥰",
-        "Juliano Perlin: Vc faz oq da vida??",
-        "Layaninha: Modelo na Minha cidade",
         "Juliano Perlin: Que bacana🤗",
         "Juliano Perlin: Parabéns",
         "Layaninha: E tbm trabalho numa corretora de imóveis",
@@ -9964,7 +9961,10 @@
         "Celiete Souza: Kkkkkk",
         "Juliano Perlin: Eu nao sei tirar foto assim",
         "Anderson: Vai descansar minha vida",
-        "Juliano Perlin: Alguem vai ter q segurar a camisa pra eu tirar🫣"
+        "Juliano Perlin: Alguem vai ter q segurar a camisa pra eu tirar🫣",
+        "Souza: Apaputaquepariu kkkkkkkkkkkkkkkkkkkkkk",
+        "Celiete Souza: Tira a camisa",
+        "Juliano Perlin: 🤣🤣🤣🤣🤣"
       ]
     },
     "120363409727467494@g.us": {
@@ -12713,6 +12713,24 @@
         "authorName": "Juliano Perlin",
         "text": "Alguem vai ter q segurar a camisa pra eu tirar🫣",
         "timestamp": 1788229275768
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Apaputaquepariu kkkkkkkkkkkkkkkkkkkkkk",
+        "timestamp": 1788229285002
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Tira a camisa",
+        "timestamp": 1788229293621
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "🤣🤣🤣🤣🤣",
+        "timestamp": 1788229304022
       }
     ],
     "120363409727467494@g.us": [],
@@ -12733,7 +12751,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 1555,
-    "120363428464897153@g.us": 7020,
+    "120363428464897153@g.us": 7023,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2450,
     "120363411233423709@g.us": 5,
@@ -26320,6 +26338,24 @@
         "text": "Alguem vai ter q segurar a camisa pra eu tirar🫣",
         "pushName": "Juliano Perlin",
         "timestamp": 1788229275768
+      },
+      "ACBFF140E157F9A82F5A4CE9E2B15343": {
+        "sender": "190864487919667@lid",
+        "text": "Apaputaquepariu kkkkkkkkkkkkkkkkkkkkkk",
+        "pushName": "Souza",
+        "timestamp": 1788229285003
+      },
+      "ACCE3244F8BD54EC1BCC6F1F22094E96": {
+        "sender": "129373172711439@lid",
+        "text": "Tira a camisa",
+        "pushName": "Celiete Souza",
+        "timestamp": 1788229293621
+      },
+      "AC57BF1C470606B9DE0CAC39032E8A0E": {
+        "sender": "222595437858867@lid",
+        "text": "🤣🤣🤣🤣🤣",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1788229304023
       }
     },
     "120363409727467494@g.us": {},
@@ -28057,7 +28093,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1788226077175,
-    "120363428464897153@g.us": 1788229275768,
+    "120363428464897153@g.us": 1788229304022,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788227152321,
     "120363411233423709@g.us": 1787113553426,
