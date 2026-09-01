@@ -3216,9 +3216,9 @@
         "total": 1
       },
       "92629643563147": {
-        "text": 625,
-        "media": 471,
-        "total": 1096
+        "text": 627,
+        "media": 473,
+        "total": 1100
       },
       "122552932372575": {
         "text": 0,
@@ -3256,9 +3256,9 @@
         "total": 9
       },
       "129373172711439": {
-        "text": 1009,
-        "media": 283,
-        "total": 1292
+        "text": 1010,
+        "media": 284,
+        "total": 1294
       },
       "16007578021977": {
         "text": 58,
@@ -3331,9 +3331,9 @@
         "total": 2
       },
       "53537388122141": {
-        "text": 95,
+        "text": 97,
         "media": 0,
-        "total": 95
+        "total": 97
       },
       "253626509443178": {
         "text": 3,
@@ -3641,9 +3641,9 @@
         "total": 9
       },
       "83911531044906": {
-        "text": 16,
+        "text": 17,
         "media": 1,
-        "total": 17
+        "total": 18
       },
       "247020967165997": {
         "text": 68,
@@ -3671,9 +3671,9 @@
         "total": 106
       },
       "109508781207612": {
-        "text": 37,
+        "text": 38,
         "media": 9,
-        "total": 46
+        "total": 47
       },
       "108461127897146": {
         "text": 23,
@@ -3687,8 +3687,8 @@
       },
       "138306604032063": {
         "text": 23,
-        "media": 16,
-        "total": 39
+        "media": 17,
+        "total": 40
       }
     },
     "120363409727467494@g.us": {
@@ -9465,12 +9465,6 @@
         "Leandro (+55 (11) 92701-8683): !del"
       ],
       "31/08/2026": [
-        "Leandro: !del",
-        "Leandro: !msgremoveadm Xiii, {membro} fez algo errado e foi removido! 🚫",
-        "Leandro: !del",
-        "Leandro: !del",
-        "~🌪️𝓁𝒶𝓎𝒽🦋: *Bom dia pessoal, uma segunda-feira abençoada por Deus, pra todos nós! 🤍🙌🏻*\n\n@all",
-        "Leandro: @81991328395336 @53537388122141 @145381035905262 reunião, RH, por favor",
         "Leandro: !sa",
         "Leandro: !del",
         "Leandro: !del",
@@ -9964,7 +9958,13 @@
         "Juliano Perlin: Custa nada🥹",
         "Camila Designer: Sei não",
         "Juliano Perlin: Manda de novo",
-        "pãobão 😂: Nunca pedimos ND pra vcs kkk"
+        "pãobão 😂: Nunca pedimos ND pra vcs kkk",
+        "Camila Designer: E aí @129373172711439 ?",
+        "Camila Designer: Mandamos ou não?",
+        "pãobão 😂: Manda",
+        "~Gaara: 😒",
+        "Celiete Souza: PV amiga",
+        "Sabrina Bartolucci 🤌🏻: Maravilha, fico feliz!"
       ]
     },
     "120363409727467494@g.us": {
@@ -12311,6 +12311,42 @@
         "authorName": "pãobão 😂",
         "text": "Nunca pedimos ND pra vcs kkk",
         "timestamp": 1788228352245
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "E aí @129373172711439 ?",
+        "timestamp": 1788228364624
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Mandamos ou não?",
+        "timestamp": 1788228369805
+      },
+      {
+        "authorNum": "109508781207612",
+        "authorName": "pãobão 😂",
+        "text": "Manda",
+        "timestamp": 1788228378965
+      },
+      {
+        "authorNum": "83911531044906",
+        "authorName": "~Gaara",
+        "text": "😒",
+        "timestamp": 1788228379394
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "PV amiga",
+        "timestamp": 1788228380625
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Maravilha, fico feliz!",
+        "timestamp": 1788228382413
       }
     ],
     "120363409727467494@g.us": [],
@@ -12368,7 +12404,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 1555,
-    "120363428464897153@g.us": 6934,
+    "120363428464897153@g.us": 6940,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2450,
     "120363411233423709@g.us": 5,
@@ -25439,6 +25475,42 @@
         "text": "Nunca pedimos ND pra vcs kkk",
         "pushName": "pãobão 😂",
         "timestamp": 1788228352245
+      },
+      "2AEEBE3B6DFB3CC090DB": {
+        "sender": "92629643563147@lid",
+        "text": "E aí @129373172711439 ?",
+        "pushName": "Camila Designer",
+        "timestamp": 1788228364624
+      },
+      "2AA633EBEEB57C78A6E4": {
+        "sender": "92629643563147@lid",
+        "text": "Mandamos ou não?",
+        "pushName": "Camila Designer",
+        "timestamp": 1788228369806
+      },
+      "AC2BB38B4E1A47BC8818D1A7EF711092": {
+        "sender": "109508781207612@lid",
+        "text": "Manda",
+        "pushName": "pãobão 😂",
+        "timestamp": 1788228378965
+      },
+      "ACAEEFC4FA1C30424698EB50CD81EA96": {
+        "sender": "83911531044906@lid",
+        "text": "😒",
+        "pushName": "~Gaara",
+        "timestamp": 1788228379442
+      },
+      "AC57C1F0FD6C8469DF351CBDA9053D50": {
+        "sender": "129373172711439@lid",
+        "text": "PV amiga",
+        "pushName": "Celiete Souza",
+        "timestamp": 1788228380625
+      },
+      "AC360380FB49580A0C0FF9861F38C67F": {
+        "sender": "53537388122141@lid",
+        "text": "Maravilha, fico feliz!",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1788228382414
       }
     },
     "120363409727467494@g.us": {},
@@ -27176,7 +27248,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1788226077175,
-    "120363428464897153@g.us": 1788228357890,
+    "120363428464897153@g.us": 1788228396385,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788227152321,
     "120363411233423709@g.us": 1787113553426,
