@@ -3217,8 +3217,8 @@
       },
       "92629643563147": {
         "text": 610,
-        "media": 455,
-        "total": 1065
+        "media": 456,
+        "total": 1066
       },
       "122552932372575": {
         "text": 0,
@@ -3612,8 +3612,8 @@
       },
       "274384656834700": {
         "text": 99,
-        "media": 34,
-        "total": 133
+        "media": 35,
+        "total": 134
       },
       "34626781356198": {
         "text": 0,
@@ -3651,9 +3651,9 @@
         "total": 70
       },
       "272048228188398": {
-        "text": 5,
+        "text": 6,
         "media": 1,
-        "total": 6
+        "total": 7
       },
       "2135320166432": {
         "text": 5,
@@ -3735,9 +3735,9 @@
         "total": 701
       },
       "53537388122141": {
-        "text": 899,
+        "text": 901,
         "media": 74,
-        "total": 973
+        "total": 975
       },
       "120363412288900422": {
         "text": 1,
@@ -11383,7 +11383,9 @@
         "Sabrina Bartolucci 🤌🏻: Maravilha!",
         "Sabrina Bartolucci 🤌🏻: Mas nem me chamou",
         "Gabriel: Sabrina",
-        "Gabriel: Me liga a hora que tu poder"
+        "Gabriel: Me liga a hora que tu poder",
+        "Sabrina Bartolucci 🤌🏻: Posso te ligar amanhã? Aconteceu algo?",
+        "Sabrina Bartolucci 🤌🏻: Te chamei Pv"
       ]
     },
     "120363411233423709@g.us": {},
@@ -12167,24 +12169,6 @@
       {
         "authorNum": "5511927018683",
         "authorName": "Leandro",
-        "text": "Gente teve um tiroteio na frente da faculdade da Lay e ela está no hospital, ainda não tenho mais notícias, mas assim que tiver, mando aqui pra vocês! 😰",
-        "timestamp": 1788225320215
-      },
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Meu papagaio",
-        "timestamp": 1788225340735
-      },
-      {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Ela tomou tiro ?",
-        "timestamp": 1788225346563
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
         "text": "Não sei ainda",
         "timestamp": 1788226067562
       },
@@ -12223,6 +12207,18 @@
         "authorName": "Gabriel",
         "text": "Me liga a hora que tu poder",
         "timestamp": 1788227084285
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Posso te ligar amanhã? Aconteceu algo?",
+        "timestamp": 1788227131750
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Te chamei Pv",
+        "timestamp": 1788227152321
       }
     ],
     "120363411233423709@g.us": [],
@@ -12243,7 +12239,7 @@
     "120363432018531082@g.us": 1555,
     "120363428464897153@g.us": 6878,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2448,
+    "120363412288900422@g.us": 2450,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 28,
@@ -26251,6 +26247,18 @@
         "text": "Me liga a hora que tu poder",
         "pushName": "Gabriel",
         "timestamp": 1788227084285
+      },
+      "ACF46B42690E44C88D4D12E3987B90C3": {
+        "sender": "53537388122141@lid",
+        "text": "Posso te ligar amanhã? Aconteceu algo?",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1788227131750
+      },
+      "ACD5384E0C757D82C5AD0A65006C7C0D": {
+        "sender": "53537388122141@lid",
+        "text": "Te chamei Pv",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1788227152322
       }
     },
     "120363411233423709@g.us": {},
@@ -26701,9 +26709,9 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1788226077175,
-    "120363428464897153@g.us": 1788227087389,
+    "120363428464897153@g.us": 1788227152030,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1788227084285,
+    "120363412288900422@g.us": 1788227152321,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
