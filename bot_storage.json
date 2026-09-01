@@ -3661,9 +3661,9 @@
         "total": 7
       },
       "166452229341300": {
-        "text": 42,
+        "text": 43,
         "media": 4,
-        "total": 46
+        "total": 47
       },
       "109508781207612": {
         "text": 25,
@@ -9628,7 +9628,8 @@
         "Layaninha: Moço sou maranhense e\nMaranhense e bicho que não leva desaforo",
         "Souza: Sou baiano, levo desaforo também não",
         "Juliano Perlin: Q dor??",
-        "Gabriel: Pra começar a bagunça"
+        "Gabriel: Pra começar a bagunça",
+        "Layaninha: Perdi o moço do meu creme"
       ]
     },
     "120363409727467494@g.us": {
@@ -12700,6 +12701,12 @@
         "authorName": "Gabriel",
         "text": "Pra começar a bagunça",
         "timestamp": 1788221697589
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Layaninha",
+        "text": "Perdi o moço do meu creme",
+        "timestamp": 1788221737223
       }
     ],
     "120363409727467494@g.us": [],
@@ -12727,7 +12734,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 1538,
-    "120363428464897153@g.us": 6599,
+    "120363428464897153@g.us": 6600,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2418,
     "120363411233423709@g.us": 5,
@@ -23686,6 +23693,12 @@
         "text": "Pra começar a bagunça",
         "pushName": "Gabriel",
         "timestamp": 1788221697589
+      },
+      "A58CF70245073E5C3F5308D66C15314E": {
+        "sender": "166452229341300@lid",
+        "text": "Perdi o moço do meu creme",
+        "pushName": "Layaninha",
+        "timestamp": 1788221737223
       }
     },
     "120363409727467494@g.us": {},
@@ -25231,7 +25244,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1788221595225,
-    "120363428464897153@g.us": 1788221697949,
+    "120363428464897153@g.us": 1788221737223,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788221593738,
     "120363411233423709@g.us": 1787113553426,
