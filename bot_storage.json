@@ -3641,14 +3641,14 @@
         "total": 9
       },
       "83911531044906": {
-        "text": 17,
+        "text": 19,
         "media": 1,
-        "total": 18
+        "total": 20
       },
       "247020967165997": {
-        "text": 68,
+        "text": 69,
         "media": 8,
-        "total": 76
+        "total": 77
       },
       "272048228188398": {
         "text": 6,
@@ -3686,9 +3686,9 @@
         "total": 16
       },
       "138306604032063": {
-        "text": 23,
-        "media": 17,
-        "total": 40
+        "text": 24,
+        "media": 18,
+        "total": 42
       }
     },
     "120363409727467494@g.us": {
@@ -9465,8 +9465,6 @@
         "Leandro (+55 (11) 92701-8683): !del"
       ],
       "31/08/2026": [
-        "Leandro: !sa",
-        "Leandro: !del",
         "Leandro: !del",
         "Leandro: !sa 💥 BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Agora queremos conhecer você! ✨\n\n📸 Sua foto:\n💬 Nome:\n🎂 Idade:\n📍 De onde sou:\n🗣️ Meu privado está: Aberto ( )✅ Fechado ( )❌\n\n🫶🏻 Seja bem-vindo(a)!\n\n✨ Sinta-se",
         "Leandro: !del",
@@ -9964,7 +9962,9 @@
         "pãobão 😂: Manda",
         "~Gaara: 😒",
         "Celiete Souza: PV amiga",
-        "Sabrina Bartolucci 🤌🏻: Maravilha, fico feliz!"
+        "Sabrina Bartolucci 🤌🏻: Maravilha, fico feliz!",
+        "~Gaara: Siim.\nEu apoio",
+        "~Gaara: Nois merecemos."
       ]
     },
     "120363409727467494@g.us": {
@@ -12347,6 +12347,18 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Maravilha, fico feliz!",
         "timestamp": 1788228382413
+      },
+      {
+        "authorNum": "83911531044906",
+        "authorName": "~Gaara",
+        "text": "Siim.\nEu apoio",
+        "timestamp": 1788228407892
+      },
+      {
+        "authorNum": "83911531044906",
+        "authorName": "~Gaara",
+        "text": "Nois merecemos.",
+        "timestamp": 1788228436295
       }
     ],
     "120363409727467494@g.us": [],
@@ -12404,7 +12416,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 1555,
-    "120363428464897153@g.us": 6940,
+    "120363428464897153@g.us": 6942,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2450,
     "120363411233423709@g.us": 5,
@@ -25511,6 +25523,18 @@
         "text": "Maravilha, fico feliz!",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1788228382414
+      },
+      "ACC1B4FAD7642E82E202E23CC8013C61": {
+        "sender": "83911531044906@lid",
+        "text": "Siim.\nEu apoio",
+        "pushName": "~Gaara",
+        "timestamp": 1788228407892
+      },
+      "AC25270572564D3B7D4B12ED04B91142": {
+        "sender": "83911531044906@lid",
+        "text": "Nois merecemos.",
+        "pushName": "~Gaara",
+        "timestamp": 1788228436295
       }
     },
     "120363409727467494@g.us": {},
@@ -27248,7 +27272,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1788226077175,
-    "120363428464897153@g.us": 1788228396385,
+    "120363428464897153@g.us": 1788228443542,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788227152321,
     "120363411233423709@g.us": 1787113553426,
