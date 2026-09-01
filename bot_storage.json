@@ -3151,9 +3151,9 @@
         "total": 23
       },
       "270377049690114": {
-        "text": 378,
+        "text": 379,
         "media": 62,
-        "total": 440
+        "total": 441
       },
       "76914341503187": {
         "text": 27,
@@ -3217,8 +3217,8 @@
       },
       "92629643563147": {
         "text": 601,
-        "media": 442,
-        "total": 1043
+        "media": 443,
+        "total": 1044
       },
       "122552932372575": {
         "text": 0,
@@ -3257,8 +3257,8 @@
       },
       "129373172711439": {
         "text": 993,
-        "media": 270,
-        "total": 1263
+        "media": 271,
+        "total": 1264
       },
       "16007578021977": {
         "text": 58,
@@ -3611,9 +3611,9 @@
         "total": 26
       },
       "274384656834700": {
-        "text": 90,
+        "text": 91,
         "media": 26,
-        "total": 116
+        "total": 117
       },
       "34626781356198": {
         "text": 0,
@@ -3667,8 +3667,8 @@
       },
       "166452229341300": {
         "text": 82,
-        "media": 10,
-        "total": 92
+        "media": 11,
+        "total": 93
       },
       "109508781207612": {
         "text": 33,
@@ -3686,9 +3686,9 @@
         "total": 16
       },
       "138306604032063": {
-        "text": 15,
+        "text": 16,
         "media": 11,
-        "total": 26
+        "total": 27
       }
     },
     "120363409727467494@g.us": {
@@ -9891,7 +9891,9 @@
         "Celiete Souza: Aqui",
         "Gleydson Souza: Bom quem viu viu 🤣🤣",
         "Celiete Souza: Quem não viu não viu",
-        "Vini 👑🏁🙌⚽: Mandei e apaguei"
+        "Vini 👑🏁🙌⚽: Mandei e apaguei",
+        "Vini 👑🏁🙌⚽: Ninguém viu 🙈🙈😳👀",
+        "Jandilson Santos: 😁😁😁"
       ]
     },
     "120363409727467494@g.us": {
@@ -11858,12 +11860,6 @@
       {
         "authorNum": "274384656834700",
         "authorName": "Gleydson Souza",
-        "text": "Boa noite a todos, vcs tão bem animados hj em kkkkkk",
-        "timestamp": 1788224547781
-      },
-      {
-        "authorNum": "274384656834700",
-        "authorName": "Gleydson Souza",
         "text": "Bem vindo(a) a quem é novo tmb prazer conhecer todos",
         "timestamp": 1788224593184
       },
@@ -12160,6 +12156,18 @@
         "authorName": "Vini 👑🏁🙌⚽",
         "text": "Mandei e apaguei",
         "timestamp": 1788226346084
+      },
+      {
+        "authorNum": "270377049690114",
+        "authorName": "Vini 👑🏁🙌⚽",
+        "text": "Ninguém viu 🙈🙈😳👀",
+        "timestamp": 1788226349826
+      },
+      {
+        "authorNum": "138306604032063",
+        "authorName": "Jandilson Santos",
+        "text": "😁😁😁",
+        "timestamp": 1788226363515
       }
     ],
     "120363409727467494@g.us": [],
@@ -12241,7 +12249,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 1555,
-    "120363428464897153@g.us": 6852,
+    "120363428464897153@g.us": 6854,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2444,
     "120363411233423709@g.us": 5,
@@ -24820,6 +24828,18 @@
         "text": "Mandei e apaguei",
         "pushName": "Vini 👑🏁🙌⚽",
         "timestamp": 1788226346084
+      },
+      "AC449FE4D617532B9FA75B54136A7473": {
+        "sender": "270377049690114@lid",
+        "text": "Ninguém viu 🙈🙈😳👀",
+        "pushName": "Vini 👑🏁🙌⚽",
+        "timestamp": 1788226349826
+      },
+      "AC4567E68C43793A2667E468F17859A9": {
+        "sender": "138306604032063@lid",
+        "text": "😁😁😁",
+        "pushName": "Jandilson Santos",
+        "timestamp": 1788226363515
       }
     },
     "120363409727467494@g.us": {},
@@ -26521,7 +26541,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1788226077175,
-    "120363428464897153@g.us": 1788226346084,
+    "120363428464897153@g.us": 1788226376464,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788226184183,
     "120363411233423709@g.us": 1787113553426,
