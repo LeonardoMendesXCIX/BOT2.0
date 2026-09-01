@@ -2914,9 +2914,9 @@
         "total": 6
       },
       "54013592617050": {
-        "text": 60,
+        "text": 61,
         "media": 7,
-        "total": 67
+        "total": 68
       },
       "78585838710792": {
         "text": 9,
@@ -2929,9 +2929,9 @@
         "total": 6
       },
       "67392566734987": {
-        "text": 6,
+        "text": 7,
         "media": 1,
-        "total": 7
+        "total": 8
       },
       "59588929921175": {
         "text": 9,
@@ -3301,9 +3301,9 @@
         "total": 95
       },
       "222595437858867": {
-        "text": 168,
+        "text": 169,
         "media": 12,
-        "total": 180
+        "total": 181
       },
       "104003018985518": {
         "text": 40,
@@ -7477,8 +7477,6 @@
         "Rodolfo Carmona Mazon: Geral é de Sorocaba?"
       ],
       "31/08/2026": [
-        "Rafael Moura: Eu sempre soube que GF um dia ia dar gravidez 🤣",
-        "Anderson: Ela fez um vídeo pra mim",
         "jaciara: Eu penso diferente",
         "jaciara: Pai não é quem faz",
         "Anderson: Na vdd a filha e só dela porém eu vou casar com ela  então eu sou o pai porque pai e quem cria",
@@ -7976,7 +7974,9 @@
         "Anderson: Sim",
         "Sabrina Bartolucci 🤌🏻: Nada 😂",
         "🐦‍🔥: Sou de Cumbica",
-        "Kelvin Luan Ribeiro Da Ro: Gostei agr \nMais uma italiana"
+        "Kelvin Luan Ribeiro Da Ro: Gostei agr \nMais uma italiana",
+        "🐦‍🔥: Simm",
+        "🙏☝️: 1,2,3 ou 4 kkkkk"
       ]
     },
     "120363428464897153@g.us": {
@@ -9559,7 +9559,8 @@
         "Juliano Perlin: Zueira🤣🤣🤣🤣",
         "Juliano Perlin: Sou caminhoneiro😎",
         "pãobão 😂: Eu n uso cartão só dinheiro em espécie 👀",
-        "pãobão 😂: Kkk"
+        "pãobão 😂: Kkk",
+        "Juliano Perlin: Eu vi primeiro. Tira o zóio"
       ]
     },
     "120363409727467494@g.us": {
@@ -12142,6 +12143,18 @@
         "authorName": "Kelvin Luan Ribeiro Da Ro",
         "text": "Gostei agr \nMais uma italiana",
         "timestamp": 1788220783096
+      },
+      {
+        "authorNum": "54013592617050",
+        "authorName": "🐦‍🔥",
+        "text": "Simm",
+        "timestamp": 1788220789089
+      },
+      {
+        "authorNum": "67392566734987",
+        "authorName": "🙏☝️",
+        "text": "1,2,3 ou 4 kkkkk",
+        "timestamp": 1788220814451
       }
     ],
     "120363428464897153@g.us": [
@@ -12600,6 +12613,12 @@
         "authorName": "pãobão 😂",
         "text": "Kkk",
         "timestamp": 1788220775666
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Eu vi primeiro. Tira o zóio",
+        "timestamp": 1788220816936
       }
     ],
     "120363409727467494@g.us": [],
@@ -12680,8 +12699,8 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 1520,
-    "120363428464897153@g.us": 6540,
+    "120363432018531082@g.us": 1522,
+    "120363428464897153@g.us": 6541,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2417,
     "120363411233423709@g.us": 5,
@@ -22487,6 +22506,18 @@
         "text": "Gostei agr \nMais uma italiana",
         "pushName": "Kelvin Luan Ribeiro Da Ro",
         "timestamp": 1788220783097
+      },
+      "AC94BE70F277CA6A08FA0FAD154EE112": {
+        "sender": "54013592617050@lid",
+        "text": "Simm",
+        "pushName": "🐦‍🔥",
+        "timestamp": 1788220789089
+      },
+      "AC5E15D7D7503DEBC2F6F058D1EFC1AA": {
+        "sender": "67392566734987@lid",
+        "text": "1,2,3 ou 4 kkkkk",
+        "pushName": "🙏☝️",
+        "timestamp": 1788220814451
       }
     },
     "120363428464897153@g.us": {
@@ -23179,6 +23210,12 @@
         "text": "Kkk",
         "pushName": "pãobão 😂",
         "timestamp": 1788220775666
+      },
+      "AC3FCB76BE1BC8C678E069C269FB5366": {
+        "sender": "222595437858867@lid",
+        "text": "Eu vi primeiro. Tira o zóio",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1788220816936
       }
     },
     "120363409727467494@g.us": {},
@@ -24717,8 +24754,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788220783096,
-    "120363428464897153@g.us": 1788220775666,
+    "120363432018531082@g.us": 1788220814451,
+    "120363428464897153@g.us": 1788220816936,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788219832739,
     "120363411233423709@g.us": 1787113553426,
