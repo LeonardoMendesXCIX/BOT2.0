@@ -3256,9 +3256,9 @@
         "total": 9
       },
       "129373172711439": {
-        "text": 978,
-        "media": 258,
-        "total": 1236
+        "text": 979,
+        "media": 259,
+        "total": 1238
       },
       "16007578021977": {
         "text": 58,
@@ -3601,9 +3601,9 @@
         "total": 1
       },
       "190864487919667": {
-        "text": 86,
+        "text": 87,
         "media": 17,
-        "total": 103
+        "total": 104
       },
       "118515428286715": {
         "text": 22,
@@ -3687,8 +3687,8 @@
       },
       "138306604032063": {
         "text": 6,
-        "media": 2,
-        "total": 8
+        "media": 3,
+        "total": 9
       }
     },
     "120363409727467494@g.us": {
@@ -9826,7 +9826,9 @@
         "Juliano Perlin: Quem discutiu??",
         "Celiete Souza: O que tá pegando",
         "Camila Designer: @222595437858867 não está viajando?",
-        "Layaninha: A Lay"
+        "Layaninha: A Lay",
+        "Souza: Tô só observando",
+        "Celiete Souza: Loira entrando"
       ]
     },
     "120363409727467494@g.us": {
@@ -12763,6 +12765,18 @@
         "authorName": "Layaninha",
         "text": "A Lay",
         "timestamp": 1788224042114
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Tô só observando",
+        "timestamp": 1788224071153
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Loira entrando",
+        "timestamp": 1788224085564
       }
     ],
     "120363409727467494@g.us": [],
@@ -12874,7 +12888,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 1555,
-    "120363428464897153@g.us": 6787,
+    "120363428464897153@g.us": 6789,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2433,
     "120363411233423709@g.us": 5,
@@ -25065,6 +25079,18 @@
         "text": "A Lay",
         "pushName": "Layaninha",
         "timestamp": 1788224042121
+      },
+      "ACC45E3A721767AEDCB233F11D1CD6CD": {
+        "sender": "190864487919667@lid",
+        "text": "Tô só observando",
+        "pushName": "Souza",
+        "timestamp": 1788224071154
+      },
+      "AC0E8A056F66FA7851D0A5A1E4EA40B0": {
+        "sender": "129373172711439@lid",
+        "text": "Loira entrando",
+        "pushName": "Celiete Souza",
+        "timestamp": 1788224085564
       }
     },
     "120363409727467494@g.us": {},
@@ -26700,7 +26726,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1788223223828,
-    "120363428464897153@g.us": 1788224042114,
+    "120363428464897153@g.us": 1788224085564,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788224039314,
     "120363411233423709@g.us": 1787113553426,
