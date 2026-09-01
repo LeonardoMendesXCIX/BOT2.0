@@ -2629,9 +2629,9 @@
         "total": 42
       },
       "190864487919667": {
-        "text": 512,
-        "media": 60,
-        "total": 572
+        "text": 513,
+        "media": 61,
+        "total": 574
       },
       "82227819987089": {
         "text": 2,
@@ -7497,7 +7497,6 @@
         "Rodolfo Carmona Mazon: Geral é de Sorocaba?"
       ],
       "31/08/2026": [
-        "~🌪️𝓁𝒶𝓎𝒽🦋: vou falar",
         "Rafael Moura: Onde?",
         "Anderson: Nova Iguaçu baixada fluminense perto do top shopping mano",
         "Rafael Moura: Legal",
@@ -7996,7 +7995,8 @@
         "Gabi 💋: Boa festa BB, use camisinha",
         "Kelvin Luan Ribeiro Da Ro: Hj nn vou pega ninguém nn só vim pra da uma olhada no estabelecimento novo",
         "Leandro: !megafone boa noite e sejam todos muito bem-vindos novos integrantes, fiquem a vontade e 👀 de olho nas regras!! É EXTREMAMENTE PROIBIDO INVADIR PRIVADO, SUJEITO A REMOÇÃO SEM AVISO PRÉVIO E SEM POSSI",
-        "Sabrina Bartolucci 🤌🏻: Grupo aberto!\n@all"
+        "Sabrina Bartolucci 🤌🏻: Grupo aberto!\n@all",
+        "Souza: Tô entendendo é nada"
       ]
     },
     "120363428464897153@g.us": {
@@ -11938,6 +11938,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Grupo aberto!\n@all",
         "timestamp": 1788230625590
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Tô entendendo é nada",
+        "timestamp": 1788230752106
       }
     ],
     "120363428464897153@g.us": [
@@ -12427,7 +12433,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 1556,
+    "120363432018531082@g.us": 1557,
     "120363428464897153@g.us": 7057,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2450,
@@ -22449,6 +22455,12 @@
         "text": "Grupo aberto!\n@all",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1788230625594
+      },
+      "AC4CCB26F5BB8431E9A1E7C2632DDFC4": {
+        "sender": "190864487919667@lid",
+        "text": "Tô entendendo é nada",
+        "pushName": "Souza",
+        "timestamp": 1788230752106
       }
     },
     "120363428464897153@g.us": {
@@ -27979,7 +27991,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788230725508,
+    "120363432018531082@g.us": 1788230752106,
     "120363428464897153@g.us": 1788229508221,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788227152321,
