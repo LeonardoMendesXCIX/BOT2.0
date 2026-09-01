@@ -2629,9 +2629,9 @@
         "total": 42
       },
       "190864487919667": {
-        "text": 509,
+        "text": 510,
         "media": 59,
-        "total": 568
+        "total": 569
       },
       "82227819987089": {
         "text": 2,
@@ -3596,9 +3596,9 @@
         "total": 1
       },
       "190864487919667": {
-        "text": 76,
+        "text": 79,
         "media": 15,
-        "total": 91
+        "total": 94
       },
       "118515428286715": {
         "text": 22,
@@ -3617,8 +3617,8 @@
       },
       "75797868064796": {
         "text": 7,
-        "media": 28,
-        "total": 35
+        "media": 29,
+        "total": 36
       },
       "153764728184839": {
         "text": 4,
@@ -3661,9 +3661,9 @@
         "total": 7
       },
       "166452229341300": {
-        "text": 39,
+        "text": 40,
         "media": 4,
-        "total": 43
+        "total": 44
       },
       "109508781207612": {
         "text": 25,
@@ -7487,7 +7487,6 @@
         "Rodolfo Carmona Mazon: Geral é de Sorocaba?"
       ],
       "31/08/2026": [
-        "jaciara: Sou mulher e mãe o suficiente pra criar e sustentar",
         "Anderson: Ninguém ta falando isso",
         "Anderson: Exatamente",
         "Rafael Moura: Ai vai tirar o pai biologico? Vc acha certo ele fazer um filho e não arcar com os custos?",
@@ -7986,7 +7985,8 @@
         "Souza: Buenas noites",
         "Leandro: !sa 💥 BEM-VINDO(A) AO GRUPO! 🫡\n\n✨ Queremos conhecer você! ✨\n\n📸 Sua foto:\n💬 Nome:\n🎂 Idade:\n📍 De onde sou:\n\n*🫶🏻 Seja bem-vindo(a)!*\n\n✨ Sinta-se à vontade para interagir, conhecer a galera e faze",
         "Souza: Bem vindos aos novatos",
-        "Leandro: !todos"
+        "Leandro: !todos",
+        "Souza: Que susto"
       ]
     },
     "120363428464897153@g.us": {
@@ -9620,7 +9620,11 @@
         "Layaninha: Sobrenome mesmo que o meu",
         "⚡: Good",
         "Layaninha: Cheguei hoje aqui \nAinda estou me adaptando",
-        "Souza: Assim, bem vinda"
+        "Souza: Assim, bem vinda",
+        "Souza: Se divirta",
+        "Souza: E cuidado",
+        "Souza: Tem uns malucos aqui",
+        "Layaninha: Remédio pra maluco e uma maluca e meia"
       ]
     },
     "120363409727467494@g.us": {
@@ -12089,6 +12093,12 @@
         "authorName": "Leandro",
         "text": "!todos",
         "timestamp": 1788221529179
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Que susto",
+        "timestamp": 1788221552314
       }
     ],
     "120363428464897153@g.us": [
@@ -12793,6 +12803,30 @@
         "authorName": "Souza",
         "text": "Assim, bem vinda",
         "timestamp": 1788221533609
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Se divirta",
+        "timestamp": 1788221536002
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "E cuidado",
+        "timestamp": 1788221539054
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Tem uns malucos aqui",
+        "timestamp": 1788221543087
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Layaninha",
+        "text": "Remédio pra maluco e uma maluca e meia",
+        "timestamp": 1788221556094
       }
     ],
     "120363409727467494@g.us": [],
@@ -12861,8 +12895,8 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 1536,
-    "120363428464897153@g.us": 6591,
+    "120363432018531082@g.us": 1537,
+    "120363428464897153@g.us": 6595,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2417,
     "120363411233423709@g.us": 5,
@@ -22763,6 +22797,12 @@
         "text": "!todos",
         "pushName": "Leandro",
         "timestamp": 1788221529179
+      },
+      "AC01B593910FBC5DD85482D110037DE0": {
+        "sender": "190864487919667@lid",
+        "text": "Que susto",
+        "pushName": "Souza",
+        "timestamp": 1788221552314
       }
     },
     "120363428464897153@g.us": {
@@ -23761,6 +23801,30 @@
         "text": "Assim, bem vinda",
         "pushName": "Souza",
         "timestamp": 1788221533609
+      },
+      "AC9C7DFCF18F3E0CB85B1B3F417B792D": {
+        "sender": "190864487919667@lid",
+        "text": "Se divirta",
+        "pushName": "Souza",
+        "timestamp": 1788221536002
+      },
+      "ACC475FD1F40ECACAE0E4A2446852AE0": {
+        "sender": "190864487919667@lid",
+        "text": "E cuidado",
+        "pushName": "Souza",
+        "timestamp": 1788221539054
+      },
+      "AC88F899E13332728902A6A2053F5F5E": {
+        "sender": "190864487919667@lid",
+        "text": "Tem uns malucos aqui",
+        "pushName": "Souza",
+        "timestamp": 1788221543087
+      },
+      "A53887747C950CB53D86A91C6C34239A": {
+        "sender": "166452229341300@lid",
+        "text": "Remédio pra maluco e uma maluca e meia",
+        "pushName": "Layaninha",
+        "timestamp": 1788221556094
       }
     },
     "120363409727467494@g.us": {},
@@ -25299,8 +25363,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788221529179,
-    "120363428464897153@g.us": 1788221533609,
+    "120363432018531082@g.us": 1788221552314,
+    "120363428464897153@g.us": 1788221556094,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788219832739,
     "120363411233423709@g.us": 1787113553426,
