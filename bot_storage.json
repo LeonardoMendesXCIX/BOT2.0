@@ -3217,8 +3217,8 @@
       },
       "92629643563147": {
         "text": 585,
-        "media": 418,
-        "total": 1003
+        "media": 419,
+        "total": 1004
       },
       "122552932372575": {
         "text": 0,
@@ -3666,9 +3666,9 @@
         "total": 7
       },
       "166452229341300": {
-        "text": 68,
+        "text": 69,
         "media": 9,
-        "total": 77
+        "total": 78
       },
       "109508781207612": {
         "text": 32,
@@ -3725,14 +3725,14 @@
         "total": 662
       },
       "5511927018683": {
-        "text": 693,
+        "text": 694,
         "media": 141,
-        "total": 834
+        "total": 835
       },
       "145381035905262": {
-        "text": 522,
+        "text": 523,
         "media": 167,
-        "total": 689
+        "total": 690
       },
       "53537388122141": {
         "text": 897,
@@ -9800,7 +9800,8 @@
         "Juliano Perlin: Dou gaucho",
         "Juliano Perlin: Sou*",
         "Gabi 💋: @166452229341300 KD a sua foto",
-        "Souza: 👀"
+        "Souza: 👀",
+        "Layaninha: @81991328395336 \nApareça"
       ]
     },
     "120363409727467494@g.us": {
@@ -11239,7 +11240,9 @@
         "Gabriel: Bicho é uma besta enjaulada",
         "Leandro: @all",
         "Leandro: Pedi para ela tratar contigo @53537388122141",
-        "Gabriel: Essa inseta veio no meu"
+        "Gabriel: Essa inseta veio no meu",
+        "Gabriel: 1",
+        "Leandro: Eu já mandei um \"Primeiramente boa noite\""
       ]
     },
     "120363411233423709@g.us": {},
@@ -11844,42 +11847,6 @@
       }
     ],
     "120363428464897153@g.us": [
-      {
-        "authorNum": "109508781207612",
-        "authorName": "pãobão 😂",
-        "text": "Tô esperando o endereço kkk",
-        "timestamp": 1788221946629
-      },
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Layaninha",
-        "text": "Opa não e o tanquinho",
-        "timestamp": 1788221946924
-      },
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Layaninha",
-        "text": "Gosto assim",
-        "timestamp": 1788221949360
-      },
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Layaninha",
-        "text": "👍🏾",
-        "timestamp": 1788221951573
-      },
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Layaninha",
-        "text": "Corpo malhado não me convém",
-        "timestamp": 1788221957752
-      },
-      {
-        "authorNum": "109508781207612",
-        "authorName": "pãobão 😂",
-        "text": "Kkkk já tá podendo fica pelado aq ?",
-        "timestamp": 1788221971434
-      },
       {
         "authorNum": "190864487919667",
         "authorName": "Souza",
@@ -12803,6 +12770,12 @@
         "authorName": "Souza",
         "text": "👀",
         "timestamp": 1788223743974
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Layaninha",
+        "text": "@81991328395336 \nApareça",
+        "timestamp": 1788223781816
       }
     ],
     "120363409727467494@g.us": [],
@@ -12824,6 +12797,18 @@
         "authorName": "Gabriel",
         "text": "Essa inseta veio no meu",
         "timestamp": 1788223506362
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "1",
+        "timestamp": 1788223788885
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Eu já mandei um \"Primeiramente boa noite\"",
+        "timestamp": 1788223789951
       }
     ],
     "120363411233423709@g.us": [],
@@ -12842,9 +12827,9 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 1555,
-    "120363428464897153@g.us": 6761,
+    "120363428464897153@g.us": 6762,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2421,
+    "120363412288900422@g.us": 2423,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 28,
@@ -24877,6 +24862,12 @@
         "text": "👀",
         "pushName": "Souza",
         "timestamp": 1788223743982
+      },
+      "A59D08078421B35F60929D8CC88C41E2": {
+        "sender": "166452229341300@lid",
+        "text": "@81991328395336 \nApareça",
+        "pushName": "Layaninha",
+        "timestamp": 1788223781820
       }
     },
     "120363409727467494@g.us": {},
@@ -25990,6 +25981,18 @@
         "text": "Essa inseta veio no meu",
         "pushName": "Gabriel",
         "timestamp": 1788223506363
+      },
+      "AC926CE9527747AB60B6D64DEBBC024D": {
+        "sender": "145381035905262@lid",
+        "text": "1",
+        "pushName": "Gabriel",
+        "timestamp": 1788223788885
+      },
+      "A50CBE47617CB4A39E2FBD6D409888E7": {
+        "sender": "54259127210155@lid",
+        "text": "Eu já mandei um \"Primeiramente boa noite\"",
+        "pushName": "Leandro",
+        "timestamp": 1788223789951
       }
     },
     "120363411233423709@g.us": {},
@@ -26440,9 +26443,9 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1788223223828,
-    "120363428464897153@g.us": 1788223743974,
+    "120363428464897153@g.us": 1788223781816,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1788223506362,
+    "120363412288900422@g.us": 1788223789951,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
