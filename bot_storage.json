@@ -3301,9 +3301,9 @@
         "total": 95
       },
       "222595437858867": {
-        "text": 190,
-        "media": 14,
-        "total": 204
+        "text": 192,
+        "media": 15,
+        "total": 207
       },
       "104003018985518": {
         "text": 40,
@@ -3672,8 +3672,8 @@
       },
       "108461127897146": {
         "text": 8,
-        "media": 1,
-        "total": 9
+        "media": 2,
+        "total": 10
       },
       "111141304930334": {
         "text": 10,
@@ -9717,7 +9717,9 @@
         "Juliano Perlin: Eu tropeçei aqui e fui cair la no pv da @53537388122141 🤭",
         "Juliano Perlin: 🥰",
         "Juliano Perlin: 🤣🤣🤣🤣🤣",
-        "Layaninha: A dona do kbaré chegar pra bota ordem"
+        "Layaninha: A dona do kbaré chegar pra bota ordem",
+        "Juliano Perlin: Eu vou no pv de alguem",
+        "Juliano Perlin: Vou sortear aqui"
       ]
     },
     "120363409727467494@g.us": {
@@ -11801,12 +11803,6 @@
     ],
     "120363428464897153@g.us": [
       {
-        "authorNum": "111141304930334",
-        "authorName": "⚡",
-        "text": "Sei como é \nTbm trabalho com o q amo",
-        "timestamp": 1788221183190
-      },
-      {
         "authorNum": "16007578021977",
         "authorName": "Jean Correa",
         "text": "Que raba nossa senhora",
@@ -12531,6 +12527,18 @@
         "authorName": "Layaninha",
         "text": "A dona do kbaré chegar pra bota ordem",
         "timestamp": 1788222947135
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Eu vou no pv de alguem",
+        "timestamp": 1788222979317
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Vou sortear aqui",
+        "timestamp": 1788222985136
       }
     ],
     "120363409727467494@g.us": [],
@@ -12558,7 +12566,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 1555,
-    "120363428464897153@g.us": 6688,
+    "120363428464897153@g.us": 6690,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2418,
     "120363411233423709@g.us": 5,
@@ -24153,6 +24161,18 @@
         "text": "A dona do kbaré chegar pra bota ordem",
         "pushName": "Layaninha",
         "timestamp": 1788222947135
+      },
+      "ACD3346FF6092E95FEFCF54B35F42237": {
+        "sender": "222595437858867@lid",
+        "text": "Eu vou no pv de alguem",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1788222979318
+      },
+      "AC3074B3CB7F1C5C49998952C4A0502C": {
+        "sender": "222595437858867@lid",
+        "text": "Vou sortear aqui",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1788222985136
       }
     },
     "120363409727467494@g.us": {},
@@ -25698,7 +25718,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1788222448169,
-    "120363428464897153@g.us": 1788222947135,
+    "120363428464897153@g.us": 1788222995013,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788221779631,
     "120363411233423709@g.us": 1787113553426,
