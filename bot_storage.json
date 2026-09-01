@@ -3217,8 +3217,8 @@
       },
       "92629643563147": {
         "text": 585,
-        "media": 415,
-        "total": 1000
+        "media": 418,
+        "total": 1003
       },
       "122552932372575": {
         "text": 0,
@@ -3306,9 +3306,9 @@
         "total": 95
       },
       "222595437858867": {
-        "text": 210,
+        "text": 213,
         "media": 16,
-        "total": 226
+        "total": 229
       },
       "104003018985518": {
         "text": 40,
@@ -3676,19 +3676,19 @@
         "total": 40
       },
       "108461127897146": {
-        "text": 11,
+        "text": 12,
         "media": 4,
-        "total": 15
+        "total": 16
       },
       "111141304930334": {
-        "text": 13,
+        "text": 14,
         "media": 0,
-        "total": 13
+        "total": 14
       },
       "138306604032063": {
-        "text": 4,
+        "text": 5,
         "media": 1,
-        "total": 5
+        "total": 6
       }
     },
     "120363409727467494@g.us": {
@@ -9794,7 +9794,11 @@
         "jaciara: Foi pego com a boca na botija kkkkkkk",
         "Juliano Perlin: 🤣🤣🤣🤣",
         "Gabi 💋: Barriga bonita",
-        "Jandilson Santos: Brigado meu amor"
+        "Jandilson Santos: Brigado meu amor",
+        "⚡: Mineiro?",
+        "Juliano Perlin: Eitaa",
+        "Juliano Perlin: Dou gaucho",
+        "Juliano Perlin: Sou*"
       ]
     },
     "120363409727467494@g.us": {
@@ -12767,6 +12771,30 @@
         "authorName": "Jandilson Santos",
         "text": "Brigado meu amor",
         "timestamp": 1788223595432
+      },
+      {
+        "authorNum": "111141304930334",
+        "authorName": "⚡",
+        "text": "Mineiro?",
+        "timestamp": 1788223623505
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Eitaa",
+        "timestamp": 1788223657501
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Dou gaucho",
+        "timestamp": 1788223669286
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Sou*",
+        "timestamp": 1788223674272
       }
     ],
     "120363409727467494@g.us": [],
@@ -12806,7 +12834,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 1555,
-    "120363428464897153@g.us": 6755,
+    "120363428464897153@g.us": 6759,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2421,
     "120363411233423709@g.us": 5,
@@ -24805,6 +24833,30 @@
         "text": "Brigado meu amor",
         "pushName": "Jandilson Santos",
         "timestamp": 1788223595436
+      },
+      "AC7EDF1B05EC0BE38674C67368A99F89": {
+        "sender": "111141304930334@lid",
+        "text": "Mineiro?",
+        "pushName": "⚡",
+        "timestamp": 1788223623505
+      },
+      "ACD8F7611663F151A80B0D666C853C86": {
+        "sender": "222595437858867@lid",
+        "text": "Eitaa",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1788223657501
+      },
+      "AC086E24A2946BAD936E707D439A0770": {
+        "sender": "222595437858867@lid",
+        "text": "Dou gaucho",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1788223669289
+      },
+      "AC47E24762DE442F94744BCD867803A7": {
+        "sender": "222595437858867@lid",
+        "text": "Sou*",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1788223674272
       }
     },
     "120363409727467494@g.us": {},
@@ -26368,7 +26420,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1788223223828,
-    "120363428464897153@g.us": 1788223595432,
+    "120363428464897153@g.us": 1788223674272,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788223506362,
     "120363411233423709@g.us": 1787113553426,
