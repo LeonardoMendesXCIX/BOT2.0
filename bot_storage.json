@@ -3331,9 +3331,9 @@
         "total": 2
       },
       "53537388122141": {
-        "text": 91,
+        "text": 93,
         "media": 0,
-        "total": 91
+        "total": 93
       },
       "253626509443178": {
         "text": 3,
@@ -3612,8 +3612,8 @@
       },
       "274384656834700": {
         "text": 98,
-        "media": 32,
-        "total": 130
+        "media": 33,
+        "total": 131
       },
       "34626781356198": {
         "text": 0,
@@ -9915,7 +9915,9 @@
         "Camila Designer: Duvido",
         "~Gaara: Mulher mulher.",
         "Camila Designer: @129373172711439 dúvida também?🤣🤣🤣",
-        "Celiete Souza: Sempre na dúvida"
+        "Celiete Souza: Sempre na dúvida",
+        "Sabrina Bartolucci 🤌🏻: Eu?",
+        "Sabrina Bartolucci 🤌🏻: Precisa falar comigo?"
       ]
     },
     "120363409727467494@g.us": {
@@ -11880,18 +11882,6 @@
     "120363432018531082@g.us": [],
     "120363428464897153@g.us": [
       {
-        "authorNum": "138306604032063",
-        "authorName": "Jandilson Santos",
-        "text": "Delicia",
-        "timestamp": 1788225136048
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Loira 💋🩷",
-        "timestamp": 1788225155115
-      },
-      {
         "authorNum": "247020967165997",
         "authorName": "Gabi 💋",
         "text": "Camila 💋🩷",
@@ -12190,6 +12180,18 @@
         "authorName": "Celiete Souza",
         "text": "Sempre na dúvida",
         "timestamp": 1788226921640
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Eu?",
+        "timestamp": 1788226953785
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Precisa falar comigo?",
+        "timestamp": 1788226967036
       }
     ],
     "120363409727467494@g.us": [],
@@ -12253,7 +12255,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 1555,
-    "120363428464897153@g.us": 6876,
+    "120363428464897153@g.us": 6878,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2444,
     "120363411233423709@g.us": 5,
@@ -24976,6 +24978,18 @@
         "text": "Sempre na dúvida",
         "pushName": "Celiete Souza",
         "timestamp": 1788226921640
+      },
+      "AC38F4D855531817948939410B2D00A0": {
+        "sender": "53537388122141@lid",
+        "text": "Eu?",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1788226953785
+      },
+      "ACDF9519E4BC71EEAD105C42E9374A65": {
+        "sender": "53537388122141@lid",
+        "text": "Precisa falar comigo?",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1788226967036
       }
     },
     "120363409727467494@g.us": {},
@@ -26677,7 +26691,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1788226077175,
-    "120363428464897153@g.us": 1788226947069,
+    "120363428464897153@g.us": 1788226972059,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788226184183,
     "120363411233423709@g.us": 1787113553426,
