@@ -3146,9 +3146,9 @@
         "total": 23
       },
       "270377049690114": {
-        "text": 352,
+        "text": 354,
         "media": 61,
-        "total": 413
+        "total": 415
       },
       "76914341503187": {
         "text": 27,
@@ -3641,9 +3641,9 @@
         "total": 3
       },
       "247020967165997": {
-        "text": 29,
+        "text": 30,
         "media": 2,
-        "total": 31
+        "total": 32
       },
       "272048228188398": {
         "text": 5,
@@ -3661,9 +3661,9 @@
         "total": 7
       },
       "166452229341300": {
-        "text": 56,
-        "media": 7,
-        "total": 63
+        "text": 57,
+        "media": 8,
+        "total": 65
       },
       "109508781207612": {
         "text": 32,
@@ -3672,8 +3672,8 @@
       },
       "108461127897146": {
         "text": 8,
-        "media": 3,
-        "total": 11
+        "media": 4,
+        "total": 12
       },
       "111141304930334": {
         "text": 11,
@@ -9729,7 +9729,11 @@
         "Gabi 💋: Quem ?",
         "Camila Designer: 5",
         "Vini 👑🏁🙌⚽: O caba manda mensagem, trata bem, manda mensagem pra mina, responde rápido, dar carinho, atenção, é amoroso e a mina ainda reclama!! 😔😔✊🏻✊🏻",
-        "Gabi 💋: 4"
+        "Gabi 💋: 4",
+        "Vini 👑🏁🙌⚽: 4",
+        "Gabi 💋: Eita",
+        "Layaninha: 4000",
+        "Vini 👑🏁🙌⚽: 🤔🤔👀👀"
       ]
     },
     "120363409727467494@g.us": {
@@ -11813,24 +11817,6 @@
     ],
     "120363428464897153@g.us": [
       {
-        "authorNum": "166452229341300",
-        "authorName": "Layaninha",
-        "text": "Aí tu abre o kbaré enquanto ela chega né",
-        "timestamp": 1788221277853
-      },
-      {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "To preocupado com vc!! Vc ta com a rizada bem amarela",
-        "timestamp": 1788221284828
-      },
-      {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "Kkkkkkkk",
-        "timestamp": 1788221287868
-      },
-      {
         "authorNum": "129373172711439",
         "authorName": "Celiete Souza",
         "text": "Boa noite gente",
@@ -12579,6 +12565,30 @@
         "authorName": "Gabi 💋",
         "text": "4",
         "timestamp": 1788223070039
+      },
+      {
+        "authorNum": "270377049690114",
+        "authorName": "Vini 👑🏁🙌⚽",
+        "text": "4",
+        "timestamp": 1788223077738
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Eita",
+        "timestamp": 1788223088219
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Layaninha",
+        "text": "4000",
+        "timestamp": 1788223114140
+      },
+      {
+        "authorNum": "270377049690114",
+        "authorName": "Vini 👑🏁🙌⚽",
+        "text": "🤔🤔👀👀",
+        "timestamp": 1788223131405
       }
     ],
     "120363409727467494@g.us": [],
@@ -12606,7 +12616,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 1555,
-    "120363428464897153@g.us": 6700,
+    "120363428464897153@g.us": 6704,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2418,
     "120363411233423709@g.us": 5,
@@ -24273,6 +24283,30 @@
         "text": "4",
         "pushName": "Gabi 💋",
         "timestamp": 1788223070039
+      },
+      "AC8243C0C065A9DBF52460BD01618089": {
+        "sender": "270377049690114@lid",
+        "text": "4",
+        "pushName": "Vini 👑🏁🙌⚽",
+        "timestamp": 1788223077738
+      },
+      "AC18D44A8AAF03A49A55DCA6A832BA4A": {
+        "sender": "247020967165997@lid",
+        "text": "Eita",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788223088220
+      },
+      "A5A5AEE987C04C72F794FAC568F2E67D": {
+        "sender": "166452229341300@lid",
+        "text": "4000",
+        "pushName": "Layaninha",
+        "timestamp": 1788223114153
+      },
+      "AC43E5998DC579A25E48F3B0CE89EFBE": {
+        "sender": "270377049690114@lid",
+        "text": "🤔🤔👀👀",
+        "pushName": "Vini 👑🏁🙌⚽",
+        "timestamp": 1788223131415
       }
     },
     "120363409727467494@g.us": {},
@@ -25818,7 +25852,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1788222448169,
-    "120363428464897153@g.us": 1788223070039,
+    "120363428464897153@g.us": 1788223131405,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788221779631,
     "120363411233423709@g.us": 1787113553426,
