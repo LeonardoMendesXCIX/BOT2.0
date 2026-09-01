@@ -3216,9 +3216,9 @@
         "total": 1
       },
       "92629643563147": {
-        "text": 615,
+        "text": 617,
         "media": 465,
-        "total": 1080
+        "total": 1082
       },
       "122552932372575": {
         "text": 0,
@@ -3257,8 +3257,8 @@
       },
       "129373172711439": {
         "text": 1001,
-        "media": 277,
-        "total": 1278
+        "media": 278,
+        "total": 1279
       },
       "16007578021977": {
         "text": 58,
@@ -3646,9 +3646,9 @@
         "total": 13
       },
       "247020967165997": {
-        "text": 67,
+        "text": 68,
         "media": 7,
-        "total": 74
+        "total": 75
       },
       "272048228188398": {
         "text": 6,
@@ -9943,7 +9943,10 @@
         "Layaninha: Gostei viu",
         "Camila Designer: Depois eu me pergunto pra quê vou abrir essas fotos de visualização única 🤣🤣🤣",
         "Gabi 💋: Meu Deus hoje vocês não esconderam a cobra só mostraram né",
-        "~Gaara: Duvido e não gostou."
+        "~Gaara: Duvido e não gostou.",
+        "Camila Designer: E tem para todos os gostos 🤣🤣🤣🤣",
+        "Gabi 💋: De todas as cores e tamanhos e grossuras",
+        "Camila Designer: Só pra alegrar as amigas 🤣🤣🤣"
       ]
     },
     "120363409727467494@g.us": {
@@ -12248,28 +12251,28 @@
         "authorName": "~Gaara",
         "text": "Duvido e não gostou.",
         "timestamp": 1788227997646
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "E tem para todos os gostos 🤣🤣🤣🤣",
+        "timestamp": 1788228010433
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "De todas as cores e tamanhos e grossuras",
+        "timestamp": 1788228022283
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Só pra alegrar as amigas 🤣🤣🤣",
+        "timestamp": 1788228026885
       }
     ],
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Não sei ainda",
-        "timestamp": 1788226067562
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Aparentemente quem está com o celular dela é a irmã dela",
-        "timestamp": 1788226101798
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Na verdade, alguém pegou o celular dela, não sei se foi algum colega ou se roubaram",
-        "timestamp": 1788226184183
-      },
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina Bartolucci 🤌🏻",
@@ -12323,7 +12326,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 1555,
-    "120363428464897153@g.us": 6904,
+    "120363428464897153@g.us": 6907,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2450,
     "120363411233423709@g.us": 5,
@@ -25214,6 +25217,24 @@
         "text": "Duvido e não gostou.",
         "pushName": "~Gaara",
         "timestamp": 1788227997647
+      },
+      "2A7F80DE31A10C15D0A7": {
+        "sender": "92629643563147@lid",
+        "text": "E tem para todos os gostos 🤣🤣🤣🤣",
+        "pushName": "Camila Designer",
+        "timestamp": 1788228010433
+      },
+      "ACE523C0C5CF856528BBB5A1BAE823AC": {
+        "sender": "247020967165997@lid",
+        "text": "De todas as cores e tamanhos e grossuras",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788228022283
+      },
+      "2A2760FA404F5145526D": {
+        "sender": "92629643563147@lid",
+        "text": "Só pra alegrar as amigas 🤣🤣🤣",
+        "pushName": "Camila Designer",
+        "timestamp": 1788228026885
       }
     },
     "120363409727467494@g.us": {},
@@ -26951,7 +26972,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1788226077175,
-    "120363428464897153@g.us": 1788227997646,
+    "120363428464897153@g.us": 1788228028490,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788227152321,
     "120363411233423709@g.us": 1787113553426,
