@@ -3216,9 +3216,9 @@
         "total": 1
       },
       "92629643563147": {
-        "text": 624,
-        "media": 468,
-        "total": 1092
+        "text": 625,
+        "media": 471,
+        "total": 1096
       },
       "122552932372575": {
         "text": 0,
@@ -3257,8 +3257,8 @@
       },
       "129373172711439": {
         "text": 1009,
-        "media": 282,
-        "total": 1291
+        "media": 283,
+        "total": 1292
       },
       "16007578021977": {
         "text": 58,
@@ -3306,9 +3306,9 @@
         "total": 95
       },
       "222595437858867": {
-        "text": 225,
+        "text": 227,
         "media": 16,
-        "total": 241
+        "total": 243
       },
       "104003018985518": {
         "text": 40,
@@ -3671,9 +3671,9 @@
         "total": 106
       },
       "109508781207612": {
-        "text": 35,
+        "text": 37,
         "media": 9,
-        "total": 44
+        "total": 46
       },
       "108461127897146": {
         "text": 23,
@@ -9466,11 +9466,6 @@
       ],
       "31/08/2026": [
         "Leandro: !del",
-        "Leandro: !abrir 20:30",
-        "Leandro: !fechar 03:00",
-        "Leandro: !sa",
-        "Leandro: !del",
-        "Leandro: !del",
         "Leandro: !msgremoveadm Xiii, {membro} fez algo errado e foi removido! 🚫",
         "Leandro: !del",
         "Leandro: !del",
@@ -9964,7 +9959,12 @@
         "Camila Designer: Será que mandamos novamente?",
         "Juliano Perlin: Manda de novo",
         "Celiete Souza: Estou pensando",
-        "Juliano Perlin: Simmm"
+        "Juliano Perlin: Simmm",
+        "pãobão 😂: Sim com certt",
+        "Juliano Perlin: Custa nada🥹",
+        "Camila Designer: Sei não",
+        "Juliano Perlin: Manda de novo",
+        "pãobão 😂: Nunca pedimos ND pra vcs kkk"
       ]
     },
     "120363409727467494@g.us": {
@@ -11935,12 +11935,6 @@
     "120363432018531082@g.us": [],
     "120363428464897153@g.us": [
       {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Se quiser pode tirar kkk",
-        "timestamp": 1788226535015
-      },
-      {
         "authorNum": "83911531044906",
         "authorName": "~Gaara",
         "text": "Olha que eu tiro viu",
@@ -12287,6 +12281,36 @@
         "authorName": "Juliano Perlin",
         "text": "Simmm",
         "timestamp": 1788228320555
+      },
+      {
+        "authorNum": "109508781207612",
+        "authorName": "pãobão 😂",
+        "text": "Sim com certt",
+        "timestamp": 1788228333286
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Custa nada🥹",
+        "timestamp": 1788228339957
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Sei não",
+        "timestamp": 1788228342764
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Manda de novo",
+        "timestamp": 1788228346266
+      },
+      {
+        "authorNum": "109508781207612",
+        "authorName": "pãobão 😂",
+        "text": "Nunca pedimos ND pra vcs kkk",
+        "timestamp": 1788228352245
       }
     ],
     "120363409727467494@g.us": [],
@@ -12344,7 +12368,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 1555,
-    "120363428464897153@g.us": 6929,
+    "120363428464897153@g.us": 6934,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2450,
     "120363411233423709@g.us": 5,
@@ -25385,6 +25409,36 @@
         "text": "Simmm",
         "pushName": "Juliano Perlin",
         "timestamp": 1788228320556
+      },
+      "ACBC63BC214AD617D36E6231767B26CC": {
+        "sender": "109508781207612@lid",
+        "text": "Sim com certt",
+        "pushName": "pãobão 😂",
+        "timestamp": 1788228333286
+      },
+      "AC6387A977545F51C89F92829BE18E63": {
+        "sender": "222595437858867@lid",
+        "text": "Custa nada🥹",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1788228339957
+      },
+      "2A169055CF05F63B6306": {
+        "sender": "92629643563147@lid",
+        "text": "Sei não",
+        "pushName": "Camila Designer",
+        "timestamp": 1788228342765
+      },
+      "ACDE99B2DEFA02EB6D7A16F16FFD50AE": {
+        "sender": "222595437858867@lid",
+        "text": "Manda de novo",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1788228346266
+      },
+      "AC019EE48E8D8A6FCE924B2A41FB939D": {
+        "sender": "109508781207612@lid",
+        "text": "Nunca pedimos ND pra vcs kkk",
+        "pushName": "pãobão 😂",
+        "timestamp": 1788228352245
       }
     },
     "120363409727467494@g.us": {},
@@ -27122,7 +27176,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1788226077175,
-    "120363428464897153@g.us": 1788228323452,
+    "120363428464897153@g.us": 1788228357890,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788227152321,
     "120363411233423709@g.us": 1787113553426,
