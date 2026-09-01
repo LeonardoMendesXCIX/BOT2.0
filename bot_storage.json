@@ -3216,9 +3216,9 @@
         "total": 1
       },
       "92629643563147": {
-        "text": 642,
+        "text": 643,
         "media": 484,
-        "total": 1126
+        "total": 1127
       },
       "122552932372575": {
         "text": 0,
@@ -3306,9 +3306,9 @@
         "total": 95
       },
       "222595437858867": {
-        "text": 236,
+        "text": 237,
         "media": 19,
-        "total": 255
+        "total": 256
       },
       "104003018985518": {
         "text": 40,
@@ -9465,8 +9465,6 @@
         "Leandro (+55 (11) 92701-8683): !del"
       ],
       "31/08/2026": [
-        "Layaninha: Obrigada",
-        "Layaninha: Meu amigo meu cabelo é luxo",
         "pãobão 😂: Concordo com isso",
         "Layaninha: Meus gastos e só nele",
         "Layaninha: Mulher como tu é linda",
@@ -9964,7 +9962,9 @@
         "Juliano Perlin: Valeu sim🤣🤣🤣",
         "pãobão 😂: 😂😂😂😂",
         "Celiete Souza: Só a tetinha",
-        "Celiete Souza: Cadê o peitoral"
+        "Celiete Souza: Cadê o peitoral",
+        "Juliano Perlin: 🤣🤣🤣🤣🤣🤣🤣🤣🤣",
+        "Camila Designer: 🤣🤣🤣🤣"
       ]
     },
     "120363409727467494@g.us": {
@@ -12593,6 +12593,18 @@
         "authorName": "Celiete Souza",
         "text": "Cadê o peitoral",
         "timestamp": 1788228960356
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "🤣🤣🤣🤣🤣🤣🤣🤣🤣",
+        "timestamp": 1788228981678
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "🤣🤣🤣🤣",
+        "timestamp": 1788228989195
       }
     ],
     "120363409727467494@g.us": [],
@@ -12626,7 +12638,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 1555,
-    "120363428464897153@g.us": 6988,
+    "120363428464897153@g.us": 6990,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2450,
     "120363411233423709@g.us": 5,
@@ -26021,6 +26033,18 @@
         "text": "Cadê o peitoral",
         "pushName": "Celiete Souza",
         "timestamp": 1788228960356
+      },
+      "ACA4F43961F3AF49E1BA51F1DBBF4A1D": {
+        "sender": "222595437858867@lid",
+        "text": "🤣🤣🤣🤣🤣🤣🤣🤣🤣",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1788228981678
+      },
+      "2AB8BAA16F4B60CC1F29": {
+        "sender": "92629643563147@lid",
+        "text": "🤣🤣🤣🤣",
+        "pushName": "Camila Designer",
+        "timestamp": 1788228989196
       }
     },
     "120363409727467494@g.us": {},
@@ -27758,7 +27782,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1788226077175,
-    "120363428464897153@g.us": 1788228960356,
+    "120363428464897153@g.us": 1788228989195,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788227152321,
     "120363411233423709@g.us": 1787113553426,
