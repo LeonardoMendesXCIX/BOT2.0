@@ -1629,9 +1629,9 @@
         "total": 3
       },
       "59623457439943": {
-        "text": 9,
+        "text": 11,
         "media": 0,
-        "total": 9
+        "total": 11
       },
       "217626076823769": {
         "text": 6,
@@ -8000,7 +8000,9 @@
       ],
       "01/09/2026": [
         "angierr: po, cheguei na hora que fecharam o kbare 😓",
-        "Gabi 💋: Amanhã tem mais"
+        "Gabi 💋: Amanhã tem mais",
+        "angierr: sim, vou aparecer mais cedo",
+        "angierr: hoje só deu tempo de ver as muie extorquindo o mano lá"
       ]
     },
     "120363428464897153@g.us": {
@@ -11982,6 +11984,18 @@
         "authorName": "Gabi 💋",
         "text": "Amanhã tem mais",
         "timestamp": 1788232233173
+      },
+      {
+        "authorNum": "59623457439943",
+        "authorName": "angierr",
+        "text": "sim, vou aparecer mais cedo",
+        "timestamp": 1788232326130
+      },
+      {
+        "authorNum": "59623457439943",
+        "authorName": "angierr",
+        "text": "hoje só deu tempo de ver as muie extorquindo o mano lá",
+        "timestamp": 1788232341716
       }
     ],
     "120363428464897153@g.us": [
@@ -12047,7 +12061,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 1562,
+    "120363432018531082@g.us": 1564,
     "120363428464897153@g.us": 7060,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2450,
@@ -22104,6 +22118,18 @@
         "text": "Amanhã tem mais",
         "pushName": "Gabi 💋",
         "timestamp": 1788232233173
+      },
+      "AC91ADA084B815B5CB8CD7BAAD9AE72F": {
+        "sender": "59623457439943@lid",
+        "text": "sim, vou aparecer mais cedo",
+        "pushName": "angierr",
+        "timestamp": 1788232326130
+      },
+      "AC9E94FDC3860EF23337DDD0881C8B4A": {
+        "sender": "59623457439943@lid",
+        "text": "hoje só deu tempo de ver as muie extorquindo o mano lá",
+        "pushName": "angierr",
+        "timestamp": 1788232341716
       }
     },
     "120363428464897153@g.us": {
@@ -27676,7 +27702,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788232233173,
+    "120363432018531082@g.us": 1788232341716,
     "120363428464897153@g.us": 1788231227765,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788227152321,
