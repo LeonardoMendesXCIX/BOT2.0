@@ -199,9 +199,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1869,
+        "text": 1870,
         "media": 521,
-        "total": 2390
+        "total": 2391
       },
       "81991328395336": {
         "text": 4168,
@@ -304,9 +304,9 @@
         "total": 5
       },
       "53537388122141": {
-        "text": 2576,
+        "text": 2577,
         "media": 354,
-        "total": 2930
+        "total": 2931
       },
       "252922705240205": {
         "text": 80,
@@ -2910,8 +2910,8 @@
       },
       "111141304930334": {
         "text": 5,
-        "media": 1,
-        "total": 6
+        "media": 2,
+        "total": 7
       },
       "54013592617050": {
         "text": 61,
@@ -3301,9 +3301,9 @@
         "total": 95
       },
       "222595437858867": {
-        "text": 170,
+        "text": 171,
         "media": 12,
-        "total": 182
+        "total": 183
       },
       "104003018985518": {
         "text": 40,
@@ -3666,14 +3666,14 @@
         "total": 30
       },
       "109508781207612": {
-        "text": 23,
+        "text": 24,
         "media": 3,
-        "total": 26
+        "total": 27
       },
       "108461127897146": {
-        "text": 1,
+        "text": 2,
         "media": 0,
-        "total": 1
+        "total": 2
       }
     },
     "120363409727467494@g.us": {
@@ -9574,7 +9574,10 @@
         "Anderson: @108461127897146 amor bora pra praia?",
         "Juliano Perlin: Q bacana🤗",
         "pãobão 😂: Tô tirando minha carteira E 🙏",
-        "Vini 👑🏁🙌⚽: Voltou com o ex??"
+        "Vini 👑🏁🙌⚽: Voltou com o ex??",
+        "pãobão 😂: Tá mais fácil , pq agora n tem tanto exigências mais",
+        "jaciara: Queroooo",
+        "Juliano Perlin: Nam abram..é eu todo lindo😎"
       ]
     },
     "120363409727467494@g.us": {
@@ -12699,6 +12702,24 @@
         "authorName": "Vini 👑🏁🙌⚽",
         "text": "Voltou com o ex??",
         "timestamp": 1788221004252
+      },
+      {
+        "authorNum": "109508781207612",
+        "authorName": "pãobão 😂",
+        "text": "Tá mais fácil , pq agora n tem tanto exigências mais",
+        "timestamp": 1788221017717
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Queroooo",
+        "timestamp": 1788221027608
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Nam abram..é eu todo lindo😎",
+        "timestamp": 1788221027911
       }
     ],
     "120363409727467494@g.us": [],
@@ -12780,7 +12801,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 1531,
-    "120363428464897153@g.us": 6550,
+    "120363428464897153@g.us": 6553,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2417,
     "120363411233423709@g.us": 5,
@@ -23403,6 +23424,24 @@
         "text": "Voltou com o ex??",
         "pushName": "Vini 👑🏁🙌⚽",
         "timestamp": 1788221004252
+      },
+      "ACFAF2B5D4C2D2EF6D3F81119CDDCBCD": {
+        "sender": "109508781207612@lid",
+        "text": "Tá mais fácil , pq agora n tem tanto exigências mais",
+        "pushName": "pãobão 😂",
+        "timestamp": 1788221017717
+      },
+      "AC511852F36FDACBF734E541D18E7479": {
+        "sender": "108461127897146@lid",
+        "text": "Queroooo",
+        "pushName": "jaciara",
+        "timestamp": 1788221027608
+      },
+      "AC504B28ABD9BFD461522E6E4DD51B13": {
+        "sender": "222595437858867@lid",
+        "text": "Nam abram..é eu todo lindo😎",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1788221027911
       }
     },
     "120363409727467494@g.us": {},
@@ -24941,8 +24980,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788220973380,
-    "120363428464897153@g.us": 1788221004252,
+    "120363432018531082@g.us": 1788221018339,
+    "120363428464897153@g.us": 1788221027911,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788219832739,
     "120363411233423709@g.us": 1787113553426,
