@@ -3611,9 +3611,9 @@
         "total": 26
       },
       "274384656834700": {
-        "text": 98,
+        "text": 99,
         "media": 34,
-        "total": 132
+        "total": 133
       },
       "34626781356198": {
         "text": 0,
@@ -3730,9 +3730,9 @@
         "total": 851
       },
       "145381035905262": {
-        "text": 532,
+        "text": 533,
         "media": 167,
-        "total": 699
+        "total": 700
       },
       "53537388122141": {
         "text": 899,
@@ -11381,7 +11381,8 @@
         "Leandro: Aparentemente quem está com o celular dela é a irmã dela",
         "Leandro: Na verdade, alguém pegou o celular dela, não sei se foi algum colega ou se roubaram",
         "Sabrina Bartolucci 🤌🏻: Maravilha!",
-        "Sabrina Bartolucci 🤌🏻: Mas nem me chamou"
+        "Sabrina Bartolucci 🤌🏻: Mas nem me chamou",
+        "Gabriel: Sabrina"
       ]
     },
     "120363411233423709@g.us": {},
@@ -12245,6 +12246,12 @@
         "authorName": "Sabrina Bartolucci 🤌🏻",
         "text": "Mas nem me chamou",
         "timestamp": 1788227015725
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Sabrina",
+        "timestamp": 1788227077966
       }
     ],
     "120363411233423709@g.us": [],
@@ -12265,7 +12272,7 @@
     "120363432018531082@g.us": 1555,
     "120363428464897153@g.us": 6878,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2446,
+    "120363412288900422@g.us": 2447,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 28,
@@ -26261,6 +26268,12 @@
         "text": "Mas nem me chamou",
         "pushName": "Sabrina Bartolucci 🤌🏻",
         "timestamp": 1788227015725
+      },
+      "AC84E427CB55C5E299808E428379F33F": {
+        "sender": "145381035905262@lid",
+        "text": "Sabrina",
+        "pushName": "Gabriel",
+        "timestamp": 1788227077966
       }
     },
     "120363411233423709@g.us": {},
@@ -26711,9 +26724,9 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1788226077175,
-    "120363428464897153@g.us": 1788227050695,
+    "120363428464897153@g.us": 1788227058797,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1788227015725,
+    "120363412288900422@g.us": 1788227077966,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
