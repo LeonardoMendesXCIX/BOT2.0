@@ -3216,9 +3216,9 @@
         "total": 1
       },
       "92629643563147": {
-        "text": 598,
-        "media": 433,
-        "total": 1031
+        "text": 599,
+        "media": 434,
+        "total": 1033
       },
       "122552932372575": {
         "text": 0,
@@ -3611,9 +3611,9 @@
         "total": 26
       },
       "274384656834700": {
-        "text": 84,
+        "text": 85,
         "media": 23,
-        "total": 107
+        "total": 108
       },
       "34626781356198": {
         "text": 0,
@@ -9881,7 +9881,9 @@
         "Camila Designer: @247020967165997 mande sua fofo mulher",
         "Gleydson Souza: 🤣🤣🤣🤣",
         "Gleydson Souza: Sim Gabi mande 😏👀",
-        "Layaninha: O kbaré funciona a noite toda ?"
+        "Layaninha: O kbaré funciona a noite toda ?",
+        "Gleydson Souza: Ate as 4h se n me engano",
+        "Camila Designer: Até as 4h se o movimento estiver bom"
       ]
     },
     "120363409727467494@g.us": {
@@ -12183,6 +12185,18 @@
         "authorName": "Layaninha",
         "text": "O kbaré funciona a noite toda ?",
         "timestamp": 1788225820445
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Ate as 4h se n me engano",
+        "timestamp": 1788225837069
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Até as 4h se o movimento estiver bom",
+        "timestamp": 1788225838978
       }
     ],
     "120363409727467494@g.us": [],
@@ -12312,7 +12326,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 1555,
-    "120363428464897153@g.us": 6842,
+    "120363428464897153@g.us": 6844,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2441,
     "120363411233423709@g.us": 5,
@@ -24831,6 +24845,18 @@
         "text": "O kbaré funciona a noite toda ?",
         "pushName": "Layaninha",
         "timestamp": 1788225820445
+      },
+      "AC1B677000FFC40BE7B557E9995A36B6": {
+        "sender": "274384656834700@lid",
+        "text": "Ate as 4h se n me engano",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1788225837070
+      },
+      "2AB5A22F8F2F3BE86012": {
+        "sender": "92629643563147@lid",
+        "text": "Até as 4h se o movimento estiver bom",
+        "pushName": "Camila Designer",
+        "timestamp": 1788225838978
       }
     },
     "120363409727467494@g.us": {},
@@ -26514,7 +26540,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1788225752505,
-    "120363428464897153@g.us": 1788225820615,
+    "120363428464897153@g.us": 1788225845327,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788225346563,
     "120363411233423709@g.us": 1787113553426,
