@@ -3216,9 +3216,9 @@
         "total": 1
       },
       "92629643563147": {
-        "text": 618,
+        "text": 619,
         "media": 466,
-        "total": 1084
+        "total": 1085
       },
       "122552932372575": {
         "text": 0,
@@ -3256,9 +3256,9 @@
         "total": 9
       },
       "129373172711439": {
-        "text": 1001,
+        "text": 1002,
         "media": 279,
-        "total": 1280
+        "total": 1281
       },
       "16007578021977": {
         "text": 58,
@@ -3641,9 +3641,9 @@
         "total": 9
       },
       "83911531044906": {
-        "text": 14,
+        "text": 16,
         "media": 1,
-        "total": 15
+        "total": 17
       },
       "247020967165997": {
         "text": 68,
@@ -9950,7 +9950,10 @@
         "Camila Designer: Esses homens cheios de saúde 🤣🤣🤣",
         "~Gaara: E vcs não alegram os amigos.😒",
         "Souza: Pode mandar já?",
-        "Layaninha: Só de saúde msm"
+        "Layaninha: Só de saúde msm",
+        "Camila Designer: Você perdeu 🤣🤣🤣",
+        "~Gaara: Pv ta ai.",
+        "~Gaara: Tava ocupado.\nSó vir msg apagada"
       ]
     },
     "120363409727467494@g.us": {
@@ -11921,24 +11924,6 @@
     "120363432018531082@g.us": [],
     "120363428464897153@g.us": [
       {
-        "authorNum": "270377049690114",
-        "authorName": "Vini 👑🏁🙌⚽",
-        "text": "Mandei e apaguei",
-        "timestamp": 1788226346084
-      },
-      {
-        "authorNum": "270377049690114",
-        "authorName": "Vini 👑🏁🙌⚽",
-        "text": "Ninguém viu 🙈🙈😳👀",
-        "timestamp": 1788226349826
-      },
-      {
-        "authorNum": "138306604032063",
-        "authorName": "Jandilson Santos",
-        "text": "😁😁😁",
-        "timestamp": 1788226363515
-      },
-      {
         "authorNum": "129373172711439",
         "authorName": "Celiete Souza",
         "text": "Não deu tempo de ver",
@@ -12279,6 +12264,24 @@
         "authorName": "Layaninha",
         "text": "Só de saúde msm",
         "timestamp": 1788228111923
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Você perdeu 🤣🤣🤣",
+        "timestamp": 1788228123282
+      },
+      {
+        "authorNum": "83911531044906",
+        "authorName": "~Gaara",
+        "text": "Pv ta ai.",
+        "timestamp": 1788228144345
+      },
+      {
+        "authorNum": "83911531044906",
+        "authorName": "~Gaara",
+        "text": "Tava ocupado.\nSó vir msg apagada",
+        "timestamp": 1788228167278
       }
     ],
     "120363409727467494@g.us": [],
@@ -12336,7 +12339,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 1555,
-    "120363428464897153@g.us": 6911,
+    "120363428464897153@g.us": 6914,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2450,
     "120363411233423709@g.us": 5,
@@ -25269,6 +25272,24 @@
         "text": "Só de saúde msm",
         "pushName": "Layaninha",
         "timestamp": 1788228111929
+      },
+      "2A1D49BD67B4115B018B": {
+        "sender": "92629643563147@lid",
+        "text": "Você perdeu 🤣🤣🤣",
+        "pushName": "Camila Designer",
+        "timestamp": 1788228123282
+      },
+      "ACD3322B747046E6A34A3D1E92CF91A4": {
+        "sender": "83911531044906@lid",
+        "text": "Pv ta ai.",
+        "pushName": "~Gaara",
+        "timestamp": 1788228144383
+      },
+      "AC7D8348F045D9A367FA694536B6C9C2": {
+        "sender": "83911531044906@lid",
+        "text": "Tava ocupado.\nSó vir msg apagada",
+        "pushName": "~Gaara",
+        "timestamp": 1788228167278
       }
     },
     "120363409727467494@g.us": {},
@@ -27006,7 +27027,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1788226077175,
-    "120363428464897153@g.us": 1788228111923,
+    "120363428464897153@g.us": 1788228167278,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788227152321,
     "120363411233423709@g.us": 1787113553426,
