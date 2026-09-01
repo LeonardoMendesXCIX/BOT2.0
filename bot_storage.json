@@ -409,9 +409,9 @@
         "total": 505
       },
       "222595437858867": {
-        "text": 656,
+        "text": 657,
         "media": 66,
-        "total": 722
+        "total": 723
       },
       "83280154103884": {
         "text": 36,
@@ -3661,14 +3661,14 @@
         "total": 3
       },
       "166452229341300": {
-        "text": 27,
+        "text": 28,
         "media": 2,
-        "total": 29
+        "total": 30
       },
       "109508781207612": {
         "text": 22,
-        "media": 2,
-        "total": 24
+        "media": 3,
+        "total": 25
       },
       "108461127897146": {
         "text": 1,
@@ -7482,7 +7482,6 @@
         "Rodolfo Carmona Mazon: Geral é de Sorocaba?"
       ],
       "31/08/2026": [
-        "Anderson: A lei mudou mano",
         "Rafael Moura: Amigo, a unica certeza de prisão é nao pagar pensão ao filho",
         "Anderson: Ela pode colocar pra eu pagar se eu tiver com ela e a filha dela tiver um vínculo diretamente comigo",
         "jaciara: Mas deixando bem claro não estou atrás de um pai para meus filhos",
@@ -7981,7 +7980,8 @@
         "Juliano Perlin: Eu sou descendente da italia..ma pórca pipa🤌🏻",
         "Kelvin Luan Ribeiro Da Ro: Kskskksks",
         "Juliano Perlin: Sacramentaa🤌🏻",
-        "Kelvin Luan Ribeiro Da Ro: Dio santo madona"
+        "Kelvin Luan Ribeiro Da Ro: Dio santo madona",
+        "Juliano Perlin: Cáspitaaaa🤌🏻"
       ]
     },
     "120363428464897153@g.us": {
@@ -9569,7 +9569,8 @@
         "Layaninha: Te dou Minha conta e tu deposita",
         "jaciara: Maravilhosa ❤️",
         "pãobão 😂: Combinado uai",
-        "pãobão 😂: Vou pagar seus creme do mês"
+        "pãobão 😂: Vou pagar seus creme do mês",
+        "Layaninha: Meu pai e irmão são"
       ]
     },
     "120363409727467494@g.us": {
@@ -12212,6 +12213,12 @@
         "authorName": "Kelvin Luan Ribeiro Da Ro",
         "text": "Dio santo madona",
         "timestamp": 1788220901114
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Cáspitaaaa🤌🏻",
+        "timestamp": 1788220915673
       }
     ],
     "120363428464897153@g.us": [
@@ -12682,6 +12689,12 @@
         "authorName": "pãobão 😂",
         "text": "Vou pagar seus creme do mês",
         "timestamp": 1788220899410
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Layaninha",
+        "text": "Meu pai e irmão são",
+        "timestamp": 1788220916175
       }
     ],
     "120363409727467494@g.us": [],
@@ -12762,8 +12775,8 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 1530,
-    "120363428464897153@g.us": 6545,
+    "120363432018531082@g.us": 1531,
+    "120363428464897153@g.us": 6546,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2417,
     "120363411233423709@g.us": 5,
@@ -22628,6 +22641,12 @@
         "text": "Dio santo madona",
         "pushName": "Kelvin Luan Ribeiro Da Ro",
         "timestamp": 1788220901114
+      },
+      "ACA435A8EA268768DB0D3AC139FF73F9": {
+        "sender": "222595437858867@lid",
+        "text": "Cáspitaaaa🤌🏻",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1788220915673
       }
     },
     "120363428464897153@g.us": {
@@ -23350,6 +23369,12 @@
         "text": "Vou pagar seus creme do mês",
         "pushName": "pãobão 😂",
         "timestamp": 1788220899410
+      },
+      "A5ED2B700ACD8EF7365ACF60D96612AD": {
+        "sender": "166452229341300@lid",
+        "text": "Meu pai e irmão são",
+        "pushName": "Layaninha",
+        "timestamp": 1788220916175
       }
     },
     "120363409727467494@g.us": {},
@@ -24888,8 +24913,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788220901114,
-    "120363428464897153@g.us": 1788220899410,
+    "120363432018531082@g.us": 1788220915673,
+    "120363428464897153@g.us": 1788220916175,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788219832739,
     "120363411233423709@g.us": 1787113553426,
