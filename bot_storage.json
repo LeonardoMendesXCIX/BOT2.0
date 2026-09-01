@@ -3666,9 +3666,9 @@
         "total": 8
       },
       "166452229341300": {
-        "text": 94,
+        "text": 95,
         "media": 12,
-        "total": 106
+        "total": 107
       },
       "109508781207612": {
         "text": 47,
@@ -9995,7 +9995,8 @@
       ],
       "01/09/2026": [
         "Gabriel: Eu acho que deveriamos, respeitar o momento, que é bem complicado, pelas informações passadas a nós. Desejo a todos boa noite, se cuidem. Façam suas rezas por ela. \n\nFecharei os grupos em respeito a e",
-        "Gabriel: !fechar"
+        "Gabriel: !fechar",
+        "Layaninha: Oh MDS"
       ]
     },
     "120363409727467494@g.us": {
@@ -11972,30 +11973,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Amanhã volta",
-        "timestamp": 1788232531364
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Deve está bem animado para estar aqui no grupo 🤣🤣🤣",
-        "timestamp": 1788232576162
-      },
-      {
-        "authorNum": "18774073856248",
-        "authorName": "Kelvin Luan Ribeiro Da Ro",
-        "text": "Kkkkk volto nnn",
-        "timestamp": 1788232596750
-      },
-      {
-        "authorNum": "18774073856248",
-        "authorName": "Kelvin Luan Ribeiro Da Ro",
-        "text": "Nos ja tava separando",
-        "timestamp": 1788232604245
-      },
-      {
         "authorNum": "5511927018683",
         "authorName": "Leandro",
         "text": "!megafone boa noite a todos, pessoal, independente da crença, fé, religião, crendices, etc... Por favor, rezem, orem pela Layh, ela está no hospital e estou pedindo muito a Deus para ajudá-la nesse momento, agradeço a todos que tirar nem que seja 1 minuto para dedicar a uma oração, reza ou até pedido a Deus pela saúde e melhora dela! Grande abraço ",
@@ -12104,6 +12081,12 @@
         "authorName": "Gabriel",
         "text": "!fechar",
         "timestamp": 1788233325854
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Layaninha",
+        "text": "Oh MDS",
+        "timestamp": 1788234628118
       }
     ],
     "120363409727467494@g.us": [],
@@ -12131,7 +12114,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 1585,
-    "120363428464897153@g.us": 7062,
+    "120363428464897153@g.us": 7063,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2450,
     "120363411233423709@g.us": 5,
@@ -26147,6 +26130,12 @@
         "text": "!fechar",
         "pushName": "Gabriel",
         "timestamp": 1788233325854
+      },
+      "A5955DCC09E62144AF57F1A66E4AE515": {
+        "sender": "166452229341300@lid",
+        "text": "Oh MDS",
+        "pushName": "Layaninha",
+        "timestamp": 1788234628118
       }
     },
     "120363409727467494@g.us": {},
@@ -27914,7 +27903,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1788233586941,
-    "120363428464897153@g.us": 1788233325854,
+    "120363428464897153@g.us": 1788234628118,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788227152321,
     "120363411233423709@g.us": 1787113553426,
