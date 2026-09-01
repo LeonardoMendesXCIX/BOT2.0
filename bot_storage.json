@@ -3676,9 +3676,9 @@
         "total": 42
       },
       "108461127897146": {
-        "text": 17,
-        "media": 6,
-        "total": 23
+        "text": 18,
+        "media": 7,
+        "total": 25
       },
       "111141304930334": {
         "text": 16,
@@ -3735,9 +3735,9 @@
         "total": 699
       },
       "53537388122141": {
-        "text": 897,
+        "text": 899,
         "media": 74,
-        "total": 971
+        "total": 973
       },
       "120363412288900422": {
         "text": 1,
@@ -11379,7 +11379,9 @@
         "Gabriel: Ela tomou tiro ?",
         "Leandro: Não sei ainda",
         "Leandro: Aparentemente quem está com o celular dela é a irmã dela",
-        "Leandro: Na verdade, alguém pegou o celular dela, não sei se foi algum colega ou se roubaram"
+        "Leandro: Na verdade, alguém pegou o celular dela, não sei se foi algum colega ou se roubaram",
+        "Sabrina Bartolucci 🤌🏻: Maravilha!",
+        "Sabrina Bartolucci 🤌🏻: Mas nem me chamou"
       ]
     },
     "120363411233423709@g.us": {},
@@ -12197,12 +12199,6 @@
     "120363409727467494@g.us": [],
     "120363412288900422@g.us": [
       {
-        "authorNum": "145381035905262",
-        "authorName": "Gabriel",
-        "text": "Mano essa música é foda",
-        "timestamp": 1788225087708
-      },
-      {
         "authorNum": "5511927018683",
         "authorName": "Leandro",
         "text": "Gente teve um tiroteio na frente da faculdade da Lay e ela está no hospital, ainda não tenho mais notícias, mas assim que tiver, mando aqui pra vocês! 😰",
@@ -12237,6 +12233,18 @@
         "authorName": "Leandro",
         "text": "Na verdade, alguém pegou o celular dela, não sei se foi algum colega ou se roubaram",
         "timestamp": 1788226184183
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Maravilha!",
+        "timestamp": 1788226992316
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina Bartolucci 🤌🏻",
+        "text": "Mas nem me chamou",
+        "timestamp": 1788227015725
       }
     ],
     "120363411233423709@g.us": [],
@@ -12257,7 +12265,7 @@
     "120363432018531082@g.us": 1555,
     "120363428464897153@g.us": 6878,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2444,
+    "120363412288900422@g.us": 2446,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 28,
@@ -26241,6 +26249,18 @@
         "text": "Na verdade, alguém pegou o celular dela, não sei se foi algum colega ou se roubaram",
         "pushName": "Leandro",
         "timestamp": 1788226184183
+      },
+      "AC57C9F7D89CF7899DD3128505EE6C65": {
+        "sender": "53537388122141@lid",
+        "text": "Maravilha!",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1788226992316
+      },
+      "AC32939C4881227EA1A3755EFC0C9178": {
+        "sender": "53537388122141@lid",
+        "text": "Mas nem me chamou",
+        "pushName": "Sabrina Bartolucci 🤌🏻",
+        "timestamp": 1788227015725
       }
     },
     "120363411233423709@g.us": {},
@@ -26691,9 +26711,9 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1788226077175,
-    "120363428464897153@g.us": 1788226972059,
+    "120363428464897153@g.us": 1788227020427,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1788226184183,
+    "120363412288900422@g.us": 1788227015725,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
