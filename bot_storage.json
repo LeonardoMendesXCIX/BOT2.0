@@ -724,9 +724,9 @@
         "total": 153
       },
       "57707230945348": {
-        "text": 1390,
+        "text": 1392,
         "media": 241,
-        "total": 1631
+        "total": 1633
       },
       "152218690924790": {
         "text": 309,
@@ -2734,9 +2734,9 @@
         "total": 2
       },
       "108461127897146": {
-        "text": 289,
+        "text": 290,
         "media": 42,
-        "total": 331
+        "total": 332
       },
       "10050861031495": {
         "text": 0,
@@ -8008,7 +8008,10 @@
         "Camila Designer: Deve está bem animado para estar aqui no grupo 🤣🤣🤣",
         "Kelvin Luan Ribeiro Da Ro: Kkkkk volto nnn",
         "Kelvin Luan Ribeiro Da Ro: Nos ja tava separando",
-        "Leandro: !megafone boa noite a todos, pessoal, independente da crença, fé, religião, crendices, etc... Por favor, rezem, orem pela Layh, ela está no hospital e estou pedindo muito a Deus para ajudá-la nesse mo"
+        "Leandro: !megafone boa noite a todos, pessoal, independente da crença, fé, religião, crendices, etc... Por favor, rezem, orem pela Layh, ela está no hospital e estou pedindo muito a Deus para ajudá-la nesse mo",
+        "Rafael Moura: O que aconteceu com a Layh?",
+        "Rafael Moura: Boa noite alias",
+        "jaciara: Vamos orar sim por a saúde dela"
       ]
     },
     "120363428464897153@g.us": {
@@ -12008,6 +12011,24 @@
         "authorName": "Leandro",
         "text": "!megafone boa noite a todos, pessoal, independente da crença, fé, religião, crendices, etc... Por favor, rezem, orem pela Layh, ela está no hospital e estou pedindo muito a Deus para ajudá-la nesse momento, agradeço a todos que tirar nem que seja 1 minuto para dedicar a uma oração, reza ou até pedido a Deus pela saúde e melhora dela! Grande abraço ",
         "timestamp": 1788232999589
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "O que aconteceu com a Layh?",
+        "timestamp": 1788233044724
+      },
+      {
+        "authorNum": "57707230945348",
+        "authorName": "Rafael Moura",
+        "text": "Boa noite alias",
+        "timestamp": 1788233048806
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Vamos orar sim por a saúde dela",
+        "timestamp": 1788233075436
       }
     ],
     "120363428464897153@g.us": [
@@ -12042,7 +12063,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 1570,
+    "120363432018531082@g.us": 1573,
     "120363428464897153@g.us": 7060,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2450,
@@ -22145,6 +22166,24 @@
         "text": "!megafone boa noite a todos, pessoal, independente da crença, fé, religião, crendices, etc... Por favor, rezem, orem pela Layh, ela está no hospital e estou pedindo muito a Deus para ajudá-la nesse momento, agradeço a todos que tirar nem que seja 1 minuto para dedicar a uma oração, reza ou até pedido a Deus pela saúde e melhora dela! Grande abraço a todos!",
         "pushName": "Leandro",
         "timestamp": 1788232999589
+      },
+      "AC614D439404032852E5BD9C4BA3A66D": {
+        "sender": "57707230945348@lid",
+        "text": "O que aconteceu com a Layh?",
+        "pushName": "Rafael Moura",
+        "timestamp": 1788233044724
+      },
+      "AC13C81E2A93C8255BA126D417B287BE": {
+        "sender": "57707230945348@lid",
+        "text": "Boa noite alias",
+        "pushName": "Rafael Moura",
+        "timestamp": 1788233048806
+      },
+      "ACFC3E30C0245EEB6BC1AB54A3EF8018": {
+        "sender": "108461127897146@lid",
+        "text": "Vamos orar sim por a saúde dela",
+        "pushName": "jaciara",
+        "timestamp": 1788233075436
       }
     },
     "120363428464897153@g.us": {
@@ -27717,7 +27756,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788232999589,
+    "120363432018531082@g.us": 1788233075436,
     "120363428464897153@g.us": 1788231227765,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788227152321,
