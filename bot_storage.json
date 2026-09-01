@@ -3146,9 +3146,9 @@
         "total": 23
       },
       "270377049690114": {
-        "text": 358,
+        "text": 360,
         "media": 61,
-        "total": 419
+        "total": 421
       },
       "76914341503187": {
         "text": 27,
@@ -3301,9 +3301,9 @@
         "total": 95
       },
       "222595437858867": {
-        "text": 196,
+        "text": 198,
         "media": 15,
-        "total": 211
+        "total": 213
       },
       "104003018985518": {
         "text": 40,
@@ -3641,9 +3641,9 @@
         "total": 3
       },
       "247020967165997": {
-        "text": 33,
-        "media": 2,
-        "total": 35
+        "text": 35,
+        "media": 4,
+        "total": 39
       },
       "272048228188398": {
         "text": 5,
@@ -9740,7 +9740,13 @@
         "Gabi 💋: Foi isso que pensei ksks",
         "Vini 👑🏁🙌⚽: Eita pq??",
         "Vini 👑🏁🙌⚽: Ksksksks",
-        "Gabi 💋: Minhas posição favorita"
+        "Gabi 💋: Minhas posição favorita",
+        "Vini 👑🏁🙌⚽: Hmmm imaginei 😳😳",
+        "Gabi 💋: Que bom",
+        "Juliano Perlin: Tu nao quer nem minha alma no pv🤣🤣🤣",
+        "Vini 👑🏁🙌⚽: Gosto do 4 tbm mas prefiro o 69",
+        "Juliano Perlin: Acertou🤭",
+        "Gabi 💋: Não gosto de vê cu peludo de homem não"
       ]
     },
     "120363409727467494@g.us": {
@@ -11824,24 +11830,6 @@
     ],
     "120363428464897153@g.us": [
       {
-        "authorNum": "54013592617050",
-        "authorName": "🐦‍🔥",
-        "text": "Vai bater em mulher?",
-        "timestamp": 1788221380869
-      },
-      {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "Boa noite🤗",
-        "timestamp": 1788221388559
-      },
-      {
-        "authorNum": "111141304930334",
-        "authorName": "⚡",
-        "text": "Boa noite",
-        "timestamp": 1788221408690
-      },
-      {
         "authorNum": "129373172711439",
         "authorName": "Celiete Souza",
         "text": "Se comportem se vocês conseguirem kkkk",
@@ -12626,6 +12614,42 @@
         "authorName": "Gabi 💋",
         "text": "Minhas posição favorita",
         "timestamp": 1788223176820
+      },
+      {
+        "authorNum": "270377049690114",
+        "authorName": "Vini 👑🏁🙌⚽",
+        "text": "Hmmm imaginei 😳😳",
+        "timestamp": 1788223186801
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Que bom",
+        "timestamp": 1788223194932
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Tu nao quer nem minha alma no pv🤣🤣🤣",
+        "timestamp": 1788223198367
+      },
+      {
+        "authorNum": "270377049690114",
+        "authorName": "Vini 👑🏁🙌⚽",
+        "text": "Gosto do 4 tbm mas prefiro o 69",
+        "timestamp": 1788223198714
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Acertou🤭",
+        "timestamp": 1788223211142
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Não gosto de vê cu peludo de homem não",
+        "timestamp": 1788223220147
       }
     ],
     "120363409727467494@g.us": [],
@@ -12653,7 +12677,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 1555,
-    "120363428464897153@g.us": 6711,
+    "120363428464897153@g.us": 6717,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2418,
     "120363411233423709@g.us": 5,
@@ -12672,7 +12696,7 @@
   },
   "closedGroups": {
     "120363428464897153@g.us": false,
-    "120363432018531082@g.us": false,
+    "120363432018531082@g.us": true,
     "120363428662766282@g.us": true,
     "120363428079168524@g.us": false,
     "120363411246936023@g.us": false,
@@ -12710,7 +12734,9 @@
       "29807224086606@lid",
       "109508781207612@lid"
     ],
-    "120363432018531082@g.us": [],
+    "120363432018531082@g.us": [
+      "33277423415329@lid"
+    ],
     "120363411246936023@g.us": [
       "54259127210155@lid"
     ],
@@ -24386,6 +24412,42 @@
         "text": "Minhas posição favorita",
         "pushName": "Gabi 💋",
         "timestamp": 1788223176820
+      },
+      "AC9138AA125F98FE8EFA3E0DE94E8D03": {
+        "sender": "270377049690114@lid",
+        "text": "Hmmm imaginei 😳😳",
+        "pushName": "Vini 👑🏁🙌⚽",
+        "timestamp": 1788223186802
+      },
+      "AC5D5CA80D27AA9609110058D1A84C91": {
+        "sender": "247020967165997@lid",
+        "text": "Que bom",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788223194932
+      },
+      "AC6BDF4DE2089BFF1B0ECF112B5C9F41": {
+        "sender": "222595437858867@lid",
+        "text": "Tu nao quer nem minha alma no pv🤣🤣🤣",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1788223198371
+      },
+      "AC7828E72AA25C03DEA4AE8323620259": {
+        "sender": "270377049690114@lid",
+        "text": "Gosto do 4 tbm mas prefiro o 69",
+        "pushName": "Vini 👑🏁🙌⚽",
+        "timestamp": 1788223198714
+      },
+      "AC7F4975FD9B1B5CA7B0BF1BC6F24C22": {
+        "sender": "222595437858867@lid",
+        "text": "Acertou🤭",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1788223211143
+      },
+      "AC7C71DBE50B3A882F892876FC26F0A4": {
+        "sender": "247020967165997@lid",
+        "text": "Não gosto de vê cu peludo de homem não",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788223220148
       }
     },
     "120363409727467494@g.us": {},
@@ -25931,7 +25993,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1788222448169,
-    "120363428464897153@g.us": 1788223176820,
+    "120363428464897153@g.us": 1788223220147,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788221779631,
     "120363411233423709@g.us": 1787113553426,
