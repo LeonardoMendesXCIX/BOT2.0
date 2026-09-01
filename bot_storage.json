@@ -2824,9 +2824,9 @@
         "total": 5
       },
       "247020967165997": {
-        "text": 284,
+        "text": 285,
         "media": 39,
-        "total": 323
+        "total": 324
       },
       "206253020176458": {
         "text": 46,
@@ -7999,7 +7999,8 @@
         "🐦‍🔥: Sim senhor chefia"
       ],
       "01/09/2026": [
-        "angierr: po, cheguei na hora que fecharam o kbare 😓"
+        "angierr: po, cheguei na hora que fecharam o kbare 😓",
+        "Gabi 💋: Amanhã tem mais"
       ]
     },
     "120363428464897153@g.us": {
@@ -11975,6 +11976,12 @@
         "authorName": "angierr",
         "text": "po, cheguei na hora que fecharam o kbare 😓",
         "timestamp": 1788231882335
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Amanhã tem mais",
+        "timestamp": 1788232233173
       }
     ],
     "120363428464897153@g.us": [
@@ -12040,7 +12047,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 1561,
+    "120363432018531082@g.us": 1562,
     "120363428464897153@g.us": 7060,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2450,
@@ -22091,6 +22098,12 @@
         "text": "po, cheguei na hora que fecharam o kbare 😓",
         "pushName": "angierr",
         "timestamp": 1788231882355
+      },
+      "ACDE244F956EA66555C85478403472ED": {
+        "sender": "247020967165997@lid",
+        "text": "Amanhã tem mais",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788232233173
       }
     },
     "120363428464897153@g.us": {
@@ -27663,7 +27676,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788231882333,
+    "120363432018531082@g.us": 1788232233173,
     "120363428464897153@g.us": 1788231227765,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788227152321,
