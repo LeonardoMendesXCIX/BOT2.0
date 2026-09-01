@@ -199,9 +199,9 @@
         "total": 251
       },
       "129373172711439": {
-        "text": 1874,
+        "text": 1875,
         "media": 522,
-        "total": 2396
+        "total": 2397
       },
       "81991328395336": {
         "text": 4168,
@@ -214,9 +214,9 @@
         "total": 523
       },
       "145381035905262": {
-        "text": 2311,
+        "text": 2312,
         "media": 481,
-        "total": 2792
+        "total": 2793
       },
       "184237705699536": {
         "text": 524,
@@ -279,9 +279,9 @@
         "total": 84
       },
       "92629643563147": {
-        "text": 1646,
+        "text": 1647,
         "media": 1248,
-        "total": 2894
+        "total": 2895
       },
       "3126803329115": {
         "text": 87,
@@ -2734,9 +2734,9 @@
         "total": 2
       },
       "108461127897146": {
-        "text": 291,
+        "text": 293,
         "media": 42,
-        "total": 333
+        "total": 335
       },
       "10050861031495": {
         "text": 0,
@@ -8014,7 +8014,11 @@
         "jaciara: Vamos orar sim por a saúde dela",
         "jaciara: Nos dê notícias",
         "Leandro: Obrigado a todos! 🙏🏼",
-        "Gabriel: A @81991328395336 , teve um problema na escola, e foi pra o hospital"
+        "Gabriel: A @81991328395336 , teve um problema na escola, e foi pra o hospital",
+        "Camila Designer: Amém! Estarei em oração!🙏",
+        "jaciara: Deus está na frente e no controle de tudo",
+        "jaciara: Vai dá tudo certo",
+        "Gabriel: Não temos notícias concretas para passar a vocês. Mas ela ficará bem"
       ]
     },
     "120363428464897153@g.us": {
@@ -12050,6 +12054,30 @@
         "authorName": "Gabriel",
         "text": "A @81991328395336 , teve um problema na escola, e foi pra o hospital",
         "timestamp": 1788233095156
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Amém! Estarei em oração!🙏",
+        "timestamp": 1788233121769
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Deus está na frente e no controle de tudo",
+        "timestamp": 1788233127709
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Vai dá tudo certo",
+        "timestamp": 1788233131873
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "Não temos notícias concretas para passar a vocês. Mas ela ficará bem",
+        "timestamp": 1788233132873
       }
     ],
     "120363428464897153@g.us": [],
@@ -12070,7 +12098,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 1576,
+    "120363432018531082@g.us": 1580,
     "120363428464897153@g.us": 7060,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2450,
@@ -22209,6 +22237,30 @@
         "text": "A @81991328395336 , teve um problema na escola, e foi pra o hospital",
         "pushName": "Gabriel",
         "timestamp": 1788233095156
+      },
+      "2AB623221A403BE02B66": {
+        "sender": "92629643563147@lid",
+        "text": "Amém! Estarei em oração!🙏",
+        "pushName": "Camila Designer",
+        "timestamp": 1788233121769
+      },
+      "AC8947B1B946E4025DE16D41630ED4E6": {
+        "sender": "108461127897146@lid",
+        "text": "Deus está na frente e no controle de tudo",
+        "pushName": "jaciara",
+        "timestamp": 1788233127709
+      },
+      "AC014474AAAB7BF600B343565E0AC26D": {
+        "sender": "108461127897146@lid",
+        "text": "Vai dá tudo certo",
+        "pushName": "jaciara",
+        "timestamp": 1788233131873
+      },
+      "ACDBBC46DA141C9C6657DF9CAADB40B7": {
+        "sender": "145381035905262@lid",
+        "text": "Não temos notícias concretas para passar a vocês. Mas ela ficará bem",
+        "pushName": "Gabriel",
+        "timestamp": 1788233132873
       }
     },
     "120363428464897153@g.us": {
@@ -27781,7 +27833,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788233095156,
+    "120363432018531082@g.us": 1788233132873,
     "120363428464897153@g.us": 1788231227765,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788227152321,
