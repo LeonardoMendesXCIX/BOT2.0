@@ -2989,9 +2989,9 @@
         "total": 5
       },
       "18774073856248": {
-        "text": 8,
+        "text": 9,
         "media": 2,
-        "total": 10
+        "total": 11
       }
     },
     "120363428464897153@g.us": {
@@ -3596,9 +3596,9 @@
         "total": 1
       },
       "190864487919667": {
-        "text": 79,
+        "text": 80,
         "media": 16,
-        "total": 95
+        "total": 96
       },
       "118515428286715": {
         "text": 22,
@@ -3617,8 +3617,8 @@
       },
       "75797868064796": {
         "text": 7,
-        "media": 30,
-        "total": 37
+        "media": 32,
+        "total": 39
       },
       "153764728184839": {
         "text": 4,
@@ -3661,9 +3661,9 @@
         "total": 7
       },
       "166452229341300": {
-        "text": 41,
+        "text": 42,
         "media": 4,
-        "total": 45
+        "total": 46
       },
       "109508781207612": {
         "text": 25,
@@ -9625,7 +9625,8 @@
         "Souza: E cuidado",
         "Souza: Tem uns malucos aqui",
         "Layaninha: Remédio pra maluco e uma maluca e meia",
-        "Layaninha: Moço sou maranhense e\nMaranhense e bicho que não leva desaforo"
+        "Layaninha: Moço sou maranhense e\nMaranhense e bicho que não leva desaforo",
+        "Souza: Sou baiano, levo desaforo também não"
       ]
     },
     "120363409727467494@g.us": {
@@ -12817,6 +12818,12 @@
         "authorName": "Layaninha",
         "text": "Moço sou maranhense e\nMaranhense e bicho que não leva desaforo",
         "timestamp": 1788221578145
+      },
+      {
+        "authorNum": "190864487919667",
+        "authorName": "Souza",
+        "text": "Sou baiano, levo desaforo também não",
+        "timestamp": 1788221600899
       }
     ],
     "120363409727467494@g.us": [],
@@ -12856,7 +12863,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 1538,
-    "120363428464897153@g.us": 6596,
+    "120363428464897153@g.us": 6597,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2418,
     "120363411233423709@g.us": 5,
@@ -23797,6 +23804,12 @@
         "text": "Moço sou maranhense e\nMaranhense e bicho que não leva desaforo",
         "pushName": "Layaninha",
         "timestamp": 1788221578145
+      },
+      "AC4632D5A56C8C3F23DDF78A3C71BF61": {
+        "sender": "190864487919667@lid",
+        "text": "Sou baiano, levo desaforo também não",
+        "pushName": "Souza",
+        "timestamp": 1788221600900
       }
     },
     "120363409727467494@g.us": {},
@@ -25341,8 +25354,8 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788221574879,
-    "120363428464897153@g.us": 1788221584864,
+    "120363432018531082@g.us": 1788221595225,
+    "120363428464897153@g.us": 1788221627017,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788221593738,
     "120363411233423709@g.us": 1787113553426,
