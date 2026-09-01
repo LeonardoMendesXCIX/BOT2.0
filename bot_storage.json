@@ -3301,9 +3301,9 @@
         "total": 95
       },
       "222595437858867": {
-        "text": 179,
+        "text": 180,
         "media": 13,
-        "total": 192
+        "total": 193
       },
       "104003018985518": {
         "text": 40,
@@ -9626,7 +9626,8 @@
         "Souza: Tem uns malucos aqui",
         "Layaninha: Remédio pra maluco e uma maluca e meia",
         "Layaninha: Moço sou maranhense e\nMaranhense e bicho que não leva desaforo",
-        "Souza: Sou baiano, levo desaforo também não"
+        "Souza: Sou baiano, levo desaforo também não",
+        "Juliano Perlin: Q dor??"
       ]
     },
     "120363409727467494@g.us": {
@@ -12824,6 +12825,12 @@
         "authorName": "Souza",
         "text": "Sou baiano, levo desaforo também não",
         "timestamp": 1788221600899
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Q dor??",
+        "timestamp": 1788221645715
       }
     ],
     "120363409727467494@g.us": [],
@@ -12863,7 +12870,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 1538,
-    "120363428464897153@g.us": 6597,
+    "120363428464897153@g.us": 6598,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2418,
     "120363411233423709@g.us": 5,
@@ -23810,6 +23817,12 @@
         "text": "Sou baiano, levo desaforo também não",
         "pushName": "Souza",
         "timestamp": 1788221600900
+      },
+      "ACEA4650732E4785F87FBB314867DC64": {
+        "sender": "222595437858867@lid",
+        "text": "Q dor??",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1788221645719
       }
     },
     "120363409727467494@g.us": {},
@@ -25355,7 +25368,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1788221595225,
-    "120363428464897153@g.us": 1788221627017,
+    "120363428464897153@g.us": 1788221645715,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788221593738,
     "120363411233423709@g.us": 1787113553426,
