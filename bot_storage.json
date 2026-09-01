@@ -3301,9 +3301,9 @@
         "total": 95
       },
       "222595437858867": {
-        "text": 175,
+        "text": 176,
         "media": 12,
-        "total": 187
+        "total": 188
       },
       "104003018985518": {
         "text": 40,
@@ -3326,9 +3326,9 @@
         "total": 2
       },
       "53537388122141": {
-        "text": 89,
+        "text": 90,
         "media": 0,
-        "total": 89
+        "total": 90
       },
       "253626509443178": {
         "text": 3,
@@ -3661,14 +3661,14 @@
         "total": 3
       },
       "166452229341300": {
-        "text": 33,
-        "media": 2,
-        "total": 35
+        "text": 34,
+        "media": 3,
+        "total": 37
       },
       "109508781207612": {
         "text": 25,
-        "media": 3,
-        "total": 28
+        "media": 4,
+        "total": 29
       },
       "108461127897146": {
         "text": 2,
@@ -9600,7 +9600,9 @@
         "Jean Correa: Que raba nossa senhora",
         "Layaninha: 🤣🤣🤣🤣🤣",
         "Juliano Perlin: Vc trabalha no que??",
-        "Leandro: O kbaré é nosso, meu e dela e tem nossa equipe também @145381035905262 & @53537388122141 🌝"
+        "Leandro: O kbaré é nosso, meu e dela e tem nossa equipe também @145381035905262 & @53537388122141 🌝",
+        "Juliano Perlin: Bem isso. ainda bem q pra cá nao tem isso devtoubo..aqui eu puxo mais é perto de casa. Nao saio longe por causa disso",
+        "Layaninha: Aí tu abre o kbaré enquanto ela chega né"
       ]
     },
     "120363409727467494@g.us": {
@@ -12821,6 +12823,18 @@
         "authorName": "Leandro",
         "text": "O kbaré é nosso, meu e dela e tem nossa equipe também @145381035905262 & @53537388122141 🌝",
         "timestamp": 1788221249137
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Bem isso. ainda bem q pra cá nao tem isso devtoubo..aqui eu puxo mais é perto de casa. Nao saio longe por causa disso",
+        "timestamp": 1788221255121
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Layaninha",
+        "text": "Aí tu abre o kbaré enquanto ela chega né",
+        "timestamp": 1788221277853
       }
     ],
     "120363409727467494@g.us": [],
@@ -12902,7 +12916,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 1531,
-    "120363428464897153@g.us": 6571,
+    "120363428464897153@g.us": 6573,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2417,
     "120363411233423709@g.us": 5,
@@ -23651,6 +23665,18 @@
         "text": "O kbaré é nosso, meu e dela e tem nossa equipe também @145381035905262 & @53537388122141 🌝",
         "pushName": "Leandro",
         "timestamp": 1788221249138
+      },
+      "AC3110A6F30144CDC625B658EEA1D85B": {
+        "sender": "222595437858867@lid",
+        "text": "Bem isso. ainda bem q pra cá nao tem isso devtoubo..aqui eu puxo mais é perto de casa. Nao saio longe por causa disso",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1788221255121
+      },
+      "A5D14CC1EB5FAF6344CADA8EF1FC1BB9": {
+        "sender": "166452229341300@lid",
+        "text": "Aí tu abre o kbaré enquanto ela chega né",
+        "pushName": "Layaninha",
+        "timestamp": 1788221277853
       }
     },
     "120363409727467494@g.us": {},
@@ -25190,7 +25216,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1788221147878,
-    "120363428464897153@g.us": 1788221249137,
+    "120363428464897153@g.us": 1788221277853,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788219832739,
     "120363411233423709@g.us": 1787113553426,
