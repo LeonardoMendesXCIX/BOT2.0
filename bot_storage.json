@@ -3217,8 +3217,8 @@
       },
       "92629643563147": {
         "text": 589,
-        "media": 422,
-        "total": 1011
+        "media": 423,
+        "total": 1012
       },
       "122552932372575": {
         "text": 0,
@@ -3256,9 +3256,9 @@
         "total": 9
       },
       "129373172711439": {
-        "text": 979,
-        "media": 259,
-        "total": 1238
+        "text": 980,
+        "media": 260,
+        "total": 1240
       },
       "16007578021977": {
         "text": 58,
@@ -3611,9 +3611,9 @@
         "total": 26
       },
       "274384656834700": {
-        "text": 54,
+        "text": 57,
         "media": 18,
-        "total": 72
+        "total": 75
       },
       "34626781356198": {
         "text": 0,
@@ -3622,8 +3622,8 @@
       },
       "75797868064796": {
         "text": 7,
-        "media": 33,
-        "total": 40
+        "media": 35,
+        "total": 42
       },
       "153764728184839": {
         "text": 4,
@@ -3646,9 +3646,9 @@
         "total": 3
       },
       "247020967165997": {
-        "text": 48,
-        "media": 5,
-        "total": 53
+        "text": 49,
+        "media": 6,
+        "total": 55
       },
       "272048228188398": {
         "text": 5,
@@ -3686,9 +3686,9 @@
         "total": 16
       },
       "138306604032063": {
-        "text": 6,
+        "text": 7,
         "media": 3,
-        "total": 9
+        "total": 10
       }
     },
     "120363409727467494@g.us": {
@@ -9828,7 +9828,9 @@
         "Camila Designer: @222595437858867 não está viajando?",
         "Layaninha: A Lay",
         "Souza: Tô só observando",
-        "Celiete Souza: Loira entrando"
+        "Celiete Souza: Loira entrando",
+        "Gabi 💋: Uma coisa que é muito boa",
+        "Jandilson Santos: Bora ficar pelado"
       ]
     },
     "120363409727467494@g.us": {
@@ -11781,12 +11783,6 @@
   "memoryCluster": {
     "120363432018531082@g.us": [
       {
-        "authorNum": "18774073856248",
-        "authorName": "Kelvin Luan Ribeiro Da Ro",
-        "text": "Hj nn vou pega ninguém nn só vim pra da uma olhada no estabelecimento novo",
-        "timestamp": 1788222014760
-      },
-      {
         "authorNum": "5511927018683",
         "authorName": "Leandro",
         "text": "!megafone boa noite e sejam todos muito bem-vindos novos integrantes, fiquem a vontade e 👀 de olho nas regras!! É EXTREMAMENTE PROIBIDO INVADIR PRIVADO, SUJEITO A REMOÇÃO SEM AVISO PRÉVIO E SEM POSSIBILIDADE DE RETORNO!",
@@ -11794,12 +11790,6 @@
       }
     ],
     "120363428464897153@g.us": [
-      {
-        "authorNum": "272048228188398",
-        "authorName": "Lailson Nathan.",
-        "text": "Uma mulher fazendo isso agora cairia bem.",
-        "timestamp": 1788222308524
-      },
       {
         "authorNum": "272048228188398",
         "authorName": "Lailson Nathan.",
@@ -12777,6 +12767,18 @@
         "authorName": "Celiete Souza",
         "text": "Loira entrando",
         "timestamp": 1788224085564
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Uma coisa que é muito boa",
+        "timestamp": 1788224101339
+      },
+      {
+        "authorNum": "138306604032063",
+        "authorName": "Jandilson Santos",
+        "text": "Bora ficar pelado",
+        "timestamp": 1788224133485
       }
     ],
     "120363409727467494@g.us": [],
@@ -12888,7 +12890,7 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 1555,
-    "120363428464897153@g.us": 6789,
+    "120363428464897153@g.us": 6791,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2433,
     "120363411233423709@g.us": 5,
@@ -25091,6 +25093,18 @@
         "text": "Loira entrando",
         "pushName": "Celiete Souza",
         "timestamp": 1788224085564
+      },
+      "ACBA85AAE35FB140615514576C0F2BEC": {
+        "sender": "247020967165997@lid",
+        "text": "Uma coisa que é muito boa",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788224101339
+      },
+      "ACA838ABCC9AA91F165DC6039C93914B": {
+        "sender": "138306604032063@lid",
+        "text": "Bora ficar pelado",
+        "pushName": "Jandilson Santos",
+        "timestamp": 1788224133485
       }
     },
     "120363409727467494@g.us": {},
@@ -26726,7 +26740,7 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1788223223828,
-    "120363428464897153@g.us": 1788224085564,
+    "120363428464897153@g.us": 1788224140079,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788224039314,
     "120363411233423709@g.us": 1787113553426,
