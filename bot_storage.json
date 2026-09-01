@@ -1629,9 +1629,9 @@
         "total": 3
       },
       "59623457439943": {
-        "text": 8,
+        "text": 9,
         "media": 0,
-        "total": 8
+        "total": 9
       },
       "217626076823769": {
         "text": 6,
@@ -7998,7 +7998,9 @@
         "Juliano Perlin: Q bom",
         "🐦‍🔥: Sim senhor chefia"
       ],
-      "01/09/2026": []
+      "01/09/2026": [
+        "angierr: po, cheguei na hora que fecharam o kbare 😓"
+      ]
     },
     "120363428464897153@g.us": {
       "23/08/2026": [
@@ -11967,6 +11969,12 @@
         "authorName": "🐦‍🔥",
         "text": "Sim senhor chefia",
         "timestamp": 1788230842125
+      },
+      {
+        "authorNum": "59623457439943",
+        "authorName": "angierr",
+        "text": "po, cheguei na hora que fecharam o kbare 😓",
+        "timestamp": 1788231882335
       }
     ],
     "120363428464897153@g.us": [
@@ -12032,7 +12040,7 @@
     "120363412288900422@g.us": 1786922054934
   },
   "messageCountSinceLastJarvis": {
-    "120363432018531082@g.us": 1560,
+    "120363432018531082@g.us": 1561,
     "120363428464897153@g.us": 7060,
     "120363409727467494@g.us": 248,
     "120363412288900422@g.us": 2450,
@@ -22077,6 +22085,12 @@
         "text": "Sim senhor chefia",
         "pushName": "🐦‍🔥",
         "timestamp": 1788230842126
+      },
+      "AC847877A99C45670188C7118CDA9D65": {
+        "sender": "59623457439943@lid",
+        "text": "po, cheguei na hora que fecharam o kbare 😓",
+        "pushName": "angierr",
+        "timestamp": 1788231882355
       }
     },
     "120363428464897153@g.us": {
@@ -27649,7 +27663,7 @@
     "120363409727467494@g.us": false
   },
   "lastGroupActivity": {
-    "120363432018531082@g.us": 1788231679899,
+    "120363432018531082@g.us": 1788231882333,
     "120363428464897153@g.us": 1788231227765,
     "120363409727467494@g.us": 1787790693484,
     "120363412288900422@g.us": 1788227152321,
