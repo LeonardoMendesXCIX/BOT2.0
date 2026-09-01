@@ -3216,9 +3216,9 @@
         "total": 1
       },
       "92629643563147": {
-        "text": 588,
+        "text": 589,
         "media": 422,
-        "total": 1010
+        "total": 1011
       },
       "122552932372575": {
         "text": 0,
@@ -3622,8 +3622,8 @@
       },
       "75797868064796": {
         "text": 7,
-        "media": 32,
-        "total": 39
+        "media": 33,
+        "total": 40
       },
       "153764728184839": {
         "text": 4,
@@ -3666,9 +3666,9 @@
         "total": 7
       },
       "166452229341300": {
-        "text": 75,
+        "text": 76,
         "media": 9,
-        "total": 84
+        "total": 85
       },
       "109508781207612": {
         "text": 32,
@@ -3730,9 +3730,9 @@
         "total": 841
       },
       "145381035905262": {
-        "text": 527,
+        "text": 529,
         "media": 167,
-        "total": 694
+        "total": 696
       },
       "53537388122141": {
         "text": 897,
@@ -9824,7 +9824,9 @@
         "jaciara: Kkkkk",
         "Layaninha: Aeeeee",
         "Juliano Perlin: Quem discutiu??",
-        "Celiete Souza: O que tá pegando"
+        "Celiete Souza: O que tá pegando",
+        "Camila Designer: @222595437858867 não está viajando?",
+        "Layaninha: A Lay"
       ]
     },
     "120363409727467494@g.us": {
@@ -11273,7 +11275,9 @@
         "Leandro: Se tratando de Akon, é boa 🤌🏼",
         "Gabriel: Botsin, tá lentinho hein",
         "Gabriel: 3",
-        "Leandro: Ele tá rodando na minha máquina, tô fazendo trocentas coisas"
+        "Leandro: Ele tá rodando na minha máquina, tô fazendo trocentas coisas",
+        "Gabriel: https://open.spotify.com/track/0CXVjQI9wsqaGeIARkkpYc?si=D2tBqAAKTlW7kDjkn32Lvg&utm_source=whatsapp",
+        "Gabriel: @54259127210155"
       ]
     },
     "120363411233423709@g.us": {},
@@ -12747,6 +12751,18 @@
         "authorName": "Celiete Souza",
         "text": "O que tá pegando",
         "timestamp": 1788224009526
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "@222595437858867 não está viajando?",
+        "timestamp": 1788224041973
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Layaninha",
+        "text": "A Lay",
+        "timestamp": 1788224042114
       }
     ],
     "120363409727467494@g.us": [],
@@ -12828,6 +12844,18 @@
         "authorName": "Leandro",
         "text": "Ele tá rodando na minha máquina, tô fazendo trocentas coisas",
         "timestamp": 1788223951074
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "https://open.spotify.com/track/0CXVjQI9wsqaGeIARkkpYc?si=D2tBqAAKTlW7kDjkn32Lvg&utm_source=whatsapp",
+        "timestamp": 1788224034755
+      },
+      {
+        "authorNum": "145381035905262",
+        "authorName": "Gabriel",
+        "text": "@54259127210155",
+        "timestamp": 1788224039314
       }
     ],
     "120363411233423709@g.us": [],
@@ -12846,9 +12874,9 @@
   },
   "messageCountSinceLastJarvis": {
     "120363432018531082@g.us": 1555,
-    "120363428464897153@g.us": 6785,
+    "120363428464897153@g.us": 6787,
     "120363409727467494@g.us": 248,
-    "120363412288900422@g.us": 2431,
+    "120363412288900422@g.us": 2433,
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 28,
@@ -25025,6 +25053,18 @@
         "text": "O que tá pegando",
         "pushName": "Celiete Souza",
         "timestamp": 1788224009527
+      },
+      "2AA34F4A1E8B6E98A1F0": {
+        "sender": "92629643563147@lid",
+        "text": "@222595437858867 não está viajando?",
+        "pushName": "Camila Designer",
+        "timestamp": 1788224041974
+      },
+      "A5AB1CA2F823777AF998C4A00541A1D9": {
+        "sender": "166452229341300@lid",
+        "text": "A Lay",
+        "pushName": "Layaninha",
+        "timestamp": 1788224042121
       }
     },
     "120363409727467494@g.us": {},
@@ -26198,6 +26238,18 @@
         "text": "Ele tá rodando na minha máquina, tô fazendo trocentas coisas",
         "pushName": "Leandro",
         "timestamp": 1788223951074
+      },
+      "AC39D8AE7A38FA056050834C962AB12C": {
+        "sender": "145381035905262@lid",
+        "text": "https://open.spotify.com/track/0CXVjQI9wsqaGeIARkkpYc?si=D2tBqAAKTlW7kDjkn32Lvg&utm_source=whatsapp",
+        "pushName": "Gabriel",
+        "timestamp": 1788224034755
+      },
+      "AC96B5AF5A20E6A48EACC97D80B0A009": {
+        "sender": "145381035905262@lid",
+        "text": "@54259127210155",
+        "pushName": "Gabriel",
+        "timestamp": 1788224039314
       }
     },
     "120363411233423709@g.us": {},
@@ -26648,9 +26700,9 @@
   },
   "lastGroupActivity": {
     "120363432018531082@g.us": 1788223223828,
-    "120363428464897153@g.us": 1788224014835,
+    "120363428464897153@g.us": 1788224042114,
     "120363409727467494@g.us": 1787790693484,
-    "120363412288900422@g.us": 1788223956130,
+    "120363412288900422@g.us": 1788224039314,
     "120363411233423709@g.us": 1787113553426,
     "120363428079168524@g.us": 1787521701857,
     "120363428662766282@g.us": 1787134121599,
