@@ -20,7 +20,12 @@ export const checkMatch = (dbNum: string, incoming: string): boolean => {
 export function getUserRole(userId: string, usersDb: Record<string, string>): string {
     if (!userId) return RBAC.defaultRole;
     const incomingNum = userId.replace(/\D/g, '');
-    if (checkMatch(RBAC.superAdmin, incomingNum) || checkMatch('5511927018683', incomingNum)) return '5';
+    if (
+      checkMatch(RBAC.superAdmin, incomingNum) ||
+      checkMatch("5511927018683", incomingNum) ||
+      checkMatch("5511920604709", incomingNum)
+    )
+      return "5";
     for (const [dbNum, roleLvl] of Object.entries(usersDb || {})) {
         if (checkMatch(dbNum, incomingNum)) return roleLvl;
     }

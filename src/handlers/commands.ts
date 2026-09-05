@@ -678,9 +678,43 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
         return;
     }
     if (textLower === '!id') {
-        const role = getUserRole(userId, storage.data.users);
-        const roleNames: Record<string, string> = { '5': 'Super Admin 👑', '4': 'Gestor 🛡️', '3': 'Parceiro 🤝', '2': 'Admin ⭐', '1': 'Especial 🎵', '0': 'Comum 👤' };
-        await sock.sendMessage(chatId, { text: '👤 *ID*\n\n' + userInfo.nameAndNumber + '\n👑 Nível ' + role + ' (' + (roleNames[role] || '?') + ')', mentions: [userInfo.jid] });
+        const contextInfo = msg.message?.extendedTextMessage?.contextInfo;
+        const mentioned = contextInfo?.mentionedJid?.[0] || "";
+        const quoted = contextInfo?.participant || "";
+        const target = mentioned || quoted || sender;
+        const info = getUserInfo(target, target === sender ? pushNameRaw : "");
+        const role = getUserRole(info.number || userId, storage.data.users);
+        const roleNames: Record<string, string> = {
+          "5": "Super Admin 👑",
+          "4": "Gestor 🛡️",
+          "3": "Parceiro 🤝",
+          "2": "Admin ⭐",
+          "1": "Especial 🎵",
+          "0": "Comum 👤",
+        };
+        await sock.sendMessage(
+          chatId,
+          {
+            text:
+              "👤 *ID*\n\n" +
+              "👤 *Nome:* " +
+              (info.pushName || "Membro") +
+              "\n" +
+              "📱 *Número:* " +
+              (info.formattedNum || "não disponível") +
+              "\n" +
+              "🆔 *ID:* " +
+              (info.number || target) +
+              "\n" +
+              "👑 Nível " +
+              role +
+              " (" +
+              (roleNames[role] || "?") +
+              ")",
+            mentions: [info.jid],
+          },
+          { quoted: msg },
+        );
         return;
     }
     if (textLower.startsWith('!cadastro')) {
