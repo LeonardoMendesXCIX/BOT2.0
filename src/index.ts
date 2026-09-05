@@ -398,16 +398,11 @@ async function startBot() {
     } else if (connection === "open") {
       reconnectDelay = 3000;
       console.log("[SISTEMA] 🎉 BOT DROPHTTP conectado com sucesso!");
-      // Torna o próprio número do bot super admin (para comandos via "mensagem para você mesmo")
       const botNum = sock.user?.id?.split(":")[0].replace(/\D/g, "") || "";
-      if (botNum) {
+      if (botNum && storage.data.users[botNum] !== "5") {
         storage.data.users[botNum] = "5";
         storage.flagSave();
-        console.log(
-          "[SISTEMA] Número do bot (" +
-            botNum +
-            ") configurado como Super Admin.",
-        );
+        console.log("[SISTEMA] Número do bot (" + botNum + ") = Super Admin.");
       }
       if (storage.data.maintenance) {
         console.log(
@@ -485,17 +480,13 @@ async function startBot() {
   setupGroupEvents(sock, storage);
 
   sock.ev.on("messages.upsert", async (m) => {
-    // Aceita comandos do próprio bot (self-chat) mesmo vindo como sincronização (append)
-    const hasSelfCmd = m.messages.some(
-      (mm) =>
-        mm.key.fromMe && (getMessageText(mm) || "").trim().startsWith("!"),
-    );
-    if (m.type !== "notify" && !hasSelfCmd) return;
-
     for (const msg of m.messages) {
       if (!msg.message || !msg.key.remoteJid) continue;
       const _txt = (getMessageText(msg) || "").trim();
-      if (msg.key.fromMe && !_txt.startsWith("!")) continue;
+      const isSelfCmd = msg.key.fromMe && _txt.startsWith("!");
+      if (msg.key.fromMe && !isSelfCmd) continue;
+      if (m.type !== "notify" && !isSelfCmd) continue;
+      if (isSelfCmd) console.log("[SELF-CMD] detectado:", _txt);
 
       const senderPn = (msg.key as any).senderPn;
       if (msg.pushName) {
