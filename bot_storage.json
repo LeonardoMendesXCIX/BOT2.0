@@ -5304,9 +5304,9 @@
     },
     "120363426574906687@g.us": {
       "53537388122141": {
-        "text": 65,
+        "text": 67,
         "media": 3,
-        "total": 68
+        "total": 70
       },
       "166452229341300": {
         "text": 32,
@@ -6867,7 +6867,9 @@
         "Camila Designer: Você tem o texto pronto?",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Está ativado amiga",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Só colocar !bot on quando não souber se tá ativado ou não",
-        "Camila Designer: Quando ele está ativado ele aceita?"
+        "Camila Designer: Quando ele está ativado ele aceita?",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Não. Nós temos que aprovar de qualquer forma. Ele só manda as apresentações",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Nome, Idade, Cidade/Estado  orientação sexual*\n\n👤 PV LIBERADO ou 🔒 PV FECHADO — mantenha a etiqueta visível.  \n\n❌ Proibido invadir PV \n\n⚠️ Sem apresentação e etiqueta, poderá haver remoção do grupo."
       ]
     }
   },
@@ -6885,12 +6887,6 @@
     "120363409367298221@g.us": [],
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Bom ele esperar sentado",
-        "timestamp": 1788802585105
-      },
       {
         "authorNum": "166452229341300",
         "authorName": "Cristian Sntss",
@@ -8052,6 +8048,18 @@
         "authorName": "Camila Designer",
         "text": "Quando ele está ativado ele aceita?",
         "timestamp": 1788804547569
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Não. Nós temos que aprovar de qualquer forma. Ele só manda as apresentações",
+        "timestamp": 1788804607205
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Nome, Idade, Cidade/Estado  orientação sexual*\n\n👤 PV LIBERADO ou 🔒 PV FECHADO — mantenha a etiqueta visível.  \n\n❌ Proibido invadir PV \n\n⚠️ Sem apresentação e etiqueta, poderá haver remoção do grupo.",
+        "timestamp": 1788804613940
       }
     ]
   },
@@ -8076,7 +8084,7 @@
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
     "120363023757382018@g.us": 2027,
-    "120363426574906687@g.us": 168
+    "120363426574906687@g.us": 170
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -19372,6 +19380,18 @@
         "text": "Quando ele está ativado ele aceita?",
         "pushName": "Camila Designer",
         "timestamp": 1788804547569
+      },
+      "AC52DD6D4329003A134CD1F0FDFAA749": {
+        "sender": "53537388122141@lid",
+        "text": "Não. Nós temos que aprovar de qualquer forma. Ele só manda as apresentações",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788804607205
+      },
+      "AC3337FCF98E72331FB9AB5E28C27162": {
+        "sender": "53537388122141@lid",
+        "text": "Nome, Idade, Cidade/Estado  orientação sexual*\n\n👤 PV LIBERADO ou 🔒 PV FECHADO — mantenha a etiqueta visível.  \n\n❌ Proibido invadir PV \n\n⚠️ Sem apresentação e etiqueta, poderá haver remoção do grupo.",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788804613940
       }
     }
   },
@@ -19471,7 +19491,7 @@
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
     "120363023757382018@g.us": 1788804575368,
-    "120363426574906687@g.us": 1788804547569
+    "120363426574906687@g.us": 1788804613940
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
