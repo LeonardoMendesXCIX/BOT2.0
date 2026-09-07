@@ -5304,9 +5304,9 @@
     },
     "120363426574906687@g.us": {
       "53537388122141": {
-        "text": 64,
+        "text": 65,
         "media": 3,
-        "total": 67
+        "total": 68
       },
       "166452229341300": {
         "text": 32,
@@ -5319,9 +5319,9 @@
         "total": 43
       },
       "92629643563147": {
-        "text": 31,
+        "text": 32,
         "media": 4,
-        "total": 35
+        "total": 36
       },
       "81991328395336": {
         "text": 12,
@@ -6865,7 +6865,9 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: O bot envia, se ele estiver desativado, ou em manutenção, a gente envia manualmente por enquanto, até o bot voltar",
         "Camila Designer: Ele está desativado?",
         "Camila Designer: Você tem o texto pronto?",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Está ativado amiga"
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Está ativado amiga",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Só colocar !bot on quando não souber se tá ativado ou não",
+        "Camila Designer: Quando ele está ativado ele aceita?"
       ]
     }
   },
@@ -8212,6 +8214,18 @@
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "text": "Está ativado amiga",
         "timestamp": 1788804509928
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Só colocar !bot on quando não souber se tá ativado ou não",
+        "timestamp": 1788804528172
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Quando ele está ativado ele aceita?",
+        "timestamp": 1788804547569
       }
     ]
   },
@@ -8236,7 +8250,7 @@
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
     "120363023757382018@g.us": 2026,
-    "120363426574906687@g.us": 166
+    "120363426574906687@g.us": 168
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -19514,6 +19528,18 @@
         "text": "Está ativado amiga",
         "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "timestamp": 1788804509928
+      },
+      "ACE77A3CD4B0F13456751CF730550CA7": {
+        "sender": "53537388122141@lid",
+        "text": "Só colocar !bot on quando não souber se tá ativado ou não",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788804528172
+      },
+      "2A4F044FEC6D86EAEF47": {
+        "sender": "92629643563147@lid",
+        "text": "Quando ele está ativado ele aceita?",
+        "pushName": "Camila Designer",
+        "timestamp": 1788804547569
       }
     }
   },
@@ -19613,7 +19639,7 @@
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
     "120363023757382018@g.us": 1788804515195,
-    "120363426574906687@g.us": 1788804509928
+    "120363426574906687@g.us": 1788804547569
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
