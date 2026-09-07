@@ -4932,9 +4932,9 @@
         "total": 1
       },
       "39857447551026": {
-        "text": 13,
+        "text": 14,
         "media": 1,
-        "total": 14
+        "total": 15
       },
       "134888363671607": {
         "text": 1,
@@ -5142,14 +5142,14 @@
         "total": 1
       },
       "264308512522409": {
-        "text": 12,
+        "text": 14,
         "media": 1,
-        "total": 13
+        "total": 15
       },
       "194377938911429": {
-        "text": 2,
+        "text": 4,
         "media": 2,
-        "total": 4
+        "total": 6
       },
       "81531615858788": {
         "text": 1,
@@ -5217,19 +5217,19 @@
         "total": 1
       },
       "136296492200083": {
-        "text": 2,
+        "text": 3,
         "media": 1,
-        "total": 3
+        "total": 4
       },
       "252342414905454": {
         "text": 6,
-        "media": 0,
-        "total": 6
+        "media": 1,
+        "total": 7
       },
       "118528279593092": {
-        "text": 2,
+        "text": 3,
         "media": 1,
-        "total": 3
+        "total": 4
       },
       "183137506173038": {
         "text": 8,
@@ -5247,6 +5247,11 @@
         "total": 1
       },
       "41786424737860": {
+        "text": 1,
+        "media": 0,
+        "total": 1
+      },
+      "125211265527997": {
         "text": 1,
         "media": 0,
         "total": 1
@@ -6133,10 +6138,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Douglas🙏: Heloísa ❤️",
-        "Douglas🙏: 🙈",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: @152274357751809 alguém está incomodando você no Pv? Se preferir, eu removo aqui também",
-        "Heloisa: Pois é ele sabe oq fez",
         "M.m.a: 13 aninhos",
         "Cristian Sntss: Trabalha com o q?",
         "Thawan: Posso chamar pv?",
@@ -6632,7 +6633,11 @@
         "Jefinho: 👀👀👀👀",
         "Jefinho: Saiu",
         "Jefinho: Que barbaridade",
-        "retroboy: Lucas, 19 anos, Guarulhos SP hétero"
+        "retroboy: Lucas, 19 anos, Guarulhos SP hétero",
+        "Fabrício Fernandes: Fiu fiu rsrs",
+        "Francisco Silva: Modelo",
+        "Luis Felipe: Linda vc em",
+        "Henrique Contri 🤫: Isso que é mulher 👏🏻"
       ]
     },
     "120363426574906687@g.us": {
@@ -7749,46 +7754,33 @@
         "authorName": "retroboy",
         "text": "Lucas, 19 anos, Guarulhos SP hétero",
         "timestamp": 1788798567091
+      },
+      {
+        "authorNum": "194377938911429",
+        "authorName": "Fabrício Fernandes",
+        "text": "Fiu fiu rsrs",
+        "timestamp": 1788798582735
+      },
+      {
+        "authorNum": "39857447551026",
+        "authorName": "Francisco Silva",
+        "text": "Modelo",
+        "timestamp": 1788798584643
+      },
+      {
+        "authorNum": "136296492200083",
+        "authorName": "Luis Felipe",
+        "text": "Linda vc em",
+        "timestamp": 1788798588875
+      },
+      {
+        "authorNum": "264308512522409",
+        "authorName": "Henrique Contri 🤫",
+        "text": "Isso que é mulher 👏🏻",
+        "timestamp": 1788798596660
       }
     ],
-    "120363426574906687@g.us": [
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "Eu tô pra ativa tbm",
-        "timestamp": 1788796570209
-      },
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "O negócio d membros",
-        "timestamp": 1788796581645
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "Ativei",
-        "timestamp": 1788796602052
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "FODASE",
-        "timestamp": 1788796604019
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "Vou almoçar",
-        "timestamp": 1788796606187
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
-        "text": "Obgd AMG",
-        "timestamp": 1788796664927
-      }
-    ]
+    "120363426574906687@g.us": []
   },
   "lastJarvisIntervention": {
     "120363409727467494@g.us": 1786781516987,
@@ -7810,7 +7802,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1514,
+    "120363023757382018@g.us": 1518,
     "120363426574906687@g.us": 104
   },
   "botDisabled": {
@@ -15192,6 +15184,30 @@
         "text": "Lucas, 19 anos, Guarulhos SP hétero",
         "pushName": "retroboy",
         "timestamp": 1788798567091
+      },
+      "A57714BA50111629B679946BC093E734": {
+        "sender": "194377938911429@lid",
+        "text": "Fiu fiu rsrs",
+        "pushName": "Fabrício Fernandes",
+        "timestamp": 1788798582736
+      },
+      "ACC29E57222440BC929909A02480647A": {
+        "sender": "39857447551026@lid",
+        "text": "Modelo",
+        "pushName": "Francisco Silva",
+        "timestamp": 1788798584643
+      },
+      "3A7C627BE7CFEBC8C752": {
+        "sender": "136296492200083@lid",
+        "text": "Linda vc em",
+        "pushName": "Luis Felipe",
+        "timestamp": 1788798588875
+      },
+      "ACF57588D8630C37A12536B19D7626FF": {
+        "sender": "264308512522409@lid",
+        "text": "Isso que é mulher 👏🏻",
+        "pushName": "Henrique Contri 🤫",
+        "timestamp": 1788798596660
       }
     },
     "120363426574906687@g.us": {
@@ -15682,7 +15698,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788798567091,
+    "120363023757382018@g.us": 1788798596660,
     "120363426574906687@g.us": 1788798298976
   },
   "autoAnimSent": {
