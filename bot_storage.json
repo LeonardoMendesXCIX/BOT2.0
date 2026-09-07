@@ -4489,9 +4489,9 @@
         "total": 164
       },
       "166452229341300": {
-        "text": 109,
+        "text": 110,
         "media": 40,
-        "total": 149
+        "total": 150
       },
       "53537388122141": {
         "text": 49,
@@ -4810,8 +4810,8 @@
       },
       "168814327128263": {
         "text": 4,
-        "media": 0,
-        "total": 4
+        "media": 1,
+        "total": 5
       },
       "219911083266163": {
         "text": 2,
@@ -4831,9 +4831,9 @@
     },
     "120363426574906687@g.us": {
       "53537388122141": {
-        "text": 28,
+        "text": 32,
         "media": 0,
-        "total": 28
+        "total": 32
       },
       "166452229341300": {
         "text": 13,
@@ -5692,7 +5692,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Jefferson Lima: Obg Gabi..",
         "𝑳𝒂𝒚𝒉🌪🌚: Sejam todos bem vindos🙌🏾",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Bem vindos, novatos 🙋🏻‍♀️",
         "Camila Designer: Sejam todos bem vindos!!!",
@@ -6191,7 +6190,8 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Tá aprendendo, bonita kkkk",
         "Camila Designer: *🚨 REGRAS IMPORTANTES*\n\n❌ Proibido invadir PV sem autorização.\n❌ Respeite todos os participantes do grupo.\n\n🔊 Seja muito bem-vindo(a)! 🤝\n\n*Quem descumprir essas regras serão removidos imediatamente",
         "Camila Designer: !abrir",
-        "Camila Designer: Podemos continuar pessoal!"
+        "Camila Designer: Podemos continuar pessoal!",
+        "Cristian Sntss: É desse jeito que a banda tocar"
       ]
     },
     "120363426574906687@g.us": {
@@ -6264,7 +6264,10 @@
         "Cristian Sntss: Teu comando foi",
         "Camila Designer: Consegui kkk",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Esqueci de te passar esse comando aí também, que usamos bastante kk",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Você também consegue programar horários pra fechar/abrir ele"
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Você também consegue programar horários pra fechar/abrir ele",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: !fechar 21h\n!abrir 2h",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Um exemplo",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: !abrir"
       ]
     }
   },
@@ -6283,48 +6286,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "276287176319083",
-        "authorName": "renan_wesley",
-        "text": "Me disseram que não pareço ter 27, que tenho cara de adolescente",
-        "timestamp": 1788788776272
-      },
-      {
-        "authorNum": "128145298608376",
-        "authorName": "solteiro",
-        "text": "Bom dia",
-        "timestamp": 1788788777234
-      },
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "Trabalha com o que ?",
-        "timestamp": 1788788782701
-      },
-      {
-        "authorNum": "276287176319083",
-        "authorName": "renan_wesley",
-        "text": "Bom dia",
-        "timestamp": 1788788787333
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Tem foto ?",
-        "timestamp": 1788788793533
-      },
-      {
-        "authorNum": "21595850563820",
-        "authorName": "IRINEU FREITAS 🫥🤪",
-        "text": "Motorista de ônibus",
-        "timestamp": 1788788794176
-      },
-      {
-        "authorNum": "21595850563820",
-        "authorName": "IRINEU FREITAS 🫥🤪",
-        "text": "Turismo",
-        "timestamp": 1788788798687
-      },
       {
         "authorNum": "220448105230466",
         "authorName": "lucas santos",
@@ -7182,6 +7143,12 @@
         "authorName": "Camila Designer",
         "text": "Podemos continuar pessoal!",
         "timestamp": 1788790575921
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "É desse jeito que a banda tocar",
+        "timestamp": 1788790603639
       }
     ],
     "120363426574906687@g.us": [
@@ -7304,6 +7271,24 @@
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "text": "Você também consegue programar horários pra fechar/abrir ele",
         "timestamp": 1788790582378
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "!fechar 21h\n!abrir 2h",
+        "timestamp": 1788790598749
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Um exemplo",
+        "timestamp": 1788790603700
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "!abrir",
+        "timestamp": 1788790607700
       }
     ]
   },
@@ -7327,8 +7312,8 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 889,
-    "120363426574906687@g.us": 68
+    "120363023757382018@g.us": 890,
+    "120363426574906687@g.us": 71
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -7348,7 +7333,8 @@
     "120363409496810190@g.us": true,
     "120363428233177583@g.us": true,
     "120363023757382018@g.us": false,
-    "120363313059060675@g.us": true
+    "120363313059060675@g.us": true,
+    "120363426574906687@g.us": false
   },
   "queuedWelcomes": {
     "120363428464897153@g.us": [
@@ -10849,6 +10835,12 @@
         "text": "Podemos continuar pessoal!",
         "pushName": "Camila Designer",
         "timestamp": 1788790575921
+      },
+      "A586C8C81C4AA014EC5AC51255A282D0": {
+        "sender": "166452229341300@lid",
+        "text": "É desse jeito que a banda tocar",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788790603639
       }
     },
     "120363426574906687@g.us": {
@@ -11025,6 +11017,24 @@
         "text": "Você também consegue programar horários pra fechar/abrir ele",
         "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "timestamp": 1788790582378
+      },
+      "ACB8A9BF3220AB8CB60054922E42F887": {
+        "sender": "53537388122141@lid",
+        "text": "!fechar 21h\n!abrir 2h",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788790598749
+      },
+      "ACCC6DCB437AB15BDEDF90627DE453EA": {
+        "sender": "53537388122141@lid",
+        "text": "Um exemplo",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788790603700
+      },
+      "AC9AB361DD2AB7EAD651FBB06DF75570": {
+        "sender": "53537388122141@lid",
+        "text": "!abrir",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788790607700
       }
     }
   },
@@ -11120,8 +11130,8 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788790578564,
-    "120363426574906687@g.us": 1788790582378
+    "120363023757382018@g.us": 1788790604597,
+    "120363426574906687@g.us": 1788790622359
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
