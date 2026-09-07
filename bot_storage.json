@@ -4851,9 +4851,9 @@
         "total": 16
       },
       "92629643563147": {
-        "text": 8,
-        "media": 0,
-        "total": 8
+        "text": 9,
+        "media": 1,
+        "total": 10
       },
       "81991328395336": {
         "text": 2,
@@ -6274,7 +6274,8 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Um exemplo",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: !abrir",
         "Cristian Sntss: Eu divulguei",
-        "Cristian Sntss: Só ta entrando homem"
+        "Cristian Sntss: Só ta entrando homem",
+        "Camila Designer: Muito bom kkk"
       ]
     }
   },
@@ -7290,6 +7291,12 @@
         "authorName": "Cristian Sntss",
         "text": "Só ta entrando homem",
         "timestamp": 1788790656140
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Muito bom kkk",
+        "timestamp": 1788790670964
       }
     ]
   },
@@ -7314,7 +7321,7 @@
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
     "120363023757382018@g.us": 891,
-    "120363426574906687@g.us": 73
+    "120363426574906687@g.us": 74
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -11054,6 +11061,12 @@
         "text": "Só ta entrando homem",
         "pushName": "Cristian Sntss",
         "timestamp": 1788790656140
+      },
+      "2A3ACA7DBF4DC940D2AB": {
+        "sender": "92629643563147@lid",
+        "text": "Muito bom kkk",
+        "pushName": "Camila Designer",
+        "timestamp": 1788790670964
       }
     }
   },
@@ -11150,7 +11163,7 @@
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788787787211,
     "120363023757382018@g.us": 1788790650071,
-    "120363426574906687@g.us": 1788790659024
+    "120363426574906687@g.us": 1788790673640
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
