@@ -4477,9 +4477,9 @@
         "total": 34
       },
       "5511927018683": {
-        "text": 126,
+        "text": 128,
         "media": 10,
-        "total": 136
+        "total": 138
       },
       "166452229341300": {
         "text": 40,
@@ -13194,7 +13194,9 @@
         "yass🧛🏼‍♀️: oii",
         "Leandro: Boa noite!",
         "🌷: Oie",
-        "Leandro: @178855960649758"
+        "Leandro: @178855960649758",
+        "Leandro: !sa 🚨 APRESENTAÇÃO OBRIGATÓRIA!\n\n*📸 Foto de rosto visível + Nome, Idade, Cidade/Estado  orientação sexual*\n\n👤 PV LIBERADO ou 🔒 PV FECHADO — mantenha a etiqueta visível.  \n\n❌ Proibido invadir PV \n\n",
+        "Leandro: !del"
       ]
     },
     "120363426574906687@g.us": {
@@ -13384,6 +13386,18 @@
         "authorName": "Leandro",
         "text": "@178855960649758",
         "timestamp": 1788756194347
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!sa 🚨 APRESENTAÇÃO OBRIGATÓRIA!\n\n*📸 Foto de rosto visível + Nome, Idade, Cidade/Estado  orientação sexual*\n\n👤 PV LIBERADO ou 🔒 PV FECHADO — mantenha a etiqueta visível.  \n\n❌ Proibido invadir PV \n\n⚠️ Sem apresentação e etiqueta, poderá haver remoção do grupo.\n\n{membro}",
+        "timestamp": 1788756234809
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!del",
+        "timestamp": 1788756240541
       }
     ],
     "120363426574906687@g.us": []
@@ -13408,7 +13422,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 33,
-    "120363023757382018@g.us": 327,
+    "120363023757382018@g.us": 329,
     "120363426574906687@g.us": 36
   },
   "botDisabled": {
@@ -13621,9 +13635,9 @@
       "date": "2026-09-06T22:06:15.627Z"
     },
     "120363023757382018@g.us": {
-      "text": "Nome, Idade, Cidade/Estado  orientação sexual*\n\n👤 PV LIBERADO ou 🔒 PV FECHADO — mantenha a etiqueta visível.  \n\n❌ Proibido invadir PV \n\n⚠️ Sem apresentação e etiqueta, poderá haver remoção do grupo.\n\n{nome}{numero}",
+      "text": "Nome, Idade, Cidade/Estado  orientação sexual*\n\n👤 PV LIBERADO ou 🔒 PV FECHADO — mantenha a etiqueta visível.  \n\n❌ Proibido invadir PV \n\n⚠️ Sem apresentação e etiqueta, poderá haver remoção do grupo.\n\n{membro}",
       "setBy": "54259127210155",
-      "date": "2026-09-07T03:15:42.480Z"
+      "date": "2026-09-07T04:43:54.809Z"
     },
     "120363313059060675@g.us": {
       "text": "🎉 Kbaré da Layh. — CHEGOU? APRESENTE-SE!\n\n👤 Nome:\n🎂 Idade:\n📍 Cidade/Estado:\n💬 PV: ABERTO 🔓 ou FECHADO 🔒\n\n🚨 Apresente-se ao entrar e respeite todos!\n\n{membro}",
@@ -34258,6 +34272,18 @@
         "text": "@178855960649758",
         "pushName": "Leandro",
         "timestamp": 1788756194347
+      },
+      "ACA7A27131FE06FE2F662A29E16C5207": {
+        "sender": "54259127210155@lid",
+        "text": "!sa 🚨 APRESENTAÇÃO OBRIGATÓRIA!\n\n*📸 Foto de rosto visível + Nome, Idade, Cidade/Estado  orientação sexual*\n\n👤 PV LIBERADO ou 🔒 PV FECHADO — mantenha a etiqueta visível.  \n\n❌ Proibido invadir PV \n\n⚠️ Sem apresentação e etiqueta, poderá haver remoção do grupo.\n\n{membro}",
+        "pushName": "Leandro",
+        "timestamp": 1788756234809
+      },
+      "ACEE7D47D69621DFDAB2D2DCAA908985": {
+        "sender": "54259127210155@lid",
+        "text": "!del",
+        "pushName": "Leandro",
+        "timestamp": 1788756240541
       }
     },
     "120363426574906687@g.us": {
@@ -34565,7 +34591,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788755502872,
-    "120363023757382018@g.us": 1788756194347,
+    "120363023757382018@g.us": 1788756240541,
     "120363426574906687@g.us": 1788725639102
   },
   "autoAnimSent": {
