@@ -4507,9 +4507,9 @@
         "total": 167
       },
       "129373172711439": {
-        "text": 76,
-        "media": 20,
-        "total": 96
+        "text": 77,
+        "media": 21,
+        "total": 98
       },
       "138306604032063": {
         "text": 11,
@@ -4552,9 +4552,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 175,
+        "text": 176,
         "media": 100,
-        "total": 275
+        "total": 276
       },
       "559984624669": {
         "text": 4,
@@ -4592,9 +4592,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 222,
+        "text": 223,
         "media": 20,
-        "total": 242
+        "total": 243
       },
       "206966404210884": {
         "text": 2,
@@ -4607,9 +4607,9 @@
         "total": 6
       },
       "254884934881353": {
-        "text": 36,
-        "media": 2,
-        "total": 38
+        "text": 37,
+        "media": 3,
+        "total": 40
       },
       "45479878459474": {
         "text": 1,
@@ -6195,10 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Henrique Contri 🤫: Rapaz vou mandar lá no teu PV brincadeira 🤣",
-        "Camila Designer: Prova aqui 😌😌😌",
-        "Saul: Kkkkkkkk, ela sempre aparece com algo aleatório",
-        "Camila Designer: Duvidoooo",
         "Gleydson Souza: Mando s",
         "Dany: Sim hahahha",
         "Luis Felipe: Sim e vc",
@@ -6694,7 +6690,11 @@
         "P: que beleza",
         "Camila Designer: Ladra kkk",
         "Henrique Contri 🤫: Oq foi ? Kk",
-        "Saul: Posso brincar?"
+        "Saul: Posso brincar?",
+        "Celiete Souza: Eu não fiz nada kkkkk",
+        "P: Olhou sorriu ..",
+        "Gabi 💋: Topo também",
+        "Camila Designer: Eu roubei essa figurinha é você roubou de mim kkk"
       ]
     },
     "120363426574906687@g.us": {
@@ -6898,30 +6898,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "118515428286715",
-        "authorName": "Saul",
-        "text": "26 🫠",
-        "timestamp": 1788805539298
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Sobre isso ❤️",
-        "timestamp": 1788805545011
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Vc é de que lugar do interior de sp",
-        "timestamp": 1788805545232
-      },
-      {
-        "authorNum": "118515428286715",
-        "authorName": "Saul",
-        "text": "Tenho a idade que vocês quiserem",
-        "timestamp": 1788805548109
-      },
       {
         "authorNum": "264308512522409",
         "authorName": "Henrique Contri 🤫",
@@ -8055,6 +8031,30 @@
         "authorName": "Saul",
         "text": "Posso brincar?",
         "timestamp": 1788807331042
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Eu não fiz nada kkkkk",
+        "timestamp": 1788807332314
+      },
+      {
+        "authorNum": "254884934881353",
+        "authorName": "P",
+        "text": "Olhou sorriu ..",
+        "timestamp": 1788807347101
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Topo também",
+        "timestamp": 1788807350423
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Eu roubei essa figurinha é você roubou de mim kkk",
+        "timestamp": 1788807354955
       }
     ],
     "120363426574906687@g.us": [
@@ -8098,7 +8098,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2290,
+    "120363023757382018@g.us": 2294,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -20203,6 +20203,30 @@
         "text": "Posso brincar?",
         "pushName": "Saul",
         "timestamp": 1788807331043
+      },
+      "ACACE5E452D69CB502F8B82ACCEE0692": {
+        "sender": "129373172711439@lid",
+        "text": "Eu não fiz nada kkkkk",
+        "pushName": "Celiete Souza",
+        "timestamp": 1788807332314
+      },
+      "3A810ACE9A82B882089E": {
+        "sender": "254884934881353@lid",
+        "text": "Olhou sorriu ..",
+        "pushName": "P",
+        "timestamp": 1788807347102
+      },
+      "ACEF9E50ADA6A1127EC5AAEF21BB9082": {
+        "sender": "247020967165997@lid",
+        "text": "Topo também",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788807350424
+      },
+      "2AE197E72836252DAB3D": {
+        "sender": "92629643563147@lid",
+        "text": "Eu roubei essa figurinha é você roubou de mim kkk",
+        "pushName": "Camila Designer",
+        "timestamp": 1788807354955
       }
     },
     "120363426574906687@g.us": {
@@ -21143,7 +21167,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788807331042,
+    "120363023757382018@g.us": 1788807354955,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
