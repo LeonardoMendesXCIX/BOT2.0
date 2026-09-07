@@ -4473,9 +4473,9 @@
         "total": 5
       },
       "108461127897146": {
-        "text": 59,
+        "text": 60,
         "media": 11,
-        "total": 70
+        "total": 71
       },
       "5511927018683": {
         "text": 148,
@@ -4563,9 +4563,9 @@
         "total": 55
       },
       "274384656834700": {
-        "text": 13,
+        "text": 14,
         "media": 4,
-        "total": 17
+        "total": 18
       },
       "111141304930334": {
         "text": 1,
@@ -4578,9 +4578,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 45,
+        "text": 47,
         "media": 4,
-        "total": 49
+        "total": 51
       },
       "206966404210884": {
         "text": 2,
@@ -5851,7 +5851,11 @@
         "jaciara: Dormi igual não durmo a meses kkkkkkk",
         "Amaury: Kk",
         "Gleydson Souza: Bom deixa eu ir trabalhar um pouco tenho encomenda pra fazer kkkk depois mando o resultado pra vcs aqui, vou fazer brigadeiro e beijinho de colher.",
-        "Amaury: Nem vou falar nada kkk"
+        "Amaury: Nem vou falar nada kkk",
+        "Gabi 💋: Tá difícil pra dormir já ?",
+        "jaciara: Bom trabalho pra vc",
+        "Gabi 💋: Mandei pra ca viu",
+        "Gleydson Souza: Obg"
       ]
     },
     "120363426574906687@g.us": {
@@ -5909,12 +5913,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Não é menina",
-        "timestamp": 1788785446913
-      },
       {
         "authorNum": "274384656834700",
         "authorName": "Gleydson Souza",
@@ -6100,6 +6098,30 @@
         "authorName": "Amaury",
         "text": "Nem vou falar nada kkk",
         "timestamp": 1788787238709
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Tá difícil pra dormir já ?",
+        "timestamp": 1788787246087
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Bom trabalho pra vc",
+        "timestamp": 1788787252615
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Mandei pra ca viu",
+        "timestamp": 1788787253988
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Obg",
+        "timestamp": 1788787264147
       }
     ],
     "120363426574906687@g.us": []
@@ -6124,7 +6146,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 33,
-    "120363023757382018@g.us": 547,
+    "120363023757382018@g.us": 551,
     "120363426574906687@g.us": 36
   },
   "botDisabled": {
@@ -7591,6 +7613,30 @@
         "text": "Nem vou falar nada kkk",
         "pushName": "Amaury",
         "timestamp": 1788787238709
+      },
+      "ACA360F26F20B736F5E3B797D23AEE44": {
+        "sender": "247020967165997@lid",
+        "text": "Tá difícil pra dormir já ?",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788787246087
+      },
+      "ACFB7476EF1E3162FF36C3051F50B615": {
+        "sender": "108461127897146@lid",
+        "text": "Bom trabalho pra vc",
+        "pushName": "jaciara",
+        "timestamp": 1788787252615
+      },
+      "ACDBF08105EC683F7C533EDDC7163677": {
+        "sender": "247020967165997@lid",
+        "text": "Mandei pra ca viu",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788787253988
+      },
+      "ACD61470E91EAA9E2B8D0EB0E2693D13": {
+        "sender": "274384656834700@lid",
+        "text": "Obg",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1788787264147
       }
     },
     "120363426574906687@g.us": {}
@@ -7687,7 +7733,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788755502872,
-    "120363023757382018@g.us": 1788787238709,
+    "120363023757382018@g.us": 1788787264147,
     "120363426574906687@g.us": 1788725639102
   },
   "autoAnimSent": {
