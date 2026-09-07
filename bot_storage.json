@@ -4722,9 +4722,9 @@
         "total": 4
       },
       "128145298608376": {
-        "text": 41,
+        "text": 42,
         "media": 3,
-        "total": 44
+        "total": 45
       },
       "193733257609270": {
         "text": 2,
@@ -4943,8 +4943,8 @@
       },
       "36645315321925": {
         "text": 33,
-        "media": 3,
-        "total": 36
+        "media": 4,
+        "total": 37
       },
       "187845394358417": {
         "text": 1,
@@ -6249,7 +6249,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Celiete Souza: Pois então",
         "P: eu não joguei nada não",
         "P: mas se ela jogar",
         "P: eu seguro",
@@ -6748,7 +6747,8 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Pensamentos iguais",
         "Kaio Mendes: Idênticos",
         "Kaio Mendes: Jaca Zé",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Sim"
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Sim",
+        "solteiro: Sim eu.nao"
       ]
     },
     "120363426574906687@g.us": {
@@ -7367,6 +7367,12 @@
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "text": "Sim",
         "timestamp": 1788816088018
+      },
+      {
+        "authorNum": "128145298608376",
+        "authorName": "solteiro",
+        "text": "Sim eu.nao",
+        "timestamp": 1788816120192
       }
     ],
     "120363426574906687@g.us": [
@@ -7398,7 +7404,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2769,
+    "120363023757382018@g.us": 2770,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -22443,6 +22449,12 @@
         "text": "Sim",
         "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "timestamp": 1788816088018
+      },
+      "A55A968BB1C02566C318D81CAB7703AD": {
+        "sender": "128145298608376@lid",
+        "text": "Sim eu.nao",
+        "pushName": "solteiro",
+        "timestamp": 1788816120192
       }
     },
     "120363426574906687@g.us": {
@@ -23389,7 +23401,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788816088018,
+    "120363023757382018@g.us": 1788816125682,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
