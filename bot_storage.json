@@ -4497,9 +4497,9 @@
         "total": 169
       },
       "166452229341300": {
-        "text": 176,
+        "text": 178,
         "media": 58,
-        "total": 234
+        "total": 236
       },
       "53537388122141": {
         "text": 127,
@@ -5189,6 +5189,16 @@
       "20736957747257": {
         "text": 1,
         "media": 0,
+        "total": 1
+      },
+      "33905142956125": {
+        "text": 1,
+        "media": 0,
+        "total": 1
+      },
+      "107442969026587": {
+        "text": 0,
+        "media": 1,
         "total": 1
       }
     },
@@ -6073,9 +6083,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Ryan: Sou mineiro",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Quem é o indivíduo?",
-        "Rodrigo: Rodrigo de campinas sp 47 solteiro !!!",
         "𝑳𝒂𝒚𝒉🌪🌚: Bem vindo",
         "Rodrigo: Muito obrigado 😊",
         "Cristian Sntss: @92629643563147",
@@ -6572,7 +6579,10 @@
         "Jefinho: Oi morena dos olhos lindos",
         "Francisco Silva: Pé de frango",
         "Cristian Sntss: Arroz com pequi?",
-        "José Vitor: Top e bom demais"
+        "José Vitor: Top e bom demais",
+        "Cristian Sntss: Franguinho",
+        "sou seu pior pesadelo: Boa tarde",
+        "Cristian Sntss: Boa"
       ]
     },
     "120363426574906687@g.us": {
@@ -6713,36 +6723,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "Vou sair até de perto",
-        "timestamp": 1788795647072
-      },
-      {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "Kkkkk",
-        "timestamp": 1788795649066
-      },
-      {
-        "authorNum": "176549663916038",
-        "authorName": "😃",
-        "text": "Chama PV",
-        "timestamp": 1788795656724
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "Sempreeeee",
-        "timestamp": 1788795664215
-      },
-      {
-        "authorNum": "176549663916038",
-        "authorName": "😃",
-        "text": "Liberada",
-        "timestamp": 1788795664352
-      },
       {
         "authorNum": "278838454050886",
         "authorName": "Ricardo",
@@ -7516,6 +7496,24 @@
         "authorName": "José Vitor",
         "text": "Top e bom demais",
         "timestamp": 1788797440836
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Franguinho",
+        "timestamp": 1788797457246
+      },
+      {
+        "authorNum": "33905142956125",
+        "authorName": "sou seu pior pesadelo",
+        "text": "Boa tarde",
+        "timestamp": 1788797460754
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Boa",
+        "timestamp": 1788797469036
       }
     ],
     "120363426574906687@g.us": [
@@ -7607,7 +7605,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1401,
+    "120363023757382018@g.us": 1404,
     "120363426574906687@g.us": 104
   },
   "botDisabled": {
@@ -14311,6 +14309,24 @@
         "text": "Top e bom demais",
         "pushName": "José Vitor",
         "timestamp": 1788797440836
+      },
+      "A59F09DEE10D027CC875BCCF7D56559A": {
+        "sender": "166452229341300@lid",
+        "text": "Franguinho",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788797457246
+      },
+      "AC58DE22E627CA3539D796A8EC19D548": {
+        "sender": "33905142956125@lid",
+        "text": "Boa tarde",
+        "pushName": "sou seu pior pesadelo",
+        "timestamp": 1788797460754
+      },
+      "A52E6A814EADBFA7920DA1BBE5F80CAA": {
+        "sender": "166452229341300@lid",
+        "text": "Boa",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788797469036
       }
     },
     "120363426574906687@g.us": {
@@ -14801,7 +14817,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788797440836,
+    "120363023757382018@g.us": 1788797472816,
     "120363426574906687@g.us": 1788796664927
   },
   "autoAnimSent": {
