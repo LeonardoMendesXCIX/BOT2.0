@@ -4487,9 +4487,9 @@
         "total": 5
       },
       "108461127897146": {
-        "text": 136,
+        "text": 138,
         "media": 37,
-        "total": 173
+        "total": 175
       },
       "5511927018683": {
         "text": 164,
@@ -4553,8 +4553,8 @@
       },
       "92629643563147": {
         "text": 147,
-        "media": 88,
-        "total": 235
+        "media": 89,
+        "total": 236
       },
       "559984624669": {
         "text": 4,
@@ -6195,8 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Cristian Sntss: Vai lá",
-        "Luis Felipe: kkk vai vc então",
         "Henrique Contri 🤫: Hj tô de folga 🤣",
         "Luis Felipe: mesmo assim só ir",
         "𝑳𝒂𝒚𝒉🌪🌚: E ir de arrasta",
@@ -6694,7 +6692,9 @@
         "Camila Designer: Até aqui é +18",
         "Camila Designer: Kkkk",
         "Henrique Contri 🤫: De pinça eu falo kk",
-        "Camila Designer: Aguardando ansiosa para o Kabaré kkkk"
+        "Camila Designer: Aguardando ansiosa para o Kabaré kkkk",
+        "jaciara: Minha amiga vai dá banho nas crianças , organizar janta cedo",
+        "jaciara: Pra que ela não perca o kbaré"
       ]
     },
     "120363426574906687@g.us": {
@@ -7779,6 +7779,18 @@
         "authorName": "Camila Designer",
         "text": "Aguardando ansiosa para o Kabaré kkkk",
         "timestamp": 1788806265057
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Minha amiga vai dá banho nas crianças , organizar janta cedo",
+        "timestamp": 1788806291992
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Pra que ela não perca o kbaré",
+        "timestamp": 1788806301708
       }
     ],
     "120363426574906687@g.us": [
@@ -7942,7 +7954,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2173,
+    "120363023757382018@g.us": 2175,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -19345,6 +19357,18 @@
         "text": "Aguardando ansiosa para o Kabaré kkkk",
         "pushName": "Camila Designer",
         "timestamp": 1788806265058
+      },
+      "ACE87F99C3A015E7FA64F83F9ECAAE6E": {
+        "sender": "108461127897146@lid",
+        "text": "Minha amiga vai dá banho nas crianças , organizar janta cedo",
+        "pushName": "jaciara",
+        "timestamp": 1788806291992
+      },
+      "ACD060E7578813B4EF4DD59FBC39DA74": {
+        "sender": "108461127897146@lid",
+        "text": "Pra que ela não perca o kbaré",
+        "pushName": "jaciara",
+        "timestamp": 1788806301708
       }
     },
     "120363426574906687@g.us": {
@@ -20285,7 +20309,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788806265057,
+    "120363023757382018@g.us": 1788806301708,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
