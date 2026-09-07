@@ -4679,9 +4679,9 @@
         "total": 2
       },
       "59645049761949": {
-        "text": 35,
+        "text": 37,
         "media": 1,
-        "total": 36
+        "total": 38
       },
       "21338118979724": {
         "text": 3,
@@ -5627,8 +5627,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Leandro: !sa",
-        "Leandro: !del",
         "Leandro: !del",
         "Leandro: !sa\n\n🚨 APRESENTAÇÃO OBRIGATÓRIA!\n\n*📸 Foto de rosto visível + Nome, Idade, Cidade/Estado  orientação sexual*\n\n👤 PV LIBERADO ou 🔒 PV FECHADO — mantenha a etiqueta visível.  \n\n❌ Proibido invadir PV \n",
         "Leandro: !del",
@@ -6126,7 +6124,9 @@
         "Camila Designer: Afs",
         "Amaury: Eita",
         "Heloisa: Eu tenho 21 anos solteira",
-        "Amaury: Quem aí gosta de onça"
+        "Amaury: Quem aí gosta de onça",
+        "Amaury: Já viu uma de perto",
+        "Amaury: Bacana"
       ]
     },
     "120363426574906687@g.us": {
@@ -7398,6 +7398,18 @@
         "authorName": "Amaury",
         "text": "Quem aí gosta de onça",
         "timestamp": 1788789252601
+      },
+      {
+        "authorNum": "59645049761949",
+        "authorName": "Amaury",
+        "text": "Já viu uma de perto",
+        "timestamp": 1788789258104
+      },
+      {
+        "authorNum": "59645049761949",
+        "authorName": "Amaury",
+        "text": "Bacana",
+        "timestamp": 1788789266487
       }
     ],
     "120363426574906687@g.us": [
@@ -7495,7 +7507,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 782,
+    "120363023757382018@g.us": 784,
     "120363426574906687@g.us": 48
   },
   "botDisabled": {
@@ -10374,6 +10386,18 @@
         "text": "Quem aí gosta de onça",
         "pushName": "Amaury",
         "timestamp": 1788789252601
+      },
+      "AC3016356B13C00E6971A1BB582B50D1": {
+        "sender": "59645049761949@lid",
+        "text": "Já viu uma de perto",
+        "pushName": "Amaury",
+        "timestamp": 1788789258104
+      },
+      "ACEC45F3259F0C6F3045AAF221DFF063": {
+        "sender": "59645049761949@lid",
+        "text": "Bacana",
+        "pushName": "Amaury",
+        "timestamp": 1788789266489
       }
     },
     "120363426574906687@g.us": {
@@ -10525,7 +10549,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788789252601,
+    "120363023757382018@g.us": 1788789266487,
     "120363426574906687@g.us": 1788788012627
   },
   "autoAnimSent": {
