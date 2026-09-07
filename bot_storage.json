@@ -4572,9 +4572,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 290,
+        "text": 292,
         "media": 169,
-        "total": 459
+        "total": 461
       },
       "559984624669": {
         "text": 4,
@@ -6266,8 +6266,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Victor: ele mesmo",
-        "Dany: Maluco!",
         "Victor: mandou trocentas vezes o link do grupo dele aqui",
         "Dany: Ah eita",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: @all \nNão cliquem em nada!! Isso é um vírus!!!",
@@ -6765,7 +6763,9 @@
         "Kaio Mendes: Kdksksksks",
         "Kaio Mendes: Cuidado mano, ela se transforma lá.....",
         "Wellington: Tô vendo msm irmão kkk",
-        "Kaio Mendes: Vc mentindo agora"
+        "Kaio Mendes: Vc mentindo agora",
+        "Camila Designer: Minha amiga não vai mandar nada",
+        "Camila Designer: Agora eu não sei 🤣🤣🤣🤣"
       ]
     },
     "120363426574906687@g.us": {
@@ -7253,6 +7253,18 @@
         "authorName": "Kaio Mendes",
         "text": "Vc mentindo agora",
         "timestamp": 1788820504196
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Minha amiga não vai mandar nada",
+        "timestamp": 1788820517048
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Agora eu não sei 🤣🤣🤣🤣",
+        "timestamp": 1788820523552
       }
     ],
     "120363426574906687@g.us": []
@@ -7277,7 +7289,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 486,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 3040,
+    "120363023757382018@g.us": 3042,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -23991,6 +24003,18 @@
         "text": "Vc mentindo agora",
         "pushName": "Kaio Mendes",
         "timestamp": 1788820504196
+      },
+      "2AB41C14E1267B19BBB7": {
+        "sender": "92629643563147@lid",
+        "text": "Minha amiga não vai mandar nada",
+        "pushName": "Camila Designer",
+        "timestamp": 1788820517048
+      },
+      "2AA3C8C6D5070C03383B": {
+        "sender": "92629643563147@lid",
+        "text": "Agora eu não sei 🤣🤣🤣🤣",
+        "pushName": "Camila Designer",
+        "timestamp": 1788820523552
       }
     },
     "120363426574906687@g.us": {
@@ -24937,7 +24961,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788819771459,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788820506532,
+    "120363023757382018@g.us": 1788820523552,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
