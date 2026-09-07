@@ -4552,9 +4552,9 @@
         "total": 2
       },
       "59623457439943": {
-        "text": 26,
+        "text": 27,
         "media": 7,
-        "total": 33
+        "total": 34
       },
       "262182034002040": {
         "text": 71,
@@ -5337,9 +5337,9 @@
         "total": 6
       },
       "79728216113177": {
-        "text": 18,
-        "media": 10,
-        "total": 28
+        "text": 19,
+        "media": 11,
+        "total": 30
       }
     },
     "120363426574906687@g.us": {
@@ -6244,8 +6244,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Henrique Contri 🤫: Óbvio né 🤣",
-        "Camila Designer: Ué, vai que não sabe",
         "Camila Designer: Rsrsrs",
         "Henrique Contri 🤫: Minha primeira vez aqui né tem que informar kk",
         "👻🤑: Como entra",
@@ -6743,6 +6741,8 @@
         "Kaio Mendes: Essa etique aí não dá ban?",
         "Victor: oxi, pq um ensinamento brabo desse daria ban?",
         "Kaio Mendes: É pq acho que só pode etiqueta \"PV aberto\" e \"PV fechado\" aqui kkk",
+        "Kaio Mendes: Só acho",
+        "Victor: eu to vendo que vc só acha, mano",
         "Kaio Mendes: Só acho"
       ]
     },
@@ -6947,18 +6947,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "254884934881353",
-        "authorName": "P",
-        "text": "Feriado tá bom pra ser iludido",
-        "timestamp": 1788812065068
-      },
-      {
-        "authorNum": "225611041743041",
-        "authorName": "Mikael Santos",
-        "text": "👀",
-        "timestamp": 1788812066229
-      },
       {
         "authorNum": "241261818728589",
         "authorName": "sorveteria",
@@ -7606,6 +7594,18 @@
         "authorName": "Kaio Mendes",
         "text": "Só acho",
         "timestamp": 1788813845515
+      },
+      {
+        "authorNum": "59623457439943",
+        "authorName": "Victor",
+        "text": "eu to vendo que vc só acha, mano",
+        "timestamp": 1788813899003
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "Só acho",
+        "timestamp": 1788813913978
       }
     ],
     "120363426574906687@g.us": []
@@ -7630,7 +7630,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2695,
+    "120363023757382018@g.us": 2697,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -22213,6 +22213,18 @@
         "text": "Só acho",
         "pushName": "Kaio Mendes",
         "timestamp": 1788813845516
+      },
+      "ACF98FA4BF1457B4A94BBA26D79E5117": {
+        "sender": "59623457439943@lid",
+        "text": "eu to vendo que vc só acha, mano",
+        "pushName": "Victor",
+        "timestamp": 1788813899004
+      },
+      "AC9D51B104200B3A83FC88D1C70E65A8": {
+        "sender": "79728216113177@lid",
+        "text": "Só acho",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788813913978
       }
     },
     "120363426574906687@g.us": {
@@ -23153,7 +23165,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788813850670,
+    "120363023757382018@g.us": 1788813917786,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
