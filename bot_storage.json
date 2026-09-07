@@ -4517,9 +4517,9 @@
         "total": 210
       },
       "166452229341300": {
-        "text": 322,
-        "media": 100,
-        "total": 422
+        "text": 323,
+        "media": 101,
+        "total": 424
       },
       "53537388122141": {
         "text": 229,
@@ -5337,9 +5337,9 @@
         "total": 7
       },
       "79728216113177": {
-        "text": 64,
-        "media": 30,
-        "total": 94
+        "text": 65,
+        "media": 31,
+        "total": 96
       }
     },
     "120363426574906687@g.us": {
@@ -6249,8 +6249,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Celiete Souza: Tá vendo o que vc fez kkkk",
-        "Camila Designer: Você se botou kkkk",
         "Celiete Souza: Bhaaaa",
         "P: Celiete perigosa",
         "Gleydson Souza: @247020967165997 ate o kbaré baby volto a noite",
@@ -6748,7 +6746,9 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: 23 anos",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: E cabelo pintado 😂",
         "Kaio Mendes: Tlgd",
-        "Kaio Mendes: Massa"
+        "Kaio Mendes: Massa",
+        "Cristian Sntss: @92629643563147 \nVender um curso de como ser atacante eu compro",
+        "Kaio Mendes: Vende barato @92629643563147"
       ]
     },
     "120363426574906687@g.us": {
@@ -7709,6 +7709,18 @@
         "authorName": "Kaio Mendes",
         "text": "Massa",
         "timestamp": 1788816980168
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "@92629643563147 \nVender um curso de como ser atacante eu compro",
+        "timestamp": 1788816993583
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "Vende barato @92629643563147",
+        "timestamp": 1788817009576
       }
     ],
     "120363426574906687@g.us": []
@@ -7733,7 +7745,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2839,
+    "120363023757382018@g.us": 2841,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -23198,6 +23210,18 @@
         "text": "Massa",
         "pushName": "Kaio Mendes",
         "timestamp": 1788816980168
+      },
+      "A55B861E8619230381D1028233983D3F": {
+        "sender": "166452229341300@lid",
+        "text": "@92629643563147 \nVender um curso de como ser atacante eu compro",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788816993583
+      },
+      "ACCC13964B2062F074F92582943747E6": {
+        "sender": "79728216113177@lid",
+        "text": "Vende barato @92629643563147",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788817009576
       }
     },
     "120363426574906687@g.us": {
@@ -24144,7 +24168,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788816980168,
+    "120363023757382018@g.us": 1788817009576,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
