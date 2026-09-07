@@ -4202,9 +4202,9 @@
         "total": 1
       },
       "262182034002040": {
-        "text": 3,
+        "text": 5,
         "media": 64,
-        "total": 67
+        "total": 69
       },
       "129373172711439": {
         "text": 7,
@@ -4507,14 +4507,14 @@
         "total": 5
       },
       "108461127897146": {
-        "text": 164,
+        "text": 165,
         "media": 40,
-        "total": 204
+        "total": 205
       },
       "5511927018683": {
-        "text": 194,
+        "text": 195,
         "media": 17,
-        "total": 211
+        "total": 212
       },
       "166452229341300": {
         "text": 329,
@@ -4522,9 +4522,9 @@
         "total": 433
       },
       "53537388122141": {
-        "text": 248,
+        "text": 249,
         "media": 30,
-        "total": 278
+        "total": 279
       },
       "129373172711439": {
         "text": 121,
@@ -4592,9 +4592,9 @@
         "total": 89
       },
       "81991328395336": {
-        "text": 164,
+        "text": 165,
         "media": 47,
-        "total": 211
+        "total": 212
       },
       "274384656834700": {
         "text": 76,
@@ -5454,7 +5454,8 @@
         "Cristian Sntss: 🤣🤣🤣o tecladista depois que entendeu",
         ": 🤣🤣🤣o tecladista depois que entendeu",
         "𝑳𝒂𝒚𝒉🌪🌚: Olha as coisas que esse homi posta",
-        "𝑳𝒂𝒚𝒉🌪🌚: Tbm sou verde"
+        "𝑳𝒂𝒚𝒉🌪🌚: Tbm sou verde",
+        "Dany: Eu também sou verde hahhaha"
       ]
     },
     "120363411043114631@g.us": {},
@@ -6255,9 +6256,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Camila Designer: Hoje vamos ter outra metade do peitoral?",
-        "Juliano Perlin: To bemm🙌🏻",
-        "Camila Designer: @241261818728589",
         "Juliano Perlin: Acho q Simm🤭",
         "Wellington: Boa tarde galerinha 😘",
         "Camila Designer: Oi @182738040713418 , saudades sua 😏\nQuer dizer minha amiga estava!",
@@ -6754,7 +6752,10 @@
         "jaciara: Kkkkkk",
         "Juliano Perlin: Kkkkkkk",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Eu durmo com uma coberta amiga 😂",
-        "Saul: Você é 10"
+        "Saul: Você é 10",
+        "jaciara: Mulher o calor que tá aqui",
+        "Leandro: Ontem eu não tinha 2,10... Então 2,50 tá difícil mesmo 🙃",
+        "𝑳𝒂𝒚𝒉🌪🌚: Nem me fale"
       ]
     },
     "120363426574906687@g.us": {
@@ -6958,6 +6959,12 @@
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
         "text": "Tbm sou verde",
         "timestamp": 1788817389753
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Eu também sou verde hahhaha",
+        "timestamp": 1788817781488
       }
     ],
     "120363050678635389@g.us": [],
@@ -7739,6 +7746,24 @@
         "authorName": "Saul",
         "text": "Você é 10",
         "timestamp": 1788817750276
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Mulher o calor que tá aqui",
+        "timestamp": 1788817754952
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Ontem eu não tinha 2,10... Então 2,50 tá difícil mesmo 🙃",
+        "timestamp": 1788817757175
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Nem me fale",
+        "timestamp": 1788817775424
       }
     ],
     "120363426574906687@g.us": []
@@ -7757,13 +7782,13 @@
     "120363411233423709@g.us": 5,
     "120363428079168524@g.us": 342,
     "120363411246936023@g.us": 31,
-    "120363409024805409@g.us": 167,
+    "120363409024805409@g.us": 168,
     "120363050678635389@g.us": 1,
     "120363411043114631@g.us": 20,
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2887,
+    "120363023757382018@g.us": 2890,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -8129,6 +8154,12 @@
         "text": "Tbm sou verde",
         "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
         "timestamp": 1788817389753
+      },
+      "3A918FBCB9DF9CA1C1ED": {
+        "sender": "262182034002040@lid",
+        "text": "Eu também sou verde hahhaha",
+        "pushName": "Dany",
+        "timestamp": 1788817781488
       }
     },
     "120363050678635389@g.us": {},
@@ -23522,6 +23553,24 @@
         "text": "Você é 10",
         "pushName": "Saul",
         "timestamp": 1788817750276
+      },
+      "ACF4813D32F92D746000DE55668142F3": {
+        "sender": "108461127897146@lid",
+        "text": "Mulher o calor que tá aqui",
+        "pushName": "jaciara",
+        "timestamp": 1788817754952
+      },
+      "AC4560C8FF56EA2F76C1A151FD380BD9": {
+        "sender": "54259127210155@lid",
+        "text": "Ontem eu não tinha 2,10... Então 2,50 tá difícil mesmo 🙃",
+        "pushName": "Leandro",
+        "timestamp": 1788817757175
+      },
+      "AC0F953BE505A128020085160C197A6C": {
+        "sender": "81991328395336@lid",
+        "text": "Nem me fale",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1788817775424
       }
     },
     "120363426574906687@g.us": {
@@ -24463,12 +24512,12 @@
     "120363285757434347@g.us": 1787298647026,
     "120363414910933266@g.us": 1787299679698,
     "120363411246936023@g.us": 1788231210742,
-    "120363409024805409@g.us": 1788817649881,
+    "120363409024805409@g.us": 1788817781488,
     "120363411043114631@g.us": 1787897464612,
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788817750276,
+    "120363023757382018@g.us": 1788817781721,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
