@@ -4387,9 +4387,9 @@
         "total": 13
       },
       "252342414905454": {
-        "text": 48,
+        "text": 50,
         "media": 33,
-        "total": 81
+        "total": 83
       },
       "129373172711439": {
         "text": 37,
@@ -4501,9 +4501,9 @@
         "total": 207
       },
       "53537388122141": {
-        "text": 123,
+        "text": 124,
         "media": 11,
-        "total": 134
+        "total": 135
       },
       "129373172711439": {
         "text": 27,
@@ -4571,9 +4571,9 @@
         "total": 9
       },
       "81991328395336": {
-        "text": 88,
-        "media": 24,
-        "total": 112
+        "text": 89,
+        "media": 25,
+        "total": 114
       },
       "274384656834700": {
         "text": 26,
@@ -5061,9 +5061,9 @@
         "total": 1
       },
       "119602742882530": {
-        "text": 1,
+        "text": 2,
         "media": 3,
-        "total": 4
+        "total": 5
       },
       "179328507744298": {
         "text": 1,
@@ -5108,6 +5108,11 @@
       "79839432290406": {
         "text": 0,
         "media": 1,
+        "total": 1
+      },
+      "159640394444969": {
+        "text": 1,
+        "media": 0,
         "total": 1
       }
     },
@@ -5992,8 +5997,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "JUNIOR: ddd 84 é qual cidade?",
-        "Amaury: Vixe kkk",
         "Cristian Sntss: Menos proibidão",
         "Heloisa: Mossoró mas tô em Pernambuco visitando família",
         "Cristian Sntss: Só no Kbaré que e mais liberal",
@@ -6491,7 +6494,9 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: !antiflood off",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Pronto @247020967165997",
         "Gabi 💋: Vou fazer meu almoço\nSeja bem vindos",
-        "junior: Boa noite gabi"
+        "junior: Boa noite gabi",
+        "barrosferreirajose22: Aqui não tem ninguém do rio",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Me chamou também"
       ]
     },
     "120363426574906687@g.us": {
@@ -6668,18 +6673,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "Removido!",
-        "timestamp": 1788794538743
-      },
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "!ban @54516523249835",
-        "timestamp": 1788794554110
-      },
       {
         "authorNum": "43684162711698",
         "authorName": "Jacke França",
@@ -7501,6 +7494,18 @@
         "authorName": "junior",
         "text": "Boa noite gabi",
         "timestamp": 1788796331375
+      },
+      {
+        "authorNum": "119602742882530",
+        "authorName": "barrosferreirajose22",
+        "text": "Aqui não tem ninguém do rio",
+        "timestamp": 1788796353952
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Me chamou também",
+        "timestamp": 1788796358899
       }
     ],
     "120363426574906687@g.us": [
@@ -7568,7 +7573,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1330,
+    "120363023757382018@g.us": 1332,
     "120363426574906687@g.us": 98
   },
   "botDisabled": {
@@ -13846,6 +13851,18 @@
         "text": "Boa noite gabi",
         "pushName": "junior",
         "timestamp": 1788796331375
+      },
+      "A5B621023AAB2E1A188A1DB18C5FACAA": {
+        "sender": "119602742882530@lid",
+        "text": "Aqui não tem ninguém do rio",
+        "pushName": "barrosferreirajose22",
+        "timestamp": 1788796353953
+      },
+      "AC74BDA2299D3211D8A8C1B042F3A5CC": {
+        "sender": "53537388122141@lid",
+        "text": "Me chamou também",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788796358899
       }
     },
     "120363426574906687@g.us": {
@@ -14298,9 +14315,9 @@
     "120363409024805409@g.us": 1788754484305,
     "120363411043114631@g.us": 1787897464612,
     "120363409367298221@g.us": 1788158816417,
-    "120363313059060675@g.us": 1788790525725,
+    "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788796331375,
+    "120363023757382018@g.us": 1788796362716,
     "120363426574906687@g.us": 1788796320301
   },
   "autoAnimSent": {
