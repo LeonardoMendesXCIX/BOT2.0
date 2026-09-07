@@ -4497,14 +4497,14 @@
         "total": 169
       },
       "166452229341300": {
-        "text": 189,
-        "media": 60,
-        "total": 249
+        "text": 190,
+        "media": 61,
+        "total": 251
       },
       "53537388122141": {
-        "text": 133,
+        "text": 135,
         "media": 11,
-        "total": 144
+        "total": 146
       },
       "129373172711439": {
         "text": 27,
@@ -4548,8 +4548,8 @@
       },
       "176171622899942": {
         "text": 31,
-        "media": 7,
-        "total": 38
+        "media": 9,
+        "total": 40
       },
       "92629643563147": {
         "text": 30,
@@ -5197,9 +5197,9 @@
         "total": 3
       },
       "107442969026587": {
-        "text": 7,
+        "text": 8,
         "media": 3,
-        "total": 10
+        "total": 11
       },
       "109075157254210": {
         "text": 2,
@@ -6093,9 +6093,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Thawan: Que mulher gata",
-        "Dany: Bom dia gente!",
-        "John 😎: É de qual cidade do Maranhão, Jaciara?",
         "Thawan: Responde pv",
         "John 😎: Bom dia!",
         "Heloisa: Desculpa mas não RS",
@@ -6592,7 +6589,10 @@
         "Ruan: Ruan tenho 21 anos sou solteiro moro em Curitiba",
         "Francisco Silva: Eu atendo lá",
         "Walter: Só que as mulher só prefere novinho né eu tenho 45 anos solteiro",
-        "John 😎: 🥵"
+        "John 😎: 🥵",
+        "Walter: Mulher não gosta de homem experiente trabalhador só prefere novinho",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Acertou na mosca. Preferem novinhos",
+        "Cristian Sntss: Mentira que tamos perdendo pra Teresina"
       ]
     },
     "120363426574906687@g.us": {
@@ -6720,36 +6720,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "39857447551026",
-        "authorName": "Francisco Silva",
-        "text": "Aí vc quer mandou",
-        "timestamp": 1788796216646
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "Fica a vontade",
-        "timestamp": 1788796217146
-      },
-      {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "@53537388122141 vem cà",
-        "timestamp": 1788796222452
-      },
-      {
-        "authorNum": "79839432290406",
-        "authorName": "Daniel Santos",
-        "text": "Boa tarde \nMeu nome é Daniel tenho 25 \nSou de São Paulo",
-        "timestamp": 1788796229340
-      },
-      {
-        "authorNum": "39857447551026",
-        "authorName": "Francisco Silva",
-        "text": "Tá certa",
-        "timestamp": 1788796230271
-      },
       {
         "authorNum": "222595437858867",
         "authorName": "Juliano Perlin",
@@ -7565,6 +7535,24 @@
         "authorName": "John 😎",
         "text": "🥵",
         "timestamp": 1788798014727
+      },
+      {
+        "authorNum": "107442969026587",
+        "authorName": "Walter",
+        "text": "Mulher não gosta de homem experiente trabalhador só prefere novinho",
+        "timestamp": 1788798031138
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Acertou na mosca. Preferem novinhos",
+        "timestamp": 1788798031880
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Mentira que tamos perdendo pra Teresina",
+        "timestamp": 1788798058478
       }
     ],
     "120363426574906687@g.us": [
@@ -7650,7 +7638,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1461,
+    "120363023757382018@g.us": 1464,
     "120363426574906687@g.us": 104
   },
   "botDisabled": {
@@ -14714,6 +14702,24 @@
         "text": "🥵",
         "pushName": "John 😎",
         "timestamp": 1788798014727
+      },
+      "AC19DCD376880D84CAC43BD517261EEA": {
+        "sender": "107442969026587@lid",
+        "text": "Mulher não gosta de homem experiente trabalhador só prefere novinho",
+        "pushName": "Walter",
+        "timestamp": 1788798031138
+      },
+      "AC7D85F2863677D99E2C83DDF413AB83": {
+        "sender": "53537388122141@lid",
+        "text": "Acertou na mosca. Preferem novinhos",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788798031880
+      },
+      "A560F56A9ABF4512C7A4AC5A78F73D35": {
+        "sender": "166452229341300@lid",
+        "text": "Mentira que tamos perdendo pra Teresina",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788798058478
       }
     },
     "120363426574906687@g.us": {
@@ -15204,7 +15210,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788798014727,
+    "120363023757382018@g.us": 1788798060468,
     "120363426574906687@g.us": 1788796664927
   },
   "autoAnimSent": {
