@@ -4564,14 +4564,14 @@
         "total": 1
       },
       "182738040713418": {
-        "text": 6,
+        "text": 7,
         "media": 2,
-        "total": 8
+        "total": 9
       },
       "81991328395336": {
-        "text": 67,
-        "media": 22,
-        "total": 89
+        "text": 71,
+        "media": 23,
+        "total": 94
       },
       "274384656834700": {
         "text": 25,
@@ -4579,9 +4579,9 @@
         "total": 32
       },
       "111141304930334": {
-        "text": 2,
+        "text": 3,
         "media": 2,
-        "total": 4
+        "total": 5
       },
       "67392566734987": {
         "text": 1,
@@ -4764,9 +4764,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 73,
+        "text": 75,
         "media": 0,
-        "total": 73
+        "total": 75
       },
       "89305909317735": {
         "text": 1,
@@ -4970,8 +4970,8 @@
       },
       "172503183945818": {
         "text": 2,
-        "media": 0,
-        "total": 2
+        "media": 1,
+        "total": 3
       },
       "14375557554202": {
         "text": 0,
@@ -5851,13 +5851,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "S2: Solteiro",
-        ": Solteiro",
-        "Gabi 💋: Que lugar?",
-        "Gabi 💋: Se apresente",
-        "Camila Designer: Maravilhosa 😏😏😏",
-        "Gabi 💋: Só os gostosa",
-        "xacinaluzqradiaoinferno71: perto de franco da rocha",
         "S2: Rafael, solteiro PV liberado",
         "S2: Sou de minas gerais",
         "Gabi 💋: Hum seja bem vindo",
@@ -6350,7 +6343,14 @@
         "Felipe: Kkkk",
         "You never walk alone: Bruno\n40 anos \nSolteiro \nRio de Janeiro \nPV liberado",
         "Wellington: Bem vindo Man 🙌🏽",
-        "Heloisa: Cara de 22"
+        "Heloisa: Cara de 22",
+        "Heloisa: Ixe ele já foi com Deus",
+        "𝑳𝒂𝒚𝒉🌪🌚: Amigo e a meia?",
+        "𝑳𝒂𝒚𝒉🌪🌚: Bem vindo",
+        "𝑳𝒂𝒚𝒉🌪🌚: Bem vindo",
+        "Wellington: Poow o bot tá me envergonhando",
+        "Heloisa: Ele foi removido kk",
+        "Felipe: Felipe \n27 anos\nPv liberado"
       ]
     },
     "120363426574906687@g.us": {
@@ -6519,30 +6519,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "272048228188398",
-        "authorName": "Lailson Nathan.",
-        "text": "🤨",
-        "timestamp": 1788792408174
-      },
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "Todos querendo entra no coração da menina aí",
-        "timestamp": 1788792411687
-      },
-      {
-        "authorNum": "152274357751809",
-        "authorName": "Heloisa",
-        "text": "Kkkk",
-        "timestamp": 1788792424800
-      },
-      {
-        "authorNum": "126586225467454",
-        "authorName": "Thawan",
-        "text": "Coração dela é igual de mãe, sempre cabe mais um.",
-        "timestamp": 1788792430992
-      },
       {
         "authorNum": "152274357751809",
         "authorName": "Heloisa",
@@ -7604,6 +7580,48 @@
         "authorName": "Heloisa",
         "text": "Cara de 22",
         "timestamp": 1788794187147
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Ixe ele já foi com Deus",
+        "timestamp": 1788794194139
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Amigo e a meia?",
+        "timestamp": 1788794201589
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Bem vindo",
+        "timestamp": 1788794213701
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Bem vindo",
+        "timestamp": 1788794220052
+      },
+      {
+        "authorNum": "182738040713418",
+        "authorName": "Wellington",
+        "text": "Poow o bot tá me envergonhando",
+        "timestamp": 1788794221756
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Ele foi removido kk",
+        "timestamp": 1788794230624
+      },
+      {
+        "authorNum": "172503183945818",
+        "authorName": "Felipe",
+        "text": "Felipe \n27 anos\nPv liberado",
+        "timestamp": 1788794233653
       }
     ],
     "120363426574906687@g.us": [
@@ -7671,7 +7689,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 47,
-    "120363023757382018@g.us": 1162,
+    "120363023757382018@g.us": 1169,
     "120363426574906687@g.us": 90
   },
   "botDisabled": {
@@ -12886,6 +12904,48 @@
         "text": "Cara de 22",
         "pushName": "Heloisa",
         "timestamp": 1788794187147
+      },
+      "ACD3001892A5ADAA412BD1034D49BE04": {
+        "sender": "152274357751809@lid",
+        "text": "Ixe ele já foi com Deus",
+        "pushName": "Heloisa",
+        "timestamp": 1788794194139
+      },
+      "ACA8BA35A0E2295D9D3EAAF67DF0658B": {
+        "sender": "81991328395336@lid",
+        "text": "Amigo e a meia?",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1788794201589
+      },
+      "ACFA04E597DCB4DCDE932661F56ADFC9": {
+        "sender": "81991328395336@lid",
+        "text": "Bem vindo",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1788794213701
+      },
+      "AC10680F250EDDDED9EEB048E8722A43": {
+        "sender": "81991328395336@lid",
+        "text": "Bem vindo",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1788794220052
+      },
+      "AC94436907AD7E43C6AC46C860A3B51C": {
+        "sender": "182738040713418@lid",
+        "text": "Poow o bot tá me envergonhando",
+        "pushName": "Wellington",
+        "timestamp": 1788794221757
+      },
+      "AC33C049A50E65630DB4D3A917FAC6A0": {
+        "sender": "152274357751809@lid",
+        "text": "Ele foi removido kk",
+        "pushName": "Heloisa",
+        "timestamp": 1788794230624
+      },
+      "3A73B7F47583D1911165": {
+        "sender": "172503183945818@lid",
+        "text": "Felipe \n27 anos\nPv liberado",
+        "pushName": "Felipe",
+        "timestamp": 1788794233653
       }
     },
     "120363426574906687@g.us": {
@@ -13289,7 +13349,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788794140105,
-    "120363023757382018@g.us": 1788794187147,
+    "120363023757382018@g.us": 1788794233653,
     "120363426574906687@g.us": 1788793079391
   },
   "autoAnimSent": {
