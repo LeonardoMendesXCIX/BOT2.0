@@ -4497,9 +4497,9 @@
         "total": 176
       },
       "166452229341300": {
-        "text": 247,
+        "text": 249,
         "media": 73,
-        "total": 320
+        "total": 322
       },
       "53537388122141": {
         "text": 152,
@@ -4507,9 +4507,9 @@
         "total": 163
       },
       "129373172711439": {
-        "text": 48,
+        "text": 49,
         "media": 14,
-        "total": 62
+        "total": 63
       },
       "138306604032063": {
         "text": 11,
@@ -4552,9 +4552,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 58,
-        "media": 38,
-        "total": 96
+        "text": 60,
+        "media": 39,
+        "total": 99
       },
       "559984624669": {
         "text": 4,
@@ -5217,9 +5217,9 @@
         "total": 1
       },
       "136296492200083": {
-        "text": 57,
+        "text": 58,
         "media": 9,
-        "total": 66
+        "total": 67
       },
       "252342414905454": {
         "text": 7,
@@ -6193,10 +6193,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Juliano Perlin: Viu vai no pv",
-        "Cristian Sntss: Se apresente",
-        "Rafaell: Alguém de Maceió",
-        "Cristian Sntss: Povos e povas",
         "Gabi 💋: Tá bom pode trazer",
         "Cristian Sntss: Bora conversar",
         "🇧🇼 André Lyon  🏁: Nome;: André\nIdade : 42 \nCidade: BH\nPV: Liberado \nSexualidade: Bissexual",
@@ -6692,7 +6688,11 @@
         "Celiete Souza: Oi",
         "Luis Felipe: Pd mesmo",
         "Cristian Sntss: Tão com medo da mulher 🤣🤣",
-        "Heloisa: Sim"
+        "Heloisa: Sim",
+        "Camila Designer: @118515428286715 não vou te olhar mais com os mesmos olhos 🫣🫣🫣",
+        "Luis Felipe: Vou chamar então",
+        "Camila Designer: Estamos de prova",
+        "Cristian Sntss: @92629643563147 hj ta safra boa"
       ]
     },
     "120363426574906687@g.us": {
@@ -6922,24 +6922,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "264308512522409",
-        "authorName": "Henrique Contri 🤫",
-        "text": "Por isso não fui kkk",
-        "timestamp": 1788800885172
-      },
-      {
-        "authorNum": "136296492200083",
-        "authorName": "Luis Felipe",
-        "text": "A sei lá",
-        "timestamp": 1788800891144
-      },
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "Rapaz",
-        "timestamp": 1788800894219
-      },
       {
         "authorNum": "264308512522409",
         "authorName": "Henrique Contri 🤫",
@@ -7935,6 +7917,30 @@
         "authorName": "Heloisa",
         "text": "Sim",
         "timestamp": 1788802679973
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "@118515428286715 não vou te olhar mais com os mesmos olhos 🫣🫣🫣",
+        "timestamp": 1788802687355
+      },
+      {
+        "authorNum": "136296492200083",
+        "authorName": "Luis Felipe",
+        "text": "Vou chamar então",
+        "timestamp": 1788802694192
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Estamos de prova",
+        "timestamp": 1788802696991
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "@92629643563147 hj ta safra boa",
+        "timestamp": 1788802704918
       }
     ],
     "120363426574906687@g.us": [
@@ -7966,7 +7972,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 66,
-    "120363023757382018@g.us": 1850,
+    "120363023757382018@g.us": 1854,
     "120363426574906687@g.us": 145
   },
   "botDisabled": {
@@ -17418,6 +17424,30 @@
         "text": "Sim",
         "pushName": "Heloisa",
         "timestamp": 1788802679974
+      },
+      "2A0CC240209A2ED5AC07": {
+        "sender": "92629643563147@lid",
+        "text": "@118515428286715 não vou te olhar mais com os mesmos olhos 🫣🫣🫣",
+        "pushName": "Camila Designer",
+        "timestamp": 1788802687355
+      },
+      "3AC98E990766D322005C": {
+        "sender": "136296492200083@lid",
+        "text": "Vou chamar então",
+        "pushName": "Luis Felipe",
+        "timestamp": 1788802694192
+      },
+      "2A0899C9CB5323E4DEDF": {
+        "sender": "92629643563147@lid",
+        "text": "Estamos de prova",
+        "pushName": "Camila Designer",
+        "timestamp": 1788802696992
+      },
+      "A5291E1B6AF8129A0EAC963F8767D527": {
+        "sender": "166452229341300@lid",
+        "text": "@92629643563147 hj ta safra boa",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788802704918
       }
     },
     "120363426574906687@g.us": {
@@ -18154,7 +18184,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788802585654,
-    "120363023757382018@g.us": 1788802679973,
+    "120363023757382018@g.us": 1788802704918,
     "120363426574906687@g.us": 1788801476879
   },
   "autoAnimSent": {
