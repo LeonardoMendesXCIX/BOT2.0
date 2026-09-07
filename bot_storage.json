@@ -4507,9 +4507,9 @@
         "total": 161
       },
       "129373172711439": {
-        "text": 29,
-        "media": 10,
-        "total": 39
+        "text": 31,
+        "media": 11,
+        "total": 42
       },
       "138306604032063": {
         "text": 11,
@@ -4537,9 +4537,9 @@
         "total": 15
       },
       "262182034002040": {
-        "text": 43,
+        "text": 44,
         "media": 4,
-        "total": 47
+        "total": 48
       },
       "199733712785531": {
         "text": 4,
@@ -4553,8 +4553,8 @@
       },
       "92629643563147": {
         "text": 49,
-        "media": 30,
-        "total": 79
+        "media": 31,
+        "total": 80
       },
       "559984624669": {
         "text": 4,
@@ -4577,9 +4577,9 @@
         "total": 173
       },
       "274384656834700": {
-        "text": 33,
+        "text": 34,
         "media": 11,
-        "total": 44
+        "total": 45
       },
       "111141304930334": {
         "text": 3,
@@ -4682,9 +4682,9 @@
         "total": 27
       },
       "118515428286715": {
-        "text": 16,
+        "text": 18,
         "media": 2,
-        "total": 18
+        "total": 20
       },
       "193729163993156": {
         "text": 2,
@@ -5172,9 +5172,9 @@
         "total": 2
       },
       "29661681713335": {
-        "text": 5,
-        "media": 6,
-        "total": 11
+        "text": 6,
+        "media": 7,
+        "total": 13
       },
       "559491757737": {
         "text": 2,
@@ -5217,9 +5217,9 @@
         "total": 1
       },
       "136296492200083": {
-        "text": 46,
+        "text": 47,
         "media": 9,
-        "total": 55
+        "total": 56
       },
       "252342414905454": {
         "text": 7,
@@ -6192,9 +6192,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: 😂",
-        "Juliano Perlin: Saber eu sabia..mas nao nesse ponto de cortar um atras do outro🤣🤣🤣🤣",
-        "Juliano Perlin: Tirou uns 5 devereda",
         "Juliano Perlin: Kkkkk",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Povo tudo de outro país",
         "😃: Oiii",
@@ -6691,7 +6688,10 @@
         "Saul: Mano, tem horrores que é melhor nem ver",
         "Luis Felipe: Oiá",
         "Saul: Qual idade?",
-        "Celiete Souza: Boa tarde"
+        "Celiete Souza: Boa tarde",
+        "Saul: Chegou a outra parceira da Camila",
+        "Saul: PEGA FOGO KABARE",
+        "Luis Felipe: Boa tarde"
       ]
     },
     "120363426574906687@g.us": {
@@ -6915,12 +6915,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "118528279593092",
-        "authorName": "𝕰𝖛𝖆𝖓𝖉𝖗𝖔 𝕬𝖑𝖛𝖊𝖘",
-        "text": "Seloko segura aí pelas paredes kkk",
-        "timestamp": 1788800340331
-      },
       {
         "authorNum": "264308512522409",
         "authorName": "Henrique Contri 🤫",
@@ -7772,6 +7766,24 @@
         "authorName": "Celiete Souza",
         "text": "Boa tarde",
         "timestamp": 1788802123351
+      },
+      {
+        "authorNum": "118515428286715",
+        "authorName": "Saul",
+        "text": "Chegou a outra parceira da Camila",
+        "timestamp": 1788802136980
+      },
+      {
+        "authorNum": "118515428286715",
+        "authorName": "Saul",
+        "text": "PEGA FOGO KABARE",
+        "timestamp": 1788802144499
+      },
+      {
+        "authorNum": "136296492200083",
+        "authorName": "Luis Felipe",
+        "text": "Boa tarde",
+        "timestamp": 1788802144754
       }
     ],
     "120363426574906687@g.us": [
@@ -7965,7 +7977,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 65,
-    "120363023757382018@g.us": 1783,
+    "120363023757382018@g.us": 1786,
     "120363426574906687@g.us": 145
   },
   "botDisabled": {
@@ -17015,6 +17027,24 @@
         "text": "Boa tarde",
         "pushName": "Celiete Souza",
         "timestamp": 1788802123352
+      },
+      "3A53B61D17557E7CEB56": {
+        "sender": "118515428286715@lid",
+        "text": "Chegou a outra parceira da Camila",
+        "pushName": "Saul",
+        "timestamp": 1788802136980
+      },
+      "3AFE6A6F3B34A12F0EC5": {
+        "sender": "118515428286715@lid",
+        "text": "PEGA FOGO KABARE",
+        "pushName": "Saul",
+        "timestamp": 1788802144499
+      },
+      "3A45B202D64DF53348EF": {
+        "sender": "136296492200083@lid",
+        "text": "Boa tarde",
+        "pushName": "Luis Felipe",
+        "timestamp": 1788802144754
       }
     },
     "120363426574906687@g.us": {
@@ -17751,7 +17781,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788801734019,
-    "120363023757382018@g.us": 1788802125588,
+    "120363023757382018@g.us": 1788802169062,
     "120363426574906687@g.us": 1788801476879
   },
   "autoAnimSent": {
