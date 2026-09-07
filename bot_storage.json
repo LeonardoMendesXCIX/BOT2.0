@@ -4499,9 +4499,9 @@
         "total": 182
       },
       "53537388122141": {
-        "text": 79,
+        "text": 80,
         "media": 10,
-        "total": 89
+        "total": 90
       },
       "129373172711439": {
         "text": 27,
@@ -4729,9 +4729,9 @@
         "total": 6
       },
       "155503636275307": {
-        "text": 0,
+        "text": 1,
         "media": 2,
-        "total": 2
+        "total": 3
       },
       "64540909826263": {
         "text": 2,
@@ -4764,9 +4764,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 61,
+        "text": 62,
         "media": 0,
-        "total": 61
+        "total": 62
       },
       "89305909317735": {
         "text": 1,
@@ -4904,9 +4904,9 @@
         "total": 3
       },
       "271550062321894": {
-        "text": 2,
+        "text": 3,
         "media": 0,
-        "total": 2
+        "total": 3
       },
       "43684162711698": {
         "text": 0,
@@ -4919,9 +4919,9 @@
         "total": 1
       },
       "36645315321925": {
-        "text": 3,
+        "text": 4,
         "media": 0,
-        "total": 3
+        "total": 4
       },
       "187845394358417": {
         "text": 1,
@@ -5813,10 +5813,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Amaury: Kkkk",
-        "Camila Designer: Todos que estão entrando sejam bem vindos!!!",
-        "Leandro: !ban @30164360679505",
-        "solteiro: Sim",
         "Celiete Souza: Precisa de novo ou só novatos",
         "solteiro: Ok",
         "Amaury: Borá galera",
@@ -6312,7 +6308,11 @@
         "Francisco Silva: Francisco Gildean  39 anos Paraná",
         "Dedé: PV liberado \ntenho 18 anos \nsou de Santa Catarina",
         "Rodrígues: Ah esqueci né tem que falar do gênero hoje eu sou sapatão gosto de mulher",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Faby por aqui? Kkkkk"
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Faby por aqui? Kkkkk",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Sempre tem um",
+        "Heloisa: Noção foi longe",
+        "Clayton 🇳🇬: Que frio e este Brasil",
+        "Felippo: e esse doente aqui, cadê o adm"
       ]
     },
     "120363426574906687@g.us": {
@@ -7362,6 +7362,30 @@
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "text": "Faby por aqui? Kkkkk",
         "timestamp": 1788793495139
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Sempre tem um",
+        "timestamp": 1788793502007
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Noção foi longe",
+        "timestamp": 1788793519673
+      },
+      {
+        "authorNum": "155503636275307",
+        "authorName": "Clayton 🇳🇬",
+        "text": "Que frio e este Brasil",
+        "timestamp": 1788793523136
+      },
+      {
+        "authorNum": "36645315321925",
+        "authorName": "Felippo",
+        "text": "e esse doente aqui, cadê o adm",
+        "timestamp": 1788793528725
       }
     ],
     "120363426574906687@g.us": [
@@ -7429,7 +7453,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 44,
-    "120363023757382018@g.us": 1103,
+    "120363023757382018@g.us": 1107,
     "120363426574906687@g.us": 90
   },
   "botDisabled": {
@@ -12272,6 +12296,30 @@
         "text": "Faby por aqui? Kkkkk",
         "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "timestamp": 1788793495139
+      },
+      "ACC39BE2D9D67431F182793F199961B7": {
+        "sender": "53537388122141@lid",
+        "text": "Sempre tem um",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788793502008
+      },
+      "AC086978927EBEB74AC413E5693B8BD2": {
+        "sender": "152274357751809@lid",
+        "text": "Noção foi longe",
+        "pushName": "Heloisa",
+        "timestamp": 1788793519673
+      },
+      "AC8E94D0DAA1AF2FFBCB6F71CDFBA54D": {
+        "sender": "155503636275307@lid",
+        "text": "Que frio e este Brasil",
+        "pushName": "Clayton 🇳🇬",
+        "timestamp": 1788793523136
+      },
+      "3A756875C5148EDD99A9": {
+        "sender": "36645315321925@lid",
+        "text": "e esse doente aqui, cadê o adm",
+        "pushName": "Felippo",
+        "timestamp": 1788793528725
       }
     },
     "120363426574906687@g.us": {
@@ -12675,7 +12723,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788793408313,
-    "120363023757382018@g.us": 1788793495139,
+    "120363023757382018@g.us": 1788793528725,
     "120363426574906687@g.us": 1788793079391
   },
   "autoAnimSent": {
