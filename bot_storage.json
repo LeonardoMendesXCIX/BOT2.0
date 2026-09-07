@@ -4766,9 +4766,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 84,
+        "text": 88,
         "media": 1,
-        "total": 85
+        "total": 89
       },
       "89305909317735": {
         "text": 1,
@@ -4971,9 +4971,9 @@
         "total": 7
       },
       "172503183945818": {
-        "text": 3,
+        "text": 4,
         "media": 1,
-        "total": 4
+        "total": 5
       },
       "14375557554202": {
         "text": 0,
@@ -5026,9 +5026,9 @@
         "total": 2
       },
       "176549663916038": {
-        "text": 8,
-        "media": 1,
-        "total": 9
+        "text": 9,
+        "media": 3,
+        "total": 12
       },
       "207610548584554": {
         "text": 1,
@@ -5041,11 +5041,16 @@
         "total": 1
       },
       "264596443111591": {
-        "text": 1,
+        "text": 2,
         "media": 1,
-        "total": 2
+        "total": 3
       },
       "6099558248675": {
+        "text": 3,
+        "media": 0,
+        "total": 3
+      },
+      "152476120555682": {
         "text": 1,
         "media": 0,
         "total": 1
@@ -5925,13 +5930,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Heloisa: Bom dia",
-        "renan_wesley: Me disseram que não pareço ter 27, que tenho cara de adolescente",
-        "solteiro: Bom dia",
-        "Cristian Sntss: Trabalha com o que ?",
-        "renan_wesley: Bom dia",
-        "Gabi 💋: Tem foto ?",
-        "IRINEU FREITAS 🫥🤪: Motorista de ônibus",
         "IRINEU FREITAS 🫥🤪: Turismo",
         "lucas santos: bom dia, td bem cm vc?",
         "Cristian Sntss: Assim",
@@ -6424,7 +6422,14 @@
         "Lucas Leonardo: Bom dia",
         "Lucas Leonardo: Lucas Leonardo  tenho 32 eu sou do sul mais estou em Sobral Ceará",
         "😃: Procura solteiras",
-        "𝑳𝒂𝒚𝒉🌪🌚: Sejam bem vindos todos"
+        "𝑳𝒂𝒚𝒉🌪🌚: Sejam bem vindos todos",
+        "Heloisa: Bem vindo",
+        "😃: Procura solteiras",
+        "Lucas Leonardo: Obrigado",
+        "Heloisa: Bem vindo",
+        "Heloisa: Nada",
+        "Não Sei Meu Nome: Muito obrigado",
+        "Heloisa: De ND lindo"
       ]
     },
     "120363426574906687@g.us": {
@@ -6582,42 +6587,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "36645315321925",
-        "authorName": "Felippo",
-        "text": "João Felippo, 24, Ceará, Hétero",
-        "timestamp": 1788793392536
-      },
-      {
-        "authorNum": "262912430080093",
-        "authorName": "JUNIOR",
-        "text": "Hahahaha",
-        "timestamp": 1788793393992
-      },
-      {
-        "authorNum": "187845394358417",
-        "authorName": "Maurício Manú Telecom",
-        "text": "Maurício\n38 \nGameleira de Goiás \nGosto de mulher",
-        "timestamp": 1788793399266
-      },
-      {
-        "authorNum": "262912430080093",
-        "authorName": "JUNIOR",
-        "text": "Como quiseres!",
-        "timestamp": 1788793409232
-      },
-      {
-        "authorNum": "39857447551026",
-        "authorName": "Francisco Silva",
-        "text": "Francisco Gildean  39 anos Paraná",
-        "timestamp": 1788793410436
-      },
-      {
-        "authorNum": "134888363671607",
-        "authorName": "Dedé",
-        "text": "PV liberado \ntenho 18 anos \nsou de Santa Catarina",
-        "timestamp": 1788793421795
-      },
       {
         "authorNum": "115036454424649",
         "authorName": "Rodrígues",
@@ -7439,6 +7408,48 @@
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
         "text": "Sejam bem vindos todos",
         "timestamp": 1788795169040
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Bem vindo",
+        "timestamp": 1788795181913
+      },
+      {
+        "authorNum": "176549663916038",
+        "authorName": "😃",
+        "text": "Procura solteiras",
+        "timestamp": 1788795187629
+      },
+      {
+        "authorNum": "264596443111591",
+        "authorName": "Lucas Leonardo",
+        "text": "Obrigado",
+        "timestamp": 1788795200248
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Bem vindo",
+        "timestamp": 1788795201052
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Nada",
+        "timestamp": 1788795206228
+      },
+      {
+        "authorNum": "6099558248675",
+        "authorName": "Não Sei Meu Nome",
+        "text": "Muito obrigado",
+        "timestamp": 1788795214144
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "De ND lindo",
+        "timestamp": 1788795223686
       }
     ],
     "120363426574906687@g.us": [
@@ -7470,7 +7481,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 49,
-    "120363023757382018@g.us": 1238,
+    "120363023757382018@g.us": 1245,
     "120363426574906687@g.us": 91
   },
   "botDisabled": {
@@ -13153,6 +13164,48 @@
         "text": "Sejam bem vindos todos",
         "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
         "timestamp": 1788795169040
+      },
+      "ACEE4530FD481A803EFA163F8266F024": {
+        "sender": "152274357751809@lid",
+        "text": "Bem vindo",
+        "pushName": "Heloisa",
+        "timestamp": 1788795181913
+      },
+      "AC74A95F38B38511FA027EDBA6757144": {
+        "sender": "176549663916038@lid",
+        "text": "Procura solteiras",
+        "pushName": "😃",
+        "timestamp": 1788795187629
+      },
+      "ACD569595251658935A182DE7824D616": {
+        "sender": "264596443111591@lid",
+        "text": "Obrigado",
+        "pushName": "Lucas Leonardo",
+        "timestamp": 1788795200248
+      },
+      "ACD6DA64B05357D8B098AFCE3AC5165C": {
+        "sender": "152274357751809@lid",
+        "text": "Bem vindo",
+        "pushName": "Heloisa",
+        "timestamp": 1788795201052
+      },
+      "AC5B41E4870475BD4C51603D4B43E9D5": {
+        "sender": "152274357751809@lid",
+        "text": "Nada",
+        "pushName": "Heloisa",
+        "timestamp": 1788795206228
+      },
+      "ACE0912EDC0DEA73BA92F795B2DE742F": {
+        "sender": "6099558248675@lid",
+        "text": "Muito obrigado",
+        "pushName": "Não Sei Meu Nome",
+        "timestamp": 1788795214144
+      },
+      "ACF22556F345619676924AA047B582B8": {
+        "sender": "152274357751809@lid",
+        "text": "De ND lindo",
+        "pushName": "Heloisa",
+        "timestamp": 1788795223686
       }
     },
     "120363426574906687@g.us": {
@@ -13562,7 +13615,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788794665827,
-    "120363023757382018@g.us": 1788795169040,
+    "120363023757382018@g.us": 1788795223686,
     "120363426574906687@g.us": 1788794708224
   },
   "autoAnimSent": {
