@@ -4497,9 +4497,9 @@
         "total": 176
       },
       "166452229341300": {
-        "text": 226,
+        "text": 227,
         "media": 70,
-        "total": 296
+        "total": 297
       },
       "53537388122141": {
         "text": 149,
@@ -4553,8 +4553,8 @@
       },
       "92629643563147": {
         "text": 39,
-        "media": 19,
-        "total": 58
+        "media": 20,
+        "total": 59
       },
       "559984624669": {
         "text": 4,
@@ -4767,9 +4767,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 140,
+        "text": 141,
         "media": 1,
-        "total": 141
+        "total": 142
       },
       "89305909317735": {
         "text": 1,
@@ -5142,9 +5142,9 @@
         "total": 1
       },
       "264308512522409": {
-        "text": 26,
+        "text": 27,
         "media": 2,
-        "total": 28
+        "total": 29
       },
       "194377938911429": {
         "text": 9,
@@ -6183,8 +6183,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Heloisa: Bem vindos",
-        "Felipe: Kkkk",
         "You never walk alone: Bruno\n40 anos \nSolteiro \nRio de Janeiro \nPV liberado",
         "Wellington: Bem vindo Man 🙌🏽",
         "Heloisa: Cara de 22",
@@ -6682,7 +6680,9 @@
         "Henrique Contri 🤫: Eu Com 29 anos me sinto um senhorzinho kkkk",
         "Heloisa: Eu gosto dos de 18 pra pegar pra criar e dos de 99 pra ficar com a aposentadoria",
         "Luis Felipe: Eita que isso",
-        "𝑳𝒂𝒚𝒉🌪🌚: Eu com meus 33 já doida pelo aposento"
+        "𝑳𝒂𝒚𝒉🌪🌚: Eu com meus 33 já doida pelo aposento",
+        "Henrique Contri 🤫: Ave Maria 🤣🤣🤣🤣",
+        "Heloisa: Tô brincando né kkk"
       ]
     },
     "120363426574906687@g.us": {
@@ -6847,24 +6847,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "152274357751809",
-        "authorName": "Heloisa",
-        "text": "Gatinho",
-        "timestamp": 1788798765325
-      },
-      {
-        "authorNum": "252342414905454",
-        "authorName": "Jefinho",
-        "text": "Bem vindo vizinho",
-        "timestamp": 1788798770594
-      },
-      {
-        "authorNum": "127672248205333",
-        "authorName": "Ivan",
-        "text": "Valeu",
-        "timestamp": 1788798778089
-      },
       {
         "authorNum": "264308512522409",
         "authorName": "Henrique Contri 🤫",
@@ -7614,6 +7596,18 @@
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
         "text": "Eu com meus 33 já doida pelo aposento",
         "timestamp": 1788800553954
+      },
+      {
+        "authorNum": "264308512522409",
+        "authorName": "Henrique Contri 🤫",
+        "text": "Ave Maria 🤣🤣🤣🤣",
+        "timestamp": 1788800572989
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Tô brincando né kkk",
+        "timestamp": 1788800588174
       }
     ],
     "120363426574906687@g.us": [
@@ -7861,7 +7855,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1657,
+    "120363023757382018@g.us": 1659,
     "120363426574906687@g.us": 141
   },
   "botDisabled": {
@@ -16101,6 +16095,18 @@
         "text": "Eu com meus 33 já doida pelo aposento",
         "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
         "timestamp": 1788800553955
+      },
+      "AC7D966205E3E32D78D512EEB8997607": {
+        "sender": "264308512522409@lid",
+        "text": "Ave Maria 🤣🤣🤣🤣",
+        "pushName": "Henrique Contri 🤫",
+        "timestamp": 1788800572989
+      },
+      "AC619AFF08BDA11C65C1BD38FDEAF6AD": {
+        "sender": "152274357751809@lid",
+        "text": "Tô brincando né kkk",
+        "pushName": "Heloisa",
+        "timestamp": 1788800588174
       }
     },
     "120363426574906687@g.us": {
@@ -16813,7 +16819,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788800557020,
+    "120363023757382018@g.us": 1788800588174,
     "120363426574906687@g.us": 1788800532095
   },
   "autoAnimSent": {
