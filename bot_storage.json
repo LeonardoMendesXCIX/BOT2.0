@@ -4517,9 +4517,9 @@
         "total": 245
       },
       "166452229341300": {
-        "text": 335,
+        "text": 336,
         "media": 107,
-        "total": 442
+        "total": 443
       },
       "53537388122141": {
         "text": 266,
@@ -4572,9 +4572,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 278,
-        "media": 163,
-        "total": 441
+        "text": 280,
+        "media": 164,
+        "total": 444
       },
       "559984624669": {
         "text": 4,
@@ -4588,8 +4588,8 @@
       },
       "182738040713418": {
         "text": 56,
-        "media": 41,
-        "total": 97
+        "media": 42,
+        "total": 98
       },
       "81991328395336": {
         "text": 178,
@@ -5337,9 +5337,9 @@
         "total": 7
       },
       "79728216113177": {
-        "text": 89,
+        "text": 91,
         "media": 45,
-        "total": 134
+        "total": 136
       },
       "108147461074988": {
         "text": 1,
@@ -6257,9 +6257,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Leandro: !status",
-        "Leandro: !del",
-        "Celiete Souza: Aqui tá um friozão",
         "Leandro: !del",
         "solteiro: Oi",
         "Wellington: Alguém quer fala aí que tá acabando",
@@ -6756,7 +6753,10 @@
         "jaciara: Eu sou de Fortaleza dos Nogueiras",
         "Camila Designer: Você tem sorte que é um pitelzinho e tem a voz bonita 😏😏😏",
         "Cristian Sntss: Caxias",
-        "Kaio Mendes: Massa ✌🏻"
+        "Kaio Mendes: Massa ✌🏻",
+        "Camila Designer: Agora foi eu 🤣🤣🤣",
+        "Camila Designer: Ela não se decide 🤣🤣🤣",
+        "Kaio Mendes: Ah tá man"
       ]
     },
     "120363426574906687@g.us": {
@@ -6980,30 +6980,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Quem mais vai querer?",
-        "timestamp": 1788817030539
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
-        "text": "😹😹😹",
-        "timestamp": 1788817034854
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "Vende só pros homens\nHoje em dia ta difícil 😂",
-        "timestamp": 1788817064584
-      },
-      {
-        "authorNum": "79728216113177",
-        "authorName": "Kaio Mendes",
-        "text": "Roubei",
-        "timestamp": 1788817065110
-      },
       {
         "authorNum": "79728216113177",
         "authorName": "Kaio Mendes",
@@ -7933,6 +7909,24 @@
         "authorName": "Kaio Mendes",
         "text": "Massa ✌🏻",
         "timestamp": 1788818822362
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Agora foi eu 🤣🤣🤣",
+        "timestamp": 1788818842607
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Ela não se decide 🤣🤣🤣",
+        "timestamp": 1788818869224
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "Ah tá man",
+        "timestamp": 1788818872946
       }
     ],
     "120363426574906687@g.us": []
@@ -7957,7 +7951,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 3000,
+    "120363023757382018@g.us": 3003,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -24405,6 +24399,24 @@
         "text": "Massa ✌🏻",
         "pushName": "Kaio Mendes",
         "timestamp": 1788818822363
+      },
+      "2A989464CCD1D6ABAB1A": {
+        "sender": "92629643563147@lid",
+        "text": "Agora foi eu 🤣🤣🤣",
+        "pushName": "Camila Designer",
+        "timestamp": 1788818842607
+      },
+      "2AB8CA6090530F03944E": {
+        "sender": "92629643563147@lid",
+        "text": "Ela não se decide 🤣🤣🤣",
+        "pushName": "Camila Designer",
+        "timestamp": 1788818869224
+      },
+      "AC12E65B3A671FCBBF29DE04AD7EDCB9": {
+        "sender": "79728216113177@lid",
+        "text": "Ah tá man",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788818872946
       }
     },
     "120363426574906687@g.us": {
@@ -25351,7 +25363,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788818829951,
+    "120363023757382018@g.us": 1788818872946,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
