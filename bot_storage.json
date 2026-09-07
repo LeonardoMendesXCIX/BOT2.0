@@ -4548,8 +4548,8 @@
       },
       "176171622899942": {
         "text": 25,
-        "media": 5,
-        "total": 30
+        "media": 7,
+        "total": 32
       },
       "92629643563147": {
         "text": 30,
@@ -4572,9 +4572,9 @@
         "total": 9
       },
       "81991328395336": {
-        "text": 95,
+        "text": 96,
         "media": 26,
-        "total": 121
+        "total": 122
       },
       "274384656834700": {
         "text": 31,
@@ -4592,9 +4592,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 124,
+        "text": 126,
         "media": 17,
-        "total": 141
+        "total": 143
       },
       "206966404210884": {
         "text": 2,
@@ -4767,9 +4767,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 97,
+        "text": 98,
         "media": 1,
-        "total": 98
+        "total": 99
       },
       "89305909317735": {
         "text": 1,
@@ -5182,6 +5182,11 @@
         "total": 1
       },
       "246729194639608": {
+        "text": 1,
+        "media": 0,
+        "total": 1
+      },
+      "20736957747257": {
         "text": 1,
         "media": 0,
         "total": 1
@@ -6068,10 +6073,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Cristian Sntss: Um conterrâneo",
-        "Cristian Sntss: Bem vindo",
-        "John 😎: Alguém do Nordeste, Piauí, Maranhão ou Ceará?",
-        "Thawan: Pv pra quem quiser chamar",
         "Ton: Nao e isso e q eu ja tenho a minha vida aqui e a pessoa ja tem a vida dela na cidade dela eu n tenho mais idade para aventura",
         "Cristian Sntss: Maranhão aqui \nEu \n@81991328395336 \n@108461127897146",
         "Cristian Sntss: A idade",
@@ -6567,7 +6568,11 @@
         "Heloisa: Kkk",
         "Gabi 💋: Alguém pequi ?",
         "Juliano Perlin: O cara é legendario..meteu uma foto de capacete no perfil🤣🤣🤣",
-        "Francisco Silva: Nossa pequi delícia eiii"
+        "Francisco Silva: Nossa pequi delícia eiii",
+        "𝑳𝒂𝒚𝒉🌪🌚: Eu amo",
+        "Gabi 💋: Também",
+        "Gabi 💋: Pense num negócio que amo",
+        "Heloisa: Kkk"
       ]
     },
     "120363426574906687@g.us": {
@@ -6738,18 +6743,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "176549663916038",
-        "authorName": "😃",
-        "text": "Oi Sabrina",
-        "timestamp": 1788795553224
-      },
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "!ban @149882211954810",
-        "timestamp": 1788795581092
-      },
       {
         "authorNum": "222595437858867",
         "authorName": "Juliano Perlin",
@@ -7505,6 +7498,30 @@
         "authorName": "Francisco Silva",
         "text": "Nossa pequi delícia eiii",
         "timestamp": 1788797352967
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Eu amo",
+        "timestamp": 1788797356489
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Também",
+        "timestamp": 1788797366587
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Pense num negócio que amo",
+        "timestamp": 1788797371796
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Kkk",
+        "timestamp": 1788797381385
       }
     ],
     "120363426574906687@g.us": [
@@ -7608,7 +7625,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1392,
+    "120363023757382018@g.us": 1396,
     "120363426574906687@g.us": 104
   },
   "botDisabled": {
@@ -14258,6 +14275,30 @@
         "text": "Nossa pequi delícia eiii",
         "pushName": "Francisco Silva",
         "timestamp": 1788797352967
+      },
+      "AC5872F03BF54B1E4CD6C182E1D70EE5": {
+        "sender": "81991328395336@lid",
+        "text": "Eu amo",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1788797356489
+      },
+      "AC3F4B50B594F977BD847676AF6E6CED": {
+        "sender": "247020967165997@lid",
+        "text": "Também",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788797366587
+      },
+      "AC98836EC464962C2D890FEF5A1C0F46": {
+        "sender": "247020967165997@lid",
+        "text": "Pense num negócio que amo",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788797371796
+      },
+      "AC5D3FD8E2403E41235F89423AE874A8": {
+        "sender": "152274357751809@lid",
+        "text": "Kkk",
+        "pushName": "Heloisa",
+        "timestamp": 1788797381385
       }
     },
     "120363426574906687@g.us": {
@@ -14748,7 +14789,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788797352967,
+    "120363023757382018@g.us": 1788797381385,
     "120363426574906687@g.us": 1788796664927
   },
   "autoAnimSent": {
