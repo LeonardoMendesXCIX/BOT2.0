@@ -4587,9 +4587,9 @@
         "total": 1
       },
       "182738040713418": {
-        "text": 61,
+        "text": 62,
         "media": 44,
-        "total": 105
+        "total": 106
       },
       "81991328395336": {
         "text": 180,
@@ -6266,7 +6266,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "jaciara: Pra me apareceu nos status",
         "Camila Designer: Apagado",
         "Dany: Ah bom",
         "jaciara: Ok",
@@ -6765,7 +6764,8 @@
         "Wellington: Eitaaa ela vai tar no cabaré hj msm né?",
         "Camila Designer: Só observando 👀",
         "Camila Designer: @108461127897146",
-        "Camila Designer: Está aí?"
+        "Camila Designer: Está aí?",
+        "Wellington: Mais oq rola nesse cabaré aí ? É só coisa pura né? Pq sou da igreja"
       ]
     },
     "120363426574906687@g.us": {
@@ -7223,6 +7223,12 @@
         "authorName": "Camila Designer",
         "text": "Está aí?",
         "timestamp": 1788820297216
+      },
+      {
+        "authorNum": "182738040713418",
+        "authorName": "Wellington",
+        "text": "Mais oq rola nesse cabaré aí ? É só coisa pura né? Pq sou da igreja",
+        "timestamp": 1788820330047
       }
     ],
     "120363426574906687@g.us": []
@@ -7247,7 +7253,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 486,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 3031,
+    "120363023757382018@g.us": 3032,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -23907,6 +23913,12 @@
         "text": "Está aí?",
         "pushName": "Camila Designer",
         "timestamp": 1788820297216
+      },
+      "ACE7ADF0A59FF748F08E8719849B09B8": {
+        "sender": "182738040713418@lid",
+        "text": "Mais oq rola nesse cabaré aí ? É só coisa pura né? Pq sou da igreja",
+        "pushName": "Wellington",
+        "timestamp": 1788820330047
       }
     },
     "120363426574906687@g.us": {
@@ -24853,7 +24865,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788819771459,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788820297216,
+    "120363023757382018@g.us": 1788820330047,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
