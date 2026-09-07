@@ -4932,9 +4932,9 @@
         "total": 1
       },
       "36645315321925": {
-        "text": 22,
+        "text": 24,
         "media": 2,
-        "total": 24
+        "total": 26
       },
       "187845394358417": {
         "text": 1,
@@ -6214,8 +6214,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Camila Designer: 🤣🤣🤣",
-        "Gleydson Souza: No kbaré hoje  eu mando",
         "Camila Designer: E você é fortão né?! 😌😌😌",
         "Henrique Contri 🤫: Tá se doendo kkk",
         "jaciara: Óia o jeito",
@@ -6713,7 +6711,9 @@
         "solteiro: Oi",
         "Wellington: Alguém quer fala aí que tá acabando",
         "solteiro: Ok",
-        "Leandro: !todos"
+        "Leandro: !todos",
+        "Felippo: que foi bot",
+        "Felippo: eu tô é bebo já"
       ]
     },
     "120363426574906687@g.us": {
@@ -6967,12 +6967,6 @@
     ],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Ela disse que melhor agora que você apareceu 😏😏😏",
-        "timestamp": 1788808708431
-      },
       {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
@@ -7644,6 +7638,18 @@
         "authorName": "Leandro",
         "text": "!todos",
         "timestamp": 1788810496854
+      },
+      {
+        "authorNum": "36645315321925",
+        "authorName": "Felippo",
+        "text": "que foi bot",
+        "timestamp": 1788810512525
+      },
+      {
+        "authorNum": "36645315321925",
+        "authorName": "Felippo",
+        "text": "eu tô é bebo já",
+        "timestamp": 1788810515939
       }
     ],
     "120363426574906687@g.us": []
@@ -7668,7 +7674,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2508,
+    "120363023757382018@g.us": 2510,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -21136,6 +21142,18 @@
         "text": "!todos",
         "pushName": "Leandro",
         "timestamp": 1788810496855
+      },
+      "3A2C8AB7B9C70B0DDC06": {
+        "sender": "36645315321925@lid",
+        "text": "que foi bot",
+        "pushName": "Felippo",
+        "timestamp": 1788810512525
+      },
+      "3A80E2E0D17528728B07": {
+        "sender": "36645315321925@lid",
+        "text": "eu tô é bebo já",
+        "pushName": "Felippo",
+        "timestamp": 1788810515940
       }
     },
     "120363426574906687@g.us": {
@@ -22076,7 +22094,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788810496854,
+    "120363023757382018@g.us": 1788810515939,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
