@@ -4679,9 +4679,9 @@
         "total": 2
       },
       "59645049761949": {
-        "text": 48,
+        "text": 49,
         "media": 2,
-        "total": 50
+        "total": 51
       },
       "21338118979724": {
         "text": 3,
@@ -4754,9 +4754,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 7,
+        "text": 8,
         "media": 0,
-        "total": 7
+        "total": 8
       },
       "89305909317735": {
         "text": 1,
@@ -5653,8 +5653,6 @@
       ],
       "07/09/2026": [
         "Leandro: !del",
-        "Leandro: !zerotime ⌛ Tempo esgotado, {membro}! Adeus.",
-        "Leandro: !del",
         "Leandro: !del",
         "Leandro: !umminutoremov ⚠️ {membro}, você tem 1 MINUTO para se apresentar!",
         "Leandro: !del",
@@ -6151,7 +6149,9 @@
         "JUNIOR: Ualll",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Bem vindos a todos os membros novos, pessoal 🙆🏻‍♀️",
         "😎🇧🇷: Obrigada gata",
-        "𝑳𝒂𝒚𝒉🌪🌚: Bem vindoooo"
+        "𝑳𝒂𝒚𝒉🌪🌚: Bem vindoooo",
+        "Heloisa: Obrigada",
+        "Amaury: Realmente não pode confiar em onça"
       ]
     },
     "120363426574906687@g.us": {
@@ -6227,36 +6227,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "230365537005571",
-        "authorName": "xacinaluzqradiaoinferno71",
-        "text": "q lugar de santo André?",
-        "timestamp": 1788787996908
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Responde pelo menos se gostou ksksks",
-        "timestamp": 1788788006256
-      },
-      {
-        "authorNum": "59645049761949",
-        "authorName": "Amaury",
-        "text": "Kkk",
-        "timestamp": 1788788008551
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "Kkkkk @all",
-        "timestamp": 1788788014673
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Vila Luzita",
-        "timestamp": 1788788015511
-      },
       {
         "authorNum": "59645049761949",
         "authorName": "Amaury",
@@ -7252,6 +7222,18 @@
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
         "text": "Bem vindoooo",
         "timestamp": 1788789789984
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Obrigada",
+        "timestamp": 1788789811038
+      },
+      {
+        "authorNum": "59645049761949",
+        "authorName": "Amaury",
+        "text": "Realmente não pode confiar em onça",
+        "timestamp": 1788789818687
       }
     ],
     "120363426574906687@g.us": [
@@ -7373,7 +7355,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 816,
+    "120363023757382018@g.us": 818,
     "120363426574906687@g.us": 52
   },
   "botDisabled": {
@@ -10456,6 +10438,18 @@
         "text": "Bem vindoooo",
         "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
         "timestamp": 1788789789984
+      },
+      "ACD89214E44E3C5E42940A704AE5633D": {
+        "sender": "152274357751809@lid",
+        "text": "Obrigada",
+        "pushName": "Heloisa",
+        "timestamp": 1788789811038
+      },
+      "ACA9E95A305B4C24719820B93B42955B": {
+        "sender": "59645049761949@lid",
+        "text": "Realmente não pode confiar em onça",
+        "pushName": "Amaury",
+        "timestamp": 1788789818687
       }
     },
     "120363426574906687@g.us": {
@@ -10631,7 +10625,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788789795052,
+    "120363023757382018@g.us": 1788789818687,
     "120363426574906687@g.us": 1788789687623
   },
   "autoAnimSent": {
