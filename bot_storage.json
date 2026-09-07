@@ -4517,9 +4517,9 @@
         "total": 2
       },
       "59623457439943": {
-        "text": 7,
+        "text": 9,
         "media": 1,
-        "total": 8
+        "total": 10
       },
       "262182034002040": {
         "text": 33,
@@ -4607,9 +4607,9 @@
         "total": 2
       },
       "42769972252769": {
-        "text": 9,
+        "text": 10,
         "media": 0,
-        "total": 9
+        "total": 10
       }
     },
     "120363426574906687@g.us": {
@@ -13213,7 +13213,10 @@
         "Victor: a \"mina\" era claramente fake",
         "🌷: como se sabe ?",
         "🌷: eu acho que não kkkkkkkk",
-        "Victor: pelo tipo da foto"
+        "Victor: pelo tipo da foto",
+        "Victor: a idade tbm não fazia sentido, disse que tinha 14",
+        "🌷: ahh",
+        "Victor: muito comum essa parada, infelizmente"
       ]
     },
     "120363426574906687@g.us": {
@@ -13517,6 +13520,24 @@
         "authorName": "Victor",
         "text": "pelo tipo da foto",
         "timestamp": 1788756522865
+      },
+      {
+        "authorNum": "59623457439943",
+        "authorName": "Victor",
+        "text": "a idade tbm não fazia sentido, disse que tinha 14",
+        "timestamp": 1788756534791
+      },
+      {
+        "authorNum": "42769972252769",
+        "authorName": "🌷",
+        "text": "ahh",
+        "timestamp": 1788756544927
+      },
+      {
+        "authorNum": "59623457439943",
+        "authorName": "Victor",
+        "text": "muito comum essa parada, infelizmente",
+        "timestamp": 1788756562984
       }
     ],
     "120363426574906687@g.us": []
@@ -13541,7 +13562,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 33,
-    "120363023757382018@g.us": 346,
+    "120363023757382018@g.us": 349,
     "120363426574906687@g.us": 36
   },
   "botDisabled": {
@@ -34505,6 +34526,24 @@
         "text": "pelo tipo da foto",
         "pushName": "Victor",
         "timestamp": 1788756522865
+      },
+      "AC7A220CE7A51ABC57DF514C1CEA2477": {
+        "sender": "59623457439943@lid",
+        "text": "a idade tbm não fazia sentido, disse que tinha 14",
+        "pushName": "Victor",
+        "timestamp": 1788756534791
+      },
+      "AC8FACD3D33F2CC45DB6145E6332FD87": {
+        "sender": "42769972252769@lid",
+        "text": "ahh",
+        "pushName": "🌷",
+        "timestamp": 1788756544927
+      },
+      "AC219EF9D722F06B054C856B492FD4CD": {
+        "sender": "59623457439943@lid",
+        "text": "muito comum essa parada, infelizmente",
+        "pushName": "Victor",
+        "timestamp": 1788756562985
       }
     },
     "120363426574906687@g.us": {
@@ -34812,7 +34851,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788755502872,
-    "120363023757382018@g.us": 1788756522865,
+    "120363023757382018@g.us": 1788756562984,
     "120363426574906687@g.us": 1788725639102
   },
   "autoAnimSent": {
