@@ -4484,9 +4484,9 @@
         "total": 164
       },
       "166452229341300": {
-        "text": 85,
+        "text": 86,
         "media": 37,
-        "total": 122
+        "total": 123
       },
       "53537388122141": {
         "text": 45,
@@ -4579,9 +4579,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 107,
+        "text": 109,
         "media": 12,
-        "total": 119
+        "total": 121
       },
       "206966404210884": {
         "text": 2,
@@ -5622,8 +5622,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Bem vindo",
-        "jao: Obgd",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: @213473514491918 apresente se",
         "jao: Querem RG junto?",
         "jao: Plmds",
@@ -6121,7 +6119,9 @@
         "lucas santos: nd apenas falando cm vc e aproveitando o feriado",
         "Gabi 💋: Hoje é dia de da trabalho o cabelo",
         "renan_wesley: Siim",
-        "Cristian Sntss: Aqui na minha cidade uma mulher foi presa \nPq ofendeu o rapaz do cabelo assim"
+        "Cristian Sntss: Aqui na minha cidade uma mulher foi presa \nPq ofendeu o rapaz do cabelo assim",
+        "Cristian Sntss: Chamou de macaco cabelo de palha de aço",
+        "Gabi 💋: Escrota né"
       ]
     },
     "120363426574906687@g.us": {
@@ -6224,18 +6224,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Mandei pra ca viu",
-        "timestamp": 1788787253988
-      },
-      {
-        "authorNum": "274384656834700",
-        "authorName": "Gleydson Souza",
-        "text": "Obg",
-        "timestamp": 1788787264147
-      },
       {
         "authorNum": "274384656834700",
         "authorName": "Gleydson Souza",
@@ -7549,6 +7537,18 @@
         "authorName": "Cristian Sntss",
         "text": "Aqui na minha cidade uma mulher foi presa \nPq ofendeu o rapaz do cabelo assim",
         "timestamp": 1788789053244
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Chamou de macaco cabelo de palha de aço",
+        "timestamp": 1788789067796
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Escrota né",
+        "timestamp": 1788789076518
       }
     ],
     "120363426574906687@g.us": [
@@ -7646,7 +7646,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 770,
+    "120363023757382018@g.us": 772,
     "120363426574906687@g.us": 48
   },
   "botDisabled": {
@@ -10453,6 +10453,18 @@
         "text": "Aqui na minha cidade uma mulher foi presa \nPq ofendeu o rapaz do cabelo assim",
         "pushName": "Cristian Sntss",
         "timestamp": 1788789053244
+      },
+      "A54227437667BB6B6FB4C607F82A89DE": {
+        "sender": "166452229341300@lid",
+        "text": "Chamou de macaco cabelo de palha de aço",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788789067796
+      },
+      "AC1D09A6383086D378E409DB5BB25F2D": {
+        "sender": "247020967165997@lid",
+        "text": "Escrota né",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788789076518
       }
     },
     "120363426574906687@g.us": {
@@ -10604,7 +10616,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788789053244,
+    "120363023757382018@g.us": 1788789089320,
     "120363426574906687@g.us": 1788788012627
   },
   "autoAnimSent": {
