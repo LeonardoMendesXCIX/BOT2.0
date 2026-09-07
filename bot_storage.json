@@ -4567,9 +4567,9 @@
         "total": 1
       },
       "182738040713418": {
-        "text": 19,
+        "text": 20,
         "media": 3,
-        "total": 22
+        "total": 23
       },
       "81991328395336": {
         "text": 141,
@@ -4592,9 +4592,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 243,
+        "text": 244,
         "media": 20,
-        "total": 263
+        "total": 264
       },
       "206966404210884": {
         "text": 2,
@@ -6195,8 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "jaciara: Normal pode sim",
-        "Gleydson Souza: Tava so almoçando\nLevando agora",
         "Camila Designer: A única foto que você está autorizado a enviar agora é do seu peitoral, por ter criticado nosso amigo que entrou kkkk",
         "Gabi 💋: Tá bom",
         "Gabi 💋: Vc que fez ?",
@@ -6694,7 +6692,9 @@
         "Pedro🫰: Sei kkkk",
         "Wellington: Pesado kkkkk",
         "Celiete Souza: Sei não kkkkk",
-        "Camila Designer: Ela disse que pode não ser para você 🤣🤣🤣"
+        "Camila Designer: Ela disse que pode não ser para você 🤣🤣🤣",
+        "Gabi 💋: Perdão \nGosto de coroa bem apanhado \nCaindo da não\nUma sentada eu mato \nJá vou meu tamanho ksksk",
+        "Wellington: Tipo um livro aberto para todo sempre ? 🤔🙃"
       ]
     },
     "120363426574906687@g.us": {
@@ -6898,24 +6898,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Perdi até o assunto",
-        "timestamp": 1788807234076
-      },
-      {
-        "authorNum": "254884934881353",
-        "authorName": "P",
-        "text": "to pra frente hoje",
-        "timestamp": 1788807241287
-      },
-      {
-        "authorNum": "254884934881353",
-        "authorName": "P",
-        "text": "vou ficar off",
-        "timestamp": 1788807246950
-      },
       {
         "authorNum": "264308512522409",
         "authorName": "Henrique Contri 🤫",
@@ -7881,6 +7863,18 @@
         "authorName": "Camila Designer",
         "text": "Ela disse que pode não ser para você 🤣🤣🤣",
         "timestamp": 1788809029963
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Perdão \nGosto de coroa bem apanhado \nCaindo da não\nUma sentada eu mato \nJá vou meu tamanho ksksk",
+        "timestamp": 1788809050022
+      },
+      {
+        "authorNum": "182738040713418",
+        "authorName": "Wellington",
+        "text": "Tipo um livro aberto para todo sempre ? 🤔🙃",
+        "timestamp": 1788809062332
       }
     ],
     "120363426574906687@g.us": []
@@ -7905,7 +7899,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2437,
+    "120363023757382018@g.us": 2439,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -20892,6 +20886,18 @@
         "text": "Ela disse que pode não ser para você 🤣🤣🤣",
         "pushName": "Camila Designer",
         "timestamp": 1788809029963
+      },
+      "AC686490A064E9BD9CA5CEB6FCF5ED89": {
+        "sender": "247020967165997@lid",
+        "text": "Perdão \nGosto de coroa bem apanhado \nCaindo da não\nUma sentada eu mato \nJá vou meu tamanho ksksk",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788809050022
+      },
+      "AC50A1B2FC5AB4E6F3F15E6D2D68B1CE": {
+        "sender": "182738040713418@lid",
+        "text": "Tipo um livro aberto para todo sempre ? 🤔🙃",
+        "pushName": "Wellington",
+        "timestamp": 1788809062332
       }
     },
     "120363426574906687@g.us": {
@@ -21832,7 +21838,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788809029963,
+    "120363023757382018@g.us": 1788809062332,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
