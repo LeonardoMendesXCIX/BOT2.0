@@ -4591,9 +4591,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 122,
+        "text": 123,
         "media": 16,
-        "total": 138
+        "total": 139
       },
       "206966404210884": {
         "text": 2,
@@ -5129,6 +5129,16 @@
         "text": 1,
         "media": 1,
         "total": 2
+      },
+      "63505772359714": {
+        "text": 1,
+        "media": 0,
+        "total": 1
+      },
+      "186114153435195": {
+        "text": 1,
+        "media": 0,
+        "total": 1
       }
     },
     "120363426574906687@g.us": {
@@ -6012,8 +6022,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Heloisa: Um pouco de tédio",
-        "Cristian Sntss: Aqui vai ser feriado hoje e amanhã",
         "irlley gabryel: Não kkkk",
         "Cristian Sntss: Kkkkk",
         "Maron: Tb tô tomando banho aqui agora",
@@ -6511,7 +6519,9 @@
         "Cristian Sntss: Bora conversar",
         "🇧🇼 André Lyon  🏁: Nome;: André\nIdade : 42 \nCidade: BH\nPV: Liberado \nSexualidade: Bissexual",
         "Cristian Sntss: O retrato",
-        "Heloisa: Ele é sem noção"
+        "Heloisa: Ele é sem noção",
+        "Gabi 💋: Cara pegou nos duas pra Cristo",
+        "Gleison luiz: Tem bot, tô de boa valeu"
       ]
     },
     "120363426574906687@g.us": {
@@ -6682,12 +6692,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "264596443111591",
-        "authorName": "Lucas Leonardo",
-        "text": "Bom dia",
-        "timestamp": 1788795091956
-      },
       {
         "authorNum": "264596443111591",
         "authorName": "Lucas Leonardo",
@@ -7431,6 +7435,18 @@
         "authorName": "Heloisa",
         "text": "Ele é sem noção",
         "timestamp": 1788796889949
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Cara pegou nos duas pra Cristo",
+        "timestamp": 1788796916751
+      },
+      {
+        "authorNum": "186114153435195",
+        "authorName": "Gleison luiz",
+        "text": "Tem bot, tô de boa valeu",
+        "timestamp": 1788796927398
       }
     ],
     "120363426574906687@g.us": [
@@ -7534,7 +7550,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1359,
+    "120363023757382018@g.us": 1361,
     "120363426574906687@g.us": 104
   },
   "botDisabled": {
@@ -13986,6 +14002,18 @@
         "text": "Ele é sem noção",
         "pushName": "Heloisa",
         "timestamp": 1788796889949
+      },
+      "ACB59377D2CAF391B578F721FDC7959D": {
+        "sender": "247020967165997@lid",
+        "text": "Cara pegou nos duas pra Cristo",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788796916751
+      },
+      "ACC84A09A8EF08869623E47B5E554A40": {
+        "sender": "186114153435195@lid",
+        "text": "Tem bot, tô de boa valeu",
+        "pushName": "Gleison luiz",
+        "timestamp": 1788796927399
       }
     },
     "120363426574906687@g.us": {
@@ -14476,7 +14504,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788796898500,
+    "120363023757382018@g.us": 1788796927398,
     "120363426574906687@g.us": 1788796664927
   },
   "autoAnimSent": {
