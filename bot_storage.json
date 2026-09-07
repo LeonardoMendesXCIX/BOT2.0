@@ -4552,9 +4552,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 107,
+        "text": 108,
         "media": 69,
-        "total": 176
+        "total": 177
       },
       "559984624669": {
         "text": 4,
@@ -5142,9 +5142,9 @@
         "total": 1
       },
       "264308512522409": {
-        "text": 64,
+        "text": 65,
         "media": 4,
-        "total": 68
+        "total": 69
       },
       "194377938911429": {
         "text": 9,
@@ -6195,8 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Heloisa: Gatinho",
-        "Jefinho: Bem vindo vizinho",
         "Ivan: Valeu",
         "Henrique Contri 🤫: Obrigado, vc que é linda 😍",
         "Cristian Sntss: Povo tudo bonito",
@@ -6694,7 +6692,9 @@
         "Henrique Contri 🤫: Essa é designer profissional kkk",
         "Henrique Contri 🤫: Pinça de dois dedos é foda 🤣🤣🤣",
         "Gabi 💋: Oque foi",
-        "Gabi 💋: É foda"
+        "Gabi 💋: É foda",
+        "Henrique Contri 🤫: No meu nem minha mão fecha 🫢",
+        "Camila Designer: Sei 🤣🤣🤣"
       ]
     },
     "120363426574906687@g.us": {
@@ -6902,36 +6902,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Gostando né @108461127897146 🤣🤣🤣",
-        "timestamp": 1788802896840
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Eu tô só observando",
-        "timestamp": 1788802907159
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Cadê o arregão???",
-        "timestamp": 1788802908068
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Kkkkk",
-        "timestamp": 1788802909520
-      },
-      {
-        "authorNum": "232924968419570",
-        "authorName": "Pedro🫰",
-        "text": "@92629643563147 faz sobrancelha de homem também?",
-        "timestamp": 1788802928561
-      },
       {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
@@ -7879,6 +7849,18 @@
         "authorName": "Gabi 💋",
         "text": "É foda",
         "timestamp": 1788804662332
+      },
+      {
+        "authorNum": "264308512522409",
+        "authorName": "Henrique Contri 🤫",
+        "text": "No meu nem minha mão fecha 🫢",
+        "timestamp": 1788804724744
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Sei 🤣🤣🤣",
+        "timestamp": 1788804737908
       }
     ],
     "120363426574906687@g.us": [
@@ -8060,7 +8042,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2029,
+    "120363023757382018@g.us": 2031,
     "120363426574906687@g.us": 171
   },
   "botDisabled": {
@@ -18599,6 +18581,18 @@
         "text": "É foda",
         "pushName": "Gabi 💋",
         "timestamp": 1788804662332
+      },
+      "AC51084D6016380EA1846F3277A5CCF1": {
+        "sender": "264308512522409@lid",
+        "text": "No meu nem minha mão fecha 🫢",
+        "pushName": "Henrique Contri 🤫",
+        "timestamp": 1788804724744
+      },
+      "2A6C4E24384B1549B068": {
+        "sender": "92629643563147@lid",
+        "text": "Sei 🤣🤣🤣",
+        "pushName": "Camila Designer",
+        "timestamp": 1788804737908
       }
     },
     "120363426574906687@g.us": {
@@ -19485,7 +19479,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788804717640,
+    "120363023757382018@g.us": 1788804737908,
     "120363426574906687@g.us": 1788804637761
   },
   "autoAnimSent": {
