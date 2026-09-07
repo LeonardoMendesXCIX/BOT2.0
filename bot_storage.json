@@ -4553,8 +4553,8 @@
       },
       "92629643563147": {
         "text": 127,
-        "media": 75,
-        "total": 202
+        "media": 76,
+        "total": 203
       },
       "559984624669": {
         "text": 4,
@@ -4578,8 +4578,8 @@
       },
       "274384656834700": {
         "text": 59,
-        "media": 19,
-        "total": 78
+        "media": 21,
+        "total": 80
       },
       "111141304930334": {
         "text": 3,
@@ -4592,9 +4592,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 205,
+        "text": 206,
         "media": 20,
-        "total": 225
+        "total": 226
       },
       "206966404210884": {
         "text": 2,
@@ -6195,7 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Camila Designer: Bem vindo!",
         "Heloisa: Kk eu tinha falado já lá em cima com a outra ADM",
         "Luis Felipe: Sou o único novinho do grupo aqui kk",
         "Camila Designer: Gente chegando agora, muitas mensagens 🫣",
@@ -6694,7 +6693,8 @@
         "Henrique Contri 🤫: Relaxa tem pras duas 😉",
         "Gabi 💋: Eu ia falar isso",
         "José Vitor: Vixe",
-        "José Vitor: Maria"
+        "José Vitor: Maria",
+        "Gabi 💋: Aí vai vê e meia bomba"
       ]
     },
     "120363426574906687@g.us": {
@@ -6895,36 +6895,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Ah pode",
-        "timestamp": 1788803604531
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Normal pode sim",
-        "timestamp": 1788803610184
-      },
-      {
-        "authorNum": "274384656834700",
-        "authorName": "Gleydson Souza",
-        "text": "Tava so almoçando\nLevando agora",
-        "timestamp": 1788803619992
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "A única foto que você está autorizado a enviar agora é do seu peitoral, por ter criticado nosso amigo que entrou kkkk",
-        "timestamp": 1788803624672
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Tá bom",
-        "timestamp": 1788803633756
-      },
       {
         "authorNum": "247020967165997",
         "authorName": "Gabi 💋",
@@ -7800,6 +7770,12 @@
         "authorName": "José Vitor",
         "text": "Maria",
         "timestamp": 1788805404371
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Aí vai vê e meia bomba",
+        "timestamp": 1788805441019
       }
     ],
     "120363426574906687@g.us": [
@@ -7999,7 +7975,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2087,
+    "120363023757382018@g.us": 2088,
     "120363426574906687@g.us": 177
   },
   "botDisabled": {
@@ -18886,6 +18862,12 @@
         "text": "Maria",
         "pushName": "José Vitor",
         "timestamp": 1788805404372
+      },
+      "AC040232CCE51F48A5C5471F452D2F76": {
+        "sender": "247020967165997@lid",
+        "text": "Aí vai vê e meia bomba",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788805441019
       }
     },
     "120363426574906687@g.us": {
@@ -19808,7 +19790,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788805416661,
+    "120363023757382018@g.us": 1788805449919,
     "120363426574906687@g.us": 1788805062631
   },
   "autoAnimSent": {
