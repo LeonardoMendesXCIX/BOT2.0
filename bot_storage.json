@@ -4557,9 +4557,9 @@
         "total": 35
       },
       "262182034002040": {
-        "text": 95,
+        "text": 97,
         "media": 9,
-        "total": 104
+        "total": 106
       },
       "199733712785531": {
         "text": 4,
@@ -5338,8 +5338,8 @@
       },
       "79728216113177": {
         "text": 83,
-        "media": 41,
-        "total": 124
+        "media": 42,
+        "total": 125
       },
       "108147461074988": {
         "text": 1,
@@ -6257,7 +6257,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Saul: 498+ mensagens",
         "Saul: Oque houve?",
         "Cristian Sntss: Nem eu consegui acomp",
         "👻🤑: E cadê o link",
@@ -6756,7 +6755,8 @@
         "Camila Designer: Isso é verdade 🤣🤣🤣",
         "Camila Designer: Não ter chulé",
         "Kaio Mendes: Tênis Pé",
-        "Dany: Será? HAHHAHAHHA"
+        "Dany: Será? HAHHAHAHHA",
+        "Dany: Roubei a figurinha"
       ]
     },
     "120363426574906687@g.us": {
@@ -6980,30 +6980,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Papo de noite inteira tentar pescar e sair com a rede vazia kkkk",
-        "timestamp": 1788816610099
-      },
-      {
-        "authorNum": "79728216113177",
-        "authorName": "Kaio Mendes",
-        "text": "Oloko",
-        "timestamp": 1788816616668
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Igual Pedro 🤣🤣🤣",
-        "timestamp": 1788816618280
-      },
-      {
-        "authorNum": "79728216113177",
-        "authorName": "Kaio Mendes",
-        "text": "Tá sobrando nada",
-        "timestamp": 1788816619712
-      },
       {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
@@ -8083,6 +8059,12 @@
         "authorName": "Dany",
         "text": "Será? HAHHAHAHHA",
         "timestamp": 1788818396101
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Roubei a figurinha",
+        "timestamp": 1788818428600
       }
     ],
     "120363426574906687@g.us": []
@@ -8107,7 +8089,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2989,
+    "120363023757382018@g.us": 2990,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -24489,6 +24471,12 @@
         "text": "Será? HAHHAHAHHA",
         "pushName": "Dany",
         "timestamp": 1788818396102
+      },
+      "3ABB1B0229341CB5D86E": {
+        "sender": "262182034002040@lid",
+        "text": "Roubei a figurinha",
+        "pushName": "Dany",
+        "timestamp": 1788818428600
       }
     },
     "120363426574906687@g.us": {
@@ -25435,7 +25423,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788818396101,
+    "120363023757382018@g.us": 1788818428600,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
