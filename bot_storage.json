@@ -4512,9 +4512,9 @@
         "total": 199
       },
       "5511927018683": {
-        "text": 171,
+        "text": 174,
         "media": 12,
-        "total": 183
+        "total": 186
       },
       "166452229341300": {
         "text": 296,
@@ -4522,9 +4522,9 @@
         "total": 383
       },
       "53537388122141": {
-        "text": 164,
+        "text": 165,
         "media": 14,
-        "total": 178
+        "total": 179
       },
       "129373172711439": {
         "text": 121,
@@ -4587,9 +4587,9 @@
         "total": 1
       },
       "182738040713418": {
-        "text": 46,
+        "text": 47,
         "media": 15,
-        "total": 61
+        "total": 62
       },
       "81991328395336": {
         "text": 144,
@@ -6244,9 +6244,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Camila Designer: Minha amiga disse quando quiser",
-        "jaciara: Minha amiga se empolgou na resposta",
-        "Saul: As mulher são carnívoras, tem que estar no mesmo nível",
         "jaciara: Minha amiga tá perguntando qual Estado fica mais próximo pra vc",
         "jaciara: Maranhão",
         "Camila Designer: Ah é minha amiga disse que leite é saudável 🤣🤣🤣🤣",
@@ -6743,7 +6740,10 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Obrigada pelo elogio! Damos o melhor aqui no grupo 🤌🏻🥰\n@81991328395336 \n@54259127210155\n@166452229341300 \n@92629643563147",
         ": Obrigada pelo elogio! Damos o melhor aqui no grupo 🤌🏻🥰\n@81991328395336 \n@54259127210155\n@166452229341300 \n@92629643563147",
         "Wellington: Acho ela linda sim mais não foi eu",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Obrigada, me lembrou de postar caixinhas"
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Obrigada, me lembrou de postar caixinhas",
+        "Wellington: Ontem tinha um aí que tava caindo matando pra cima dela kkk",
+        "Leandro: Não sei quem enviou, mas, agrademos!",
+        "Leandro: !todos"
       ]
     },
     "120363426574906687@g.us": {
@@ -6947,18 +6947,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Bem vindo!☺️",
-        "timestamp": 1788811330100
-      },
-      {
-        "authorNum": "278688230862888",
-        "authorName": "ronald",
-        "text": "👆🏾 obrigado",
-        "timestamp": 1788811338106
-      },
       {
         "authorNum": "182738040713418",
         "authorName": "Wellington",
@@ -7318,6 +7306,24 @@
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "text": "Obrigada, me lembrou de postar caixinhas",
         "timestamp": 1788813109742
+      },
+      {
+        "authorNum": "182738040713418",
+        "authorName": "Wellington",
+        "text": "Ontem tinha um aí que tava caindo matando pra cima dela kkk",
+        "timestamp": 1788813129707
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Não sei quem enviou, mas, agrademos!",
+        "timestamp": 1788813142141
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!todos",
+        "timestamp": 1788813146160
       }
     ],
     "120363426574906687@g.us": []
@@ -7342,7 +7348,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2630,
+    "120363023757382018@g.us": 2633,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -21535,6 +21541,24 @@
         "text": "Obrigada, me lembrou de postar caixinhas",
         "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "timestamp": 1788813109742
+      },
+      "AC6959CBD488A965D9F896E15B16F96C": {
+        "sender": "182738040713418@lid",
+        "text": "Ontem tinha um aí que tava caindo matando pra cima dela kkk",
+        "pushName": "Wellington",
+        "timestamp": 1788813129707
+      },
+      "AC0537BC82489831379465DC0239CCBA": {
+        "sender": "54259127210155@lid",
+        "text": "Não sei quem enviou, mas, agrademos!",
+        "pushName": "Leandro",
+        "timestamp": 1788813142141
+      },
+      "AC43C2D5C12E620077AC653C480D6367": {
+        "sender": "54259127210155@lid",
+        "text": "!todos",
+        "pushName": "Leandro",
+        "timestamp": 1788813146160
       }
     },
     "120363426574906687@g.us": {
@@ -22475,7 +22499,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788813109742,
+    "120363023757382018@g.us": 1788813146160,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
