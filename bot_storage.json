@@ -4552,9 +4552,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 67,
-        "media": 43,
-        "total": 110
+        "text": 68,
+        "media": 45,
+        "total": 113
       },
       "559984624669": {
         "text": 4,
@@ -5197,9 +5197,9 @@
         "total": 3
       },
       "107442969026587": {
-        "text": 13,
+        "text": 14,
         "media": 4,
-        "total": 17
+        "total": 18
       },
       "109075157254210": {
         "text": 2,
@@ -6193,8 +6193,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Gabi 💋: Perdão",
-        "Henrique Contri 🤫: Meu nome é Henrique tenho 29 anos sou de presidente prudente sp PV liberado 😎🚀",
         "Renis Rodrigues: Boa tarde galera\nMeu nome e Renis Rodrigues sou de Indiara Goiás \nTenho 29 anos",
         "Juliano Perlin: De boa🤗",
         "Juliano Perlin: To zuando kkkk",
@@ -6692,7 +6690,9 @@
         "jaciara: Eu tô só observando",
         "Camila Designer: Cadê o arregão???",
         "jaciara: Kkkkk",
-        "Pedro🫰: @92629643563147 faz sobrancelha de homem também?"
+        "Pedro🫰: @92629643563147 faz sobrancelha de homem também?",
+        "Camila Designer: Depende",
+        "Walter: Apenas pedi uma foto entendeu se ela tem vergonha de mandar no grupo não custaria ela mandar no meu PV e qual mal eu tenho teu pedido lá no PV sei lá seis é muito preconceituoso por pedir no PV ningué"
       ]
     },
     "120363426574906687@g.us": {
@@ -6922,18 +6922,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "136296492200083",
-        "authorName": "Luis Felipe",
-        "text": "Verdade",
-        "timestamp": 1788801132331
-      },
-      {
-        "authorNum": "264308512522409",
-        "authorName": "Henrique Contri 🤫",
-        "text": "É vc na foto ?",
-        "timestamp": 1788801138331
-      },
       {
         "authorNum": "136296492200083",
         "authorName": "Luis Felipe",
@@ -7953,6 +7941,18 @@
         "authorName": "Pedro🫰",
         "text": "@92629643563147 faz sobrancelha de homem também?",
         "timestamp": 1788802928561
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Depende",
+        "timestamp": 1788802942747
+      },
+      {
+        "authorNum": "107442969026587",
+        "authorName": "Walter",
+        "text": "Apenas pedi uma foto entendeu se ela tem vergonha de mandar no grupo não custaria ela mandar no meu PV e qual mal eu tenho teu pedido lá no PV sei lá seis é muito preconceituoso por pedir no PV ninguém vai comer ninguém não filha mora tudo longe",
+        "timestamp": 1788802955164
       }
     ],
     "120363426574906687@g.us": []
@@ -7977,7 +7977,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 66,
-    "120363023757382018@g.us": 1871,
+    "120363023757382018@g.us": 1873,
     "120363426574906687@g.us": 145
   },
   "botDisabled": {
@@ -17555,6 +17555,18 @@
         "text": "@92629643563147 faz sobrancelha de homem também?",
         "pushName": "Pedro🫰",
         "timestamp": 1788802928561
+      },
+      "2A8A8433B1A611B70ACA": {
+        "sender": "92629643563147@lid",
+        "text": "Depende",
+        "pushName": "Camila Designer",
+        "timestamp": 1788802942747
+      },
+      "ACE0DC4192F72FE5E71C6AF0FCC5B28F": {
+        "sender": "107442969026587@lid",
+        "text": "Apenas pedi uma foto entendeu se ela tem vergonha de mandar no grupo não custaria ela mandar no meu PV e qual mal eu tenho teu pedido lá no PV sei lá seis é muito preconceituoso por pedir no PV ninguém vai comer ninguém não filha mora tudo longe",
+        "pushName": "Walter",
+        "timestamp": 1788802955165
       }
     },
     "120363426574906687@g.us": {
@@ -18291,7 +18303,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788802585654,
-    "120363023757382018@g.us": 1788802928561,
+    "120363023757382018@g.us": 1788802955164,
     "120363426574906687@g.us": 1788801476879
   },
   "autoAnimSent": {
