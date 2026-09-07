@@ -4572,9 +4572,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 265,
-        "media": 153,
-        "total": 418
+        "text": 268,
+        "media": 155,
+        "total": 423
       },
       "559984624669": {
         "text": 4,
@@ -5337,9 +5337,9 @@
         "total": 7
       },
       "79728216113177": {
-        "text": 48,
+        "text": 49,
         "media": 27,
-        "total": 75
+        "total": 76
       }
     },
     "120363426574906687@g.us": {
@@ -6249,10 +6249,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Saul: Pq?",
-        "Celiete Souza: Agora eu me perdi aqui kkkk",
-        "Gleydson Souza: Feriado",
-        "Gabi 💋: Entrou gente nova ksksks",
         "Celiete Souza: Onde estou",
         "Gabi 💋: Óia marido",
         "Saul: Ataaa",
@@ -6748,7 +6744,11 @@
         "𝑳𝒂𝒚𝒉🌪🌚: 😹😹😹",
         "Cristian Sntss: Pobi das ADM",
         "Saul: Ela é a rede e nós somos os peixes",
-        "Saul: Caiu na rede é vapo"
+        "Saul: Caiu na rede é vapo",
+        "Camila Designer: Mas vocês pulam",
+        "Kaio Mendes: Peixes de água salgada",
+        "Camila Designer: Os peixes estão espertos",
+        "Camila Designer: Difícil pescar viu"
       ]
     },
     "120363426574906687@g.us": {
@@ -6984,12 +6984,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Por isso fez amizade com os leões!",
-        "timestamp": 1788814770383
-      },
       {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
@@ -7505,6 +7499,30 @@
         "authorName": "Saul",
         "text": "Caiu na rede é vapo",
         "timestamp": 1788816549225
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Mas vocês pulam",
+        "timestamp": 1788816561816
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "Peixes de água salgada",
+        "timestamp": 1788816568195
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Os peixes estão espertos",
+        "timestamp": 1788816569709
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Difícil pescar viu",
+        "timestamp": 1788816581891
       }
     ],
     "120363426574906687@g.us": [
@@ -7536,7 +7554,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2801,
+    "120363023757382018@g.us": 2805,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -22773,6 +22791,30 @@
         "text": "Caiu na rede é vapo",
         "pushName": "Saul",
         "timestamp": 1788816549226
+      },
+      "2A6B47098E86D9AC1321": {
+        "sender": "92629643563147@lid",
+        "text": "Mas vocês pulam",
+        "pushName": "Camila Designer",
+        "timestamp": 1788816561816
+      },
+      "AC38630C775447B8B1504275C160EFA4": {
+        "sender": "79728216113177@lid",
+        "text": "Peixes de água salgada",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788816568196
+      },
+      "2A0FBC6093E5DF7A8F0D": {
+        "sender": "92629643563147@lid",
+        "text": "Os peixes estão espertos",
+        "pushName": "Camila Designer",
+        "timestamp": 1788816569709
+      },
+      "2AC5E635DF13C52883FB": {
+        "sender": "92629643563147@lid",
+        "text": "Difícil pescar viu",
+        "pushName": "Camila Designer",
+        "timestamp": 1788816581892
       }
     },
     "120363426574906687@g.us": {
@@ -23719,7 +23761,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788816549225,
+    "120363023757382018@g.us": 1788816581891,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
