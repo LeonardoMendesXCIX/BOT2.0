@@ -4557,9 +4557,9 @@
         "total": 35
       },
       "262182034002040": {
-        "text": 109,
+        "text": 110,
         "media": 10,
-        "total": 119
+        "total": 120
       },
       "199733712785531": {
         "text": 4,
@@ -4572,9 +4572,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 300,
+        "text": 301,
         "media": 172,
-        "total": 472
+        "total": 473
       },
       "559984624669": {
         "text": 4,
@@ -4588,13 +4588,13 @@
       },
       "182738040713418": {
         "text": 69,
-        "media": 47,
-        "total": 116
+        "media": 48,
+        "total": 117
       },
       "81991328395336": {
         "text": 182,
-        "media": 53,
-        "total": 235
+        "media": 54,
+        "total": 236
       },
       "274384656834700": {
         "text": 76,
@@ -5337,9 +5337,9 @@
         "total": 7
       },
       "79728216113177": {
-        "text": 112,
+        "text": 115,
         "media": 52,
-        "total": 164
+        "total": 167
       },
       "108147461074988": {
         "text": 1,
@@ -6266,10 +6266,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Victor: e eu que ainda mando vez ou outra",
-        "Victor: to errado será",
-        "Camila Designer: Roles",
-        "Clayton 🇳🇬: Será que esta assim",
         "Clayton 🇳🇬: Hoje em dia",
         "Camila Designer: Brincando gente",
         "Camila Designer: @79728216113177 se apresente",
@@ -6765,7 +6761,11 @@
         "Dany: HAHAHHAHAHA a oi mds mão, acho",
         "Juliano Perlin: Qual o assunto do momento??",
         "Celiete Souza: Pé no saco",
-        "𝑳𝒂𝒚𝒉🌪🌚: É boa?\nAlguém assistiu?"
+        "𝑳𝒂𝒚𝒉🌪🌚: É boa?\nAlguém assistiu?",
+        "Kaio Mendes: Essa foi boa",
+        "Camila Designer: Já assistir, ela mata ele no final",
+        "Dany: Seu nome não está na letra padrão, aí não consigo de achar digitando, tenho que ficar procurando aff",
+        "Kaio Mendes: Formas de banir o Juliano 🙂‍↔️"
       ]
     },
     "120363426574906687@g.us": {
@@ -7480,6 +7480,30 @@
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
         "text": "É boa?\nAlguém assistiu?",
         "timestamp": 1788821179810
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "Essa foi boa",
+        "timestamp": 1788821197370
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Já assistir, ela mata ele no final",
+        "timestamp": 1788821203196
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Seu nome não está na letra padrão, aí não consigo de achar digitando, tenho que ficar procurando aff",
+        "timestamp": 1788821210439
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "Formas de banir o Juliano 🙂‍↔️",
+        "timestamp": 1788821215974
       }
     ],
     "120363426574906687@g.us": []
@@ -7504,7 +7528,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 486,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 3088,
+    "120363023757382018@g.us": 3092,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -24506,6 +24530,30 @@
         "text": "É boa?\nAlguém assistiu?",
         "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
         "timestamp": 1788821179810
+      },
+      "ACEE67A009FB84B3B6B84FF1F31A2F1F": {
+        "sender": "79728216113177@lid",
+        "text": "Essa foi boa",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788821197370
+      },
+      "2A1E6AD2F3D2B3D62ED5": {
+        "sender": "92629643563147@lid",
+        "text": "Já assistir, ela mata ele no final",
+        "pushName": "Camila Designer",
+        "timestamp": 1788821203197
+      },
+      "3A86214D6E1A2737CBC6": {
+        "sender": "262182034002040@lid",
+        "text": "Seu nome não está na letra padrão, aí não consigo de achar digitando, tenho que ficar procurando aff",
+        "pushName": "Dany",
+        "timestamp": 1788821210439
+      },
+      "ACBBA2ADE1B3BC3EFFBEC0B78C416837": {
+        "sender": "79728216113177@lid",
+        "text": "Formas de banir o Juliano 🙂‍↔️",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788821215975
       }
     },
     "120363426574906687@g.us": {
@@ -25452,7 +25500,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788819771459,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788821179810,
+    "120363023757382018@g.us": 1788821215974,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
