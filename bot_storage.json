@@ -5142,9 +5142,9 @@
         "total": 1
       },
       "264308512522409": {
-        "text": 30,
+        "text": 31,
         "media": 2,
-        "total": 32
+        "total": 33
       },
       "194377938911429": {
         "text": 9,
@@ -5217,9 +5217,9 @@
         "total": 1
       },
       "136296492200083": {
-        "text": 21,
+        "text": 22,
         "media": 7,
-        "total": 28
+        "total": 29
       },
       "252342414905454": {
         "text": 7,
@@ -6183,8 +6183,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Filipe Oliveira☺️☺️: Boa tarde",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Bem vindo!",
         "welkeazevedo: Tem mais aí do estado de MT aqui.",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Mulher pq tu removeu? 😂",
         "𝑳𝒂𝒚𝒉🌪🌚: Fui remover um e acabei tirando ele",
@@ -6682,7 +6680,9 @@
         "Henrique Contri 🤫: Tem um lote aqui do lado pra capinar 🤣🤣",
         "Henrique Contri 🤫: Acaba rapidinho com o tédio kk",
         "Cristian Sntss: Vai lá",
-        "Luis Felipe: kkk vai vc então"
+        "Luis Felipe: kkk vai vc então",
+        "Henrique Contri 🤫: Hj tô de folga 🤣",
+        "Luis Felipe: mesmo assim só ir"
       ]
     },
     "120363426574906687@g.us": {
@@ -6850,12 +6850,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "Corredor?",
-        "timestamp": 1788798998743
-      },
       {
         "authorNum": "166452229341300",
         "authorName": "Cristian Sntss",
@@ -7611,6 +7605,18 @@
         "authorName": "Luis Felipe",
         "text": "kkk vai vc então",
         "timestamp": 1788800795731
+      },
+      {
+        "authorNum": "264308512522409",
+        "authorName": "Henrique Contri 🤫",
+        "text": "Hj tô de folga 🤣",
+        "timestamp": 1788800825840
+      },
+      {
+        "authorNum": "136296492200083",
+        "authorName": "Luis Felipe",
+        "text": "mesmo assim só ir",
+        "timestamp": 1788800841577
       }
     ],
     "120363426574906687@g.us": [
@@ -7858,7 +7864,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1675,
+    "120363023757382018@g.us": 1677,
     "120363426574906687@g.us": 144
   },
   "botDisabled": {
@@ -16206,6 +16212,18 @@
         "text": "kkk vai vc então",
         "pushName": "Luis Felipe",
         "timestamp": 1788800795731
+      },
+      "AC0E33AD6ED32F6B7E7959D40186E95C": {
+        "sender": "264308512522409@lid",
+        "text": "Hj tô de folga 🤣",
+        "pushName": "Henrique Contri 🤫",
+        "timestamp": 1788800825840
+      },
+      "3A142ADD0E50CE2BB182": {
+        "sender": "136296492200083@lid",
+        "text": "mesmo assim só ir",
+        "pushName": "Luis Felipe",
+        "timestamp": 1788800841577
       }
     },
     "120363426574906687@g.us": {
@@ -16936,7 +16954,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788800795731,
+    "120363023757382018@g.us": 1788800841577,
     "120363426574906687@g.us": 1788800679780
   },
   "autoAnimSent": {
