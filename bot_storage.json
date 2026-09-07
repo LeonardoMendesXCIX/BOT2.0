@@ -4522,9 +4522,9 @@
         "total": 413
       },
       "53537388122141": {
-        "text": 207,
+        "text": 208,
         "media": 21,
-        "total": 228
+        "total": 229
       },
       "129373172711439": {
         "text": 121,
@@ -4588,8 +4588,8 @@
       },
       "182738040713418": {
         "text": 51,
-        "media": 32,
-        "total": 83
+        "media": 33,
+        "total": 84
       },
       "81991328395336": {
         "text": 152,
@@ -5338,8 +5338,8 @@
       },
       "79728216113177": {
         "text": 41,
-        "media": 25,
-        "total": 66
+        "media": 26,
+        "total": 67
       }
     },
     "120363426574906687@g.us": {
@@ -6249,7 +6249,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Camila Designer: Olha o que joga para o universo 🤣🤣🤣",
         "Celiete Souza: Pois então",
         "P: eu não joguei nada não",
         "P: mas se ela jogar",
@@ -6748,7 +6747,8 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: KKKKKKK",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Pensamentos iguais",
         "Kaio Mendes: Idênticos",
-        "Kaio Mendes: Jaca Zé"
+        "Kaio Mendes: Jaca Zé",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Sim"
       ]
     },
     "120363426574906687@g.us": {
@@ -7361,6 +7361,12 @@
         "authorName": "Kaio Mendes",
         "text": "Jaca Zé",
         "timestamp": 1788816067343
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Sim",
+        "timestamp": 1788816088018
       }
     ],
     "120363426574906687@g.us": [
@@ -7392,7 +7398,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2768,
+    "120363023757382018@g.us": 2769,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -22431,6 +22437,12 @@
         "text": "Jaca Zé",
         "pushName": "Kaio Mendes",
         "timestamp": 1788816067343
+      },
+      "AC8040200673535C5D3791D898B10933": {
+        "sender": "53537388122141@lid",
+        "text": "Sim",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788816088018
       }
     },
     "120363426574906687@g.us": {
@@ -23377,7 +23389,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788816068527,
+    "120363023757382018@g.us": 1788816088018,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
