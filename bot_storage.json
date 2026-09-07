@@ -4522,9 +4522,9 @@
         "total": 383
       },
       "53537388122141": {
-        "text": 165,
+        "text": 166,
         "media": 14,
-        "total": 179
+        "total": 180
       },
       "129373172711439": {
         "text": 121,
@@ -4592,9 +4592,9 @@
         "total": 62
       },
       "81991328395336": {
-        "text": 144,
-        "media": 41,
-        "total": 185
+        "text": 145,
+        "media": 42,
+        "total": 187
       },
       "274384656834700": {
         "text": 76,
@@ -4612,9 +4612,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 254,
+        "text": 255,
         "media": 20,
-        "total": 274
+        "total": 275
       },
       "206966404210884": {
         "text": 2,
@@ -6244,7 +6244,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "jaciara: Minha amiga tá perguntando qual Estado fica mais próximo pra vc",
         "jaciara: Maranhão",
         "Camila Designer: Ah é minha amiga disse que leite é saudável 🤣🤣🤣🤣",
         "jaciara: Ou Goiás",
@@ -6743,7 +6742,8 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Obrigada, me lembrou de postar caixinhas",
         "Wellington: Ontem tinha um aí que tava caindo matando pra cima dela kkk",
         "Leandro: Não sei quem enviou, mas, agrademos!",
-        "Leandro: !todos"
+        "Leandro: !todos",
+        "𝑳𝒂𝒚𝒉🌪🌚: Agrademos ?"
       ]
     },
     "120363426574906687@g.us": {
@@ -7324,6 +7324,12 @@
         "authorName": "Leandro",
         "text": "!todos",
         "timestamp": 1788813146160
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Agrademos ?",
+        "timestamp": 1788813160684
       }
     ],
     "120363426574906687@g.us": []
@@ -7348,7 +7354,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2633,
+    "120363023757382018@g.us": 2634,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -21559,6 +21565,12 @@
         "text": "!todos",
         "pushName": "Leandro",
         "timestamp": 1788813146160
+      },
+      "ACF39F67EBEA35057689FF01F71B48E0": {
+        "sender": "81991328395336@lid",
+        "text": "Agrademos ?",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1788813160684
       }
     },
     "120363426574906687@g.us": {
@@ -22499,7 +22511,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788813146160,
+    "120363023757382018@g.us": 1788813167935,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
