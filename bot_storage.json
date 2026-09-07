@@ -4507,9 +4507,9 @@
         "total": 161
       },
       "129373172711439": {
-        "text": 42,
+        "text": 43,
         "media": 12,
-        "total": 54
+        "total": 55
       },
       "138306604032063": {
         "text": 11,
@@ -4537,9 +4537,9 @@
         "total": 15
       },
       "262182034002040": {
-        "text": 51,
-        "media": 4,
-        "total": 55
+        "text": 52,
+        "media": 5,
+        "total": 57
       },
       "199733712785531": {
         "text": 4,
@@ -4553,8 +4553,8 @@
       },
       "92629643563147": {
         "text": 54,
-        "media": 35,
-        "total": 89
+        "media": 36,
+        "total": 90
       },
       "559984624669": {
         "text": 4,
@@ -4767,9 +4767,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 158,
+        "text": 159,
         "media": 1,
-        "total": 159
+        "total": 160
       },
       "89305909317735": {
         "text": 1,
@@ -6192,7 +6192,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Cristian Sntss: E o da onça",
         "junior: Oi gabi boa tarde",
         "Francisco Silva: Kkkk pau pequeno kkkk",
         "Gabi 💋: Meu Deus cara",
@@ -6691,7 +6690,8 @@
         "Luis Felipe: Que bom",
         "Camila Designer: Covarde",
         "Luis Felipe: Kkk",
-        "Celiete Souza: Bhaaaa não deixava assim"
+        "Celiete Souza: Bhaaaa não deixava assim",
+        "Heloisa: Achei"
       ]
     },
     "120363426574906687@g.us": {
@@ -6915,12 +6915,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "152274357751809",
-        "authorName": "Heloisa",
-        "text": "Eu gosto dos de 18 pra pegar pra criar e dos de 99 pra ficar com a aposentadoria",
-        "timestamp": 1788800535599
-      },
       {
         "authorNum": "136296492200083",
         "authorName": "Luis Felipe",
@@ -7868,6 +7862,12 @@
         "authorName": "Celiete Souza",
         "text": "Bhaaaa não deixava assim",
         "timestamp": 1788802310020
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Achei",
+        "timestamp": 1788802347778
       }
     ],
     "120363426574906687@g.us": [
@@ -7983,7 +7983,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 65,
-    "120363023757382018@g.us": 1813,
+    "120363023757382018@g.us": 1814,
     "120363426574906687@g.us": 145
   },
   "botDisabled": {
@@ -17213,6 +17213,12 @@
         "text": "Bhaaaa não deixava assim",
         "pushName": "Celiete Souza",
         "timestamp": 1788802310020
+      },
+      "AC520E469AEE1E2FCB90153242194DC2": {
+        "sender": "152274357751809@lid",
+        "text": "Achei",
+        "pushName": "Heloisa",
+        "timestamp": 1788802347779
       }
     },
     "120363426574906687@g.us": {
@@ -17949,7 +17955,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788801734019,
-    "120363023757382018@g.us": 1788802320223,
+    "120363023757382018@g.us": 1788802347778,
     "120363426574906687@g.us": 1788801476879
   },
   "autoAnimSent": {
