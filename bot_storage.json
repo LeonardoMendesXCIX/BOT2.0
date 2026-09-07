@@ -4507,9 +4507,9 @@
         "total": 5
       },
       "108461127897146": {
-        "text": 180,
+        "text": 181,
         "media": 41,
-        "total": 221
+        "total": 222
       },
       "5511927018683": {
         "text": 223,
@@ -4517,9 +4517,9 @@
         "total": 245
       },
       "166452229341300": {
-        "text": 336,
-        "media": 107,
-        "total": 443
+        "text": 337,
+        "media": 108,
+        "total": 445
       },
       "53537388122141": {
         "text": 266,
@@ -4573,8 +4573,8 @@
       },
       "92629643563147": {
         "text": 280,
-        "media": 164,
-        "total": 444
+        "media": 165,
+        "total": 445
       },
       "559984624669": {
         "text": 4,
@@ -6257,8 +6257,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Leandro: !del",
-        "solteiro: Oi",
         "Wellington: Alguém quer fala aí que tá acabando",
         "solteiro: Ok",
         "Leandro: !todos",
@@ -6756,7 +6754,9 @@
         "Kaio Mendes: Massa ✌🏻",
         "Camila Designer: Agora foi eu 🤣🤣🤣",
         "Camila Designer: Ela não se decide 🤣🤣🤣",
-        "Kaio Mendes: Ah tá man"
+        "Kaio Mendes: Ah tá man",
+        "Cristian Sntss: Serve pra pessoas tbm",
+        "jaciara: A minha amiga queria que ele mandasse uma foto"
       ]
     },
     "120363426574906687@g.us": {
@@ -6980,12 +6980,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "79728216113177",
-        "authorName": "Kaio Mendes",
-        "text": "Oloko",
-        "timestamp": 1788817091924
-      },
       {
         "authorNum": "222595437858867",
         "authorName": "Juliano Perlin",
@@ -7927,6 +7921,18 @@
         "authorName": "Kaio Mendes",
         "text": "Ah tá man",
         "timestamp": 1788818872946
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Serve pra pessoas tbm",
+        "timestamp": 1788818903834
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "A minha amiga queria que ele mandasse uma foto",
+        "timestamp": 1788818909400
       }
     ],
     "120363426574906687@g.us": []
@@ -7951,7 +7957,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 3003,
+    "120363023757382018@g.us": 3005,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -24417,6 +24423,18 @@
         "text": "Ah tá man",
         "pushName": "Kaio Mendes",
         "timestamp": 1788818872946
+      },
+      "A5CD97058A4956D8D6967E8F18FA5BB1": {
+        "sender": "166452229341300@lid",
+        "text": "Serve pra pessoas tbm",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788818903834
+      },
+      "AC9062668304A446B3CA3DBE18D67676": {
+        "sender": "108461127897146@lid",
+        "text": "A minha amiga queria que ele mandasse uma foto",
+        "pushName": "jaciara",
+        "timestamp": 1788818909400
       }
     },
     "120363426574906687@g.us": {
@@ -25363,7 +25381,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788818872946,
+    "120363023757382018@g.us": 1788818909400,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
