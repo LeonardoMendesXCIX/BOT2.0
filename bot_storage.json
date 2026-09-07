@@ -4521,9 +4521,9 @@
         "total": 2
       },
       "222595437858867": {
-        "text": 47,
+        "text": 48,
         "media": 2,
-        "total": 49
+        "total": 50
       },
       "9431798554859": {
         "text": 2,
@@ -5118,9 +5118,9 @@
         "total": 43
       },
       "166452229341300": {
-        "text": 24,
+        "text": 25,
         "media": 4,
-        "total": 28
+        "total": 29
       },
       "5511927018683": {
         "text": 20,
@@ -5992,7 +5992,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Heloisa: Dependendo da noção da pessoa e se por acaso se idênticar está aberto",
         "JUNIOR: Muito bom!",
         "Amaury: Kkkk",
         "Amaury: Bora tomar um café ☕",
@@ -6491,7 +6490,8 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Fica a vontade",
         "Juliano Perlin: @53537388122141 vem cà",
         "Daniel Santos: Boa tarde \nMeu nome é Daniel tenho 25 \nSou de São Paulo",
-        "Francisco Silva: Tá certa"
+        "Francisco Silva: Tá certa",
+        "Juliano Perlin: Ta certa, tem q fazer isso mesmo"
       ]
     },
     "120363426574906687@g.us": {
@@ -6592,7 +6592,8 @@
         "𝑳𝒂𝒚𝒉🌪🌚: Pq meu dedo tá cansado já",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Assim de saúde",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: @all",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Por favor?"
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Por favor?",
+        "Cristian Sntss: @54259127210155"
       ]
     }
   },
@@ -6666,30 +6667,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "O nome dele até eu pensei",
-        "timestamp": 1788794450781
-      },
-      {
-        "authorNum": "152274357751809",
-        "authorName": "Heloisa",
-        "text": "Kkk",
-        "timestamp": 1788794450913
-      },
-      {
-        "authorNum": "75398352236551",
-        "authorName": "Filipe Oliveira☺️☺️",
-        "text": "Eu sou Filipe eu tenho 31 anos",
-        "timestamp": 1788794453443
-      },
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "Mais estou conversando com. Ele",
-        "timestamp": 1788794454868
-      },
       {
         "authorNum": "166452229341300",
         "authorName": "Cristian Sntss",
@@ -7529,6 +7506,12 @@
         "authorName": "Francisco Silva",
         "text": "Tá certa",
         "timestamp": 1788796230271
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Ta certa, tem q fazer isso mesmo",
+        "timestamp": 1788796263427
       }
     ],
     "120363426574906687@g.us": [
@@ -7561,6 +7544,12 @@
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "text": "Por favor?",
         "timestamp": 1788796236235
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "@54259127210155",
+        "timestamp": 1788796260299
       }
     ]
   },
@@ -7584,8 +7573,8 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1325,
-    "120363426574906687@g.us": 96
+    "120363023757382018@g.us": 1326,
+    "120363426574906687@g.us": 97
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -13831,6 +13820,12 @@
         "text": "Tá certa",
         "pushName": "Francisco Silva",
         "timestamp": 1788796230271
+      },
+      "ACDC2C1CDDF6CA38736E59A26D7D2A62": {
+        "sender": "222595437858867@lid",
+        "text": "Ta certa, tem q fazer isso mesmo",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1788796263427
       }
     },
     "120363426574906687@g.us": {
@@ -14175,6 +14170,12 @@
         "text": "Por favor?",
         "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "timestamp": 1788796236235
+      },
+      "A54E4C4B2E8CEA0567E473B191687F9E": {
+        "sender": "166452229341300@lid",
+        "text": "@54259127210155",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788796260299
       }
     }
   },
@@ -14273,8 +14274,8 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788796230271,
-    "120363426574906687@g.us": 1788796236235
+    "120363023757382018@g.us": 1788796263427,
+    "120363426574906687@g.us": 1788796260299
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
