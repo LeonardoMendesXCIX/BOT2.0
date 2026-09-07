@@ -4484,9 +4484,9 @@
         "total": 164
       },
       "166452229341300": {
-        "text": 105,
+        "text": 106,
         "media": 39,
-        "total": 144
+        "total": 145
       },
       "53537388122141": {
         "text": 47,
@@ -4754,9 +4754,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 18,
+        "text": 21,
         "media": 0,
-        "total": 18
+        "total": 21
       },
       "89305909317735": {
         "text": 1,
@@ -4804,9 +4804,9 @@
         "total": 2
       },
       "168814327128263": {
-        "text": 3,
+        "text": 4,
         "media": 0,
-        "total": 3
+        "total": 4
       },
       "219911083266163": {
         "text": 0,
@@ -4819,9 +4819,9 @@
         "total": 2
       },
       "238761577287893": {
-        "text": 1,
+        "text": 2,
         "media": 0,
-        "total": 1
+        "total": 2
       }
     },
     "120363426574906687@g.us": {
@@ -5687,11 +5687,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Cristian Sntss: Aqui o sol tá mais quente que ontem",
-        "jaciara: Bom diaaa",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Bom diaaa a todos! Ótima segunda feira e um dia abençoado a todos vocês 🥰🙏🏼🫶🏻",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: @119091591397556",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: @209921022902343",
         "Victory: Thanks Admin for adding me to this wonderful group",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: !ban",
         "Jr: Dr. Rômulo 39 anos solteiro",
@@ -6186,7 +6181,12 @@
         "Maron: Tb tô tomando banho aqui agora",
         "irlley gabryel: Nada e vc",
         "Heloisa: Me",
-        "Cristian Sntss: Que fofo"
+        "Cristian Sntss: Que fofo",
+        "Heloisa: Gatinho",
+        "Cristian Sntss: Sejam bem vindo jovens",
+        "irlley gabryel: Posso de chama no PV",
+        "Ryan: Obrigado 🙂🙂",
+        "Heloisa: Sim"
       ]
     },
     "120363426574906687@g.us": {
@@ -6270,12 +6270,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Vc né",
-        "timestamp": 1788788509052
-      },
       {
         "authorNum": "166452229341300",
         "authorName": "Cristian Sntss",
@@ -7115,6 +7109,36 @@
         "authorName": "Cristian Sntss",
         "text": "Que fofo",
         "timestamp": 1788790297928
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Gatinho",
+        "timestamp": 1788790309564
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Sejam bem vindo jovens",
+        "timestamp": 1788790315774
+      },
+      {
+        "authorNum": "168814327128263",
+        "authorName": "irlley gabryel",
+        "text": "Posso de chama no PV",
+        "timestamp": 1788790317956
+      },
+      {
+        "authorNum": "238761577287893",
+        "authorName": "Ryan",
+        "text": "Obrigado 🙂🙂",
+        "timestamp": 1788790324935
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Sim",
+        "timestamp": 1788790331996
       }
     ],
     "120363426574906687@g.us": [
@@ -7212,7 +7236,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 867,
+    "120363023757382018@g.us": 872,
     "120363426574906687@g.us": 60
   },
   "botDisabled": {
@@ -10601,6 +10625,36 @@
         "text": "Que fofo",
         "pushName": "Cristian Sntss",
         "timestamp": 1788790297928
+      },
+      "AC1487DD57CC8443C6041C64A09263D0": {
+        "sender": "152274357751809@lid",
+        "text": "Gatinho",
+        "pushName": "Heloisa",
+        "timestamp": 1788790309564
+      },
+      "A5834420ECEA472C96807C432A352CB6": {
+        "sender": "166452229341300@lid",
+        "text": "Sejam bem vindo jovens",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788790315774
+      },
+      "AC4C85696EDC6166A3B5DE1515DFDA42": {
+        "sender": "168814327128263@lid",
+        "text": "Posso de chama no PV",
+        "pushName": "irlley gabryel",
+        "timestamp": 1788790317956
+      },
+      "ACFAA6BB960476DD4E168F4095150993": {
+        "sender": "238761577287893@lid",
+        "text": "Obrigado 🙂🙂",
+        "pushName": "Ryan",
+        "timestamp": 1788790324935
+      },
+      "AC830598E6EDD0CDEFDF73EDF0555891": {
+        "sender": "152274357751809@lid",
+        "text": "Sim",
+        "pushName": "Heloisa",
+        "timestamp": 1788790331996
       }
     },
     "120363426574906687@g.us": {
@@ -10824,7 +10878,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788790298288,
+    "120363023757382018@g.us": 1788790331996,
     "120363426574906687@g.us": 1788790247164
   },
   "autoAnimSent": {
