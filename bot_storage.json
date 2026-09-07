@@ -4497,9 +4497,9 @@
         "total": 169
       },
       "166452229341300": {
-        "text": 196,
-        "media": 64,
-        "total": 260
+        "text": 197,
+        "media": 65,
+        "total": 262
       },
       "53537388122141": {
         "text": 142,
@@ -4767,9 +4767,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 109,
+        "text": 110,
         "media": 1,
-        "total": 110
+        "total": 111
       },
       "89305909317735": {
         "text": 1,
@@ -5218,8 +5218,8 @@
       },
       "136296492200083": {
         "text": 1,
-        "media": 0,
-        "total": 1
+        "media": 1,
+        "total": 2
       },
       "252342414905454": {
         "text": 3,
@@ -6108,9 +6108,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Heloisa: Problema é que se empolga começa no respeito de roupa depois tira e nem avisa aí leva block kk",
-        "JUNIOR: Exatamente",
-        "Thawan: 👏🏼👏🏼👏🏼",
         "Heloisa: Né moço",
         "Thawan: É isso aí",
         "K: Oii",
@@ -6607,7 +6604,10 @@
         "Jefinho: 😌",
         "👻🤑: Hétero, Contagem mg",
         "Jefinho: Sumiram",
-        "Cristian Sntss: Bem vindo"
+        "Cristian Sntss: Bem vindo",
+        "Cristian Sntss: Menino n entra uma mulher",
+        "Heloisa: Ata kkk",
+        "Luis Felipe: Luís Felipe tenho 21 moro em regente Feijó solteiro"
       ]
     },
     "120363426574906687@g.us": {
@@ -6735,12 +6735,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "39857447551026",
-        "authorName": "Francisco Silva",
-        "text": "Qual cardápio???",
-        "timestamp": 1788796547935
-      },
       {
         "authorNum": "166452229341300",
         "authorName": "Cristian Sntss",
@@ -7574,6 +7568,24 @@
         "authorName": "Cristian Sntss",
         "text": "Bem vindo",
         "timestamp": 1788798337304
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Menino n entra uma mulher",
+        "timestamp": 1788798357093
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Ata kkk",
+        "timestamp": 1788798370960
+      },
+      {
+        "authorNum": "136296492200083",
+        "authorName": "Luis Felipe",
+        "text": "Luís Felipe tenho 21 moro em regente Feijó solteiro",
+        "timestamp": 1788798374563
       }
     ],
     "120363426574906687@g.us": [
@@ -7635,7 +7647,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1486,
+    "120363023757382018@g.us": 1489,
     "120363426574906687@g.us": 104
   },
   "botDisabled": {
@@ -14849,6 +14861,24 @@
         "text": "Bem vindo",
         "pushName": "Cristian Sntss",
         "timestamp": 1788798337304
+      },
+      "A54887DAA947405122A6F1BF8AF8F2A7": {
+        "sender": "166452229341300@lid",
+        "text": "Menino n entra uma mulher",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788798357093
+      },
+      "AC2A88FFB0743F585B94559BD91F6CEA": {
+        "sender": "152274357751809@lid",
+        "text": "Ata kkk",
+        "pushName": "Heloisa",
+        "timestamp": 1788798370960
+      },
+      "3A879F827985B1FF59D7": {
+        "sender": "136296492200083@lid",
+        "text": "Luís Felipe tenho 21 moro em regente Feijó solteiro",
+        "pushName": "Luis Felipe",
+        "timestamp": 1788798374563
       }
     },
     "120363426574906687@g.us": {
@@ -15339,7 +15369,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788798337304,
+    "120363023757382018@g.us": 1788798374563,
     "120363426574906687@g.us": 1788798298976
   },
   "autoAnimSent": {
