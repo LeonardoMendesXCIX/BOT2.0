@@ -4508,8 +4508,8 @@
       },
       "129373172711439": {
         "text": 91,
-        "media": 25,
-        "total": 116
+        "media": 26,
+        "total": 117
       },
       "138306604032063": {
         "text": 11,
@@ -4517,9 +4517,9 @@
         "total": 18
       },
       "163530946961491": {
-        "text": 2,
+        "text": 3,
         "media": 2,
-        "total": 4
+        "total": 5
       },
       "222595437858867": {
         "text": 60,
@@ -4577,9 +4577,9 @@
         "total": 180
       },
       "274384656834700": {
-        "text": 72,
+        "text": 73,
         "media": 22,
-        "total": 94
+        "total": 95
       },
       "111141304930334": {
         "text": 3,
@@ -4607,9 +4607,9 @@
         "total": 6
       },
       "254884934881353": {
-        "text": 41,
-        "media": 4,
-        "total": 45
+        "text": 42,
+        "media": 5,
+        "total": 47
       },
       "45479878459474": {
         "text": 1,
@@ -5283,8 +5283,8 @@
       },
       "171214744064197": {
         "text": 17,
-        "media": 2,
-        "total": 19
+        "media": 3,
+        "total": 20
       },
       "198607978410013": {
         "text": 1,
@@ -6195,8 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Camila Designer: @129373172711439 corre aquiii",
-        "Celiete Souza: Oi",
         "Luis Felipe: Pd mesmo",
         "Cristian Sntss: Tão com medo da mulher 🤣🤣",
         "Heloisa: Sim",
@@ -6694,7 +6692,9 @@
         "Celiete Souza: Bhaaaa",
         "P: Celiete perigosa",
         "Gleydson Souza: @247020967165997 ate o kbaré baby volto a noite",
-        "Celiete Souza: Quando que eu não vi"
+        "Celiete Souza: Quando que eu não vi",
+        "P: da pra fazer uns negócios maneiros",
+        "willian: Oi, como vc está ?"
       ]
     },
     "120363426574906687@g.us": {
@@ -6898,18 +6898,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Minha amiga que disse",
-        "timestamp": 1788805867608
-      },
-      {
-        "authorNum": "118515428286715",
-        "authorName": "Saul",
-        "text": "Não sei oque é “longe” rs",
-        "timestamp": 1788805884780
-      },
       {
         "authorNum": "118515428286715",
         "authorName": "Saul",
@@ -8127,6 +8115,18 @@
         "authorName": "Celiete Souza",
         "text": "Quando que eu não vi",
         "timestamp": 1788807666143
+      },
+      {
+        "authorNum": "254884934881353",
+        "authorName": "P",
+        "text": "da pra fazer uns negócios maneiros",
+        "timestamp": 1788807690818
+      },
+      {
+        "authorNum": "163530946961491",
+        "authorName": "willian",
+        "text": "Oi, como vc está ?",
+        "timestamp": 1788807693691
       }
     ],
     "120363426574906687@g.us": [
@@ -8164,7 +8164,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2345,
+    "120363023757382018@g.us": 2347,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -20599,6 +20599,18 @@
         "text": "Quando que eu não vi",
         "pushName": "Celiete Souza",
         "timestamp": 1788807666143
+      },
+      "3AD918BB7E8F0F00F318": {
+        "sender": "254884934881353@lid",
+        "text": "da pra fazer uns negócios maneiros",
+        "pushName": "P",
+        "timestamp": 1788807690818
+      },
+      "AC746E25896FD30D7E3B6C0F788D39D5": {
+        "sender": "163530946961491@lid",
+        "text": "Oi, como vc está ?",
+        "pushName": "willian",
+        "timestamp": 1788807693691
       }
     },
     "120363426574906687@g.us": {
@@ -21539,7 +21551,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788807674248,
+    "120363023757382018@g.us": 1788807696519,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
