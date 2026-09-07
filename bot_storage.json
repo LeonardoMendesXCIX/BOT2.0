@@ -4547,9 +4547,9 @@
         "total": 4
       },
       "176171622899942": {
-        "text": 25,
+        "text": 26,
         "media": 7,
-        "total": 32
+        "total": 33
       },
       "92629643563147": {
         "text": 30,
@@ -4572,9 +4572,9 @@
         "total": 9
       },
       "81991328395336": {
-        "text": 96,
+        "text": 97,
         "media": 26,
-        "total": 122
+        "total": 123
       },
       "274384656834700": {
         "text": 31,
@@ -6073,8 +6073,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Ton: Nao e isso e q eu ja tenho a minha vida aqui e a pessoa ja tem a vida dela na cidade dela eu n tenho mais idade para aventura",
-        "Cristian Sntss: Maranhão aqui \nEu \n@81991328395336 \n@108461127897146",
         "Cristian Sntss: A idade",
         "Camila Designer: Qual sua idade amigo, e de onde é?",
         "Ryan: 24 anos",
@@ -6572,7 +6570,9 @@
         "𝑳𝒂𝒚𝒉🌪🌚: Eu amo",
         "Gabi 💋: Também",
         "Gabi 💋: Pense num negócio que amo",
-        "Heloisa: Kkk"
+        "Heloisa: Kkk",
+        "𝑳𝒂𝒚𝒉🌪🌚: Aqui no Maranhão tem demais",
+        "Jefinho: Oi morena dos olhos lindos"
       ]
     },
     "120363426574906687@g.us": {
@@ -6699,36 +6699,6 @@
     "120363409367298221@g.us": [],
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Pede pro @166452229341300",
-        "timestamp": 1788795394872
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Tá certa ela",
-        "timestamp": 1788795401427
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Nessa parte, ela tem que responder mesmo",
-        "timestamp": 1788795409800
-      },
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "Eu coloco e o bot tira",
-        "timestamp": 1788795441727
-      },
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "Coloquei 3 vezes",
-        "timestamp": 1788795451490
-      },
       {
         "authorNum": "5511927018683",
         "authorName": "Leandro",
@@ -7522,21 +7492,21 @@
         "authorName": "Heloisa",
         "text": "Kkk",
         "timestamp": 1788797381385
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Aqui no Maranhão tem demais",
+        "timestamp": 1788797388543
+      },
+      {
+        "authorNum": "176171622899942",
+        "authorName": "Jefinho",
+        "text": "Oi morena dos olhos lindos",
+        "timestamp": 1788797405874
       }
     ],
     "120363426574906687@g.us": [
-      {
-        "authorNum": "81991328395336",
-        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
-        "text": "Tô pra ativa",
-        "timestamp": 1788795343075
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
-        "text": "Pq meu dedo tá cansado já",
-        "timestamp": 1788795351707
-      },
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
@@ -7625,7 +7595,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1396,
+    "120363023757382018@g.us": 1398,
     "120363426574906687@g.us": 104
   },
   "botDisabled": {
@@ -14299,6 +14269,18 @@
         "text": "Kkk",
         "pushName": "Heloisa",
         "timestamp": 1788797381385
+      },
+      "AC5D58DD61AEFDC116A85DBD3D6E8294": {
+        "sender": "81991328395336@lid",
+        "text": "Aqui no Maranhão tem demais",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1788797388543
+      },
+      "ACA4AFFA37355A8122EE848F729CA2B1": {
+        "sender": "176171622899942@lid",
+        "text": "Oi morena dos olhos lindos",
+        "pushName": "Jefinho",
+        "timestamp": 1788797405875
       }
     },
     "120363426574906687@g.us": {
@@ -14789,7 +14771,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788797381385,
+    "120363023757382018@g.us": 1788797405874,
     "120363426574906687@g.us": 1788796664927
   },
   "autoAnimSent": {
