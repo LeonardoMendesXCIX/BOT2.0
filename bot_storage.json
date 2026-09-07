@@ -4488,9 +4488,9 @@
         "total": 98
       },
       "53537388122141": {
-        "text": 39,
+        "text": 41,
         "media": 5,
-        "total": 44
+        "total": 46
       },
       "129373172711439": {
         "text": 27,
@@ -4678,9 +4678,9 @@
         "total": 2
       },
       "59645049761949": {
-        "text": 21,
+        "text": 22,
         "media": 0,
-        "total": 21
+        "total": 22
       },
       "21338118979724": {
         "text": 3,
@@ -5930,7 +5930,10 @@
         "Leandro: !ban @30164360679505",
         "solteiro: Sim",
         "Celiete Souza: Precisa de novo ou só novatos",
-        "solteiro: Ok"
+        "solteiro: Ok",
+        "Amaury: Borá galera",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Os novatos amiga",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Que não se apresentaram ainda"
       ]
     },
     "120363426574906687@g.us": {
@@ -6546,6 +6549,24 @@
         "authorName": "solteiro",
         "text": "Ok",
         "timestamp": 1788787644191
+      },
+      {
+        "authorNum": "59645049761949",
+        "authorName": "Amaury",
+        "text": "Borá galera",
+        "timestamp": 1788787668064
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Os novatos amiga",
+        "timestamp": 1788787672154
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Que não se apresentaram ainda",
+        "timestamp": 1788787682072
       }
     ],
     "120363426574906687@g.us": []
@@ -6570,7 +6591,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 35,
-    "120363023757382018@g.us": 609,
+    "120363023757382018@g.us": 612,
     "120363426574906687@g.us": 36
   },
   "botDisabled": {
@@ -8416,6 +8437,24 @@
         "text": "Ok",
         "pushName": "solteiro",
         "timestamp": 1788787644191
+      },
+      "AC958423EC3CAE66CB885376BCA1B25B": {
+        "sender": "59645049761949@lid",
+        "text": "Borá galera",
+        "pushName": "Amaury",
+        "timestamp": 1788787668064
+      },
+      "AC91FE1A2815FF78A48CCA85A2C978A6": {
+        "sender": "53537388122141@lid",
+        "text": "Os novatos amiga",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788787672154
+      },
+      "ACE062ABB4650E21E90794E72878CD4F": {
+        "sender": "53537388122141@lid",
+        "text": "Que não se apresentaram ainda",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788787682072
       }
     },
     "120363426574906687@g.us": {}
@@ -8512,7 +8551,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788787544412,
-    "120363023757382018@g.us": 1788787644191,
+    "120363023757382018@g.us": 1788787682072,
     "120363426574906687@g.us": 1788725639102
   },
   "autoAnimSent": {
