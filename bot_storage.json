@@ -4537,9 +4537,9 @@
         "total": 15
       },
       "262182034002040": {
-        "text": 56,
+        "text": 57,
         "media": 6,
-        "total": 62
+        "total": 63
       },
       "199733712785531": {
         "text": 4,
@@ -4552,9 +4552,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 64,
-        "media": 41,
-        "total": 105
+        "text": 65,
+        "media": 42,
+        "total": 107
       },
       "559984624669": {
         "text": 4,
@@ -4767,9 +4767,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 164,
+        "text": 165,
         "media": 1,
-        "total": 165
+        "total": 166
       },
       "89305909317735": {
         "text": 1,
@@ -5177,9 +5177,9 @@
         "total": 13
       },
       "559491757737": {
-        "text": 2,
+        "text": 4,
         "media": 1,
-        "total": 3
+        "total": 5
       },
       "246729194639608": {
         "text": 3,
@@ -6193,10 +6193,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Cristian Sntss: Medo do bot em",
-        "Juliano Perlin: Q tela mais amarela..nao vi nada quase🤣🤣🤣🤣🤣",
-        "Gleydson Souza: Vi que foi fazer o almoço ja vou chegar no momento bom então kkkkk",
-        "Henrique Contri 🤫: Meu nome é Henrique tenho 29 anos sou de presidente prudente SP 😎",
         "𝑳𝒂𝒚𝒉🌪🌚: É o Besta",
         "Gleydson Souza: Kkkkkk",
         "𝑳𝒂𝒚𝒉🌪🌚: Retrato",
@@ -6692,7 +6688,11 @@
         "Camila Designer: Que isso, estão proibidos 🤣🤣🤣",
         "Camila Designer: Te espero a noite no Kabaré @118515428286715 😏😏😏",
         "Celiete Souza: Tu é rápida kkkk",
-        "Heloisa: De que kkk"
+        "Heloisa: De que kkk",
+        "Camila Designer: Vai para o PV mulher, seu novinho está esperando 🤣🤣🤣",
+        "José Vitor: Kkkkkkk",
+        "Dany: Brother, não, valeu\nPaz ✌🏻",
+        "Heloisa: Okkkkk"
       ]
     },
     "120363426574906687@g.us": {
@@ -6922,24 +6922,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "171214744064197",
-        "authorName": "Márcio Bruxel",
-        "text": "Aqui amanheceu com 5 graus",
-        "timestamp": 1788801021463
-      },
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "Curtindo preguiça",
-        "timestamp": 1788801027571
-      },
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "Tive nem ânimo pra ir vê o desfile cívico",
-        "timestamp": 1788801040656
-      },
       {
         "authorNum": "171214744064197",
         "authorName": "Márcio Bruxel",
@@ -7947,6 +7929,30 @@
         "authorName": "Heloisa",
         "text": "De que kkk",
         "timestamp": 1788802819536
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Vai para o PV mulher, seu novinho está esperando 🤣🤣🤣",
+        "timestamp": 1788802836528
+      },
+      {
+        "authorNum": "559491757737",
+        "authorName": "José Vitor",
+        "text": "Kkkkkkk",
+        "timestamp": 1788802848470
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Brother, não, valeu\nPaz ✌🏻",
+        "timestamp": 1788802850589
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Okkkkk",
+        "timestamp": 1788802854576
       }
     ],
     "120363426574906687@g.us": []
@@ -7971,7 +7977,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 66,
-    "120363023757382018@g.us": 1862,
+    "120363023757382018@g.us": 1866,
     "120363426574906687@g.us": 145
   },
   "botDisabled": {
@@ -17495,6 +17501,30 @@
         "text": "De que kkk",
         "pushName": "Heloisa",
         "timestamp": 1788802819536
+      },
+      "2AB0FA40D6160AF00C19": {
+        "sender": "92629643563147@lid",
+        "text": "Vai para o PV mulher, seu novinho está esperando 🤣🤣🤣",
+        "pushName": "Camila Designer",
+        "timestamp": 1788802836528
+      },
+      "ACA203343D35A0A06019A3E9C047917A": {
+        "sender": "130262331613213@lid",
+        "text": "Kkkkkkk",
+        "pushName": "José Vitor",
+        "timestamp": 1788802848470
+      },
+      "3A22C43677FE3316A9BE": {
+        "sender": "262182034002040@lid",
+        "text": "Brother, não, valeu\nPaz ✌🏻",
+        "pushName": "Dany",
+        "timestamp": 1788802850589
+      },
+      "AC7E8B5894E16EDE383ECE263F4F03C4": {
+        "sender": "152274357751809@lid",
+        "text": "Okkkkk",
+        "pushName": "Heloisa",
+        "timestamp": 1788802854576
       }
     },
     "120363426574906687@g.us": {
@@ -18231,7 +18261,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788802585654,
-    "120363023757382018@g.us": 1788802819535,
+    "120363023757382018@g.us": 1788802856716,
     "120363426574906687@g.us": 1788801476879
   },
   "autoAnimSent": {
