@@ -4764,9 +4764,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 62,
+        "text": 63,
         "media": 0,
-        "total": 62
+        "total": 63
       },
       "89305909317735": {
         "text": 1,
@@ -4954,6 +4954,11 @@
         "total": 1
       },
       "169157941317756": {
+        "text": 1,
+        "media": 0,
+        "total": 1
+      },
+      "251397924761795": {
         "text": 1,
         "media": 0,
         "total": 1
@@ -5828,8 +5833,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Que não se apresentaram ainda",
-        "Wellygton Douglas: Wellygton aqui sou de Pernambuco 36 anos pv liberado",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Bem vindo!",
         "Amaury: PV liberado",
         "Gabi 💋: Óia gente",
@@ -6327,7 +6330,9 @@
         "𝑳𝒂𝒚𝒉🌪🌚: !ban @235979092836559",
         "Elias Rodrigues: Me llamo Elias \n\nEdad 25 \nEstado civil soltero \n\nSoy de Centroamérica",
         "Francisco Silva: Cara trouxa",
-        "Nalguda Ganesh: 📷"
+        "Nalguda Ganesh: 📷",
+        "Heloisa: Do nada uns número árabe",
+        "Hildecio Paulo: Oi"
       ]
     },
     "120363426574906687@g.us": {
@@ -6478,18 +6483,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "5850081050816",
-        "authorName": "Dani",
-        "text": "Celular e agua n combinam",
-        "timestamp": 1788791875389
-      },
-      {
-        "authorNum": "48120897470717",
-        "authorName": "Cláudio",
-        "text": "Bom dia",
-        "timestamp": 1788791896287
-      },
       {
         "authorNum": "226946222944358",
         "authorName": "Ton",
@@ -7419,6 +7412,18 @@
         "authorName": "Nalguda Ganesh",
         "text": "📷",
         "timestamp": 1788793628008
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Do nada uns número árabe",
+        "timestamp": 1788793702100
+      },
+      {
+        "authorNum": "251397924761795",
+        "authorName": "Hildecio Paulo",
+        "text": "Oi",
+        "timestamp": 1788793704443
       }
     ],
     "120363426574906687@g.us": [
@@ -7486,7 +7491,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 44,
-    "120363023757382018@g.us": 1111,
+    "120363023757382018@g.us": 1113,
     "120363426574906687@g.us": 90
   },
   "botDisabled": {
@@ -12377,6 +12382,18 @@
         "text": "📷",
         "pushName": "Nalguda Ganesh",
         "timestamp": 1788793628008
+      },
+      "ACBEDDE649A8E4FE6AFD486B1B5D60FF": {
+        "sender": "152274357751809@lid",
+        "text": "Do nada uns número árabe",
+        "pushName": "Heloisa",
+        "timestamp": 1788793702100
+      },
+      "AC82C73C02D9AF41F7C2B57AE3305C2F": {
+        "sender": "251397924761795@lid",
+        "text": "Oi",
+        "pushName": "Hildecio Paulo",
+        "timestamp": 1788793704443
       }
     },
     "120363426574906687@g.us": {
@@ -12780,7 +12797,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788793408313,
-    "120363023757382018@g.us": 1788793655836,
+    "120363023757382018@g.us": 1788793704443,
     "120363426574906687@g.us": 1788793079391
   },
   "autoAnimSent": {
