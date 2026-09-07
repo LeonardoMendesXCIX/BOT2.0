@@ -4679,9 +4679,9 @@
         "total": 2
       },
       "59645049761949": {
-        "text": 43,
+        "text": 46,
         "media": 2,
-        "total": 45
+        "total": 48
       },
       "21338118979724": {
         "text": 3,
@@ -4796,6 +4796,11 @@
         "total": 16
       },
       "92629643563147": {
+        "text": 1,
+        "media": 0,
+        "total": 1
+      },
+      "81991328395336": {
         "text": 1,
         "media": 0,
         "total": 1
@@ -5637,9 +5642,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Leandro: !status",
-        "Leandro: !del",
-        "Leandro: !del",
         "Cristian Sntss: Toma boldo",
         "Cristian Sntss: Bem vindooo",
         "P: kkkkk",
@@ -6136,7 +6138,10 @@
         "Amaury: Bora galera",
         "Amaury: Interagir",
         "Cristian Sntss: Bora bora",
-        "𝑳𝒂𝒚𝒉🌪🌚: Teve um caso recente fe uma onça"
+        "𝑳𝒂𝒚𝒉🌪🌚: Teve um caso recente fe uma onça",
+        "Amaury: Aqui tem espaço pra risada solta, pra conversa boa, pra brincar, pra debater, pra contar história, pra falar de tudo que a gente gosta e também pra rir um dos outros (sem maldade, claro! 😂). É aquele",
+        "Amaury: Ser",
+        "Amaury: Sério"
       ]
     },
     "120363426574906687@g.us": {
@@ -6192,7 +6197,8 @@
         "Leandro: !del",
         "Leandro: !ajuda",
         "Leandro: !status",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Mais alguma coisa @92629643563147 \n@54259127210155 que precisa ser passado a ela?"
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Mais alguma coisa @92629643563147 \n@54259127210155 que precisa ser passado a ela?",
+        "𝑳𝒂𝒚𝒉🌪🌚: Tu cadastrou o id dela?"
       ]
     }
   },
@@ -6211,18 +6217,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "128145298608376",
-        "authorName": "solteiro",
-        "text": "Amo",
-        "timestamp": 1788787850267
-      },
-      {
-        "authorNum": "274384656834700",
-        "authorName": "Gleydson Souza",
-        "text": "Gleydson Souza\n22 anos\nHeterossexual \nAtualmente estou em Goiânia mas moro em águas lindas de GO\nPV liberado",
-        "timestamp": 1788787870203
-      },
       {
         "authorNum": "60739813417005",
         "authorName": "Gabriel Silva 😎",
@@ -7212,6 +7206,24 @@
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
         "text": "Teve um caso recente fe uma onça",
         "timestamp": 1788789646769
+      },
+      {
+        "authorNum": "59645049761949",
+        "authorName": "Amaury",
+        "text": "Aqui tem espaço pra risada solta, pra conversa boa, pra brincar, pra debater, pra contar história, pra falar de tudo que a gente gosta e também pra rir um dos outros (sem maldade, claro! 😂). É aquele tipo de grupo que entra um assunto, vem outro, vem mais um, e quando você vê já estamos falando de tudo ao mesmo tempo — e é exatamente isso que faz ",
+        "timestamp": 1788789675928
+      },
+      {
+        "authorNum": "59645049761949",
+        "authorName": "Amaury",
+        "text": "Ser",
+        "timestamp": 1788789695678
+      },
+      {
+        "authorNum": "59645049761949",
+        "authorName": "Amaury",
+        "text": "Sério",
+        "timestamp": 1788789698405
       }
     ],
     "120363426574906687@g.us": [
@@ -7304,6 +7316,12 @@
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "text": "Mais alguma coisa @92629643563147 \n@54259127210155 que precisa ser passado a ela?",
         "timestamp": 1788789638047
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Tu cadastrou o id dela?",
+        "timestamp": 1788789687623
       }
     ]
   },
@@ -7327,8 +7345,8 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 802,
-    "120363426574906687@g.us": 51
+    "120363023757382018@g.us": 805,
+    "120363426574906687@g.us": 52
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -10326,6 +10344,24 @@
         "text": "Teve um caso recente fe uma onça",
         "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
         "timestamp": 1788789646769
+      },
+      "AC340704382C78D519619A69DDD81BD6": {
+        "sender": "59645049761949@lid",
+        "text": "Aqui tem espaço pra risada solta, pra conversa boa, pra brincar, pra debater, pra contar história, pra falar de tudo que a gente gosta e também pra rir um dos outros (sem maldade, claro! 😂). É aquele tipo de grupo que entra um assunto, vem outro, vem mais um, e quando você vê já estamos falando de tudo ao mesmo tempo — e é exatamente isso que faz tudo ficar tão bom! 🎊",
+        "pushName": "Amaury",
+        "timestamp": 1788789675928
+      },
+      "AC221BF0B090A1A9A54686DF31E27F7A": {
+        "sender": "59645049761949@lid",
+        "text": "Ser",
+        "pushName": "Amaury",
+        "timestamp": 1788789695678
+      },
+      "AC2972A01B744EF3F62B3B9F7D20B149": {
+        "sender": "59645049761949@lid",
+        "text": "Sério",
+        "pushName": "Amaury",
+        "timestamp": 1788789698405
       }
     },
     "120363426574906687@g.us": {
@@ -10400,6 +10436,12 @@
         "text": "Mais alguma coisa @92629643563147 \n@54259127210155 que precisa ser passado a ela?",
         "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "timestamp": 1788789638047
+      },
+      "AC2BBC60F3F3884C096FCCF6E29CCED3": {
+        "sender": "81991328395336@lid",
+        "text": "Tu cadastrou o id dela?",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1788789687623
       }
     }
   },
@@ -10495,8 +10537,8 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788789674264,
-    "120363426574906687@g.us": 1788789638047
+    "120363023757382018@g.us": 1788789698405,
+    "120363426574906687@g.us": 1788789687623
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
