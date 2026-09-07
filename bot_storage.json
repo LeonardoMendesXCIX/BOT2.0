@@ -4363,9 +4363,9 @@
         "total": 17
       },
       "5511927018683": {
-        "text": 70,
+        "text": 73,
         "media": 18,
-        "total": 88
+        "total": 91
       },
       "81991328395336": {
         "text": 39,
@@ -4557,9 +4557,9 @@
         "total": 35
       },
       "262182034002040": {
-        "text": 97,
+        "text": 98,
         "media": 10,
-        "total": 107
+        "total": 108
       },
       "199733712785531": {
         "text": 4,
@@ -5955,7 +5955,10 @@
         "Pedro🫰: Opa",
         "Camila Designer: !fechar",
         "Leandro: Aprendeu! 🤌🏼",
-        "Leandro: !abrir 20:30"
+        "Leandro: !abrir 20:30",
+        "Leandro: !sa",
+        "Leandro: !del",
+        "Leandro: !del"
       ]
     },
     "120363427545094619@g.us": {
@@ -6263,7 +6266,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Felippo: o meu amor, vou lhe buscar mas a gente só bebe mais tarde",
         "Cristian Sntss: Não \nPq?",
         "Camila Designer: Bem vinda @221307534876912 !\nSe apresente!",
         "Dany: Oie",
@@ -6762,7 +6764,8 @@
         "Nathan Ebrenz: Oi",
         "Nathan Ebrenz: Boa noite",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Boa noite",
-        "𝑳𝒂𝒚𝒉🌪🌚: Boa"
+        "𝑳𝒂𝒚𝒉🌪🌚: Boa",
+        "Dany: Boa noite 😘"
       ]
     },
     "120363426574906687@g.us": {
@@ -6971,7 +6974,26 @@
     "120363050678635389@g.us": [],
     "120363411043114631@g.us": [],
     "120363409367298221@g.us": [],
-    "120363313059060675@g.us": [],
+    "120363313059060675@g.us": [
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!sa",
+        "timestamp": 1788819761476
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!del",
+        "timestamp": 1788819766790
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!del",
+        "timestamp": 1788819771459
+      }
+    ],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
       {
@@ -7555,6 +7577,12 @@
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
         "text": "Boa",
         "timestamp": 1788819747835
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Boa noite 😘",
+        "timestamp": 1788819758776
       }
     ],
     "120363426574906687@g.us": []
@@ -7577,9 +7605,9 @@
     "120363050678635389@g.us": 1,
     "120363411043114631@g.us": 20,
     "120363409367298221@g.us": 4,
-    "120363313059060675@g.us": 483,
+    "120363313059060675@g.us": 486,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 3017,
+    "120363023757382018@g.us": 3018,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -8010,6 +8038,24 @@
         "text": "!abrir 20:30",
         "pushName": "Leandro",
         "timestamp": 1788810464151
+      },
+      "ACFC6C9A06761D2AB1565F9639987B86": {
+        "sender": "54259127210155@lid",
+        "text": "!sa",
+        "pushName": "Leandro",
+        "timestamp": 1788819761476
+      },
+      "AC958551F1C4CF01793207E43AE9949D": {
+        "sender": "54259127210155@lid",
+        "text": "!del",
+        "pushName": "Leandro",
+        "timestamp": 1788819766790
+      },
+      "AC7D6F630A5C5913E50E24CAF2F01DE9": {
+        "sender": "54259127210155@lid",
+        "text": "!del",
+        "pushName": "Leandro",
+        "timestamp": 1788819771459
       }
     },
     "120363427545094619@g.us": {
@@ -24136,6 +24182,12 @@
         "text": "Boa",
         "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
         "timestamp": 1788819747835
+      },
+      "3AC453E8BE7A18573053": {
+        "sender": "262182034002040@lid",
+        "text": "Boa noite 😘",
+        "pushName": "Dany",
+        "timestamp": 1788819758776
       }
     },
     "120363426574906687@g.us": {
@@ -25080,9 +25132,9 @@
     "120363409024805409@g.us": 1788819507846,
     "120363411043114631@g.us": 1787897464612,
     "120363409367298221@g.us": 1788158816417,
-    "120363313059060675@g.us": 1788810464151,
+    "120363313059060675@g.us": 1788819771459,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788819747835,
+    "120363023757382018@g.us": 1788819758776,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
