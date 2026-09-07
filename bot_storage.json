@@ -4579,9 +4579,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 106,
+        "text": 107,
         "media": 12,
-        "total": 118
+        "total": 119
       },
       "206966404210884": {
         "text": 2,
@@ -4664,9 +4664,9 @@
         "total": 4
       },
       "276287176319083": {
-        "text": 19,
+        "text": 20,
         "media": 5,
-        "total": 24
+        "total": 25
       },
       "118515428286715": {
         "text": 5,
@@ -4749,9 +4749,9 @@
         "total": 1
       },
       "220448105230466": {
-        "text": 2,
+        "text": 3,
         "media": 1,
-        "total": 3
+        "total": 4
       },
       "152274357751809": {
         "text": 4,
@@ -5622,9 +5622,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Sim!!!",
-        "Leandro: A cagada foi minha 😅",
-        "jao: Novo aqui tropa",
         "jao: 6 tão bem?",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Bem vindo",
         "jao: Obgd",
@@ -6121,7 +6118,10 @@
         "Heloisa: Nada e vc ?",
         "Camila Designer: Eu queria que o meu ficasse assim 🥹🥹🥹",
         "Gabi 💋: Da trabalho",
-        "Camila Designer: Acho muito estiloso"
+        "Camila Designer: Acho muito estiloso",
+        "lucas santos: nd apenas falando cm vc e aproveitando o feriado",
+        "Gabi 💋: Hoje é dia de da trabalho o cabelo",
+        "renan_wesley: Siim"
       ]
     },
     "120363426574906687@g.us": {
@@ -6224,12 +6224,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "59645049761949",
-        "authorName": "Amaury",
-        "text": "Kkkkk",
-        "timestamp": 1788787203213
-      },
       {
         "authorNum": "247020967165997",
         "authorName": "Gabi 💋",
@@ -7573,6 +7567,24 @@
         "authorName": "Camila Designer",
         "text": "Acho muito estiloso",
         "timestamp": 1788788981835
+      },
+      {
+        "authorNum": "220448105230466",
+        "authorName": "lucas santos",
+        "text": "nd apenas falando cm vc e aproveitando o feriado",
+        "timestamp": 1788789001939
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Hoje é dia de da trabalho o cabelo",
+        "timestamp": 1788789002719
+      },
+      {
+        "authorNum": "276287176319083",
+        "authorName": "renan_wesley",
+        "text": "Siim",
+        "timestamp": 1788789009260
       }
     ],
     "120363426574906687@g.us": [
@@ -7670,7 +7682,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 766,
+    "120363023757382018@g.us": 769,
     "120363426574906687@g.us": 48
   },
   "botDisabled": {
@@ -10453,6 +10465,24 @@
         "text": "Acho muito estiloso",
         "pushName": "Camila Designer",
         "timestamp": 1788788981836
+      },
+      "AC1C2C842C042FBA3CD7A318A85B243C": {
+        "sender": "220448105230466@lid",
+        "text": "nd apenas falando cm vc e aproveitando o feriado",
+        "pushName": "lucas santos",
+        "timestamp": 1788789001939
+      },
+      "ACDE886C2603FB8942C5C4841795018F": {
+        "sender": "247020967165997@lid",
+        "text": "Hoje é dia de da trabalho o cabelo",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788789002719
+      },
+      "ACEB96ED0FA8C08B3E4F32F99D0312B4": {
+        "sender": "276287176319083@lid",
+        "text": "Siim",
+        "pushName": "renan_wesley",
+        "timestamp": 1788789009260
       }
     },
     "120363426574906687@g.us": {
@@ -10604,7 +10634,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788788988168,
+    "120363023757382018@g.us": 1788789009260,
     "120363426574906687@g.us": 1788788012627
   },
   "autoAnimSent": {
