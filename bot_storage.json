@@ -4508,9 +4508,9 @@
         "total": 181
       },
       "166452229341300": {
-        "text": 283,
+        "text": 284,
         "media": 84,
-        "total": 367
+        "total": 368
       },
       "53537388122141": {
         "text": 156,
@@ -4533,9 +4533,9 @@
         "total": 8
       },
       "222595437858867": {
-        "text": 67,
-        "media": 2,
-        "total": 69
+        "text": 68,
+        "media": 3,
+        "total": 71
       },
       "9431798554859": {
         "text": 2,
@@ -5321,6 +5321,11 @@
         "text": 2,
         "media": 0,
         "total": 2
+      },
+      "278688230862888": {
+        "text": 1,
+        "media": 0,
+        "total": 1
       }
     },
     "120363426574906687@g.us": {
@@ -6225,8 +6230,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Gabi 💋: @92629643563147  tem tara em peito",
-        "Camila Designer: Só gosto de apreciar obra de art",
         "Henrique Contri 🤫: Então 18 te deixaria feliz 🤣",
         "Gabi 💋: E pinça grossa e vermelha",
         "Henrique Contri 🤫: A minha é roxa mesmo vermelha é o sangue que bombeia é automática 🤣🤣",
@@ -6724,7 +6727,9 @@
         "Felippo: se deixar pra todo mundo",
         "Felippo: até no nome do grupo muda",
         "Felippo: as info",
-        "Felippo: fica uma bagunça"
+        "Felippo: fica uma bagunça",
+        "Juliano Perlin: Eu cliquei. Meu telefone explodiu",
+        "Cristian Sntss: Eles usa gb"
       ]
     },
     "120363426574906687@g.us": {
@@ -6978,24 +6983,6 @@
     ],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Certeza que esse é pura pinça",
-        "timestamp": 1788809210418
-      },
-      {
-        "authorNum": "182738040713418",
-        "authorName": "Wellington",
-        "text": "Já não vejo a hora 😁",
-        "timestamp": 1788809221287
-      },
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Eu morro com teus comentários kkkkkk",
-        "timestamp": 1788809229979
-      },
       {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
@@ -7619,6 +7606,18 @@
         "authorName": "Felippo",
         "text": "fica uma bagunça",
         "timestamp": 1788810996276
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Eu cliquei. Meu telefone explodiu",
+        "timestamp": 1788811008540
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Eles usa gb",
+        "timestamp": 1788811030634
       }
     ],
     "120363426574906687@g.us": []
@@ -7643,7 +7642,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2555,
+    "120363023757382018@g.us": 2557,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -21395,6 +21394,18 @@
         "text": "fica uma bagunça",
         "pushName": "Felippo",
         "timestamp": 1788810996276
+      },
+      "ACDFA81EE354E341EF28A40C6F023F58": {
+        "sender": "222595437858867@lid",
+        "text": "Eu cliquei. Meu telefone explodiu",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1788811008540
+      },
+      "A5DB57ED769AE067FA638EF7117119EB": {
+        "sender": "166452229341300@lid",
+        "text": "Eles usa gb",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788811030634
       }
     },
     "120363426574906687@g.us": {
@@ -22335,7 +22346,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788810996276,
+    "120363023757382018@g.us": 1788811030634,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
