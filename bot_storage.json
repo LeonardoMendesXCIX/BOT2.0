@@ -4487,9 +4487,9 @@
         "total": 5
       },
       "108461127897146": {
-        "text": 123,
+        "text": 125,
         "media": 34,
-        "total": 157
+        "total": 159
       },
       "5511927018683": {
         "text": 164,
@@ -4552,9 +4552,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 137,
+        "text": 138,
         "media": 79,
-        "total": 216
+        "total": 217
       },
       "559984624669": {
         "text": 4,
@@ -4682,9 +4682,9 @@
         "total": 27
       },
       "118515428286715": {
-        "text": 48,
+        "text": 49,
         "media": 4,
-        "total": 52
+        "total": 53
       },
       "193729163993156": {
         "text": 2,
@@ -6195,9 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Henrique Contri 🤫: Tô quase pra tomar soro já kkk",
-        "𝕰𝖛𝖆𝖓𝖉𝖗𝖔 𝕬𝖑𝖛𝖊𝖘: Seloko segura aí pelas paredes kkk",
-        "Henrique Contri 🤫: Minha barriga nem ar tem mais kkkk",
         "Heloisa: Oi",
         "Leandro: Ela vai te dar uns cascudos",
         "Henrique Contri 🤫: Novinho 🤣🤣🤣",
@@ -6694,7 +6691,10 @@
         "Camila Designer: Ah é minha amiga disse que leite é saudável 🤣🤣🤣🤣",
         "jaciara: Ou Goiás",
         "Henrique Contri 🤫: Prolonga a vida 🤣🤣",
-        "jaciara: Faz bem pra pele"
+        "jaciara: Faz bem pra pele",
+        "Camila Designer: Acho que ela foi bem pra frente 🤣🤣🤣🤣",
+        "jaciara: Minha amiga que disse",
+        "Saul: Não sei oque é “longe” rs"
       ]
     },
     "120363426574906687@g.us": {
@@ -6896,24 +6896,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "36645315321925",
-        "authorName": "Felippo",
-        "text": "depois lhe amostro kkkkk",
-        "timestamp": 1788804075571
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Fraca, tadinho",
-        "timestamp": 1788804081008
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "🤣🤣🤣",
-        "timestamp": 1788804083359
-      },
       {
         "authorNum": "274384656834700",
         "authorName": "Gleydson Souza",
@@ -7693,6 +7675,24 @@
         "authorName": "jaciara",
         "text": "Faz bem pra pele",
         "timestamp": 1788805858500
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Acho que ela foi bem pra frente 🤣🤣🤣🤣",
+        "timestamp": 1788805862434
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Minha amiga que disse",
+        "timestamp": 1788805867608
+      },
+      {
+        "authorNum": "118515428286715",
+        "authorName": "Saul",
+        "text": "Não sei oque é “longe” rs",
+        "timestamp": 1788805884780
       }
     ],
     "120363426574906687@g.us": [
@@ -7850,7 +7850,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2139,
+    "120363023757382018@g.us": 2142,
     "120363426574906687@g.us": 178
   },
   "botDisabled": {
@@ -19049,6 +19049,24 @@
         "text": "Faz bem pra pele",
         "pushName": "jaciara",
         "timestamp": 1788805858500
+      },
+      "2A503298ABB168BFE604": {
+        "sender": "92629643563147@lid",
+        "text": "Acho que ela foi bem pra frente 🤣🤣🤣🤣",
+        "pushName": "Camila Designer",
+        "timestamp": 1788805862434
+      },
+      "AC539D5E4447C44CAB894EF8F97A6B99": {
+        "sender": "108461127897146@lid",
+        "text": "Minha amiga que disse",
+        "pushName": "jaciara",
+        "timestamp": 1788805867609
+      },
+      "3A2BB2B6C0A85B824C5E": {
+        "sender": "118515428286715@lid",
+        "text": "Não sei oque é “longe” rs",
+        "pushName": "Saul",
+        "timestamp": 1788805884780
       }
     },
     "120363426574906687@g.us": {
@@ -19977,7 +19995,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788805858500,
+    "120363023757382018@g.us": 1788805884780,
     "120363426574906687@g.us": 1788805706271
   },
   "autoAnimSent": {
