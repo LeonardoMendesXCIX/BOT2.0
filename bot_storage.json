@@ -4571,9 +4571,9 @@
         "total": 9
       },
       "81991328395336": {
-        "text": 84,
+        "text": 86,
         "media": 24,
-        "total": 108
+        "total": 110
       },
       "274384656834700": {
         "text": 26,
@@ -4971,9 +4971,9 @@
         "total": 7
       },
       "172503183945818": {
-        "text": 4,
+        "text": 5,
         "media": 1,
-        "total": 5
+        "total": 6
       },
       "14375557554202": {
         "text": 0,
@@ -5027,8 +5027,8 @@
       },
       "176549663916038": {
         "text": 9,
-        "media": 3,
-        "total": 12
+        "media": 5,
+        "total": 14
       },
       "207610548584554": {
         "text": 1,
@@ -5930,9 +5930,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "IRINEU FREITAS 🫥🤪: Turismo",
-        "lucas santos: bom dia, td bem cm vc?",
-        "Cristian Sntss: Assim",
         "Heloisa: Sim e com vc ?",
         "Heloisa: Apresentação pode ser com foto em vizu única ?",
         "solteiro: Ok",
@@ -6429,7 +6426,10 @@
         "Heloisa: Bem vindo",
         "Heloisa: Nada",
         "Não Sei Meu Nome: Muito obrigado",
-        "Heloisa: De ND lindo"
+        "Heloisa: De ND lindo",
+        "Felipe: Oq vcs estão fazendo",
+        "𝑳𝒂𝒚𝒉🌪🌚: Não sei meu nome kkkk",
+        "𝑳𝒂𝒚𝒉🌪🌚: Vou almoçar"
       ]
     },
     "120363426574906687@g.us": {
@@ -6587,12 +6587,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "115036454424649",
-        "authorName": "Rodrígues",
-        "text": "Ah esqueci né tem que falar do gênero hoje eu sou sapatão gosto de mulher",
-        "timestamp": 1788793428479
-      },
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
@@ -7450,6 +7444,24 @@
         "authorName": "Heloisa",
         "text": "De ND lindo",
         "timestamp": 1788795223686
+      },
+      {
+        "authorNum": "172503183945818",
+        "authorName": "Felipe",
+        "text": "Oq vcs estão fazendo",
+        "timestamp": 1788795227456
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Não sei meu nome kkkk",
+        "timestamp": 1788795237546
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Vou almoçar",
+        "timestamp": 1788795240903
       }
     ],
     "120363426574906687@g.us": [
@@ -7481,7 +7493,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 49,
-    "120363023757382018@g.us": 1245,
+    "120363023757382018@g.us": 1248,
     "120363426574906687@g.us": 91
   },
   "botDisabled": {
@@ -13206,6 +13218,24 @@
         "text": "De ND lindo",
         "pushName": "Heloisa",
         "timestamp": 1788795223686
+      },
+      "3A3CF6E440B252710485": {
+        "sender": "172503183945818@lid",
+        "text": "Oq vcs estão fazendo",
+        "pushName": "Felipe",
+        "timestamp": 1788795227456
+      },
+      "AC0B6CFC48D26F82121547B5B5F6E25C": {
+        "sender": "81991328395336@lid",
+        "text": "Não sei meu nome kkkk",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1788795237546
+      },
+      "ACAE5740DB88AE2444ECA549D18F4547": {
+        "sender": "81991328395336@lid",
+        "text": "Vou almoçar",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1788795240903
       }
     },
     "120363426574906687@g.us": {
@@ -13615,7 +13645,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788794665827,
-    "120363023757382018@g.us": 1788795223686,
+    "120363023757382018@g.us": 1788795251971,
     "120363426574906687@g.us": 1788794708224
   },
   "autoAnimSent": {
