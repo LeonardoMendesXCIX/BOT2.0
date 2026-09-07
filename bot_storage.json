@@ -4564,9 +4564,9 @@
         "total": 61
       },
       "274384656834700": {
-        "text": 18,
+        "text": 19,
         "media": 7,
-        "total": 25
+        "total": 26
       },
       "111141304930334": {
         "text": 1,
@@ -4579,9 +4579,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 83,
+        "text": 84,
         "media": 9,
-        "total": 92
+        "total": 93
       },
       "206966404210884": {
         "text": 2,
@@ -4699,9 +4699,9 @@
         "total": 2
       },
       "230365537005571": {
-        "text": 7,
+        "text": 8,
         "media": 1,
-        "total": 8
+        "total": 9
       },
       "60739813417005": {
         "text": 2,
@@ -4714,9 +4714,14 @@
         "total": 1
       },
       "216183521415213": {
-        "text": 3,
+        "text": 4,
         "media": 1,
-        "total": 4
+        "total": 5
+      },
+      "155503636275307": {
+        "text": 0,
+        "media": 1,
+        "total": 1
       }
     },
     "120363426574906687@g.us": {
@@ -6021,7 +6026,10 @@
         "Gabi 💋: Só os gostosa",
         "xacinaluzqradiaoinferno71: perto de franco da rocha",
         "S2: Rafael, solteiro PV liberado",
-        "S2: Sou de minas gerais"
+        "S2: Sou de minas gerais",
+        "Gabi 💋: Hum seja bem vindo",
+        "S2: Muito obg",
+        "xacinaluzqradiaoinferno71: a pessoa mais nova daq tem q idade?"
       ]
     },
     "120363426574906687@g.us": {
@@ -7041,6 +7049,24 @@
         "authorName": "S2",
         "text": "Sou de minas gerais",
         "timestamp": 1788788114980
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Hum seja bem vindo",
+        "timestamp": 1788788115723
+      },
+      {
+        "authorNum": "216183521415213",
+        "authorName": "S2",
+        "text": "Muito obg",
+        "timestamp": 1788788125748
+      },
+      {
+        "authorNum": "230365537005571",
+        "authorName": "xacinaluzqradiaoinferno71",
+        "text": "a pessoa mais nova daq tem q idade?",
+        "timestamp": 1788788135128
       }
     ],
     "120363426574906687@g.us": [
@@ -7138,7 +7164,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 671,
+    "120363023757382018@g.us": 674,
     "120363426574906687@g.us": 48
   },
   "botDisabled": {
@@ -9369,6 +9395,24 @@
         "text": "Sou de minas gerais",
         "pushName": "S2",
         "timestamp": 1788788114980
+      },
+      "AC85C896BED8806B025194B6D0AD97FE": {
+        "sender": "247020967165997@lid",
+        "text": "Hum seja bem vindo",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788788115724
+      },
+      "AC300CBE42AF8FD55496FDF51F3DF4FC": {
+        "sender": "216183521415213@lid",
+        "text": "Muito obg",
+        "pushName": "S2",
+        "timestamp": 1788788125749
+      },
+      "A5BFA1FB36F54E0C3F141BC94EB6C0EE": {
+        "sender": "230365537005571@lid",
+        "text": "a pessoa mais nova daq tem q idade?",
+        "pushName": "xacinaluzqradiaoinferno71",
+        "timestamp": 1788788135128
       }
     },
     "120363426574906687@g.us": {
@@ -9520,7 +9564,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788788114980,
+    "120363023757382018@g.us": 1788788141299,
     "120363426574906687@g.us": 1788788012627
   },
   "autoAnimSent": {
