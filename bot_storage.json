@@ -4474,8 +4474,8 @@
       },
       "108461127897146": {
         "text": 65,
-        "media": 12,
-        "total": 77
+        "media": 13,
+        "total": 78
       },
       "5511927018683": {
         "text": 148,
@@ -4558,9 +4558,9 @@
         "total": 3
       },
       "81991328395336": {
-        "text": 39,
+        "text": 41,
         "media": 20,
-        "total": 59
+        "total": 61
       },
       "274384656834700": {
         "text": 16,
@@ -4578,9 +4578,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 55,
+        "text": 57,
         "media": 4,
-        "total": 59
+        "total": 61
       },
       "206966404210884": {
         "text": 2,
@@ -4678,9 +4678,9 @@
         "total": 2
       },
       "59645049761949": {
-        "text": 12,
+        "text": 15,
         "media": 0,
-        "total": 12
+        "total": 15
       },
       "21338118979724": {
         "text": 0,
@@ -4688,9 +4688,9 @@
         "total": 1
       },
       "128145298608376": {
-        "text": 0,
+        "text": 1,
         "media": 1,
-        "total": 1
+        "total": 2
       }
     },
     "120363426574906687@g.us": {
@@ -5890,7 +5890,14 @@
         "Amaury: Kkkk",
         "Gabi 💋: Já passei por isso",
         "Gabi 💋: E horrível sentir desconforto",
-        "solteiro: Solteiro 30.anos Felipe silva Uberlândia"
+        "solteiro: Solteiro 30.anos Felipe silva Uberlândia",
+        "Gabi 💋: Peguei trauma dos altos",
+        "Amaury: Ué",
+        "Amaury: Kkk",
+        "Amaury: Por que?",
+        "Gabi 💋: Seja bem vindo",
+        "solteiro: Oie",
+        "𝑳𝒂𝒚𝒉🌪🌚: Pq?"
       ]
     },
     "120363426574906687@g.us": {
@@ -6295,6 +6302,48 @@
         "authorName": "solteiro",
         "text": "Solteiro 30.anos Felipe silva Uberlândia",
         "timestamp": 1788787409603
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Peguei trauma dos altos",
+        "timestamp": 1788787419828
+      },
+      {
+        "authorNum": "59645049761949",
+        "authorName": "Amaury",
+        "text": "Ué",
+        "timestamp": 1788787424519
+      },
+      {
+        "authorNum": "59645049761949",
+        "authorName": "Amaury",
+        "text": "Kkk",
+        "timestamp": 1788787425751
+      },
+      {
+        "authorNum": "59645049761949",
+        "authorName": "Amaury",
+        "text": "Por que?",
+        "timestamp": 1788787429080
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Seja bem vindo",
+        "timestamp": 1788787429680
+      },
+      {
+        "authorNum": "128145298608376",
+        "authorName": "solteiro",
+        "text": "Oie",
+        "timestamp": 1788787432004
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Pq?",
+        "timestamp": 1788787439930
       }
     ],
     "120363426574906687@g.us": []
@@ -6319,7 +6368,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 33,
-    "120363023757382018@g.us": 576,
+    "120363023757382018@g.us": 583,
     "120363426574906687@g.us": 36
   },
   "botDisabled": {
@@ -7954,6 +8003,48 @@
         "text": "Solteiro 30.anos Felipe silva Uberlândia",
         "pushName": "solteiro",
         "timestamp": 1788787409603
+      },
+      "ACA7632CFFB67FD8DBF089E613F9A6E2": {
+        "sender": "247020967165997@lid",
+        "text": "Peguei trauma dos altos",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788787419828
+      },
+      "AC4CF2DE762D74588FCEDA5C14E8F932": {
+        "sender": "59645049761949@lid",
+        "text": "Ué",
+        "pushName": "Amaury",
+        "timestamp": 1788787424519
+      },
+      "ACA329B028765CD3D6DA029C660FA80F": {
+        "sender": "59645049761949@lid",
+        "text": "Kkk",
+        "pushName": "Amaury",
+        "timestamp": 1788787425751
+      },
+      "ACA1491ACBD1C0010E5046286386B803": {
+        "sender": "59645049761949@lid",
+        "text": "Por que?",
+        "pushName": "Amaury",
+        "timestamp": 1788787429080
+      },
+      "AC5422AFA47C3215FA6F50985741CA3C": {
+        "sender": "247020967165997@lid",
+        "text": "Seja bem vindo",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788787429680
+      },
+      "A5435D306ABA3418887B08A7DD2B5BFD": {
+        "sender": "128145298608376@lid",
+        "text": "Oie",
+        "pushName": "solteiro",
+        "timestamp": 1788787432004
+      },
+      "AC6291F96F2AB5FC099279F627DE7F53": {
+        "sender": "81991328395336@lid",
+        "text": "Pq?",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1788787439931
       }
     },
     "120363426574906687@g.us": {}
@@ -8050,7 +8141,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788755502872,
-    "120363023757382018@g.us": 1788787409603,
+    "120363023757382018@g.us": 1788787439930,
     "120363426574906687@g.us": 1788725639102
   },
   "autoAnimSent": {
