@@ -5142,9 +5142,9 @@
         "total": 1
       },
       "264308512522409": {
-        "text": 71,
+        "text": 72,
         "media": 4,
-        "total": 75
+        "total": 76
       },
       "194377938911429": {
         "text": 9,
@@ -5314,14 +5314,14 @@
         "total": 39
       },
       "5511927018683": {
-        "text": 43,
+        "text": 44,
         "media": 3,
-        "total": 46
+        "total": 47
       },
       "92629643563147": {
-        "text": 32,
+        "text": 33,
         "media": 4,
-        "total": 36
+        "total": 37
       },
       "81991328395336": {
         "text": 12,
@@ -6195,7 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "retroboy: Cade?",
         "𝕰𝖛𝖆𝖓𝖉𝖗𝖔 𝕬𝖑𝖛𝖊𝖘: Feriado e vcs fizeram o que \nEu só fiz dormir  :/ 😂",
         "𝑳𝒂𝒚𝒉🌪🌚: Queria eu durmi",
         "𝕰𝖛𝖆𝖓𝖉𝖗𝖔 𝕬𝖑𝖛𝖊𝖘: Ontem e hoje de folga 🙂‍↔️",
@@ -6694,7 +6693,8 @@
         "Camila Designer: Aranha esse horário proibido 🤣🤣🤣",
         "Camila Designer: Eu? Você que arregou e deu desculpa de frio",
         "Gabi 💋: Primeiro e o peitoral depois a pinça",
-        "Henrique Contri 🤫: Tá 18 grau aqui 🤣🤣"
+        "Henrique Contri 🤫: Tá 18 grau aqui 🤣🤣",
+        "Henrique Contri 🤫: Tem tara em peitos kkkk"
       ]
     },
     "120363426574906687@g.us": {
@@ -6873,7 +6873,9 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Fixei",
         "Leandro: Vou dar uma coça no anel dele com o meu 🪵 😒",
         "Leandro: Desculpa meninas",
-        "Leandro: Perdi a linha agora"
+        "Leandro: Perdi a linha agora",
+        "Camila Designer: O que ele fez?",
+        "Leandro: @92629643563147"
       ]
     }
   },
@@ -6905,12 +6907,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "39857447551026",
-        "authorName": "Francisco Silva",
-        "text": "Só com um olho kkkk",
-        "timestamp": 1788803185919
-      },
       {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
@@ -7894,6 +7890,12 @@
         "authorName": "Henrique Contri 🤫",
         "text": "Tá 18 grau aqui 🤣🤣",
         "timestamp": 1788804985616
+      },
+      {
+        "authorNum": "264308512522409",
+        "authorName": "Henrique Contri 🤫",
+        "text": "Tem tara em peitos kkkk",
+        "timestamp": 1788805009255
       }
     ],
     "120363426574906687@g.us": [
@@ -8064,6 +8066,18 @@
         "authorName": "Leandro",
         "text": "Perdi a linha agora",
         "timestamp": 1788805000647
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "O que ele fez?",
+        "timestamp": 1788805014024
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "@92629643563147",
+        "timestamp": 1788805024236
       }
     ]
   },
@@ -8087,8 +8101,8 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2053,
-    "120363426574906687@g.us": 174
+    "120363023757382018@g.us": 2054,
+    "120363426574906687@g.us": 176
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -18770,6 +18784,12 @@
         "text": "Tá 18 grau aqui 🤣🤣",
         "pushName": "Henrique Contri 🤫",
         "timestamp": 1788804985616
+      },
+      "ACEC2F0EABCB4FB241DD0BF05BC7248B": {
+        "sender": "264308512522409@lid",
+        "text": "Tem tara em peitos kkkk",
+        "pushName": "Henrique Contri 🤫",
+        "timestamp": 1788805009255
       }
     },
     "120363426574906687@g.us": {
@@ -19576,6 +19596,18 @@
         "text": "Perdi a linha agora",
         "pushName": "Leandro",
         "timestamp": 1788805000648
+      },
+      "2A90DC1AE01E604781B0": {
+        "sender": "92629643563147@lid",
+        "text": "O que ele fez?",
+        "pushName": "Camila Designer",
+        "timestamp": 1788805014024
+      },
+      "AC2553C5599A3BB1BDAE1D00B4A6BC07": {
+        "sender": "54259127210155@lid",
+        "text": "@92629643563147",
+        "pushName": "Leandro",
+        "timestamp": 1788805024237
       }
     }
   },
@@ -19674,8 +19706,8 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788804985616,
-    "120363426574906687@g.us": 1788805000647
+    "120363023757382018@g.us": 1788805009255,
+    "120363426574906687@g.us": 1788805024236
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
