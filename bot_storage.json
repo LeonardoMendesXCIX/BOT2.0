@@ -4508,9 +4508,9 @@
         "total": 181
       },
       "166452229341300": {
-        "text": 288,
+        "text": 289,
         "media": 84,
-        "total": 372
+        "total": 373
       },
       "53537388122141": {
         "text": 156,
@@ -4578,9 +4578,9 @@
         "total": 1
       },
       "182738040713418": {
-        "text": 38,
+        "text": 39,
         "media": 9,
-        "total": 47
+        "total": 48
       },
       "81991328395336": {
         "text": 141,
@@ -6230,7 +6230,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Henrique Contri 🤫: Se não for pode me zuar aqui kkk",
         "Pedro🫰: Orre penga kkkkk",
         "Camila Designer: Mas você não vai casar com o @274384656834700 @247020967165997 ?",
         "Gabi 💋: Tá bom",
@@ -6729,7 +6728,8 @@
         "Camila Designer: Só faltou a foto amigo! Seja bem vindo!☺️",
         "Wellington: Bem vindo Man 🙌🏽",
         "Camila Designer: Bem vindo!☺️",
-        "ronald: 👆🏾 obrigado"
+        "ronald: 👆🏾 obrigado",
+        "Wellington: Bem vindo man🙌🏽"
       ]
     },
     "120363426574906687@g.us": {
@@ -6983,12 +6983,6 @@
     ],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Minha amiga disse que queria te esquentar 🥹",
-        "timestamp": 1788809546587
-      },
       {
         "authorNum": "241261818728589",
         "authorName": "sorveteria",
@@ -7528,6 +7522,12 @@
         "authorName": "ronald",
         "text": "👆🏾 obrigado",
         "timestamp": 1788811338106
+      },
+      {
+        "authorNum": "182738040713418",
+        "authorName": "Wellington",
+        "text": "Bem vindo man🙌🏽",
+        "timestamp": 1788811361476
       }
     ],
     "120363426574906687@g.us": []
@@ -7552,7 +7552,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2570,
+    "120363023757382018@g.us": 2571,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -21396,6 +21396,12 @@
         "text": "👆🏾 obrigado",
         "pushName": "ronald",
         "timestamp": 1788811338106
+      },
+      "ACCCAB19AC986DD272810B0D2471A288": {
+        "sender": "182738040713418@lid",
+        "text": "Bem vindo man🙌🏽",
+        "pushName": "Wellington",
+        "timestamp": 1788811361476
       }
     },
     "120363426574906687@g.us": {
@@ -22336,7 +22342,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788811348260,
+    "120363023757382018@g.us": 1788811375608,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
