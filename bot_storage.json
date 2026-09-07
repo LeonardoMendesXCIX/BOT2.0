@@ -4497,9 +4497,9 @@
         "total": 169
       },
       "166452229341300": {
-        "text": 197,
+        "text": 198,
         "media": 65,
-        "total": 262
+        "total": 263
       },
       "53537388122141": {
         "text": 142,
@@ -4573,8 +4573,8 @@
       },
       "81991328395336": {
         "text": 105,
-        "media": 29,
-        "total": 134
+        "media": 30,
+        "total": 135
       },
       "274384656834700": {
         "text": 33,
@@ -4767,9 +4767,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 111,
+        "text": 113,
         "media": 1,
-        "total": 112
+        "total": 114
       },
       "89305909317735": {
         "text": 1,
@@ -5232,9 +5232,9 @@
         "total": 1
       },
       "183137506173038": {
-        "text": 2,
+        "text": 5,
         "media": 0,
-        "total": 2
+        "total": 5
       },
       "241261818728589": {
         "text": 1,
@@ -6123,11 +6123,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Thawan: Desbloqueia lá pra continuar a conversa bb",
-        "Heloisa: Não",
-        "K: Obg",
-        "Thawan: Br",
-        "Thawan: Kkk",
         "Heloisa: Vc sabe oq vc mandou",
         "Heloisa: Nem insiste",
         "Dani: Cachoeira do Sul",
@@ -6622,7 +6617,12 @@
         "Luis Felipe: Vlw",
         "Luis carlos: Oii",
         "sorveteria: Olá",
-        "Luis carlos: Fala"
+        "Luis carlos: Fala",
+        "Heloisa: ND",
+        "Luis carlos: Pode fala vem",
+        "Cristian Sntss: Se apresente",
+        "Luis carlos: ????",
+        "Luis carlos: Imagino"
       ]
     },
     "120363426574906687@g.us": {
@@ -7643,6 +7643,36 @@
         "authorName": "Luis carlos",
         "text": "Fala",
         "timestamp": 1788798430896
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "ND",
+        "timestamp": 1788798442828
+      },
+      {
+        "authorNum": "183137506173038",
+        "authorName": "Luis carlos",
+        "text": "Pode fala vem",
+        "timestamp": 1788798447315
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Se apresente",
+        "timestamp": 1788798448476
+      },
+      {
+        "authorNum": "183137506173038",
+        "authorName": "Luis carlos",
+        "text": "????",
+        "timestamp": 1788798456597
+      },
+      {
+        "authorNum": "183137506173038",
+        "authorName": "Luis carlos",
+        "text": "Imagino",
+        "timestamp": 1788798460941
       }
     ],
     "120363426574906687@g.us": [
@@ -7704,7 +7734,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1497,
+    "120363023757382018@g.us": 1502,
     "120363426574906687@g.us": 104
   },
   "botDisabled": {
@@ -14984,6 +15014,36 @@
         "text": "Fala",
         "pushName": "Luis carlos",
         "timestamp": 1788798430896
+      },
+      "AC04E519949CB8E31784CB691F95FADF": {
+        "sender": "152274357751809@lid",
+        "text": "ND",
+        "pushName": "Heloisa",
+        "timestamp": 1788798442828
+      },
+      "AC9C7E3802983C7D9EC203638ACECB33": {
+        "sender": "183137506173038@lid",
+        "text": "Pode fala vem",
+        "pushName": "Luis carlos",
+        "timestamp": 1788798447316
+      },
+      "A5741A02AD9F76F2E66A1CC66F858279": {
+        "sender": "166452229341300@lid",
+        "text": "Se apresente",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788798448476
+      },
+      "AC5F8A12D87C100D39FC7D3B25FE69BF": {
+        "sender": "183137506173038@lid",
+        "text": "????",
+        "pushName": "Luis carlos",
+        "timestamp": 1788798456597
+      },
+      "ACD417AE6D1C99465BF76FC83C5D642D": {
+        "sender": "183137506173038@lid",
+        "text": "Imagino",
+        "pushName": "Luis carlos",
+        "timestamp": 1788798460942
       }
     },
     "120363426574906687@g.us": {
@@ -15474,7 +15534,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788798430896,
+    "120363023757382018@g.us": 1788798460941,
     "120363426574906687@g.us": 1788798298976
   },
   "autoAnimSent": {
