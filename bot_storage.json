@@ -4522,9 +4522,9 @@
         "total": 422
       },
       "53537388122141": {
-        "text": 223,
+        "text": 225,
         "media": 26,
-        "total": 249
+        "total": 251
       },
       "129373172711439": {
         "text": 121,
@@ -4587,9 +4587,9 @@
         "total": 1
       },
       "182738040713418": {
-        "text": 51,
+        "text": 52,
         "media": 36,
-        "total": 87
+        "total": 88
       },
       "81991328395336": {
         "text": 159,
@@ -5337,9 +5337,9 @@
         "total": 7
       },
       "79728216113177": {
-        "text": 57,
+        "text": 60,
         "media": 29,
-        "total": 86
+        "total": 89
       }
     },
     "120363426574906687@g.us": {
@@ -6249,12 +6249,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Gleydson Souza: To ansioso pro que vai ter 😘",
-        "jaciara: É até minha amiga é tímida",
-        "Celiete Souza: Eu não 🤭🤭",
-        "Pedro🫰: Vai ser cada uma kkkk",
-        "Celiete Souza: Roubei nada tô quieta aqui",
-        "Camila Designer: Você conquistou ele ficando de 4 4x 🤣🤣🤣🤣",
         "Saul: Ksksks que isso",
         "Gabi 💋: Você anda muito quieta",
         "Celiete Souza: Que?   😂😂😂😂👏🏻",
@@ -6748,7 +6742,13 @@
         "P: melhor estado civil pra dizer",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Esse também, mesmo dia",
         "P: não é nem A e nem B",
-        "Kaio Mendes: Massa, agora vou rir por um bom tempo"
+        "Kaio Mendes: Massa, agora vou rir por um bom tempo",
+        "Kaio Mendes: C",
+        "Kaio Mendes: ?",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Pobi da diretora",
+        "Wellington: Podia ter mais kkk",
+        "Kaio Mendes: Huuum vc é rica, pobi nada",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Essa é de quando eu tinha uns 16 anos"
       ]
     },
     "120363426574906687@g.us": {
@@ -7619,6 +7619,42 @@
         "authorName": "Kaio Mendes",
         "text": "Massa, agora vou rir por um bom tempo",
         "timestamp": 1788816798844
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "C",
+        "timestamp": 1788816810815
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "?",
+        "timestamp": 1788816811896
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Pobi da diretora",
+        "timestamp": 1788816814552
+      },
+      {
+        "authorNum": "182738040713418",
+        "authorName": "Wellington",
+        "text": "Podia ter mais kkk",
+        "timestamp": 1788816821536
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "Huuum vc é rica, pobi nada",
+        "timestamp": 1788816835688
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Essa é de quando eu tinha uns 16 anos",
+        "timestamp": 1788816839010
       }
     ],
     "120363426574906687@g.us": [
@@ -7650,7 +7686,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2823,
+    "120363023757382018@g.us": 2829,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -23019,6 +23055,42 @@
         "text": "Massa, agora vou rir por um bom tempo",
         "pushName": "Kaio Mendes",
         "timestamp": 1788816798844
+      },
+      "AC6FE75028322F5E5B28CEA71955B2BB": {
+        "sender": "79728216113177@lid",
+        "text": "C",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788816810815
+      },
+      "AC2D772F4601CFC2B7003930318AAE66": {
+        "sender": "79728216113177@lid",
+        "text": "?",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788816811896
+      },
+      "AC52155056FF15240410379ED607A34E": {
+        "sender": "53537388122141@lid",
+        "text": "Pobi da diretora",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788816814552
+      },
+      "AC6C3C6992C09C2656A3205E08D7F477": {
+        "sender": "182738040713418@lid",
+        "text": "Podia ter mais kkk",
+        "pushName": "Wellington",
+        "timestamp": 1788816821536
+      },
+      "AC5F9289230C1142854CAD91FC395116": {
+        "sender": "79728216113177@lid",
+        "text": "Huuum vc é rica, pobi nada",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788816835688
+      },
+      "ACE93C6CFB87B79DEC46181EA875C48D": {
+        "sender": "53537388122141@lid",
+        "text": "Essa é de quando eu tinha uns 16 anos",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788816839010
       }
     },
     "120363426574906687@g.us": {
@@ -23965,7 +24037,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788816806137,
+    "120363023757382018@g.us": 1788816839010,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
