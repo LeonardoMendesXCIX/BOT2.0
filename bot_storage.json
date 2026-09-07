@@ -14,7 +14,8 @@
       "559984624669": "Cristian Sntss",
       "5850081050816": "Dani",
       "1757061070966": "Jefferson Lima",
-      "1675188265053": "Kaique N.☝🏻🤓"
+      "1675188265053": "Kaique N.☝🏻🤓",
+      "6099558248675": "Não Sei Meu Nome"
     },
     "contacts": {
       "lidMap": {},
@@ -5041,6 +5042,11 @@
       },
       "264596443111591": {
         "text": 1,
+        "media": 1,
+        "total": 2
+      },
+      "6099558248675": {
+        "text": 1,
         "media": 0,
         "total": 1
       }
@@ -5919,7 +5925,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        ": bom dia satisfação Lucas tenho 28 ano sou do rio de janeiro sou hétero",
         "Cristian Sntss: Produtor ?",
         "IRINEU FREITAS 🫥🤪: ?",
         "Heloisa: Bom dia",
@@ -6418,7 +6423,8 @@
         "John 😎: Boa tarde, pessoal!",
         "Heloisa: Boa tarde a todos e todas",
         "😃: Eu",
-        "Lucas Leonardo: Bom dia"
+        "Lucas Leonardo: Bom dia",
+        "Lucas Leonardo: Lucas Leonardo  tenho 32 eu sou do sul mais estou em Sobral Ceará"
       ]
     },
     "120363426574906687@g.us": {
@@ -6576,48 +6582,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "152274357751809",
-        "authorName": "Heloisa",
-        "text": "Se empolgam",
-        "timestamp": 1788793292896
-      },
-      {
-        "authorNum": "262912430080093",
-        "authorName": "JUNIOR",
-        "text": "Estou aqui! So esperando vc rsrs",
-        "timestamp": 1788793306488
-      },
-      {
-        "authorNum": "82145729097746",
-        "authorName": "Davi Miranda",
-        "text": "14 anos",
-        "timestamp": 1788793309836
-      },
-      {
-        "authorNum": "12481309225010",
-        "authorName": "Lucas Borges",
-        "text": "Oi",
-        "timestamp": 1788793310194
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "!ban",
-        "timestamp": 1788793325989
-      },
-      {
-        "authorNum": "280887035965638",
-        "authorName": "K",
-        "text": "Pv on pra meninas",
-        "timestamp": 1788793331478
-      },
-      {
-        "authorNum": "1395881181241",
-        "authorName": "Bruno Aguiar",
-        "text": "Respeito 0 desses sem noção",
-        "timestamp": 1788793331853
-      },
       {
         "authorNum": "36645315321925",
         "authorName": "Felippo",
@@ -7457,6 +7421,12 @@
         "authorName": "Lucas Leonardo",
         "text": "Bom dia",
         "timestamp": 1788795091956
+      },
+      {
+        "authorNum": "264596443111591",
+        "authorName": "Lucas Leonardo",
+        "text": "Lucas Leonardo  tenho 32 eu sou do sul mais estou em Sobral Ceará",
+        "timestamp": 1788795149409
       }
     ],
     "120363426574906687@g.us": [
@@ -7488,7 +7458,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 49,
-    "120363023757382018@g.us": 1235,
+    "120363023757382018@g.us": 1236,
     "120363426574906687@g.us": 91
   },
   "botDisabled": {
@@ -13153,6 +13123,12 @@
         "text": "Bom dia",
         "pushName": "Lucas Leonardo",
         "timestamp": 1788795091956
+      },
+      "AC50AB943CC691E05072082FABFBDF65": {
+        "sender": "264596443111591@lid",
+        "text": "Lucas Leonardo  tenho 32 eu sou do sul mais estou em Sobral Ceará",
+        "pushName": "Lucas Leonardo",
+        "timestamp": 1788795149409
       }
     },
     "120363426574906687@g.us": {
@@ -13562,7 +13538,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788794665827,
-    "120363023757382018@g.us": 1788795091956,
+    "120363023757382018@g.us": 1788795149409,
     "120363426574906687@g.us": 1788794708224
   },
   "autoAnimSent": {
