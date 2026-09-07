@@ -16,7 +16,8 @@
       "1757061070966": "Jefferson Lima",
       "1675188265053": "Kaique N.☝🏻🤓",
       "6099558248675": "Não Sei Meu Nome",
-      "559491757737": "José Vitor"
+      "559491757737": "José Vitor",
+      "554891353479": "Sabrina R. Bartolucci ✨🙆🏻‍♀️"
     },
     "contacts": {
       "lidMap": {},
@@ -4932,9 +4933,9 @@
         "total": 1
       },
       "36645315321925": {
-        "text": 26,
+        "text": 27,
         "media": 3,
-        "total": 29
+        "total": 30
       },
       "187845394358417": {
         "text": 1,
@@ -5314,6 +5315,11 @@
       "225611041743041": {
         "text": 0,
         "media": 1,
+        "total": 1
+      },
+      "554891353479": {
+        "text": 1,
+        "media": 0,
         "total": 1
       }
     },
@@ -6219,8 +6225,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Gleydson Souza: Sempre sobra pros pretos(a)",
-        "Gabi 💋: Deixasse a coitada mostrar a aranha",
         "Camila Designer: Só quero ver mesmo, enquanto isso cadê seu peitoral?😌😌😌",
         "Gabi 💋: Né",
         "Henrique Contri 🤫: Tá amarelando? Kkk",
@@ -6718,7 +6722,9 @@
         "Victor: ele mesmo",
         "Dany: Maluco!",
         "Victor: mandou trocentas vezes o link do grupo dele aqui",
-        "Dany: Ah eita"
+        "Dany: Ah eita",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: @all \nNão cliquem em nada!! Isso é um vírus!!!",
+        "Felippo: bota pra só adm mudar as info do grupo"
       ]
     },
     "120363426574906687@g.us": {
@@ -6972,24 +6978,6 @@
     ],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Ela disse que pra você sim 🤣🤣🤣",
-        "timestamp": 1788809078739
-      },
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Pois então, uma hora ela vai ter que se revelar, você não achar?",
-        "timestamp": 1788809090320
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Agora entendemos @247020967165997",
-        "timestamp": 1788809093671
-      },
       {
         "authorNum": "182738040713418",
         "authorName": "Wellington",
@@ -7601,6 +7589,18 @@
         "authorName": "Dany",
         "text": "Ah eita",
         "timestamp": 1788810871596
+      },
+      {
+        "authorNum": "554891353479",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "@all \nNão cliquem em nada!! Isso é um vírus!!!",
+        "timestamp": 1788810881592
+      },
+      {
+        "authorNum": "36645315321925",
+        "authorName": "Felippo",
+        "text": "bota pra só adm mudar as info do grupo",
+        "timestamp": 1788810897416
       }
     ],
     "120363426574906687@g.us": []
@@ -7625,7 +7625,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2544,
+    "120363023757382018@g.us": 2546,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -21311,6 +21311,18 @@
         "text": "Ah eita",
         "pushName": "Dany",
         "timestamp": 1788810871596
+      },
+      "ACFCD17805C564D94DFECCB28AF4DD72": {
+        "sender": "53537388122141@lid",
+        "text": "@all \nNão cliquem em nada!! Isso é um vírus!!!",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788810881592
+      },
+      "3A89EBD23FA5431BE3B3": {
+        "sender": "36645315321925@lid",
+        "text": "bota pra só adm mudar as info do grupo",
+        "pushName": "Felippo",
+        "timestamp": 1788810897416
       }
     },
     "120363426574906687@g.us": {
@@ -22251,7 +22263,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788810871596,
+    "120363023757382018@g.us": 1788810897416,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
