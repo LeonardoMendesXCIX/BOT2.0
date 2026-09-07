@@ -4483,9 +4483,9 @@
         "total": 164
       },
       "166452229341300": {
-        "text": 67,
+        "text": 68,
         "media": 35,
-        "total": 102
+        "total": 103
       },
       "53537388122141": {
         "text": 45,
@@ -4578,9 +4578,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 76,
+        "text": 78,
         "media": 9,
-        "total": 85
+        "total": 87
       },
       "206966404210884": {
         "text": 2,
@@ -4638,9 +4638,9 @@
         "total": 1
       },
       "120363023757382018": {
-        "text": 1,
-        "media": 4,
-        "total": 5
+        "text": 2,
+        "media": 5,
+        "total": 7
       },
       "86595382292674": {
         "text": 17,
@@ -4678,9 +4678,9 @@
         "total": 2
       },
       "59645049761949": {
-        "text": 26,
+        "text": 27,
         "media": 0,
-        "total": 26
+        "total": 27
       },
       "21338118979724": {
         "text": 3,
@@ -4688,9 +4688,9 @@
         "total": 4
       },
       "128145298608376": {
-        "text": 13,
+        "text": 14,
         "media": 1,
-        "total": 14
+        "total": 15
       },
       "193733257609270": {
         "text": 1,
@@ -4698,9 +4698,9 @@
         "total": 2
       },
       "230365537005571": {
-        "text": 4,
+        "text": 6,
         "media": 1,
-        "total": 5
+        "total": 7
       },
       "60739813417005": {
         "text": 2,
@@ -4711,6 +4711,11 @@
         "text": 1,
         "media": 0,
         "total": 1
+      },
+      "216183521415213": {
+        "text": 1,
+        "media": 1,
+        "total": 2
       }
     },
     "120363426574906687@g.us": {
@@ -6001,7 +6006,14 @@
         "Gabriel Silva 😎: Gabriel \nTenho 29 anos \nSolteiro \nPV liberado",
         "Gleydson Souza: Digo o mesmo sobre mim kkkkk",
         "Gabi 💋: Sim",
-        ".rick: Assim que possível respoderemos sua mensagem OBRIGADO"
+        ".rick: Assim que possível respoderemos sua mensagem OBRIGADO",
+        "Amaury: PV aberto",
+        "xacinaluzqradiaoinferno71: sou daí n, mas conheço o abc todo",
+        "Gabi 💋: E da onde ?",
+        "xacinaluzqradiaoinferno71: sou da norte",
+        "solteiro: Sim eu nao",
+        "S2: Solteiro",
+        ": Solteiro"
       ]
     },
     "120363426574906687@g.us": {
@@ -6937,6 +6949,48 @@
         "authorName": ".rick",
         "text": "Assim que possível respoderemos sua mensagem OBRIGADO",
         "timestamp": 1788788039077
+      },
+      {
+        "authorNum": "59645049761949",
+        "authorName": "Amaury",
+        "text": "PV aberto",
+        "timestamp": 1788788043400
+      },
+      {
+        "authorNum": "230365537005571",
+        "authorName": "xacinaluzqradiaoinferno71",
+        "text": "sou daí n, mas conheço o abc todo",
+        "timestamp": 1788788043746
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "E da onde ?",
+        "timestamp": 1788788053826
+      },
+      {
+        "authorNum": "230365537005571",
+        "authorName": "xacinaluzqradiaoinferno71",
+        "text": "sou da norte",
+        "timestamp": 1788788060647
+      },
+      {
+        "authorNum": "128145298608376",
+        "authorName": "solteiro",
+        "text": "Sim eu nao",
+        "timestamp": 1788788064432
+      },
+      {
+        "authorNum": "216183521415213",
+        "authorName": "S2",
+        "text": "Solteiro",
+        "timestamp": 1788788068524
+      },
+      {
+        "authorNum": "120363023757382018",
+        "authorName": "",
+        "text": "Solteiro",
+        "timestamp": 1788788069036
       }
     ],
     "120363426574906687@g.us": [
@@ -7034,7 +7088,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 657,
+    "120363023757382018@g.us": 664,
     "120363426574906687@g.us": 48
   },
   "botDisabled": {
@@ -9187,6 +9241,42 @@
         "text": "Assim que possível respoderemos sua mensagem OBRIGADO",
         "pushName": ".rick",
         "timestamp": 1788788039078
+      },
+      "AC79245962C04D6D3698F4FF5207CE9B": {
+        "sender": "59645049761949@lid",
+        "text": "PV aberto",
+        "pushName": "Amaury",
+        "timestamp": 1788788043400
+      },
+      "A5953490F55D47D0C740DC0A8B239F93": {
+        "sender": "230365537005571@lid",
+        "text": "sou daí n, mas conheço o abc todo",
+        "pushName": "xacinaluzqradiaoinferno71",
+        "timestamp": 1788788043746
+      },
+      "AC07E0E0B29C1A6DA6662DAF65ED364A": {
+        "sender": "247020967165997@lid",
+        "text": "E da onde ?",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788788053827
+      },
+      "A5D7CBE7E13791B75B54E7D54F5B9771": {
+        "sender": "230365537005571@lid",
+        "text": "sou da norte",
+        "pushName": "xacinaluzqradiaoinferno71",
+        "timestamp": 1788788060648
+      },
+      "A59DA57877D34BE4AEFB23EBB534AFB9": {
+        "sender": "128145298608376@lid",
+        "text": "Sim eu nao",
+        "pushName": "solteiro",
+        "timestamp": 1788788064432
+      },
+      "AC1E046EBC0966121C90D6B3DFD77505": {
+        "sender": "120363023757382018@g.us",
+        "text": "Solteiro",
+        "pushName": "",
+        "timestamp": 1788788069037
       }
     },
     "120363426574906687@g.us": {
@@ -9338,7 +9428,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788788039077,
+    "120363023757382018@g.us": 1788788069036,
     "120363426574906687@g.us": 1788788012627
   },
   "autoAnimSent": {
