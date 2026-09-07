@@ -4507,9 +4507,9 @@
         "total": 167
       },
       "129373172711439": {
-        "text": 107,
+        "text": 108,
         "media": 28,
-        "total": 135
+        "total": 136
       },
       "138306604032063": {
         "text": 11,
@@ -4552,9 +4552,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 210,
+        "text": 211,
         "media": 116,
-        "total": 326
+        "total": 327
       },
       "559984624669": {
         "text": 4,
@@ -4567,9 +4567,9 @@
         "total": 1
       },
       "182738040713418": {
-        "text": 22,
+        "text": 23,
         "media": 3,
-        "total": 25
+        "total": 26
       },
       "81991328395336": {
         "text": 141,
@@ -6195,8 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Gabi 💋: Quer casar comigo não",
-        "Gabi 💋: Pera o seu é pinça ou não ?",
         "Camila Designer: Ele quer kkkk",
         "Henrique Contri 🤫: Eu critiquei quem ?",
         "jaciara: Normal pode",
@@ -6694,7 +6692,9 @@
         "Celiete Souza: Pois então, uma hora ela vai ter que se revelar, você não achar?",
         "Camila Designer: Agora entendemos @247020967165997",
         "Wellington: Gostei dela kkk autentica",
-        "Gabi 💋: Da não Camila me arrange um que guente"
+        "Gabi 💋: Da não Camila me arrange um que guente",
+        "Camila Designer: Combinado 🤣🤣🤣",
+        "Wellington: Tbm acho"
       ]
     },
     "120363426574906687@g.us": {
@@ -6898,30 +6898,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Ladra kkk",
-        "timestamp": 1788807322567
-      },
-      {
-        "authorNum": "264308512522409",
-        "authorName": "Henrique Contri 🤫",
-        "text": "Oq foi ? Kk",
-        "timestamp": 1788807331016
-      },
-      {
-        "authorNum": "118515428286715",
-        "authorName": "Saul",
-        "text": "Posso brincar?",
-        "timestamp": 1788807331042
-      },
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Eu não fiz nada kkkkk",
-        "timestamp": 1788807332314
-      },
       {
         "authorNum": "254884934881353",
         "authorName": "P",
@@ -7839,6 +7815,18 @@
         "authorName": "Gabi 💋",
         "text": "Da não Camila me arrange um que guente",
         "timestamp": 1788809120208
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Combinado 🤣🤣🤣",
+        "timestamp": 1788809132464
+      },
+      {
+        "authorNum": "182738040713418",
+        "authorName": "Wellington",
+        "text": "Tbm acho",
+        "timestamp": 1788809135833
       }
     ],
     "120363426574906687@g.us": []
@@ -7863,7 +7851,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2444,
+    "120363023757382018@g.us": 2446,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -20892,6 +20880,18 @@
         "text": "Da não Camila me arrange um que guente",
         "pushName": "Gabi 💋",
         "timestamp": 1788809120208
+      },
+      "2A6DFB1DB70E2D38CF19": {
+        "sender": "92629643563147@lid",
+        "text": "Combinado 🤣🤣🤣",
+        "pushName": "Camila Designer",
+        "timestamp": 1788809132464
+      },
+      "AC2FEB525A4DDD3344F9CD00CCC7B853": {
+        "sender": "182738040713418@lid",
+        "text": "Tbm acho",
+        "pushName": "Wellington",
+        "timestamp": 1788809135833
       }
     },
     "120363426574906687@g.us": {
@@ -21832,7 +21832,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788809131071,
+    "120363023757382018@g.us": 1788809148132,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
