@@ -4552,9 +4552,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 106,
+        "text": 107,
         "media": 68,
-        "total": 174
+        "total": 175
       },
       "559984624669": {
         "text": 4,
@@ -4683,8 +4683,8 @@
       },
       "118515428286715": {
         "text": 32,
-        "media": 3,
-        "total": 35
+        "media": 4,
+        "total": 36
       },
       "193729163993156": {
         "text": 2,
@@ -5142,9 +5142,9 @@
         "total": 1
       },
       "264308512522409": {
-        "text": 62,
+        "text": 63,
         "media": 4,
-        "total": 66
+        "total": 67
       },
       "194377938911429": {
         "text": 9,
@@ -6195,8 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Francisco Silva: Trabalho com peças de motos até garagem das motos",
-        "Ivan: Ivan \nCidade Santa rosa \nRio grande do sul",
         "retroboy: Quem é de guarulhos sp?",
         "Heloisa: Militar RS",
         "Juliano Perlin: Eu peso 50 kilo🥹",
@@ -6694,7 +6692,9 @@
         "Gabi 💋: Ele está muito quieto",
         "Camila Designer: Você viu o vídeo que ele mandou @247020967165997",
         "Gabi 💋: Hum vamos vê se a pinça fecha uma mão ou dois dedos",
-        "Gabi 💋: Não"
+        "Gabi 💋: Não",
+        "Camila Designer: Perdeu",
+        "Henrique Contri 🤫: Essa é designer profissional kkk"
       ]
     },
     "120363426574906687@g.us": {
@@ -8064,6 +8064,18 @@
         "authorName": "Gabi 💋",
         "text": "Não",
         "timestamp": 1788804329142
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Perdeu",
+        "timestamp": 1788804337423
+      },
+      {
+        "authorNum": "264308512522409",
+        "authorName": "Henrique Contri 🤫",
+        "text": "Essa é designer profissional kkk",
+        "timestamp": 1788804349100
       }
     ],
     "120363426574906687@g.us": [
@@ -8167,7 +8179,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2024,
+    "120363023757382018@g.us": 2026,
     "120363426574906687@g.us": 158
   },
   "botDisabled": {
@@ -18675,6 +18687,18 @@
         "text": "Não",
         "pushName": "Gabi 💋",
         "timestamp": 1788804329143
+      },
+      "2A08EB4E97FF05573295": {
+        "sender": "92629643563147@lid",
+        "text": "Perdeu",
+        "pushName": "Camila Designer",
+        "timestamp": 1788804337423
+      },
+      "AC44F872A6E52B2FCDEF1E500DC16FEC": {
+        "sender": "264308512522409@lid",
+        "text": "Essa é designer profissional kkk",
+        "pushName": "Henrique Contri 🤫",
+        "timestamp": 1788804349100
       }
     },
     "120363426574906687@g.us": {
@@ -19483,7 +19507,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788804329142,
+    "120363023757382018@g.us": 1788804349099,
     "120363426574906687@g.us": 1788804315652
   },
   "autoAnimSent": {
