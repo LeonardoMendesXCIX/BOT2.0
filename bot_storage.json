@@ -4544,9 +4544,9 @@
         "total": 27
       },
       "92629643563147": {
-        "text": 26,
-        "media": 12,
-        "total": 38
+        "text": 27,
+        "media": 13,
+        "total": 40
       },
       "559984624669": {
         "text": 4,
@@ -4831,9 +4831,9 @@
     },
     "120363426574906687@g.us": {
       "53537388122141": {
-        "text": 26,
+        "text": 28,
         "media": 0,
-        "total": 26
+        "total": 28
       },
       "166452229341300": {
         "text": 13,
@@ -5692,7 +5692,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "𝑳𝒂𝒚𝒉🌪🌚: *Bom dia pessoal, uma segunda-feira abençoada por Deus, pra todos nós e um ótimo feriado! 🤍🙌🏻*",
         "Jefferson Lima: Obg Gabi..",
         "𝑳𝒂𝒚𝒉🌪🌚: Sejam todos bem vindos🙌🏾",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Bem vindos, novatos 🙋🏻‍♀️",
@@ -6191,7 +6190,8 @@
         "Camila Designer: !fechar",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Tá aprendendo, bonita kkkk",
         "Camila Designer: *🚨 REGRAS IMPORTANTES*\n\n❌ Proibido invadir PV sem autorização.\n❌ Respeite todos os participantes do grupo.\n\n🔊 Seja muito bem-vindo(a)! 🤝\n\n*Quem descumprir essas regras serão removidos imediatamente",
-        "Camila Designer: !abrir"
+        "Camila Designer: !abrir",
+        "Camila Designer: Podemos continuar pessoal!"
       ]
     },
     "120363426574906687@g.us": {
@@ -6262,7 +6262,9 @@
         "Cristian Sntss: Fecha e comunica",
         "Camila Designer: Eu não sei se dá pra fazer kkkk",
         "Cristian Sntss: Teu comando foi",
-        "Camila Designer: Consegui kkk"
+        "Camila Designer: Consegui kkk",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Esqueci de te passar esse comando aí também, que usamos bastante kk",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Você também consegue programar horários pra fechar/abrir ele"
       ]
     }
   },
@@ -6281,12 +6283,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "152274357751809",
-        "authorName": "Heloisa",
-        "text": "Bom dia",
-        "timestamp": 1788788770543
-      },
       {
         "authorNum": "276287176319083",
         "authorName": "renan_wesley",
@@ -7180,6 +7176,12 @@
         "authorName": "Camila Designer",
         "text": "!abrir",
         "timestamp": 1788790530272
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Podemos continuar pessoal!",
+        "timestamp": 1788790575921
       }
     ],
     "120363426574906687@g.us": [
@@ -7290,6 +7292,18 @@
         "authorName": "Camila Designer",
         "text": "Consegui kkk",
         "timestamp": 1788790552743
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Esqueci de te passar esse comando aí também, que usamos bastante kk",
+        "timestamp": 1788790568098
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Você também consegue programar horários pra fechar/abrir ele",
+        "timestamp": 1788790582378
       }
     ]
   },
@@ -7313,8 +7327,8 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 888,
-    "120363426574906687@g.us": 66
+    "120363023757382018@g.us": 889,
+    "120363426574906687@g.us": 68
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -10829,6 +10843,12 @@
         "text": "!abrir",
         "pushName": "Camila Designer",
         "timestamp": 1788790530272
+      },
+      "2A22E793725C84AC7FD0": {
+        "sender": "92629643563147@lid",
+        "text": "Podemos continuar pessoal!",
+        "pushName": "Camila Designer",
+        "timestamp": 1788790575921
       }
     },
     "120363426574906687@g.us": {
@@ -10993,6 +11013,18 @@
         "text": "Consegui kkk",
         "pushName": "Camila Designer",
         "timestamp": 1788790552744
+      },
+      "AC0233559E2E848AA24B4E4CD6F20094": {
+        "sender": "53537388122141@lid",
+        "text": "Esqueci de te passar esse comando aí também, que usamos bastante kk",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788790568098
+      },
+      "AC69F5A99D837CB3206E7CEFF83089B8": {
+        "sender": "53537388122141@lid",
+        "text": "Você também consegue programar horários pra fechar/abrir ele",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788790582378
       }
     }
   },
@@ -11088,8 +11120,8 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788790549527,
-    "120363426574906687@g.us": 1788790552743
+    "120363023757382018@g.us": 1788790578564,
+    "120363426574906687@g.us": 1788790582378
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
