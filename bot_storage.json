@@ -4496,9 +4496,9 @@
         "total": 169
       },
       "166452229341300": {
-        "text": 173,
+        "text": 175,
         "media": 58,
-        "total": 231
+        "total": 233
       },
       "53537388122141": {
         "text": 127,
@@ -4521,9 +4521,9 @@
         "total": 2
       },
       "222595437858867": {
-        "text": 55,
+        "text": 56,
         "media": 2,
-        "total": 57
+        "total": 58
       },
       "9431798554859": {
         "text": 2,
@@ -4547,8 +4547,8 @@
       },
       "176171622899942": {
         "text": 25,
-        "media": 4,
-        "total": 29
+        "media": 5,
+        "total": 30
       },
       "92629643563147": {
         "text": 30,
@@ -4766,9 +4766,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 95,
+        "text": 97,
         "media": 1,
-        "total": 96
+        "total": 98
       },
       "89305909317735": {
         "text": 1,
@@ -6057,9 +6057,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Camila Designer: *🚨 REGRAS IMPORTANTES*\n\n❌ Proibido invadir PV sem autorização.\n❌ Respeite todos os participantes do grupo.\n\n🔊 Seja muito bem-vindo(a)! 🤝\n\n*Quem descumprir essas regras serão removidos imediatamente",
-        "Camila Designer: !abrir",
-        "Camila Designer: Podemos continuar pessoal!",
         "Cristian Sntss: É desse jeito que a banda tocar",
         "Ton: E q temos q ser realistas eu n tenho dinheiro pra ir ver a pessoa em outro estado",
         "Camila Designer: Por mais homens que sabem o que quer 🤣🤣🤣",
@@ -6556,7 +6553,10 @@
         "charles: Carlos 21 anos interior sp (Tanabi)",
         "jaciara: Justamente hoje",
         "Jefinho: 😂😂😂😂😂",
-        "jaciara: Que estou sem paciência"
+        "jaciara: Que estou sem paciência",
+        "Cristian Sntss: !ban @101387518128307",
+        "Juliano Perlin: Tive q abrir a foto do cara pra ir la ver🤣🤣🤣🤣",
+        "Heloisa: Kkk"
       ]
     },
     "120363426574906687@g.us": {
@@ -6727,12 +6727,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "43036243411180",
-        "authorName": "junior",
-        "text": "Boa tarde grupo",
-        "timestamp": 1788795494873
-      },
       {
         "authorNum": "232924968419570",
         "authorName": "Pedro🫰",
@@ -7482,6 +7476,24 @@
         "authorName": "jaciara",
         "text": "Que estou sem paciência",
         "timestamp": 1788797291204
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "!ban @101387518128307",
+        "timestamp": 1788797300628
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Tive q abrir a foto do cara pra ir la ver🤣🤣🤣🤣",
+        "timestamp": 1788797304926
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Kkk",
+        "timestamp": 1788797319319
       }
     ],
     "120363426574906687@g.us": [
@@ -7585,7 +7597,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1386,
+    "120363023757382018@g.us": 1389,
     "120363426574906687@g.us": 104
   },
   "botDisabled": {
@@ -14199,6 +14211,24 @@
         "text": "Que estou sem paciência",
         "pushName": "jaciara",
         "timestamp": 1788797291204
+      },
+      "A536B1B6931552B3587E94E2F616C41F": {
+        "sender": "166452229341300@lid",
+        "text": "!ban @101387518128307",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788797300628
+      },
+      "AC5A0D17362E959731830DB77BC9257D": {
+        "sender": "222595437858867@lid",
+        "text": "Tive q abrir a foto do cara pra ir la ver🤣🤣🤣🤣",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1788797304927
+      },
+      "AC6381D1677F5EB5C0BEF2515193FA15": {
+        "sender": "152274357751809@lid",
+        "text": "Kkk",
+        "pushName": "Heloisa",
+        "timestamp": 1788797319319
       }
     },
     "120363426574906687@g.us": {
@@ -14689,7 +14719,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788797291204,
+    "120363023757382018@g.us": 1788797322452,
     "120363426574906687@g.us": 1788796664927
   },
   "autoAnimSent": {
