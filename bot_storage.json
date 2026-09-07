@@ -4499,9 +4499,9 @@
         "total": 182
       },
       "53537388122141": {
-        "text": 91,
+        "text": 92,
         "media": 10,
-        "total": 101
+        "total": 102
       },
       "129373172711439": {
         "text": 27,
@@ -4964,9 +4964,9 @@
         "total": 5
       },
       "205587669319854": {
-        "text": 3,
+        "text": 5,
         "media": 1,
-        "total": 4
+        "total": 6
       },
       "172503183945818": {
         "text": 2,
@@ -4979,6 +4979,11 @@
         "total": 1
       },
       "47575788961798": {
+        "text": 1,
+        "media": 0,
+        "total": 1
+      },
+      "75398352236551": {
         "text": 1,
         "media": 0,
         "total": 1
@@ -5856,10 +5861,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Gabi 💋: Acho que 18 anos",
-        "Gleydson Souza: 18",
-        "solteiro: 30.anos Felipe sliva Uberlândia",
-        "Gabi 💋: Se apresente pra gente",
         "xacinaluzqradiaoinferno71: suave então, to me sentindo muito novo",
         "Gabi 💋: Kkkkk",
         "Gabi 💋: Vc se apresentou ?",
@@ -6355,7 +6356,11 @@
         "Heloisa: Grupo só tem gente bonita",
         "𝑳𝒂𝒚𝒉🌪🌚: Vou atrás da minha remoção",
         "Heloisa: Tanto os homens quanto as mulheres",
-        "Matheus Maia: boa tarde"
+        "Matheus Maia: boa tarde",
+        "welkeazevedo: Opa tamos juntos",
+        "Filipe Oliveira☺️☺️: Boa tarde",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Bem vindo!",
+        "welkeazevedo: Tem mais aí do estado de MT aqui."
       ]
     },
     "120363426574906687@g.us": {
@@ -6525,12 +6530,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "262912430080093",
-        "authorName": "JUNIOR",
-        "text": "Exatamente",
-        "timestamp": 1788792487577
-      },
       {
         "authorNum": "126586225467454",
         "authorName": "Thawan",
@@ -7646,6 +7645,30 @@
         "authorName": "Matheus Maia",
         "text": "boa tarde",
         "timestamp": 1788794264819
+      },
+      {
+        "authorNum": "205587669319854",
+        "authorName": "welkeazevedo",
+        "text": "Opa tamos juntos",
+        "timestamp": 1788794270094
+      },
+      {
+        "authorNum": "75398352236551",
+        "authorName": "Filipe Oliveira☺️☺️",
+        "text": "Boa tarde",
+        "timestamp": 1788794284304
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Bem vindo!",
+        "timestamp": 1788794289439
+      },
+      {
+        "authorNum": "205587669319854",
+        "authorName": "welkeazevedo",
+        "text": "Tem mais aí do estado de MT aqui.",
+        "timestamp": 1788794289515
       }
     ],
     "120363426574906687@g.us": [
@@ -7719,7 +7742,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 47,
-    "120363023757382018@g.us": 1174,
+    "120363023757382018@g.us": 1178,
     "120363426574906687@g.us": 91
   },
   "botDisabled": {
@@ -13006,6 +13029,30 @@
         "text": "boa tarde",
         "pushName": "Matheus Maia",
         "timestamp": 1788794264819
+      },
+      "AC97905B63824D2BDB1DA1DA3FB75CAF": {
+        "sender": "205587669319854@lid",
+        "text": "Opa tamos juntos",
+        "pushName": "welkeazevedo",
+        "timestamp": 1788794270095
+      },
+      "ACCF9E6A26E54D932A83AED256BFCC8B": {
+        "sender": "75398352236551@lid",
+        "text": "Boa tarde",
+        "pushName": "Filipe Oliveira☺️☺️",
+        "timestamp": 1788794284304
+      },
+      "AC253047FD4583422B8B229F3736BA58": {
+        "sender": "53537388122141@lid",
+        "text": "Bem vindo!",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788794289439
+      },
+      "ACE527E30AFCD9552F49CEEEC840B0A4": {
+        "sender": "205587669319854@lid",
+        "text": "Tem mais aí do estado de MT aqui.",
+        "pushName": "welkeazevedo",
+        "timestamp": 1788794289515
       }
     },
     "120363426574906687@g.us": {
@@ -13415,7 +13462,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788794140105,
-    "120363023757382018@g.us": 1788794264819,
+    "120363023757382018@g.us": 1788794289515,
     "120363426574906687@g.us": 1788794240706
   },
   "autoAnimSent": {
