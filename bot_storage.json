@@ -4456,9 +4456,9 @@
         "total": 2
       },
       "5511927018683": {
-        "text": 19,
+        "text": 20,
         "media": 5,
-        "total": 24
+        "total": 25
       }
     },
     "120363023757382018@g.us": {
@@ -4483,9 +4483,9 @@
         "total": 159
       },
       "166452229341300": {
-        "text": 63,
+        "text": 64,
         "media": 34,
-        "total": 97
+        "total": 98
       },
       "53537388122141": {
         "text": 37,
@@ -4663,9 +4663,9 @@
         "total": 4
       },
       "276287176319083": {
-        "text": 12,
+        "text": 13,
         "media": 4,
-        "total": 16
+        "total": 17
       },
       "118515428286715": {
         "text": 5,
@@ -4678,9 +4678,9 @@
         "total": 2
       },
       "59645049761949": {
-        "text": 18,
+        "text": 19,
         "media": 0,
-        "total": 18
+        "total": 19
       },
       "21338118979724": {
         "text": 1,
@@ -5309,7 +5309,8 @@
         "Leandro: !status",
         "Leandro: !del",
         "Leandro: !antidelete off",
-        "Leandro: !del"
+        "Leandro: !del",
+        "Leandro: Bom dia"
       ]
     },
     "120363023757382018@g.us": {
@@ -5905,7 +5906,10 @@
         "Amaury: Deus abençoe",
         "solteiro: Oie",
         "Gabi 💋: Vai explodir",
-        "jaciara: Amém 🙏🏼"
+        "jaciara: Amém 🙏🏼",
+        "renan_wesley: So pra quem acompanhou até agr vai entender lkkk",
+        "Amaury: Sério grande e bom",
+        "Cristian Sntss: Se apresente"
       ]
     },
     "120363426574906687@g.us": {
@@ -5961,7 +5965,14 @@
     "120363411043114631@g.us": [],
     "120363409367298221@g.us": [],
     "120363313059060675@g.us": [],
-    "120363427545094619@g.us": [],
+    "120363427545094619@g.us": [
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Bom dia",
+        "timestamp": 1788787527362
+      }
+    ],
     "120363023757382018@g.us": [
       {
         "authorNum": "5511927018683",
@@ -6400,6 +6411,24 @@
         "authorName": "jaciara",
         "text": "Amém 🙏🏼",
         "timestamp": 1788787497793
+      },
+      {
+        "authorNum": "276287176319083",
+        "authorName": "renan_wesley",
+        "text": "So pra quem acompanhou até agr vai entender lkkk",
+        "timestamp": 1788787507972
+      },
+      {
+        "authorNum": "59645049761949",
+        "authorName": "Amaury",
+        "text": "Sério grande e bom",
+        "timestamp": 1788787526092
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Se apresente",
+        "timestamp": 1788787527400
       }
     ],
     "120363426574906687@g.us": []
@@ -6423,8 +6452,8 @@
     "120363411043114631@g.us": 20,
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
-    "120363427545094619@g.us": 33,
-    "120363023757382018@g.us": 591,
+    "120363427545094619@g.us": 34,
+    "120363023757382018@g.us": 594,
     "120363426574906687@g.us": 36
   },
   "botDisabled": {
@@ -6750,7 +6779,14 @@
     "120363411043114631@g.us": {},
     "120363409367298221@g.us": {},
     "120363313059060675@g.us": {},
-    "120363427545094619@g.us": {},
+    "120363427545094619@g.us": {
+      "ACF94F2436104300504A99153C84E3B6": {
+        "sender": "54259127210155@lid",
+        "text": "Bom dia",
+        "pushName": "Leandro",
+        "timestamp": 1788787527362
+      }
+    },
     "120363023757382018@g.us": {
       "ACC19CF17915DCCC44C3BA721C4CB942": {
         "sender": "57707230945348@lid",
@@ -8149,6 +8185,24 @@
         "text": "Amém 🙏🏼",
         "pushName": "jaciara",
         "timestamp": 1788787497794
+      },
+      "ACD045AC8777DA036A22E89AE64D37F9": {
+        "sender": "276287176319083@lid",
+        "text": "So pra quem acompanhou até agr vai entender lkkk",
+        "pushName": "renan_wesley",
+        "timestamp": 1788787507972
+      },
+      "ACD4A567FE564D24DD6876E9FE53E4CB": {
+        "sender": "59645049761949@lid",
+        "text": "Sério grande e bom",
+        "pushName": "Amaury",
+        "timestamp": 1788787526092
+      },
+      "A5DA951C55E45EB5B53B1E016B58A9F1": {
+        "sender": "166452229341300@lid",
+        "text": "Se apresente",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788787527400
       }
     },
     "120363426574906687@g.us": {}
@@ -8244,8 +8298,8 @@
     "120363411043114631@g.us": 1787897464612,
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
-    "120363427545094619@g.us": 1788755502872,
-    "120363023757382018@g.us": 1788787497793,
+    "120363427545094619@g.us": 1788787527362,
+    "120363023757382018@g.us": 1788787527400,
     "120363426574906687@g.us": 1788725639102
   },
   "autoAnimSent": {
