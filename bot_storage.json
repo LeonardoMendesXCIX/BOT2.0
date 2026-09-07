@@ -4454,9 +4454,9 @@
     },
     "120363427545094619@g.us": {
       "166452229341300": {
-        "text": 16,
-        "media": 2,
-        "total": 18
+        "text": 17,
+        "media": 3,
+        "total": 20
       },
       "559991116887": {
         "text": 2,
@@ -4464,9 +4464,9 @@
         "total": 2
       },
       "5511927018683": {
-        "text": 26,
+        "text": 27,
         "media": 5,
-        "total": 31
+        "total": 32
       },
       "81991328395336": {
         "text": 6,
@@ -4496,9 +4496,9 @@
         "total": 169
       },
       "166452229341300": {
-        "text": 148,
-        "media": 47,
-        "total": 195
+        "text": 149,
+        "media": 48,
+        "total": 197
       },
       "53537388122141": {
         "text": 104,
@@ -4766,9 +4766,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 90,
+        "text": 91,
         "media": 1,
-        "total": 91
+        "total": 92
       },
       "89305909317735": {
         "text": 1,
@@ -5026,9 +5026,9 @@
         "total": 2
       },
       "176549663916038": {
-        "text": 9,
+        "text": 11,
         "media": 5,
-        "total": 14
+        "total": 16
       },
       "207610548584554": {
         "text": 1,
@@ -5710,7 +5710,9 @@
         "Cristian Sntss: A mulher é braba",
         "Cristian Sntss: Ela responde pelo marido dela",
         "Leandro: Pede pro @166452229341300",
-        "Leandro: Tá certa ela"
+        "Leandro: Tá certa ela",
+        "Leandro: Nessa parte, ela tem que responder mesmo",
+        "Cristian Sntss: Eu coloco e o bot tira"
       ]
     },
     "120363023757382018@g.us": {
@@ -5942,9 +5944,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Camila Designer: 🚨 REGRAS IMPORTANTES\n❌ Proibido invadir PV sem autorização.\n❌ Respeite todos os participantes do grupo.\n\n🔊 Seja muito bem-vindo(a)! 🤝",
-        "Camila Designer: *Pessoal vamos ficar atentos!*",
-        "Cristian Sntss: Teu cabelo igual o fã Gabi",
         "Gabi 💋: Lindo o cabelo dele",
         "renan_wesley: Obg",
         "Cristian Sntss: Sim \nAcho lindo esse estilo",
@@ -6441,7 +6440,10 @@
         "barrosferreirajose22: Oi boa tarde meu nome é José de Barros ferreira",
         "Cristian Sntss: Boa tarde meu povo",
         "Heloisa: Bem vindo",
-        "Cristian Sntss: Gente entrem e integi"
+        "Cristian Sntss: Gente entrem e integi",
+        "😃: Aqui têm solteiras",
+        "😃: Resenhas",
+        "Heloisa: Kkkk"
       ]
     },
     "120363426574906687@g.us": {
@@ -6598,15 +6600,21 @@
         "authorName": "Leandro",
         "text": "Tá certa ela",
         "timestamp": 1788795401427
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Nessa parte, ela tem que responder mesmo",
+        "timestamp": 1788795409800
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Eu coloco e o bot tira",
+        "timestamp": 1788795441727
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "105197019918407",
-        "authorName": "Nalguda Ganesh",
-        "text": "📷",
-        "timestamp": 1788793628008
-      },
       {
         "authorNum": "152274357751809",
         "authorName": "Heloisa",
@@ -7476,6 +7484,24 @@
         "authorName": "Cristian Sntss",
         "text": "Gente entrem e integi",
         "timestamp": 1788795405122
+      },
+      {
+        "authorNum": "176549663916038",
+        "authorName": "😃",
+        "text": "Aqui têm solteiras",
+        "timestamp": 1788795407420
+      },
+      {
+        "authorNum": "176549663916038",
+        "authorName": "😃",
+        "text": "Resenhas",
+        "timestamp": 1788795447092
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Kkkk",
+        "timestamp": 1788795449148
       }
     ],
     "120363426574906687@g.us": [
@@ -7518,8 +7544,8 @@
     "120363411043114631@g.us": 20,
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
-    "120363427545094619@g.us": 51,
-    "120363023757382018@g.us": 1256,
+    "120363427545094619@g.us": 53,
+    "120363023757382018@g.us": 1259,
     "120363426574906687@g.us": 93
   },
   "botDisabled": {
@@ -7956,6 +7982,18 @@
         "text": "Tá certa ela",
         "pushName": "Leandro",
         "timestamp": 1788795401427
+      },
+      "ACCC4215AEAFE01C4E1A036274916907": {
+        "sender": "54259127210155@lid",
+        "text": "Nessa parte, ela tem que responder mesmo",
+        "pushName": "Leandro",
+        "timestamp": 1788795409800
+      },
+      "A540059B2DEDD18D40768EC3AB843F46": {
+        "sender": "166452229341300@lid",
+        "text": "Eu coloco e o bot tira",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788795441727
       }
     },
     "120363023757382018@g.us": {
@@ -13322,6 +13360,24 @@
         "text": "Gente entrem e integi",
         "pushName": "Cristian Sntss",
         "timestamp": 1788795405122
+      },
+      "AC04A739492D3D04E77C63E12032C889": {
+        "sender": "176549663916038@lid",
+        "text": "Aqui têm solteiras",
+        "pushName": "😃",
+        "timestamp": 1788795407420
+      },
+      "AC2A34517EF29CBA7D6166BB437D2C43": {
+        "sender": "176549663916038@lid",
+        "text": "Resenhas",
+        "pushName": "😃",
+        "timestamp": 1788795447092
+      },
+      "ACEF43B953B1DB41F043081C1EC25C5F": {
+        "sender": "152274357751809@lid",
+        "text": "Kkkk",
+        "pushName": "Heloisa",
+        "timestamp": 1788795449148
       }
     },
     "120363426574906687@g.us": {
@@ -13742,8 +13798,8 @@
     "120363411043114631@g.us": 1787897464612,
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
-    "120363427545094619@g.us": 1788795401427,
-    "120363023757382018@g.us": 1788795405122,
+    "120363427545094619@g.us": 1788795444203,
+    "120363023757382018@g.us": 1788795449148,
     "120363426574906687@g.us": 1788795383928
   },
   "autoAnimSent": {
