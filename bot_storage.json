@@ -4497,9 +4497,9 @@
         "total": 169
       },
       "166452229341300": {
-        "text": 193,
+        "text": 195,
         "media": 62,
-        "total": 255
+        "total": 257
       },
       "53537388122141": {
         "text": 141,
@@ -5212,6 +5212,11 @@
         "total": 3
       },
       "260953773977656": {
+        "text": 1,
+        "media": 0,
+        "total": 1
+      },
+      "136296492200083": {
         "text": 1,
         "media": 0,
         "total": 1
@@ -6098,7 +6103,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Lailson Nathan.: 🤨",
         "Cristian Sntss: Todos querendo entra no coração da menina aí",
         "Heloisa: Kkkk",
         "Thawan: Coração dela é igual de mãe, sempre cabe mais um.",
@@ -6597,7 +6601,8 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: @272048228188398 😂",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Boa amigaaaa",
         "Walter: Aqui tem 45 anos mas come bem",
-        "Henrique Contri 🤫: Aqui é marmitaria só vejo comida kkkk"
+        "Henrique Contri 🤫: Aqui é marmitaria só vejo comida kkkk",
+        "Cristian Sntss: Vi tudo menos o arroz"
       ]
     },
     "120363426574906687@g.us": {
@@ -6725,12 +6730,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "Já me irritou",
-        "timestamp": 1788796439787
-      },
       {
         "authorNum": "30572214759594",
         "authorName": "Rafaell",
@@ -7588,6 +7587,12 @@
         "authorName": "Henrique Contri 🤫",
         "text": "Aqui é marmitaria só vejo comida kkkk",
         "timestamp": 1788798232567
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Vi tudo menos o arroz",
+        "timestamp": 1788798241276
       }
     ],
     "120363426574906687@g.us": [
@@ -7673,7 +7678,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1481,
+    "120363023757382018@g.us": 1482,
     "120363426574906687@g.us": 104
   },
   "botDisabled": {
@@ -14857,6 +14862,12 @@
         "text": "Aqui é marmitaria só vejo comida kkkk",
         "pushName": "Henrique Contri 🤫",
         "timestamp": 1788798232567
+      },
+      "A5A4669AE4BCD77FD2AB0A3B8A2B10B7": {
+        "sender": "166452229341300@lid",
+        "text": "Vi tudo menos o arroz",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788798241276
       }
     },
     "120363426574906687@g.us": {
@@ -15347,7 +15358,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788798232567,
+    "120363023757382018@g.us": 1788798261331,
     "120363426574906687@g.us": 1788796664927
   },
   "autoAnimSent": {
