@@ -4487,9 +4487,9 @@
         "total": 5
       },
       "108461127897146": {
-        "text": 128,
+        "text": 130,
         "media": 35,
-        "total": 163
+        "total": 165
       },
       "5511927018683": {
         "text": 164,
@@ -4553,8 +4553,8 @@
       },
       "92629643563147": {
         "text": 142,
-        "media": 82,
-        "total": 224
+        "media": 85,
+        "total": 227
       },
       "559984624669": {
         "text": 4,
@@ -6195,8 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Heloisa: Eu gosto dos de 18 pra pegar pra criar e dos de 99 pra ficar com a aposentadoria",
-        "Luis Felipe: Eita que isso",
         "𝑳𝒂𝒚𝒉🌪🌚: Eu com meus 33 já doida pelo aposento",
         "Henrique Contri 🤫: Ave Maria 🤣🤣🤣🤣",
         "Heloisa: Tô brincando né kkk",
@@ -6694,7 +6692,9 @@
         "Henrique Contri 🤫: Quando quiser viver eu te empresto um gole kkkkk",
         "Gabi 💋: O @118515428286715 quer vir aqui",
         "jaciara: Minha amiga só não gosta de cotoco",
-        "Camila Designer: @247020967165997 nossas amigas estão na frente"
+        "Camila Designer: @247020967165997 nossas amigas estão na frente",
+        "jaciara: Vá pra fila",
+        "jaciara: Já tem nossas amigas na frente"
       ]
     },
     "120363426574906687@g.us": {
@@ -6896,12 +6896,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "Obrigada amiga",
-        "timestamp": 1788804214332
-      },
       {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
@@ -7711,6 +7705,18 @@
         "authorName": "Camila Designer",
         "text": "@247020967165997 nossas amigas estão na frente",
         "timestamp": 1788805995900
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Vá pra fila",
+        "timestamp": 1788806012148
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Já tem nossas amigas na frente",
+        "timestamp": 1788806017231
       }
     ],
     "120363426574906687@g.us": [
@@ -7868,7 +7874,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2154,
+    "120363023757382018@g.us": 2156,
     "120363426574906687@g.us": 178
   },
   "botDisabled": {
@@ -19157,6 +19163,18 @@
         "text": "@247020967165997 nossas amigas estão na frente",
         "pushName": "Camila Designer",
         "timestamp": 1788805995900
+      },
+      "ACAA51693F4EE4C69C40056530AACE6C": {
+        "sender": "108461127897146@lid",
+        "text": "Vá pra fila",
+        "pushName": "jaciara",
+        "timestamp": 1788806012148
+      },
+      "AC2A8707EE0B5F19999902A73CF6CFD5": {
+        "sender": "108461127897146@lid",
+        "text": "Já tem nossas amigas na frente",
+        "pushName": "jaciara",
+        "timestamp": 1788806017232
       }
     },
     "120363426574906687@g.us": {
@@ -20085,7 +20103,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788805995900,
+    "120363023757382018@g.us": 1788806023599,
     "120363426574906687@g.us": 1788805706271
   },
   "autoAnimSent": {
