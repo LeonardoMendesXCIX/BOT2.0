@@ -4759,9 +4759,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 42,
+        "text": 43,
         "media": 0,
-        "total": 42
+        "total": 43
       },
       "89305909317735": {
         "text": 1,
@@ -4829,9 +4829,9 @@
         "total": 6
       },
       "126586225467454": {
-        "text": 12,
+        "text": 14,
         "media": 3,
-        "total": 15
+        "total": 17
       },
       "245788143841410": {
         "text": 5,
@@ -4866,6 +4866,11 @@
       "225464408887542": {
         "text": 0,
         "media": 2,
+        "total": 2
+      },
+      "280887035965638": {
+        "text": 2,
+        "media": 0,
         "total": 2
       }
     },
@@ -5732,10 +5737,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        ": Bom dia ótimo feriado pra todos",
-        "Cristian Sntss: Pronto",
-        "Gabi 💋: Tenho paciencia não",
-        "Gabi 💋: Quem está carente vai no puteiro",
         "Claudinho santos Claudinh: Eu inocente",
         "Claudinho santos Claudinh: Kķk",
         "Gabi 💋: Ainda",
@@ -6231,7 +6232,11 @@
         "Heloisa: Problema é que se empolga começa no respeito de roupa depois tira e nem avisa aí leva block kk",
         "JUNIOR: Exatamente",
         "Thawan: 👏🏼👏🏼👏🏼",
-        "Heloisa: Né moço"
+        "Heloisa: Né moço",
+        "Thawan: É isso aí",
+        "K: Oii",
+        "Thawan: Está certíssima",
+        "Heloisa: Então vc sabe pq não te respondo no PV kk"
       ]
     },
     "120363426574906687@g.us": {
@@ -6338,18 +6343,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "Um conterrâneo",
-        "timestamp": 1788790719630
-      },
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "Bem vindo",
-        "timestamp": 1788790725776
-      },
       {
         "authorNum": "219911083266163",
         "authorName": "John 😎",
@@ -6925,6 +6918,30 @@
         "authorName": "Heloisa",
         "text": "Né moço",
         "timestamp": 1788792507846
+      },
+      {
+        "authorNum": "126586225467454",
+        "authorName": "Thawan",
+        "text": "É isso aí",
+        "timestamp": 1788792514072
+      },
+      {
+        "authorNum": "280887035965638",
+        "authorName": "K",
+        "text": "Oii",
+        "timestamp": 1788792516668
+      },
+      {
+        "authorNum": "126586225467454",
+        "authorName": "Thawan",
+        "text": "Está certíssima",
+        "timestamp": 1788792517712
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Então vc sabe pq não te respondo no PV kk",
+        "timestamp": 1788792538786
       }
     ],
     "120363426574906687@g.us": [
@@ -7058,7 +7075,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 990,
+    "120363023757382018@g.us": 994,
     "120363426574906687@g.us": 83
   },
   "botDisabled": {
@@ -11187,6 +11204,30 @@
         "text": "Né moço",
         "pushName": "Heloisa",
         "timestamp": 1788792507846
+      },
+      "3A23B87D7FF653F9DFC8": {
+        "sender": "126586225467454@lid",
+        "text": "É isso aí",
+        "pushName": "Thawan",
+        "timestamp": 1788792514072
+      },
+      "AC0DD26FC178A90B5EACF717B1C58869": {
+        "sender": "280887035965638@lid",
+        "text": "Oii",
+        "pushName": "K",
+        "timestamp": 1788792516668
+      },
+      "3A4A586375710AB72467": {
+        "sender": "126586225467454@lid",
+        "text": "Está certíssima",
+        "pushName": "Thawan",
+        "timestamp": 1788792517712
+      },
+      "AC0302BBE954CE994892D205AF94505D": {
+        "sender": "152274357751809@lid",
+        "text": "Então vc sabe pq não te respondo no PV kk",
+        "pushName": "Heloisa",
+        "timestamp": 1788792538787
       }
     },
     "120363426574906687@g.us": {
@@ -11548,7 +11589,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788792507846,
+    "120363023757382018@g.us": 1788792538786,
     "120363426574906687@g.us": 1788791178144
   },
   "autoAnimSent": {
