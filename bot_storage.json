@@ -5237,9 +5237,9 @@
         "total": 8
       },
       "241261818728589": {
-        "text": 2,
+        "text": 3,
         "media": 1,
-        "total": 3
+        "total": 4
       },
       "259588561625272": {
         "text": 1,
@@ -6195,7 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Camila Designer: Estamos de prova",
         "Cristian Sntss: @92629643563147 hj ta safra boa",
         "Camila Designer: A safra tem melhorado 🤣🤣🤣🤣",
         "Camila Designer: E você não está por fora viu @166452229341300 até sonhei com você 🫣🫣🫣",
@@ -6694,7 +6693,8 @@
         "Celiete Souza: Equilibrado amigo",
         "willian: Que bom, bem também ☺️",
         "willian: Tu viu que não cai kkkk",
-        "Celiete Souza: Estou orgulhosa de você 🫵🏼"
+        "Celiete Souza: Estou orgulhosa de você 🫵🏼",
+        "sorveteria: Cê tá doido o povo aqui e animado 😂"
       ]
     },
     "120363426574906687@g.us": {
@@ -6898,24 +6898,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "@247020967165997 se prepare 😏",
-        "timestamp": 1788806316884
-      },
-      {
-        "authorNum": "264308512522409",
-        "authorName": "Henrique Contri 🤫",
-        "text": "Que cabaré é esse gente 🤣🤣",
-        "timestamp": 1788806326107
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Oh Jesus",
-        "timestamp": 1788806339594
-      },
       {
         "authorNum": "108461127897146",
         "authorName": "jaciara",
@@ -7959,6 +7941,12 @@
         "authorName": "Celiete Souza",
         "text": "Estou orgulhosa de você 🫵🏼",
         "timestamp": 1788808115476
+      },
+      {
+        "authorNum": "241261818728589",
+        "authorName": "sorveteria",
+        "text": "Cê tá doido o povo aqui e animado 😂",
+        "timestamp": 1788808140925
       }
     ],
     "120363426574906687@g.us": []
@@ -7983,7 +7971,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2352,
+    "120363023757382018@g.us": 2353,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -20460,6 +20448,12 @@
         "text": "Estou orgulhosa de você 🫵🏼",
         "pushName": "Celiete Souza",
         "timestamp": 1788808115476
+      },
+      "A50792A6FF9BE37C4A85259ECCD6DF24": {
+        "sender": "241261818728589@lid",
+        "text": "Cê tá doido o povo aqui e animado 😂",
+        "pushName": "sorveteria",
+        "timestamp": 1788808140925
       }
     },
     "120363426574906687@g.us": {
@@ -21400,7 +21394,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788808115476,
+    "120363023757382018@g.us": 1788808140925,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
