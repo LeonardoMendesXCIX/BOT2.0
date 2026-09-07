@@ -4495,14 +4495,14 @@
         "total": 169
       },
       "166452229341300": {
-        "text": 144,
+        "text": 145,
         "media": 46,
-        "total": 190
+        "total": 191
       },
       "53537388122141": {
-        "text": 99,
+        "text": 101,
         "media": 10,
-        "total": 109
+        "total": 111
       },
       "129373172711439": {
         "text": 27,
@@ -4860,9 +4860,9 @@
         "total": 2
       },
       "5850081050816": {
-        "text": 6,
+        "text": 7,
         "media": 1,
-        "total": 7
+        "total": 8
       },
       "48120897470717": {
         "text": 2,
@@ -5889,9 +5889,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "xacinaluzqradiaoinferno71: favela",
-        "Gabi 💋: Ambos",
-        "Amaury: E verdade",
         "Gabi 💋: Mais não aguento mais correr de polícia",
         "Amaury: Kkkkk",
         "Amaury: Então vai pra baladinha social",
@@ -6388,7 +6385,10 @@
         "Cristian Sntss: Bem vindooo",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Bem vindo!",
         "Kaique N.☝🏻🤓: Valeu",
-        "Kaique N.☝🏻🤓: Obrigado"
+        "Kaique N.☝🏻🤓: Obrigado",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: !ban @43684162711698",
+        "Dani: Ja tomeu",
+        "Cristian Sntss: !ban @208701721993439"
       ]
     },
     "120363426574906687@g.us": {
@@ -7523,21 +7523,27 @@
         "authorName": "Kaique N.☝🏻🤓",
         "text": "Obrigado",
         "timestamp": 1788794667724
-      }
-    ],
-    "120363426574906687@g.us": [
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "!ban @43684162711698",
+        "timestamp": 1788794684737
+      },
+      {
+        "authorNum": "5850081050816",
+        "authorName": "Dani",
+        "text": "Ja tomeu",
+        "timestamp": 1788794690066
+      },
       {
         "authorNum": "166452229341300",
         "authorName": "Cristian Sntss",
-        "text": "Os estrangeiros fica puto",
-        "timestamp": 1788792800628
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Pessoal, não ativem a aprovação de entrada dos membros, por favor @81991328395336 @92629643563147 @166452229341300 @53537388122141",
-        "timestamp": 1788792891478
-      },
+        "text": "!ban @208701721993439",
+        "timestamp": 1788794690859
+      }
+    ],
+    "120363426574906687@g.us": [
       {
         "authorNum": "5511927018683",
         "authorName": "Leandro",
@@ -7596,7 +7602,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 49,
-    "120363023757382018@g.us": 1205,
+    "120363023757382018@g.us": 1208,
     "120363426574906687@g.us": 91
   },
   "botDisabled": {
@@ -13081,6 +13087,24 @@
         "text": "Obrigado",
         "pushName": "Kaique N.☝🏻🤓",
         "timestamp": 1788794667724
+      },
+      "ACB107D1805CE24C79C54778EC79E5DA": {
+        "sender": "53537388122141@lid",
+        "text": "!ban @43684162711698",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788794684737
+      },
+      "AC3DB289AB6DC80537E5C39B65ECD414": {
+        "sender": "5850081050816@lid",
+        "text": "Ja tomeu",
+        "pushName": "Dani",
+        "timestamp": 1788794690067
+      },
+      "A50AF96D4CA92BB6964465682774647F": {
+        "sender": "166452229341300@lid",
+        "text": "!ban @208701721993439",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788794690859
       }
     },
     "120363426574906687@g.us": {
@@ -13490,7 +13514,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788794665827,
-    "120363023757382018@g.us": 1788794667724,
+    "120363023757382018@g.us": 1788794690859,
     "120363426574906687@g.us": 1788794431350
   },
   "autoAnimSent": {
