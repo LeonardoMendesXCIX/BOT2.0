@@ -4767,9 +4767,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 149,
+        "text": 150,
         "media": 1,
-        "total": 150
+        "total": 151
       },
       "89305909317735": {
         "text": 1,
@@ -5217,9 +5217,9 @@
         "total": 1
       },
       "136296492200083": {
-        "text": 25,
+        "text": 27,
         "media": 7,
-        "total": 32
+        "total": 34
       },
       "252342414905454": {
         "text": 7,
@@ -6188,9 +6188,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Heloisa: Povo não sabe fazer o mínimo se identificar e ler as regras do grupo e  o principal seguir",
-        "Jacke França: Amg tô restringida",
-        "Kaique N.☝🏻🤓: Kaique  31 anos\nSão Paulo  zn",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Chamei",
         "Cristian Sntss: Bem vindooo",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Bem vindo!",
@@ -6687,7 +6684,10 @@
         "Cristian Sntss: Tive nem ânimo pra ir vê o desfile cívico",
         "Márcio Bruxel: Hoje é o dia...de se mexer o mínimo",
         "Heloisa: Não gosto de pessoas que se acham logo então eu não me acho",
-        "Márcio Bruxel: Nem eu"
+        "Márcio Bruxel: Nem eu",
+        "Luis Felipe: Nem eu pra que né",
+        "Heloisa: Sim acho bobagem",
+        "Luis Felipe: Verdade"
       ]
     },
     "120363426574906687@g.us": {
@@ -6887,12 +6887,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "81991328395336",
-        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
-        "text": "Queria eu durmi",
-        "timestamp": 1788799322119
-      },
       {
         "authorNum": "118528279593092",
         "authorName": "𝕰𝖛𝖆𝖓𝖉𝖗𝖔 𝕬𝖑𝖛𝖊𝖘",
@@ -7738,6 +7732,24 @@
         "authorName": "Márcio Bruxel",
         "text": "Nem eu",
         "timestamp": 1788801082097
+      },
+      {
+        "authorNum": "136296492200083",
+        "authorName": "Luis Felipe",
+        "text": "Nem eu pra que né",
+        "timestamp": 1788801109298
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Sim acho bobagem",
+        "timestamp": 1788801120502
+      },
+      {
+        "authorNum": "136296492200083",
+        "authorName": "Luis Felipe",
+        "text": "Verdade",
+        "timestamp": 1788801132331
       }
     ],
     "120363426574906687@g.us": [
@@ -7991,7 +8003,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 61,
-    "120363023757382018@g.us": 1697,
+    "120363023757382018@g.us": 1700,
     "120363426574906687@g.us": 145
   },
   "botDisabled": {
@@ -16501,6 +16513,24 @@
         "text": "Nem eu",
         "pushName": "Márcio Bruxel",
         "timestamp": 1788801082097
+      },
+      "3AA70CE26141705A2FCF": {
+        "sender": "136296492200083@lid",
+        "text": "Nem eu pra que né",
+        "pushName": "Luis Felipe",
+        "timestamp": 1788801109298
+      },
+      "ACCADED09B248F3543CB675E5891FD3D": {
+        "sender": "152274357751809@lid",
+        "text": "Sim acho bobagem",
+        "pushName": "Heloisa",
+        "timestamp": 1788801120503
+      },
+      "3A4479CB46B9DDE2F95E": {
+        "sender": "136296492200083@lid",
+        "text": "Verdade",
+        "pushName": "Luis Felipe",
+        "timestamp": 1788801132332
       }
     },
     "120363426574906687@g.us": {
@@ -17237,7 +17267,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788801095714,
-    "120363023757382018@g.us": 1788801082097,
+    "120363023757382018@g.us": 1788801132331,
     "120363426574906687@g.us": 1788800965595
   },
   "autoAnimSent": {
