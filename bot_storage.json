@@ -4484,9 +4484,9 @@
         "total": 164
       },
       "166452229341300": {
-        "text": 81,
+        "text": 82,
         "media": 37,
-        "total": 118
+        "total": 119
       },
       "53537388122141": {
         "text": 45,
@@ -4579,9 +4579,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 104,
+        "text": 105,
         "media": 12,
-        "total": 116
+        "total": 117
       },
       "206966404210884": {
         "text": 2,
@@ -4664,9 +4664,9 @@
         "total": 4
       },
       "276287176319083": {
-        "text": 17,
+        "text": 18,
         "media": 5,
-        "total": 22
+        "total": 23
       },
       "118515428286715": {
         "text": 5,
@@ -4689,9 +4689,9 @@
         "total": 4
       },
       "128145298608376": {
-        "text": 28,
+        "text": 29,
         "media": 2,
-        "total": 30
+        "total": 31
       },
       "193733257609270": {
         "text": 2,
@@ -5617,8 +5617,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Dany: Oxi… céus",
-        "Leandro: E caquinha das grandes",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Foi só a gente elogiar",
         "Dany: Hahahha",
         "Dany: Foi só ele ocupar!",
@@ -6116,7 +6114,9 @@
         "Gabi 💋: Vai com Deus",
         "Camila Designer: 🚨 REGRAS IMPORTANTES\n❌ Proibido invadir PV sem autorização.\n❌ Respeite todos os participantes do grupo.\n\n🔊 Seja muito bem-vindo(a)! 🤝",
         "Camila Designer: *Pessoal vamos ficar atentos!*",
-        "Cristian Sntss: Teu cabelo igual o fã Gabi"
+        "Cristian Sntss: Teu cabelo igual o fã Gabi",
+        "Gabi 💋: Lindo o cabelo dele",
+        "renan_wesley: Obg"
       ]
     },
     "120363426574906687@g.us": {
@@ -6219,12 +6219,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "81991328395336",
-        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
-        "text": "🚨 APRESENTAÇÃO OBRIGATÓRIA!\n\n*📸 Foto de rosto visível + Nome, Idade, Cidade/Estado  orientação sexual*\n\n👤 PV LIBERADO ou 🔒 PV FECHADO — mantenha a etiqueta visível.  \n\n❌ Proibido invadir PV \n\n⚠️ Sem apresentação e etiqueta, poderá haver remoção do grupo.\n\n@91384186949634",
-        "timestamp": 1788787114107
-      },
       {
         "authorNum": "5511927018683",
         "authorName": "Leandro",
@@ -7562,6 +7556,18 @@
         "authorName": "Cristian Sntss",
         "text": "Teu cabelo igual o fã Gabi",
         "timestamp": 1788788905868
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Lindo o cabelo dele",
+        "timestamp": 1788788919914
+      },
+      {
+        "authorNum": "276287176319083",
+        "authorName": "renan_wesley",
+        "text": "Obg",
+        "timestamp": 1788788939152
       }
     ],
     "120363426574906687@g.us": [
@@ -7659,7 +7665,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 759,
+    "120363023757382018@g.us": 761,
     "120363426574906687@g.us": 48
   },
   "botDisabled": {
@@ -10400,6 +10406,18 @@
         "text": "Teu cabelo igual o fã Gabi",
         "pushName": "Cristian Sntss",
         "timestamp": 1788788905868
+      },
+      "ACB62CE03CE08F6290C3409319387DFD": {
+        "sender": "247020967165997@lid",
+        "text": "Lindo o cabelo dele",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788788919914
+      },
+      "ACF0ED59A9FDF9F65A36AF89A8F5F536": {
+        "sender": "276287176319083@lid",
+        "text": "Obg",
+        "pushName": "renan_wesley",
+        "timestamp": 1788788939152
       }
     },
     "120363426574906687@g.us": {
@@ -10551,7 +10569,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788788905868,
+    "120363023757382018@g.us": 1788788939152,
     "120363426574906687@g.us": 1788788012627
   },
   "autoAnimSent": {
