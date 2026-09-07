@@ -4572,9 +4572,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 261,
-        "media": 151,
-        "total": 412
+        "text": 262,
+        "media": 152,
+        "total": 414
       },
       "559984624669": {
         "text": 4,
@@ -4702,9 +4702,9 @@
         "total": 27
       },
       "118515428286715": {
-        "text": 99,
+        "text": 100,
         "media": 8,
-        "total": 107
+        "total": 108
       },
       "193729163993156": {
         "text": 2,
@@ -4943,8 +4943,8 @@
       },
       "36645315321925": {
         "text": 36,
-        "media": 4,
-        "total": 40
+        "media": 5,
+        "total": 41
       },
       "187845394358417": {
         "text": 1,
@@ -5337,9 +5337,9 @@
         "total": 7
       },
       "79728216113177": {
-        "text": 42,
+        "text": 43,
         "media": 26,
-        "total": 68
+        "total": 69
       }
     },
     "120363426574906687@g.us": {
@@ -6249,8 +6249,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Henrique Contri 🤫: É dessas que eu gosto 😏",
-        "P: digo",
         "Camila Designer: Afs",
         "jaciara: Maravilhosaaaaa",
         "P: que beleza",
@@ -6748,7 +6746,9 @@
         "Camila Designer: Verdade, aqui é golpe em cima de golpe!😌😌😌",
         "Kaio Mendes: Interessante",
         "Felippo: começando por você.. 👀",
-        "Camila Designer: Porque quer 😏😏😏"
+        "Camila Designer: Porque quer 😏😏😏",
+        "Kaio Mendes: Indiretas",
+        "Camila Designer: Eu sou quase divorciada 🤣🤣🤣"
       ]
     },
     "120363426574906687@g.us": {
@@ -6984,12 +6984,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "Da igreja?",
-        "timestamp": 1788814451645
-      },
       {
         "authorNum": "241261818728589",
         "authorName": "sorveteria",
@@ -7427,6 +7421,18 @@
         "authorName": "Camila Designer",
         "text": "Porque quer 😏😏😏",
         "timestamp": 1788816244900
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "Indiretas",
+        "timestamp": 1788816256264
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Eu sou quase divorciada 🤣🤣🤣",
+        "timestamp": 1788816291026
       }
     ],
     "120363426574906687@g.us": [
@@ -7458,7 +7464,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2782,
+    "120363023757382018@g.us": 2784,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -22581,6 +22587,18 @@
         "text": "Porque quer 😏😏😏",
         "pushName": "Camila Designer",
         "timestamp": 1788816244900
+      },
+      "ACD7BEB9811EF7165DDA0BAC8FE6BD7D": {
+        "sender": "79728216113177@lid",
+        "text": "Indiretas",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788816256264
+      },
+      "2A460D683A037437857C": {
+        "sender": "92629643563147@lid",
+        "text": "Eu sou quase divorciada 🤣🤣🤣",
+        "pushName": "Camila Designer",
+        "timestamp": 1788816291026
       }
     },
     "120363426574906687@g.us": {
@@ -23527,7 +23545,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788816244900,
+    "120363023757382018@g.us": 1788816291026,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
