@@ -4497,9 +4497,9 @@
         "total": 171
       },
       "166452229341300": {
-        "text": 225,
+        "text": 226,
         "media": 70,
-        "total": 295
+        "total": 296
       },
       "53537388122141": {
         "text": 148,
@@ -5142,9 +5142,9 @@
         "total": 1
       },
       "264308512522409": {
-        "text": 21,
+        "text": 22,
         "media": 2,
-        "total": 23
+        "total": 24
       },
       "194377938911429": {
         "text": 9,
@@ -5227,9 +5227,9 @@
         "total": 9
       },
       "118528279593092": {
-        "text": 24,
+        "text": 26,
         "media": 5,
-        "total": 29
+        "total": 31
       },
       "183137506173038": {
         "text": 8,
@@ -6183,8 +6183,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Nalguda Ganesh: Videos videos",
-        "Nalguda Ganesh: Photos photos photo picture",
         "Wellington: Boa tarde família 🫶🏽",
         "Rodrígues: Sabrina só pode ficar número do Brasil??",
         "Heloisa: Boa tarde",
@@ -6682,7 +6680,9 @@
         "𝑳𝒂𝒚𝒉🌪🌚: Pq?",
         "𝕰𝖛𝖆𝖓𝖉𝖗𝖔 𝕬𝖑𝖛𝖊𝖘: Guenta não , eu já tinha dado um treco kkk",
         "Cristian Sntss: Eu tbm vou",
-        "Henrique Contri 🤫: Tô esperando ficar pronto 🤣🤣"
+        "Henrique Contri 🤫: Tô esperando ficar pronto 🤣🤣",
+        "Henrique Contri 🤫: Tô quase pra tomar soro já kkk",
+        "𝕰𝖛𝖆𝖓𝖉𝖗𝖔 𝕬𝖑𝖛𝖊𝖘: Seloko segura aí pelas paredes kkk"
       ]
     },
     "120363426574906687@g.us": {
@@ -6829,30 +6829,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "118528279593092",
-        "authorName": "𝕰𝖛𝖆𝖓𝖉𝖗𝖔 𝕬𝖑𝖛𝖊𝖘",
-        "text": "Obrigado 🙂",
-        "timestamp": 1788798510544
-      },
-      {
-        "authorNum": "183137506173038",
-        "authorName": "Luis carlos",
-        "text": "Comigo",
-        "timestamp": 1788798522900
-      },
-      {
-        "authorNum": "183137506173038",
-        "authorName": "Luis carlos",
-        "text": "???",
-        "timestamp": 1788798526412
-      },
-      {
-        "authorNum": "252342414905454",
-        "authorName": "Jefinho",
-        "text": "👀👀👀👀",
-        "timestamp": 1788798527313
-      },
       {
         "authorNum": "252342414905454",
         "authorName": "Jefinho",
@@ -7620,6 +7596,18 @@
         "authorName": "Henrique Contri 🤫",
         "text": "Tô esperando ficar pronto 🤣🤣",
         "timestamp": 1788800308096
+      },
+      {
+        "authorNum": "264308512522409",
+        "authorName": "Henrique Contri 🤫",
+        "text": "Tô quase pra tomar soro já kkk",
+        "timestamp": 1788800323192
+      },
+      {
+        "authorNum": "118528279593092",
+        "authorName": "𝕰𝖛𝖆𝖓𝖉𝖗𝖔 𝕬𝖑𝖛𝖊𝖘",
+        "text": "Seloko segura aí pelas paredes kkk",
+        "timestamp": 1788800340331
       }
     ],
     "120363426574906687@g.us": [
@@ -7759,7 +7747,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1639,
+    "120363023757382018@g.us": 1641,
     "120363426574906687@g.us": 123
   },
   "botDisabled": {
@@ -15891,6 +15879,18 @@
         "text": "Tô esperando ficar pronto 🤣🤣",
         "pushName": "Henrique Contri 🤫",
         "timestamp": 1788800308096
+      },
+      "ACF309706B6529A7E380AEE74F29C8F5": {
+        "sender": "264308512522409@lid",
+        "text": "Tô quase pra tomar soro já kkk",
+        "pushName": "Henrique Contri 🤫",
+        "timestamp": 1788800323192
+      },
+      "AC5A98AAD96F2F5BBA6FBFFF29425A47": {
+        "sender": "118528279593092@lid",
+        "text": "Seloko segura aí pelas paredes kkk",
+        "pushName": "𝕰𝖛𝖆𝖓𝖉𝖗𝖔 𝕬𝖑𝖛𝖊𝖘",
+        "timestamp": 1788800340332
       }
     },
     "120363426574906687@g.us": {
@@ -16495,7 +16495,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788800309544,
+    "120363023757382018@g.us": 1788800340331,
     "120363426574906687@g.us": 1788800226215
   },
   "autoAnimSent": {
