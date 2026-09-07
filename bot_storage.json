@@ -4494,9 +4494,9 @@
         "total": 175
       },
       "53537388122141": {
-        "text": 58,
+        "text": 59,
         "media": 10,
-        "total": 68
+        "total": 69
       },
       "129373172711439": {
         "text": 27,
@@ -4759,9 +4759,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 43,
+        "text": 44,
         "media": 0,
-        "total": 43
+        "total": 44
       },
       "89305909317735": {
         "text": 1,
@@ -4829,9 +4829,9 @@
         "total": 6
       },
       "126586225467454": {
-        "text": 14,
+        "text": 15,
         "media": 3,
-        "total": 17
+        "total": 18
       },
       "245788143841410": {
         "text": 5,
@@ -4870,8 +4870,8 @@
       },
       "280887035965638": {
         "text": 2,
-        "media": 0,
-        "total": 2
+        "media": 1,
+        "total": 3
       }
     },
     "120363426574906687@g.us": {
@@ -5737,10 +5737,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Claudinho santos Claudinh: Eu inocente",
-        "Claudinho santos Claudinh: Kķk",
-        "Gabi 💋: Ainda",
-        "jaciara: O enviado ainda continua mandando mensagem",
         "jaciara: Kkkkk",
         "jaciara: O desgrama viu",
         "Gabi 💋: Vamos vê os próximos capítulos",
@@ -6236,7 +6232,11 @@
         "Thawan: É isso aí",
         "K: Oii",
         "Thawan: Está certíssima",
-        "Heloisa: Então vc sabe pq não te respondo no PV kk"
+        "Heloisa: Então vc sabe pq não te respondo no PV kk",
+        "K: Prazer pyetro, idade 18y",
+        "Heloisa: Bem vindo",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: De menor",
+        "Thawan: Desbloqueia lá pra continuar a conversa bb"
       ]
     },
     "120363426574906687@g.us": {
@@ -6343,18 +6343,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "219911083266163",
-        "authorName": "John 😎",
-        "text": "Alguém do Nordeste, Piauí, Maranhão ou Ceará?",
-        "timestamp": 1788790754924
-      },
-      {
-        "authorNum": "126586225467454",
-        "authorName": "Thawan",
-        "text": "Pv pra quem quiser chamar",
-        "timestamp": 1788790767375
-      },
       {
         "authorNum": "226946222944358",
         "authorName": "Ton",
@@ -6942,6 +6930,30 @@
         "authorName": "Heloisa",
         "text": "Então vc sabe pq não te respondo no PV kk",
         "timestamp": 1788792538786
+      },
+      {
+        "authorNum": "280887035965638",
+        "authorName": "K",
+        "text": "Prazer pyetro, idade 18y",
+        "timestamp": 1788792556907
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Bem vindo",
+        "timestamp": 1788792564459
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "De menor",
+        "timestamp": 1788792568090
+      },
+      {
+        "authorNum": "126586225467454",
+        "authorName": "Thawan",
+        "text": "Desbloqueia lá pra continuar a conversa bb",
+        "timestamp": 1788792569204
       }
     ],
     "120363426574906687@g.us": [
@@ -7075,7 +7087,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 994,
+    "120363023757382018@g.us": 998,
     "120363426574906687@g.us": 83
   },
   "botDisabled": {
@@ -11228,6 +11240,30 @@
         "text": "Então vc sabe pq não te respondo no PV kk",
         "pushName": "Heloisa",
         "timestamp": 1788792538787
+      },
+      "AC6621F2C9959FA21EA1E278273A14A6": {
+        "sender": "280887035965638@lid",
+        "text": "Prazer pyetro, idade 18y",
+        "pushName": "K",
+        "timestamp": 1788792556908
+      },
+      "AC6B4A2D13269722C0652A074236E0FF": {
+        "sender": "152274357751809@lid",
+        "text": "Bem vindo",
+        "pushName": "Heloisa",
+        "timestamp": 1788792564459
+      },
+      "ACE07CDD328CF0FC0B90788FBEE201B3": {
+        "sender": "53537388122141@lid",
+        "text": "De menor",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788792568090
+      },
+      "3A50C46895BA1A78DD33": {
+        "sender": "126586225467454@lid",
+        "text": "Desbloqueia lá pra continuar a conversa bb",
+        "pushName": "Thawan",
+        "timestamp": 1788792569204
       }
     },
     "120363426574906687@g.us": {
@@ -11589,7 +11625,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788792538786,
+    "120363023757382018@g.us": 1788792569204,
     "120363426574906687@g.us": 1788791178144
   },
   "autoAnimSent": {
