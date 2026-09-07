@@ -4507,9 +4507,9 @@
         "total": 167
       },
       "129373172711439": {
-        "text": 71,
-        "media": 18,
-        "total": 89
+        "text": 72,
+        "media": 19,
+        "total": 91
       },
       "138306604032063": {
         "text": 11,
@@ -4553,8 +4553,8 @@
       },
       "92629643563147": {
         "text": 171,
-        "media": 97,
-        "total": 268
+        "media": 98,
+        "total": 269
       },
       "559984624669": {
         "text": 4,
@@ -4607,9 +4607,9 @@
         "total": 6
       },
       "254884934881353": {
-        "text": 32,
+        "text": 33,
         "media": 2,
-        "total": 34
+        "total": 35
       },
       "45479878459474": {
         "text": 1,
@@ -5142,9 +5142,9 @@
         "total": 1
       },
       "264308512522409": {
-        "text": 105,
+        "text": 106,
         "media": 4,
-        "total": 109
+        "total": 110
       },
       "194377938911429": {
         "text": 9,
@@ -5282,9 +5282,9 @@
         "total": 4
       },
       "171214744064197": {
-        "text": 16,
+        "text": 17,
         "media": 2,
-        "total": 18
+        "total": 19
       },
       "198607978410013": {
         "text": 1,
@@ -6195,8 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Saul: CAMILAAAAAA, para de atiçar",
-        "Robison 🙏🏻❤️: Sim\nVc tbm deve ser",
         "Luis Felipe: Né",
         "Heloisa: Cadê meu menino  pra mim criar",
         "Saul: Mano, tem horrores que é melhor nem ver",
@@ -6694,7 +6692,9 @@
         "P: mas se ela jogar",
         "P: eu seguro",
         "Gabi 💋: Perdi até o assunto",
-        "P: to pra frente hoje"
+        "P: to pra frente hoje",
+        "P: vou ficar off",
+        "Henrique Contri 🤫: Tem quantos anos ?"
       ]
     },
     "120363426574906687@g.us": {
@@ -8019,6 +8019,18 @@
         "authorName": "P",
         "text": "to pra frente hoje",
         "timestamp": 1788807241287
+      },
+      {
+        "authorNum": "254884934881353",
+        "authorName": "P",
+        "text": "vou ficar off",
+        "timestamp": 1788807246950
+      },
+      {
+        "authorNum": "264308512522409",
+        "authorName": "Henrique Contri 🤫",
+        "text": "Tem quantos anos ?",
+        "timestamp": 1788807270051
       }
     ],
     "120363426574906687@g.us": [
@@ -8062,7 +8074,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2275,
+    "120363023757382018@g.us": 2277,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -20077,6 +20089,18 @@
         "text": "to pra frente hoje",
         "pushName": "P",
         "timestamp": 1788807241288
+      },
+      "3AE8917199B24A02E2B8": {
+        "sender": "254884934881353@lid",
+        "text": "vou ficar off",
+        "pushName": "P",
+        "timestamp": 1788807246950
+      },
+      "AC72F6C208D549801AF30DB04B667729": {
+        "sender": "264308512522409@lid",
+        "text": "Tem quantos anos ?",
+        "pushName": "Henrique Contri 🤫",
+        "timestamp": 1788807270051
       }
     },
     "120363426574906687@g.us": {
@@ -21017,7 +21041,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788807241287,
+    "120363023757382018@g.us": 1788807270051,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
