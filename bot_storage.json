@@ -4512,9 +4512,9 @@
         "total": 224
       },
       "5511927018683": {
-        "text": 228,
+        "text": 230,
         "media": 22,
-        "total": 250
+        "total": 252
       },
       "166452229341300": {
         "text": 340,
@@ -5337,9 +5337,9 @@
         "total": 7
       },
       "79728216113177": {
-        "text": 111,
+        "text": 112,
         "media": 50,
-        "total": 161
+        "total": 162
       },
       "108147461074988": {
         "text": 1,
@@ -6266,9 +6266,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Victor: deve ter feito isso em uma porrada de grupo",
-        "Cristian Sntss: Verdade",
-        "Wellington: Pix",
         "Wellington: 😅😅😅",
         "Mikael Santos: Obrigado",
         "Mikael Santos: Obrigado",
@@ -6765,7 +6762,10 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: 👀",
         "Camila Designer: 🤣🤣🤣🤣",
         "Nathan Ebrenz: Oi",
-        "Camila Designer: Conhece esse idioma @262182034002040 ?"
+        "Camila Designer: Conhece esse idioma @262182034002040 ?",
+        "Leandro: Oxi, o que eu fiz? 🌝",
+        "Kaio Mendes: Strustifaiter",
+        "Leandro: Mandei isso, por que estou de olho @262182034002040"
       ]
     },
     "120363426574906687@g.us": {
@@ -7427,6 +7427,24 @@
         "authorName": "Camila Designer",
         "text": "Conhece esse idioma @262182034002040 ?",
         "timestamp": 1788821044704
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Oxi, o que eu fiz? 🌝",
+        "timestamp": 1788821064753
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "Strustifaiter",
+        "timestamp": 1788821068936
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Mandei isso, por que estou de olho @262182034002040",
+        "timestamp": 1788821080530
       }
     ],
     "120363426574906687@g.us": []
@@ -7451,7 +7469,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 486,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 3078,
+    "120363023757382018@g.us": 3081,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -24393,6 +24411,24 @@
         "text": "Conhece esse idioma @262182034002040 ?",
         "pushName": "Camila Designer",
         "timestamp": 1788821044704
+      },
+      "ACC8AFC02818DFA4CF58E5199EEAE713": {
+        "sender": "54259127210155@lid",
+        "text": "Oxi, o que eu fiz? 🌝",
+        "pushName": "Leandro",
+        "timestamp": 1788821064753
+      },
+      "AC548A36063292F3661548BD86557499": {
+        "sender": "79728216113177@lid",
+        "text": "Strustifaiter",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788821068936
+      },
+      "AC7EF4CA4FC25A1809B9E4D34D6D5F51": {
+        "sender": "54259127210155@lid",
+        "text": "Mandei isso, por que estou de olho @262182034002040",
+        "pushName": "Leandro",
+        "timestamp": 1788821080530
       }
     },
     "120363426574906687@g.us": {
@@ -25339,7 +25375,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788819771459,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788821047684,
+    "120363023757382018@g.us": 1788821080530,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
