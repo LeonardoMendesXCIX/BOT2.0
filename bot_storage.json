@@ -4522,9 +4522,9 @@
         "total": 413
       },
       "53537388122141": {
-        "text": 203,
-        "media": 20,
-        "total": 223
+        "text": 205,
+        "media": 21,
+        "total": 226
       },
       "129373172711439": {
         "text": 121,
@@ -4573,8 +4573,8 @@
       },
       "92629643563147": {
         "text": 259,
-        "media": 147,
-        "total": 406
+        "media": 149,
+        "total": 408
       },
       "559984624669": {
         "text": 4,
@@ -4588,8 +4588,8 @@
       },
       "182738040713418": {
         "text": 51,
-        "media": 31,
-        "total": 82
+        "media": 32,
+        "total": 83
       },
       "81991328395336": {
         "text": 152,
@@ -5337,9 +5337,9 @@
         "total": 7
       },
       "79728216113177": {
-        "text": 36,
-        "media": 24,
-        "total": 60
+        "text": 38,
+        "media": 25,
+        "total": 63
       }
     },
     "120363426574906687@g.us": {
@@ -6249,10 +6249,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Celiete Souza: Tem com 40+ que dá de dez a 0 nas de 20 😂",
-        "Saul: Perfeito",
-        "P: Com ctz … inclusive to procurando essas",
-        "Saul: Humilha eles, humilha eles",
         "Saul: Ksks",
         "P: brincadeira",
         "P: to procurando nada n",
@@ -6748,7 +6744,11 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Su com 16/17 aninhos 🤡",
         "Wellington: Aí AGR sim",
         "Camila Designer: Um mais doido que outro",
-        "Kaio Mendes: 🤡 kkkk"
+        "Kaio Mendes: 🤡 kkkk",
+        "Kaio Mendes: Vc sendo a dona do hospício",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Moço do céu",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Eu vou virar o meme do ano",
+        "Kaio Mendes: Roubei a sua falando que tá roubando a minha"
       ]
     },
     "120363426574906687@g.us": {
@@ -7319,6 +7319,30 @@
         "authorName": "Kaio Mendes",
         "text": "🤡 kkkk",
         "timestamp": 1788815997948
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "Vc sendo a dona do hospício",
+        "timestamp": 1788816012236
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Moço do céu",
+        "timestamp": 1788816013578
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Eu vou virar o meme do ano",
+        "timestamp": 1788816025848
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "Roubei a sua falando que tá roubando a minha",
+        "timestamp": 1788816028535
       }
     ],
     "120363426574906687@g.us": [
@@ -7350,7 +7374,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2760,
+    "120363023757382018@g.us": 2764,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -22341,6 +22365,30 @@
         "text": "🤡 kkkk",
         "pushName": "Kaio Mendes",
         "timestamp": 1788815997948
+      },
+      "AC5D653C7D4DC6E1DFD53E44A99B24BC": {
+        "sender": "79728216113177@lid",
+        "text": "Vc sendo a dona do hospício",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788816012237
+      },
+      "ACC08AB3980C5C2C00E4F6D7961D8A7E": {
+        "sender": "53537388122141@lid",
+        "text": "Moço do céu",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788816013579
+      },
+      "ACAE629BADC082652F1EB13D4D4CE13D": {
+        "sender": "53537388122141@lid",
+        "text": "Eu vou virar o meme do ano",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788816025848
+      },
+      "AC5C30A7528708EA12747D0988070C60": {
+        "sender": "79728216113177@lid",
+        "text": "Roubei a sua falando que tá roubando a minha",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788816028535
       }
     },
     "120363426574906687@g.us": {
@@ -23287,7 +23335,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788815997948,
+    "120363023757382018@g.us": 1788816043476,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
