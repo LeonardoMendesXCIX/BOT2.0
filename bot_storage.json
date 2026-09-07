@@ -4587,9 +4587,9 @@
         "total": 1
       },
       "182738040713418": {
-        "text": 63,
+        "text": 64,
         "media": 46,
-        "total": 109
+        "total": 110
       },
       "81991328395336": {
         "text": 180,
@@ -5337,9 +5337,9 @@
         "total": 7
       },
       "79728216113177": {
-        "text": 101,
+        "text": 104,
         "media": 46,
-        "total": 147
+        "total": 150
       },
       "108147461074988": {
         "text": 1,
@@ -6266,10 +6266,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Victor: mandou trocentas vezes o link do grupo dele aqui",
-        "Dany: Ah eita",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: @all \nNão cliquem em nada!! Isso é um vírus!!!",
-        "Felippo: bota pra só adm mudar as info do grupo",
         "Felippo: se não vai ficar bagunçado assim",
         "Camila Designer: Mas já está",
         "Felippo: o cara era adm?",
@@ -6765,7 +6761,11 @@
         "Wellington: Tô vendo msm irmão kkk",
         "Kaio Mendes: Vc mentindo agora",
         "Camila Designer: Minha amiga não vai mandar nada",
-        "Camila Designer: Agora eu não sei 🤣🤣🤣🤣"
+        "Camila Designer: Agora eu não sei 🤣🤣🤣🤣",
+        "Kaio Mendes: Vc é atacante msm",
+        "Wellington: Olhaaa fazer propaganda enganosa é crime",
+        "Kaio Mendes: Ela é criminosa",
+        "Kaio Mendes: Mas não é pelas propagandas"
       ]
     },
     "120363426574906687@g.us": {
@@ -7265,6 +7265,30 @@
         "authorName": "Camila Designer",
         "text": "Agora eu não sei 🤣🤣🤣🤣",
         "timestamp": 1788820523552
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "Vc é atacante msm",
+        "timestamp": 1788820554180
+      },
+      {
+        "authorNum": "182738040713418",
+        "authorName": "Wellington",
+        "text": "Olhaaa fazer propaganda enganosa é crime",
+        "timestamp": 1788820557871
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "Ela é criminosa",
+        "timestamp": 1788820568268
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "Mas não é pelas propagandas",
+        "timestamp": 1788820572529
       }
     ],
     "120363426574906687@g.us": []
@@ -7289,7 +7313,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 486,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 3042,
+    "120363023757382018@g.us": 3046,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -24015,6 +24039,30 @@
         "text": "Agora eu não sei 🤣🤣🤣🤣",
         "pushName": "Camila Designer",
         "timestamp": 1788820523552
+      },
+      "AC8FEEFF8B7CE6A91DF8979A0E57A7C7": {
+        "sender": "79728216113177@lid",
+        "text": "Vc é atacante msm",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788820554180
+      },
+      "AC70DE29F4819702927F45AFF3883045": {
+        "sender": "182738040713418@lid",
+        "text": "Olhaaa fazer propaganda enganosa é crime",
+        "pushName": "Wellington",
+        "timestamp": 1788820557871
+      },
+      "AC3C722FA88F8B2EAA89C55085A5D03C": {
+        "sender": "79728216113177@lid",
+        "text": "Ela é criminosa",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788820568268
+      },
+      "AC75F919ABEFEA873994AB4D52A2E608": {
+        "sender": "79728216113177@lid",
+        "text": "Mas não é pelas propagandas",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788820572529
       }
     },
     "120363426574906687@g.us": {
@@ -24961,7 +25009,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788819771459,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788820523552,
+    "120363023757382018@g.us": 1788820572529,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
