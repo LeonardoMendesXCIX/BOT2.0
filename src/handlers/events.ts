@@ -108,32 +108,26 @@ export function setupGroupEvents(sock: WASocket, storage: StorageManager): void 
                     }
 
                     if (!storage.isFeatureDisabled(chatId, 'sa')) {
-                        const welcomeConfig = storage.data.welcomeMsgs ? storage.data.welcomeMsgs[chatId] : null;
+                        const savedWelcomeText = storage.data.welcomeMsgs?.[chatId]?.text?.trim();
                         const defaultWelcome = 'Seja muito bem-vindo(a) ao grupo!';
-                        let userText = welcomeConfig && welcomeConfig.text ? welcomeConfig.text.trim() : defaultWelcome;
+                        let userText = savedWelcomeText || defaultWelcome;
 
-                        const nameAndNum = memberInfo.nameAndNumber;
+                        const numeroReal = extractRawNumber(realJid);
+                        const memberMentionJid = numeroReal + '@s.whatsapp.net';
+                        const memberName = memberInfo.pushName || memberInfo.formattedNum;
                         const groupTitle = groupMeta?.subject || 'nosso grupo';
                         let processedText = userText.replace(/\{grupo\}/gi, groupTitle);
 
-                        if (processedText.includes('{membro}')) {
-                            processedText = processedText.replace(/\{membro\}/gi, nameAndNum);
-                        }
-                        if (processedText.includes('{nome}')) {
-                            processedText = processedText.replace(/\{nome\}/gi, memberInfo.pushName || memberInfo.formattedNum);
-                        }
-                        if (processedText.includes('{numero}')) {
-                            processedText = processedText.replace(/\{numero\}/gi, memberInfo.formattedNum);
-                        }
+                        const hasMemberVariable = /\{membro\}/i.test(processedText);
+                        processedText = processedText
+                            .replace(/\{membro\}/gi, '@' + numeroReal)
+                            .replace(/\{nome\}/gi, memberName)
+                            .replace(/\{numero\}/gi, memberInfo.formattedNum);
 
-                        let finalMsg = '';
-                        if (processedText.includes(nameAndNum)) {
-                            finalMsg = processedText;
-                        } else {
-                            finalMsg = processedText + '\n\n👋 ' + nameAndNum;
-                        }
-
-                        const allMentions = Array.from(new Set([memberInfo.jid, newMemberId, realJid])).filter(Boolean);
+                        const finalMsg = hasMemberVariable
+                            ? processedText
+                            : processedText + '\n\n👋 @' + numeroReal;
+                        const allMentions = Array.from(new Set([memberMentionJid, memberInfo.jid, newMemberId, realJid])).filter(Boolean);
                         await sock.sendMessage(chatId, { text: finalMsg, mentions: allMentions });
                         console.log('[SAUDAÇÃO ENVIADA] Mensagem enviada para ' + memberInfo.nameAndNumber + ' no grupo ' + chatId);
                     }
