@@ -4507,9 +4507,9 @@
         "total": 167
       },
       "129373172711439": {
-        "text": 60,
+        "text": 62,
         "media": 14,
-        "total": 74
+        "total": 76
       },
       "138306604032063": {
         "text": 11,
@@ -4552,9 +4552,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 165,
+        "text": 166,
         "media": 92,
-        "total": 257
+        "total": 258
       },
       "559984624669": {
         "text": 4,
@@ -4682,9 +4682,9 @@
         "total": 27
       },
       "118515428286715": {
-        "text": 65,
+        "text": 67,
         "media": 5,
-        "total": 70
+        "total": 72
       },
       "193729163993156": {
         "text": 2,
@@ -6195,10 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Luis Felipe: Eita",
-        "Henrique Contri 🤫: Por que deveria ?",
-        "Camila Designer: Tem que avaliar ué",
-        "Saul: Mano, você tem a cara torta e tá zuando os outros ?",
         "Luis Felipe: é né",
         "Cristian Sntss: @264308512522409",
         "Luis Felipe: Então né",
@@ -6694,7 +6690,11 @@
         "Saul: Não sei",
         "Saul: Peguei o bonde andando",
         "Camila Designer: Doidos para o Kabaré kkkk",
-        "Celiete Souza: Tu tá aí e não sabe kkkkk"
+        "Celiete Souza: Tu tá aí e não sabe kkkkk",
+        "Celiete Souza: É hj @92629643563147 👏🏻👏🏻",
+        "Saul: Kkkk, sai do grupo, 104+ mensagem",
+        "Saul: Como acompanha?",
+        "Camila Designer: Amiga vai mandar aquela?"
       ]
     },
     "120363426574906687@g.us": {
@@ -7977,6 +7977,30 @@
         "authorName": "Celiete Souza",
         "text": "Tu tá aí e não sabe kkkkk",
         "timestamp": 1788806910176
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "É hj @92629643563147 👏🏻👏🏻",
+        "timestamp": 1788806926034
+      },
+      {
+        "authorNum": "118515428286715",
+        "authorName": "Saul",
+        "text": "Kkkk, sai do grupo, 104+ mensagem",
+        "timestamp": 1788806931424
+      },
+      {
+        "authorNum": "118515428286715",
+        "authorName": "Saul",
+        "text": "Como acompanha?",
+        "timestamp": 1788806934947
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Amiga vai mandar aquela?",
+        "timestamp": 1788806937342
       }
     ],
     "120363426574906687@g.us": [
@@ -8056,7 +8080,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2239,
+    "120363023757382018@g.us": 2243,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -19855,6 +19879,30 @@
         "text": "Tu tá aí e não sabe kkkkk",
         "pushName": "Celiete Souza",
         "timestamp": 1788806910176
+      },
+      "ACA1EA2CDEA7D9235DF0B92385B4B4F6": {
+        "sender": "129373172711439@lid",
+        "text": "É hj @92629643563147 👏🏻👏🏻",
+        "pushName": "Celiete Souza",
+        "timestamp": 1788806926035
+      },
+      "3AE9932ED677B7709504": {
+        "sender": "118515428286715@lid",
+        "text": "Kkkk, sai do grupo, 104+ mensagem",
+        "pushName": "Saul",
+        "timestamp": 1788806931424
+      },
+      "3AC70E6E400893E905B3": {
+        "sender": "118515428286715@lid",
+        "text": "Como acompanha?",
+        "pushName": "Saul",
+        "timestamp": 1788806934948
+      },
+      "2A86E7FBE644CB01BBFF": {
+        "sender": "92629643563147@lid",
+        "text": "Amiga vai mandar aquela?",
+        "pushName": "Camila Designer",
+        "timestamp": 1788806937343
       }
     },
     "120363426574906687@g.us": {
@@ -20795,7 +20843,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788806910176,
+    "120363023757382018@g.us": 1788806938735,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
