@@ -4502,8 +4502,8 @@
       },
       "53537388122141": {
         "text": 104,
-        "media": 10,
-        "total": 114
+        "media": 11,
+        "total": 115
       },
       "129373172711439": {
         "text": 27,
@@ -5027,8 +5027,8 @@
       },
       "176549663916038": {
         "text": 11,
-        "media": 5,
-        "total": 16
+        "media": 8,
+        "total": 19
       },
       "207610548584554": {
         "text": 1,
@@ -5061,6 +5061,16 @@
         "total": 1
       },
       "119602742882530": {
+        "text": 1,
+        "media": 1,
+        "total": 2
+      },
+      "179328507744298": {
+        "text": 1,
+        "media": 0,
+        "total": 1
+      },
+      "43036243411180": {
         "text": 1,
         "media": 0,
         "total": 1
@@ -5945,7 +5955,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "renan_wesley: Obg",
         "Cristian Sntss: Sim \nAcho lindo esse estilo",
         "Heloisa: Nada e vc ?",
         "Camila Designer: Eu queria que o meu ficasse assim 🥹🥹🥹",
@@ -6444,7 +6453,8 @@
         "😃: Aqui têm solteiras",
         "😃: Resenhas",
         "Heloisa: Kkkk",
-        "Juliano Perlin: Bem vindo q entrou"
+        "Juliano Perlin: Bem vindo q entrou",
+        "junior: Boa tarde grupo"
       ]
     },
     "120363426574906687@g.us": {
@@ -7515,6 +7525,12 @@
         "authorName": "Juliano Perlin",
         "text": "Bem vindo q entrou",
         "timestamp": 1788795477581
+      },
+      {
+        "authorNum": "43036243411180",
+        "authorName": "junior",
+        "text": "Boa tarde grupo",
+        "timestamp": 1788795494873
       }
     ],
     "120363426574906687@g.us": [
@@ -7558,7 +7574,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 54,
-    "120363023757382018@g.us": 1260,
+    "120363023757382018@g.us": 1261,
     "120363426574906687@g.us": 93
   },
   "botDisabled": {
@@ -13403,6 +13419,12 @@
         "text": "Bem vindo q entrou",
         "pushName": "Juliano Perlin",
         "timestamp": 1788795477581
+      },
+      "AC30E678C364BFBF8B8D2C0685743894": {
+        "sender": "43036243411180@lid",
+        "text": "Boa tarde grupo",
+        "pushName": "junior",
+        "timestamp": 1788795494873
       }
     },
     "120363426574906687@g.us": {
@@ -13824,7 +13846,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788795451490,
-    "120363023757382018@g.us": 1788795477581,
+    "120363023757382018@g.us": 1788795510775,
     "120363426574906687@g.us": 1788795383928
   },
   "autoAnimSent": {
