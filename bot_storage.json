@@ -4497,9 +4497,9 @@
         "total": 176
       },
       "166452229341300": {
-        "text": 272,
+        "text": 275,
         "media": 83,
-        "total": 355
+        "total": 358
       },
       "53537388122141": {
         "text": 156,
@@ -4552,9 +4552,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 222,
+        "text": 223,
         "media": 121,
-        "total": 343
+        "total": 344
       },
       "559984624669": {
         "text": 4,
@@ -5237,9 +5237,9 @@
         "total": 8
       },
       "241261818728589": {
-        "text": 13,
+        "text": 14,
         "media": 1,
-        "total": 14
+        "total": 15
       },
       "259588561625272": {
         "text": 1,
@@ -6195,9 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "jaciara: Conta",
-        "jaciara: Eu sou ansiosa",
-        "jaciara: Kkkkk",
         "Camila Designer: Não deu pra ver o peitoral então não sei 🤣🤣🤣",
         "Gabi 💋: Conte",
         "Gleydson Souza: Nem eu, então vc quer sair de SP ou quer que eu me mude pra ai?",
@@ -6694,7 +6691,10 @@
         "Cristian Sntss: Aqui tá um calor do dhabo",
         "Camila Designer: Minha amiga disse que queria te esquentar 🥹",
         "sorveteria: Aqui em Rondônia tá calor também",
-        "Camila Designer: @166452229341300 minha outra amiga disse que você esquenta qualquer lugar 🤣🤣🤣"
+        "Camila Designer: @166452229341300 minha outra amiga disse que você esquenta qualquer lugar 🤣🤣🤣",
+        "Cristian Sntss: Misericórdia",
+        "Camila Designer: Gente mandem calor pra cá, pé congelado 🤣🤣🤣",
+        "sorveteria: Eita olha aí"
       ]
     },
     "120363426574906687@g.us": {
@@ -7695,6 +7695,24 @@
         "authorName": "Camila Designer",
         "text": "@166452229341300 minha outra amiga disse que você esquenta qualquer lugar 🤣🤣🤣",
         "timestamp": 1788809618439
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Misericórdia",
+        "timestamp": 1788809655337
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Gente mandem calor pra cá, pé congelado 🤣🤣🤣",
+        "timestamp": 1788809656323
+      },
+      {
+        "authorNum": "241261818728589",
+        "authorName": "sorveteria",
+        "text": "Eita olha aí",
+        "timestamp": 1788809657307
       }
     ],
     "120363426574906687@g.us": []
@@ -7719,7 +7737,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2482,
+    "120363023757382018@g.us": 2485,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -20976,6 +20994,24 @@
         "text": "@166452229341300 minha outra amiga disse que você esquenta qualquer lugar 🤣🤣🤣",
         "pushName": "Camila Designer",
         "timestamp": 1788809618440
+      },
+      "A5485D19D38B32A49CD6498514B04333": {
+        "sender": "166452229341300@lid",
+        "text": "Misericórdia",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788809655337
+      },
+      "2A6D2476D971ECA65ADC": {
+        "sender": "92629643563147@lid",
+        "text": "Gente mandem calor pra cá, pé congelado 🤣🤣🤣",
+        "pushName": "Camila Designer",
+        "timestamp": 1788809656324
+      },
+      "A58EB4D99244701E7B6F5094FF3A9551": {
+        "sender": "241261818728589@lid",
+        "text": "Eita olha aí",
+        "pushName": "sorveteria",
+        "timestamp": 1788809657308
       }
     },
     "120363426574906687@g.us": {
@@ -21916,7 +21952,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788809618439,
+    "120363023757382018@g.us": 1788809670671,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
