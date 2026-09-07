@@ -4522,9 +4522,9 @@
         "total": 383
       },
       "53537388122141": {
-        "text": 161,
+        "text": 162,
         "media": 11,
-        "total": 172
+        "total": 173
       },
       "129373172711439": {
         "text": 121,
@@ -4552,9 +4552,9 @@
         "total": 2
       },
       "59623457439943": {
-        "text": 21,
+        "text": 22,
         "media": 5,
-        "total": 26
+        "total": 27
       },
       "262182034002040": {
         "text": 71,
@@ -4573,8 +4573,8 @@
       },
       "92629643563147": {
         "text": 247,
-        "media": 132,
-        "total": 379
+        "media": 135,
+        "total": 382
       },
       "559984624669": {
         "text": 4,
@@ -4627,9 +4627,9 @@
         "total": 6
       },
       "254884934881353": {
-        "text": 43,
+        "text": 45,
         "media": 7,
-        "total": 50
+        "total": 52
       },
       "45479878459474": {
         "text": 1,
@@ -6244,10 +6244,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Gabi 💋: Te mando o endereço",
-        "jaciara: @118515428286715 minha amiga mandou perguntar se vc tem preconceito com mulher que já tem filhos ?",
-        "Gleydson Souza: Vou ficar no aguardo",
-        "Saul: Oque é “preconceito”?",
         "Henrique Contri 🤫: E só falar o preço do Danoninho e Dale 🤣🤣",
         "Henrique Contri 🤫: Ele que disse kk",
         "Camila Designer: @118515428286715 minha amiga mandou perguntar se queria dar um passeio em Minas?🫣",
@@ -6743,7 +6739,11 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Demaaaaais amiga\nVocê mesmo, amaaaaa",
         "Camila Designer: Eu faço pelo amor a profissão 😏😏😏",
         "Kaio Mendes: Ksskskskssk \"infelizmente\" né?",
-        "Mikael Santos: Oi"
+        "Mikael Santos: Oi",
+        "Victor: boa, man",
+        "P: que perigo",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Infelizmente 😭😭😭",
+        "P: vcs são guerreiras"
       ]
     },
     "120363426574906687@g.us": {
@@ -7270,6 +7270,30 @@
         "authorName": "Mikael Santos",
         "text": "Oi",
         "timestamp": 1788812899379
+      },
+      {
+        "authorNum": "59623457439943",
+        "authorName": "Victor",
+        "text": "boa, man",
+        "timestamp": 1788812901528
+      },
+      {
+        "authorNum": "254884934881353",
+        "authorName": "P",
+        "text": "que perigo",
+        "timestamp": 1788812906043
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Infelizmente 😭😭😭",
+        "timestamp": 1788812906419
+      },
+      {
+        "authorNum": "254884934881353",
+        "authorName": "P",
+        "text": "vcs são guerreiras",
+        "timestamp": 1788812911177
       }
     ],
     "120363426574906687@g.us": []
@@ -7294,7 +7318,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2613,
+    "120363023757382018@g.us": 2617,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -21397,6 +21421,30 @@
         "text": "Oi",
         "pushName": "Mikael Santos",
         "timestamp": 1788812899380
+      },
+      "AC9952509D546C63A2F2730CACBF4056": {
+        "sender": "59623457439943@lid",
+        "text": "boa, man",
+        "pushName": "Victor",
+        "timestamp": 1788812901528
+      },
+      "3A7AAB2FBC8D2E65DAA1": {
+        "sender": "254884934881353@lid",
+        "text": "que perigo",
+        "pushName": "P",
+        "timestamp": 1788812906043
+      },
+      "AC1ACB9FCF20EE4B6BAFD909BEC911BB": {
+        "sender": "53537388122141@lid",
+        "text": "Infelizmente 😭😭😭",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788812906419
+      },
+      "3A30A1F716D8AB6B6861": {
+        "sender": "254884934881353@lid",
+        "text": "vcs são guerreiras",
+        "pushName": "P",
+        "timestamp": 1788812911177
       }
     },
     "120363426574906687@g.us": {
@@ -22337,7 +22385,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788812899379,
+    "120363023757382018@g.us": 1788812916876,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
