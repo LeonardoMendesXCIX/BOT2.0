@@ -4473,9 +4473,9 @@
         "total": 5
       },
       "108461127897146": {
-        "text": 71,
+        "text": 73,
         "media": 14,
-        "total": 85
+        "total": 87
       },
       "5511927018683": {
         "text": 153,
@@ -4579,8 +4579,8 @@
       },
       "247020967165997": {
         "text": 70,
-        "media": 8,
-        "total": 78
+        "media": 9,
+        "total": 79
       },
       "206966404210884": {
         "text": 2,
@@ -4678,9 +4678,9 @@
         "total": 2
       },
       "59645049761949": {
-        "text": 23,
+        "text": 24,
         "media": 0,
-        "total": 23
+        "total": 24
       },
       "21338118979724": {
         "text": 3,
@@ -4688,9 +4688,9 @@
         "total": 4
       },
       "128145298608376": {
-        "text": 11,
+        "text": 12,
         "media": 1,
-        "total": 12
+        "total": 13
       },
       "193733257609270": {
         "text": 1,
@@ -4701,6 +4701,11 @@
         "text": 2,
         "media": 1,
         "total": 3
+      },
+      "60739813417005": {
+        "text": 1,
+        "media": 0,
+        "total": 1
       }
     },
     "120363426574906687@g.us": {
@@ -4715,9 +4720,9 @@
         "total": 12
       },
       "5511927018683": {
-        "text": 4,
+        "text": 5,
         "media": 0,
-        "total": 4
+        "total": 5
       }
     }
   },
@@ -5966,7 +5971,13 @@
         "xacinaluzqradiaoinferno71: oloco",
         "Leandro: @92629643563147 da um pulo no RH",
         "solteiro: Amo",
-        "Gleydson Souza: Gleydson Souza\n22 anos\nHeterossexual \nAtualmente estou em Goiânia mas moro em águas lindas de GO\nPV liberado"
+        "Gleydson Souza: Gleydson Souza\n22 anos\nHeterossexual \nAtualmente estou em Goiânia mas moro em águas lindas de GO\nPV liberado",
+        "Gabriel Silva 😎: Bom dia",
+        "Gabi 💋: Gabi Souza \nSolteira \nSanto André, abc paulista \n30 anos \n*PV fechado*",
+        "jaciara: Maravilhosa",
+        "solteiro: Sim",
+        "jaciara: Gata",
+        "Amaury: Que isso trem"
       ]
     },
     "120363426574906687@g.us": {
@@ -6006,6 +6017,9 @@
         "Leandro: Foi mal",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: KKKKKKKKKKKKK",
         "Leandro: Esqueci de desativar aqui"
+      ],
+      "07/09/2026": [
+        "Leandro: Digita aqui no grupo !id"
       ]
     }
   },
@@ -6768,9 +6782,52 @@
         "authorName": "Gleydson Souza",
         "text": "Gleydson Souza\n22 anos\nHeterossexual \nAtualmente estou em Goiânia mas moro em águas lindas de GO\nPV liberado",
         "timestamp": 1788787870203
+      },
+      {
+        "authorNum": "60739813417005",
+        "authorName": "Gabriel Silva 😎",
+        "text": "Bom dia",
+        "timestamp": 1788787922889
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Gabi Souza \nSolteira \nSanto André, abc paulista \n30 anos \n*PV fechado*",
+        "timestamp": 1788787933775
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Maravilhosa",
+        "timestamp": 1788787945676
+      },
+      {
+        "authorNum": "128145298608376",
+        "authorName": "solteiro",
+        "text": "Sim",
+        "timestamp": 1788787946075
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Gata",
+        "timestamp": 1788787947560
+      },
+      {
+        "authorNum": "59645049761949",
+        "authorName": "Amaury",
+        "text": "Que isso trem",
+        "timestamp": 1788787950019
       }
     ],
-    "120363426574906687@g.us": []
+    "120363426574906687@g.us": [
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Digita aqui no grupo !id",
+        "timestamp": 1788787947512
+      }
+    ]
   },
   "lastJarvisIntervention": {
     "120363409727467494@g.us": 1786781516987,
@@ -6792,15 +6849,15 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 637,
-    "120363426574906687@g.us": 36
+    "120363023757382018@g.us": 643,
+    "120363426574906687@g.us": 37
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
     "120363409727467494@g.us": false,
     "120363428464897153@g.us": false,
     "120363432018531082@g.us": false,
-    "120363426574906687@g.us": true,
+    "120363426574906687@g.us": false,
     "120363427545094619@g.us": false
   },
   "closedGroups": {
@@ -8824,9 +8881,52 @@
         "text": "Gleydson Souza\n22 anos\nHeterossexual \nAtualmente estou em Goiânia mas moro em águas lindas de GO\nPV liberado",
         "pushName": "Gleydson Souza",
         "timestamp": 1788787870203
+      },
+      "AC7298FC2FD1BD6290B5B1DAF9E52F31": {
+        "sender": "60739813417005@lid",
+        "text": "Bom dia",
+        "pushName": "Gabriel Silva 😎",
+        "timestamp": 1788787922889
+      },
+      "ACD2A7BB88AB0B5AC5D90078885D74E4": {
+        "sender": "247020967165997@lid",
+        "text": "Gabi Souza \nSolteira \nSanto André, abc paulista \n30 anos \n*PV fechado*",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788787933775
+      },
+      "AC30E458714C0EE2DCF6358CDC0524B6": {
+        "sender": "108461127897146@lid",
+        "text": "Maravilhosa",
+        "pushName": "jaciara",
+        "timestamp": 1788787945676
+      },
+      "A524B19C89564E18D8E7BE32A050A627": {
+        "sender": "128145298608376@lid",
+        "text": "Sim",
+        "pushName": "solteiro",
+        "timestamp": 1788787946076
+      },
+      "ACE9242C6C763456DC8DADD15349C5A5": {
+        "sender": "108461127897146@lid",
+        "text": "Gata",
+        "pushName": "jaciara",
+        "timestamp": 1788787947560
+      },
+      "AC6EAD97A889B838FD5068C5C32954C0": {
+        "sender": "59645049761949@lid",
+        "text": "Que isso trem",
+        "pushName": "Amaury",
+        "timestamp": 1788787950019
       }
     },
-    "120363426574906687@g.us": {}
+    "120363426574906687@g.us": {
+      "ACE6A437DC7BDA97F22279C55530460C": {
+        "sender": "54259127210155@lid",
+        "text": "Digita aqui no grupo !id",
+        "pushName": "Leandro",
+        "timestamp": 1788787947512
+      }
+    }
   },
   "bannedWords": {},
   "groupRules": {},
@@ -8920,8 +9020,8 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788787870203,
-    "120363426574906687@g.us": 1788725639102
+    "120363023757382018@g.us": 1788787950019,
+    "120363426574906687@g.us": 1788787947512
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
