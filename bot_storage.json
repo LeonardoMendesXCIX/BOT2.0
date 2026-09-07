@@ -4497,9 +4497,9 @@
         "total": 176
       },
       "166452229341300": {
-        "text": 229,
+        "text": 231,
         "media": 70,
-        "total": 299
+        "total": 301
       },
       "53537388122141": {
         "text": 150,
@@ -4767,9 +4767,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 143,
+        "text": 144,
         "media": 1,
-        "total": 144
+        "total": 145
       },
       "89305909317735": {
         "text": 1,
@@ -5217,9 +5217,9 @@
         "total": 1
       },
       "136296492200083": {
-        "text": 18,
+        "text": 19,
         "media": 7,
-        "total": 25
+        "total": 26
       },
       "252342414905454": {
         "text": 7,
@@ -6183,9 +6183,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Heloisa: Ele foi removido kk",
-        "Felipe: Felipe \n27 anos\nPv liberado",
-        "𝑳𝒂𝒚𝒉🌪🌚: Mds espera",
         "Heloisa: Grupo só tem gente bonita",
         "𝑳𝒂𝒚𝒉🌪🌚: Vou atrás da minha remoção",
         "Heloisa: Tanto os homens quanto as mulheres",
@@ -6682,7 +6679,10 @@
         "Heloisa: Hum",
         "Francisco Silva: Ligeira kkk",
         "Luis Felipe: Kkk",
-        "Heloisa: Que faz de bom aí"
+        "Heloisa: Que faz de bom aí",
+        "Luis Felipe: Nada mal tédio e vc",
+        "Heloisa: Também no tecido",
+        "Cristian Sntss: Ela dando aulas"
       ]
     },
     "120363426574906687@g.us": {
@@ -6850,42 +6850,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Oi pessoas",
-        "timestamp": 1788798904195
-      },
-      {
-        "authorNum": "136296492200083",
-        "authorName": "Luis Felipe",
-        "text": "Oii",
-        "timestamp": 1788798913698
-      },
-      {
-        "authorNum": "29661681713335",
-        "authorName": "Robison 🙏🏻❤️",
-        "text": "@152274357751809 \nVc tbm é maravilhosa com todo respeito",
-        "timestamp": 1788798914292
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "@247020967165997",
-        "timestamp": 1788798914321
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Tá bem ?",
-        "timestamp": 1788798925172
-      },
-      {
-        "authorNum": "106790234628250",
-        "authorName": "Teixeira",
-        "text": "Olá boa tarde Galera\nSou Teixeira \nPortuguês \nTrabalho na Suíça \n45 anos \nDivorciado",
-        "timestamp": 1788798928560
-      },
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
@@ -7611,6 +7575,24 @@
         "authorName": "Heloisa",
         "text": "Que faz de bom aí",
         "timestamp": 1788800697802
+      },
+      {
+        "authorNum": "136296492200083",
+        "authorName": "Luis Felipe",
+        "text": "Nada mal tédio e vc",
+        "timestamp": 1788800708864
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Também no tecido",
+        "timestamp": 1788800725838
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Ela dando aulas",
+        "timestamp": 1788800730891
       }
     ],
     "120363426574906687@g.us": [
@@ -7858,7 +7840,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1667,
+    "120363023757382018@g.us": 1670,
     "120363426574906687@g.us": 144
   },
   "botDisabled": {
@@ -16158,6 +16140,24 @@
         "text": "Que faz de bom aí",
         "pushName": "Heloisa",
         "timestamp": 1788800697803
+      },
+      "3AC8A45E9DE4C6B19CA9": {
+        "sender": "136296492200083@lid",
+        "text": "Nada mal tédio e vc",
+        "pushName": "Luis Felipe",
+        "timestamp": 1788800708864
+      },
+      "AC347B9150B8298F86F894BA68E9134E": {
+        "sender": "152274357751809@lid",
+        "text": "Também no tecido",
+        "pushName": "Heloisa",
+        "timestamp": 1788800725838
+      },
+      "A5746E366EF68FBF4E6A77EBF6FC825A": {
+        "sender": "166452229341300@lid",
+        "text": "Ela dando aulas",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788800730891
       }
     },
     "120363426574906687@g.us": {
@@ -16888,7 +16888,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788800698659,
+    "120363023757382018@g.us": 1788800730891,
     "120363426574906687@g.us": 1788800679780
   },
   "autoAnimSent": {
