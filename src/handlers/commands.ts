@@ -157,6 +157,20 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
     if (isGroup) {
         storage.data.lastGroupActivity[chatId] = Date.now();
         storage.data.autoAnimSent[chatId] = false;
+        const pending = storage.data.pendingMemberTimers?.find(t => t.chatId === chatId && t.memberId === sender);
+        if (pending && !pending.presented) {
+            const hasAge = /\b(1[5-9]|[2-9]\d)\b/.test(text) || /idade[:\s]*\d{2}/i.test(text);
+            const hasLoc = /[a-záéíóúâêôãõç]{3,}\s*[-/,]\s*[A-Z]{2}\b/.test(text)
+                || /[A-Z][a-záéíóúâêôãõç]{2,}\s*[-/]\s*[A-Z]{2}/.test(text);
+            const hasPhoto = !!(msg.message?.imageMessage);
+            const hasName = !!(msg.pushName && !/^\d+$/.test(msg.pushName));
+            if ((hasPhoto || hasName) && hasAge && hasLoc) {
+                pending.presented = true;
+                storage.data.pendingMemberTimers = storage.data.pendingMemberTimers.filter(t => t.id !== pending.id);
+                storage.flagSave();
+                console.log('[ANTI-GHOST] ' + userInfo.nameAndNumber + ' apresentou-se corretamente.');
+            }
+        }
         const senderPn = (msg.key as any).senderPn;
         if (senderPn && sender.includes('@lid')) {
             lidMap[sender.split('@')[0].split(':')[0].replace(/\D/g, '')] = String(senderPn).split('@')[0].split(':')[0].replace(/\D/g, '');
@@ -1394,6 +1408,82 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
         storage.data.exitMsgs[chatId] = { text: customText, setBy: userId, date: new Date().toISOString() };
         storage.flagSave();
         await sock.sendMessage(chatId, { text: '✅ *DESPEDIDA CONFIGURADA*\n\n' + customText }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!membroremov') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        const userRole = parseInt(getUserRole(userId, storage.data.users));
+        if (userRole < 2) { await sock.sendMessage(chatId, { text: '❌ Apenas admins.' }, { quoted: msg }); return; }
+        let customText = text.includes('+') ? text.slice(text.indexOf('+') + 1).trim() : text.slice(firstWord.length).trim();
+        if (customText.toLowerCase() === 'off') {
+            storage.clearRemovalMessage(chatId, 'membroremov');
+            await sock.sendMessage(chatId, { text: '🛑 Mensagem de reentrada desativada.' }, { quoted: msg });
+            return;
+        }
+        if (!customText) {
+            const cur = storage.getRemovalMessage(chatId, 'membroremov');
+            await sock.sendMessage(chatId, { text: '🚫 *MENSAGEM PARA REENTRADA BLOQUEADA*\n\nAtual: ' + (cur || '_nenhuma_') + '\n\n*Use:* `!membroremov + sua mensagem`\n*Variável:* `{membro}`\n*Desativar:* `!membroremov off`' }, { quoted: msg });
+            return;
+        }
+        storage.setRemovalMessage(chatId, 'membroremov', customText);
+        await sock.sendMessage(chatId, { text: '✅ *Mensagem de reentrada definida:*\n\n' + customText }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!timerban') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        const userRole = parseInt(getUserRole(userId, storage.data.users));
+        if (userRole < 2) { await sock.sendMessage(chatId, { text: '❌ Apenas admins.' }, { quoted: msg }); return; }
+        let customText = text.includes('+') ? text.slice(text.indexOf('+') + 1).trim() : text.slice(firstWord.length).trim();
+        if (customText.toLowerCase() === 'off') {
+            storage.clearRemovalMessage(chatId, 'timerban');
+            await sock.sendMessage(chatId, { text: '🛑 Mensagem de timer-ban desativada.' }, { quoted: msg });
+            return;
+        }
+        if (!customText) {
+            const cur = storage.getRemovalMessage(chatId, 'timerban');
+            await sock.sendMessage(chatId, { text: '⏱️ *MENSAGEM AO REMOVER POR TIMER*\n\nAtual: ' + (cur || '_nenhuma_') + '\n\n*Use:* `!timerban + sua mensagem`\n*Variável:* `{membro}`\n*Desativar:* `!timerban off`' }, { quoted: msg });
+            return;
+        }
+        storage.setRemovalMessage(chatId, 'timerban', customText);
+        await sock.sendMessage(chatId, { text: '✅ *Mensagem de timer-ban definida:*\n\n' + customText }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!zerotime') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        const userRole = parseInt(getUserRole(userId, storage.data.users));
+        if (userRole < 2) { await sock.sendMessage(chatId, { text: '❌ Apenas admins.' }, { quoted: msg }); return; }
+        let customText = text.includes('+') ? text.slice(text.indexOf('+') + 1).trim() : text.slice(firstWord.length).trim();
+        if (customText.toLowerCase() === 'off') {
+            storage.clearRemovalMessage(chatId, 'zerotime');
+            await sock.sendMessage(chatId, { text: '🛑 Mensagem de zerotime desativada.' }, { quoted: msg });
+            return;
+        }
+        if (!customText) {
+            const cur = storage.getRemovalMessage(chatId, 'zerotime');
+            await sock.sendMessage(chatId, { text: '⏰ *MENSAGEM ANTES DA REMOÇÃO*\n\nAtual: ' + (cur || '_nenhuma_') + '\n\n*Use:* `!zerotime + sua mensagem`\n*Variável:* `{membro}`\n*Desativar:* `!zerotime off`' }, { quoted: msg });
+            return;
+        }
+        storage.setRemovalMessage(chatId, 'zerotime', customText);
+        await sock.sendMessage(chatId, { text: '✅ *Mensagem de zerotime definida:*\n\n' + customText }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!umminutoremov') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        const userRole = parseInt(getUserRole(userId, storage.data.users));
+        if (userRole < 2) { await sock.sendMessage(chatId, { text: '❌ Apenas admins.' }, { quoted: msg }); return; }
+        let customText = text.includes('+') ? text.slice(text.indexOf('+') + 1).trim() : text.slice(firstWord.length).trim();
+        if (customText.toLowerCase() === 'off') {
+            storage.clearRemovalMessage(chatId, 'umminutoremov');
+            await sock.sendMessage(chatId, { text: '🛑 Mensagem de 1 minuto desativada.' }, { quoted: msg });
+            return;
+        }
+        if (!customText) {
+            const cur = storage.getRemovalMessage(chatId, 'umminutoremov');
+            await sock.sendMessage(chatId, { text: '⚠️ *MENSAGEM DE AVISO 1 MINUTO*\n\nAtual: ' + (cur || '_nenhuma_') + '\n\n*Use:* `!umminutoremov + sua mensagem`\n*Variável:* `{membro}`\n*Desativar:* `!umminutoremov off`' }, { quoted: msg });
+            return;
+        }
+        storage.setRemovalMessage(chatId, 'umminutoremov', customText);
+        await sock.sendMessage(chatId, { text: '✅ *Mensagem de aviso 1 minuto definida:*\n\n' + customText }, { quoted: msg });
         return;
     }
     if (textLower === '!ajuda') {

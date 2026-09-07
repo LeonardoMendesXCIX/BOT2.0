@@ -7,7 +7,7 @@ import pino from 'pino';
 import qrcode from 'qrcode-terminal';
 import cron from 'node-cron';
 import { StorageManager } from './database/storage';
-import { handleCommand, getMessageText } from "./handlers/commands";
+import { handleCommand } from './handlers/commands';
 import { setupGroupEvents } from "./handlers/events";
 import {
   getUserInfo,
@@ -398,12 +398,6 @@ async function startBot() {
     } else if (connection === "open") {
       reconnectDelay = 3000;
       console.log("[SISTEMA] 🎉 BOT DROPHTTP conectado com sucesso!");
-      const botNum = sock.user?.id?.split(":")[0].replace(/\D/g, "") || "";
-      if (botNum && storage.data.users[botNum] !== "5") {
-        storage.data.users[botNum] = "5";
-        storage.flagSave();
-        console.log("[SISTEMA] Número do bot (" + botNum + ") = Super Admin.");
-      }
       if (storage.data.maintenance) {
         console.log(
           "[SISTEMA] ⚠️ Bot em MODO MANUTENÇÃO. Use !botmanutencao off para voltar.",
@@ -480,36 +474,17 @@ async function startBot() {
   setupGroupEvents(sock, storage);
 
   sock.ev.on("messages.upsert", async (m) => {
+    if (m.type !== 'notify') return;
     for (const msg of m.messages) {
-      if (!msg.message || !msg.key.remoteJid) continue;
-      const _txt = (getMessageText(msg) || "").trim();
-      const isSelfCmd = msg.key.fromMe && _txt.startsWith("!");
-      if (msg.key.fromMe && !isSelfCmd) continue;
-      if (m.type !== "notify" && !isSelfCmd) continue;
-      if (isSelfCmd) console.log("[SELF-CMD] detectado:", _txt);
-
+      if (!msg.message || msg.key.fromMe || !msg.key.remoteJid) continue;
       const senderPn = (msg.key as any).senderPn;
-      if (msg.pushName) {
-        rememberProfile(
-          msg.key.participant || msg.key.remoteJid,
-          msg.pushName,
-          senderPn,
-        );
-      }
-
+      if (msg.pushName) rememberProfile(msg.key.participant || msg.key.remoteJid, msg.pushName, senderPn);
       const rawTs: any = (msg as any).messageTimestamp;
-      const tsSec =
-        typeof rawTs === "number"
-          ? rawTs
-          : (rawTs?.low ?? rawTs?.toNumber?.() ?? 0);
+      const tsSec = typeof rawTs === 'number' ? rawTs : (rawTs?.low ?? rawTs?.toNumber?.() ?? 0);
       const msgTime = Number(tsSec) * 1000;
       if (msgTime && Date.now() - msgTime > 10 * 60 * 1000) continue;
-
-      try {
-        await handleCommand(sock, msg, storage);
-      } catch (err: any) {
-        console.error("[ERRO PROCESSANDO MENSAGEM]", err.message);
-      }
+      try { await handleCommand(sock, msg, storage); }
+      catch (err: any) { console.error('[ERRO PROCESSANDO MENSAGEM]', err.message); }
     }
   });
 
@@ -623,6 +598,82 @@ async function startBot() {
       storage.flagSave();
     }
   }, 30000);
+
+  setInterval(async () => {
+    if (!storage.data.pendingMemberTimers || storage.data.pendingMemberTimers.length === 0) return;
+    const now = Date.now();
+    const TEN_MIN = 10 * 60 * 1000;
+    const remaining: typeof storage.data.pendingMemberTimers = [];
+
+    for (const t of storage.data.pendingMemberTimers) {
+      if (storage.isBotDisabled(t.chatId)) continue;
+      if (t.presented) continue;
+
+      const elapsed = now - t.joinedAt;
+      const remainingMs = TEN_MIN - elapsed;
+      const meta = await sockInstance?.groupMetadata(t.chatId).catch(() => null);
+      if (!meta) { remaining.push(t); continue; }
+      const stillIn = meta.participants.some((p: any) => p.id === t.memberId);
+      if (!stillIn) continue;
+
+      const info = getUserInfo(t.memberId);
+
+      if (remainingMs <= 60000 && remainingMs > 59000 && !t.warned1min) {
+        const msg = storage.getRemovalMessage(t.chatId, 'umminutoremov');
+        if (msg) {
+          const txt = msg.replace(/\{membro\}/gi, info.nameAndNumber);
+          await sockInstance?.sendMessage(t.chatId, { text: txt, mentions: [info.jid] }).catch(() => {});
+        }
+        t.warned1min = true;
+      }
+
+      if (remainingMs <= 10000 && remainingMs > 0) {
+        const sec = Math.ceil(remainingMs / 1000);
+        if (t.countdownStarted !== sec) {
+          await sockInstance?.sendMessage(t.chatId, { text: '⏱️ *' + sec + '*' }).catch(() => {});
+          t.countdownStarted = sec;
+        }
+      }
+
+      if (remainingMs <= 0) {
+        if (t.countdownStarted !== 0) {
+          await sockInstance?.sendMessage(t.chatId, { text: '⏱️ *0*' }).catch(() => {});
+          t.countdownStarted = 0;
+        }
+        try {
+          const ztMsg = storage.getRemovalMessage(t.chatId, 'zerotime');
+          if (ztMsg) {
+            await sockInstance?.sendMessage(t.chatId, {
+              text: ztMsg.replace(/\{membro\}/gi, info.nameAndNumber),
+              mentions: [info.jid]
+            });
+          }
+          await sockInstance?.groupParticipantsUpdate(t.chatId, [t.memberId], 'remove');
+          if (info.number) storage.addToRemovalBlacklist(t.chatId, info.number);
+          const tbMsg = storage.getRemovalMessage(t.chatId, 'timerban');
+          if (tbMsg) {
+            await sockInstance?.sendMessage(t.chatId, {
+              text: tbMsg.replace(/\{membro\}/gi, info.nameAndNumber),
+              mentions: [info.jid]
+            });
+          }
+          console.log('[TIMER-BAN] ' + info.nameAndNumber + ' removido por não se apresentar.');
+        } catch (e: any) {
+          console.error('[TIMER-BAN ERRO]', e.message);
+          remaining.push(t);
+          continue;
+        }
+        continue;
+      }
+
+      remaining.push(t);
+    }
+
+    if (remaining.length !== storage.data.pendingMemberTimers.length) {
+      storage.data.pendingMemberTimers = remaining;
+      storage.flagSave();
+    }
+  }, 1000);
 
   setInterval(async () => {
     if (!storage.data.autoAnim) return;
