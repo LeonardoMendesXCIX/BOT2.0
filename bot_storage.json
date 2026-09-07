@@ -4558,9 +4558,9 @@
         "total": 3
       },
       "81991328395336": {
-        "text": 37,
-        "media": 19,
-        "total": 56
+        "text": 38,
+        "media": 20,
+        "total": 58
       },
       "274384656834700": {
         "text": 16,
@@ -4639,8 +4639,8 @@
       },
       "120363023757382018": {
         "text": 1,
-        "media": 3,
-        "total": 4
+        "media": 4,
+        "total": 5
       },
       "86595382292674": {
         "text": 17,
@@ -4678,9 +4678,14 @@
         "total": 2
       },
       "59645049761949": {
-        "text": 10,
+        "text": 11,
         "media": 0,
-        "total": 10
+        "total": 11
+      },
+      "21338118979724": {
+        "text": 0,
+        "media": 1,
+        "total": 1
       }
     },
     "120363426574906687@g.us": {
@@ -5868,7 +5873,11 @@
         "jaciara: Oi maravilhoso",
         "jaciara: 1,55",
         "Gabi 💋: Precisa de massagem e compressa de água morna pra ajuda",
-        "Gabi 💋: Não parece"
+        "Gabi 💋: Não parece",
+        "Bruno Souza: Ola prazer meu nome é Bruno sou de Bc/SC tenho 31 sou hetero",
+        "𝑳𝒂𝒚𝒉🌪🌚: Uma mais baixa que eu",
+        ": Ola prazer meu nome é Bruno sou de Bc/SC tenho 31 sou hetero",
+        "Amaury: Com sapato fico quase com 1,90"
       ]
     },
     "120363426574906687@g.us": {
@@ -6201,6 +6210,30 @@
         "authorName": "Gabi 💋",
         "text": "Não parece",
         "timestamp": 1788787350092
+      },
+      {
+        "authorNum": "21338118979724",
+        "authorName": "Bruno Souza",
+        "text": "Ola prazer meu nome é Bruno sou de Bc/SC tenho 31 sou hetero",
+        "timestamp": 1788787369647
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Uma mais baixa que eu",
+        "timestamp": 1788787369975
+      },
+      {
+        "authorNum": "120363023757382018",
+        "authorName": "",
+        "text": "Ola prazer meu nome é Bruno sou de Bc/SC tenho 31 sou hetero",
+        "timestamp": 1788787370243
+      },
+      {
+        "authorNum": "59645049761949",
+        "authorName": "Amaury",
+        "text": "Com sapato fico quase com 1,90",
+        "timestamp": 1788787371468
       }
     ],
     "120363426574906687@g.us": []
@@ -6225,7 +6258,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 33,
-    "120363023757382018@g.us": 564,
+    "120363023757382018@g.us": 568,
     "120363426574906687@g.us": 36
   },
   "botDisabled": {
@@ -7794,6 +7827,24 @@
         "text": "Não parece",
         "pushName": "Gabi 💋",
         "timestamp": 1788787350092
+      },
+      "AC40E296712A8AF346ACEA42BE81595B": {
+        "sender": "120363023757382018@g.us",
+        "text": "Ola prazer meu nome é Bruno sou de Bc/SC tenho 31 sou hetero",
+        "pushName": "",
+        "timestamp": 1788787370244
+      },
+      "AC5E12D34CFF34A0165ECCF48756CA55": {
+        "sender": "81991328395336@lid",
+        "text": "Uma mais baixa que eu",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1788787369975
+      },
+      "ACC556F196A48853478781BC6DC649C2": {
+        "sender": "59645049761949@lid",
+        "text": "Com sapato fico quase com 1,90",
+        "pushName": "Amaury",
+        "timestamp": 1788787371468
       }
     },
     "120363426574906687@g.us": {}
@@ -7890,7 +7941,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788755502872,
-    "120363023757382018@g.us": 1788787350092,
+    "120363023757382018@g.us": 1788787371468,
     "120363426574906687@g.us": 1788725639102
   },
   "autoAnimSent": {
