@@ -4587,9 +4587,9 @@
         "total": 1
       },
       "182738040713418": {
-        "text": 49,
+        "text": 50,
         "media": 28,
-        "total": 77
+        "total": 78
       },
       "81991328395336": {
         "text": 152,
@@ -5337,9 +5337,9 @@
         "total": 7
       },
       "79728216113177": {
-        "text": 27,
-        "media": 21,
-        "total": 48
+        "text": 28,
+        "media": 22,
+        "total": 50
       }
     },
     "120363426574906687@g.us": {
@@ -6249,8 +6249,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Camila Designer: Doidos para o Kabaré kkkk",
-        "Celiete Souza: Tu tá aí e não sabe kkkkk",
         "Celiete Souza: É hj @92629643563147 👏🏻👏🏻",
         "Saul: Kkkk, sai do grupo, 104+ mensagem",
         "Saul: Como acompanha?",
@@ -6748,7 +6746,9 @@
         "Kaio Mendes: Era só um meme da maquita",
         "Wellington: Mandei errado kkk",
         "Kaio Mendes: Kkkkkk",
-        "Wellington: É assim kkk"
+        "Wellington: É assim kkk",
+        "Wellington: Errado de novo kkk",
+        "Kaio Mendes: Oloko kkk"
       ]
     },
     "120363426574906687@g.us": {
@@ -7223,6 +7223,18 @@
         "authorName": "Wellington",
         "text": "É assim kkk",
         "timestamp": 1788815777168
+      },
+      {
+        "authorNum": "182738040713418",
+        "authorName": "Wellington",
+        "text": "Errado de novo kkk",
+        "timestamp": 1788815792024
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "Oloko kkk",
+        "timestamp": 1788815796696
       }
     ],
     "120363426574906687@g.us": [
@@ -7254,7 +7266,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2737,
+    "120363023757382018@g.us": 2739,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -22107,6 +22119,18 @@
         "text": "É assim kkk",
         "pushName": "Wellington",
         "timestamp": 1788815777168
+      },
+      "AC438E56FCD954B95A3790D323386B6B": {
+        "sender": "182738040713418@lid",
+        "text": "Errado de novo kkk",
+        "pushName": "Wellington",
+        "timestamp": 1788815792024
+      },
+      "AC3DBD0BEA46AC1DACD5CE3D2775A811": {
+        "sender": "79728216113177@lid",
+        "text": "Oloko kkk",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788815796696
       }
     },
     "120363426574906687@g.us": {
@@ -23053,7 +23077,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788815779884,
+    "120363023757382018@g.us": 1788815798758,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
