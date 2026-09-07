@@ -4557,9 +4557,9 @@
         "total": 35
       },
       "262182034002040": {
-        "text": 98,
+        "text": 99,
         "media": 10,
-        "total": 108
+        "total": 109
       },
       "199733712785531": {
         "text": 4,
@@ -4587,9 +4587,9 @@
         "total": 1
       },
       "182738040713418": {
-        "text": 65,
+        "text": 67,
         "media": 47,
-        "total": 112
+        "total": 114
       },
       "81991328395336": {
         "text": 180,
@@ -5347,9 +5347,9 @@
         "total": 1
       },
       "213602262872108": {
-        "text": 3,
+        "text": 4,
         "media": 0,
-        "total": 3
+        "total": 4
       }
     },
     "120363426574906687@g.us": {
@@ -6266,9 +6266,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Felippo: as info",
-        "Felippo: fica uma bagunça",
-        "Juliano Perlin: Eu cliquei. Meu telefone explodiu",
         "Cristian Sntss: Eles usa gb",
         "Cristian Sntss: E gb tem a opção de por no status \nJá peguei informações aqui",
         "Camila Designer: E como está aqui?👀",
@@ -6765,7 +6762,10 @@
         "Kaio Mendes: 🐠🐠🐠🐠🐠",
         "Nathan Ebrenz: Td bem?",
         "Camila Designer: Vc pode abrir a imagem e fechar os olhos 🤣🤣🤣",
-        "Kaio Mendes: Sim mano, e contigo?"
+        "Kaio Mendes: Sim mano, e contigo?",
+        "Nathan Ebrenz: Tbm mn",
+        "Wellington: Aaaah tá bom a carne é fraca",
+        "Wellington: Não dá não"
       ]
     },
     "120363426574906687@g.us": {
@@ -6996,18 +6996,6 @@
     ],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "A minha amiga queria que ele mandasse uma foto",
-        "timestamp": 1788818909400
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "@182738040713418 minha amiga apareceu e perguntou se você vai mandar foto do peitoral no Kabaré",
-        "timestamp": 1788818947146
-      },
       {
         "authorNum": "129373172711439",
         "authorName": "Celiete Souza",
@@ -7289,6 +7277,24 @@
         "authorName": "Kaio Mendes",
         "text": "Sim mano, e contigo?",
         "timestamp": 1788820708876
+      },
+      {
+        "authorNum": "213602262872108",
+        "authorName": "Nathan Ebrenz",
+        "text": "Tbm mn",
+        "timestamp": 1788820742925
+      },
+      {
+        "authorNum": "182738040713418",
+        "authorName": "Wellington",
+        "text": "Aaaah tá bom a carne é fraca",
+        "timestamp": 1788820745218
+      },
+      {
+        "authorNum": "182738040713418",
+        "authorName": "Wellington",
+        "text": "Não dá não",
+        "timestamp": 1788820751679
       }
     ],
     "120363426574906687@g.us": []
@@ -7313,7 +7319,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 486,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 3053,
+    "120363023757382018@g.us": 3056,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -24105,6 +24111,24 @@
         "text": "Sim mano, e contigo?",
         "pushName": "Kaio Mendes",
         "timestamp": 1788820708876
+      },
+      "A5223E5B301F5E3C4B5AF726EEEA5201": {
+        "sender": "213602262872108@lid",
+        "text": "Tbm mn",
+        "pushName": "Nathan Ebrenz",
+        "timestamp": 1788820742925
+      },
+      "ACE06BCCAD54EED2262D33162565896D": {
+        "sender": "182738040713418@lid",
+        "text": "Aaaah tá bom a carne é fraca",
+        "pushName": "Wellington",
+        "timestamp": 1788820745218
+      },
+      "AC6583AE0D431D1A3F12079D0586BC2F": {
+        "sender": "182738040713418@lid",
+        "text": "Não dá não",
+        "pushName": "Wellington",
+        "timestamp": 1788820751680
       }
     },
     "120363426574906687@g.us": {
@@ -25051,7 +25075,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788819771459,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788820708876,
+    "120363023757382018@g.us": 1788820766096,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
