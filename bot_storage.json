@@ -4507,9 +4507,9 @@
         "total": 161
       },
       "129373172711439": {
-        "text": 45,
-        "media": 12,
-        "total": 57
+        "text": 46,
+        "media": 14,
+        "total": 60
       },
       "138306604032063": {
         "text": 11,
@@ -4537,9 +4537,9 @@
         "total": 15
       },
       "262182034002040": {
-        "text": 53,
+        "text": 55,
         "media": 5,
-        "total": 58
+        "total": 60
       },
       "199733712785531": {
         "text": 4,
@@ -4552,9 +4552,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 54,
-        "media": 36,
-        "total": 90
+        "text": 55,
+        "media": 37,
+        "total": 92
       },
       "559984624669": {
         "text": 4,
@@ -4682,9 +4682,9 @@
         "total": 27
       },
       "118515428286715": {
-        "text": 23,
+        "text": 24,
         "media": 2,
-        "total": 25
+        "total": 26
       },
       "193729163993156": {
         "text": 2,
@@ -5142,9 +5142,9 @@
         "total": 1
       },
       "264308512522409": {
-        "text": 52,
+        "text": 53,
         "media": 3,
-        "total": 55
+        "total": 56
       },
       "194377938911429": {
         "text": 9,
@@ -6192,8 +6192,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Juliano Perlin: @53537388122141 vem cà",
-        "Daniel Santos: Boa tarde \nMeu nome é Daniel tenho 25 \nSou de São Paulo",
         "Francisco Silva: Tá certa",
         "Juliano Perlin: Ta certa, tem q fazer isso mesmo",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: !antiflood off",
@@ -6691,7 +6689,9 @@
         "Dany: Nossa, morrendo 🫠",
         "Luis Felipe: Da minha casa",
         "Celiete Souza: Gente fui denovo \nSó entrei pra bisoia mesmo",
-        "Walter: Mas tá dentro do grupo pode ser casado não dá nada não que importante é mandar"
+        "Walter: Mas tá dentro do grupo pode ser casado não dá nada não que importante é mandar",
+        "Saul: Toma minhas tetas",
+        "Henrique Contri 🤫: Tá certo"
       ]
     },
     "120363426574906687@g.us": {
@@ -6915,12 +6915,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "136296492200083",
-        "authorName": "Luis Felipe",
-        "text": "sei kk",
-        "timestamp": 1788800597300
-      },
       {
         "authorNum": "264308512522409",
         "authorName": "Henrique Contri 🤫",
@@ -7892,6 +7886,18 @@
         "authorName": "Walter",
         "text": "Mas tá dentro do grupo pode ser casado não dá nada não que importante é mandar",
         "timestamp": 1788802396109
+      },
+      {
+        "authorNum": "118515428286715",
+        "authorName": "Saul",
+        "text": "Toma minhas tetas",
+        "timestamp": 1788802399868
+      },
+      {
+        "authorNum": "264308512522409",
+        "authorName": "Henrique Contri 🤫",
+        "text": "Tá certo",
+        "timestamp": 1788802423874
       }
     ],
     "120363426574906687@g.us": [
@@ -8007,7 +8013,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 65,
-    "120363023757382018@g.us": 1822,
+    "120363023757382018@g.us": 1824,
     "120363426574906687@g.us": 145
   },
   "botDisabled": {
@@ -17291,6 +17297,18 @@
         "text": "Mas tá dentro do grupo pode ser casado não dá nada não que importante é mandar",
         "pushName": "Walter",
         "timestamp": 1788802396109
+      },
+      "3A7651946B597562D631": {
+        "sender": "118515428286715@lid",
+        "text": "Toma minhas tetas",
+        "pushName": "Saul",
+        "timestamp": 1788802399868
+      },
+      "ACC19497017BB7F487AACD5F5622A225": {
+        "sender": "264308512522409@lid",
+        "text": "Tá certo",
+        "pushName": "Henrique Contri 🤫",
+        "timestamp": 1788802423874
       }
     },
     "120363426574906687@g.us": {
@@ -18027,7 +18045,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788801734019,
-    "120363023757382018@g.us": 1788802396109,
+    "120363023757382018@g.us": 1788802423874,
     "120363426574906687@g.us": 1788801476879
   },
   "autoAnimSent": {
