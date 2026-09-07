@@ -4779,9 +4779,9 @@
         "total": 3
       },
       "262912430080093": {
-        "text": 22,
+        "text": 23,
         "media": 1,
-        "total": 23
+        "total": 24
       },
       "26659415666708": {
         "text": 6,
@@ -4919,9 +4919,9 @@
         "total": 1
       },
       "36645315321925": {
-        "text": 1,
+        "text": 2,
         "media": 0,
-        "total": 1
+        "total": 2
       }
     },
     "120363426574906687@g.us": {
@@ -5792,8 +5792,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "jaciara: Tô achando kkkk",
-        "Amaury: Sério,kkkk",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Bem vindo!!",
         "Gabi 💋: Fale tudo",
         "Camila Designer: Neiva do céu kkkk",
@@ -6291,7 +6289,9 @@
         "Lucas Borges: Oi",
         "Leandro: !ban",
         "K: Pv on pra meninas",
-        "Bruno Aguiar: Respeito 0 desses sem noção"
+        "Bruno Aguiar: Respeito 0 desses sem noção",
+        "Felippo: João Felippo, 24, Ceará, Hétero",
+        "JUNIOR: Hahahaha"
       ]
     },
     "120363426574906687@g.us": {
@@ -6436,18 +6436,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "Na cidade de vocês tá tendo desfile cívico?",
-        "timestamp": 1788791581798
-      },
-      {
-        "authorNum": "226946222944358",
-        "authorName": "Ton",
-        "text": "Kkk  vai voltar a olhar o bom dia e companhia",
-        "timestamp": 1788791591592
-      },
       {
         "authorNum": "5511927018683",
         "authorName": "Leandro",
@@ -7353,6 +7341,18 @@
         "authorName": "Bruno Aguiar",
         "text": "Respeito 0 desses sem noção",
         "timestamp": 1788793331853
+      },
+      {
+        "authorNum": "36645315321925",
+        "authorName": "Felippo",
+        "text": "João Felippo, 24, Ceará, Hétero",
+        "timestamp": 1788793392536
+      },
+      {
+        "authorNum": "262912430080093",
+        "authorName": "JUNIOR",
+        "text": "Hahahaha",
+        "timestamp": 1788793393992
       }
     ],
     "120363426574906687@g.us": [
@@ -7420,7 +7420,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 43,
-    "120363023757382018@g.us": 1095,
+    "120363023757382018@g.us": 1097,
     "120363426574906687@g.us": 90
   },
   "botDisabled": {
@@ -12209,6 +12209,18 @@
         "text": "Respeito 0 desses sem noção",
         "pushName": "Bruno Aguiar",
         "timestamp": 1788793331853
+      },
+      "3A52BA152B840D0BFE1D": {
+        "sender": "36645315321925@lid",
+        "text": "João Felippo, 24, Ceará, Hétero",
+        "pushName": "Felippo",
+        "timestamp": 1788793392536
+      },
+      "3A03DA2DBB81F125D1B9": {
+        "sender": "262912430080093@lid",
+        "text": "Hahahaha",
+        "pushName": "JUNIOR",
+        "timestamp": 1788793393992
       }
     },
     "120363426574906687@g.us": {
@@ -12612,7 +12624,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788793361598,
-    "120363023757382018@g.us": 1788793339207,
+    "120363023757382018@g.us": 1788793393992,
     "120363426574906687@g.us": 1788793079391
   },
   "autoAnimSent": {
