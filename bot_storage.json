@@ -4547,9 +4547,9 @@
         "total": 17
       },
       "262182034002040": {
-        "text": 62,
+        "text": 63,
         "media": 6,
-        "total": 68
+        "total": 69
       },
       "199733712785531": {
         "text": 4,
@@ -5309,6 +5309,11 @@
       "224996676919432": {
         "text": 1,
         "media": 0,
+        "total": 1
+      },
+      "225611041743041": {
+        "text": 0,
+        "media": 1,
         "total": 1
       }
     },
@@ -6214,8 +6219,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Gabi 💋: Hum vamos vê se a pinça fecha uma mão ou dois dedos",
-        "Gabi 💋: Não",
         "Camila Designer: Perdeu",
         "Henrique Contri 🤫: Essa é designer profissional kkk",
         "Henrique Contri 🤫: Pinça de dois dedos é foda 🤣🤣🤣",
@@ -6713,7 +6716,9 @@
         "Cristian Sntss: Não \nPq?",
         "Camila Designer: Bem vinda @221307534876912 !\nSe apresente!",
         "Dany: Oie",
-        "solteiro: Solteira"
+        "solteiro: Solteira",
+        "Mikael Santos: Oi boa tarde meu nome é Mikael tenho 26 anos Moro em Rio grande do Sul uso cadeira de rodas solteiro",
+        "Dany: Porque quando clico na foto do grupo, tem uma imagem falando para entrar em outro grupo porque esse irá fechar"
       ]
     },
     "120363426574906687@g.us": {
@@ -6967,66 +6972,6 @@
     ],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Sério",
-        "timestamp": 1788808871206
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Como assim? Kkk",
-        "timestamp": 1788808875217
-      },
-      {
-        "authorNum": "182738040713418",
-        "authorName": "Wellington",
-        "text": "Deixa pra lá",
-        "timestamp": 1788808884114
-      },
-      {
-        "authorNum": "241261818728589",
-        "authorName": "sorveteria",
-        "text": "Sim",
-        "timestamp": 1788808885519
-      },
-      {
-        "authorNum": "182738040713418",
-        "authorName": "Wellington",
-        "text": "Kkkkkkk",
-        "timestamp": 1788808887992
-      },
-      {
-        "authorNum": "272048228188398",
-        "authorName": "Lailson Nathan.",
-        "text": "Só mandar a foto do uc 👌",
-        "timestamp": 1788808889621
-      },
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "Mandou foto da meia dele furada",
-        "timestamp": 1788808892378
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "@247020967165997 @247020967165997 kkkk",
-        "timestamp": 1788808897395
-      },
-      {
-        "authorNum": "232924968419570",
-        "authorName": "Pedro🫰",
-        "text": "Tu entrou assim foi ?",
-        "timestamp": 1788808904649
-      },
-      {
-        "authorNum": "241261818728589",
-        "authorName": "sorveteria",
-        "text": "Sim",
-        "timestamp": 1788808905359
-      },
       {
         "authorNum": "272048228188398",
         "authorName": "Lailson Nathan.",
@@ -7638,6 +7583,18 @@
         "authorName": "solteiro",
         "text": "Solteira",
         "timestamp": 1788810668806
+      },
+      {
+        "authorNum": "225611041743041",
+        "authorName": "Mikael Santos",
+        "text": "Oi boa tarde meu nome é Mikael tenho 26 anos Moro em Rio grande do Sul uso cadeira de rodas solteiro",
+        "timestamp": 1788810714380
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Porque quando clico na foto do grupo, tem uma imagem falando para entrar em outro grupo porque esse irá fechar",
+        "timestamp": 1788810716757
       }
     ],
     "120363426574906687@g.us": []
@@ -7662,7 +7619,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2522,
+    "120363023757382018@g.us": 2524,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -21216,6 +21173,18 @@
         "text": "Solteira",
         "pushName": "solteiro",
         "timestamp": 1788810668806
+      },
+      "AC283496E76447317C43EEC941DF5CAD": {
+        "sender": "225611041743041@lid",
+        "text": "Oi boa tarde meu nome é Mikael tenho 26 anos Moro em Rio grande do Sul uso cadeira de rodas solteiro",
+        "pushName": "Mikael Santos",
+        "timestamp": 1788810714380
+      },
+      "3AA116A800CE2337B45F": {
+        "sender": "262182034002040@lid",
+        "text": "Porque quando clico na foto do grupo, tem uma imagem falando para entrar em outro grupo porque esse irá fechar",
+        "pushName": "Dany",
+        "timestamp": 1788810716757
       }
     },
     "120363426574906687@g.us": {
@@ -22156,7 +22125,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788810668806,
+    "120363023757382018@g.us": 1788810716757,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
