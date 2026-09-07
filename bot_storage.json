@@ -4465,9 +4465,9 @@
         "total": 2
       },
       "5511927018683": {
-        "text": 31,
+        "text": 32,
         "media": 5,
-        "total": 36
+        "total": 37
       },
       "81991328395336": {
         "text": 8,
@@ -4573,8 +4573,8 @@
       },
       "81991328395336": {
         "text": 127,
-        "media": 35,
-        "total": 162
+        "media": 36,
+        "total": 163
       },
       "274384656834700": {
         "text": 33,
@@ -5956,7 +5956,8 @@
         "Leandro: Deixa ele continuar esperando",
         "Leandro: Bom ele esperar sentado",
         "𝑳𝒂𝒚𝒉🌪🌚: Ele vai morrer esperando",
-        "𝑳𝒂𝒚𝒉🌪🌚: Sabrina me deu o recado dele"
+        "𝑳𝒂𝒚𝒉🌪🌚: Sabrina me deu o recado dele",
+        "Leandro: Ainda bem, por que ele mandou alguma coisa e eu nem abri a conversa pra ver"
       ]
     },
     "120363023757382018@g.us": {
@@ -6884,6 +6885,12 @@
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
         "text": "Sabrina me deu o recado dele",
         "timestamp": 1788801095714
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Ainda bem, por que ele mandou alguma coisa e eu nem abri a conversa pra ver",
+        "timestamp": 1788801442276
       }
     ],
     "120363023757382018@g.us": [
@@ -7924,7 +7931,7 @@
     "120363411043114631@g.us": 20,
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
-    "120363427545094619@g.us": 61,
+    "120363427545094619@g.us": 62,
     "120363023757382018@g.us": 1713,
     "120363426574906687@g.us": 145
   },
@@ -8423,6 +8430,12 @@
         "text": "Sabrina me deu o recado dele",
         "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
         "timestamp": 1788801095714
+      },
+      "AC3D729F5C4C62DF0633BE8F651805EA": {
+        "sender": "54259127210155@lid",
+        "text": "Ainda bem, por que ele mandou alguma coisa e eu nem abri a conversa pra ver",
+        "pushName": "Leandro",
+        "timestamp": 1788801442276
       }
     },
     "120363023757382018@g.us": {
@@ -17266,8 +17279,8 @@
     "120363411043114631@g.us": 1787897464612,
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
-    "120363427545094619@g.us": 1788801171258,
-    "120363023757382018@g.us": 1788801434745,
+    "120363427545094619@g.us": 1788801442276,
+    "120363023757382018@g.us": 1788801439331,
     "120363426574906687@g.us": 1788800965595
   },
   "autoAnimSent": {
