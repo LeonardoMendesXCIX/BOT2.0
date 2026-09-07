@@ -4470,9 +4470,9 @@
         "total": 36
       },
       "81991328395336": {
-        "text": 6,
+        "text": 8,
         "media": 4,
-        "total": 10
+        "total": 12
       }
     },
     "120363023757382018@g.us": {
@@ -4767,9 +4767,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 148,
+        "text": 149,
         "media": 1,
-        "total": 149
+        "total": 150
       },
       "89305909317735": {
         "text": 1,
@@ -5282,9 +5282,9 @@
         "total": 4
       },
       "171214744064197": {
-        "text": 10,
+        "text": 11,
         "media": 2,
-        "total": 12
+        "total": 13
       },
       "198607978410013": {
         "text": 1,
@@ -5954,7 +5954,9 @@
         "Leandro: Eu desativei a remoção automática",
         "Cristian Sntss: Ele tá te esperando no grupo dele",
         "Leandro: Deixa ele continuar esperando",
-        "Leandro: Bom ele esperar sentado"
+        "Leandro: Bom ele esperar sentado",
+        "𝑳𝒂𝒚𝒉🌪🌚: Ele vai morrer esperando",
+        "𝑳𝒂𝒚𝒉🌪🌚: Sabrina me deu o recado dele"
       ]
     },
     "120363023757382018@g.us": {
@@ -6186,8 +6188,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Cristian Sntss: Pior q não consigo adiciona mais ele disse que espera",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Pode me chamar",
         "Heloisa: Povo não sabe fazer o mínimo se identificar e ler as regras do grupo e  o principal seguir",
         "Jacke França: Amg tô restringida",
         "Kaique N.☝🏻🤓: Kaique  31 anos\nSão Paulo  zn",
@@ -6685,7 +6685,9 @@
         "Márcio Bruxel: Aqui amanheceu com 5 graus",
         "Cristian Sntss: Curtindo preguiça",
         "Cristian Sntss: Tive nem ânimo pra ir vê o desfile cívico",
-        "Márcio Bruxel: Hoje é o dia...de se mexer o mínimo"
+        "Márcio Bruxel: Hoje é o dia...de se mexer o mínimo",
+        "Heloisa: Não gosto de pessoas que se acham logo então eu não me acho",
+        "Márcio Bruxel: Nem eu"
       ]
     },
     "120363426574906687@g.us": {
@@ -6870,6 +6872,18 @@
         "authorName": "Leandro",
         "text": "Bom ele esperar sentado",
         "timestamp": 1788801048997
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Ele vai morrer esperando",
+        "timestamp": 1788801080411
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Sabrina me deu o recado dele",
+        "timestamp": 1788801095714
       }
     ],
     "120363023757382018@g.us": [
@@ -7712,6 +7726,18 @@
         "authorName": "Márcio Bruxel",
         "text": "Hoje é o dia...de se mexer o mínimo",
         "timestamp": 1788801068997
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Não gosto de pessoas que se acham logo então eu não me acho",
+        "timestamp": 1788801081545
+      },
+      {
+        "authorNum": "171214744064197",
+        "authorName": "Márcio Bruxel",
+        "text": "Nem eu",
+        "timestamp": 1788801082097
       }
     ],
     "120363426574906687@g.us": [
@@ -7964,8 +7990,8 @@
     "120363411043114631@g.us": 20,
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
-    "120363427545094619@g.us": 59,
-    "120363023757382018@g.us": 1695,
+    "120363427545094619@g.us": 61,
+    "120363023757382018@g.us": 1697,
     "120363426574906687@g.us": 145
   },
   "botDisabled": {
@@ -8451,6 +8477,18 @@
         "text": "Bom ele esperar sentado",
         "pushName": "Leandro",
         "timestamp": 1788801048997
+      },
+      "ACA4BE13E8B56F447654B8C3909375FC": {
+        "sender": "81991328395336@lid",
+        "text": "Ele vai morrer esperando",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1788801080412
+      },
+      "AC0BFDF22A160C04DA573CC15C8D7292": {
+        "sender": "81991328395336@lid",
+        "text": "Sabrina me deu o recado dele",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1788801095714
       }
     },
     "120363023757382018@g.us": {
@@ -16451,6 +16489,18 @@
         "text": "Hoje é o dia...de se mexer o mínimo",
         "pushName": "Márcio Bruxel",
         "timestamp": 1788801068997
+      },
+      "AC767D938FFE1298D8338A878B7B4AEB": {
+        "sender": "152274357751809@lid",
+        "text": "Não gosto de pessoas que se acham logo então eu não me acho",
+        "pushName": "Heloisa",
+        "timestamp": 1788801081545
+      },
+      "AC350E70B0A499A9DF690205D69FAE64": {
+        "sender": "171214744064197@lid",
+        "text": "Nem eu",
+        "pushName": "Márcio Bruxel",
+        "timestamp": 1788801082097
       }
     },
     "120363426574906687@g.us": {
@@ -17186,8 +17236,8 @@
     "120363411043114631@g.us": 1787897464612,
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
-    "120363427545094619@g.us": 1788801048997,
-    "120363023757382018@g.us": 1788801068997,
+    "120363427545094619@g.us": 1788801095714,
+    "120363023757382018@g.us": 1788801082097,
     "120363426574906687@g.us": 1788800965595
   },
   "autoAnimSent": {
