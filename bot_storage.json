@@ -4484,9 +4484,9 @@
         "total": 164
       },
       "166452229341300": {
-        "text": 86,
+        "text": 88,
         "media": 37,
-        "total": 123
+        "total": 125
       },
       "53537388122141": {
         "text": 45,
@@ -5628,8 +5628,6 @@
       ],
       "07/09/2026": [
         "Leandro: !del",
-        "Leandro: !sa\n\n🚨 APRESENTAÇÃO OBRIGATÓRIA!\n\n*📸 Foto de rosto visível + Nome, Idade, Cidade/Estado  orientação sexual*\n\n👤 PV LIBERADO ou 🔒 PV FECHADO — mantenha a etiqueta visível.  \n\n❌ Proibido invadir PV \n",
-        "Leandro: !del",
         "Leandro: !del",
         "Leandro: !del",
         "Leandro: !del",
@@ -6126,7 +6124,9 @@
         "Heloisa: Eu tenho 21 anos solteira",
         "Amaury: Quem aí gosta de onça",
         "Amaury: Já viu uma de perto",
-        "Amaury: Bacana"
+        "Amaury: Bacana",
+        "Cristian Sntss: O @54259127210155",
+        "Cristian Sntss: Foto"
       ]
     },
     "120363426574906687@g.us": {
@@ -6229,30 +6229,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "59645049761949",
-        "authorName": "Amaury",
-        "text": "Deus abençoe",
-        "timestamp": 1788787472913
-      },
-      {
-        "authorNum": "128145298608376",
-        "authorName": "solteiro",
-        "text": "Oie",
-        "timestamp": 1788787489718
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Vai explodir",
-        "timestamp": 1788787497339
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Amém 🙏🏼",
-        "timestamp": 1788787497793
-      },
       {
         "authorNum": "276287176319083",
         "authorName": "renan_wesley",
@@ -7410,6 +7386,18 @@
         "authorName": "Amaury",
         "text": "Bacana",
         "timestamp": 1788789266487
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "O @54259127210155",
+        "timestamp": 1788789286271
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Foto",
+        "timestamp": 1788789292448
       }
     ],
     "120363426574906687@g.us": [
@@ -7507,7 +7495,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 784,
+    "120363023757382018@g.us": 786,
     "120363426574906687@g.us": 48
   },
   "botDisabled": {
@@ -10398,6 +10386,18 @@
         "text": "Bacana",
         "pushName": "Amaury",
         "timestamp": 1788789266489
+      },
+      "A5CF751AB4A170F1F95797A40DACE556": {
+        "sender": "166452229341300@lid",
+        "text": "O @54259127210155",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788789286272
+      },
+      "A52CCA25D43848018039F874DA0E8888": {
+        "sender": "166452229341300@lid",
+        "text": "Foto",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788789292448
       }
     },
     "120363426574906687@g.us": {
@@ -10549,7 +10549,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788789266487,
+    "120363023757382018@g.us": 1788789292448,
     "120363426574906687@g.us": 1788788012627
   },
   "autoAnimSent": {
