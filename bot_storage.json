@@ -4465,9 +4465,9 @@
         "total": 2
       },
       "5511927018683": {
-        "text": 32,
+        "text": 34,
         "media": 5,
-        "total": 37
+        "total": 39
       },
       "81991328395336": {
         "text": 9,
@@ -4572,9 +4572,9 @@
         "total": 9
       },
       "81991328395336": {
-        "text": 134,
+        "text": 135,
         "media": 37,
-        "total": 171
+        "total": 172
       },
       "274384656834700": {
         "text": 33,
@@ -5217,9 +5217,9 @@
         "total": 1
       },
       "136296492200083": {
-        "text": 36,
+        "text": 37,
         "media": 7,
-        "total": 43
+        "total": 44
       },
       "252342414905454": {
         "text": 7,
@@ -5958,7 +5958,9 @@
         "𝑳𝒂𝒚𝒉🌪🌚: Ele vai morrer esperando",
         "𝑳𝒂𝒚𝒉🌪🌚: Sabrina me deu o recado dele",
         "Leandro: Ainda bem, por que ele mandou alguma coisa e eu nem abri a conversa pra ver",
-        "𝑳𝒂𝒚𝒉🌪🌚: Tinha olhado"
+        "𝑳𝒂𝒚𝒉🌪🌚: Tinha olhado",
+        "Leandro: Olhei uma cedo e respondi \"bom dia\"",
+        "Leandro: Só"
       ]
     },
     "120363023757382018@g.us": {
@@ -6190,8 +6192,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Lucas Henrique: Obrigado ☺️",
-        "John 😎: Boa tarde, pessoal!",
         "Heloisa: Boa tarde a todos e todas",
         "😃: Eu",
         "Lucas Leonardo: Bom dia",
@@ -6689,7 +6689,9 @@
         "𝑳𝒂𝒚𝒉🌪🌚: 😹😹😹",
         "Luis Felipe: se já tá me tirando em",
         "𝑳𝒂𝒚𝒉🌪🌚: Bem vindo",
-        "Henrique Contri 🤫: Tô falando que já sabia que vc não era velho rapaz 🤣"
+        "Henrique Contri 🤫: Tô falando que já sabia que vc não era velho rapaz 🤣",
+        "Luis Felipe: hum",
+        "𝑳𝒂𝒚𝒉🌪🌚: @92629643563147"
       ]
     },
     "120363426574906687@g.us": {
@@ -6898,15 +6900,21 @@
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
         "text": "Tinha olhado",
         "timestamp": 1788801564643
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Olhei uma cedo e respondi \"bom dia\"",
+        "timestamp": 1788801731530
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Só",
+        "timestamp": 1788801734019
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "171214744064197",
-        "authorName": "Márcio Bruxel",
-        "text": "Obrigado",
-        "timestamp": 1788799917657
-      },
       {
         "authorNum": "81991328395336",
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
@@ -7626,6 +7634,18 @@
         "authorName": "Henrique Contri 🤫",
         "text": "Tô falando que já sabia que vc não era velho rapaz 🤣",
         "timestamp": 1788801714236
+      },
+      {
+        "authorNum": "136296492200083",
+        "authorName": "Luis Felipe",
+        "text": "hum",
+        "timestamp": 1788801735372
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "@92629643563147",
+        "timestamp": 1788801751179
       }
     ],
     "120363426574906687@g.us": [
@@ -7818,8 +7838,8 @@
     "120363411043114631@g.us": 20,
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
-    "120363427545094619@g.us": 63,
-    "120363023757382018@g.us": 1730,
+    "120363427545094619@g.us": 65,
+    "120363023757382018@g.us": 1732,
     "120363426574906687@g.us": 145
   },
   "botDisabled": {
@@ -8329,6 +8349,18 @@
         "text": "Tinha olhado",
         "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
         "timestamp": 1788801564644
+      },
+      "ACF2A610834A4AF0F183B7E639A5B1CC": {
+        "sender": "54259127210155@lid",
+        "text": "Olhei uma cedo e respondi \"bom dia\"",
+        "pushName": "Leandro",
+        "timestamp": 1788801731530
+      },
+      "AC2ADD58A3BE2DDBC76B50A1D2666D0C": {
+        "sender": "54259127210155@lid",
+        "text": "Só",
+        "pushName": "Leandro",
+        "timestamp": 1788801734020
       }
     },
     "120363023757382018@g.us": {
@@ -16539,6 +16571,18 @@
         "text": "Tô falando que já sabia que vc não era velho rapaz 🤣",
         "pushName": "Henrique Contri 🤫",
         "timestamp": 1788801714236
+      },
+      "3AF3C225D3CC241A5D30": {
+        "sender": "136296492200083@lid",
+        "text": "hum",
+        "pushName": "Luis Felipe",
+        "timestamp": 1788801735372
+      },
+      "AC82742F3B5EA0A3658BE65AB846AF53": {
+        "sender": "81991328395336@lid",
+        "text": "@92629643563147",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1788801751179
       }
     },
     "120363426574906687@g.us": {
@@ -17274,8 +17318,8 @@
     "120363411043114631@g.us": 1787897464612,
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
-    "120363427545094619@g.us": 1788801564643,
-    "120363023757382018@g.us": 1788801718178,
+    "120363427545094619@g.us": 1788801734019,
+    "120363023757382018@g.us": 1788801751179,
     "120363426574906687@g.us": 1788801476879
   },
   "autoAnimSent": {
