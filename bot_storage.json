@@ -5227,9 +5227,9 @@
         "total": 9
       },
       "118528279593092": {
-        "text": 5,
+        "text": 6,
         "media": 1,
-        "total": 6
+        "total": 7
       },
       "183137506173038": {
         "text": 8,
@@ -5247,9 +5247,9 @@
         "total": 1
       },
       "41786424737860": {
-        "text": 3,
+        "text": 4,
         "media": 0,
-        "total": 3
+        "total": 4
       },
       "125211265527997": {
         "text": 1,
@@ -6163,8 +6163,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Bem vindo dw volta kk",
-        "Juliano Perlin: Q mulher linda, bem vinda🤗",
         "Heloisa: Pior que eu tô começando a pensar o mesmo infelizmente",
         "Charles Assis: Charles, 35 anos, Duque de Caxias-RJ\nPV 🔒",
         "Juliano Perlin: Tu vai toma banho peste🤣🤣🤣🤣",
@@ -6662,7 +6660,9 @@
         "Cristian Sntss: Queria ter essa vocação",
         "ds8582834: Você consegue",
         "ds8582834: Só ter disposição",
-        "retroboy: Mulheres de guarulhos?"
+        "retroboy: Mulheres de guarulhos?",
+        "retroboy: Cade?",
+        "𝕰𝖛𝖆𝖓𝖉𝖗𝖔 𝕬𝖑𝖛𝖊𝖘: Feriado e vcs fizeram o que \nEu só fiz dormir  :/ 😂"
       ]
     },
     "120363426574906687@g.us": {
@@ -6793,12 +6793,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "176171622899942",
-        "authorName": "Jefinho",
-        "text": "Oi morena dos olhos lindos",
-        "timestamp": 1788797405874
-      },
       {
         "authorNum": "39857447551026",
         "authorName": "Francisco Silva",
@@ -7728,6 +7722,18 @@
         "authorName": "retroboy",
         "text": "Mulheres de guarulhos?",
         "timestamp": 1788799199330
+      },
+      {
+        "authorNum": "41786424737860",
+        "authorName": "retroboy",
+        "text": "Cade?",
+        "timestamp": 1788799203943
+      },
+      {
+        "authorNum": "118528279593092",
+        "authorName": "𝕰𝖛𝖆𝖓𝖉𝖗𝖔 𝕬𝖑𝖛𝖊𝖘",
+        "text": "Feriado e vcs fizeram o que \nEu só fiz dormir  :/ 😂",
+        "timestamp": 1788799214711
       }
     ],
     "120363426574906687@g.us": [
@@ -7771,7 +7777,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1553,
+    "120363023757382018@g.us": 1555,
     "120363426574906687@g.us": 107
   },
   "botDisabled": {
@@ -15387,6 +15393,18 @@
         "text": "Mulheres de guarulhos?",
         "pushName": "retroboy",
         "timestamp": 1788799199330
+      },
+      "AC83CC1E7DB670EDCFAC0EE8479D6D98": {
+        "sender": "41786424737860@lid",
+        "text": "Cade?",
+        "pushName": "retroboy",
+        "timestamp": 1788799203944
+      },
+      "ACB6360156405EA76C10F2E8EC1D4198": {
+        "sender": "118528279593092@lid",
+        "text": "Feriado e vcs fizeram o que \nEu só fiz dormir  :/ 😂",
+        "pushName": "𝕰𝖛𝖆𝖓𝖉𝖗𝖔 𝕬𝖑𝖛𝖊𝖘",
+        "timestamp": 1788799214711
       }
     },
     "120363426574906687@g.us": {
@@ -15895,7 +15913,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788799199330,
+    "120363023757382018@g.us": 1788799214711,
     "120363426574906687@g.us": 1788798896647
   },
   "autoAnimSent": {
