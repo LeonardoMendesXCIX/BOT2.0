@@ -4489,9 +4489,9 @@
         "total": 147
       },
       "53537388122141": {
-        "text": 47,
+        "text": 48,
         "media": 7,
-        "total": 54
+        "total": 55
       },
       "129373172711439": {
         "text": 27,
@@ -4539,9 +4539,9 @@
         "total": 27
       },
       "92629643563147": {
-        "text": 23,
+        "text": 24,
         "media": 12,
-        "total": 35
+        "total": 36
       },
       "559984624669": {
         "text": 4,
@@ -4689,9 +4689,9 @@
         "total": 4
       },
       "128145298608376": {
-        "text": 30,
+        "text": 31,
         "media": 3,
-        "total": 33
+        "total": 34
       },
       "193733257609270": {
         "text": 2,
@@ -4754,9 +4754,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 23,
+        "text": 25,
         "media": 0,
-        "total": 23
+        "total": 25
       },
       "89305909317735": {
         "text": 1,
@@ -4809,9 +4809,9 @@
         "total": 4
       },
       "219911083266163": {
-        "text": 1,
+        "text": 2,
         "media": 1,
-        "total": 2
+        "total": 3
       },
       "91384186949634": {
         "text": 2,
@@ -5687,12 +5687,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Links do correio anônimo pra vocês! 🙆🏻‍♀️\n@all",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Tô aqui 👀🙆🏻‍♀️",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: @166452229341300",
-        "Claudinho santos Claudinh: Me chamo Cláudinho santos  tenho 40 anos",
-        "Claudinho santos Claudinh: ❤️",
-        "Claudinho santos Claudinh: Bom dia galerinha",
         "Gabi 💋: Seja bem vindo",
         "Gabi 💋: Seja bem vindo",
         "Claudinho santos Claudinh: Obrigada",
@@ -6186,7 +6180,13 @@
         "Heloisa: Ele invadiu meu PV e estava pedindo foto acho que ele era um tarado sem noção kk",
         "Ton: Sou everton moro em pprto alegre 39 anos solteiro sem filhos sou hetero ple pv bom pv vamos nos conhecer trocar ideia no grupo se der quimica agente conversa no pv e marca um encontro mas nao namoro a",
         "Ryan: Kkkkk",
-        "JUNIOR: Kkkkkk"
+        "JUNIOR: Kkkkkk",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Bem vindo",
+        "Heloisa: Se ele ao menos fosse bonito",
+        "John 😎: Obrigado!",
+        "Heloisa: Kkk mentira tô brincando",
+        "solteiro: Ok",
+        "Camila Designer: !fechar"
       ]
     },
     "120363426574906687@g.us": {
@@ -6274,12 +6274,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "21595850563820",
-        "authorName": "IRINEU FREITAS 🫥🤪",
-        "text": "Meu nome e José \n31 amor \nSou de sp",
-        "timestamp": 1788788633836
-      },
       {
         "authorNum": "166452229341300",
         "authorName": "Cristian Sntss",
@@ -7161,6 +7155,42 @@
         "authorName": "JUNIOR",
         "text": "Kkkkkk",
         "timestamp": 1788790408156
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Bem vindo",
+        "timestamp": 1788790413721
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Se ele ao menos fosse bonito",
+        "timestamp": 1788790416707
+      },
+      {
+        "authorNum": "219911083266163",
+        "authorName": "John 😎",
+        "text": "Obrigado!",
+        "timestamp": 1788790420072
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Kkk mentira tô brincando",
+        "timestamp": 1788790420642
+      },
+      {
+        "authorNum": "128145298608376",
+        "authorName": "solteiro",
+        "text": "Ok",
+        "timestamp": 1788790428547
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "!fechar",
+        "timestamp": 1788790439317
       }
     ],
     "120363426574906687@g.us": [
@@ -7282,7 +7312,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 879,
+    "120363023757382018@g.us": 885,
     "120363426574906687@g.us": 64
   },
   "botDisabled": {
@@ -7302,7 +7332,7 @@
     "120363409024805409@g.us": false,
     "120363409496810190@g.us": true,
     "120363428233177583@g.us": true,
-    "120363023757382018@g.us": false,
+    "120363023757382018@g.us": true,
     "120363313059060675@g.us": true
   },
   "queuedWelcomes": {
@@ -10744,6 +10774,42 @@
         "text": "Kkkkkk",
         "pushName": "JUNIOR",
         "timestamp": 1788790408157
+      },
+      "ACB4FB3AD5AEA50651DFDF18296776D7": {
+        "sender": "53537388122141@lid",
+        "text": "Bem vindo",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788790413721
+      },
+      "ACC511BCA2FC8408520FDB90A768B1FD": {
+        "sender": "152274357751809@lid",
+        "text": "Se ele ao menos fosse bonito",
+        "pushName": "Heloisa",
+        "timestamp": 1788790416707
+      },
+      "AC347E1918D3CC75069816C4CDAD6ACB": {
+        "sender": "219911083266163@lid",
+        "text": "Obrigado!",
+        "pushName": "John 😎",
+        "timestamp": 1788790420072
+      },
+      "AC68EEB44576BB2F5C50BCC7E3E43280": {
+        "sender": "152274357751809@lid",
+        "text": "Kkk mentira tô brincando",
+        "pushName": "Heloisa",
+        "timestamp": 1788790420642
+      },
+      "A51226D81FB4CCF663C5E8797E5BC376": {
+        "sender": "128145298608376@lid",
+        "text": "Ok",
+        "pushName": "solteiro",
+        "timestamp": 1788790428547
+      },
+      "2A7C6CF690B3D07717F0": {
+        "sender": "92629643563147@lid",
+        "text": "!fechar",
+        "pushName": "Camila Designer",
+        "timestamp": 1788790439317
       }
     },
     "120363426574906687@g.us": {
@@ -10991,7 +11057,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788790408156,
+    "120363023757382018@g.us": 1788790439317,
     "120363426574906687@g.us": 1788790407001
   },
   "autoAnimSent": {
