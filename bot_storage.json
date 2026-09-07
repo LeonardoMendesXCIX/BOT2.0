@@ -5337,9 +5337,9 @@
         "total": 7
       },
       "79728216113177": {
-        "text": 85,
+        "text": 87,
         "media": 45,
-        "total": 130
+        "total": 132
       },
       "108147461074988": {
         "text": 1,
@@ -6257,8 +6257,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Cristian Sntss: Acesse este link para entrar no meu grupo do WhatsApp: https://chat.whatsapp.com/D17jqByCGTaK66gLbeVao3?s=sw&p=a&mlu=4&ilr=4",
-        "Cristian Sntss: Só abre a noite",
         "Camila Designer: *Link do Kabaré povo*",
         "Cristian Sntss: @all",
         "Gleydson Souza: @todos",
@@ -6756,7 +6754,9 @@
         "Kaio Mendes: Atacante",
         "Celiete Souza: Cheguei",
         "Kaio Mendes: Conversa via figurinha",
-        "Cristian Sntss: E de onde aqui no Maranhão msm?"
+        "Cristian Sntss: E de onde aqui no Maranhão msm?",
+        "Kaio Mendes: Vitória",
+        "Kaio Mendes: E vc?"
       ]
     },
     "120363426574906687@g.us": {
@@ -6980,30 +6980,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "79728216113177",
-        "authorName": "Kaio Mendes",
-        "text": "Tem mais?",
-        "timestamp": 1788816748596
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "Não 😂",
-        "timestamp": 1788816760719
-      },
-      {
-        "authorNum": "79728216113177",
-        "authorName": "Kaio Mendes",
-        "text": "Ksksk q pena",
-        "timestamp": 1788816774134
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "Essas aqui são de umas duas semanas atrás 😂😂",
-        "timestamp": 1788816780383
-      },
       {
         "authorNum": "254884934881353",
         "authorName": "P",
@@ -8059,6 +8035,18 @@
         "authorName": "Cristian Sntss",
         "text": "E de onde aqui no Maranhão msm?",
         "timestamp": 1788818545948
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "Vitória",
+        "timestamp": 1788818580647
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "E vc?",
+        "timestamp": 1788818582793
       }
     ],
     "120363426574906687@g.us": []
@@ -8083,7 +8071,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2994,
+    "120363023757382018@g.us": 2996,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -24495,6 +24483,18 @@
         "text": "E de onde aqui no Maranhão msm?",
         "pushName": "Cristian Sntss",
         "timestamp": 1788818545948
+      },
+      "ACE136E5A75238DA81CB7430F647308F": {
+        "sender": "79728216113177@lid",
+        "text": "Vitória",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788818580647
+      },
+      "AC23B673B06BD3025B7B1995A8856997": {
+        "sender": "79728216113177@lid",
+        "text": "E vc?",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788818582793
       }
     },
     "120363426574906687@g.us": {
@@ -25441,7 +25441,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788818558429,
+    "120363023757382018@g.us": 1788818582793,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
