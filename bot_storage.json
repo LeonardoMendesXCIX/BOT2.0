@@ -4502,9 +4502,9 @@
         "total": 246
       },
       "53537388122141": {
-        "text": 127,
+        "text": 128,
         "media": 11,
-        "total": 138
+        "total": 139
       },
       "129373172711439": {
         "text": 27,
@@ -4767,9 +4767,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 104,
+        "text": 105,
         "media": 1,
-        "total": 105
+        "total": 106
       },
       "89305909317735": {
         "text": 1,
@@ -5142,9 +5142,9 @@
         "total": 1
       },
       "264308512522409": {
-        "text": 8,
+        "text": 9,
         "media": 1,
-        "total": 9
+        "total": 10
       },
       "194377938911429": {
         "text": 2,
@@ -5198,8 +5198,8 @@
       },
       "107442969026587": {
         "text": 5,
-        "media": 2,
-        "total": 7
+        "media": 3,
+        "total": 8
       }
     },
     "120363426574906687@g.us": {
@@ -6083,8 +6083,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Ton: Aqui bao pois to na praia",
-        "𝑳𝒂𝒚𝒉🌪🌚: Aqui tu sabe que é hoje né",
         "John 😎: Por aqui ja acabou.",
         "Barbeiro_01🫡📏✍🏽: @152274357751809 oi",
         "𝑳𝒂𝒚𝒉🌪🌚: O sol torrando a cabeça dos meninos",
@@ -6582,7 +6580,9 @@
         "Jefinho: Que caloram",
         "Henrique Contri 🤫: Tá de boa kkk",
         "Gabi 💋: Morou muito tempo lá deve conhecer a peça",
-        "Jefinho: ❤️❤️"
+        "Jefinho: ❤️❤️",
+        "Henrique Contri 🤫: Eu tô com foto no perfil ?",
+        "Heloisa: Não"
       ]
     },
     "120363426574906687@g.us": {
@@ -6710,30 +6710,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "@all \nLiberado a exposição 🙆🏻‍♀️",
-        "timestamp": 1788796075992
-      },
-      {
-        "authorNum": "176549663916038",
-        "authorName": "😃",
-        "text": "Respeita",
-        "timestamp": 1788796077463
-      },
-      {
-        "authorNum": "176549663916038",
-        "authorName": "😃",
-        "text": "Respeita",
-        "timestamp": 1788796083817
-      },
-      {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "Boa ideia",
-        "timestamp": 1788796086423
-      },
       {
         "authorNum": "247020967165997",
         "authorName": "Gabi 💋",
@@ -7567,6 +7543,18 @@
         "authorName": "Jefinho",
         "text": "❤️❤️",
         "timestamp": 1788797863321
+      },
+      {
+        "authorNum": "264308512522409",
+        "authorName": "Henrique Contri 🤫",
+        "text": "Eu tô com foto no perfil ?",
+        "timestamp": 1788797880731
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Não",
+        "timestamp": 1788797890896
       }
     ],
     "120363426574906687@g.us": [
@@ -7652,7 +7640,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1445,
+    "120363023757382018@g.us": 1447,
     "120363426574906687@g.us": 104
   },
   "botDisabled": {
@@ -14620,6 +14608,18 @@
         "text": "❤️❤️",
         "pushName": "Jefinho",
         "timestamp": 1788797863322
+      },
+      "AC6C79FB71DE0A89C72B49920FF49FA1": {
+        "sender": "264308512522409@lid",
+        "text": "Eu tô com foto no perfil ?",
+        "pushName": "Henrique Contri 🤫",
+        "timestamp": 1788797880731
+      },
+      "ACA97A0153A009EEC644F175A90D2CDA": {
+        "sender": "152274357751809@lid",
+        "text": "Não",
+        "pushName": "Heloisa",
+        "timestamp": 1788797890896
       }
     },
     "120363426574906687@g.us": {
@@ -15110,7 +15110,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788797863321,
+    "120363023757382018@g.us": 1788797890896,
     "120363426574906687@g.us": 1788796664927
   },
   "autoAnimSent": {
