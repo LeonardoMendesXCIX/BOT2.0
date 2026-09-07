@@ -4484,9 +4484,9 @@
         "total": 164
       },
       "166452229341300": {
-        "text": 83,
+        "text": 84,
         "media": 37,
-        "total": 120
+        "total": 121
       },
       "53537388122141": {
         "text": 45,
@@ -4539,9 +4539,9 @@
         "total": 27
       },
       "92629643563147": {
-        "text": 16,
+        "text": 18,
         "media": 11,
-        "total": 27
+        "total": 29
       },
       "559984624669": {
         "text": 4,
@@ -4579,9 +4579,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 105,
+        "text": 106,
         "media": 12,
-        "total": 117
+        "total": 118
       },
       "206966404210884": {
         "text": 2,
@@ -4664,9 +4664,9 @@
         "total": 4
       },
       "276287176319083": {
-        "text": 18,
+        "text": 19,
         "media": 5,
-        "total": 23
+        "total": 24
       },
       "118515428286715": {
         "text": 5,
@@ -4754,9 +4754,9 @@
         "total": 3
       },
       "152274357751809": {
-        "text": 3,
+        "text": 4,
         "media": 0,
-        "total": 3
+        "total": 4
       },
       "89305909317735": {
         "text": 1,
@@ -5622,10 +5622,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Dany: Hahahha",
-        "Dany: Foi só ele ocupar!",
-        "Dany: Por isso vai no esculacho mesmo kkkkkk",
-        "jao: Vz tropa",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Sim!!!",
         "Leandro: A cagada foi minha 😅",
         "jao: Novo aqui tropa",
@@ -6121,7 +6117,11 @@
         "Cristian Sntss: Teu cabelo igual o fã Gabi",
         "Gabi 💋: Lindo o cabelo dele",
         "renan_wesley: Obg",
-        "Cristian Sntss: Sim \nAcho lindo esse estilo"
+        "Cristian Sntss: Sim \nAcho lindo esse estilo",
+        "Heloisa: Nada e vc ?",
+        "Camila Designer: Eu queria que o meu ficasse assim 🥹🥹🥹",
+        "Gabi 💋: Da trabalho",
+        "Camila Designer: Acho muito estiloso"
       ]
     },
     "120363426574906687@g.us": {
@@ -6224,30 +6224,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "59645049761949",
-        "authorName": "Amaury",
-        "text": "Kkk",
-        "timestamp": 1788787155028
-      },
-      {
-        "authorNum": "59645049761949",
-        "authorName": "Amaury",
-        "text": "Hj o clima tá bom pra?",
-        "timestamp": 1788787186444
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Dormir",
-        "timestamp": 1788787196364
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Kkjk",
-        "timestamp": 1788787198723
-      },
       {
         "authorNum": "59645049761949",
         "authorName": "Amaury",
@@ -7573,6 +7549,30 @@
         "authorName": "Cristian Sntss",
         "text": "Sim \nAcho lindo esse estilo",
         "timestamp": 1788788950024
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Nada e vc ?",
+        "timestamp": 1788788971460
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Eu queria que o meu ficasse assim 🥹🥹🥹",
+        "timestamp": 1788788971520
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Da trabalho",
+        "timestamp": 1788788977506
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Acho muito estiloso",
+        "timestamp": 1788788981835
       }
     ],
     "120363426574906687@g.us": [
@@ -7670,7 +7670,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 762,
+    "120363023757382018@g.us": 766,
     "120363426574906687@g.us": 48
   },
   "botDisabled": {
@@ -10429,6 +10429,30 @@
         "text": "Sim \nAcho lindo esse estilo",
         "pushName": "Cristian Sntss",
         "timestamp": 1788788950024
+      },
+      "AC277895FEF0FF152EC20E81A9D24ECA": {
+        "sender": "152274357751809@lid",
+        "text": "Nada e vc ?",
+        "pushName": "Heloisa",
+        "timestamp": 1788788971460
+      },
+      "2A1F23CDDA01BD69D57F": {
+        "sender": "92629643563147@lid",
+        "text": "Eu queria que o meu ficasse assim 🥹🥹🥹",
+        "pushName": "Camila Designer",
+        "timestamp": 1788788971520
+      },
+      "AC804298B575712D9F9E47A95B2D88AD": {
+        "sender": "247020967165997@lid",
+        "text": "Da trabalho",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788788977506
+      },
+      "2AC617FED02F6958BD54": {
+        "sender": "92629643563147@lid",
+        "text": "Acho muito estiloso",
+        "pushName": "Camila Designer",
+        "timestamp": 1788788981836
       }
     },
     "120363426574906687@g.us": {
@@ -10580,7 +10604,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788788950024,
+    "120363023757382018@g.us": 1788788988168,
     "120363426574906687@g.us": 1788788012627
   },
   "autoAnimSent": {
