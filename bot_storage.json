@@ -4496,14 +4496,14 @@
         "total": 169
       },
       "166452229341300": {
-        "text": 153,
-        "media": 49,
-        "total": 202
+        "text": 154,
+        "media": 50,
+        "total": 204
       },
       "53537388122141": {
-        "text": 116,
+        "text": 117,
         "media": 11,
-        "total": 127
+        "total": 128
       },
       "129373172711439": {
         "text": 27,
@@ -5099,6 +5099,11 @@
         "text": 4,
         "media": 2,
         "total": 6
+      },
+      "78203284639856": {
+        "text": 1,
+        "media": 0,
+        "total": 1
       }
     },
     "120363426574906687@g.us": {
@@ -5982,8 +5987,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Amaury: Bora galera",
-        "Amaury: Interagir",
         "Cristian Sntss: Bora bora",
         "𝑳𝒂𝒚𝒉🌪🌚: Teve um caso recente fe uma onça",
         "Amaury: Aqui tem espaço pra risada solta, pra conversa boa, pra brincar, pra debater, pra contar história, pra falar de tudo que a gente gosta e também pra rir um dos outros (sem maldade, claro! 😂). É aquele",
@@ -6481,7 +6484,9 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Lógico kkkkk",
         "ZEPRETINHO: Samuel tenho 30 anos sou stripper e segurança",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Meu Deus... Chega tomei um susto",
-        "junior: Oi Zé boa tarde"
+        "junior: Oi Zé boa tarde",
+        "Cristian Sntss: Já foi de arrasta",
+        "valeriovieira964: Boa tarde"
       ]
     },
     "120363426574906687@g.us": {
@@ -6660,48 +6665,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "81991328395336",
-        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
-        "text": "Amigo e a meia?",
-        "timestamp": 1788794201589
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
-        "text": "Bem vindo",
-        "timestamp": 1788794213701
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
-        "text": "Bem vindo",
-        "timestamp": 1788794220052
-      },
-      {
-        "authorNum": "182738040713418",
-        "authorName": "Wellington",
-        "text": "Poow o bot tá me envergonhando",
-        "timestamp": 1788794221756
-      },
-      {
-        "authorNum": "152274357751809",
-        "authorName": "Heloisa",
-        "text": "Ele foi removido kk",
-        "timestamp": 1788794230624
-      },
-      {
-        "authorNum": "172503183945818",
-        "authorName": "Felipe",
-        "text": "Felipe \n27 anos\nPv liberado",
-        "timestamp": 1788794233653
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
-        "text": "Mds espera",
-        "timestamp": 1788794242887
-      },
       {
         "authorNum": "152274357751809",
         "authorName": "Heloisa",
@@ -7469,6 +7432,18 @@
         "authorName": "junior",
         "text": "Oi Zé boa tarde",
         "timestamp": 1788795995063
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Já foi de arrasta",
+        "timestamp": 1788796033687
+      },
+      {
+        "authorNum": "78203284639856",
+        "authorName": "valeriovieira964",
+        "text": "Boa tarde",
+        "timestamp": 1788796047405
       }
     ],
     "120363426574906687@g.us": [
@@ -7518,7 +7493,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1298,
+    "120363023757382018@g.us": 1300,
     "120363426574906687@g.us": 94
   },
   "botDisabled": {
@@ -13603,6 +13578,18 @@
         "text": "Oi Zé boa tarde",
         "pushName": "junior",
         "timestamp": 1788795995063
+      },
+      "A5D875F34D11141410B9A15B4B6FB581": {
+        "sender": "166452229341300@lid",
+        "text": "Já foi de arrasta",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788796033688
+      },
+      "A55B6552E406A8387BBD43FB8F6819B8": {
+        "sender": "78203284639856@lid",
+        "text": "Boa tarde",
+        "pushName": "valeriovieira964",
+        "timestamp": 1788796047405
       }
     },
     "120363426574906687@g.us": {
@@ -14030,7 +14017,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788796017482,
+    "120363023757382018@g.us": 1788796047405,
     "120363426574906687@g.us": 1788795951719
   },
   "autoAnimSent": {
