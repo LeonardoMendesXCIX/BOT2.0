@@ -5304,9 +5304,9 @@
     },
     "120363426574906687@g.us": {
       "53537388122141": {
-        "text": 62,
+        "text": 63,
         "media": 3,
-        "total": 65
+        "total": 66
       },
       "166452229341300": {
         "text": 32,
@@ -5319,9 +5319,9 @@
         "total": 43
       },
       "92629643563147": {
-        "text": 29,
+        "text": 30,
         "media": 4,
-        "total": 33
+        "total": 34
       },
       "81991328395336": {
         "text": 12,
@@ -6861,7 +6861,9 @@
         "Camila Designer: Se aprovarmos nós que temos que enviar o texto?",
         "Camila Designer: Ou o bot que envia?",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: De apresentação?",
-        "Camila Designer: Sim"
+        "Camila Designer: Sim",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: O bot envia, se ele estiver desativado, ou em manutenção, a gente envia manualmente por enquanto, até o bot voltar",
+        "Camila Designer: Ele está desativado?"
       ]
     }
   },
@@ -8184,6 +8186,18 @@
         "authorName": "Camila Designer",
         "text": "Sim",
         "timestamp": 1788804431703
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "O bot envia, se ele estiver desativado, ou em manutenção, a gente envia manualmente por enquanto, até o bot voltar",
+        "timestamp": 1788804446104
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Ele está desativado?",
+        "timestamp": 1788804463549
       }
     ]
   },
@@ -8208,7 +8222,7 @@
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
     "120363023757382018@g.us": 2026,
-    "120363426574906687@g.us": 162
+    "120363426574906687@g.us": 164
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -19461,6 +19475,18 @@
         "text": "Sim",
         "pushName": "Camila Designer",
         "timestamp": 1788804431703
+      },
+      "ACBCF62B19B50737BC350856B26B94A0": {
+        "sender": "53537388122141@lid",
+        "text": "O bot envia, se ele estiver desativado, ou em manutenção, a gente envia manualmente por enquanto, até o bot voltar",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788804446104
+      },
+      "2A5D521CE180BE968013": {
+        "sender": "92629643563147@lid",
+        "text": "Ele está desativado?",
+        "pushName": "Camila Designer",
+        "timestamp": 1788804463549
       }
     }
   },
@@ -19560,7 +19586,7 @@
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
     "120363023757382018@g.us": 1788804383759,
-    "120363426574906687@g.us": 1788804431703
+    "120363426574906687@g.us": 1788804463549
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
