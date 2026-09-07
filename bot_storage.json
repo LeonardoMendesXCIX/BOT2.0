@@ -4569,9 +4569,9 @@
         "total": 3
       },
       "81991328395336": {
-        "text": 60,
+        "text": 62,
         "media": 22,
-        "total": 82
+        "total": 84
       },
       "274384656834700": {
         "text": 25,
@@ -5813,7 +5813,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Celiete Souza: Precisa de novo ou só novatos",
         "solteiro: Ok",
         "Amaury: Borá galera",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Os novatos amiga",
@@ -6312,7 +6311,8 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Sempre tem um",
         "Heloisa: Noção foi longe",
         "Clayton 🇳🇬: Que frio e este Brasil",
-        "Felippo: e esse doente aqui, cadê o adm"
+        "Felippo: e esse doente aqui, cadê o adm",
+        "𝑳𝒂𝒚𝒉🌪🌚: !ban @235979092836559"
       ]
     },
     "120363426574906687@g.us": {
@@ -7386,6 +7386,12 @@
         "authorName": "Felippo",
         "text": "e esse doente aqui, cadê o adm",
         "timestamp": 1788793528725
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "!ban @235979092836559",
+        "timestamp": 1788793547227
       }
     ],
     "120363426574906687@g.us": [
@@ -7453,7 +7459,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 44,
-    "120363023757382018@g.us": 1107,
+    "120363023757382018@g.us": 1108,
     "120363426574906687@g.us": 90
   },
   "botDisabled": {
@@ -12320,6 +12326,12 @@
         "text": "e esse doente aqui, cadê o adm",
         "pushName": "Felippo",
         "timestamp": 1788793528725
+      },
+      "ACD610D8196F2BE75A50ACEFF62F2FBD": {
+        "sender": "81991328395336@lid",
+        "text": "!ban @235979092836559",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1788793547227
       }
     },
     "120363426574906687@g.us": {
@@ -12723,7 +12735,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788793408313,
-    "120363023757382018@g.us": 1788793528725,
+    "120363023757382018@g.us": 1788793547227,
     "120363426574906687@g.us": 1788793079391
   },
   "autoAnimSent": {
