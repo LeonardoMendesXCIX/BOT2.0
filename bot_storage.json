@@ -5337,9 +5337,9 @@
         "total": 7
       },
       "79728216113177": {
-        "text": 107,
+        "text": 108,
         "media": 46,
-        "total": 153
+        "total": 154
       },
       "108147461074988": {
         "text": 1,
@@ -6266,7 +6266,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Felippo: até no nome do grupo muda",
         "Felippo: as info",
         "Felippo: fica uma bagunça",
         "Juliano Perlin: Eu cliquei. Meu telefone explodiu",
@@ -6765,7 +6764,8 @@
         "Wellington: Eita vdd pede desculpas pra ela aí por mim",
         "Kaio Mendes: 🐠🐠🐠🐠🐠",
         "Nathan Ebrenz: Td bem?",
-        "Camila Designer: Vc pode abrir a imagem e fechar os olhos 🤣🤣🤣"
+        "Camila Designer: Vc pode abrir a imagem e fechar os olhos 🤣🤣🤣",
+        "Kaio Mendes: Sim mano, e contigo?"
       ]
     },
     "120363426574906687@g.us": {
@@ -6996,12 +6996,6 @@
     ],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "Serve pra pessoas tbm",
-        "timestamp": 1788818903834
-      },
       {
         "authorNum": "108461127897146",
         "authorName": "jaciara",
@@ -7289,6 +7283,12 @@
         "authorName": "Camila Designer",
         "text": "Vc pode abrir a imagem e fechar os olhos 🤣🤣🤣",
         "timestamp": 1788820677348
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "Sim mano, e contigo?",
+        "timestamp": 1788820708876
       }
     ],
     "120363426574906687@g.us": []
@@ -7313,7 +7313,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 486,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 3052,
+    "120363023757382018@g.us": 3053,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -24099,6 +24099,12 @@
         "text": "Vc pode abrir a imagem e fechar os olhos 🤣🤣🤣",
         "pushName": "Camila Designer",
         "timestamp": 1788820677348
+      },
+      "AC11EFB22726FDA8BE68FDC4DA57EBAF": {
+        "sender": "79728216113177@lid",
+        "text": "Sim mano, e contigo?",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788820708876
       }
     },
     "120363426574906687@g.us": {
@@ -25045,7 +25051,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788819771459,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788820677348,
+    "120363023757382018@g.us": 1788820708876,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
