@@ -5345,6 +5345,11 @@
         "text": 1,
         "media": 0,
         "total": 1
+      },
+      "213602262872108": {
+        "text": 2,
+        "media": 0,
+        "total": 2
       }
     },
     "120363426574906687@g.us": {
@@ -6258,8 +6263,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Felippo: quer vim não? me ajudar",
-        "solteiro: Oiii",
         "Camila Designer: Esperando me buscar ué kkk",
         "sorveteria: 😳",
         "Felippo: o meu amor, vou lhe buscar mas a gente só bebe mais tarde",
@@ -6757,7 +6760,9 @@
         "Wellington: Faz isso não tem valor sentimental kkk",
         "Leandro: Acesse este link para entrar no meu grupo do WhatsApp: https://chat.whatsapp.com/D17jqByCGTaK66gLbeVao3?s=sw&p=a&mlu=4",
         "Celiete Souza: Não admito cueca furada",
-        "Celiete Souza: 🤭🤭🤭"
+        "Celiete Souza: 🤭🤭🤭",
+        "Nathan Ebrenz: Oi",
+        "Nathan Ebrenz: Boa noite"
       ]
     },
     "120363426574906687@g.us": {
@@ -6969,42 +6974,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "@54259127210155  leva tua mullher pra se congela aí",
-        "timestamp": 1788817850983
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Eitaaa lasqueira viu",
-        "timestamp": 1788817855940
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Kkkkkk",
-        "timestamp": 1788817857799
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Quem perde tempo é relógio sem pilha meu amigo",
-        "timestamp": 1788817870856
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Tá certoooo",
-        "timestamp": 1788817878692
-      },
-      {
-        "authorNum": "118515428286715",
-        "authorName": "Saul",
-        "text": "Acho bom não abrir o kbare hj, nada tá propício aqui nesse clima frio",
-        "timestamp": 1788817886442
-      },
       {
         "authorNum": "108461127897146",
         "authorName": "jaciara",
@@ -7628,6 +7597,18 @@
         "authorName": "Celiete Souza",
         "text": "🤭🤭🤭",
         "timestamp": 1788819644462
+      },
+      {
+        "authorNum": "213602262872108",
+        "authorName": "Nathan Ebrenz",
+        "text": "Oi",
+        "timestamp": 1788819692575
+      },
+      {
+        "authorNum": "213602262872108",
+        "authorName": "Nathan Ebrenz",
+        "text": "Boa noite",
+        "timestamp": 1788819693063
       }
     ],
     "120363426574906687@g.us": []
@@ -7652,7 +7633,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 3013,
+    "120363023757382018@g.us": 3015,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -24185,6 +24166,18 @@
         "text": "🤭🤭🤭",
         "pushName": "Celiete Souza",
         "timestamp": 1788819644462
+      },
+      "A5B7113F9A024570134783BD9F78A500": {
+        "sender": "213602262872108@lid",
+        "text": "Oi",
+        "pushName": "Nathan Ebrenz",
+        "timestamp": 1788819692575
+      },
+      "A5DF1492706E0EFD92990F97314261E1": {
+        "sender": "213602262872108@lid",
+        "text": "Boa noite",
+        "pushName": "Nathan Ebrenz",
+        "timestamp": 1788819693064
       }
     },
     "120363426574906687@g.us": {
@@ -25131,7 +25124,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788819644462,
+    "120363023757382018@g.us": 1788819693063,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
