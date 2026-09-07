@@ -4548,9 +4548,9 @@
         "total": 24
       },
       "262182034002040": {
-        "text": 70,
+        "text": 71,
         "media": 8,
-        "total": 78
+        "total": 79
       },
       "199733712785531": {
         "text": 4,
@@ -4579,8 +4579,8 @@
       },
       "182738040713418": {
         "text": 41,
-        "media": 9,
-        "total": 50
+        "media": 10,
+        "total": 51
       },
       "81991328395336": {
         "text": 141,
@@ -5313,9 +5313,9 @@
         "total": 1
       },
       "225611041743041": {
-        "text": 0,
+        "text": 2,
         "media": 1,
-        "total": 1
+        "total": 3
       },
       "554891353479": {
         "text": 2,
@@ -6230,8 +6230,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Gleydson Souza: Eita",
-        "Henrique Contri 🤫: Relaxa tem pras duas 😉",
         "Gabi 💋: Eu ia falar isso",
         "José Vitor: Vixe",
         "José Vitor: Maria",
@@ -6729,7 +6727,9 @@
         "Victor: deve ter feito isso em uma porrada de grupo",
         "Cristian Sntss: Verdade",
         "Wellington: Pix",
-        "Wellington: 😅😅😅"
+        "Wellington: 😅😅😅",
+        "Mikael Santos: Obrigado",
+        "Mikael Santos: Obrigado"
       ]
     },
     "120363426574906687@g.us": {
@@ -7528,6 +7528,18 @@
         "authorName": "Wellington",
         "text": "😅😅😅",
         "timestamp": 1788811711616
+      },
+      {
+        "authorNum": "225611041743041",
+        "authorName": "Mikael Santos",
+        "text": "Obrigado",
+        "timestamp": 1788811730428
+      },
+      {
+        "authorNum": "225611041743041",
+        "authorName": "Mikael Santos",
+        "text": "Obrigado",
+        "timestamp": 1788811740174
       }
     ],
     "120363426574906687@g.us": []
@@ -7552,7 +7564,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2582,
+    "120363023757382018@g.us": 2584,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -21469,6 +21481,18 @@
         "text": "😅😅😅",
         "pushName": "Wellington",
         "timestamp": 1788811711616
+      },
+      "ACF90C1EB8419F208A9DE1BBE917CF1F": {
+        "sender": "225611041743041@lid",
+        "text": "Obrigado",
+        "pushName": "Mikael Santos",
+        "timestamp": 1788811730428
+      },
+      "ACEF869B08F632466F27DCDD889BF07D": {
+        "sender": "225611041743041@lid",
+        "text": "Obrigado",
+        "pushName": "Mikael Santos",
+        "timestamp": 1788811740174
       }
     },
     "120363426574906687@g.us": {
@@ -22409,7 +22433,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788811716298,
+    "120363023757382018@g.us": 1788811756298,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
