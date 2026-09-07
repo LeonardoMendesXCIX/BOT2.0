@@ -4487,9 +4487,9 @@
         "total": 5
       },
       "108461127897146": {
-        "text": 151,
+        "text": 152,
         "media": 37,
-        "total": 188
+        "total": 189
       },
       "5511927018683": {
         "text": 164,
@@ -4507,9 +4507,9 @@
         "total": 167
       },
       "129373172711439": {
-        "text": 74,
-        "media": 19,
-        "total": 93
+        "text": 76,
+        "media": 20,
+        "total": 96
       },
       "138306604032063": {
         "text": 11,
@@ -4552,9 +4552,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 174,
-        "media": 98,
-        "total": 272
+        "text": 175,
+        "media": 100,
+        "total": 275
       },
       "559984624669": {
         "text": 4,
@@ -4607,9 +4607,9 @@
         "total": 6
       },
       "254884934881353": {
-        "text": 35,
+        "text": 36,
         "media": 2,
-        "total": 37
+        "total": 38
       },
       "45479878459474": {
         "text": 1,
@@ -4682,9 +4682,9 @@
         "total": 27
       },
       "118515428286715": {
-        "text": 75,
+        "text": 76,
         "media": 5,
-        "total": 80
+        "total": 81
       },
       "193729163993156": {
         "text": 2,
@@ -5142,9 +5142,9 @@
         "total": 1
       },
       "264308512522409": {
-        "text": 107,
+        "text": 108,
         "media": 4,
-        "total": 111
+        "total": 112
       },
       "194377938911429": {
         "text": 9,
@@ -6195,11 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Luis Felipe: Boa tarde",
-        "Celiete Souza: Tudo bem com vocês",
-        "Heloisa: Lkk",
-        "Celiete Souza: Manda um pedaço por favor",
-        "Camila Designer: Hummm",
         "Henrique Contri 🤫: Rapaz vou mandar lá no teu PV brincadeira 🤣",
         "Camila Designer: Prova aqui 😌😌😌",
         "Saul: Kkkkkkkk, ela sempre aparece com algo aleatório",
@@ -6694,7 +6689,12 @@
         "P: Tá na melhor idade",
         "Henrique Contri 🤫: É dessas que eu gosto 😏",
         "P: digo",
-        "Camila Designer: Afs"
+        "Camila Designer: Afs",
+        "jaciara: Maravilhosaaaaa",
+        "P: que beleza",
+        "Camila Designer: Ladra kkk",
+        "Henrique Contri 🤫: Oq foi ? Kk",
+        "Saul: Posso brincar?"
       ]
     },
     "120363426574906687@g.us": {
@@ -6898,24 +6898,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Queria um bombom cravejado",
-        "timestamp": 1788805509627
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "@118515428286715 cê tem quantos anos ?",
-        "timestamp": 1788805516708
-      },
-      {
-        "authorNum": "264308512522409",
-        "authorName": "Henrique Contri 🤫",
-        "text": "Mais tarde te dou 🤣🤣",
-        "timestamp": 1788805526456
-      },
       {
         "authorNum": "118515428286715",
         "authorName": "Saul",
@@ -8043,6 +8025,36 @@
         "authorName": "Camila Designer",
         "text": "Afs",
         "timestamp": 1788807300971
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Maravilhosaaaaa",
+        "timestamp": 1788807305200
+      },
+      {
+        "authorNum": "254884934881353",
+        "authorName": "P",
+        "text": "que beleza",
+        "timestamp": 1788807305918
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Ladra kkk",
+        "timestamp": 1788807322567
+      },
+      {
+        "authorNum": "264308512522409",
+        "authorName": "Henrique Contri 🤫",
+        "text": "Oq foi ? Kk",
+        "timestamp": 1788807331016
+      },
+      {
+        "authorNum": "118515428286715",
+        "authorName": "Saul",
+        "text": "Posso brincar?",
+        "timestamp": 1788807331042
       }
     ],
     "120363426574906687@g.us": [
@@ -8086,7 +8098,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2285,
+    "120363023757382018@g.us": 2290,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -20161,6 +20173,36 @@
         "text": "Afs",
         "pushName": "Camila Designer",
         "timestamp": 1788807300971
+      },
+      "AC286D3798650B15D627837060806996": {
+        "sender": "108461127897146@lid",
+        "text": "Maravilhosaaaaa",
+        "pushName": "jaciara",
+        "timestamp": 1788807305200
+      },
+      "3A2E23A84F3D678223CF": {
+        "sender": "254884934881353@lid",
+        "text": "que beleza",
+        "pushName": "P",
+        "timestamp": 1788807305918
+      },
+      "2A8502692A95D4D4AC07": {
+        "sender": "92629643563147@lid",
+        "text": "Ladra kkk",
+        "pushName": "Camila Designer",
+        "timestamp": 1788807322568
+      },
+      "AC2F5067F64CA046F0E14F6E3387B2A1": {
+        "sender": "264308512522409@lid",
+        "text": "Oq foi ? Kk",
+        "pushName": "Henrique Contri 🤫",
+        "timestamp": 1788807331016
+      },
+      "3A110E1633C654D38381": {
+        "sender": "118515428286715@lid",
+        "text": "Posso brincar?",
+        "pushName": "Saul",
+        "timestamp": 1788807331043
       }
     },
     "120363426574906687@g.us": {
@@ -21101,7 +21143,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788807300971,
+    "120363023757382018@g.us": 1788807331042,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
