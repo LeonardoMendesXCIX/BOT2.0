@@ -4497,9 +4497,9 @@
         "total": 176
       },
       "166452229341300": {
-        "text": 271,
+        "text": 272,
         "media": 83,
-        "total": 354
+        "total": 355
       },
       "53537388122141": {
         "text": 156,
@@ -4552,9 +4552,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 220,
+        "text": 221,
         "media": 121,
-        "total": 341
+        "total": 342
       },
       "559984624669": {
         "text": 4,
@@ -6195,8 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Felippo: gostou aí? kkk",
-        "Gabi 💋: Sim conte",
         "Camila Designer: Adivinhei somente",
         "jaciara: Amigaaaaaa",
         "jaciara: Conta",
@@ -6694,7 +6692,9 @@
         "Wellington: Tá combinado kkk",
         "sorveteria: Ta fazendo frio aí",
         "Wellington: E não é pouco kkkk",
-        "Camila Designer: Hoje aqui está friozinho"
+        "Camila Designer: Hoje aqui está friozinho",
+        "Cristian Sntss: Aqui tá um calor do dhabo",
+        "Camila Designer: Minha amiga disse que queria te esquentar 🥹"
       ]
     },
     "120363426574906687@g.us": {
@@ -7671,6 +7671,18 @@
         "authorName": "Camila Designer",
         "text": "Hoje aqui está friozinho",
         "timestamp": 1788809518343
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Aqui tá um calor do dhabo",
+        "timestamp": 1788809524626
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Minha amiga disse que queria te esquentar 🥹",
+        "timestamp": 1788809546587
       }
     ],
     "120363426574906687@g.us": []
@@ -7695,7 +7707,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2478,
+    "120363023757382018@g.us": 2480,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -20928,6 +20940,18 @@
         "text": "Hoje aqui está friozinho",
         "pushName": "Camila Designer",
         "timestamp": 1788809518344
+      },
+      "A5A589E3002652FB482DD9FED5FB90A8": {
+        "sender": "166452229341300@lid",
+        "text": "Aqui tá um calor do dhabo",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788809524627
+      },
+      "2A492126074FBD891D3D": {
+        "sender": "92629643563147@lid",
+        "text": "Minha amiga disse que queria te esquentar 🥹",
+        "pushName": "Camila Designer",
+        "timestamp": 1788809546588
       }
     },
     "120363426574906687@g.us": {
@@ -21868,7 +21892,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788809518343,
+    "120363023757382018@g.us": 1788809546587,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
