@@ -4517,9 +4517,9 @@
         "total": 207
       },
       "166452229341300": {
-        "text": 310,
+        "text": 311,
         "media": 94,
-        "total": 404
+        "total": 405
       },
       "53537388122141": {
         "text": 190,
@@ -4572,9 +4572,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 255,
-        "media": 139,
-        "total": 394
+        "text": 256,
+        "media": 141,
+        "total": 397
       },
       "559984624669": {
         "text": 4,
@@ -4588,8 +4588,8 @@
       },
       "182738040713418": {
         "text": 47,
-        "media": 19,
-        "total": 66
+        "media": 20,
+        "total": 67
       },
       "81991328395336": {
         "text": 151,
@@ -5337,9 +5337,9 @@
         "total": 7
       },
       "79728216113177": {
-        "text": 20,
+        "text": 21,
         "media": 13,
-        "total": 33
+        "total": 34
       }
     },
     "120363426574906687@g.us": {
@@ -6248,9 +6248,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Henrique Contri 🤫: Tão tabom kk",
-        "P: pra não estragar o padrão",
-        "Camila Designer: 🤣🤣🤣🤣",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Ah, bem vindo",
         "Camila Designer: Que pena quem gostava de novinho saiu",
         "Camila Designer: Bem vindo ❤️",
@@ -6747,7 +6744,10 @@
         "Camila Designer: Agora está tudo explicado",
         "Robison 🙏🏻❤️: Foi uma amiga q fez p mim",
         "Camila Designer: Legal!",
-        "Camila Designer: Para?"
+        "Camila Designer: Para?",
+        "Camila Designer: Oxi",
+        "Kaio Mendes: Essa foi linda",
+        "Cristian Sntss: Paz de Deus irmão 🫡"
       ]
     },
     "120363426574906687@g.us": {
@@ -6980,12 +6980,6 @@
       {
         "authorNum": "5511927018683",
         "authorName": "Leandro",
-        "text": "Tu viu que salseiro??",
-        "timestamp": 1788813685089
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
         "text": "!del",
         "timestamp": 1788813734779
       },
@@ -7192,6 +7186,24 @@
         "authorName": "Camila Designer",
         "text": "Para?",
         "timestamp": 1788815415154
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Oxi",
+        "timestamp": 1788815492836
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "Essa foi linda",
+        "timestamp": 1788815506036
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Paz de Deus irmão 🫡",
+        "timestamp": 1788815510126
       }
     ],
     "120363426574906687@g.us": [
@@ -7223,7 +7235,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2719,
+    "120363023757382018@g.us": 2722,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -21962,6 +21974,24 @@
         "text": "Para?",
         "pushName": "Camila Designer",
         "timestamp": 1788815415155
+      },
+      "2AA97E762771102DC5C2": {
+        "sender": "92629643563147@lid",
+        "text": "Oxi",
+        "pushName": "Camila Designer",
+        "timestamp": 1788815492836
+      },
+      "AC0A862D3BC8C6DC66ED16BBD9E3807B": {
+        "sender": "79728216113177@lid",
+        "text": "Essa foi linda",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788815506036
+      },
+      "A51DB92F307999A5D1C41AC100AD847B": {
+        "sender": "166452229341300@lid",
+        "text": "Paz de Deus irmão 🫡",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788815510126
       }
     },
     "120363426574906687@g.us": {
@@ -22908,7 +22938,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788815481106,
+    "120363023757382018@g.us": 1788815510126,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
