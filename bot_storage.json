@@ -4484,9 +4484,9 @@
         "total": 164
       },
       "166452229341300": {
-        "text": 102,
+        "text": 103,
         "media": 39,
-        "total": 141
+        "total": 142
       },
       "53537388122141": {
         "text": 47,
@@ -4689,9 +4689,9 @@
         "total": 4
       },
       "128145298608376": {
-        "text": 29,
+        "text": 30,
         "media": 3,
-        "total": 32
+        "total": 33
       },
       "193733257609270": {
         "text": 2,
@@ -4804,9 +4804,9 @@
         "total": 1
       },
       "168814327128263": {
-        "text": 2,
+        "text": 3,
         "media": 0,
-        "total": 2
+        "total": 3
       },
       "219911083266163": {
         "text": 0,
@@ -4814,9 +4814,9 @@
         "total": 1
       },
       "91384186949634": {
-        "text": 1,
+        "text": 2,
         "media": 0,
-        "total": 1
+        "total": 2
       }
     },
     "120363426574906687@g.us": {
@@ -4826,9 +4826,9 @@
         "total": 26
       },
       "166452229341300": {
-        "text": 10,
+        "text": 11,
         "media": 3,
-        "total": 13
+        "total": 14
       },
       "5511927018683": {
         "text": 16,
@@ -5682,9 +5682,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Juliano Perlin: Bom dia fofa🤗",
-        "Juliano Perlin: Bom dia outra fofa🤗",
-        "Juliano Perlin: 🥰🤣🤣🤣🤣🤣",
         "jaciara: Bom diaaaa coração ❤️",
         "Cristian Sntss: Bom diaaa",
         "Cristian Sntss: Aqui o sol tá mais quente que ontem",
@@ -6181,7 +6178,10 @@
         "Amaury: Alimentando minha onça",
         "Heloisa: Um pouco de tédio",
         "Cristian Sntss: Aqui vai ser feriado hoje e amanhã",
-        "irlley gabryel: Não kkkk"
+        "irlley gabryel: Não kkkk",
+        "Cristian Sntss: Kkkkk",
+        "Maron: Tb tô tomando banho aqui agora",
+        "irlley gabryel: Nada e vc"
       ]
     },
     "120363426574906687@g.us": {
@@ -6245,7 +6245,8 @@
         "Cristian Sntss: Tudo certo",
         "Camila Designer: Gente o cara invadiu o Pv da menina que entrou 👀",
         "Camila Designer: E me chamou também",
-        "Camila Designer: Kkkk"
+        "Camila Designer: Kkkk",
+        "Cristian Sntss: Remove"
       ]
     }
   },
@@ -6264,12 +6265,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "128145298608376",
-        "authorName": "solteiro",
-        "text": "Sim eu nao",
-        "timestamp": 1788788446210
-      },
       {
         "authorNum": "247020967165997",
         "authorName": "Gabi 💋",
@@ -7115,6 +7110,24 @@
         "authorName": "irlley gabryel",
         "text": "Não kkkk",
         "timestamp": 1788790245224
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Kkkkk",
+        "timestamp": 1788790254920
+      },
+      {
+        "authorNum": "91384186949634",
+        "authorName": "Maron",
+        "text": "Tb tô tomando banho aqui agora",
+        "timestamp": 1788790260020
+      },
+      {
+        "authorNum": "168814327128263",
+        "authorName": "irlley gabryel",
+        "text": "Nada e vc",
+        "timestamp": 1788790266781
       }
     ],
     "120363426574906687@g.us": [
@@ -7183,6 +7196,12 @@
         "authorName": "Camila Designer",
         "text": "Kkkk",
         "timestamp": 1788790163109
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Remove",
+        "timestamp": 1788790247164
       }
     ]
   },
@@ -7206,8 +7225,8 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 862,
-    "120363426574906687@g.us": 59
+    "120363023757382018@g.us": 865,
+    "120363426574906687@g.us": 60
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -10565,6 +10584,24 @@
         "text": "Não kkkk",
         "pushName": "irlley gabryel",
         "timestamp": 1788790245224
+      },
+      "A5652FDE840417340C7F682BB5B0DF74": {
+        "sender": "166452229341300@lid",
+        "text": "Kkkkk",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788790254920
+      },
+      "ACF2EB37DA0FA5972F9EA382516DCC33": {
+        "sender": "91384186949634@lid",
+        "text": "Tb tô tomando banho aqui agora",
+        "pushName": "Maron",
+        "timestamp": 1788790260021
+      },
+      "AC112B1EA062F792BCD7266899EFCE3B": {
+        "sender": "168814327128263@lid",
+        "text": "Nada e vc",
+        "pushName": "irlley gabryel",
+        "timestamp": 1788790266781
       }
     },
     "120363426574906687@g.us": {
@@ -10687,6 +10724,12 @@
         "text": "Kkkk",
         "pushName": "Camila Designer",
         "timestamp": 1788790163109
+      },
+      "A517E8E99A5D981AA8272C93A4F758D2": {
+        "sender": "166452229341300@lid",
+        "text": "Remove",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788790247164
       }
     }
   },
@@ -10782,8 +10825,8 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788790245224,
-    "120363426574906687@g.us": 1788790163109
+    "120363023757382018@g.us": 1788790273316,
+    "120363426574906687@g.us": 1788790247164
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
