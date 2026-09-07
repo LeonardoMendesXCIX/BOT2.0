@@ -4572,9 +4572,9 @@
         "total": 9
       },
       "81991328395336": {
-        "text": 124,
+        "text": 126,
         "media": 35,
-        "total": 159
+        "total": 161
       },
       "274384656834700": {
         "text": 33,
@@ -5217,9 +5217,9 @@
         "total": 1
       },
       "136296492200083": {
-        "text": 30,
+        "text": 31,
         "media": 7,
-        "total": 37
+        "total": 38
       },
       "252342414905454": {
         "text": 7,
@@ -6188,8 +6188,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Amém 🙆🏻‍♀️🤡",
-        "JUNIOR: ??",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Já foi removida",
         "Dani: Que robozinho top",
         "Heloisa: Llkk",
@@ -6687,7 +6685,9 @@
         "Luis Felipe: Kk",
         "Henrique Contri 🤫: Tá na flor da idade kkk",
         "Luis Felipe: Na onde kk",
-        "Henrique Contri 🤫: 65 anos novinho de tudo kkkk"
+        "Henrique Contri 🤫: 65 anos novinho de tudo kkkk",
+        "𝑳𝒂𝒚𝒉🌪🌚: Nem os ossos",
+        "Luis Felipe: Kkkk né"
       ]
     },
     "120363426574906687@g.us": {
@@ -6887,12 +6887,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "152274357751809",
-        "authorName": "Heloisa",
-        "text": "Obrigada",
-        "timestamp": 1788799508210
-      },
       {
         "authorNum": "166452229341300",
         "authorName": "Cristian Sntss",
@@ -7774,6 +7768,18 @@
         "authorName": "Henrique Contri 🤫",
         "text": "65 anos novinho de tudo kkkk",
         "timestamp": 1788801296259
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Nem os ossos",
+        "timestamp": 1788801310857
+      },
+      {
+        "authorNum": "136296492200083",
+        "authorName": "Luis Felipe",
+        "text": "Kkkk né",
+        "timestamp": 1788801316944
       }
     ],
     "120363426574906687@g.us": [
@@ -7997,7 +8003,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 61,
-    "120363023757382018@g.us": 1709,
+    "120363023757382018@g.us": 1711,
     "120363426574906687@g.us": 145
   },
   "botDisabled": {
@@ -16579,6 +16585,18 @@
         "text": "65 anos novinho de tudo kkkk",
         "pushName": "Henrique Contri 🤫",
         "timestamp": 1788801296260
+      },
+      "ACAE3726F64B1AC2446B2F31911E187C": {
+        "sender": "81991328395336@lid",
+        "text": "Nem os ossos",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1788801310857
+      },
+      "3AA49C0FF59B310CD81C": {
+        "sender": "136296492200083@lid",
+        "text": "Kkkk né",
+        "pushName": "Luis Felipe",
+        "timestamp": 1788801316944
       }
     },
     "120363426574906687@g.us": {
@@ -17315,7 +17333,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788801171258,
-    "120363023757382018@g.us": 1788801296259,
+    "120363023757382018@g.us": 1788801316944,
     "120363426574906687@g.us": 1788800965595
   },
   "autoAnimSent": {
