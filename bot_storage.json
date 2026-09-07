@@ -4499,9 +4499,9 @@
         "total": 182
       },
       "53537388122141": {
-        "text": 90,
+        "text": 91,
         "media": 10,
-        "total": 100
+        "total": 101
       },
       "129373172711439": {
         "text": 27,
@@ -4564,9 +4564,9 @@
         "total": 1
       },
       "182738040713418": {
-        "text": 4,
+        "text": 5,
         "media": 2,
-        "total": 6
+        "total": 7
       },
       "81991328395336": {
         "text": 67,
@@ -4962,6 +4962,11 @@
         "text": 5,
         "media": 0,
         "total": 5
+      },
+      "205587669319854": {
+        "text": 2,
+        "media": 0,
+        "total": 2
       }
     },
     "120363426574906687@g.us": {
@@ -5835,10 +5840,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "xacinaluzqradiaoinferno71: tendeu",
-        "Gabi 💋: E vc ?",
-        "Gabriel Silva 😎: Gabriel \nTenho 29 anos \nSolteiro \nPV liberado",
-        "Gleydson Souza: Digo o mesmo sobre mim kkkkk",
         "Gabi 💋: Sim",
         ".rick: Assim que possível respoderemos sua mensagem OBRIGADO",
         "Amaury: PV aberto",
@@ -6334,7 +6335,11 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Boa tarde",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: !ban",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Agora que vi o número do cara.",
-        "Heloisa: Foi longe kk"
+        "Heloisa: Foi longe kk",
+        "welkeazevedo: Welke Rodrigues Azevedo tenho 39 anos",
+        "welkeazevedo: Sou do estado de mato grosso",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Faltou só a foto\nBem vindo",
+        "Wellington: Bem vindos 😉"
       ]
     },
     "120363426574906687@g.us": {
@@ -6497,12 +6502,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "126586225467454",
-        "authorName": "Thawan",
-        "text": "👀",
-        "timestamp": 1788792303769
-      },
       {
         "authorNum": "126586225467454",
         "authorName": "Thawan",
@@ -7534,6 +7533,30 @@
         "authorName": "Heloisa",
         "text": "Foi longe kk",
         "timestamp": 1788794030720
+      },
+      {
+        "authorNum": "205587669319854",
+        "authorName": "welkeazevedo",
+        "text": "Welke Rodrigues Azevedo tenho 39 anos",
+        "timestamp": 1788794102966
+      },
+      {
+        "authorNum": "205587669319854",
+        "authorName": "welkeazevedo",
+        "text": "Sou do estado de mato grosso",
+        "timestamp": 1788794110396
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Faltou só a foto\nBem vindo",
+        "timestamp": 1788794119092
+      },
+      {
+        "authorNum": "182738040713418",
+        "authorName": "Wellington",
+        "text": "Bem vindos 😉",
+        "timestamp": 1788794124798
       }
     ],
     "120363426574906687@g.us": [
@@ -7601,7 +7624,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 46,
-    "120363023757382018@g.us": 1151,
+    "120363023757382018@g.us": 1155,
     "120363426574906687@g.us": 90
   },
   "botDisabled": {
@@ -12744,6 +12767,30 @@
         "text": "Foi longe kk",
         "pushName": "Heloisa",
         "timestamp": 1788794030720
+      },
+      "AC9788384E61A0C9CE003AB90705E7CD": {
+        "sender": "205587669319854@lid",
+        "text": "Welke Rodrigues Azevedo tenho 39 anos",
+        "pushName": "welkeazevedo",
+        "timestamp": 1788794102967
+      },
+      "ACEBCE36F4838AB5764D513A5567BCA1": {
+        "sender": "205587669319854@lid",
+        "text": "Sou do estado de mato grosso",
+        "pushName": "welkeazevedo",
+        "timestamp": 1788794110396
+      },
+      "AC54B0EC849F694D4AF0DEF9D61C03F7": {
+        "sender": "53537388122141@lid",
+        "text": "Faltou só a foto\nBem vindo",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788794119092
+      },
+      "ACBF2AA2CD0E32B3D16961A615EF3E14": {
+        "sender": "182738040713418@lid",
+        "text": "Bem vindos 😉",
+        "pushName": "Wellington",
+        "timestamp": 1788794124799
       }
     },
     "120363426574906687@g.us": {
@@ -13147,7 +13194,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788793999301,
-    "120363023757382018@g.us": 1788794061242,
+    "120363023757382018@g.us": 1788794124798,
     "120363426574906687@g.us": 1788793079391
   },
   "autoAnimSent": {
