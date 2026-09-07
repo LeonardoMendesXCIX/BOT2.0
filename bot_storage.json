@@ -4557,9 +4557,9 @@
         "total": 35
       },
       "262182034002040": {
-        "text": 104,
+        "text": 105,
         "media": 10,
-        "total": 114
+        "total": 115
       },
       "199733712785531": {
         "text": 4,
@@ -5347,9 +5347,9 @@
         "total": 1
       },
       "213602262872108": {
-        "text": 5,
+        "text": 6,
         "media": 0,
-        "total": 5
+        "total": 6
       }
     },
     "120363426574906687@g.us": {
@@ -6266,8 +6266,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Camila Designer: Bem vindo!☺️",
-        "ronald: 👆🏾 obrigado",
         "Wellington: Bem vindo man🙌🏽",
         "Cristian Sntss: Bem vindo homem do olho de fogo",
         "Dany: Fim da picada",
@@ -6765,7 +6763,9 @@
         "Wellington: Mais acontece fazer oq",
         "𝑳𝒂𝒚𝒉🌪🌚: !ban",
         "Dany: É um cacete achar você para @ viu!!!",
-        "Dany: Aff"
+        "Dany: Aff",
+        "Dany: Hahahhaha",
+        "Nathan Ebrenz: Última"
       ]
     },
     "120363426574906687@g.us": {
@@ -7367,6 +7367,18 @@
         "authorName": "Dany",
         "text": "Aff",
         "timestamp": 1788820924274
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Hahahhaha",
+        "timestamp": 1788820938635
+      },
+      {
+        "authorNum": "213602262872108",
+        "authorName": "Nathan Ebrenz",
+        "text": "Última",
+        "timestamp": 1788820955660
       }
     ],
     "120363426574906687@g.us": []
@@ -7391,7 +7403,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 486,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 3068,
+    "120363023757382018@g.us": 3070,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -24273,6 +24285,18 @@
         "text": "Aff",
         "pushName": "Dany",
         "timestamp": 1788820924274
+      },
+      "3AA8B6A82A5CAC0F9FFF": {
+        "sender": "262182034002040@lid",
+        "text": "Hahahhaha",
+        "pushName": "Dany",
+        "timestamp": 1788820938635
+      },
+      "A565CEC6AD5001EDC406467BFBEE7D6B": {
+        "sender": "213602262872108@lid",
+        "text": "Última",
+        "pushName": "Nathan Ebrenz",
+        "timestamp": 1788820955660
       }
     },
     "120363426574906687@g.us": {
@@ -25219,7 +25243,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788819771459,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788820931021,
+    "120363023757382018@g.us": 1788820955660,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
