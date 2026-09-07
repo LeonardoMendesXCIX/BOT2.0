@@ -4497,9 +4497,9 @@
         "total": 176
       },
       "166452229341300": {
-        "text": 231,
+        "text": 232,
         "media": 71,
-        "total": 302
+        "total": 303
       },
       "53537388122141": {
         "text": 150,
@@ -5217,9 +5217,9 @@
         "total": 1
       },
       "136296492200083": {
-        "text": 20,
+        "text": 21,
         "media": 7,
-        "total": 27
+        "total": 28
       },
       "252342414905454": {
         "text": 7,
@@ -6183,8 +6183,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Matheus Maia: boa tarde",
-        "welkeazevedo: Opa tamos juntos",
         "Filipe Oliveira☺️☺️: Boa tarde",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Bem vindo!",
         "welkeazevedo: Tem mais aí do estado de MT aqui.",
@@ -6682,7 +6680,9 @@
         "Cristian Sntss: Ela dando aulas",
         "Luis Felipe: somos dois então nada pra fazer",
         "Henrique Contri 🤫: Tem um lote aqui do lado pra capinar 🤣🤣",
-        "Henrique Contri 🤫: Acaba rapidinho com o tédio kk"
+        "Henrique Contri 🤫: Acaba rapidinho com o tédio kk",
+        "Cristian Sntss: Vai lá",
+        "Luis Felipe: kkk vai vc então"
       ]
     },
     "120363426574906687@g.us": {
@@ -7599,6 +7599,18 @@
         "authorName": "Henrique Contri 🤫",
         "text": "Acaba rapidinho com o tédio kk",
         "timestamp": 1788800782960
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Vai lá",
+        "timestamp": 1788800792107
+      },
+      {
+        "authorNum": "136296492200083",
+        "authorName": "Luis Felipe",
+        "text": "kkk vai vc então",
+        "timestamp": 1788800795731
       }
     ],
     "120363426574906687@g.us": [
@@ -7846,7 +7858,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1673,
+    "120363023757382018@g.us": 1675,
     "120363426574906687@g.us": 144
   },
   "botDisabled": {
@@ -16182,6 +16194,18 @@
         "text": "Acaba rapidinho com o tédio kk",
         "pushName": "Henrique Contri 🤫",
         "timestamp": 1788800782960
+      },
+      "A518BD5446C55AA763C10741A6C6289D": {
+        "sender": "166452229341300@lid",
+        "text": "Vai lá",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788800792107
+      },
+      "3A80124D68285669D8D7": {
+        "sender": "136296492200083@lid",
+        "text": "kkk vai vc então",
+        "pushName": "Luis Felipe",
+        "timestamp": 1788800795731
       }
     },
     "120363426574906687@g.us": {
@@ -16912,7 +16936,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788800782960,
+    "120363023757382018@g.us": 1788800795731,
     "120363426574906687@g.us": 1788800679780
   },
   "autoAnimSent": {
