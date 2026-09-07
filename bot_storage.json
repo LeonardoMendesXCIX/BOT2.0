@@ -4539,9 +4539,9 @@
         "total": 27
       },
       "92629643563147": {
-        "text": 18,
+        "text": 19,
         "media": 11,
-        "total": 29
+        "total": 30
       },
       "559984624669": {
         "text": 4,
@@ -4664,9 +4664,9 @@
         "total": 4
       },
       "276287176319083": {
-        "text": 21,
+        "text": 22,
         "media": 5,
-        "total": 26
+        "total": 27
       },
       "118515428286715": {
         "text": 5,
@@ -4754,11 +4754,16 @@
         "total": 4
       },
       "152274357751809": {
-        "text": 4,
+        "text": 5,
         "media": 0,
-        "total": 4
+        "total": 5
       },
       "89305909317735": {
+        "text": 1,
+        "media": 0,
+        "total": 1
+      },
+      "82145729097746": {
         "text": 1,
         "media": 0,
         "total": 1
@@ -5622,10 +5627,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Leandro: Tchau, obrigado!",
-        "Victor: só o CPF já fica bom, mano",
-        "Leandro: Já foi tarde",
-        "Leandro: Kbra fresco",
         "Cristian Sntss: CPF o principal",
         "Cristian Sntss: Até pra votar agr",
         "𝑳𝒂𝒚𝒉🌪🌚: Nem m fale nisso",
@@ -6121,7 +6122,11 @@
         "Gabi 💋: Escrota né",
         "renan_wesley: Quando eu fiz trança aí sim deu trabalho mds",
         "Gabi 💋: Qual modelo você colocou ?",
-        "Amaury: Seja bem vinda"
+        "Amaury: Seja bem vinda",
+        "Heloisa: Obrigada",
+        "Davi Miranda: Davi, 18, Leopoldina MG",
+        "renan_wesley: Não lembro o nome não kkkkk",
+        "Camila Designer: Afs"
       ]
     },
     "120363426574906687@g.us": {
@@ -6224,42 +6229,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "21338118979724",
-        "authorName": "Bruno Souza",
-        "text": "Ola prazer meu nome é Bruno sou de Bc/SC tenho 31 sou hetero",
-        "timestamp": 1788787369647
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
-        "text": "Uma mais baixa que eu",
-        "timestamp": 1788787369975
-      },
-      {
-        "authorNum": "120363023757382018",
-        "authorName": "",
-        "text": "Ola prazer meu nome é Bruno sou de Bc/SC tenho 31 sou hetero",
-        "timestamp": 1788787370243
-      },
-      {
-        "authorNum": "59645049761949",
-        "authorName": "Amaury",
-        "text": "Com sapato fico quase com 1,90",
-        "timestamp": 1788787371468
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Só não tem quem faça 😩",
-        "timestamp": 1788787382645
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Sou nanica kkkk",
-        "timestamp": 1788787390764
-      },
       {
         "authorNum": "81991328395336",
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
@@ -7489,6 +7458,30 @@
         "authorName": "Amaury",
         "text": "Seja bem vinda",
         "timestamp": 1788789159903
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Obrigada",
+        "timestamp": 1788789172413
+      },
+      {
+        "authorNum": "82145729097746",
+        "authorName": "Davi Miranda",
+        "text": "Davi, 18, Leopoldina MG",
+        "timestamp": 1788789186454
+      },
+      {
+        "authorNum": "276287176319083",
+        "authorName": "renan_wesley",
+        "text": "Não lembro o nome não kkkkk",
+        "timestamp": 1788789190348
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Afs",
+        "timestamp": 1788789193342
       }
     ],
     "120363426574906687@g.us": [
@@ -7586,7 +7579,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 775,
+    "120363023757382018@g.us": 779,
     "120363426574906687@g.us": 48
   },
   "botDisabled": {
@@ -10423,6 +10416,30 @@
         "text": "Seja bem vinda",
         "pushName": "Amaury",
         "timestamp": 1788789159903
+      },
+      "AC04743658774C31A45B07108ADD5A30": {
+        "sender": "152274357751809@lid",
+        "text": "Obrigada",
+        "pushName": "Heloisa",
+        "timestamp": 1788789172413
+      },
+      "ACA4514923D328BEE334DA2DE2415969": {
+        "sender": "82145729097746@lid",
+        "text": "Davi, 18, Leopoldina MG",
+        "pushName": "Davi Miranda",
+        "timestamp": 1788789186454
+      },
+      "AC0717592B437566E9FC71B7FCDD9B65": {
+        "sender": "276287176319083@lid",
+        "text": "Não lembro o nome não kkkkk",
+        "pushName": "renan_wesley",
+        "timestamp": 1788789190348
+      },
+      "2A7BEA49D1587CB14269": {
+        "sender": "92629643563147@lid",
+        "text": "Afs",
+        "pushName": "Camila Designer",
+        "timestamp": 1788789193342
       }
     },
     "120363426574906687@g.us": {
@@ -10574,7 +10591,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788789159903,
+    "120363023757382018@g.us": 1788789193342,
     "120363426574906687@g.us": 1788788012627
   },
   "autoAnimSent": {
