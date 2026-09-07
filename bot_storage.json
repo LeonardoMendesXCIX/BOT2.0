@@ -4497,9 +4497,9 @@
         "total": 171
       },
       "166452229341300": {
-        "text": 217,
-        "media": 68,
-        "total": 285
+        "text": 218,
+        "media": 69,
+        "total": 287
       },
       "53537388122141": {
         "text": 148,
@@ -5217,9 +5217,9 @@
         "total": 1
       },
       "136296492200083": {
-        "text": 12,
+        "text": 13,
         "media": 5,
-        "total": 17
+        "total": 18
       },
       "252342414905454": {
         "text": 7,
@@ -5227,9 +5227,9 @@
         "total": 9
       },
       "118528279593092": {
-        "text": 14,
-        "media": 3,
-        "total": 17
+        "text": 15,
+        "media": 4,
+        "total": 19
       },
       "183137506173038": {
         "text": 8,
@@ -6178,9 +6178,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Nalguda Ganesh: 👌",
-        "Hildecio Paulo: Sou belorizonte",
-        "Francisco Silva: Mundo inteiro quer interagir kkkk",
         "Nalguda Ganesh: Pic",
         "𝑳𝒂𝒚𝒉🌪🌚: !ban @104432918376470",
         "Nalguda Ganesh: Pic",
@@ -6677,7 +6674,10 @@
         "Du: Alguma pra vim pv?",
         "Du: Ksksk",
         "𝕰𝖛𝖆𝖓𝖉𝖗𝖔 𝕬𝖑𝖛𝖊𝖘: Papo de levar uma pisa kkk",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: !ban"
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: !ban",
+        "𝕰𝖛𝖆𝖓𝖉𝖗𝖔 𝕬𝖑𝖛𝖊𝖘: Eita a ADM tá passando o rodo kkkk",
+        "Cristian Sntss: O bot tá trabalhando viu\n\nDescontando os dias parado",
+        "Luis Felipe: Quais tudo saiu kkkn"
       ]
     },
     "120363426574906687@g.us": {
@@ -7639,6 +7639,24 @@
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "text": "!ban",
         "timestamp": 1788800050268
+      },
+      {
+        "authorNum": "118528279593092",
+        "authorName": "𝕰𝖛𝖆𝖓𝖉𝖗𝖔 𝕬𝖑𝖛𝖊𝖘",
+        "text": "Eita a ADM tá passando o rodo kkkk",
+        "timestamp": 1788800075580
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "O bot tá trabalhando viu\n\nDescontando os dias parado",
+        "timestamp": 1788800076754
+      },
+      {
+        "authorNum": "136296492200083",
+        "authorName": "Luis Felipe",
+        "text": "Quais tudo saiu kkkn",
+        "timestamp": 1788800080693
       }
     ],
     "120363426574906687@g.us": [
@@ -7742,7 +7760,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1619,
+    "120363023757382018@g.us": 1622,
     "120363426574906687@g.us": 117
   },
   "botDisabled": {
@@ -15754,6 +15772,24 @@
         "text": "!ban",
         "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "timestamp": 1788800050268
+      },
+      "AC17A18B720E8DEF0C2960DE02E916F7": {
+        "sender": "118528279593092@lid",
+        "text": "Eita a ADM tá passando o rodo kkkk",
+        "pushName": "𝕰𝖛𝖆𝖓𝖉𝖗𝖔 𝕬𝖑𝖛𝖊𝖘",
+        "timestamp": 1788800075580
+      },
+      "A57582818ED0645BE50A7232DD2904C5": {
+        "sender": "166452229341300@lid",
+        "text": "O bot tá trabalhando viu\n\nDescontando os dias parado",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788800076755
+      },
+      "3AB08B41F7ECAA72C38F": {
+        "sender": "136296492200083@lid",
+        "text": "Quais tudo saiu kkkn",
+        "pushName": "Luis Felipe",
+        "timestamp": 1788800080693
       }
     },
     "120363426574906687@g.us": {
@@ -16322,7 +16358,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788800051278,
+    "120363023757382018@g.us": 1788800080693,
     "120363426574906687@g.us": 1788799590982
   },
   "autoAnimSent": {
