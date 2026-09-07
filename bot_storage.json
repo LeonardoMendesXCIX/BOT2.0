@@ -4512,14 +4512,14 @@
         "total": 199
       },
       "5511927018683": {
-        "text": 187,
+        "text": 188,
         "media": 13,
-        "total": 200
+        "total": 201
       },
       "166452229341300": {
-        "text": 304,
+        "text": 305,
         "media": 90,
-        "total": 394
+        "total": 395
       },
       "53537388122141": {
         "text": 189,
@@ -5337,9 +5337,9 @@
         "total": 6
       },
       "79728216113177": {
-        "text": 15,
+        "text": 16,
         "media": 9,
-        "total": 24
+        "total": 25
       }
     },
     "120363426574906687@g.us": {
@@ -6244,8 +6244,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Camila Designer: Não",
-        "Camila Designer: La tem casada",
         "jaciara: Temos um kbaré mais é um kbaré organizado",
         "Camila Designer: Porém ver quem quer kkk",
         "Camila Designer: É enviado em visualização única",
@@ -6743,7 +6741,9 @@
         "Victor: ixi, man",
         "Victor: pqp",
         "Leandro: Iiiihhhhh ala",
-        "Cristian Sntss: Vídeo de q?"
+        "Cristian Sntss: Vídeo de q?",
+        "Leandro: Ele mostrando o chaci de grilo dele",
+        "Kaio Mendes: Essa etique aí não dá ban?"
       ]
     },
     "120363426574906687@g.us": {
@@ -7576,6 +7576,18 @@
         "authorName": "Cristian Sntss",
         "text": "Vídeo de q?",
         "timestamp": 1788813751069
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Ele mostrando o chaci de grilo dele",
+        "timestamp": 1788813767504
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "Essa etique aí não dá ban?",
+        "timestamp": 1788813779496
       }
     ],
     "120363426574906687@g.us": []
@@ -7600,7 +7612,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2690,
+    "120363023757382018@g.us": 2692,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -22153,6 +22165,18 @@
         "text": "Vídeo de q?",
         "pushName": "Cristian Sntss",
         "timestamp": 1788813751070
+      },
+      "ACF26D9841C0A99E4A092F8B84809A1D": {
+        "sender": "54259127210155@lid",
+        "text": "Ele mostrando o chaci de grilo dele",
+        "pushName": "Leandro",
+        "timestamp": 1788813767504
+      },
+      "ACA8DACE9B78C2FA1A282C582D6608A9": {
+        "sender": "79728216113177@lid",
+        "text": "Essa etique aí não dá ban?",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788813779497
       }
     },
     "120363426574906687@g.us": {
@@ -23093,7 +23117,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788813751069,
+    "120363023757382018@g.us": 1788813779496,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
