@@ -4446,9 +4446,9 @@
     },
     "120363427545094619@g.us": {
       "166452229341300": {
-        "text": 13,
+        "text": 14,
         "media": 2,
-        "total": 15
+        "total": 16
       },
       "559991116887": {
         "text": 2,
@@ -4483,9 +4483,9 @@
         "total": 161
       },
       "166452229341300": {
-        "text": 64,
-        "media": 34,
-        "total": 98
+        "text": 65,
+        "media": 35,
+        "total": 100
       },
       "53537388122141": {
         "text": 42,
@@ -4538,9 +4538,9 @@
         "total": 27
       },
       "92629643563147": {
-        "text": 10,
+        "text": 11,
         "media": 6,
-        "total": 16
+        "total": 17
       },
       "559984624669": {
         "text": 4,
@@ -4578,9 +4578,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 62,
-        "media": 5,
-        "total": 67
+        "text": 64,
+        "media": 6,
+        "total": 70
       },
       "206966404210884": {
         "text": 2,
@@ -4688,9 +4688,9 @@
         "total": 4
       },
       "128145298608376": {
-        "text": 8,
+        "text": 9,
         "media": 1,
-        "total": 9
+        "total": 10
       },
       "193733257609270": {
         "text": 1,
@@ -5317,7 +5317,8 @@
         "Leandro: !del",
         "Leandro: Bom dia",
         "Leandro: E aí? Vão manter a Camila na gerência?",
-        "Cristian Sntss: Sim"
+        "Cristian Sntss: Sim",
+        "Cristian Sntss: Um tempo acostuma"
       ]
     },
     "120363023757382018@g.us": {
@@ -5937,7 +5938,11 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Que não se apresentaram ainda",
         "Wellygton Douglas: Wellygton aqui sou de Pernambuco 36 anos pv liberado",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Bem vindo!",
-        "Amaury: PV liberado"
+        "Amaury: PV liberado",
+        "Gabi 💋: Óia gente",
+        "Gabi 💋: Eu tô vendo coisa",
+        "solteiro: Oi",
+        "Camila Designer: Que coisa 👀👀"
       ]
     },
     "120363426574906687@g.us": {
@@ -6011,6 +6016,12 @@
         "authorName": "Cristian Sntss",
         "text": "Sim",
         "timestamp": 1788787707948
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Um tempo acostuma",
+        "timestamp": 1788787728335
       }
     ],
     "120363023757382018@g.us": [
@@ -6595,6 +6606,30 @@
         "authorName": "Amaury",
         "text": "PV liberado",
         "timestamp": 1788787721872
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Óia gente",
+        "timestamp": 1788787731347
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Eu tô vendo coisa",
+        "timestamp": 1788787735788
+      },
+      {
+        "authorNum": "128145298608376",
+        "authorName": "solteiro",
+        "text": "Oi",
+        "timestamp": 1788787751748
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Que coisa 👀👀",
+        "timestamp": 1788787753071
       }
     ],
     "120363426574906687@g.us": []
@@ -6618,8 +6653,8 @@
     "120363411043114631@g.us": 20,
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
-    "120363427545094619@g.us": 36,
-    "120363023757382018@g.us": 615,
+    "120363427545094619@g.us": 37,
+    "120363023757382018@g.us": 619,
     "120363426574906687@g.us": 36
   },
   "botDisabled": {
@@ -6963,6 +6998,12 @@
         "text": "Sim",
         "pushName": "Cristian Sntss",
         "timestamp": 1788787707948
+      },
+      "A5FC68BD74B81F0E87664ADB6E6072FF": {
+        "sender": "166452229341300@lid",
+        "text": "Um tempo acostuma",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788787728335
       }
     },
     "120363023757382018@g.us": {
@@ -8507,6 +8548,30 @@
         "text": "PV liberado",
         "pushName": "Amaury",
         "timestamp": 1788787721872
+      },
+      "AC26E407551D3FA7F6081B35B585579D": {
+        "sender": "247020967165997@lid",
+        "text": "Óia gente",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788787731347
+      },
+      "AC4F65BC22DEFA852CD3AD829494F5C0": {
+        "sender": "247020967165997@lid",
+        "text": "Eu tô vendo coisa",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788787735788
+      },
+      "A50CC18FF605ABDEDCF444F5850AA42E": {
+        "sender": "128145298608376@lid",
+        "text": "Oi",
+        "pushName": "solteiro",
+        "timestamp": 1788787751748
+      },
+      "2A8BCE1260D93B6C8304": {
+        "sender": "92629643563147@lid",
+        "text": "Que coisa 👀👀",
+        "pushName": "Camila Designer",
+        "timestamp": 1788787753071
       }
     },
     "120363426574906687@g.us": {}
@@ -8602,8 +8667,8 @@
     "120363411043114631@g.us": 1787897464612,
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
-    "120363427545094619@g.us": 1788787707948,
-    "120363023757382018@g.us": 1788787721872,
+    "120363427545094619@g.us": 1788787728335,
+    "120363023757382018@g.us": 1788787753071,
     "120363426574906687@g.us": 1788725639102
   },
   "autoAnimSent": {
