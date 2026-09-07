@@ -4473,9 +4473,9 @@
         "total": 5
       },
       "108461127897146": {
-        "text": 63,
-        "media": 11,
-        "total": 74
+        "text": 65,
+        "media": 12,
+        "total": 77
       },
       "5511927018683": {
         "text": 148,
@@ -4558,9 +4558,9 @@
         "total": 3
       },
       "81991328395336": {
-        "text": 38,
+        "text": 39,
         "media": 20,
-        "total": 58
+        "total": 59
       },
       "274384656834700": {
         "text": 16,
@@ -4578,9 +4578,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 51,
+        "text": 55,
         "media": 4,
-        "total": 55
+        "total": 59
       },
       "206966404210884": {
         "text": 2,
@@ -4678,11 +4678,16 @@
         "total": 2
       },
       "59645049761949": {
-        "text": 11,
+        "text": 12,
         "media": 0,
-        "total": 11
+        "total": 12
       },
       "21338118979724": {
+        "text": 0,
+        "media": 1,
+        "total": 1
+      },
+      "128145298608376": {
         "text": 0,
         "media": 1,
         "total": 1
@@ -5877,7 +5882,15 @@
         "Bruno Souza: Ola prazer meu nome é Bruno sou de Bc/SC tenho 31 sou hetero",
         "𝑳𝒂𝒚𝒉🌪🌚: Uma mais baixa que eu",
         ": Ola prazer meu nome é Bruno sou de Bc/SC tenho 31 sou hetero",
-        "Amaury: Com sapato fico quase com 1,90"
+        "Amaury: Com sapato fico quase com 1,90",
+        "jaciara: Só não tem quem faça 😩",
+        "jaciara: Sou nanica kkkk",
+        "𝑳𝒂𝒚𝒉🌪🌚: Literalmente um poste",
+        "Gabi 💋: Se fosse mais perto ajudaria",
+        "Amaury: Kkkk",
+        "Gabi 💋: Já passei por isso",
+        "Gabi 💋: E horrível sentir desconforto",
+        "solteiro: Solteiro 30.anos Felipe silva Uberlândia"
       ]
     },
     "120363426574906687@g.us": {
@@ -6234,6 +6247,54 @@
         "authorName": "Amaury",
         "text": "Com sapato fico quase com 1,90",
         "timestamp": 1788787371468
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Só não tem quem faça 😩",
+        "timestamp": 1788787382645
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Sou nanica kkkk",
+        "timestamp": 1788787390764
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Literalmente um poste",
+        "timestamp": 1788787394224
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Se fosse mais perto ajudaria",
+        "timestamp": 1788787394968
+      },
+      {
+        "authorNum": "59645049761949",
+        "authorName": "Amaury",
+        "text": "Kkkk",
+        "timestamp": 1788787395599
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Já passei por isso",
+        "timestamp": 1788787399984
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "E horrível sentir desconforto",
+        "timestamp": 1788787406809
+      },
+      {
+        "authorNum": "128145298608376",
+        "authorName": "solteiro",
+        "text": "Solteiro 30.anos Felipe silva Uberlândia",
+        "timestamp": 1788787409603
       }
     ],
     "120363426574906687@g.us": []
@@ -6258,7 +6319,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 33,
-    "120363023757382018@g.us": 568,
+    "120363023757382018@g.us": 576,
     "120363426574906687@g.us": 36
   },
   "botDisabled": {
@@ -7845,6 +7906,54 @@
         "text": "Com sapato fico quase com 1,90",
         "pushName": "Amaury",
         "timestamp": 1788787371468
+      },
+      "AC5E9F44223FC037DC5CF09AC8C1FA8B": {
+        "sender": "108461127897146@lid",
+        "text": "Só não tem quem faça 😩",
+        "pushName": "jaciara",
+        "timestamp": 1788787382645
+      },
+      "AC39FC29119CC2C2FE1C00A9B23DC5CA": {
+        "sender": "108461127897146@lid",
+        "text": "Sou nanica kkkk",
+        "pushName": "jaciara",
+        "timestamp": 1788787390764
+      },
+      "AC3ADCF3831C87DC1854231CBCAAA7B8": {
+        "sender": "81991328395336@lid",
+        "text": "Literalmente um poste",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1788787394224
+      },
+      "AC49F8486759A8AC3B85AC33ED3ADAD6": {
+        "sender": "247020967165997@lid",
+        "text": "Se fosse mais perto ajudaria",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788787394968
+      },
+      "ACFE0A347D122BAFDBBCC7FBCA2FD390": {
+        "sender": "59645049761949@lid",
+        "text": "Kkkk",
+        "pushName": "Amaury",
+        "timestamp": 1788787395599
+      },
+      "AC4E6719176CFFA3A04B00E4C54D390D": {
+        "sender": "247020967165997@lid",
+        "text": "Já passei por isso",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788787399984
+      },
+      "ACF1016F748984CF7EAD727FC38D5030": {
+        "sender": "247020967165997@lid",
+        "text": "E horrível sentir desconforto",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788787406809
+      },
+      "A529F21815F2BD06620EA5FF610F0F8E": {
+        "sender": "128145298608376@lid",
+        "text": "Solteiro 30.anos Felipe silva Uberlândia",
+        "pushName": "solteiro",
+        "timestamp": 1788787409603
       }
     },
     "120363426574906687@g.us": {}
@@ -7941,7 +8050,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788755502872,
-    "120363023757382018@g.us": 1788787371468,
+    "120363023757382018@g.us": 1788787409603,
     "120363426574906687@g.us": 1788725639102
   },
   "autoAnimSent": {
