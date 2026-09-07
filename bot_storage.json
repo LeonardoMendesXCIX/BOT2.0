@@ -5289,9 +5289,9 @@
         "total": 20
       },
       "92629643563147": {
-        "text": 11,
+        "text": 13,
         "media": 1,
-        "total": 12
+        "total": 14
       },
       "81991328395336": {
         "text": 8,
@@ -6761,7 +6761,9 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Ativei",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: FODASE",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Vou almoçar",
-        "𝑳𝒂𝒚𝒉🌪🌚: Obgd AMG"
+        "𝑳𝒂𝒚𝒉🌪🌚: Obgd AMG",
+        "Camila Designer: Pessoal um tanto de nome estrangeiro estão me mandando mensagem",
+        "Camila Designer: 👀👀👀"
       ]
     }
   },
@@ -7801,7 +7803,20 @@
         "timestamp": 1788798792374
       }
     ],
-    "120363426574906687@g.us": []
+    "120363426574906687@g.us": [
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Pessoal um tanto de nome estrangeiro estão me mandando mensagem",
+        "timestamp": 1788798798187
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "👀👀👀",
+        "timestamp": 1788798801151
+      }
+    ]
   },
   "lastJarvisIntervention": {
     "120363409727467494@g.us": 1786781516987,
@@ -7824,7 +7839,7 @@
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
     "120363023757382018@g.us": 1533,
-    "120363426574906687@g.us": 104
+    "120363426574906687@g.us": 106
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -15711,6 +15726,18 @@
         "text": "Obgd AMG",
         "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
         "timestamp": 1788796664928
+      },
+      "2ABD5DC3462368E169AA": {
+        "sender": "92629643563147@lid",
+        "text": "Pessoal um tanto de nome estrangeiro estão me mandando mensagem",
+        "pushName": "Camila Designer",
+        "timestamp": 1788798798187
+      },
+      "2A715F7F41AB1FD6D329": {
+        "sender": "92629643563147@lid",
+        "text": "👀👀👀",
+        "pushName": "Camila Designer",
+        "timestamp": 1788798801152
       }
     }
   },
@@ -15810,7 +15837,7 @@
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
     "120363023757382018@g.us": 1788798795907,
-    "120363426574906687@g.us": 1788798298976
+    "120363426574906687@g.us": 1788798801151
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
