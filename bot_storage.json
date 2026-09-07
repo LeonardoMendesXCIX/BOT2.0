@@ -4552,9 +4552,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 34,
-        "media": 16,
-        "total": 50
+        "text": 35,
+        "media": 17,
+        "total": 52
       },
       "559984624669": {
         "text": 4,
@@ -5052,9 +5052,9 @@
         "total": 3
       },
       "152476120555682": {
-        "text": 4,
+        "text": 5,
         "media": 1,
-        "total": 5
+        "total": 6
       },
       "24477589057658": {
         "text": 1,
@@ -5147,9 +5147,9 @@
         "total": 20
       },
       "194377938911429": {
-        "text": 8,
+        "text": 9,
         "media": 2,
-        "total": 10
+        "total": 11
       },
       "81531615858788": {
         "text": 1,
@@ -6168,8 +6168,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Bruno Aguiar: Estão sem nem uma pelo jeito kkkk",
-        "Heloisa: Pior que o problema não é nem a invasão ensi o problema é o que fazem após",
         "Jacke França: Bosta",
         "Heloisa: Se empolgam",
         "JUNIOR: Estou aqui! So esperando vc rsrs",
@@ -6667,7 +6665,9 @@
         "retroboy: 👀",
         "Henrique Contri 🤫: Vou nem perguntar nada pra não ficar traumatizado 🤣",
         "Camila Designer: Quem enviou peitoral me marcam por favor!🤣🤣🤣",
-        "Camila Designer: Melhor não"
+        "Camila Designer: Melhor não",
+        "Du: Oi",
+        "Camila Designer: Entendedores entenderão 🤣🤣🤣"
       ]
     },
     "120363426574906687@g.us": {
@@ -6808,18 +6808,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "264308512522409",
-        "authorName": "Henrique Contri 🤫",
-        "text": "Eu tô com foto no perfil ?",
-        "timestamp": 1788797880731
-      },
-      {
-        "authorNum": "152274357751809",
-        "authorName": "Heloisa",
-        "text": "Não",
-        "timestamp": 1788797890896
-      },
       {
         "authorNum": "264308512522409",
         "authorName": "Henrique Contri 🤫",
@@ -7647,6 +7635,18 @@
         "authorName": "Camila Designer",
         "text": "Melhor não",
         "timestamp": 1788799675506
+      },
+      {
+        "authorNum": "152476120555682",
+        "authorName": "Du",
+        "text": "Oi",
+        "timestamp": 1788799684239
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Entendedores entenderão 🤣🤣🤣",
+        "timestamp": 1788799694208
       }
     ],
     "120363426574906687@g.us": [
@@ -7750,7 +7750,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1585,
+    "120363023757382018@g.us": 1587,
     "120363426574906687@g.us": 117
   },
   "botDisabled": {
@@ -15558,6 +15558,18 @@
         "text": "Melhor não",
         "pushName": "Camila Designer",
         "timestamp": 1788799675506
+      },
+      "3AA60D955B241A2D8821": {
+        "sender": "152476120555682@lid",
+        "text": "Oi",
+        "pushName": "Du",
+        "timestamp": 1788799684239
+      },
+      "2A47D47BABB214926B6A": {
+        "sender": "92629643563147@lid",
+        "text": "Entendedores entenderão 🤣🤣🤣",
+        "pushName": "Camila Designer",
+        "timestamp": 1788799694208
       }
     },
     "120363426574906687@g.us": {
@@ -16126,7 +16138,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788799675506,
+    "120363023757382018@g.us": 1788799705892,
     "120363426574906687@g.us": 1788799590982
   },
   "autoAnimSent": {
