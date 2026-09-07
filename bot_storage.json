@@ -4487,9 +4487,9 @@
         "total": 5
       },
       "108461127897146": {
-        "text": 139,
+        "text": 141,
         "media": 37,
-        "total": 176
+        "total": 178
       },
       "5511927018683": {
         "text": 164,
@@ -6195,8 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "𝑳𝒂𝒚𝒉🌪🌚: Com a fome que tu tá",
-        "Luis Felipe: Né kk",
         "Heloisa: Vamos fazer nada juntos",
         "Henrique Contri 🤫: Por isso não fui kkk",
         "Luis Felipe: A sei lá",
@@ -6694,7 +6692,9 @@
         "jaciara: Pra que ela não perca o kbaré",
         "Camila Designer: @247020967165997 se prepare 😏",
         "Henrique Contri 🤫: Que cabaré é esse gente 🤣🤣",
-        "jaciara: Oh Jesus"
+        "jaciara: Oh Jesus",
+        "jaciara: Mais tarde os ADM manda o link",
+        "jaciara: Cê entra"
       ]
     },
     "120363426574906687@g.us": {
@@ -7809,6 +7809,18 @@
         "authorName": "jaciara",
         "text": "Oh Jesus",
         "timestamp": 1788806339594
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Mais tarde os ADM manda o link",
+        "timestamp": 1788806346611
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Cê entra",
+        "timestamp": 1788806350130
       }
     ],
     "120363426574906687@g.us": [
@@ -7972,7 +7984,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2178,
+    "120363023757382018@g.us": 2180,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -19405,6 +19417,18 @@
         "text": "Oh Jesus",
         "pushName": "jaciara",
         "timestamp": 1788806339594
+      },
+      "AC1AEBC58ED6F4827FAB3B3466C8B839": {
+        "sender": "108461127897146@lid",
+        "text": "Mais tarde os ADM manda o link",
+        "pushName": "jaciara",
+        "timestamp": 1788806346611
+      },
+      "AC021959CB783858BE9FC3D213C9C7C0": {
+        "sender": "108461127897146@lid",
+        "text": "Cê entra",
+        "pushName": "jaciara",
+        "timestamp": 1788806350130
       }
     },
     "120363426574906687@g.us": {
@@ -20345,7 +20369,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788806339594,
+    "120363023757382018@g.us": 1788806350130,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
