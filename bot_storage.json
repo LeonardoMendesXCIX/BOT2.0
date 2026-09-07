@@ -4572,9 +4572,9 @@
         "total": 9
       },
       "81991328395336": {
-        "text": 132,
+        "text": 134,
         "media": 37,
-        "total": 169
+        "total": 171
       },
       "274384656834700": {
         "text": 33,
@@ -5217,9 +5217,9 @@
         "total": 1
       },
       "136296492200083": {
-        "text": 35,
+        "text": 36,
         "media": 7,
-        "total": 42
+        "total": 43
       },
       "252342414905454": {
         "text": 7,
@@ -6190,9 +6190,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "😃: Solteiro",
-        "Heloisa: Bem vindo",
-        "😃: Eu tenho 37 ano",
         "Jaime: Boa tarde a todos e a todas as mulheres bonitas",
         "Lucas Henrique: Obrigado ☺️",
         "John 😎: Boa tarde, pessoal!",
@@ -6689,7 +6686,10 @@
         "Henrique Contri 🤫: Eu já sabia tava só te zuando kkkk",
         "sorveteria: Aqui de Rondônia",
         "Francisco Silva: Pior kkk",
-        "Henrique Contri 🤫: Nunca vi um velho chamar Luiz Felipe kkk"
+        "Henrique Contri 🤫: Nunca vi um velho chamar Luiz Felipe kkk",
+        "𝑳𝒂𝒚𝒉🌪🌚: 😹😹😹",
+        "Luis Felipe: se já tá me tirando em",
+        "𝑳𝒂𝒚𝒉🌪🌚: Bem vindo"
       ]
     },
     "120363426574906687@g.us": {
@@ -6901,18 +6901,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "152274357751809",
-        "authorName": "Heloisa",
-        "text": "Papo de quem pensa com a cabeça errada kk",
-        "timestamp": 1788799869199
-      },
-      {
-        "authorNum": "220980429479955",
-        "authorName": "Douglas🙏",
-        "text": "Nada rsrs 😂",
-        "timestamp": 1788799881898
-      },
       {
         "authorNum": "264308512522409",
         "authorName": "Henrique Contri 🤫",
@@ -7638,6 +7626,24 @@
         "authorName": "Henrique Contri 🤫",
         "text": "Nunca vi um velho chamar Luiz Felipe kkk",
         "timestamp": 1788801654791
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "😹😹😹",
+        "timestamp": 1788801668402
+      },
+      {
+        "authorNum": "136296492200083",
+        "authorName": "Luis Felipe",
+        "text": "se já tá me tirando em",
+        "timestamp": 1788801668428
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Bem vindo",
+        "timestamp": 1788801682839
       }
     ],
     "120363426574906687@g.us": [
@@ -7831,7 +7837,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 63,
-    "120363023757382018@g.us": 1726,
+    "120363023757382018@g.us": 1729,
     "120363426574906687@g.us": 145
   },
   "botDisabled": {
@@ -16527,6 +16533,24 @@
         "text": "Nunca vi um velho chamar Luiz Felipe kkk",
         "pushName": "Henrique Contri 🤫",
         "timestamp": 1788801654791
+      },
+      "ACD72B8E31D23B8BE1F5BB6F8DC9B286": {
+        "sender": "81991328395336@lid",
+        "text": "😹😹😹",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1788801668402
+      },
+      "3A966B339B3B6C6FDECA": {
+        "sender": "136296492200083@lid",
+        "text": "se já tá me tirando em",
+        "pushName": "Luis Felipe",
+        "timestamp": 1788801668428
+      },
+      "AC72E3CA1486595121C9DA8EC7405F62": {
+        "sender": "81991328395336@lid",
+        "text": "Bem vindo",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1788801682840
       }
     },
     "120363426574906687@g.us": {
@@ -17263,7 +17287,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788801564643,
-    "120363023757382018@g.us": 1788801654791,
+    "120363023757382018@g.us": 1788801682839,
     "120363426574906687@g.us": 1788801476879
   },
   "autoAnimSent": {
