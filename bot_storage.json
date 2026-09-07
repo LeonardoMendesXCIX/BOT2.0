@@ -4552,9 +4552,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 221,
+        "text": 222,
         "media": 121,
-        "total": 342
+        "total": 343
       },
       "559984624669": {
         "text": 4,
@@ -5237,9 +5237,9 @@
         "total": 8
       },
       "241261818728589": {
-        "text": 12,
+        "text": 13,
         "media": 1,
-        "total": 13
+        "total": 14
       },
       "259588561625272": {
         "text": 1,
@@ -6195,8 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Camila Designer: Adivinhei somente",
-        "jaciara: Amigaaaaaa",
         "jaciara: Conta",
         "jaciara: Eu sou ansiosa",
         "jaciara: Kkkkk",
@@ -6694,7 +6692,9 @@
         "Wellington: E não é pouco kkkk",
         "Camila Designer: Hoje aqui está friozinho",
         "Cristian Sntss: Aqui tá um calor do dhabo",
-        "Camila Designer: Minha amiga disse que queria te esquentar 🥹"
+        "Camila Designer: Minha amiga disse que queria te esquentar 🥹",
+        "sorveteria: Aqui em Rondônia tá calor também",
+        "Camila Designer: @166452229341300 minha outra amiga disse que você esquenta qualquer lugar 🤣🤣🤣"
       ]
     },
     "120363426574906687@g.us": {
@@ -7683,6 +7683,18 @@
         "authorName": "Camila Designer",
         "text": "Minha amiga disse que queria te esquentar 🥹",
         "timestamp": 1788809546587
+      },
+      {
+        "authorNum": "241261818728589",
+        "authorName": "sorveteria",
+        "text": "Aqui em Rondônia tá calor também",
+        "timestamp": 1788809617710
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "@166452229341300 minha outra amiga disse que você esquenta qualquer lugar 🤣🤣🤣",
+        "timestamp": 1788809618439
       }
     ],
     "120363426574906687@g.us": []
@@ -7707,7 +7719,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2480,
+    "120363023757382018@g.us": 2482,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -20952,6 +20964,18 @@
         "text": "Minha amiga disse que queria te esquentar 🥹",
         "pushName": "Camila Designer",
         "timestamp": 1788809546588
+      },
+      "A503F81228CE5FD6F57F7291F60D09AB": {
+        "sender": "241261818728589@lid",
+        "text": "Aqui em Rondônia tá calor também",
+        "pushName": "sorveteria",
+        "timestamp": 1788809617710
+      },
+      "2ABE197252F8AD6720BB": {
+        "sender": "92629643563147@lid",
+        "text": "@166452229341300 minha outra amiga disse que você esquenta qualquer lugar 🤣🤣🤣",
+        "pushName": "Camila Designer",
+        "timestamp": 1788809618440
       }
     },
     "120363426574906687@g.us": {
@@ -21892,7 +21916,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788809546587,
+    "120363023757382018@g.us": 1788809618439,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
