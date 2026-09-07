@@ -4553,8 +4553,8 @@
       },
       "92629643563147": {
         "text": 39,
-        "media": 20,
-        "total": 59
+        "media": 21,
+        "total": 60
       },
       "559984624669": {
         "text": 4,
@@ -5217,9 +5217,9 @@
         "total": 1
       },
       "136296492200083": {
-        "text": 15,
+        "text": 16,
         "media": 7,
-        "total": 22
+        "total": 23
       },
       "252342414905454": {
         "text": 7,
@@ -5282,9 +5282,9 @@
         "total": 4
       },
       "171214744064197": {
-        "text": 6,
+        "text": 7,
         "media": 1,
-        "total": 7
+        "total": 8
       },
       "198607978410013": {
         "text": 1,
@@ -6183,7 +6183,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "You never walk alone: Bruno\n40 anos \nSolteiro \nRio de Janeiro \nPV liberado",
         "Wellington: Bem vindo Man 🙌🏽",
         "Heloisa: Cara de 22",
         "Heloisa: Ixe ele já foi com Deus",
@@ -6682,7 +6681,8 @@
         "Luis Felipe: Eita que isso",
         "𝑳𝒂𝒚𝒉🌪🌚: Eu com meus 33 já doida pelo aposento",
         "Henrique Contri 🤫: Ave Maria 🤣🤣🤣🤣",
-        "Heloisa: Tô brincando né kkk"
+        "Heloisa: Tô brincando né kkk",
+        "Luis Felipe: sei kk"
       ]
     },
     "120363426574906687@g.us": {
@@ -6847,12 +6847,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "264308512522409",
-        "authorName": "Henrique Contri 🤫",
-        "text": "Obrigado, vc que é linda 😍",
-        "timestamp": 1788798792374
-      },
       {
         "authorNum": "166452229341300",
         "authorName": "Cristian Sntss",
@@ -7608,6 +7602,12 @@
         "authorName": "Heloisa",
         "text": "Tô brincando né kkk",
         "timestamp": 1788800588174
+      },
+      {
+        "authorNum": "136296492200083",
+        "authorName": "Luis Felipe",
+        "text": "sei kk",
+        "timestamp": 1788800597300
       }
     ],
     "120363426574906687@g.us": [
@@ -7855,7 +7855,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1659,
+    "120363023757382018@g.us": 1660,
     "120363426574906687@g.us": 141
   },
   "botDisabled": {
@@ -16107,6 +16107,12 @@
         "text": "Tô brincando né kkk",
         "pushName": "Heloisa",
         "timestamp": 1788800588174
+      },
+      "3A7CE4A918FFFAAEDD7B": {
+        "sender": "136296492200083@lid",
+        "text": "sei kk",
+        "pushName": "Luis Felipe",
+        "timestamp": 1788800597300
       }
     },
     "120363426574906687@g.us": {
@@ -16819,7 +16825,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788800588174,
+    "120363023757382018@g.us": 1788800612534,
     "120363426574906687@g.us": 1788800532095
   },
   "autoAnimSent": {
