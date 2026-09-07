@@ -4560,8 +4560,8 @@
       },
       "81991328395336": {
         "text": 41,
-        "media": 20,
-        "total": 61
+        "media": 21,
+        "total": 62
       },
       "274384656834700": {
         "text": 24,
@@ -4579,9 +4579,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 93,
-        "media": 11,
-        "total": 104
+        "text": 95,
+        "media": 12,
+        "total": 107
       },
       "206966404210884": {
         "text": 2,
@@ -4689,9 +4689,9 @@
         "total": 4
       },
       "128145298608376": {
-        "text": 19,
+        "text": 20,
         "media": 2,
-        "total": 21
+        "total": 22
       },
       "193733257609270": {
         "text": 1,
@@ -4699,9 +4699,9 @@
         "total": 2
       },
       "230365537005571": {
-        "text": 14,
+        "text": 15,
         "media": 3,
-        "total": 17
+        "total": 18
       },
       "60739813417005": {
         "text": 2,
@@ -6084,7 +6084,10 @@
         "Amaury: Então vai pra baladinha social",
         "Amaury: Kkk",
         "solteiro: Ok",
-        "xacinaluzqradiaoinferno71: eu corro todo dia 😓"
+        "xacinaluzqradiaoinferno71: eu corro todo dia 😓",
+        "Gabi 💋: Óia temos um foragido",
+        "xacinaluzqradiaoinferno71: clt é foda",
+        "solteiro: Solteira"
       ]
     },
     "120363426574906687@g.us": {
@@ -7362,6 +7365,24 @@
         "authorName": "xacinaluzqradiaoinferno71",
         "text": "eu corro todo dia 😓",
         "timestamp": 1788788395345
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Óia temos um foragido",
+        "timestamp": 1788788408152
+      },
+      {
+        "authorNum": "230365537005571",
+        "authorName": "xacinaluzqradiaoinferno71",
+        "text": "clt é foda",
+        "timestamp": 1788788414763
+      },
+      {
+        "authorNum": "128145298608376",
+        "authorName": "solteiro",
+        "text": "Solteira",
+        "timestamp": 1788788425028
       }
     ],
     "120363426574906687@g.us": [
@@ -7459,7 +7480,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 714,
+    "120363023757382018@g.us": 717,
     "120363426574906687@g.us": 48
   },
   "botDisabled": {
@@ -9936,6 +9957,24 @@
         "text": "eu corro todo dia 😓",
         "pushName": "xacinaluzqradiaoinferno71",
         "timestamp": 1788788395345
+      },
+      "ACD88E6BB634BBCF7D7797BD44FB7A9E": {
+        "sender": "247020967165997@lid",
+        "text": "Óia temos um foragido",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788788408153
+      },
+      "A5981EA395C59E81E4C758C21F65D4AF": {
+        "sender": "230365537005571@lid",
+        "text": "clt é foda",
+        "pushName": "xacinaluzqradiaoinferno71",
+        "timestamp": 1788788414764
+      },
+      "A54EB5ED2110CAD2DB4F25B1097C8567": {
+        "sender": "128145298608376@lid",
+        "text": "Solteira",
+        "pushName": "solteiro",
+        "timestamp": 1788788425028
       }
     },
     "120363426574906687@g.us": {
@@ -10087,7 +10126,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788788395345,
+    "120363023757382018@g.us": 1788788425028,
     "120363426574906687@g.us": 1788788012627
   },
   "autoAnimSent": {
