@@ -4489,9 +4489,9 @@
         "total": 89
       },
       "5511927018683": {
-        "text": 156,
+        "text": 158,
         "media": 11,
-        "total": 167
+        "total": 169
       },
       "166452229341300": {
         "text": 137,
@@ -4775,13 +4775,13 @@
       },
       "82145729097746": {
         "text": 2,
-        "media": 0,
-        "total": 2
+        "media": 1,
+        "total": 3
       },
       "262912430080093": {
-        "text": 21,
+        "text": 22,
         "media": 1,
-        "total": 22
+        "total": 23
       },
       "26659415666708": {
         "text": 6,
@@ -4874,9 +4874,9 @@
         "total": 2
       },
       "280887035965638": {
-        "text": 5,
+        "text": 6,
         "media": 1,
-        "total": 6
+        "total": 7
       },
       "220980429479955": {
         "text": 4,
@@ -4889,9 +4889,9 @@
         "total": 1
       },
       "1395881181241": {
-        "text": 5,
+        "text": 6,
         "media": 1,
-        "total": 6
+        "total": 7
       },
       "38590297972975": {
         "text": 1,
@@ -4911,6 +4911,11 @@
       "43684162711698": {
         "text": 0,
         "media": 1,
+        "total": 1
+      },
+      "12481309225010": {
+        "text": 1,
+        "media": 0,
         "total": 1
       }
     },
@@ -5781,12 +5786,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Gabi 💋: Vai explodir",
-        "jaciara: Amém 🙏🏼",
-        "renan_wesley: So pra quem acompanhou até agr vai entender lkkk",
-        "Amaury: Sério grande e bom",
-        "Cristian Sntss: Se apresente",
-        "solteiro: Solteira",
         "jaciara: Tô achando kkkk",
         "Amaury: Sério,kkkk",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Bem vindo!!",
@@ -6280,7 +6279,13 @@
         "Bruno Aguiar: Estão sem nem uma pelo jeito kkkk",
         "Heloisa: Pior que o problema não é nem a invasão ensi o problema é o que fazem após",
         "Jacke França: Bosta",
-        "Heloisa: Se empolgam"
+        "Heloisa: Se empolgam",
+        "JUNIOR: Estou aqui! So esperando vc rsrs",
+        "Davi Miranda: 14 anos",
+        "Lucas Borges: Oi",
+        "Leandro: !ban",
+        "K: Pv on pra meninas",
+        "Bruno Aguiar: Respeito 0 desses sem noção"
       ]
     },
     "120363426574906687@g.us": {
@@ -6419,12 +6424,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "!ban",
-        "timestamp": 1788791502116
-      },
       {
         "authorNum": "166452229341300",
         "authorName": "Cristian Sntss",
@@ -7306,6 +7305,42 @@
         "authorName": "Heloisa",
         "text": "Se empolgam",
         "timestamp": 1788793292896
+      },
+      {
+        "authorNum": "262912430080093",
+        "authorName": "JUNIOR",
+        "text": "Estou aqui! So esperando vc rsrs",
+        "timestamp": 1788793306488
+      },
+      {
+        "authorNum": "82145729097746",
+        "authorName": "Davi Miranda",
+        "text": "14 anos",
+        "timestamp": 1788793309836
+      },
+      {
+        "authorNum": "12481309225010",
+        "authorName": "Lucas Borges",
+        "text": "Oi",
+        "timestamp": 1788793310194
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!ban",
+        "timestamp": 1788793325989
+      },
+      {
+        "authorNum": "280887035965638",
+        "authorName": "K",
+        "text": "Pv on pra meninas",
+        "timestamp": 1788793331478
+      },
+      {
+        "authorNum": "1395881181241",
+        "authorName": "Bruno Aguiar",
+        "text": "Respeito 0 desses sem noção",
+        "timestamp": 1788793331853
       }
     ],
     "120363426574906687@g.us": [
@@ -7373,7 +7408,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 42,
-    "120363023757382018@g.us": 1089,
+    "120363023757382018@g.us": 1095,
     "120363426574906687@g.us": 90
   },
   "botDisabled": {
@@ -12120,6 +12155,42 @@
         "text": "Se empolgam",
         "pushName": "Heloisa",
         "timestamp": 1788793292896
+      },
+      "3A082C5D40A6E931D128": {
+        "sender": "262912430080093@lid",
+        "text": "Estou aqui! So esperando vc rsrs",
+        "pushName": "JUNIOR",
+        "timestamp": 1788793306488
+      },
+      "AC019A0DA1C5CE636C079AE37B233A19": {
+        "sender": "82145729097746@lid",
+        "text": "14 anos",
+        "pushName": "Davi Miranda",
+        "timestamp": 1788793309836
+      },
+      "ACF6CDF1694B16323218758784D9C3CD": {
+        "sender": "12481309225010@lid",
+        "text": "Oi",
+        "pushName": "Lucas Borges",
+        "timestamp": 1788793310194
+      },
+      "AC55A2BAC0C954140F963A64DFAC19B8": {
+        "sender": "54259127210155@lid",
+        "text": "!ban",
+        "pushName": "Leandro",
+        "timestamp": 1788793325989
+      },
+      "AC74F2944EA0D03D64EA48700633E7F9": {
+        "sender": "280887035965638@lid",
+        "text": "Pv on pra meninas",
+        "pushName": "K",
+        "timestamp": 1788793331478
+      },
+      "AC5819C10BF4EC1D024410674B0AF140": {
+        "sender": "1395881181241@lid",
+        "text": "Respeito 0 desses sem noção",
+        "pushName": "Bruno Aguiar",
+        "timestamp": 1788793331853
       }
     },
     "120363426574906687@g.us": {
@@ -12523,7 +12594,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788793177792,
-    "120363023757382018@g.us": 1788793292896,
+    "120363023757382018@g.us": 1788793331853,
     "120363426574906687@g.us": 1788793079391
   },
   "autoAnimSent": {
