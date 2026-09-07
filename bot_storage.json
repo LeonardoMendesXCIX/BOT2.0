@@ -4443,6 +4443,11 @@
         "text": 1,
         "media": 0,
         "total": 1
+      },
+      "262912430080093": {
+        "text": 1,
+        "media": 0,
+        "total": 1
       }
     },
     "120363427545094619@g.us": {
@@ -4489,9 +4494,9 @@
         "total": 149
       },
       "53537388122141": {
-        "text": 48,
+        "text": 49,
         "media": 7,
-        "total": 55
+        "total": 56
       },
       "129373172711439": {
         "text": 27,
@@ -4539,9 +4544,9 @@
         "total": 27
       },
       "92629643563147": {
-        "text": 24,
+        "text": 26,
         "media": 12,
-        "total": 36
+        "total": 38
       },
       "559984624669": {
         "text": 4,
@@ -5687,9 +5692,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Gabi 💋: Seja bem vindo",
-        "Gabi 💋: Seja bem vindo",
-        "Claudinho santos Claudinh: Obrigada",
         "𝑳𝒂𝒚𝒉🌪🌚: *Bom dia pessoal, uma segunda-feira abençoada por Deus, pra todos nós e um ótimo feriado! 🤍🙌🏻*",
         "Jefferson Lima: Obg Gabi..",
         "𝑳𝒂𝒚𝒉🌪🌚: Sejam todos bem vindos🙌🏾",
@@ -6186,7 +6188,10 @@
         "John 😎: Obrigado!",
         "Heloisa: Kkk mentira tô brincando",
         "solteiro: Ok",
-        "Camila Designer: !fechar"
+        "Camila Designer: !fechar",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Tá aprendendo, bonita kkkk",
+        "Camila Designer: *🚨 REGRAS IMPORTANTES*\n\n❌ Proibido invadir PV sem autorização.\n❌ Respeite todos os participantes do grupo.\n\n🔊 Seja muito bem-vindo(a)! 🤝\n\n*Quem descumprir essas regras serão removidos imediatamente",
+        "Camila Designer: !abrir"
       ]
     },
     "120363426574906687@g.us": {
@@ -6275,12 +6280,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "21595850563820",
-        "authorName": "IRINEU FREITAS 🫥🤪",
-        "text": "?",
-        "timestamp": 1788788707495
-      },
       {
         "authorNum": "152274357751809",
         "authorName": "Heloisa",
@@ -7162,6 +7161,24 @@
         "authorName": "Camila Designer",
         "text": "!fechar",
         "timestamp": 1788790439317
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Tá aprendendo, bonita kkkk",
+        "timestamp": 1788790517222
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "*🚨 REGRAS IMPORTANTES*\n\n❌ Proibido invadir PV sem autorização.\n❌ Respeite todos os participantes do grupo.\n\n🔊 Seja muito bem-vindo(a)! 🤝\n\n*Quem descumprir essas regras serão removidos imediatamente do grupo!*",
+        "timestamp": 1788790525288
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "!abrir",
+        "timestamp": 1788790530272
       }
     ],
     "120363426574906687@g.us": [
@@ -7289,7 +7306,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 885,
+    "120363023757382018@g.us": 888,
     "120363426574906687@g.us": 65
   },
   "botDisabled": {
@@ -7309,7 +7326,7 @@
     "120363409024805409@g.us": false,
     "120363409496810190@g.us": true,
     "120363428233177583@g.us": true,
-    "120363023757382018@g.us": true,
+    "120363023757382018@g.us": false,
     "120363313059060675@g.us": true
   },
   "queuedWelcomes": {
@@ -10787,6 +10804,24 @@
         "text": "!fechar",
         "pushName": "Camila Designer",
         "timestamp": 1788790439317
+      },
+      "AC9862C4601A09D4C71B7670B347A636": {
+        "sender": "53537388122141@lid",
+        "text": "Tá aprendendo, bonita kkkk",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788790517222
+      },
+      "2A74708417EF07895A98": {
+        "sender": "92629643563147@lid",
+        "text": "*🚨 REGRAS IMPORTANTES*\n\n❌ Proibido invadir PV sem autorização.\n❌ Respeite todos os participantes do grupo.\n\n🔊 Seja muito bem-vindo(a)! 🤝\n\n*Quem descumprir essas regras serão removidos imediatamente do grupo!*",
+        "pushName": "Camila Designer",
+        "timestamp": 1788790525288
+      },
+      "2AA63C6AF9582EC9D761": {
+        "sender": "92629643563147@lid",
+        "text": "!abrir",
+        "pushName": "Camila Designer",
+        "timestamp": 1788790530272
       }
     },
     "120363426574906687@g.us": {
@@ -11038,9 +11073,9 @@
     "120363409024805409@g.us": 1788754484305,
     "120363411043114631@g.us": 1787897464612,
     "120363409367298221@g.us": 1788158816417,
-    "120363313059060675@g.us": 1788753763433,
+    "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788790466626,
+    "120363023757382018@g.us": 1788790530272,
     "120363426574906687@g.us": 1788790472191
   },
   "autoAnimSent": {
