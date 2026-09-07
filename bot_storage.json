@@ -4507,9 +4507,9 @@
         "total": 181
       },
       "166452229341300": {
-        "text": 282,
+        "text": 283,
         "media": 84,
-        "total": 366
+        "total": 367
       },
       "53537388122141": {
         "text": 156,
@@ -4562,9 +4562,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 227,
+        "text": 228,
         "media": 127,
-        "total": 354
+        "total": 355
       },
       "559984624669": {
         "text": 4,
@@ -4932,9 +4932,9 @@
         "total": 1
       },
       "36645315321925": {
-        "text": 25,
-        "media": 2,
-        "total": 27
+        "text": 26,
+        "media": 3,
+        "total": 29
       },
       "187845394358417": {
         "text": 1,
@@ -6214,9 +6214,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "jaciara: Tudo tem haver",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Obrigada amiga",
-        "Camila Designer: Cadê o @118515428286715 heim 😏😏😏",
         "Gabi 💋: Ele está muito quieto",
         "Camila Designer: Você viu o vídeo que ele mandou @247020967165997",
         "Gabi 💋: Hum vamos vê se a pinça fecha uma mão ou dois dedos",
@@ -6713,7 +6710,10 @@
         "Felippo: quer vim não? me ajudar",
         "solteiro: Oiii",
         "Camila Designer: Esperando me buscar ué kkk",
-        "sorveteria: 😳"
+        "sorveteria: 😳",
+        "Felippo: o meu amor, vou lhe buscar mas a gente só bebe mais tarde",
+        "Cristian Sntss: Não \nPq?",
+        "Camila Designer: Bem vinda @221307534876912 !\nSe apresente!"
       ]
     },
     "120363426574906687@g.us": {
@@ -6967,24 +6967,6 @@
     ],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "O homi da meia",
-        "timestamp": 1788808829219
-      },
-      {
-        "authorNum": "241261818728589",
-        "authorName": "sorveteria",
-        "text": "43",
-        "timestamp": 1788808830112
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Oi Pedro 😏, mais tarde vai saber",
-        "timestamp": 1788808831036
-      },
       {
         "authorNum": "182738040713418",
         "authorName": "Wellington",
@@ -7650,6 +7632,24 @@
         "authorName": "sorveteria",
         "text": "😳",
         "timestamp": 1788810612680
+      },
+      {
+        "authorNum": "36645315321925",
+        "authorName": "Felippo",
+        "text": "o meu amor, vou lhe buscar mas a gente só bebe mais tarde",
+        "timestamp": 1788810618011
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Não \nPq?",
+        "timestamp": 1788810624556
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Bem vinda @221307534876912 !\nSe apresente!",
+        "timestamp": 1788810636228
       }
     ],
     "120363426574906687@g.us": []
@@ -7674,7 +7674,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2517,
+    "120363023757382018@g.us": 2520,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -21198,6 +21198,24 @@
         "text": "😳",
         "pushName": "sorveteria",
         "timestamp": 1788810612680
+      },
+      "3A13D1DAEF0BBA36854F": {
+        "sender": "36645315321925@lid",
+        "text": "o meu amor, vou lhe buscar mas a gente só bebe mais tarde",
+        "pushName": "Felippo",
+        "timestamp": 1788810618011
+      },
+      "A57CDE3CAF5F7905FEA1F69015EFE117": {
+        "sender": "166452229341300@lid",
+        "text": "Não \nPq?",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788810624556
+      },
+      "2A09A4928B155410ADAD": {
+        "sender": "92629643563147@lid",
+        "text": "Bem vinda @221307534876912 !\nSe apresente!",
+        "pushName": "Camila Designer",
+        "timestamp": 1788810636228
       }
     },
     "120363426574906687@g.us": {
@@ -22138,7 +22156,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788810612680,
+    "120363023757382018@g.us": 1788810636228,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
