@@ -5026,9 +5026,9 @@
         "total": 2
       },
       "176549663916038": {
-        "text": 11,
+        "text": 12,
         "media": 8,
-        "total": 19
+        "total": 20
       },
       "207610548584554": {
         "text": 1,
@@ -5074,6 +5074,21 @@
         "text": 1,
         "media": 0,
         "total": 1
+      },
+      "232924968419570": {
+        "text": 1,
+        "media": 0,
+        "total": 1
+      },
+      "102650456625285": {
+        "text": 1,
+        "media": 0,
+        "total": 1
+      },
+      "149882211954810": {
+        "text": 2,
+        "media": 0,
+        "total": 2
       }
     },
     "120363426574906687@g.us": {
@@ -5955,10 +5970,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Cristian Sntss: Sim \nAcho lindo esse estilo",
-        "Heloisa: Nada e vc ?",
-        "Camila Designer: Eu queria que o meu ficasse assim 🥹🥹🥹",
-        "Gabi 💋: Da trabalho",
         "Camila Designer: Acho muito estiloso",
         "lucas santos: nd apenas falando cm vc e aproveitando o feriado",
         "Gabi 💋: Hoje é dia de da trabalho o cabelo",
@@ -6454,7 +6465,11 @@
         "😃: Resenhas",
         "Heloisa: Kkkk",
         "Juliano Perlin: Bem vindo q entrou",
-        "junior: Boa tarde grupo"
+        "junior: Boa tarde grupo",
+        "Pedro🫰: João Pedro \n28 anos \nJoinville \nHetero",
+        "Ze Amaro24752: 👀",
+        "Juan Fernando Vázquez😘: Hola",
+        "😃: Oi Sabrina"
       ]
     },
     "120363426574906687@g.us": {
@@ -6632,54 +6647,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "152274357751809",
-        "authorName": "Heloisa",
-        "text": "Do nada uns número árabe",
-        "timestamp": 1788793702100
-      },
-      {
-        "authorNum": "251397924761795",
-        "authorName": "Hildecio Paulo",
-        "text": "Oi",
-        "timestamp": 1788793704443
-      },
-      {
-        "authorNum": "111141304930334",
-        "authorName": "⚡",
-        "text": "Bom dia",
-        "timestamp": 1788793725665
-      },
-      {
-        "authorNum": "251397924761795",
-        "authorName": "Hildecio Paulo",
-        "text": "Bom dia",
-        "timestamp": 1788793736843
-      },
-      {
-        "authorNum": "251397924761795",
-        "authorName": "Hildecio Paulo",
-        "text": "Paulo dede",
-        "timestamp": 1788793742875
-      },
-      {
-        "authorNum": "105197019918407",
-        "authorName": "Nalguda Ganesh",
-        "text": "🥰",
-        "timestamp": 1788793745562
-      },
-      {
-        "authorNum": "251397924761795",
-        "authorName": "Hildecio Paulo",
-        "text": "Mg",
-        "timestamp": 1788793747480
-      },
-      {
-        "authorNum": "105197019918407",
-        "authorName": "Nalguda Ganesh",
-        "text": "🥰",
-        "timestamp": 1788793751275
-      },
       {
         "authorNum": "105197019918407",
         "authorName": "Nalguda Ganesh",
@@ -7531,6 +7498,30 @@
         "authorName": "junior",
         "text": "Boa tarde grupo",
         "timestamp": 1788795494873
+      },
+      {
+        "authorNum": "232924968419570",
+        "authorName": "Pedro🫰",
+        "text": "João Pedro \n28 anos \nJoinville \nHetero",
+        "timestamp": 1788795542512
+      },
+      {
+        "authorNum": "102650456625285",
+        "authorName": "Ze Amaro24752",
+        "text": "👀",
+        "timestamp": 1788795544576
+      },
+      {
+        "authorNum": "149882211954810",
+        "authorName": "Juan Fernando Vázquez😘",
+        "text": "Hola",
+        "timestamp": 1788795552171
+      },
+      {
+        "authorNum": "176549663916038",
+        "authorName": "😃",
+        "text": "Oi Sabrina",
+        "timestamp": 1788795553224
       }
     ],
     "120363426574906687@g.us": [
@@ -7574,7 +7565,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 54,
-    "120363023757382018@g.us": 1261,
+    "120363023757382018@g.us": 1265,
     "120363426574906687@g.us": 93
   },
   "botDisabled": {
@@ -13425,6 +13416,30 @@
         "text": "Boa tarde grupo",
         "pushName": "junior",
         "timestamp": 1788795494873
+      },
+      "ACB160435FCA4CA4DFCE3B0293F722E2": {
+        "sender": "232924968419570@lid",
+        "text": "João Pedro \n28 anos \nJoinville \nHetero",
+        "pushName": "Pedro🫰",
+        "timestamp": 1788795542512
+      },
+      "ACA88AD0551AB883C37112775B91B348": {
+        "sender": "102650456625285@lid",
+        "text": "👀",
+        "pushName": "Ze Amaro24752",
+        "timestamp": 1788795544576
+      },
+      "ACCFECD38E245FD80D2864621E5022D1": {
+        "sender": "149882211954810@lid",
+        "text": "Hola",
+        "pushName": "Juan Fernando Vázquez😘",
+        "timestamp": 1788795552172
+      },
+      "AC6614D86D43FB4DEC59DBB3C2E6B951": {
+        "sender": "176549663916038@lid",
+        "text": "Oi Sabrina",
+        "pushName": "😃",
+        "timestamp": 1788795553224
       }
     },
     "120363426574906687@g.us": {
@@ -13846,7 +13861,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788795451490,
-    "120363023757382018@g.us": 1788795510775,
+    "120363023757382018@g.us": 1788795553224,
     "120363426574906687@g.us": 1788795383928
   },
   "autoAnimSent": {
