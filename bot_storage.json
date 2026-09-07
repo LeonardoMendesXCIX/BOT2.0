@@ -4512,9 +4512,9 @@
         "total": 199
       },
       "5511927018683": {
-        "text": 179,
+        "text": 180,
         "media": 12,
-        "total": 191
+        "total": 192
       },
       "166452229341300": {
         "text": 300,
@@ -4522,9 +4522,9 @@
         "total": 388
       },
       "53537388122141": {
-        "text": 182,
+        "text": 183,
         "media": 18,
-        "total": 200
+        "total": 201
       },
       "129373172711439": {
         "text": 121,
@@ -4543,8 +4543,8 @@
       },
       "222595437858867": {
         "text": 71,
-        "media": 5,
-        "total": 76
+        "media": 6,
+        "total": 77
       },
       "9431798554859": {
         "text": 2,
@@ -5337,9 +5337,9 @@
         "total": 6
       },
       "79728216113177": {
-        "text": 13,
-        "media": 7,
-        "total": 20
+        "text": 14,
+        "media": 8,
+        "total": 22
       }
     },
     "120363426574906687@g.us": {
@@ -6244,8 +6244,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Saul: Siim",
-        "jaciara: Sim",
         "Camila Designer: Até aqui é +18",
         "Camila Designer: Kkkk",
         "Henrique Contri 🤫: De pinça eu falo kk",
@@ -6743,7 +6741,9 @@
         "Victor: abre que horas mesmo?",
         "Kaio Mendes: Sou adm tão oculto q nem o Leandro sabe",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: kkkkkkkkkkkkkkkkkkk",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Obrigada o elogioooo!!\n@all"
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Obrigada o elogioooo!!\n@all",
+        "Leandro: Tô sabendo disso não 🌝",
+        "Kaio Mendes: Oloko mano Leandro"
       ]
     },
     "120363426574906687@g.us": {
@@ -6947,12 +6947,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "Verdade",
-        "timestamp": 1788811654563
-      },
       {
         "authorNum": "182738040713418",
         "authorName": "Wellington",
@@ -7474,6 +7468,18 @@
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "text": "Obrigada o elogioooo!!\n@all",
         "timestamp": 1788813452573
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Tô sabendo disso não 🌝",
+        "timestamp": 1788813473616
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "Oloko mano Leandro",
+        "timestamp": 1788813486704
       }
     ],
     "120363426574906687@g.us": []
@@ -7498,7 +7504,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2667,
+    "120363023757382018@g.us": 2669,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -21913,6 +21919,18 @@
         "text": "Obrigada o elogioooo!!\n@all",
         "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "timestamp": 1788813452573
+      },
+      "AC6E1A0701BE5D559ADCB8F32A695A10": {
+        "sender": "54259127210155@lid",
+        "text": "Tô sabendo disso não 🌝",
+        "pushName": "Leandro",
+        "timestamp": 1788813473616
+      },
+      "AC6B365D14263B3E5F9500D0818DABB1": {
+        "sender": "79728216113177@lid",
+        "text": "Oloko mano Leandro",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788813486704
       }
     },
     "120363426574906687@g.us": {
@@ -22853,7 +22871,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788813458103,
+    "120363023757382018@g.us": 1788813493956,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
