@@ -5143,9 +5143,9 @@
         "total": 12
       },
       "81991328395336": {
-        "text": 7,
+        "text": 8,
         "media": 1,
-        "total": 8
+        "total": 9
       }
     }
   },
@@ -6609,7 +6609,8 @@
         "Cristian Sntss: O negócio d membros",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Ativei",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: FODASE",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Vou almoçar"
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Vou almoçar",
+        "𝑳𝒂𝒚𝒉🌪🌚: Obgd AMG"
       ]
     }
   },
@@ -7560,6 +7561,12 @@
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "text": "Vou almoçar",
         "timestamp": 1788796606187
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Obgd AMG",
+        "timestamp": 1788796664927
       }
     ]
   },
@@ -7584,7 +7591,7 @@
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
     "120363023757382018@g.us": 1348,
-    "120363426574906687@g.us": 103
+    "120363426574906687@g.us": 104
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -14355,6 +14362,12 @@
         "text": "Vou almoçar",
         "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "timestamp": 1788796606187
+      },
+      "ACCC3DA944F6F0895A9A8F6DB8645B66": {
+        "sender": "81991328395336@lid",
+        "text": "Obgd AMG",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1788796664928
       }
     }
   },
@@ -14454,7 +14467,7 @@
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
     "120363023757382018@g.us": 1788796628659,
-    "120363426574906687@g.us": 1788796642852
+    "120363426574906687@g.us": 1788796664927
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
