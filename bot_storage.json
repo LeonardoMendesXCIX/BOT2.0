@@ -4487,9 +4487,9 @@
         "total": 5
       },
       "108461127897146": {
-        "text": 114,
+        "text": 115,
         "media": 34,
-        "total": 148
+        "total": 149
       },
       "5511927018683": {
         "text": 164,
@@ -4552,9 +4552,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 132,
+        "text": 133,
         "media": 78,
-        "total": 210
+        "total": 211
       },
       "559984624669": {
         "text": 4,
@@ -6195,7 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "𝕰𝖛𝖆𝖓𝖉𝖗𝖔 𝕬𝖑𝖛𝖊𝖘: Os manos sem noção",
         "Luis Felipe: Né",
         "Francisco Silva: Cadê homem trouxa kkk",
         "Heloisa: Sim. Os que mais tem",
@@ -6694,7 +6693,8 @@
         "Camila Designer: @118515428286715 minha amiga mandou perguntar se queria dar um passeio em Minas?🫣",
         "Saul: Eles gostas da chamyto?",
         "Saul: Tá cheio aqui na geladeira",
-        "jaciara: Os filhos da minha amiga não tem preferência de marca"
+        "jaciara: Os filhos da minha amiga não tem preferência de marca",
+        "Camila Designer: Minha amiga tem uma filha que só toma dessa marca 🤣🤣🤣"
       ]
     },
     "120363426574906687@g.us": {
@@ -6896,12 +6896,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Aqui",
-        "timestamp": 1788803927667
-      },
       {
         "authorNum": "108461127897146",
         "authorName": "jaciara",
@@ -7789,6 +7783,12 @@
         "authorName": "jaciara",
         "text": "Os filhos da minha amiga não tem preferência de marca",
         "timestamp": 1788805709691
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Minha amiga tem uma filha que só toma dessa marca 🤣🤣🤣",
+        "timestamp": 1788805730588
       }
     ],
     "120363426574906687@g.us": [
@@ -7952,7 +7952,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2123,
+    "120363023757382018@g.us": 2124,
     "120363426574906687@g.us": 178
   },
   "botDisabled": {
@@ -19055,6 +19055,12 @@
         "text": "Os filhos da minha amiga não tem preferência de marca",
         "pushName": "jaciara",
         "timestamp": 1788805709692
+      },
+      "2A2345F4383BF7B9869B": {
+        "sender": "92629643563147@lid",
+        "text": "Minha amiga tem uma filha que só toma dessa marca 🤣🤣🤣",
+        "pushName": "Camila Designer",
+        "timestamp": 1788805730588
       }
     },
     "120363426574906687@g.us": {
@@ -19983,7 +19989,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788805709691,
+    "120363023757382018@g.us": 1788805730588,
     "120363426574906687@g.us": 1788805706271
   },
   "autoAnimSent": {
