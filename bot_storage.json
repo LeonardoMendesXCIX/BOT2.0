@@ -4572,9 +4572,9 @@
         "total": 9
       },
       "81991328395336": {
-        "text": 120,
-        "media": 34,
-        "total": 154
+        "text": 122,
+        "media": 35,
+        "total": 157
       },
       "274384656834700": {
         "text": 33,
@@ -4767,9 +4767,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 145,
+        "text": 146,
         "media": 1,
-        "total": 146
+        "total": 147
       },
       "89305909317735": {
         "text": 1,
@@ -5217,9 +5217,9 @@
         "total": 1
       },
       "136296492200083": {
-        "text": 22,
+        "text": 23,
         "media": 7,
-        "total": 29
+        "total": 30
       },
       "252342414905454": {
         "text": 7,
@@ -6183,10 +6183,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "welkeazevedo: Tem mais aí do estado de MT aqui.",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Mulher pq tu removeu? 😂",
-        "𝑳𝒂𝒚𝒉🌪🌚: Fui remover um e acabei tirando ele",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: 😂",
         "Cristian Sntss: O nome dele até eu pensei",
         "Heloisa: Kkk",
         "Filipe Oliveira☺️☺️: Eu sou Filipe eu tenho 31 anos",
@@ -6682,7 +6678,11 @@
         "Cristian Sntss: Vai lá",
         "Luis Felipe: kkk vai vc então",
         "Henrique Contri 🤫: Hj tô de folga 🤣",
-        "Luis Felipe: mesmo assim só ir"
+        "Luis Felipe: mesmo assim só ir",
+        "𝑳𝒂𝒚𝒉🌪🌚: E ir de arrasta",
+        "𝑳𝒂𝒚𝒉🌪🌚: Com a fome que tu tá",
+        "Luis Felipe: Né kk",
+        "Heloisa: Vamos fazer nada juntos"
       ]
     },
     "120363426574906687@g.us": {
@@ -6850,24 +6850,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "Queria ter essa vocação",
-        "timestamp": 1788799053798
-      },
-      {
-        "authorNum": "279997843558644",
-        "authorName": "ds8582834",
-        "text": "Você consegue",
-        "timestamp": 1788799062995
-      },
-      {
-        "authorNum": "279997843558644",
-        "authorName": "ds8582834",
-        "text": "Só ter disposição",
-        "timestamp": 1788799068339
-      },
       {
         "authorNum": "41786424737860",
         "authorName": "retroboy",
@@ -7617,6 +7599,30 @@
         "authorName": "Luis Felipe",
         "text": "mesmo assim só ir",
         "timestamp": 1788800841577
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "E ir de arrasta",
+        "timestamp": 1788800854971
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Com a fome que tu tá",
+        "timestamp": 1788800863338
+      },
+      {
+        "authorNum": "136296492200083",
+        "authorName": "Luis Felipe",
+        "text": "Né kk",
+        "timestamp": 1788800873217
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Vamos fazer nada juntos",
+        "timestamp": 1788800874051
       }
     ],
     "120363426574906687@g.us": [
@@ -7864,7 +7870,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1677,
+    "120363023757382018@g.us": 1681,
     "120363426574906687@g.us": 144
   },
   "botDisabled": {
@@ -16224,6 +16230,30 @@
         "text": "mesmo assim só ir",
         "pushName": "Luis Felipe",
         "timestamp": 1788800841577
+      },
+      "ACCC2585EE723A4885D4E1372E41864E": {
+        "sender": "81991328395336@lid",
+        "text": "E ir de arrasta",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1788800854971
+      },
+      "AC3C06E84393250374ED26A53CF82E3E": {
+        "sender": "81991328395336@lid",
+        "text": "Com a fome que tu tá",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1788800863338
+      },
+      "3A999EA93B03D67363F4": {
+        "sender": "136296492200083@lid",
+        "text": "Né kk",
+        "pushName": "Luis Felipe",
+        "timestamp": 1788800873218
+      },
+      "ACD31483CCD0B23E4AF9A6DA1D0DE54C": {
+        "sender": "152274357751809@lid",
+        "text": "Vamos fazer nada juntos",
+        "pushName": "Heloisa",
+        "timestamp": 1788800874052
       }
     },
     "120363426574906687@g.us": {
@@ -16954,7 +16984,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788800841577,
+    "120363023757382018@g.us": 1788800874051,
     "120363426574906687@g.us": 1788800679780
   },
   "autoAnimSent": {
