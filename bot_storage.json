@@ -4512,9 +4512,9 @@
         "total": 224
       },
       "5511927018683": {
-        "text": 226,
+        "text": 227,
         "media": 22,
-        "total": 248
+        "total": 249
       },
       "166452229341300": {
         "text": 340,
@@ -4557,9 +4557,9 @@
         "total": 35
       },
       "262182034002040": {
-        "text": 100,
+        "text": 101,
         "media": 10,
-        "total": 110
+        "total": 111
       },
       "199733712785531": {
         "text": 4,
@@ -5337,9 +5337,9 @@
         "total": 7
       },
       "79728216113177": {
-        "text": 109,
+        "text": 110,
         "media": 47,
-        "total": 156
+        "total": 157
       },
       "108147461074988": {
         "text": 1,
@@ -6266,9 +6266,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Camila Designer: E como está aqui?👀",
-        "Juliano Perlin: To falando através de uma batata🤣🤣🤣",
-        "Cristian Sntss: A pessoa não ter capacidade de cria  um e vim caça pau pra cabeça nos grupos alheios",
         "Cristian Sntss: E o fin da picada",
         "Victor: ele provavelmente tem mesmo, mas essa função aí é normal, todo mundo tem",
         "Camila Designer: Picada 👀👀👀",
@@ -6765,7 +6762,10 @@
         "Wellington: Aaaah tá bom a carne é fraca",
         "Wellington: Não dá não",
         "Camila Designer: Mas eu sei que seu espírito está forte 😏😏😏",
-        "Kaio Mendes: 🕯️🕯️🕯️🕯️🕯️🕯️"
+        "Kaio Mendes: 🕯️🕯️🕯️🕯️🕯️🕯️",
+        "Kaio Mendes: Auikiatiuba",
+        "Leandro: !ban",
+        "Dany: @53537388122141 @81991328395336"
       ]
     },
     "120363426574906687@g.us": {
@@ -7307,6 +7307,24 @@
         "authorName": "Kaio Mendes",
         "text": "🕯️🕯️🕯️🕯️🕯️🕯️",
         "timestamp": 1788820808731
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "Auikiatiuba",
+        "timestamp": 1788820856424
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!ban",
+        "timestamp": 1788820876303
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "@53537388122141 @81991328395336",
+        "timestamp": 1788820881384
       }
     ],
     "120363426574906687@g.us": []
@@ -7331,7 +7349,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 486,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 3058,
+    "120363023757382018@g.us": 3061,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -24153,6 +24171,24 @@
         "text": "🕯️🕯️🕯️🕯️🕯️🕯️",
         "pushName": "Kaio Mendes",
         "timestamp": 1788820808731
+      },
+      "AC7326ACCE3EBAF38E745465143E3504": {
+        "sender": "79728216113177@lid",
+        "text": "Auikiatiuba",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788820856424
+      },
+      "AC58B73AE02D95FC632C15D814AAF94D": {
+        "sender": "54259127210155@lid",
+        "text": "!ban",
+        "pushName": "Leandro",
+        "timestamp": 1788820876304
+      },
+      "3AC9E9A9BF164DBF5341": {
+        "sender": "262182034002040@lid",
+        "text": "@53537388122141 @81991328395336",
+        "pushName": "Dany",
+        "timestamp": 1788820881384
       }
     },
     "120363426574906687@g.us": {
@@ -25099,7 +25135,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788819771459,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788820808731,
+    "120363023757382018@g.us": 1788820881384,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
