@@ -4512,9 +4512,9 @@
         "total": 199
       },
       "5511927018683": {
-        "text": 169,
+        "text": 170,
         "media": 12,
-        "total": 181
+        "total": 182
       },
       "166452229341300": {
         "text": 296,
@@ -4587,9 +4587,9 @@
         "total": 1
       },
       "182738040713418": {
-        "text": 43,
+        "text": 44,
         "media": 15,
-        "total": 58
+        "total": 59
       },
       "81991328395336": {
         "text": 141,
@@ -4627,9 +4627,9 @@
         "total": 6
       },
       "254884934881353": {
-        "text": 45,
+        "text": 47,
         "media": 7,
-        "total": 52
+        "total": 54
       },
       "45479878459474": {
         "text": 1,
@@ -6244,10 +6244,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Saul: Eles gostas da chamyto?",
-        "Saul: Tá cheio aqui na geladeira",
-        "jaciara: Os filhos da minha amiga não tem preferência de marca",
-        "Camila Designer: Minha amiga tem uma filha que só toma dessa marca 🤣🤣🤣",
         "Saul: Se eu comprar o Danone pra eles, a amiga toma meu leite?",
         "jaciara: Ela adora",
         "jaciara: Ops",
@@ -6743,7 +6739,11 @@
         "P: vcs são guerreiras",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Bem vindo, é novo por aqui? Já se apresentou?",
         "𝑳𝒂𝒚𝒉🌪🌚: @129373172711439",
-        ": @129373172711439"
+        ": @129373172711439",
+        "P: Vish",
+        "P: Número gringo",
+        "Wellington: Mensagem anônima que não é tão anônima assim kkkk",
+        "Leandro: !ban @240617657508056"
       ]
     },
     "120363426574906687@g.us": {
@@ -6947,18 +6947,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "59623457439943",
-        "authorName": "Victor",
-        "text": "só postar um status e marcar o grupo",
-        "timestamp": 1788811149953
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Só faltou a foto amigo! Seja bem vindo!☺️",
-        "timestamp": 1788811166735
-      },
       {
         "authorNum": "182738040713418",
         "authorName": "Wellington",
@@ -7276,6 +7264,30 @@
         "authorName": "",
         "text": "@129373172711439",
         "timestamp": 1788812946151
+      },
+      {
+        "authorNum": "254884934881353",
+        "authorName": "P",
+        "text": "Vish",
+        "timestamp": 1788812974903
+      },
+      {
+        "authorNum": "254884934881353",
+        "authorName": "P",
+        "text": "Número gringo",
+        "timestamp": 1788812977792
+      },
+      {
+        "authorNum": "182738040713418",
+        "authorName": "Wellington",
+        "text": "Mensagem anônima que não é tão anônima assim kkkk",
+        "timestamp": 1788812983940
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!ban @240617657508056",
+        "timestamp": 1788812989056
       }
     ],
     "120363426574906687@g.us": []
@@ -7300,7 +7312,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2620,
+    "120363023757382018@g.us": 2624,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -21439,6 +21451,30 @@
         "text": "@129373172711439",
         "pushName": "",
         "timestamp": 1788812946151
+      },
+      "3A3EECDFABF9B54FBA7B": {
+        "sender": "254884934881353@lid",
+        "text": "Vish",
+        "pushName": "P",
+        "timestamp": 1788812974903
+      },
+      "3AFA9F262D3A7C2D5339": {
+        "sender": "254884934881353@lid",
+        "text": "Número gringo",
+        "pushName": "P",
+        "timestamp": 1788812977792
+      },
+      "ACFAC7FC1D072099AF3B5547332B0CDD": {
+        "sender": "182738040713418@lid",
+        "text": "Mensagem anônima que não é tão anônima assim kkkk",
+        "pushName": "Wellington",
+        "timestamp": 1788812983940
+      },
+      "AC924974E20CDBE42E3CF1E1BAED1F54": {
+        "sender": "54259127210155@lid",
+        "text": "!ban @240617657508056",
+        "pushName": "Leandro",
+        "timestamp": 1788812989056
       }
     },
     "120363426574906687@g.us": {
@@ -22379,7 +22415,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788812949679,
+    "120363023757382018@g.us": 1788812989056,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
