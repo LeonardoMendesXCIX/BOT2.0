@@ -4477,9 +4477,9 @@
         "total": 34
       },
       "5511927018683": {
-        "text": 128,
+        "text": 129,
         "media": 10,
-        "total": 138
+        "total": 139
       },
       "166452229341300": {
         "text": 40,
@@ -4607,9 +4607,9 @@
         "total": 2
       },
       "42769972252769": {
-        "text": 1,
+        "text": 3,
         "media": 0,
-        "total": 1
+        "total": 3
       }
     },
     "120363426574906687@g.us": {
@@ -13196,7 +13196,10 @@
         "🌷: Oie",
         "Leandro: @178855960649758",
         "Leandro: !sa 🚨 APRESENTAÇÃO OBRIGATÓRIA!\n\n*📸 Foto de rosto visível + Nome, Idade, Cidade/Estado  orientação sexual*\n\n👤 PV LIBERADO ou 🔒 PV FECHADO — mantenha a etiqueta visível.  \n\n❌ Proibido invadir PV \n\n",
-        "Leandro: !del"
+        "Leandro: !del",
+        "Leandro: !del",
+        "🌷: tem que se apresentar eh?",
+        "🌷: sim amg"
       ]
     },
     "120363426574906687@g.us": {
@@ -13398,6 +13401,24 @@
         "authorName": "Leandro",
         "text": "!del",
         "timestamp": 1788756240541
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!del",
+        "timestamp": 1788756256045
+      },
+      {
+        "authorNum": "42769972252769",
+        "authorName": "🌷",
+        "text": "tem que se apresentar eh?",
+        "timestamp": 1788756263001
+      },
+      {
+        "authorNum": "42769972252769",
+        "authorName": "🌷",
+        "text": "sim amg",
+        "timestamp": 1788756291727
       }
     ],
     "120363426574906687@g.us": []
@@ -13422,7 +13443,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 33,
-    "120363023757382018@g.us": 329,
+    "120363023757382018@g.us": 332,
     "120363426574906687@g.us": 36
   },
   "botDisabled": {
@@ -34284,6 +34305,24 @@
         "text": "!del",
         "pushName": "Leandro",
         "timestamp": 1788756240541
+      },
+      "AC2388066F39D05559DC794AEA735B4C": {
+        "sender": "54259127210155@lid",
+        "text": "!del",
+        "pushName": "Leandro",
+        "timestamp": 1788756256045
+      },
+      "AC0F88D00A916EB426A80133DF6F01F7": {
+        "sender": "42769972252769@lid",
+        "text": "tem que se apresentar eh?",
+        "pushName": "🌷",
+        "timestamp": 1788756263001
+      },
+      "ACBDA0632DA1A9660F9185A268F7AAA6": {
+        "sender": "42769972252769@lid",
+        "text": "sim amg",
+        "pushName": "🌷",
+        "timestamp": 1788756291727
       }
     },
     "120363426574906687@g.us": {
@@ -34591,7 +34630,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788755502872,
-    "120363023757382018@g.us": 1788756240541,
+    "120363023757382018@g.us": 1788756291727,
     "120363426574906687@g.us": 1788725639102
   },
   "autoAnimSent": {
