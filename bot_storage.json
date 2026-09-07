@@ -4767,9 +4767,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 113,
+        "text": 115,
         "media": 1,
-        "total": 114
+        "total": 116
       },
       "89305909317735": {
         "text": 1,
@@ -5148,8 +5148,8 @@
       },
       "194377938911429": {
         "text": 2,
-        "media": 0,
-        "total": 2
+        "media": 2,
+        "total": 4
       },
       "81531615858788": {
         "text": 1,
@@ -5222,9 +5222,9 @@
         "total": 3
       },
       "252342414905454": {
-        "text": 3,
+        "text": 6,
         "media": 0,
-        "total": 3
+        "total": 6
       },
       "118528279593092": {
         "text": 2,
@@ -5232,11 +5232,21 @@
         "total": 3
       },
       "183137506173038": {
-        "text": 7,
+        "text": 8,
         "media": 0,
-        "total": 7
+        "total": 8
       },
       "241261818728589": {
+        "text": 1,
+        "media": 0,
+        "total": 1
+      },
+      "259588561625272": {
+        "text": 1,
+        "media": 0,
+        "total": 1
+      },
+      "41786424737860": {
         "text": 1,
         "media": 0,
         "total": 1
@@ -6123,11 +6133,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "P: Admitiu",
-        "Dani: Lindona",
-        "Heloisa: Obrigada",
-        "Douglas🙏: Heloísa ❤️",
-        "Douglas🙏: Tchê",
         "Douglas🙏: Heloísa ❤️",
         "Douglas🙏: 🙈",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: @152274357751809 alguém está incomodando você no Pv? Se preferir, eu removo aqui também",
@@ -6622,7 +6627,12 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Tá puro suco do caps isso aqui",
         "Luis carlos: 🤔🤔",
         "𝕰𝖛𝖆𝖓𝖉𝖗𝖔 𝕬𝖑𝖛𝖊𝖘: Obrigado 🙂",
-        "Luis carlos: Comigo"
+        "Luis carlos: Comigo",
+        "Luis carlos: ???",
+        "Jefinho: 👀👀👀👀",
+        "Jefinho: Saiu",
+        "Jefinho: Que barbaridade",
+        "retroboy: Lucas, 19 anos, Guarulhos SP hétero"
       ]
     },
     "120363426574906687@g.us": {
@@ -7709,6 +7719,36 @@
         "authorName": "Luis carlos",
         "text": "Comigo",
         "timestamp": 1788798522900
+      },
+      {
+        "authorNum": "183137506173038",
+        "authorName": "Luis carlos",
+        "text": "???",
+        "timestamp": 1788798526412
+      },
+      {
+        "authorNum": "252342414905454",
+        "authorName": "Jefinho",
+        "text": "👀👀👀👀",
+        "timestamp": 1788798527313
+      },
+      {
+        "authorNum": "252342414905454",
+        "authorName": "Jefinho",
+        "text": "Saiu",
+        "timestamp": 1788798554665
+      },
+      {
+        "authorNum": "252342414905454",
+        "authorName": "Jefinho",
+        "text": "Que barbaridade",
+        "timestamp": 1788798558982
+      },
+      {
+        "authorNum": "41786424737860",
+        "authorName": "retroboy",
+        "text": "Lucas, 19 anos, Guarulhos SP hétero",
+        "timestamp": 1788798567091
       }
     ],
     "120363426574906687@g.us": [
@@ -7770,7 +7810,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1509,
+    "120363023757382018@g.us": 1514,
     "120363426574906687@g.us": 104
   },
   "botDisabled": {
@@ -15122,6 +15162,36 @@
         "text": "Comigo",
         "pushName": "Luis carlos",
         "timestamp": 1788798522900
+      },
+      "ACFAAD1582AF34AE5D0FF538AB28F965": {
+        "sender": "183137506173038@lid",
+        "text": "???",
+        "pushName": "Luis carlos",
+        "timestamp": 1788798526412
+      },
+      "ACFA7B53916CE6B357FD2EAABA14D3CE": {
+        "sender": "252342414905454@lid",
+        "text": "👀👀👀👀",
+        "pushName": "Jefinho",
+        "timestamp": 1788798527313
+      },
+      "ACF23B414AB0B4D8C03F3876C91A90B4": {
+        "sender": "252342414905454@lid",
+        "text": "Saiu",
+        "pushName": "Jefinho",
+        "timestamp": 1788798554665
+      },
+      "AC5884680BBC454D24253A0B6D95DAF6": {
+        "sender": "252342414905454@lid",
+        "text": "Que barbaridade",
+        "pushName": "Jefinho",
+        "timestamp": 1788798558983
+      },
+      "AC87AC01AD430B7211A2EBB395205E65": {
+        "sender": "41786424737860@lid",
+        "text": "Lucas, 19 anos, Guarulhos SP hétero",
+        "pushName": "retroboy",
+        "timestamp": 1788798567091
       }
     },
     "120363426574906687@g.us": {
@@ -15612,7 +15682,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788798522900,
+    "120363023757382018@g.us": 1788798567091,
     "120363426574906687@g.us": 1788798298976
   },
   "autoAnimSent": {
