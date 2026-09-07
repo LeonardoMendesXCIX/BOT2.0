@@ -5092,9 +5092,9 @@
         "total": 2
       },
       "278838454050886": {
-        "text": 0,
+        "text": 1,
         "media": 1,
-        "total": 1
+        "total": 2
       },
       "49740418945038": {
         "text": 4,
@@ -5187,9 +5187,9 @@
         "total": 1
       },
       "20736957747257": {
-        "text": 1,
+        "text": 2,
         "media": 0,
-        "total": 1
+        "total": 2
       },
       "33905142956125": {
         "text": 2,
@@ -5197,9 +5197,9 @@
         "total": 2
       },
       "107442969026587": {
-        "text": 0,
+        "text": 1,
         "media": 2,
-        "total": 2
+        "total": 3
       }
     },
     "120363426574906687@g.us": {
@@ -6083,9 +6083,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Cristian Sntss: Bem vindo",
-        "Cristian Sntss: Bem vindo",
-        "Heloisa: Oi ?",
         "𝑳𝒂𝒚𝒉🌪🌚: Bem vindo galera",
         "Rodrigo: Sou hetero pessoal !",
         "𝑳𝒂𝒚𝒉🌪🌚: Todo dia um querendo entra nesse coração",
@@ -6582,7 +6579,10 @@
         "Cristian Sntss: Se apresentou?",
         "Jefinho: Eu tenho lindeza",
         "Henrique Contri 🤫: Aí onde vcs moram tá frio ?",
-        "Gleydson Souza: Amo"
+        "Gleydson Souza: Amo",
+        "Ricardo: Boa tarde grupo",
+        "Lucas: Oi Heloísa tudo bem",
+        "Walter: Os piazinho aí desse grupo tá feio hein comendo pé de frango outro comendo outro trem aí que não tem nada a ver com picanha eu hein minha marmita está para chegar depois vou tirar uma foto e mandar um"
       ]
     },
     "120363426574906687@g.us": {
@@ -6723,36 +6723,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "Pronto, mais uma vitima🥹",
-        "timestamp": 1788795750912
-      },
-      {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "Corre home",
-        "timestamp": 1788795757602
-      },
-      {
-        "authorNum": "43036243411180",
-        "authorName": "junior",
-        "text": "Boa tarde Heloisa",
-        "timestamp": 1788795761318
-      },
-      {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "A sabrina vai te pega",
-        "timestamp": 1788795764527
-      },
-      {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "Kkkkk",
-        "timestamp": 1788795766150
-      },
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
@@ -7508,6 +7478,24 @@
         "authorName": "Gleydson Souza",
         "text": "Amo",
         "timestamp": 1788797537759
+      },
+      {
+        "authorNum": "278838454050886",
+        "authorName": "Ricardo",
+        "text": "Boa tarde grupo",
+        "timestamp": 1788797552417
+      },
+      {
+        "authorNum": "20736957747257",
+        "authorName": "Lucas",
+        "text": "Oi Heloísa tudo bem",
+        "timestamp": 1788797572723
+      },
+      {
+        "authorNum": "107442969026587",
+        "authorName": "Walter",
+        "text": "Os piazinho aí desse grupo tá feio hein comendo pé de frango outro comendo outro trem aí que não tem nada a ver com picanha eu hein minha marmita está para chegar depois vou tirar uma foto e mandar uma fotinha para vocês aí do que eu vou comer né",
+        "timestamp": 1788797575787
       }
     ],
     "120363426574906687@g.us": [
@@ -7599,7 +7587,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1409,
+    "120363023757382018@g.us": 1412,
     "120363426574906687@g.us": 104
   },
   "botDisabled": {
@@ -14351,6 +14339,24 @@
         "text": "Amo",
         "pushName": "Gleydson Souza",
         "timestamp": 1788797537759
+      },
+      "ACE7EA001898676B8B7802218E77B7EF": {
+        "sender": "278838454050886@lid",
+        "text": "Boa tarde grupo",
+        "pushName": "Ricardo",
+        "timestamp": 1788797552417
+      },
+      "A5F092C4AC284D20F7597EAE9986FF48": {
+        "sender": "20736957747257@lid",
+        "text": "Oi Heloísa tudo bem",
+        "pushName": "Lucas",
+        "timestamp": 1788797572724
+      },
+      "ACBD648043E588D200008A6BF2478710": {
+        "sender": "107442969026587@lid",
+        "text": "Os piazinho aí desse grupo tá feio hein comendo pé de frango outro comendo outro trem aí que não tem nada a ver com picanha eu hein minha marmita está para chegar depois vou tirar uma foto e mandar uma fotinha para vocês aí do que eu vou comer né",
+        "pushName": "Walter",
+        "timestamp": 1788797575787
       }
     },
     "120363426574906687@g.us": {
@@ -14841,7 +14847,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788797544919,
+    "120363023757382018@g.us": 1788797575787,
     "120363426574906687@g.us": 1788796664927
   },
   "autoAnimSent": {
