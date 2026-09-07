@@ -4497,9 +4497,9 @@
         "total": 169
       },
       "166452229341300": {
-        "text": 195,
+        "text": 196,
         "media": 64,
-        "total": 259
+        "total": 260
       },
       "53537388122141": {
         "text": 142,
@@ -5222,9 +5222,9 @@
         "total": 1
       },
       "252342414905454": {
-        "text": 2,
+        "text": 3,
         "media": 0,
-        "total": 2
+        "total": 3
       }
     },
     "120363426574906687@g.us": {
@@ -6108,8 +6108,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Thawan: Coração dela é igual de mãe, sempre cabe mais um.",
-        "Heloisa: Isso é você dizendo não eu",
         "Heloisa: Problema é que se empolga começa no respeito de roupa depois tira e nem avisa aí leva block kk",
         "JUNIOR: Exatamente",
         "Thawan: 👏🏼👏🏼👏🏼",
@@ -6607,7 +6605,9 @@
         "Henrique Contri 🤫: Aqui é marmitaria só vejo comida kkkk",
         "Cristian Sntss: Vi tudo menos o arroz",
         "Jefinho: 😌",
-        "👻🤑: Hétero, Contagem mg"
+        "👻🤑: Hétero, Contagem mg",
+        "Jefinho: Sumiram",
+        "Cristian Sntss: Bem vindo"
       ]
     },
     "120363426574906687@g.us": {
@@ -6735,18 +6735,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "Bem vindo clt",
-        "timestamp": 1788796516045
-      },
-      {
-        "authorNum": "274384656834700",
-        "authorName": "Gleydson Souza",
-        "text": "Ficaram prontos @247020967165997 kkkkkkk",
-        "timestamp": 1788796531115
-      },
       {
         "authorNum": "39857447551026",
         "authorName": "Francisco Silva",
@@ -7574,6 +7562,18 @@
         "authorName": "👻🤑",
         "text": "Hétero, Contagem mg",
         "timestamp": 1788798306686
+      },
+      {
+        "authorNum": "252342414905454",
+        "authorName": "Jefinho",
+        "text": "Sumiram",
+        "timestamp": 1788798336131
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Bem vindo",
+        "timestamp": 1788798337304
       }
     ],
     "120363426574906687@g.us": [
@@ -7635,7 +7635,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1484,
+    "120363023757382018@g.us": 1486,
     "120363426574906687@g.us": 104
   },
   "botDisabled": {
@@ -14837,6 +14837,18 @@
         "text": "Hétero, Contagem mg",
         "pushName": "👻🤑",
         "timestamp": 1788798306686
+      },
+      "AC0D7BC3291819E01D572D2C61325020": {
+        "sender": "252342414905454@lid",
+        "text": "Sumiram",
+        "pushName": "Jefinho",
+        "timestamp": 1788798336131
+      },
+      "A59025BD4CC7E773A2500AF053EF2D06": {
+        "sender": "166452229341300@lid",
+        "text": "Bem vindo",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788798337304
       }
     },
     "120363426574906687@g.us": {
@@ -15327,7 +15339,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788798306686,
+    "120363023757382018@g.us": 1788798337304,
     "120363426574906687@g.us": 1788798298976
   },
   "autoAnimSent": {
