@@ -5294,9 +5294,9 @@
         "total": 32
       },
       "5511927018683": {
-        "text": 21,
+        "text": 22,
         "media": 0,
-        "total": 21
+        "total": 22
       },
       "92629643563147": {
         "text": 15,
@@ -6777,7 +6777,8 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Pode bloquear e remover do grupo se ainda estiver lá",
         "Camila Designer: Eles entram chama as mulheres e sai",
         "Camila Designer: FDP",
-        "Leandro: Tá me dando ódio"
+        "Leandro: Tá me dando ódio",
+        "Leandro: Essa fuleragem"
       ]
     }
   },
@@ -7703,6 +7704,12 @@
         "authorName": "Leandro",
         "text": "Tá me dando ódio",
         "timestamp": 1788799418974
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Essa fuleragem",
+        "timestamp": 1788799437223
       }
     ]
   },
@@ -7727,7 +7734,7 @@
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
     "120363023757382018@g.us": 1560,
-    "120363426574906687@g.us": 110
+    "120363426574906687@g.us": 111
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -15812,6 +15819,12 @@
         "text": "Tá me dando ódio",
         "pushName": "Leandro",
         "timestamp": 1788799418974
+      },
+      "ACABD0F3E58F6751C9C18F1EF30AF1BA": {
+        "sender": "54259127210155@lid",
+        "text": "Essa fuleragem",
+        "pushName": "Leandro",
+        "timestamp": 1788799437223
       }
     }
   },
@@ -15911,7 +15924,7 @@
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
     "120363023757382018@g.us": 1788799407824,
-    "120363426574906687@g.us": 1788799418974
+    "120363426574906687@g.us": 1788799437223
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
