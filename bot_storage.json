@@ -4507,9 +4507,9 @@
         "total": 167
       },
       "129373172711439": {
-        "text": 66,
+        "text": 68,
         "media": 16,
-        "total": 82
+        "total": 84
       },
       "138306604032063": {
         "text": 11,
@@ -4682,9 +4682,9 @@
         "total": 27
       },
       "118515428286715": {
-        "text": 69,
+        "text": 70,
         "media": 5,
-        "total": 74
+        "total": 75
       },
       "193729163993156": {
         "text": 2,
@@ -6195,8 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Luis Felipe: Kkkk",
-        "Heloisa: Gatinho",
         "Saul: Ele deve ter, o buraco do anus LARGO",
         "Luis Felipe: Lkkkkkk",
         "Camila Designer: Da pra continuar a criar né",
@@ -6694,7 +6692,9 @@
         "jaciara: Minha amiga quer conhecer SP",
         "Henrique Contri 🤫: Mais é gostosa colágeno tá em dia 🤣",
         "Camila Designer: Minha amiga disse que é doida pra ser sequestrada para São Paulo acredita?!🤣🤣🤣",
-        "P: uma coroa com pensão"
+        "P: uma coroa com pensão",
+        "Saul: Moro sozinho, tem espaço de sobra aqui, dá até para os filhos virem passar um fim de semana junto com ela \n(Eu recomendo vir só), tem cobra aqui e ela é perigosa",
+        "Celiete Souza: Também não é assim moço"
       ]
     },
     "120363426574906687@g.us": {
@@ -6898,30 +6898,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "264308512522409",
-        "authorName": "Henrique Contri 🤫",
-        "text": "Se não for pode me zuar aqui kkk",
-        "timestamp": 1788805261350
-      },
-      {
-        "authorNum": "232924968419570",
-        "authorName": "Pedro🫰",
-        "text": "Orre penga kkkkk",
-        "timestamp": 1788805271424
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Mas você não vai casar com o @274384656834700 @247020967165997 ?",
-        "timestamp": 1788805271679
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Tá bom",
-        "timestamp": 1788805273599
-      },
       {
         "authorNum": "247020967165997",
         "authorName": "Gabi 💋",
@@ -8001,6 +7977,18 @@
         "authorName": "P",
         "text": "uma coroa com pensão",
         "timestamp": 1788807046823
+      },
+      {
+        "authorNum": "118515428286715",
+        "authorName": "Saul",
+        "text": "Moro sozinho, tem espaço de sobra aqui, dá até para os filhos virem passar um fim de semana junto com ela \n(Eu recomendo vir só), tem cobra aqui e ela é perigosa",
+        "timestamp": 1788807059854
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Também não é assim moço",
+        "timestamp": 1788807075425
       }
     ],
     "120363426574906687@g.us": [
@@ -8044,7 +8032,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2254,
+    "120363023757382018@g.us": 2256,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -19933,6 +19921,18 @@
         "text": "uma coroa com pensão",
         "pushName": "P",
         "timestamp": 1788807046824
+      },
+      "3A4864D7B1E399F3B8C3": {
+        "sender": "118515428286715@lid",
+        "text": "Moro sozinho, tem espaço de sobra aqui, dá até para os filhos virem passar um fim de semana junto com ela \n(Eu recomendo vir só), tem cobra aqui e ela é perigosa",
+        "pushName": "Saul",
+        "timestamp": 1788807059854
+      },
+      "ACB1E53D3EC4C0473756EAD8D82327DE": {
+        "sender": "129373172711439@lid",
+        "text": "Também não é assim moço",
+        "pushName": "Celiete Souza",
+        "timestamp": 1788807075425
       }
     },
     "120363426574906687@g.us": {
@@ -20873,7 +20873,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788807046823,
+    "120363023757382018@g.us": 1788807075425,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
