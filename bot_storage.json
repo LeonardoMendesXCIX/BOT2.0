@@ -4579,9 +4579,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 92,
+        "text": 93,
         "media": 11,
-        "total": 103
+        "total": 104
       },
       "206966404210884": {
         "text": 2,
@@ -4679,9 +4679,9 @@
         "total": 2
       },
       "59645049761949": {
-        "text": 29,
+        "text": 32,
         "media": 1,
-        "total": 30
+        "total": 33
       },
       "21338118979724": {
         "text": 3,
@@ -4689,9 +4689,9 @@
         "total": 4
       },
       "128145298608376": {
-        "text": 18,
+        "text": 19,
         "media": 2,
-        "total": 20
+        "total": 21
       },
       "193733257609270": {
         "text": 1,
@@ -4699,9 +4699,9 @@
         "total": 2
       },
       "230365537005571": {
-        "text": 13,
+        "text": 14,
         "media": 3,
-        "total": 16
+        "total": 17
       },
       "60739813417005": {
         "text": 2,
@@ -6078,7 +6078,13 @@
         "xacinaluzqradiaoinferno71: pse",
         "xacinaluzqradiaoinferno71: favela",
         "Gabi 💋: Ambos",
-        "Amaury: E verdade"
+        "Amaury: E verdade",
+        "Gabi 💋: Mais não aguento mais correr de polícia",
+        "Amaury: Kkkkk",
+        "Amaury: Então vai pra baladinha social",
+        "Amaury: Kkk",
+        "solteiro: Ok",
+        "xacinaluzqradiaoinferno71: eu corro todo dia 😓"
       ]
     },
     "120363426574906687@g.us": {
@@ -7320,6 +7326,42 @@
         "authorName": "Amaury",
         "text": "E verdade",
         "timestamp": 1788788363164
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Mais não aguento mais correr de polícia",
+        "timestamp": 1788788375424
+      },
+      {
+        "authorNum": "59645049761949",
+        "authorName": "Amaury",
+        "text": "Kkkkk",
+        "timestamp": 1788788381624
+      },
+      {
+        "authorNum": "59645049761949",
+        "authorName": "Amaury",
+        "text": "Então vai pra baladinha social",
+        "timestamp": 1788788390523
+      },
+      {
+        "authorNum": "59645049761949",
+        "authorName": "Amaury",
+        "text": "Kkk",
+        "timestamp": 1788788393685
+      },
+      {
+        "authorNum": "128145298608376",
+        "authorName": "solteiro",
+        "text": "Ok",
+        "timestamp": 1788788394408
+      },
+      {
+        "authorNum": "230365537005571",
+        "authorName": "xacinaluzqradiaoinferno71",
+        "text": "eu corro todo dia 😓",
+        "timestamp": 1788788395345
       }
     ],
     "120363426574906687@g.us": [
@@ -7417,7 +7459,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 708,
+    "120363023757382018@g.us": 714,
     "120363426574906687@g.us": 48
   },
   "botDisabled": {
@@ -9858,6 +9900,42 @@
         "text": "E verdade",
         "pushName": "Amaury",
         "timestamp": 1788788363164
+      },
+      "ACF8401244FC6DA5599F4F705BBAE4EB": {
+        "sender": "247020967165997@lid",
+        "text": "Mais não aguento mais correr de polícia",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788788375424
+      },
+      "AC20BA2EAF104D63B21A1E161780EAB4": {
+        "sender": "59645049761949@lid",
+        "text": "Kkkkk",
+        "pushName": "Amaury",
+        "timestamp": 1788788381624
+      },
+      "ACC48A2E99C51C784F7EFADB6B391520": {
+        "sender": "59645049761949@lid",
+        "text": "Então vai pra baladinha social",
+        "pushName": "Amaury",
+        "timestamp": 1788788390523
+      },
+      "AC86593DE75354B284113B4464CC1022": {
+        "sender": "59645049761949@lid",
+        "text": "Kkk",
+        "pushName": "Amaury",
+        "timestamp": 1788788393685
+      },
+      "A5C5B838CF4DA4FB04B8156C1AA88071": {
+        "sender": "128145298608376@lid",
+        "text": "Ok",
+        "pushName": "solteiro",
+        "timestamp": 1788788394408
+      },
+      "A5151D64A01BFFE54C01607B7FC62215": {
+        "sender": "230365537005571@lid",
+        "text": "eu corro todo dia 😓",
+        "pushName": "xacinaluzqradiaoinferno71",
+        "timestamp": 1788788395345
       }
     },
     "120363426574906687@g.us": {
@@ -10009,7 +10087,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788788363164,
+    "120363023757382018@g.us": 1788788395345,
     "120363426574906687@g.us": 1788788012627
   },
   "autoAnimSent": {
