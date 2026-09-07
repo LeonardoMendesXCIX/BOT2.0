@@ -4552,9 +4552,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 113,
-        "media": 71,
-        "total": 184
+        "text": 114,
+        "media": 72,
+        "total": 186
       },
       "559984624669": {
         "text": 4,
@@ -4592,9 +4592,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 188,
+        "text": 191,
         "media": 18,
-        "total": 206
+        "total": 209
       },
       "206966404210884": {
         "text": 2,
@@ -6195,9 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Teixeira: Olá boa tarde Galera\nSou Teixeira \nPortuguês \nTrabalho na Suíça \n45 anos \nDivorciado",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Bem vindo",
-        "Luis Felipe: Sim e vc",
         "Cristian Sntss: Corredor?",
         "Cristian Sntss: Queria ter essa vocação",
         "ds8582834: Você consegue",
@@ -6694,7 +6691,10 @@
         "Camila Designer: Você queria ver foto dela",
         "Gabi 💋: Ela queria mostrar a ppk aqui gente, você que não deixou ksksks",
         "Henrique Contri 🤫: Bota eu lá que eu te mostro que nem sua mão fecha 😉",
-        "Gleydson Souza: Sempre sobra pros pretos(a)"
+        "Gleydson Souza: Sempre sobra pros pretos(a)",
+        "Gabi 💋: Deixasse a coitada mostrar a aranha",
+        "Camila Designer: Só quero ver mesmo, enquanto isso cadê seu peitoral?😌😌😌",
+        "Gabi 💋: Né"
       ]
     },
     "120363426574906687@g.us": {
@@ -6902,24 +6902,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Aí vai desconcentrar ela",
-        "timestamp": 1788803107260
-      },
-      {
-        "authorNum": "171214744064197",
-        "authorName": "Márcio Bruxel",
-        "text": "Começou bem🌷...olho lindo",
-        "timestamp": 1788803130887
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Aqui não é o CRAS não",
-        "timestamp": 1788803141007
-      },
       {
         "authorNum": "39857447551026",
         "authorName": "Francisco Silva",
@@ -7861,6 +7843,24 @@
         "authorName": "Gleydson Souza",
         "text": "Sempre sobra pros pretos(a)",
         "timestamp": 1788804900164
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Deixasse a coitada mostrar a aranha",
+        "timestamp": 1788804924263
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Só quero ver mesmo, enquanto isso cadê seu peitoral?😌😌😌",
+        "timestamp": 1788804935511
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Né",
+        "timestamp": 1788804945804
       }
     ],
     "120363426574906687@g.us": [
@@ -8042,7 +8042,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2045,
+    "120363023757382018@g.us": 2048,
     "120363426574906687@g.us": 171
   },
   "botDisabled": {
@@ -18677,6 +18677,24 @@
         "text": "Sempre sobra pros pretos(a)",
         "pushName": "Gleydson Souza",
         "timestamp": 1788804900164
+      },
+      "AC0EDD4AD69004569F4ED1B4E9184999": {
+        "sender": "247020967165997@lid",
+        "text": "Deixasse a coitada mostrar a aranha",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788804924263
+      },
+      "2AECE2F67C4C07F787C0": {
+        "sender": "92629643563147@lid",
+        "text": "Só quero ver mesmo, enquanto isso cadê seu peitoral?😌😌😌",
+        "pushName": "Camila Designer",
+        "timestamp": 1788804935512
+      },
+      "AC520FDDB014C5FFCACBEE551D281623": {
+        "sender": "247020967165997@lid",
+        "text": "Né",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788804945804
       }
     },
     "120363426574906687@g.us": {
@@ -19563,7 +19581,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788804900164,
+    "120363023757382018@g.us": 1788804945804,
     "120363426574906687@g.us": 1788804637761
   },
   "autoAnimSent": {
