@@ -4587,9 +4587,9 @@
         "total": 1
       },
       "182738040713418": {
-        "text": 59,
+        "text": 60,
         "media": 44,
-        "total": 103
+        "total": 104
       },
       "81991328395336": {
         "text": 180,
@@ -6266,7 +6266,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Dany: Porque quando clico na foto do grupo, tem uma imagem falando para entrar em outro grupo porque esse irá fechar",
         "solteiro: Oii",
         "Dany: Aqui ó",
         "Dany: Não, eu namoro",
@@ -6765,7 +6764,8 @@
         "Wellington: 😅😅😅😅",
         "Kaio Mendes: No trecho eu tenho pena das mêias",
         "Camila Designer: Ela falou que pode, você pode mandar qualquer foto sua 🤣🤣🤣",
-        "Wellington: Eu não uso sempre né é que tá frio pra Caraí aqui ou é ela ou é sem ela kkkk"
+        "Wellington: Eu não uso sempre né é que tá frio pra Caraí aqui ou é ela ou é sem ela kkkk",
+        "Wellington: Tá bom então 🙃🫶🏽"
       ]
     },
     "120363426574906687@g.us": {
@@ -6997,12 +6997,6 @@
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
       {
-        "authorNum": "182738040713418",
-        "authorName": "Wellington",
-        "text": "Oq vale que tá cheirosinha kkkk",
-        "timestamp": 1788818320545
-      },
-      {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
         "text": "Isso é verdade 🤣🤣🤣",
@@ -7229,6 +7223,12 @@
         "authorName": "Wellington",
         "text": "Eu não uso sempre né é que tá frio pra Caraí aqui ou é ela ou é sem ela kkkk",
         "timestamp": 1788820119784
+      },
+      {
+        "authorNum": "182738040713418",
+        "authorName": "Wellington",
+        "text": "Tá bom então 🙃🫶🏽",
+        "timestamp": 1788820137119
       }
     ],
     "120363426574906687@g.us": []
@@ -7253,7 +7253,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 486,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 3023,
+    "120363023757382018@g.us": 3024,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -23865,6 +23865,12 @@
         "text": "Eu não uso sempre né é que tá frio pra Caraí aqui ou é ela ou é sem ela kkkk",
         "pushName": "Wellington",
         "timestamp": 1788820119784
+      },
+      "ACF2415F1DE08E8D5A33FB4A508371DA": {
+        "sender": "182738040713418@lid",
+        "text": "Tá bom então 🙃🫶🏽",
+        "pushName": "Wellington",
+        "timestamp": 1788820137120
       }
     },
     "120363426574906687@g.us": {
@@ -24811,7 +24817,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788819771459,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788820119784,
+    "120363023757382018@g.us": 1788820137119,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
