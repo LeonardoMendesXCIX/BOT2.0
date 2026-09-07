@@ -4500,9 +4500,9 @@
         "total": 193
       },
       "53537388122141": {
-        "text": 101,
+        "text": 102,
         "media": 10,
-        "total": 111
+        "total": 112
       },
       "129373172711439": {
         "text": 27,
@@ -4780,9 +4780,9 @@
         "total": 3
       },
       "262912430080093": {
-        "text": 24,
+        "text": 25,
         "media": 1,
-        "total": 25
+        "total": 26
       },
       "26659415666708": {
         "text": 6,
@@ -5889,8 +5889,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Amaury: Kkkkk",
-        "Amaury: Então vai pra baladinha social",
         "Amaury: Kkk",
         "solteiro: Ok",
         "xacinaluzqradiaoinferno71: eu corro todo dia 😓",
@@ -6388,7 +6386,9 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: !ban @43684162711698",
         "Dani: Ja tomeu",
         "Cristian Sntss: !ban @208701721993439",
-        "Cristian Sntss: Graças a Deus bot tá ativo"
+        "Cristian Sntss: Graças a Deus bot tá ativo",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Amém 🙆🏻‍♀️🤡",
+        "JUNIOR: ??"
       ]
     },
     "120363426574906687@g.us": {
@@ -6570,30 +6570,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "126586225467454",
-        "authorName": "Thawan",
-        "text": "Sai daí logo",
-        "timestamp": 1788792927731
-      },
-      {
-        "authorNum": "1395881181241",
-        "authorName": "Bruno Aguiar",
-        "text": "Bruno\n35 anos",
-        "timestamp": 1788792935708
-      },
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "!ban @157407011446992",
-        "timestamp": 1788792941675
-      },
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "Bem vindo jovem",
-        "timestamp": 1788792949671
-      },
       {
         "authorNum": "254884934881353",
         "authorName": "P",
@@ -7535,6 +7511,18 @@
         "authorName": "Cristian Sntss",
         "text": "Graças a Deus bot tá ativo",
         "timestamp": 1788794716259
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Amém 🙆🏻‍♀️🤡",
+        "timestamp": 1788794757906
+      },
+      {
+        "authorNum": "262912430080093",
+        "authorName": "JUNIOR",
+        "text": "??",
+        "timestamp": 1788794761028
       }
     ],
     "120363426574906687@g.us": [
@@ -7596,7 +7584,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 49,
-    "120363023757382018@g.us": 1209,
+    "120363023757382018@g.us": 1211,
     "120363426574906687@g.us": 91
   },
   "botDisabled": {
@@ -13105,6 +13093,18 @@
         "text": "Graças a Deus bot tá ativo",
         "pushName": "Cristian Sntss",
         "timestamp": 1788794716259
+      },
+      "ACD502831FEB768325E941C3E6AF5496": {
+        "sender": "53537388122141@lid",
+        "text": "Amém 🙆🏻‍♀️🤡",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788794757906
+      },
+      "3A3E2B77110F67718687": {
+        "sender": "262912430080093@lid",
+        "text": "??",
+        "pushName": "JUNIOR",
+        "timestamp": 1788794761028
       }
     },
     "120363426574906687@g.us": {
@@ -13514,7 +13514,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788794665827,
-    "120363023757382018@g.us": 1788794717724,
+    "120363023757382018@g.us": 1788794761028,
     "120363426574906687@g.us": 1788794708224
   },
   "autoAnimSent": {
