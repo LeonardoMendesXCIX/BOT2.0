@@ -4767,9 +4767,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 151,
+        "text": 152,
         "media": 1,
-        "total": 152
+        "total": 153
       },
       "89305909317735": {
         "text": 1,
@@ -4932,9 +4932,9 @@
         "total": 1
       },
       "39857447551026": {
-        "text": 22,
+        "text": 23,
         "media": 1,
-        "total": 23
+        "total": 24
       },
       "134888363671607": {
         "text": 1,
@@ -5217,9 +5217,9 @@
         "total": 1
       },
       "136296492200083": {
-        "text": 28,
+        "text": 29,
         "media": 7,
-        "total": 35
+        "total": 36
       },
       "252342414905454": {
         "text": 7,
@@ -6188,9 +6188,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Kaique N.☝🏻🤓: Valeu",
-        "Kaique N.☝🏻🤓: Obrigado",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: !ban @43684162711698",
         "Dani: Ja tomeu",
         "Cristian Sntss: !ban @208701721993439",
         "Cristian Sntss: Graças a Deus bot tá ativo",
@@ -6687,7 +6684,10 @@
         "Luis Felipe: Verdade",
         "Henrique Contri 🤫: É vc na foto ?",
         "Luis Felipe: não né",
-        "Heloisa: Kkk"
+        "Heloisa: Kkk",
+        "Heloisa: Ele tem 65 anos",
+        "Francisco Silva: Pé na cova kkkk",
+        "Luis Felipe: Kk"
       ]
     },
     "120363426574906687@g.us": {
@@ -6887,12 +6887,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "194377938911429",
-        "authorName": "Fabrício Fernandes",
-        "text": "Trabalho ontem, hoje, amanhã, depois kkkkkk",
-        "timestamp": 1788799396852
-      },
       {
         "authorNum": "166452229341300",
         "authorName": "Cristian Sntss",
@@ -7762,6 +7756,24 @@
         "authorName": "Heloisa",
         "text": "Kkk",
         "timestamp": 1788801179045
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Ele tem 65 anos",
+        "timestamp": 1788801183551
+      },
+      {
+        "authorNum": "39857447551026",
+        "authorName": "Francisco Silva",
+        "text": "Pé na cova kkkk",
+        "timestamp": 1788801201355
+      },
+      {
+        "authorNum": "136296492200083",
+        "authorName": "Luis Felipe",
+        "text": "Kk",
+        "timestamp": 1788801202431
       }
     ],
     "120363426574906687@g.us": [
@@ -8015,7 +8027,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 61,
-    "120363023757382018@g.us": 1703,
+    "120363023757382018@g.us": 1706,
     "120363426574906687@g.us": 145
   },
   "botDisabled": {
@@ -16561,6 +16573,24 @@
         "text": "Kkk",
         "pushName": "Heloisa",
         "timestamp": 1788801179045
+      },
+      "ACE0C96C7CE84134754D1365DB85F9EB": {
+        "sender": "152274357751809@lid",
+        "text": "Ele tem 65 anos",
+        "pushName": "Heloisa",
+        "timestamp": 1788801183552
+      },
+      "AC01CCDCDC2274CC4333EE61949D1BB2": {
+        "sender": "39857447551026@lid",
+        "text": "Pé na cova kkkk",
+        "pushName": "Francisco Silva",
+        "timestamp": 1788801201356
+      },
+      "3AE173554D9F81E44A53": {
+        "sender": "136296492200083@lid",
+        "text": "Kk",
+        "pushName": "Luis Felipe",
+        "timestamp": 1788801202431
       }
     },
     "120363426574906687@g.us": {
@@ -17297,7 +17327,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788801171258,
-    "120363023757382018@g.us": 1788801181370,
+    "120363023757382018@g.us": 1788801202431,
     "120363426574906687@g.us": 1788800965595
   },
   "autoAnimSent": {
