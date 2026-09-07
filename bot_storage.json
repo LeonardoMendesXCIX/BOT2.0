@@ -4484,9 +4484,9 @@
         "total": 164
       },
       "166452229341300": {
-        "text": 77,
+        "text": 78,
         "media": 36,
-        "total": 113
+        "total": 114
       },
       "53537388122141": {
         "text": 45,
@@ -4579,9 +4579,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 101,
+        "text": 102,
         "media": 12,
-        "total": 113
+        "total": 114
       },
       "206966404210884": {
         "text": 2,
@@ -4664,9 +4664,9 @@
         "total": 4
       },
       "276287176319083": {
-        "text": 15,
+        "text": 17,
         "media": 4,
-        "total": 19
+        "total": 21
       },
       "118515428286715": {
         "text": 5,
@@ -4689,14 +4689,14 @@
         "total": 4
       },
       "128145298608376": {
-        "text": 24,
+        "text": 25,
         "media": 2,
-        "total": 26
+        "total": 27
       },
       "193733257609270": {
-        "text": 1,
+        "text": 2,
         "media": 1,
-        "total": 2
+        "total": 3
       },
       "230365537005571": {
         "text": 18,
@@ -4739,9 +4739,9 @@
         "total": 1
       },
       "21595850563820": {
-        "text": 2,
+        "text": 4,
         "media": 1,
-        "total": 3
+        "total": 5
       },
       "126431388545232": {
         "text": 1,
@@ -5617,13 +5617,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Leandro: E eu bocó, fui lá e abri o grupo",
-        "Dany: Hahahhaha não esculachei",
-        "Dany: Calma lá!",
-        "Dany: Só concordei kkkkkk",
-        "Leandro: De novo, tô valendo nada 🤡",
-        "Dany: Com o que você mesmo tinha falado, rapaz! \nFoi zoar o Gus, mas você tá na mesma lá no kbaré",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Que lindo",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Tá eficiente ele",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: 🤌🏻",
         "Dany: Ia falar isso",
@@ -6116,7 +6109,14 @@
         ": bom dia satisfação Lucas tenho 28 ano sou do rio de janeiro sou hétero",
         "Cristian Sntss: Produtor ?",
         "IRINEU FREITAS 🫥🤪: ?",
-        "Heloisa: Bom dia"
+        "Heloisa: Bom dia",
+        "renan_wesley: Me disseram que não pareço ter 27, que tenho cara de adolescente",
+        "solteiro: Bom dia",
+        "Cristian Sntss: Trabalha com o que ?",
+        "renan_wesley: Bom dia",
+        "Gabi 💋: Tem foto ?",
+        "IRINEU FREITAS 🫥🤪: Motorista de ônibus",
+        "IRINEU FREITAS 🫥🤪: Turismo"
       ]
     },
     "120363426574906687@g.us": {
@@ -7544,6 +7544,48 @@
         "authorName": "Heloisa",
         "text": "Bom dia",
         "timestamp": 1788788770543
+      },
+      {
+        "authorNum": "276287176319083",
+        "authorName": "renan_wesley",
+        "text": "Me disseram que não pareço ter 27, que tenho cara de adolescente",
+        "timestamp": 1788788776272
+      },
+      {
+        "authorNum": "128145298608376",
+        "authorName": "solteiro",
+        "text": "Bom dia",
+        "timestamp": 1788788777234
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Trabalha com o que ?",
+        "timestamp": 1788788782701
+      },
+      {
+        "authorNum": "276287176319083",
+        "authorName": "renan_wesley",
+        "text": "Bom dia",
+        "timestamp": 1788788787333
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Tem foto ?",
+        "timestamp": 1788788793533
+      },
+      {
+        "authorNum": "21595850563820",
+        "authorName": "IRINEU FREITAS 🫥🤪",
+        "text": "Motorista de ônibus",
+        "timestamp": 1788788794176
+      },
+      {
+        "authorNum": "21595850563820",
+        "authorName": "IRINEU FREITAS 🫥🤪",
+        "text": "Turismo",
+        "timestamp": 1788788798687
       }
     ],
     "120363426574906687@g.us": [
@@ -7641,7 +7683,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 739,
+    "120363023757382018@g.us": 746,
     "120363426574906687@g.us": 48
   },
   "botDisabled": {
@@ -10262,6 +10304,48 @@
         "text": "Bom dia",
         "pushName": "Heloisa",
         "timestamp": 1788788770543
+      },
+      "AC47043167B83636FD3E41ED8E2F2A6A": {
+        "sender": "276287176319083@lid",
+        "text": "Me disseram que não pareço ter 27, que tenho cara de adolescente",
+        "pushName": "renan_wesley",
+        "timestamp": 1788788776273
+      },
+      "A594D2276B2A3AD8D5B0B05745F4CFB5": {
+        "sender": "128145298608376@lid",
+        "text": "Bom dia",
+        "pushName": "solteiro",
+        "timestamp": 1788788777234
+      },
+      "A5E8B19A8075727B23F637F36110A2EB": {
+        "sender": "166452229341300@lid",
+        "text": "Trabalha com o que ?",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788788782701
+      },
+      "AC8C8F62AF45C444DF0D8167E5E5AF7B": {
+        "sender": "276287176319083@lid",
+        "text": "Bom dia",
+        "pushName": "renan_wesley",
+        "timestamp": 1788788787333
+      },
+      "ACC11682A041C4B5BB25CE95C34D6D7D": {
+        "sender": "247020967165997@lid",
+        "text": "Tem foto ?",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788788793534
+      },
+      "AC182090F8253FDC512C9A9F548FFF71": {
+        "sender": "21595850563820@lid",
+        "text": "Motorista de ônibus",
+        "pushName": "IRINEU FREITAS 🫥🤪",
+        "timestamp": 1788788794176
+      },
+      "AC998523FDCBC5ECF799FD6510B5676A": {
+        "sender": "21595850563820@lid",
+        "text": "Turismo",
+        "pushName": "IRINEU FREITAS 🫥🤪",
+        "timestamp": 1788788798687
       }
     },
     "120363426574906687@g.us": {
@@ -10413,7 +10497,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788788770543,
+    "120363023757382018@g.us": 1788788798687,
     "120363426574906687@g.us": 1788788012627
   },
   "autoAnimSent": {
