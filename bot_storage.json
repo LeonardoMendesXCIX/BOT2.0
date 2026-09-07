@@ -4592,9 +4592,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 192,
+        "text": 194,
         "media": 18,
-        "total": 210
+        "total": 212
       },
       "206966404210884": {
         "text": 2,
@@ -5319,9 +5319,9 @@
         "total": 47
       },
       "92629643563147": {
-        "text": 33,
+        "text": 34,
         "media": 4,
-        "total": 37
+        "total": 38
       },
       "81991328395336": {
         "text": 12,
@@ -6195,8 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "𝕰𝖛𝖆𝖓𝖉𝖗𝖔 𝕬𝖑𝖛𝖊𝖘: Feriado e vcs fizeram o que \nEu só fiz dormir  :/ 😂",
-        "𝑳𝒂𝒚𝒉🌪🌚: Queria eu durmi",
         "𝕰𝖛𝖆𝖓𝖉𝖗𝖔 𝕬𝖑𝖛𝖊𝖘: Ontem e hoje de folga 🙂‍↔️",
         "Fabrício Fernandes: Trabalho ontem, hoje, amanhã, depois kkkkkk",
         "Cristian Sntss: Aqui hoje e amanhã",
@@ -6694,7 +6692,9 @@
         "Camila Designer: Eu? Você que arregou e deu desculpa de frio",
         "Gabi 💋: Primeiro e o peitoral depois a pinça",
         "Henrique Contri 🤫: Tá 18 grau aqui 🤣🤣",
-        "Henrique Contri 🤫: Tem tara em peitos kkkk"
+        "Henrique Contri 🤫: Tem tara em peitos kkkk",
+        "Gabi 💋: Eu não tenho terá em pinça",
+        "Gabi 💋: @92629643563147  tem tara em peito"
       ]
     },
     "120363426574906687@g.us": {
@@ -6875,7 +6875,8 @@
         "Leandro: Desculpa meninas",
         "Leandro: Perdi a linha agora",
         "Camila Designer: O que ele fez?",
-        "Leandro: @92629643563147"
+        "Leandro: @92629643563147",
+        "Camila Designer: Esse cara é um idiota carente"
       ]
     }
   },
@@ -6907,24 +6908,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Ninguém entende que não é não oxi",
-        "timestamp": 1788803213120
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Manda quem foto quem quiser",
-        "timestamp": 1788803221168
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Agora se os rapazes quiser enviar os peitorais sintam em casa 🤣🤣🤣🤣",
-        "timestamp": 1788803237352
-      },
       {
         "authorNum": "152274357751809",
         "authorName": "Heloisa",
@@ -7896,6 +7879,18 @@
         "authorName": "Henrique Contri 🤫",
         "text": "Tem tara em peitos kkkk",
         "timestamp": 1788805009255
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Eu não tenho terá em pinça",
+        "timestamp": 1788805039780
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "@92629643563147  tem tara em peito",
+        "timestamp": 1788805056384
       }
     ],
     "120363426574906687@g.us": [
@@ -8078,6 +8073,12 @@
         "authorName": "Leandro",
         "text": "@92629643563147",
         "timestamp": 1788805024236
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Esse cara é um idiota carente",
+        "timestamp": 1788805062631
       }
     ]
   },
@@ -8101,8 +8102,8 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2054,
-    "120363426574906687@g.us": 176
+    "120363023757382018@g.us": 2056,
+    "120363426574906687@g.us": 177
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -18790,6 +18791,18 @@
         "text": "Tem tara em peitos kkkk",
         "pushName": "Henrique Contri 🤫",
         "timestamp": 1788805009255
+      },
+      "ACF7AD5D15E7ADA881C0F9AB1EBA6ACB": {
+        "sender": "247020967165997@lid",
+        "text": "Eu não tenho terá em pinça",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788805039780
+      },
+      "ACCB6A1E6E5031F7E6BDC755B2881D83": {
+        "sender": "247020967165997@lid",
+        "text": "@92629643563147  tem tara em peito",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788805056384
       }
     },
     "120363426574906687@g.us": {
@@ -19608,6 +19621,12 @@
         "text": "@92629643563147",
         "pushName": "Leandro",
         "timestamp": 1788805024237
+      },
+      "2A9300AC7931B810245C": {
+        "sender": "92629643563147@lid",
+        "text": "Esse cara é um idiota carente",
+        "pushName": "Camila Designer",
+        "timestamp": 1788805062631
       }
     }
   },
@@ -19706,8 +19725,8 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788805009255,
-    "120363426574906687@g.us": 1788805024236
+    "120363023757382018@g.us": 1788805056384,
+    "120363426574906687@g.us": 1788805062631
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
