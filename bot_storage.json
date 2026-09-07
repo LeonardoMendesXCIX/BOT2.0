@@ -4517,9 +4517,9 @@
         "total": 2
       },
       "59623457439943": {
-        "text": 9,
+        "text": 11,
         "media": 1,
-        "total": 10
+        "total": 12
       },
       "262182034002040": {
         "text": 33,
@@ -4607,9 +4607,9 @@
         "total": 2
       },
       "42769972252769": {
-        "text": 10,
+        "text": 11,
         "media": 0,
-        "total": 10
+        "total": 11
       }
     },
     "120363426574906687@g.us": {
@@ -13216,7 +13216,10 @@
         "Victor: pelo tipo da foto",
         "Victor: a idade tbm não fazia sentido, disse que tinha 14",
         "🌷: ahh",
-        "Victor: muito comum essa parada, infelizmente"
+        "Victor: muito comum essa parada, infelizmente",
+        "🌷: mas eu acho que ela não eh fake não",
+        "Victor: bom",
+        "Victor: nunca saberemos.."
       ]
     },
     "120363426574906687@g.us": {
@@ -13538,6 +13541,24 @@
         "authorName": "Victor",
         "text": "muito comum essa parada, infelizmente",
         "timestamp": 1788756562984
+      },
+      {
+        "authorNum": "42769972252769",
+        "authorName": "🌷",
+        "text": "mas eu acho que ela não eh fake não",
+        "timestamp": 1788756580161
+      },
+      {
+        "authorNum": "59623457439943",
+        "authorName": "Victor",
+        "text": "bom",
+        "timestamp": 1788756596313
+      },
+      {
+        "authorNum": "59623457439943",
+        "authorName": "Victor",
+        "text": "nunca saberemos..",
+        "timestamp": 1788756600129
       }
     ],
     "120363426574906687@g.us": []
@@ -13562,7 +13583,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 33,
-    "120363023757382018@g.us": 349,
+    "120363023757382018@g.us": 352,
     "120363426574906687@g.us": 36
   },
   "botDisabled": {
@@ -34544,6 +34565,24 @@
         "text": "muito comum essa parada, infelizmente",
         "pushName": "Victor",
         "timestamp": 1788756562985
+      },
+      "AC23C4BC049C0B4FBD7BAC1963299D93": {
+        "sender": "42769972252769@lid",
+        "text": "mas eu acho que ela não eh fake não",
+        "pushName": "🌷",
+        "timestamp": 1788756580161
+      },
+      "AC5619AAE3FEC52C640D3DA1D6E0623E": {
+        "sender": "59623457439943@lid",
+        "text": "bom",
+        "pushName": "Victor",
+        "timestamp": 1788756596313
+      },
+      "ACECAFD86ED41DCBA766C24294316BDE": {
+        "sender": "59623457439943@lid",
+        "text": "nunca saberemos..",
+        "pushName": "Victor",
+        "timestamp": 1788756600129
       }
     },
     "120363426574906687@g.us": {
@@ -34851,7 +34890,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788755502872,
-    "120363023757382018@g.us": 1788756562984,
+    "120363023757382018@g.us": 1788756600129,
     "120363426574906687@g.us": 1788725639102
   },
   "autoAnimSent": {
