@@ -4947,6 +4947,11 @@
         "text": 1,
         "media": 0,
         "total": 1
+      },
+      "105197019918407": {
+        "text": 1,
+        "media": 0,
+        "total": 1
       }
     },
     "120363426574906687@g.us": {
@@ -5818,7 +5823,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Os novatos amiga",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Que não se apresentaram ainda",
         "Wellygton Douglas: Wellygton aqui sou de Pernambuco 36 anos pv liberado",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Bem vindo!",
@@ -6317,7 +6321,8 @@
         "Felippo: e esse doente aqui, cadê o adm",
         "𝑳𝒂𝒚𝒉🌪🌚: !ban @235979092836559",
         "Elias Rodrigues: Me llamo Elias \n\nEdad 25 \nEstado civil soltero \n\nSoy de Centroamérica",
-        "Francisco Silva: Cara trouxa"
+        "Francisco Silva: Cara trouxa",
+        "Nalguda Ganesh: 📷"
       ]
     },
     "120363426574906687@g.us": {
@@ -7403,6 +7408,12 @@
         "authorName": "Francisco Silva",
         "text": "Cara trouxa",
         "timestamp": 1788793570687
+      },
+      {
+        "authorNum": "105197019918407",
+        "authorName": "Nalguda Ganesh",
+        "text": "📷",
+        "timestamp": 1788793628008
       }
     ],
     "120363426574906687@g.us": [
@@ -7470,7 +7481,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 44,
-    "120363023757382018@g.us": 1110,
+    "120363023757382018@g.us": 1111,
     "120363426574906687@g.us": 90
   },
   "botDisabled": {
@@ -12355,6 +12366,12 @@
         "text": "Cara trouxa",
         "pushName": "Francisco Silva",
         "timestamp": 1788793570688
+      },
+      "AC13B5CDCACD98BB333703582BBFCC5E": {
+        "sender": "105197019918407@lid",
+        "text": "📷",
+        "pushName": "Nalguda Ganesh",
+        "timestamp": 1788793628008
       }
     },
     "120363426574906687@g.us": {
@@ -12758,7 +12775,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788793408313,
-    "120363023757382018@g.us": 1788793570687,
+    "120363023757382018@g.us": 1788793628008,
     "120363426574906687@g.us": 1788793079391
   },
   "autoAnimSent": {
