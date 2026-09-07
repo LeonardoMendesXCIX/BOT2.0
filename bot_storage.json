@@ -5272,9 +5272,9 @@
         "total": 1
       },
       "130043523133488": {
-        "text": 2,
+        "text": 4,
         "media": 1,
-        "total": 3
+        "total": 5
       },
       "279997843558644": {
         "text": 3,
@@ -5282,9 +5282,9 @@
         "total": 4
       },
       "171214744064197": {
-        "text": 2,
+        "text": 4,
         "media": 1,
-        "total": 3
+        "total": 5
       },
       "198607978410013": {
         "text": 1,
@@ -6173,9 +6173,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "𝑳𝒂𝒚𝒉🌪🌚: !ban @235979092836559",
-        "Elias Rodrigues: Me llamo Elias \n\nEdad 25 \nEstado civil soltero \n\nSoy de Centroamérica",
-        "Francisco Silva: Cara trouxa",
         "Nalguda Ganesh: 📷",
         "Heloisa: Do nada uns número árabe",
         "Hildecio Paulo: Oi",
@@ -6672,7 +6669,10 @@
         "Heloisa: Papo de quem pensa com a cabeça errada kk",
         "Douglas🙏: Nada rsrs 😂",
         "Henrique Contri 🤫: São Paulino né 🤣🤣",
-        "Douglas🙏: Papo de quem pensa com as 2 cabeças 🔥🙈"
+        "Douglas🙏: Papo de quem pensa com as 2 cabeças 🔥🙈",
+        "No Foco .: Mulher q gosta de dinheiro PV",
+        "No Foco .: Rsrs",
+        "Márcio Bruxel: Obrigado"
       ]
     },
     "120363426574906687@g.us": {
@@ -6813,12 +6813,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "Óbvio que não 🤨",
-        "timestamp": 1788798110960
-      },
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
@@ -7640,6 +7634,24 @@
         "authorName": "Douglas🙏",
         "text": "Papo de quem pensa com as 2 cabeças 🔥🙈",
         "timestamp": 1788799900271
+      },
+      {
+        "authorNum": "130043523133488",
+        "authorName": "No Foco .",
+        "text": "Mulher q gosta de dinheiro PV",
+        "timestamp": 1788799907453
+      },
+      {
+        "authorNum": "130043523133488",
+        "authorName": "No Foco .",
+        "text": "Rsrs",
+        "timestamp": 1788799910558
+      },
+      {
+        "authorNum": "171214744064197",
+        "authorName": "Márcio Bruxel",
+        "text": "Obrigado",
+        "timestamp": 1788799917657
       }
     ],
     "120363426574906687@g.us": [
@@ -7743,7 +7755,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1607,
+    "120363023757382018@g.us": 1610,
     "120363426574906687@g.us": 117
   },
   "botDisabled": {
@@ -15683,6 +15695,24 @@
         "text": "Papo de quem pensa com as 2 cabeças 🔥🙈",
         "pushName": "Douglas🙏",
         "timestamp": 1788799900271
+      },
+      "AC94ADFDF9AB9C3AC47069CBE8505AD2": {
+        "sender": "130043523133488@lid",
+        "text": "Mulher q gosta de dinheiro PV",
+        "pushName": "No Foco .",
+        "timestamp": 1788799907453
+      },
+      "ACD0D6633F21EEADE1718637254086C8": {
+        "sender": "130043523133488@lid",
+        "text": "Rsrs",
+        "pushName": "No Foco .",
+        "timestamp": 1788799910559
+      },
+      "AC7DBA237768260B3E6176041F1A6F4D": {
+        "sender": "171214744064197@lid",
+        "text": "Obrigado",
+        "pushName": "Márcio Bruxel",
+        "timestamp": 1788799917657
       }
     },
     "120363426574906687@g.us": {
@@ -16251,7 +16281,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788799900271,
+    "120363023757382018@g.us": 1788799917657,
     "120363426574906687@g.us": 1788799590982
   },
   "autoAnimSent": {
