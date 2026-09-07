@@ -4477,9 +4477,9 @@
         "total": 34
       },
       "5511927018683": {
-        "text": 129,
+        "text": 131,
         "media": 10,
-        "total": 139
+        "total": 141
       },
       "166452229341300": {
         "text": 40,
@@ -4607,9 +4607,9 @@
         "total": 2
       },
       "42769972252769": {
-        "text": 3,
+        "text": 5,
         "media": 0,
-        "total": 3
+        "total": 5
       }
     },
     "120363426574906687@g.us": {
@@ -13199,7 +13199,11 @@
         "Leandro: !del",
         "Leandro: !del",
         "🌷: tem que se apresentar eh?",
-        "🌷: sim amg"
+        "🌷: sim amg",
+        "Leandro: Devido às diretrizes da Meta Business Inc© não é permitido menores de 18 anos no grupo!",
+        "🌷: Ou nao",
+        "Leandro: !ban",
+        "🌷: não pode menor de 18?"
       ]
     },
     "120363426574906687@g.us": {
@@ -13419,6 +13423,30 @@
         "authorName": "🌷",
         "text": "sim amg",
         "timestamp": 1788756291727
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Devido às diretrizes da Meta Business Inc© não é permitido menores de 18 anos no grupo!",
+        "timestamp": 1788756294453
+      },
+      {
+        "authorNum": "42769972252769",
+        "authorName": "🌷",
+        "text": "Ou nao",
+        "timestamp": 1788756295008
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!ban",
+        "timestamp": 1788756300285
+      },
+      {
+        "authorNum": "42769972252769",
+        "authorName": "🌷",
+        "text": "não pode menor de 18?",
+        "timestamp": 1788756318894
       }
     ],
     "120363426574906687@g.us": []
@@ -13443,7 +13471,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 33,
-    "120363023757382018@g.us": 332,
+    "120363023757382018@g.us": 336,
     "120363426574906687@g.us": 36
   },
   "botDisabled": {
@@ -34323,6 +34351,30 @@
         "text": "sim amg",
         "pushName": "🌷",
         "timestamp": 1788756291727
+      },
+      "AC8532320779F75C25ECB47D3696AAC7": {
+        "sender": "54259127210155@lid",
+        "text": "Devido às diretrizes da Meta Business Inc© não é permitido menores de 18 anos no grupo!",
+        "pushName": "Leandro",
+        "timestamp": 1788756294453
+      },
+      "AC214A95A0FE24CD1AECB947F62E17A3": {
+        "sender": "42769972252769@lid",
+        "text": "Ou nao",
+        "pushName": "🌷",
+        "timestamp": 1788756295008
+      },
+      "AC899484BF7281852D4541E4BED6183C": {
+        "sender": "54259127210155@lid",
+        "text": "!ban",
+        "pushName": "Leandro",
+        "timestamp": 1788756300285
+      },
+      "AC7EA26EE9F2DEB68E286B248301A92D": {
+        "sender": "42769972252769@lid",
+        "text": "não pode menor de 18?",
+        "pushName": "🌷",
+        "timestamp": 1788756318894
       }
     },
     "120363426574906687@g.us": {
@@ -34630,7 +34682,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788755502872,
-    "120363023757382018@g.us": 1788756291727,
+    "120363023757382018@g.us": 1788756318894,
     "120363426574906687@g.us": 1788725639102
   },
   "autoAnimSent": {
@@ -34723,17 +34775,7 @@
       "umminutoremov": "⚠️ {membro}, você tem 1 MINUTO para se apresentar!"
     }
   },
-  "pendingMemberTimers": [
-    {
-      "id": "1788756115799_178855960649758@lid",
-      "chatId": "120363023757382018@g.us",
-      "memberId": "178855960649758@lid",
-      "joinedAt": 1788756115799,
-      "warned1min": false,
-      "countdownStarted": null,
-      "presented": false
-    }
-  ],
+  "pendingMemberTimers": [],
   "maintenance": false,
   "pendingPresentations": [],
   "antighost": {
