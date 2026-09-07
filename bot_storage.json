@@ -4494,9 +4494,9 @@
         "total": 169
       },
       "166452229341300": {
-        "text": 141,
+        "text": 142,
         "media": 46,
-        "total": 187
+        "total": 188
       },
       "53537388122141": {
         "text": 96,
@@ -4909,9 +4909,9 @@
         "total": 3
       },
       "43684162711698": {
-        "text": 0,
+        "text": 2,
         "media": 1,
-        "total": 1
+        "total": 3
       },
       "12481309225010": {
         "text": 1,
@@ -4999,6 +4999,11 @@
         "total": 1
       },
       "177481067843810": {
+        "text": 1,
+        "media": 0,
+        "total": 1
+      },
+      "43963989926016": {
         "text": 1,
         "media": 0,
         "total": 1
@@ -5876,9 +5881,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Antonio: Hello my name is Antonio 22 years old",
-        "solteiro: Ok",
-        "Clayton 🇳🇬: Clayton",
         ": Clayton",
         "Gabi 💋: Se apresente",
         "Cristian Sntss: Eu pensei que era mulher",
@@ -6375,7 +6377,10 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Não",
         "Felipe: A tesoura começou a canta",
         "Heloisa: Esse foi embora só dei tempo de se identifica o pobe",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Removido!"
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Removido!",
+        "Cristian Sntss: !ban @54516523249835",
+        "Jacke França: Algm ajuda ov",
+        "Jacke França: Pv"
       ]
     },
     "120363426574906687@g.us": {
@@ -6545,24 +6550,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "Maravilha, por nada 🥰",
-        "timestamp": 1788792739321
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "Quer chamar todas? KKK",
-        "timestamp": 1788792756250
-      },
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "!ban @243920571265278",
-        "timestamp": 1788792757200
-      },
       {
         "authorNum": "152274357751809",
         "authorName": "Heloisa",
@@ -7522,6 +7509,24 @@
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "text": "Removido!",
         "timestamp": 1788794538743
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "!ban @54516523249835",
+        "timestamp": 1788794554110
+      },
+      {
+        "authorNum": "43684162711698",
+        "authorName": "Jacke França",
+        "text": "Algm ajuda ov",
+        "timestamp": 1788794571943
+      },
+      {
+        "authorNum": "43684162711698",
+        "authorName": "Jacke França",
+        "text": "Pv",
+        "timestamp": 1788794572204
       }
     ],
     "120363426574906687@g.us": [
@@ -7595,7 +7600,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 47,
-    "120363023757382018@g.us": 1192,
+    "120363023757382018@g.us": 1195,
     "120363426574906687@g.us": 91
   },
   "botDisabled": {
@@ -12990,6 +12995,24 @@
         "text": "Removido!",
         "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "timestamp": 1788794538743
+      },
+      "A507479A27BDBBE4130350E74667202C": {
+        "sender": "166452229341300@lid",
+        "text": "!ban @54516523249835",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788794554111
+      },
+      "AC482863FDF8D85FA46FE9476FD46718": {
+        "sender": "43684162711698@lid",
+        "text": "Algm ajuda ov",
+        "pushName": "Jacke França",
+        "timestamp": 1788794571943
+      },
+      "AC30FA7CEF2F7D0E94D8049CBFC22F6E": {
+        "sender": "43684162711698@lid",
+        "text": "Pv",
+        "pushName": "Jacke França",
+        "timestamp": 1788794572204
       }
     },
     "120363426574906687@g.us": {
@@ -13399,7 +13422,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788794140105,
-    "120363023757382018@g.us": 1788794538743,
+    "120363023757382018@g.us": 1788794572204,
     "120363426574906687@g.us": 1788794431350
   },
   "autoAnimSent": {
