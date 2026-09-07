@@ -4507,9 +4507,9 @@
         "total": 167
       },
       "129373172711439": {
-        "text": 70,
+        "text": 71,
         "media": 17,
-        "total": 87
+        "total": 88
       },
       "138306604032063": {
         "text": 11,
@@ -4607,9 +4607,9 @@
         "total": 6
       },
       "254884934881353": {
-        "text": 28,
+        "text": 29,
         "media": 1,
-        "total": 29
+        "total": 30
       },
       "45479878459474": {
         "text": 1,
@@ -6195,8 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Saul: Kkkkk",
-        "Camila Designer: Mostra, nos prova",
         "Henrique Contri 🤫: Minha filha se tu tivesse noção do frio que tá aqui 🤣🤣",
         "Saul: Para carai, kkkkkk",
         "Francisco Silva: Ou não kkk",
@@ -6694,7 +6692,9 @@
         "P: brincadeira",
         "P: to procurando nada n",
         "Henrique Contri 🤫: Pior que dá kk",
-        "Camila Designer: Olha o que joga para o universo 🤣🤣🤣"
+        "Camila Designer: Olha o que joga para o universo 🤣🤣🤣",
+        "Celiete Souza: Pois então",
+        "P: eu não joguei nada não"
       ]
     },
     "120363426574906687@g.us": {
@@ -6898,18 +6898,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "274384656834700",
-        "authorName": "Gleydson Souza",
-        "text": "Eita",
-        "timestamp": 1788805369472
-      },
-      {
-        "authorNum": "264308512522409",
-        "authorName": "Henrique Contri 🤫",
-        "text": "Relaxa tem pras duas 😉",
-        "timestamp": 1788805382675
-      },
       {
         "authorNum": "247020967165997",
         "authorName": "Gabi 💋",
@@ -8019,6 +8007,18 @@
         "authorName": "Camila Designer",
         "text": "Olha o que joga para o universo 🤣🤣🤣",
         "timestamp": 1788807162131
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Pois então",
+        "timestamp": 1788807183880
+      },
+      {
+        "authorNum": "254884934881353",
+        "authorName": "P",
+        "text": "eu não joguei nada não",
+        "timestamp": 1788807192903
       }
     ],
     "120363426574906687@g.us": [
@@ -8062,7 +8062,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2269,
+    "120363023757382018@g.us": 2271,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -20041,6 +20041,18 @@
         "text": "Olha o que joga para o universo 🤣🤣🤣",
         "pushName": "Camila Designer",
         "timestamp": 1788807162131
+      },
+      "AC83639BD82A8EC4610FBCC8ABC5618D": {
+        "sender": "129373172711439@lid",
+        "text": "Pois então",
+        "pushName": "Celiete Souza",
+        "timestamp": 1788807183880
+      },
+      "3AD2D0F97F653054D3AE": {
+        "sender": "254884934881353@lid",
+        "text": "eu não joguei nada não",
+        "pushName": "P",
+        "timestamp": 1788807192903
       }
     },
     "120363426574906687@g.us": {
@@ -20981,7 +20993,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788807164271,
+    "120363023757382018@g.us": 1788807192903,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
