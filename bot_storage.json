@@ -4468,8 +4468,8 @@
       },
       "81991328395336": {
         "text": 4,
-        "media": 1,
-        "total": 5
+        "media": 2,
+        "total": 6
       }
     },
     "120363023757382018@g.us": {
@@ -4579,9 +4579,9 @@
         "total": 32
       },
       "111141304930334": {
-        "text": 1,
+        "text": 2,
         "media": 0,
-        "total": 1
+        "total": 2
       },
       "67392566734987": {
         "text": 1,
@@ -4949,9 +4949,9 @@
         "total": 1
       },
       "105197019918407": {
-        "text": 1,
+        "text": 4,
         "media": 0,
-        "total": 1
+        "total": 4
       },
       "169157941317756": {
         "text": 1,
@@ -4959,9 +4959,9 @@
         "total": 1
       },
       "251397924761795": {
-        "text": 1,
+        "text": 4,
         "media": 0,
-        "total": 1
+        "total": 4
       }
     },
     "120363426574906687@g.us": {
@@ -5833,13 +5833,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Bem vindo!",
-        "Amaury: PV liberado",
-        "Gabi 💋: Óia gente",
-        "Gabi 💋: Eu tô vendo coisa",
-        "solteiro: Oi",
-        "Camila Designer: Que coisa 👀👀",
-        "Cristian Sntss: Hj o grupo tá daquele jeito",
         "Gabi 💋: Oi",
         "Gabi 💋: Bunda linda",
         "solteiro: Solteira",
@@ -6332,7 +6325,14 @@
         "Francisco Silva: Cara trouxa",
         "Nalguda Ganesh: 📷",
         "Heloisa: Do nada uns número árabe",
-        "Hildecio Paulo: Oi"
+        "Hildecio Paulo: Oi",
+        "⚡: Bom dia",
+        "Hildecio Paulo: Bom dia",
+        "Hildecio Paulo: Paulo dede",
+        "Nalguda Ganesh: 🥰",
+        "Hildecio Paulo: Mg",
+        "Nalguda Ganesh: 🥰",
+        "Nalguda Ganesh: 👌"
       ]
     },
     "120363426574906687@g.us": {
@@ -6483,12 +6483,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "226946222944358",
-        "authorName": "Ton",
-        "text": "Q cidade tu mora",
-        "timestamp": 1788791909057
-      },
       {
         "authorNum": "63252218273911",
         "authorName": "Valdinei",
@@ -7424,6 +7418,48 @@
         "authorName": "Hildecio Paulo",
         "text": "Oi",
         "timestamp": 1788793704443
+      },
+      {
+        "authorNum": "111141304930334",
+        "authorName": "⚡",
+        "text": "Bom dia",
+        "timestamp": 1788793725665
+      },
+      {
+        "authorNum": "251397924761795",
+        "authorName": "Hildecio Paulo",
+        "text": "Bom dia",
+        "timestamp": 1788793736843
+      },
+      {
+        "authorNum": "251397924761795",
+        "authorName": "Hildecio Paulo",
+        "text": "Paulo dede",
+        "timestamp": 1788793742875
+      },
+      {
+        "authorNum": "105197019918407",
+        "authorName": "Nalguda Ganesh",
+        "text": "🥰",
+        "timestamp": 1788793745562
+      },
+      {
+        "authorNum": "251397924761795",
+        "authorName": "Hildecio Paulo",
+        "text": "Mg",
+        "timestamp": 1788793747480
+      },
+      {
+        "authorNum": "105197019918407",
+        "authorName": "Nalguda Ganesh",
+        "text": "🥰",
+        "timestamp": 1788793751275
+      },
+      {
+        "authorNum": "105197019918407",
+        "authorName": "Nalguda Ganesh",
+        "text": "👌",
+        "timestamp": 1788793755361
       }
     ],
     "120363426574906687@g.us": [
@@ -7491,7 +7527,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 44,
-    "120363023757382018@g.us": 1113,
+    "120363023757382018@g.us": 1120,
     "120363426574906687@g.us": 90
   },
   "botDisabled": {
@@ -12394,6 +12430,48 @@
         "text": "Oi",
         "pushName": "Hildecio Paulo",
         "timestamp": 1788793704443
+      },
+      "ACB2B8911E4514D44C9C20FF040D0C78": {
+        "sender": "111141304930334@lid",
+        "text": "Bom dia",
+        "pushName": "⚡",
+        "timestamp": 1788793725665
+      },
+      "ACD4869AD995A596E163F078A38BA987": {
+        "sender": "251397924761795@lid",
+        "text": "Bom dia",
+        "pushName": "Hildecio Paulo",
+        "timestamp": 1788793736843
+      },
+      "AC23126AF15A62DDDBB0AA329CACB4E4": {
+        "sender": "251397924761795@lid",
+        "text": "Paulo dede",
+        "pushName": "Hildecio Paulo",
+        "timestamp": 1788793742875
+      },
+      "ACB6F87952A647C9303CD134679C18FD": {
+        "sender": "105197019918407@lid",
+        "text": "🥰",
+        "pushName": "Nalguda Ganesh",
+        "timestamp": 1788793745562
+      },
+      "AC4F3A9A21B22CB00DE9253E5A071EFF": {
+        "sender": "251397924761795@lid",
+        "text": "Mg",
+        "pushName": "Hildecio Paulo",
+        "timestamp": 1788793747480
+      },
+      "AC67A56BAABDA0E194FB59BAAB5924EA": {
+        "sender": "105197019918407@lid",
+        "text": "🥰",
+        "pushName": "Nalguda Ganesh",
+        "timestamp": 1788793751276
+      },
+      "AC2028340532ADE1AF8F5DC4512C86F2": {
+        "sender": "105197019918407@lid",
+        "text": "👌",
+        "pushName": "Nalguda Ganesh",
+        "timestamp": 1788793755361
       }
     },
     "120363426574906687@g.us": {
@@ -12796,8 +12874,8 @@
     "120363411043114631@g.us": 1787897464612,
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
-    "120363427545094619@g.us": 1788793408313,
-    "120363023757382018@g.us": 1788793704443,
+    "120363427545094619@g.us": 1788793755212,
+    "120363023757382018@g.us": 1788793755361,
     "120363426574906687@g.us": 1788793079391
   },
   "autoAnimSent": {
