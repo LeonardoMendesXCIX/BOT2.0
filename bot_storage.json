@@ -4564,9 +4564,9 @@
         "total": 61
       },
       "274384656834700": {
-        "text": 21,
+        "text": 23,
         "media": 7,
-        "total": 28
+        "total": 30
       },
       "111141304930334": {
         "text": 1,
@@ -4699,9 +4699,9 @@
         "total": 2
       },
       "230365537005571": {
-        "text": 9,
-        "media": 2,
-        "total": 11
+        "text": 10,
+        "media": 3,
+        "total": 13
       },
       "60739813417005": {
         "text": 2,
@@ -4724,9 +4724,9 @@
         "total": 1
       },
       "64540909826263": {
-        "text": 0,
+        "text": 1,
         "media": 1,
-        "total": 1
+        "total": 2
       }
     },
     "120363426574906687@g.us": {
@@ -6046,7 +6046,10 @@
         "solteiro: Oi",
         "Bruno Barra 🦍: Bruno 31 anos, Rio de janeiro , hetero , PV liberado",
         "Gleydson Souza: Gostei muito do cabelo tmb",
-        ": Bruno 31 anos, Rio de janeiro , hetero , PV liberado"
+        ": Bruno 31 anos, Rio de janeiro , hetero , PV liberado",
+        "xacinaluzqradiaoinferno71: n, tenho 19 achei q n podia no grupo",
+        "Gleydson Souza: Então apresente-se",
+        "Gleydson Souza: Pois pode"
       ]
     },
     "120363426574906687@g.us": {
@@ -7156,6 +7159,24 @@
         "authorName": "",
         "text": "Bruno 31 anos, Rio de janeiro , hetero , PV liberado",
         "timestamp": 1788788215346
+      },
+      {
+        "authorNum": "230365537005571",
+        "authorName": "xacinaluzqradiaoinferno71",
+        "text": "n, tenho 19 achei q n podia no grupo",
+        "timestamp": 1788788242418
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Então apresente-se",
+        "timestamp": 1788788257887
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Pois pode",
+        "timestamp": 1788788261820
       }
     ],
     "120363426574906687@g.us": [
@@ -7253,7 +7274,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 686,
+    "120363023757382018@g.us": 689,
     "120363426574906687@g.us": 48
   },
   "botDisabled": {
@@ -9568,6 +9589,24 @@
         "text": "Gostei muito do cabelo tmb",
         "pushName": "Gleydson Souza",
         "timestamp": 1788788215206
+      },
+      "A5DED35D7B8EBA07F17C30E1E85A2305": {
+        "sender": "230365537005571@lid",
+        "text": "n, tenho 19 achei q n podia no grupo",
+        "pushName": "xacinaluzqradiaoinferno71",
+        "timestamp": 1788788242418
+      },
+      "ACC92472CAF69204FEEA60049AF8568D": {
+        "sender": "274384656834700@lid",
+        "text": "Então apresente-se",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1788788257887
+      },
+      "AC3803DA45767918CEBA4B9BBA0527EF": {
+        "sender": "274384656834700@lid",
+        "text": "Pois pode",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1788788261820
       }
     },
     "120363426574906687@g.us": {
@@ -9719,7 +9758,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788788215346,
+    "120363023757382018@g.us": 1788788261820,
     "120363426574906687@g.us": 1788788012627
   },
   "autoAnimSent": {
