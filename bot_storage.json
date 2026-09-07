@@ -4522,9 +4522,9 @@
         "total": 413
       },
       "53537388122141": {
-        "text": 200,
-        "media": 19,
-        "total": 219
+        "text": 202,
+        "media": 20,
+        "total": 222
       },
       "129373172711439": {
         "text": 121,
@@ -5337,9 +5337,9 @@
         "total": 7
       },
       "79728216113177": {
-        "text": 31,
-        "media": 23,
-        "total": 54
+        "text": 34,
+        "media": 24,
+        "total": 58
       }
     },
     "120363426574906687@g.us": {
@@ -6249,10 +6249,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Camila Designer: Minha amiga disse que é doida pra ser sequestrada para São Paulo acredita?!🤣🤣🤣",
-        "P: uma coroa com pensão",
-        "Saul: Moro sozinho, tem espaço de sobra aqui, dá até para os filhos virem passar um fim de semana junto com ela \n(Eu recomendo vir só), tem cobra aqui e ela é perigosa",
-        "Celiete Souza: Também não é assim moço",
         "Saul: Ela tem que tomar cuidado, se aparecerem na loc dela hj, eu não tenho nada ver com isso",
         "Camila Designer: Minha amiga disse que é domadora de cobra 🫣🫣🫣",
         "jaciara: Minha amiga deixa os filhos com o pai kkkkk",
@@ -6748,7 +6744,11 @@
         "solteiro: Solteira",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Valeu, aproveitem. Eu tenho mais aqui, minhas",
         "Kaio Mendes: Manda kskssk",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Vala minha nossa senhora"
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Vala minha nossa senhora",
+        "Kaio Mendes: O cara tá no cio",
+        "Kaio Mendes: Kskssksksk gostei",
+        "Kaio Mendes: Coringa",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Tô vendo"
       ]
     },
     "120363426574906687@g.us": {
@@ -7277,6 +7277,30 @@
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "text": "Vala minha nossa senhora",
         "timestamp": 1788815901370
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "O cara tá no cio",
+        "timestamp": 1788815914480
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "Kskssksksk gostei",
+        "timestamp": 1788815923002
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "Coringa",
+        "timestamp": 1788815933156
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Tô vendo",
+        "timestamp": 1788815935360
       }
     ],
     "120363426574906687@g.us": [
@@ -7308,7 +7332,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2752,
+    "120363023757382018@g.us": 2756,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -22251,6 +22275,30 @@
         "text": "Vala minha nossa senhora",
         "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "timestamp": 1788815901370
+      },
+      "AC024BB425BD0B9E3AF9637A18F1A5B0": {
+        "sender": "79728216113177@lid",
+        "text": "O cara tá no cio",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788815914480
+      },
+      "AC9E7BB90895FD06C360611CC92F8091": {
+        "sender": "79728216113177@lid",
+        "text": "Kskssksksk gostei",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788815923002
+      },
+      "AC6D824ED612BC888D7960512935561B": {
+        "sender": "79728216113177@lid",
+        "text": "Coringa",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788815933156
+      },
+      "AC0CC20AB5059AB73E0BF1A7066F4AD5": {
+        "sender": "53537388122141@lid",
+        "text": "Tô vendo",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788815935360
       }
     },
     "120363426574906687@g.us": {
@@ -23197,7 +23245,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788815909055,
+    "120363023757382018@g.us": 1788815935360,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
