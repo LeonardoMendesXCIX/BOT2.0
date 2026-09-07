@@ -34453,19 +34453,13 @@
   },
   "anonMsgs": [],
   "anonCounter": 1000,
-  "removalBlacklist": {},
+  "removalBlacklist": {
+    "120363023757382018@g.us": [
+      "45479878459474"
+    ]
+  },
   "removalMessages": {},
-  "pendingMemberTimers": [
-    {
-      "id": "1788753771654_45479878459474@lid",
-      "chatId": "120363023757382018@g.us",
-      "memberId": "45479878459474@lid",
-      "joinedAt": 1788753771654,
-      "warned1min": false,
-      "countdownStarted": null,
-      "presented": false
-    }
-  ],
+  "pendingMemberTimers": [],
   "maintenance": false,
   "pendingPresentations": [],
   "antighost": {
