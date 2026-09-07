@@ -4512,9 +4512,9 @@
         "total": 199
       },
       "5511927018683": {
-        "text": 190,
+        "text": 193,
         "media": 17,
-        "total": 207
+        "total": 210
       },
       "166452229341300": {
         "text": 322,
@@ -4588,8 +4588,8 @@
       },
       "182738040713418": {
         "text": 51,
-        "media": 35,
-        "total": 86
+        "media": 36,
+        "total": 87
       },
       "81991328395336": {
         "text": 159,
@@ -6249,8 +6249,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Gabi 💋: Quanto tempo",
-        "jaciara: Minha amiga vai ver se outro quer a visita dela",
         "Gabi 💋: Ansiosa para a pinça da noite",
         "Gleydson Souza: Kkkk e muita gente nova tmb",
         "P: Kkkkkkkkkk",
@@ -6748,7 +6746,9 @@
         "Kaio Mendes: Oloko",
         "Camila Designer: Igual Pedro 🤣🤣🤣",
         "Kaio Mendes: Tá sobrando nada",
-        "Camila Designer: Só um milagre mesmo"
+        "Camila Designer: Só um milagre mesmo",
+        "Leandro: Muito obrigado!",
+        "Leandro: !todos"
       ]
     },
     "120363426574906687@g.us": {
@@ -7541,6 +7541,18 @@
         "authorName": "Camila Designer",
         "text": "Só um milagre mesmo",
         "timestamp": 1788816634790
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Muito obrigado!",
+        "timestamp": 1788816652327
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!todos",
+        "timestamp": 1788816663455
       }
     ],
     "120363426574906687@g.us": [
@@ -7572,7 +7584,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2810,
+    "120363023757382018@g.us": 2812,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -22863,6 +22875,18 @@
         "text": "Só um milagre mesmo",
         "pushName": "Camila Designer",
         "timestamp": 1788816634790
+      },
+      "AC9FF55DAE4918BC48C28883EED9B91E": {
+        "sender": "54259127210155@lid",
+        "text": "Muito obrigado!",
+        "pushName": "Leandro",
+        "timestamp": 1788816652327
+      },
+      "AC4D2C8E690872FEC3C5D1365705DEB9": {
+        "sender": "54259127210155@lid",
+        "text": "!todos",
+        "pushName": "Leandro",
+        "timestamp": 1788816663455
       }
     },
     "120363426574906687@g.us": {
@@ -23809,7 +23833,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788816634790,
+    "120363023757382018@g.us": 1788816663455,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
