@@ -4587,9 +4587,9 @@
         "total": 1
       },
       "182738040713418": {
-        "text": 56,
+        "text": 57,
         "media": 44,
-        "total": 100
+        "total": 101
       },
       "81991328395336": {
         "text": 178,
@@ -6258,7 +6258,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Felippo: eu tô é bebo já",
         "Camila Designer: 😏😏😏",
         "Leandro: 🌝",
         "Dany: Uai… esse grupo vai fechar???",
@@ -6757,7 +6756,8 @@
         "Camila Designer: @182738040713418 minha amiga apareceu e perguntou se você vai mandar foto do peitoral no Kabaré",
         "Celiete Souza: Roubou né kkk",
         "Leandro: Exato",
-        "Celiete Souza: Eu acabo de rasgar se eu ver furada"
+        "Celiete Souza: Eu acabo de rasgar se eu ver furada",
+        "Wellington: Faz isso não tem valor sentimental kkk"
       ]
     },
     "120363426574906687@g.us": {
@@ -6957,18 +6957,6 @@
     "120363411246936023@g.us": [],
     "120363409024805409@g.us": [
       {
-        "authorNum": "262182034002040",
-        "authorName": "Dany",
-        "text": "Eu também sou verde hahhaha",
-        "timestamp": 1788817781488
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Concordo, eu também sou verde 🌝",
-        "timestamp": 1788817792648
-      },
-      {
         "authorNum": "166452229341300",
         "authorName": "Cristian Sntss",
         "text": "🤣🤣🤣",
@@ -6981,42 +6969,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "81991328395336",
-        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
-        "text": "Nem me fale",
-        "timestamp": 1788817775424
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "Tmj",
-        "timestamp": 1788817790232
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Tá frio aí né",
-        "timestamp": 1788817794614
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Porque aqui hora dessa tá 30 graus",
-        "timestamp": 1788817801908
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
-        "text": "O clima q eu queria",
-        "timestamp": 1788817803240
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "Sensação térmica de 14°C amiga",
-        "timestamp": 1788817809463
-      },
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
@@ -7700,6 +7652,12 @@
         "authorName": "Celiete Souza",
         "text": "Eu acabo de rasgar se eu ver furada",
         "timestamp": 1788819559068
+      },
+      {
+        "authorNum": "182738040713418",
+        "authorName": "Wellington",
+        "text": "Faz isso não tem valor sentimental kkk",
+        "timestamp": 1788819616252
       }
     ],
     "120363426574906687@g.us": []
@@ -7724,7 +7682,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 3009,
+    "120363023757382018@g.us": 3010,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -24232,6 +24190,12 @@
         "text": "Eu acabo de rasgar se eu ver furada",
         "pushName": "Celiete Souza",
         "timestamp": 1788819559068
+      },
+      "AC5861B244314B7C077E5566685AE692": {
+        "sender": "182738040713418@lid",
+        "text": "Faz isso não tem valor sentimental kkk",
+        "pushName": "Wellington",
+        "timestamp": 1788819616252
       }
     },
     "120363426574906687@g.us": {
@@ -25178,7 +25142,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788819559067,
+    "120363023757382018@g.us": 1788819616252,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
