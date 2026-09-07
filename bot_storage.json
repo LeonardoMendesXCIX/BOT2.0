@@ -4497,9 +4497,9 @@
         "total": 169
       },
       "166452229341300": {
-        "text": 179,
-        "media": 59,
-        "total": 238
+        "text": 180,
+        "media": 60,
+        "total": 240
       },
       "53537388122141": {
         "text": 127,
@@ -4547,9 +4547,9 @@
         "total": 4
       },
       "176171622899942": {
-        "text": 26,
+        "text": 27,
         "media": 7,
-        "total": 33
+        "total": 34
       },
       "92629643563147": {
         "text": 30,
@@ -4577,9 +4577,9 @@
         "total": 123
       },
       "274384656834700": {
-        "text": 31,
+        "text": 33,
         "media": 11,
-        "total": 42
+        "total": 44
       },
       "111141304930334": {
         "text": 3,
@@ -4733,8 +4733,8 @@
       },
       "155503636275307": {
         "text": 1,
-        "media": 2,
-        "total": 3
+        "media": 3,
+        "total": 4
       },
       "64540909826263": {
         "text": 2,
@@ -5142,9 +5142,9 @@
         "total": 1
       },
       "264308512522409": {
-        "text": 3,
+        "text": 4,
         "media": 1,
-        "total": 4
+        "total": 5
       },
       "194377938911429": {
         "text": 1,
@@ -5192,9 +5192,9 @@
         "total": 1
       },
       "33905142956125": {
-        "text": 1,
+        "text": 2,
         "media": 0,
-        "total": 1
+        "total": 2
       },
       "107442969026587": {
         "text": 0,
@@ -6083,9 +6083,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Cristian Sntss: @92629643563147",
-        "Cristian Sntss: Vi uma foto que te interessa",
-        "Thawan: @152274357751809",
         "Cristian Sntss: Bem vindo",
         "Cristian Sntss: Bem vindo",
         "Heloisa: Oi ?",
@@ -6582,7 +6579,10 @@
         "sou seu pior pesadelo: Boa tarde",
         "Cristian Sntss: Boa",
         "Heloisa: Oi moço sem foto",
-        "Cristian Sntss: Se apresentou?"
+        "Cristian Sntss: Se apresentou?",
+        "Jefinho: Eu tenho lindeza",
+        "Henrique Contri 🤫: Aí onde vcs moram tá frio ?",
+        "Gleydson Souza: Amo"
       ]
     },
     "120363426574906687@g.us": {
@@ -6723,30 +6723,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "Acho que está no grupo errado",
-        "timestamp": 1788795712465
-      },
-      {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "Nao sabia que tu era tao violenta assim🤣🤣🤣🤣",
-        "timestamp": 1788795723839
-      },
-      {
-        "authorNum": "152274357751809",
-        "authorName": "Heloisa",
-        "text": "De nada",
-        "timestamp": 1788795725450
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "Sabia simmmm\nTe faz não 😂",
-        "timestamp": 1788795733690
-      },
       {
         "authorNum": "222595437858867",
         "authorName": "Juliano Perlin",
@@ -7514,6 +7490,24 @@
         "authorName": "Cristian Sntss",
         "text": "Se apresentou?",
         "timestamp": 1788797505392
+      },
+      {
+        "authorNum": "176171622899942",
+        "authorName": "Jefinho",
+        "text": "Eu tenho lindeza",
+        "timestamp": 1788797519534
+      },
+      {
+        "authorNum": "264308512522409",
+        "authorName": "Henrique Contri 🤫",
+        "text": "Aí onde vcs moram tá frio ?",
+        "timestamp": 1788797534732
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Amo",
+        "timestamp": 1788797537759
       }
     ],
     "120363426574906687@g.us": [
@@ -7605,7 +7599,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1406,
+    "120363023757382018@g.us": 1409,
     "120363426574906687@g.us": 104
   },
   "botDisabled": {
@@ -14339,6 +14333,24 @@
         "text": "Se apresentou?",
         "pushName": "Cristian Sntss",
         "timestamp": 1788797505392
+      },
+      "ACA6606DE4DBA44ED434E38D8F555147": {
+        "sender": "176171622899942@lid",
+        "text": "Eu tenho lindeza",
+        "pushName": "Jefinho",
+        "timestamp": 1788797519534
+      },
+      "AC056B1223076FE678E713B58A3D2902": {
+        "sender": "264308512522409@lid",
+        "text": "Aí onde vcs moram tá frio ?",
+        "pushName": "Henrique Contri 🤫",
+        "timestamp": 1788797534732
+      },
+      "ACF8FE274271BD744354033F26FAAE93": {
+        "sender": "274384656834700@lid",
+        "text": "Amo",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1788797537759
       }
     },
     "120363426574906687@g.us": {
@@ -14829,7 +14841,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788797505392,
+    "120363023757382018@g.us": 1788797544919,
     "120363426574906687@g.us": 1788796664927
   },
   "autoAnimSent": {
