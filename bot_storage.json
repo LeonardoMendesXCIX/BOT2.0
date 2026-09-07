@@ -4539,9 +4539,9 @@
         "total": 27
       },
       "92629643563147": {
-        "text": 22,
+        "text": 23,
         "media": 12,
-        "total": 34
+        "total": 35
       },
       "559984624669": {
         "text": 4,
@@ -4769,14 +4769,14 @@
         "total": 2
       },
       "262912430080093": {
-        "text": 9,
+        "text": 10,
         "media": 1,
-        "total": 10
+        "total": 11
       },
       "26659415666708": {
-        "text": 5,
+        "text": 6,
         "media": 4,
-        "total": 9
+        "total": 10
       },
       "27277404426480": {
         "text": 1,
@@ -4794,9 +4794,14 @@
         "total": 1
       },
       "226946222944358": {
-        "text": 2,
+        "text": 3,
         "media": 0,
-        "total": 2
+        "total": 3
+      },
+      "166657649557507": {
+        "text": 1,
+        "media": 0,
+        "total": 1
       }
     },
     "120363426574906687@g.us": {
@@ -5662,9 +5667,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Victor: pelo tipo da foto",
-        "Victor: a idade tbm não fazia sentido, disse que tinha 14",
-        "🌷: ahh",
         "Victor: muito comum essa parada, infelizmente",
         "🌷: mas eu acho que ela não eh fake não",
         "Victor: bom",
@@ -6161,7 +6163,10 @@
         "Cristian Sntss: Apresente se",
         "😎🇧🇷: Pq",
         "JUNIOR: Que medo",
-        "Heloisa: Ou gente eu tenho foto no perfil e já mandei no grupo não adianta vir no PV pedir outra foto , mais noção pf @26659415666708"
+        "Heloisa: Ou gente eu tenho foto no perfil e já mandei no grupo não adianta vir no PV pedir outra foto , mais noção pf @26659415666708",
+        "Camila Designer: @26659415666708 te respondeu",
+        "Ton: Vou ler as regras primeiro",
+        "😎🇧🇷: Figurinha pode"
       ]
     },
     "120363426574906687@g.us": {
@@ -6240,48 +6245,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Sendo de maio pode",
-        "timestamp": 1788788280380
-      },
-      {
-        "authorNum": "216183521415213",
-        "authorName": "S2",
-        "text": "Bom feriado a todos",
-        "timestamp": 1788788282472
-      },
-      {
-        "authorNum": "179354244005905",
-        "authorName": "Antonio",
-        "text": "Hello my name is Antonio 22 years old",
-        "timestamp": 1788788285097
-      },
-      {
-        "authorNum": "128145298608376",
-        "authorName": "solteiro",
-        "text": "Ok",
-        "timestamp": 1788788286412
-      },
-      {
-        "authorNum": "155503636275307",
-        "authorName": "Clayton 🇳🇬",
-        "text": "Clayton",
-        "timestamp": 1788788298092
-      },
-      {
-        "authorNum": "120363023757382018",
-        "authorName": "",
-        "text": "Clayton",
-        "timestamp": 1788788298400
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Se apresente",
-        "timestamp": 1788788308243
-      },
       {
         "authorNum": "166452229341300",
         "authorName": "Cristian Sntss",
@@ -7169,6 +7132,24 @@
         "authorName": "Heloisa",
         "text": "Ou gente eu tenho foto no perfil e já mandei no grupo não adianta vir no PV pedir outra foto , mais noção pf @26659415666708",
         "timestamp": 1788790075656
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "@26659415666708 te respondeu",
+        "timestamp": 1788790085558
+      },
+      {
+        "authorNum": "226946222944358",
+        "authorName": "Ton",
+        "text": "Vou ler as regras primeiro",
+        "timestamp": 1788790094945
+      },
+      {
+        "authorNum": "26659415666708",
+        "authorName": "😎🇧🇷",
+        "text": "Figurinha pode",
+        "timestamp": 1788790115310
       }
     ],
     "120363426574906687@g.us": [
@@ -7236,7 +7217,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 845,
+    "120363023757382018@g.us": 848,
     "120363426574906687@g.us": 55
   },
   "botDisabled": {
@@ -10493,6 +10474,24 @@
         "text": "Ou gente eu tenho foto no perfil e já mandei no grupo não adianta vir no PV pedir outra foto , mais noção pf @26659415666708",
         "pushName": "Heloisa",
         "timestamp": 1788790075656
+      },
+      "2A9ECFC02857BA3587D5": {
+        "sender": "92629643563147@lid",
+        "text": "@26659415666708 te respondeu",
+        "pushName": "Camila Designer",
+        "timestamp": 1788790085558
+      },
+      "ACC7B4E021FF2A320A39918E9D932E7A": {
+        "sender": "226946222944358@lid",
+        "text": "Vou ler as regras primeiro",
+        "pushName": "Ton",
+        "timestamp": 1788790094946
+      },
+      "3A64805C78436A8F8330": {
+        "sender": "26659415666708@lid",
+        "text": "Figurinha pode",
+        "pushName": "😎🇧🇷",
+        "timestamp": 1788790115310
       }
     },
     "120363426574906687@g.us": {
@@ -10686,7 +10685,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788790075656,
+    "120363023757382018@g.us": 1788790124464,
     "120363426574906687@g.us": 1788790011184
   },
   "autoAnimSent": {
