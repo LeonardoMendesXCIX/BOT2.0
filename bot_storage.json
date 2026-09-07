@@ -4578,9 +4578,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 34,
+        "text": 35,
         "media": 1,
-        "total": 35
+        "total": 36
       },
       "206966404210884": {
         "text": 2,
@@ -4643,9 +4643,9 @@
         "total": 3
       },
       "86595382292674": {
-        "text": 15,
+        "text": 17,
         "media": 3,
-        "total": 18
+        "total": 20
       },
       "1757061070966": {
         "text": 4,
@@ -5793,7 +5793,10 @@
         ": Bom dia ótimo feriado pra todos",
         "Cristian Sntss: Pronto",
         "Gabi 💋: Tenho paciencia não",
-        "Gabi 💋: Quem está carente vai no puteiro"
+        "Gabi 💋: Quem está carente vai no puteiro",
+        "Claudinho santos Claudinh: Eu inocente",
+        "Claudinho santos Claudinh: Kķk",
+        "Gabi 💋: Ainda"
       ]
     },
     "120363426574906687@g.us": {
@@ -5851,42 +5854,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "86595382292674",
-        "authorName": "Claudinho santos Claudinh",
-        "text": "Me chamo Cláudinho santos  tenho 40 anos",
-        "timestamp": 1788783350398
-      },
-      {
-        "authorNum": "86595382292674",
-        "authorName": "Claudinho santos Claudinh",
-        "text": "❤️",
-        "timestamp": 1788783357532
-      },
-      {
-        "authorNum": "86595382292674",
-        "authorName": "Claudinho santos Claudinh",
-        "text": "Bom dia galerinha",
-        "timestamp": 1788783371347
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Seja bem vindo",
-        "timestamp": 1788783377792
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Seja bem vindo",
-        "timestamp": 1788783398860
-      },
-      {
-        "authorNum": "86595382292674",
-        "authorName": "Claudinho santos Claudinh",
-        "text": "Obrigada",
-        "timestamp": 1788783402133
-      },
       {
         "authorNum": "81991328395336",
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
@@ -6522,6 +6489,24 @@
         "authorName": "Gabi 💋",
         "text": "Quem está carente vai no puteiro",
         "timestamp": 1788785049815
+      },
+      {
+        "authorNum": "86595382292674",
+        "authorName": "Claudinho santos Claudinh",
+        "text": "Eu inocente",
+        "timestamp": 1788785184513
+      },
+      {
+        "authorNum": "86595382292674",
+        "authorName": "Claudinho santos Claudinh",
+        "text": "Kķk",
+        "timestamp": 1788785186193
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Ainda",
+        "timestamp": 1788785209909
       }
     ],
     "120363426574906687@g.us": []
@@ -6546,7 +6531,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 33,
-    "120363023757382018@g.us": 494,
+    "120363023757382018@g.us": 497,
     "120363426574906687@g.us": 36
   },
   "botDisabled": {
@@ -7701,6 +7686,24 @@
         "text": "Quem está carente vai no puteiro",
         "pushName": "Gabi 💋",
         "timestamp": 1788785049815
+      },
+      "AC03D518D97B070558FA0E1B6378C61A": {
+        "sender": "86595382292674@lid",
+        "text": "Eu inocente",
+        "pushName": "Claudinho santos Claudinh",
+        "timestamp": 1788785184514
+      },
+      "AC718D8237E75C114FF3C23C47102061": {
+        "sender": "86595382292674@lid",
+        "text": "Kķk",
+        "pushName": "Claudinho santos Claudinh",
+        "timestamp": 1788785186193
+      },
+      "AC2987CF13F025C68518F159F449AFFC": {
+        "sender": "247020967165997@lid",
+        "text": "Ainda",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788785209910
       }
     },
     "120363426574906687@g.us": {}
@@ -7797,7 +7800,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788755502872,
-    "120363023757382018@g.us": 1788785049815,
+    "120363023757382018@g.us": 1788785209909,
     "120363426574906687@g.us": 1788725639102
   },
   "autoAnimSent": {
@@ -7881,7 +7884,8 @@
     "120363023757382018@g.us": [
       "45479878459474",
       "209921022902343",
-      "1757061070966"
+      "1757061070966",
+      "193729163993156"
     ]
   },
   "removalMessages": {
@@ -7892,17 +7896,7 @@
       "umminutoremov": "⚠️ {membro}, você tem 1 MINUTO para se apresentar!"
     }
   },
-  "pendingMemberTimers": [
-    {
-      "id": "1788784223469_193729163993156@lid",
-      "chatId": "120363023757382018@g.us",
-      "memberId": "193729163993156@lid",
-      "joinedAt": 1788784223469,
-      "warned1min": true,
-      "countdownStarted": 0,
-      "presented": false
-    }
-  ],
+  "pendingMemberTimers": [],
   "maintenance": false,
   "pendingPresentations": [],
   "antighost": {
