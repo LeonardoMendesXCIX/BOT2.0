@@ -4501,9 +4501,9 @@
         "total": 198
       },
       "53537388122141": {
-        "text": 108,
+        "text": 109,
         "media": 11,
-        "total": 119
+        "total": 120
       },
       "129373172711439": {
         "text": 27,
@@ -4521,9 +4521,9 @@
         "total": 2
       },
       "222595437858867": {
-        "text": 39,
+        "text": 41,
         "media": 2,
-        "total": 41
+        "total": 43
       },
       "9431798554859": {
         "text": 2,
@@ -5977,9 +5977,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Cristian Sntss: Foto",
-        "Cristian Sntss: Gente apresentação de vocês fica a critério de vocês \nVisualização única ou normall\n\n@all",
-        "Amaury: Aqui foi uma baita aventura",
         "Cristian Sntss: @54259127210155",
         "Cristian Sntss: Eu me cagava todo",
         "JUNIOR: Nome: JÚNIOR\nIdade: 37\nCidade/Estado: BEBEDOURO /SP\norientação sexual: Hétero \n\n👤 PV LIBERADO",
@@ -6476,7 +6473,10 @@
         "Juliano Perlin: A sabrina vai te pega",
         "Juliano Perlin: Kkkkk",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: 😂",
-        "Juliano Perlin: Saber eu sabia..mas nao nesse ponto de cortar um atras do outro🤣🤣🤣🤣"
+        "Juliano Perlin: Saber eu sabia..mas nao nesse ponto de cortar um atras do outro🤣🤣🤣🤣",
+        "Juliano Perlin: Tirou uns 5 devereda",
+        "Juliano Perlin: Kkkkk",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Povo tudo de outro país"
       ]
     },
     "120363426574906687@g.us": {
@@ -6654,12 +6654,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "!ban",
-        "timestamp": 1788794003508
-      },
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
@@ -7475,6 +7469,24 @@
         "authorName": "Juliano Perlin",
         "text": "Saber eu sabia..mas nao nesse ponto de cortar um atras do outro🤣🤣🤣🤣",
         "timestamp": 1788795793778
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Tirou uns 5 devereda",
+        "timestamp": 1788795801770
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Kkkkk",
+        "timestamp": 1788795803646
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Povo tudo de outro país",
+        "timestamp": 1788795810966
       }
     ],
     "120363426574906687@g.us": [
@@ -7518,7 +7530,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1285,
+    "120363023757382018@g.us": 1288,
     "120363426574906687@g.us": 93
   },
   "botDisabled": {
@@ -13525,6 +13537,24 @@
         "text": "Saber eu sabia..mas nao nesse ponto de cortar um atras do outro🤣🤣🤣🤣",
         "pushName": "Juliano Perlin",
         "timestamp": 1788795793778
+      },
+      "AC65EB901E92F877B70AAC8D60B81CFF": {
+        "sender": "222595437858867@lid",
+        "text": "Tirou uns 5 devereda",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1788795801770
+      },
+      "AC0E420F1C3BB23AE14EF6EDDBF3B980": {
+        "sender": "222595437858867@lid",
+        "text": "Kkkkk",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1788795803646
+      },
+      "ACEF867C9AE6642F34472C7948F952D7": {
+        "sender": "53537388122141@lid",
+        "text": "Povo tudo de outro país",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788795810967
       }
     },
     "120363426574906687@g.us": {
@@ -13946,7 +13976,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788795793778,
+    "120363023757382018@g.us": 1788795810966,
     "120363426574906687@g.us": 1788795383928
   },
   "autoAnimSent": {
