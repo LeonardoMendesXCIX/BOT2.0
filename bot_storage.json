@@ -4498,8 +4498,8 @@
       },
       "166452229341300": {
         "text": 270,
-        "media": 82,
-        "total": 352
+        "media": 83,
+        "total": 353
       },
       "53537388122141": {
         "text": 156,
@@ -4552,9 +4552,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 216,
+        "text": 218,
         "media": 119,
-        "total": 335
+        "total": 337
       },
       "559984624669": {
         "text": 4,
@@ -4567,9 +4567,9 @@
         "total": 1
       },
       "182738040713418": {
-        "text": 27,
+        "text": 30,
         "media": 4,
-        "total": 31
+        "total": 34
       },
       "81991328395336": {
         "text": 141,
@@ -6195,11 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Felippo: tem foto aí no meu perfil",
-        "Gabi 💋: Como você sabe ?",
-        "Camila Designer: Vou ter que salvar então! Kkk",
-        "Camila Designer: Sei o que? Kkkk",
-        "Felippo: salva, que eu salvo kkk",
         "Camila Designer: Vi aqui",
         "Gabi 💋: Aqui",
         "jaciara: E aí ?",
@@ -6694,7 +6689,12 @@
         "Camila Designer: Minha amiga disse que agora sim o Kabaré vai ficar completo 🤣🤣🤣",
         "Cristian Sntss: Eu fiz minha parte ontem",
         "Gabi 💋: Essas amigas",
-        "Gabi 💋: Ksksks"
+        "Gabi 💋: Ksksks",
+        "Wellington: Sua amiga tá lá tbm ?",
+        "Camila Designer: Mas @182738040713418 a regra para todos os homens é envio de foto obrigatória de peitoral",
+        "Wellington: Bora vou lá conhecer ela",
+        "Camila Designer: Acredita que minha amiga fica vendo do meu celular 🤣🤣🤣",
+        "Wellington: Nesse frio ? Kkk"
       ]
     },
     "120363426574906687@g.us": {
@@ -6898,36 +6898,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Tá vendo o que vc fez kkkk",
-        "timestamp": 1788807622064
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Você se botou kkkk",
-        "timestamp": 1788807626292
-      },
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Bhaaaa",
-        "timestamp": 1788807631555
-      },
-      {
-        "authorNum": "254884934881353",
-        "authorName": "P",
-        "text": "Celiete perigosa",
-        "timestamp": 1788807647950
-      },
-      {
-        "authorNum": "274384656834700",
-        "authorName": "Gleydson Souza",
-        "text": "@247020967165997 ate o kbaré baby volto a noite",
-        "timestamp": 1788807650608
-      },
       {
         "authorNum": "129373172711439",
         "authorName": "Celiete Souza",
@@ -7671,6 +7641,36 @@
         "authorName": "Gabi 💋",
         "text": "Ksksks",
         "timestamp": 1788809416671
+      },
+      {
+        "authorNum": "182738040713418",
+        "authorName": "Wellington",
+        "text": "Sua amiga tá lá tbm ?",
+        "timestamp": 1788809418867
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Mas @182738040713418 a regra para todos os homens é envio de foto obrigatória de peitoral",
+        "timestamp": 1788809426499
+      },
+      {
+        "authorNum": "182738040713418",
+        "authorName": "Wellington",
+        "text": "Bora vou lá conhecer ela",
+        "timestamp": 1788809432451
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Acredita que minha amiga fica vendo do meu celular 🤣🤣🤣",
+        "timestamp": 1788809448454
+      },
+      {
+        "authorNum": "182738040713418",
+        "authorName": "Wellington",
+        "text": "Nesse frio ? Kkk",
+        "timestamp": 1788809458870
       }
     ],
     "120363426574906687@g.us": []
@@ -7695,7 +7695,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2468,
+    "120363023757382018@g.us": 2473,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -20868,6 +20868,36 @@
         "text": "Ksksks",
         "pushName": "Gabi 💋",
         "timestamp": 1788809416672
+      },
+      "ACD8C3AA2D5571D3AA0661B89773CD54": {
+        "sender": "182738040713418@lid",
+        "text": "Sua amiga tá lá tbm ?",
+        "pushName": "Wellington",
+        "timestamp": 1788809418868
+      },
+      "2AD6BC390D618417B802": {
+        "sender": "92629643563147@lid",
+        "text": "Mas @182738040713418 a regra para todos os homens é envio de foto obrigatória de peitoral",
+        "pushName": "Camila Designer",
+        "timestamp": 1788809426500
+      },
+      "AC06F2C70C79414CD811A36335821CE7": {
+        "sender": "182738040713418@lid",
+        "text": "Bora vou lá conhecer ela",
+        "pushName": "Wellington",
+        "timestamp": 1788809432451
+      },
+      "2A42A4DF397CBD51D377": {
+        "sender": "92629643563147@lid",
+        "text": "Acredita que minha amiga fica vendo do meu celular 🤣🤣🤣",
+        "pushName": "Camila Designer",
+        "timestamp": 1788809448454
+      },
+      "ACE5BC03A606199A47AED38E9BE2722F": {
+        "sender": "182738040713418@lid",
+        "text": "Nesse frio ? Kkk",
+        "pushName": "Wellington",
+        "timestamp": 1788809458870
       }
     },
     "120363426574906687@g.us": {
@@ -21808,7 +21838,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788809416671,
+    "120363023757382018@g.us": 1788809458870,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
