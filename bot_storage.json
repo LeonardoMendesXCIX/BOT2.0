@@ -196,7 +196,8 @@
     "81991328395336": "5",
     "145381035905262": "5",
     "53537388122141": "5",
-    "166452229341300": "5"
+    "166452229341300": "5",
+    "92629643563147": "5"
   },
   "groupStats": {
     "120363432018531082@g.us": {
@@ -4538,9 +4539,9 @@
         "total": 27
       },
       "92629643563147": {
-        "text": 12,
+        "text": 14,
         "media": 10,
-        "total": 22
+        "total": 24
       },
       "559984624669": {
         "text": 4,
@@ -4564,8 +4565,8 @@
       },
       "274384656834700": {
         "text": 18,
-        "media": 5,
-        "total": 23
+        "media": 7,
+        "total": 25
       },
       "111141304930334": {
         "text": 1,
@@ -4578,9 +4579,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 78,
+        "text": 83,
         "media": 9,
-        "total": 87
+        "total": 92
       },
       "206966404210884": {
         "text": 2,
@@ -4698,9 +4699,9 @@
         "total": 2
       },
       "230365537005571": {
-        "text": 6,
+        "text": 7,
         "media": 1,
-        "total": 7
+        "total": 8
       },
       "60739813417005": {
         "text": 2,
@@ -4713,9 +4714,9 @@
         "total": 1
       },
       "216183521415213": {
-        "text": 1,
+        "text": 3,
         "media": 1,
-        "total": 2
+        "total": 4
       }
     },
     "120363426574906687@g.us": {
@@ -6013,7 +6014,14 @@
         "xacinaluzqradiaoinferno71: sou da norte",
         "solteiro: Sim eu nao",
         "S2: Solteiro",
-        ": Solteiro"
+        ": Solteiro",
+        "Gabi 💋: Que lugar?",
+        "Gabi 💋: Se apresente",
+        "Camila Designer: Maravilhosa 😏😏😏",
+        "Gabi 💋: Só os gostosa",
+        "xacinaluzqradiaoinferno71: perto de franco da rocha",
+        "S2: Rafael, solteiro PV liberado",
+        "S2: Sou de minas gerais"
       ]
     },
     "120363426574906687@g.us": {
@@ -6991,6 +6999,48 @@
         "authorName": "",
         "text": "Solteiro",
         "timestamp": 1788788069036
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Que lugar?",
+        "timestamp": 1788788073018
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Se apresente",
+        "timestamp": 1788788083457
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Maravilhosa 😏😏😏",
+        "timestamp": 1788788085428
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Só os gostosa",
+        "timestamp": 1788788090557
+      },
+      {
+        "authorNum": "230365537005571",
+        "authorName": "xacinaluzqradiaoinferno71",
+        "text": "perto de franco da rocha",
+        "timestamp": 1788788102567
+      },
+      {
+        "authorNum": "216183521415213",
+        "authorName": "S2",
+        "text": "Rafael, solteiro PV liberado",
+        "timestamp": 1788788104196
+      },
+      {
+        "authorNum": "216183521415213",
+        "authorName": "S2",
+        "text": "Sou de minas gerais",
+        "timestamp": 1788788114980
       }
     ],
     "120363426574906687@g.us": [
@@ -7088,7 +7138,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 664,
+    "120363023757382018@g.us": 671,
     "120363426574906687@g.us": 48
   },
   "botDisabled": {
@@ -9277,6 +9327,48 @@
         "text": "Solteiro",
         "pushName": "",
         "timestamp": 1788788069037
+      },
+      "ACCABB042B78808F08A5399CC01A02FD": {
+        "sender": "247020967165997@lid",
+        "text": "Que lugar?",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788788073018
+      },
+      "ACF427470A99C3F2DFFAC81BE7901339": {
+        "sender": "247020967165997@lid",
+        "text": "Se apresente",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788788083458
+      },
+      "2A97CA9BFCBC7782AE8C": {
+        "sender": "92629643563147@lid",
+        "text": "Maravilhosa 😏😏😏",
+        "pushName": "Camila Designer",
+        "timestamp": 1788788085428
+      },
+      "AC4C8F68FF7DE5F8A0E0EE802570D171": {
+        "sender": "247020967165997@lid",
+        "text": "Só os gostosa",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788788090558
+      },
+      "A5EDD9BD70C8AE9413A65A12ECA2E50F": {
+        "sender": "230365537005571@lid",
+        "text": "perto de franco da rocha",
+        "pushName": "xacinaluzqradiaoinferno71",
+        "timestamp": 1788788102567
+      },
+      "AC9BB17AD2396C626D84E048B31FE525": {
+        "sender": "216183521415213@lid",
+        "text": "Rafael, solteiro PV liberado",
+        "pushName": "S2",
+        "timestamp": 1788788104196
+      },
+      "AC011BD7DB047D8B326F8E50EBB582DE": {
+        "sender": "216183521415213@lid",
+        "text": "Sou de minas gerais",
+        "pushName": "S2",
+        "timestamp": 1788788114980
       }
     },
     "120363426574906687@g.us": {
@@ -9428,7 +9520,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788788069036,
+    "120363023757382018@g.us": 1788788114980,
     "120363426574906687@g.us": 1788788012627
   },
   "autoAnimSent": {
