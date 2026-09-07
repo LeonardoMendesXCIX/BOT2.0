@@ -4562,9 +4562,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 226,
+        "text": 227,
         "media": 127,
-        "total": 353
+        "total": 354
       },
       "559984624669": {
         "text": 4,
@@ -5247,9 +5247,9 @@
         "total": 8
       },
       "241261818728589": {
-        "text": 16,
+        "text": 17,
         "media": 2,
-        "total": 18
+        "total": 19
       },
       "259588561625272": {
         "text": 1,
@@ -6214,8 +6214,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "jaciara: Ela é maravilhosa",
-        "Henrique Contri 🤫: Uma coisa tem nada a ver com a outra 🤣",
         "jaciara: Tudo tem haver",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Obrigada amiga",
         "Camila Designer: Cadê o @118515428286715 heim 😏😏😏",
@@ -6713,7 +6711,9 @@
         "Leandro: 🌝",
         "Dany: Uai… esse grupo vai fechar???",
         "Felippo: quer vim não? me ajudar",
-        "solteiro: Oiii"
+        "solteiro: Oiii",
+        "Camila Designer: Esperando me buscar ué kkk",
+        "sorveteria: 😳"
       ]
     },
     "120363426574906687@g.us": {
@@ -6967,24 +6967,6 @@
     ],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Para amiga, não seja exigente!",
-        "timestamp": 1788808790471
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Passo pra você",
-        "timestamp": 1788808803514
-      },
-      {
-        "authorNum": "182738040713418",
-        "authorName": "Wellington",
-        "text": "Que honra !😍 diga a ela que melhor seria se agente tivesse juntinho nesse exato momento 🙃",
-        "timestamp": 1788808806180
-      },
       {
         "authorNum": "166452229341300",
         "authorName": "Cristian Sntss",
@@ -7656,6 +7638,18 @@
         "authorName": "solteiro",
         "text": "Oiii",
         "timestamp": 1788810579544
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Esperando me buscar ué kkk",
+        "timestamp": 1788810587980
+      },
+      {
+        "authorNum": "241261818728589",
+        "authorName": "sorveteria",
+        "text": "😳",
+        "timestamp": 1788810612680
       }
     ],
     "120363426574906687@g.us": []
@@ -7680,7 +7674,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2515,
+    "120363023757382018@g.us": 2517,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -21192,6 +21186,18 @@
         "text": "Oiii",
         "pushName": "solteiro",
         "timestamp": 1788810579544
+      },
+      "2A54059252F74E04F786": {
+        "sender": "92629643563147@lid",
+        "text": "Esperando me buscar ué kkk",
+        "pushName": "Camila Designer",
+        "timestamp": 1788810587980
+      },
+      "A5422639960C55B6246D2783ED087858": {
+        "sender": "241261818728589@lid",
+        "text": "😳",
+        "pushName": "sorveteria",
+        "timestamp": 1788810612680
       }
     },
     "120363426574906687@g.us": {
@@ -22132,7 +22138,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788810579544,
+    "120363023757382018@g.us": 1788810612680,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
