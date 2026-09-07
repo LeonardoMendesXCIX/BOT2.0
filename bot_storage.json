@@ -4573,8 +4573,8 @@
       },
       "92629643563147": {
         "text": 290,
-        "media": 168,
-        "total": 458
+        "media": 169,
+        "total": 459
       },
       "559984624669": {
         "text": 4,
@@ -4587,9 +4587,9 @@
         "total": 1
       },
       "182738040713418": {
-        "text": 62,
+        "text": 63,
         "media": 46,
-        "total": 108
+        "total": 109
       },
       "81991328395336": {
         "text": 180,
@@ -5337,9 +5337,9 @@
         "total": 7
       },
       "79728216113177": {
-        "text": 99,
-        "media": 45,
-        "total": 144
+        "text": 101,
+        "media": 46,
+        "total": 147
       },
       "108147461074988": {
         "text": 1,
@@ -6266,8 +6266,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Camila Designer: Acho que vi isso mesmo",
-        "Camila Designer: E não sei como colocou no status",
         "Victor: ele mesmo",
         "Dany: Maluco!",
         "Victor: mandou trocentas vezes o link do grupo dele aqui",
@@ -6765,7 +6763,9 @@
         "Camila Designer: Depois do pecado que todos usaram roupas 🤣🤣🤣🤣",
         "Kaio Mendes: Slk",
         "Kaio Mendes: Kdksksksks",
-        "Kaio Mendes: Cuidado mano, ela se transforma lá....."
+        "Kaio Mendes: Cuidado mano, ela se transforma lá.....",
+        "Wellington: Tô vendo msm irmão kkk",
+        "Kaio Mendes: Vc mentindo agora"
       ]
     },
     "120363426574906687@g.us": {
@@ -7241,6 +7241,18 @@
         "authorName": "Kaio Mendes",
         "text": "Cuidado mano, ela se transforma lá.....",
         "timestamp": 1788820452686
+      },
+      {
+        "authorNum": "182738040713418",
+        "authorName": "Wellington",
+        "text": "Tô vendo msm irmão kkk",
+        "timestamp": 1788820472903
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "Vc mentindo agora",
+        "timestamp": 1788820504196
       }
     ],
     "120363426574906687@g.us": []
@@ -7265,7 +7277,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 486,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 3038,
+    "120363023757382018@g.us": 3040,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -23967,6 +23979,18 @@
         "text": "Cuidado mano, ela se transforma lá.....",
         "pushName": "Kaio Mendes",
         "timestamp": 1788820452686
+      },
+      "AC5CF2B2FB1D139BD6CB1FDFCF516F45": {
+        "sender": "182738040713418@lid",
+        "text": "Tô vendo msm irmão kkk",
+        "pushName": "Wellington",
+        "timestamp": 1788820472903
+      },
+      "AC07F15F45555C56D9D6110EF80E14E2": {
+        "sender": "79728216113177@lid",
+        "text": "Vc mentindo agora",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788820504196
       }
     },
     "120363426574906687@g.us": {
@@ -24913,7 +24937,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788819771459,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788820458480,
+    "120363023757382018@g.us": 1788820506532,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
