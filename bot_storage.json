@@ -5337,9 +5337,9 @@
         "total": 7
       },
       "79728216113177": {
-        "text": 94,
+        "text": 96,
         "media": 45,
-        "total": 139
+        "total": 141
       },
       "108147461074988": {
         "text": 1,
@@ -6266,8 +6266,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Dany: Aqui ó",
-        "Dany: Não, eu namoro",
         "solteiro: Oiii",
         "jaciara: O meu também aparece",
         "Camila Designer: @166452229341300",
@@ -6765,7 +6763,9 @@
         "Camila Designer: Ela falou que pode, você pode mandar qualquer foto sua 🤣🤣🤣",
         "Wellington: Eu não uso sempre né é que tá frio pra Caraí aqui ou é ela ou é sem ela kkkk",
         "Wellington: Tá bom então 🙃🫶🏽",
-        "Camila Designer: Ela disse que essa risadinha sua deixa ela mais apaixonada 🤣🤣🤣🤣"
+        "Camila Designer: Ela disse que essa risadinha sua deixa ela mais apaixonada 🤣🤣🤣🤣",
+        "Kaio Mendes: KAKAKAKA entendo mano",
+        "Kaio Mendes: Oloko"
       ]
     },
     "120363426574906687@g.us": {
@@ -6997,18 +6997,6 @@
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
       {
-        "authorNum": "79728216113177",
-        "authorName": "Kaio Mendes",
-        "text": "Tênis Pé",
-        "timestamp": 1788818375928
-      },
-      {
-        "authorNum": "262182034002040",
-        "authorName": "Dany",
-        "text": "Será? HAHHAHAHHA",
-        "timestamp": 1788818396101
-      },
-      {
         "authorNum": "262182034002040",
         "authorName": "Dany",
         "text": "Roubei a figurinha",
@@ -7223,6 +7211,18 @@
         "authorName": "Camila Designer",
         "text": "Ela disse que essa risadinha sua deixa ela mais apaixonada 🤣🤣🤣🤣",
         "timestamp": 1788820173251
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "KAKAKAKA entendo mano",
+        "timestamp": 1788820199351
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "Oloko",
+        "timestamp": 1788820205168
       }
     ],
     "120363426574906687@g.us": []
@@ -7247,7 +7247,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 486,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 3025,
+    "120363023757382018@g.us": 3027,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -23871,6 +23871,18 @@
         "text": "Ela disse que essa risadinha sua deixa ela mais apaixonada 🤣🤣🤣🤣",
         "pushName": "Camila Designer",
         "timestamp": 1788820173251
+      },
+      "AC06DECA1F8D0A6436FDC274E4704BB5": {
+        "sender": "79728216113177@lid",
+        "text": "KAKAKAKA entendo mano",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788820199351
+      },
+      "ACA071EB223B874DD79ABC81198EEA90": {
+        "sender": "79728216113177@lid",
+        "text": "Oloko",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788820205168
       }
     },
     "120363426574906687@g.us": {
@@ -24817,7 +24829,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788819771459,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788820173251,
+    "120363023757382018@g.us": 1788820205168,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
