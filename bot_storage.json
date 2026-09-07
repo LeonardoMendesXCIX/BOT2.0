@@ -4767,9 +4767,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 117,
+        "text": 119,
         "media": 1,
-        "total": 118
+        "total": 120
       },
       "89305909317735": {
         "text": 1,
@@ -5253,8 +5253,8 @@
       },
       "125211265527997": {
         "text": 1,
-        "media": 0,
-        "total": 1
+        "media": 1,
+        "total": 2
       },
       "106790234628250": {
         "text": 1,
@@ -5262,6 +5262,11 @@
         "total": 1
       },
       "127672248205333": {
+        "text": 2,
+        "media": 0,
+        "total": 2
+      },
+      "203191362797726": {
         "text": 1,
         "media": 0,
         "total": 1
@@ -6148,7 +6153,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Heloisa: Mas qualquer coisa eu aviso muito obrigada 🥰",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Tudo bem, qualquer coisa só me avisar",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Maravilha, por nada 🥰",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Quer chamar todas? KKK",
@@ -6647,7 +6651,8 @@
         "𝕰𝖛𝖆𝖓𝖉𝖗𝖔 𝕬𝖑𝖛𝖊𝖘: Alguém mais é de João pessoa haha",
         "Francisco Silva: Trabalho com peças de motos até garagem das motos",
         "Ivan: Ivan \nCidade Santa rosa \nRio grande do sul",
-        "retroboy: Quem é de guarulhos sp?"
+        "retroboy: Quem é de guarulhos sp?",
+        "Heloisa: Militar RS"
       ]
     },
     "120363426574906687@g.us": {
@@ -6775,18 +6780,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "O retrato",
-        "timestamp": 1788796870743
-      },
-      {
-        "authorNum": "152274357751809",
-        "authorName": "Heloisa",
-        "text": "Ele é sem noção",
-        "timestamp": 1788796889949
-      },
       {
         "authorNum": "247020967165997",
         "authorName": "Gabi 💋",
@@ -7794,6 +7787,12 @@
         "authorName": "retroboy",
         "text": "Quem é de guarulhos sp?",
         "timestamp": 1788798665666
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Militar RS",
+        "timestamp": 1788798706344
       }
     ],
     "120363426574906687@g.us": []
@@ -7818,7 +7817,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1527,
+    "120363023757382018@g.us": 1528,
     "120363426574906687@g.us": 104
   },
   "botDisabled": {
@@ -15278,6 +15277,12 @@
         "text": "Quem é de guarulhos sp?",
         "pushName": "retroboy",
         "timestamp": 1788798665666
+      },
+      "AC2A05C32631C001EE93B847B3E9CBB7": {
+        "sender": "152274357751809@lid",
+        "text": "Militar RS",
+        "pushName": "Heloisa",
+        "timestamp": 1788798706344
       }
     },
     "120363426574906687@g.us": {
@@ -15768,7 +15773,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788798665666,
+    "120363023757382018@g.us": 1788798716400,
     "120363426574906687@g.us": 1788798298976
   },
   "autoAnimSent": {
