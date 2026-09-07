@@ -4507,9 +4507,9 @@
         "total": 5
       },
       "108461127897146": {
-        "text": 179,
+        "text": 180,
         "media": 40,
-        "total": 219
+        "total": 220
       },
       "5511927018683": {
         "text": 223,
@@ -6257,7 +6257,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Camila Designer: *Link do Kabaré povo*",
         "Cristian Sntss: @all",
         "Gleydson Souza: @todos",
         "Wellington: Triste realidade",
@@ -6756,7 +6755,8 @@
         "Kaio Mendes: Conversa via figurinha",
         "Cristian Sntss: E de onde aqui no Maranhão msm?",
         "Kaio Mendes: Vitória",
-        "Kaio Mendes: E vc?"
+        "Kaio Mendes: E vc?",
+        "jaciara: Eu sou de Fortaleza dos Nogueiras"
       ]
     },
     "120363426574906687@g.us": {
@@ -6980,78 +6980,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "254884934881353",
-        "authorName": "P",
-        "text": "Por isso digo logo que sou enrolado",
-        "timestamp": 1788816782857
-      },
-      {
-        "authorNum": "254884934881353",
-        "authorName": "P",
-        "text": "melhor estado civil pra dizer",
-        "timestamp": 1788816790304
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "Esse também, mesmo dia",
-        "timestamp": 1788816796490
-      },
-      {
-        "authorNum": "254884934881353",
-        "authorName": "P",
-        "text": "não é nem A e nem B",
-        "timestamp": 1788816796544
-      },
-      {
-        "authorNum": "79728216113177",
-        "authorName": "Kaio Mendes",
-        "text": "Massa, agora vou rir por um bom tempo",
-        "timestamp": 1788816798844
-      },
-      {
-        "authorNum": "79728216113177",
-        "authorName": "Kaio Mendes",
-        "text": "C",
-        "timestamp": 1788816810815
-      },
-      {
-        "authorNum": "79728216113177",
-        "authorName": "Kaio Mendes",
-        "text": "?",
-        "timestamp": 1788816811896
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "Pobi da diretora",
-        "timestamp": 1788816814552
-      },
-      {
-        "authorNum": "182738040713418",
-        "authorName": "Wellington",
-        "text": "Podia ter mais kkk",
-        "timestamp": 1788816821536
-      },
-      {
-        "authorNum": "79728216113177",
-        "authorName": "Kaio Mendes",
-        "text": "Huuum vc é rica, pobi nada",
-        "timestamp": 1788816835688
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "Essa é de quando eu tinha uns 16 anos",
-        "timestamp": 1788816839010
-      },
-      {
-        "authorNum": "254884934881353",
-        "authorName": "P",
-        "text": "Eu só penso Solteiro ou comprometido kkkkkk",
-        "timestamp": 1788816844255
-      },
       {
         "authorNum": "254884934881353",
         "authorName": "P",
@@ -8047,6 +7975,12 @@
         "authorName": "Kaio Mendes",
         "text": "E vc?",
         "timestamp": 1788818582793
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Eu sou de Fortaleza dos Nogueiras",
+        "timestamp": 1788818648622
       }
     ],
     "120363426574906687@g.us": []
@@ -8071,7 +8005,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2996,
+    "120363023757382018@g.us": 2997,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -24495,6 +24429,12 @@
         "text": "E vc?",
         "pushName": "Kaio Mendes",
         "timestamp": 1788818582793
+      },
+      "AC41E13C045D8C54D61D0D513316E3C2": {
+        "sender": "108461127897146@lid",
+        "text": "Eu sou de Fortaleza dos Nogueiras",
+        "pushName": "jaciara",
+        "timestamp": 1788818648622
       }
     },
     "120363426574906687@g.us": {
@@ -25441,7 +25381,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788818582793,
+    "120363023757382018@g.us": 1788818648622,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
