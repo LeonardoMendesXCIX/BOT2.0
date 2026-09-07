@@ -4572,9 +4572,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 289,
+        "text": 290,
         "media": 167,
-        "total": 456
+        "total": 457
       },
       "559984624669": {
         "text": 4,
@@ -4588,8 +4588,8 @@
       },
       "182738040713418": {
         "text": 62,
-        "media": 44,
-        "total": 106
+        "media": 45,
+        "total": 107
       },
       "81991328395336": {
         "text": 180,
@@ -5337,9 +5337,9 @@
         "total": 7
       },
       "79728216113177": {
-        "text": 96,
+        "text": 98,
         "media": 45,
-        "total": 141
+        "total": 143
       },
       "108147461074988": {
         "text": 1,
@@ -6266,9 +6266,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "jaciara: Ok",
-        "solteiro: Oii",
-        "Victor: um cara entrou aqui de madrugada e ficou mandando isso na intenção de levar membros pro próprio grupo dele",
         "Dany: Foi esse número aqui que postou",
         "Camila Designer: Acho que vi isso mesmo",
         "Camila Designer: E não sei como colocou no status",
@@ -6765,7 +6762,10 @@
         "Camila Designer: Está aí?",
         "Wellington: Mais oq rola nesse cabaré aí ? É só coisa pura né? Pq sou da igreja",
         "Camila Designer: Puríssima 😏😏😏",
-        "Camila Designer: Deus não fez todos nus, e tem coisa mais pura que isso?"
+        "Camila Designer: Deus não fez todos nus, e tem coisa mais pura que isso?",
+        "Camila Designer: Depois do pecado que todos usaram roupas 🤣🤣🤣🤣",
+        "Kaio Mendes: Slk",
+        "Kaio Mendes: Kdksksksks"
       ]
     },
     "120363426574906687@g.us": {
@@ -7223,6 +7223,24 @@
         "authorName": "Camila Designer",
         "text": "Deus não fez todos nus, e tem coisa mais pura que isso?",
         "timestamp": 1788820395192
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Depois do pecado que todos usaram roupas 🤣🤣🤣🤣",
+        "timestamp": 1788820413708
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "Slk",
+        "timestamp": 1788820433379
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "Kdksksksks",
+        "timestamp": 1788820436951
       }
     ],
     "120363426574906687@g.us": []
@@ -7247,7 +7265,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 486,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 3034,
+    "120363023757382018@g.us": 3037,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -23925,6 +23943,24 @@
         "text": "Deus não fez todos nus, e tem coisa mais pura que isso?",
         "pushName": "Camila Designer",
         "timestamp": 1788820395192
+      },
+      "2A9F0F64AB6321E95889": {
+        "sender": "92629643563147@lid",
+        "text": "Depois do pecado que todos usaram roupas 🤣🤣🤣🤣",
+        "pushName": "Camila Designer",
+        "timestamp": 1788820413708
+      },
+      "AC2851FB30A8CF709E4CA36C72F70821": {
+        "sender": "79728216113177@lid",
+        "text": "Slk",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788820433379
+      },
+      "ACCD1C57352AC6949AAC53D1C0EFD4E0": {
+        "sender": "79728216113177@lid",
+        "text": "Kdksksksks",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788820436951
       }
     },
     "120363426574906687@g.us": {
@@ -24871,7 +24907,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788819771459,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788820395192,
+    "120363023757382018@g.us": 1788820436951,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
