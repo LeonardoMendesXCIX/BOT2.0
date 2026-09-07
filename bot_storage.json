@@ -4478,9 +4478,9 @@
         "total": 65
       },
       "5511927018683": {
-        "text": 138,
+        "text": 140,
         "media": 10,
-        "total": 148
+        "total": 150
       },
       "166452229341300": {
         "text": 62,
@@ -4563,9 +4563,9 @@
         "total": 43
       },
       "274384656834700": {
-        "text": 0,
+        "text": 1,
         "media": 2,
-        "total": 2
+        "total": 3
       },
       "111141304930334": {
         "text": 1,
@@ -4579,8 +4579,8 @@
       },
       "247020967165997": {
         "text": 37,
-        "media": 1,
-        "total": 38
+        "media": 2,
+        "total": 39
       },
       "206966404210884": {
         "text": 2,
@@ -5801,7 +5801,10 @@
         "jaciara: Kkkkk",
         "jaciara: O desgrama viu",
         "Gabi 💋: Vamos vê os próximos capítulos",
-        "Gabi 💋: Bloqueia eu fiz isso"
+        "Gabi 💋: Bloqueia eu fiz isso",
+        "Leandro: !status",
+        "Leandro: !del",
+        "Gleydson Souza: Vish pelo visto feriado começou com tudo pra vcs em kkkkk\n\nBom dia a todos @all"
       ]
     },
     "120363426574906687@g.us": {
@@ -5859,24 +5862,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "1757061070966",
-        "authorName": "Jefferson Lima",
-        "text": "Obg Gabi..",
-        "timestamp": 1788783435369
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
-        "text": "Sejam todos bem vindos🙌🏾",
-        "timestamp": 1788783452173
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "Bem vindos, novatos 🙋🏻‍♀️",
-        "timestamp": 1788783458328
-      },
       {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
@@ -6536,6 +6521,24 @@
         "authorName": "Gabi 💋",
         "text": "Bloqueia eu fiz isso",
         "timestamp": 1788785233078
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!status",
+        "timestamp": 1788785259070
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!del",
+        "timestamp": 1788785266593
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Vish pelo visto feriado começou com tudo pra vcs em kkkkk\n\nBom dia a todos @all",
+        "timestamp": 1788785266620
       }
     ],
     "120363426574906687@g.us": []
@@ -6560,7 +6563,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 33,
-    "120363023757382018@g.us": 502,
+    "120363023757382018@g.us": 505,
     "120363426574906687@g.us": 36
   },
   "botDisabled": {
@@ -7763,6 +7766,24 @@
         "text": "Bloqueia eu fiz isso",
         "pushName": "Gabi 💋",
         "timestamp": 1788785233078
+      },
+      "AC8590BB0F113316F8B4DAF5B9FD9EAB": {
+        "sender": "54259127210155@lid",
+        "text": "!status",
+        "pushName": "Leandro",
+        "timestamp": 1788785259070
+      },
+      "AC555439190EA4D64812E660C1F1645F": {
+        "sender": "54259127210155@lid",
+        "text": "!del",
+        "pushName": "Leandro",
+        "timestamp": 1788785266593
+      },
+      "AC0E30EA938E002449CD2E57E10F4B7C": {
+        "sender": "274384656834700@lid",
+        "text": "Vish pelo visto feriado começou com tudo pra vcs em kkkkk\n\nBom dia a todos @all",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1788785266620
       }
     },
     "120363426574906687@g.us": {}
@@ -7859,7 +7880,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788755502872,
-    "120363023757382018@g.us": 1788785233078,
+    "120363023757382018@g.us": 1788785266620,
     "120363426574906687@g.us": 1788725639102
   },
   "autoAnimSent": {
