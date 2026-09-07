@@ -4490,13 +4490,13 @@
       },
       "166452229341300": {
         "text": 133,
-        "media": 44,
-        "total": 177
+        "media": 45,
+        "total": 178
       },
       "53537388122141": {
-        "text": 61,
+        "text": 62,
         "media": 10,
-        "total": 71
+        "total": 72
       },
       "129373172711439": {
         "text": 27,
@@ -4599,9 +4599,9 @@
         "total": 6
       },
       "254884934881353": {
-        "text": 11,
+        "text": 12,
         "media": 0,
-        "total": 11
+        "total": 12
       },
       "45479878459474": {
         "text": 1,
@@ -4759,9 +4759,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 50,
+        "text": 51,
         "media": 0,
-        "total": 50
+        "total": 51
       },
       "89305909317735": {
         "text": 1,
@@ -4774,9 +4774,9 @@
         "total": 2
       },
       "262912430080093": {
-        "text": 16,
+        "text": 17,
         "media": 1,
-        "total": 17
+        "total": 18
       },
       "26659415666708": {
         "text": 6,
@@ -5747,10 +5747,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Leandro: !del",
-        "𝑳𝒂𝒚𝒉🌪🌚: @59645049761949",
-        ": @59645049761949",
-        "Gabi 💋: Mas ja",
         "Amaury: Nós bahiano e arretado",
         "Gleydson Souza: Eitaaaa",
         "Amaury: Não tem tempo ruim não",
@@ -6246,7 +6242,11 @@
         "Cristian Sntss: !ban",
         "Heloisa: Deixa ele já pediu desculpas não precisa remover",
         "P: ??",
-        "K: Rapaz"
+        "K: Rapaz",
+        "JUNIOR: Eita",
+        "P: Kkkkkkkkk",
+        "Heloisa: Mas qualquer coisa eu aviso muito obrigada 🥰",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Tudo bem, qualquer coisa só me avisar"
       ]
     },
     "120363426574906687@g.us": {
@@ -6353,18 +6353,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "238761577287893",
-        "authorName": "Ryan",
-        "text": "24 anos",
-        "timestamp": 1788790903038
-      },
-      {
-        "authorNum": "238761577287893",
-        "authorName": "Ryan",
-        "text": "Sou mineiro",
-        "timestamp": 1788790906708
-      },
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
@@ -7102,6 +7090,30 @@
         "authorName": "K",
         "text": "Rapaz",
         "timestamp": 1788792702413
+      },
+      {
+        "authorNum": "262912430080093",
+        "authorName": "JUNIOR",
+        "text": "Eita",
+        "timestamp": 1788792712303
+      },
+      {
+        "authorNum": "254884934881353",
+        "authorName": "P",
+        "text": "Kkkkkkkkk",
+        "timestamp": 1788792713279
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Mas qualquer coisa eu aviso muito obrigada 🥰",
+        "timestamp": 1788792720142
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Tudo bem, qualquer coisa só me avisar",
+        "timestamp": 1788792728126
       }
     ],
     "120363426574906687@g.us": [
@@ -7151,7 +7163,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 1025,
+    "120363023757382018@g.us": 1029,
     "120363426574906687@g.us": 83
   },
   "botDisabled": {
@@ -11490,6 +11502,30 @@
         "text": "Rapaz",
         "pushName": "K",
         "timestamp": 1788792702413
+      },
+      "3AEC23ABAF784FB4CD4A": {
+        "sender": "262912430080093@lid",
+        "text": "Eita",
+        "pushName": "JUNIOR",
+        "timestamp": 1788792712303
+      },
+      "3A47493A348C65ECB509": {
+        "sender": "254884934881353@lid",
+        "text": "Kkkkkkkkk",
+        "pushName": "P",
+        "timestamp": 1788792713279
+      },
+      "AC6231417FFE63C2E638DAEA386C64BA": {
+        "sender": "152274357751809@lid",
+        "text": "Mas qualquer coisa eu aviso muito obrigada 🥰",
+        "pushName": "Heloisa",
+        "timestamp": 1788792720143
+      },
+      "AC1413945EAC799CE3A366F926844486": {
+        "sender": "53537388122141@lid",
+        "text": "Tudo bem, qualquer coisa só me avisar",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788792728127
       }
     },
     "120363426574906687@g.us": {
@@ -11851,7 +11887,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788792702413,
+    "120363023757382018@g.us": 1788792728126,
     "120363426574906687@g.us": 1788791178144
   },
   "autoAnimSent": {
