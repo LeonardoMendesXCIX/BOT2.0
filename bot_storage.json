@@ -4764,9 +4764,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 58,
+        "text": 59,
         "media": 0,
-        "total": 58
+        "total": 59
       },
       "89305909317735": {
         "text": 1,
@@ -4779,9 +4779,9 @@
         "total": 2
       },
       "262912430080093": {
-        "text": 20,
+        "text": 21,
         "media": 1,
-        "total": 21
+        "total": 22
       },
       "26659415666708": {
         "text": 6,
@@ -4889,14 +4889,14 @@
         "total": 1
       },
       "1395881181241": {
-        "text": 4,
+        "text": 5,
         "media": 1,
-        "total": 5
+        "total": 6
       },
       "38590297972975": {
-        "text": 0,
+        "text": 1,
         "media": 1,
-        "total": 1
+        "total": 2
       },
       "115036454424649": {
         "text": 1,
@@ -5776,9 +5776,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Gabi 💋: KD o queijo e o doce de leite ?",
-        "Gabi 💋: Pinça ksksks",
-        "Amaury: Oxxe",
         "Camila Designer: Conte mais @247020967165997 🤣🤣🤣",
         "Amaury: Deus abençoe",
         "solteiro: Oie",
@@ -6275,7 +6272,10 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: !ban",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Sinto muito por isso, amiga",
         "Dany: Povo não tem noção mesmo",
-        "Bruno Aguiar: Pelo jeito muita invasão de PV kkkk"
+        "Bruno Aguiar: Pelo jeito muita invasão de PV kkkk",
+        "Heloisa: Mas aqui sim RS gatinho",
+        "Charles Assis: Os cara viaja legal",
+        "Bruno Aguiar: Estão sem nem uma pelo jeito kkkk"
       ]
     },
     "120363426574906687@g.us": {
@@ -7265,6 +7265,24 @@
         "authorName": "Bruno Aguiar",
         "text": "Pelo jeito muita invasão de PV kkkk",
         "timestamp": 1788793240279
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Mas aqui sim RS gatinho",
+        "timestamp": 1788793246677
+      },
+      {
+        "authorNum": "38590297972975",
+        "authorName": "Charles Assis",
+        "text": "Os cara viaja legal",
+        "timestamp": 1788793249319
+      },
+      {
+        "authorNum": "1395881181241",
+        "authorName": "Bruno Aguiar",
+        "text": "Estão sem nem uma pelo jeito kkkk",
+        "timestamp": 1788793265833
       }
     ],
     "120363426574906687@g.us": [
@@ -7332,7 +7350,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 42,
-    "120363023757382018@g.us": 1083,
+    "120363023757382018@g.us": 1086,
     "120363426574906687@g.us": 90
   },
   "botDisabled": {
@@ -12043,6 +12061,24 @@
         "text": "Pelo jeito muita invasão de PV kkkk",
         "pushName": "Bruno Aguiar",
         "timestamp": 1788793240279
+      },
+      "AC0C51EE43CF6598C6E5AD2A83624D71": {
+        "sender": "152274357751809@lid",
+        "text": "Mas aqui sim RS gatinho",
+        "pushName": "Heloisa",
+        "timestamp": 1788793246677
+      },
+      "AC56715D681065CD5E33BDE256343463": {
+        "sender": "38590297972975@lid",
+        "text": "Os cara viaja legal",
+        "pushName": "Charles Assis",
+        "timestamp": 1788793249319
+      },
+      "AC68F4C6B262188B0958D4DA6EEF925F": {
+        "sender": "1395881181241@lid",
+        "text": "Estão sem nem uma pelo jeito kkkk",
+        "pushName": "Bruno Aguiar",
+        "timestamp": 1788793265833
       }
     },
     "120363426574906687@g.us": {
@@ -12446,7 +12482,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788793177792,
-    "120363023757382018@g.us": 1788793240279,
+    "120363023757382018@g.us": 1788793275658,
     "120363426574906687@g.us": 1788793079391
   },
   "autoAnimSent": {
