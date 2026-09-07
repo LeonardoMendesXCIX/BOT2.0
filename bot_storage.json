@@ -4579,9 +4579,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 96,
+        "text": 98,
         "media": 12,
-        "total": 108
+        "total": 110
       },
       "206966404210884": {
         "text": 2,
@@ -4689,9 +4689,9 @@
         "total": 4
       },
       "128145298608376": {
-        "text": 21,
+        "text": 22,
         "media": 2,
-        "total": 23
+        "total": 24
       },
       "193733257609270": {
         "text": 1,
@@ -4699,9 +4699,9 @@
         "total": 2
       },
       "230365537005571": {
-        "text": 16,
+        "text": 18,
         "media": 3,
-        "total": 19
+        "total": 21
       },
       "60739813417005": {
         "text": 2,
@@ -6091,7 +6091,12 @@
         "Gabi 💋: Sim",
         "xacinaluzqradiaoinferno71: trabalha com oq?",
         "𝑳𝒂𝒚𝒉🌪🌚: Nem de festa eu gosto",
-        "solteiro: Sim eu nao"
+        "solteiro: Sim eu nao",
+        "Gabi 💋: Técnica de enfermagem",
+        "Gabi 💋: Am ?",
+        "solteiro: Bjs",
+        "xacinaluzqradiaoinferno71: daora",
+        "xacinaluzqradiaoinferno71: esse cara tem autismo"
       ]
     },
     "120363426574906687@g.us": {
@@ -7411,6 +7416,36 @@
         "authorName": "solteiro",
         "text": "Sim eu nao",
         "timestamp": 1788788446210
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Técnica de enfermagem",
+        "timestamp": 1788788467168
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Am ?",
+        "timestamp": 1788788472572
+      },
+      {
+        "authorNum": "128145298608376",
+        "authorName": "solteiro",
+        "text": "Bjs",
+        "timestamp": 1788788478832
+      },
+      {
+        "authorNum": "230365537005571",
+        "authorName": "xacinaluzqradiaoinferno71",
+        "text": "daora",
+        "timestamp": 1788788481968
+      },
+      {
+        "authorNum": "230365537005571",
+        "authorName": "xacinaluzqradiaoinferno71",
+        "text": "esse cara tem autismo",
+        "timestamp": 1788788489364
       }
     ],
     "120363426574906687@g.us": [
@@ -7508,7 +7543,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 721,
+    "120363023757382018@g.us": 726,
     "120363426574906687@g.us": 48
   },
   "botDisabled": {
@@ -10027,6 +10062,36 @@
         "text": "Sim eu nao",
         "pushName": "solteiro",
         "timestamp": 1788788446210
+      },
+      "ACF860F7AD18FA70C394C3362C869ADC": {
+        "sender": "247020967165997@lid",
+        "text": "Técnica de enfermagem",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788788467168
+      },
+      "ACED4FE96CBF7B819A3C056204DE08B0": {
+        "sender": "247020967165997@lid",
+        "text": "Am ?",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788788472572
+      },
+      "A58D8AC687BAFDEFC4F1AF8EE5CE9CBB": {
+        "sender": "128145298608376@lid",
+        "text": "Bjs",
+        "pushName": "solteiro",
+        "timestamp": 1788788478832
+      },
+      "A5DC591F103D9262BFC2D6519EEE99E2": {
+        "sender": "230365537005571@lid",
+        "text": "daora",
+        "pushName": "xacinaluzqradiaoinferno71",
+        "timestamp": 1788788481969
+      },
+      "A5CB755AF0863843FEA5EF66C7A61521": {
+        "sender": "230365537005571@lid",
+        "text": "esse cara tem autismo",
+        "pushName": "xacinaluzqradiaoinferno71",
+        "timestamp": 1788788489364
       }
     },
     "120363426574906687@g.us": {
@@ -10178,7 +10243,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788788450511,
+    "120363023757382018@g.us": 1788788489364,
     "120363426574906687@g.us": 1788788012627
   },
   "autoAnimSent": {
