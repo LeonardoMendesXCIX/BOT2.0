@@ -4462,9 +4462,9 @@
         "total": 2
       },
       "5511927018683": {
-        "text": 23,
+        "text": 24,
         "media": 5,
-        "total": 28
+        "total": 29
       },
       "81991328395336": {
         "text": 4,
@@ -4779,9 +4779,9 @@
         "total": 3
       },
       "262912430080093": {
-        "text": 23,
+        "text": 24,
         "media": 1,
-        "total": 24
+        "total": 25
       },
       "26659415666708": {
         "text": 6,
@@ -4919,9 +4919,24 @@
         "total": 1
       },
       "36645315321925": {
-        "text": 2,
+        "text": 3,
         "media": 0,
-        "total": 2
+        "total": 3
+      },
+      "187845394358417": {
+        "text": 1,
+        "media": 0,
+        "total": 1
+      },
+      "39857447551026": {
+        "text": 1,
+        "media": 0,
+        "total": 1
+      },
+      "134888363671607": {
+        "text": 1,
+        "media": 0,
+        "total": 1
       }
     },
     "120363426574906687@g.us": {
@@ -5560,7 +5575,8 @@
         "𝑳𝒂𝒚𝒉🌪🌚: Pra me desbloquear ele",
         "𝑳𝒂𝒚𝒉🌪🌚: Ele n se tocou que acabou a minha amizade e minha consideração a ele",
         "𝑳𝒂𝒚𝒉🌪🌚: Gente eu sou muito sensível",
-        "Leandro: Pelo jeito não"
+        "Leandro: Pelo jeito não",
+        "Leandro: Pois então"
       ]
     },
     "120363023757382018@g.us": {
@@ -5792,10 +5808,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Bem vindo!!",
-        "Gabi 💋: Fale tudo",
-        "Camila Designer: Neiva do céu kkkk",
-        "Leandro: Bem vindo jovem! 🤝",
         "jaciara: Palhaça kkkkk",
         "Bruno Souza: Obg",
         "Amaury: Kkkk",
@@ -6291,7 +6303,11 @@
         "K: Pv on pra meninas",
         "Bruno Aguiar: Respeito 0 desses sem noção",
         "Felippo: João Felippo, 24, Ceará, Hétero",
-        "JUNIOR: Hahahaha"
+        "JUNIOR: Hahahaha",
+        "Maurício Manú Telecom: Maurício\n38 \nGameleira de Goiás \nGosto de mulher",
+        "JUNIOR: Como quiseres!",
+        "Francisco Silva: Francisco Gildean  39 anos Paraná",
+        "Dedé: PV liberado \ntenho 18 anos \nsou de Santa Catarina"
       ]
     },
     "120363426574906687@g.us": {
@@ -6433,21 +6449,15 @@
         "authorName": "Leandro",
         "text": "Pelo jeito não",
         "timestamp": 1788793361598
-      }
-    ],
-    "120363023757382018@g.us": [
+      },
       {
         "authorNum": "5511927018683",
         "authorName": "Leandro",
-        "text": "Aqui na região foi ontem",
-        "timestamp": 1788791596529
-      },
-      {
-        "authorNum": "226946222944358",
-        "authorName": "Ton",
-        "text": "Aqui bao pois to na praia",
-        "timestamp": 1788791608300
-      },
+        "text": "Pois então",
+        "timestamp": 1788793408313
+      }
+    ],
+    "120363023757382018@g.us": [
       {
         "authorNum": "81991328395336",
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
@@ -7353,6 +7363,30 @@
         "authorName": "JUNIOR",
         "text": "Hahahaha",
         "timestamp": 1788793393992
+      },
+      {
+        "authorNum": "187845394358417",
+        "authorName": "Maurício Manú Telecom",
+        "text": "Maurício\n38 \nGameleira de Goiás \nGosto de mulher",
+        "timestamp": 1788793399266
+      },
+      {
+        "authorNum": "262912430080093",
+        "authorName": "JUNIOR",
+        "text": "Como quiseres!",
+        "timestamp": 1788793409232
+      },
+      {
+        "authorNum": "39857447551026",
+        "authorName": "Francisco Silva",
+        "text": "Francisco Gildean  39 anos Paraná",
+        "timestamp": 1788793410436
+      },
+      {
+        "authorNum": "134888363671607",
+        "authorName": "Dedé",
+        "text": "PV liberado \ntenho 18 anos \nsou de Santa Catarina",
+        "timestamp": 1788793421795
       }
     ],
     "120363426574906687@g.us": [
@@ -7419,8 +7453,8 @@
     "120363411043114631@g.us": 20,
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
-    "120363427545094619@g.us": 43,
-    "120363023757382018@g.us": 1097,
+    "120363427545094619@g.us": 44,
+    "120363023757382018@g.us": 1101,
     "120363426574906687@g.us": 90
   },
   "botDisabled": {
@@ -7809,6 +7843,12 @@
         "text": "Pelo jeito não",
         "pushName": "Leandro",
         "timestamp": 1788793361598
+      },
+      "ACD72C1503D520E18ECA862A65AFA8F2": {
+        "sender": "54259127210155@lid",
+        "text": "Pois então",
+        "pushName": "Leandro",
+        "timestamp": 1788793408313
       }
     },
     "120363023757382018@g.us": {
@@ -12221,6 +12261,30 @@
         "text": "Hahahaha",
         "pushName": "JUNIOR",
         "timestamp": 1788793393992
+      },
+      "AC1B2F2A2BAE3965E060001D5B6A4680": {
+        "sender": "187845394358417@lid",
+        "text": "Maurício\n38 \nGameleira de Goiás \nGosto de mulher",
+        "pushName": "Maurício Manú Telecom",
+        "timestamp": 1788793399266
+      },
+      "3AA0034FF23205DA771E": {
+        "sender": "262912430080093@lid",
+        "text": "Como quiseres!",
+        "pushName": "JUNIOR",
+        "timestamp": 1788793409233
+      },
+      "ACC7660CE6BAEEA971F3D1673A004C0B": {
+        "sender": "39857447551026@lid",
+        "text": "Francisco Gildean  39 anos Paraná",
+        "pushName": "Francisco Silva",
+        "timestamp": 1788793410436
+      },
+      "ACCE13B6F830FE70A495458E342FB7A5": {
+        "sender": "134888363671607@lid",
+        "text": "PV liberado \ntenho 18 anos \nsou de Santa Catarina",
+        "pushName": "Dedé",
+        "timestamp": 1788793421795
       }
     },
     "120363426574906687@g.us": {
@@ -12623,8 +12687,8 @@
     "120363411043114631@g.us": 1787897464612,
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
-    "120363427545094619@g.us": 1788793361598,
-    "120363023757382018@g.us": 1788793393992,
+    "120363427545094619@g.us": 1788793408313,
+    "120363023757382018@g.us": 1788793421795,
     "120363426574906687@g.us": 1788793079391
   },
   "autoAnimSent": {
