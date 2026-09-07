@@ -234,51 +234,53 @@ cron.schedule("*/5 * * * *", () => {
   storage.purgeExpiredClusters();
 });
 
-// ANTIFAKE AUTOMÁTICO: varredura a cada 2 minutos
-setInterval(
-  async () => {
-    if (!sockInstance) return;
-    const groupSet = new Set<string>([
-      ...Object.keys(storage.data.groupStats || {}),
-      ...Object.keys(storage.data.antifake || {}),
-      ...Object.keys(storage.data.antilink || {}),
-    ]);
-    for (const chatId of groupSet) {
-      try {
-        if (storage.isBotDisabled(chatId)) continue;
-        const antifakeOn =
-          storage.data.antifake?.[chatId] === true ||
-          (!storage.isFeatureDisabled(chatId, "antifake") &&
-            storage.data.antifake?.[chatId] !== false);
-        if (!antifakeOn) continue;
-
-        const meta = await sockInstance.groupMetadata(chatId).catch(() => null);
-        if (!meta) continue;
-
-        const botJid = sockInstance.user?.id || "";
-        const me = meta.participants.find((p) => p.id === botJid);
-        if (!me || !(me.admin === "admin" || me.admin === "superadmin"))
-          continue;
-
-        for (const p of meta.participants) {
-          if (p.admin === "admin" || p.admin === "superadmin") continue;
-          const num = extractRawNumber(p.id);
-          const isBr =
-            num.startsWith("55") && (num.length === 12 || num.length === 13);
-          if (!isBr && num.length <= 15 && num.length >= 8) {
-            await sockInstance
-              .groupParticipantsUpdate(chatId, [p.id], "remove")
-              .catch(() => {});
-            console.log(
-              "[ANTIFAKE AUTO] Removido +" + num + " do grupo " + chatId,
-            );
-          }
+// ANTIFAKE AUTOMÁTICO: varredura a cada minuto
+setInterval(async () => {
+  if (!sockInstance) return;
+  const groupSet = new Set<string>([
+    ...Object.keys(storage.data.groupStats || {}),
+    ...Object.keys(storage.data.antifake || {}),
+    ...Object.keys(storage.data.antilink || {}),
+    ...Object.keys(storage.data.closedGroups || {}),
+    ...Object.keys(storage.data.groupSchedules || {}),
+    ...((storage.data.cache?.knownGroups as string[]) || [])
+  ]);
+  const botRaw = (sockInstance.user?.id || '').split(':')[0].replace(/\D/g, '');
+  for (const chatId of groupSet) {
+    try {
+      if (storage.isBotDisabled(chatId)) continue;
+      const antifakeOn = storage.data.antifake?.[chatId] === true ||
+        (!storage.isFeatureDisabled(chatId, 'antifake') && storage.data.antifake?.[chatId] !== false);
+      if (!antifakeOn) continue;
+      const meta = await sockInstance.groupMetadata(chatId).catch(() => null);
+      if (!meta) continue;
+      const me = meta.participants.find((p: any) => {
+        const pid = (p.id || '').split(':')[0].replace(/\D/g, '');
+        const plid = ((p as any).lid || '').split(':')[0].replace(/\D/g, '');
+        return pid === botRaw || plid === botRaw;
+      });
+      if (!me || !(me.admin === 'admin' || me.admin === 'superadmin')) {
+        console.log('[ANTIFAKE] Bot não é admin em ' + chatId + ' — impossível remover.');
+        continue;
+      }
+      for (const p of meta.participants) {
+        if (p.admin === 'admin' || p.admin === 'superadmin') continue;
+        const num = extractRawNumber(p.id);
+        if (!num || num.length > 13) continue;
+        const isBr = num.startsWith('55') && (num.length === 12 || num.length === 13);
+        if (!isBr) {
+          await sockInstance.groupParticipantsUpdate(chatId, [p.id], 'remove').catch(() => {});
+          const info = getUserInfo(p.id);
+          await sockInstance.sendMessage(chatId, {
+            text: '🛡️ *ANTI-FAKE (VARREDURA)* 🛡️\n\n👤 *Removido:* ' + info.nameAndNumber +
+              '\n📱 *DDI:* +' + num + '\n📝 *Motivo:* número estrangeiro (apenas +55 permitido).'
+          }).catch(() => {});
+          console.log('[ANTIFAKE AUTO] Removido +' + num + ' do grupo ' + chatId);
         }
-      } catch (e) {}
-    }
-  },
-  2 * 60 * 1000,
-);
+      }
+    } catch (e) {}
+  }
+}, 60000);
 
 setInterval(() => {
   if (lastDisconnectAt > 0) {
@@ -366,7 +368,7 @@ async function startBot() {
 
   sock.ev.on("creds.update", saveCreds);
 
-  sock.ev.on("connection.update", (update) => {
+  sock.ev.on("connection.update", async (update) => {
     const { connection, lastDisconnect, qr } = update;
     if (qr) {
       qrcode.generate(qr, { small: true });
@@ -427,6 +429,14 @@ async function startBot() {
         }
         watchdogNotified = false;
       }
+
+      try {
+        const all = await sock.groupFetchAllParticipating();
+        storage.data.cache = storage.data.cache || {};
+        storage.data.cache.knownGroups = Object.keys(all || {});
+        storage.flagSave();
+        console.log("[ANTIFAKE] " + storage.data.cache.knownGroups.length + " grupos mapeados para varredura.");
+      } catch (e) {}
 
       syncSchedulesOnBoot(sock);
     }
