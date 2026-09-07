@@ -4577,9 +4577,9 @@
         "total": 180
       },
       "274384656834700": {
-        "text": 57,
+        "text": 58,
         "media": 18,
-        "total": 75
+        "total": 76
       },
       "111141304930334": {
         "text": 3,
@@ -4592,9 +4592,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 203,
+        "text": 204,
         "media": 18,
-        "total": 221
+        "total": 222
       },
       "206966404210884": {
         "text": 2,
@@ -6195,8 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "retroboy: 👀",
-        "Henrique Contri 🤫: Vou nem perguntar nada pra não ficar traumatizado 🤣",
         "Camila Designer: Quem enviou peitoral me marcam por favor!🤣🤣🤣",
         "Camila Designer: Melhor não",
         "Du: Oi",
@@ -6694,7 +6692,9 @@
         "Henrique Contri 🤫: Minha pinça é meia torta para vc não se esquiva 🤣🤣",
         "Gabi 💋: O povo falava comigo no grupo ele ia ameaçar no PV",
         "Camila Designer: É quem estou pensando?",
-        "Gleydson Souza: Kkkkk"
+        "Gleydson Souza: Kkkkk",
+        "Gabi 💋: Eu ia falar algo mais @92629643563147 disse só mais tarde",
+        "Gleydson Souza: Eita"
       ]
     },
     "120363426574906687@g.us": {
@@ -6895,12 +6895,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Cade seu peitoral? Apareceu né",
-        "timestamp": 1788803559820
-      },
       {
         "authorNum": "247020967165997",
         "authorName": "Gabi 💋",
@@ -7782,6 +7776,18 @@
         "authorName": "Gleydson Souza",
         "text": "Kkkkk",
         "timestamp": 1788805351064
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Eu ia falar algo mais @92629643563147 disse só mais tarde",
+        "timestamp": 1788805353859
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Eita",
+        "timestamp": 1788805369472
       }
     ],
     "120363426574906687@g.us": [
@@ -7981,7 +7987,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2081,
+    "120363023757382018@g.us": 2083,
     "120363426574906687@g.us": 177
   },
   "botDisabled": {
@@ -18832,6 +18838,18 @@
         "text": "Kkkkk",
         "pushName": "Gleydson Souza",
         "timestamp": 1788805351064
+      },
+      "ACB73365738BD1FCFF3FAF0E544D4D0D": {
+        "sender": "247020967165997@lid",
+        "text": "Eu ia falar algo mais @92629643563147 disse só mais tarde",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788805353860
+      },
+      "AC51C2DF67CEAF19AEEDD8FD0B431C18": {
+        "sender": "274384656834700@lid",
+        "text": "Eita",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1788805369472
       }
     },
     "120363426574906687@g.us": {
@@ -19754,7 +19772,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788805351064,
+    "120363023757382018@g.us": 1788805369472,
     "120363426574906687@g.us": 1788805062631
   },
   "autoAnimSent": {
