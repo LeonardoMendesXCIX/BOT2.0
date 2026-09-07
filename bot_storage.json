@@ -4559,9 +4559,9 @@
         "total": 3
       },
       "81991328395336": {
-        "text": 44,
+        "text": 46,
         "media": 21,
-        "total": 65
+        "total": 67
       },
       "274384656834700": {
         "text": 24,
@@ -4772,6 +4772,11 @@
         "text": 3,
         "media": 1,
         "total": 4
+      },
+      "26659415666708": {
+        "text": 0,
+        "media": 1,
+        "total": 1
       }
     },
     "120363426574906687@g.us": {
@@ -5632,7 +5637,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "𝑳𝒂𝒚𝒉🌪🌚: Vrdd",
         "Leandro: !status",
         "Leandro: !del",
         "Leandro: !del",
@@ -6131,7 +6135,8 @@
         "𝑳𝒂𝒚𝒉🌪🌚: Fique a vontade",
         "Amaury: Bora galera",
         "Amaury: Interagir",
-        "Cristian Sntss: Bora bora"
+        "Cristian Sntss: Bora bora",
+        "𝑳𝒂𝒚𝒉🌪🌚: Teve um caso recente fe uma onça"
       ]
     },
     "120363426574906687@g.us": {
@@ -6206,42 +6211,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "!ban @98938984112331",
-        "timestamp": 1788787818154
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Adoro os seus ksksks",
-        "timestamp": 1788787825489
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Só mais tarde",
-        "timestamp": 1788787830802
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Deixa baixo",
-        "timestamp": 1788787842712
-      },
-      {
-        "authorNum": "230365537005571",
-        "authorName": "xacinaluzqradiaoinferno71",
-        "text": "oloco",
-        "timestamp": 1788787842828
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "@92629643563147 da um pulo no RH",
-        "timestamp": 1788787842999
-      },
       {
         "authorNum": "128145298608376",
         "authorName": "solteiro",
@@ -7237,6 +7206,12 @@
         "authorName": "Cristian Sntss",
         "text": "Bora bora",
         "timestamp": 1788789614900
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Teve um caso recente fe uma onça",
+        "timestamp": 1788789646769
       }
     ],
     "120363426574906687@g.us": [
@@ -7352,7 +7327,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 801,
+    "120363023757382018@g.us": 802,
     "120363426574906687@g.us": 51
   },
   "botDisabled": {
@@ -10345,6 +10320,12 @@
         "text": "Bora bora",
         "pushName": "Cristian Sntss",
         "timestamp": 1788789614900
+      },
+      "AC6C91F5F66C106A689123272897377F": {
+        "sender": "81991328395336@lid",
+        "text": "Teve um caso recente fe uma onça",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1788789646769
       }
     },
     "120363426574906687@g.us": {
@@ -10514,7 +10495,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788789623037,
+    "120363023757382018@g.us": 1788789674264,
     "120363426574906687@g.us": 1788789638047
   },
   "autoAnimSent": {
