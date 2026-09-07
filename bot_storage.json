@@ -4522,9 +4522,9 @@
         "total": 413
       },
       "53537388122141": {
-        "text": 209,
-        "media": 22,
-        "total": 231
+        "text": 210,
+        "media": 23,
+        "total": 233
       },
       "129373172711439": {
         "text": 121,
@@ -4588,8 +4588,8 @@
       },
       "182738040713418": {
         "text": 51,
-        "media": 34,
-        "total": 85
+        "media": 35,
+        "total": 86
       },
       "81991328395336": {
         "text": 152,
@@ -4942,9 +4942,9 @@
         "total": 1
       },
       "36645315321925": {
-        "text": 33,
+        "text": 34,
         "media": 4,
-        "total": 37
+        "total": 38
       },
       "187845394358417": {
         "text": 1,
@@ -6249,8 +6249,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "P: eu seguro",
-        "Gabi 💋: Perdi até o assunto",
         "P: to pra frente hoje",
         "P: vou ficar off",
         "Henrique Contri 🤫: Tem quantos anos ?",
@@ -6748,7 +6746,9 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Sim",
         "solteiro: Sim eu.nao",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Obrigada o elogiooooo 🤌🏻\n@81991328395336 \n@54259127210155 \n@166452229341300 \n@92629643563147",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Entendi nada"
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Entendi nada",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: @all homens",
+        "Felippo: eita"
       ]
     },
     "120363426574906687@g.us": {
@@ -6984,12 +6984,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "Tem uns caba querendo vê as veias dos outros em",
-        "timestamp": 1788814357511
-      },
       {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
@@ -7385,6 +7379,18 @@
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "text": "Entendi nada",
         "timestamp": 1788816154905
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "@all homens",
+        "timestamp": 1788816170952
+      },
+      {
+        "authorNum": "36645315321925",
+        "authorName": "Felippo",
+        "text": "eita",
+        "timestamp": 1788816192397
       }
     ],
     "120363426574906687@g.us": [
@@ -7416,7 +7422,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2772,
+    "120363023757382018@g.us": 2774,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -22479,6 +22485,18 @@
         "text": "Entendi nada",
         "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "timestamp": 1788816154905
+      },
+      "ACED24843E43A4A90220CEC54CAD2BE8": {
+        "sender": "53537388122141@lid",
+        "text": "@all homens",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788816170952
+      },
+      "3A4074D98FC1FD617632": {
+        "sender": "36645315321925@lid",
+        "text": "eita",
+        "pushName": "Felippo",
+        "timestamp": 1788816192397
       }
     },
     "120363426574906687@g.us": {
@@ -23425,7 +23443,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788816159116,
+    "120363023757382018@g.us": 1788816192397,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
