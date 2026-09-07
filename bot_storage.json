@@ -4571,14 +4571,14 @@
         "total": 9
       },
       "81991328395336": {
-        "text": 93,
+        "text": 95,
         "media": 25,
-        "total": 118
+        "total": 120
       },
       "274384656834700": {
-        "text": 30,
+        "text": 31,
         "media": 10,
-        "total": 40
+        "total": 41
       },
       "111141304930334": {
         "text": 3,
@@ -5144,6 +5144,16 @@
         "text": 2,
         "media": 0,
         "total": 2
+      },
+      "194377938911429": {
+        "text": 1,
+        "media": 0,
+        "total": 1
+      },
+      "81531615858788": {
+        "text": 1,
+        "media": 0,
+        "total": 1
       }
     },
     "120363426574906687@g.us": {
@@ -6027,9 +6037,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Cristian Sntss: Que fofo",
-        "Heloisa: Gatinho",
-        "Cristian Sntss: Sejam bem vindo jovens",
         "irlley gabryel: Posso de chama no PV",
         "Ryan: Obrigado 🙂🙂",
         "Heloisa: Sim",
@@ -6526,7 +6533,10 @@
         "Cristian Sntss: Medo do bot em",
         "Juliano Perlin: Q tela mais amarela..nao vi nada quase🤣🤣🤣🤣🤣",
         "Gleydson Souza: Vi que foi fazer o almoço ja vou chegar no momento bom então kkkkk",
-        "Henrique Contri 🤫: Meu nome é Henrique tenho 29 anos sou de presidente prudente SP 😎"
+        "Henrique Contri 🤫: Meu nome é Henrique tenho 29 anos sou de presidente prudente SP 😎",
+        "𝑳𝒂𝒚𝒉🌪🌚: É o Besta",
+        "Gleydson Souza: Kkkkkk",
+        "𝑳𝒂𝒚𝒉🌪🌚: Retrato"
       ]
     },
     "120363426574906687@g.us": {
@@ -6697,12 +6707,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "81991328395336",
-        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
-        "text": "!ban @255211956359314",
-        "timestamp": 1788795309819
-      },
       {
         "authorNum": "152476120555682",
         "authorName": "Du",
@@ -7392,6 +7396,24 @@
         "authorName": "Henrique Contri 🤫",
         "text": "Meu nome é Henrique tenho 29 anos sou de presidente prudente SP 😎",
         "timestamp": 1788797068231
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "É o Besta",
+        "timestamp": 1788797101451
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Kkkkkk",
+        "timestamp": 1788797120932
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Retrato",
+        "timestamp": 1788797125295
       }
     ],
     "120363426574906687@g.us": [
@@ -7495,7 +7517,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1366,
+    "120363023757382018@g.us": 1369,
     "120363426574906687@g.us": 104
   },
   "botDisabled": {
@@ -13989,6 +14011,24 @@
         "text": "Meu nome é Henrique tenho 29 anos sou de presidente prudente SP 😎",
         "pushName": "Henrique Contri 🤫",
         "timestamp": 1788797068232
+      },
+      "AC616B0526076AD5EE0BB080EF950A40": {
+        "sender": "81991328395336@lid",
+        "text": "É o Besta",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1788797101452
+      },
+      "ACCA71FF9EF81B618597C9788CA3AA04": {
+        "sender": "274384656834700@lid",
+        "text": "Kkkkkk",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1788797120932
+      },
+      "AC09777BB47BD0F3980CD22DDD9D897D": {
+        "sender": "81991328395336@lid",
+        "text": "Retrato",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1788797125295
       }
     },
     "120363426574906687@g.us": {
@@ -14479,7 +14519,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788797086027,
+    "120363023757382018@g.us": 1788797125295,
     "120363426574906687@g.us": 1788796664927
   },
   "autoAnimSent": {
