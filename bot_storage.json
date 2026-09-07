@@ -4502,9 +4502,9 @@
         "total": 195
       },
       "5511927018683": {
-        "text": 167,
+        "text": 168,
         "media": 12,
-        "total": 179
+        "total": 180
       },
       "166452229341300": {
         "text": 282,
@@ -4712,9 +4712,9 @@
         "total": 4
       },
       "128145298608376": {
-        "text": 32,
+        "text": 33,
         "media": 3,
-        "total": 35
+        "total": 36
       },
       "193733257609270": {
         "text": 2,
@@ -6214,8 +6214,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Felippo: depois lhe amostro kkkkk",
-        "Gabi 💋: Fraca, tadinho",
         "Camila Designer: 🤣🤣🤣",
         "Gleydson Souza: No kbaré hoje  eu mando",
         "Camila Designer: E você é fortão né?! 😌😌😌",
@@ -6713,7 +6711,9 @@
         "Celiete Souza: Aqui tá um friozão",
         "Leandro: !del",
         "solteiro: Oi",
-        "Wellington: Alguém quer fala aí que tá acabando"
+        "Wellington: Alguém quer fala aí que tá acabando",
+        "solteiro: Ok",
+        "Leandro: !todos"
       ]
     },
     "120363426574906687@g.us": {
@@ -6967,24 +6967,6 @@
     ],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Oi @182738040713418 , saudades sua 😏\nQuer dizer minha amiga estava!",
-        "timestamp": 1788808645668
-      },
-      {
-        "authorNum": "182738040713418",
-        "authorName": "Wellington",
-        "text": "Oi gata tbm estava com saudades da sua amiga",
-        "timestamp": 1788808680312
-      },
-      {
-        "authorNum": "182738040713418",
-        "authorName": "Wellington",
-        "text": "EAI como vai ela ?",
-        "timestamp": 1788808688091
-      },
       {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
@@ -7650,6 +7632,18 @@
         "authorName": "Wellington",
         "text": "Alguém quer fala aí que tá acabando",
         "timestamp": 1788810423134
+      },
+      {
+        "authorNum": "128145298608376",
+        "authorName": "solteiro",
+        "text": "Ok",
+        "timestamp": 1788810482071
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!todos",
+        "timestamp": 1788810496854
       }
     ],
     "120363426574906687@g.us": []
@@ -7674,7 +7668,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2506,
+    "120363023757382018@g.us": 2508,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -21130,6 +21124,18 @@
         "text": "Alguém quer fala aí que tá acabando",
         "pushName": "Wellington",
         "timestamp": 1788810423134
+      },
+      "A555C4E51BA515E729B79A3C48471F67": {
+        "sender": "128145298608376@lid",
+        "text": "Ok",
+        "pushName": "solteiro",
+        "timestamp": 1788810482071
+      },
+      "AC24976F88E5B3538D5FC60655058156": {
+        "sender": "54259127210155@lid",
+        "text": "!todos",
+        "pushName": "Leandro",
+        "timestamp": 1788810496855
       }
     },
     "120363426574906687@g.us": {
@@ -22070,7 +22076,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788810434121,
+    "120363023757382018@g.us": 1788810496854,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
