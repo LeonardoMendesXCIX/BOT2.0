@@ -4497,9 +4497,9 @@
         "total": 176
       },
       "166452229341300": {
-        "text": 233,
+        "text": 234,
         "media": 72,
-        "total": 305
+        "total": 306
       },
       "53537388122141": {
         "text": 150,
@@ -4767,9 +4767,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 146,
+        "text": 147,
         "media": 1,
-        "total": 147
+        "total": 148
       },
       "89305909317735": {
         "text": 1,
@@ -5314,9 +5314,9 @@
         "total": 38
       },
       "5511927018683": {
-        "text": 30,
+        "text": 32,
         "media": 0,
-        "total": 30
+        "total": 32
       },
       "92629643563147": {
         "text": 21,
@@ -6183,8 +6183,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Cristian Sntss: !ban @177481067843810",
-        "Cristian Sntss: Qual o número",
         "Heloisa: @115689322995949",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Não",
         "Felipe: A tesoura começou a canta",
@@ -6682,7 +6680,9 @@
         "Henrique Contri 🤫: Por isso não fui kkk",
         "Luis Felipe: A sei lá",
         "Cristian Sntss: Rapaz",
-        "Henrique Contri 🤫: Tô esperando o almoço para alimentar minha bb 🤣"
+        "Henrique Contri 🤫: Tô esperando o almoço para alimentar minha bb 🤣",
+        "Cristian Sntss: Q bb",
+        "Heloisa: Eu por enquanto só aloprando com os caba é bom"
       ]
     },
     "120363426574906687@g.us": {
@@ -7647,6 +7647,18 @@
         "authorName": "Henrique Contri 🤫",
         "text": "Tô esperando o almoço para alimentar minha bb 🤣",
         "timestamp": 1788800919270
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Q bb",
+        "timestamp": 1788800940367
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Eu por enquanto só aloprando com os caba é bom",
+        "timestamp": 1788800946027
       }
     ],
     "120363426574906687@g.us": [
@@ -7894,7 +7906,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1685,
+    "120363023757382018@g.us": 1687,
     "120363426574906687@g.us": 144
   },
   "botDisabled": {
@@ -16302,6 +16314,18 @@
         "text": "Tô esperando o almoço para alimentar minha bb 🤣",
         "pushName": "Henrique Contri 🤫",
         "timestamp": 1788800919270
+      },
+      "A5020A8BD8DEFF608BAF262F54F0B72A": {
+        "sender": "166452229341300@lid",
+        "text": "Q bb",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788800940368
+      },
+      "AC5DB80AFB0AEA97EC95420DA34703FE": {
+        "sender": "152274357751809@lid",
+        "text": "Eu por enquanto só aloprando com os caba é bom",
+        "pushName": "Heloisa",
+        "timestamp": 1788800946027
       }
     },
     "120363426574906687@g.us": {
@@ -17032,8 +17056,8 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788800919270,
-    "120363426574906687@g.us": 1788800679780
+    "120363023757382018@g.us": 1788800946027,
+    "120363426574906687@g.us": 1788800932940
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
