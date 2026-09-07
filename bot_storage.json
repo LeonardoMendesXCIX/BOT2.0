@@ -4497,9 +4497,9 @@
         "total": 169
       },
       "166452229341300": {
-        "text": 175,
+        "text": 176,
         "media": 58,
-        "total": 233
+        "total": 234
       },
       "53537388122141": {
         "text": 127,
@@ -4933,8 +4933,8 @@
       },
       "39857447551026": {
         "text": 9,
-        "media": 0,
-        "total": 9
+        "media": 1,
+        "total": 10
       },
       "134888363671607": {
         "text": 1,
@@ -5177,9 +5177,9 @@
         "total": 1
       },
       "559491757737": {
-        "text": 1,
+        "text": 2,
         "media": 0,
-        "total": 1
+        "total": 2
       },
       "246729194639608": {
         "text": 1,
@@ -6073,9 +6073,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Cristian Sntss: A idade",
-        "Camila Designer: Qual sua idade amigo, e de onde é?",
-        "Ryan: 24 anos",
         "Ryan: Sou mineiro",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Quem é o indivíduo?",
         "Rodrigo: Rodrigo de campinas sp 47 solteiro !!!",
@@ -6572,7 +6569,10 @@
         "Gabi 💋: Pense num negócio que amo",
         "Heloisa: Kkk",
         "𝑳𝒂𝒚𝒉🌪🌚: Aqui no Maranhão tem demais",
-        "Jefinho: Oi morena dos olhos lindos"
+        "Jefinho: Oi morena dos olhos lindos",
+        "Francisco Silva: Pé de frango",
+        "Cristian Sntss: Arroz com pequi?",
+        "José Vitor: Top e bom demais"
       ]
     },
     "120363426574906687@g.us": {
@@ -6713,12 +6713,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "@53537388122141 ta com o facao afiado",
-        "timestamp": 1788795638469
-      },
       {
         "authorNum": "222595437858867",
         "authorName": "Juliano Perlin",
@@ -7504,6 +7498,24 @@
         "authorName": "Jefinho",
         "text": "Oi morena dos olhos lindos",
         "timestamp": 1788797405874
+      },
+      {
+        "authorNum": "39857447551026",
+        "authorName": "Francisco Silva",
+        "text": "Pé de frango",
+        "timestamp": 1788797418432
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Arroz com pequi?",
+        "timestamp": 1788797436939
+      },
+      {
+        "authorNum": "559491757737",
+        "authorName": "José Vitor",
+        "text": "Top e bom demais",
+        "timestamp": 1788797440836
       }
     ],
     "120363426574906687@g.us": [
@@ -7595,7 +7607,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1398,
+    "120363023757382018@g.us": 1401,
     "120363426574906687@g.us": 104
   },
   "botDisabled": {
@@ -14281,6 +14293,24 @@
         "text": "Oi morena dos olhos lindos",
         "pushName": "Jefinho",
         "timestamp": 1788797405875
+      },
+      "ACCBE5779DAF9B1FB339DE56F1E36CE3": {
+        "sender": "39857447551026@lid",
+        "text": "Pé de frango",
+        "pushName": "Francisco Silva",
+        "timestamp": 1788797418432
+      },
+      "A5F1B45D7869A5F7D5B6AB82C3D02C02": {
+        "sender": "166452229341300@lid",
+        "text": "Arroz com pequi?",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788797436939
+      },
+      "AC82A5B4F8D574B040BB24CD19812686": {
+        "sender": "130262331613213@lid",
+        "text": "Top e bom demais",
+        "pushName": "José Vitor",
+        "timestamp": 1788797440836
       }
     },
     "120363426574906687@g.us": {
@@ -14771,7 +14801,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788797405874,
+    "120363023757382018@g.us": 1788797440836,
     "120363426574906687@g.us": 1788796664927
   },
   "autoAnimSent": {
