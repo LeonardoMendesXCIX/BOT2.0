@@ -4489,9 +4489,9 @@
         "total": 164
       },
       "166452229341300": {
-        "text": 116,
+        "text": 117,
         "media": 41,
-        "total": 157
+        "total": 158
       },
       "53537388122141": {
         "text": 49,
@@ -4829,9 +4829,9 @@
         "total": 5
       },
       "126586225467454": {
-        "text": 2,
+        "text": 3,
         "media": 0,
-        "total": 2
+        "total": 3
       },
       "245788143841410": {
         "text": 1,
@@ -5707,8 +5707,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Gabi 💋: Pessoal os cara que está entrando estão carente \nPq sou educada e me chama no PV",
-        "Gabi 💋: Nossa tá chato já",
         "jaciara: Bom dia",
         "Gabi 💋: Bom dia",
         "Gilvando: Sou gilvando tenho 48 ano",
@@ -6206,7 +6204,9 @@
         "𝑳𝒂𝒚𝒉🌪🌚: Bem vindo",
         "Rodrigo: Muito obrigado 😊",
         "Cristian Sntss: @92629643563147",
-        "Cristian Sntss: Vi uma foto que te interessa"
+        "Cristian Sntss: Vi uma foto que te interessa",
+        "Thawan: @152274357751809",
+        "Cristian Sntss: Bem vindo"
       ]
     },
     "120363426574906687@g.us": {
@@ -7079,6 +7079,18 @@
         "authorName": "Cristian Sntss",
         "text": "Vi uma foto que te interessa",
         "timestamp": 1788791007773
+      },
+      {
+        "authorNum": "126586225467454",
+        "authorName": "Thawan",
+        "text": "@152274357751809",
+        "timestamp": 1788791035943
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Bem vindo",
+        "timestamp": 1788791037846
       }
     ],
     "120363426574906687@g.us": [
@@ -7308,7 +7320,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 908,
+    "120363023757382018@g.us": 910,
     "120363426574906687@g.us": 82
   },
   "botDisabled": {
@@ -10945,6 +10957,18 @@
         "text": "Vi uma foto que te interessa",
         "pushName": "Cristian Sntss",
         "timestamp": 1788791007774
+      },
+      "3A9306A3E0FBADB295B2": {
+        "sender": "126586225467454@lid",
+        "text": "@152274357751809",
+        "pushName": "Thawan",
+        "timestamp": 1788791035943
+      },
+      "A537C62C8F2EB33A3C3BFCB52249A5E0": {
+        "sender": "166452229341300@lid",
+        "text": "Bem vindo",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788791037846
       }
     },
     "120363426574906687@g.us": {
@@ -11300,7 +11324,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788791007773,
+    "120363023757382018@g.us": 1788791037846,
     "120363426574906687@g.us": 1788790960634
   },
   "autoAnimSent": {
