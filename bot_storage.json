@@ -4484,9 +4484,9 @@
         "total": 164
       },
       "166452229341300": {
-        "text": 91,
+        "text": 92,
         "media": 38,
-        "total": 129
+        "total": 130
       },
       "53537388122141": {
         "text": 45,
@@ -4679,9 +4679,9 @@
         "total": 2
       },
       "59645049761949": {
-        "text": 38,
+        "text": 41,
         "media": 2,
-        "total": 40
+        "total": 43
       },
       "21338118979724": {
         "text": 3,
@@ -4769,9 +4769,9 @@
         "total": 2
       },
       "262912430080093": {
-        "text": 0,
+        "text": 1,
         "media": 1,
-        "total": 1
+        "total": 2
       }
     },
     "120363426574906687@g.us": {
@@ -5632,10 +5632,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "P: geral quietinho kkkkk",
-        "𝑳𝒂𝒚𝒉🌪🌚: Gente tô com uma gastura horrível",
-        "P: foram dormir cedo",
-        "P: e a amanhã é feriado",
         "𝑳𝒂𝒚𝒉🌪🌚: Suspeito de gastrite",
         "𝑳𝒂𝒚𝒉🌪🌚: Aqui é feriado amanhã e terça",
         "P: Melhor emendar o Natal logo",
@@ -6131,7 +6127,11 @@
         "Cristian Sntss: @54259127210155",
         "Cristian Sntss: Eu me cagava todo",
         "JUNIOR: Nome: JÚNIOR\nIdade: 37\nCidade/Estado: BEBEDOURO /SP\norientação sexual: Hétero \n\n👤 PV LIBERADO",
-        "Amaury: Kll"
+        "Amaury: Kll",
+        "Amaury: Kkkk",
+        "Amaury: Ela tava prenha",
+        "Cristian Sntss: Bem vindo meu caro",
+        "Amaury: Ainda"
       ]
     },
     "120363426574906687@g.us": {
@@ -7331,6 +7331,30 @@
         "authorName": "Amaury",
         "text": "Kll",
         "timestamp": 1788789450063
+      },
+      {
+        "authorNum": "59645049761949",
+        "authorName": "Amaury",
+        "text": "Kkkk",
+        "timestamp": 1788789453958
+      },
+      {
+        "authorNum": "59645049761949",
+        "authorName": "Amaury",
+        "text": "Ela tava prenha",
+        "timestamp": 1788789460523
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Bem vindo meu caro",
+        "timestamp": 1788789462071
+      },
+      {
+        "authorNum": "59645049761949",
+        "authorName": "Amaury",
+        "text": "Ainda",
+        "timestamp": 1788789462654
       }
     ],
     "120363426574906687@g.us": [
@@ -7428,7 +7452,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 792,
+    "120363023757382018@g.us": 796,
     "120363426574906687@g.us": 48
   },
   "botDisabled": {
@@ -10367,6 +10391,30 @@
         "text": "Kll",
         "pushName": "Amaury",
         "timestamp": 1788789450064
+      },
+      "AC191D32ED82618BC73766EBBF131E99": {
+        "sender": "59645049761949@lid",
+        "text": "Kkkk",
+        "pushName": "Amaury",
+        "timestamp": 1788789453959
+      },
+      "AC1DC7E5A76EEEDC2D1F39B4A0395F0E": {
+        "sender": "59645049761949@lid",
+        "text": "Ela tava prenha",
+        "pushName": "Amaury",
+        "timestamp": 1788789460523
+      },
+      "A52CD496472663FFBE7799C49FAD6977": {
+        "sender": "166452229341300@lid",
+        "text": "Bem vindo meu caro",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788789462071
+      },
+      "ACB9E01EB38803F9435729D0F901FA74": {
+        "sender": "59645049761949@lid",
+        "text": "Ainda",
+        "pushName": "Amaury",
+        "timestamp": 1788789462654
       }
     },
     "120363426574906687@g.us": {
@@ -10518,7 +10566,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788789450174,
+    "120363023757382018@g.us": 1788789480288,
     "120363426574906687@g.us": 1788788012627
   },
   "autoAnimSent": {
