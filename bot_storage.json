@@ -4499,9 +4499,9 @@
         "total": 187
       },
       "53537388122141": {
-        "text": 95,
+        "text": 96,
         "media": 10,
-        "total": 105
+        "total": 106
       },
       "129373172711439": {
         "text": 27,
@@ -4764,9 +4764,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 79,
+        "text": 80,
         "media": 1,
-        "total": 80
+        "total": 81
       },
       "89305909317735": {
         "text": 1,
@@ -4969,9 +4969,9 @@
         "total": 7
       },
       "172503183945818": {
-        "text": 2,
+        "text": 3,
         "media": 1,
-        "total": 3
+        "total": 4
       },
       "14375557554202": {
         "text": 0,
@@ -4984,9 +4984,9 @@
         "total": 1
       },
       "75398352236551": {
-        "text": 2,
+        "text": 3,
         "media": 0,
-        "total": 2
+        "total": 3
       },
       "168814025171012": {
         "text": 1,
@@ -5876,9 +5876,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Cristian Sntss: Se apresente",
-        "Gabi 💋: Sendo de maio pode",
-        "S2: Bom feriado a todos",
         "Antonio: Hello my name is Antonio 22 years old",
         "solteiro: Ok",
         "Clayton 🇳🇬: Clayton",
@@ -6375,7 +6372,10 @@
         "Cristian Sntss: !ban @177481067843810",
         "Cristian Sntss: Qual o número",
         "Heloisa: @115689322995949",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Não"
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Não",
+        "Felipe: A tesoura começou a canta",
+        "Heloisa: Esse foi embora só dei tempo de se identifica o pobe",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Removido!"
       ]
     },
     "120363426574906687@g.us": {
@@ -6545,30 +6545,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "262912430080093",
-        "authorName": "JUNIOR",
-        "text": "Eita",
-        "timestamp": 1788792712303
-      },
-      {
-        "authorNum": "254884934881353",
-        "authorName": "P",
-        "text": "Kkkkkkkkk",
-        "timestamp": 1788792713279
-      },
-      {
-        "authorNum": "152274357751809",
-        "authorName": "Heloisa",
-        "text": "Mas qualquer coisa eu aviso muito obrigada 🥰",
-        "timestamp": 1788792720142
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "Tudo bem, qualquer coisa só me avisar",
-        "timestamp": 1788792728126
-      },
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
@@ -7528,6 +7504,24 @@
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "text": "Não",
         "timestamp": 1788794510722
+      },
+      {
+        "authorNum": "172503183945818",
+        "authorName": "Felipe",
+        "text": "A tesoura começou a canta",
+        "timestamp": 1788794522514
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Esse foi embora só dei tempo de se identifica o pobe",
+        "timestamp": 1788794524384
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Removido!",
+        "timestamp": 1788794538743
       }
     ],
     "120363426574906687@g.us": [
@@ -7601,7 +7595,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 47,
-    "120363023757382018@g.us": 1189,
+    "120363023757382018@g.us": 1192,
     "120363426574906687@g.us": 91
   },
   "botDisabled": {
@@ -12978,6 +12972,24 @@
         "text": "Não",
         "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "timestamp": 1788794510722
+      },
+      "3ACFC2EA96886D717A64": {
+        "sender": "172503183945818@lid",
+        "text": "A tesoura começou a canta",
+        "pushName": "Felipe",
+        "timestamp": 1788794522514
+      },
+      "AC0E8B4DA805AD7D92F5406B4211093F": {
+        "sender": "152274357751809@lid",
+        "text": "Esse foi embora só dei tempo de se identifica o pobe",
+        "pushName": "Heloisa",
+        "timestamp": 1788794524384
+      },
+      "AC48897918A61842D8EB5DECCDE03225": {
+        "sender": "53537388122141@lid",
+        "text": "Removido!",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788794538743
       }
     },
     "120363426574906687@g.us": {
@@ -13387,7 +13399,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788794140105,
-    "120363023757382018@g.us": 1788794520591,
+    "120363023757382018@g.us": 1788794538743,
     "120363426574906687@g.us": 1788794431350
   },
   "autoAnimSent": {
