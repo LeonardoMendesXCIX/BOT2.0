@@ -4477,14 +4477,14 @@
         "total": 34
       },
       "5511927018683": {
-        "text": 117,
+        "text": 121,
         "media": 10,
-        "total": 127
+        "total": 131
       },
       "166452229341300": {
         "text": 40,
-        "media": 22,
-        "total": 62
+        "media": 23,
+        "total": 63
       },
       "53537388122141": {
         "text": 25,
@@ -13173,6 +13173,10 @@
         "Leandro: !del",
         "Leandro: !del",
         "Leandro: !timerban ⏰ {membro} foi removido(a) por não se apresentar.",
+        "Leandro: !del",
+        "Leandro: !del",
+        "Leandro: !zerotime ⌛ Tempo esgotado, {membro}! Adeus.",
+        "Leandro: !del",
         "Leandro: !del"
       ]
     },
@@ -13297,6 +13301,30 @@
         "authorName": "Leandro",
         "text": "!del",
         "timestamp": 1788756019213
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!del",
+        "timestamp": 1788756023957
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!zerotime ⌛ Tempo esgotado, {membro}! Adeus.",
+        "timestamp": 1788756057429
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!del",
+        "timestamp": 1788756060025
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!del",
+        "timestamp": 1788756063131
       }
     ],
     "120363426574906687@g.us": []
@@ -13321,7 +13349,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 33,
-    "120363023757382018@g.us": 316,
+    "120363023757382018@g.us": 320,
     "120363426574906687@g.us": 36
   },
   "botDisabled": {
@@ -34105,6 +34133,30 @@
         "text": "!del",
         "pushName": "Leandro",
         "timestamp": 1788756019213
+      },
+      "ACDAAD7E653EE3CDE3386FDCF0DB23F5": {
+        "sender": "54259127210155@lid",
+        "text": "!del",
+        "pushName": "Leandro",
+        "timestamp": 1788756023957
+      },
+      "AC7A88C96E1F96B398707F403A58A3C2": {
+        "sender": "54259127210155@lid",
+        "text": "!zerotime ⌛ Tempo esgotado, {membro}! Adeus.",
+        "pushName": "Leandro",
+        "timestamp": 1788756057429
+      },
+      "AC2C278F49FDADA1E127A0E5A17D6911": {
+        "sender": "54259127210155@lid",
+        "text": "!del",
+        "pushName": "Leandro",
+        "timestamp": 1788756060025
+      },
+      "AC4CC3AD7D4D71A6E86A6888C23025A8": {
+        "sender": "54259127210155@lid",
+        "text": "!del",
+        "pushName": "Leandro",
+        "timestamp": 1788756063131
       }
     },
     "120363426574906687@g.us": {
@@ -34412,7 +34464,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788755502872,
-    "120363023757382018@g.us": 1788756019213,
+    "120363023757382018@g.us": 1788756063131,
     "120363426574906687@g.us": 1788725639102
   },
   "autoAnimSent": {
@@ -34501,7 +34553,7 @@
     "120363023757382018@g.us": {
       "membroremov": "🚫 {membro} já foi removido(a) antes. Não pode entrar novamente!",
       "timerban": "⏰ {membro} foi removido(a) por não se apresentar.",
-      "zerotime": "",
+      "zerotime": "⌛ Tempo esgotado, {membro}! Adeus.",
       "umminutoremov": ""
     }
   },
