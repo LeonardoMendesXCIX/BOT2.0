@@ -4508,8 +4508,8 @@
       },
       "129373172711439": {
         "text": 93,
-        "media": 26,
-        "total": 119
+        "media": 27,
+        "total": 120
       },
       "138306604032063": {
         "text": 11,
@@ -4552,9 +4552,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 189,
+        "text": 190,
         "media": 109,
-        "total": 298
+        "total": 299
       },
       "559984624669": {
         "text": 4,
@@ -6195,7 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Walter: Ninguém come ninguém pelo WhatsApp não bote isso na cabeça de vocês",
         "Pedro🫰: De quê?",
         "Camila Designer: Meu Amigo o PV é liberado apenas se autorizar, se invadir será removido do grupo!",
         "Walter: Imagina todo mundo comer vocês pelo WhatsApp tava f***** hein ia engravidar todas",
@@ -6694,7 +6693,8 @@
         "Felippo: vagabundo",
         "Camila Designer: Qual seu nome @241261818728589 ? Já se apresentou?",
         "sorveteria: Germano sou aqui de Rondônia",
-        "sorveteria: Alguma coroa pra conversar"
+        "sorveteria: Alguma coroa pra conversar",
+        "Camila Designer: Seja bem vindo! Envie sua foto e idade para todos te conhecerem!"
       ]
     },
     "120363426574906687@g.us": {
@@ -6898,42 +6898,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "71644668272766",
-        "authorName": "~🥷🏽",
-        "text": "Assim vou tá só na espera kkk",
-        "timestamp": 1788806675344
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Nem o seu rsrsrs",
-        "timestamp": 1788806678968
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "Você se apresentou aqui?",
-        "timestamp": 1788806690317
-      },
-      {
-        "authorNum": "264308512522409",
-        "authorName": "Henrique Contri 🤫",
-        "text": "O meu tá ?",
-        "timestamp": 1788806692487
-      },
-      {
-        "authorNum": "246729194639608",
-        "authorName": "👻🤑",
-        "text": "Ss",
-        "timestamp": 1788806697726
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Muitos entraram e nem vi apresentação",
-        "timestamp": 1788806699123
-      },
       {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
@@ -7887,6 +7851,12 @@
         "authorName": "sorveteria",
         "text": "Alguma coroa pra conversar",
         "timestamp": 1788808471751
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Seja bem vindo! Envie sua foto e idade para todos te conhecerem!",
+        "timestamp": 1788808492906
       }
     ],
     "120363426574906687@g.us": []
@@ -7911,7 +7881,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2373,
+    "120363023757382018@g.us": 2374,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -20514,6 +20484,12 @@
         "text": "Alguma coroa pra conversar",
         "pushName": "sorveteria",
         "timestamp": 1788808471751
+      },
+      "2ABF2327D18EAD23EF49": {
+        "sender": "92629643563147@lid",
+        "text": "Seja bem vindo! Envie sua foto e idade para todos te conhecerem!",
+        "pushName": "Camila Designer",
+        "timestamp": 1788808492906
       }
     },
     "120363426574906687@g.us": {
@@ -21454,7 +21430,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788808471751,
+    "120363023757382018@g.us": 1788808492906,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
