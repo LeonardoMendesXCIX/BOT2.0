@@ -4522,9 +4522,9 @@
         "total": 422
       },
       "53537388122141": {
-        "text": 225,
+        "text": 226,
         "media": 26,
-        "total": 251
+        "total": 252
       },
       "129373172711439": {
         "text": 121,
@@ -4627,9 +4627,9 @@
         "total": 6
       },
       "254884934881353": {
-        "text": 51,
-        "media": 7,
-        "total": 58
+        "text": 53,
+        "media": 8,
+        "total": 61
       },
       "45479878459474": {
         "text": 1,
@@ -5337,9 +5337,9 @@
         "total": 7
       },
       "79728216113177": {
-        "text": 60,
-        "media": 29,
-        "total": 89
+        "text": 61,
+        "media": 30,
+        "total": 91
       }
     },
     "120363426574906687@g.us": {
@@ -6249,10 +6249,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Saul: Ksksks que isso",
-        "Gabi 💋: Você anda muito quieta",
-        "Celiete Souza: Que?   😂😂😂😂👏🏻",
-        "Saul: Eu só brinquei e si lasquei",
         "Gleydson Souza: Perigosa demais 🤣🤣🤣",
         "Saul: No cabaré eu volto",
         "Gabi 💋: Aguardo",
@@ -6748,7 +6744,11 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Pobi da diretora",
         "Wellington: Podia ter mais kkk",
         "Kaio Mendes: Huuum vc é rica, pobi nada",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Essa é de quando eu tinha uns 16 anos"
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Essa é de quando eu tinha uns 16 anos",
+        "P: Eu só penso Solteiro ou comprometido kkkkkk",
+        "P: C de corno",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Eu???? Rica??? Uma pobi CLT da vida 😂",
+        "Kaio Mendes: As idéia"
       ]
     },
     "120363426574906687@g.us": {
@@ -7655,6 +7655,30 @@
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "text": "Essa é de quando eu tinha uns 16 anos",
         "timestamp": 1788816839010
+      },
+      {
+        "authorNum": "254884934881353",
+        "authorName": "P",
+        "text": "Eu só penso Solteiro ou comprometido kkkkkk",
+        "timestamp": 1788816844255
+      },
+      {
+        "authorNum": "254884934881353",
+        "authorName": "P",
+        "text": "C de corno",
+        "timestamp": 1788816851163
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Eu???? Rica??? Uma pobi CLT da vida 😂",
+        "timestamp": 1788816853142
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "As idéia",
+        "timestamp": 1788816859545
       }
     ],
     "120363426574906687@g.us": [
@@ -7686,7 +7710,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2829,
+    "120363023757382018@g.us": 2833,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -23091,6 +23115,30 @@
         "text": "Essa é de quando eu tinha uns 16 anos",
         "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "timestamp": 1788816839010
+      },
+      "3ADEB954448554EC1560": {
+        "sender": "254884934881353@lid",
+        "text": "Eu só penso Solteiro ou comprometido kkkkkk",
+        "pushName": "P",
+        "timestamp": 1788816844256
+      },
+      "3AE3C76F1EA07C06916B": {
+        "sender": "254884934881353@lid",
+        "text": "C de corno",
+        "pushName": "P",
+        "timestamp": 1788816851163
+      },
+      "AC2A3C9360E6545D816D5236441B1EC0": {
+        "sender": "53537388122141@lid",
+        "text": "Eu???? Rica??? Uma pobi CLT da vida 😂",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788816853142
+      },
+      "ACC7912255A2155D561CBFDEC2917CBC": {
+        "sender": "79728216113177@lid",
+        "text": "As idéia",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788816859545
       }
     },
     "120363426574906687@g.us": {
@@ -24037,7 +24085,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788816839010,
+    "120363023757382018@g.us": 1788816867988,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
