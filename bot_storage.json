@@ -4522,9 +4522,9 @@
         "total": 429
       },
       "53537388122141": {
-        "text": 240,
+        "text": 241,
         "media": 30,
-        "total": 270
+        "total": 271
       },
       "129373172711439": {
         "text": 121,
@@ -4542,9 +4542,9 @@
         "total": 8
       },
       "222595437858867": {
-        "text": 78,
+        "text": 79,
         "media": 6,
-        "total": 84
+        "total": 85
       },
       "9431798554859": {
         "text": 2,
@@ -4817,9 +4817,9 @@
         "total": 1
       },
       "71644668272766": {
-        "text": 9,
+        "text": 10,
         "media": 1,
-        "total": 10
+        "total": 11
       },
       "63252218273911": {
         "text": 2,
@@ -6255,8 +6255,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Henrique Contri 🤫: Mandei errado kk",
-        "Felippo: mandou não viu boy",
         "Felippo: mensagem apagada depois da minha",
         "Felippo: .",
         "Felippo: antes",
@@ -6754,7 +6752,9 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Eu nãooo, foi o dono do grupo só 🤡😂",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Mas se quiser eu te removo também",
         "Juliano Perlin: Hata",
-        "Wellington: Aí é top eim meu mano"
+        "Wellington: Aí é top eim meu mano",
+        "Juliano Perlin: Duvido🤭",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: !ban"
       ]
     },
     "120363426574906687@g.us": {
@@ -6956,12 +6956,6 @@
       {
         "authorNum": "81991328395336",
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
-        "text": "Olha as coisas que esse homi posta",
-        "timestamp": 1788815600619
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
         "text": "Tbm sou verde",
         "timestamp": 1788817389753
       }
@@ -6972,12 +6966,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "79728216113177",
-        "authorName": "Kaio Mendes",
-        "text": "Era só um meme da maquita",
-        "timestamp": 1788815693425
-      },
       {
         "authorNum": "182738040713418",
         "authorName": "Wellington",
@@ -7721,6 +7709,18 @@
         "authorName": "Wellington",
         "text": "Aí é top eim meu mano",
         "timestamp": 1788817492032
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Duvido🤭",
+        "timestamp": 1788817511188
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "!ban",
+        "timestamp": 1788817515957
       }
     ],
     "120363426574906687@g.us": []
@@ -7745,7 +7745,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2858,
+    "120363023757382018@g.us": 2860,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -23330,6 +23330,18 @@
         "text": "Aí é top eim meu mano",
         "pushName": "Wellington",
         "timestamp": 1788817492032
+      },
+      "AC8B210B16E2BA7A1FC0CB92BA1F868D": {
+        "sender": "222595437858867@lid",
+        "text": "Duvido🤭",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1788817511188
+      },
+      "ACA2971CAD1185F4457B02692312594C": {
+        "sender": "53537388122141@lid",
+        "text": "!ban",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788817515958
       }
     },
     "120363426574906687@g.us": {
@@ -24276,7 +24288,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788817492032,
+    "120363023757382018@g.us": 1788817515957,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
