@@ -4473,9 +4473,9 @@
         "total": 5
       },
       "108461127897146": {
-        "text": 73,
+        "text": 74,
         "media": 14,
-        "total": 87
+        "total": 88
       },
       "5511927018683": {
         "text": 153,
@@ -4563,9 +4563,9 @@
         "total": 61
       },
       "274384656834700": {
-        "text": 16,
+        "text": 17,
         "media": 5,
-        "total": 21
+        "total": 22
       },
       "111141304930334": {
         "text": 1,
@@ -4578,9 +4578,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 70,
+        "text": 71,
         "media": 9,
-        "total": 79
+        "total": 80
       },
       "206966404210884": {
         "text": 2,
@@ -4703,16 +4703,16 @@
         "total": 3
       },
       "60739813417005": {
-        "text": 1,
+        "text": 2,
         "media": 0,
-        "total": 1
+        "total": 2
       }
     },
     "120363426574906687@g.us": {
       "53537388122141": {
-        "text": 22,
+        "text": 23,
         "media": 0,
-        "total": 22
+        "total": 23
       },
       "166452229341300": {
         "text": 9,
@@ -4720,9 +4720,14 @@
         "total": 12
       },
       "5511927018683": {
-        "text": 5,
+        "text": 10,
         "media": 0,
-        "total": 5
+        "total": 10
+      },
+      "92629643563147": {
+        "text": 1,
+        "media": 0,
+        "total": 1
       }
     }
   },
@@ -5977,7 +5982,8 @@
         "jaciara: Maravilhosa",
         "solteiro: Sim",
         "jaciara: Gata",
-        "Amaury: Que isso trem"
+        "Amaury: Que isso trem",
+        "Gabi 💋: Bumbum"
       ]
     },
     "120363426574906687@g.us": {
@@ -6019,7 +6025,14 @@
         "Leandro: Esqueci de desativar aqui"
       ],
       "07/09/2026": [
-        "Leandro: Digita aqui no grupo !id"
+        "Leandro: Digita aqui no grupo !id",
+        "Leandro: Assim",
+        "Leandro: !id",
+        "Camila Designer: !id",
+        "Leandro: !del",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Ah ok",
+        "Leandro: !del",
+        "Leandro: !del"
       ]
     }
   },
@@ -6818,6 +6831,12 @@
         "authorName": "Amaury",
         "text": "Que isso trem",
         "timestamp": 1788787950019
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Bumbum",
+        "timestamp": 1788787959163
       }
     ],
     "120363426574906687@g.us": [
@@ -6826,6 +6845,48 @@
         "authorName": "Leandro",
         "text": "Digita aqui no grupo !id",
         "timestamp": 1788787947512
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Assim",
+        "timestamp": 1788787951391
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!id",
+        "timestamp": 1788787953297
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "!id",
+        "timestamp": 1788787956370
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!del",
+        "timestamp": 1788787960385
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Ah ok",
+        "timestamp": 1788787963920
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!del",
+        "timestamp": 1788787967906
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!del",
+        "timestamp": 1788787979615
       }
     ]
   },
@@ -6849,8 +6910,8 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 643,
-    "120363426574906687@g.us": 37
+    "120363023757382018@g.us": 644,
+    "120363426574906687@g.us": 44
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -8917,6 +8978,12 @@
         "text": "Que isso trem",
         "pushName": "Amaury",
         "timestamp": 1788787950019
+      },
+      "AC652788D9A8F9927CBDDD73B386CAED": {
+        "sender": "247020967165997@lid",
+        "text": "Bumbum",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788787959164
       }
     },
     "120363426574906687@g.us": {
@@ -8925,6 +8992,36 @@
         "text": "Digita aqui no grupo !id",
         "pushName": "Leandro",
         "timestamp": 1788787947512
+      },
+      "AC732E998BD4FAA6BF00603780043FF0": {
+        "sender": "54259127210155@lid",
+        "text": "Assim",
+        "pushName": "Leandro",
+        "timestamp": 1788787951391
+      },
+      "AC9DC12442548D57362A694647195902": {
+        "sender": "54259127210155@lid",
+        "text": "!id",
+        "pushName": "Leandro",
+        "timestamp": 1788787953297
+      },
+      "2A0A4F57B0DBB23747E6": {
+        "sender": "92629643563147@lid",
+        "text": "!id",
+        "pushName": "Camila Designer",
+        "timestamp": 1788787956370
+      },
+      "AC1F083700ED6621D605F23A89F7CBB9": {
+        "sender": "53537388122141@lid",
+        "text": "Ah ok",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788787963920
+      },
+      "ACB28B2621159672D19A50AF0246C0D2": {
+        "sender": "54259127210155@lid",
+        "text": "!del",
+        "pushName": "Leandro",
+        "timestamp": 1788787979615
       }
     }
   },
@@ -9020,8 +9117,8 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788787950019,
-    "120363426574906687@g.us": 1788787947512
+    "120363023757382018@g.us": 1788787959163,
+    "120363426574906687@g.us": 1788787979615
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
