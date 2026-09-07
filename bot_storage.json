@@ -4502,9 +4502,9 @@
         "total": 318
       },
       "53537388122141": {
-        "text": 150,
+        "text": 151,
         "media": 11,
-        "total": 161
+        "total": 162
       },
       "129373172711439": {
         "text": 47,
@@ -4767,9 +4767,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 159,
+        "text": 160,
         "media": 1,
-        "total": 160
+        "total": 161
       },
       "89305909317735": {
         "text": 1,
@@ -6192,8 +6192,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "junior: Boa noite gabi",
-        "barrosferreirajose22: Aqui não tem ninguém do rio",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Me chamou também",
         "Rafaell: Boa tarde",
         "𝑳𝒂𝒚𝒉🌪🌚: Boa tarde",
@@ -6691,7 +6689,9 @@
         "Luis Felipe: Kkk",
         "Walter: Não pode mandar no grupo manda o meu PV",
         "Celiete Souza: @92629643563147 se precisar ou alguma novidade me chama por favor 🤭",
-        "Luis Felipe: Dava atrás de mim é"
+        "Luis Felipe: Dava atrás de mim é",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: A @262182034002040 namora, meu querido. Não vai mandar nada pra você, nem aqui e nem no Pv",
+        "Heloisa: Sim"
       ]
     },
     "120363426574906687@g.us": {
@@ -6915,30 +6915,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "136296492200083",
-        "authorName": "Luis Felipe",
-        "text": "Nada mal tédio e vc",
-        "timestamp": 1788800708864
-      },
-      {
-        "authorNum": "152274357751809",
-        "authorName": "Heloisa",
-        "text": "Também no tecido",
-        "timestamp": 1788800725838
-      },
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "Ela dando aulas",
-        "timestamp": 1788800730891
-      },
-      {
-        "authorNum": "136296492200083",
-        "authorName": "Luis Felipe",
-        "text": "somos dois então nada pra fazer",
-        "timestamp": 1788800744891
-      },
       {
         "authorNum": "264308512522409",
         "authorName": "Henrique Contri 🤫",
@@ -7886,6 +7862,18 @@
         "authorName": "Luis Felipe",
         "text": "Dava atrás de mim é",
         "timestamp": 1788802481099
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "A @262182034002040 namora, meu querido. Não vai mandar nada pra você, nem aqui e nem no Pv",
+        "timestamp": 1788802552326
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Sim",
+        "timestamp": 1788802569621
       }
     ],
     "120363426574906687@g.us": [
@@ -7917,7 +7905,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 65,
-    "120363023757382018@g.us": 1829,
+    "120363023757382018@g.us": 1831,
     "120363426574906687@g.us": 145
   },
   "botDisabled": {
@@ -17243,6 +17231,18 @@
         "text": "Dava atrás de mim é",
         "pushName": "Luis Felipe",
         "timestamp": 1788802481100
+      },
+      "AC97E9DBBC0E526E11F645C2C978552E": {
+        "sender": "53537388122141@lid",
+        "text": "A @262182034002040 namora, meu querido. Não vai mandar nada pra você, nem aqui e nem no Pv",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788802552326
+      },
+      "AC4EF6183808EBECF3FCAFF96B50255D": {
+        "sender": "152274357751809@lid",
+        "text": "Sim",
+        "pushName": "Heloisa",
+        "timestamp": 1788802569621
       }
     },
     "120363426574906687@g.us": {
@@ -17979,7 +17979,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788801734019,
-    "120363023757382018@g.us": 1788802481099,
+    "120363023757382018@g.us": 1788802569621,
     "120363426574906687@g.us": 1788801476879
   },
   "autoAnimSent": {
