@@ -4487,9 +4487,9 @@
         "total": 5
       },
       "108461127897146": {
-        "text": 131,
+        "text": 133,
         "media": 35,
-        "total": 166
+        "total": 168
       },
       "5511927018683": {
         "text": 164,
@@ -4552,9 +4552,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 143,
+        "text": 144,
         "media": 85,
-        "total": 228
+        "total": 229
       },
       "559984624669": {
         "text": 4,
@@ -4682,9 +4682,9 @@
         "total": 27
       },
       "118515428286715": {
-        "text": 53,
+        "text": 54,
         "media": 4,
-        "total": 57
+        "total": 58
       },
       "193729163993156": {
         "text": 2,
@@ -5314,9 +5314,9 @@
         "total": 39
       },
       "5511927018683": {
-        "text": 45,
+        "text": 46,
         "media": 3,
-        "total": 48
+        "total": 49
       },
       "92629643563147": {
         "text": 34,
@@ -6195,10 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Henrique Contri 🤫: A experiência ganha do jovem aprendiz 😎🤣",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Ué 🤡",
-        "Luis Felipe: Né kk",
-        "Heloisa: Hum",
         "Francisco Silva: Ligeira kkk",
         "Luis Felipe: Kkk",
         "Heloisa: Que faz de bom aí",
@@ -6694,7 +6690,11 @@
         "Saul: Fala para as amigas me chamarem no pv, vou enviar um material sigiloso para avaliarem se a expesssura está de acordo com o gosta delas",
         "Saul: Aqui tem muito olho gordo, pode estragar o estrumento sigiloso que cuido com tanto zelo",
         "jaciara: Minha amiga disse pra vc mandar no kbaré anoite",
-        "Camila Designer: Minha amiga disse que pode mandar mais tarde no Kabaré"
+        "Camila Designer: Minha amiga disse que pode mandar mais tarde no Kabaré",
+        "jaciara: Aí todas ver",
+        "Camila Designer: Amigas sincroniza das hein @108461127897146",
+        "jaciara: E minha amiga junto com a amiga da @92629643563147 analisam juntas",
+        "Saul: Ok, aparecerei no cabaré hj 👍"
       ]
     },
     "120363426574906687@g.us": {
@@ -6877,7 +6877,8 @@
         "Camila Designer: O que ele fez?",
         "Leandro: @92629643563147",
         "Camila Designer: Esse cara é um idiota carente",
-        "Leandro: Se ele for no pv de mais alguém, manda o print aqui"
+        "Leandro: Se ele for no pv de mais alguém, manda o print aqui",
+        "Leandro: Galera, vou dar uma ajeitada no bot, mas com o mínimo de interrupções possíveis, para não atrapalhar nosso lado"
       ]
     }
   },
@@ -7741,15 +7742,33 @@
         "authorName": "Camila Designer",
         "text": "Minha amiga disse que pode mandar mais tarde no Kabaré",
         "timestamp": 1788806054302
-      }
-    ],
-    "120363426574906687@g.us": [
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Aí todas ver",
+        "timestamp": 1788806058471
+      },
       {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
-        "text": "Entrada automática está desativada gente?",
-        "timestamp": 1788804218787
+        "text": "Amigas sincroniza das hein @108461127897146",
+        "timestamp": 1788806076733
       },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "E minha amiga junto com a amiga da @92629643563147 analisam juntas",
+        "timestamp": 1788806076803
+      },
+      {
+        "authorNum": "118515428286715",
+        "authorName": "Saul",
+        "text": "Ok, aparecerei no cabaré hj 👍",
+        "timestamp": 1788806079187
+      }
+    ],
+    "120363426574906687@g.us": [
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
@@ -7875,6 +7894,12 @@
         "authorName": "Leandro",
         "text": "Se ele for no pv de mais alguém, manda o print aqui",
         "timestamp": 1788805706271
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Galera, vou dar uma ajeitada no bot, mas com o mínimo de interrupções possíveis, para não atrapalhar nosso lado",
+        "timestamp": 1788806081543
       }
     ]
   },
@@ -7898,8 +7923,8 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2160,
-    "120363426574906687@g.us": 178
+    "120363023757382018@g.us": 2164,
+    "120363426574906687@g.us": 179
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -19223,6 +19248,30 @@
         "text": "Minha amiga disse que pode mandar mais tarde no Kabaré",
         "pushName": "Camila Designer",
         "timestamp": 1788806054302
+      },
+      "ACB70D21A6555DE7425882261473AEAA": {
+        "sender": "108461127897146@lid",
+        "text": "Aí todas ver",
+        "pushName": "jaciara",
+        "timestamp": 1788806058471
+      },
+      "2A0DA26A271E1DF1CFFC": {
+        "sender": "92629643563147@lid",
+        "text": "Amigas sincroniza das hein @108461127897146",
+        "pushName": "Camila Designer",
+        "timestamp": 1788806076733
+      },
+      "AC462E08F0AFFAE22DF5F697FF391D8E": {
+        "sender": "108461127897146@lid",
+        "text": "E minha amiga junto com a amiga da @92629643563147 analisam juntas",
+        "pushName": "jaciara",
+        "timestamp": 1788806076803
+      },
+      "3AED614FC271B48A0B23": {
+        "sender": "118515428286715@lid",
+        "text": "Ok, aparecerei no cabaré hj 👍",
+        "pushName": "Saul",
+        "timestamp": 1788806079188
       }
     },
     "120363426574906687@g.us": {
@@ -20053,6 +20102,12 @@
         "text": "Se ele for no pv de mais alguém, manda o print aqui",
         "pushName": "Leandro",
         "timestamp": 1788805706271
+      },
+      "ACF7D4E2061AE3A937748EAB75898284": {
+        "sender": "54259127210155@lid",
+        "text": "Galera, vou dar uma ajeitada no bot, mas com o mínimo de interrupções possíveis, para não atrapalhar nosso lado",
+        "pushName": "Leandro",
+        "timestamp": 1788806081543
       }
     }
   },
@@ -20151,8 +20206,8 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788806054302,
-    "120363426574906687@g.us": 1788805706271
+    "120363023757382018@g.us": 1788806079187,
+    "120363426574906687@g.us": 1788806081543
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
