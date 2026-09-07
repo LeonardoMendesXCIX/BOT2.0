@@ -4579,9 +4579,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 100,
+        "text": 101,
         "media": 12,
-        "total": 112
+        "total": 113
       },
       "206966404210884": {
         "text": 2,
@@ -4640,8 +4640,8 @@
       },
       "120363023757382018": {
         "text": 2,
-        "media": 7,
-        "total": 9
+        "media": 8,
+        "total": 10
       },
       "86595382292674": {
         "text": 17,
@@ -4689,9 +4689,9 @@
         "total": 4
       },
       "128145298608376": {
-        "text": 23,
+        "text": 24,
         "media": 2,
-        "total": 25
+        "total": 26
       },
       "193733257609270": {
         "text": 1,
@@ -4736,6 +4736,11 @@
       "179354244005905": {
         "text": 1,
         "media": 0,
+        "total": 1
+      },
+      "21595850563820": {
+        "text": 0,
+        "media": 1,
         "total": 1
       }
     },
@@ -5597,8 +5602,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: No @54259127210155",
-        "Leandro: Vou dar 1 colher de chá em @262182034002040",
         "Dany: Aff\nAgora tá lá salvo como rascunho as 2 palavras que eu ia enviar",
         "Dany: Aff",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Ele com seu olho roxo:",
@@ -6096,7 +6099,9 @@
         "xacinaluzqradiaoinferno71: esse cara tem autismo",
         "Gabi 💋: Vc né",
         "Cristian Sntss: Se apresente galera",
-        "Gabi 💋: Está entrando muito homem \nKD as mulheres"
+        "Gabi 💋: Está entrando muito homem \nKD as mulheres",
+        "solteiro: Sim",
+        "Gabi 💋: Tá difícil o povo ler e se apresentar"
       ]
     },
     "120363426574906687@g.us": {
@@ -7464,6 +7469,18 @@
         "authorName": "Gabi 💋",
         "text": "Está entrando muito homem \nKD as mulheres",
         "timestamp": 1788788591077
+      },
+      {
+        "authorNum": "128145298608376",
+        "authorName": "solteiro",
+        "text": "Sim",
+        "timestamp": 1788788599117
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Tá difícil o povo ler e se apresentar",
+        "timestamp": 1788788604026
       }
     ],
     "120363426574906687@g.us": [
@@ -7561,7 +7578,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 729,
+    "120363023757382018@g.us": 731,
     "120363426574906687@g.us": 48
   },
   "botDisabled": {
@@ -10128,6 +10145,18 @@
         "text": "Está entrando muito homem \nKD as mulheres",
         "pushName": "Gabi 💋",
         "timestamp": 1788788591077
+      },
+      "A57DB9374C77F9346BC04268E6E3414D": {
+        "sender": "128145298608376@lid",
+        "text": "Sim",
+        "pushName": "solteiro",
+        "timestamp": 1788788599117
+      },
+      "AC31FD72FE4FFA51CE6D3670E58125A6": {
+        "sender": "247020967165997@lid",
+        "text": "Tá difícil o povo ler e se apresentar",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788788604026
       }
     },
     "120363426574906687@g.us": {
@@ -10279,7 +10308,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788788591077,
+    "120363023757382018@g.us": 1788788623430,
     "120363426574906687@g.us": 1788788012627
   },
   "autoAnimSent": {
