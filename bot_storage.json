@@ -4508,8 +4508,8 @@
       },
       "129373172711439": {
         "text": 71,
-        "media": 17,
-        "total": 88
+        "media": 18,
+        "total": 89
       },
       "138306604032063": {
         "text": 11,
@@ -4553,8 +4553,8 @@
       },
       "92629643563147": {
         "text": 171,
-        "media": 96,
-        "total": 267
+        "media": 97,
+        "total": 268
       },
       "559984624669": {
         "text": 4,
@@ -4592,9 +4592,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 221,
+        "text": 222,
         "media": 20,
-        "total": 241
+        "total": 242
       },
       "206966404210884": {
         "text": 2,
@@ -4607,9 +4607,9 @@
         "total": 6
       },
       "254884934881353": {
-        "text": 29,
-        "media": 1,
-        "total": 30
+        "text": 32,
+        "media": 2,
+        "total": 34
       },
       "45479878459474": {
         "text": 1,
@@ -6195,10 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Henrique Contri 🤫: Minha filha se tu tivesse noção do frio que tá aqui 🤣🤣",
-        "Saul: Para carai, kkkkkk",
-        "Francisco Silva: Ou não kkk",
-        "Camila Designer: Arregão",
         "Saul: CAMILAAAAAA, para de atiçar",
         "Robison 🙏🏻❤️: Sim\nVc tbm deve ser",
         "Luis Felipe: Né",
@@ -6694,7 +6690,11 @@
         "Henrique Contri 🤫: Pior que dá kk",
         "Camila Designer: Olha o que joga para o universo 🤣🤣🤣",
         "Celiete Souza: Pois então",
-        "P: eu não joguei nada não"
+        "P: eu não joguei nada não",
+        "P: mas se ela jogar",
+        "P: eu seguro",
+        "Gabi 💋: Perdi até o assunto",
+        "P: to pra frente hoje"
       ]
     },
     "120363426574906687@g.us": {
@@ -6898,30 +6898,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Eu ia falar isso",
-        "timestamp": 1788805399612
-      },
-      {
-        "authorNum": "559491757737",
-        "authorName": "José Vitor",
-        "text": "Vixe",
-        "timestamp": 1788805402572
-      },
-      {
-        "authorNum": "559491757737",
-        "authorName": "José Vitor",
-        "text": "Maria",
-        "timestamp": 1788805404371
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Aí vai vê e meia bomba",
-        "timestamp": 1788805441019
-      },
       {
         "authorNum": "264308512522409",
         "authorName": "Henrique Contri 🤫",
@@ -8019,6 +7995,30 @@
         "authorName": "P",
         "text": "eu não joguei nada não",
         "timestamp": 1788807192903
+      },
+      {
+        "authorNum": "254884934881353",
+        "authorName": "P",
+        "text": "mas se ela jogar",
+        "timestamp": 1788807200075
+      },
+      {
+        "authorNum": "254884934881353",
+        "authorName": "P",
+        "text": "eu seguro",
+        "timestamp": 1788807205262
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Perdi até o assunto",
+        "timestamp": 1788807234076
+      },
+      {
+        "authorNum": "254884934881353",
+        "authorName": "P",
+        "text": "to pra frente hoje",
+        "timestamp": 1788807241287
       }
     ],
     "120363426574906687@g.us": [
@@ -8062,7 +8062,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2271,
+    "120363023757382018@g.us": 2275,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -20053,6 +20053,30 @@
         "text": "eu não joguei nada não",
         "pushName": "P",
         "timestamp": 1788807192903
+      },
+      "3A42D15B94501201175F": {
+        "sender": "254884934881353@lid",
+        "text": "mas se ela jogar",
+        "pushName": "P",
+        "timestamp": 1788807200075
+      },
+      "3A1D4C0B721BC97817FD": {
+        "sender": "254884934881353@lid",
+        "text": "eu seguro",
+        "pushName": "P",
+        "timestamp": 1788807205262
+      },
+      "AC0CBD46948B0BCA3399C99646892361": {
+        "sender": "247020967165997@lid",
+        "text": "Perdi até o assunto",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788807234076
+      },
+      "3A10E84E580B8C3EA7BD": {
+        "sender": "254884934881353@lid",
+        "text": "to pra frente hoje",
+        "pushName": "P",
+        "timestamp": 1788807241288
       }
     },
     "120363426574906687@g.us": {
@@ -20993,7 +21017,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788807192903,
+    "120363023757382018@g.us": 1788807241287,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
