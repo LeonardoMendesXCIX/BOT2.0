@@ -4552,9 +4552,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 68,
+        "text": 69,
         "media": 45,
-        "total": 113
+        "total": 114
       },
       "559984624669": {
         "text": 4,
@@ -5077,9 +5077,9 @@
         "total": 7
       },
       "232924968419570": {
-        "text": 9,
+        "text": 10,
         "media": 2,
-        "total": 11
+        "total": 12
       },
       "102650456625285": {
         "text": 1,
@@ -5197,9 +5197,9 @@
         "total": 3
       },
       "107442969026587": {
-        "text": 14,
+        "text": 15,
         "media": 4,
-        "total": 18
+        "total": 19
       },
       "109075157254210": {
         "text": 2,
@@ -6193,9 +6193,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Renis Rodrigues: Boa tarde galera\nMeu nome e Renis Rodrigues sou de Indiara Goiás \nTenho 29 anos",
-        "Juliano Perlin: De boa🤗",
-        "Juliano Perlin: To zuando kkkk",
         "Cristian Sntss: Os árabes não desiste",
         "Juliano Perlin: Cadê a @53537388122141",
         "Juliano Perlin: ??",
@@ -6692,7 +6689,10 @@
         "jaciara: Kkkkk",
         "Pedro🫰: @92629643563147 faz sobrancelha de homem também?",
         "Camila Designer: Depende",
-        "Walter: Apenas pedi uma foto entendeu se ela tem vergonha de mandar no grupo não custaria ela mandar no meu PV e qual mal eu tenho teu pedido lá no PV sei lá seis é muito preconceituoso por pedir no PV ningué"
+        "Walter: Apenas pedi uma foto entendeu se ela tem vergonha de mandar no grupo não custaria ela mandar no meu PV e qual mal eu tenho teu pedido lá no PV sei lá seis é muito preconceituoso por pedir no PV ningué",
+        "Walter: Ninguém come ninguém pelo WhatsApp não bote isso na cabeça de vocês",
+        "Pedro🫰: De quê?",
+        "Camila Designer: Meu Amigo o PV é liberado apenas se autorizar, se invadir será removido do grupo!"
       ]
     },
     "120363426574906687@g.us": {
@@ -6922,24 +6922,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "136296492200083",
-        "authorName": "Luis Felipe",
-        "text": "não né",
-        "timestamp": 1788801168831
-      },
-      {
-        "authorNum": "152274357751809",
-        "authorName": "Heloisa",
-        "text": "Kkk",
-        "timestamp": 1788801179045
-      },
-      {
-        "authorNum": "152274357751809",
-        "authorName": "Heloisa",
-        "text": "Ele tem 65 anos",
-        "timestamp": 1788801183551
-      },
       {
         "authorNum": "39857447551026",
         "authorName": "Francisco Silva",
@@ -7953,6 +7935,24 @@
         "authorName": "Walter",
         "text": "Apenas pedi uma foto entendeu se ela tem vergonha de mandar no grupo não custaria ela mandar no meu PV e qual mal eu tenho teu pedido lá no PV sei lá seis é muito preconceituoso por pedir no PV ninguém vai comer ninguém não filha mora tudo longe",
         "timestamp": 1788802955164
+      },
+      {
+        "authorNum": "107442969026587",
+        "authorName": "Walter",
+        "text": "Ninguém come ninguém pelo WhatsApp não bote isso na cabeça de vocês",
+        "timestamp": 1788802971202
+      },
+      {
+        "authorNum": "232924968419570",
+        "authorName": "Pedro🫰",
+        "text": "De quê?",
+        "timestamp": 1788802977536
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Meu Amigo o PV é liberado apenas se autorizar, se invadir será removido do grupo!",
+        "timestamp": 1788802992696
       }
     ],
     "120363426574906687@g.us": []
@@ -7977,7 +7977,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 66,
-    "120363023757382018@g.us": 1873,
+    "120363023757382018@g.us": 1876,
     "120363426574906687@g.us": 145
   },
   "botDisabled": {
@@ -17567,6 +17567,24 @@
         "text": "Apenas pedi uma foto entendeu se ela tem vergonha de mandar no grupo não custaria ela mandar no meu PV e qual mal eu tenho teu pedido lá no PV sei lá seis é muito preconceituoso por pedir no PV ninguém vai comer ninguém não filha mora tudo longe",
         "pushName": "Walter",
         "timestamp": 1788802955165
+      },
+      "AC04C50117F28F80397DDFB9F13C6381": {
+        "sender": "107442969026587@lid",
+        "text": "Ninguém come ninguém pelo WhatsApp não bote isso na cabeça de vocês",
+        "pushName": "Walter",
+        "timestamp": 1788802971202
+      },
+      "AC54D920C3B3818003BA3981E5C1E12A": {
+        "sender": "232924968419570@lid",
+        "text": "De quê?",
+        "pushName": "Pedro🫰",
+        "timestamp": 1788802977536
+      },
+      "2ABA11541CC843CC23D3": {
+        "sender": "92629643563147@lid",
+        "text": "Meu Amigo o PV é liberado apenas se autorizar, se invadir será removido do grupo!",
+        "pushName": "Camila Designer",
+        "timestamp": 1788802992696
       }
     },
     "120363426574906687@g.us": {
@@ -18303,7 +18321,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788802585654,
-    "120363023757382018@g.us": 1788802955164,
+    "120363023757382018@g.us": 1788802992696,
     "120363426574906687@g.us": 1788801476879
   },
   "autoAnimSent": {
