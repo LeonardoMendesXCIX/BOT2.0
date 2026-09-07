@@ -4542,14 +4542,14 @@
         "total": 2
       },
       "59623457439943": {
-        "text": 13,
+        "text": 15,
         "media": 5,
-        "total": 18
+        "total": 20
       },
       "262182034002040": {
-        "text": 66,
+        "text": 68,
         "media": 8,
-        "total": 74
+        "total": 76
       },
       "199733712785531": {
         "text": 4,
@@ -6219,10 +6219,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Gleydson Souza: Outro grupo",
-        "Camila Designer: Você queria ver foto dela",
-        "Gabi 💋: Ela queria mostrar a ppk aqui gente, você que não deixou ksksks",
-        "Henrique Contri 🤫: Bota eu lá que eu te mostro que nem sua mão fecha 😉",
         "Gleydson Souza: Sempre sobra pros pretos(a)",
         "Gabi 💋: Deixasse a coitada mostrar a aranha",
         "Camila Designer: Só quero ver mesmo, enquanto isso cadê seu peitoral?😌😌😌",
@@ -6718,7 +6714,11 @@
         "Victor: um cara entrou aqui de madrugada e ficou mandando isso na intenção de levar membros pro próprio grupo dele",
         "Dany: Foi esse número aqui que postou",
         "Camila Designer: Acho que vi isso mesmo",
-        "Camila Designer: E não sei como colocou no status"
+        "Camila Designer: E não sei como colocou no status",
+        "Victor: ele mesmo",
+        "Dany: Maluco!",
+        "Victor: mandou trocentas vezes o link do grupo dele aqui",
+        "Dany: Ah eita"
       ]
     },
     "120363426574906687@g.us": {
@@ -6972,18 +6972,6 @@
     ],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Perdão \nGosto de coroa bem apanhado \nCaindo da não\nUma sentada eu mato \nJá vou meu tamanho ksksk",
-        "timestamp": 1788809050022
-      },
-      {
-        "authorNum": "182738040713418",
-        "authorName": "Wellington",
-        "text": "Tipo um livro aberto para todo sempre ? 🤔🙃",
-        "timestamp": 1788809062332
-      },
       {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
@@ -7589,6 +7577,30 @@
         "authorName": "Camila Designer",
         "text": "E não sei como colocou no status",
         "timestamp": 1788810841336
+      },
+      {
+        "authorNum": "59623457439943",
+        "authorName": "Victor",
+        "text": "ele mesmo",
+        "timestamp": 1788810843928
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Maluco!",
+        "timestamp": 1788810860164
+      },
+      {
+        "authorNum": "59623457439943",
+        "authorName": "Victor",
+        "text": "mandou trocentas vezes o link do grupo dele aqui",
+        "timestamp": 1788810863288
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Ah eita",
+        "timestamp": 1788810871596
       }
     ],
     "120363426574906687@g.us": []
@@ -7613,7 +7625,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2540,
+    "120363023757382018@g.us": 2544,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -21275,6 +21287,30 @@
         "text": "E não sei como colocou no status",
         "pushName": "Camila Designer",
         "timestamp": 1788810841336
+      },
+      "ACE101E84D48BBE2746EB6D0DA3BE38D": {
+        "sender": "59623457439943@lid",
+        "text": "ele mesmo",
+        "pushName": "Victor",
+        "timestamp": 1788810843928
+      },
+      "3A144695FDB41DE77855": {
+        "sender": "262182034002040@lid",
+        "text": "Maluco!",
+        "pushName": "Dany",
+        "timestamp": 1788810860165
+      },
+      "AC340982A196D0853085C3E469EAA0CD": {
+        "sender": "59623457439943@lid",
+        "text": "mandou trocentas vezes o link do grupo dele aqui",
+        "pushName": "Victor",
+        "timestamp": 1788810863288
+      },
+      "3AA11A13252182BD8BD2": {
+        "sender": "262182034002040@lid",
+        "text": "Ah eita",
+        "pushName": "Dany",
+        "timestamp": 1788810871596
       }
     },
     "120363426574906687@g.us": {
@@ -22215,7 +22251,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788810841336,
+    "120363023757382018@g.us": 1788810871596,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
