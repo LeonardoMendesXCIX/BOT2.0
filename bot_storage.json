@@ -4553,8 +4553,8 @@
       },
       "92629643563147": {
         "text": 200,
-        "media": 113,
-        "total": 313
+        "media": 114,
+        "total": 314
       },
       "559984624669": {
         "text": 4,
@@ -4592,9 +4592,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 234,
+        "text": 236,
         "media": 20,
-        "total": 254
+        "total": 256
       },
       "206966404210884": {
         "text": 2,
@@ -6195,8 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Heloisa: Desculpa",
-        "Gabi 💋: Espero uma foto sua",
         "Gabi 💋: Ksksksk",
         "Camila Designer: Mas peitoral não tem nada de mais né, só um peitoral 🤣🤣🤣",
         "Heloisa: Me empolguei",
@@ -6694,7 +6692,9 @@
         "Wellington: EAI como vai ela ?",
         "Camila Designer: Ela disse que melhor agora que você apareceu 😏😏😏",
         "Camila Designer: Qual sua idade?",
-        "Camila Designer: @247020967165997 você gosta de coroa 😅"
+        "Camila Designer: @247020967165997 você gosta de coroa 😅",
+        "Gabi 💋: Misericórdia",
+        "Gabi 💋: Que não"
       ]
     },
     "120363426574906687@g.us": {
@@ -6898,18 +6898,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Cala essa boca",
-        "timestamp": 1788806956357
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Eu estou aqui nesse momento então se sair vai ser mais difícil mesmo",
-        "timestamp": 1788806957955
-      },
       {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
@@ -7821,6 +7809,18 @@
         "authorName": "Camila Designer",
         "text": "@247020967165997 você gosta de coroa 😅",
         "timestamp": 1788808753684
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Misericórdia",
+        "timestamp": 1788808770652
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Que não",
+        "timestamp": 1788808775419
       }
     ],
     "120363426574906687@g.us": []
@@ -7845,7 +7845,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2398,
+    "120363023757382018@g.us": 2400,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -20598,6 +20598,18 @@
         "text": "@247020967165997 você gosta de coroa 😅",
         "pushName": "Camila Designer",
         "timestamp": 1788808753685
+      },
+      "AC335A4026912904D1C3361DC290EBFA": {
+        "sender": "247020967165997@lid",
+        "text": "Misericórdia",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788808770652
+      },
+      "AC29BFA3BEF7F2F608799F0A41D62CA4": {
+        "sender": "247020967165997@lid",
+        "text": "Que não",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788808775420
       }
     },
     "120363426574906687@g.us": {
@@ -21538,7 +21550,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788808753684,
+    "120363023757382018@g.us": 1788808780416,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
