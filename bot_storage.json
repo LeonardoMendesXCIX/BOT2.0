@@ -4552,9 +4552,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 109,
+        "text": 110,
         "media": 69,
-        "total": 178
+        "total": 179
       },
       "559984624669": {
         "text": 4,
@@ -5142,9 +5142,9 @@
         "total": 1
       },
       "264308512522409": {
-        "text": 66,
+        "text": 67,
         "media": 4,
-        "total": 70
+        "total": 71
       },
       "194377938911429": {
         "text": 9,
@@ -6195,8 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Heloisa: Obrigada",
-        "Heloisa: Verdade",
         "Cristian Sntss: Bem vindo",
         "Douglas🙏: Gabi PV pode ser",
         "𝕰𝖛𝖆𝖓𝖉𝖗𝖔 𝕬𝖑𝖛𝖊𝖘: Eu passo longe",
@@ -6694,7 +6692,9 @@
         "Camila Designer: Sei 🤣🤣🤣",
         "Henrique Contri 🤫: Quer ver ?",
         "Pedro🫰: É um cano de 100",
-        "Camila Designer: @118515428286715 sua tatuagem está escrito o que?"
+        "Camila Designer: @118515428286715 sua tatuagem está escrito o que?",
+        "Henrique Contri 🤫: Que cabaré 🤣🤣",
+        "Camila Designer: A Heloísa saiu mesmo 👀"
       ]
     },
     "120363426574906687@g.us": {
@@ -6902,30 +6902,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "232924968419570",
-        "authorName": "Pedro🫰",
-        "text": "De quê?",
-        "timestamp": 1788802977536
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Meu Amigo o PV é liberado apenas se autorizar, se invadir será removido do grupo!",
-        "timestamp": 1788802992696
-      },
-      {
-        "authorNum": "107442969026587",
-        "authorName": "Walter",
-        "text": "Imagina todo mundo comer vocês pelo WhatsApp tava f***** hein ia engravidar todas",
-        "timestamp": 1788803008300
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Qual a dificuldade de entenderem isso?",
-        "timestamp": 1788803010722
-      },
       {
         "authorNum": "108461127897146",
         "authorName": "jaciara",
@@ -7861,6 +7837,18 @@
         "authorName": "Camila Designer",
         "text": "@118515428286715 sua tatuagem está escrito o que?",
         "timestamp": 1788804772665
+      },
+      {
+        "authorNum": "264308512522409",
+        "authorName": "Henrique Contri 🤫",
+        "text": "Que cabaré 🤣🤣",
+        "timestamp": 1788804833259
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "A Heloísa saiu mesmo 👀",
+        "timestamp": 1788804833576
       }
     ],
     "120363426574906687@g.us": [
@@ -8042,7 +8030,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2034,
+    "120363023757382018@g.us": 2036,
     "120363426574906687@g.us": 171
   },
   "botDisabled": {
@@ -18611,6 +18599,18 @@
         "text": "@118515428286715 sua tatuagem está escrito o que?",
         "pushName": "Camila Designer",
         "timestamp": 1788804772665
+      },
+      "AC834F134941EB8C4924EA4C3C59BAFA": {
+        "sender": "264308512522409@lid",
+        "text": "Que cabaré 🤣🤣",
+        "pushName": "Henrique Contri 🤫",
+        "timestamp": 1788804833259
+      },
+      "2AC74D9B3EA3B2AABDCA": {
+        "sender": "92629643563147@lid",
+        "text": "A Heloísa saiu mesmo 👀",
+        "pushName": "Camila Designer",
+        "timestamp": 1788804833576
       }
     },
     "120363426574906687@g.us": {
@@ -19497,7 +19497,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788804772665,
+    "120363023757382018@g.us": 1788804833576,
     "120363426574906687@g.us": 1788804637761
   },
   "autoAnimSent": {
