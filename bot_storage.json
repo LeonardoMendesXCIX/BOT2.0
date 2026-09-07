@@ -4571,9 +4571,9 @@
         "total": 9
       },
       "81991328395336": {
-        "text": 86,
+        "text": 87,
         "media": 24,
-        "total": 110
+        "total": 111
       },
       "274384656834700": {
         "text": 26,
@@ -4766,9 +4766,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 88,
+        "text": 89,
         "media": 1,
-        "total": 89
+        "total": 90
       },
       "89305909317735": {
         "text": 1,
@@ -4971,9 +4971,9 @@
         "total": 7
       },
       "172503183945818": {
-        "text": 5,
+        "text": 6,
         "media": 1,
-        "total": 6
+        "total": 7
       },
       "14375557554202": {
         "text": 0,
@@ -5930,8 +5930,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Heloisa: Sim e com vc ?",
-        "Heloisa: Apresentação pode ser com foto em vizu única ?",
         "solteiro: Ok",
         "Gabi 💋: Sim",
         "solteiro: Bjs",
@@ -6429,7 +6427,9 @@
         "Heloisa: De ND lindo",
         "Felipe: Oq vcs estão fazendo",
         "𝑳𝒂𝒚𝒉🌪🌚: Não sei meu nome kkkk",
-        "𝑳𝒂𝒚𝒉🌪🌚: Vou almoçar"
+        "𝑳𝒂𝒚𝒉🌪🌚: Vou almoçar",
+        "Heloisa: Ei já almocei estou deitada descansando o almoço kk",
+        "𝑳𝒂𝒚𝒉🌪🌚: !ban @147687366209690"
       ]
     },
     "120363426574906687@g.us": {
@@ -7462,6 +7462,18 @@
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
         "text": "Vou almoçar",
         "timestamp": 1788795240903
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Ei já almocei estou deitada descansando o almoço kk",
+        "timestamp": 1788795256929
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "!ban @147687366209690",
+        "timestamp": 1788795284747
       }
     ],
     "120363426574906687@g.us": [
@@ -7493,7 +7505,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 49,
-    "120363023757382018@g.us": 1248,
+    "120363023757382018@g.us": 1250,
     "120363426574906687@g.us": 91
   },
   "botDisabled": {
@@ -13236,6 +13248,18 @@
         "text": "Vou almoçar",
         "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
         "timestamp": 1788795240903
+      },
+      "AC86296412685F8B3E7927DA609F0AFC": {
+        "sender": "152274357751809@lid",
+        "text": "Ei já almocei estou deitada descansando o almoço kk",
+        "pushName": "Heloisa",
+        "timestamp": 1788795256929
+      },
+      "AC025122868FB665EB3C91D733268899": {
+        "sender": "81991328395336@lid",
+        "text": "!ban @147687366209690",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1788795284747
       }
     },
     "120363426574906687@g.us": {
@@ -13645,7 +13669,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788794665827,
-    "120363023757382018@g.us": 1788795251971,
+    "120363023757382018@g.us": 1788795284747,
     "120363426574906687@g.us": 1788794708224
   },
   "autoAnimSent": {
