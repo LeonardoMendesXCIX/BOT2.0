@@ -4552,9 +4552,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 39,
+        "text": 40,
         "media": 21,
-        "total": 60
+        "total": 61
       },
       "559984624669": {
         "text": 4,
@@ -4572,9 +4572,9 @@
         "total": 9
       },
       "81991328395336": {
-        "text": 135,
+        "text": 136,
         "media": 37,
-        "total": 172
+        "total": 173
       },
       "274384656834700": {
         "text": 33,
@@ -6192,8 +6192,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Heloisa: Boa tarde a todos e todas",
-        "😃: Eu",
         "Lucas Leonardo: Bom dia",
         "Lucas Leonardo: Lucas Leonardo  tenho 32 eu sou do sul mais estou em Sobral Ceará",
         "😃: Procura solteiras",
@@ -6691,7 +6689,9 @@
         "𝑳𝒂𝒚𝒉🌪🌚: Bem vindo",
         "Henrique Contri 🤫: Tô falando que já sabia que vc não era velho rapaz 🤣",
         "Luis Felipe: hum",
-        "𝑳𝒂𝒚𝒉🌪🌚: @92629643563147"
+        "𝑳𝒂𝒚𝒉🌪🌚: @92629643563147",
+        "𝑳𝒂𝒚𝒉🌪🌚: Bem vindo jovem",
+        "Camila Designer: Qual sua idade amigo?"
       ]
     },
     "120363426574906687@g.us": {
@@ -6915,12 +6915,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "81991328395336",
-        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
-        "text": "!ban @130043523133488",
-        "timestamp": 1788799964812
-      },
       {
         "authorNum": "81991328395336",
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
@@ -7646,6 +7640,18 @@
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
         "text": "@92629643563147",
         "timestamp": 1788801751179
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Bem vindo jovem",
+        "timestamp": 1788801758561
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Qual sua idade amigo?",
+        "timestamp": 1788801777517
       }
     ],
     "120363426574906687@g.us": [
@@ -7839,7 +7845,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 65,
-    "120363023757382018@g.us": 1732,
+    "120363023757382018@g.us": 1734,
     "120363426574906687@g.us": 145
   },
   "botDisabled": {
@@ -16583,6 +16589,18 @@
         "text": "@92629643563147",
         "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
         "timestamp": 1788801751179
+      },
+      "ACC2FFCE534FB675E8E83ADBC03982A5": {
+        "sender": "81991328395336@lid",
+        "text": "Bem vindo jovem",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1788801758562
+      },
+      "2AC726198C57547333FE": {
+        "sender": "92629643563147@lid",
+        "text": "Qual sua idade amigo?",
+        "pushName": "Camila Designer",
+        "timestamp": 1788801777517
       }
     },
     "120363426574906687@g.us": {
@@ -17319,7 +17337,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788801734019,
-    "120363023757382018@g.us": 1788801751179,
+    "120363023757382018@g.us": 1788801777517,
     "120363426574906687@g.us": 1788801476879
   },
   "autoAnimSent": {
