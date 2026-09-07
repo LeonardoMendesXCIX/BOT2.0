@@ -4501,9 +4501,9 @@
         "total": 207
       },
       "53537388122141": {
-        "text": 124,
+        "text": 125,
         "media": 11,
-        "total": 135
+        "total": 136
       },
       "129373172711439": {
         "text": 27,
@@ -4571,9 +4571,9 @@
         "total": 9
       },
       "81991328395336": {
-        "text": 90,
+        "text": 91,
         "media": 25,
-        "total": 115
+        "total": 116
       },
       "274384656834700": {
         "text": 26,
@@ -5071,9 +5071,9 @@
         "total": 1
       },
       "43036243411180": {
-        "text": 5,
+        "text": 6,
         "media": 0,
-        "total": 5
+        "total": 6
       },
       "232924968419570": {
         "text": 1,
@@ -6002,8 +6002,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Cristian Sntss: A noite",
-        "Valdinei: Bom dia",
         "Ton: Oi",
         "Heloisa: Um pouco sem noção kk",
         "Ton: Gente",
@@ -6501,7 +6499,9 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Me chamou também",
         "Rafaell: Boa tarde",
         "𝑳𝒂𝒚𝒉🌪🌚: Boa tarde",
-        "Du: Eu ub"
+        "Du: Eu ub",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Me chamou e eu pedi Pix\nSumiu 🌚",
+        "junior: Boa tarde layh"
       ]
     },
     "120363426574906687@g.us": {
@@ -6678,24 +6678,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "Pode me chamar",
-        "timestamp": 1788794593168
-      },
-      {
-        "authorNum": "152274357751809",
-        "authorName": "Heloisa",
-        "text": "Povo não sabe fazer o mínimo se identificar e ler as regras do grupo e  o principal seguir",
-        "timestamp": 1788794595836
-      },
-      {
-        "authorNum": "43684162711698",
-        "authorName": "Jacke França",
-        "text": "Amg tô restringida",
-        "timestamp": 1788794601864
-      },
       {
         "authorNum": "1675188265053",
         "authorName": "Kaique N.☝🏻🤓",
@@ -7511,6 +7493,18 @@
         "authorName": "Du",
         "text": "Eu ub",
         "timestamp": 1788796389532
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Me chamou e eu pedi Pix\nSumiu 🌚",
+        "timestamp": 1788796401597
+      },
+      {
+        "authorNum": "43036243411180",
+        "authorName": "junior",
+        "text": "Boa tarde layh",
+        "timestamp": 1788796410511
       }
     ],
     "120363426574906687@g.us": [
@@ -7578,7 +7572,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1335,
+    "120363023757382018@g.us": 1337,
     "120363426574906687@g.us": 98
   },
   "botDisabled": {
@@ -13886,6 +13880,18 @@
         "text": "Eu ub",
         "pushName": "Du",
         "timestamp": 1788796389532
+      },
+      "AC37CB08E02838EED83D81E3854CA3A4": {
+        "sender": "53537388122141@lid",
+        "text": "Me chamou e eu pedi Pix\nSumiu 🌚",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788796401597
+      },
+      "ACE61E01076BE80CB213869ECBE9AB08": {
+        "sender": "43036243411180@lid",
+        "text": "Boa tarde layh",
+        "pushName": "junior",
+        "timestamp": 1788796410511
       }
     },
     "120363426574906687@g.us": {
@@ -14340,7 +14346,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788796389532,
+    "120363023757382018@g.us": 1788796417870,
     "120363426574906687@g.us": 1788796320301
   },
   "autoAnimSent": {
