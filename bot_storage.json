@@ -4599,9 +4599,9 @@
         "total": 6
       },
       "254884934881353": {
-        "text": 14,
+        "text": 16,
         "media": 0,
-        "total": 14
+        "total": 16
       },
       "45479878459474": {
         "text": 1,
@@ -4759,9 +4759,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 54,
+        "text": 55,
         "media": 0,
-        "total": 54
+        "total": 55
       },
       "89305909317735": {
         "text": 1,
@@ -4830,8 +4830,8 @@
       },
       "126586225467454": {
         "text": 21,
-        "media": 4,
-        "total": 25
+        "media": 5,
+        "total": 26
       },
       "245788143841410": {
         "text": 5,
@@ -5747,9 +5747,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "jaciara: Dormi igual não durmo a meses kkkkkkk",
-        "Amaury: Kk",
-        "Gleydson Souza: Bom deixa eu ir trabalhar um pouco tenho encomenda pra fazer kkkk depois mando o resultado pra vcs aqui, vou fazer brigadeiro e beijinho de colher.",
         "Amaury: Nem vou falar nada kkk",
         "Gabi 💋: Tá difícil pra dormir já ?",
         "jaciara: Bom trabalho pra vc",
@@ -6246,7 +6243,10 @@
         "JUNIOR: Mano, queria chamar uma\nGarota de 13 anos pro\npv pra que??? Fala sério",
         "Thawan: Hoje é em casa",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Exatamente!!",
-        "P: tem que tá olho nisso aí"
+        "P: tem que tá olho nisso aí",
+        "P: kkkkkkk",
+        "P: Enfim",
+        "Heloisa: Provavelmente pra mandar pra ela o que mandou pra mim kkk"
       ]
     },
     "120363426574906687@g.us": {
@@ -6354,12 +6354,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "152274357751809",
-        "authorName": "Heloisa",
-        "text": "Oi ?",
-        "timestamp": 1788791061484
-      },
       {
         "authorNum": "81991328395336",
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
@@ -7145,6 +7139,24 @@
         "authorName": "P",
         "text": "tem que tá olho nisso aí",
         "timestamp": 1788792853628
+      },
+      {
+        "authorNum": "254884934881353",
+        "authorName": "P",
+        "text": "kkkkkkk",
+        "timestamp": 1788792855871
+      },
+      {
+        "authorNum": "254884934881353",
+        "authorName": "P",
+        "text": "Enfim",
+        "timestamp": 1788792857122
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Provavelmente pra mandar pra ela o que mandou pra mim kkk",
+        "timestamp": 1788792862814
       }
     ],
     "120363426574906687@g.us": [
@@ -7182,7 +7194,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 1043,
+    "120363023757382018@g.us": 1046,
     "120363426574906687@g.us": 84
   },
   "botDisabled": {
@@ -11629,6 +11641,24 @@
         "text": "tem que tá olho nisso aí",
         "pushName": "P",
         "timestamp": 1788792853628
+      },
+      "3AE57785600A2A61F8C3": {
+        "sender": "254884934881353@lid",
+        "text": "kkkkkkk",
+        "pushName": "P",
+        "timestamp": 1788792855871
+      },
+      "3AC9EA34ABD3EC9725EA": {
+        "sender": "254884934881353@lid",
+        "text": "Enfim",
+        "pushName": "P",
+        "timestamp": 1788792857122
+      },
+      "AC383E2A8A68A18E8F57D1C823350FC1": {
+        "sender": "152274357751809@lid",
+        "text": "Provavelmente pra mandar pra ela o que mandou pra mim kkk",
+        "pushName": "Heloisa",
+        "timestamp": 1788792862814
       }
     },
     "120363426574906687@g.us": {
@@ -11996,7 +12026,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788792853628,
+    "120363023757382018@g.us": 1788792872507,
     "120363426574906687@g.us": 1788792800628
   },
   "autoAnimSent": {
