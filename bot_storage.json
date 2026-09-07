@@ -4522,9 +4522,9 @@
         "total": 424
       },
       "53537388122141": {
-        "text": 229,
-        "media": 27,
-        "total": 256
+        "text": 230,
+        "media": 28,
+        "total": 258
       },
       "129373172711439": {
         "text": 121,
@@ -5337,9 +5337,9 @@
         "total": 7
       },
       "79728216113177": {
-        "text": 66,
-        "media": 31,
-        "total": 97
+        "text": 68,
+        "media": 32,
+        "total": 100
       }
     },
     "120363426574906687@g.us": {
@@ -6249,9 +6249,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Gleydson Souza: @247020967165997 ate o kbaré baby volto a noite",
-        "Celiete Souza: Quando que eu não vi",
-        "P: da pra fazer uns negócios maneiros",
         "willian: Oi, como vc está ?",
         "Camila Designer: Bem e você?",
         "Celiete Souza: Equilibrado amigo",
@@ -6748,7 +6745,10 @@
         "Cristian Sntss: @92629643563147 \nVender um curso de como ser atacante eu compro",
         "Kaio Mendes: Vende barato @92629643563147",
         "Camila Designer: Quem mais vai querer?",
-        "𝑳𝒂𝒚𝒉🌪🌚: 😹😹😹"
+        "𝑳𝒂𝒚𝒉🌪🌚: 😹😹😹",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Vende só pros homens\nHoje em dia ta difícil 😂",
+        "Kaio Mendes: Roubei",
+        "Kaio Mendes: Oloko"
       ]
     },
     "120363426574906687@g.us": {
@@ -7733,6 +7733,24 @@
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
         "text": "😹😹😹",
         "timestamp": 1788817034854
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Vende só pros homens\nHoje em dia ta difícil 😂",
+        "timestamp": 1788817064584
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "Roubei",
+        "timestamp": 1788817065110
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "Oloko",
+        "timestamp": 1788817091924
       }
     ],
     "120363426574906687@g.us": []
@@ -7757,7 +7775,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2843,
+    "120363023757382018@g.us": 2846,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -23246,6 +23264,24 @@
         "text": "😹😹😹",
         "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
         "timestamp": 1788817034854
+      },
+      "AC09F9159B933ECB6EEDCBBC4C05E3E9": {
+        "sender": "53537388122141@lid",
+        "text": "Vende só pros homens\nHoje em dia ta difícil 😂",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788817064584
+      },
+      "AC313D72AEBC42E58DDECC6730FD0393": {
+        "sender": "79728216113177@lid",
+        "text": "Roubei",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788817065110
+      },
+      "ACC369ED60A3BE55658FB310C0A5ACC4": {
+        "sender": "79728216113177@lid",
+        "text": "Oloko",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788817091924
       }
     },
     "120363426574906687@g.us": {
@@ -24192,7 +24228,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788817062798,
+    "120363023757382018@g.us": 1788817091924,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
