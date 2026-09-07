@@ -5123,9 +5123,9 @@
     },
     "120363426574906687@g.us": {
       "53537388122141": {
-        "text": 41,
+        "text": 44,
         "media": 3,
-        "total": 44
+        "total": 47
       },
       "166452229341300": {
         "text": 27,
@@ -6606,7 +6606,10 @@
         "Cristian Sntss: @54259127210155",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Consegui",
         "Cristian Sntss: Eu tô pra ativa tbm",
-        "Cristian Sntss: O negócio d membros"
+        "Cristian Sntss: O negócio d membros",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Ativei",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: FODASE",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Vou almoçar"
       ]
     }
   },
@@ -7551,6 +7554,24 @@
         "authorName": "Cristian Sntss",
         "text": "O negócio d membros",
         "timestamp": 1788796581645
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Ativei",
+        "timestamp": 1788796602052
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "FODASE",
+        "timestamp": 1788796604019
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Vou almoçar",
+        "timestamp": 1788796606187
       }
     ]
   },
@@ -7575,7 +7596,7 @@
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
     "120363023757382018@g.us": 1347,
-    "120363426574906687@g.us": 100
+    "120363426574906687@g.us": 103
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -14322,6 +14343,24 @@
         "text": "O negócio d membros",
         "pushName": "Cristian Sntss",
         "timestamp": 1788796581645
+      },
+      "AC9DFB713E3DA73B17E5DE21CA2AD21E": {
+        "sender": "53537388122141@lid",
+        "text": "Ativei",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788796602052
+      },
+      "AC26C81D8B2F802CFD9379B6DD715380": {
+        "sender": "53537388122141@lid",
+        "text": "FODASE",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788796604020
+      },
+      "ACB7241BC8FB23A632D2F5EACBC25271": {
+        "sender": "53537388122141@lid",
+        "text": "Vou almoçar",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788796606187
       }
     }
   },
@@ -14421,7 +14460,7 @@
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
     "120363023757382018@g.us": 1788796562723,
-    "120363426574906687@g.us": 1788796581645
+    "120363426574906687@g.us": 1788796606187
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
