@@ -4688,9 +4688,9 @@
         "total": 4
       },
       "128145298608376": {
-        "text": 7,
+        "text": 8,
         "media": 1,
-        "total": 8
+        "total": 9
       },
       "193733257609270": {
         "text": 1,
@@ -5929,7 +5929,8 @@
         "Camila Designer: Todos que estão entrando sejam bem vindos!!!",
         "Leandro: !ban @30164360679505",
         "solteiro: Sim",
-        "Celiete Souza: Precisa de novo ou só novatos"
+        "Celiete Souza: Precisa de novo ou só novatos",
+        "solteiro: Ok"
       ]
     },
     "120363426574906687@g.us": {
@@ -6539,6 +6540,12 @@
         "authorName": "Celiete Souza",
         "text": "Precisa de novo ou só novatos",
         "timestamp": 1788787633804
+      },
+      {
+        "authorNum": "128145298608376",
+        "authorName": "solteiro",
+        "text": "Ok",
+        "timestamp": 1788787644191
       }
     ],
     "120363426574906687@g.us": []
@@ -6563,7 +6570,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 35,
-    "120363023757382018@g.us": 608,
+    "120363023757382018@g.us": 609,
     "120363426574906687@g.us": 36
   },
   "botDisabled": {
@@ -8403,6 +8410,12 @@
         "text": "Precisa de novo ou só novatos",
         "pushName": "Celiete Souza",
         "timestamp": 1788787633804
+      },
+      "A541D9ADABD69B7F6F4C7F1B461A0DF9": {
+        "sender": "128145298608376@lid",
+        "text": "Ok",
+        "pushName": "solteiro",
+        "timestamp": 1788787644191
       }
     },
     "120363426574906687@g.us": {}
@@ -8499,7 +8512,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788787544412,
-    "120363023757382018@g.us": 1788787633804,
+    "120363023757382018@g.us": 1788787644191,
     "120363426574906687@g.us": 1788725639102
   },
   "autoAnimSent": {
