@@ -4587,9 +4587,9 @@
         "total": 1
       },
       "182738040713418": {
-        "text": 57,
+        "text": 58,
         "media": 44,
-        "total": 101
+        "total": 102
       },
       "81991328395336": {
         "text": 179,
@@ -6266,7 +6266,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Camila Designer: Bem vinda @221307534876912 !\nSe apresente!",
         "Dany: Oie",
         "solteiro: Solteira",
         "Mikael Santos: Oi boa tarde meu nome é Mikael tenho 26 anos Moro em Rio grande do Sul uso cadeira de rodas solteiro",
@@ -6765,7 +6764,8 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Boa noite",
         "𝑳𝒂𝒚𝒉🌪🌚: Boa",
         "Dany: Boa noite 😘",
-        "Kaio Mendes: Boa"
+        "Kaio Mendes: Boa",
+        "Wellington: 😅😅😅😅"
       ]
     },
     "120363426574906687@g.us": {
@@ -6996,18 +6996,6 @@
     ],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Situação não está boa em",
-        "timestamp": 1788817997097
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Puta que pariu",
-        "timestamp": 1788818021528
-      },
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
@@ -7565,6 +7553,12 @@
         "authorName": "Kaio Mendes",
         "text": "Boa",
         "timestamp": 1788819796169
+      },
+      {
+        "authorNum": "182738040713418",
+        "authorName": "Wellington",
+        "text": "😅😅😅😅",
+        "timestamp": 1788819824927
       }
     ],
     "120363426574906687@g.us": []
@@ -7589,7 +7583,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 486,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 3019,
+    "120363023757382018@g.us": 3020,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -24176,6 +24170,12 @@
         "text": "Boa",
         "pushName": "Kaio Mendes",
         "timestamp": 1788819796169
+      },
+      "AC5E3F81819567E9E7A2D096867F64E4": {
+        "sender": "182738040713418@lid",
+        "text": "😅😅😅😅",
+        "pushName": "Wellington",
+        "timestamp": 1788819824927
       }
     },
     "120363426574906687@g.us": {
@@ -25122,7 +25122,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788819771459,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788819796169,
+    "120363023757382018@g.us": 1788819824927,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
