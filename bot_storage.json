@@ -5142,9 +5142,9 @@
         "total": 1
       },
       "264308512522409": {
-        "text": 28,
+        "text": 30,
         "media": 2,
-        "total": 30
+        "total": 32
       },
       "194377938911429": {
         "text": 9,
@@ -6183,8 +6183,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "𝑳𝒂𝒚𝒉🌪🌚: Vou atrás da minha remoção",
-        "Heloisa: Tanto os homens quanto as mulheres",
         "Matheus Maia: boa tarde",
         "welkeazevedo: Opa tamos juntos",
         "Filipe Oliveira☺️☺️: Boa tarde",
@@ -6682,7 +6680,9 @@
         "Luis Felipe: Nada mal tédio e vc",
         "Heloisa: Também no tecido",
         "Cristian Sntss: Ela dando aulas",
-        "Luis Felipe: somos dois então nada pra fazer"
+        "Luis Felipe: somos dois então nada pra fazer",
+        "Henrique Contri 🤫: Tem um lote aqui do lado pra capinar 🤣🤣",
+        "Henrique Contri 🤫: Acaba rapidinho com o tédio kk"
       ]
     },
     "120363426574906687@g.us": {
@@ -7587,6 +7587,18 @@
         "authorName": "Luis Felipe",
         "text": "somos dois então nada pra fazer",
         "timestamp": 1788800744891
+      },
+      {
+        "authorNum": "264308512522409",
+        "authorName": "Henrique Contri 🤫",
+        "text": "Tem um lote aqui do lado pra capinar 🤣🤣",
+        "timestamp": 1788800773230
+      },
+      {
+        "authorNum": "264308512522409",
+        "authorName": "Henrique Contri 🤫",
+        "text": "Acaba rapidinho com o tédio kk",
+        "timestamp": 1788800782960
       }
     ],
     "120363426574906687@g.us": [
@@ -7834,7 +7846,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1671,
+    "120363023757382018@g.us": 1673,
     "120363426574906687@g.us": 144
   },
   "botDisabled": {
@@ -16158,6 +16170,18 @@
         "text": "somos dois então nada pra fazer",
         "pushName": "Luis Felipe",
         "timestamp": 1788800744892
+      },
+      "AC70E7E5E80A9AE8D7C75C50BA63B15F": {
+        "sender": "264308512522409@lid",
+        "text": "Tem um lote aqui do lado pra capinar 🤣🤣",
+        "pushName": "Henrique Contri 🤫",
+        "timestamp": 1788800773231
+      },
+      "AC817E22078160AB5479ECA10A3E67A4": {
+        "sender": "264308512522409@lid",
+        "text": "Acaba rapidinho com o tédio kk",
+        "pushName": "Henrique Contri 🤫",
+        "timestamp": 1788800782960
       }
     },
     "120363426574906687@g.us": {
@@ -16888,7 +16912,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788800744891,
+    "120363023757382018@g.us": 1788800782960,
     "120363426574906687@g.us": 1788800679780
   },
   "autoAnimSent": {
