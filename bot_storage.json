@@ -5038,6 +5038,11 @@
         "text": 1,
         "media": 0,
         "total": 1
+      },
+      "264596443111591": {
+        "text": 1,
+        "media": 0,
+        "total": 1
       }
     },
     "120363426574906687@g.us": {
@@ -5914,7 +5919,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Cristian Sntss: Bem vindo",
         ": bom dia satisfação Lucas tenho 28 ano sou do rio de janeiro sou hétero",
         "Cristian Sntss: Produtor ?",
         "IRINEU FREITAS 🫥🤪: ?",
@@ -6413,7 +6417,8 @@
         "Lucas Henrique: Obrigado ☺️",
         "John 😎: Boa tarde, pessoal!",
         "Heloisa: Boa tarde a todos e todas",
-        "😃: Eu"
+        "😃: Eu",
+        "Lucas Leonardo: Bom dia"
       ]
     },
     "120363426574906687@g.us": {
@@ -6571,18 +6576,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "152274357751809",
-        "authorName": "Heloisa",
-        "text": "Pior que o problema não é nem a invasão ensi o problema é o que fazem após",
-        "timestamp": 1788793283250
-      },
-      {
-        "authorNum": "43684162711698",
-        "authorName": "Jacke França",
-        "text": "Bosta",
-        "timestamp": 1788793289125
-      },
       {
         "authorNum": "152274357751809",
         "authorName": "Heloisa",
@@ -7458,6 +7451,12 @@
         "authorName": "😃",
         "text": "Eu",
         "timestamp": 1788795081742
+      },
+      {
+        "authorNum": "264596443111591",
+        "authorName": "Lucas Leonardo",
+        "text": "Bom dia",
+        "timestamp": 1788795091956
       }
     ],
     "120363426574906687@g.us": [
@@ -7489,7 +7488,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 49,
-    "120363023757382018@g.us": 1234,
+    "120363023757382018@g.us": 1235,
     "120363426574906687@g.us": 91
   },
   "botDisabled": {
@@ -13148,6 +13147,12 @@
         "text": "Eu",
         "pushName": "😃",
         "timestamp": 1788795081742
+      },
+      "AC101C95FC754C01462E4D41AE47C6BA": {
+        "sender": "264596443111591@lid",
+        "text": "Bom dia",
+        "pushName": "Lucas Leonardo",
+        "timestamp": 1788795091956
       }
     },
     "120363426574906687@g.us": {
@@ -13557,7 +13562,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788794665827,
-    "120363023757382018@g.us": 1788795085274,
+    "120363023757382018@g.us": 1788795091956,
     "120363426574906687@g.us": 1788794708224
   },
   "autoAnimSent": {
