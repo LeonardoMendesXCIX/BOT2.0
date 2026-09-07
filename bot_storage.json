@@ -4759,9 +4759,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 34,
+        "text": 35,
         "media": 0,
-        "total": 34
+        "total": 35
       },
       "89305909317735": {
         "text": 1,
@@ -5732,7 +5732,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "jaciara: Incernooo",
         "Leandro: !megafone bom dia a todos! É com muita satisfação que informamos que a @92629643563147 foi promovida ao time dos adms, seja muito bem vinda a gerencia Camila!",
         "Cristian Sntss: Me fala quem e",
         "Leandro: Vou dar um reset no bot",
@@ -6231,7 +6230,8 @@
         "Thawan: Ok",
         "Heloisa: Sim",
         "Cristian Sntss: Tem que ser assim",
-        "Cristian Sntss: 🫡"
+        "Cristian Sntss: 🫡",
+        "Heloisa: Ele é gente boa e educado"
       ]
     },
     "120363426574906687@g.us": {
@@ -6338,12 +6338,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "152274357751809",
-        "authorName": "Heloisa",
-        "text": "Verdade",
-        "timestamp": 1788790354922
-      },
       {
         "authorNum": "152274357751809",
         "authorName": "Heloisa",
@@ -6931,6 +6925,12 @@
         "authorName": "Cristian Sntss",
         "text": "🫡",
         "timestamp": 1788792147110
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Ele é gente boa e educado",
+        "timestamp": 1788792157476
       }
     ],
     "120363426574906687@g.us": [
@@ -7100,7 +7100,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 973,
+    "120363023757382018@g.us": 974,
     "120363426574906687@g.us": 83
   },
   "botDisabled": {
@@ -11127,6 +11127,12 @@
         "text": "🫡",
         "pushName": "Cristian Sntss",
         "timestamp": 1788792147110
+      },
+      "AC4036F82091F4697A1272F567D8FE67": {
+        "sender": "152274357751809@lid",
+        "text": "Ele é gente boa e educado",
+        "pushName": "Heloisa",
+        "timestamp": 1788792157476
       }
     },
     "120363426574906687@g.us": {
@@ -11488,7 +11494,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788792147110,
+    "120363023757382018@g.us": 1788792157476,
     "120363426574906687@g.us": 1788791178144
   },
   "autoAnimSent": {
