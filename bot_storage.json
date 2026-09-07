@@ -4527,9 +4527,9 @@
         "total": 297
       },
       "129373172711439": {
-        "text": 121,
-        "media": 31,
-        "total": 152
+        "text": 122,
+        "media": 32,
+        "total": 154
       },
       "138306604032063": {
         "text": 11,
@@ -4558,8 +4558,8 @@
       },
       "262182034002040": {
         "text": 97,
-        "media": 9,
-        "total": 106
+        "media": 10,
+        "total": 107
       },
       "199733712785531": {
         "text": 4,
@@ -4573,8 +4573,8 @@
       },
       "92629643563147": {
         "text": 277,
-        "media": 158,
-        "total": 435
+        "media": 160,
+        "total": 437
       },
       "559984624669": {
         "text": 4,
@@ -5337,9 +5337,9 @@
         "total": 7
       },
       "79728216113177": {
-        "text": 83,
-        "media": 42,
-        "total": 125
+        "text": 85,
+        "media": 44,
+        "total": 129
       },
       "108147461074988": {
         "text": 1,
@@ -6257,9 +6257,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Saul: Oque houve?",
-        "Cristian Sntss: Nem eu consegui acomp",
-        "👻🤑: E cadê o link",
         "Camila Designer: Eu apareci 🤣🤣🤣",
         "Cristian Sntss: Acesse este link para entrar no meu grupo do WhatsApp: https://chat.whatsapp.com/D17jqByCGTaK66gLbeVao3?s=sw&p=a&mlu=4&ilr=4",
         "Cristian Sntss: Só abre a noite",
@@ -6756,7 +6753,10 @@
         "Camila Designer: Não ter chulé",
         "Kaio Mendes: Tênis Pé",
         "Dany: Será? HAHHAHAHHA",
-        "Dany: Roubei a figurinha"
+        "Dany: Roubei a figurinha",
+        "Kaio Mendes: Atacante",
+        "Celiete Souza: Cheguei",
+        "Kaio Mendes: Conversa via figurinha"
       ]
     },
     "120363426574906687@g.us": {
@@ -6980,30 +6980,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Só um milagre mesmo",
-        "timestamp": 1788816634790
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Muito obrigado!",
-        "timestamp": 1788816652327
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "!todos",
-        "timestamp": 1788816663455
-      },
-      {
-        "authorNum": "79728216113177",
-        "authorName": "Kaio Mendes",
-        "text": "Os peixes tão atrás da mula sem cabeça",
-        "timestamp": 1788816674749
-      },
       {
         "authorNum": "262182034002040",
         "authorName": "Dany",
@@ -8065,6 +8041,24 @@
         "authorName": "Dany",
         "text": "Roubei a figurinha",
         "timestamp": 1788818428600
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "Atacante",
+        "timestamp": 1788818461111
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Cheguei",
+        "timestamp": 1788818475284
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "Conversa via figurinha",
+        "timestamp": 1788818484520
       }
     ],
     "120363426574906687@g.us": []
@@ -8089,7 +8083,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2990,
+    "120363023757382018@g.us": 2993,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -24477,6 +24471,24 @@
         "text": "Roubei a figurinha",
         "pushName": "Dany",
         "timestamp": 1788818428600
+      },
+      "AC1498E01D9E97289AB9B2698D92A73B": {
+        "sender": "79728216113177@lid",
+        "text": "Atacante",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788818461111
+      },
+      "AC2362F0B23EEE7B59906BAF85D23774": {
+        "sender": "129373172711439@lid",
+        "text": "Cheguei",
+        "pushName": "Celiete Souza",
+        "timestamp": 1788818475284
+      },
+      "AC2E5F2221693AE00F7E470875EEE6C1": {
+        "sender": "79728216113177@lid",
+        "text": "Conversa via figurinha",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788818484520
       }
     },
     "120363426574906687@g.us": {
@@ -25423,7 +25435,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788818428600,
+    "120363023757382018@g.us": 1788818488507,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
