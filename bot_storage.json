@@ -4522,9 +4522,9 @@
         "total": 422
       },
       "53537388122141": {
-        "text": 226,
+        "text": 228,
         "media": 26,
-        "total": 252
+        "total": 254
       },
       "129373172711439": {
         "text": 121,
@@ -5337,9 +5337,9 @@
         "total": 7
       },
       "79728216113177": {
-        "text": 61,
+        "text": 62,
         "media": 30,
-        "total": 91
+        "total": 92
       }
     },
     "120363426574906687@g.us": {
@@ -6249,9 +6249,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Gleydson Souza: Perigosa demais 🤣🤣🤣",
-        "Saul: No cabaré eu volto",
-        "Gabi 💋: Aguardo",
         "Saul: Tchau obrigado",
         "Celiete Souza: Genteeeeee vcs me botam em cada uma",
         "Camila Designer: Oi @163530946961491",
@@ -6748,7 +6745,10 @@
         "P: Eu só penso Solteiro ou comprometido kkkkkk",
         "P: C de corno",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Eu???? Rica??? Uma pobi CLT da vida 😂",
-        "Kaio Mendes: As idéia"
+        "Kaio Mendes: As idéia",
+        "Kaio Mendes: E vc tem q idade agora?",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Diretora é o nome pro grupo",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: 23 anos"
       ]
     },
     "120363426574906687@g.us": {
@@ -6984,12 +6984,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Legal!",
-        "timestamp": 1788815066979
-      },
       {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
@@ -7679,6 +7673,24 @@
         "authorName": "Kaio Mendes",
         "text": "As idéia",
         "timestamp": 1788816859545
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "E vc tem q idade agora?",
+        "timestamp": 1788816883461
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Diretora é o nome pro grupo",
+        "timestamp": 1788816889822
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "23 anos",
+        "timestamp": 1788816893560
       }
     ],
     "120363426574906687@g.us": [
@@ -7710,7 +7722,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2833,
+    "120363023757382018@g.us": 2836,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -23139,6 +23151,24 @@
         "text": "As idéia",
         "pushName": "Kaio Mendes",
         "timestamp": 1788816859545
+      },
+      "ACCA6307BE9CCCD840DC4E9ADE327002": {
+        "sender": "79728216113177@lid",
+        "text": "E vc tem q idade agora?",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788816883462
+      },
+      "AC7ECD61E5BC8E9865FA50A1A16D74D1": {
+        "sender": "53537388122141@lid",
+        "text": "Diretora é o nome pro grupo",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788816889822
+      },
+      "AC4A096010A5E389F1A14B10BE9F20DC": {
+        "sender": "53537388122141@lid",
+        "text": "23 anos",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788816893560
       }
     },
     "120363426574906687@g.us": {
@@ -24085,7 +24115,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788816867988,
+    "120363023757382018@g.us": 1788816893560,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
