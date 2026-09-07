@@ -4517,14 +4517,14 @@
         "total": 210
       },
       "166452229341300": {
-        "text": 324,
-        "media": 102,
-        "total": 426
+        "text": 326,
+        "media": 103,
+        "total": 429
       },
       "53537388122141": {
-        "text": 233,
+        "text": 235,
         "media": 30,
-        "total": 263
+        "total": 265
       },
       "129373172711439": {
         "text": 121,
@@ -6249,10 +6249,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "willian: Que bom, bem também ☺️",
-        "willian: Tu viu que não cai kkkk",
-        "Celiete Souza: Estou orgulhosa de você 🫵🏼",
-        "sorveteria: Cê tá doido o povo aqui e animado 😂",
         "Felippo: adm",
         "Felippo: mais um pra banir",
         "Felippo: mais um doente",
@@ -6748,7 +6744,11 @@
         "Kaio Mendes: Oloko",
         "Juliano Perlin: Peste🤣🤣🤣",
         "Juliano Perlin: Nao é que me removeram mesmo",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: @54259127210155 oiaaaa\nMe xingando pq tu removeu ele"
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: @54259127210155 oiaaaa\nMe xingando pq tu removeu ele",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Lógico",
+        "Cristian Sntss: 2,50🤡",
+        "Cristian Sntss: O cara não tem 2,50",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Meniiiino, ter nem 2,50 é pra acabar"
       ]
     },
     "120363426574906687@g.us": {
@@ -7745,6 +7745,30 @@
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "text": "@54259127210155 oiaaaa\nMe xingando pq tu removeu ele",
         "timestamp": 1788817318912
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Lógico",
+        "timestamp": 1788817322111
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "2,50🤡",
+        "timestamp": 1788817333055
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "O cara não tem 2,50",
+        "timestamp": 1788817344104
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Meniiiino, ter nem 2,50 é pra acabar",
+        "timestamp": 1788817345028
       }
     ],
     "120363426574906687@g.us": []
@@ -7769,7 +7793,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2849,
+    "120363023757382018@g.us": 2853,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -23294,6 +23318,30 @@
         "text": "@54259127210155 oiaaaa\nMe xingando pq tu removeu ele",
         "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "timestamp": 1788817318912
+      },
+      "AC999CD12B3207481EFB7BB27CED64BA": {
+        "sender": "53537388122141@lid",
+        "text": "Lógico",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788817322112
+      },
+      "A5DBE493EAF83D9BA7569836FB75510A": {
+        "sender": "166452229341300@lid",
+        "text": "2,50🤡",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788817333056
+      },
+      "A58315CCD9FCFDC449FEA7B129093DDE": {
+        "sender": "166452229341300@lid",
+        "text": "O cara não tem 2,50",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788817344104
+      },
+      "AC8D783E121BADF59ACB30BE1DCEC919": {
+        "sender": "53537388122141@lid",
+        "text": "Meniiiino, ter nem 2,50 é pra acabar",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788817345028
       }
     },
     "120363426574906687@g.us": {
@@ -24240,7 +24288,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788817318912,
+    "120363023757382018@g.us": 1788817349110,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
