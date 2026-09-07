@@ -4501,9 +4501,9 @@
         "total": 207
       },
       "53537388122141": {
-        "text": 121,
+        "text": 123,
         "media": 11,
-        "total": 132
+        "total": 134
       },
       "129373172711439": {
         "text": 27,
@@ -4591,9 +4591,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 120,
+        "text": 121,
         "media": 16,
-        "total": 136
+        "total": 137
       },
       "206966404210884": {
         "text": 2,
@@ -5992,9 +5992,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "JUNIOR: Muito bom!",
-        "Amaury: Kkkk",
-        "Amaury: Bora tomar um café ☕",
         "😎🇧🇷: Pode postar q tipo de conteúdo aki",
         "JUNIOR: ddd 84 é qual cidade?",
         "Amaury: Vixe kkk",
@@ -6491,7 +6488,10 @@
         "Juliano Perlin: @53537388122141 vem cà",
         "Daniel Santos: Boa tarde \nMeu nome é Daniel tenho 25 \nSou de São Paulo",
         "Francisco Silva: Tá certa",
-        "Juliano Perlin: Ta certa, tem q fazer isso mesmo"
+        "Juliano Perlin: Ta certa, tem q fazer isso mesmo",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: !antiflood off",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Pronto @247020967165997",
+        "Gabi 💋: Vou fazer meu almoço\nSeja bem vindos"
       ]
     },
     "120363426574906687@g.us": {
@@ -6667,24 +6667,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "!ban @177481067843810",
-        "timestamp": 1788794467924
-      },
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "Qual o número",
-        "timestamp": 1788794486055
-      },
-      {
-        "authorNum": "152274357751809",
-        "authorName": "Heloisa",
-        "text": "@115689322995949",
-        "timestamp": 1788794497191
-      },
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
@@ -7512,6 +7494,24 @@
         "authorName": "Juliano Perlin",
         "text": "Ta certa, tem q fazer isso mesmo",
         "timestamp": 1788796263427
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "!antiflood off",
+        "timestamp": 1788796289032
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Pronto @247020967165997",
+        "timestamp": 1788796296353
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Vou fazer meu almoço\nSeja bem vindos",
+        "timestamp": 1788796304331
       }
     ],
     "120363426574906687@g.us": [
@@ -7573,7 +7573,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1326,
+    "120363023757382018@g.us": 1329,
     "120363426574906687@g.us": 97
   },
   "botDisabled": {
@@ -7871,7 +7871,8 @@
   "antiflood": {
     "120363432018531082@g.us": true,
     "120363428464897153@g.us": true,
-    "120363409024805409@g.us": false
+    "120363409024805409@g.us": false,
+    "120363023757382018@g.us": false
   },
   "antinsfw": {
     "120363432018531082@g.us": true,
@@ -13826,6 +13827,24 @@
         "text": "Ta certa, tem q fazer isso mesmo",
         "pushName": "Juliano Perlin",
         "timestamp": 1788796263427
+      },
+      "AC473747C131A93CCA95E9D8B5845B1C": {
+        "sender": "53537388122141@lid",
+        "text": "!antiflood off",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788796289033
+      },
+      "AC9E458EA43862042593E5821135211C": {
+        "sender": "53537388122141@lid",
+        "text": "Pronto @247020967165997",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788796296353
+      },
+      "ACC620089CE7140B1183709570D4D78E": {
+        "sender": "247020967165997@lid",
+        "text": "Vou fazer meu almoço\nSeja bem vindos",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788796304331
       }
     },
     "120363426574906687@g.us": {
@@ -14274,7 +14293,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788796263427,
+    "120363023757382018@g.us": 1788796304331,
     "120363426574906687@g.us": 1788796260299
   },
   "autoAnimSent": {
@@ -14342,7 +14361,8 @@
       "antidelete": true
     },
     "120363023757382018@g.us": {
-      "antidelete": true
+      "antidelete": true,
+      "antiflood": true
     },
     "120363313059060675@g.us": {
       "antidelete": true
