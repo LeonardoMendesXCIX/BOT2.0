@@ -4517,9 +4517,9 @@
         "total": 207
       },
       "166452229341300": {
-        "text": 320,
-        "media": 98,
-        "total": 418
+        "text": 321,
+        "media": 99,
+        "total": 420
       },
       "53537388122141": {
         "text": 217,
@@ -4702,9 +4702,9 @@
         "total": 27
       },
       "118515428286715": {
-        "text": 101,
+        "text": 103,
         "media": 9,
-        "total": 110
+        "total": 112
       },
       "193729163993156": {
         "text": 2,
@@ -6249,9 +6249,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Saul: Kkkkk",
-        "Gabi 💋: Esse grupo vive animado",
-        "Saul: Hoje esse grupo tá animado",
         "Saul: Pq?",
         "Celiete Souza: Agora eu me perdi aqui kkkk",
         "Gleydson Souza: Feriado",
@@ -6748,7 +6745,10 @@
         "Kaio Mendes: Kskssks muito bom",
         "Camila Designer: Porque quer também!",
         "Kaio Mendes: Camila atacante",
-        "𝑳𝒂𝒚𝒉🌪🌚: 😹😹😹"
+        "𝑳𝒂𝒚𝒉🌪🌚: 😹😹😹",
+        "Cristian Sntss: Pobi das ADM",
+        "Saul: Ela é a rede e nós somos os peixes",
+        "Saul: Caiu na rede é vapo"
       ]
     },
     "120363426574906687@g.us": {
@@ -6984,18 +6984,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "81991328395336",
-        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
-        "text": "Assim",
-        "timestamp": 1788814732133
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
-        "text": "Gente o sorveteria saiu",
-        "timestamp": 1788814732638
-      },
       {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
@@ -7499,6 +7487,24 @@
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
         "text": "😹😹😹",
         "timestamp": 1788816508651
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Pobi das ADM",
+        "timestamp": 1788816529079
+      },
+      {
+        "authorNum": "118515428286715",
+        "authorName": "Saul",
+        "text": "Ela é a rede e nós somos os peixes",
+        "timestamp": 1788816537712
+      },
+      {
+        "authorNum": "118515428286715",
+        "authorName": "Saul",
+        "text": "Caiu na rede é vapo",
+        "timestamp": 1788816549225
       }
     ],
     "120363426574906687@g.us": [
@@ -7530,7 +7536,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2798,
+    "120363023757382018@g.us": 2801,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -22749,6 +22755,24 @@
         "text": "😹😹😹",
         "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
         "timestamp": 1788816508651
+      },
+      "A531E518C17EE0FC09EA6956FE5CBFE4": {
+        "sender": "166452229341300@lid",
+        "text": "Pobi das ADM",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788816529079
+      },
+      "3A85310692FCEDF878C7": {
+        "sender": "118515428286715@lid",
+        "text": "Ela é a rede e nós somos os peixes",
+        "pushName": "Saul",
+        "timestamp": 1788816537712
+      },
+      "3A4C6EAB6C90502011FF": {
+        "sender": "118515428286715@lid",
+        "text": "Caiu na rede é vapo",
+        "pushName": "Saul",
+        "timestamp": 1788816549226
       }
     },
     "120363426574906687@g.us": {
@@ -23695,7 +23719,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788816508651,
+    "120363023757382018@g.us": 1788816549225,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
