@@ -4547,9 +4547,9 @@
         "total": 17
       },
       "262182034002040": {
-        "text": 60,
+        "text": 61,
         "media": 6,
-        "total": 66
+        "total": 67
       },
       "199733712785531": {
         "text": 4,
@@ -4712,9 +4712,9 @@
         "total": 4
       },
       "128145298608376": {
-        "text": 33,
+        "text": 34,
         "media": 3,
-        "total": 36
+        "total": 37
       },
       "193733257609270": {
         "text": 2,
@@ -4932,9 +4932,9 @@
         "total": 1
       },
       "36645315321925": {
-        "text": 24,
+        "text": 25,
         "media": 2,
-        "total": 26
+        "total": 27
       },
       "187845394358417": {
         "text": 1,
@@ -6214,9 +6214,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "jaciara: Óia o jeito",
-        "jaciara: Kkkkkk",
-        "Camila Designer: Falar até papagaio fala",
         "jaciara: Ela é maravilhosa",
         "Henrique Contri 🤫: Uma coisa tem nada a ver com a outra 🤣",
         "jaciara: Tudo tem haver",
@@ -6713,7 +6710,10 @@
         "Felippo: que foi bot",
         "Felippo: eu tô é bebo já",
         "Camila Designer: 😏😏😏",
-        "Leandro: 🌝"
+        "Leandro: 🌝",
+        "Dany: Uai… esse grupo vai fechar???",
+        "Felippo: quer vim não? me ajudar",
+        "solteiro: Oiii"
       ]
     },
     "120363426574906687@g.us": {
@@ -6967,24 +6967,6 @@
     ],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "@247020967165997 você gosta de coroa 😅",
-        "timestamp": 1788808753684
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Misericórdia",
-        "timestamp": 1788808770652
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Que não",
-        "timestamp": 1788808775419
-      },
       {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
@@ -7656,6 +7638,24 @@
         "authorName": "Leandro",
         "text": "🌝",
         "timestamp": 1788810548076
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Uai… esse grupo vai fechar???",
+        "timestamp": 1788810558545
+      },
+      {
+        "authorNum": "36645315321925",
+        "authorName": "Felippo",
+        "text": "quer vim não? me ajudar",
+        "timestamp": 1788810575348
+      },
+      {
+        "authorNum": "128145298608376",
+        "authorName": "solteiro",
+        "text": "Oiii",
+        "timestamp": 1788810579544
       }
     ],
     "120363426574906687@g.us": []
@@ -7680,7 +7680,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2512,
+    "120363023757382018@g.us": 2515,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -7869,7 +7869,9 @@
       "246729194639608@lid",
       "232924968419570@lid",
       "155503636275307@lid",
-      "128145298608376@lid"
+      "128145298608376@lid",
+      "171214744064197@lid",
+      "71644668272766@lid"
     ]
   },
   "promoSchedule": {},
@@ -21172,6 +21174,24 @@
         "text": "🌝",
         "pushName": "Leandro",
         "timestamp": 1788810548076
+      },
+      "3ADB26639FCEE7293D6E": {
+        "sender": "262182034002040@lid",
+        "text": "Uai… esse grupo vai fechar???",
+        "pushName": "Dany",
+        "timestamp": 1788810558545
+      },
+      "3AE8C449BB2AB36998B0": {
+        "sender": "36645315321925@lid",
+        "text": "quer vim não? me ajudar",
+        "pushName": "Felippo",
+        "timestamp": 1788810575348
+      },
+      "A5E4D13B7DDA4EEB12429374BD1C8AE9": {
+        "sender": "128145298608376@lid",
+        "text": "Oiii",
+        "pushName": "solteiro",
+        "timestamp": 1788810579544
       }
     },
     "120363426574906687@g.us": {
@@ -22112,7 +22132,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788810548076,
+    "120363023757382018@g.us": 1788810579544,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
