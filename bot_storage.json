@@ -4517,9 +4517,9 @@
         "total": 202
       },
       "166452229341300": {
-        "text": 305,
-        "media": 90,
-        "total": 395
+        "text": 306,
+        "media": 91,
+        "total": 397
       },
       "53537388122141": {
         "text": 189,
@@ -4702,9 +4702,9 @@
         "total": 27
       },
       "118515428286715": {
-        "text": 94,
-        "media": 6,
-        "total": 100
+        "text": 97,
+        "media": 7,
+        "total": 104
       },
       "193729163993156": {
         "text": 2,
@@ -5337,9 +5337,9 @@
         "total": 6
       },
       "79728216113177": {
-        "text": 19,
+        "text": 20,
         "media": 11,
-        "total": 30
+        "total": 31
       }
     },
     "120363426574906687@g.us": {
@@ -6244,10 +6244,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Camila Designer: Rsrsrs",
-        "Henrique Contri 🤫: Minha primeira vez aqui né tem que informar kk",
-        "👻🤑: Como entra",
-        "Henrique Contri 🤫: Se for normal salva quem quer kkkk",
         "~🥷🏽: Vai ter link para entrar",
         "Henrique Contri 🤫: Vou observar kk",
         "Camila Designer: Qual seu nome?",
@@ -6743,7 +6739,11 @@
         "Kaio Mendes: É pq acho que só pode etiqueta \"PV aberto\" e \"PV fechado\" aqui kkk",
         "Kaio Mendes: Só acho",
         "Victor: eu to vendo que vc só acha, mano",
-        "Kaio Mendes: Só acho"
+        "Kaio Mendes: Só acho",
+        "Saul: O cara perguntando se pode ver minhas veia",
+        "Saul: Ksksks",
+        "Saul: As ideias do energúmeno",
+        "Kaio Mendes: Alá"
       ]
     },
     "120363426574906687@g.us": {
@@ -6947,12 +6947,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "241261818728589",
-        "authorName": "sorveteria",
-        "text": "Isso quando às mulheres queria homens kkkkkk",
-        "timestamp": 1788812156043
-      },
       {
         "authorNum": "59623457439943",
         "authorName": "Victor",
@@ -7606,6 +7600,30 @@
         "authorName": "Kaio Mendes",
         "text": "Só acho",
         "timestamp": 1788813913978
+      },
+      {
+        "authorNum": "118515428286715",
+        "authorName": "Saul",
+        "text": "O cara perguntando se pode ver minhas veia",
+        "timestamp": 1788814010791
+      },
+      {
+        "authorNum": "118515428286715",
+        "authorName": "Saul",
+        "text": "Ksksks",
+        "timestamp": 1788814011484
+      },
+      {
+        "authorNum": "118515428286715",
+        "authorName": "Saul",
+        "text": "As ideias do energúmeno",
+        "timestamp": 1788814017560
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "Alá",
+        "timestamp": 1788814035454
       }
     ],
     "120363426574906687@g.us": []
@@ -7630,7 +7648,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2697,
+    "120363023757382018@g.us": 2701,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -22225,6 +22243,30 @@
         "text": "Só acho",
         "pushName": "Kaio Mendes",
         "timestamp": 1788813913978
+      },
+      "3AA14C98F38D5D622611": {
+        "sender": "118515428286715@lid",
+        "text": "O cara perguntando se pode ver minhas veia",
+        "pushName": "Saul",
+        "timestamp": 1788814010793
+      },
+      "3AAF88A23EB3BB3BC851": {
+        "sender": "118515428286715@lid",
+        "text": "Ksksks",
+        "pushName": "Saul",
+        "timestamp": 1788814011484
+      },
+      "3A90C4FA8AEAF2CECBCE": {
+        "sender": "118515428286715@lid",
+        "text": "As ideias do energúmeno",
+        "pushName": "Saul",
+        "timestamp": 1788814017560
+      },
+      "ACEC98D1EABC27F2CFE8A70C97426184": {
+        "sender": "79728216113177@lid",
+        "text": "Alá",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788814035454
       }
     },
     "120363426574906687@g.us": {
@@ -23165,7 +23207,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788813954679,
+    "120363023757382018@g.us": 1788814035454,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
