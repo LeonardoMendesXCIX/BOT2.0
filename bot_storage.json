@@ -4496,9 +4496,9 @@
         "total": 169
       },
       "166452229341300": {
-        "text": 167,
+        "text": 168,
         "media": 55,
-        "total": 222
+        "total": 223
       },
       "53537388122141": {
         "text": 127,
@@ -5131,9 +5131,9 @@
         "total": 2
       },
       "63505772359714": {
-        "text": 1,
+        "text": 2,
         "media": 0,
-        "total": 1
+        "total": 2
       },
       "186114153435195": {
         "text": 1,
@@ -6022,7 +6022,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "irlley gabryel: Não kkkk",
         "Cristian Sntss: Kkkkk",
         "Maron: Tb tô tomando banho aqui agora",
         "irlley gabryel: Nada e vc",
@@ -6521,7 +6520,8 @@
         "Cristian Sntss: O retrato",
         "Heloisa: Ele é sem noção",
         "Gabi 💋: Cara pegou nos duas pra Cristo",
-        "Gleison luiz: Tem bot, tô de boa valeu"
+        "Gleison luiz: Tem bot, tô de boa valeu",
+        "Cristian Sntss: !ban @247875514708064"
       ]
     },
     "120363426574906687@g.us": {
@@ -7447,6 +7447,12 @@
         "authorName": "Gleison luiz",
         "text": "Tem bot, tô de boa valeu",
         "timestamp": 1788796927398
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "!ban @247875514708064",
+        "timestamp": 1788796941046
       }
     ],
     "120363426574906687@g.us": [
@@ -7550,7 +7556,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1361,
+    "120363023757382018@g.us": 1362,
     "120363426574906687@g.us": 104
   },
   "botDisabled": {
@@ -14014,6 +14020,12 @@
         "text": "Tem bot, tô de boa valeu",
         "pushName": "Gleison luiz",
         "timestamp": 1788796927399
+      },
+      "A55B3F28B284F7C81CAD34B7C2D0EAD0": {
+        "sender": "166452229341300@lid",
+        "text": "!ban @247875514708064",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788796941046
       }
     },
     "120363426574906687@g.us": {
@@ -14504,7 +14516,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788796927398,
+    "120363023757382018@g.us": 1788796964465,
     "120363426574906687@g.us": 1788796664927
   },
   "autoAnimSent": {
