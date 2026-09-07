@@ -4557,9 +4557,9 @@
         "total": 35
       },
       "262182034002040": {
-        "text": 94,
+        "text": 95,
         "media": 9,
-        "total": 103
+        "total": 104
       },
       "199733712785531": {
         "text": 4,
@@ -5337,9 +5337,9 @@
         "total": 7
       },
       "79728216113177": {
-        "text": 82,
+        "text": 83,
         "media": 41,
-        "total": 123
+        "total": 124
       },
       "108147461074988": {
         "text": 1,
@@ -6257,8 +6257,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Saul: Hoje estão que estão em",
-        "Saul: Pqp",
         "Saul: 498+ mensagens",
         "Saul: Oque houve?",
         "Cristian Sntss: Nem eu consegui acomp",
@@ -6756,7 +6754,9 @@
         "Camila Designer: Ata",
         "Wellington: Oq vale que tá cheirosinha kkkk",
         "Camila Designer: Isso é verdade 🤣🤣🤣",
-        "Camila Designer: Não ter chulé"
+        "Camila Designer: Não ter chulé",
+        "Kaio Mendes: Tênis Pé",
+        "Dany: Será? HAHHAHAHHA"
       ]
     },
     "120363426574906687@g.us": {
@@ -6980,24 +6980,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "79728216113177",
-        "authorName": "Kaio Mendes",
-        "text": "Peixes de água salgada",
-        "timestamp": 1788816568195
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Os peixes estão espertos",
-        "timestamp": 1788816569709
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Difícil pescar viu",
-        "timestamp": 1788816581891
-      },
       {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
@@ -8089,6 +8071,18 @@
         "authorName": "Camila Designer",
         "text": "Não ter chulé",
         "timestamp": 1788818361892
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "Tênis Pé",
+        "timestamp": 1788818375928
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Será? HAHHAHAHHA",
+        "timestamp": 1788818396101
       }
     ],
     "120363426574906687@g.us": []
@@ -8113,7 +8107,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2987,
+    "120363023757382018@g.us": 2989,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -24483,6 +24477,18 @@
         "text": "Não ter chulé",
         "pushName": "Camila Designer",
         "timestamp": 1788818361892
+      },
+      "ACF00B67788D2D4A38287A8C21AB252D": {
+        "sender": "79728216113177@lid",
+        "text": "Tênis Pé",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788818375928
+      },
+      "3AFB728B3128917362F9": {
+        "sender": "262182034002040@lid",
+        "text": "Será? HAHHAHAHHA",
+        "pushName": "Dany",
+        "timestamp": 1788818396102
       }
     },
     "120363426574906687@g.us": {
@@ -25429,7 +25435,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788818361892,
+    "120363023757382018@g.us": 1788818396101,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
