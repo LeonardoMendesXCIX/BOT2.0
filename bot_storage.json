@@ -4487,9 +4487,9 @@
         "total": 5
       },
       "108461127897146": {
-        "text": 111,
+        "text": 112,
         "media": 33,
-        "total": 144
+        "total": 145
       },
       "5511927018683": {
         "text": 164,
@@ -4552,9 +4552,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 130,
-        "media": 76,
-        "total": 206
+        "text": 131,
+        "media": 77,
+        "total": 208
       },
       "559984624669": {
         "text": 4,
@@ -4592,9 +4592,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 213,
+        "text": 215,
         "media": 20,
-        "total": 233
+        "total": 235
       },
       "206966404210884": {
         "text": 2,
@@ -5077,9 +5077,9 @@
         "total": 7
       },
       "232924968419570": {
-        "text": 14,
+        "text": 15,
         "media": 3,
-        "total": 17
+        "total": 18
       },
       "102650456625285": {
         "text": 1,
@@ -6195,10 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Douglas🙏: Papo de quem pensa com as 2 cabeças 🔥🙈",
-        "No Foco .: Mulher q gosta de dinheiro PV",
-        "No Foco .: Rsrs",
-        "Márcio Bruxel: Obrigado",
         "𝑳𝒂𝒚𝒉🌪🌚: !ban @130043523133488",
         "𝑳𝒂𝒚𝒉🌪🌚: Esse foco tava oferecendo dinheiro por fotos",
         "Luis Felipe: Cada coisa em",
@@ -6694,7 +6690,11 @@
         "Saul: 70/80/20",
         "Camila Designer: Minha amiga mandou perguntar se gosta de mulheres mais velhas?",
         "Saul: Meu xará",
-        "Gabi 💋: Óia"
+        "Gabi 💋: Óia",
+        "Pedro🫰: Só carnívoras kkkk",
+        "jaciara: Minha amiga ia perguntar a mesma coisa",
+        "Gabi 💋: Ne",
+        "Camila Designer: Será que temos a mesma amiga?"
       ]
     },
     "120363426574906687@g.us": {
@@ -6895,12 +6895,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "36645315321925",
-        "authorName": "Felippo",
-        "text": "vamos ou bora?",
-        "timestamp": 1788803789831
-      },
       {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
@@ -7770,6 +7764,30 @@
         "authorName": "Gabi 💋",
         "text": "Óia",
         "timestamp": 1788805576409
+      },
+      {
+        "authorNum": "232924968419570",
+        "authorName": "Pedro🫰",
+        "text": "Só carnívoras kkkk",
+        "timestamp": 1788805578212
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Minha amiga ia perguntar a mesma coisa",
+        "timestamp": 1788805582252
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Ne",
+        "timestamp": 1788805589511
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Será que temos a mesma amiga?",
+        "timestamp": 1788805595454
       }
     ],
     "120363426574906687@g.us": [
@@ -7927,7 +7945,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2106,
+    "120363023757382018@g.us": 2110,
     "120363426574906687@g.us": 177
   },
   "botDisabled": {
@@ -18928,6 +18946,30 @@
         "text": "Óia",
         "pushName": "Gabi 💋",
         "timestamp": 1788805576410
+      },
+      "AC15629B253547F6CF9598016ACDB932": {
+        "sender": "232924968419570@lid",
+        "text": "Só carnívoras kkkk",
+        "pushName": "Pedro🫰",
+        "timestamp": 1788805578212
+      },
+      "ACF0AFF41ADF4849E1A4AC6F08B24708": {
+        "sender": "108461127897146@lid",
+        "text": "Minha amiga ia perguntar a mesma coisa",
+        "pushName": "jaciara",
+        "timestamp": 1788805582252
+      },
+      "ACED3BE2B4011BC033158F42E68A2643": {
+        "sender": "247020967165997@lid",
+        "text": "Ne",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788805589512
+      },
+      "2A7BC2FE8F11FBCC0D1D": {
+        "sender": "92629643563147@lid",
+        "text": "Será que temos a mesma amiga?",
+        "pushName": "Camila Designer",
+        "timestamp": 1788805595454
       }
     },
     "120363426574906687@g.us": {
@@ -19850,7 +19892,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788805576409,
+    "120363023757382018@g.us": 1788805601079,
     "120363426574906687@g.us": 1788805062631
   },
   "autoAnimSent": {
