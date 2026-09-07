@@ -6586,8 +6586,7 @@
       "127677231013951@lid",
       "183705196835007@lid",
       "171254069915890@lid",
-      "129111867580588@lid",
-      "101473014833362@lid"
+      "129111867580588@lid"
     ],
     "120363313059060675@g.us": [
       "168814025171012@lid"
@@ -7884,6 +7883,7 @@
   },
   "anonMsgs": [],
   "anonCounter": 1000,
+  "maintenance": true,
   "removalBlacklist": {
     "120363023757382018@g.us": [
       "45479878459474",
@@ -7911,7 +7911,6 @@
       "presented": false
     }
   ],
-  "maintenance": true,
   "pendingPresentations": [],
   "antighost": {
     "120363432018531082@g.us": true
