@@ -4477,9 +4477,9 @@
         "total": 34
       },
       "5511927018683": {
-        "text": 134,
+        "text": 135,
         "media": 10,
-        "total": 144
+        "total": 145
       },
       "166452229341300": {
         "text": 40,
@@ -13220,7 +13220,8 @@
         "🌷: mas eu acho que ela não eh fake não",
         "Victor: bom",
         "Victor: nunca saberemos..",
-        "Victor: mas e vc, vai se apresentar não?"
+        "Victor: mas e vc, vai se apresentar não?",
+        "Leandro: !ban"
       ]
     },
     "120363426574906687@g.us": {
@@ -13566,6 +13567,12 @@
         "authorName": "Victor",
         "text": "mas e vc, vai se apresentar não?",
         "timestamp": 1788756624106
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!ban",
+        "timestamp": 1788756750853
       }
     ],
     "120363426574906687@g.us": []
@@ -13590,7 +13597,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 33,
-    "120363023757382018@g.us": 353,
+    "120363023757382018@g.us": 354,
     "120363426574906687@g.us": 36
   },
   "botDisabled": {
@@ -34596,6 +34603,12 @@
         "text": "mas e vc, vai se apresentar não?",
         "pushName": "Victor",
         "timestamp": 1788756624106
+      },
+      "AC9C95F153C0DB32661B1B67924650BB": {
+        "sender": "54259127210155@lid",
+        "text": "!ban",
+        "pushName": "Leandro",
+        "timestamp": 1788756750853
       }
     },
     "120363426574906687@g.us": {
@@ -34903,7 +34916,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788755502872,
-    "120363023757382018@g.us": 1788756641195,
+    "120363023757382018@g.us": 1788756750853,
     "120363426574906687@g.us": 1788725639102
   },
   "autoAnimSent": {
