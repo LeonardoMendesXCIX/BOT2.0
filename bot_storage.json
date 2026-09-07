@@ -4499,9 +4499,9 @@
         "total": 182
       },
       "53537388122141": {
-        "text": 84,
+        "text": 85,
         "media": 10,
-        "total": 94
+        "total": 95
       },
       "129373172711439": {
         "text": 27,
@@ -4564,9 +4564,9 @@
         "total": 1
       },
       "182738040713418": {
-        "text": 2,
+        "text": 3,
         "media": 1,
-        "total": 3
+        "total": 4
       },
       "81991328395336": {
         "text": 66,
@@ -4764,9 +4764,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 68,
+        "text": 69,
         "media": 0,
-        "total": 68
+        "total": 69
       },
       "89305909317735": {
         "text": 1,
@@ -4899,9 +4899,9 @@
         "total": 2
       },
       "115036454424649": {
-        "text": 3,
+        "text": 4,
         "media": 1,
-        "total": 4
+        "total": 5
       },
       "271550062321894": {
         "text": 3,
@@ -4949,9 +4949,9 @@
         "total": 1
       },
       "105197019918407": {
-        "text": 9,
+        "text": 11,
         "media": 0,
-        "total": 9
+        "total": 11
       },
       "169157941317756": {
         "text": 1,
@@ -5835,12 +5835,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "jaciara: Maravilhosa",
-        "solteiro: Sim",
-        "jaciara: Gata",
-        "Amaury: Que isso trem",
-        "Gabi 💋: Bumbum",
-        "Gabi 💋: Pronto, agora quem mandou a mensagem responde se viu e se gostou",
         "xacinaluzqradiaoinferno71: q lugar de santo André?",
         "Gabi 💋: Responde pelo menos se gostou ksksks",
         "Amaury: Kkk",
@@ -6334,7 +6328,13 @@
         "Nalguda Ganesh: Videos videos",
         "Heloisa: Eu nem lembro se é aberto ou não",
         "Heloisa: Coloca pra o pessoal ser aprov5anres de entrar",
-        "Heloisa: Qualquer coisa"
+        "Heloisa: Qualquer coisa",
+        "Nalguda Ganesh: Videos videos",
+        "Nalguda Ganesh: Photos photos photo picture",
+        "Wellington: Boa tarde família 🫶🏽",
+        "Rodrígues: Sabrina só pode ficar número do Brasil??",
+        "Heloisa: Boa tarde",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Ah sim, estava ativo. Mas deixamos livre pois temos o nosso bot pra controlar\nEstão mexendo no bot no momento. Foi pedido pra deixar aberto por enquanto"
       ]
     },
     "120363426574906687@g.us": {
@@ -6497,24 +6497,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "Tem que ser assim",
-        "timestamp": 1788792143790
-      },
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "🫡",
-        "timestamp": 1788792147110
-      },
-      {
-        "authorNum": "152274357751809",
-        "authorName": "Heloisa",
-        "text": "Ele é gente boa e educado",
-        "timestamp": 1788792157476
-      },
       {
         "authorNum": "262912430080093",
         "authorName": "JUNIOR",
@@ -7504,6 +7486,42 @@
         "authorName": "Heloisa",
         "text": "Qualquer coisa",
         "timestamp": 1788793935074
+      },
+      {
+        "authorNum": "105197019918407",
+        "authorName": "Nalguda Ganesh",
+        "text": "Videos videos",
+        "timestamp": 1788793941947
+      },
+      {
+        "authorNum": "105197019918407",
+        "authorName": "Nalguda Ganesh",
+        "text": "Photos photos photo picture",
+        "timestamp": 1788793950727
+      },
+      {
+        "authorNum": "182738040713418",
+        "authorName": "Wellington",
+        "text": "Boa tarde família 🫶🏽",
+        "timestamp": 1788793958862
+      },
+      {
+        "authorNum": "115036454424649",
+        "authorName": "Rodrígues",
+        "text": "Sabrina só pode ficar número do Brasil??",
+        "timestamp": 1788793966722
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Boa tarde",
+        "timestamp": 1788793968703
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Ah sim, estava ativo. Mas deixamos livre pois temos o nosso bot pra controlar\nEstão mexendo no bot no momento. Foi pedido pra deixar aberto por enquanto",
+        "timestamp": 1788793973672
       }
     ],
     "120363426574906687@g.us": [
@@ -7571,7 +7589,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 46,
-    "120363023757382018@g.us": 1139,
+    "120363023757382018@g.us": 1145,
     "120363426574906687@g.us": 90
   },
   "botDisabled": {
@@ -12642,6 +12660,42 @@
         "text": "Qualquer coisa",
         "pushName": "Heloisa",
         "timestamp": 1788793935075
+      },
+      "AC0A09147E7E20BC4CAC9BE669FC9E3C": {
+        "sender": "105197019918407@lid",
+        "text": "Videos videos",
+        "pushName": "Nalguda Ganesh",
+        "timestamp": 1788793941947
+      },
+      "ACF5DC8D296CA03D50EE5399E5A14C0E": {
+        "sender": "105197019918407@lid",
+        "text": "Photos photos photo picture",
+        "pushName": "Nalguda Ganesh",
+        "timestamp": 1788793950727
+      },
+      "AC19B042E736C8246BBB11757CB582C5": {
+        "sender": "182738040713418@lid",
+        "text": "Boa tarde família 🫶🏽",
+        "pushName": "Wellington",
+        "timestamp": 1788793958863
+      },
+      "ACBF0648167AF8C7F7512C2C643C2C42": {
+        "sender": "115036454424649@lid",
+        "text": "Sabrina só pode ficar número do Brasil??",
+        "pushName": "Rodrígues",
+        "timestamp": 1788793966725
+      },
+      "AC112F027E153A02A90866FC16330EE3": {
+        "sender": "152274357751809@lid",
+        "text": "Boa tarde",
+        "pushName": "Heloisa",
+        "timestamp": 1788793968704
+      },
+      "ACF64EB09FED165B74D422EE4013A8B7": {
+        "sender": "53537388122141@lid",
+        "text": "Ah sim, estava ativo. Mas deixamos livre pois temos o nosso bot pra controlar\nEstão mexendo no bot no momento. Foi pedido pra deixar aberto por enquanto",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788793973672
       }
     },
     "120363426574906687@g.us": {
@@ -13045,7 +13099,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788793766720,
-    "120363023757382018@g.us": 1788793935074,
+    "120363023757382018@g.us": 1788793973672,
     "120363426574906687@g.us": 1788793079391
   },
   "autoAnimSent": {
