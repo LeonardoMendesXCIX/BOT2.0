@@ -4473,9 +4473,9 @@
         "total": 5
       },
       "108461127897146": {
-        "text": 58,
+        "text": 59,
         "media": 11,
-        "total": 69
+        "total": 70
       },
       "5511927018683": {
         "text": 148,
@@ -4484,8 +4484,8 @@
       },
       "166452229341300": {
         "text": 63,
-        "media": 33,
-        "total": 96
+        "media": 34,
+        "total": 97
       },
       "53537388122141": {
         "text": 37,
@@ -4563,9 +4563,9 @@
         "total": 55
       },
       "274384656834700": {
-        "text": 12,
+        "text": 13,
         "media": 4,
-        "total": 16
+        "total": 17
       },
       "111141304930334": {
         "text": 1,
@@ -4579,8 +4579,8 @@
       },
       "247020967165997": {
         "text": 45,
-        "media": 3,
-        "total": 48
+        "media": 4,
+        "total": 49
       },
       "206966404210884": {
         "text": 2,
@@ -4678,9 +4678,9 @@
         "total": 2
       },
       "59645049761949": {
-        "text": 6,
+        "text": 8,
         "media": 0,
-        "total": 6
+        "total": 8
       }
     },
     "120363426574906687@g.us": {
@@ -5847,7 +5847,11 @@
         "Gabi 💋: Dormir",
         "Gabi 💋: Kkjk",
         "Amaury: Kkkkk",
-        "Gabi 💋: Olha o tamanho da mão do baiano"
+        "Gabi 💋: Olha o tamanho da mão do baiano",
+        "jaciara: Dormi igual não durmo a meses kkkkkkk",
+        "Amaury: Kk",
+        "Gleydson Souza: Bom deixa eu ir trabalhar um pouco tenho encomenda pra fazer kkkk depois mando o resultado pra vcs aqui, vou fazer brigadeiro e beijinho de colher.",
+        "Amaury: Nem vou falar nada kkk"
       ]
     },
     "120363426574906687@g.us": {
@@ -6072,6 +6076,30 @@
         "authorName": "Gabi 💋",
         "text": "Olha o tamanho da mão do baiano",
         "timestamp": 1788787212632
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Dormi igual não durmo a meses kkkkkkk",
+        "timestamp": 1788787217676
+      },
+      {
+        "authorNum": "59645049761949",
+        "authorName": "Amaury",
+        "text": "Kk",
+        "timestamp": 1788787226762
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Bom deixa eu ir trabalhar um pouco tenho encomenda pra fazer kkkk depois mando o resultado pra vcs aqui, vou fazer brigadeiro e beijinho de colher.",
+        "timestamp": 1788787236979
+      },
+      {
+        "authorNum": "59645049761949",
+        "authorName": "Amaury",
+        "text": "Nem vou falar nada kkk",
+        "timestamp": 1788787238709
       }
     ],
     "120363426574906687@g.us": []
@@ -6096,7 +6124,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 33,
-    "120363023757382018@g.us": 543,
+    "120363023757382018@g.us": 547,
     "120363426574906687@g.us": 36
   },
   "botDisabled": {
@@ -7539,6 +7567,30 @@
         "text": "Olha o tamanho da mão do baiano",
         "pushName": "Gabi 💋",
         "timestamp": 1788787212632
+      },
+      "AC0F0ECD445B16CB739ADD7E285F1854": {
+        "sender": "108461127897146@lid",
+        "text": "Dormi igual não durmo a meses kkkkkkk",
+        "pushName": "jaciara",
+        "timestamp": 1788787217676
+      },
+      "ACCBAFA493A9115D34E282F6FF126CAF": {
+        "sender": "59645049761949@lid",
+        "text": "Kk",
+        "pushName": "Amaury",
+        "timestamp": 1788787226762
+      },
+      "AC6DF451E711BDE345067FD418754C42": {
+        "sender": "274384656834700@lid",
+        "text": "Bom deixa eu ir trabalhar um pouco tenho encomenda pra fazer kkkk depois mando o resultado pra vcs aqui, vou fazer brigadeiro e beijinho de colher.",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1788787236980
+      },
+      "AC764BB3B9D9745DE63784F9401C23E6": {
+        "sender": "59645049761949@lid",
+        "text": "Nem vou falar nada kkk",
+        "pushName": "Amaury",
+        "timestamp": 1788787238709
       }
     },
     "120363426574906687@g.us": {}
@@ -7635,7 +7687,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788755502872,
-    "120363023757382018@g.us": 1788787212632,
+    "120363023757382018@g.us": 1788787238709,
     "120363426574906687@g.us": 1788725639102
   },
   "autoAnimSent": {
