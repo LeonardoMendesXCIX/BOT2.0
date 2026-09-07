@@ -4482,9 +4482,9 @@
         "total": 121
       },
       "166452229341300": {
-        "text": 38,
+        "text": 39,
         "media": 20,
-        "total": 58
+        "total": 59
       },
       "53537388122141": {
         "text": 25,
@@ -13155,7 +13155,8 @@
         "Leandro: !status",
         "Leandro: !del",
         "Leandro: !del",
-        "Cristian Sntss: Toma boldo"
+        "Cristian Sntss: Toma boldo",
+        "Cristian Sntss: Bem vindooo"
       ]
     },
     "120363426574906687@g.us": {
@@ -13296,6 +13297,12 @@
         "authorName": "Cristian Sntss",
         "text": "Toma boldo",
         "timestamp": 1788753577612
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Bem vindooo",
+        "timestamp": 1788753956346
       }
     ],
     "120363426574906687@g.us": []
@@ -13320,7 +13327,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 28,
-    "120363023757382018@g.us": 306,
+    "120363023757382018@g.us": 307,
     "120363426574906687@g.us": 36
   },
   "botDisabled": {
@@ -34018,6 +34025,12 @@
         "text": "Toma boldo",
         "pushName": "Cristian Sntss",
         "timestamp": 1788753577612
+      },
+      "A5A181943DC1286A1036EFA52633482F": {
+        "sender": "166452229341300@lid",
+        "text": "Bem vindooo",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788753956346
       }
     },
     "120363426574906687@g.us": {
@@ -34325,7 +34338,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788731471492,
-    "120363023757382018@g.us": 1788753841565,
+    "120363023757382018@g.us": 1788753956345,
     "120363426574906687@g.us": 1788725639102
   },
   "autoAnimSent": {
