@@ -4496,9 +4496,9 @@
         "total": 169
       },
       "166452229341300": {
-        "text": 165,
-        "media": 54,
-        "total": 219
+        "text": 167,
+        "media": 55,
+        "total": 222
       },
       "53537388122141": {
         "text": 127,
@@ -4591,9 +4591,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 121,
+        "text": 122,
         "media": 16,
-        "total": 137
+        "total": 138
       },
       "206966404210884": {
         "text": 2,
@@ -5123,6 +5123,11 @@
       "118687143096431": {
         "text": 0,
         "media": 1,
+        "total": 1
+      },
+      "181608581746722": {
+        "text": 1,
+        "media": 0,
         "total": 1
       }
     },
@@ -6007,10 +6012,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Amaury: Eu tou dando comida pra minha onça",
-        "Cristian Sntss: Só deitado na rede curtindo o feriado",
-        "Amaury: 🫣",
-        "Heloisa: Também estou deitada",
         "Amaury: Alimentando minha onça",
         "Heloisa: Um pouco de tédio",
         "Cristian Sntss: Aqui vai ser feriado hoje e amanhã",
@@ -6506,7 +6507,11 @@
         "Juliano Perlin: Viu vai no pv",
         "Cristian Sntss: Se apresente",
         "Rafaell: Alguém de Maceió",
-        "Cristian Sntss: Povos e povas"
+        "Cristian Sntss: Povos e povas",
+        "Gabi 💋: Tá bom pode trazer",
+        "Cristian Sntss: Bora conversar",
+        "🇧🇼 André Lyon  🏁: Nome;: André\nIdade : 42 \nCidade: BH\nPV: Liberado \nSexualidade: Bissexual",
+        "Cristian Sntss: O retrato"
       ]
     },
     "120363426574906687@g.us": {
@@ -6677,24 +6682,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "207610548584554",
-        "authorName": "Jaime",
-        "text": "Boa tarde a todos e a todas as mulheres bonitas",
-        "timestamp": 1788795046843
-      },
-      {
-        "authorNum": "236936300122174",
-        "authorName": "Lucas Henrique",
-        "text": "Obrigado ☺️",
-        "timestamp": 1788795051328
-      },
-      {
-        "authorNum": "219911083266163",
-        "authorName": "John 😎",
-        "text": "Boa tarde, pessoal!",
-        "timestamp": 1788795063982
-      },
       {
         "authorNum": "152274357751809",
         "authorName": "Heloisa",
@@ -7426,6 +7413,30 @@
         "authorName": "Cristian Sntss",
         "text": "Povos e povas",
         "timestamp": 1788796845096
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Tá bom pode trazer",
+        "timestamp": 1788796846936
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Bora conversar",
+        "timestamp": 1788796854799
+      },
+      {
+        "authorNum": "181608581746722",
+        "authorName": "🇧🇼 André Lyon  🏁",
+        "text": "Nome;: André\nIdade : 42 \nCidade: BH\nPV: Liberado \nSexualidade: Bissexual",
+        "timestamp": 1788796861621
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "O retrato",
+        "timestamp": 1788796870743
       }
     ],
     "120363426574906687@g.us": [
@@ -7529,7 +7540,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1354,
+    "120363023757382018@g.us": 1358,
     "120363426574906687@g.us": 104
   },
   "botDisabled": {
@@ -13951,6 +13962,30 @@
         "text": "Povos e povas",
         "pushName": "Cristian Sntss",
         "timestamp": 1788796845096
+      },
+      "ACACAB5A5378C742485F2CE14BEA66EC": {
+        "sender": "247020967165997@lid",
+        "text": "Tá bom pode trazer",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788796846936
+      },
+      "A5D8DC10FF55AF136A407DBD81F8664E": {
+        "sender": "166452229341300@lid",
+        "text": "Bora conversar",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788796854799
+      },
+      "AC00537C185D39E80C9371F8727B43A5": {
+        "sender": "181608581746722@lid",
+        "text": "Nome;: André\nIdade : 42 \nCidade: BH\nPV: Liberado \nSexualidade: Bissexual",
+        "pushName": "🇧🇼 André Lyon  🏁",
+        "timestamp": 1788796861621
+      },
+      "A511103BB5EB3DC2199711C1E44A56F6": {
+        "sender": "166452229341300@lid",
+        "text": "O retrato",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788796870743
       }
     },
     "120363426574906687@g.us": {
@@ -14441,7 +14476,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788796845096,
+    "120363023757382018@g.us": 1788796870743,
     "120363426574906687@g.us": 1788796664927
   },
   "autoAnimSent": {
