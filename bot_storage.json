@@ -5217,9 +5217,9 @@
         "total": 1
       },
       "136296492200083": {
-        "text": 1,
+        "text": 2,
         "media": 1,
-        "total": 2
+        "total": 3
       },
       "252342414905454": {
         "text": 3,
@@ -5227,6 +5227,16 @@
         "total": 3
       },
       "118528279593092": {
+        "text": 1,
+        "media": 0,
+        "total": 1
+      },
+      "183137506173038": {
+        "text": 2,
+        "media": 0,
+        "total": 2
+      },
+      "241261818728589": {
         "text": 1,
         "media": 0,
         "total": 1
@@ -6113,10 +6123,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Heloisa: Então vc sabe pq não te respondo no PV kk",
-        "K: Prazer pyetro, idade 18y",
-        "Heloisa: Bem vindo",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: De menor",
         "Thawan: Desbloqueia lá pra continuar a conversa bb",
         "Heloisa: Não",
         "K: Obg",
@@ -6612,7 +6618,11 @@
         "𝕰𝖛𝖆𝖓𝖉𝖗𝖔 𝕬𝖑𝖛𝖊𝖘: Boa tarde \n\nMe chamo Evandro, tenho 37 anos e sou de João pessoa PB  hétero",
         "Heloisa: Bem vindo",
         "𝑳𝒂𝒚𝒉🌪🌚: Bem vindooo",
-        "𝑳𝒂𝒚𝒉🌪🌚: Foto"
+        "𝑳𝒂𝒚𝒉🌪🌚: Foto",
+        "Luis Felipe: Vlw",
+        "Luis carlos: Oii",
+        "sorveteria: Olá",
+        "Luis carlos: Fala"
       ]
     },
     "120363426574906687@g.us": {
@@ -6740,12 +6750,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "🫡",
-        "timestamp": 1788796628659
-      },
       {
         "authorNum": "118687143096431",
         "authorName": "Josias jesus dos Santos",
@@ -7615,6 +7619,30 @@
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
         "text": "Foto",
         "timestamp": 1788798396110
+      },
+      {
+        "authorNum": "136296492200083",
+        "authorName": "Luis Felipe",
+        "text": "Vlw",
+        "timestamp": 1788798416131
+      },
+      {
+        "authorNum": "183137506173038",
+        "authorName": "Luis carlos",
+        "text": "Oii",
+        "timestamp": 1788798424748
+      },
+      {
+        "authorNum": "241261818728589",
+        "authorName": "sorveteria",
+        "text": "Olá",
+        "timestamp": 1788798430263
+      },
+      {
+        "authorNum": "183137506173038",
+        "authorName": "Luis carlos",
+        "text": "Fala",
+        "timestamp": 1788798430896
       }
     ],
     "120363426574906687@g.us": [
@@ -7676,7 +7704,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1493,
+    "120363023757382018@g.us": 1497,
     "120363426574906687@g.us": 104
   },
   "botDisabled": {
@@ -14932,6 +14960,30 @@
         "text": "Foto",
         "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
         "timestamp": 1788798396110
+      },
+      "3ABA41595DD61FF15BC4": {
+        "sender": "136296492200083@lid",
+        "text": "Vlw",
+        "pushName": "Luis Felipe",
+        "timestamp": 1788798416131
+      },
+      "AC6A653D6AD9786C3F05F7EBDE2454A7": {
+        "sender": "183137506173038@lid",
+        "text": "Oii",
+        "pushName": "Luis carlos",
+        "timestamp": 1788798424748
+      },
+      "A50AF4840FE1A3003A76266AA9E002F2": {
+        "sender": "241261818728589@lid",
+        "text": "Olá",
+        "pushName": "sorveteria",
+        "timestamp": 1788798430263
+      },
+      "AC65C056109998EC9115E4D46B63542B": {
+        "sender": "183137506173038@lid",
+        "text": "Fala",
+        "pushName": "Luis carlos",
+        "timestamp": 1788798430896
       }
     },
     "120363426574906687@g.us": {
@@ -15422,7 +15474,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788798396110,
+    "120363023757382018@g.us": 1788798430896,
     "120363426574906687@g.us": 1788798298976
   },
   "autoAnimSent": {
