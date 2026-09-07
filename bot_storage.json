@@ -4492,9 +4492,9 @@
         "total": 195
       },
       "5511927018683": {
-        "text": 164,
+        "text": 167,
         "media": 12,
-        "total": 176
+        "total": 179
       },
       "166452229341300": {
         "text": 282,
@@ -4507,9 +4507,9 @@
         "total": 167
       },
       "129373172711439": {
-        "text": 115,
+        "text": 116,
         "media": 30,
-        "total": 145
+        "total": 146
       },
       "138306604032063": {
         "text": 11,
@@ -6197,10 +6197,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Camila Designer: Acho que sim",
-        "Gleydson Souza: Já",
-        "Gabi 💋: Aguardo a noite a foto da pinça",
-        "𝕰𝖛𝖆𝖓𝖉𝖗𝖔 𝕬𝖑𝖛𝖊𝖘: Vish mensagem q só a gota me perdi kkk👀",
         "Camila Designer: Não recordo, foram muitos 🤣🤣🤣",
         "Henrique Contri 🤫: As Muié tá fraca mesmo kkk",
         "Felippo: depois lhe amostro kkkkk",
@@ -6696,7 +6692,11 @@
         "Camila Designer: *Link do Kabaré povo*",
         "Cristian Sntss: @all",
         "Gleydson Souza: @todos",
-        "Wellington: Triste realidade"
+        "Wellington: Triste realidade",
+        "Leandro: !status",
+        "Leandro: !del",
+        "Celiete Souza: Aqui tá um friozão",
+        "Leandro: !del"
       ]
     },
     "120363426574906687@g.us": {
@@ -6907,42 +6907,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Pessoal, vamos atentar ao que enviamos!",
-        "timestamp": 1788808335503
-      },
-      {
-        "authorNum": "36645315321925",
-        "authorName": "Felippo",
-        "text": "linda, sabe muito",
-        "timestamp": 1788808339462
-      },
-      {
-        "authorNum": "274384656834700",
-        "authorName": "Gleydson Souza",
-        "text": "Vish ja n vai pro kbaré kkkk",
-        "timestamp": 1788808345791
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Ele não mandou errado, ele me marcou",
-        "timestamp": 1788808349630
-      },
-      {
-        "authorNum": "36645315321925",
-        "authorName": "Felippo",
-        "text": "eu disse, mandou e marcou",
-        "timestamp": 1788808364165
-      },
-      {
-        "authorNum": "36645315321925",
-        "authorName": "Felippo",
-        "text": "vagabundo",
-        "timestamp": 1788808371531
-      },
       {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
@@ -7722,6 +7686,30 @@
         "authorName": "Wellington",
         "text": "Triste realidade",
         "timestamp": 1788810131359
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!status",
+        "timestamp": 1788810170255
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!del",
+        "timestamp": 1788810175872
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Aqui tá um friozão",
+        "timestamp": 1788810179501
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!del",
+        "timestamp": 1788810180874
       }
     ],
     "120363426574906687@g.us": []
@@ -7746,7 +7734,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2500,
+    "120363023757382018@g.us": 2504,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -7930,7 +7918,11 @@
     ],
     "120363313059060675@g.us": [
       "168814025171012@lid",
-      "262912430080093@lid"
+      "262912430080093@lid",
+      "182738040713418@lid",
+      "246729194639608@lid",
+      "232924968419570@lid",
+      "155503636275307@lid"
     ]
   },
   "promoSchedule": {},
@@ -21118,6 +21110,30 @@
         "text": "Triste realidade",
         "pushName": "Wellington",
         "timestamp": 1788810131359
+      },
+      "AC29756342E3DBC25F44A7B75A90F1B4": {
+        "sender": "54259127210155@lid",
+        "text": "!status",
+        "pushName": "Leandro",
+        "timestamp": 1788810170256
+      },
+      "AC03470958DF1F82E37117D74C2941C2": {
+        "sender": "54259127210155@lid",
+        "text": "!del",
+        "pushName": "Leandro",
+        "timestamp": 1788810175872
+      },
+      "AC18ECB65BF429F3BB93EFA77EA1C1CA": {
+        "sender": "129373172711439@lid",
+        "text": "Aqui tá um friozão",
+        "pushName": "Celiete Souza",
+        "timestamp": 1788810179501
+      },
+      "AC4300DB1A0615D1B4168C7CCFEEF93F": {
+        "sender": "54259127210155@lid",
+        "text": "!del",
+        "pushName": "Leandro",
+        "timestamp": 1788810180874
       }
     },
     "120363426574906687@g.us": {
@@ -22058,7 +22074,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788810131359,
+    "120363023757382018@g.us": 1788810180874,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
