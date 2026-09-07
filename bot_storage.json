@@ -5247,9 +5247,9 @@
         "total": 1
       },
       "41786424737860": {
-        "text": 1,
+        "text": 2,
         "media": 0,
-        "total": 1
+        "total": 2
       },
       "125211265527997": {
         "text": 1,
@@ -5257,6 +5257,11 @@
         "total": 1
       },
       "106790234628250": {
+        "text": 1,
+        "media": 0,
+        "total": 1
+      },
+      "127672248205333": {
         "text": 1,
         "media": 0,
         "total": 1
@@ -6143,8 +6148,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "JUNIOR: Eita",
-        "P: Kkkkkkkkk",
         "Heloisa: Mas qualquer coisa eu aviso muito obrigada 🥰",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Tudo bem, qualquer coisa só me avisar",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Maravilha, por nada 🥰",
@@ -6642,7 +6645,9 @@
         "Jefinho: Boa tarde Jefinho 35 anos gaucho",
         "Henrique Contri 🤫: Eu não vi as outras",
         "𝕰𝖛𝖆𝖓𝖉𝖗𝖔 𝕬𝖑𝖛𝖊𝖘: Alguém mais é de João pessoa haha",
-        "Francisco Silva: Trabalho com peças de motos até garagem das motos"
+        "Francisco Silva: Trabalho com peças de motos até garagem das motos",
+        "Ivan: Ivan \nCidade Santa rosa \nRio grande do sul",
+        "retroboy: Quem é de guarulhos sp?"
       ]
     },
     "120363426574906687@g.us": {
@@ -6770,12 +6775,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "181608581746722",
-        "authorName": "🇧🇼 André Lyon  🏁",
-        "text": "Nome;: André\nIdade : 42 \nCidade: BH\nPV: Liberado \nSexualidade: Bissexual",
-        "timestamp": 1788796861621
-      },
       {
         "authorNum": "166452229341300",
         "authorName": "Cristian Sntss",
@@ -7783,6 +7782,18 @@
         "authorName": "Francisco Silva",
         "text": "Trabalho com peças de motos até garagem das motos",
         "timestamp": 1788798655711
+      },
+      {
+        "authorNum": "127672248205333",
+        "authorName": "Ivan",
+        "text": "Ivan \nCidade Santa rosa \nRio grande do sul",
+        "timestamp": 1788798661938
+      },
+      {
+        "authorNum": "41786424737860",
+        "authorName": "retroboy",
+        "text": "Quem é de guarulhos sp?",
+        "timestamp": 1788798665666
       }
     ],
     "120363426574906687@g.us": []
@@ -7807,7 +7818,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1525,
+    "120363023757382018@g.us": 1527,
     "120363426574906687@g.us": 104
   },
   "botDisabled": {
@@ -15255,6 +15266,18 @@
         "text": "Trabalho com peças de motos até garagem das motos",
         "pushName": "Francisco Silva",
         "timestamp": 1788798655711
+      },
+      "ACF987F3C61BA9F20A074066F237733D": {
+        "sender": "127672248205333@lid",
+        "text": "Ivan \nCidade Santa rosa \nRio grande do sul",
+        "pushName": "Ivan",
+        "timestamp": 1788798661938
+      },
+      "AC076EF96FBD55DE8D3E213E1C5AEA18": {
+        "sender": "41786424737860@lid",
+        "text": "Quem é de guarulhos sp?",
+        "pushName": "retroboy",
+        "timestamp": 1788798665666
       }
     },
     "120363426574906687@g.us": {
@@ -15745,7 +15768,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788798655711,
+    "120363023757382018@g.us": 1788798665666,
     "120363426574906687@g.us": 1788798298976
   },
   "autoAnimSent": {
