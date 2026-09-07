@@ -4546,9 +4546,9 @@
         "total": 4
       },
       "176171622899942": {
-        "text": 23,
+        "text": 24,
         "media": 4,
-        "total": 27
+        "total": 28
       },
       "92629643563147": {
         "text": 30,
@@ -5151,6 +5151,11 @@
         "total": 1
       },
       "81531615858788": {
+        "text": 1,
+        "media": 0,
+        "total": 1
+      },
+      "130262331613213": {
         "text": 1,
         "media": 0,
         "total": 1
@@ -6037,8 +6042,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "irlley gabryel: Posso de chama no PV",
-        "Ryan: Obrigado 🙂🙂",
         "Heloisa: Sim",
         "Cristian Sntss: E assim que tem que ser",
         "Cristian Sntss: Pergunta no grupo 🫡",
@@ -6536,7 +6539,9 @@
         "Henrique Contri 🤫: Meu nome é Henrique tenho 29 anos sou de presidente prudente SP 😎",
         "𝑳𝒂𝒚𝒉🌪🌚: É o Besta",
         "Gleydson Souza: Kkkkkk",
-        "𝑳𝒂𝒚𝒉🌪🌚: Retrato"
+        "𝑳𝒂𝒚𝒉🌪🌚: Retrato",
+        "José Vitor: Ok tudo bem concordo",
+        "Jefinho: 😱😱2mil mensagem"
       ]
     },
     "120363426574906687@g.us": {
@@ -7414,6 +7419,18 @@
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
         "text": "Retrato",
         "timestamp": 1788797125295
+      },
+      {
+        "authorNum": "130262331613213",
+        "authorName": "José Vitor",
+        "text": "Ok tudo bem concordo",
+        "timestamp": 1788797150012
+      },
+      {
+        "authorNum": "176171622899942",
+        "authorName": "Jefinho",
+        "text": "😱😱2mil mensagem",
+        "timestamp": 1788797153440
       }
     ],
     "120363426574906687@g.us": [
@@ -7517,7 +7534,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1369,
+    "120363023757382018@g.us": 1371,
     "120363426574906687@g.us": 104
   },
   "botDisabled": {
@@ -14029,6 +14046,18 @@
         "text": "Retrato",
         "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
         "timestamp": 1788797125295
+      },
+      "ACCB37C055C3027443FC076F26F0C889": {
+        "sender": "130262331613213@lid",
+        "text": "Ok tudo bem concordo",
+        "pushName": "José Vitor",
+        "timestamp": 1788797150012
+      },
+      "AC80FC91EE450A063D9C05B35A523722": {
+        "sender": "176171622899942@lid",
+        "text": "😱😱2mil mensagem",
+        "pushName": "Jefinho",
+        "timestamp": 1788797153441
       }
     },
     "120363426574906687@g.us": {
@@ -14519,7 +14548,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788797125295,
+    "120363023757382018@g.us": 1788797153440,
     "120363426574906687@g.us": 1788796664927
   },
   "autoAnimSent": {
