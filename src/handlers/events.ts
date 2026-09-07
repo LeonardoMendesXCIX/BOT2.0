@@ -176,7 +176,7 @@ export function setupGroupEvents(sock: WASocket, storage: StorageManager): void 
                     }
 
                     const isRemovedByAdmin = author && author !== leftMemberId && author !== realJid;
-                    const nameAndNum = memberInfo.nameAndNumber;
+                    const nameAndNum = memberInfo.mention;
                     const allMentions = Array.from(new Set([memberInfo.jid, leftMemberId, realJid])).filter(Boolean);
 
                     if (isRemovedByAdmin) {

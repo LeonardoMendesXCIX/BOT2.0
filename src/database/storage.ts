@@ -350,7 +350,7 @@ export class StorageManager {
         // Mensagem pública SEM mencionar a política de remoção
         await sock.sendMessage(chatId, {
             text: '⚠️ *ADVERTÊNCIA REGISTRADA (' + currentWarns + '/' + limit + ')*\n\n' +
-                '👤 *Membro:* ' + targetInfo.nameAndNumber + '\n' +
+                '👤 *Membro:* ' + targetInfo.mention + '\n' +
                 '📝 *Motivo:* ' + reason,
             mentions: [targetInfo.jid]
         });
@@ -364,8 +364,8 @@ export class StorageManager {
 
                 const removalCfg = this.data.removalMsgs?.[chatId];
                 const removalText = removalCfg && removalCfg.text
-                    ? removalCfg.text.replace(/\{membro\}/gi, targetInfo.nameAndNumber)
-                    : 'Xiii, acho que o integrante ' + targetInfo.nameAndNumber + ' fez algo de errado, pois foi removido!';
+                    ? removalCfg.text.replace(/\{membro\}/gi, targetInfo.mention)
+                    : 'Xiii, acho que o integrante ' + targetInfo.mention + ' fez algo de errado, pois foi removido!';
 
                 await sock.sendMessage(chatId, { text: removalText, mentions: [targetInfo.jid] });
                 console.log('[WARN AUTO-REMOVE] ' + targetInfo.nameAndNumber + ' removido após ' + currentWarns + ' advertências.');

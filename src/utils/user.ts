@@ -25,7 +25,7 @@ export function rememberProfile(jidOrNum: string, name?: string, realNum?: strin
     if (name && name.trim() && name.trim() !== 'Membro') profilesDB[key].name = name.trim();
     if (realNum) {
         const rn = String(realNum).replace(/\D/g, '');
-        if (rn && rn.length <= 13) profilesDB[key].num = rn;
+        if (rn) profilesDB[key].num = rn;
     }
 }
 
@@ -60,9 +60,6 @@ export function formatPhoneNumber(rawNum: string): string {
             return '+55 (' + ddd + ') ' + rest.slice(0, 4) + '-' + rest.slice(4);
         }
     }
-    if (num.length > 13) {
-        return '';
-    }
     return '+' + num;
 }
 
@@ -71,7 +68,7 @@ export function extractRawNumber(userIdOrMention: string): string {
     const part = userIdOrMention.split('@')[0].split(':')[0];
     let digits = part.replace(/\D/g, '');
     if (lidMap[digits]) digits = lidMap[digits];
-    if (digits.length > 13 && profilesDB[digits] && profilesDB[digits].num) digits = profilesDB[digits].num!;
+    if (profilesDB[digits] && profilesDB[digits].num) digits = profilesDB[digits].num!;
     return digits;
 }
 
@@ -92,7 +89,7 @@ export function getUserInfo(userIdOrMention: string, pushNameHint: string = ''):
     const originalDigits = userIdOrMention.split('@')[0].split(':')[0].replace(/\D/g, '');
     let rawNum = extractRawNumber(userIdOrMention);
     const cleanJid = rawNum + '@s.whatsapp.net';
-    const isLid = rawNum.length > 13;
+    const isLid = userIdOrMention.endsWith('@lid');
     const mentionTag = '@' + rawNum;
     const formattedNum = formatPhoneNumber(rawNum);
 

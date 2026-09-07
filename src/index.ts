@@ -467,7 +467,7 @@ async function startBot() {
             const deletedMsg =
               "🗑️ *ANTI-DELETE (MENSAGEM APAGADA DETECTADA)* 🗑️\n\n" +
               "👤 *Autor:* " +
-              authorInfo.nameAndNumber +
+              authorInfo.mention +
               "\n" +
               '💬 *Conteúdo Apagado:*\n"' +
               buffered.text +
@@ -565,10 +565,7 @@ async function startBot() {
             let userText = bvConfig.text.trim();
 
             if (userText.includes("{membro}")) {
-              userText = userText.replace(
-                /\{membro\}/gi,
-                memberInfo.nameAndNumber,
-              );
+              userText = userText.replace(/\{membro\}/gi, memberInfo.mention);
             } else if (userText.includes("{nome}")) {
               userText = userText.replace(
                 /\{nome\}/gi,
@@ -580,7 +577,7 @@ async function startBot() {
                 memberInfo.formattedNum,
               );
             } else {
-              userText = userText + "\n\n👋 " + memberInfo.nameAndNumber;
+              userText = userText + "\n\n👋 " + memberInfo.mention;
             }
 
             const fullText = "📢 @todos @all\n\n" + userText;
