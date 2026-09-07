@@ -138,28 +138,6 @@ export function setupGroupEvents(sock: WASocket, storage: StorageManager): void 
                         console.log('[SAUDAÇÃO ENVIADA] Mensagem enviada para ' + memberInfo.nameAndNumber + ' no grupo ' + chatId);
                     }
 
-                    const num = extractRawNumber(newMemberId);
-                    if (storage.getRemovalBlacklist(chatId).includes(num)) {
-                        await sock.groupParticipantsUpdate(chatId, [newMemberId], 'remove');
-                        const msg = storage.getRemovalMessage(chatId, 'membroremov');
-                        const txt = (msg || '{membro} já foi removido(a) antes e não pode reentrar.')
-                            .replace(/\{membro\}/gi, memberInfo.nameAndNumber);
-                        await sock.sendMessage(chatId, { text: txt, mentions: [memberInfo.jid] });
-                        continue;
-                    }
-
-                    if (!storage.data.pendingMemberTimers) storage.data.pendingMemberTimers = [];
-                    storage.data.pendingMemberTimers.push({
-                        id: Date.now() + '_' + newMemberId,
-                        chatId,
-                        memberId: newMemberId,
-                        joinedAt: Date.now(),
-                        warned1min: false,
-                        countdownStarted: null,
-                        presented: false
-                    });
-                    storage.flagSave();
-
                     // LEMBRETE BV: agora 5 MINUTOS após a entrada
                     if (!storage.isFeatureDisabled(chatId, 'bv')) {
                         const bvConfig = storage.data.welcomeReminders ? storage.data.welcomeReminders[chatId] : null;
