@@ -4766,9 +4766,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 92,
+        "text": 93,
         "media": 1,
-        "total": 93
+        "total": 94
       },
       "89305909317735": {
         "text": 1,
@@ -5127,8 +5127,8 @@
       },
       "181608581746722": {
         "text": 1,
-        "media": 0,
-        "total": 1
+        "media": 1,
+        "total": 2
       }
     },
     "120363426574906687@g.us": {
@@ -6012,7 +6012,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Amaury: Alimentando minha onça",
         "Heloisa: Um pouco de tédio",
         "Cristian Sntss: Aqui vai ser feriado hoje e amanhã",
         "irlley gabryel: Não kkkk",
@@ -6511,7 +6510,8 @@
         "Gabi 💋: Tá bom pode trazer",
         "Cristian Sntss: Bora conversar",
         "🇧🇼 André Lyon  🏁: Nome;: André\nIdade : 42 \nCidade: BH\nPV: Liberado \nSexualidade: Bissexual",
-        "Cristian Sntss: O retrato"
+        "Cristian Sntss: O retrato",
+        "Heloisa: Ele é sem noção"
       ]
     },
     "120363426574906687@g.us": {
@@ -6682,18 +6682,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "152274357751809",
-        "authorName": "Heloisa",
-        "text": "Boa tarde a todos e todas",
-        "timestamp": 1788795080088
-      },
-      {
-        "authorNum": "176549663916038",
-        "authorName": "😃",
-        "text": "Eu",
-        "timestamp": 1788795081742
-      },
       {
         "authorNum": "264596443111591",
         "authorName": "Lucas Leonardo",
@@ -7437,6 +7425,12 @@
         "authorName": "Cristian Sntss",
         "text": "O retrato",
         "timestamp": 1788796870743
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Ele é sem noção",
+        "timestamp": 1788796889949
       }
     ],
     "120363426574906687@g.us": [
@@ -7540,7 +7534,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1358,
+    "120363023757382018@g.us": 1359,
     "120363426574906687@g.us": 104
   },
   "botDisabled": {
@@ -13986,6 +13980,12 @@
         "text": "O retrato",
         "pushName": "Cristian Sntss",
         "timestamp": 1788796870743
+      },
+      "ACCB722CB52D13C537198330F769B3DC": {
+        "sender": "152274357751809@lid",
+        "text": "Ele é sem noção",
+        "pushName": "Heloisa",
+        "timestamp": 1788796889949
       }
     },
     "120363426574906687@g.us": {
@@ -14476,7 +14476,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788796870743,
+    "120363023757382018@g.us": 1788796898500,
     "120363426574906687@g.us": 1788796664927
   },
   "autoAnimSent": {
