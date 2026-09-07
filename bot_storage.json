@@ -5142,9 +5142,9 @@
         "total": 1
       },
       "264308512522409": {
-        "text": 96,
+        "text": 97,
         "media": 4,
-        "total": 100
+        "total": 101
       },
       "194377938911429": {
         "text": 9,
@@ -5182,9 +5182,9 @@
         "total": 7
       },
       "246729194639608": {
-        "text": 3,
+        "text": 4,
         "media": 0,
-        "total": 3
+        "total": 4
       },
       "20736957747257": {
         "text": 3,
@@ -6195,8 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Luis Felipe: Verdade",
-        "Henrique Contri 🤫: É vc na foto ?",
         "Luis Felipe: não né",
         "Heloisa: Kkk",
         "Heloisa: Ele tem 65 anos",
@@ -6694,7 +6692,9 @@
         "Henrique Contri 🤫: Óbvio né 🤣",
         "Camila Designer: Ué, vai que não sabe",
         "Camila Designer: Rsrsrs",
-        "Henrique Contri 🤫: Minha primeira vez aqui né tem que informar kk"
+        "Henrique Contri 🤫: Minha primeira vez aqui né tem que informar kk",
+        "👻🤑: Como entra",
+        "Henrique Contri 🤫: Se for normal salva quem quer kkkk"
       ]
     },
     "120363426574906687@g.us": {
@@ -6898,24 +6898,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "264308512522409",
-        "authorName": "Henrique Contri 🤫",
-        "text": "Quer ver ?",
-        "timestamp": 1788804762729
-      },
-      {
-        "authorNum": "232924968419570",
-        "authorName": "Pedro🫰",
-        "text": "É um cano de 100",
-        "timestamp": 1788804770441
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "@118515428286715 sua tatuagem está escrito o que?",
-        "timestamp": 1788804772665
-      },
       {
         "authorNum": "264308512522409",
         "authorName": "Henrique Contri 🤫",
@@ -7905,6 +7887,18 @@
         "authorName": "Henrique Contri 🤫",
         "text": "Minha primeira vez aqui né tem que informar kk",
         "timestamp": 1788806554675
+      },
+      {
+        "authorNum": "246729194639608",
+        "authorName": "👻🤑",
+        "text": "Como entra",
+        "timestamp": 1788806572697
+      },
+      {
+        "authorNum": "264308512522409",
+        "authorName": "Henrique Contri 🤫",
+        "text": "Se for normal salva quem quer kkkk",
+        "timestamp": 1788806584489
       }
     ],
     "120363426574906687@g.us": [
@@ -8002,7 +7996,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2199,
+    "120363023757382018@g.us": 2201,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -19561,6 +19555,18 @@
         "text": "Minha primeira vez aqui né tem que informar kk",
         "pushName": "Henrique Contri 🤫",
         "timestamp": 1788806554676
+      },
+      "3A9C78E307D1296F6994": {
+        "sender": "246729194639608@lid",
+        "text": "Como entra",
+        "pushName": "👻🤑",
+        "timestamp": 1788806572698
+      },
+      "AC5D6247662BD6761659873271F04056": {
+        "sender": "264308512522409@lid",
+        "text": "Se for normal salva quem quer kkkk",
+        "pushName": "Henrique Contri 🤫",
+        "timestamp": 1788806584489
       }
     },
     "120363426574906687@g.us": {
@@ -20501,7 +20507,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788806554675,
+    "120363023757382018@g.us": 1788806584489,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
