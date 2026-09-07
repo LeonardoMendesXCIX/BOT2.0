@@ -4799,9 +4799,9 @@
         "total": 1
       },
       "226946222944358": {
-        "text": 4,
+        "text": 5,
         "media": 1,
-        "total": 5
+        "total": 6
       },
       "166657649557507": {
         "text": 3,
@@ -4827,6 +4827,11 @@
         "text": 3,
         "media": 0,
         "total": 3
+      },
+      "126586225467454": {
+        "text": 1,
+        "media": 0,
+        "total": 1
       }
     },
     "120363426574906687@g.us": {
@@ -4836,9 +4841,9 @@
         "total": 32
       },
       "166452229341300": {
-        "text": 13,
-        "media": 3,
-        "total": 16
+        "text": 15,
+        "media": 4,
+        "total": 19
       },
       "5511927018683": {
         "text": 16,
@@ -5692,7 +5697,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "𝑳𝒂𝒚𝒉🌪🌚: Sejam todos bem vindos🙌🏾",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Bem vindos, novatos 🙋🏻‍♀️",
         "Camila Designer: Sejam todos bem vindos!!!",
         "Cristian Sntss: Bem vindo galera",
@@ -6191,7 +6195,8 @@
         "Camila Designer: *🚨 REGRAS IMPORTANTES*\n\n❌ Proibido invadir PV sem autorização.\n❌ Respeite todos os participantes do grupo.\n\n🔊 Seja muito bem-vindo(a)! 🤝\n\n*Quem descumprir essas regras serão removidos imediatamente",
         "Camila Designer: !abrir",
         "Camila Designer: Podemos continuar pessoal!",
-        "Cristian Sntss: É desse jeito que a banda tocar"
+        "Cristian Sntss: É desse jeito que a banda tocar",
+        "Ton: E q temos q ser realistas eu n tenho dinheiro pra ir ver a pessoa em outro estado"
       ]
     },
     "120363426574906687@g.us": {
@@ -6267,7 +6272,9 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Você também consegue programar horários pra fechar/abrir ele",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: !fechar 21h\n!abrir 2h",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Um exemplo",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: !abrir"
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: !abrir",
+        "Cristian Sntss: Eu divulguei",
+        "Cristian Sntss: Só ta entrando homem"
       ]
     }
   },
@@ -6286,30 +6293,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "220448105230466",
-        "authorName": "lucas santos",
-        "text": "bom dia, td bem cm vc?",
-        "timestamp": 1788788813964
-      },
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "Assim",
-        "timestamp": 1788788818350
-      },
-      {
-        "authorNum": "152274357751809",
-        "authorName": "Heloisa",
-        "text": "Sim e com vc ?",
-        "timestamp": 1788788828753
-      },
-      {
-        "authorNum": "152274357751809",
-        "authorName": "Heloisa",
-        "text": "Apresentação pode ser com foto em vizu única ?",
-        "timestamp": 1788788838367
-      },
       {
         "authorNum": "128145298608376",
         "authorName": "solteiro",
@@ -7149,6 +7132,12 @@
         "authorName": "Cristian Sntss",
         "text": "É desse jeito que a banda tocar",
         "timestamp": 1788790603639
+      },
+      {
+        "authorNum": "226946222944358",
+        "authorName": "Ton",
+        "text": "E q temos q ser realistas eu n tenho dinheiro pra ir ver a pessoa em outro estado",
+        "timestamp": 1788790650071
       }
     ],
     "120363426574906687@g.us": [
@@ -7289,6 +7278,18 @@
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "text": "!abrir",
         "timestamp": 1788790607700
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Eu divulguei",
+        "timestamp": 1788790650269
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Só ta entrando homem",
+        "timestamp": 1788790656140
       }
     ]
   },
@@ -7312,8 +7313,8 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 890,
-    "120363426574906687@g.us": 71
+    "120363023757382018@g.us": 891,
+    "120363426574906687@g.us": 73
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -10841,6 +10842,12 @@
         "text": "É desse jeito que a banda tocar",
         "pushName": "Cristian Sntss",
         "timestamp": 1788790603639
+      },
+      "AC62234BCD2390BB83DE024638205BE1": {
+        "sender": "226946222944358@lid",
+        "text": "E q temos q ser realistas eu n tenho dinheiro pra ir ver a pessoa em outro estado",
+        "pushName": "Ton",
+        "timestamp": 1788790650072
       }
     },
     "120363426574906687@g.us": {
@@ -11035,6 +11042,18 @@
         "text": "!abrir",
         "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "timestamp": 1788790607700
+      },
+      "A5838CA986A3F62F1DEC619B5E078DF7": {
+        "sender": "166452229341300@lid",
+        "text": "Eu divulguei",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788790650269
+      },
+      "A5E32D892453A6E68B625F85E7E0DEEC": {
+        "sender": "166452229341300@lid",
+        "text": "Só ta entrando homem",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788790656140
       }
     }
   },
@@ -11130,8 +11149,8 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788790604597,
-    "120363426574906687@g.us": 1788790622359
+    "120363023757382018@g.us": 1788790650071,
+    "120363426574906687@g.us": 1788790659024
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
