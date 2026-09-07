@@ -4572,9 +4572,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 258,
-        "media": 145,
-        "total": 403
+        "text": 259,
+        "media": 147,
+        "total": 406
       },
       "559984624669": {
         "text": 4,
@@ -4588,8 +4588,8 @@
       },
       "182738040713418": {
         "text": 51,
-        "media": 30,
-        "total": 81
+        "media": 31,
+        "total": 82
       },
       "81991328395336": {
         "text": 152,
@@ -5337,9 +5337,9 @@
         "total": 7
       },
       "79728216113177": {
-        "text": 35,
+        "text": 36,
         "media": 24,
-        "total": 59
+        "total": 60
       }
     },
     "120363426574906687@g.us": {
@@ -6249,8 +6249,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "jaciara: Minha amiga deixa os filhos com o pai kkkkk",
-        "Saul: O lugar dela, é aqui",
         "Celiete Souza: Tem com 40+ que dá de dez a 0 nas de 20 😂",
         "Saul: Perfeito",
         "P: Com ctz … inclusive to procurando essas",
@@ -6748,7 +6746,9 @@
         "Kaio Mendes: Coringa",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Tô vendo",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Su com 16/17 aninhos 🤡",
-        "Wellington: Aí AGR sim"
+        "Wellington: Aí AGR sim",
+        "Camila Designer: Um mais doido que outro",
+        "Kaio Mendes: 🤡 kkkk"
       ]
     },
     "120363426574906687@g.us": {
@@ -7307,6 +7307,18 @@
         "authorName": "Wellington",
         "text": "Aí AGR sim",
         "timestamp": 1788815946060
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Um mais doido que outro",
+        "timestamp": 1788815986599
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "🤡 kkkk",
+        "timestamp": 1788815997948
       }
     ],
     "120363426574906687@g.us": [
@@ -7338,7 +7350,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2758,
+    "120363023757382018@g.us": 2760,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -22317,6 +22329,18 @@
         "text": "Aí AGR sim",
         "pushName": "Wellington",
         "timestamp": 1788815946060
+      },
+      "2A9604EA9390A4CE05BF": {
+        "sender": "92629643563147@lid",
+        "text": "Um mais doido que outro",
+        "pushName": "Camila Designer",
+        "timestamp": 1788815986599
+      },
+      "AC1BA9EA77E23F95CC9C5F576D611587": {
+        "sender": "79728216113177@lid",
+        "text": "🤡 kkkk",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788815997948
       }
     },
     "120363426574906687@g.us": {
@@ -23263,7 +23287,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788815946060,
+    "120363023757382018@g.us": 1788815997948,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
