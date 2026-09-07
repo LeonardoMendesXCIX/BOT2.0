@@ -4473,14 +4473,14 @@
         "total": 5
       },
       "108461127897146": {
-        "text": 68,
-        "media": 13,
-        "total": 81
+        "text": 70,
+        "media": 14,
+        "total": 84
       },
       "5511927018683": {
-        "text": 148,
+        "text": 149,
         "media": 11,
-        "total": 159
+        "total": 160
       },
       "166452229341300": {
         "text": 64,
@@ -4488,9 +4488,9 @@
         "total": 98
       },
       "53537388122141": {
-        "text": 37,
+        "text": 38,
         "media": 5,
-        "total": 42
+        "total": 43
       },
       "129373172711439": {
         "text": 26,
@@ -4538,9 +4538,9 @@
         "total": 27
       },
       "92629643563147": {
-        "text": 8,
+        "text": 9,
         "media": 6,
-        "total": 14
+        "total": 15
       },
       "559984624669": {
         "text": 4,
@@ -4578,9 +4578,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 60,
+        "text": 62,
         "media": 5,
-        "total": 65
+        "total": 67
       },
       "206966404210884": {
         "text": 2,
@@ -4678,19 +4678,24 @@
         "total": 2
       },
       "59645049761949": {
-        "text": 19,
+        "text": 20,
         "media": 0,
-        "total": 19
+        "total": 20
       },
       "21338118979724": {
-        "text": 1,
+        "text": 2,
         "media": 1,
-        "total": 2
+        "total": 3
       },
       "128145298608376": {
-        "text": 4,
+        "text": 6,
         "media": 1,
-        "total": 5
+        "total": 7
+      },
+      "193733257609270": {
+        "text": 1,
+        "media": 0,
+        "total": 1
       }
     },
     "120363426574906687@g.us": {
@@ -5912,7 +5917,14 @@
         "Amaury: Sério grande e bom",
         "Cristian Sntss: Se apresente",
         "solteiro: Solteira",
-        "jaciara: Tô achando kkkk"
+        "jaciara: Tô achando kkkk",
+        "Amaury: Sério,kkkk",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Bem vindo!!",
+        "Gabi 💋: Fale tudo",
+        "Camila Designer: Neiva do céu kkkk",
+        "Leandro: Bem vindo jovem! 🤝",
+        "jaciara: Palhaça kkkkk",
+        "Bruno Souza: Obg"
       ]
     },
     "120363426574906687@g.us": {
@@ -6450,6 +6462,48 @@
         "authorName": "jaciara",
         "text": "Tô achando kkkk",
         "timestamp": 1788787537674
+      },
+      {
+        "authorNum": "59645049761949",
+        "authorName": "Amaury",
+        "text": "Sério,kkkk",
+        "timestamp": 1788787567982
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Bem vindo!!",
+        "timestamp": 1788787577782
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Fale tudo",
+        "timestamp": 1788787580611
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Neiva do céu kkkk",
+        "timestamp": 1788787590131
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Bem vindo jovem! 🤝",
+        "timestamp": 1788787590184
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Palhaça kkkkk",
+        "timestamp": 1788787597694
+      },
+      {
+        "authorNum": "21338118979724",
+        "authorName": "Bruno Souza",
+        "text": "Obg",
+        "timestamp": 1788787598718
       }
     ],
     "120363426574906687@g.us": []
@@ -6474,7 +6528,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 35,
-    "120363023757382018@g.us": 596,
+    "120363023757382018@g.us": 603,
     "120363426574906687@g.us": 36
   },
   "botDisabled": {
@@ -8242,6 +8296,48 @@
         "text": "Tô achando kkkk",
         "pushName": "jaciara",
         "timestamp": 1788787537674
+      },
+      "ACD7CF3AC0FAD5B4CCC19C15DC972449": {
+        "sender": "59645049761949@lid",
+        "text": "Sério,kkkk",
+        "pushName": "Amaury",
+        "timestamp": 1788787567982
+      },
+      "ACDD4A55E9BE0DEF08156E9158319948": {
+        "sender": "53537388122141@lid",
+        "text": "Bem vindo!!",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788787577782
+      },
+      "AC33343ED5E17A25B2FC511EEF62DD32": {
+        "sender": "247020967165997@lid",
+        "text": "Fale tudo",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788787580611
+      },
+      "2A667C0D6240C3CB0158": {
+        "sender": "92629643563147@lid",
+        "text": "Neiva do céu kkkk",
+        "pushName": "Camila Designer",
+        "timestamp": 1788787590131
+      },
+      "ACDF763243A14956D555C70774E1F362": {
+        "sender": "54259127210155@lid",
+        "text": "Bem vindo jovem! 🤝",
+        "pushName": "Leandro",
+        "timestamp": 1788787590184
+      },
+      "ACDD3FC2D8719FD513CAFD7DA97DAD75": {
+        "sender": "108461127897146@lid",
+        "text": "Palhaça kkkkk",
+        "pushName": "jaciara",
+        "timestamp": 1788787597694
+      },
+      "ACA91831C2F020D4BCE5D008E82A5D19": {
+        "sender": "21338118979724@lid",
+        "text": "Obg",
+        "pushName": "Bruno Souza",
+        "timestamp": 1788787598718
       }
     },
     "120363426574906687@g.us": {}
@@ -8338,7 +8434,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788787544412,
-    "120363023757382018@g.us": 1788787541743,
+    "120363023757382018@g.us": 1788787603070,
     "120363426574906687@g.us": 1788725639102
   },
   "autoAnimSent": {
