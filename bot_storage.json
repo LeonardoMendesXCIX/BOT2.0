@@ -4592,9 +4592,9 @@
         "total": 6
       },
       "254884934881353": {
-        "text": 6,
+        "text": 8,
         "media": 0,
-        "total": 6
+        "total": 8
       },
       "45479878459474": {
         "text": 1,
@@ -13156,7 +13156,9 @@
         "Leandro: !del",
         "Leandro: !del",
         "Cristian Sntss: Toma boldo",
-        "Cristian Sntss: Bem vindooo"
+        "Cristian Sntss: Bem vindooo",
+        "P: kkkkk",
+        "P: Pqp"
       ]
     },
     "120363426574906687@g.us": {
@@ -13303,6 +13305,18 @@
         "authorName": "Cristian Sntss",
         "text": "Bem vindooo",
         "timestamp": 1788753956346
+      },
+      {
+        "authorNum": "254884934881353",
+        "authorName": "P",
+        "text": "kkkkk",
+        "timestamp": 1788754093681
+      },
+      {
+        "authorNum": "254884934881353",
+        "authorName": "P",
+        "text": "Pqp",
+        "timestamp": 1788754096176
       }
     ],
     "120363426574906687@g.us": []
@@ -13327,7 +13341,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 28,
-    "120363023757382018@g.us": 307,
+    "120363023757382018@g.us": 309,
     "120363426574906687@g.us": 36
   },
   "botDisabled": {
@@ -34031,6 +34045,18 @@
         "text": "Bem vindooo",
         "pushName": "Cristian Sntss",
         "timestamp": 1788753956346
+      },
+      "3A506CABA6BE9C6EBC73": {
+        "sender": "254884934881353@lid",
+        "text": "kkkkk",
+        "pushName": "P",
+        "timestamp": 1788754093681
+      },
+      "3A99E9CD5C30B62AAFB7": {
+        "sender": "254884934881353@lid",
+        "text": "Pqp",
+        "pushName": "P",
+        "timestamp": 1788754096176
       }
     },
     "120363426574906687@g.us": {
@@ -34338,7 +34364,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788731471492,
-    "120363023757382018@g.us": 1788753986667,
+    "120363023757382018@g.us": 1788754096176,
     "120363426574906687@g.us": 1788725639102
   },
   "autoAnimSent": {
