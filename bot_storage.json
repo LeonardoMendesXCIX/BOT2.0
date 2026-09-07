@@ -4552,9 +4552,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 90,
+        "text": 93,
         "media": 62,
-        "total": 152
+        "total": 155
       },
       "559984624669": {
         "text": 4,
@@ -4592,9 +4592,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 168,
+        "text": 169,
         "media": 18,
-        "total": 186
+        "total": 187
       },
       "206966404210884": {
         "text": 2,
@@ -4922,9 +4922,9 @@
         "total": 1
       },
       "36645315321925": {
-        "text": 7,
+        "text": 9,
         "media": 2,
-        "total": 9
+        "total": 11
       },
       "187845394358417": {
         "text": 1,
@@ -6195,12 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "John 😎: Daqui a pouco chega aos 40º kkk",
-        "Cristian Sntss: Rapaz aí tu deitou cm fome",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Óbvio que não 🤨",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Isso",
-        "Cristian Sntss: Tá dispensado nada",
-        "Heloisa: Né amiga amo um novinho magrinho",
         "Jefinho: 🙂pv deusa",
         "Henrique Contri 🤫: Tamo fora de forma 🤣🤣🤣",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Tenta a sorte ai",
@@ -6694,7 +6688,13 @@
         "Gabi 💋: @92629643563147  responda",
         "Henrique Contri 🤫: É que aqui não pode olha vou ficar quieto kkkkk",
         "Camila Designer: Eu não te vi @36645315321925",
-        "Gabi 💋: Não curto nada a distância"
+        "Gabi 💋: Não curto nada a distância",
+        "Camila Designer: O que?",
+        "Felippo: tem foto aí no meu perfil",
+        "Gabi 💋: Como você sabe ?",
+        "Camila Designer: Vou ter que salvar então! Kkk",
+        "Camila Designer: Sei o que? Kkkk",
+        "Felippo: salva, que eu salvo kkk"
       ]
     },
     "120363426574906687@g.us": {
@@ -6892,30 +6892,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "264308512522409",
-        "authorName": "Henrique Contri 🤫",
-        "text": "Minha filha se tu tivesse noção do frio que tá aqui 🤣🤣",
-        "timestamp": 1788802063954
-      },
-      {
-        "authorNum": "118515428286715",
-        "authorName": "Saul",
-        "text": "Para carai, kkkkkk",
-        "timestamp": 1788802068438
-      },
-      {
-        "authorNum": "39857447551026",
-        "authorName": "Francisco Silva",
-        "text": "Ou não kkk",
-        "timestamp": 1788802076631
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Arregão",
-        "timestamp": 1788802083624
-      },
       {
         "authorNum": "118515428286715",
         "authorName": "Saul",
@@ -8067,6 +8043,42 @@
         "authorName": "Gabi 💋",
         "text": "Não curto nada a distância",
         "timestamp": 1788803840929
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "O que?",
+        "timestamp": 1788803851987
+      },
+      {
+        "authorNum": "36645315321925",
+        "authorName": "Felippo",
+        "text": "tem foto aí no meu perfil",
+        "timestamp": 1788803860964
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Como você sabe ?",
+        "timestamp": 1788803866163
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Vou ter que salvar então! Kkk",
+        "timestamp": 1788803876112
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Sei o que? Kkkk",
+        "timestamp": 1788803887155
+      },
+      {
+        "authorNum": "36645315321925",
+        "authorName": "Felippo",
+        "text": "salva, que eu salvo kkk",
+        "timestamp": 1788803887751
       }
     ],
     "120363426574906687@g.us": [
@@ -8152,7 +8164,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 1967,
+    "120363023757382018@g.us": 1973,
     "120363426574906687@g.us": 155
   },
   "botDisabled": {
@@ -18318,6 +18330,42 @@
         "text": "Não curto nada a distância",
         "pushName": "Gabi 💋",
         "timestamp": 1788803840929
+      },
+      "2AD8BA9C946FB008DE22": {
+        "sender": "92629643563147@lid",
+        "text": "O que?",
+        "pushName": "Camila Designer",
+        "timestamp": 1788803851987
+      },
+      "3A222B7AEF8A10E6D3B7": {
+        "sender": "36645315321925@lid",
+        "text": "tem foto aí no meu perfil",
+        "pushName": "Felippo",
+        "timestamp": 1788803860964
+      },
+      "ACBFFA0CD28EFD1B9060B9F9F37BDA98": {
+        "sender": "247020967165997@lid",
+        "text": "Como você sabe ?",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788803866163
+      },
+      "2A30E25C222B6D0F48A5": {
+        "sender": "92629643563147@lid",
+        "text": "Vou ter que salvar então! Kkk",
+        "pushName": "Camila Designer",
+        "timestamp": 1788803876112
+      },
+      "2AD602A3994FD3393EF3": {
+        "sender": "92629643563147@lid",
+        "text": "Sei o que? Kkkk",
+        "pushName": "Camila Designer",
+        "timestamp": 1788803887156
+      },
+      "3A64C58FC7639B3B5D8C": {
+        "sender": "36645315321925@lid",
+        "text": "salva, que eu salvo kkk",
+        "pushName": "Felippo",
+        "timestamp": 1788803887751
       }
     },
     "120363426574906687@g.us": {
@@ -19108,7 +19156,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788803840929,
+    "120363023757382018@g.us": 1788803887751,
     "120363426574906687@g.us": 1788803675343
   },
   "autoAnimSent": {
