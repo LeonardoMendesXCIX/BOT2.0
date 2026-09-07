@@ -4540,8 +4540,8 @@
       },
       "92629643563147": {
         "text": 14,
-        "media": 10,
-        "total": 24
+        "media": 11,
+        "total": 25
       },
       "559984624669": {
         "text": 4,
@@ -4559,9 +4559,9 @@
         "total": 3
       },
       "81991328395336": {
-        "text": 41,
+        "text": 42,
         "media": 21,
-        "total": 62
+        "total": 63
       },
       "274384656834700": {
         "text": 24,
@@ -4579,9 +4579,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 95,
+        "text": 96,
         "media": 12,
-        "total": 107
+        "total": 108
       },
       "206966404210884": {
         "text": 2,
@@ -4689,9 +4689,9 @@
         "total": 4
       },
       "128145298608376": {
-        "text": 20,
+        "text": 21,
         "media": 2,
-        "total": 22
+        "total": 23
       },
       "193733257609270": {
         "text": 1,
@@ -4699,9 +4699,9 @@
         "total": 2
       },
       "230365537005571": {
-        "text": 15,
+        "text": 16,
         "media": 3,
-        "total": 18
+        "total": 19
       },
       "60739813417005": {
         "text": 2,
@@ -6087,7 +6087,11 @@
         "xacinaluzqradiaoinferno71: eu corro todo dia 😓",
         "Gabi 💋: Óia temos um foragido",
         "xacinaluzqradiaoinferno71: clt é foda",
-        "solteiro: Solteira"
+        "solteiro: Solteira",
+        "Gabi 💋: Sim",
+        "xacinaluzqradiaoinferno71: trabalha com oq?",
+        "𝑳𝒂𝒚𝒉🌪🌚: Nem de festa eu gosto",
+        "solteiro: Sim eu nao"
       ]
     },
     "120363426574906687@g.us": {
@@ -7383,6 +7387,30 @@
         "authorName": "solteiro",
         "text": "Solteira",
         "timestamp": 1788788425028
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Sim",
+        "timestamp": 1788788432399
+      },
+      {
+        "authorNum": "230365537005571",
+        "authorName": "xacinaluzqradiaoinferno71",
+        "text": "trabalha com oq?",
+        "timestamp": 1788788437328
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Nem de festa eu gosto",
+        "timestamp": 1788788441792
+      },
+      {
+        "authorNum": "128145298608376",
+        "authorName": "solteiro",
+        "text": "Sim eu nao",
+        "timestamp": 1788788446210
       }
     ],
     "120363426574906687@g.us": [
@@ -7480,7 +7508,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 717,
+    "120363023757382018@g.us": 721,
     "120363426574906687@g.us": 48
   },
   "botDisabled": {
@@ -9975,6 +10003,30 @@
         "text": "Solteira",
         "pushName": "solteiro",
         "timestamp": 1788788425028
+      },
+      "AC5CE999BC8AE8BD20E171AD8E990E00": {
+        "sender": "247020967165997@lid",
+        "text": "Sim",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788788432400
+      },
+      "A5FC09BB2FDC2F6387487C82C2036396": {
+        "sender": "230365537005571@lid",
+        "text": "trabalha com oq?",
+        "pushName": "xacinaluzqradiaoinferno71",
+        "timestamp": 1788788437328
+      },
+      "AC269E9C02D3EB32BF48C7B50CF8E377": {
+        "sender": "81991328395336@lid",
+        "text": "Nem de festa eu gosto",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1788788441792
+      },
+      "A5CD1C2C63976561B055CB96B2AE796C": {
+        "sender": "128145298608376@lid",
+        "text": "Sim eu nao",
+        "pushName": "solteiro",
+        "timestamp": 1788788446210
       }
     },
     "120363426574906687@g.us": {
@@ -10126,7 +10178,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788788425028,
+    "120363023757382018@g.us": 1788788450511,
     "120363426574906687@g.us": 1788788012627
   },
   "autoAnimSent": {
