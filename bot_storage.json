@@ -4487,9 +4487,9 @@
         "total": 5
       },
       "108461127897146": {
-        "text": 115,
+        "text": 117,
         "media": 34,
-        "total": 149
+        "total": 151
       },
       "5511927018683": {
         "text": 164,
@@ -4552,9 +4552,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 133,
+        "text": 134,
         "media": 78,
-        "total": 211
+        "total": 212
       },
       "559984624669": {
         "text": 4,
@@ -4682,9 +4682,9 @@
         "total": 27
       },
       "118515428286715": {
-        "text": 43,
+        "text": 44,
         "media": 4,
-        "total": 47
+        "total": 48
       },
       "193729163993156": {
         "text": 2,
@@ -6195,9 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Luis Felipe: Né",
-        "Francisco Silva: Cadê homem trouxa kkk",
-        "Heloisa: Sim. Os que mais tem",
         "junior: Oi dany boa tarde",
         "𝕰𝖛𝖆𝖓𝖉𝖗𝖔 𝕬𝖑𝖛𝖊𝖘: Almocei mas fiquei com fome ainda 😂😂😂😂",
         "Cristian Sntss: Misericórdia",
@@ -6694,7 +6691,10 @@
         "Saul: Eles gostas da chamyto?",
         "Saul: Tá cheio aqui na geladeira",
         "jaciara: Os filhos da minha amiga não tem preferência de marca",
-        "Camila Designer: Minha amiga tem uma filha que só toma dessa marca 🤣🤣🤣"
+        "Camila Designer: Minha amiga tem uma filha que só toma dessa marca 🤣🤣🤣",
+        "Saul: Se eu comprar o Danone pra eles, a amiga toma meu leite?",
+        "jaciara: Ela adora",
+        "jaciara: Ops"
       ]
     },
     "120363426574906687@g.us": {
@@ -6896,60 +6896,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "E aí ?",
-        "timestamp": 1788803934852
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Conta pra gente",
-        "timestamp": 1788803936759
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Kkkkkk",
-        "timestamp": 1788803938399
-      },
-      {
-        "authorNum": "36645315321925",
-        "authorName": "Felippo",
-        "text": "gostou aí? kkk",
-        "timestamp": 1788803939216
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Sim conte",
-        "timestamp": 1788803947355
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Adivinhei somente",
-        "timestamp": 1788803954803
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Amigaaaaaa",
-        "timestamp": 1788803962219
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Conta",
-        "timestamp": 1788803963691
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Eu sou ansiosa",
-        "timestamp": 1788803968251
-      },
       {
         "authorNum": "108461127897146",
         "authorName": "jaciara",
@@ -7789,6 +7735,24 @@
         "authorName": "Camila Designer",
         "text": "Minha amiga tem uma filha que só toma dessa marca 🤣🤣🤣",
         "timestamp": 1788805730588
+      },
+      {
+        "authorNum": "118515428286715",
+        "authorName": "Saul",
+        "text": "Se eu comprar o Danone pra eles, a amiga toma meu leite?",
+        "timestamp": 1788805759156
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Ela adora",
+        "timestamp": 1788805769059
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Ops",
+        "timestamp": 1788805770124
       }
     ],
     "120363426574906687@g.us": [
@@ -7952,7 +7916,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2124,
+    "120363023757382018@g.us": 2127,
     "120363426574906687@g.us": 178
   },
   "botDisabled": {
@@ -19061,6 +19025,24 @@
         "text": "Minha amiga tem uma filha que só toma dessa marca 🤣🤣🤣",
         "pushName": "Camila Designer",
         "timestamp": 1788805730588
+      },
+      "3A500DB7E0E0073D5539": {
+        "sender": "118515428286715@lid",
+        "text": "Se eu comprar o Danone pra eles, a amiga toma meu leite?",
+        "pushName": "Saul",
+        "timestamp": 1788805759156
+      },
+      "ACD9ABF0D50F31FFA6F5CAE29BC92C51": {
+        "sender": "108461127897146@lid",
+        "text": "Ela adora",
+        "pushName": "jaciara",
+        "timestamp": 1788805769059
+      },
+      "ACC178E7A5C21A9B092F6F986FEC44A8": {
+        "sender": "108461127897146@lid",
+        "text": "Ops",
+        "pushName": "jaciara",
+        "timestamp": 1788805770124
       }
     },
     "120363426574906687@g.us": {
@@ -19989,7 +19971,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788805730588,
+    "120363023757382018@g.us": 1788805770124,
     "120363426574906687@g.us": 1788805706271
   },
   "autoAnimSent": {
