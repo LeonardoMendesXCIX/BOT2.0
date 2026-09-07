@@ -4592,9 +4592,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 185,
+        "text": 186,
         "media": 18,
-        "total": 203
+        "total": 204
       },
       "206966404210884": {
         "text": 2,
@@ -6195,7 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Juliano Perlin: Eu peso 50 kilo🥹",
         "Heloisa: Gatinho",
         "Jefinho: Bem vindo vizinho",
         "Ivan: Valeu",
@@ -6694,7 +6693,8 @@
         "Camila Designer: Perdeu",
         "Henrique Contri 🤫: Essa é designer profissional kkk",
         "Henrique Contri 🤫: Pinça de dois dedos é foda 🤣🤣🤣",
-        "Gabi 💋: Oque foi"
+        "Gabi 💋: Oque foi",
+        "Gabi 💋: É foda"
       ]
     },
     "120363426574906687@g.us": {
@@ -6902,24 +6902,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "559491757737",
-        "authorName": "José Vitor",
-        "text": "Kkkkkkk",
-        "timestamp": 1788802848470
-      },
-      {
-        "authorNum": "262182034002040",
-        "authorName": "Dany",
-        "text": "Brother, não, valeu\nPaz ✌🏻",
-        "timestamp": 1788802850589
-      },
-      {
-        "authorNum": "152274357751809",
-        "authorName": "Heloisa",
-        "text": "Okkkkk",
-        "timestamp": 1788802854576
-      },
       {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
@@ -7891,6 +7873,12 @@
         "authorName": "Gabi 💋",
         "text": "Oque foi",
         "timestamp": 1788804636644
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "É foda",
+        "timestamp": 1788804662332
       }
     ],
     "120363426574906687@g.us": [
@@ -8072,7 +8060,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2028,
+    "120363023757382018@g.us": 2029,
     "120363426574906687@g.us": 171
   },
   "botDisabled": {
@@ -18605,6 +18593,12 @@
         "text": "Oque foi",
         "pushName": "Gabi 💋",
         "timestamp": 1788804636644
+      },
+      "AC35928C4D71FC919BA5A2B888634D04": {
+        "sender": "247020967165997@lid",
+        "text": "É foda",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788804662332
       }
     },
     "120363426574906687@g.us": {
@@ -19491,7 +19485,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788804636644,
+    "120363023757382018@g.us": 1788804662332,
     "120363426574906687@g.us": 1788804637761
   },
   "autoAnimSent": {
