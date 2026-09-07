@@ -4489,14 +4489,14 @@
         "total": 167
       },
       "166452229341300": {
-        "text": 133,
+        "text": 134,
         "media": 45,
-        "total": 178
+        "total": 179
       },
       "53537388122141": {
-        "text": 62,
+        "text": 64,
         "media": 10,
-        "total": 72
+        "total": 74
       },
       "129373172711439": {
         "text": 27,
@@ -4830,8 +4830,8 @@
       },
       "126586225467454": {
         "text": 20,
-        "media": 3,
-        "total": 23
+        "media": 4,
+        "total": 24
       },
       "245788143841410": {
         "text": 5,
@@ -5747,9 +5747,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Amaury: Nós bahiano e arretado",
-        "Gleydson Souza: Eitaaaa",
-        "Amaury: Não tem tempo ruim não",
         "jaciara: Eu sou maranhense",
         "Gabi 💋: Conversava com um baiano ele era é carente ksksks",
         "Gleydson Souza: Chegou chegando meu mano @59645049761949",
@@ -6246,7 +6243,10 @@
         "JUNIOR: Eita",
         "P: Kkkkkkkkk",
         "Heloisa: Mas qualquer coisa eu aviso muito obrigada 🥰",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Tudo bem, qualquer coisa só me avisar"
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Tudo bem, qualquer coisa só me avisar",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Maravilha, por nada 🥰",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Quer chamar todas? KKK",
+        "Cristian Sntss: !ban @243920571265278"
       ]
     },
     "120363426574906687@g.us": {
@@ -7114,6 +7114,24 @@
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "text": "Tudo bem, qualquer coisa só me avisar",
         "timestamp": 1788792728126
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Maravilha, por nada 🥰",
+        "timestamp": 1788792739321
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Quer chamar todas? KKK",
+        "timestamp": 1788792756250
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "!ban @243920571265278",
+        "timestamp": 1788792757200
       }
     ],
     "120363426574906687@g.us": [
@@ -7163,7 +7181,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 1029,
+    "120363023757382018@g.us": 1032,
     "120363426574906687@g.us": 83
   },
   "botDisabled": {
@@ -11526,6 +11544,24 @@
         "text": "Tudo bem, qualquer coisa só me avisar",
         "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "timestamp": 1788792728127
+      },
+      "ACAE860919788DE9CAED9CD951396BF7": {
+        "sender": "53537388122141@lid",
+        "text": "Maravilha, por nada 🥰",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788792739321
+      },
+      "AC36FD9DF7A7E83FD6A90134C45CC43D": {
+        "sender": "53537388122141@lid",
+        "text": "Quer chamar todas? KKK",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788792756251
+      },
+      "A54F3381F094AB3CE4C9488A0FA0EA75": {
+        "sender": "166452229341300@lid",
+        "text": "!ban @243920571265278",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788792757200
       }
     },
     "120363426574906687@g.us": {
@@ -11887,7 +11923,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788792728126,
+    "120363023757382018@g.us": 1788792760916,
     "120363426574906687@g.us": 1788791178144
   },
   "autoAnimSent": {
