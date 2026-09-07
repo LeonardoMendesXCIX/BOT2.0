@@ -4497,9 +4497,9 @@
         "total": 169
       },
       "166452229341300": {
-        "text": 200,
+        "text": 203,
         "media": 65,
-        "total": 265
+        "total": 268
       },
       "53537388122141": {
         "text": 144,
@@ -5173,8 +5173,8 @@
       },
       "29661681713335": {
         "text": 2,
-        "media": 1,
-        "total": 3
+        "media": 3,
+        "total": 5
       },
       "559491757737": {
         "text": 2,
@@ -5267,6 +5267,11 @@
         "total": 3
       },
       "203191362797726": {
+        "text": 1,
+        "media": 0,
+        "total": 1
+      },
+      "130043523133488": {
         "text": 1,
         "media": 0,
         "total": 1
@@ -6153,7 +6158,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "K: Pv Heloisa?",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Simmm",
         "P: kkkkk ele marcou até a menina de 13 anos vei",
         "Dani: Hj é feriado n era pra trabalhar.",
@@ -6652,7 +6656,8 @@
         "Heloisa: Gatinho",
         "Jefinho: Bem vindo vizinho",
         "Ivan: Valeu",
-        "Henrique Contri 🤫: Obrigado, vc que é linda 😍"
+        "Henrique Contri 🤫: Obrigado, vc que é linda 😍",
+        "Cristian Sntss: Povo tudo bonito"
       ]
     },
     "120363426574906687@g.us": {
@@ -6782,18 +6787,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "Q tela mais amarela..nao vi nada quase🤣🤣🤣🤣🤣",
-        "timestamp": 1788797010048
-      },
-      {
-        "authorNum": "274384656834700",
-        "authorName": "Gleydson Souza",
-        "text": "Vi que foi fazer o almoço ja vou chegar no momento bom então kkkkk",
-        "timestamp": 1788797029378
-      },
       {
         "authorNum": "264308512522409",
         "authorName": "Henrique Contri 🤫",
@@ -7801,6 +7794,12 @@
         "authorName": "Henrique Contri 🤫",
         "text": "Obrigado, vc que é linda 😍",
         "timestamp": 1788798792374
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Povo tudo bonito",
+        "timestamp": 1788798832693
       }
     ],
     "120363426574906687@g.us": [
@@ -7838,7 +7837,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1533,
+    "120363023757382018@g.us": 1534,
     "120363426574906687@g.us": 106
   },
   "botDisabled": {
@@ -15334,6 +15333,12 @@
         "text": "Obrigado, vc que é linda 😍",
         "pushName": "Henrique Contri 🤫",
         "timestamp": 1788798792374
+      },
+      "A5087D540B13EB2723E54E61D2BAC6D2": {
+        "sender": "166452229341300@lid",
+        "text": "Povo tudo bonito",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788798832693
       }
     },
     "120363426574906687@g.us": {
@@ -15836,7 +15841,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788798795907,
+    "120363023757382018@g.us": 1788798855471,
     "120363426574906687@g.us": 1788798801151
   },
   "autoAnimSent": {
