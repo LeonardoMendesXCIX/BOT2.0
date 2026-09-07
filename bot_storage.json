@@ -5237,9 +5237,9 @@
         "total": 8
       },
       "241261818728589": {
-        "text": 3,
+        "text": 5,
         "media": 1,
-        "total": 4
+        "total": 6
       },
       "259588561625272": {
         "text": 1,
@@ -6195,8 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Camila Designer: Depende",
-        "Walter: Apenas pedi uma foto entendeu se ela tem vergonha de mandar no grupo não custaria ela mandar no meu PV e qual mal eu tenho teu pedido lá no PV sei lá seis é muito preconceituoso por pedir no PV ningué",
         "Walter: Ninguém come ninguém pelo WhatsApp não bote isso na cabeça de vocês",
         "Pedro🫰: De quê?",
         "Camila Designer: Meu Amigo o PV é liberado apenas se autorizar, se invadir será removido do grupo!",
@@ -6694,7 +6692,9 @@
         "Camila Designer: Ele não mandou errado, ele me marcou",
         "Felippo: eu disse, mandou e marcou",
         "Felippo: vagabundo",
-        "Camila Designer: Qual seu nome @241261818728589 ? Já se apresentou?"
+        "Camila Designer: Qual seu nome @241261818728589 ? Já se apresentou?",
+        "sorveteria: Germano sou aqui de Rondônia",
+        "sorveteria: Alguma coroa pra conversar"
       ]
     },
     "120363426574906687@g.us": {
@@ -6898,48 +6898,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "71644668272766",
-        "authorName": "~🥷🏽",
-        "text": "Vai ter link para entrar",
-        "timestamp": 1788806611035
-      },
-      {
-        "authorNum": "264308512522409",
-        "authorName": "Henrique Contri 🤫",
-        "text": "Vou observar kk",
-        "timestamp": 1788806621883
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Qual seu nome?",
-        "timestamp": 1788806632567
-      },
-      {
-        "authorNum": "246729194639608",
-        "authorName": "👻🤑",
-        "text": "Marcos",
-        "timestamp": 1788806640986
-      },
-      {
-        "authorNum": "171214744064197",
-        "authorName": "Márcio Bruxel",
-        "text": "Perdi a conversa.... como entra? Kkk",
-        "timestamp": 1788806646016
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Vai sim, mais tarde enviamos",
-        "timestamp": 1788806646997
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Não tem seu nome na descrição",
-        "timestamp": 1788806666747
-      },
       {
         "authorNum": "71644668272766",
         "authorName": "~🥷🏽",
@@ -7917,6 +7875,18 @@
         "authorName": "Camila Designer",
         "text": "Qual seu nome @241261818728589 ? Já se apresentou?",
         "timestamp": 1788808396748
+      },
+      {
+        "authorNum": "241261818728589",
+        "authorName": "sorveteria",
+        "text": "Germano sou aqui de Rondônia",
+        "timestamp": 1788808461516
+      },
+      {
+        "authorNum": "241261818728589",
+        "authorName": "sorveteria",
+        "text": "Alguma coroa pra conversar",
+        "timestamp": 1788808471751
       }
     ],
     "120363426574906687@g.us": []
@@ -7941,7 +7911,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2371,
+    "120363023757382018@g.us": 2373,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -20532,6 +20502,18 @@
         "text": "Qual seu nome @241261818728589 ? Já se apresentou?",
         "pushName": "Camila Designer",
         "timestamp": 1788808396749
+      },
+      "A56FFC6475DBA22A612B7F084521DE6F": {
+        "sender": "241261818728589@lid",
+        "text": "Germano sou aqui de Rondônia",
+        "pushName": "sorveteria",
+        "timestamp": 1788808461516
+      },
+      "A50288367F5A8B239266B7C92E8CF5EC": {
+        "sender": "241261818728589@lid",
+        "text": "Alguma coroa pra conversar",
+        "pushName": "sorveteria",
+        "timestamp": 1788808471751
       }
     },
     "120363426574906687@g.us": {
@@ -21472,7 +21454,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788808396748,
+    "120363023757382018@g.us": 1788808471751,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
