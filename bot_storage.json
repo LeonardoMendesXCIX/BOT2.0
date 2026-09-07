@@ -4587,9 +4587,9 @@
         "total": 1
       },
       "182738040713418": {
-        "text": 60,
+        "text": 61,
         "media": 44,
-        "total": 104
+        "total": 105
       },
       "81991328395336": {
         "text": 180,
@@ -6266,7 +6266,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "solteiro: Oiii",
         "jaciara: O meu também aparece",
         "Camila Designer: @166452229341300",
         "Dany: Já achei que estava ficando louca",
@@ -6765,7 +6764,8 @@
         "Wellington: Tá bom então 🙃🫶🏽",
         "Camila Designer: Ela disse que essa risadinha sua deixa ela mais apaixonada 🤣🤣🤣🤣",
         "Kaio Mendes: KAKAKAKA entendo mano",
-        "Kaio Mendes: Oloko"
+        "Kaio Mendes: Oloko",
+        "Wellington: Eitaaa ela vai tar no cabaré hj msm né?"
       ]
     },
     "120363426574906687@g.us": {
@@ -6997,12 +6997,6 @@
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
       {
-        "authorNum": "262182034002040",
-        "authorName": "Dany",
-        "text": "Roubei a figurinha",
-        "timestamp": 1788818428600
-      },
-      {
         "authorNum": "79728216113177",
         "authorName": "Kaio Mendes",
         "text": "Atacante",
@@ -7223,6 +7217,12 @@
         "authorName": "Kaio Mendes",
         "text": "Oloko",
         "timestamp": 1788820205168
+      },
+      {
+        "authorNum": "182738040713418",
+        "authorName": "Wellington",
+        "text": "Eitaaa ela vai tar no cabaré hj msm né?",
+        "timestamp": 1788820238962
       }
     ],
     "120363426574906687@g.us": []
@@ -7247,7 +7247,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 486,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 3027,
+    "120363023757382018@g.us": 3028,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -23883,6 +23883,12 @@
         "text": "Oloko",
         "pushName": "Kaio Mendes",
         "timestamp": 1788820205168
+      },
+      "ACEBEC760A5A94FE039BD59DBB81400B": {
+        "sender": "182738040713418@lid",
+        "text": "Eitaaa ela vai tar no cabaré hj msm né?",
+        "pushName": "Wellington",
+        "timestamp": 1788820238962
       }
     },
     "120363426574906687@g.us": {
@@ -24829,7 +24835,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788819771459,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788820205168,
+    "120363023757382018@g.us": 1788820238962,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
