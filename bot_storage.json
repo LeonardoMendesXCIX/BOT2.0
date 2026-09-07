@@ -4539,9 +4539,9 @@
         "total": 27
       },
       "92629643563147": {
-        "text": 19,
+        "text": 20,
         "media": 11,
-        "total": 30
+        "total": 31
       },
       "559984624669": {
         "text": 4,
@@ -4559,9 +4559,9 @@
         "total": 3
       },
       "81991328395336": {
-        "text": 46,
+        "text": 47,
         "media": 21,
-        "total": 67
+        "total": 68
       },
       "274384656834700": {
         "text": 24,
@@ -4679,9 +4679,9 @@
         "total": 2
       },
       "59645049761949": {
-        "text": 46,
+        "text": 47,
         "media": 2,
-        "total": 48
+        "total": 49
       },
       "21338118979724": {
         "text": 3,
@@ -4754,9 +4754,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 6,
+        "text": 7,
         "media": 0,
-        "total": 6
+        "total": 7
       },
       "89305909317735": {
         "text": 1,
@@ -4777,6 +4777,16 @@
         "text": 0,
         "media": 1,
         "total": 1
+      },
+      "27277404426480": {
+        "text": 1,
+        "media": 0,
+        "total": 1
+      },
+      "71644668272766": {
+        "text": 2,
+        "media": 0,
+        "total": 2
       }
     },
     "120363426574906687@g.us": {
@@ -5642,9 +5652,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Cristian Sntss: Toma boldo",
-        "Cristian Sntss: Bem vindooo",
-        "P: kkkkk",
         "P: Pqp",
         "𝑳𝒂𝒚𝒉🌪🌚: N abriu",
         "Leandro: Viu? @166452229341300",
@@ -6141,7 +6148,10 @@
         "𝑳𝒂𝒚𝒉🌪🌚: Teve um caso recente fe uma onça",
         "Amaury: Aqui tem espaço pra risada solta, pra conversa boa, pra brincar, pra debater, pra contar história, pra falar de tudo que a gente gosta e também pra rir um dos outros (sem maldade, claro! 😂). É aquele",
         "Amaury: Ser",
-        "Amaury: Sério"
+        "Amaury: Sério",
+        "Silva: Linda",
+        "Amaury: Seja bem vinda espero que goste de resenha",
+        "𝑳𝒂𝒚𝒉🌪🌚: Q lindaaaa"
       ]
     },
     "120363426574906687@g.us": {
@@ -6217,12 +6227,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "60739813417005",
-        "authorName": "Gabriel Silva 😎",
-        "text": "Bom dia",
-        "timestamp": 1788787922889
-      },
       {
         "authorNum": "247020967165997",
         "authorName": "Gabi 💋",
@@ -7224,6 +7228,24 @@
         "authorName": "Amaury",
         "text": "Sério",
         "timestamp": 1788789698405
+      },
+      {
+        "authorNum": "27277404426480",
+        "authorName": "Silva",
+        "text": "Linda",
+        "timestamp": 1788789721250
+      },
+      {
+        "authorNum": "59645049761949",
+        "authorName": "Amaury",
+        "text": "Seja bem vinda espero que goste de resenha",
+        "timestamp": 1788789730036
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Q lindaaaa",
+        "timestamp": 1788789731871
       }
     ],
     "120363426574906687@g.us": [
@@ -7345,7 +7367,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 805,
+    "120363023757382018@g.us": 808,
     "120363426574906687@g.us": 52
   },
   "botDisabled": {
@@ -10362,6 +10384,24 @@
         "text": "Sério",
         "pushName": "Amaury",
         "timestamp": 1788789698405
+      },
+      "AC3B42839190EE2AD554595DD16E8A3F": {
+        "sender": "27277404426480@lid",
+        "text": "Linda",
+        "pushName": "Silva",
+        "timestamp": 1788789721251
+      },
+      "AC0CED17F7A8F284531B6A545944A25C": {
+        "sender": "59645049761949@lid",
+        "text": "Seja bem vinda espero que goste de resenha",
+        "pushName": "Amaury",
+        "timestamp": 1788789730036
+      },
+      "AC93B6E516F20723945103B742ABA7CA": {
+        "sender": "81991328395336@lid",
+        "text": "Q lindaaaa",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1788789731871
       }
     },
     "120363426574906687@g.us": {
@@ -10537,7 +10577,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788789698405,
+    "120363023757382018@g.us": 1788789734275,
     "120363426574906687@g.us": 1788789687623
   },
   "autoAnimSent": {
