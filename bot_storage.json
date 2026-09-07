@@ -4929,9 +4929,9 @@
         "total": 1
       },
       "39857447551026": {
-        "text": 1,
+        "text": 2,
         "media": 0,
-        "total": 1
+        "total": 2
       },
       "134888363671607": {
         "text": 1,
@@ -4942,6 +4942,11 @@
         "text": 2,
         "media": 0,
         "total": 2
+      },
+      "237804084850885": {
+        "text": 1,
+        "media": 0,
+        "total": 1
       }
     },
     "120363426574906687@g.us": {
@@ -5813,8 +5818,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "solteiro: Ok",
-        "Amaury: Borá galera",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Os novatos amiga",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Que não se apresentaram ainda",
         "Wellygton Douglas: Wellygton aqui sou de Pernambuco 36 anos pv liberado",
@@ -6312,7 +6315,9 @@
         "Heloisa: Noção foi longe",
         "Clayton 🇳🇬: Que frio e este Brasil",
         "Felippo: e esse doente aqui, cadê o adm",
-        "𝑳𝒂𝒚𝒉🌪🌚: !ban @235979092836559"
+        "𝑳𝒂𝒚𝒉🌪🌚: !ban @235979092836559",
+        "Elias Rodrigues: Me llamo Elias \n\nEdad 25 \nEstado civil soltero \n\nSoy de Centroamérica",
+        "Francisco Silva: Cara trouxa"
       ]
     },
     "120363426574906687@g.us": {
@@ -6463,12 +6468,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "81991328395336",
-        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
-        "text": "Algumas cidades do Maranhão o desfile e a tarde",
-        "timestamp": 1788791763606
-      },
       {
         "authorNum": "5850081050816",
         "authorName": "Dani",
@@ -7392,6 +7391,18 @@
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
         "text": "!ban @235979092836559",
         "timestamp": 1788793547227
+      },
+      {
+        "authorNum": "237804084850885",
+        "authorName": "Elias Rodrigues",
+        "text": "Me llamo Elias \n\nEdad 25 \nEstado civil soltero \n\nSoy de Centroamérica",
+        "timestamp": 1788793562392
+      },
+      {
+        "authorNum": "39857447551026",
+        "authorName": "Francisco Silva",
+        "text": "Cara trouxa",
+        "timestamp": 1788793570687
       }
     ],
     "120363426574906687@g.us": [
@@ -7459,7 +7470,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 44,
-    "120363023757382018@g.us": 1108,
+    "120363023757382018@g.us": 1110,
     "120363426574906687@g.us": 90
   },
   "botDisabled": {
@@ -12332,6 +12343,18 @@
         "text": "!ban @235979092836559",
         "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
         "timestamp": 1788793547227
+      },
+      "ACF484DF88FAB874551235D951E2FF1C": {
+        "sender": "237804084850885@lid",
+        "text": "Me llamo Elias \n\nEdad 25 \nEstado civil soltero \n\nSoy de Centroamérica",
+        "pushName": "Elias Rodrigues",
+        "timestamp": 1788793562392
+      },
+      "ACCD6D140B958767AB2CE7C8B5E69DE4": {
+        "sender": "39857447551026@lid",
+        "text": "Cara trouxa",
+        "pushName": "Francisco Silva",
+        "timestamp": 1788793570688
       }
     },
     "120363426574906687@g.us": {
@@ -12735,7 +12758,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788793408313,
-    "120363023757382018@g.us": 1788793547227,
+    "120363023757382018@g.us": 1788793570687,
     "120363426574906687@g.us": 1788793079391
   },
   "autoAnimSent": {
