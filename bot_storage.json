@@ -4522,9 +4522,9 @@
         "total": 413
       },
       "53537388122141": {
-        "text": 208,
-        "media": 21,
-        "total": 229
+        "text": 209,
+        "media": 22,
+        "total": 231
       },
       "129373172711439": {
         "text": 121,
@@ -4588,8 +4588,8 @@
       },
       "182738040713418": {
         "text": 51,
-        "media": 33,
-        "total": 84
+        "media": 34,
+        "total": 85
       },
       "81991328395336": {
         "text": 152,
@@ -6249,8 +6249,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "P: eu não joguei nada não",
-        "P: mas se ela jogar",
         "P: eu seguro",
         "Gabi 💋: Perdi até o assunto",
         "P: to pra frente hoje",
@@ -6748,7 +6746,9 @@
         "Kaio Mendes: Idênticos",
         "Kaio Mendes: Jaca Zé",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Sim",
-        "solteiro: Sim eu.nao"
+        "solteiro: Sim eu.nao",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Obrigada o elogiooooo 🤌🏻\n@81991328395336 \n@54259127210155 \n@166452229341300 \n@92629643563147",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Entendi nada"
       ]
     },
     "120363426574906687@g.us": {
@@ -7373,6 +7373,18 @@
         "authorName": "solteiro",
         "text": "Sim eu.nao",
         "timestamp": 1788816120192
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Obrigada o elogiooooo 🤌🏻\n@81991328395336 \n@54259127210155 \n@166452229341300 \n@92629643563147",
+        "timestamp": 1788816143061
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Entendi nada",
+        "timestamp": 1788816154905
       }
     ],
     "120363426574906687@g.us": [
@@ -7404,7 +7416,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2770,
+    "120363023757382018@g.us": 2772,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -22455,6 +22467,18 @@
         "text": "Sim eu.nao",
         "pushName": "solteiro",
         "timestamp": 1788816120192
+      },
+      "ACE3F8FCE2EEF9DC1EE4DB026B11724B": {
+        "sender": "53537388122141@lid",
+        "text": "Obrigada o elogiooooo 🤌🏻\n@81991328395336 \n@54259127210155 \n@166452229341300 \n@92629643563147",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788816143061
+      },
+      "ACF3FF406968D07955A78BC11EACE0B0": {
+        "sender": "53537388122141@lid",
+        "text": "Entendi nada",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788816154905
       }
     },
     "120363426574906687@g.us": {
@@ -23401,7 +23425,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788816125682,
+    "120363023757382018@g.us": 1788816159116,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
