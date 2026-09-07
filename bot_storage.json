@@ -4764,9 +4764,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 59,
+        "text": 61,
         "media": 0,
-        "total": 59
+        "total": 61
       },
       "89305909317735": {
         "text": 1,
@@ -4906,6 +4906,11 @@
       "271550062321894": {
         "text": 1,
         "media": 0,
+        "total": 1
+      },
+      "43684162711698": {
+        "text": 0,
+        "media": 1,
         "total": 1
       }
     },
@@ -5776,9 +5781,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Camila Designer: Conte mais @247020967165997 🤣🤣🤣",
-        "Amaury: Deus abençoe",
-        "solteiro: Oie",
         "Gabi 💋: Vai explodir",
         "jaciara: Amém 🙏🏼",
         "renan_wesley: So pra quem acompanhou até agr vai entender lkkk",
@@ -6275,7 +6277,10 @@
         "Bruno Aguiar: Pelo jeito muita invasão de PV kkkk",
         "Heloisa: Mas aqui sim RS gatinho",
         "Charles Assis: Os cara viaja legal",
-        "Bruno Aguiar: Estão sem nem uma pelo jeito kkkk"
+        "Bruno Aguiar: Estão sem nem uma pelo jeito kkkk",
+        "Heloisa: Pior que o problema não é nem a invasão ensi o problema é o que fazem após",
+        "Jacke França: Bosta",
+        "Heloisa: Se empolgam"
       ]
     },
     "120363426574906687@g.us": {
@@ -7283,6 +7288,24 @@
         "authorName": "Bruno Aguiar",
         "text": "Estão sem nem uma pelo jeito kkkk",
         "timestamp": 1788793265833
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Pior que o problema não é nem a invasão ensi o problema é o que fazem após",
+        "timestamp": 1788793283250
+      },
+      {
+        "authorNum": "43684162711698",
+        "authorName": "Jacke França",
+        "text": "Bosta",
+        "timestamp": 1788793289125
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Se empolgam",
+        "timestamp": 1788793292896
       }
     ],
     "120363426574906687@g.us": [
@@ -7350,7 +7373,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 42,
-    "120363023757382018@g.us": 1086,
+    "120363023757382018@g.us": 1089,
     "120363426574906687@g.us": 90
   },
   "botDisabled": {
@@ -12079,6 +12102,24 @@
         "text": "Estão sem nem uma pelo jeito kkkk",
         "pushName": "Bruno Aguiar",
         "timestamp": 1788793265833
+      },
+      "AC6E0E484917FC5C9BA2F2E18E127A8F": {
+        "sender": "152274357751809@lid",
+        "text": "Pior que o problema não é nem a invasão ensi o problema é o que fazem após",
+        "pushName": "Heloisa",
+        "timestamp": 1788793283251
+      },
+      "ACA443E31CA81CDF13920CC8FFDEC609": {
+        "sender": "43684162711698@lid",
+        "text": "Bosta",
+        "pushName": "Jacke França",
+        "timestamp": 1788793289125
+      },
+      "AC0D4EEA074E408D5C7581D944F8D763": {
+        "sender": "152274357751809@lid",
+        "text": "Se empolgam",
+        "pushName": "Heloisa",
+        "timestamp": 1788793292896
       }
     },
     "120363426574906687@g.us": {
@@ -12482,7 +12523,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788793177792,
-    "120363023757382018@g.us": 1788793275658,
+    "120363023757382018@g.us": 1788793292896,
     "120363426574906687@g.us": 1788793079391
   },
   "autoAnimSent": {
