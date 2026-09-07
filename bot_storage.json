@@ -4517,9 +4517,9 @@
         "total": 2
       },
       "59623457439943": {
-        "text": 11,
+        "text": 12,
         "media": 1,
-        "total": 12
+        "total": 13
       },
       "262182034002040": {
         "text": 33,
@@ -13219,7 +13219,8 @@
         "Victor: muito comum essa parada, infelizmente",
         "🌷: mas eu acho que ela não eh fake não",
         "Victor: bom",
-        "Victor: nunca saberemos.."
+        "Victor: nunca saberemos..",
+        "Victor: mas e vc, vai se apresentar não?"
       ]
     },
     "120363426574906687@g.us": {
@@ -13559,6 +13560,12 @@
         "authorName": "Victor",
         "text": "nunca saberemos..",
         "timestamp": 1788756600129
+      },
+      {
+        "authorNum": "59623457439943",
+        "authorName": "Victor",
+        "text": "mas e vc, vai se apresentar não?",
+        "timestamp": 1788756624106
       }
     ],
     "120363426574906687@g.us": []
@@ -13583,7 +13590,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 33,
-    "120363023757382018@g.us": 352,
+    "120363023757382018@g.us": 353,
     "120363426574906687@g.us": 36
   },
   "botDisabled": {
@@ -34583,6 +34590,12 @@
         "text": "nunca saberemos..",
         "pushName": "Victor",
         "timestamp": 1788756600129
+      },
+      "AC0CE867B5A0A6F20C55899314C7B25F": {
+        "sender": "59623457439943@lid",
+        "text": "mas e vc, vai se apresentar não?",
+        "pushName": "Victor",
+        "timestamp": 1788756624106
       }
     },
     "120363426574906687@g.us": {
@@ -34890,7 +34903,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788755502872,
-    "120363023757382018@g.us": 1788756600129,
+    "120363023757382018@g.us": 1788756624106,
     "120363426574906687@g.us": 1788725639102
   },
   "autoAnimSent": {
