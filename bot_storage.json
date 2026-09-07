@@ -4487,8 +4487,8 @@
       },
       "108461127897146": {
         "text": 74,
-        "media": 15,
-        "total": 89
+        "media": 17,
+        "total": 91
       },
       "5511927018683": {
         "text": 158,
@@ -4496,9 +4496,9 @@
         "total": 169
       },
       "166452229341300": {
-        "text": 161,
-        "media": 53,
-        "total": 214
+        "text": 162,
+        "media": 54,
+        "total": 216
       },
       "53537388122141": {
         "text": 127,
@@ -4577,8 +4577,8 @@
       },
       "274384656834700": {
         "text": 27,
-        "media": 7,
-        "total": 34
+        "media": 9,
+        "total": 36
       },
       "111141304930334": {
         "text": 3,
@@ -4931,9 +4931,9 @@
         "total": 1
       },
       "39857447551026": {
-        "text": 7,
+        "text": 8,
         "media": 0,
-        "total": 7
+        "total": 8
       },
       "134888363671607": {
         "text": 1,
@@ -6002,8 +6002,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Camila Designer: @26659415666708 te respondeu",
-        "Ton: Vou ler as regras primeiro",
         "😎🇧🇷: Figurinha pode",
         "Amaury: Vou soltar a onça vcs corre ou fica parado 😂",
         "Cristian Sntss: Tatuador?",
@@ -6501,7 +6499,9 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Eu também tenho 😂😂😂",
         "Cristian Sntss: !ban @109809579913469",
         "Cristian Sntss: !ban @265060232511603",
-        "Cristian Sntss: Bem vindo clt"
+        "Cristian Sntss: Bem vindo clt",
+        "Gleydson Souza: Ficaram prontos @247020967165997 kkkkkkk",
+        "Francisco Silva: Qual cardápio???"
       ]
     },
     "120363426574906687@g.us": {
@@ -6666,12 +6666,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "Graças a Deus bot tá ativo",
-        "timestamp": 1788794716259
-      },
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
@@ -7487,6 +7481,18 @@
         "authorName": "Cristian Sntss",
         "text": "Bem vindo clt",
         "timestamp": 1788796516045
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Ficaram prontos @247020967165997 kkkkkkk",
+        "timestamp": 1788796531115
+      },
+      {
+        "authorNum": "39857447551026",
+        "authorName": "Francisco Silva",
+        "text": "Qual cardápio???",
+        "timestamp": 1788796547935
       }
     ],
     "120363426574906687@g.us": [
@@ -7554,7 +7560,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1345,
+    "120363023757382018@g.us": 1347,
     "120363426574906687@g.us": 98
   },
   "botDisabled": {
@@ -13922,6 +13928,18 @@
         "text": "Bem vindo clt",
         "pushName": "Cristian Sntss",
         "timestamp": 1788796516046
+      },
+      "ACE596315F48A7BBA256C7EFFD0A482F": {
+        "sender": "274384656834700@lid",
+        "text": "Ficaram prontos @247020967165997 kkkkkkk",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1788796531115
+      },
+      "AC4155BD82D85C5AF20DBB693ED5D938": {
+        "sender": "39857447551026@lid",
+        "text": "Qual cardápio???",
+        "pushName": "Francisco Silva",
+        "timestamp": 1788796547935
       }
     },
     "120363426574906687@g.us": {
@@ -14376,7 +14394,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788796530835,
+    "120363023757382018@g.us": 1788796552360,
     "120363426574906687@g.us": 1788796320301
   },
   "autoAnimSent": {
