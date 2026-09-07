@@ -4497,9 +4497,9 @@
         "total": 169
       },
       "166452229341300": {
-        "text": 178,
-        "media": 58,
-        "total": 236
+        "text": 179,
+        "media": 59,
+        "total": 238
       },
       "53537388122141": {
         "text": 127,
@@ -4767,9 +4767,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 98,
+        "text": 99,
         "media": 1,
-        "total": 99
+        "total": 100
       },
       "89305909317735": {
         "text": 1,
@@ -5178,8 +5178,8 @@
       },
       "559491757737": {
         "text": 2,
-        "media": 0,
-        "total": 2
+        "media": 1,
+        "total": 3
       },
       "246729194639608": {
         "text": 1,
@@ -5198,8 +5198,8 @@
       },
       "107442969026587": {
         "text": 0,
-        "media": 1,
-        "total": 1
+        "media": 2,
+        "total": 2
       }
     },
     "120363426574906687@g.us": {
@@ -6083,8 +6083,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "𝑳𝒂𝒚𝒉🌪🌚: Bem vindo",
-        "Rodrigo: Muito obrigado 😊",
         "Cristian Sntss: @92629643563147",
         "Cristian Sntss: Vi uma foto que te interessa",
         "Thawan: @152274357751809",
@@ -6582,7 +6580,9 @@
         "José Vitor: Top e bom demais",
         "Cristian Sntss: Franguinho",
         "sou seu pior pesadelo: Boa tarde",
-        "Cristian Sntss: Boa"
+        "Cristian Sntss: Boa",
+        "Heloisa: Oi moço sem foto",
+        "Cristian Sntss: Se apresentou?"
       ]
     },
     "120363426574906687@g.us": {
@@ -6723,18 +6723,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "278838454050886",
-        "authorName": "Ricardo",
-        "text": "Boa tarde me chamo Ricardo tenho 46 anos solteiro sou de minas gerais",
-        "timestamp": 1788795699312
-      },
-      {
-        "authorNum": "152476120555682",
-        "authorName": "Du",
-        "text": "Obg",
-        "timestamp": 1788795704606
-      },
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
@@ -7514,6 +7502,18 @@
         "authorName": "Cristian Sntss",
         "text": "Boa",
         "timestamp": 1788797469036
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Oi moço sem foto",
+        "timestamp": 1788797499268
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Se apresentou?",
+        "timestamp": 1788797505392
       }
     ],
     "120363426574906687@g.us": [
@@ -7605,7 +7605,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1404,
+    "120363023757382018@g.us": 1406,
     "120363426574906687@g.us": 104
   },
   "botDisabled": {
@@ -14327,6 +14327,18 @@
         "text": "Boa",
         "pushName": "Cristian Sntss",
         "timestamp": 1788797469036
+      },
+      "ACFF1F93840CBDF009FC20B433BADEDA": {
+        "sender": "152274357751809@lid",
+        "text": "Oi moço sem foto",
+        "pushName": "Heloisa",
+        "timestamp": 1788797499268
+      },
+      "A52B5F699FE968EFE5EFF0F7A0E83B66": {
+        "sender": "166452229341300@lid",
+        "text": "Se apresentou?",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788797505392
       }
     },
     "120363426574906687@g.us": {
@@ -14817,7 +14829,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788797472816,
+    "120363023757382018@g.us": 1788797505392,
     "120363426574906687@g.us": 1788796664927
   },
   "autoAnimSent": {
