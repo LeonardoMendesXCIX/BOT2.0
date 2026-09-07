@@ -4484,9 +4484,9 @@
         "total": 164
       },
       "166452229341300": {
-        "text": 74,
+        "text": 76,
         "media": 36,
-        "total": 110
+        "total": 112
       },
       "53537388122141": {
         "text": 45,
@@ -4640,8 +4640,8 @@
       },
       "120363023757382018": {
         "text": 2,
-        "media": 8,
-        "total": 10
+        "media": 9,
+        "total": 11
       },
       "86595382292674": {
         "text": 17,
@@ -4739,6 +4739,16 @@
         "total": 1
       },
       "21595850563820": {
+        "text": 1,
+        "media": 1,
+        "total": 2
+      },
+      "126431388545232": {
+        "text": 1,
+        "media": 0,
+        "total": 1
+      },
+      "220448105230466": {
         "text": 0,
         "media": 1,
         "total": 1
@@ -5602,11 +5612,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Dany: Aff\nAgora tá lá salvo como rascunho as 2 palavras que eu ia enviar",
-        "Dany: Aff",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Ele com seu olho roxo:",
-        "Boca: Boa noite",
-        "Dany: Kkkkkk não tá querendo levar frigideirada na cabeça 😂",
         "Cristian Sntss: Boa",
         "Dany: Valeu kkkkk",
         "Leandro: Ela digitando para me esculhambar 🤡",
@@ -6101,7 +6106,12 @@
         "Cristian Sntss: Se apresente galera",
         "Gabi 💋: Está entrando muito homem \nKD as mulheres",
         "solteiro: Sim",
-        "Gabi 💋: Tá difícil o povo ler e se apresentar"
+        "Gabi 💋: Tá difícil o povo ler e se apresentar",
+        "IRINEU FREITAS 🫥🤪: Meu nome e José \n31 amor \nSou de sp",
+        "Cristian Sntss: O xacina saiu",
+        "lucas santos: bom dia satisfação Lucas tenho 28 ano sou do rio de janeiro sou hétero",
+        "Cristian Sntss: Bem vindo",
+        ": bom dia satisfação Lucas tenho 28 ano sou do rio de janeiro sou hétero"
       ]
     },
     "120363426574906687@g.us": {
@@ -7481,6 +7491,36 @@
         "authorName": "Gabi 💋",
         "text": "Tá difícil o povo ler e se apresentar",
         "timestamp": 1788788604026
+      },
+      {
+        "authorNum": "21595850563820",
+        "authorName": "IRINEU FREITAS 🫥🤪",
+        "text": "Meu nome e José \n31 amor \nSou de sp",
+        "timestamp": 1788788633836
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "O xacina saiu",
+        "timestamp": 1788788640252
+      },
+      {
+        "authorNum": "220448105230466",
+        "authorName": "lucas santos",
+        "text": "bom dia satisfação Lucas tenho 28 ano sou do rio de janeiro sou hétero",
+        "timestamp": 1788788649695
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Bem vindo",
+        "timestamp": 1788788649881
+      },
+      {
+        "authorNum": "120363023757382018",
+        "authorName": "",
+        "text": "bom dia satisfação Lucas tenho 28 ano sou do rio de janeiro sou hétero",
+        "timestamp": 1788788651086
       }
     ],
     "120363426574906687@g.us": [
@@ -7578,7 +7618,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 731,
+    "120363023757382018@g.us": 736,
     "120363426574906687@g.us": 48
   },
   "botDisabled": {
@@ -10157,6 +10197,30 @@
         "text": "Tá difícil o povo ler e se apresentar",
         "pushName": "Gabi 💋",
         "timestamp": 1788788604026
+      },
+      "ACE9D57C1938A8CD82D0CD7542CC54CF": {
+        "sender": "21595850563820@lid",
+        "text": "Meu nome e José \n31 amor \nSou de sp",
+        "pushName": "IRINEU FREITAS 🫥🤪",
+        "timestamp": 1788788633836
+      },
+      "A5CE7DC6D6485C23720A4A2687662A3B": {
+        "sender": "166452229341300@lid",
+        "text": "O xacina saiu",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788788640252
+      },
+      "ACBC7CE139921EBCBDD7407D77AABA80": {
+        "sender": "120363023757382018@g.us",
+        "text": "bom dia satisfação Lucas tenho 28 ano sou do rio de janeiro sou hétero",
+        "pushName": "",
+        "timestamp": 1788788651086
+      },
+      "A50B0A62558B6827D3F422425D54B0BB": {
+        "sender": "166452229341300@lid",
+        "text": "Bem vindo",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788788649881
       }
     },
     "120363426574906687@g.us": {
@@ -10308,7 +10372,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788788623430,
+    "120363023757382018@g.us": 1788788651086,
     "120363426574906687@g.us": 1788788012627
   },
   "autoAnimSent": {
