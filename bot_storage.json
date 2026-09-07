@@ -4537,9 +4537,9 @@
         "total": 15
       },
       "262182034002040": {
-        "text": 36,
+        "text": 38,
         "media": 3,
-        "total": 39
+        "total": 41
       },
       "199733712785531": {
         "text": 4,
@@ -4572,9 +4572,9 @@
         "total": 9
       },
       "81991328395336": {
-        "text": 110,
-        "media": 30,
-        "total": 140
+        "text": 111,
+        "media": 31,
+        "total": 142
       },
       "274384656834700": {
         "text": 33,
@@ -5228,8 +5228,8 @@
       },
       "118528279593092": {
         "text": 11,
-        "media": 2,
-        "total": 13
+        "media": 3,
+        "total": 14
       },
       "183137506173038": {
         "text": 8,
@@ -5287,6 +5287,11 @@
         "total": 6
       },
       "198607978410013": {
+        "text": 1,
+        "media": 0,
+        "total": 1
+      },
+      "191337185947851": {
         "text": 1,
         "media": 0,
         "total": 1
@@ -6173,7 +6178,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Heloisa: Do nada uns número árabe",
         "Hildecio Paulo: Oi",
         "⚡: Bom dia",
         "Hildecio Paulo: Bom dia",
@@ -6672,7 +6676,8 @@
         "No Foco .: Mulher q gosta de dinheiro PV",
         "No Foco .: Rsrs",
         "Márcio Bruxel: Obrigado",
-        "𝑳𝒂𝒚𝒉🌪🌚: !ban @130043523133488"
+        "𝑳𝒂𝒚𝒉🌪🌚: !ban @130043523133488",
+        "𝑳𝒂𝒚𝒉🌪🌚: Esse foco tava oferecendo dinheiro por fotos"
       ]
     },
     "120363426574906687@g.us": {
@@ -6813,18 +6818,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "Boa amigaaaa",
-        "timestamp": 1788798169588
-      },
-      {
-        "authorNum": "107442969026587",
-        "authorName": "Walter",
-        "text": "Aqui tem 45 anos mas come bem",
-        "timestamp": 1788798182817
-      },
       {
         "authorNum": "264308512522409",
         "authorName": "Henrique Contri 🤫",
@@ -7610,6 +7603,12 @@
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
         "text": "!ban @130043523133488",
         "timestamp": 1788799964812
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Esse foco tava oferecendo dinheiro por fotos",
+        "timestamp": 1788799987663
       }
     ],
     "120363426574906687@g.us": [
@@ -7713,7 +7712,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1611,
+    "120363023757382018@g.us": 1612,
     "120363426574906687@g.us": 117
   },
   "botDisabled": {
@@ -15677,6 +15676,12 @@
         "text": "!ban @130043523133488",
         "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
         "timestamp": 1788799964812
+      },
+      "AC5EE1CDAB833884103568473ECA3058": {
+        "sender": "81991328395336@lid",
+        "text": "Esse foco tava oferecendo dinheiro por fotos",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1788799987663
       }
     },
     "120363426574906687@g.us": {
@@ -16245,7 +16250,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788799964812,
+    "120363023757382018@g.us": 1788799993272,
     "120363426574906687@g.us": 1788799590982
   },
   "autoAnimSent": {
