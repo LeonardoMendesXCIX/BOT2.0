@@ -4507,9 +4507,9 @@
         "total": 5
       },
       "108461127897146": {
-        "text": 181,
+        "text": 182,
         "media": 41,
-        "total": 222
+        "total": 223
       },
       "5511927018683": {
         "text": 223,
@@ -4572,9 +4572,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 280,
-        "media": 166,
-        "total": 446
+        "text": 281,
+        "media": 167,
+        "total": 448
       },
       "559984624669": {
         "text": 4,
@@ -4593,8 +4593,8 @@
       },
       "81991328395336": {
         "text": 178,
-        "media": 51,
-        "total": 229
+        "media": 52,
+        "total": 230
       },
       "274384656834700": {
         "text": 76,
@@ -6257,7 +6257,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Wellington: Alguém quer fala aí que tá acabando",
         "solteiro: Ok",
         "Leandro: !todos",
         "Felippo: que foi bot",
@@ -6756,7 +6755,8 @@
         "Camila Designer: Ela não se decide 🤣🤣🤣",
         "Kaio Mendes: Ah tá man",
         "Cristian Sntss: Serve pra pessoas tbm",
-        "jaciara: A minha amiga queria que ele mandasse uma foto"
+        "jaciara: A minha amiga queria que ele mandasse uma foto",
+        "Camila Designer: @182738040713418 minha amiga apareceu e perguntou se você vai mandar foto do peitoral no Kabaré"
       ]
     },
     "120363426574906687@g.us": {
@@ -7933,6 +7933,12 @@
         "authorName": "jaciara",
         "text": "A minha amiga queria que ele mandasse uma foto",
         "timestamp": 1788818909400
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "@182738040713418 minha amiga apareceu e perguntou se você vai mandar foto do peitoral no Kabaré",
+        "timestamp": 1788818947146
       }
     ],
     "120363426574906687@g.us": []
@@ -7957,7 +7963,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 3005,
+    "120363023757382018@g.us": 3006,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -24435,6 +24441,12 @@
         "text": "A minha amiga queria que ele mandasse uma foto",
         "pushName": "jaciara",
         "timestamp": 1788818909400
+      },
+      "2ABCF441F757BD481146": {
+        "sender": "92629643563147@lid",
+        "text": "@182738040713418 minha amiga apareceu e perguntou se você vai mandar foto do peitoral no Kabaré",
+        "pushName": "Camila Designer",
+        "timestamp": 1788818947146
       }
     },
     "120363426574906687@g.us": {
@@ -25381,7 +25393,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788818936730,
+    "120363023757382018@g.us": 1788818963528,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
