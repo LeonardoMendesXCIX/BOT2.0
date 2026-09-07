@@ -4553,8 +4553,8 @@
       },
       "92629643563147": {
         "text": 197,
-        "media": 112,
-        "total": 309
+        "media": 113,
+        "total": 310
       },
       "559984624669": {
         "text": 4,
@@ -4567,9 +4567,9 @@
         "total": 1
       },
       "182738040713418": {
-        "text": 8,
+        "text": 10,
         "media": 2,
-        "total": 10
+        "total": 12
       },
       "81991328395336": {
         "text": 141,
@@ -6195,8 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Heloisa: Com bermuda de joga bola mesmo",
-        "Camila Designer: Amiga isso é no Kabaré",
         "Heloisa: Kkkkk",
         "jaciara: Anoite son",
         "Gabi 💋: Mais tarde tem",
@@ -6694,7 +6692,9 @@
         "Camila Designer: @241261818728589",
         "Juliano Perlin: Acho q Simm🤭",
         "Wellington: Boa tarde galerinha 😘",
-        "Camila Designer: Oi @182738040713418 , saudades sua 😏\nQuer dizer minha amiga estava!"
+        "Camila Designer: Oi @182738040713418 , saudades sua 😏\nQuer dizer minha amiga estava!",
+        "Wellington: Oi gata tbm estava com saudades da sua amiga",
+        "Wellington: EAI como vai ela ?"
       ]
     },
     "120363426574906687@g.us": {
@@ -6898,54 +6898,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Voltei meus amores",
-        "timestamp": 1788806864011
-      },
-      {
-        "authorNum": "118515428286715",
-        "authorName": "Saul",
-        "text": "42 não é coroa uai",
-        "timestamp": 1788806864951
-      },
-      {
-        "authorNum": "118515428286715",
-        "authorName": "Saul",
-        "text": "60+ é coroa",
-        "timestamp": 1788806869751
-      },
-      {
-        "authorNum": "118515428286715",
-        "authorName": "Saul",
-        "text": "Antes disso? \nTa na idade",
-        "timestamp": 1788806878239
-      },
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Qual a pauta",
-        "timestamp": 1788806879948
-      },
-      {
-        "authorNum": "118515428286715",
-        "authorName": "Saul",
-        "text": "Kkkkkk",
-        "timestamp": 1788806880024
-      },
-      {
-        "authorNum": "264308512522409",
-        "authorName": "Henrique Contri 🤫",
-        "text": "Já é uma senhora kk",
-        "timestamp": 1788806882682
-      },
-      {
-        "authorNum": "118515428286715",
-        "authorName": "Saul",
-        "text": "Não sei",
-        "timestamp": 1788806886916
-      },
       {
         "authorNum": "118515428286715",
         "authorName": "Saul",
@@ -7887,6 +7839,18 @@
         "authorName": "Camila Designer",
         "text": "Oi @182738040713418 , saudades sua 😏\nQuer dizer minha amiga estava!",
         "timestamp": 1788808645668
+      },
+      {
+        "authorNum": "182738040713418",
+        "authorName": "Wellington",
+        "text": "Oi gata tbm estava com saudades da sua amiga",
+        "timestamp": 1788808680312
+      },
+      {
+        "authorNum": "182738040713418",
+        "authorName": "Wellington",
+        "text": "EAI como vai ela ?",
+        "timestamp": 1788808688091
       }
     ],
     "120363426574906687@g.us": []
@@ -7911,7 +7875,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2393,
+    "120363023757382018@g.us": 2395,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -20634,6 +20598,18 @@
         "text": "Oi @182738040713418 , saudades sua 😏\nQuer dizer minha amiga estava!",
         "pushName": "Camila Designer",
         "timestamp": 1788808645668
+      },
+      "AC5CC737757F68491C4473CB87AAFC2A": {
+        "sender": "182738040713418@lid",
+        "text": "Oi gata tbm estava com saudades da sua amiga",
+        "pushName": "Wellington",
+        "timestamp": 1788808680312
+      },
+      "AC5AC844CBDDADBC3AF83862352F54C8": {
+        "sender": "182738040713418@lid",
+        "text": "EAI como vai ela ?",
+        "pushName": "Wellington",
+        "timestamp": 1788808688091
       }
     },
     "120363426574906687@g.us": {
@@ -21574,7 +21550,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788808645668,
+    "120363023757382018@g.us": 1788808691427,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
