@@ -4679,9 +4679,9 @@
         "total": 2
       },
       "59645049761949": {
-        "text": 32,
+        "text": 33,
         "media": 1,
-        "total": 33
+        "total": 34
       },
       "21338118979724": {
         "text": 3,
@@ -5622,7 +5622,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "jao: Plmds",
         "Leandro: Tchau, obrigado!",
         "Victor: só o CPF já fica bom, mano",
         "Leandro: Já foi tarde",
@@ -6121,7 +6120,8 @@
         "Cristian Sntss: Chamou de macaco cabelo de palha de aço",
         "Gabi 💋: Escrota né",
         "renan_wesley: Quando eu fiz trança aí sim deu trabalho mds",
-        "Gabi 💋: Qual modelo você colocou ?"
+        "Gabi 💋: Qual modelo você colocou ?",
+        "Amaury: Seja bem vinda"
       ]
     },
     "120363426574906687@g.us": {
@@ -6224,24 +6224,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "1,55",
-        "timestamp": 1788787341324
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Precisa de massagem e compressa de água morna pra ajuda",
-        "timestamp": 1788787341435
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Não parece",
-        "timestamp": 1788787350092
-      },
       {
         "authorNum": "21338118979724",
         "authorName": "Bruno Souza",
@@ -7501,6 +7483,12 @@
         "authorName": "Gabi 💋",
         "text": "Qual modelo você colocou ?",
         "timestamp": 1788789134843
+      },
+      {
+        "authorNum": "59645049761949",
+        "authorName": "Amaury",
+        "text": "Seja bem vinda",
+        "timestamp": 1788789159903
       }
     ],
     "120363426574906687@g.us": [
@@ -7598,7 +7586,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 774,
+    "120363023757382018@g.us": 775,
     "120363426574906687@g.us": 48
   },
   "botDisabled": {
@@ -10429,6 +10417,12 @@
         "text": "Qual modelo você colocou ?",
         "pushName": "Gabi 💋",
         "timestamp": 1788789134843
+      },
+      "AC717D62F9AB8702CAECD251CAABC5EF": {
+        "sender": "59645049761949@lid",
+        "text": "Seja bem vinda",
+        "pushName": "Amaury",
+        "timestamp": 1788789159903
       }
     },
     "120363426574906687@g.us": {
@@ -10580,7 +10574,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788789134843,
+    "120363023757382018@g.us": 1788789159903,
     "120363426574906687@g.us": 1788788012627
   },
   "autoAnimSent": {
