@@ -4497,9 +4497,9 @@
         "total": 169
       },
       "166452229341300": {
-        "text": 210,
+        "text": 212,
         "media": 65,
-        "total": 275
+        "total": 277
       },
       "53537388122141": {
         "text": 147,
@@ -5280,6 +5280,11 @@
         "text": 3,
         "media": 1,
         "total": 4
+      },
+      "171214744064197": {
+        "text": 0,
+        "media": 1,
+        "total": 1
       }
     },
     "120363426574906687@g.us": {
@@ -5294,14 +5299,14 @@
         "total": 32
       },
       "5511927018683": {
-        "text": 22,
+        "text": 23,
         "media": 0,
-        "total": 22
+        "total": 23
       },
       "92629643563147": {
         "text": 18,
-        "media": 1,
-        "total": 19
+        "media": 2,
+        "total": 20
       },
       "81991328395336": {
         "text": 8,
@@ -6163,9 +6168,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Bruno Aguiar: Obrigado",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Amiga isso é totalmente proibido kk",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: !ban",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Sim sim kkk",
         "Rodrígues: Meu nome é Jonathan mas me chama de tenho 39 anos sou natural de Fortaleza Ceará trabalho motorista estou estou de ônibus e uma multinacional",
         "P: Kkkkkk querendo papo com mina de 13 anos pô",
@@ -6662,7 +6664,10 @@
         "Cristian Sntss: Aqui hoje e amanhã",
         "Cristian Sntss: E feriado",
         "𝕰𝖛𝖆𝖓𝖉𝖗𝖔 𝕬𝖑𝖛𝖊𝖘: Aqui na Paraíba as praias estão super lotadas , nem me atrevi a ir kkk",
-        "Heloisa: Obrigada"
+        "Heloisa: Obrigada",
+        "Cristian Sntss: Lugar bom",
+        "Cristian Sntss: Paraíba",
+        "Márcio Bruxel: Marcio Bruxel\n49 anos \nHorizontina-RS \nPv liberado"
       ]
     },
     "120363426574906687@g.us": {
@@ -6781,7 +6786,8 @@
         "Leandro: Essa fuleragem",
         "Camila Designer: Pessoal",
         "Camila Designer: Um tal de Luiz Felipe apresentou",
-        "Camila Designer: Na foto tem uma criança de coroa"
+        "Camila Designer: Na foto tem uma criança de coroa",
+        "Leandro: Vou chamar aqui"
       ]
     }
   },
@@ -6800,12 +6806,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "Aqui no Maranhão o sol e o protagonista",
-        "timestamp": 1788797736664
-      },
       {
         "authorNum": "264308512522409",
         "authorName": "Henrique Contri 🤫",
@@ -7597,6 +7597,24 @@
         "authorName": "Heloisa",
         "text": "Obrigada",
         "timestamp": 1788799508210
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Lugar bom",
+        "timestamp": 1788799521107
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Paraíba",
+        "timestamp": 1788799523795
+      },
+      {
+        "authorNum": "171214744064197",
+        "authorName": "Márcio Bruxel",
+        "text": "Marcio Bruxel\n49 anos \nHorizontina-RS \nPv liberado",
+        "timestamp": 1788799538231
       }
     ],
     "120363426574906687@g.us": [
@@ -7659,6 +7677,12 @@
         "authorName": "Camila Designer",
         "text": "Na foto tem uma criança de coroa",
         "timestamp": 1788799511203
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Vou chamar aqui",
+        "timestamp": 1788799521871
       }
     ]
   },
@@ -7682,8 +7706,8 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1562,
-    "120363426574906687@g.us": 114
+    "120363023757382018@g.us": 1565,
+    "120363426574906687@g.us": 115
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -15352,6 +15376,24 @@
         "text": "Obrigada",
         "pushName": "Heloisa",
         "timestamp": 1788799508210
+      },
+      "A58F7DDB8260C7BB72852B37303F08B3": {
+        "sender": "166452229341300@lid",
+        "text": "Lugar bom",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788799521107
+      },
+      "A5AF76838F028F5DDD225C991D032F4F": {
+        "sender": "166452229341300@lid",
+        "text": "Paraíba",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788799523796
+      },
+      "ACC21C38D198AC06B2397F471491157A": {
+        "sender": "171214744064197@lid",
+        "text": "Marcio Bruxel\n49 anos \nHorizontina-RS \nPv liberado",
+        "pushName": "Márcio Bruxel",
+        "timestamp": 1788799538232
       }
     },
     "120363426574906687@g.us": {
@@ -15804,6 +15846,12 @@
         "text": "Na foto tem uma criança de coroa",
         "pushName": "Camila Designer",
         "timestamp": 1788799511204
+      },
+      "ACCCEA2F3FB296F35892EABC7800736A": {
+        "sender": "54259127210155@lid",
+        "text": "Vou chamar aqui",
+        "pushName": "Leandro",
+        "timestamp": 1788799521871
       }
     }
   },
@@ -15902,8 +15950,8 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788799515040,
-    "120363426574906687@g.us": 1788799511203
+    "120363023757382018@g.us": 1788799538231,
+    "120363426574906687@g.us": 1788799522772
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
