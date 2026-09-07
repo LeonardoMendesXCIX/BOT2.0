@@ -4547,9 +4547,9 @@
         "total": 4
       },
       "176171622899942": {
-        "text": 28,
+        "text": 30,
         "media": 7,
-        "total": 35
+        "total": 37
       },
       "92629643563147": {
         "text": 30,
@@ -4572,9 +4572,9 @@
         "total": 9
       },
       "81991328395336": {
-        "text": 101,
-        "media": 28,
-        "total": 129
+        "text": 102,
+        "media": 29,
+        "total": 131
       },
       "274384656834700": {
         "text": 33,
@@ -4592,9 +4592,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 133,
+        "text": 134,
         "media": 17,
-        "total": 150
+        "total": 151
       },
       "206966404210884": {
         "text": 2,
@@ -5142,9 +5142,9 @@
         "total": 1
       },
       "264308512522409": {
-        "text": 7,
+        "text": 8,
         "media": 1,
-        "total": 8
+        "total": 9
       },
       "194377938911429": {
         "text": 2,
@@ -6083,10 +6083,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: !ban",
-        "Cristian Sntss: Na cidade de vocês tá tendo desfile cívico?",
-        "Ton: Kkk  vai voltar a olhar o bom dia e companhia",
-        "Leandro: Aqui na região foi ontem",
         "Ton: Aqui bao pois to na praia",
         "𝑳𝒂𝒚𝒉🌪🌚: Aqui tu sabe que é hoje né",
         "John 😎: Por aqui ja acabou.",
@@ -6582,7 +6578,11 @@
         "Gabi 💋: Fui pra um emprego que dizia que ia pagar bem me lasquei",
         "Francisco Silva: Cidade veia kkkk",
         "Gabi 💋: Gostei da cidade",
-        "Gabi 💋: Só não gostei do safado que mentiu e me lascou"
+        "Gabi 💋: Só não gostei do safado que mentiu e me lascou",
+        "Jefinho: Que caloram",
+        "Henrique Contri 🤫: Tá de boa kkk",
+        "Gabi 💋: Morou muito tempo lá deve conhecer a peça",
+        "Jefinho: ❤️❤️"
       ]
     },
     "120363426574906687@g.us": {
@@ -6710,30 +6710,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "Já foi de arrasta",
-        "timestamp": 1788796033687
-      },
-      {
-        "authorNum": "78203284639856",
-        "authorName": "valeriovieira964",
-        "text": "Boa tarde",
-        "timestamp": 1788796047405
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Pessoal vamos expor o pessoal que chama no PV e fica enchendo o saco",
-        "timestamp": 1788796055298
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Vamos",
-        "timestamp": 1788796056216
-      },
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
@@ -7567,6 +7543,30 @@
         "authorName": "Gabi 💋",
         "text": "Só não gostei do safado que mentiu e me lascou",
         "timestamp": 1788797830920
+      },
+      {
+        "authorNum": "176171622899942",
+        "authorName": "Jefinho",
+        "text": "Que caloram",
+        "timestamp": 1788797837976
+      },
+      {
+        "authorNum": "264308512522409",
+        "authorName": "Henrique Contri 🤫",
+        "text": "Tá de boa kkk",
+        "timestamp": 1788797839443
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Morou muito tempo lá deve conhecer a peça",
+        "timestamp": 1788797856239
+      },
+      {
+        "authorNum": "176171622899942",
+        "authorName": "Jefinho",
+        "text": "❤️❤️",
+        "timestamp": 1788797863321
       }
     ],
     "120363426574906687@g.us": [
@@ -7652,7 +7652,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1441,
+    "120363023757382018@g.us": 1445,
     "120363426574906687@g.us": 104
   },
   "botDisabled": {
@@ -14596,6 +14596,30 @@
         "text": "Só não gostei do safado que mentiu e me lascou",
         "pushName": "Gabi 💋",
         "timestamp": 1788797830920
+      },
+      "AC0DF722DB9DBDD22E1D59524539DFD4": {
+        "sender": "176171622899942@lid",
+        "text": "Que caloram",
+        "pushName": "Jefinho",
+        "timestamp": 1788797837976
+      },
+      "ACD833F35C567CAC4BA1C0B7658EDA84": {
+        "sender": "264308512522409@lid",
+        "text": "Tá de boa kkk",
+        "pushName": "Henrique Contri 🤫",
+        "timestamp": 1788797839443
+      },
+      "AC01E778553BE55286164B148C6633D2": {
+        "sender": "247020967165997@lid",
+        "text": "Morou muito tempo lá deve conhecer a peça",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788797856240
+      },
+      "ACB225831D2051C084F5D8A27CCB6C6C": {
+        "sender": "176171622899942@lid",
+        "text": "❤️❤️",
+        "pushName": "Jefinho",
+        "timestamp": 1788797863322
       }
     },
     "120363426574906687@g.us": {
@@ -15086,7 +15110,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788797833824,
+    "120363023757382018@g.us": 1788797863321,
     "120363426574906687@g.us": 1788796664927
   },
   "autoAnimSent": {
