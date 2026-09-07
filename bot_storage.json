@@ -4507,9 +4507,9 @@
         "total": 167
       },
       "129373172711439": {
-        "text": 92,
+        "text": 93,
         "media": 26,
-        "total": 118
+        "total": 119
       },
       "138306604032063": {
         "text": 11,
@@ -6195,7 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Luis Felipe: Vou chamar então",
         "Camila Designer: Estamos de prova",
         "Cristian Sntss: @92629643563147 hj ta safra boa",
         "Camila Designer: A safra tem melhorado 🤣🤣🤣🤣",
@@ -6694,7 +6693,8 @@
         "Camila Designer: Bem e você?",
         "Celiete Souza: Equilibrado amigo",
         "willian: Que bom, bem também ☺️",
-        "willian: Tu viu que não cai kkkk"
+        "willian: Tu viu que não cai kkkk",
+        "Celiete Souza: Estou orgulhosa de você 🫵🏼"
       ]
     },
     "120363426574906687@g.us": {
@@ -6898,18 +6898,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Minha amiga vai dá banho nas crianças , organizar janta cedo",
-        "timestamp": 1788806291992
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Pra que ela não perca o kbaré",
-        "timestamp": 1788806301708
-      },
       {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
@@ -7965,6 +7953,12 @@
         "authorName": "willian",
         "text": "Tu viu que não cai kkkk",
         "timestamp": 1788808073547
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Estou orgulhosa de você 🫵🏼",
+        "timestamp": 1788808115476
       }
     ],
     "120363426574906687@g.us": []
@@ -7989,7 +7983,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2351,
+    "120363023757382018@g.us": 2352,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -20460,6 +20454,12 @@
         "text": "Tu viu que não cai kkkk",
         "pushName": "willian",
         "timestamp": 1788808073548
+      },
+      "AC61F3DBDE6C98A94231FE0ED425B3B0": {
+        "sender": "129373172711439@lid",
+        "text": "Estou orgulhosa de você 🫵🏼",
+        "pushName": "Celiete Souza",
+        "timestamp": 1788808115476
       }
     },
     "120363426574906687@g.us": {
@@ -21400,7 +21400,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788808073547,
+    "120363023757382018@g.us": 1788808115476,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
