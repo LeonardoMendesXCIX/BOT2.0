@@ -4465,9 +4465,9 @@
         "total": 2
       },
       "5511927018683": {
-        "text": 29,
+        "text": 30,
         "media": 5,
-        "total": 34
+        "total": 35
       },
       "81991328395336": {
         "text": 6,
@@ -4497,9 +4497,9 @@
         "total": 176
       },
       "166452229341300": {
-        "text": 235,
+        "text": 237,
         "media": 72,
-        "total": 307
+        "total": 309
       },
       "53537388122141": {
         "text": 150,
@@ -5282,9 +5282,9 @@
         "total": 4
       },
       "171214744064197": {
-        "text": 8,
+        "text": 9,
         "media": 2,
-        "total": 10
+        "total": 11
       },
       "198607978410013": {
         "text": 1,
@@ -5952,7 +5952,8 @@
         "Cristian Sntss: Coloquei 3 vezes",
         "Leandro: Pode colocar",
         "Leandro: Eu desativei a remoção automática",
-        "Cristian Sntss: Ele tá te esperando no grupo dele"
+        "Cristian Sntss: Ele tá te esperando no grupo dele",
+        "Leandro: Deixa ele continuar esperando"
       ]
     },
     "120363023757382018@g.us": {
@@ -6184,9 +6185,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Removido!",
-        "Cristian Sntss: !ban @54516523249835",
-        "Jacke França: Algm ajuda ov",
         "Jacke França: Pv",
         "Cristian Sntss: Pior q não consigo adiciona mais ele disse que espera",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Pode me chamar",
@@ -6683,7 +6681,10 @@
         "Henrique Contri 🤫: Se achando 🤣🤣🤣",
         "Márcio Bruxel: Pessoal...\nAproveitando o feriado?",
         "Heloisa: Não tô nem preciso",
-        "Luis Felipe: eita kk"
+        "Luis Felipe: eita kk",
+        "Márcio Bruxel: Aqui amanheceu com 5 graus",
+        "Cristian Sntss: Curtindo preguiça",
+        "Cristian Sntss: Tive nem ânimo pra ir vê o desfile cívico"
       ]
     },
     "120363426574906687@g.us": {
@@ -6856,6 +6857,12 @@
         "authorName": "Cristian Sntss",
         "text": "Ele tá te esperando no grupo dele",
         "timestamp": 1788801006971
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Deixa ele continuar esperando",
+        "timestamp": 1788801030080
       }
     ],
     "120363023757382018@g.us": [
@@ -7674,6 +7681,24 @@
         "authorName": "Luis Felipe",
         "text": "eita kk",
         "timestamp": 1788801016094
+      },
+      {
+        "authorNum": "171214744064197",
+        "authorName": "Márcio Bruxel",
+        "text": "Aqui amanheceu com 5 graus",
+        "timestamp": 1788801021463
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Curtindo preguiça",
+        "timestamp": 1788801027571
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Tive nem ânimo pra ir vê o desfile cívico",
+        "timestamp": 1788801040656
       }
     ],
     "120363426574906687@g.us": [
@@ -7926,8 +7951,8 @@
     "120363411043114631@g.us": 20,
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
-    "120363427545094619@g.us": 57,
-    "120363023757382018@g.us": 1691,
+    "120363427545094619@g.us": 58,
+    "120363023757382018@g.us": 1694,
     "120363426574906687@g.us": 145
   },
   "botDisabled": {
@@ -8401,6 +8426,12 @@
         "text": "Ele tá te esperando no grupo dele",
         "pushName": "Cristian Sntss",
         "timestamp": 1788801006971
+      },
+      "ACBC04C2F8A984B26695ABE8C4B0E3A8": {
+        "sender": "54259127210155@lid",
+        "text": "Deixa ele continuar esperando",
+        "pushName": "Leandro",
+        "timestamp": 1788801030080
       }
     },
     "120363023757382018@g.us": {
@@ -16377,6 +16408,24 @@
         "text": "eita kk",
         "pushName": "Luis Felipe",
         "timestamp": 1788801016094
+      },
+      "AC078540E04C55D9FACCD1C182F6A363": {
+        "sender": "171214744064197@lid",
+        "text": "Aqui amanheceu com 5 graus",
+        "pushName": "Márcio Bruxel",
+        "timestamp": 1788801021464
+      },
+      "A5A8DDB161951C556770947A498E0335": {
+        "sender": "166452229341300@lid",
+        "text": "Curtindo preguiça",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788801027571
+      },
+      "A52734D1CDB72CEE91A7D12EA3FA7C98": {
+        "sender": "166452229341300@lid",
+        "text": "Tive nem ânimo pra ir vê o desfile cívico",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788801040656
       }
     },
     "120363426574906687@g.us": {
@@ -17112,8 +17161,8 @@
     "120363411043114631@g.us": 1787897464612,
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
-    "120363427545094619@g.us": 1788801011798,
-    "120363023757382018@g.us": 1788801016094,
+    "120363427545094619@g.us": 1788801030079,
+    "120363023757382018@g.us": 1788801040656,
     "120363426574906687@g.us": 1788800965595
   },
   "autoAnimSent": {
