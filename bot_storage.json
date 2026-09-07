@@ -4517,9 +4517,9 @@
         "total": 202
       },
       "166452229341300": {
-        "text": 306,
+        "text": 307,
         "media": 91,
-        "total": 397
+        "total": 398
       },
       "53537388122141": {
         "text": 189,
@@ -6244,7 +6244,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "~🥷🏽: Vai ter link para entrar",
         "Henrique Contri 🤫: Vou observar kk",
         "Camila Designer: Qual seu nome?",
         "👻🤑: Marcos",
@@ -6743,7 +6742,8 @@
         "Saul: O cara perguntando se pode ver minhas veia",
         "Saul: Ksksks",
         "Saul: As ideias do energúmeno",
-        "Kaio Mendes: Alá"
+        "Kaio Mendes: Alá",
+        "Cristian Sntss: @54259127210155 \n\nVem vê os papos"
       ]
     },
     "120363426574906687@g.us": {
@@ -6947,12 +6947,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "59623457439943",
-        "authorName": "Victor",
-        "text": "e eu que ainda mando vez ou outra",
-        "timestamp": 1788812240978
-      },
       {
         "authorNum": "59623457439943",
         "authorName": "Victor",
@@ -7624,6 +7618,12 @@
         "authorName": "Kaio Mendes",
         "text": "Alá",
         "timestamp": 1788814035454
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "@54259127210155 \n\nVem vê os papos",
+        "timestamp": 1788814055388
       }
     ],
     "120363426574906687@g.us": []
@@ -7648,7 +7648,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2701,
+    "120363023757382018@g.us": 2702,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -22267,6 +22267,12 @@
         "text": "Alá",
         "pushName": "Kaio Mendes",
         "timestamp": 1788814035454
+      },
+      "A597C1551ECBAB5EBEFD6DB577AC688A": {
+        "sender": "166452229341300@lid",
+        "text": "@54259127210155 \n\nVem vê os papos",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788814055388
       }
     },
     "120363426574906687@g.us": {
@@ -23207,7 +23213,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788814035454,
+    "120363023757382018@g.us": 1788814055388,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
