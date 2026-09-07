@@ -4489,9 +4489,9 @@
         "total": 164
       },
       "166452229341300": {
-        "text": 117,
+        "text": 118,
         "media": 41,
-        "total": 158
+        "total": 159
       },
       "53537388122141": {
         "text": 49,
@@ -4759,9 +4759,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 27,
+        "text": 28,
         "media": 0,
-        "total": 27
+        "total": 28
       },
       "89305909317735": {
         "text": 1,
@@ -5707,8 +5707,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "jaciara: Bom dia",
-        "Gabi 💋: Bom dia",
         "Gilvando: Sou gilvando tenho 48 ano",
         "Gabi 💋: Seja bem vindo",
         "renan_wesley: Nome Renan Wesley",
@@ -6206,7 +6204,9 @@
         "Cristian Sntss: @92629643563147",
         "Cristian Sntss: Vi uma foto que te interessa",
         "Thawan: @152274357751809",
-        "Cristian Sntss: Bem vindo"
+        "Cristian Sntss: Bem vindo",
+        "Cristian Sntss: Bem vindo",
+        "Heloisa: Oi ?"
       ]
     },
     "120363426574906687@g.us": {
@@ -6312,24 +6312,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "152274357751809",
-        "authorName": "Heloisa",
-        "text": "Eu tenho 21 anos solteira",
-        "timestamp": 1788789246092
-      },
-      {
-        "authorNum": "59645049761949",
-        "authorName": "Amaury",
-        "text": "Quem aí gosta de onça",
-        "timestamp": 1788789252601
-      },
-      {
-        "authorNum": "59645049761949",
-        "authorName": "Amaury",
-        "text": "Já viu uma de perto",
-        "timestamp": 1788789258104
-      },
       {
         "authorNum": "59645049761949",
         "authorName": "Amaury",
@@ -7091,6 +7073,18 @@
         "authorName": "Cristian Sntss",
         "text": "Bem vindo",
         "timestamp": 1788791037846
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Bem vindo",
+        "timestamp": 1788791044339
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Oi ?",
+        "timestamp": 1788791061484
       }
     ],
     "120363426574906687@g.us": [
@@ -7320,7 +7314,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 910,
+    "120363023757382018@g.us": 912,
     "120363426574906687@g.us": 82
   },
   "botDisabled": {
@@ -10969,6 +10963,18 @@
         "text": "Bem vindo",
         "pushName": "Cristian Sntss",
         "timestamp": 1788791037846
+      },
+      "A560DC121C0F4DFA2B7DCFFD09738763": {
+        "sender": "166452229341300@lid",
+        "text": "Bem vindo",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788791044339
+      },
+      "ACF810126690854A80053BA63A1CB899": {
+        "sender": "152274357751809@lid",
+        "text": "Oi ?",
+        "pushName": "Heloisa",
+        "timestamp": 1788791061484
       }
     },
     "120363426574906687@g.us": {
@@ -11324,7 +11330,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788791037846,
+    "120363023757382018@g.us": 1788791061484,
     "120363426574906687@g.us": 1788790960634
   },
   "autoAnimSent": {
