@@ -4537,9 +4537,9 @@
         "total": 15
       },
       "262182034002040": {
-        "text": 40,
+        "text": 41,
         "media": 4,
-        "total": 44
+        "total": 45
       },
       "199733712785531": {
         "text": 4,
@@ -4932,9 +4932,9 @@
         "total": 1
       },
       "39857447551026": {
-        "text": 25,
+        "text": 26,
         "media": 1,
-        "total": 26
+        "total": 27
       },
       "134888363671607": {
         "text": 1,
@@ -5142,9 +5142,9 @@
         "total": 1
       },
       "264308512522409": {
-        "text": 40,
+        "text": 42,
         "media": 3,
-        "total": 43
+        "total": 45
       },
       "194377938911429": {
         "text": 9,
@@ -5237,9 +5237,9 @@
         "total": 8
       },
       "241261818728589": {
-        "text": 1,
-        "media": 0,
-        "total": 1
+        "text": 2,
+        "media": 1,
+        "total": 3
       },
       "259588561625272": {
         "text": 1,
@@ -6190,10 +6190,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "😃: Oiii",
-        "😃: Boa tarde",
-        "😃: William",
-        "😃: São paulo",
         "😃: Solteiro",
         "Heloisa: Bem vindo",
         "😃: Eu tenho 37 ano",
@@ -6689,7 +6685,11 @@
         "Luis Felipe: se doido né",
         "Luis Felipe: Tenho 21 se doido",
         "𝑳𝒂𝒚𝒉🌪🌚: 😹😹😹",
-        "Dany: Oi! Tudo bem?"
+        "Dany: Oi! Tudo bem?",
+        "Henrique Contri 🤫: Eu já sabia tava só te zuando kkkk",
+        "sorveteria: Aqui de Rondônia",
+        "Francisco Silva: Pior kkk",
+        "Henrique Contri 🤫: Nunca vi um velho chamar Luiz Felipe kkk"
       ]
     },
     "120363426574906687@g.us": {
@@ -6901,30 +6901,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "152274357751809",
-        "authorName": "Heloisa",
-        "text": "Sim mas kk tô tranquila",
-        "timestamp": 1788799817040
-      },
-      {
-        "authorNum": "152274357751809",
-        "authorName": "Heloisa",
-        "text": "Ah lembrei vc é magrinho e bonito",
-        "timestamp": 1788799825737
-      },
-      {
-        "authorNum": "220980429479955",
-        "authorName": "Douglas🙏",
-        "text": "Dotado rsrs",
-        "timestamp": 1788799835157
-      },
-      {
-        "authorNum": "136296492200083",
-        "authorName": "Luis Felipe",
-        "text": "oiá 🤭",
-        "timestamp": 1788799839824
-      },
       {
         "authorNum": "152274357751809",
         "authorName": "Heloisa",
@@ -7638,6 +7614,30 @@
         "authorName": "Dany",
         "text": "Oi! Tudo bem?",
         "timestamp": 1788801615896
+      },
+      {
+        "authorNum": "264308512522409",
+        "authorName": "Henrique Contri 🤫",
+        "text": "Eu já sabia tava só te zuando kkkk",
+        "timestamp": 1788801636520
+      },
+      {
+        "authorNum": "241261818728589",
+        "authorName": "sorveteria",
+        "text": "Aqui de Rondônia",
+        "timestamp": 1788801640447
+      },
+      {
+        "authorNum": "39857447551026",
+        "authorName": "Francisco Silva",
+        "text": "Pior kkk",
+        "timestamp": 1788801651007
+      },
+      {
+        "authorNum": "264308512522409",
+        "authorName": "Henrique Contri 🤫",
+        "text": "Nunca vi um velho chamar Luiz Felipe kkk",
+        "timestamp": 1788801654791
       }
     ],
     "120363426574906687@g.us": [
@@ -7831,7 +7831,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 63,
-    "120363023757382018@g.us": 1722,
+    "120363023757382018@g.us": 1726,
     "120363426574906687@g.us": 145
   },
   "botDisabled": {
@@ -16503,6 +16503,30 @@
         "text": "Oi! Tudo bem?",
         "pushName": "Dany",
         "timestamp": 1788801615896
+      },
+      "AC5CF6B70624101CB060B6CB8834FE12": {
+        "sender": "264308512522409@lid",
+        "text": "Eu já sabia tava só te zuando kkkk",
+        "pushName": "Henrique Contri 🤫",
+        "timestamp": 1788801636520
+      },
+      "A5D5A40EACC6B6D0DF91C8CDBCC76633": {
+        "sender": "241261818728589@lid",
+        "text": "Aqui de Rondônia",
+        "pushName": "sorveteria",
+        "timestamp": 1788801640447
+      },
+      "AC68D7CD4C6E2CB09C725C3A3A649A51": {
+        "sender": "39857447551026@lid",
+        "text": "Pior kkk",
+        "pushName": "Francisco Silva",
+        "timestamp": 1788801651008
+      },
+      "ACA2CA06541A08BFF7B7FC7EC98BE6EA": {
+        "sender": "264308512522409@lid",
+        "text": "Nunca vi um velho chamar Luiz Felipe kkk",
+        "pushName": "Henrique Contri 🤫",
+        "timestamp": 1788801654791
       }
     },
     "120363426574906687@g.us": {
@@ -17239,7 +17263,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788801564643,
-    "120363023757382018@g.us": 1788801615896,
+    "120363023757382018@g.us": 1788801654791,
     "120363426574906687@g.us": 1788801476879
   },
   "autoAnimSent": {
