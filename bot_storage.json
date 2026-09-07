@@ -4572,9 +4572,9 @@
         "total": 9
       },
       "81991328395336": {
-        "text": 123,
+        "text": 124,
         "media": 35,
-        "total": 158
+        "total": 159
       },
       "274384656834700": {
         "text": 33,
@@ -5217,9 +5217,9 @@
         "total": 1
       },
       "136296492200083": {
-        "text": 29,
+        "text": 30,
         "media": 7,
-        "total": 36
+        "total": 37
       },
       "252342414905454": {
         "text": 7,
@@ -6188,7 +6188,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Cristian Sntss: !ban @208701721993439",
         "Cristian Sntss: Graças a Deus bot tá ativo",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Amém 🙆🏻‍♀️🤡",
         "JUNIOR: ??",
@@ -6687,7 +6686,8 @@
         "Heloisa: Ele tem 65 anos",
         "Francisco Silva: Pé na cova kkkk",
         "Luis Felipe: Kk",
-        "Henrique Contri 🤫: Tá na flor da idade kkk"
+        "Henrique Contri 🤫: Tá na flor da idade kkk",
+        "Luis Felipe: Na onde kk"
       ]
     },
     "120363426574906687@g.us": {
@@ -7768,6 +7768,12 @@
         "authorName": "Henrique Contri 🤫",
         "text": "Tá na flor da idade kkk",
         "timestamp": 1788801237750
+      },
+      {
+        "authorNum": "136296492200083",
+        "authorName": "Luis Felipe",
+        "text": "Na onde kk",
+        "timestamp": 1788801256812
       }
     ],
     "120363426574906687@g.us": [
@@ -8021,7 +8027,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 61,
-    "120363023757382018@g.us": 1707,
+    "120363023757382018@g.us": 1708,
     "120363426574906687@g.us": 145
   },
   "botDisabled": {
@@ -16591,6 +16597,12 @@
         "text": "Tá na flor da idade kkk",
         "pushName": "Henrique Contri 🤫",
         "timestamp": 1788801237750
+      },
+      "3A7C78813798A52B4A1D": {
+        "sender": "136296492200083@lid",
+        "text": "Na onde kk",
+        "pushName": "Luis Felipe",
+        "timestamp": 1788801256812
       }
     },
     "120363426574906687@g.us": {
@@ -17327,7 +17339,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788801171258,
-    "120363023757382018@g.us": 1788801237796,
+    "120363023757382018@g.us": 1788801256812,
     "120363426574906687@g.us": 1788800965595
   },
   "autoAnimSent": {
