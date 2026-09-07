@@ -4563,9 +4563,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 234,
+        "text": 235,
         "media": 127,
-        "total": 361
+        "total": 362
       },
       "559984624669": {
         "text": 4,
@@ -4933,9 +4933,9 @@
         "total": 1
       },
       "36645315321925": {
-        "text": 28,
+        "text": 29,
         "media": 3,
-        "total": 31
+        "total": 32
       },
       "187845394358417": {
         "text": 1,
@@ -5318,9 +5318,9 @@
         "total": 1
       },
       "554891353479": {
-        "text": 1,
+        "text": 2,
         "media": 0,
-        "total": 1
+        "total": 2
       }
     },
     "120363426574906687@g.us": {
@@ -6225,9 +6225,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Henrique Contri 🤫: Tá amarelando? Kkk",
-        "Camila Designer: Aranha esse horário proibido 🤣🤣🤣",
-        "Camila Designer: Eu? Você que arregou e deu desculpa de frio",
         "Gabi 💋: Primeiro e o peitoral depois a pinça",
         "Henrique Contri 🤫: Tá 18 grau aqui 🤣🤣",
         "Henrique Contri 🤫: Tem tara em peitos kkkk",
@@ -6724,7 +6721,10 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: @all \nNão cliquem em nada!! Isso é um vírus!!!",
         "Felippo: bota pra só adm mudar as info do grupo",
         "Felippo: se não vai ficar bagunçado assim",
-        "Camila Designer: Mas já está"
+        "Camila Designer: Mas já está",
+        "Felippo: o cara era adm?",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Não",
+        "Camila Designer: Acho que o Lauan ativou agora kkk"
       ]
     },
     "120363426574906687@g.us": {
@@ -7589,6 +7589,24 @@
         "authorName": "Camila Designer",
         "text": "Mas já está",
         "timestamp": 1788810941904
+      },
+      {
+        "authorNum": "36645315321925",
+        "authorName": "Felippo",
+        "text": "o cara era adm?",
+        "timestamp": 1788810954059
+      },
+      {
+        "authorNum": "554891353479",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Não",
+        "timestamp": 1788810964529
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Acho que o Lauan ativou agora kkk",
+        "timestamp": 1788810970224
       }
     ],
     "120363426574906687@g.us": []
@@ -7613,7 +7631,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2548,
+    "120363023757382018@g.us": 2551,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -21323,6 +21341,24 @@
         "text": "Mas já está",
         "pushName": "Camila Designer",
         "timestamp": 1788810941904
+      },
+      "3AB7422FC0DA09CD83F3": {
+        "sender": "36645315321925@lid",
+        "text": "o cara era adm?",
+        "pushName": "Felippo",
+        "timestamp": 1788810954059
+      },
+      "ACF0F926D4EE5BD0D9460BFE0E83AD41": {
+        "sender": "53537388122141@lid",
+        "text": "Não",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788810964529
+      },
+      "2AF24EAD515C12944FB4": {
+        "sender": "92629643563147@lid",
+        "text": "Acho que o Lauan ativou agora kkk",
+        "pushName": "Camila Designer",
+        "timestamp": 1788810970224
       }
     },
     "120363426574906687@g.us": {
@@ -22263,7 +22299,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788810941904,
+    "120363023757382018@g.us": 1788810970224,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
