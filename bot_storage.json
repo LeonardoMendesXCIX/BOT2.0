@@ -4498,8 +4498,8 @@
       },
       "166452229341300": {
         "text": 231,
-        "media": 70,
-        "total": 301
+        "media": 71,
+        "total": 302
       },
       "53537388122141": {
         "text": 150,
@@ -4767,9 +4767,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 144,
+        "text": 145,
         "media": 1,
-        "total": 145
+        "total": 146
       },
       "89305909317735": {
         "text": 1,
@@ -5217,9 +5217,9 @@
         "total": 1
       },
       "136296492200083": {
-        "text": 19,
+        "text": 20,
         "media": 7,
-        "total": 26
+        "total": 27
       },
       "252342414905454": {
         "text": 7,
@@ -6183,7 +6183,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Heloisa: Grupo só tem gente bonita",
         "𝑳𝒂𝒚𝒉🌪🌚: Vou atrás da minha remoção",
         "Heloisa: Tanto os homens quanto as mulheres",
         "Matheus Maia: boa tarde",
@@ -6682,7 +6681,8 @@
         "Heloisa: Que faz de bom aí",
         "Luis Felipe: Nada mal tédio e vc",
         "Heloisa: Também no tecido",
-        "Cristian Sntss: Ela dando aulas"
+        "Cristian Sntss: Ela dando aulas",
+        "Luis Felipe: somos dois então nada pra fazer"
       ]
     },
     "120363426574906687@g.us": {
@@ -6850,18 +6850,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "Bem vindo",
-        "timestamp": 1788798936048
-      },
-      {
-        "authorNum": "136296492200083",
-        "authorName": "Luis Felipe",
-        "text": "Sim e vc",
-        "timestamp": 1788798938670
-      },
       {
         "authorNum": "166452229341300",
         "authorName": "Cristian Sntss",
@@ -7593,6 +7581,12 @@
         "authorName": "Cristian Sntss",
         "text": "Ela dando aulas",
         "timestamp": 1788800730891
+      },
+      {
+        "authorNum": "136296492200083",
+        "authorName": "Luis Felipe",
+        "text": "somos dois então nada pra fazer",
+        "timestamp": 1788800744891
       }
     ],
     "120363426574906687@g.us": [
@@ -7840,7 +7834,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1670,
+    "120363023757382018@g.us": 1671,
     "120363426574906687@g.us": 144
   },
   "botDisabled": {
@@ -16158,6 +16152,12 @@
         "text": "Ela dando aulas",
         "pushName": "Cristian Sntss",
         "timestamp": 1788800730891
+      },
+      "3A20A8409ED82CEA2AAD": {
+        "sender": "136296492200083@lid",
+        "text": "somos dois então nada pra fazer",
+        "pushName": "Luis Felipe",
+        "timestamp": 1788800744892
       }
     },
     "120363426574906687@g.us": {
@@ -16888,7 +16888,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788800730891,
+    "120363023757382018@g.us": 1788800744891,
     "120363426574906687@g.us": 1788800679780
   },
   "autoAnimSent": {
