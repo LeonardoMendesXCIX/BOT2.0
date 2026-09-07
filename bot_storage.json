@@ -4446,9 +4446,9 @@
     },
     "120363427545094619@g.us": {
       "166452229341300": {
-        "text": 12,
+        "text": 13,
         "media": 2,
-        "total": 14
+        "total": 15
       },
       "559991116887": {
         "text": 2,
@@ -4488,9 +4488,9 @@
         "total": 98
       },
       "53537388122141": {
-        "text": 41,
+        "text": 42,
         "media": 5,
-        "total": 46
+        "total": 47
       },
       "129373172711439": {
         "text": 27,
@@ -4678,9 +4678,9 @@
         "total": 2
       },
       "59645049761949": {
-        "text": 22,
+        "text": 23,
         "media": 0,
-        "total": 22
+        "total": 23
       },
       "21338118979724": {
         "text": 3,
@@ -4694,8 +4694,8 @@
       },
       "193733257609270": {
         "text": 1,
-        "media": 0,
-        "total": 1
+        "media": 1,
+        "total": 2
       }
     },
     "120363426574906687@g.us": {
@@ -5316,7 +5316,8 @@
         "Leandro: !antidelete off",
         "Leandro: !del",
         "Leandro: Bom dia",
-        "Leandro: E aí? Vão manter a Camila na gerência?"
+        "Leandro: E aí? Vão manter a Camila na gerência?",
+        "Cristian Sntss: Sim"
       ]
     },
     "120363023757382018@g.us": {
@@ -5933,7 +5934,10 @@
         "solteiro: Ok",
         "Amaury: Borá galera",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Os novatos amiga",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Que não se apresentaram ainda"
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Que não se apresentaram ainda",
+        "Wellygton Douglas: Wellygton aqui sou de Pernambuco 36 anos pv liberado",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Bem vindo!",
+        "Amaury: PV liberado"
       ]
     },
     "120363426574906687@g.us": {
@@ -6001,6 +6005,12 @@
         "authorName": "Leandro",
         "text": "E aí? Vão manter a Camila na gerência?",
         "timestamp": 1788787544412
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Sim",
+        "timestamp": 1788787707948
       }
     ],
     "120363023757382018@g.us": [
@@ -6567,6 +6577,24 @@
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "text": "Que não se apresentaram ainda",
         "timestamp": 1788787682072
+      },
+      {
+        "authorNum": "193733257609270",
+        "authorName": "Wellygton Douglas",
+        "text": "Wellygton aqui sou de Pernambuco 36 anos pv liberado",
+        "timestamp": 1788787704193
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Bem vindo!",
+        "timestamp": 1788787717395
+      },
+      {
+        "authorNum": "59645049761949",
+        "authorName": "Amaury",
+        "text": "PV liberado",
+        "timestamp": 1788787721872
       }
     ],
     "120363426574906687@g.us": []
@@ -6590,8 +6618,8 @@
     "120363411043114631@g.us": 20,
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
-    "120363427545094619@g.us": 35,
-    "120363023757382018@g.us": 612,
+    "120363427545094619@g.us": 36,
+    "120363023757382018@g.us": 615,
     "120363426574906687@g.us": 36
   },
   "botDisabled": {
@@ -6929,6 +6957,12 @@
         "text": "E aí? Vão manter a Camila na gerência?",
         "pushName": "Leandro",
         "timestamp": 1788787544412
+      },
+      "A5E062B09B3AFC2274D364FE477F3B14": {
+        "sender": "166452229341300@lid",
+        "text": "Sim",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788787707948
       }
     },
     "120363023757382018@g.us": {
@@ -8455,6 +8489,24 @@
         "text": "Que não se apresentaram ainda",
         "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "timestamp": 1788787682072
+      },
+      "3A4FBC7F6CB568B1A47D": {
+        "sender": "193733257609270@lid",
+        "text": "Wellygton aqui sou de Pernambuco 36 anos pv liberado",
+        "pushName": "Wellygton Douglas",
+        "timestamp": 1788787704193
+      },
+      "AC27865D944E644CAC0E1055D4056030": {
+        "sender": "53537388122141@lid",
+        "text": "Bem vindo!",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788787717395
+      },
+      "AC2B90241FF85CE167F865C956725035": {
+        "sender": "59645049761949@lid",
+        "text": "PV liberado",
+        "pushName": "Amaury",
+        "timestamp": 1788787721872
       }
     },
     "120363426574906687@g.us": {}
@@ -8550,8 +8602,8 @@
     "120363411043114631@g.us": 1787897464612,
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
-    "120363427545094619@g.us": 1788787544412,
-    "120363023757382018@g.us": 1788787682072,
+    "120363427545094619@g.us": 1788787707948,
+    "120363023757382018@g.us": 1788787721872,
     "120363426574906687@g.us": 1788725639102
   },
   "autoAnimSent": {
