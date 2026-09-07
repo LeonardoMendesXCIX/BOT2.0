@@ -4765,9 +4765,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 82,
+        "text": 83,
         "media": 1,
-        "total": 83
+        "total": 84
       },
       "89305909317735": {
         "text": 1,
@@ -5020,14 +5020,24 @@
         "total": 1
       },
       "236936300122174": {
-        "text": 0,
+        "text": 1,
         "media": 1,
-        "total": 1
+        "total": 2
       },
       "176549663916038": {
-        "text": 5,
+        "text": 6,
         "media": 0,
-        "total": 5
+        "total": 6
+      },
+      "207610548584554": {
+        "text": 1,
+        "media": 0,
+        "total": 1
+      },
+      "280041145524422": {
+        "text": 1,
+        "media": 0,
+        "total": 1
       }
     },
     "120363426574906687@g.us": {
@@ -5904,10 +5914,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Cristian Sntss: Se apresente galera",
-        "Gabi 💋: Está entrando muito homem \nKD as mulheres",
-        "solteiro: Sim",
-        "Gabi 💋: Tá difícil o povo ler e se apresentar",
         "IRINEU FREITAS 🫥🤪: Meu nome e José \n31 amor \nSou de sp",
         "Cristian Sntss: O xacina saiu",
         "lucas santos: bom dia satisfação Lucas tenho 28 ano sou do rio de janeiro sou hétero",
@@ -6403,7 +6409,11 @@
         "😃: Boa tarde",
         "😃: William",
         "😃: São paulo",
-        "😃: Solteiro"
+        "😃: Solteiro",
+        "Heloisa: Bem vindo",
+        "😃: Eu tenho 37 ano",
+        "Jaime: Boa tarde a todos e a todas as mulheres bonitas",
+        "Lucas Henrique: Obrigado ☺️"
       ]
     },
     "120363426574906687@g.us": {
@@ -6561,24 +6571,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "1395881181241",
-        "authorName": "Bruno Aguiar",
-        "text": "Pelo jeito muita invasão de PV kkkk",
-        "timestamp": 1788793240279
-      },
-      {
-        "authorNum": "152274357751809",
-        "authorName": "Heloisa",
-        "text": "Mas aqui sim RS gatinho",
-        "timestamp": 1788793246677
-      },
-      {
-        "authorNum": "38590297972975",
-        "authorName": "Charles Assis",
-        "text": "Os cara viaja legal",
-        "timestamp": 1788793249319
-      },
       {
         "authorNum": "1395881181241",
         "authorName": "Bruno Aguiar",
@@ -7430,6 +7422,30 @@
         "authorName": "😃",
         "text": "Solteiro",
         "timestamp": 1788795027844
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Bem vindo",
+        "timestamp": 1788795032091
+      },
+      {
+        "authorNum": "176549663916038",
+        "authorName": "😃",
+        "text": "Eu tenho 37 ano",
+        "timestamp": 1788795035155
+      },
+      {
+        "authorNum": "207610548584554",
+        "authorName": "Jaime",
+        "text": "Boa tarde a todos e a todas as mulheres bonitas",
+        "timestamp": 1788795046843
+      },
+      {
+        "authorNum": "236936300122174",
+        "authorName": "Lucas Henrique",
+        "text": "Obrigado ☺️",
+        "timestamp": 1788795051328
       }
     ],
     "120363426574906687@g.us": [
@@ -7461,7 +7477,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 49,
-    "120363023757382018@g.us": 1227,
+    "120363023757382018@g.us": 1231,
     "120363426574906687@g.us": 91
   },
   "botDisabled": {
@@ -13078,6 +13094,30 @@
         "text": "Solteiro",
         "pushName": "😃",
         "timestamp": 1788795027844
+      },
+      "AC409EF82E39F5952C2564B945C2B770": {
+        "sender": "152274357751809@lid",
+        "text": "Bem vindo",
+        "pushName": "Heloisa",
+        "timestamp": 1788795032091
+      },
+      "AC9AB539C7E022947DAE50253D45EAB3": {
+        "sender": "176549663916038@lid",
+        "text": "Eu tenho 37 ano",
+        "pushName": "😃",
+        "timestamp": 1788795035155
+      },
+      "ACAC7C4D292E8215324661F397FCE710": {
+        "sender": "207610548584554@lid",
+        "text": "Boa tarde a todos e a todas as mulheres bonitas",
+        "pushName": "Jaime",
+        "timestamp": 1788795046844
+      },
+      "3ABA86FF9C55D1D2D67B": {
+        "sender": "236936300122174@lid",
+        "text": "Obrigado ☺️",
+        "pushName": "Lucas Henrique",
+        "timestamp": 1788795051328
       }
     },
     "120363426574906687@g.us": {
@@ -13487,7 +13527,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788794665827,
-    "120363023757382018@g.us": 1788795027844,
+    "120363023757382018@g.us": 1788795054048,
     "120363426574906687@g.us": 1788794708224
   },
   "autoAnimSent": {
