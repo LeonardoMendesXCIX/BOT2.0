@@ -4484,9 +4484,9 @@
         "total": 164
       },
       "166452229341300": {
-        "text": 68,
+        "text": 69,
         "media": 35,
-        "total": 103
+        "total": 104
       },
       "53537388122141": {
         "text": 45,
@@ -4579,9 +4579,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 88,
+        "text": 89,
         "media": 10,
-        "total": 98
+        "total": 99
       },
       "206966404210884": {
         "text": 2,
@@ -4689,9 +4689,9 @@
         "total": 4
       },
       "128145298608376": {
-        "text": 16,
+        "text": 17,
         "media": 2,
-        "total": 18
+        "total": 19
       },
       "193733257609270": {
         "text": 1,
@@ -4714,9 +4714,9 @@
         "total": 1
       },
       "216183521415213": {
-        "text": 4,
+        "text": 5,
         "media": 1,
-        "total": 5
+        "total": 6
       },
       "155503636275307": {
         "text": 0,
@@ -4727,6 +4727,16 @@
         "text": 1,
         "media": 1,
         "total": 2
+      },
+      "86114681528454": {
+        "text": 1,
+        "media": 0,
+        "total": 1
+      },
+      "179354244005905": {
+        "text": 1,
+        "media": 0,
+        "total": 1
       }
     },
     "120363426574906687@g.us": {
@@ -6049,7 +6059,12 @@
         ": Bruno 31 anos, Rio de janeiro , hetero , PV liberado",
         "xacinaluzqradiaoinferno71: n, tenho 19 achei q n podia no grupo",
         "Gleydson Souza: Então apresente-se",
-        "Gleydson Souza: Pois pode"
+        "Gleydson Souza: Pois pode",
+        "Cristian Sntss: Se apresente",
+        "Gabi 💋: Sendo de maio pode",
+        "S2: Bom feriado a todos",
+        "Antonio: Hello my name is Antonio 22 years old",
+        "solteiro: Ok"
       ]
     },
     "120363426574906687@g.us": {
@@ -7177,6 +7192,36 @@
         "authorName": "Gleydson Souza",
         "text": "Pois pode",
         "timestamp": 1788788261820
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Se apresente",
+        "timestamp": 1788788266295
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Sendo de maio pode",
+        "timestamp": 1788788280380
+      },
+      {
+        "authorNum": "216183521415213",
+        "authorName": "S2",
+        "text": "Bom feriado a todos",
+        "timestamp": 1788788282472
+      },
+      {
+        "authorNum": "179354244005905",
+        "authorName": "Antonio",
+        "text": "Hello my name is Antonio 22 years old",
+        "timestamp": 1788788285097
+      },
+      {
+        "authorNum": "128145298608376",
+        "authorName": "solteiro",
+        "text": "Ok",
+        "timestamp": 1788788286412
       }
     ],
     "120363426574906687@g.us": [
@@ -7274,7 +7319,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 689,
+    "120363023757382018@g.us": 694,
     "120363426574906687@g.us": 48
   },
   "botDisabled": {
@@ -9607,6 +9652,36 @@
         "text": "Pois pode",
         "pushName": "Gleydson Souza",
         "timestamp": 1788788261820
+      },
+      "A5DA290D261233FFFC10F3358827649B": {
+        "sender": "166452229341300@lid",
+        "text": "Se apresente",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788788266296
+      },
+      "ACC3935D4DAF933AA8204F459860CBA4": {
+        "sender": "247020967165997@lid",
+        "text": "Sendo de maio pode",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788788280380
+      },
+      "AC3258A952D2FB72351E8932241D420B": {
+        "sender": "216183521415213@lid",
+        "text": "Bom feriado a todos",
+        "pushName": "S2",
+        "timestamp": 1788788282472
+      },
+      "AC91269B9AE5CAC2A93964878F5B104A": {
+        "sender": "179354244005905@lid",
+        "text": "Hello my name is Antonio 22 years old",
+        "pushName": "Antonio",
+        "timestamp": 1788788285097
+      },
+      "A5E4809A3CEB450B0A77BF0C878CA03C": {
+        "sender": "128145298608376@lid",
+        "text": "Ok",
+        "pushName": "solteiro",
+        "timestamp": 1788788286413
       }
     },
     "120363426574906687@g.us": {
@@ -9758,7 +9833,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788788261820,
+    "120363023757382018@g.us": 1788788286412,
     "120363426574906687@g.us": 1788788012627
   },
   "autoAnimSent": {
