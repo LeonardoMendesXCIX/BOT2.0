@@ -4563,9 +4563,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 242,
-        "media": 130,
-        "total": 372
+        "text": 243,
+        "media": 131,
+        "total": 374
       },
       "559984624669": {
         "text": 4,
@@ -4578,9 +4578,9 @@
         "total": 1
       },
       "182738040713418": {
-        "text": 42,
+        "text": 43,
         "media": 11,
-        "total": 53
+        "total": 54
       },
       "81991328395336": {
         "text": 141,
@@ -4743,9 +4743,9 @@
         "total": 6
       },
       "155503636275307": {
-        "text": 3,
+        "text": 5,
         "media": 5,
-        "total": 8
+        "total": 10
       },
       "64540909826263": {
         "text": 2,
@@ -6235,10 +6235,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Gabi 💋: Queria um bombom cravejado",
-        "jaciara: @118515428286715 cê tem quantos anos ?",
-        "Henrique Contri 🤫: Mais tarde te dou 🤣🤣",
-        "Saul: 26 🫠",
         "Camila Designer: Sobre isso ❤️",
         "Gabi 💋: Vc é de que lugar do interior de sp",
         "Saul: Tenho a idade que vocês quiserem",
@@ -6734,7 +6730,11 @@
         "Camila Designer: Roles",
         "Clayton 🇳🇬: Será que esta assim",
         "Clayton 🇳🇬: Hoje em dia",
-        "Camila Designer: Brincando gente"
+        "Camila Designer: Brincando gente",
+        "Camila Designer: @79728216113177 se apresente",
+        "Clayton 🇳🇬: Vou te mandar kkk",
+        "Clayton 🇳🇬: Roles kkk",
+        "Wellington: Eita kkkk"
       ]
     },
     "120363426574906687@g.us": {
@@ -6938,30 +6938,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "241261818728589",
-        "authorName": "sorveteria",
-        "text": "😳",
-        "timestamp": 1788810612680
-      },
-      {
-        "authorNum": "36645315321925",
-        "authorName": "Felippo",
-        "text": "o meu amor, vou lhe buscar mas a gente só bebe mais tarde",
-        "timestamp": 1788810618011
-      },
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "Não \nPq?",
-        "timestamp": 1788810624556
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Bem vinda @221307534876912 !\nSe apresente!",
-        "timestamp": 1788810636228
-      },
       {
         "authorNum": "262182034002040",
         "authorName": "Dany",
@@ -7405,6 +7381,30 @@
         "authorName": "Camila Designer",
         "text": "Brincando gente",
         "timestamp": 1788812390761
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "@79728216113177 se apresente",
+        "timestamp": 1788812419606
+      },
+      {
+        "authorNum": "155503636275307",
+        "authorName": "Clayton 🇳🇬",
+        "text": "Vou te mandar kkk",
+        "timestamp": 1788812423300
+      },
+      {
+        "authorNum": "155503636275307",
+        "authorName": "Clayton 🇳🇬",
+        "text": "Roles kkk",
+        "timestamp": 1788812435282
+      },
+      {
+        "authorNum": "182738040713418",
+        "authorName": "Wellington",
+        "text": "Eita kkkk",
+        "timestamp": 1788812439975
       }
     ],
     "120363426574906687@g.us": []
@@ -7429,7 +7429,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2594,
+    "120363023757382018@g.us": 2598,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -21418,6 +21418,30 @@
         "text": "Brincando gente",
         "pushName": "Camila Designer",
         "timestamp": 1788812390761
+      },
+      "2A7C07C0C9EC031CA7E9": {
+        "sender": "92629643563147@lid",
+        "text": "@79728216113177 se apresente",
+        "pushName": "Camila Designer",
+        "timestamp": 1788812419606
+      },
+      "ACAE67E8AAD8992F4BA273DDFE3FBE7C": {
+        "sender": "155503636275307@lid",
+        "text": "Vou te mandar kkk",
+        "pushName": "Clayton 🇳🇬",
+        "timestamp": 1788812423305
+      },
+      "ACDAABDEBCDA5A6EA78A166977B5FBC2": {
+        "sender": "155503636275307@lid",
+        "text": "Roles kkk",
+        "pushName": "Clayton 🇳🇬",
+        "timestamp": 1788812435283
+      },
+      "ACA9EB2FD9FB9F79085812C1D3060B0D": {
+        "sender": "182738040713418@lid",
+        "text": "Eita kkkk",
+        "pushName": "Wellington",
+        "timestamp": 1788812439975
       }
     },
     "120363426574906687@g.us": {
@@ -22358,7 +22382,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788812403294,
+    "120363023757382018@g.us": 1788812439975,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
