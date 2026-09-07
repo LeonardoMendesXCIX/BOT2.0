@@ -4477,9 +4477,9 @@
         "total": 34
       },
       "5511927018683": {
-        "text": 121,
+        "text": 122,
         "media": 10,
-        "total": 131
+        "total": 132
       },
       "166452229341300": {
         "text": 40,
@@ -13177,7 +13177,8 @@
         "Leandro: !del",
         "Leandro: !zerotime ⌛ Tempo esgotado, {membro}! Adeus.",
         "Leandro: !del",
-        "Leandro: !del"
+        "Leandro: !del",
+        "Leandro: !umminutoremov ⚠️ {membro}, você tem 1 MINUTO para se apresentar!"
       ]
     },
     "120363426574906687@g.us": {
@@ -13325,6 +13326,12 @@
         "authorName": "Leandro",
         "text": "!del",
         "timestamp": 1788756063131
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!umminutoremov ⚠️ {membro}, você tem 1 MINUTO para se apresentar!",
+        "timestamp": 1788756094471
       }
     ],
     "120363426574906687@g.us": []
@@ -13349,7 +13356,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 33,
-    "120363023757382018@g.us": 320,
+    "120363023757382018@g.us": 321,
     "120363426574906687@g.us": 36
   },
   "botDisabled": {
@@ -34157,6 +34164,12 @@
         "text": "!del",
         "pushName": "Leandro",
         "timestamp": 1788756063131
+      },
+      "AC7F184CA94B14004B219155B3E21255": {
+        "sender": "54259127210155@lid",
+        "text": "!umminutoremov ⚠️ {membro}, você tem 1 MINUTO para se apresentar!",
+        "pushName": "Leandro",
+        "timestamp": 1788756094471
       }
     },
     "120363426574906687@g.us": {
@@ -34464,7 +34477,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788755502872,
-    "120363023757382018@g.us": 1788756063131,
+    "120363023757382018@g.us": 1788756094471,
     "120363426574906687@g.us": 1788725639102
   },
   "autoAnimSent": {
@@ -34554,7 +34567,7 @@
       "membroremov": "🚫 {membro} já foi removido(a) antes. Não pode entrar novamente!",
       "timerban": "⏰ {membro} foi removido(a) por não se apresentar.",
       "zerotime": "⌛ Tempo esgotado, {membro}! Adeus.",
-      "umminutoremov": ""
+      "umminutoremov": "⚠️ {membro}, você tem 1 MINUTO para se apresentar!"
     }
   },
   "pendingMemberTimers": [],
