@@ -4507,9 +4507,9 @@
         "total": 167
       },
       "129373172711439": {
-        "text": 57,
+        "text": 60,
         "media": 14,
-        "total": 71
+        "total": 74
       },
       "138306604032063": {
         "text": 11,
@@ -4552,9 +4552,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 164,
-        "media": 91,
-        "total": 255
+        "text": 165,
+        "media": 92,
+        "total": 257
       },
       "559984624669": {
         "text": 4,
@@ -4682,9 +4682,9 @@
         "total": 27
       },
       "118515428286715": {
-        "text": 63,
+        "text": 65,
         "media": 5,
-        "total": 68
+        "total": 70
       },
       "193729163993156": {
         "text": 2,
@@ -5142,9 +5142,9 @@
         "total": 1
       },
       "264308512522409": {
-        "text": 101,
+        "text": 102,
         "media": 4,
-        "total": 105
+        "total": 106
       },
       "194377938911429": {
         "text": 9,
@@ -6195,11 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Henrique Contri 🤫: Só o capa 🤣",
-        "Pedro🫰: 28",
-        "Saul: O moça KKKKKKKKKKKKKKKKKK",
-        "Luis Felipe: Esse cara é folgado em",
-        "Camila Designer: Me mostre o contrário 😏",
         "Luis Felipe: Eita",
         "Henrique Contri 🤫: Por que deveria ?",
         "Camila Designer: Tem que avaliar ué",
@@ -6694,7 +6689,12 @@
         "Saul: 60+ é coroa",
         "Saul: Antes disso? \nTa na idade",
         "Celiete Souza: Qual a pauta",
-        "Saul: Kkkkkk"
+        "Saul: Kkkkkk",
+        "Henrique Contri 🤫: Já é uma senhora kk",
+        "Saul: Não sei",
+        "Saul: Peguei o bonde andando",
+        "Camila Designer: Doidos para o Kabaré kkkk",
+        "Celiete Souza: Tu tá aí e não sabe kkkkk"
       ]
     },
     "120363426574906687@g.us": {
@@ -6898,18 +6898,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "264308512522409",
-        "authorName": "Henrique Contri 🤫",
-        "text": "Então 18 te deixaria feliz 🤣",
-        "timestamp": 1788805081051
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "E pinça grossa e vermelha",
-        "timestamp": 1788805106940
-      },
       {
         "authorNum": "264308512522409",
         "authorName": "Henrique Contri 🤫",
@@ -7959,6 +7947,36 @@
         "authorName": "Saul",
         "text": "Kkkkkk",
         "timestamp": 1788806880024
+      },
+      {
+        "authorNum": "264308512522409",
+        "authorName": "Henrique Contri 🤫",
+        "text": "Já é uma senhora kk",
+        "timestamp": 1788806882682
+      },
+      {
+        "authorNum": "118515428286715",
+        "authorName": "Saul",
+        "text": "Não sei",
+        "timestamp": 1788806886916
+      },
+      {
+        "authorNum": "118515428286715",
+        "authorName": "Saul",
+        "text": "Peguei o bonde andando",
+        "timestamp": 1788806891435
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Doidos para o Kabaré kkkk",
+        "timestamp": 1788806896712
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Tu tá aí e não sabe kkkkk",
+        "timestamp": 1788806910176
       }
     ],
     "120363426574906687@g.us": [
@@ -8038,7 +8056,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2234,
+    "120363023757382018@g.us": 2239,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -19807,6 +19825,36 @@
         "text": "Kkkkkk",
         "pushName": "Saul",
         "timestamp": 1788806880024
+      },
+      "ACAC5DD9CB6FDAEC31FCC2825C28960A": {
+        "sender": "264308512522409@lid",
+        "text": "Já é uma senhora kk",
+        "pushName": "Henrique Contri 🤫",
+        "timestamp": 1788806882682
+      },
+      "3A6B9CA2E3B0B41D678E": {
+        "sender": "118515428286715@lid",
+        "text": "Não sei",
+        "pushName": "Saul",
+        "timestamp": 1788806886916
+      },
+      "3A9284D52C90EEF4529D": {
+        "sender": "118515428286715@lid",
+        "text": "Peguei o bonde andando",
+        "pushName": "Saul",
+        "timestamp": 1788806891436
+      },
+      "2A251675D1ECD36B120F": {
+        "sender": "92629643563147@lid",
+        "text": "Doidos para o Kabaré kkkk",
+        "pushName": "Camila Designer",
+        "timestamp": 1788806896712
+      },
+      "AC816B129AADF05FE7028B6252729394": {
+        "sender": "129373172711439@lid",
+        "text": "Tu tá aí e não sabe kkkkk",
+        "pushName": "Celiete Souza",
+        "timestamp": 1788806910176
       }
     },
     "120363426574906687@g.us": {
@@ -20747,7 +20795,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788806880024,
+    "120363023757382018@g.us": 1788806910176,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
