@@ -4497,9 +4497,9 @@
         "total": 169
       },
       "166452229341300": {
-        "text": 204,
+        "text": 205,
         "media": 65,
-        "total": 269
+        "total": 270
       },
       "53537388122141": {
         "text": 147,
@@ -5143,8 +5143,8 @@
       },
       "264308512522409": {
         "text": 16,
-        "media": 1,
-        "total": 17
+        "media": 2,
+        "total": 18
       },
       "194377938911429": {
         "text": 4,
@@ -5173,8 +5173,8 @@
       },
       "29661681713335": {
         "text": 3,
-        "media": 3,
-        "total": 6
+        "media": 4,
+        "total": 7
       },
       "559491757737": {
         "text": 2,
@@ -6163,7 +6163,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Thawan: Sai daí logo",
         "Bruno Aguiar: Bruno\n35 anos",
         "Cristian Sntss: !ban @157407011446992",
         "Cristian Sntss: Bem vindo jovem",
@@ -6662,7 +6661,8 @@
         "jaciara: Tá bem ?",
         "Teixeira: Olá boa tarde Galera\nSou Teixeira \nPortuguês \nTrabalho na Suíça \n45 anos \nDivorciado",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Bem vindo",
-        "Luis Felipe: Sim e vc"
+        "Luis Felipe: Sim e vc",
+        "Cristian Sntss: Corredor?"
       ]
     },
     "120363426574906687@g.us": {
@@ -6793,30 +6793,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "130262331613213",
-        "authorName": "José Vitor",
-        "text": "Ok tudo bem concordo",
-        "timestamp": 1788797150012
-      },
-      {
-        "authorNum": "176171622899942",
-        "authorName": "Jefinho",
-        "text": "😱😱2mil mensagem",
-        "timestamp": 1788797153440
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Perdão",
-        "timestamp": 1788797189248
-      },
-      {
-        "authorNum": "264308512522409",
-        "authorName": "Henrique Contri 🤫",
-        "text": "Meu nome é Henrique tenho 29 anos sou de presidente prudente sp PV liberado 😎🚀",
-        "timestamp": 1788797197299
-      },
       {
         "authorNum": "216862109495506",
         "authorName": "Renis Rodrigues",
@@ -7866,6 +7842,12 @@
         "authorName": "Luis Felipe",
         "text": "Sim e vc",
         "timestamp": 1788798938670
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Corredor?",
+        "timestamp": 1788798998743
       }
     ],
     "120363426574906687@g.us": [
@@ -7909,7 +7891,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1548,
+    "120363023757382018@g.us": 1549,
     "120363426574906687@g.us": 107
   },
   "botDisabled": {
@@ -15495,6 +15477,12 @@
         "text": "Sim e vc",
         "pushName": "Luis Felipe",
         "timestamp": 1788798938670
+      },
+      "A514DDA28152F43F4E849E74125C1EC7": {
+        "sender": "166452229341300@lid",
+        "text": "Corredor?",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788798998743
       }
     },
     "120363426574906687@g.us": {
@@ -16003,7 +15991,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788798950365,
+    "120363023757382018@g.us": 1788798998743,
     "120363426574906687@g.us": 1788798896647
   },
   "autoAnimSent": {
