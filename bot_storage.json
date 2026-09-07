@@ -4572,9 +4572,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 251,
+        "text": 252,
         "media": 139,
-        "total": 390
+        "total": 391
       },
       "559984624669": {
         "text": 4,
@@ -5193,8 +5193,8 @@
       },
       "29661681713335": {
         "text": 8,
-        "media": 7,
-        "total": 15
+        "media": 8,
+        "total": 16
       },
       "559491757737": {
         "text": 6,
@@ -6244,7 +6244,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Camila Designer: Sim Henrique",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Eu também não vi",
         "Saul: Alguém me perguntou onde eu moro :\nAndradina (interior de SP)",
         "P: Só homem bonito online",
@@ -6743,7 +6742,8 @@
         "Robison 🙏🏻❤️: Graças a Deus \nSou sim",
         "Camila Designer: 🙏🙏🙏",
         "𝑳𝒂𝒚𝒉🌪🌚: Assim",
-        "𝑳𝒂𝒚𝒉🌪🌚: Gente o sorveteria saiu"
+        "𝑳𝒂𝒚𝒉🌪🌚: Gente o sorveteria saiu",
+        "Camila Designer: Por isso fez amizade com os leões!"
       ]
     },
     "120363426574906687@g.us": {
@@ -6947,24 +6947,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "Bem vindo, é novo por aqui? Já se apresentou?",
-        "timestamp": 1788812938931
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
-        "text": "@129373172711439",
-        "timestamp": 1788812945816
-      },
-      {
-        "authorNum": "120363023757382018",
-        "authorName": "",
-        "text": "@129373172711439",
-        "timestamp": 1788812946151
-      },
       {
         "authorNum": "254884934881353",
         "authorName": "P",
@@ -7528,6 +7510,12 @@
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
         "text": "Gente o sorveteria saiu",
         "timestamp": 1788814732638
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Por isso fez amizade com os leões!",
+        "timestamp": 1788814770383
       }
     ],
     "120363426574906687@g.us": []
@@ -7552,7 +7540,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2714,
+    "120363023757382018@g.us": 2715,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -22249,6 +22237,12 @@
         "text": "Gente o sorveteria saiu",
         "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
         "timestamp": 1788814732639
+      },
+      "2AA9CE5CD3F3F1D3B2B3": {
+        "sender": "92629643563147@lid",
+        "text": "Por isso fez amizade com os leões!",
+        "pushName": "Camila Designer",
+        "timestamp": 1788814770384
       }
     },
     "120363426574906687@g.us": {
@@ -23189,7 +23183,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788814732638,
+    "120363023757382018@g.us": 1788814770383,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
