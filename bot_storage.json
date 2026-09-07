@@ -4797,9 +4797,9 @@
         "total": 1
       },
       "71644668272766": {
-        "text": 6,
+        "text": 7,
         "media": 0,
-        "total": 6
+        "total": 7
       },
       "63252218273911": {
         "text": 2,
@@ -5142,9 +5142,9 @@
         "total": 1
       },
       "264308512522409": {
-        "text": 97,
+        "text": 98,
         "media": 4,
-        "total": 101
+        "total": 102
       },
       "194377938911429": {
         "text": 9,
@@ -6195,8 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Luis Felipe: não né",
-        "Heloisa: Kkk",
         "Heloisa: Ele tem 65 anos",
         "Francisco Silva: Pé na cova kkkk",
         "Luis Felipe: Kk",
@@ -6694,7 +6692,9 @@
         "Camila Designer: Rsrsrs",
         "Henrique Contri 🤫: Minha primeira vez aqui né tem que informar kk",
         "👻🤑: Como entra",
-        "Henrique Contri 🤫: Se for normal salva quem quer kkkk"
+        "Henrique Contri 🤫: Se for normal salva quem quer kkkk",
+        "~🥷🏽: Vai ter link para entrar",
+        "Henrique Contri 🤫: Vou observar kk"
       ]
     },
     "120363426574906687@g.us": {
@@ -7899,6 +7899,18 @@
         "authorName": "Henrique Contri 🤫",
         "text": "Se for normal salva quem quer kkkk",
         "timestamp": 1788806584489
+      },
+      {
+        "authorNum": "71644668272766",
+        "authorName": "~🥷🏽",
+        "text": "Vai ter link para entrar",
+        "timestamp": 1788806611035
+      },
+      {
+        "authorNum": "264308512522409",
+        "authorName": "Henrique Contri 🤫",
+        "text": "Vou observar kk",
+        "timestamp": 1788806621883
       }
     ],
     "120363426574906687@g.us": [
@@ -7996,7 +8008,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2201,
+    "120363023757382018@g.us": 2203,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -19567,6 +19579,18 @@
         "text": "Se for normal salva quem quer kkkk",
         "pushName": "Henrique Contri 🤫",
         "timestamp": 1788806584489
+      },
+      "ACF2F5CEBA60E24C424851E917945BCE": {
+        "sender": "71644668272766@lid",
+        "text": "Vai ter link para entrar",
+        "pushName": "~🥷🏽",
+        "timestamp": 1788806611035
+      },
+      "ACC33EE929AF22F8A39F5657D8F7AAB0": {
+        "sender": "264308512522409@lid",
+        "text": "Vou observar kk",
+        "pushName": "Henrique Contri 🤫",
+        "timestamp": 1788806621884
       }
     },
     "120363426574906687@g.us": {
@@ -20507,7 +20531,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788806584489,
+    "120363023757382018@g.us": 1788806621883,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
