@@ -4537,9 +4537,9 @@
         "total": 15
       },
       "262182034002040": {
-        "text": 39,
+        "text": 40,
         "media": 4,
-        "total": 43
+        "total": 44
       },
       "199733712785531": {
         "text": 4,
@@ -4572,9 +4572,9 @@
         "total": 9
       },
       "81991328395336": {
-        "text": 131,
+        "text": 132,
         "media": 37,
-        "total": 168
+        "total": 169
       },
       "274384656834700": {
         "text": 33,
@@ -6190,8 +6190,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Lucas Henrique: Opa,Lucas aqui \n22 anos ,moro em Minas Gerais",
-        "𝑳𝒂𝒚𝒉🌪🌚: Bem vindo",
         "😃: Oiii",
         "😃: Boa tarde",
         "😃: William",
@@ -6689,7 +6687,9 @@
         "Luis Felipe: na onde que sou velho meu filho",
         "Henrique Contri 🤫: A menina que falou aí 🤣🤣🤣",
         "Luis Felipe: se doido né",
-        "Luis Felipe: Tenho 21 se doido"
+        "Luis Felipe: Tenho 21 se doido",
+        "𝑳𝒂𝒚𝒉🌪🌚: 😹😹😹",
+        "Dany: Oi! Tudo bem?"
       ]
     },
     "120363426574906687@g.us": {
@@ -6901,36 +6901,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "152476120555682",
-        "authorName": "Du",
-        "text": "Obg",
-        "timestamp": 1788799785884
-      },
-      {
-        "authorNum": "152476120555682",
-        "authorName": "Du",
-        "text": "Alguém do rj",
-        "timestamp": 1788799792107
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "@152274357751809 novinho kkk",
-        "timestamp": 1788799792668
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Kkkkk",
-        "timestamp": 1788799794871
-      },
-      {
-        "authorNum": "136296492200083",
-        "authorName": "Luis Felipe",
-        "text": "O loko não sei se tem outro mais não vi kk",
-        "timestamp": 1788799804915
-      },
       {
         "authorNum": "152274357751809",
         "authorName": "Heloisa",
@@ -7656,39 +7626,21 @@
         "authorName": "Luis Felipe",
         "text": "Tenho 21 se doido",
         "timestamp": 1788801582261
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "😹😹😹",
+        "timestamp": 1788801607979
+      },
+      {
+        "authorNum": "262182034002040",
+        "authorName": "Dany",
+        "text": "Oi! Tudo bem?",
+        "timestamp": 1788801615896
       }
     ],
     "120363426574906687@g.us": [
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Um tal de Luiz Felipe apresentou",
-        "timestamp": 1788799504242
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Na foto tem uma criança de coroa",
-        "timestamp": 1788799511203
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Vou chamar aqui",
-        "timestamp": 1788799521871
-      },
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "Luís Felipe tenho 21 moro em regente Feijó solteiro",
-        "timestamp": 1788799563700
-      },
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "O bico de jubina ai",
-        "timestamp": 1788799573728
-      },
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
@@ -7879,7 +7831,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 63,
-    "120363023757382018@g.us": 1720,
+    "120363023757382018@g.us": 1722,
     "120363426574906687@g.us": 145
   },
   "botDisabled": {
@@ -16539,6 +16491,18 @@
         "text": "Tenho 21 se doido",
         "pushName": "Luis Felipe",
         "timestamp": 1788801582261
+      },
+      "AC4B51921514D43684D891C40BD95839": {
+        "sender": "81991328395336@lid",
+        "text": "😹😹😹",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1788801607980
+      },
+      "3A63AF73EF6A380C94FE": {
+        "sender": "262182034002040@lid",
+        "text": "Oi! Tudo bem?",
+        "pushName": "Dany",
+        "timestamp": 1788801615896
       }
     },
     "120363426574906687@g.us": {
@@ -17275,7 +17239,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788801564643,
-    "120363023757382018@g.us": 1788801582261,
+    "120363023757382018@g.us": 1788801615896,
     "120363426574906687@g.us": 1788801476879
   },
   "autoAnimSent": {
