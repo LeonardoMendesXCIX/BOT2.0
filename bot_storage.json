@@ -4563,9 +4563,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 233,
+        "text": 234,
         "media": 127,
-        "total": 360
+        "total": 361
       },
       "559984624669": {
         "text": 4,
@@ -4933,9 +4933,9 @@
         "total": 1
       },
       "36645315321925": {
-        "text": 27,
+        "text": 28,
         "media": 3,
-        "total": 30
+        "total": 31
       },
       "187845394358417": {
         "text": 1,
@@ -6225,8 +6225,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Camila Designer: Só quero ver mesmo, enquanto isso cadê seu peitoral?😌😌😌",
-        "Gabi 💋: Né",
         "Henrique Contri 🤫: Tá amarelando? Kkk",
         "Camila Designer: Aranha esse horário proibido 🤣🤣🤣",
         "Camila Designer: Eu? Você que arregou e deu desculpa de frio",
@@ -6724,7 +6722,9 @@
         "Victor: mandou trocentas vezes o link do grupo dele aqui",
         "Dany: Ah eita",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: @all \nNão cliquem em nada!! Isso é um vírus!!!",
-        "Felippo: bota pra só adm mudar as info do grupo"
+        "Felippo: bota pra só adm mudar as info do grupo",
+        "Felippo: se não vai ficar bagunçado assim",
+        "Camila Designer: Mas já está"
       ]
     },
     "120363426574906687@g.us": {
@@ -6978,30 +6978,6 @@
     ],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "182738040713418",
-        "authorName": "Wellington",
-        "text": "Gostei dela kkk autentica",
-        "timestamp": 1788809102155
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Da não Camila me arrange um que guente",
-        "timestamp": 1788809120208
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Combinado 🤣🤣🤣",
-        "timestamp": 1788809132464
-      },
-      {
-        "authorNum": "182738040713418",
-        "authorName": "Wellington",
-        "text": "Tbm acho",
-        "timestamp": 1788809135833
-      },
       {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
@@ -7601,6 +7577,18 @@
         "authorName": "Felippo",
         "text": "bota pra só adm mudar as info do grupo",
         "timestamp": 1788810897416
+      },
+      {
+        "authorNum": "36645315321925",
+        "authorName": "Felippo",
+        "text": "se não vai ficar bagunçado assim",
+        "timestamp": 1788810905240
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Mas já está",
+        "timestamp": 1788810941904
       }
     ],
     "120363426574906687@g.us": []
@@ -7625,7 +7613,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2546,
+    "120363023757382018@g.us": 2548,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -21323,6 +21311,18 @@
         "text": "bota pra só adm mudar as info do grupo",
         "pushName": "Felippo",
         "timestamp": 1788810897416
+      },
+      "3AF7C3F284563F74759F": {
+        "sender": "36645315321925@lid",
+        "text": "se não vai ficar bagunçado assim",
+        "pushName": "Felippo",
+        "timestamp": 1788810905240
+      },
+      "2AF538A8416FF6E1D4A7": {
+        "sender": "92629643563147@lid",
+        "text": "Mas já está",
+        "pushName": "Camila Designer",
+        "timestamp": 1788810941904
       }
     },
     "120363426574906687@g.us": {
@@ -22263,7 +22263,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788810897416,
+    "120363023757382018@g.us": 1788810941904,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
