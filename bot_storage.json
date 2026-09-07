@@ -4552,9 +4552,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 154,
+        "text": 156,
         "media": 91,
-        "total": 245
+        "total": 247
       },
       "559984624669": {
         "text": 4,
@@ -4682,9 +4682,9 @@
         "total": 27
       },
       "118515428286715": {
-        "text": 56,
+        "text": 57,
         "media": 5,
-        "total": 61
+        "total": 62
       },
       "193729163993156": {
         "text": 2,
@@ -5182,9 +5182,9 @@
         "total": 7
       },
       "246729194639608": {
-        "text": 4,
+        "text": 5,
         "media": 0,
-        "total": 4
+        "total": 5
       },
       "20736957747257": {
         "text": 3,
@@ -5282,9 +5282,9 @@
         "total": 4
       },
       "171214744064197": {
-        "text": 15,
+        "text": 16,
         "media": 2,
-        "total": 17
+        "total": 18
       },
       "198607978410013": {
         "text": 1,
@@ -6195,10 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Heloisa: Ele tem 65 anos",
-        "Francisco Silva: Pé na cova kkkk",
-        "Luis Felipe: Kk",
-        "Henrique Contri 🤫: Tá na flor da idade kkk",
         "Luis Felipe: Na onde kk",
         "Henrique Contri 🤫: 65 anos novinho de tudo kkkk",
         "𝑳𝒂𝒚𝒉🌪🌚: Nem os ossos",
@@ -6694,7 +6690,11 @@
         "👻🤑: Como entra",
         "Henrique Contri 🤫: Se for normal salva quem quer kkkk",
         "~🥷🏽: Vai ter link para entrar",
-        "Henrique Contri 🤫: Vou observar kk"
+        "Henrique Contri 🤫: Vou observar kk",
+        "Camila Designer: Qual seu nome?",
+        "👻🤑: Marcos",
+        "Márcio Bruxel: Perdi a conversa.... como entra? Kkk",
+        "Camila Designer: Vai sim, mais tarde enviamos"
       ]
     },
     "120363426574906687@g.us": {
@@ -6898,18 +6898,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "264308512522409",
-        "authorName": "Henrique Contri 🤫",
-        "text": "Que cabaré 🤣🤣",
-        "timestamp": 1788804833259
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "A Heloísa saiu mesmo 👀",
-        "timestamp": 1788804833576
-      },
       {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
@@ -7911,6 +7899,30 @@
         "authorName": "Henrique Contri 🤫",
         "text": "Vou observar kk",
         "timestamp": 1788806621883
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Qual seu nome?",
+        "timestamp": 1788806632567
+      },
+      {
+        "authorNum": "246729194639608",
+        "authorName": "👻🤑",
+        "text": "Marcos",
+        "timestamp": 1788806640986
+      },
+      {
+        "authorNum": "171214744064197",
+        "authorName": "Márcio Bruxel",
+        "text": "Perdi a conversa.... como entra? Kkk",
+        "timestamp": 1788806646016
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Vai sim, mais tarde enviamos",
+        "timestamp": 1788806646997
       }
     ],
     "120363426574906687@g.us": [
@@ -8008,7 +8020,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2203,
+    "120363023757382018@g.us": 2207,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -19591,6 +19603,30 @@
         "text": "Vou observar kk",
         "pushName": "Henrique Contri 🤫",
         "timestamp": 1788806621884
+      },
+      "2A3D17B9F626A05FFC62": {
+        "sender": "92629643563147@lid",
+        "text": "Qual seu nome?",
+        "pushName": "Camila Designer",
+        "timestamp": 1788806632567
+      },
+      "3AEEEF420CB40FD45E9C": {
+        "sender": "246729194639608@lid",
+        "text": "Marcos",
+        "pushName": "👻🤑",
+        "timestamp": 1788806640986
+      },
+      "ACB4D22C4B1218543C6F5752E50E184A": {
+        "sender": "171214744064197@lid",
+        "text": "Perdi a conversa.... como entra? Kkk",
+        "pushName": "Márcio Bruxel",
+        "timestamp": 1788806646016
+      },
+      "2ABA21CF262DD64ADD7C": {
+        "sender": "92629643563147@lid",
+        "text": "Vai sim, mais tarde enviamos",
+        "pushName": "Camila Designer",
+        "timestamp": 1788806646998
       }
     },
     "120363426574906687@g.us": {
@@ -20531,7 +20567,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788806621883,
+    "120363023757382018@g.us": 1788806656816,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
