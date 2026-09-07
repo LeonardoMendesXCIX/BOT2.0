@@ -5304,9 +5304,9 @@
     },
     "120363426574906687@g.us": {
       "53537388122141": {
-        "text": 61,
+        "text": 62,
         "media": 3,
-        "total": 64
+        "total": 65
       },
       "166452229341300": {
         "text": 32,
@@ -5319,9 +5319,9 @@
         "total": 43
       },
       "92629643563147": {
-        "text": 27,
+        "text": 29,
         "media": 4,
-        "total": 31
+        "total": 33
       },
       "81991328395336": {
         "text": 12,
@@ -6858,7 +6858,10 @@
         "Camila Designer: Ixi",
         "Camila Designer: Entrada automática está desativada gente?",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Nós Adms temos que aprovar a entrada",
-        "Camila Designer: Se aprovarmos nós que temos que enviar o texto?"
+        "Camila Designer: Se aprovarmos nós que temos que enviar o texto?",
+        "Camila Designer: Ou o bot que envia?",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: De apresentação?",
+        "Camila Designer: Sim"
       ]
     }
   },
@@ -8163,6 +8166,24 @@
         "authorName": "Camila Designer",
         "text": "Se aprovarmos nós que temos que enviar o texto?",
         "timestamp": 1788804388044
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Ou o bot que envia?",
+        "timestamp": 1788804393524
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "De apresentação?",
+        "timestamp": 1788804420067
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Sim",
+        "timestamp": 1788804431703
       }
     ]
   },
@@ -8187,7 +8208,7 @@
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
     "120363023757382018@g.us": 2026,
-    "120363426574906687@g.us": 159
+    "120363426574906687@g.us": 162
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -19422,6 +19443,24 @@
         "text": "Se aprovarmos nós que temos que enviar o texto?",
         "pushName": "Camila Designer",
         "timestamp": 1788804388044
+      },
+      "2ABFABD40B94BA9228DE": {
+        "sender": "92629643563147@lid",
+        "text": "Ou o bot que envia?",
+        "pushName": "Camila Designer",
+        "timestamp": 1788804393524
+      },
+      "ACDEC0422332D169C3D524E5C6D79670": {
+        "sender": "53537388122141@lid",
+        "text": "De apresentação?",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788804420067
+      },
+      "2A9CDC27250DCD79F7A0": {
+        "sender": "92629643563147@lid",
+        "text": "Sim",
+        "pushName": "Camila Designer",
+        "timestamp": 1788804431703
       }
     }
   },
@@ -19521,7 +19560,7 @@
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
     "120363023757382018@g.us": 1788804383759,
-    "120363426574906687@g.us": 1788804388044
+    "120363426574906687@g.us": 1788804431703
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
