@@ -4806,9 +4806,9 @@
         "total": 16
       },
       "92629643563147": {
-        "text": 1,
+        "text": 2,
         "media": 0,
-        "total": 1
+        "total": 2
       },
       "81991328395336": {
         "text": 1,
@@ -6209,7 +6209,8 @@
         "Leandro: !status",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Mais alguma coisa @92629643563147 \n@54259127210155 que precisa ser passado a ela?",
         "𝑳𝒂𝒚𝒉🌪🌚: Tu cadastrou o id dela?",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: @92629643563147 aqui estão os comandos que você pode estar utilizando do bot.\nJajá o @54259127210155 vai cadastrar seu id pra você conseguir começar a usar.\nPor enquanto, pode estar fazendo manualment"
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: @92629643563147 aqui estão os comandos que você pode estar utilizando do bot.\nJajá o @54259127210155 vai cadastrar seu id pra você conseguir começar a usar.\nPor enquanto, pode estar fazendo manualment",
+        "Camila Designer: Ok"
       ]
     }
   },
@@ -7219,6 +7220,12 @@
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "text": "@92629643563147 aqui estão os comandos que você pode estar utilizando do bot.\nJajá o @54259127210155 vai cadastrar seu id pra você conseguir começar a usar.\nPor enquanto, pode estar fazendo manualmente até ficar tudo prontinho",
         "timestamp": 1788789895909
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Ok",
+        "timestamp": 1788789908205
       }
     ]
   },
@@ -7243,7 +7250,7 @@
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
     "120363023757382018@g.us": 828,
-    "120363426574906687@g.us": 53
+    "120363426574906687@g.us": 54
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -10483,6 +10490,12 @@
         "text": "@92629643563147 aqui estão os comandos que você pode estar utilizando do bot.\nJajá o @54259127210155 vai cadastrar seu id pra você conseguir começar a usar.\nPor enquanto, pode estar fazendo manualmente até ficar tudo prontinho",
         "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "timestamp": 1788789895909
+      },
+      "2A8D1CA2DCBF0E963E04": {
+        "sender": "92629643563147@lid",
+        "text": "Ok",
+        "pushName": "Camila Designer",
+        "timestamp": 1788789908205
       }
     }
   },
@@ -10579,7 +10592,7 @@
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788787787211,
     "120363023757382018@g.us": 1788789897441,
-    "120363426574906687@g.us": 1788789895909
+    "120363426574906687@g.us": 1788789908205
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
