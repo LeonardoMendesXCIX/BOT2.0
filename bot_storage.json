@@ -4497,9 +4497,9 @@
         "total": 169
       },
       "166452229341300": {
-        "text": 180,
+        "text": 181,
         "media": 60,
-        "total": 240
+        "total": 241
       },
       "53537388122141": {
         "text": 127,
@@ -4572,9 +4572,9 @@
         "total": 9
       },
       "81991328395336": {
-        "text": 98,
+        "text": 99,
         "media": 28,
-        "total": 126
+        "total": 127
       },
       "274384656834700": {
         "text": 33,
@@ -5147,9 +5147,9 @@
         "total": 6
       },
       "194377938911429": {
-        "text": 1,
+        "text": 2,
         "media": 0,
-        "total": 1
+        "total": 2
       },
       "81531615858788": {
         "text": 1,
@@ -5197,9 +5197,9 @@
         "total": 2
       },
       "107442969026587": {
-        "text": 2,
+        "text": 3,
         "media": 2,
-        "total": 4
+        "total": 5
       }
     },
     "120363426574906687@g.us": {
@@ -6083,8 +6083,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Juliano Perlin: Toma",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Cadê meu Pix?",
         "Juliano Perlin: Ja paguei",
         "Leandro: Bem vinda jovem! 🤝",
         "𝑳𝒂𝒚𝒉🌪🌚: @129373172711439 \n@108461127897146  \n@247020967165997",
@@ -6582,7 +6580,9 @@
         "Walter: Cara que tá derretendo hein",
         "Heloisa: Mas não precisa salvar não",
         "Heloisa: Cada um come o que gosta né",
-        "Henrique Contri 🤫: Hj cedo aqui me congelou tá doido 🤣"
+        "Henrique Contri 🤫: Hj cedo aqui me congelou tá doido 🤣",
+        "Walter: Aqui no Paraná tá 18 graus só o ouro",
+        "Cristian Sntss: Ai tu disse uma verdade"
       ]
     },
     "120363426574906687@g.us": {
@@ -7526,6 +7526,18 @@
         "authorName": "Henrique Contri 🤫",
         "text": "Hj cedo aqui me congelou tá doido 🤣",
         "timestamp": 1788797634827
+      },
+      {
+        "authorNum": "107442969026587",
+        "authorName": "Walter",
+        "text": "Aqui no Paraná tá 18 graus só o ouro",
+        "timestamp": 1788797646359
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Ai tu disse uma verdade",
+        "timestamp": 1788797657908
       }
     ],
     "120363426574906687@g.us": [
@@ -7617,7 +7629,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1422,
+    "120363023757382018@g.us": 1424,
     "120363426574906687@g.us": 104
   },
   "botDisabled": {
@@ -14447,6 +14459,18 @@
         "text": "Hj cedo aqui me congelou tá doido 🤣",
         "pushName": "Henrique Contri 🤫",
         "timestamp": 1788797634827
+      },
+      "ACF36140D54C958962F0B2BC32924BEA": {
+        "sender": "107442969026587@lid",
+        "text": "Aqui no Paraná tá 18 graus só o ouro",
+        "pushName": "Walter",
+        "timestamp": 1788797646359
+      },
+      "A581B3AFF1D79A79703D0239EB582E06": {
+        "sender": "166452229341300@lid",
+        "text": "Ai tu disse uma verdade",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788797657908
       }
     },
     "120363426574906687@g.us": {
@@ -14937,7 +14961,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788797634827,
+    "120363023757382018@g.us": 1788797669463,
     "120363426574906687@g.us": 1788796664927
   },
   "autoAnimSent": {
