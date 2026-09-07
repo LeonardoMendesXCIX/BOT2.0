@@ -4484,9 +4484,9 @@
         "total": 88
       },
       "5511927018683": {
-        "text": 154,
+        "text": 155,
         "media": 11,
-        "total": 165
+        "total": 166
       },
       "166452229341300": {
         "text": 118,
@@ -4494,9 +4494,9 @@
         "total": 159
       },
       "53537388122141": {
-        "text": 51,
+        "text": 52,
         "media": 9,
-        "total": 60
+        "total": 61
       },
       "129373172711439": {
         "text": 27,
@@ -4564,9 +4564,9 @@
         "total": 3
       },
       "81991328395336": {
-        "text": 53,
+        "text": 56,
         "media": 22,
-        "total": 75
+        "total": 78
       },
       "274384656834700": {
         "text": 24,
@@ -4759,9 +4759,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 28,
+        "text": 29,
         "media": 0,
-        "total": 28
+        "total": 29
       },
       "89305909317735": {
         "text": 1,
@@ -5712,10 +5712,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Gilvando: 😁😁",
-        "Gabi 💋: Se apresente",
-        "Gabi 💋: Pra eu vê você ksksks",
-        "Claudinho santos Claudinh: Quero ver também",
         "jaciara: Seja bem vindo",
         "renan_wesley: 👀",
         "jaciara: Oiê",
@@ -6211,7 +6207,11 @@
         "Leandro: Bem vinda jovem! 🤝",
         "𝑳𝒂𝒚𝒉🌪🌚: @129373172711439 \n@108461127897146  \n@247020967165997",
         "Juliano Perlin: Amigo também ama🥹",
-        "Juliano Perlin: 🤣🤣🤣"
+        "Juliano Perlin: 🤣🤣🤣",
+        "Heloisa: Obrigada",
+        "𝑳𝒂𝒚𝒉🌪🌚: Bem vindos glr",
+        "Leandro: Bem vindo jovem rapaz! 🤝",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Meu coração é grande, mas calma lá que não é qualquer um que entra nãooooo"
       ]
     },
     "120363426574906687@g.us": {
@@ -7163,6 +7163,30 @@
         "authorName": "Juliano Perlin",
         "text": "🤣🤣🤣",
         "timestamp": 1788791202852
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Obrigada",
+        "timestamp": 1788791205874
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Bem vindos glr",
+        "timestamp": 1788791221642
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Bem vindo jovem rapaz! 🤝",
+        "timestamp": 1788791222327
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Meu coração é grande, mas calma lá que não é qualquer um que entra nãooooo",
+        "timestamp": 1788791226859
       }
     ],
     "120363426574906687@g.us": [
@@ -7398,7 +7422,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 929,
+    "120363023757382018@g.us": 933,
     "120363426574906687@g.us": 83
   },
   "botDisabled": {
@@ -11161,6 +11185,30 @@
         "text": "🤣🤣🤣",
         "pushName": "Juliano Perlin",
         "timestamp": 1788791202852
+      },
+      "AC5A32F953E34FF80A9E3DA7995A876F": {
+        "sender": "152274357751809@lid",
+        "text": "Obrigada",
+        "pushName": "Heloisa",
+        "timestamp": 1788791205874
+      },
+      "ACA1555564426CB20F544D7A4DEA5792": {
+        "sender": "81991328395336@lid",
+        "text": "Bem vindos glr",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1788791221642
+      },
+      "ACD6942B3179CE1788D4C06CD2A2FCD7": {
+        "sender": "54259127210155@lid",
+        "text": "Bem vindo jovem rapaz! 🤝",
+        "pushName": "Leandro",
+        "timestamp": 1788791222327
+      },
+      "AC8925F9E8F5A21E86D54501A0F87375": {
+        "sender": "53537388122141@lid",
+        "text": "Meu coração é grande, mas calma lá que não é qualquer um que entra nãooooo",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788791226859
       }
     },
     "120363426574906687@g.us": {
@@ -11522,7 +11570,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788791202852,
+    "120363023757382018@g.us": 1788791234310,
     "120363426574906687@g.us": 1788791178144
   },
   "autoAnimSent": {
