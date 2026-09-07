@@ -4483,14 +4483,14 @@
         "total": 161
       },
       "166452229341300": {
-        "text": 65,
+        "text": 66,
         "media": 35,
-        "total": 100
+        "total": 101
       },
       "53537388122141": {
         "text": 42,
-        "media": 5,
-        "total": 47
+        "media": 6,
+        "total": 48
       },
       "129373172711439": {
         "text": 27,
@@ -4539,8 +4539,8 @@
       },
       "92629643563147": {
         "text": 11,
-        "media": 6,
-        "total": 17
+        "media": 7,
+        "total": 18
       },
       "559984624669": {
         "text": 4,
@@ -4578,9 +4578,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 64,
+        "text": 66,
         "media": 6,
-        "total": 70
+        "total": 72
       },
       "206966404210884": {
         "text": 2,
@@ -4688,14 +4688,19 @@
         "total": 4
       },
       "128145298608376": {
-        "text": 9,
+        "text": 10,
         "media": 1,
-        "total": 10
+        "total": 11
       },
       "193733257609270": {
         "text": 1,
         "media": 1,
         "total": 2
+      },
+      "230365537005571": {
+        "text": 0,
+        "media": 1,
+        "total": 1
       }
     },
     "120363426574906687@g.us": {
@@ -5942,7 +5947,12 @@
         "Gabi 💋: Óia gente",
         "Gabi 💋: Eu tô vendo coisa",
         "solteiro: Oi",
-        "Camila Designer: Que coisa 👀👀"
+        "Camila Designer: Que coisa 👀👀",
+        "Cristian Sntss: Hj o grupo tá daquele jeito",
+        "Gabi 💋: Oi",
+        "Gabi 💋: Bunda linda",
+        "solteiro: Solteira",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: @247020967165997"
       ]
     },
     "120363426574906687@g.us": {
@@ -6630,6 +6640,36 @@
         "authorName": "Camila Designer",
         "text": "Que coisa 👀👀",
         "timestamp": 1788787753071
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Hj o grupo tá daquele jeito",
+        "timestamp": 1788787756504
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Oi",
+        "timestamp": 1788787767572
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Bunda linda",
+        "timestamp": 1788787776123
+      },
+      {
+        "authorNum": "128145298608376",
+        "authorName": "solteiro",
+        "text": "Solteira",
+        "timestamp": 1788787781363
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "@247020967165997",
+        "timestamp": 1788787782686
       }
     ],
     "120363426574906687@g.us": []
@@ -6654,7 +6694,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 37,
-    "120363023757382018@g.us": 619,
+    "120363023757382018@g.us": 624,
     "120363426574906687@g.us": 36
   },
   "botDisabled": {
@@ -8572,6 +8612,36 @@
         "text": "Que coisa 👀👀",
         "pushName": "Camila Designer",
         "timestamp": 1788787753071
+      },
+      "A5AEB1C1CDAF35BDA2B136305EFD519B": {
+        "sender": "166452229341300@lid",
+        "text": "Hj o grupo tá daquele jeito",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788787756504
+      },
+      "AC9E41FCEA4C329155D43EDAA451B2D3": {
+        "sender": "247020967165997@lid",
+        "text": "Oi",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788787767572
+      },
+      "AC186F389267D90B0E0C702535677AC6": {
+        "sender": "247020967165997@lid",
+        "text": "Bunda linda",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788787776123
+      },
+      "A56070BBF6A353B842F7C4ADEDC99866": {
+        "sender": "128145298608376@lid",
+        "text": "Solteira",
+        "pushName": "solteiro",
+        "timestamp": 1788787781363
+      },
+      "AC1BC69EE929F0CF4DFFC08EEAB97B80": {
+        "sender": "53537388122141@lid",
+        "text": "@247020967165997",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788787782686
       }
     },
     "120363426574906687@g.us": {}
@@ -8668,7 +8738,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788787728335,
-    "120363023757382018@g.us": 1788787753071,
+    "120363023757382018@g.us": 1788787782816,
     "120363426574906687@g.us": 1788725639102
   },
   "autoAnimSent": {
