@@ -4587,9 +4587,9 @@
         "total": 1
       },
       "182738040713418": {
-        "text": 47,
-        "media": 25,
-        "total": 72
+        "text": 49,
+        "media": 28,
+        "total": 77
       },
       "81991328395336": {
         "text": 152,
@@ -5337,9 +5337,9 @@
         "total": 7
       },
       "79728216113177": {
-        "text": 26,
-        "media": 19,
-        "total": 45
+        "text": 27,
+        "media": 21,
+        "total": 48
       }
     },
     "120363426574906687@g.us": {
@@ -6249,9 +6249,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Henrique Contri 🤫: Já é uma senhora kk",
-        "Saul: Não sei",
-        "Saul: Peguei o bonde andando",
         "Camila Designer: Doidos para o Kabaré kkkk",
         "Celiete Souza: Tu tá aí e não sabe kkkkk",
         "Celiete Souza: É hj @92629643563147 👏🏻👏🏻",
@@ -6748,7 +6745,10 @@
         "Camila Designer: O @79728216113177 é meio coisado viu",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: 🌚",
         "Kaio Mendes: Sou n",
-        "Kaio Mendes: Era só um meme da maquita"
+        "Kaio Mendes: Era só um meme da maquita",
+        "Wellington: Mandei errado kkk",
+        "Kaio Mendes: Kkkkkk",
+        "Wellington: É assim kkk"
       ]
     },
     "120363426574906687@g.us": {
@@ -6985,12 +6985,6 @@
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
       {
-        "authorNum": "79728216113177",
-        "authorName": "Kaio Mendes",
-        "text": "Só acho",
-        "timestamp": 1788813913978
-      },
-      {
         "authorNum": "118515428286715",
         "authorName": "Saul",
         "text": "O cara perguntando se pode ver minhas veia",
@@ -7211,6 +7205,24 @@
         "authorName": "Kaio Mendes",
         "text": "Era só um meme da maquita",
         "timestamp": 1788815693425
+      },
+      {
+        "authorNum": "182738040713418",
+        "authorName": "Wellington",
+        "text": "Mandei errado kkk",
+        "timestamp": 1788815760319
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "Kkkkkk",
+        "timestamp": 1788815765099
+      },
+      {
+        "authorNum": "182738040713418",
+        "authorName": "Wellington",
+        "text": "É assim kkk",
+        "timestamp": 1788815777168
       }
     ],
     "120363426574906687@g.us": [
@@ -7242,7 +7254,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2734,
+    "120363023757382018@g.us": 2737,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -22077,6 +22089,24 @@
         "text": "Era só um meme da maquita",
         "pushName": "Kaio Mendes",
         "timestamp": 1788815693426
+      },
+      "AC2B0AA282058B9145FE59C92EB426E0": {
+        "sender": "182738040713418@lid",
+        "text": "Mandei errado kkk",
+        "pushName": "Wellington",
+        "timestamp": 1788815760319
+      },
+      "ACA37927985334D1B572F22421D9BCF1": {
+        "sender": "79728216113177@lid",
+        "text": "Kkkkkk",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788815765099
+      },
+      "AC50C48EDD73C5CA1E0FD08AEBB40322": {
+        "sender": "182738040713418@lid",
+        "text": "É assim kkk",
+        "pushName": "Wellington",
+        "timestamp": 1788815777168
       }
     },
     "120363426574906687@g.us": {
@@ -23023,7 +23053,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788815735407,
+    "120363023757382018@g.us": 1788815779884,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
