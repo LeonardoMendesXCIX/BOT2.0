@@ -4765,9 +4765,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 83,
+        "text": 84,
         "media": 1,
-        "total": 84
+        "total": 85
       },
       "89305909317735": {
         "text": 1,
@@ -4820,9 +4820,9 @@
         "total": 5
       },
       "219911083266163": {
-        "text": 12,
+        "text": 14,
         "media": 2,
-        "total": 14
+        "total": 16
       },
       "91384186949634": {
         "text": 2,
@@ -5025,9 +5025,9 @@
         "total": 2
       },
       "176549663916038": {
-        "text": 6,
-        "media": 0,
-        "total": 6
+        "text": 7,
+        "media": 1,
+        "total": 8
       },
       "207610548584554": {
         "text": 1,
@@ -5914,9 +5914,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "IRINEU FREITAS 🫥🤪: Meu nome e José \n31 amor \nSou de sp",
-        "Cristian Sntss: O xacina saiu",
-        "lucas santos: bom dia satisfação Lucas tenho 28 ano sou do rio de janeiro sou hétero",
         "Cristian Sntss: Bem vindo",
         ": bom dia satisfação Lucas tenho 28 ano sou do rio de janeiro sou hétero",
         "Cristian Sntss: Produtor ?",
@@ -6413,7 +6410,10 @@
         "Heloisa: Bem vindo",
         "😃: Eu tenho 37 ano",
         "Jaime: Boa tarde a todos e a todas as mulheres bonitas",
-        "Lucas Henrique: Obrigado ☺️"
+        "Lucas Henrique: Obrigado ☺️",
+        "John 😎: Boa tarde, pessoal!",
+        "Heloisa: Boa tarde a todos e todas",
+        "😃: Eu"
       ]
     },
     "120363426574906687@g.us": {
@@ -6571,12 +6571,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "1395881181241",
-        "authorName": "Bruno Aguiar",
-        "text": "Estão sem nem uma pelo jeito kkkk",
-        "timestamp": 1788793265833
-      },
       {
         "authorNum": "152274357751809",
         "authorName": "Heloisa",
@@ -7446,6 +7440,24 @@
         "authorName": "Lucas Henrique",
         "text": "Obrigado ☺️",
         "timestamp": 1788795051328
+      },
+      {
+        "authorNum": "219911083266163",
+        "authorName": "John 😎",
+        "text": "Boa tarde, pessoal!",
+        "timestamp": 1788795063982
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Boa tarde a todos e todas",
+        "timestamp": 1788795080088
+      },
+      {
+        "authorNum": "176549663916038",
+        "authorName": "😃",
+        "text": "Eu",
+        "timestamp": 1788795081742
       }
     ],
     "120363426574906687@g.us": [
@@ -7477,7 +7489,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 49,
-    "120363023757382018@g.us": 1231,
+    "120363023757382018@g.us": 1234,
     "120363426574906687@g.us": 91
   },
   "botDisabled": {
@@ -13118,6 +13130,24 @@
         "text": "Obrigado ☺️",
         "pushName": "Lucas Henrique",
         "timestamp": 1788795051328
+      },
+      "AC1B0269EF86DFB66A129507E324CBA9": {
+        "sender": "219911083266163@lid",
+        "text": "Boa tarde, pessoal!",
+        "pushName": "John 😎",
+        "timestamp": 1788795063982
+      },
+      "AC7E6A0CD2AD2543AA7A8B510318426E": {
+        "sender": "152274357751809@lid",
+        "text": "Boa tarde a todos e todas",
+        "pushName": "Heloisa",
+        "timestamp": 1788795080088
+      },
+      "AC63D194D501305B2671F5834B144655": {
+        "sender": "176549663916038@lid",
+        "text": "Eu",
+        "pushName": "😃",
+        "timestamp": 1788795081742
       }
     },
     "120363426574906687@g.us": {
@@ -13527,7 +13557,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788794665827,
-    "120363023757382018@g.us": 1788795054048,
+    "120363023757382018@g.us": 1788795085274,
     "120363426574906687@g.us": 1788794708224
   },
   "autoAnimSent": {
