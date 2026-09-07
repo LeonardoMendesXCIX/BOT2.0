@@ -4517,9 +4517,9 @@
         "total": 2
       },
       "59623457439943": {
-        "text": 6,
+        "text": 7,
         "media": 1,
-        "total": 7
+        "total": 8
       },
       "262182034002040": {
         "text": 33,
@@ -4607,9 +4607,9 @@
         "total": 2
       },
       "42769972252769": {
-        "text": 7,
+        "text": 9,
         "media": 0,
-        "total": 7
+        "total": 9
       }
     },
     "120363426574906687@g.us": {
@@ -13210,7 +13210,10 @@
         "Victor: po esses perfis são sacanagem",
         "🌷: coitada KKKKKKKK",
         "🌷: como assim ?",
-        "Victor: a \"mina\" era claramente fake"
+        "Victor: a \"mina\" era claramente fake",
+        "🌷: como se sabe ?",
+        "🌷: eu acho que não kkkkkkkk",
+        "Victor: pelo tipo da foto"
       ]
     },
     "120363426574906687@g.us": {
@@ -13496,6 +13499,24 @@
         "authorName": "Victor",
         "text": "a \"mina\" era claramente fake",
         "timestamp": 1788756501953
+      },
+      {
+        "authorNum": "42769972252769",
+        "authorName": "🌷",
+        "text": "como se sabe ?",
+        "timestamp": 1788756508325
+      },
+      {
+        "authorNum": "42769972252769",
+        "authorName": "🌷",
+        "text": "eu acho que não kkkkkkkk",
+        "timestamp": 1788756518463
+      },
+      {
+        "authorNum": "59623457439943",
+        "authorName": "Victor",
+        "text": "pelo tipo da foto",
+        "timestamp": 1788756522865
       }
     ],
     "120363426574906687@g.us": []
@@ -13520,7 +13541,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 33,
-    "120363023757382018@g.us": 343,
+    "120363023757382018@g.us": 346,
     "120363426574906687@g.us": 36
   },
   "botDisabled": {
@@ -34466,6 +34487,24 @@
         "text": "a \"mina\" era claramente fake",
         "pushName": "Victor",
         "timestamp": 1788756501953
+      },
+      "ACDF08304D00BB03CD717A6DC3D1AA82": {
+        "sender": "42769972252769@lid",
+        "text": "como se sabe ?",
+        "pushName": "🌷",
+        "timestamp": 1788756508325
+      },
+      "ACB6DB30A4D6D8207661DFA066BB5B5F": {
+        "sender": "42769972252769@lid",
+        "text": "eu acho que não kkkkkkkk",
+        "pushName": "🌷",
+        "timestamp": 1788756518463
+      },
+      "AC3E3F56FCB5043507654FD008187D8A": {
+        "sender": "59623457439943@lid",
+        "text": "pelo tipo da foto",
+        "pushName": "Victor",
+        "timestamp": 1788756522865
       }
     },
     "120363426574906687@g.us": {
@@ -34773,7 +34812,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788755502872,
-    "120363023757382018@g.us": 1788756501953,
+    "120363023757382018@g.us": 1788756522865,
     "120363426574906687@g.us": 1788725639102
   },
   "autoAnimSent": {
