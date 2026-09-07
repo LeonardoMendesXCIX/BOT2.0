@@ -4501,9 +4501,9 @@
         "total": 198
       },
       "53537388122141": {
-        "text": 104,
+        "text": 105,
         "media": 11,
-        "total": 115
+        "total": 116
       },
       "129373172711439": {
         "text": 27,
@@ -5026,9 +5026,9 @@
         "total": 2
       },
       "176549663916038": {
-        "text": 13,
+        "text": 14,
         "media": 8,
-        "total": 21
+        "total": 22
       },
       "207610548584554": {
         "text": 1,
@@ -5051,9 +5051,9 @@
         "total": 3
       },
       "152476120555682": {
-        "text": 1,
+        "text": 2,
         "media": 1,
-        "total": 2
+        "total": 3
       },
       "24477589057658": {
         "text": 1,
@@ -5062,8 +5062,8 @@
       },
       "119602742882530": {
         "text": 1,
-        "media": 1,
-        "total": 2
+        "media": 2,
+        "total": 3
       },
       "179328507744298": {
         "text": 1,
@@ -5089,6 +5089,11 @@
         "text": 2,
         "media": 0,
         "total": 2
+      },
+      "278838454050886": {
+        "text": 0,
+        "media": 1,
+        "total": 1
       }
     },
     "120363426574906687@g.us": {
@@ -5970,10 +5975,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Cristian Sntss: Chamou de macaco cabelo de palha de aço",
-        "Gabi 💋: Escrota né",
-        "renan_wesley: Quando eu fiz trança aí sim deu trabalho mds",
-        "Gabi 💋: Qual modelo você colocou ?",
         "Amaury: Seja bem vinda",
         "Heloisa: Obrigada",
         "Davi Miranda: Davi, 18, Leopoldina MG",
@@ -6469,7 +6470,11 @@
         "Juliano Perlin: @53537388122141 ta com o facao afiado",
         "Juliano Perlin: Vou sair até de perto",
         "Juliano Perlin: Kkkkk",
-        "😃: Chama PV"
+        "😃: Chama PV",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Sempreeeee",
+        "😃: Liberada",
+        "Ricardo: Boa tarde me chamo Ricardo tenho 46 anos solteiro sou de minas gerais",
+        "Du: Obg"
       ]
     },
     "120363426574906687@g.us": {
@@ -6635,24 +6640,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "115036454424649",
-        "authorName": "Rodrígues",
-        "text": "Porque??",
-        "timestamp": 1788793872298
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
-        "text": "!ban @169157941317756",
-        "timestamp": 1788793873001
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
-        "text": "!ban @133865658183859",
-        "timestamp": 1788793903931
-      },
       {
         "authorNum": "152274357751809",
         "authorName": "Heloisa",
@@ -7480,6 +7467,30 @@
         "authorName": "😃",
         "text": "Chama PV",
         "timestamp": 1788795656724
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Sempreeeee",
+        "timestamp": 1788795664215
+      },
+      {
+        "authorNum": "176549663916038",
+        "authorName": "😃",
+        "text": "Liberada",
+        "timestamp": 1788795664352
+      },
+      {
+        "authorNum": "278838454050886",
+        "authorName": "Ricardo",
+        "text": "Boa tarde me chamo Ricardo tenho 46 anos solteiro sou de minas gerais",
+        "timestamp": 1788795699312
+      },
+      {
+        "authorNum": "152476120555682",
+        "authorName": "Du",
+        "text": "Obg",
+        "timestamp": 1788795704606
       }
     ],
     "120363426574906687@g.us": [
@@ -7523,7 +7534,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 54,
-    "120363023757382018@g.us": 1270,
+    "120363023757382018@g.us": 1274,
     "120363426574906687@g.us": 93
   },
   "botDisabled": {
@@ -13428,6 +13439,30 @@
         "text": "Chama PV",
         "pushName": "😃",
         "timestamp": 1788795656724
+      },
+      "ACFFDE0B173D02A206C655D044ADB323": {
+        "sender": "53537388122141@lid",
+        "text": "Sempreeeee",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788795664215
+      },
+      "AC4D2E828BE4CC40E2A56B49E9757595": {
+        "sender": "176549663916038@lid",
+        "text": "Liberada",
+        "pushName": "😃",
+        "timestamp": 1788795664352
+      },
+      "AC6B4DB9222F069F0BF7C9B96FE7D244": {
+        "sender": "278838454050886@lid",
+        "text": "Boa tarde me chamo Ricardo tenho 46 anos solteiro sou de minas gerais",
+        "pushName": "Ricardo",
+        "timestamp": 1788795699312
+      },
+      "3A46DF3F62E8753BE7DA": {
+        "sender": "152476120555682@lid",
+        "text": "Obg",
+        "pushName": "Du",
+        "timestamp": 1788795704606
       }
     },
     "120363426574906687@g.us": {
@@ -13849,7 +13884,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788795451490,
-    "120363023757382018@g.us": 1788795656724,
+    "120363023757382018@g.us": 1788795704606,
     "120363426574906687@g.us": 1788795383928
   },
   "autoAnimSent": {
