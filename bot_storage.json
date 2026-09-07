@@ -5217,9 +5217,9 @@
         "total": 1
       },
       "136296492200083": {
-        "text": 11,
+        "text": 12,
         "media": 5,
-        "total": 16
+        "total": 17
       },
       "252342414905454": {
         "text": 7,
@@ -5227,9 +5227,9 @@
         "total": 9
       },
       "118528279593092": {
-        "text": 11,
+        "text": 12,
         "media": 3,
-        "total": 14
+        "total": 15
       },
       "183137506173038": {
         "text": 8,
@@ -6178,8 +6178,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Hildecio Paulo: Oi",
-        "⚡: Bom dia",
         "Hildecio Paulo: Bom dia",
         "Hildecio Paulo: Paulo dede",
         "Nalguda Ganesh: 🥰",
@@ -6677,7 +6675,9 @@
         "No Foco .: Rsrs",
         "Márcio Bruxel: Obrigado",
         "𝑳𝒂𝒚𝒉🌪🌚: !ban @130043523133488",
-        "𝑳𝒂𝒚𝒉🌪🌚: Esse foco tava oferecendo dinheiro por fotos"
+        "𝑳𝒂𝒚𝒉🌪🌚: Esse foco tava oferecendo dinheiro por fotos",
+        "Luis Felipe: Cada coisa em",
+        "𝕰𝖛𝖆𝖓𝖉𝖗𝖔 𝕬𝖑𝖛𝖊𝖘: Foi pra 🔪"
       ]
     },
     "120363426574906687@g.us": {
@@ -7609,6 +7609,18 @@
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
         "text": "Esse foco tava oferecendo dinheiro por fotos",
         "timestamp": 1788799987663
+      },
+      {
+        "authorNum": "136296492200083",
+        "authorName": "Luis Felipe",
+        "text": "Cada coisa em",
+        "timestamp": 1788800001429
+      },
+      {
+        "authorNum": "118528279593092",
+        "authorName": "𝕰𝖛𝖆𝖓𝖉𝖗𝖔 𝕬𝖑𝖛𝖊𝖘",
+        "text": "Foi pra 🔪",
+        "timestamp": 1788800002396
       }
     ],
     "120363426574906687@g.us": [
@@ -7712,7 +7724,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1612,
+    "120363023757382018@g.us": 1614,
     "120363426574906687@g.us": 117
   },
   "botDisabled": {
@@ -15682,6 +15694,18 @@
         "text": "Esse foco tava oferecendo dinheiro por fotos",
         "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
         "timestamp": 1788799987663
+      },
+      "3AF7AC46D5773B95B1CF": {
+        "sender": "136296492200083@lid",
+        "text": "Cada coisa em",
+        "pushName": "Luis Felipe",
+        "timestamp": 1788800001429
+      },
+      "AC6814B64D299C2362BF6195D38C3E83": {
+        "sender": "118528279593092@lid",
+        "text": "Foi pra 🔪",
+        "pushName": "𝕰𝖛𝖆𝖓𝖉𝖗𝖔 𝕬𝖑𝖛𝖊𝖘",
+        "timestamp": 1788800002396
       }
     },
     "120363426574906687@g.us": {
@@ -16250,7 +16274,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788799993272,
+    "120363023757382018@g.us": 1788800002396,
     "120363426574906687@g.us": 1788799590982
   },
   "autoAnimSent": {
