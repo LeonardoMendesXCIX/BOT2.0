@@ -5078,8 +5078,8 @@
       },
       "232924968419570": {
         "text": 12,
-        "media": 2,
-        "total": 14
+        "media": 3,
+        "total": 15
       },
       "102650456625285": {
         "text": 1,
@@ -5304,9 +5304,9 @@
     },
     "120363426574906687@g.us": {
       "53537388122141": {
-        "text": 63,
+        "text": 64,
         "media": 3,
-        "total": 66
+        "total": 67
       },
       "166452229341300": {
         "text": 32,
@@ -6864,7 +6864,8 @@
         "Camila Designer: Sim",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: O bot envia, se ele estiver desativado, ou em manutenção, a gente envia manualmente por enquanto, até o bot voltar",
         "Camila Designer: Ele está desativado?",
-        "Camila Designer: Você tem o texto pronto?"
+        "Camila Designer: Você tem o texto pronto?",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Está ativado amiga"
       ]
     }
   },
@@ -8205,6 +8206,12 @@
         "authorName": "Camila Designer",
         "text": "Você tem o texto pronto?",
         "timestamp": 1788804471078
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Está ativado amiga",
+        "timestamp": 1788804509928
       }
     ]
   },
@@ -8229,7 +8236,7 @@
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
     "120363023757382018@g.us": 2026,
-    "120363426574906687@g.us": 165
+    "120363426574906687@g.us": 166
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -8237,7 +8244,8 @@
     "120363428464897153@g.us": false,
     "120363432018531082@g.us": false,
     "120363426574906687@g.us": false,
-    "120363427545094619@g.us": false
+    "120363427545094619@g.us": false,
+    "120363023757382018@g.us": false
   },
   "closedGroups": {
     "120363428464897153@g.us": true,
@@ -19500,6 +19508,12 @@
         "text": "Você tem o texto pronto?",
         "pushName": "Camila Designer",
         "timestamp": 1788804471078
+      },
+      "AC72E7280DC44159700473036BFB1991": {
+        "sender": "53537388122141@lid",
+        "text": "Está ativado amiga",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788804509928
       }
     }
   },
@@ -19598,8 +19612,8 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788804383759,
-    "120363426574906687@g.us": 1788804471078
+    "120363023757382018@g.us": 1788804515195,
+    "120363426574906687@g.us": 1788804509928
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
