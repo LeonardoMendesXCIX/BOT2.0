@@ -4591,9 +4591,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 116,
+        "text": 118,
         "media": 16,
-        "total": 132
+        "total": 134
       },
       "206966404210884": {
         "text": 2,
@@ -5987,8 +5987,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Camila Designer: Não entendi o emoji de capetinha 🤣🤣🤣🤣",
-        "Camila Designer: Sejam todos bem vindos!",
         "Amaury: Eu me lembro desse caso",
         "JUNIOR: Ualll",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Bem vindos a todos os membros novos, pessoal 🙆🏻‍♀️",
@@ -6486,7 +6484,9 @@
         "Juliano Perlin: Boa ideia",
         "Gabi 💋: Viu expor",
         "😃: Respeita",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Por favor!"
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Por favor!",
+        "Gabi 💋: Poxa oque eu fiz",
+        "Gabi 💋: Alguém dos ADMs resolve pq tá foda"
       ]
     },
     "120363426574906687@g.us": {
@@ -7450,6 +7450,18 @@
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "text": "Por favor!",
         "timestamp": 1788796105458
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Poxa oque eu fiz",
+        "timestamp": 1788796130231
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Alguém dos ADMs resolve pq tá foda",
+        "timestamp": 1788796139323
       }
     ],
     "120363426574906687@g.us": [
@@ -7499,7 +7511,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1309,
+    "120363023757382018@g.us": 1311,
     "120363426574906687@g.us": 94
   },
   "botDisabled": {
@@ -13650,6 +13662,18 @@
         "text": "Por favor!",
         "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "timestamp": 1788796105458
+      },
+      "ACD361CD27E812F54DBA8042C72BE2BE": {
+        "sender": "247020967165997@lid",
+        "text": "Poxa oque eu fiz",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788796130231
+      },
+      "AC5C24AA2B0F6290CF8E2FB0001F7C26": {
+        "sender": "247020967165997@lid",
+        "text": "Alguém dos ADMs resolve pq tá foda",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788796139323
       }
     },
     "120363426574906687@g.us": {
@@ -14080,7 +14104,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788796109036,
+    "120363023757382018@g.us": 1788796139323,
     "120363426574906687@g.us": 1788795951719
   },
   "autoAnimSent": {
