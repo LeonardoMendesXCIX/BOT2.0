@@ -4487,9 +4487,9 @@
         "total": 5
       },
       "108461127897146": {
-        "text": 79,
+        "text": 81,
         "media": 19,
-        "total": 98
+        "total": 100
       },
       "5511927018683": {
         "text": 164,
@@ -4552,9 +4552,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 66,
-        "media": 42,
-        "total": 108
+        "text": 67,
+        "media": 43,
+        "total": 110
       },
       "559984624669": {
         "text": 4,
@@ -5077,9 +5077,9 @@
         "total": 7
       },
       "232924968419570": {
-        "text": 8,
+        "text": 9,
         "media": 2,
-        "total": 10
+        "total": 11
       },
       "102650456625285": {
         "text": 1,
@@ -6193,10 +6193,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Gleydson Souza: Kkkkkk",
-        "𝑳𝒂𝒚𝒉🌪🌚: Retrato",
-        "José Vitor: Ok tudo bem concordo",
-        "Jefinho: 😱😱2mil mensagem",
         "Gabi 💋: Perdão",
         "Henrique Contri 🤫: Meu nome é Henrique tenho 29 anos sou de presidente prudente sp PV liberado 😎🚀",
         "Renis Rodrigues: Boa tarde galera\nMeu nome e Renis Rodrigues sou de Indiara Goiás \nTenho 29 anos",
@@ -6692,7 +6688,11 @@
         "José Vitor: Kkkkkkk",
         "Dany: Brother, não, valeu\nPaz ✌🏻",
         "Heloisa: Okkkkk",
-        "Camila Designer: Gostando né @108461127897146 🤣🤣🤣"
+        "Camila Designer: Gostando né @108461127897146 🤣🤣🤣",
+        "jaciara: Eu tô só observando",
+        "Camila Designer: Cadê o arregão???",
+        "jaciara: Kkkkk",
+        "Pedro🫰: @92629643563147 faz sobrancelha de homem também?"
       ]
     },
     "120363426574906687@g.us": {
@@ -6922,18 +6922,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "136296492200083",
-        "authorName": "Luis Felipe",
-        "text": "Nem eu pra que né",
-        "timestamp": 1788801109298
-      },
-      {
-        "authorNum": "152274357751809",
-        "authorName": "Heloisa",
-        "text": "Sim acho bobagem",
-        "timestamp": 1788801120502
-      },
       {
         "authorNum": "136296492200083",
         "authorName": "Luis Felipe",
@@ -7941,6 +7929,30 @@
         "authorName": "Camila Designer",
         "text": "Gostando né @108461127897146 🤣🤣🤣",
         "timestamp": 1788802896840
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Eu tô só observando",
+        "timestamp": 1788802907159
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Cadê o arregão???",
+        "timestamp": 1788802908068
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Kkkkk",
+        "timestamp": 1788802909520
+      },
+      {
+        "authorNum": "232924968419570",
+        "authorName": "Pedro🫰",
+        "text": "@92629643563147 faz sobrancelha de homem também?",
+        "timestamp": 1788802928561
       }
     ],
     "120363426574906687@g.us": []
@@ -7965,7 +7977,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 66,
-    "120363023757382018@g.us": 1867,
+    "120363023757382018@g.us": 1871,
     "120363426574906687@g.us": 145
   },
   "botDisabled": {
@@ -17519,6 +17531,30 @@
         "text": "Gostando né @108461127897146 🤣🤣🤣",
         "pushName": "Camila Designer",
         "timestamp": 1788802896840
+      },
+      "AC86AEE8B152B60D6C1C6EEE614EB1A9": {
+        "sender": "108461127897146@lid",
+        "text": "Eu tô só observando",
+        "pushName": "jaciara",
+        "timestamp": 1788802907159
+      },
+      "2A4F797816F93303C87F": {
+        "sender": "92629643563147@lid",
+        "text": "Cadê o arregão???",
+        "pushName": "Camila Designer",
+        "timestamp": 1788802908068
+      },
+      "AC107DCF8B94C8498CFD34DB7738FE2A": {
+        "sender": "108461127897146@lid",
+        "text": "Kkkkk",
+        "pushName": "jaciara",
+        "timestamp": 1788802909520
+      },
+      "ACA82A798AF6F6085A01F739935C0191": {
+        "sender": "232924968419570@lid",
+        "text": "@92629643563147 faz sobrancelha de homem também?",
+        "pushName": "Pedro🫰",
+        "timestamp": 1788802928561
       }
     },
     "120363426574906687@g.us": {
@@ -18255,7 +18291,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788802585654,
-    "120363023757382018@g.us": 1788802900848,
+    "120363023757382018@g.us": 1788802928561,
     "120363426574906687@g.us": 1788801476879
   },
   "autoAnimSent": {
