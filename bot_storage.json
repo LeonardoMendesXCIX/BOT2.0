@@ -4473,9 +4473,9 @@
         "total": 5
       },
       "108461127897146": {
-        "text": 65,
+        "text": 67,
         "media": 13,
-        "total": 78
+        "total": 80
       },
       "5511927018683": {
         "text": 148,
@@ -4578,9 +4578,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 59,
+        "text": 60,
         "media": 4,
-        "total": 63
+        "total": 64
       },
       "206966404210884": {
         "text": 2,
@@ -4678,19 +4678,19 @@
         "total": 2
       },
       "59645049761949": {
-        "text": 17,
+        "text": 18,
         "media": 0,
-        "total": 17
+        "total": 18
       },
       "21338118979724": {
-        "text": 0,
+        "text": 1,
         "media": 1,
-        "total": 1
+        "total": 2
       },
       "128145298608376": {
-        "text": 2,
+        "text": 3,
         "media": 1,
-        "total": 3
+        "total": 4
       }
     },
     "120363426574906687@g.us": {
@@ -5901,7 +5901,11 @@
         "Gabi 💋: KD o queijo e o doce de leite ?",
         "Gabi 💋: Pinça ksksks",
         "Amaury: Oxxe",
-        "Camila Designer: Conte mais @247020967165997 🤣🤣🤣"
+        "Camila Designer: Conte mais @247020967165997 🤣🤣🤣",
+        "Amaury: Deus abençoe",
+        "solteiro: Oie",
+        "Gabi 💋: Vai explodir",
+        "jaciara: Amém 🙏🏼"
       ]
     },
     "120363426574906687@g.us": {
@@ -6372,6 +6376,30 @@
         "authorName": "Camila Designer",
         "text": "Conte mais @247020967165997 🤣🤣🤣",
         "timestamp": 1788787452512
+      },
+      {
+        "authorNum": "59645049761949",
+        "authorName": "Amaury",
+        "text": "Deus abençoe",
+        "timestamp": 1788787472913
+      },
+      {
+        "authorNum": "128145298608376",
+        "authorName": "solteiro",
+        "text": "Oie",
+        "timestamp": 1788787489718
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Vai explodir",
+        "timestamp": 1788787497339
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Amém 🙏🏼",
+        "timestamp": 1788787497793
       }
     ],
     "120363426574906687@g.us": []
@@ -6396,7 +6424,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 33,
-    "120363023757382018@g.us": 587,
+    "120363023757382018@g.us": 591,
     "120363426574906687@g.us": 36
   },
   "botDisabled": {
@@ -8097,6 +8125,30 @@
         "text": "Conte mais @247020967165997 🤣🤣🤣",
         "pushName": "Camila Designer",
         "timestamp": 1788787452512
+      },
+      "ACF04B8EEB78147623FB002859D162D8": {
+        "sender": "59645049761949@lid",
+        "text": "Deus abençoe",
+        "pushName": "Amaury",
+        "timestamp": 1788787472913
+      },
+      "A55F83446B10BE557E4BB21AB21EF63E": {
+        "sender": "128145298608376@lid",
+        "text": "Oie",
+        "pushName": "solteiro",
+        "timestamp": 1788787489718
+      },
+      "AC666F57A6B5DE5FA7D41A44C151F1A6": {
+        "sender": "247020967165997@lid",
+        "text": "Vai explodir",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788787497339
+      },
+      "AC917DF3931C19401A89B8F84CDD76AB": {
+        "sender": "108461127897146@lid",
+        "text": "Amém 🙏🏼",
+        "pushName": "jaciara",
+        "timestamp": 1788787497794
       }
     },
     "120363426574906687@g.us": {}
@@ -8193,7 +8245,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788755502872,
-    "120363023757382018@g.us": 1788787468130,
+    "120363023757382018@g.us": 1788787497793,
     "120363426574906687@g.us": 1788725639102
   },
   "autoAnimSent": {
