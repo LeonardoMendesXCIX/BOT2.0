@@ -4498,8 +4498,8 @@
       },
       "166452229341300": {
         "text": 221,
-        "media": 69,
-        "total": 290
+        "media": 70,
+        "total": 291
       },
       "53537388122141": {
         "text": 148,
@@ -5227,9 +5227,9 @@
         "total": 9
       },
       "118528279593092": {
-        "text": 18,
+        "text": 19,
         "media": 4,
-        "total": 22
+        "total": 23
       },
       "183137506173038": {
         "text": 8,
@@ -5309,9 +5309,9 @@
         "total": 50
       },
       "166452229341300": {
-        "text": 29,
+        "text": 30,
         "media": 7,
-        "total": 36
+        "total": 37
       },
       "5511927018683": {
         "text": 23,
@@ -6805,7 +6805,8 @@
         "Leandro: Vou chamar aqui",
         "Cristian Sntss: Luís Felipe tenho 21 moro em regente Feijó solteiro",
         "Cristian Sntss: O bico de jubina ai",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: @54259127210155 pode ir Pv?"
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: @54259127210155 pode ir Pv?",
+        "Cristian Sntss: Aquele insento já tá de novo"
       ]
     }
   },
@@ -7755,6 +7756,12 @@
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "text": "@54259127210155 pode ir Pv?",
         "timestamp": 1788800119600
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Aquele insento já tá de novo",
+        "timestamp": 1788800187779
       }
     ]
   },
@@ -7779,7 +7786,7 @@
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
     "120363023757382018@g.us": 1628,
-    "120363426574906687@g.us": 118
+    "120363426574906687@g.us": 119
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16320,6 +16327,12 @@
         "text": "@54259127210155 pode ir Pv?",
         "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "timestamp": 1788800119600
+      },
+      "A540A7E2359BA3CE08F107AF23F6E28B": {
+        "sender": "166452229341300@lid",
+        "text": "Aquele insento já tá de novo",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788800187779
       }
     }
   },
@@ -16418,8 +16431,8 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788800159429,
-    "120363426574906687@g.us": 1788800119600
+    "120363023757382018@g.us": 1788800171591,
+    "120363426574906687@g.us": 1788800187779
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
