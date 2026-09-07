@@ -4572,9 +4572,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 292,
+        "text": 293,
         "media": 169,
-        "total": 461
+        "total": 462
       },
       "559984624669": {
         "text": 4,
@@ -4818,8 +4818,8 @@
       },
       "71644668272766": {
         "text": 17,
-        "media": 1,
-        "total": 18
+        "media": 2,
+        "total": 19
       },
       "63252218273911": {
         "text": 2,
@@ -5337,9 +5337,9 @@
         "total": 7
       },
       "79728216113177": {
-        "text": 104,
+        "text": 105,
         "media": 46,
-        "total": 150
+        "total": 151
       },
       "108147461074988": {
         "text": 1,
@@ -6266,8 +6266,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Felippo: se não vai ficar bagunçado assim",
-        "Camila Designer: Mas já está",
         "Felippo: o cara era adm?",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Não",
         "Camila Designer: Acho que o Lauan ativou agora kkk",
@@ -6765,7 +6763,9 @@
         "Kaio Mendes: Vc é atacante msm",
         "Wellington: Olhaaa fazer propaganda enganosa é crime",
         "Kaio Mendes: Ela é criminosa",
-        "Kaio Mendes: Mas não é pelas propagandas"
+        "Kaio Mendes: Mas não é pelas propagandas",
+        "Kaio Mendes: Ela falta matar os caras do coração lá",
+        "Camila Designer: Mas você vai querer ver algo meu?👀👀👀\nMinha amiga é ciumenta ué"
       ]
     },
     "120363426574906687@g.us": {
@@ -6996,12 +6996,6 @@
     ],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Você tem sorte que é um pitelzinho e tem a voz bonita 😏😏😏",
-        "timestamp": 1788818790322
-      },
       {
         "authorNum": "166452229341300",
         "authorName": "Cristian Sntss",
@@ -7289,6 +7283,18 @@
         "authorName": "Kaio Mendes",
         "text": "Mas não é pelas propagandas",
         "timestamp": 1788820572529
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "Ela falta matar os caras do coração lá",
+        "timestamp": 1788820582287
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Mas você vai querer ver algo meu?👀👀👀\nMinha amiga é ciumenta ué",
+        "timestamp": 1788820594846
       }
     ],
     "120363426574906687@g.us": []
@@ -7313,7 +7319,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 486,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 3046,
+    "120363023757382018@g.us": 3048,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -24063,6 +24069,18 @@
         "text": "Mas não é pelas propagandas",
         "pushName": "Kaio Mendes",
         "timestamp": 1788820572529
+      },
+      "ACC5AB56BEC563315D00265E4F0FF1EF": {
+        "sender": "79728216113177@lid",
+        "text": "Ela falta matar os caras do coração lá",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788820582288
+      },
+      "2A7781B2425C7AC20269": {
+        "sender": "92629643563147@lid",
+        "text": "Mas você vai querer ver algo meu?👀👀👀\nMinha amiga é ciumenta ué",
+        "pushName": "Camila Designer",
+        "timestamp": 1788820594846
       }
     },
     "120363426574906687@g.us": {
@@ -25009,7 +25027,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788819771459,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788820572529,
+    "120363023757382018@g.us": 1788820596968,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
