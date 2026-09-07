@@ -4572,9 +4572,9 @@
         "total": 9
       },
       "81991328395336": {
-        "text": 102,
+        "text": 105,
         "media": 29,
-        "total": 131
+        "total": 134
       },
       "274384656834700": {
         "text": 33,
@@ -4767,9 +4767,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 110,
+        "text": 111,
         "media": 1,
-        "total": 111
+        "total": 112
       },
       "89305909317735": {
         "text": 1,
@@ -5225,6 +5225,11 @@
         "text": 3,
         "media": 0,
         "total": 3
+      },
+      "118528279593092": {
+        "text": 1,
+        "media": 0,
+        "total": 1
       }
     },
     "120363426574906687@g.us": {
@@ -6108,10 +6113,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Heloisa: Né moço",
-        "Thawan: É isso aí",
-        "K: Oii",
-        "Thawan: Está certíssima",
         "Heloisa: Então vc sabe pq não te respondo no PV kk",
         "K: Prazer pyetro, idade 18y",
         "Heloisa: Bem vindo",
@@ -6607,7 +6608,11 @@
         "Cristian Sntss: Bem vindo",
         "Cristian Sntss: Menino n entra uma mulher",
         "Heloisa: Ata kkk",
-        "Luis Felipe: Luís Felipe tenho 21 moro em regente Feijó solteiro"
+        "Luis Felipe: Luís Felipe tenho 21 moro em regente Feijó solteiro",
+        "𝕰𝖛𝖆𝖓𝖉𝖗𝖔 𝕬𝖑𝖛𝖊𝖘: Boa tarde \n\nMe chamo Evandro, tenho 37 anos e sou de João pessoa PB  hétero",
+        "Heloisa: Bem vindo",
+        "𝑳𝒂𝒚𝒉🌪🌚: Bem vindooo",
+        "𝑳𝒂𝒚𝒉🌪🌚: Foto"
       ]
     },
     "120363426574906687@g.us": {
@@ -7586,6 +7591,30 @@
         "authorName": "Luis Felipe",
         "text": "Luís Felipe tenho 21 moro em regente Feijó solteiro",
         "timestamp": 1788798374563
+      },
+      {
+        "authorNum": "118528279593092",
+        "authorName": "𝕰𝖛𝖆𝖓𝖉𝖗𝖔 𝕬𝖑𝖛𝖊𝖘",
+        "text": "Boa tarde \n\nMe chamo Evandro, tenho 37 anos e sou de João pessoa PB  hétero",
+        "timestamp": 1788798382911
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Bem vindo",
+        "timestamp": 1788798389520
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Bem vindooo",
+        "timestamp": 1788798391046
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Foto",
+        "timestamp": 1788798396110
       }
     ],
     "120363426574906687@g.us": [
@@ -7647,7 +7676,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1489,
+    "120363023757382018@g.us": 1493,
     "120363426574906687@g.us": 104
   },
   "botDisabled": {
@@ -14879,6 +14908,30 @@
         "text": "Luís Felipe tenho 21 moro em regente Feijó solteiro",
         "pushName": "Luis Felipe",
         "timestamp": 1788798374563
+      },
+      "AC85291E77FDBF88DD536BED78642428": {
+        "sender": "118528279593092@lid",
+        "text": "Boa tarde \n\nMe chamo Evandro, tenho 37 anos e sou de João pessoa PB  hétero",
+        "pushName": "𝕰𝖛𝖆𝖓𝖉𝖗𝖔 𝕬𝖑𝖛𝖊𝖘",
+        "timestamp": 1788798382911
+      },
+      "ACE7042145F394F07C7119007CC1FBC1": {
+        "sender": "152274357751809@lid",
+        "text": "Bem vindo",
+        "pushName": "Heloisa",
+        "timestamp": 1788798389520
+      },
+      "ACD1DF7D12D0041E96405F3ED86252F0": {
+        "sender": "81991328395336@lid",
+        "text": "Bem vindooo",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1788798391047
+      },
+      "ACC53FCA338F25BD4EEC947D5D16753E": {
+        "sender": "81991328395336@lid",
+        "text": "Foto",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1788798396110
       }
     },
     "120363426574906687@g.us": {
@@ -15369,7 +15422,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788798374563,
+    "120363023757382018@g.us": 1788798396110,
     "120363426574906687@g.us": 1788798298976
   },
   "autoAnimSent": {
