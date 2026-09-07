@@ -4517,9 +4517,9 @@
         "total": 207
       },
       "166452229341300": {
-        "text": 321,
-        "media": 99,
-        "total": 420
+        "text": 322,
+        "media": 100,
+        "total": 422
       },
       "53537388122141": {
         "text": 217,
@@ -4572,9 +4572,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 268,
+        "text": 269,
         "media": 155,
-        "total": 423
+        "total": 424
       },
       "559984624669": {
         "text": 4,
@@ -6249,7 +6249,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Celiete Souza: Onde estou",
         "Gabi 💋: Óia marido",
         "Saul: Ataaa",
         "P: Já te acho pera aí",
@@ -6748,7 +6747,8 @@
         "Camila Designer: Mas vocês pulam",
         "Kaio Mendes: Peixes de água salgada",
         "Camila Designer: Os peixes estão espertos",
-        "Camila Designer: Difícil pescar viu"
+        "Camila Designer: Difícil pescar viu",
+        "Camila Designer: Papo de noite inteira tentar pescar e sair com a rede vazia kkkk"
       ]
     },
     "120363426574906687@g.us": {
@@ -6984,12 +6984,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Agora está tudo explicado",
-        "timestamp": 1788814782380
-      },
       {
         "authorNum": "29661681713335",
         "authorName": "Robison 🙏🏻❤️",
@@ -7523,6 +7517,12 @@
         "authorName": "Camila Designer",
         "text": "Difícil pescar viu",
         "timestamp": 1788816581891
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Papo de noite inteira tentar pescar e sair com a rede vazia kkkk",
+        "timestamp": 1788816610099
       }
     ],
     "120363426574906687@g.us": [
@@ -7554,7 +7554,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2805,
+    "120363023757382018@g.us": 2806,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -22815,6 +22815,12 @@
         "text": "Difícil pescar viu",
         "pushName": "Camila Designer",
         "timestamp": 1788816581892
+      },
+      "2A2B37F1C8DD8DF6489A": {
+        "sender": "92629643563147@lid",
+        "text": "Papo de noite inteira tentar pescar e sair com a rede vazia kkkk",
+        "pushName": "Camila Designer",
+        "timestamp": 1788816610100
       }
     },
     "120363426574906687@g.us": {
@@ -23761,7 +23767,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788816581891,
+    "120363023757382018@g.us": 1788816610099,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
