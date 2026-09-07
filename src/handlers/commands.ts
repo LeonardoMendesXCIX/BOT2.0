@@ -554,8 +554,12 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
                 for (const p of participantsList) {
                     const isAdmin = p.admin === 'admin' || p.admin === 'superadmin';
                     if (isAdmin) continue;
-                    const raw = extractRawNumber(p.id);
-                    const isBr = raw.startsWith('55') && (raw.length === 12 || raw.length === 13);
+                    const resolved = extractRawNumber(p.id);
+                    const effectiveNum = (p.id || '').endsWith('@s.whatsapp.net')
+                        ? resolved
+                        : (resolved && resolved.length <= 13 ? resolved : '');
+                    if (!effectiveNum) continue;
+                    const isBr = effectiveNum.startsWith('55') && (effectiveNum.length === 12 || effectiveNum.length === 13);
                     if (!isBr) foreignList.push(p);
                 }
                 if (foreignList.length === 0) { await sock.sendMessage(chatId, { text: '✅ Nenhum número estrangeiro encontrado.' }); return; }
