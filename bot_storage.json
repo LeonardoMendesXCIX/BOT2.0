@@ -4523,8 +4523,8 @@
       },
       "53537388122141": {
         "text": 163,
-        "media": 12,
-        "total": 175
+        "media": 13,
+        "total": 176
       },
       "129373172711439": {
         "text": 121,
@@ -4592,9 +4592,9 @@
         "total": 59
       },
       "81991328395336": {
-        "text": 141,
-        "media": 40,
-        "total": 181
+        "text": 144,
+        "media": 41,
+        "total": 185
       },
       "274384656834700": {
         "text": 76,
@@ -5337,9 +5337,9 @@
         "total": 6
       },
       "79728216113177": {
-        "text": 5,
+        "text": 6,
         "media": 5,
-        "total": 10
+        "total": 11
       }
     },
     "120363426574906687@g.us": {
@@ -6244,8 +6244,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Saul: Se eu comprar o Danone pra eles, a amiga toma meu leite?",
-        "jaciara: Ela adora",
         "jaciara: Ops",
         "Henrique Contri 🤫: Puta merda 🤣🤣🤣🤣",
         "Saul: EU QUERO, quando posso estar indo?",
@@ -6743,7 +6741,9 @@
         "P: Vish",
         "P: Número gringo",
         "Wellington: Mensagem anônima que não é tão anônima assim kkkk",
-        "Leandro: !ban @240617657508056"
+        "Leandro: !ban @240617657508056",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Ficamos super feliz por issoooo\n@all",
+        "𝑳𝒂𝒚𝒉🌪🌚: Tu foi?"
       ]
     },
     "120363426574906687@g.us": {
@@ -7288,6 +7288,18 @@
         "authorName": "Leandro",
         "text": "!ban @240617657508056",
         "timestamp": 1788812989056
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Ficamos super feliz por issoooo\n@all",
+        "timestamp": 1788812994498
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Tu foi?",
+        "timestamp": 1788813005656
       }
     ],
     "120363426574906687@g.us": []
@@ -7312,7 +7324,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2624,
+    "120363023757382018@g.us": 2626,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -21475,6 +21487,18 @@
         "text": "!ban @240617657508056",
         "pushName": "Leandro",
         "timestamp": 1788812989056
+      },
+      "AC1AD9D75AEDE1B22180C0F2AD4A0DB2": {
+        "sender": "53537388122141@lid",
+        "text": "Ficamos super feliz por issoooo\n@all",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788812994498
+      },
+      "AC1195EE497BEBEE5990A8C0F0B25A87": {
+        "sender": "81991328395336@lid",
+        "text": "Tu foi?",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1788813005656
       }
     },
     "120363426574906687@g.us": {
@@ -22415,7 +22439,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788812989056,
+    "120363023757382018@g.us": 1788813015372,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
