@@ -4487,9 +4487,9 @@
         "total": 5
       },
       "108461127897146": {
-        "text": 141,
+        "text": 146,
         "media": 37,
-        "total": 178
+        "total": 183
       },
       "5511927018683": {
         "text": 164,
@@ -5142,9 +5142,9 @@
         "total": 1
       },
       "264308512522409": {
-        "text": 91,
+        "text": 93,
         "media": 4,
-        "total": 95
+        "total": 97
       },
       "194377938911429": {
         "text": 9,
@@ -6195,13 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Henrique Contri 🤫: Por isso não fui kkk",
-        "Luis Felipe: A sei lá",
-        "Cristian Sntss: Rapaz",
-        "Henrique Contri 🤫: Tô esperando o almoço para alimentar minha bb 🤣",
-        "Cristian Sntss: Q bb",
-        "Heloisa: Eu por enquanto só aloprando com os caba é bom",
-        "Henrique Contri 🤫: Se achando 🤣🤣🤣",
         "Márcio Bruxel: Pessoal...\nAproveitando o feriado?",
         "Heloisa: Não tô nem preciso",
         "Luis Felipe: eita kk",
@@ -6694,7 +6687,14 @@
         "jaciara: Oh Jesus",
         "jaciara: Mais tarde os ADM manda o link",
         "jaciara: Cê entra",
-        "Henrique Contri 🤫: Vou dar uma ajeitada na pinça 🤣"
+        "Henrique Contri 🤫: Vou dar uma ajeitada na pinça 🤣",
+        "jaciara: Cuidado só",
+        "jaciara: Ontem um foi removido",
+        "jaciara: Kkkk",
+        "Henrique Contri 🤫: Ah pronto 🤣🤣",
+        "jaciara: Porque marcou a dona do kbaré",
+        "jaciara: E ela é casada",
+        "Henrique Contri 🤫: É só para as solteira kkk"
       ]
     },
     "120363426574906687@g.us": {
@@ -6898,12 +6898,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Oque foi",
-        "timestamp": 1788804636644
-      },
       {
         "authorNum": "247020967165997",
         "authorName": "Gabi 💋",
@@ -7821,6 +7815,48 @@
         "authorName": "Henrique Contri 🤫",
         "text": "Vou dar uma ajeitada na pinça 🤣",
         "timestamp": 1788806379558
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Cuidado só",
+        "timestamp": 1788806405739
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Ontem um foi removido",
+        "timestamp": 1788806410868
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Kkkk",
+        "timestamp": 1788806412047
+      },
+      {
+        "authorNum": "264308512522409",
+        "authorName": "Henrique Contri 🤫",
+        "text": "Ah pronto 🤣🤣",
+        "timestamp": 1788806420951
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Porque marcou a dona do kbaré",
+        "timestamp": 1788806422846
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "E ela é casada",
+        "timestamp": 1788806427603
+      },
+      {
+        "authorNum": "264308512522409",
+        "authorName": "Henrique Contri 🤫",
+        "text": "É só para as solteira kkk",
+        "timestamp": 1788806446595
       }
     ],
     "120363426574906687@g.us": [
@@ -7918,7 +7954,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2181,
+    "120363023757382018@g.us": 2188,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -19369,6 +19405,48 @@
         "text": "Vou dar uma ajeitada na pinça 🤣",
         "pushName": "Henrique Contri 🤫",
         "timestamp": 1788806379558
+      },
+      "AC0F5AC69FD910E38C8509F5E6EF0050": {
+        "sender": "108461127897146@lid",
+        "text": "Cuidado só",
+        "pushName": "jaciara",
+        "timestamp": 1788806405739
+      },
+      "AC06ECE24F2D5723BB1067EACF0B83D9": {
+        "sender": "108461127897146@lid",
+        "text": "Ontem um foi removido",
+        "pushName": "jaciara",
+        "timestamp": 1788806410868
+      },
+      "ACED8F45852A8A7BCB33FD3EE676F403": {
+        "sender": "108461127897146@lid",
+        "text": "Kkkk",
+        "pushName": "jaciara",
+        "timestamp": 1788806412047
+      },
+      "AC65BFAEA521E6D4EAA3602114265791": {
+        "sender": "264308512522409@lid",
+        "text": "Ah pronto 🤣🤣",
+        "pushName": "Henrique Contri 🤫",
+        "timestamp": 1788806420952
+      },
+      "AC480DD54744B8C2A83E527DEB8B6582": {
+        "sender": "108461127897146@lid",
+        "text": "Porque marcou a dona do kbaré",
+        "pushName": "jaciara",
+        "timestamp": 1788806422846
+      },
+      "AC83CBBD4188BCDE625C9C14E2F61644": {
+        "sender": "108461127897146@lid",
+        "text": "E ela é casada",
+        "pushName": "jaciara",
+        "timestamp": 1788806427604
+      },
+      "AC3EADB3DE4A584AEFF8CE4E581E9605": {
+        "sender": "264308512522409@lid",
+        "text": "É só para as solteira kkk",
+        "pushName": "Henrique Contri 🤫",
+        "timestamp": 1788806446596
       }
     },
     "120363426574906687@g.us": {
@@ -20309,7 +20387,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788806390663,
+    "120363023757382018@g.us": 1788806446595,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
