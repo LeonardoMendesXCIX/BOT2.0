@@ -4529,9 +4529,9 @@
         "total": 15
       },
       "262182034002040": {
-        "text": 34,
-        "media": 2,
-        "total": 36
+        "text": 35,
+        "media": 3,
+        "total": 38
       },
       "199733712785531": {
         "text": 4,
@@ -4855,8 +4855,8 @@
       },
       "5850081050816": {
         "text": 5,
-        "media": 0,
-        "total": 5
+        "media": 1,
+        "total": 6
       },
       "48120897470717": {
         "text": 2,
@@ -4871,6 +4871,11 @@
       "280887035965638": {
         "text": 3,
         "media": 1,
+        "total": 4
+      },
+      "220980429479955": {
+        "text": 4,
+        "media": 0,
         "total": 4
       }
     },
@@ -5737,10 +5742,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Leandro: 🤌🏼",
-        "𝑳𝒂𝒚𝒉🌪🌚: E hj ele amanheceu daquele jeito",
-        "Gleydson Souza: E o melhor que tem",
-        "Gabi 💋: Não é menina",
         "Gleydson Souza: Eu aproveitando o feriado pra acordar um pouco tarde e vcs se estressando kkkkkk",
         "Cristian Sntss: @54259127210155 \nPv",
         "Leandro: !status",
@@ -6236,7 +6237,11 @@
         "Thawan: Vou fazer do jeito que você estava pedindo",
         "P: Admitiu",
         "Dani: Lindona",
-        "Heloisa: Obrigada"
+        "Heloisa: Obrigada",
+        "Douglas🙏: Heloísa ❤️",
+        "Douglas🙏: Tchê",
+        "Douglas🙏: Heloísa ❤️",
+        "Douglas🙏: 🙈"
       ]
     },
     "120363426574906687@g.us": {
@@ -6343,12 +6348,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "A idade",
-        "timestamp": 1788790834720
-      },
       {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
@@ -7026,6 +7025,30 @@
         "authorName": "Heloisa",
         "text": "Obrigada",
         "timestamp": 1788792624291
+      },
+      {
+        "authorNum": "220980429479955",
+        "authorName": "Douglas🙏",
+        "text": "Heloísa ❤️",
+        "timestamp": 1788792634423
+      },
+      {
+        "authorNum": "220980429479955",
+        "authorName": "Douglas🙏",
+        "text": "Tchê",
+        "timestamp": 1788792641963
+      },
+      {
+        "authorNum": "220980429479955",
+        "authorName": "Douglas🙏",
+        "text": "Heloísa ❤️",
+        "timestamp": 1788792647759
+      },
+      {
+        "authorNum": "220980429479955",
+        "authorName": "Douglas🙏",
+        "text": "🙈",
+        "timestamp": 1788792654354
       }
     ],
     "120363426574906687@g.us": [
@@ -7075,7 +7098,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 1012,
+    "120363023757382018@g.us": 1016,
     "120363426574906687@g.us": 83
   },
   "botDisabled": {
@@ -11336,6 +11359,30 @@
         "text": "Obrigada",
         "pushName": "Heloisa",
         "timestamp": 1788792624291
+      },
+      "AC601AD4333CCA38EDD9E22B704AFAD0": {
+        "sender": "220980429479955@lid",
+        "text": "Heloísa ❤️",
+        "pushName": "Douglas🙏",
+        "timestamp": 1788792634423
+      },
+      "AC43D661B00717BDBCF56BF556EAED55": {
+        "sender": "220980429479955@lid",
+        "text": "Tchê",
+        "pushName": "Douglas🙏",
+        "timestamp": 1788792641964
+      },
+      "AC41FF15D45EFEF84AEDCD04142076C6": {
+        "sender": "220980429479955@lid",
+        "text": "Heloísa ❤️",
+        "pushName": "Douglas🙏",
+        "timestamp": 1788792647760
+      },
+      "AC4190C8B57CD9E0570AA2A652520997": {
+        "sender": "220980429479955@lid",
+        "text": "🙈",
+        "pushName": "Douglas🙏",
+        "timestamp": 1788792654354
       }
     },
     "120363426574906687@g.us": {
@@ -11697,7 +11744,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788792624291,
+    "120363023757382018@g.us": 1788792660175,
     "120363426574906687@g.us": 1788791178144
   },
   "autoAnimSent": {
