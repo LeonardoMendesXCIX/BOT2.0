@@ -4484,9 +4484,9 @@
         "total": 164
       },
       "166452229341300": {
-        "text": 73,
+        "text": 74,
         "media": 36,
-        "total": 109
+        "total": 110
       },
       "53537388122141": {
         "text": 45,
@@ -4579,9 +4579,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 99,
+        "text": 100,
         "media": 12,
-        "total": 111
+        "total": 112
       },
       "206966404210884": {
         "text": 2,
@@ -5597,8 +5597,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Leandro: Ehhh 🌝",
-        "𝑳𝒂𝒚𝒉🌪🌚: O bot assim olhando a Danny digitando",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: No @54259127210155",
         "Leandro: Vou dar 1 colher de chá em @262182034002040",
         "Dany: Aff\nAgora tá lá salvo como rascunho as 2 palavras que eu ia enviar",
@@ -6096,7 +6094,9 @@
         "solteiro: Bjs",
         "xacinaluzqradiaoinferno71: daora",
         "xacinaluzqradiaoinferno71: esse cara tem autismo",
-        "Gabi 💋: Vc né"
+        "Gabi 💋: Vc né",
+        "Cristian Sntss: Se apresente galera",
+        "Gabi 💋: Está entrando muito homem \nKD as mulheres"
       ]
     },
     "120363426574906687@g.us": {
@@ -7452,6 +7452,18 @@
         "authorName": "Gabi 💋",
         "text": "Vc né",
         "timestamp": 1788788509052
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Se apresente galera",
+        "timestamp": 1788788582443
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Está entrando muito homem \nKD as mulheres",
+        "timestamp": 1788788591077
       }
     ],
     "120363426574906687@g.us": [
@@ -7549,7 +7561,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 727,
+    "120363023757382018@g.us": 729,
     "120363426574906687@g.us": 48
   },
   "botDisabled": {
@@ -10104,6 +10116,18 @@
         "text": "Vc né",
         "pushName": "Gabi 💋",
         "timestamp": 1788788509052
+      },
+      "A5DD7F61C0C3AD482E6EA84A6F7B8A2D": {
+        "sender": "166452229341300@lid",
+        "text": "Se apresente galera",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788788582443
+      },
+      "AC3A8E9A805AC910AD48C7A8CDD272F7": {
+        "sender": "247020967165997@lid",
+        "text": "Está entrando muito homem \nKD as mulheres",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788788591077
       }
     },
     "120363426574906687@g.us": {
@@ -10255,7 +10279,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788788523442,
+    "120363023757382018@g.us": 1788788591077,
     "120363426574906687@g.us": 1788788012627
   },
   "autoAnimSent": {
