@@ -4522,9 +4522,9 @@
         "total": 429
       },
       "53537388122141": {
-        "text": 241,
+        "text": 242,
         "media": 30,
-        "total": 271
+        "total": 272
       },
       "129373172711439": {
         "text": 121,
@@ -4592,9 +4592,9 @@
         "total": 89
       },
       "81991328395336": {
-        "text": 161,
+        "text": 162,
         "media": 47,
-        "total": 208
+        "total": 209
       },
       "274384656834700": {
         "text": 76,
@@ -4612,9 +4612,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 255,
+        "text": 256,
         "media": 20,
-        "total": 275
+        "total": 276
       },
       "206966404210884": {
         "text": 2,
@@ -4817,9 +4817,9 @@
         "total": 1
       },
       "71644668272766": {
-        "text": 10,
+        "text": 11,
         "media": 1,
-        "total": 11
+        "total": 12
       },
       "63252218273911": {
         "text": 2,
@@ -6255,8 +6255,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Felippo: mensagem apagada depois da minha",
-        "Felippo: .",
         "Felippo: antes",
         "Camila Designer: !ban @264308512522409",
         "Camila Designer: Pessoal, vamos atentar ao que enviamos!",
@@ -6754,7 +6752,9 @@
         "Juliano Perlin: Hata",
         "Wellington: Aí é top eim meu mano",
         "Juliano Perlin: Duvido🤭",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: !ban"
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: !ban",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Nunca duvidem da minha capacidade 🌚\n@all",
+        "𝑳𝒂𝒚𝒉🌪🌚: As de 16 parece ter 20"
       ]
     },
     "120363426574906687@g.us": {
@@ -6966,18 +6966,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "182738040713418",
-        "authorName": "Wellington",
-        "text": "Mandei errado kkk",
-        "timestamp": 1788815760319
-      },
-      {
-        "authorNum": "79728216113177",
-        "authorName": "Kaio Mendes",
-        "text": "Kkkkkk",
-        "timestamp": 1788815765099
-      },
       {
         "authorNum": "182738040713418",
         "authorName": "Wellington",
@@ -7721,6 +7709,18 @@
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "text": "!ban",
         "timestamp": 1788817515957
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Nunca duvidem da minha capacidade 🌚\n@all",
+        "timestamp": 1788817537168
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "As de 16 parece ter 20",
+        "timestamp": 1788817573313
       }
     ],
     "120363426574906687@g.us": []
@@ -7745,7 +7745,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2860,
+    "120363023757382018@g.us": 2862,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -23342,6 +23342,18 @@
         "text": "!ban",
         "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "timestamp": 1788817515958
+      },
+      "ACA4A8B07964A401AFCF07D115D181F9": {
+        "sender": "53537388122141@lid",
+        "text": "Nunca duvidem da minha capacidade 🌚\n@all",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788817537168
+      },
+      "AC1EA5B143CA3C1C39E02928D0BA7B09": {
+        "sender": "81991328395336@lid",
+        "text": "As de 16 parece ter 20",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1788817573313
       }
     },
     "120363426574906687@g.us": {
@@ -24288,7 +24300,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788817515957,
+    "120363023757382018@g.us": 1788817573313,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
