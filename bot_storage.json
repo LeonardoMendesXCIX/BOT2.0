@@ -4487,9 +4487,9 @@
         "total": 5
       },
       "108461127897146": {
-        "text": 133,
-        "media": 35,
-        "total": 168
+        "text": 134,
+        "media": 36,
+        "total": 170
       },
       "5511927018683": {
         "text": 164,
@@ -4553,8 +4553,8 @@
       },
       "92629643563147": {
         "text": 144,
-        "media": 85,
-        "total": 229
+        "media": 86,
+        "total": 230
       },
       "559984624669": {
         "text": 4,
@@ -4683,8 +4683,8 @@
       },
       "118515428286715": {
         "text": 54,
-        "media": 4,
-        "total": 58
+        "media": 5,
+        "total": 59
       },
       "193729163993156": {
         "text": 2,
@@ -5314,9 +5314,9 @@
         "total": 39
       },
       "5511927018683": {
-        "text": 46,
+        "text": 47,
         "media": 3,
-        "total": 49
+        "total": 50
       },
       "92629643563147": {
         "text": 34,
@@ -6195,7 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Francisco Silva: Ligeira kkk",
         "Luis Felipe: Kkk",
         "Heloisa: Que faz de bom aí",
         "Luis Felipe: Nada mal tédio e vc",
@@ -6694,7 +6693,8 @@
         "jaciara: Aí todas ver",
         "Camila Designer: Amigas sincroniza das hein @108461127897146",
         "jaciara: E minha amiga junto com a amiga da @92629643563147 analisam juntas",
-        "Saul: Ok, aparecerei no cabaré hj 👍"
+        "Saul: Ok, aparecerei no cabaré hj 👍",
+        "jaciara: Não falte"
       ]
     },
     "120363426574906687@g.us": {
@@ -6878,7 +6878,8 @@
         "Leandro: @92629643563147",
         "Camila Designer: Esse cara é um idiota carente",
         "Leandro: Se ele for no pv de mais alguém, manda o print aqui",
-        "Leandro: Galera, vou dar uma ajeitada no bot, mas com o mínimo de interrupções possíveis, para não atrapalhar nosso lado"
+        "Leandro: Galera, vou dar uma ajeitada no bot, mas com o mínimo de interrupções possíveis, para não atrapalhar nosso lado",
+        "Leandro: !todos"
       ]
     }
   },
@@ -6897,18 +6898,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Cadê o @118515428286715 heim 😏😏😏",
-        "timestamp": 1788804290239
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Ele está muito quieto",
-        "timestamp": 1788804303259
-      },
       {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
@@ -7766,6 +7755,12 @@
         "authorName": "Saul",
         "text": "Ok, aparecerei no cabaré hj 👍",
         "timestamp": 1788806079187
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Não falte",
+        "timestamp": 1788806110112
       }
     ],
     "120363426574906687@g.us": [
@@ -7900,6 +7895,12 @@
         "authorName": "Leandro",
         "text": "Galera, vou dar uma ajeitada no bot, mas com o mínimo de interrupções possíveis, para não atrapalhar nosso lado",
         "timestamp": 1788806081543
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!todos",
+        "timestamp": 1788806086991
       }
     ]
   },
@@ -7923,15 +7924,15 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2164,
-    "120363426574906687@g.us": 179
+    "120363023757382018@g.us": 2165,
+    "120363426574906687@g.us": 180
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
     "120363409727467494@g.us": false,
     "120363428464897153@g.us": false,
     "120363432018531082@g.us": false,
-    "120363426574906687@g.us": false,
+    "120363426574906687@g.us": true,
     "120363427545094619@g.us": false,
     "120363023757382018@g.us": false
   },
@@ -19272,6 +19273,12 @@
         "text": "Ok, aparecerei no cabaré hj 👍",
         "pushName": "Saul",
         "timestamp": 1788806079188
+      },
+      "AC33C94F05ADA3AF68F885BE0BE2182A": {
+        "sender": "108461127897146@lid",
+        "text": "Não falte",
+        "pushName": "jaciara",
+        "timestamp": 1788806110112
       }
     },
     "120363426574906687@g.us": {
@@ -20108,6 +20115,12 @@
         "text": "Galera, vou dar uma ajeitada no bot, mas com o mínimo de interrupções possíveis, para não atrapalhar nosso lado",
         "pushName": "Leandro",
         "timestamp": 1788806081543
+      },
+      "AC309AE8BEE021EA6928102F627AC058": {
+        "sender": "54259127210155@lid",
+        "text": "!todos",
+        "pushName": "Leandro",
+        "timestamp": 1788806086991
       }
     }
   },
@@ -20206,8 +20219,8 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788806079187,
-    "120363426574906687@g.us": 1788806081543
+    "120363023757382018@g.us": 1788806110483,
+    "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
