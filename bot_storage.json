@@ -4496,14 +4496,14 @@
         "total": 169
       },
       "166452229341300": {
-        "text": 156,
-        "media": 51,
-        "total": 207
+        "text": 157,
+        "media": 52,
+        "total": 209
       },
       "53537388122141": {
-        "text": 125,
+        "text": 126,
         "media": 11,
-        "total": 136
+        "total": 137
       },
       "129373172711439": {
         "text": 27,
@@ -5051,9 +5051,9 @@
         "total": 3
       },
       "152476120555682": {
-        "text": 3,
+        "text": 4,
         "media": 1,
-        "total": 4
+        "total": 5
       },
       "24477589057658": {
         "text": 1,
@@ -5117,8 +5117,8 @@
       },
       "30572214759594": {
         "text": 1,
-        "media": 0,
-        "total": 1
+        "media": 1,
+        "total": 2
       }
     },
     "120363426574906687@g.us": {
@@ -6002,10 +6002,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Ton: Oi",
-        "Heloisa: Um pouco sem noção kk",
-        "Ton: Gente",
-        "Amaury: Oxxe",
         "Cristian Sntss: Apresente se",
         "😎🇧🇷: Pq",
         "JUNIOR: Que medo",
@@ -6501,7 +6497,11 @@
         "𝑳𝒂𝒚𝒉🌪🌚: Boa tarde",
         "Du: Eu ub",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Me chamou e eu pedi Pix\nSumiu 🌚",
-        "junior: Boa tarde layh"
+        "junior: Boa tarde layh",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Já me irritou",
+        "Rafaell: Prazer me chamo Rafael tenho 22 anos solteiro de Maceió Alagoas hetero pv liberado",
+        "Cristian Sntss: Minha colega tem uma tabela de Pix 🤣🤣🤣",
+        "Du: Alguma solteira pv? Do rj"
       ]
     },
     "120363426574906687@g.us": {
@@ -6678,30 +6678,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "1675188265053",
-        "authorName": "Kaique N.☝🏻🤓",
-        "text": "Kaique  31 anos\nSão Paulo  zn",
-        "timestamp": 1788794612719
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "Chamei",
-        "timestamp": 1788794618248
-      },
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "Bem vindooo",
-        "timestamp": 1788794623122
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "Bem vindo!",
-        "timestamp": 1788794641144
-      },
       {
         "authorNum": "1675188265053",
         "authorName": "Kaique N.☝🏻🤓",
@@ -7505,6 +7481,30 @@
         "authorName": "junior",
         "text": "Boa tarde layh",
         "timestamp": 1788796410511
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Já me irritou",
+        "timestamp": 1788796439787
+      },
+      {
+        "authorNum": "30572214759594",
+        "authorName": "Rafaell",
+        "text": "Prazer me chamo Rafael tenho 22 anos solteiro de Maceió Alagoas hetero pv liberado",
+        "timestamp": 1788796445977
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Minha colega tem uma tabela de Pix 🤣🤣🤣",
+        "timestamp": 1788796447777
+      },
+      {
+        "authorNum": "152476120555682",
+        "authorName": "Du",
+        "text": "Alguma solteira pv? Do rj",
+        "timestamp": 1788796449199
       }
     ],
     "120363426574906687@g.us": [
@@ -7572,7 +7572,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1337,
+    "120363023757382018@g.us": 1341,
     "120363426574906687@g.us": 98
   },
   "botDisabled": {
@@ -13892,6 +13892,30 @@
         "text": "Boa tarde layh",
         "pushName": "junior",
         "timestamp": 1788796410511
+      },
+      "ACB222819B425BD9BD776A4590C5A978": {
+        "sender": "53537388122141@lid",
+        "text": "Já me irritou",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788796439787
+      },
+      "A570E67408DF154247EA54663F1C7477-1": {
+        "sender": "30572214759594@lid",
+        "text": "Prazer me chamo Rafael tenho 22 anos solteiro de Maceió Alagoas hetero pv liberado",
+        "pushName": "Rafaell",
+        "timestamp": 1788796445977
+      },
+      "A5AD7B8030AF272F9E161005DA6429B8": {
+        "sender": "166452229341300@lid",
+        "text": "Minha colega tem uma tabela de Pix 🤣🤣🤣",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788796447777
+      },
+      "3AD0C384709903161EA8": {
+        "sender": "152476120555682@lid",
+        "text": "Alguma solteira pv? Do rj",
+        "pushName": "Du",
+        "timestamp": 1788796449200
       }
     },
     "120363426574906687@g.us": {
@@ -14346,7 +14370,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788796417870,
+    "120363023757382018@g.us": 1788796452036,
     "120363426574906687@g.us": 1788796320301
   },
   "autoAnimSent": {
