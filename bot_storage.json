@@ -4468,8 +4468,8 @@
       },
       "81991328395336": {
         "text": 6,
-        "media": 3,
-        "total": 9
+        "media": 4,
+        "total": 10
       }
     },
     "120363023757382018@g.us": {
@@ -4764,9 +4764,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 71,
+        "text": 72,
         "media": 0,
-        "total": 71
+        "total": 72
       },
       "89305909317735": {
         "text": 1,
@@ -4964,6 +4964,11 @@
         "total": 5
       },
       "205587669319854": {
+        "text": 3,
+        "media": 1,
+        "total": 4
+      },
+      "172503183945818": {
         "text": 2,
         "media": 0,
         "total": 2
@@ -5608,7 +5613,8 @@
         "Leandro: Pelo jeito não",
         "Leandro: Pois então",
         "𝑳𝒂𝒚𝒉🌪🌚: Eu mande esse áudio aí",
-        "𝑳𝒂𝒚𝒉🌪🌚: Pra amg dele"
+        "𝑳𝒂𝒚𝒉🌪🌚: Pra amg dele",
+        "𝑳𝒂𝒚𝒉🌪🌚: @54259127210155"
       ]
     },
     "120363023757382018@g.us": {
@@ -5840,10 +5846,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Gabi 💋: Sim",
-        ".rick: Assim que possível respoderemos sua mensagem OBRIGADO",
-        "Amaury: PV aberto",
-        "xacinaluzqradiaoinferno71: sou daí n, mas conheço o abc todo",
         "Gabi 💋: E da onde ?",
         "xacinaluzqradiaoinferno71: sou da norte",
         "solteiro: Sim eu nao",
@@ -6339,7 +6341,11 @@
         "welkeazevedo: Welke Rodrigues Azevedo tenho 39 anos",
         "welkeazevedo: Sou do estado de mato grosso",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Faltou só a foto\nBem vindo",
-        "Wellington: Bem vindos 😉"
+        "Wellington: Bem vindos 😉",
+        "welkeazevedo: Pcv liberado",
+        "Felipe: Como q bota etiqueta?",
+        "Heloisa: Bem vindos",
+        "Felipe: Kkkk"
       ]
     },
     "120363426574906687@g.us": {
@@ -6499,15 +6505,15 @@
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
         "text": "Pra amg dele",
         "timestamp": 1788793766720
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "@54259127210155",
+        "timestamp": 1788794140105
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "126586225467454",
-        "authorName": "Thawan",
-        "text": "Kkkk",
-        "timestamp": 1788792341046
-      },
       {
         "authorNum": "152274357751809",
         "authorName": "Heloisa",
@@ -7557,6 +7563,30 @@
         "authorName": "Wellington",
         "text": "Bem vindos 😉",
         "timestamp": 1788794124798
+      },
+      {
+        "authorNum": "205587669319854",
+        "authorName": "welkeazevedo",
+        "text": "Pcv liberado",
+        "timestamp": 1788794135836
+      },
+      {
+        "authorNum": "172503183945818",
+        "authorName": "Felipe",
+        "text": "Como q bota etiqueta?",
+        "timestamp": 1788794145926
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Bem vindos",
+        "timestamp": 1788794147129
+      },
+      {
+        "authorNum": "172503183945818",
+        "authorName": "Felipe",
+        "text": "Kkkk",
+        "timestamp": 1788794147549
       }
     ],
     "120363426574906687@g.us": [
@@ -7623,8 +7653,8 @@
     "120363411043114631@g.us": 20,
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
-    "120363427545094619@g.us": 46,
-    "120363023757382018@g.us": 1155,
+    "120363427545094619@g.us": 47,
+    "120363023757382018@g.us": 1159,
     "120363426574906687@g.us": 90
   },
   "botDisabled": {
@@ -8031,6 +8061,12 @@
         "text": "Pra amg dele",
         "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
         "timestamp": 1788793766720
+      },
+      "AC50B011E9FC293163BAA1F07FDFD9CA": {
+        "sender": "81991328395336@lid",
+        "text": "@54259127210155",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1788794140105
       }
     },
     "120363023757382018@g.us": {
@@ -12791,6 +12827,30 @@
         "text": "Bem vindos 😉",
         "pushName": "Wellington",
         "timestamp": 1788794124799
+      },
+      "AC36535E28E89E575A71EEBBE6D911B4": {
+        "sender": "205587669319854@lid",
+        "text": "Pcv liberado",
+        "pushName": "welkeazevedo",
+        "timestamp": 1788794135836
+      },
+      "3A0A3B539E93EEAADB3A": {
+        "sender": "172503183945818@lid",
+        "text": "Como q bota etiqueta?",
+        "pushName": "Felipe",
+        "timestamp": 1788794145926
+      },
+      "ACD724BC2EBEBC85896FF4722B23AD09": {
+        "sender": "152274357751809@lid",
+        "text": "Bem vindos",
+        "pushName": "Heloisa",
+        "timestamp": 1788794147129
+      },
+      "3A0B49DB661DFD52F487": {
+        "sender": "172503183945818@lid",
+        "text": "Kkkk",
+        "pushName": "Felipe",
+        "timestamp": 1788794147549
       }
     },
     "120363426574906687@g.us": {
@@ -13193,8 +13253,8 @@
     "120363411043114631@g.us": 1787897464612,
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
-    "120363427545094619@g.us": 1788793999301,
-    "120363023757382018@g.us": 1788794124798,
+    "120363427545094619@g.us": 1788794140105,
+    "120363023757382018@g.us": 1788794147549,
     "120363426574906687@g.us": 1788793079391
   },
   "autoAnimSent": {
