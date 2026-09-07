@@ -4488,8 +4488,8 @@
       },
       "108461127897146": {
         "text": 111,
-        "media": 32,
-        "total": 143
+        "media": 33,
+        "total": 144
       },
       "5511927018683": {
         "text": 164,
@@ -4552,9 +4552,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 129,
+        "text": 130,
         "media": 76,
-        "total": 205
+        "total": 206
       },
       "559984624669": {
         "text": 4,
@@ -4592,9 +4592,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 212,
+        "text": 213,
         "media": 20,
-        "total": 232
+        "total": 233
       },
       "206966404210884": {
         "text": 2,
@@ -4682,9 +4682,9 @@
         "total": 27
       },
       "118515428286715": {
-        "text": 34,
+        "text": 37,
         "media": 4,
-        "total": 38
+        "total": 41
       },
       "193729163993156": {
         "text": 2,
@@ -5142,9 +5142,9 @@
         "total": 1
       },
       "264308512522409": {
-        "text": 80,
+        "text": 81,
         "media": 4,
-        "total": 84
+        "total": 85
       },
       "194377938911429": {
         "text": 9,
@@ -6195,12 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Heloisa: Ah lembrei vc é magrinho e bonito",
-        "Douglas🙏: Dotado rsrs",
-        "Luis Felipe: oiá 🤭",
-        "Heloisa: Papo de quem pensa com a cabeça errada kk",
-        "Douglas🙏: Nada rsrs 😂",
-        "Henrique Contri 🤫: São Paulino né 🤣🤣",
         "Douglas🙏: Papo de quem pensa com as 2 cabeças 🔥🙈",
         "No Foco .: Mulher q gosta de dinheiro PV",
         "No Foco .: Rsrs",
@@ -6694,7 +6688,13 @@
         "Henrique Contri 🤫: Mais tarde te dou 🤣🤣",
         "Saul: 26 🫠",
         "Camila Designer: Sobre isso ❤️",
-        "Gabi 💋: Vc é de que lugar do interior de sp"
+        "Gabi 💋: Vc é de que lugar do interior de sp",
+        "Saul: Tenho a idade que vocês quiserem",
+        "Henrique Contri 🤫: Saul joga no flamengo kkk",
+        "Saul: 70/80/20",
+        "Camila Designer: Minha amiga mandou perguntar se gosta de mulheres mais velhas?",
+        "Saul: Meu xará",
+        "Gabi 💋: Óia"
       ]
     },
     "120363426574906687@g.us": {
@@ -6895,12 +6895,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "274384656834700",
-        "authorName": "Gleydson Souza",
-        "text": "Ta decidido então",
-        "timestamp": 1788803772904
-      },
       {
         "authorNum": "36645315321925",
         "authorName": "Felippo",
@@ -7740,6 +7734,42 @@
         "authorName": "Gabi 💋",
         "text": "Vc é de que lugar do interior de sp",
         "timestamp": 1788805545232
+      },
+      {
+        "authorNum": "118515428286715",
+        "authorName": "Saul",
+        "text": "Tenho a idade que vocês quiserem",
+        "timestamp": 1788805548109
+      },
+      {
+        "authorNum": "264308512522409",
+        "authorName": "Henrique Contri 🤫",
+        "text": "Saul joga no flamengo kkk",
+        "timestamp": 1788805561726
+      },
+      {
+        "authorNum": "118515428286715",
+        "authorName": "Saul",
+        "text": "70/80/20",
+        "timestamp": 1788805561966
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Minha amiga mandou perguntar se gosta de mulheres mais velhas?",
+        "timestamp": 1788805568500
+      },
+      {
+        "authorNum": "118515428286715",
+        "authorName": "Saul",
+        "text": "Meu xará",
+        "timestamp": 1788805572309
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Óia",
+        "timestamp": 1788805576409
       }
     ],
     "120363426574906687@g.us": [
@@ -7897,7 +7927,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2100,
+    "120363023757382018@g.us": 2106,
     "120363426574906687@g.us": 177
   },
   "botDisabled": {
@@ -18862,6 +18892,42 @@
         "text": "Vc é de que lugar do interior de sp",
         "pushName": "Gabi 💋",
         "timestamp": 1788805545232
+      },
+      "3AC3616986CB47DFA151": {
+        "sender": "118515428286715@lid",
+        "text": "Tenho a idade que vocês quiserem",
+        "pushName": "Saul",
+        "timestamp": 1788805548109
+      },
+      "AC5B41BEA36F1CD27D8813868BF2BAD0": {
+        "sender": "264308512522409@lid",
+        "text": "Saul joga no flamengo kkk",
+        "pushName": "Henrique Contri 🤫",
+        "timestamp": 1788805561726
+      },
+      "3A5FABC18C03114F9496": {
+        "sender": "118515428286715@lid",
+        "text": "70/80/20",
+        "pushName": "Saul",
+        "timestamp": 1788805561966
+      },
+      "2A97024C25B7666175DB": {
+        "sender": "92629643563147@lid",
+        "text": "Minha amiga mandou perguntar se gosta de mulheres mais velhas?",
+        "pushName": "Camila Designer",
+        "timestamp": 1788805568500
+      },
+      "3A746677E0055FE3D084": {
+        "sender": "118515428286715@lid",
+        "text": "Meu xará",
+        "pushName": "Saul",
+        "timestamp": 1788805572310
+      },
+      "AC34B1EBEE3C4C2A258E599944916E45": {
+        "sender": "247020967165997@lid",
+        "text": "Óia",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788805576410
       }
     },
     "120363426574906687@g.us": {
@@ -19784,7 +19850,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788805545232,
+    "120363023757382018@g.us": 1788805576409,
     "120363426574906687@g.us": 1788805062631
   },
   "autoAnimSent": {
