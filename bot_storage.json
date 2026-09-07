@@ -4328,9 +4328,9 @@
         "total": 1
       },
       "59623457439943": {
-        "text": 8,
+        "text": 9,
         "media": 5,
-        "total": 13
+        "total": 14
       },
       "262182034002040": {
         "text": 43,
@@ -34342,7 +34342,7 @@
     "120363409024805409@g.us": 1788749995664,
     "120363411043114631@g.us": 1787897464612,
     "120363409367298221@g.us": 1788158816417,
-    "120363313059060675@g.us": 1788750643662,
+    "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788731471492,
     "120363023757382018@g.us": 1788753718780,
     "120363426574906687@g.us": 1788725639102
@@ -34422,7 +34422,17 @@
   "anonCounter": 1000,
   "removalBlacklist": {},
   "removalMessages": {},
-  "pendingMemberTimers": [],
+  "pendingMemberTimers": [
+    {
+      "id": "1788753771654_45479878459474@lid",
+      "chatId": "120363023757382018@g.us",
+      "memberId": "45479878459474@lid",
+      "joinedAt": 1788753771654,
+      "warned1min": false,
+      "countdownStarted": null,
+      "presented": false
+    }
+  ],
   "maintenance": false,
   "pendingPresentations": [],
   "antighost": {
