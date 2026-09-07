@@ -4564,9 +4564,9 @@
         "total": 61
       },
       "274384656834700": {
-        "text": 20,
+        "text": 21,
         "media": 7,
-        "total": 27
+        "total": 28
       },
       "111141304930334": {
         "text": 1,
@@ -4640,8 +4640,8 @@
       },
       "120363023757382018": {
         "text": 2,
-        "media": 5,
-        "total": 7
+        "media": 6,
+        "total": 8
       },
       "86595382292674": {
         "text": 17,
@@ -4689,9 +4689,9 @@
         "total": 4
       },
       "128145298608376": {
-        "text": 15,
+        "text": 16,
         "media": 2,
-        "total": 17
+        "total": 18
       },
       "193733257609270": {
         "text": 1,
@@ -4719,6 +4719,11 @@
         "total": 5
       },
       "155503636275307": {
+        "text": 0,
+        "media": 1,
+        "total": 1
+      },
+      "64540909826263": {
         "text": 0,
         "media": 1,
         "total": 1
@@ -6037,7 +6042,11 @@
         "xacinaluzqradiaoinferno71: suave então, to me sentindo muito novo",
         "Gabi 💋: Kkkkk",
         "Gabi 💋: Vc se apresentou ?",
-        "renan_wesley: Que boca eemm"
+        "renan_wesley: Que boca eemm",
+        "solteiro: Oi",
+        "Bruno Barra 🦍: Bruno 31 anos, Rio de janeiro , hetero , PV liberado",
+        "Gleydson Souza: Gostei muito do cabelo tmb",
+        ": Bruno 31 anos, Rio de janeiro , hetero , PV liberado"
       ]
     },
     "120363426574906687@g.us": {
@@ -7123,6 +7132,30 @@
         "authorName": "renan_wesley",
         "text": "Que boca eemm",
         "timestamp": 1788788187887
+      },
+      {
+        "authorNum": "128145298608376",
+        "authorName": "solteiro",
+        "text": "Oi",
+        "timestamp": 1788788211216
+      },
+      {
+        "authorNum": "64540909826263",
+        "authorName": "Bruno Barra 🦍",
+        "text": "Bruno 31 anos, Rio de janeiro , hetero , PV liberado",
+        "timestamp": 1788788214808
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "Gostei muito do cabelo tmb",
+        "timestamp": 1788788215206
+      },
+      {
+        "authorNum": "120363023757382018",
+        "authorName": "",
+        "text": "Bruno 31 anos, Rio de janeiro , hetero , PV liberado",
+        "timestamp": 1788788215346
       }
     ],
     "120363426574906687@g.us": [
@@ -7220,7 +7253,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 682,
+    "120363023757382018@g.us": 686,
     "120363426574906687@g.us": 48
   },
   "botDisabled": {
@@ -9517,6 +9550,24 @@
         "text": "Que boca eemm",
         "pushName": "renan_wesley",
         "timestamp": 1788788187888
+      },
+      "A5F0C581A75A3A5E5619EF145482794C": {
+        "sender": "128145298608376@lid",
+        "text": "Oi",
+        "pushName": "solteiro",
+        "timestamp": 1788788211216
+      },
+      "AC6578A4612700B80F1E8C33B9251FD7": {
+        "sender": "120363023757382018@g.us",
+        "text": "Bruno 31 anos, Rio de janeiro , hetero , PV liberado",
+        "pushName": "",
+        "timestamp": 1788788215346
+      },
+      "ACF9C0C68B490B87B043713EC6F046CC": {
+        "sender": "274384656834700@lid",
+        "text": "Gostei muito do cabelo tmb",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1788788215206
       }
     },
     "120363426574906687@g.us": {
@@ -9668,7 +9719,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788788202655,
+    "120363023757382018@g.us": 1788788215346,
     "120363426574906687@g.us": 1788788012627
   },
   "autoAnimSent": {
