@@ -4499,9 +4499,9 @@
         "total": 182
       },
       "53537388122141": {
-        "text": 88,
+        "text": 90,
         "media": 10,
-        "total": 98
+        "total": 100
       },
       "129373172711439": {
         "text": 27,
@@ -4569,9 +4569,9 @@
         "total": 5
       },
       "81991328395336": {
-        "text": 66,
+        "text": 67,
         "media": 22,
-        "total": 88
+        "total": 89
       },
       "274384656834700": {
         "text": 25,
@@ -4764,9 +4764,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 70,
+        "text": 71,
         "media": 0,
-        "total": 70
+        "total": 71
       },
       "89305909317735": {
         "text": 1,
@@ -5835,8 +5835,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Gabi 💋: Vila Luzita",
-        "Amaury: E bom se divertir",
         "xacinaluzqradiaoinferno71: tendeu",
         "Gabi 💋: E vc ?",
         "Gabriel Silva 😎: Gabriel \nTenho 29 anos \nSolteiro \nPV liberado",
@@ -6334,7 +6332,9 @@
         "Heloisa: Entendi",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Isso mesmo",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Boa tarde",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: !ban"
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: !ban",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Agora que vi o número do cara.",
+        "Heloisa: Foi longe kk"
       ]
     },
     "120363426574906687@g.us": {
@@ -6497,12 +6497,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "262912430080093",
-        "authorName": "JUNIOR",
-        "text": "Depois a gente se apaixona aí já era",
-        "timestamp": 1788792204767
-      },
       {
         "authorNum": "152274357751809",
         "authorName": "Heloisa",
@@ -7546,6 +7540,18 @@
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "text": "!ban",
         "timestamp": 1788794003508
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Agora que vi o número do cara.",
+        "timestamp": 1788794011169
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Foi longe kk",
+        "timestamp": 1788794030720
       }
     ],
     "120363426574906687@g.us": [
@@ -7613,7 +7619,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 46,
-    "120363023757382018@g.us": 1149,
+    "120363023757382018@g.us": 1151,
     "120363426574906687@g.us": 90
   },
   "botDisabled": {
@@ -12744,6 +12750,18 @@
         "text": "!ban",
         "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "timestamp": 1788794003508
+      },
+      "AC6789BD5178AC5BD4705B134C346A1E": {
+        "sender": "53537388122141@lid",
+        "text": "Agora que vi o número do cara.",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788794011170
+      },
+      "ACF450EE0D389E1B1167BD6E153D0869": {
+        "sender": "152274357751809@lid",
+        "text": "Foi longe kk",
+        "pushName": "Heloisa",
+        "timestamp": 1788794030720
       }
     },
     "120363426574906687@g.us": {
@@ -13147,7 +13165,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788793999301,
-    "120363023757382018@g.us": 1788794003508,
+    "120363023757382018@g.us": 1788794033290,
     "120363426574906687@g.us": 1788793079391
   },
   "autoAnimSent": {
