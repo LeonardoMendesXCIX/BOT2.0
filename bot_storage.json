@@ -4522,9 +4522,9 @@
         "total": 422
       },
       "53537388122141": {
-        "text": 228,
+        "text": 229,
         "media": 26,
-        "total": 254
+        "total": 255
       },
       "129373172711439": {
         "text": 121,
@@ -6249,7 +6249,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Saul: Tchau obrigado",
         "Celiete Souza: Genteeeeee vcs me botam em cada uma",
         "Camila Designer: Oi @163530946961491",
         "Celiete Souza: Tá vendo o que vc fez kkkk",
@@ -6748,7 +6747,8 @@
         "Kaio Mendes: As idéia",
         "Kaio Mendes: E vc tem q idade agora?",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Diretora é o nome pro grupo",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: 23 anos"
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: 23 anos",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: E cabelo pintado 😂"
       ]
     },
     "120363426574906687@g.us": {
@@ -7691,6 +7691,12 @@
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "text": "23 anos",
         "timestamp": 1788816893560
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "E cabelo pintado 😂",
+        "timestamp": 1788816931016
       }
     ],
     "120363426574906687@g.us": []
@@ -7715,7 +7721,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2836,
+    "120363023757382018@g.us": 2837,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -23162,6 +23168,12 @@
         "text": "23 anos",
         "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "timestamp": 1788816893560
+      },
+      "ACED2423AFBE6FD0C860B031375A7FAC": {
+        "sender": "53537388122141@lid",
+        "text": "E cabelo pintado 😂",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788816931016
       }
     },
     "120363426574906687@g.us": {
@@ -24108,7 +24120,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788816893560,
+    "120363023757382018@g.us": 1788816931016,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
