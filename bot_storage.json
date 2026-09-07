@@ -4522,9 +4522,9 @@
         "total": 422
       },
       "53537388122141": {
-        "text": 219,
+        "text": 220,
         "media": 25,
-        "total": 244
+        "total": 245
       },
       "129373172711439": {
         "text": 121,
@@ -5337,9 +5337,9 @@
         "total": 7
       },
       "79728216113177": {
-        "text": 52,
+        "text": 54,
         "media": 28,
-        "total": 80
+        "total": 82
       }
     },
     "120363426574906687@g.us": {
@@ -6249,8 +6249,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "P: Kkkkkkkkkk",
-        "jaciara: Mais ela queria visitar mesmo era o @118515428286715",
         "Gleydson Souza: Vai ter presente hoje tmb?",
         "Camila Designer: Minha amiga está pensando sobre kkkk",
         "Gabi 💋: Hum não sei",
@@ -6748,7 +6746,9 @@
         "Leandro: Muito obrigado!",
         "Leandro: !todos",
         "Kaio Mendes: Os peixes tão atrás da mula sem cabeça",
-        "Dany: Sim"
+        "Dany: Sim",
+        "Kaio Mendes: Tem mais?",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Não 😂"
       ]
     },
     "120363426574906687@g.us": {
@@ -7565,6 +7565,18 @@
         "authorName": "Dany",
         "text": "Sim",
         "timestamp": 1788816720926
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "Tem mais?",
+        "timestamp": 1788816748596
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Não 😂",
+        "timestamp": 1788816760719
       }
     ],
     "120363426574906687@g.us": [
@@ -7596,7 +7608,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2814,
+    "120363023757382018@g.us": 2816,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -22911,6 +22923,18 @@
         "text": "Sim",
         "pushName": "Dany",
         "timestamp": 1788816720926
+      },
+      "AC4E1E9A6D77A615066F4A70259A399A": {
+        "sender": "79728216113177@lid",
+        "text": "Tem mais?",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788816748596
+      },
+      "AC11B11F39ACDCA2E79CD357B65096BF": {
+        "sender": "53537388122141@lid",
+        "text": "Não 😂",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788816760719
       }
     },
     "120363426574906687@g.us": {
@@ -23857,7 +23881,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788816720926,
+    "120363023757382018@g.us": 1788816760719,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
