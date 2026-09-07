@@ -4487,9 +4487,9 @@
         "total": 5
       },
       "108461127897146": {
-        "text": 92,
+        "text": 93,
         "media": 25,
-        "total": 117
+        "total": 118
       },
       "5511927018683": {
         "text": 164,
@@ -4553,8 +4553,8 @@
       },
       "92629643563147": {
         "text": 84,
-        "media": 57,
-        "total": 141
+        "media": 58,
+        "total": 142
       },
       "559984624669": {
         "text": 4,
@@ -4592,9 +4592,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 153,
+        "text": 155,
         "media": 18,
-        "total": 171
+        "total": 173
       },
       "206966404210884": {
         "text": 2,
@@ -5142,9 +5142,9 @@
         "total": 1
       },
       "264308512522409": {
-        "text": 54,
+        "text": 55,
         "media": 3,
-        "total": 57
+        "total": 58
       },
       "194377938911429": {
         "text": 9,
@@ -6195,8 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Gabi 💋: Pra nunca mais ksksks",
-        "Francisco Silva: Tbm kkkk",
         "Gabi 💋: Sério",
         "Gabi 💋: Fui pra um emprego que dizia que ia pagar bem me lasquei",
         "Francisco Silva: Cidade veia kkkk",
@@ -6694,7 +6692,9 @@
         "Gabi 💋: Ksksks da até raiva",
         "Henrique Contri 🤫: Manda foto aqui Camila ?",
         "Gabi 💋: Não pode",
-        "Camila Designer: Cade seu peitoral? Apareceu né"
+        "Camila Designer: Cade seu peitoral? Apareceu né",
+        "Gabi 💋: Que horas trás o doce",
+        "Henrique Contri 🤫: Foto normal n pode kkk"
       ]
     },
     "120363426574906687@g.us": {
@@ -6900,12 +6900,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Qual sua idade amigo?",
-        "timestamp": 1788801777517
-      },
       {
         "authorNum": "264308512522409",
         "authorName": "Henrique Contri 🤫",
@@ -8105,6 +8099,18 @@
         "authorName": "Camila Designer",
         "text": "Cade seu peitoral? Apareceu né",
         "timestamp": 1788803559820
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Que horas trás o doce",
+        "timestamp": 1788803578898
+      },
+      {
+        "authorNum": "264308512522409",
+        "authorName": "Henrique Contri 🤫",
+        "text": "Foto normal n pode kkk",
+        "timestamp": 1788803582494
       }
     ],
     "120363426574906687@g.us": [
@@ -8166,7 +8172,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 1934,
+    "120363023757382018@g.us": 1936,
     "120363426574906687@g.us": 151
   },
   "botDisabled": {
@@ -18134,6 +18140,18 @@
         "text": "Cade seu peitoral? Apareceu né",
         "pushName": "Camila Designer",
         "timestamp": 1788803559821
+      },
+      "ACD81671022EE24B25FDDE08ADCE1D81": {
+        "sender": "247020967165997@lid",
+        "text": "Que horas trás o doce",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788803578898
+      },
+      "AC2286B5317664EB8DC27A3BC4275747": {
+        "sender": "264308512522409@lid",
+        "text": "Foto normal n pode kkk",
+        "pushName": "Henrique Contri 🤫",
+        "timestamp": 1788803582495
       }
     },
     "120363426574906687@g.us": {
@@ -18900,7 +18918,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788803562759,
+    "120363023757382018@g.us": 1788803586784,
     "120363426574906687@g.us": 1788803490079
   },
   "autoAnimSent": {
