@@ -4497,9 +4497,9 @@
         "total": 176
       },
       "166452229341300": {
-        "text": 250,
+        "text": 251,
         "media": 73,
-        "total": 323
+        "total": 324
       },
       "53537388122141": {
         "text": 152,
@@ -4507,9 +4507,9 @@
         "total": 163
       },
       "129373172711439": {
-        "text": 52,
+        "text": 53,
         "media": 14,
-        "total": 66
+        "total": 67
       },
       "138306604032063": {
         "text": 11,
@@ -4767,9 +4767,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 163,
+        "text": 164,
         "media": 1,
-        "total": 164
+        "total": 165
       },
       "89305909317735": {
         "text": 1,
@@ -6193,8 +6193,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Gleison luiz: Tem bot, tô de boa valeu",
-        "Cristian Sntss: !ban @247875514708064",
         "Cristian Sntss: Medo do bot em",
         "Juliano Perlin: Q tela mais amarela..nao vi nada quase🤣🤣🤣🤣🤣",
         "Gleydson Souza: Vi que foi fazer o almoço ja vou chegar no momento bom então kkkkk",
@@ -6692,7 +6690,9 @@
         "Saul: Pode me remover do grupo já",
         "Celiete Souza: Quase me infartou kkkkk",
         "Camila Designer: Que isso, estão proibidos 🤣🤣🤣",
-        "Camila Designer: Te espero a noite no Kabaré @118515428286715 😏😏😏"
+        "Camila Designer: Te espero a noite no Kabaré @118515428286715 😏😏😏",
+        "Celiete Souza: Tu é rápida kkkk",
+        "Heloisa: De que kkk"
       ]
     },
     "120363426574906687@g.us": {
@@ -6922,24 +6922,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "171214744064197",
-        "authorName": "Márcio Bruxel",
-        "text": "Pessoal...\nAproveitando o feriado?",
-        "timestamp": 1788801005521
-      },
-      {
-        "authorNum": "152274357751809",
-        "authorName": "Heloisa",
-        "text": "Não tô nem preciso",
-        "timestamp": 1788801006231
-      },
-      {
-        "authorNum": "136296492200083",
-        "authorName": "Luis Felipe",
-        "text": "eita kk",
-        "timestamp": 1788801016094
-      },
       {
         "authorNum": "171214744064197",
         "authorName": "Márcio Bruxel",
@@ -7953,6 +7935,18 @@
         "authorName": "Camila Designer",
         "text": "Te espero a noite no Kabaré @118515428286715 😏😏😏",
         "timestamp": 1788802801064
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Tu é rápida kkkk",
+        "timestamp": 1788802803456
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "De que kkk",
+        "timestamp": 1788802819536
       }
     ],
     "120363426574906687@g.us": []
@@ -7977,7 +7971,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 66,
-    "120363023757382018@g.us": 1860,
+    "120363023757382018@g.us": 1862,
     "120363426574906687@g.us": 145
   },
   "botDisabled": {
@@ -17489,6 +17483,18 @@
         "text": "Te espero a noite no Kabaré @118515428286715 😏😏😏",
         "pushName": "Camila Designer",
         "timestamp": 1788802801064
+      },
+      "ACFD4E718D7A526083744AD0DFDC03D1": {
+        "sender": "129373172711439@lid",
+        "text": "Tu é rápida kkkk",
+        "pushName": "Celiete Souza",
+        "timestamp": 1788802803456
+      },
+      "AC08EC3BD5651503FA66A409944549FF": {
+        "sender": "152274357751809@lid",
+        "text": "De que kkk",
+        "pushName": "Heloisa",
+        "timestamp": 1788802819536
       }
     },
     "120363426574906687@g.us": {
@@ -18225,7 +18231,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788802585654,
-    "120363023757382018@g.us": 1788802801064,
+    "120363023757382018@g.us": 1788802819535,
     "120363426574906687@g.us": 1788801476879
   },
   "autoAnimSent": {
