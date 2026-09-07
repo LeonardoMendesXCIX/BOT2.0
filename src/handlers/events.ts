@@ -57,13 +57,17 @@ export function setupGroupEvents(sock: WASocket, storage: StorageManager): void 
                     const rawNum = extractRawNumber(realJid);
                     const memberInfo = getUserInfo(realJid, memberPushName);
 
-                    const isRealPhoneNumber = rawNum.length >= 10 && rawNum.length <= 13;
-                    const isBrazilianPhone = rawNum.startsWith('55') && (rawNum.length === 12 || rawNum.length === 13);
-                    const isLidNumber = rawNum.length > 13;
+                    const isLidJid = (newMemberId || '').endsWith('@lid') || (realJid || '').endsWith('@lid');
+                    const resolved = extractRawNumber(realJid);
+                    const effectiveNum = (realJid || '').endsWith('@s.whatsapp.net')
+                        ? resolved
+                        : (resolved && resolved.length <= 13 ? resolved : '');
+                    const isBrazilian = effectiveNum.startsWith('55') && (effectiveNum.length === 12 || effectiveNum.length === 13);
+                    const isForeign = !!effectiveNum && !isBrazilian;
 
                     const isAntiFakeActive = storage.data.antifake?.[chatId] === true || (!storage.isFeatureDisabled(chatId, 'antifake') && storage.data.antifake?.[chatId] !== false);
 
-                    if (isAntiFakeActive && isRealPhoneNumber && !isBrazilianPhone && !isLidNumber) {
+                    if (isAntiFakeActive && isForeign) {
                         try {
                             const botNum = sock.user?.id?.split(':')[0].replace(/\D/g, '') || '';
                             const botParticipant = groupMeta?.participants?.find(p => p.id.split('@')[0].replace(/\D/g, '') === botNum || ((p as any).lid && (p as any).lid.split('@')[0].replace(/\D/g, '') === botNum));
@@ -76,16 +80,17 @@ export function setupGroupEvents(sock: WASocket, storage: StorageManager): void 
                                     await sock.groupParticipantsUpdate(chatId, [realJid], 'remove').catch(() => { });
                                 }
 
-                                const displayName = memberInfo.nameAndNumber;
-                                const ddiDisplay = '+' + rawNum;
+                                const displayName = memberInfo.mention;
+                                const ddiDisplay = '+' + effectiveNum;
 
                                 await sock.sendMessage(chatId, {
                                     text: '🛡️ *BOT DROPHTTP SECURITY (ANTI-FAKE / DDI)* 🛡️\n\n' +
                                         '👤 *Infrator:* ' + displayName + '\n' +
                                         '📱 *Identificação:* ' + ddiDisplay + '\n' +
-                                        '📝 *Motivo:* Entrada bloqueada por possuir DDI estrangeiro não autorizado (apenas números do Brasil +55 são permitidos).'
+                                        '📝 *Motivo:* Entrada bloqueada por possuir DDI estrangeiro não autorizado (apenas números do Brasil +55 são permitidos).',
+                                    mentions: [memberInfo.jid]
                                 });
-                                console.log('[ANTI-FAKE] Número estrangeiro ' + newMemberId + ' (+' + rawNum + ') removido do grupo ' + chatId + '.');
+                                console.log('[ANTI-FAKE] Número estrangeiro ' + newMemberId + ' (+' + effectiveNum + ') removido do grupo ' + chatId + '.');
                                 continue;
                             } else {
                                 console.log('[ANTI-FAKE ALERTA] Número estrangeiro +' + rawNum + ' entrou no grupo ' + chatId + ', mas o bot precisa ser Administrador para removê-lo.');

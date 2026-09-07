@@ -265,17 +265,21 @@ setInterval(async () => {
       }
       for (const p of meta.participants) {
         if (p.admin === 'admin' || p.admin === 'superadmin') continue;
-        const num = extractRawNumber(p.id);
-        if (!num || num.length > 13) continue;
-        const isBr = num.startsWith('55') && (num.length === 12 || num.length === 13);
+        const pResolved = extractRawNumber(p.id);
+        const pEffective = (p.id || '').endsWith('@s.whatsapp.net')
+          ? pResolved
+          : (pResolved && pResolved.length <= 13 ? pResolved : '');
+        if (!pEffective) continue;
+        const isBr = pEffective.startsWith('55') && (pEffective.length === 12 || pEffective.length === 13);
         if (!isBr) {
           await sockInstance.groupParticipantsUpdate(chatId, [p.id], 'remove').catch(() => {});
           const info = getUserInfo(p.id);
           await sockInstance.sendMessage(chatId, {
-            text: '🛡️ *ANTI-FAKE (VARREDURA)* 🛡️\n\n👤 *Removido:* ' + info.nameAndNumber +
-              '\n📱 *DDI:* +' + num + '\n📝 *Motivo:* número estrangeiro (apenas +55 permitido).'
+            text: '🛡️ *ANTI-FAKE (VARREDURA)* 🛡️\n\n👤 *Removido:* ' + info.mention +
+              '\n📱 *DDI:* +' + pEffective + '\n📝 *Motivo:* número estrangeiro (apenas +55 permitido).',
+            mentions: [info.jid]
           }).catch(() => {});
-          console.log('[ANTIFAKE AUTO] Removido +' + num + ' do grupo ' + chatId);
+          console.log('[ANTIFAKE AUTO] Removido +' + pEffective + ' do grupo ' + chatId);
         }
       }
     } catch (e) {}

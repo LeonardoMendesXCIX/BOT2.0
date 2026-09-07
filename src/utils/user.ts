@@ -6,6 +6,7 @@ export interface UserDisplayInfo {
     fullDisplay: string;
     nameAndNumber: string;
     mentionTag: string;
+    mention: string;
 }
 
 export const contactCache: Record<string, { name: string; time: number }> = {};
@@ -83,7 +84,8 @@ export function getUserInfo(userIdOrMention: string, pushNameHint: string = ''):
             pushName: 'Membro',
             fullDisplay: 'Membro',
             nameAndNumber: 'Membro',
-            mentionTag: '@Desconhecido'
+            mentionTag: '@Desconhecido',
+            mention: '@'
         };
     }
 
@@ -103,7 +105,8 @@ export function getUserInfo(userIdOrMention: string, pushNameHint: string = ''):
             pushName: 'Leandro',
             fullDisplay: 'Leandro - +55 (11) 92701-8683',
             nameAndNumber: 'Leandro - +55 (11) 92701-8683',
-            mentionTag: '@5511927018683'
+            mentionTag: '@5511927018683',
+            mention: '@5511927018683'
         };
     }
 
@@ -139,6 +142,7 @@ export function getUserInfo(userIdOrMention: string, pushNameHint: string = ''):
         pushName: pushName,
         fullDisplay: nameAndNumber,
         nameAndNumber: nameAndNumber,
-        mentionTag: mentionTag
+        mentionTag: mentionTag,
+        mention: rawNum ? '@' + rawNum : (pushName || nameAndNumber)
     };
 }
