@@ -4522,9 +4522,9 @@
         "total": 413
       },
       "53537388122141": {
-        "text": 210,
+        "text": 211,
         "media": 23,
-        "total": 233
+        "total": 234
       },
       "129373172711439": {
         "text": 121,
@@ -4702,9 +4702,9 @@
         "total": 27
       },
       "118515428286715": {
-        "text": 98,
+        "text": 99,
         "media": 8,
-        "total": 106
+        "total": 107
       },
       "193729163993156": {
         "text": 2,
@@ -5097,9 +5097,9 @@
         "total": 7
       },
       "232924968419570": {
-        "text": 22,
+        "text": 23,
         "media": 3,
-        "total": 25
+        "total": 26
       },
       "102650456625285": {
         "text": 1,
@@ -6249,9 +6249,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "P: to pra frente hoje",
-        "P: vou ficar off",
-        "Henrique Contri 🤫: Tem quantos anos ?",
         "Camila Designer: @118515428286715 vai ter que decidir entre as amigas kkk",
         "jaciara: Nossas amigas vão pra SP fazer uma visita pro @118515428286715",
         "Celiete Souza: 4.4",
@@ -6748,7 +6745,10 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Obrigada o elogiooooo 🤌🏻\n@81991328395336 \n@54259127210155 \n@166452229341300 \n@92629643563147",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Entendi nada",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: @all homens",
-        "Felippo: eita"
+        "Felippo: eita",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Mentiu?",
+        "Pedro🫰: Nunca",
+        "Saul: Eu sou solteiro com síndrome de casado (não saio de casa)"
       ]
     },
     "120363426574906687@g.us": {
@@ -7391,6 +7391,24 @@
         "authorName": "Felippo",
         "text": "eita",
         "timestamp": 1788816192397
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Mentiu?",
+        "timestamp": 1788816204007
+      },
+      {
+        "authorNum": "232924968419570",
+        "authorName": "Pedro🫰",
+        "text": "Nunca",
+        "timestamp": 1788816213892
+      },
+      {
+        "authorNum": "118515428286715",
+        "authorName": "Saul",
+        "text": "Eu sou solteiro com síndrome de casado (não saio de casa)",
+        "timestamp": 1788816218363
       }
     ],
     "120363426574906687@g.us": [
@@ -7422,7 +7440,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2774,
+    "120363023757382018@g.us": 2777,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -22497,6 +22515,24 @@
         "text": "eita",
         "pushName": "Felippo",
         "timestamp": 1788816192397
+      },
+      "ACACFA589EC725B208A251577DEA903E": {
+        "sender": "53537388122141@lid",
+        "text": "Mentiu?",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788816204007
+      },
+      "AC8D80E425C8A76BCE9D5E2D198F0956": {
+        "sender": "232924968419570@lid",
+        "text": "Nunca",
+        "pushName": "Pedro🫰",
+        "timestamp": 1788816213893
+      },
+      "3A4356E7E6D3974BC95A": {
+        "sender": "118515428286715@lid",
+        "text": "Eu sou solteiro com síndrome de casado (não saio de casa)",
+        "pushName": "Saul",
+        "timestamp": 1788816218363
       }
     },
     "120363426574906687@g.us": {
@@ -23443,7 +23479,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788816192397,
+    "120363023757382018@g.us": 1788816218363,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
