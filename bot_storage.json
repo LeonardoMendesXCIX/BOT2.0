@@ -4767,9 +4767,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 131,
+        "text": 133,
         "media": 1,
-        "total": 132
+        "total": 134
       },
       "89305909317735": {
         "text": 1,
@@ -5217,9 +5217,9 @@
         "total": 1
       },
       "136296492200083": {
-        "text": 9,
+        "text": 10,
         "media": 5,
-        "total": 14
+        "total": 15
       },
       "252342414905454": {
         "text": 7,
@@ -6168,9 +6168,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "JUNIOR: Como quiseres!",
-        "Francisco Silva: Francisco Gildean  39 anos Paraná",
-        "Dedé: PV liberado \ntenho 18 anos \nsou de Santa Catarina",
         "Rodrígues: Ah esqueci né tem que falar do gênero hoje eu sou sapatão gosto de mulher",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Faby por aqui? Kkkkk",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Sempre tem um",
@@ -6667,7 +6664,10 @@
         "Du: Obg",
         "Du: Alguém do rj",
         "Camila Designer: @152274357751809 novinho kkk",
-        "jaciara: Kkkkk"
+        "jaciara: Kkkkk",
+        "Luis Felipe: O loko não sei se tem outro mais não vi kk",
+        "Heloisa: Sim mas kk tô tranquila",
+        "Heloisa: Ah lembrei vc é magrinho e bonito"
       ]
     },
     "120363426574906687@g.us": {
@@ -6808,24 +6808,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "39857447551026",
-        "authorName": "Francisco Silva",
-        "text": "Eu atendo lá",
-        "timestamp": 1788798001310
-      },
-      {
-        "authorNum": "107442969026587",
-        "authorName": "Walter",
-        "text": "Só que as mulher só prefere novinho né eu tenho 45 anos solteiro",
-        "timestamp": 1788798011787
-      },
-      {
-        "authorNum": "219911083266163",
-        "authorName": "John 😎",
-        "text": "🥵",
-        "timestamp": 1788798014727
-      },
       {
         "authorNum": "107442969026587",
         "authorName": "Walter",
@@ -7647,6 +7629,24 @@
         "authorName": "jaciara",
         "text": "Kkkkk",
         "timestamp": 1788799794871
+      },
+      {
+        "authorNum": "136296492200083",
+        "authorName": "Luis Felipe",
+        "text": "O loko não sei se tem outro mais não vi kk",
+        "timestamp": 1788799804915
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Sim mas kk tô tranquila",
+        "timestamp": 1788799817040
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Ah lembrei vc é magrinho e bonito",
+        "timestamp": 1788799825737
       }
     ],
     "120363426574906687@g.us": [
@@ -7750,7 +7750,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1598,
+    "120363023757382018@g.us": 1601,
     "120363426574906687@g.us": 117
   },
   "botDisabled": {
@@ -15636,6 +15636,24 @@
         "text": "Kkkkk",
         "pushName": "jaciara",
         "timestamp": 1788799794871
+      },
+      "3AD0B8E2576FF2A78A11": {
+        "sender": "136296492200083@lid",
+        "text": "O loko não sei se tem outro mais não vi kk",
+        "pushName": "Luis Felipe",
+        "timestamp": 1788799804916
+      },
+      "AC0BB2C44C8D22438DC53063C99A6718": {
+        "sender": "152274357751809@lid",
+        "text": "Sim mas kk tô tranquila",
+        "pushName": "Heloisa",
+        "timestamp": 1788799817040
+      },
+      "ACE9BC307B8483FE3F923D9FAFAB6DC5": {
+        "sender": "152274357751809@lid",
+        "text": "Ah lembrei vc é magrinho e bonito",
+        "pushName": "Heloisa",
+        "timestamp": 1788799825738
       }
     },
     "120363426574906687@g.us": {
@@ -16204,7 +16222,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788799794871,
+    "120363023757382018@g.us": 1788799825737,
     "120363426574906687@g.us": 1788799590982
   },
   "autoAnimSent": {
