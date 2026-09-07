@@ -4477,9 +4477,9 @@
         "total": 34
       },
       "5511927018683": {
-        "text": 122,
+        "text": 124,
         "media": 10,
-        "total": 132
+        "total": 134
       },
       "166452229341300": {
         "text": 40,
@@ -13178,7 +13178,9 @@
         "Leandro: !zerotime ⌛ Tempo esgotado, {membro}! Adeus.",
         "Leandro: !del",
         "Leandro: !del",
-        "Leandro: !umminutoremov ⚠️ {membro}, você tem 1 MINUTO para se apresentar!"
+        "Leandro: !umminutoremov ⚠️ {membro}, você tem 1 MINUTO para se apresentar!",
+        "Leandro: !del",
+        "Leandro: !del"
       ]
     },
     "120363426574906687@g.us": {
@@ -13332,6 +13334,18 @@
         "authorName": "Leandro",
         "text": "!umminutoremov ⚠️ {membro}, você tem 1 MINUTO para se apresentar!",
         "timestamp": 1788756094471
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!del",
+        "timestamp": 1788756102997
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!del",
+        "timestamp": 1788756107544
       }
     ],
     "120363426574906687@g.us": []
@@ -13356,7 +13370,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 33,
-    "120363023757382018@g.us": 321,
+    "120363023757382018@g.us": 323,
     "120363426574906687@g.us": 36
   },
   "botDisabled": {
@@ -34170,6 +34184,18 @@
         "text": "!umminutoremov ⚠️ {membro}, você tem 1 MINUTO para se apresentar!",
         "pushName": "Leandro",
         "timestamp": 1788756094471
+      },
+      "AC188620929BA95393A609E3F8618B2F": {
+        "sender": "54259127210155@lid",
+        "text": "!del",
+        "pushName": "Leandro",
+        "timestamp": 1788756102997
+      },
+      "AC44B00186B75A897305C04DD2281FFB": {
+        "sender": "54259127210155@lid",
+        "text": "!del",
+        "pushName": "Leandro",
+        "timestamp": 1788756107544
       }
     },
     "120363426574906687@g.us": {
@@ -34477,7 +34503,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788755502872,
-    "120363023757382018@g.us": 1788756094471,
+    "120363023757382018@g.us": 1788756107544,
     "120363426574906687@g.us": 1788725639102
   },
   "autoAnimSent": {
@@ -34570,7 +34596,17 @@
       "umminutoremov": "⚠️ {membro}, você tem 1 MINUTO para se apresentar!"
     }
   },
-  "pendingMemberTimers": [],
+  "pendingMemberTimers": [
+    {
+      "id": "1788756115799_178855960649758@lid",
+      "chatId": "120363023757382018@g.us",
+      "memberId": "178855960649758@lid",
+      "joinedAt": 1788756115799,
+      "warned1min": false,
+      "countdownStarted": null,
+      "presented": false
+    }
+  ],
   "maintenance": false,
   "pendingPresentations": [],
   "antighost": {
