@@ -4507,9 +4507,9 @@
         "total": 167
       },
       "129373172711439": {
-        "text": 90,
+        "text": 91,
         "media": 25,
-        "total": 115
+        "total": 116
       },
       "138306604032063": {
         "text": 11,
@@ -4553,8 +4553,8 @@
       },
       "92629643563147": {
         "text": 184,
-        "media": 105,
-        "total": 289
+        "media": 107,
+        "total": 291
       },
       "559984624669": {
         "text": 4,
@@ -4577,9 +4577,9 @@
         "total": 180
       },
       "274384656834700": {
-        "text": 71,
-        "media": 21,
-        "total": 92
+        "text": 72,
+        "media": 22,
+        "total": 94
       },
       "111141304930334": {
         "text": 3,
@@ -4607,9 +4607,9 @@
         "total": 6
       },
       "254884934881353": {
-        "text": 40,
+        "text": 41,
         "media": 4,
-        "total": 44
+        "total": 45
       },
       "45479878459474": {
         "text": 1,
@@ -6195,9 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Saul: 1",
-        "Heloisa: Mas você pode vir PV",
-        "Camila Designer: 😏😏😏😏",
         "Camila Designer: @129373172711439 corre aquiii",
         "Celiete Souza: Oi",
         "Luis Felipe: Pd mesmo",
@@ -6694,7 +6691,10 @@
         "Camila Designer: Oi @163530946961491",
         "Celiete Souza: Tá vendo o que vc fez kkkk",
         "Camila Designer: Você se botou kkkk",
-        "Celiete Souza: Bhaaaa"
+        "Celiete Souza: Bhaaaa",
+        "P: Celiete perigosa",
+        "Gleydson Souza: @247020967165997 ate o kbaré baby volto a noite",
+        "Celiete Souza: Quando que eu não vi"
       ]
     },
     "120363426574906687@g.us": {
@@ -6898,30 +6898,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Ou Goiás",
-        "timestamp": 1788805833672
-      },
-      {
-        "authorNum": "264308512522409",
-        "authorName": "Henrique Contri 🤫",
-        "text": "Prolonga a vida 🤣🤣",
-        "timestamp": 1788805854407
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Faz bem pra pele",
-        "timestamp": 1788805858500
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Acho que ela foi bem pra frente 🤣🤣🤣🤣",
-        "timestamp": 1788805862434
-      },
       {
         "authorNum": "108461127897146",
         "authorName": "jaciara",
@@ -8133,6 +8109,24 @@
         "authorName": "Celiete Souza",
         "text": "Bhaaaa",
         "timestamp": 1788807631555
+      },
+      {
+        "authorNum": "254884934881353",
+        "authorName": "P",
+        "text": "Celiete perigosa",
+        "timestamp": 1788807647950
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "@247020967165997 ate o kbaré baby volto a noite",
+        "timestamp": 1788807650608
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Quando que eu não vi",
+        "timestamp": 1788807666143
       }
     ],
     "120363426574906687@g.us": [
@@ -8170,7 +8164,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2342,
+    "120363023757382018@g.us": 2345,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -20587,6 +20581,24 @@
         "text": "Bhaaaa",
         "pushName": "Celiete Souza",
         "timestamp": 1788807631555
+      },
+      "3AECF9DF21F9646BBDE8": {
+        "sender": "254884934881353@lid",
+        "text": "Celiete perigosa",
+        "pushName": "P",
+        "timestamp": 1788807647951
+      },
+      "ACFB750E071D86252855A97FA3BE2AAB": {
+        "sender": "274384656834700@lid",
+        "text": "@247020967165997 ate o kbaré baby volto a noite",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1788807650608
+      },
+      "ACA05FB0A8D563F6DE24D8505C8D6A1A": {
+        "sender": "129373172711439@lid",
+        "text": "Quando que eu não vi",
+        "pushName": "Celiete Souza",
+        "timestamp": 1788807666143
       }
     },
     "120363426574906687@g.us": {
@@ -21527,7 +21539,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788807641604,
+    "120363023757382018@g.us": 1788807674248,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
