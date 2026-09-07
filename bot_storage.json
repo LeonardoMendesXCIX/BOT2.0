@@ -4517,9 +4517,9 @@
         "total": 245
       },
       "166452229341300": {
-        "text": 334,
+        "text": 335,
         "media": 107,
-        "total": 441
+        "total": 442
       },
       "53537388122141": {
         "text": 266,
@@ -4587,9 +4587,9 @@
         "total": 1
       },
       "182738040713418": {
-        "text": 55,
-        "media": 40,
-        "total": 95
+        "text": 56,
+        "media": 41,
+        "total": 97
       },
       "81991328395336": {
         "text": 178,
@@ -5337,9 +5337,9 @@
         "total": 7
       },
       "79728216113177": {
-        "text": 87,
+        "text": 89,
         "media": 45,
-        "total": 132
+        "total": 134
       },
       "108147461074988": {
         "text": 1,
@@ -6257,8 +6257,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Gleydson Souza: @todos",
-        "Wellington: Triste realidade",
         "Leandro: !status",
         "Leandro: !del",
         "Celiete Souza: Aqui tá um friozão",
@@ -6756,7 +6754,9 @@
         "Kaio Mendes: Vitória",
         "Kaio Mendes: E vc?",
         "jaciara: Eu sou de Fortaleza dos Nogueiras",
-        "Camila Designer: Você tem sorte que é um pitelzinho e tem a voz bonita 😏😏😏"
+        "Camila Designer: Você tem sorte que é um pitelzinho e tem a voz bonita 😏😏😏",
+        "Cristian Sntss: Caxias",
+        "Kaio Mendes: Massa ✌🏻"
       ]
     },
     "120363426574906687@g.us": {
@@ -6980,18 +6980,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "@92629643563147 \nVender um curso de como ser atacante eu compro",
-        "timestamp": 1788816993583
-      },
-      {
-        "authorNum": "79728216113177",
-        "authorName": "Kaio Mendes",
-        "text": "Vende barato @92629643563147",
-        "timestamp": 1788817009576
-      },
       {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
@@ -7933,6 +7921,18 @@
         "authorName": "Camila Designer",
         "text": "Você tem sorte que é um pitelzinho e tem a voz bonita 😏😏😏",
         "timestamp": 1788818790322
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Caxias",
+        "timestamp": 1788818804983
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "Massa ✌🏻",
+        "timestamp": 1788818822362
       }
     ],
     "120363426574906687@g.us": []
@@ -7957,7 +7957,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2998,
+    "120363023757382018@g.us": 3000,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -24393,6 +24393,18 @@
         "text": "Você tem sorte que é um pitelzinho e tem a voz bonita 😏😏😏",
         "pushName": "Camila Designer",
         "timestamp": 1788818790322
+      },
+      "A5E8C6E7B74FCE54CD7BAA54072C4BE3": {
+        "sender": "166452229341300@lid",
+        "text": "Caxias",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788818804984
+      },
+      "AC49681E3ACF41C6CC7891C2D1F83EDA": {
+        "sender": "79728216113177@lid",
+        "text": "Massa ✌🏻",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788818822363
       }
     },
     "120363426574906687@g.us": {
@@ -25339,7 +25351,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788818790903,
+    "120363023757382018@g.us": 1788818829951,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
