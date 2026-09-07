@@ -4572,9 +4572,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 283,
+        "text": 284,
         "media": 167,
-        "total": 450
+        "total": 451
       },
       "559984624669": {
         "text": 4,
@@ -4753,8 +4753,8 @@
       },
       "155503636275307": {
         "text": 5,
-        "media": 5,
-        "total": 10
+        "media": 6,
+        "total": 11
       },
       "64540909826263": {
         "text": 2,
@@ -6266,7 +6266,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "solteiro: Oii",
         "Dany: Aqui ó",
         "Dany: Não, eu namoro",
         "solteiro: Oiii",
@@ -6765,7 +6764,8 @@
         "Kaio Mendes: No trecho eu tenho pena das mêias",
         "Camila Designer: Ela falou que pode, você pode mandar qualquer foto sua 🤣🤣🤣",
         "Wellington: Eu não uso sempre né é que tá frio pra Caraí aqui ou é ela ou é sem ela kkkk",
-        "Wellington: Tá bom então 🙃🫶🏽"
+        "Wellington: Tá bom então 🙃🫶🏽",
+        "Camila Designer: Ela disse que essa risadinha sua deixa ela mais apaixonada 🤣🤣🤣🤣"
       ]
     },
     "120363426574906687@g.us": {
@@ -6997,18 +6997,6 @@
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
       {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Isso é verdade 🤣🤣🤣",
-        "timestamp": 1788818356724
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Não ter chulé",
-        "timestamp": 1788818361892
-      },
-      {
         "authorNum": "79728216113177",
         "authorName": "Kaio Mendes",
         "text": "Tênis Pé",
@@ -7229,6 +7217,12 @@
         "authorName": "Wellington",
         "text": "Tá bom então 🙃🫶🏽",
         "timestamp": 1788820137119
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Ela disse que essa risadinha sua deixa ela mais apaixonada 🤣🤣🤣🤣",
+        "timestamp": 1788820173251
       }
     ],
     "120363426574906687@g.us": []
@@ -7253,7 +7247,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 486,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 3024,
+    "120363023757382018@g.us": 3025,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -23871,6 +23865,12 @@
         "text": "Tá bom então 🙃🫶🏽",
         "pushName": "Wellington",
         "timestamp": 1788820137120
+      },
+      "2A6EC39F941B3292D32C": {
+        "sender": "92629643563147@lid",
+        "text": "Ela disse que essa risadinha sua deixa ela mais apaixonada 🤣🤣🤣🤣",
+        "pushName": "Camila Designer",
+        "timestamp": 1788820173251
       }
     },
     "120363426574906687@g.us": {
@@ -24817,7 +24817,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788819771459,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788820137119,
+    "120363023757382018@g.us": 1788820173251,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
