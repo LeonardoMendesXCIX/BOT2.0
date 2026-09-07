@@ -4517,9 +4517,9 @@
         "total": 245
       },
       "166452229341300": {
-        "text": 333,
+        "text": 334,
         "media": 107,
-        "total": 440
+        "total": 441
       },
       "53537388122141": {
         "text": 265,
@@ -6257,7 +6257,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Camila Designer: Eu apareci 🤣🤣🤣",
         "Cristian Sntss: Acesse este link para entrar no meu grupo do WhatsApp: https://chat.whatsapp.com/D17jqByCGTaK66gLbeVao3?s=sw&p=a&mlu=4&ilr=4",
         "Cristian Sntss: Só abre a noite",
         "Camila Designer: *Link do Kabaré povo*",
@@ -6756,7 +6755,8 @@
         "Dany: Roubei a figurinha",
         "Kaio Mendes: Atacante",
         "Celiete Souza: Cheguei",
-        "Kaio Mendes: Conversa via figurinha"
+        "Kaio Mendes: Conversa via figurinha",
+        "Cristian Sntss: E de onde aqui no Maranhão msm?"
       ]
     },
     "120363426574906687@g.us": {
@@ -6980,12 +6980,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "262182034002040",
-        "authorName": "Dany",
-        "text": "Sim",
-        "timestamp": 1788816720926
-      },
       {
         "authorNum": "79728216113177",
         "authorName": "Kaio Mendes",
@@ -8059,6 +8053,12 @@
         "authorName": "Kaio Mendes",
         "text": "Conversa via figurinha",
         "timestamp": 1788818484520
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "E de onde aqui no Maranhão msm?",
+        "timestamp": 1788818545948
       }
     ],
     "120363426574906687@g.us": []
@@ -8083,7 +8083,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2993,
+    "120363023757382018@g.us": 2994,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -24489,6 +24489,12 @@
         "text": "Conversa via figurinha",
         "pushName": "Kaio Mendes",
         "timestamp": 1788818484520
+      },
+      "A5FCA37DDB1B0224160F9AFA80B6FC0E": {
+        "sender": "166452229341300@lid",
+        "text": "E de onde aqui no Maranhão msm?",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788818545948
       }
     },
     "120363426574906687@g.us": {
@@ -25435,7 +25441,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788818518789,
+    "120363023757382018@g.us": 1788818545948,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
