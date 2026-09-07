@@ -4489,9 +4489,9 @@
         "total": 164
       },
       "166452229341300": {
-        "text": 111,
+        "text": 112,
         "media": 40,
-        "total": 151
+        "total": 152
       },
       "53537388122141": {
         "text": 49,
@@ -4814,9 +4814,9 @@
         "total": 5
       },
       "219911083266163": {
-        "text": 2,
+        "text": 3,
         "media": 1,
-        "total": 3
+        "total": 4
       },
       "91384186949634": {
         "text": 2,
@@ -4836,14 +4836,14 @@
     },
     "120363426574906687@g.us": {
       "53537388122141": {
-        "text": 32,
+        "text": 33,
         "media": 0,
-        "total": 32
+        "total": 33
       },
       "166452229341300": {
-        "text": 15,
+        "text": 16,
         "media": 4,
-        "total": 19
+        "total": 20
       },
       "5511927018683": {
         "text": 16,
@@ -5697,8 +5697,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Cristian Sntss: Bem vindo galera",
-        "Gabi 💋: Fica a vontade para conversar e conhecer o pessoal @86595382292674 \n@1757061070966",
         "Cristian Sntss: Essa sua tatuagem e o que ?",
         "Igor: Tudo bem com você oi bom dia",
         "Claudinho santos Claudinh: ❤️",
@@ -6196,7 +6194,9 @@
         "Cristian Sntss: É desse jeito que a banda tocar",
         "Ton: E q temos q ser realistas eu n tenho dinheiro pra ir ver a pessoa em outro estado",
         "Camila Designer: Por mais homens que sabem o que quer 🤣🤣🤣",
-        "Cristian Sntss: Um conterrâneo"
+        "Cristian Sntss: Um conterrâneo",
+        "Cristian Sntss: Bem vindo",
+        "John 😎: Alguém do Nordeste, Piauí, Maranhão ou Ceará?"
       ]
     },
     "120363426574906687@g.us": {
@@ -6275,7 +6275,9 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: !abrir",
         "Cristian Sntss: Eu divulguei",
         "Cristian Sntss: Só ta entrando homem",
-        "Camila Designer: Muito bom kkk"
+        "Camila Designer: Muito bom kkk",
+        "Cristian Sntss: Os feios são mais educados",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Pessoal, tem um indivíduo que saiu do grupo antes de eu remover\nPorém, invadiu Pv"
       ]
     }
   },
@@ -6294,24 +6296,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Lindo o cabelo dele",
-        "timestamp": 1788788919914
-      },
-      {
-        "authorNum": "276287176319083",
-        "authorName": "renan_wesley",
-        "text": "Obg",
-        "timestamp": 1788788939152
-      },
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "Sim \nAcho lindo esse estilo",
-        "timestamp": 1788788950024
-      },
       {
         "authorNum": "152274357751809",
         "authorName": "Heloisa",
@@ -7097,6 +7081,18 @@
         "authorName": "Cristian Sntss",
         "text": "Um conterrâneo",
         "timestamp": 1788790719630
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Bem vindo",
+        "timestamp": 1788790725776
+      },
+      {
+        "authorNum": "219911083266163",
+        "authorName": "John 😎",
+        "text": "Alguém do Nordeste, Piauí, Maranhão ou Ceará?",
+        "timestamp": 1788790754924
       }
     ],
     "120363426574906687@g.us": [
@@ -7255,6 +7251,18 @@
         "authorName": "Camila Designer",
         "text": "Muito bom kkk",
         "timestamp": 1788790670964
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Os feios são mais educados",
+        "timestamp": 1788790751332
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Pessoal, tem um indivíduo que saiu do grupo antes de eu remover\nPorém, invadiu Pv",
+        "timestamp": 1788790754768
       }
     ]
   },
@@ -7278,8 +7286,8 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 893,
-    "120363426574906687@g.us": 74
+    "120363023757382018@g.us": 895,
+    "120363426574906687@g.us": 76
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -10825,6 +10833,18 @@
         "text": "Um conterrâneo",
         "pushName": "Cristian Sntss",
         "timestamp": 1788790719630
+      },
+      "A59DC078C2CF7CC9A9874B8A44FA8DC4": {
+        "sender": "166452229341300@lid",
+        "text": "Bem vindo",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788790725776
+      },
+      "AC68855337B8D4CC42B73D3B8101B6AC": {
+        "sender": "219911083266163@lid",
+        "text": "Alguém do Nordeste, Piauí, Maranhão ou Ceará?",
+        "pushName": "John 😎",
+        "timestamp": 1788790754924
       }
     },
     "120363426574906687@g.us": {
@@ -11037,6 +11057,18 @@
         "text": "Muito bom kkk",
         "pushName": "Camila Designer",
         "timestamp": 1788790670964
+      },
+      "A5C065D8B987E726A85BF0C0C79EF543": {
+        "sender": "166452229341300@lid",
+        "text": "Os feios são mais educados",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788790751332
+      },
+      "AC9B58CF51DE197657BFA67FCB7AB75B": {
+        "sender": "53537388122141@lid",
+        "text": "Pessoal, tem um indivíduo que saiu do grupo antes de eu remover\nPorém, invadiu Pv",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788790754768
       }
     }
   },
@@ -11132,8 +11164,8 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788790719630,
-    "120363426574906687@g.us": 1788790673640
+    "120363023757382018@g.us": 1788790754924,
+    "120363426574906687@g.us": 1788790754768
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
