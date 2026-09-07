@@ -4487,9 +4487,9 @@
         "total": 5
       },
       "108461127897146": {
-        "text": 83,
+        "text": 84,
         "media": 21,
-        "total": 104
+        "total": 105
       },
       "5511927018683": {
         "text": 164,
@@ -4552,9 +4552,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 73,
+        "text": 74,
         "media": 45,
-        "total": 118
+        "total": 119
       },
       "559984624669": {
         "text": 4,
@@ -6193,7 +6193,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "jaciara: Que estou sem paciência",
         "Cristian Sntss: !ban @101387518128307",
         "Juliano Perlin: Tive q abrir a foto do cara pra ir la ver🤣🤣🤣🤣",
         "Heloisa: Kkk",
@@ -6692,7 +6691,8 @@
         "Camila Designer: Pronto",
         "Camila Designer: Galera vamos ter mais respeito!",
         "Cristian Sntss: Se ir  com o peitoral amostra talvez",
-        "Heloisa: O velho revoltado com a vida"
+        "Heloisa: O velho revoltado com a vida",
+        "jaciara: Aí vai desconcentrar ela"
       ]
     },
     "120363426574906687@g.us": {
@@ -6861,36 +6861,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [
       {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "Ele tá te esperando no grupo dele",
-        "timestamp": 1788801006971
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Deixa ele continuar esperando",
-        "timestamp": 1788801030080
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Bom ele esperar sentado",
-        "timestamp": 1788801048997
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
-        "text": "Ele vai morrer esperando",
-        "timestamp": 1788801080411
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
-        "text": "Sabrina me deu o recado dele",
-        "timestamp": 1788801095714
-      },
-      {
         "authorNum": "5511927018683",
         "authorName": "Leandro",
         "text": "Ainda bem, por que ele mandou alguma coisa e eu nem abri a conversa pra ver",
@@ -6922,12 +6892,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "264308512522409",
-        "authorName": "Henrique Contri 🤫",
-        "text": "65 anos novinho de tudo kkkk",
-        "timestamp": 1788801296259
-      },
       {
         "authorNum": "81991328395336",
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
@@ -7983,6 +7947,12 @@
         "authorName": "Heloisa",
         "text": "O velho revoltado com a vida",
         "timestamp": 1788803082814
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Aí vai desconcentrar ela",
+        "timestamp": 1788803107260
       }
     ],
     "120363426574906687@g.us": []
@@ -8007,7 +7977,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 66,
-    "120363023757382018@g.us": 1885,
+    "120363023757382018@g.us": 1886,
     "120363426574906687@g.us": 145
   },
   "botDisabled": {
@@ -17669,6 +17639,12 @@
         "text": "O velho revoltado com a vida",
         "pushName": "Heloisa",
         "timestamp": 1788803082814
+      },
+      "AC8773251419183FCF7FC2C3629636B9": {
+        "sender": "108461127897146@lid",
+        "text": "Aí vai desconcentrar ela",
+        "pushName": "jaciara",
+        "timestamp": 1788803107260
       }
     },
     "120363426574906687@g.us": {
@@ -18405,7 +18381,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788802585654,
-    "120363023757382018@g.us": 1788803082814,
+    "120363023757382018@g.us": 1788803109659,
     "120363426574906687@g.us": 1788801476879
   },
   "autoAnimSent": {
