@@ -4487,9 +4487,9 @@
         "total": 5
       },
       "108461127897146": {
-        "text": 106,
-        "media": 30,
-        "total": 136
+        "text": 107,
+        "media": 31,
+        "total": 138
       },
       "5511927018683": {
         "text": 164,
@@ -4553,8 +4553,8 @@
       },
       "92629643563147": {
         "text": 104,
-        "media": 66,
-        "total": 170
+        "media": 67,
+        "total": 171
       },
       "559984624669": {
         "text": 4,
@@ -5142,9 +5142,9 @@
         "total": 1
       },
       "264308512522409": {
-        "text": 61,
+        "text": 62,
         "media": 3,
-        "total": 64
+        "total": 65
       },
       "194377938911429": {
         "text": 9,
@@ -6195,8 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Luis Felipe: Linda vc em",
-        "Henrique Contri 🤫: Isso que é mulher 👏🏻",
         "Heloisa: Obrigada",
         "Heloisa: Todas aqui do grupo são lindas",
         "Gabi 💋: Conhece o Celso da escola instructiva",
@@ -6694,7 +6692,9 @@
         "jaciara: Óia o jeito",
         "jaciara: Kkkkkk",
         "Camila Designer: Falar até papagaio fala",
-        "jaciara: Ela é maravilhosa"
+        "jaciara: Ela é maravilhosa",
+        "Henrique Contri 🤫: Uma coisa tem nada a ver com a outra 🤣",
+        "jaciara: Tudo tem haver"
       ]
     },
     "120363426574906687@g.us": {
@@ -6893,48 +6893,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "107442969026587",
-        "authorName": "Walter",
-        "text": "Ficou com medo",
-        "timestamp": 1788802353991
-      },
-      {
-        "authorNum": "136296492200083",
-        "authorName": "Luis Felipe",
-        "text": "achou eu né kkk",
-        "timestamp": 1788802367483
-      },
-      {
-        "authorNum": "264308512522409",
-        "authorName": "Henrique Contri 🤫",
-        "text": "Tu é de onde?",
-        "timestamp": 1788802372552
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
-        "text": "@92629643563147",
-        "timestamp": 1788802375383
-      },
-      {
-        "authorNum": "262182034002040",
-        "authorName": "Dany",
-        "text": "Nossa, morrendo 🫠",
-        "timestamp": 1788802381135
-      },
-      {
-        "authorNum": "136296492200083",
-        "authorName": "Luis Felipe",
-        "text": "Da minha casa",
-        "timestamp": 1788802381877
-      },
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Gente fui denovo \nSó entrei pra bisoia mesmo",
-        "timestamp": 1788802385108
-      },
       {
         "authorNum": "107442969026587",
         "authorName": "Walter",
@@ -8104,6 +8062,18 @@
         "authorName": "jaciara",
         "text": "Ela é maravilhosa",
         "timestamp": 1788804149455
+      },
+      {
+        "authorNum": "264308512522409",
+        "authorName": "Henrique Contri 🤫",
+        "text": "Uma coisa tem nada a ver com a outra 🤣",
+        "timestamp": 1788804182449
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Tudo tem haver",
+        "timestamp": 1788804190817
       }
     ],
     "120363426574906687@g.us": [
@@ -8195,7 +8165,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2016,
+    "120363023757382018@g.us": 2018,
     "120363426574906687@g.us": 156
   },
   "botDisabled": {
@@ -18655,6 +18625,18 @@
         "text": "Ela é maravilhosa",
         "pushName": "jaciara",
         "timestamp": 1788804149455
+      },
+      "ACA724C8EAC4EF69EB41BDA9D9E6E4A4": {
+        "sender": "264308512522409@lid",
+        "text": "Uma coisa tem nada a ver com a outra 🤣",
+        "pushName": "Henrique Contri 🤫",
+        "timestamp": 1788804182449
+      },
+      "AC5163A6C07D557657CF6EB504C4CF4C": {
+        "sender": "108461127897146@lid",
+        "text": "Tudo tem haver",
+        "pushName": "jaciara",
+        "timestamp": 1788804190817
       }
     },
     "120363426574906687@g.us": {
@@ -19451,7 +19433,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788804155920,
+    "120363023757382018@g.us": 1788804197212,
     "120363426574906687@g.us": 1788803933722
   },
   "autoAnimSent": {
