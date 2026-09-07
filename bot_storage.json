@@ -4552,9 +4552,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 35,
+        "text": 36,
         "media": 17,
-        "total": 52
+        "total": 53
       },
       "559984624669": {
         "text": 4,
@@ -4767,9 +4767,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 129,
+        "text": 130,
         "media": 1,
-        "total": 130
+        "total": 131
       },
       "89305909317735": {
         "text": 1,
@@ -5218,8 +5218,8 @@
       },
       "136296492200083": {
         "text": 8,
-        "media": 4,
-        "total": 12
+        "media": 5,
+        "total": 13
       },
       "252342414905454": {
         "text": 7,
@@ -5282,9 +5282,9 @@
         "total": 4
       },
       "171214744064197": {
-        "text": 1,
+        "text": 2,
         "media": 1,
-        "total": 2
+        "total": 3
       }
     },
     "120363426574906687@g.us": {
@@ -6168,8 +6168,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Jacke França: Bosta",
-        "Heloisa: Se empolgam",
         "JUNIOR: Estou aqui! So esperando vc rsrs",
         "Davi Miranda: 14 anos",
         "Lucas Borges: Oi",
@@ -6667,7 +6665,9 @@
         "Camila Designer: Quem enviou peitoral me marcam por favor!🤣🤣🤣",
         "Camila Designer: Melhor não",
         "Du: Oi",
-        "Camila Designer: Entendedores entenderão 🤣🤣🤣"
+        "Camila Designer: Entendedores entenderão 🤣🤣🤣",
+        "Camila Designer: Bem vindo!",
+        "Heloisa: Kk eu tinha falado já lá em cima com a outra ADM"
       ]
     },
     "120363426574906687@g.us": {
@@ -6808,18 +6808,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "264308512522409",
-        "authorName": "Henrique Contri 🤫",
-        "text": "Uai kkkk",
-        "timestamp": 1788797899303
-      },
-      {
-        "authorNum": "109075157254210",
-        "authorName": "TIAGO",
-        "text": "Tiago sou do Rio de janeiro tenho 45 anos",
-        "timestamp": 1788797921147
-      },
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
@@ -7647,6 +7635,18 @@
         "authorName": "Camila Designer",
         "text": "Entendedores entenderão 🤣🤣🤣",
         "timestamp": 1788799694208
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Bem vindo!",
+        "timestamp": 1788799732708
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Kk eu tinha falado já lá em cima com a outra ADM",
+        "timestamp": 1788799735733
       }
     ],
     "120363426574906687@g.us": [
@@ -7750,7 +7750,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1587,
+    "120363023757382018@g.us": 1589,
     "120363426574906687@g.us": 117
   },
   "botDisabled": {
@@ -15570,6 +15570,18 @@
         "text": "Entendedores entenderão 🤣🤣🤣",
         "pushName": "Camila Designer",
         "timestamp": 1788799694208
+      },
+      "2AC39CAAFD2BBC6C0E7C": {
+        "sender": "92629643563147@lid",
+        "text": "Bem vindo!",
+        "pushName": "Camila Designer",
+        "timestamp": 1788799732708
+      },
+      "AC87D613563BC7548D22E64D80DE3ADC": {
+        "sender": "152274357751809@lid",
+        "text": "Kk eu tinha falado já lá em cima com a outra ADM",
+        "pushName": "Heloisa",
+        "timestamp": 1788799735733
       }
     },
     "120363426574906687@g.us": {
@@ -16138,7 +16150,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788799705892,
+    "120363023757382018@g.us": 1788799735733,
     "120363426574906687@g.us": 1788799590982
   },
   "autoAnimSent": {
