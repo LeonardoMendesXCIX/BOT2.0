@@ -5337,9 +5337,9 @@
         "total": 7
       },
       "79728216113177": {
-        "text": 62,
+        "text": 64,
         "media": 30,
-        "total": 92
+        "total": 94
       }
     },
     "120363426574906687@g.us": {
@@ -6249,8 +6249,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Celiete Souza: Genteeeeee vcs me botam em cada uma",
-        "Camila Designer: Oi @163530946961491",
         "Celiete Souza: Tá vendo o que vc fez kkkk",
         "Camila Designer: Você se botou kkkk",
         "Celiete Souza: Bhaaaa",
@@ -6748,7 +6746,9 @@
         "Kaio Mendes: E vc tem q idade agora?",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Diretora é o nome pro grupo",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: 23 anos",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: E cabelo pintado 😂"
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: E cabelo pintado 😂",
+        "Kaio Mendes: Tlgd",
+        "Kaio Mendes: Massa"
       ]
     },
     "120363426574906687@g.us": {
@@ -7697,6 +7697,18 @@
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "text": "E cabelo pintado 😂",
         "timestamp": 1788816931016
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "Tlgd",
+        "timestamp": 1788816972180
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "Massa",
+        "timestamp": 1788816980168
       }
     ],
     "120363426574906687@g.us": []
@@ -7721,7 +7733,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2837,
+    "120363023757382018@g.us": 2839,
     "120363426574906687@g.us": 181
   },
   "botDisabled": {
@@ -23174,6 +23186,18 @@
         "text": "E cabelo pintado 😂",
         "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "timestamp": 1788816931016
+      },
+      "AC0728D811A326F51B6CF0D4B467D4C5": {
+        "sender": "79728216113177@lid",
+        "text": "Tlgd",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788816972180
+      },
+      "ACBE063B7E760783E427015EB55ED4C4": {
+        "sender": "79728216113177@lid",
+        "text": "Massa",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788816980168
       }
     },
     "120363426574906687@g.us": {
@@ -24120,7 +24144,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788816931016,
+    "120363023757382018@g.us": 1788816980168,
     "120363426574906687@g.us": 1788814805243
   },
   "autoAnimSent": {
