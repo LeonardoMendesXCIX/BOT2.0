@@ -4487,9 +4487,9 @@
         "total": 5
       },
       "108461127897146": {
-        "text": 110,
+        "text": 111,
         "media": 32,
-        "total": 142
+        "total": 143
       },
       "5511927018683": {
         "text": 164,
@@ -4577,9 +4577,9 @@
         "total": 180
       },
       "274384656834700": {
-        "text": 59,
+        "text": 61,
         "media": 21,
-        "total": 80
+        "total": 82
       },
       "111141304930334": {
         "text": 3,
@@ -4592,9 +4592,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 208,
+        "text": 210,
         "media": 20,
-        "total": 228
+        "total": 230
       },
       "206966404210884": {
         "text": 2,
@@ -4682,9 +4682,9 @@
         "total": 27
       },
       "118515428286715": {
-        "text": 32,
+        "text": 33,
         "media": 4,
-        "total": 36
+        "total": 37
       },
       "193729163993156": {
         "text": 2,
@@ -6195,10 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Camila Designer: Humm, bem vindo!",
-        "Francisco Silva: Não moro lá só atendo lá 1 vez por mês passo lá",
-        "Du: Obg",
-        "Du: Alguém do rj",
         "Camila Designer: @152274357751809 novinho kkk",
         "jaciara: Kkkkk",
         "Luis Felipe: O loko não sei se tem outro mais não vi kk",
@@ -6694,7 +6690,11 @@
         "Henrique Contri 🤫: Comigo não tem isso kkk",
         "Gabi 💋: Estou brincando",
         "Camila Designer: E feriadão, quem trabalhou hoje?",
-        "Gabi 💋: Em casa"
+        "Gabi 💋: Em casa",
+        "Saul: @92629643563147 \nProvérbios 19:21",
+        "Gleydson Souza: So em casa mesmo",
+        "Gabi 💋: Queria um bombom cravejado",
+        "jaciara: @118515428286715 cê tem quantos anos ?"
       ]
     },
     "120363426574906687@g.us": {
@@ -6895,18 +6895,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "274384656834700",
-        "authorName": "Gleydson Souza",
-        "text": "Kkkkkk",
-        "timestamp": 1788803691975
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Esqueceu né",
-        "timestamp": 1788803693060
-      },
       {
         "authorNum": "264308512522409",
         "authorName": "Henrique Contri 🤫",
@@ -7740,51 +7728,33 @@
         "authorName": "Gabi 💋",
         "text": "Em casa",
         "timestamp": 1788805485480
+      },
+      {
+        "authorNum": "118515428286715",
+        "authorName": "Saul",
+        "text": "@92629643563147 \nProvérbios 19:21",
+        "timestamp": 1788805495744
+      },
+      {
+        "authorNum": "274384656834700",
+        "authorName": "Gleydson Souza",
+        "text": "So em casa mesmo",
+        "timestamp": 1788805498963
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Queria um bombom cravejado",
+        "timestamp": 1788805509627
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "@118515428286715 cê tem quantos anos ?",
+        "timestamp": 1788805516708
       }
     ],
     "120363426574906687@g.us": [
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Depende do velho não, eu sou um jovem senhor 🌝",
-        "timestamp": 1788803432614
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Mas respeito primeiramente a minha mulher @81991328395336 e depois outros tanto homem, quanto mulher",
-        "timestamp": 1788803461824
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Mas respeito primeiramente a minha mulher @81991328395336 e depois outros tanto homem, quanto mulher",
-        "timestamp": 1788803489825
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Já já eu mando esse cara pra casa do chapéu",
-        "timestamp": 1788803629888
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "🙄",
-        "timestamp": 1788803632043
-      },
-      {
-        "authorNum": "5511927018683",
-        "authorName": "Leandro",
-        "text": "Foi no pv do bot para encher o saco",
-        "timestamp": 1788803641214
-      },
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "Ele vem pergunta pra Lay já que era casada cadê o marido dela pra dá uma  coça nela por está no grupo",
-        "timestamp": 1788803675343
-      },
       {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
@@ -7939,7 +7909,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2092,
+    "120363023757382018@g.us": 2096,
     "120363426574906687@g.us": 177
   },
   "botDisabled": {
@@ -18856,6 +18826,30 @@
         "text": "Em casa",
         "pushName": "Gabi 💋",
         "timestamp": 1788805485480
+      },
+      "3A0CF921EF6BB6E03363": {
+        "sender": "118515428286715@lid",
+        "text": "@92629643563147 \nProvérbios 19:21",
+        "pushName": "Saul",
+        "timestamp": 1788805495744
+      },
+      "ACFC46D7346610045E7821738EC134D9": {
+        "sender": "274384656834700@lid",
+        "text": "So em casa mesmo",
+        "pushName": "Gleydson Souza",
+        "timestamp": 1788805498964
+      },
+      "AC2A878AC89D1D090F0BD6D5AD26D204": {
+        "sender": "247020967165997@lid",
+        "text": "Queria um bombom cravejado",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788805509627
+      },
+      "AC2B180B980C9CED6C63671DAFB51C55": {
+        "sender": "108461127897146@lid",
+        "text": "@118515428286715 cê tem quantos anos ?",
+        "pushName": "jaciara",
+        "timestamp": 1788805516708
       }
     },
     "120363426574906687@g.us": {
@@ -19778,7 +19772,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788805485480,
+    "120363023757382018@g.us": 1788805516708,
     "120363426574906687@g.us": 1788805062631
   },
   "autoAnimSent": {
