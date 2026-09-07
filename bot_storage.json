@@ -4483,14 +4483,14 @@
         "total": 164
       },
       "166452229341300": {
-        "text": 66,
+        "text": 67,
         "media": 35,
-        "total": 101
+        "total": 102
       },
       "53537388122141": {
-        "text": 43,
+        "text": 44,
         "media": 7,
-        "total": 50
+        "total": 51
       },
       "129373172711439": {
         "text": 27,
@@ -4578,9 +4578,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 71,
+        "text": 73,
         "media": 9,
-        "total": 80
+        "total": 82
       },
       "206966404210884": {
         "text": 2,
@@ -4678,9 +4678,9 @@
         "total": 2
       },
       "59645049761949": {
-        "text": 24,
+        "text": 25,
         "media": 0,
-        "total": 24
+        "total": 25
       },
       "21338118979724": {
         "text": 3,
@@ -4688,9 +4688,9 @@
         "total": 4
       },
       "128145298608376": {
-        "text": 12,
+        "text": 13,
         "media": 1,
-        "total": 13
+        "total": 14
       },
       "193733257609270": {
         "text": 1,
@@ -4698,9 +4698,9 @@
         "total": 2
       },
       "230365537005571": {
-        "text": 2,
+        "text": 3,
         "media": 1,
-        "total": 3
+        "total": 4
       },
       "60739813417005": {
         "text": 2,
@@ -4720,9 +4720,9 @@
         "total": 12
       },
       "5511927018683": {
-        "text": 10,
+        "text": 13,
         "media": 0,
-        "total": 10
+        "total": 13
       },
       "92629643563147": {
         "text": 1,
@@ -5983,7 +5983,11 @@
         "solteiro: Sim",
         "jaciara: Gata",
         "Amaury: Que isso trem",
-        "Gabi 💋: Bumbum"
+        "Gabi 💋: Bumbum",
+        "Gabi 💋: Pronto, agora quem mandou a mensagem responde se viu e se gostou",
+        "xacinaluzqradiaoinferno71: q lugar de santo André?",
+        "Gabi 💋: Responde pelo menos se gostou ksksks",
+        "Amaury: Kkk"
       ]
     },
     "120363426574906687@g.us": {
@@ -6031,6 +6035,9 @@
         "Camila Designer: !id",
         "Leandro: !del",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Ah ok",
+        "Leandro: !del",
+        "Leandro: !del",
+        "Leandro: !antidelete off",
         "Leandro: !del",
         "Leandro: !del"
       ]
@@ -6837,6 +6844,30 @@
         "authorName": "Gabi 💋",
         "text": "Bumbum",
         "timestamp": 1788787959163
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Pronto, agora quem mandou a mensagem responde se viu e se gostou",
+        "timestamp": 1788787986137
+      },
+      {
+        "authorNum": "230365537005571",
+        "authorName": "xacinaluzqradiaoinferno71",
+        "text": "q lugar de santo André?",
+        "timestamp": 1788787996908
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Responde pelo menos se gostou ksksks",
+        "timestamp": 1788788006256
+      },
+      {
+        "authorNum": "59645049761949",
+        "authorName": "Amaury",
+        "text": "Kkk",
+        "timestamp": 1788788008551
       }
     ],
     "120363426574906687@g.us": [
@@ -6887,6 +6918,24 @@
         "authorName": "Leandro",
         "text": "!del",
         "timestamp": 1788787979615
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!antidelete off",
+        "timestamp": 1788787994232
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!del",
+        "timestamp": 1788787997443
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!del",
+        "timestamp": 1788788000963
       }
     ]
   },
@@ -6910,8 +6959,8 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 644,
-    "120363426574906687@g.us": 44
+    "120363023757382018@g.us": 648,
+    "120363426574906687@g.us": 47
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -7221,7 +7270,8 @@
     "120363412288900422@g.us": false,
     "120363023757382018@g.us": false,
     "120363313059060675@g.us": false,
-    "120363427545094619@g.us": false
+    "120363427545094619@g.us": false,
+    "120363426574906687@g.us": false
   },
   "messageBuffer": {
     "120363432018531082@g.us": {},
@@ -8984,6 +9034,30 @@
         "text": "Bumbum",
         "pushName": "Gabi 💋",
         "timestamp": 1788787959164
+      },
+      "AC6EE5CCD46CD8BD7C2910F66D75C318": {
+        "sender": "247020967165997@lid",
+        "text": "Pronto, agora quem mandou a mensagem responde se viu e se gostou",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788787986137
+      },
+      "A5858EED6D97C04C0D83A352AF03D5F2": {
+        "sender": "230365537005571@lid",
+        "text": "q lugar de santo André?",
+        "pushName": "xacinaluzqradiaoinferno71",
+        "timestamp": 1788787996908
+      },
+      "AC2E9698FDB5C0A09A9355C764DFBD6C": {
+        "sender": "247020967165997@lid",
+        "text": "Responde pelo menos se gostou ksksks",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788788006256
+      },
+      "AC231B5CE7DAD395EBEC45B99338CEC9": {
+        "sender": "59645049761949@lid",
+        "text": "Kkk",
+        "pushName": "Amaury",
+        "timestamp": 1788788008551
       }
     },
     "120363426574906687@g.us": {
@@ -9017,11 +9091,23 @@
         "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "timestamp": 1788787963920
       },
-      "ACB28B2621159672D19A50AF0246C0D2": {
+      "AC31A06E5D1BEAE265C17CB0ACAAB731": {
+        "sender": "54259127210155@lid",
+        "text": "!antidelete off",
+        "pushName": "Leandro",
+        "timestamp": 1788787994232
+      },
+      "AC53711C78854C53B4E1945F3F96F466": {
         "sender": "54259127210155@lid",
         "text": "!del",
         "pushName": "Leandro",
-        "timestamp": 1788787979615
+        "timestamp": 1788787997443
+      },
+      "AC42412B0D210D2FE9AD30DBD1479C9F": {
+        "sender": "54259127210155@lid",
+        "text": "!del",
+        "pushName": "Leandro",
+        "timestamp": 1788788000963
       }
     }
   },
@@ -9117,8 +9203,8 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788787959163,
-    "120363426574906687@g.us": 1788787979615
+    "120363023757382018@g.us": 1788788008551,
+    "120363426574906687@g.us": 1788788000963
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
@@ -9192,6 +9278,9 @@
     },
     "120363427545094619@g.us": {
       "antilink": true,
+      "antidelete": true
+    },
+    "120363426574906687@g.us": {
       "antidelete": true
     }
   },
