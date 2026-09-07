@@ -4593,8 +4593,8 @@
       },
       "81991328395336": {
         "text": 147,
-        "media": 44,
-        "total": 191
+        "media": 45,
+        "total": 192
       },
       "274384656834700": {
         "text": 76,
@@ -5337,9 +5337,9 @@
         "total": 6
       },
       "79728216113177": {
-        "text": 16,
+        "text": 18,
         "media": 9,
-        "total": 25
+        "total": 27
       }
     },
     "120363426574906687@g.us": {
@@ -6244,8 +6244,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Camila Designer: Porém ver quem quer kkk",
-        "Camila Designer: É enviado em visualização única",
         "Henrique Contri 🤫: Óbvio né 🤣",
         "Camila Designer: Ué, vai que não sabe",
         "Camila Designer: Rsrsrs",
@@ -6743,7 +6741,9 @@
         "Cristian Sntss: Vídeo de q?",
         "Leandro: Ele mostrando o chaci de grilo dele",
         "Kaio Mendes: Essa etique aí não dá ban?",
-        "Victor: oxi, pq um ensinamento brabo desse daria ban?"
+        "Victor: oxi, pq um ensinamento brabo desse daria ban?",
+        "Kaio Mendes: É pq acho que só pode etiqueta \"PV aberto\" e \"PV fechado\" aqui kkk",
+        "Kaio Mendes: Só acho"
       ]
     },
     "120363426574906687@g.us": {
@@ -7594,6 +7594,18 @@
         "authorName": "Victor",
         "text": "oxi, pq um ensinamento brabo desse daria ban?",
         "timestamp": 1788813811800
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "É pq acho que só pode etiqueta \"PV aberto\" e \"PV fechado\" aqui kkk",
+        "timestamp": 1788813834222
+      },
+      {
+        "authorNum": "79728216113177",
+        "authorName": "Kaio Mendes",
+        "text": "Só acho",
+        "timestamp": 1788813845515
       }
     ],
     "120363426574906687@g.us": []
@@ -7618,7 +7630,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 483,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2693,
+    "120363023757382018@g.us": 2695,
     "120363426574906687@g.us": 180
   },
   "botDisabled": {
@@ -22189,6 +22201,18 @@
         "text": "oxi, pq um ensinamento brabo desse daria ban?",
         "pushName": "Victor",
         "timestamp": 1788813811800
+      },
+      "AC50F6F35FC0A8A4CB5AC4A97F66D486": {
+        "sender": "79728216113177@lid",
+        "text": "É pq acho que só pode etiqueta \"PV aberto\" e \"PV fechado\" aqui kkk",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788813834222
+      },
+      "ACF83DE3CCEF49ECCB16EF5719D2CB9A": {
+        "sender": "79728216113177@lid",
+        "text": "Só acho",
+        "pushName": "Kaio Mendes",
+        "timestamp": 1788813845516
       }
     },
     "120363426574906687@g.us": {
@@ -23129,7 +23153,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788810464151,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788813811800,
+    "120363023757382018@g.us": 1788813845515,
     "120363426574906687@g.us": 1788806086991
   },
   "autoAnimSent": {
