@@ -4487,9 +4487,9 @@
         "total": 5
       },
       "108461127897146": {
-        "text": 103,
+        "text": 106,
         "media": 30,
-        "total": 133
+        "total": 136
       },
       "5511927018683": {
         "text": 164,
@@ -4552,9 +4552,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 103,
-        "media": 63,
-        "total": 166
+        "text": 104,
+        "media": 65,
+        "total": 169
       },
       "559984624669": {
         "text": 4,
@@ -5142,9 +5142,9 @@
         "total": 1
       },
       "264308512522409": {
-        "text": 60,
+        "text": 61,
         "media": 3,
-        "total": 63
+        "total": 64
       },
       "194377938911429": {
         "text": 9,
@@ -6195,11 +6195,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Jefinho: Saiu",
-        "Jefinho: Que barbaridade",
-        "retroboy: Lucas, 19 anos, Guarulhos SP hétero",
-        "Fabrício Fernandes: Fiu fiu rsrs",
-        "Francisco Silva: Modelo",
         "Luis Felipe: Linda vc em",
         "Henrique Contri 🤫: Isso que é mulher 👏🏻",
         "Heloisa: Obrigada",
@@ -6694,7 +6689,12 @@
         "Gabi 💋: Fraca, tadinho",
         "Camila Designer: 🤣🤣🤣",
         "Gleydson Souza: No kbaré hoje  eu mando",
-        "Camila Designer: E você é fortão né?! 😌😌😌"
+        "Camila Designer: E você é fortão né?! 😌😌😌",
+        "Henrique Contri 🤫: Tá se doendo kkk",
+        "jaciara: Óia o jeito",
+        "jaciara: Kkkkkk",
+        "Camila Designer: Falar até papagaio fala",
+        "jaciara: Ela é maravilhosa"
       ]
     },
     "120363426574906687@g.us": {
@@ -6893,18 +6893,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Bhaaaa não deixava assim",
-        "timestamp": 1788802310020
-      },
-      {
-        "authorNum": "152274357751809",
-        "authorName": "Heloisa",
-        "text": "Achei",
-        "timestamp": 1788802347778
-      },
       {
         "authorNum": "107442969026587",
         "authorName": "Walter",
@@ -8086,6 +8074,36 @@
         "authorName": "Camila Designer",
         "text": "E você é fortão né?! 😌😌😌",
         "timestamp": 1788804098258
+      },
+      {
+        "authorNum": "264308512522409",
+        "authorName": "Henrique Contri 🤫",
+        "text": "Tá se doendo kkk",
+        "timestamp": 1788804111911
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Óia o jeito",
+        "timestamp": 1788804125539
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Kkkkkk",
+        "timestamp": 1788804127976
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Falar até papagaio fala",
+        "timestamp": 1788804130636
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Ela é maravilhosa",
+        "timestamp": 1788804149455
       }
     ],
     "120363426574906687@g.us": [
@@ -8177,7 +8195,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 68,
-    "120363023757382018@g.us": 2011,
+    "120363023757382018@g.us": 2016,
     "120363426574906687@g.us": 156
   },
   "botDisabled": {
@@ -18607,6 +18625,36 @@
         "text": "E você é fortão né?! 😌😌😌",
         "pushName": "Camila Designer",
         "timestamp": 1788804098258
+      },
+      "AC4637CD7AF061D2B699B60D8577233F": {
+        "sender": "264308512522409@lid",
+        "text": "Tá se doendo kkk",
+        "pushName": "Henrique Contri 🤫",
+        "timestamp": 1788804111911
+      },
+      "AC8BC4F353A0EDC387365F71C5D90E2D": {
+        "sender": "108461127897146@lid",
+        "text": "Óia o jeito",
+        "pushName": "jaciara",
+        "timestamp": 1788804125540
+      },
+      "AC3542EE7B470A464B684798F7543BA0": {
+        "sender": "108461127897146@lid",
+        "text": "Kkkkkk",
+        "pushName": "jaciara",
+        "timestamp": 1788804127976
+      },
+      "2AC2D567EABBCD4E51FC": {
+        "sender": "92629643563147@lid",
+        "text": "Falar até papagaio fala",
+        "pushName": "Camila Designer",
+        "timestamp": 1788804130636
+      },
+      "ACDED438DA10724526AB707CFEA40CC2": {
+        "sender": "108461127897146@lid",
+        "text": "Ela é maravilhosa",
+        "pushName": "jaciara",
+        "timestamp": 1788804149455
       }
     },
     "120363426574906687@g.us": {
@@ -19403,7 +19451,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788803196299,
-    "120363023757382018@g.us": 1788804099773,
+    "120363023757382018@g.us": 1788804149455,
     "120363426574906687@g.us": 1788803933722
   },
   "autoAnimSent": {
