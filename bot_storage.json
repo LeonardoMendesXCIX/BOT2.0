@@ -4564,9 +4564,9 @@
         "total": 1
       },
       "182738040713418": {
-        "text": 5,
+        "text": 6,
         "media": 2,
-        "total": 7
+        "total": 8
       },
       "81991328395336": {
         "text": 67,
@@ -4764,9 +4764,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 72,
+        "text": 73,
         "media": 0,
-        "total": 72
+        "total": 73
       },
       "89305909317735": {
         "text": 1,
@@ -4972,6 +4972,11 @@
         "text": 2,
         "media": 0,
         "total": 2
+      },
+      "14375557554202": {
+        "text": 0,
+        "media": 1,
+        "total": 1
       }
     },
     "120363426574906687@g.us": {
@@ -5846,9 +5851,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Gabi 💋: E da onde ?",
-        "xacinaluzqradiaoinferno71: sou da norte",
-        "solteiro: Sim eu nao",
         "S2: Solteiro",
         ": Solteiro",
         "Gabi 💋: Que lugar?",
@@ -6345,7 +6347,10 @@
         "welkeazevedo: Pcv liberado",
         "Felipe: Como q bota etiqueta?",
         "Heloisa: Bem vindos",
-        "Felipe: Kkkk"
+        "Felipe: Kkkk",
+        "You never walk alone: Bruno\n40 anos \nSolteiro \nRio de Janeiro \nPV liberado",
+        "Wellington: Bem vindo Man 🙌🏽",
+        "Heloisa: Cara de 22"
       ]
     },
     "120363426574906687@g.us": {
@@ -6514,12 +6519,6 @@
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "152274357751809",
-        "authorName": "Heloisa",
-        "text": "Assim mesmo",
-        "timestamp": 1788792350699
-      },
       {
         "authorNum": "272048228188398",
         "authorName": "Lailson Nathan.",
@@ -7587,6 +7586,24 @@
         "authorName": "Felipe",
         "text": "Kkkk",
         "timestamp": 1788794147549
+      },
+      {
+        "authorNum": "14375557554202",
+        "authorName": "You never walk alone",
+        "text": "Bruno\n40 anos \nSolteiro \nRio de Janeiro \nPV liberado",
+        "timestamp": 1788794164007
+      },
+      {
+        "authorNum": "182738040713418",
+        "authorName": "Wellington",
+        "text": "Bem vindo Man 🙌🏽",
+        "timestamp": 1788794182622
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Cara de 22",
+        "timestamp": 1788794187147
       }
     ],
     "120363426574906687@g.us": [
@@ -7654,7 +7671,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 47,
-    "120363023757382018@g.us": 1159,
+    "120363023757382018@g.us": 1162,
     "120363426574906687@g.us": 90
   },
   "botDisabled": {
@@ -12851,6 +12868,24 @@
         "text": "Kkkk",
         "pushName": "Felipe",
         "timestamp": 1788794147549
+      },
+      "AC70A951988AFF42F90074C970ECACC8": {
+        "sender": "14375557554202@lid",
+        "text": "Bruno\n40 anos \nSolteiro \nRio de Janeiro \nPV liberado",
+        "pushName": "You never walk alone",
+        "timestamp": 1788794164007
+      },
+      "AC09DCF578E1DA1325267E75CB18CEBC": {
+        "sender": "182738040713418@lid",
+        "text": "Bem vindo Man 🙌🏽",
+        "pushName": "Wellington",
+        "timestamp": 1788794182622
+      },
+      "AC31FCC98E99A3D032144FF5A9CA6156": {
+        "sender": "152274357751809@lid",
+        "text": "Cara de 22",
+        "pushName": "Heloisa",
+        "timestamp": 1788794187147
       }
     },
     "120363426574906687@g.us": {
@@ -13254,7 +13289,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788794140105,
-    "120363023757382018@g.us": 1788794147549,
+    "120363023757382018@g.us": 1788794187147,
     "120363426574906687@g.us": 1788793079391
   },
   "autoAnimSent": {
