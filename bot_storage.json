@@ -4497,14 +4497,14 @@
         "total": 169
       },
       "166452229341300": {
-        "text": 199,
+        "text": 200,
         "media": 65,
-        "total": 264
+        "total": 265
       },
       "53537388122141": {
-        "text": 143,
+        "text": 144,
         "media": 11,
-        "total": 154
+        "total": 155
       },
       "129373172711439": {
         "text": 27,
@@ -5227,14 +5227,14 @@
         "total": 3
       },
       "118528279593092": {
-        "text": 1,
+        "text": 2,
         "media": 1,
-        "total": 2
+        "total": 3
       },
       "183137506173038": {
-        "text": 5,
+        "text": 7,
         "media": 0,
-        "total": 5
+        "total": 7
       },
       "241261818728589": {
         "text": 1,
@@ -6123,11 +6123,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Dani: Cachoeira do Sul",
-        "Thawan: N vou mandar mais não",
-        "Dani: Saudades do calor",
-        "P: vish",
-        "Thawan: Vou fazer do jeito que você estava pedindo",
         "P: Admitiu",
         "Dani: Lindona",
         "Heloisa: Obrigada",
@@ -6622,7 +6617,12 @@
         "Luis carlos: ????",
         "Luis carlos: Imagino",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Que?",
-        "Cristian Sntss: O caps"
+        "Cristian Sntss: O caps",
+        "Cristian Sntss: Bem vindo",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Tá puro suco do caps isso aqui",
+        "Luis carlos: 🤔🤔",
+        "𝕰𝖛𝖆𝖓𝖉𝖗𝖔 𝕬𝖑𝖛𝖊𝖘: Obrigado 🙂",
+        "Luis carlos: Comigo"
       ]
     },
     "120363426574906687@g.us": {
@@ -6750,12 +6750,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "118687143096431",
-        "authorName": "Josias jesus dos Santos",
-        "text": "73998073606 boa tarde a todos me chamo Josias tenho 60ano souteiro sou de ilhéus Bahia Brasil",
-        "timestamp": 1788796706736
-      },
       {
         "authorNum": "222595437858867",
         "authorName": "Juliano Perlin",
@@ -7685,6 +7679,36 @@
         "authorName": "Cristian Sntss",
         "text": "O caps",
         "timestamp": 1788798490231
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Bem vindo",
+        "timestamp": 1788798497945
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Tá puro suco do caps isso aqui",
+        "timestamp": 1788798503889
+      },
+      {
+        "authorNum": "183137506173038",
+        "authorName": "Luis carlos",
+        "text": "🤔🤔",
+        "timestamp": 1788798505453
+      },
+      {
+        "authorNum": "118528279593092",
+        "authorName": "𝕰𝖛𝖆𝖓𝖉𝖗𝖔 𝕬𝖑𝖛𝖊𝖘",
+        "text": "Obrigado 🙂",
+        "timestamp": 1788798510544
+      },
+      {
+        "authorNum": "183137506173038",
+        "authorName": "Luis carlos",
+        "text": "Comigo",
+        "timestamp": 1788798522900
       }
     ],
     "120363426574906687@g.us": [
@@ -7746,7 +7770,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1504,
+    "120363023757382018@g.us": 1509,
     "120363426574906687@g.us": 104
   },
   "botDisabled": {
@@ -15068,6 +15092,36 @@
         "text": "O caps",
         "pushName": "Cristian Sntss",
         "timestamp": 1788798490231
+      },
+      "A5DAA47F9C7D6ABC0B023A778CEB18C3": {
+        "sender": "166452229341300@lid",
+        "text": "Bem vindo",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788798497945
+      },
+      "ACFA2DC923237DFDCC94ACFB2DA46E2E": {
+        "sender": "53537388122141@lid",
+        "text": "Tá puro suco do caps isso aqui",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788798503889
+      },
+      "AC34734A386C180A6A98F63C3A8F3715": {
+        "sender": "183137506173038@lid",
+        "text": "🤔🤔",
+        "pushName": "Luis carlos",
+        "timestamp": 1788798505453
+      },
+      "AC901A336760612210CEBD75DDDDE091": {
+        "sender": "118528279593092@lid",
+        "text": "Obrigado 🙂",
+        "pushName": "𝕰𝖛𝖆𝖓𝖉𝖗𝖔 𝕬𝖑𝖛𝖊𝖘",
+        "timestamp": 1788798510545
+      },
+      "AC727198297EAC11FF1052758A84DE30": {
+        "sender": "183137506173038@lid",
+        "text": "Comigo",
+        "pushName": "Luis carlos",
+        "timestamp": 1788798522900
       }
     },
     "120363426574906687@g.us": {
@@ -15558,7 +15612,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788798490240,
+    "120363023757382018@g.us": 1788798522900,
     "120363426574906687@g.us": 1788798298976
   },
   "autoAnimSent": {
