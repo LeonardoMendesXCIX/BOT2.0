@@ -4544,9 +4544,9 @@
         "total": 27
       },
       "92629643563147": {
-        "text": 28,
+        "text": 29,
         "media": 13,
-        "total": 41
+        "total": 42
       },
       "559984624669": {
         "text": 4,
@@ -4829,21 +4829,21 @@
         "total": 3
       },
       "126586225467454": {
-        "text": 1,
+        "text": 2,
         "media": 0,
-        "total": 1
+        "total": 2
       }
     },
     "120363426574906687@g.us": {
       "53537388122141": {
-        "text": 33,
-        "media": 0,
-        "total": 33
+        "text": 34,
+        "media": 1,
+        "total": 35
       },
       "166452229341300": {
-        "text": 16,
+        "text": 18,
         "media": 4,
-        "total": 20
+        "total": 22
       },
       "5511927018683": {
         "text": 16,
@@ -5697,7 +5697,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "Cristian Sntss: Essa sua tatuagem e o que ?",
         "Igor: Tudo bem com você oi bom dia",
         "Claudinho santos Claudinh: ❤️",
         "Gabi 💋: Bem e você ?",
@@ -6196,7 +6195,8 @@
         "Camila Designer: Por mais homens que sabem o que quer 🤣🤣🤣",
         "Cristian Sntss: Um conterrâneo",
         "Cristian Sntss: Bem vindo",
-        "John 😎: Alguém do Nordeste, Piauí, Maranhão ou Ceará?"
+        "John 😎: Alguém do Nordeste, Piauí, Maranhão ou Ceará?",
+        "Thawan: Pv pra quem quiser chamar"
       ]
     },
     "120363426574906687@g.us": {
@@ -6277,7 +6277,10 @@
         "Cristian Sntss: Só ta entrando homem",
         "Camila Designer: Muito bom kkk",
         "Cristian Sntss: Os feios são mais educados",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Pessoal, tem um indivíduo que saiu do grupo antes de eu remover\nPorém, invadiu Pv"
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Pessoal, tem um indivíduo que saiu do grupo antes de eu remover\nPorém, invadiu Pv",
+        "Cristian Sntss: Não viu o tom",
+        "Cristian Sntss: Quem?",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Mandei"
       ]
     }
   },
@@ -7093,6 +7096,12 @@
         "authorName": "John 😎",
         "text": "Alguém do Nordeste, Piauí, Maranhão ou Ceará?",
         "timestamp": 1788790754924
+      },
+      {
+        "authorNum": "126586225467454",
+        "authorName": "Thawan",
+        "text": "Pv pra quem quiser chamar",
+        "timestamp": 1788790767375
       }
     ],
     "120363426574906687@g.us": [
@@ -7263,6 +7272,24 @@
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "text": "Pessoal, tem um indivíduo que saiu do grupo antes de eu remover\nPorém, invadiu Pv",
         "timestamp": 1788790754768
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Não viu o tom",
+        "timestamp": 1788790762295
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Quem?",
+        "timestamp": 1788790777387
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Mandei",
+        "timestamp": 1788790782648
       }
     ]
   },
@@ -7286,8 +7313,8 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 38,
-    "120363023757382018@g.us": 895,
-    "120363426574906687@g.us": 76
+    "120363023757382018@g.us": 896,
+    "120363426574906687@g.us": 79
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -10845,6 +10872,12 @@
         "text": "Alguém do Nordeste, Piauí, Maranhão ou Ceará?",
         "pushName": "John 😎",
         "timestamp": 1788790754924
+      },
+      "3A2187963D69EFC5636B": {
+        "sender": "126586225467454@lid",
+        "text": "Pv pra quem quiser chamar",
+        "pushName": "Thawan",
+        "timestamp": 1788790767376
       }
     },
     "120363426574906687@g.us": {
@@ -11069,6 +11102,24 @@
         "text": "Pessoal, tem um indivíduo que saiu do grupo antes de eu remover\nPorém, invadiu Pv",
         "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "timestamp": 1788790754768
+      },
+      "A50C85A406752F9CC3B616A07D7C0A6E": {
+        "sender": "166452229341300@lid",
+        "text": "Não viu o tom",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788790762295
+      },
+      "A57EAA91C2674FAE3F2E22194DB77E0C": {
+        "sender": "166452229341300@lid",
+        "text": "Quem?",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788790777387
+      },
+      "AC9E06E5684B6679B0064D02FC96C865": {
+        "sender": "53537388122141@lid",
+        "text": "Mandei",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788790782648
       }
     }
   },
@@ -11164,8 +11215,8 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788790525725,
     "120363427545094619@g.us": 1788787787211,
-    "120363023757382018@g.us": 1788790754924,
-    "120363426574906687@g.us": 1788790754768
+    "120363023757382018@g.us": 1788790777597,
+    "120363426574906687@g.us": 1788790782648
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
