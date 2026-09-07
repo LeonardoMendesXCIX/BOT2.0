@@ -4477,9 +4477,9 @@
         "total": 34
       },
       "5511927018683": {
-        "text": 112,
+        "text": 115,
         "media": 10,
-        "total": 122
+        "total": 125
       },
       "166452229341300": {
         "text": 40,
@@ -13168,7 +13168,10 @@
         "P: kkkkk",
         "P: Pqp",
         "𝑳𝒂𝒚𝒉🌪🌚: N abriu",
-        "Leandro: Viu? @166452229341300"
+        "Leandro: Viu? @166452229341300",
+        "Leandro: !membroremov 🚫 {membro} já foi removido(a) antes. Não pode entrar novamente!",
+        "Leandro: !del",
+        "Leandro: !del"
       ]
     },
     "120363426574906687@g.us": {
@@ -13258,34 +13261,28 @@
     ],
     "120363023757382018@g.us": [
       {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "Bem vindooo",
-        "timestamp": 1788753956346
-      },
-      {
-        "authorNum": "254884934881353",
-        "authorName": "P",
-        "text": "kkkkk",
-        "timestamp": 1788754093681
-      },
-      {
-        "authorNum": "254884934881353",
-        "authorName": "P",
-        "text": "Pqp",
-        "timestamp": 1788754096176
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
-        "text": "N abriu",
-        "timestamp": 1788754132648
-      },
-      {
         "authorNum": "5511927018683",
         "authorName": "Leandro",
         "text": "Viu? @166452229341300",
         "timestamp": 1788755158081
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!membroremov 🚫 {membro} já foi removido(a) antes. Não pode entrar novamente!",
+        "timestamp": 1788755980381
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!del",
+        "timestamp": 1788755986133
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!del",
+        "timestamp": 1788755989723
       }
     ],
     "120363426574906687@g.us": []
@@ -13310,7 +13307,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 33,
-    "120363023757382018@g.us": 311,
+    "120363023757382018@g.us": 314,
     "120363426574906687@g.us": 36
   },
   "botDisabled": {
@@ -34064,6 +34061,24 @@
         "text": "Viu? @166452229341300",
         "pushName": "Leandro",
         "timestamp": 1788755158081
+      },
+      "AC42F5859336E7EA37CDC6531F617D36": {
+        "sender": "54259127210155@lid",
+        "text": "!membroremov 🚫 {membro} já foi removido(a) antes. Não pode entrar novamente!",
+        "pushName": "Leandro",
+        "timestamp": 1788755980381
+      },
+      "ACC3454299F36D769EBE1B74CF5BCB58": {
+        "sender": "54259127210155@lid",
+        "text": "!del",
+        "pushName": "Leandro",
+        "timestamp": 1788755986133
+      },
+      "AC1850E4797ACD3C54512513161F4702": {
+        "sender": "54259127210155@lid",
+        "text": "!del",
+        "pushName": "Leandro",
+        "timestamp": 1788755989723
       }
     },
     "120363426574906687@g.us": {
@@ -34371,7 +34386,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788753763433,
     "120363427545094619@g.us": 1788755502872,
-    "120363023757382018@g.us": 1788755338115,
+    "120363023757382018@g.us": 1788755989723,
     "120363426574906687@g.us": 1788725639102
   },
   "autoAnimSent": {
@@ -34456,7 +34471,14 @@
       "45479878459474"
     ]
   },
-  "removalMessages": {},
+  "removalMessages": {
+    "120363023757382018@g.us": {
+      "membroremov": "🚫 {membro} já foi removido(a) antes. Não pode entrar novamente!",
+      "timerban": "",
+      "zerotime": "",
+      "umminutoremov": ""
+    }
+  },
   "pendingMemberTimers": [],
   "maintenance": false,
   "pendingPresentations": [],
