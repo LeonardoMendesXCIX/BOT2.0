@@ -4592,9 +4592,9 @@
         "total": 1
       },
       "247020967165997": {
-        "text": 134,
+        "text": 135,
         "media": 17,
-        "total": 151
+        "total": 152
       },
       "206966404210884": {
         "text": 2,
@@ -4767,9 +4767,9 @@
         "total": 5
       },
       "152274357751809": {
-        "text": 115,
+        "text": 117,
         "media": 1,
-        "total": 116
+        "total": 118
       },
       "89305909317735": {
         "text": 1,
@@ -5252,6 +5252,11 @@
         "total": 1
       },
       "125211265527997": {
+        "text": 1,
+        "media": 0,
+        "total": 1
+      },
+      "106790234628250": {
         "text": 1,
         "media": 0,
         "total": 1
@@ -6138,9 +6143,6 @@
         "Dany: Eu tava escrevendo lá no outro grupo!"
       ],
       "07/09/2026": [
-        "M.m.a: 13 aninhos",
-        "Cristian Sntss: Trabalha com o q?",
-        "Thawan: Posso chamar pv?",
         "Cristian Sntss: !ban",
         "Heloisa: Deixa ele já pediu desculpas não precisa remover",
         "P: ??",
@@ -6637,7 +6639,10 @@
         "Fabrício Fernandes: Fiu fiu rsrs",
         "Francisco Silva: Modelo",
         "Luis Felipe: Linda vc em",
-        "Henrique Contri 🤫: Isso que é mulher 👏🏻"
+        "Henrique Contri 🤫: Isso que é mulher 👏🏻",
+        "Heloisa: Obrigada",
+        "Heloisa: Todas aqui do grupo são lindas",
+        "Gabi 💋: Conhece o Celso da escola instructiva"
       ]
     },
     "120363426574906687@g.us": {
@@ -6765,18 +6770,6 @@
     "120363313059060675@g.us": [],
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "Porq?? Kkkkk",
-        "timestamp": 1788796806097
-      },
-      {
-        "authorNum": "222595437858867",
-        "authorName": "Juliano Perlin",
-        "text": "Viu vai no pv",
-        "timestamp": 1788796820692
-      },
       {
         "authorNum": "166452229341300",
         "authorName": "Cristian Sntss",
@@ -7778,6 +7771,24 @@
         "authorName": "Henrique Contri 🤫",
         "text": "Isso que é mulher 👏🏻",
         "timestamp": 1788798596660
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Obrigada",
+        "timestamp": 1788798606276
+      },
+      {
+        "authorNum": "152274357751809",
+        "authorName": "Heloisa",
+        "text": "Todas aqui do grupo são lindas",
+        "timestamp": 1788798615951
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Conhece o Celso da escola instructiva",
+        "timestamp": 1788798626357
       }
     ],
     "120363426574906687@g.us": []
@@ -7802,7 +7813,7 @@
     "120363409367298221@g.us": 4,
     "120363313059060675@g.us": 476,
     "120363427545094619@g.us": 56,
-    "120363023757382018@g.us": 1518,
+    "120363023757382018@g.us": 1521,
     "120363426574906687@g.us": 104
   },
   "botDisabled": {
@@ -15208,6 +15219,24 @@
         "text": "Isso que é mulher 👏🏻",
         "pushName": "Henrique Contri 🤫",
         "timestamp": 1788798596660
+      },
+      "AC9DE47F4117ED32C0B48BAB48A01C39": {
+        "sender": "152274357751809@lid",
+        "text": "Obrigada",
+        "pushName": "Heloisa",
+        "timestamp": 1788798606276
+      },
+      "ACA378D2EFCF1C4C9B359501027BA58B": {
+        "sender": "152274357751809@lid",
+        "text": "Todas aqui do grupo são lindas",
+        "pushName": "Heloisa",
+        "timestamp": 1788798615952
+      },
+      "AC726DEF59DD2592EB116CB0AFFC67B0": {
+        "sender": "247020967165997@lid",
+        "text": "Conhece o Celso da escola instructiva",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788798626358
       }
     },
     "120363426574906687@g.us": {
@@ -15698,7 +15727,7 @@
     "120363409367298221@g.us": 1788158816417,
     "120363313059060675@g.us": 1788796348092,
     "120363427545094619@g.us": 1788795781488,
-    "120363023757382018@g.us": 1788798596660,
+    "120363023757382018@g.us": 1788798626357,
     "120363426574906687@g.us": 1788798298976
   },
   "autoAnimSent": {
