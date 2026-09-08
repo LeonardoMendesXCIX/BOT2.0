@@ -145,7 +145,6 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
         }
     }
     if (isGroup && storage.isBotDisabled(chatId)) {
-        if (text.startsWith('!')) console.log('[AVISO] Bot em modo !bot off no grupo ' + chatId);
         return;
     }
     if (['!cancelar', 'cancelar', 'sair', '!sair'].includes(textLower)) {
@@ -644,6 +643,15 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
         let arg = '';
         if (text.includes('+')) arg = text.slice(text.indexOf('+') + 1).trim().toLowerCase();
         else arg = text.slice(firstWord.length).trim().toLowerCase();
+        if (arg === '-') {
+            if (!storage.data.groupSchedules) storage.data.groupSchedules = {};
+            if (!storage.data.groupSchedules[chatId]) storage.data.groupSchedules[chatId] = { openTime: '', closeTime: '' };
+            if (firstWord === '!abrir') storage.data.groupSchedules[chatId].openTime = '';
+            else storage.data.groupSchedules[chatId].closeTime = '';
+            storage.flagSave();
+            await sock.sendMessage(chatId, { text: '🛑 Horário de ' + (firstWord === '!abrir' ? 'abertura' : 'fechamento') + ' resetado para NULO. Modo manual ativo (!abrir / !fechar ou configurações do grupo).' }, { quoted: msg });
+            return;
+        }
         if (arg === 'off') {
             if (!storage.data.groupSchedules) storage.data.groupSchedules = {};
             if (!storage.data.groupSchedules[chatId]) storage.data.groupSchedules[chatId] = { openTime: '', closeTime: '' };
@@ -925,6 +933,18 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
         storage.data.removalMsgs[chatId] = { text: customText, setBy: userId, date: new Date().toISOString() };
         storage.flagSave();
         await sock.sendMessage(chatId, { text: '✅ *Mensagem de remoção por admin definida:*\n\n' + customText }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!antifakestric') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        const userRole = parseInt(getUserRole(userId, storage.data.users));
+        if (userRole < 2) { await sock.sendMessage(chatId, { text: '❌ Apenas administradores.' }, { quoted: msg }); return; }
+        const arg = text.slice(firstWord.length).trim().toLowerCase();
+        const enable = arg !== 'off';
+        if (!storage.data.antifakeStrictLid) storage.data.antifakeStrictLid = {};
+        storage.data.antifakeStrictLid[chatId] = enable;
+        storage.flagSave();
+        await sock.sendMessage(chatId, { text: ' *Verificação estrita de LID:* ' + (enable ? 'ATIVADA (remove quem entra com número oculto).' : 'DESATIVADA (permite entrada com número oculto).') }, { quoted: msg });
         return;
     }
     if (['!inativos', '!fantasmas'].includes(firstWord)) {

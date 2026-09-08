@@ -143,7 +143,6 @@ export async function downloadMusicById(
     const MAX_RETRIES = 20;
 
     for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
-        console.log(`[MUSICA] Executando tentativa ${attempt}/${MAX_RETRIES} para "${title}"...`);
 
         try {
             // TENTATIVAS 1 A 7: yt-dlp Local com Diferentes Estratégias e Clientes Mobile/Web
@@ -178,7 +177,6 @@ export async function downloadMusicById(
                     const buf = fs.readFileSync(finalPath);
                     try { fs.unlinkSync(finalPath); } catch (e) {}
                     if (buf && buf.byteLength > 10000) {
-                        console.log(`[MUSICA SUCESSO] Áudio obtido na tentativa ${attempt}/${MAX_RETRIES} (${buf.byteLength} bytes).`);
                         return { title, artist, duration, buffer: buf, thumbnail: thumbBuffer, url: videoUrl };
                     }
                 }
@@ -224,7 +222,6 @@ export async function downloadMusicById(
                     });
 
                     if (streamRes.data && streamRes.data.byteLength > 10000) {
-                        console.log(`[MUSICA SUCESSO] Áudio obtido na tentativa ${attempt}/${MAX_RETRIES} (${streamRes.data.byteLength} bytes).`);
                         return { title, artist, duration, buffer: Buffer.from(streamRes.data), thumbnail: thumbBuffer, url: videoUrl };
                     }
                 }
@@ -240,7 +237,6 @@ export async function downloadMusicById(
                 if (matchHref) {
                     const fileRes = await axios.get(matchHref[1], { responseType: 'arraybuffer', timeout: 35000 });
                     if (fileRes.data && fileRes.data.byteLength > 10000) {
-                        console.log(`[MUSICA SUCESSO] Áudio obtido na tentativa ${attempt}/${MAX_RETRIES} (${fileRes.data.byteLength} bytes).`);
                         return { title, artist, duration, buffer: Buffer.from(fileRes.data), thumbnail: thumbBuffer, url: videoUrl };
                     }
                 }
@@ -252,7 +248,6 @@ export async function downloadMusicById(
                 if (dl && typeof dl === 'string' && dl.startsWith('http')) {
                     const streamRes = await axios.get(dl, { responseType: 'arraybuffer', timeout: 35000 });
                     if (streamRes.data && streamRes.data.byteLength > 10000) {
-                        console.log(`[MUSICA SUCESSO] Áudio obtido na tentativa ${attempt}/${MAX_RETRIES} (${streamRes.data.byteLength} bytes).`);
                         return { title, artist, duration, buffer: Buffer.from(streamRes.data), thumbnail: thumbBuffer, url: videoUrl };
                     }
                 }
@@ -264,7 +259,6 @@ export async function downloadMusicById(
                 if (dl && typeof dl === 'string' && dl.startsWith('http')) {
                     const streamRes = await axios.get(dl, { responseType: 'arraybuffer', timeout: 35000 });
                     if (streamRes.data && streamRes.data.byteLength > 10000) {
-                        console.log(`[MUSICA SUCESSO] Áudio obtido na tentativa ${attempt}/${MAX_RETRIES} (${streamRes.data.byteLength} bytes).`);
                         return { title, artist, duration, buffer: Buffer.from(streamRes.data), thumbnail: thumbBuffer, url: videoUrl };
                     }
                 }
@@ -276,7 +270,6 @@ export async function downloadMusicById(
                 if (dl && typeof dl === 'string' && dl.startsWith('http')) {
                     const streamRes = await axios.get(dl, { responseType: 'arraybuffer', timeout: 35000 });
                     if (streamRes.data && streamRes.data.byteLength > 10000) {
-                        console.log(`[MUSICA SUCESSO] Áudio obtido na tentativa ${attempt}/${MAX_RETRIES} (${streamRes.data.byteLength} bytes).`);
                         return { title, artist, duration, buffer: Buffer.from(streamRes.data), thumbnail: thumbBuffer, url: videoUrl };
                     }
                 }
@@ -298,13 +291,12 @@ export async function downloadMusicById(
                 if (audioFormat && audioFormat.url) {
                     const streamRes = await axios.get(audioFormat.url, { responseType: 'arraybuffer', timeout: 35000 });
                     if (streamRes.data && streamRes.data.byteLength > 10000) {
-                        console.log(`[MUSICA SUCESSO] Áudio obtido na tentativa ${attempt}/${MAX_RETRIES} (${streamRes.data.byteLength} bytes).`);
                         return { title, artist, duration, buffer: Buffer.from(streamRes.data), thumbnail: thumbBuffer, url: videoUrl };
                     }
                 }
             }
         } catch (errAttempt: any) {
-            console.log(`[MUSICA AVISO] Tentativa ${attempt}/${MAX_RETRIES} falhou:`, errAttempt.message || errAttempt);
+            console.error(`[MUSICA AVISO] Tentativa ${attempt}/${MAX_RETRIES} falhou:`, errAttempt.message || errAttempt);
         }
     }
 

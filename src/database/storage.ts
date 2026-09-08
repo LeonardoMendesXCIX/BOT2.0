@@ -71,6 +71,7 @@ export interface BotStorage {
     inativosMsgs: Record<string, { text: string; setBy?: string; date?: string }>;
     antilink: Record<string, boolean>;
     antifake: Record<string, boolean>;
+    antifakeStrictLid: Record<string, boolean>;
     antiflood: Record<string, boolean>;
     antinsfw: Record<string, boolean>;
     autoTranscribe: Record<string, boolean>;
@@ -120,6 +121,7 @@ export class StorageManager {
             inativosMsgs: {},
             antilink: {},
             antifake: {},
+            antifakeStrictLid: {},
             antiflood: {},
             antinsfw: {},
             autoTranscribe: {},
@@ -187,7 +189,6 @@ export class StorageManager {
     public shutdown(): void {
         try {
             this.saveSync();
-            console.log('[STORAGE] Dados salvos no encerramento.');
         } catch (e) { }
     }
 
@@ -221,7 +222,6 @@ export class StorageManager {
         }
 
         this.flagSave();
-        console.log('[STORAGE] Poda de dados concluída.');
     }
 
     public isBotDisabled(chatId: string): boolean {
@@ -368,7 +368,6 @@ export class StorageManager {
                     : 'Xiii, acho que o integrante ' + targetInfo.mention + ' fez algo de errado, pois foi removido!';
 
                 await sock.sendMessage(chatId, { text: removalText, mentions: [targetInfo.jid] });
-                console.log('[WARN AUTO-REMOVE] ' + targetInfo.nameAndNumber + ' removido após ' + currentWarns + ' advertências.');
             } catch (e: any) {
                 console.error('[ERRO AUTO-REMOVE WARN]', e.message);
             }

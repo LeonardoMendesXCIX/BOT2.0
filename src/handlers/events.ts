@@ -54,50 +54,23 @@ export function setupGroupEvents(sock: WASocket, storage: StorageManager): void 
                         }
                     }
 
-                    const rawNum = extractRawNumber(realJid);
                     const memberInfo = getUserInfo(realJid, memberPushName);
 
-                    const isLidJid = (newMemberId || '').endsWith('@lid') || (realJid || '').endsWith('@lid');
-                    const resolved = extractRawNumber(realJid);
-                    const effectiveNum = (realJid || '').endsWith('@s.whatsapp.net')
-                        ? resolved
-                        : (resolved && resolved.length <= 13 ? resolved : '');
-                    const isBrazilian = effectiveNum.startsWith('55') && (effectiveNum.length === 12 || effectiveNum.length === 13);
-                    const isForeign = !!effectiveNum && !isBrazilian;
-
                     const isAntiFakeActive = storage.data.antifake?.[chatId] === true || (!storage.isFeatureDisabled(chatId, 'antifake') && storage.data.antifake?.[chatId] !== false);
-
+                    const joinIsPn = (realJid || '').endsWith('@s.whatsapp.net');
+                    const pnDigits = joinIsPn ? extractRawNumber(realJid) : '';
+                    const isBr = pnDigits.startsWith('55') && (pnDigits.length === 12 || pnDigits.length === 13);
+                    const isForeign = joinIsPn && pnDigits !== '' && !isBr;
                     if (isAntiFakeActive && isForeign) {
                         try {
-                            const botNum = sock.user?.id?.split(':')[0].replace(/\D/g, '') || '';
-                            const botParticipant = groupMeta?.participants?.find(p => p.id.split('@')[0].replace(/\D/g, '') === botNum || ((p as any).lid && (p as any).lid.split('@')[0].replace(/\D/g, '') === botNum));
-                            const isBotAdmin = botParticipant?.admin === 'admin' || botParticipant?.admin === 'superadmin';
-
-                            if (isBotAdmin) {
-                                try {
-                                    await sock.groupParticipantsUpdate(chatId, [newMemberId], 'remove');
-                                } catch (e) {
-                                    await sock.groupParticipantsUpdate(chatId, [realJid], 'remove').catch(() => { });
-                                }
-
-                                const displayName = memberInfo.mention;
-                                const ddiDisplay = '+' + effectiveNum;
-
-                                await sock.sendMessage(chatId, {
-                                    text: '🛡️ *BOT DROPHTTP SECURITY (ANTI-FAKE / DDI)* 🛡️\n\n' +
-                                        '👤 *Infrator:* ' + displayName + '\n' +
-                                        '📱 *Identificação:* ' + ddiDisplay + '\n' +
-                                        '📝 *Motivo:* Entrada bloqueada por possuir DDI estrangeiro não autorizado (apenas números do Brasil +55 são permitidos).',
-                                    mentions: [memberInfo.jid]
-                                });
-                                console.log('[ANTI-FAKE] Número estrangeiro ' + newMemberId + ' (+' + effectiveNum + ') removido do grupo ' + chatId + '.');
+                            const botNumClean = (sock.user?.id || '').split(':')[0].replace(/\D/g, '');
+                            const botPart = groupMeta?.participants?.find((p: any) => ((p.id || '').split(':')[0].replace(/\D/g, '') === botNumClean));
+                            if (botPart?.admin === 'admin' || botPart?.admin === 'superadmin') {
+                                await sock.groupParticipantsUpdate(chatId, [newMemberId], 'remove').catch(() => {});
+                                await sock.sendMessage(chatId, { text: '🛡️ *ANTI-FAKE* 🛡️\n\n👤 *Removido:* ' + memberInfo.nameAndNumber + '\n📱 *DDI:* +' + pnDigits + '\n📝 *Motivo:* número estrangeiro (apenas +55).', mentions: [memberInfo.jid] });
                                 continue;
-                            } else {
-                                console.log('[ANTI-FAKE ALERTA] Número estrangeiro +' + rawNum + ' entrou no grupo ' + chatId + ', mas o bot precisa ser Administrador para removê-lo.');
                             }
-                        } catch (errKick: any) {
-                            console.error('[ERRO KICK ANTI-FAKE]', errKick.message);
-                        }
+                        } catch (e) { }
                     }
 
                     const isGroupActuallyClosed = groupMeta?.announce === true || storage.isGroupClosed(chatId);
@@ -108,7 +81,6 @@ export function setupGroupEvents(sock: WASocket, storage: StorageManager): void 
                             storage.data.queuedWelcomes[chatId].push(realJid);
                             storage.flagSave();
                         }
-                        console.log('[GRUPO FECHADO] Novo membro ' + memberInfo.nameAndNumber + ' guardado na fila para abertura.');
                         continue;
                     }
 
@@ -134,7 +106,6 @@ export function setupGroupEvents(sock: WASocket, storage: StorageManager): void 
                             : processedText + '\n\n👋 @' + numeroReal;
                         const allMentions = Array.from(new Set([memberMentionJid, memberInfo.jid, newMemberId, realJid])).filter(Boolean);
                         await sock.sendMessage(chatId, { text: finalMsg, mentions: allMentions });
-                        console.log('[SAUDAÇÃO ENVIADA] Mensagem enviada para ' + memberInfo.nameAndNumber + ' no grupo ' + chatId);
                     }
 
                     // LEMBRETE BV: agora 5 MINUTOS após a entrada
@@ -151,7 +122,6 @@ export function setupGroupEvents(sock: WASocket, storage: StorageManager): void 
                                 runAt: runAtTime
                             });
                             storage.flagSave();
-                            console.log('[LEMBRETE BV AGENDADO] Lembrete programado para daqui a 5min para ' + memberInfo.nameAndNumber);
                         }
                     }
                 }

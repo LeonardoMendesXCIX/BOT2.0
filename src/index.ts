@@ -22,6 +22,11 @@ import { getHHMM, isWithinWindow } from "./utils/time";
 
 process.env.TZ = "America/Sao_Paulo";
 const TIMEZONE = "America/Sao_Paulo";
+function greetingByHour(h: number): string {
+  if (h >= 5 && h < 12) return "BOM DIA";
+  if (h >= 12 && h < 18) return "BOA TARDE";
+  return "BOA NOITE";
+}
 const CREATOR_JID = "5511927018683@s.whatsapp.net";
 
 const originalConsoleError = console.error;
@@ -61,7 +66,7 @@ process.on("uncaughtException", (error: any) => {
   ) {
     return;
   }
-  console.log("[ERRO CRÍTICO] Exceção não tratada:", error?.message || error);
+  console.error("[ERRO CRÍTICO] Exceção não tratada:", error?.message || error);
 });
 
 const storage = new StorageManager();
@@ -70,6 +75,19 @@ let reconnectDelay = 3000;
 let lastDisconnectAt = 0;
 let downStartStr = "";
 let watchdogNotified = false;
+let lastProcessedMsg = Date.now();
+let lastBootAt = Date.now();
+let rebooting = false;
+const AUTO_REBOOT_MS = 0;
+
+async function doReboot(reason: string) {
+  if (rebooting) return;
+  rebooting = true;
+  console.log('[REBOOT] ' + reason);
+  try { (sockInstance as any)?.end?.(undefined); } catch (e) { }
+  sockInstance = null;
+  setTimeout(() => { rebooting = false; lastBootAt = Date.now(); startBot(); }, 2000);
+}
 
 // Banco de contatos próprio (substitui o makeInMemoryStore, que não existe nesta versão do Baileys)
 const contactsDB: Record<string, { name?: string; notify?: string }> = {};
@@ -160,7 +178,7 @@ cron.schedule(
             storage.setGroupClosed(chatId, false);
             await sockInstance.sendMessage(chatId, {
               text:
-                "🔓 *BOM DIA! PROTOCOLO BOT DROPHTTP DE ABERTURA:*\n\nO chat foi liberado para todos os membros conversarem conforme o horário programado (" +
+                "🔓 *" + greetingByHour(new Date().getHours()) + "! PROTOCOLO BOT DROPHTTP DE ABERTURA:*\n\nO chat foi liberado para todos os membros conversarem conforme o horário programado (" +
                 sched.openTime +
                 ").",
             });
@@ -178,7 +196,7 @@ cron.schedule(
             storage.setGroupClosed(chatId, true);
             await sockInstance.sendMessage(chatId, {
               text:
-                "🔒 *BOA NOITE! PROTOCOLO BOT DROPHTTP DE FECHAMENTO:*\n\nO chat foi fechado para descanso/manutenção conforme o horário programado (" +
+                "🔒 *" + greetingByHour(new Date().getHours()) + "! PROTOCOLO BOT DROPHTTP DE FECHAMENTO:*\n\nO chat foi fechado para descanso/manutenção conforme o horário programado (" +
                 sched.closeTime +
                 "). Apenas administradores podem enviar mensagens neste momento.",
             });
@@ -234,58 +252,6 @@ cron.schedule("*/5 * * * *", () => {
   storage.purgeExpiredClusters();
 });
 
-// ANTIFAKE AUTOMÁTICO: varredura a cada minuto
-setInterval(async () => {
-  if (!sockInstance) return;
-  const groupSet = new Set<string>([
-    ...Object.keys(storage.data.groupStats || {}),
-    ...Object.keys(storage.data.antifake || {}),
-    ...Object.keys(storage.data.antilink || {}),
-    ...Object.keys(storage.data.closedGroups || {}),
-    ...Object.keys(storage.data.groupSchedules || {}),
-    ...((storage.data.cache?.knownGroups as string[]) || [])
-  ]);
-  const botRaw = (sockInstance.user?.id || '').split(':')[0].replace(/\D/g, '');
-  for (const chatId of groupSet) {
-    try {
-      if (storage.isBotDisabled(chatId)) continue;
-      const antifakeOn = storage.data.antifake?.[chatId] === true ||
-        (!storage.isFeatureDisabled(chatId, 'antifake') && storage.data.antifake?.[chatId] !== false);
-      if (!antifakeOn) continue;
-      const meta = await sockInstance.groupMetadata(chatId).catch(() => null);
-      if (!meta) continue;
-      const me = meta.participants.find((p: any) => {
-        const pid = (p.id || '').split(':')[0].replace(/\D/g, '');
-        const plid = ((p as any).lid || '').split(':')[0].replace(/\D/g, '');
-        return pid === botRaw || plid === botRaw;
-      });
-      if (!me || !(me.admin === 'admin' || me.admin === 'superadmin')) {
-        console.log('[ANTIFAKE] Bot não é admin em ' + chatId + ' — impossível remover.');
-        continue;
-      }
-      for (const p of meta.participants) {
-        if (p.admin === 'admin' || p.admin === 'superadmin') continue;
-        const pResolved = extractRawNumber(p.id);
-        const pEffective = (p.id || '').endsWith('@s.whatsapp.net')
-          ? pResolved
-          : (pResolved && pResolved.length <= 13 ? pResolved : '');
-        if (!pEffective) continue;
-        const isBr = pEffective.startsWith('55') && (pEffective.length === 12 || pEffective.length === 13);
-        if (!isBr) {
-          await sockInstance.groupParticipantsUpdate(chatId, [p.id], 'remove').catch(() => {});
-          const info = getUserInfo(p.id);
-          await sockInstance.sendMessage(chatId, {
-            text: '🛡️ *ANTI-FAKE (VARREDURA)* 🛡️\n\n👤 *Removido:* ' + info.mention +
-              '\n📱 *DDI:* +' + pEffective + '\n📝 *Motivo:* número estrangeiro (apenas +55 permitido).',
-            mentions: [info.jid]
-          }).catch(() => {});
-          console.log('[ANTIFAKE AUTO] Removido +' + pEffective + ' do grupo ' + chatId);
-        }
-      }
-    } catch (e) {}
-  }
-}, 60000);
-
 setInterval(() => {
   if (lastDisconnectAt > 0) {
     const downMs = Date.now() - lastDisconnectAt;
@@ -298,6 +264,12 @@ setInterval(() => {
       );
     }
   }
+}, 60000);
+
+setInterval(() => {
+  const idle = Date.now() - lastProcessedMsg;
+  if (AUTO_REBOOT_MS > 0 && (Date.now() - lastBootAt) > AUTO_REBOOT_MS) { doReboot('auto-reboot programado'); return; }
+  if (idle > 5 * 60 * 1000 && sockInstance && !rebooting) { doReboot('watchdog: 5min sem processar'); }
 }, 60000);
 
 async function syncSchedulesOnBoot(sock: any) {
@@ -403,6 +375,8 @@ async function startBot() {
       }
     } else if (connection === "open") {
       reconnectDelay = 3000;
+      lastBootAt = Date.now();
+      lastProcessedMsg = Date.now();
       console.log("[SISTEMA] 🎉 BOT DROPHTTP conectado com sucesso!");
       if (storage.data.maintenance) {
         console.log(
@@ -433,14 +407,6 @@ async function startBot() {
         }
         watchdogNotified = false;
       }
-
-      try {
-        const all = await sock.groupFetchAllParticipating();
-        storage.data.cache = storage.data.cache || {};
-        storage.data.cache.knownGroups = Object.keys(all || {});
-        storage.flagSave();
-        console.log("[ANTIFAKE] " + storage.data.cache.knownGroups.length + " grupos mapeados para varredura.");
-      } catch (e) {}
 
       syncSchedulesOnBoot(sock);
     }
@@ -497,7 +463,7 @@ async function startBot() {
       const tsSec = typeof rawTs === 'number' ? rawTs : (rawTs?.low ?? rawTs?.toNumber?.() ?? 0);
       const msgTime = Number(tsSec) * 1000;
       if (msgTime && Date.now() - msgTime > 10 * 60 * 1000) continue;
-      try { await handleCommand(sock, msg, storage); }
+      try { lastProcessedMsg = Date.now(); await handleCommand(sock, msg, storage); }
       catch (err: any) { console.error('[ERRO PROCESSANDO MENSAGEM]', err.message); }
     }
   });
@@ -551,13 +517,6 @@ async function startBot() {
             );
 
             if (!isStillInGroup) {
-              console.log(
-                "[LEMBRETE BV CANCELADO] O membro +" +
-                  rawMemberNum +
-                  " não está mais no grupo " +
-                  chatId +
-                  ".",
-              );
               continue;
             }
 
@@ -589,12 +548,6 @@ async function startBot() {
               text: fullText,
               mentions: allMentions,
             });
-            console.log(
-              "[LEMBRETE BV ENVIADO] Lembrete disparado para " +
-                memberInfo.nameAndNumber +
-                " no grupo " +
-                chatId,
-            );
           }
         } catch (e: any) {
           console.error("[ERRO LEMBRETE BV]", e.message);
