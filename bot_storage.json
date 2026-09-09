@@ -4621,9 +4621,9 @@
         "total": 17
       },
       "5511927018683": {
-        "text": 87,
+        "text": 89,
         "media": 13,
-        "total": 100
+        "total": 102
       },
       "81991328395336": {
         "text": 36,
@@ -4663,9 +4663,9 @@
         "total": 666
       },
       "53537388122141": {
-        "text": 448,
-        "media": 71,
-        "total": 519
+        "text": 449,
+        "media": 72,
+        "total": 521
       },
       "129373172711439": {
         "text": 244,
@@ -4713,9 +4713,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 540,
-        "media": 262,
-        "total": 802
+        "text": 541,
+        "media": 263,
+        "total": 804
       },
       "559984624669": {
         "text": 23,
@@ -4753,9 +4753,9 @@
         "total": 3
       },
       "247020967165997": {
-        "text": 486,
+        "text": 488,
         "media": 37,
-        "total": 523
+        "total": 525
       },
       "206966404210884": {
         "text": 5,
@@ -7348,7 +7348,9 @@
         "Cristian Sntss: Tô pra cai de sono e ter q estender roupas tá sendo o castigo do mostro",
         "Leandro: Vou soltar uma atualização no bot hoje, aí vamos descobrir se é ela ou alguém que está mexendo nos adms",
         "Leandro: Não falei lá, por que só a gente vai saber disso",
-        "Cristian Sntss: Tá"
+        "Cristian Sntss: Tá",
+        "Leandro: Sabrina quer Deus e o mundo né?",
+        "Leandro: Estava com o Lailson, agora querendo o Lauan @81991328395336"
       ]
     },
     "120363023757382018@g.us": {
@@ -8792,7 +8794,10 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: De nada",
         "Leandro: !horariobot",
         "Leandro: !del",
-        "Camila Designer: @182738040713418 foi bom enquanto nosso relacionamento durou, mas o @166452229341300 roubou meu coração!🥺🥺🥺"
+        "Camila Designer: @182738040713418 foi bom enquanto nosso relacionamento durou, mas o @166452229341300 roubou meu coração!🥺🥺🥺",
+        "Camila Designer: Detalhe ainda nem começamos 🤣🤣🤣",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: A enquete foi pra que???",
+        "Gabi 💋: Pra nada"
       ]
     },
     "120363426574906687@g.us": {
@@ -9645,7 +9650,20 @@
       }
     ],
     "120363313059060675@g.us": [],
-    "120363427545094619@g.us": [],
+    "120363427545094619@g.us": [
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Sabrina quer Deus e o mundo né?",
+        "timestamp": 1788965911681
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Estava com o Lailson, agora querendo o Lauan @81991328395336",
+        "timestamp": 1788965928086
+      }
+    ],
     "120363023757382018@g.us": [
       {
         "authorNum": "5511927018683",
@@ -9868,6 +9886,24 @@
         "authorName": "Camila Designer",
         "text": "@182738040713418 foi bom enquanto nosso relacionamento durou, mas o @166452229341300 roubou meu coração!🥺🥺🥺",
         "timestamp": 1788965890570
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Detalhe ainda nem começamos 🤣🤣🤣",
+        "timestamp": 1788965908386
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "A enquete foi pra que???",
+        "timestamp": 1788965916467
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Pra nada",
+        "timestamp": 1788965926911
       }
     ],
     "120363426574906687@g.us": [],
@@ -9893,8 +9929,8 @@
     "120363411043114631@g.us": 20,
     "120363409367298221@g.us": 16,
     "120363313059060675@g.us": 1536,
-    "120363427545094619@g.us": 225,
-    "120363023757382018@g.us": 5057,
+    "120363427545094619@g.us": 227,
+    "120363023757382018@g.us": 5060,
     "120363426574906687@g.us": 195,
     "120363408512535081@g.us": 270,
     "120363427438126559@g.us": 321
@@ -10357,6 +10393,18 @@
         "text": "Tá",
         "pushName": "Cristian Sntss",
         "timestamp": 1788955889344
+      },
+      "AC97AB0226D4BD821FA9239A6F3747A6": {
+        "sender": "54259127210155@lid",
+        "text": "Sabrina quer Deus e o mundo né?",
+        "pushName": "Leandro",
+        "timestamp": 1788965911681
+      },
+      "AC557391C46AC9E7669451F35C42BB81": {
+        "sender": "54259127210155@lid",
+        "text": "Estava com o Lailson, agora querendo o Lauan @81991328395336",
+        "pushName": "Leandro",
+        "timestamp": 1788965928086
       }
     },
     "120363023757382018@g.us": {
@@ -11529,6 +11577,24 @@
         "text": "@182738040713418 foi bom enquanto nosso relacionamento durou, mas o @166452229341300 roubou meu coração!🥺🥺🥺",
         "pushName": "Camila Designer",
         "timestamp": 1788965890571
+      },
+      "2A4756072BF64BD267E9": {
+        "sender": "92629643563147@lid",
+        "text": "Detalhe ainda nem começamos 🤣🤣🤣",
+        "pushName": "Camila Designer",
+        "timestamp": 1788965908386
+      },
+      "AC0A22A2A8F021539B17473396BF5F13": {
+        "sender": "53537388122141@lid",
+        "text": "A enquete foi pra que???",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788965916467
+      },
+      "ACD5527803DD7856D8B7612B9EAFBEF5": {
+        "sender": "247020967165997@lid",
+        "text": "Pra nada",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788965926911
       }
     },
     "120363426574906687@g.us": {},
@@ -11636,8 +11702,8 @@
     "120363411043114631@g.us": 1787897464612,
     "120363409367298221@g.us": 1788965825075,
     "120363313059060675@g.us": 1788917641021,
-    "120363427545094619@g.us": 1788955889344,
-    "120363023757382018@g.us": 1788965890570,
+    "120363427545094619@g.us": 1788965928086,
+    "120363023757382018@g.us": 1788965926911,
     "120363426574906687@g.us": 1788915851825,
     "120363408512535081@g.us": 1788891006125,
     "120363427438126559@g.us": 1788948060865
