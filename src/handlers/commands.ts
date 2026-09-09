@@ -15,7 +15,9 @@ import { getUserInfo, updateLidMapping, extractRawNumber, UserDisplayInfo, lidMa
 import { generateNglCard } from '../services/nglCard';
 import { getHHMM, isWithinWindow } from '../utils/time';
 import axios from 'axios';
+import { searchYouTube, getAudioBuffer, getVideoBuffer } from '../services/ytDownloader';
 const userMessageHistory: Record<string, number[]> = {};
+const musicCooldowns: Record<string, number> = {};
 const aiCooldowns: Record<string, Record<string, number>> = {};
 const lastAdminResponse = new Map<string, number>();
 function levenshteinDistance(a: string, b: string): number {
@@ -1423,6 +1425,120 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
         await sock.sendMessage(chatId, { text: '✅ *DESPEDIDA CONFIGURADA*\n\n' + customText }, { quoted: msg });
         return;
     }
+    if (state && state.mode === 'music_selection') {
+        const num = parseInt(text.trim(), 10);
+        if (!isNaN(num) && num >= 1 && num <= (state.options?.length || 0)) {
+            const chosen = state.options[num - 1];
+            const mediaType = state.mediaType || 'audio';
+            delete storage.data.states[userId];
+            storage.flagSave();
+            await sock.sendMessage(chatId, { text: '⏳ *Baixando ' + (mediaType === 'audio' ? 'áudio' : 'vídeo') + ':* _' + chosen.title + '_\n\nAguarde alguns segundos...' }, { quoted: msg });
+            try {
+                if (mediaType === 'audio') {
+                    const buf = await getAudioBuffer(chosen.url);
+                    await sock.sendMessage(chatId, { audio: buf, mimetype: 'audio/mpeg', ptt: false });
+                } else {
+                    const buf = await getVideoBuffer(chosen.url);
+                    await sock.sendMessage(chatId, { video: buf, mimetype: 'video/mp4', caption: '🎬 ' + chosen.title });
+                }
+            } catch (e: any) {
+                console.error('[YT DOWNLOAD ERR]', e.message);
+                await sock.sendMessage(chatId, { text: '❌ Erro ao baixar. Tente outro número.' }, { quoted: msg });
+            }
+            return;
+        }
+    }
+    if (firstWord === '!botmusica') {
+        const subArg = text.slice(firstWord.length).trim().toLowerCase();
+        if (subArg === 'on' || subArg === 'off') {
+            if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+            const userRole = parseInt(getUserRole(userId, storage.data.users));
+            if (userRole < 2) { await sock.sendMessage(chatId, { text: '❌ Apenas administradores.' }, { quoted: msg }); return; }
+            storage.setMusicDisabled(chatId, subArg === 'off');
+            await sock.sendMessage(chatId, { text: subArg === 'on' ? '🎵 *Bot de Música LIGADO*' : '🔇 *Bot de Música DESLIGADO*' }, { quoted: msg });
+            return;
+        }
+        const off = storage.isMusicDisabled(chatId);
+        await sock.sendMessage(chatId, { text: '🎛️ *Bot de Música:* ' + (off ? '🔴 DESLIGADO' : '🟢 LIGADO') + '\n\n`!botmusica on` / `!botmusica off`' }, { quoted: msg });
+        return;
+    }
+    if (['!p', '!play', '!musica', '!v', '!video'].includes(firstWord)) {
+        if (storage.isMusicDisabled(chatId)) {
+            await sock.sendMessage(chatId, { text: '🔇 *Bot de Música DESLIGADO neste chat.*\nUse `!botmusica on` para reativar.' }, { quoted: msg });
+            return;
+        }
+        const lastUse = musicCooldowns[userId] || 0;
+        if (Date.now() - lastUse < 30000) {
+            const wait = Math.ceil((30000 - (Date.now() - lastUse)) / 1000);
+            await sock.sendMessage(chatId, { text: '⏳ Aguarde ' + wait + 's antes de baixar outra música.' }, { quoted: msg });
+            return;
+        }
+        let query = '';
+        if (text.includes('+')) query = text.slice(text.indexOf('+') + 1).trim();
+        else query = text.slice(firstWord.length).trim();
+        if (!query) {
+            await sock.sendMessage(chatId, { text: '⚠️ *Use:*\n`!p nome da música`\n`!v nome do vídeo`\n`!p https://youtube.com/watch?v=...`' }, { quoted: msg });
+            return;
+        }
+        const isVideo = ['!v', '!video'].includes(firstWord);
+        if (query.startsWith('http://') || query.startsWith('https://')) {
+            musicCooldowns[userId] = Date.now();
+            await sock.sendMessage(chatId, { text: '⏳ Baixando do link direto...' }, { quoted: msg });
+            try {
+                if (isVideo) {
+                    const buf = await getVideoBuffer(query);
+                    await sock.sendMessage(chatId, { video: buf, mimetype: 'video/mp4', caption: '🎬 Vídeo baixado com sucesso' });
+                } else {
+                    const buf = await getAudioBuffer(query);
+                    await sock.sendMessage(chatId, { audio: buf, mimetype: 'audio/mpeg', ptt: false });
+                }
+            } catch (e: any) {
+                await sock.sendMessage(chatId, { text: '❌ Erro: ' + (e.message || 'link inválido') }, { quoted: msg });
+            }
+            return;
+        }
+        try {
+            await sock.sendMessage(chatId, { text: '🔎 *Buscando no YouTube:* _' + query + '_...' }, { quoted: msg });
+            const results = await searchYouTube(query, 15);
+            if (!results || results.length === 0) {
+                await sock.sendMessage(chatId, { text: '❌ Nenhum resultado encontrado.' }, { quoted: msg });
+                return;
+            }
+            let menu = '🔎 *RESULTADOS (1-' + results.length + ')*\n📝 _' + query + '_\n\n';
+            const emojis = ['1️⃣','2️⃣','3️⃣','4️⃣','5️⃣','6️⃣','7️⃣','8️⃣','9️⃣','🔟','1️⃣1️⃣','1️⃣2️⃣','1️⃣3️⃣','1️⃣4️⃣','1️⃣5️⃣'];
+            results.forEach((r: any, i: number) => {
+                menu += (emojis[i] || '*' + (i + 1) + '*') + ' - ' + r.title + ' _(' + r.duration + ')_\n\n';
+            });
+            menu += '⏱️ *Responda com o NÚMERO (1-' + results.length + ') para baixar.*\n`!cancelar` para cancelar.';
+            storage.data.states[userId] = { mode: 'music_selection', options: results, mediaType: isVideo ? 'video' : 'audio', chatId: chatId };
+            storage.flagSave();
+            await sock.sendMessage(chatId, { text: menu }, { quoted: msg });
+        } catch (e: any) {
+            console.error('[YT SEARCH ERR]', e.message);
+            await sock.sendMessage(chatId, { text: '❌ Erro na busca do YouTube.' }, { quoted: msg });
+        }
+        return;
+    }
+    if (['!pp', '!playlist'].includes(firstWord)) {
+        if (storage.isMusicDisabled(chatId)) {
+            await sock.sendMessage(chatId, { text: '🔇 Bot de Música DESLIGADO.' }, { quoted: msg });
+            return;
+        }
+        const link = text.slice(firstWord.length).trim();
+        if (!link || !link.startsWith('http')) {
+            await sock.sendMessage(chatId, { text: '⚠️ Envie o link da playlist:\n`!pp https://youtube.com/playlist?list=...`' }, { quoted: msg });
+            return;
+        }
+        musicCooldowns[userId] = Date.now();
+        await sock.sendMessage(chatId, { text: '⏳ Processando primeira faixa da playlist...' }, { quoted: msg });
+        try {
+            const buf = await getAudioBuffer(link);
+            await sock.sendMessage(chatId, { audio: buf, mimetype: 'audio/mpeg', ptt: false });
+        } catch (e: any) {
+            await sock.sendMessage(chatId, { text: '❌ Erro ao processar playlist.' }, { quoted: msg });
+        }
+        return;
+    }
     if (textLower === '!ajuda') {
         const userRole = parseInt(getUserRole(userId, storage.data.users));
         const isAdmin = userRole >= 2;
@@ -1439,6 +1555,11 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
         menu += '`!s` `!s2img` - Figurinhas\n';
         menu += '`!wiki` `!rank`\n';
         menu += '`!enquete Pergunta | Op1 | Op2`\n\n';
+        menu += '*🎵 MÚSICA*\n';
+        menu += '`!p [nome]` - Buscar música\n';
+        menu += '`!v [nome]` - Buscar vídeo\n';
+        menu += '`!pp [link]` - Playlist\n';
+        if (isAdmin) menu += '`!botmusica on/off`\n\n';
         menu += '*📰 UTIL*\n';
         menu += '`!n` `!h` `!t` `!f`\n';
         menu += '`!regras` `!id`';

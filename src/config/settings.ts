@@ -138,7 +138,15 @@ export const FEATURE_MAP: Record<string, string> = {
     '!ban': 'ban',
     '!kick': 'ban',
     '!admins': 'admins',
-    '!adms': 'admins'
+    '!adms': 'admins',
+    '!p': 'musica',
+    '!play': 'musica',
+    '!musica': 'musica',
+    '!v': 'musica',
+    '!video': 'musica',
+    '!pp': 'musica',
+    '!playlist': 'musica',
+    '!botmusica': 'botmusica'
 };
 
 export const FEATURE_NAMES: Record<string, string> = {
@@ -184,5 +192,7 @@ export const FEATURE_NAMES: Record<string, string> = {
     ma: '⏰ Mensagens Automáticas (!ma)',
     fechar_abrir: '🔒 Trancar/Abrir Grupo & Horários (!fechar / !abrir)',
     ban: '🔨 Remoção de Membros (!ban / !kick)',
-    admins: '👑 Identificação de Administradores (!admins)'
+    admins: '👑 Identificação de Administradores (!admins)',
+    musica: '🎵 Download de Músicas e Vídeos (!p !v !pp)',
+    botmusica: '🎛️ Controle Bot de Música (!botmusica on/off)'
 };

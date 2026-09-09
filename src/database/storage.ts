@@ -59,6 +59,7 @@ export interface BotStorage {
     lastJarvisIntervention: Record<string, number>;
     messageCountSinceLastJarvis: Record<string, number>;
     botDisabled: Record<string, boolean>;
+    botMusicDisabled: Record<string, boolean>;
     closedGroups: Record<string, boolean>;
     queuedWelcomes: Record<string, string[]>;
     promoSchedule: Record<string, PromoSchedule>;
@@ -109,6 +110,7 @@ export class StorageManager {
             lastJarvisIntervention: {},
             messageCountSinceLastJarvis: {},
             botDisabled: {},
+            botMusicDisabled: {},
             closedGroups: {},
             queuedWelcomes: {},
             promoSchedule: {},
@@ -232,6 +234,16 @@ export class StorageManager {
     public setBotDisabled(chatId: string, disabled: boolean): void {
         if (!this.data.botDisabled) this.data.botDisabled = {};
         this.data.botDisabled[chatId] = disabled;
+        this.flagSave();
+    }
+
+    public isMusicDisabled(chatId: string): boolean {
+        return this.data.botMusicDisabled?.[chatId] === true;
+    }
+
+    public setMusicDisabled(chatId: string, disabled: boolean): void {
+        if (!this.data.botMusicDisabled) this.data.botMusicDisabled = {};
+        this.data.botMusicDisabled[chatId] = disabled;
         this.flagSave();
     }
 
