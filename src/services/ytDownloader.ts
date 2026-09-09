@@ -6,358 +6,178 @@ import fs from 'fs';
 import path from 'path';
 import axios from 'axios';
 
-ffmpeg.setFfmpegPath(ffmpegStatic as string);
+ffmpeg.setFfmpegPath(ffmpegStatic || 'ffmpeg');
 
 const TEMP_DIR = path.join(__dirname, '..', '..', 'temp');
 if (!fs.existsSync(TEMP_DIR)) fs.mkdirSync(TEMP_DIR, { recursive: true });
 
 setInterval(() => {
+    const now = Date.now();
     try {
-        const now = Date.now();
-        for (const f of fs.readdirSync(TEMP_DIR)) {
-            const fp = path.join(TEMP_DIR, f);
-            const st = fs.statSync(fp);
-            if (now - st.mtimeMs > 10 * 60 * 1000) fs.unlinkSync(fp);
-        }
+        fs.readdirSync(TEMP_DIR).forEach(f => {
+            try {
+                const fp = path.join(TEMP_DIR, f);
+                if (now - fs.statSync(fp).mtimeMs > 10 * 60 * 1000) fs.unlinkSync(fp);
+            } catch (e) { }
+        });
     } catch (e) { }
 }, 5 * 60 * 1000);
 
-const INVIDIOUS = [
-    'https://inv.nadeko.net',
-    'https://invidious.fdn.fr',
-    'https://inv.tux.pizza',
-    'https://invidious.nerdvpn.de',
-    'https://vid.puffyan.us'
-];
-
-const PIPED = [
-    'https://piped.video',
-    'https://piped.adminforge.de',
-    'https://piped.projectsegfau.lt'
-];
-
-const COBALT = [
-    'https://cobalt.tools/',
-    'https://co.wuk.sh/api/json',
-    'https://api.cobalt.tools/'
-];
-
-const USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36';
-
-function safeJson<T>(value: any, fallback: T): T { try { return value ?? fallback; } catch { return fallback; } }
-
-function buildResult(v: any) {
-    return {
-        title: v?.title || 'YouTube',
-        url: v?.url || v?.link || '',
-        videoId: v?.videoId || v?.id || '',
-        duration: v?.duration?.timestamp || v?.duration || '0:00',
-        seconds: Number(v?.seconds ?? 0),
-        thumbnail: v?.thumbnail || v?.image || '',
-        author: v?.author?.name || v?.channel || ''
-    };
+export interface SearchResult {
+    title: string; url: string; videoId: string;
+    duration: string; seconds: number; thumbnail: string; author: string;
 }
+interface StrategyResult<T> { success: boolean; data?: T; error?: string; strategyName: string; }
+type Strategy<T> = () => Promise<StrategyResult<T>>;
 
-async function fetchHtml(url: string): Promise<string> {
-    const { data } = await axios.get(url, { headers: { 'User-Agent': USER_AGENT }, timeout: 15000 });
-    return String(data || '');
-}
-
-async function searchYtSearch(query: string, limit: number): Promise<any[]> {
-    const res = await yts(query);
-    const items = (res?.videos || []).slice(0, limit).map(buildResult);
-    return items;
-}
-
-async function searchInvidious(query: string, limit: number): Promise<any[]> {
-    for (const base of INVIDIOUS) {
-        try {
-            const url = `${base}/api/v1/search?q=${encodeURIComponent(query)}&type=video&region=BR&hl=pt-BR&safeSearch=0`;
-            const { data } = await axios.get(url, { headers: { 'User-Agent': USER_AGENT }, timeout: 15000 });
-            const arr = Array.isArray(data) ? data : [];
-            const items = arr.slice(0, limit).map((v: any) => buildResult({
-                title: v.title,
-                url: v.videoId ? `https://www.youtube.com/watch?v=${v.videoId}` : v.url,
-                videoId: v.videoId,
-                duration: v.lengthSeconds ? `${Math.floor(Number(v.lengthSeconds) / 60)}:${String(Number(v.lengthSeconds) % 60).padStart(2, '0')}` : '0:00',
-                seconds: Number(v.lengthSeconds || 0),
-                thumbnail: v.videoThumbnails?.[0]?.url || v.thumbnail || '',
-                author: v.author?.name || v.author || ''
-            }));
-            if (items.length) return items;
-        } catch (e) { }
-    }
-    return [];
-}
-
-async function searchPiped(query: string, limit: number): Promise<any[]> {
-    for (const base of PIPED) {
-        try {
-            const url = `${base}/search?q=${encodeURIComponent(query)}&filter=videos`;
-            const { data } = await axios.get(url, { headers: { 'User-Agent': USER_AGENT }, timeout: 15000 });
-            const arr = Array.isArray(data) ? data : [];
-            const items = arr.slice(0, limit).map((v: any) => buildResult({
-                title: v.title,
-                url: v.url || `https://www.youtube.com/watch?v=${v.id}`,
-                videoId: v.url ? (v.url.match(/[?&]v=([^&]+)/)?.[1] || v.id) : v.id,
-                duration: v.duration ?? '0:00',
-                seconds: Number(v.duration && typeof v.duration === 'number' ? v.duration : 0),
-                thumbnail: v.thumbnail || '',
-                author: v.uploaderName || ''
-            }));
-            if (items.length) return items;
-        } catch (e) { }
-    }
-    return [];
-}
-
-async function searchDuckDuckGo(query: string, limit: number): Promise<any[]> {
-    try {
-        const html = await fetchHtml(`https://duckduckgo.com/html/?q=${encodeURIComponent(query + ' youtube')}`);
-        const matches = [...html.matchAll(/<a rel="nofollow" class="result-link" href="(.*?)".*?>(.*?)<\/a>/gi)];
-        const out: any[] = [];
-        for (const m of matches) {
-            const href = m[1];
-            const title = (m[2] || '').replace(/<.*?>/g, '').trim();
-            const yt = href.match(/(?:v=|be\/)([A-Za-z0-9_-]{11})/);
-            if (title && yt) {
-                out.push(buildResult({ title, url: href, videoId: yt[1], duration: '0:00', seconds: 0, thumbnail: '', author: '' }));
-                if (out.length >= limit) break;
-            }
-        }
-        return out;
-    } catch (e) {
-        return [];
-    }
-}
-
-export async function searchYouTube(query: string, limit = 15): Promise<any[]> {
-    const strategies = [
-        () => searchYtSearch(query, limit),
-        () => searchInvidious(query, limit),
-        () => searchInvidious(query, limit),
-        () => searchInvidious(query, limit),
-        () => searchInvidious(query, limit),
-        () => searchPiped(query, limit),
-        () => searchPiped(query, limit),
-        () => searchPiped(query, limit),
-        () => searchDuckDuckGo(query, limit),
-    ];
-
+async function tryStrategies<T>(name: string, strategies: Strategy<T>[]): Promise<T> {
+    let lastError = 'todas as estratégias falharam';
     for (let i = 0; i < strategies.length; i++) {
         try {
-            const result = await strategies[i]();
-            if (Array.isArray(result) && result.length > 0) {
-                console.log(`[SEARCH] estratégia ${i + 1} resolveu: ${query}`);
-                return result.slice(0, limit);
+            const r = await strategies[i]();
+            if (r.success && r.data) {
+                console.log('[YT ' + name + '] ✅ estratégia ' + (i + 1) + '/' + strategies.length + ': ' + r.strategyName);
+                return r.data;
             }
-        } catch (e) { }
+            lastError = r.error || 'falha';
+        } catch (e: any) { lastError = e?.message || 'erro'; }
     }
-    return [];
+    throw new Error(name + ': ' + lastError);
 }
 
-async function directYTDownload(url: string, audio: boolean): Promise<Buffer> {
-    const stream = ytdl(url, { quality: audio ? 'highestaudio' : 'highestvideo', filter: audio ? 'audioonly' : 'videoandaudio' as any });
-    const out = path.join(TEMP_DIR, `${audio ? 'a' : 'v'}_${Date.now()}.tmp`);
-    return await new Promise((resolve, reject) => {
-        ffmpeg(stream)
-            .audioBitrate(audio ? 128 : undefined)
-            .toFormat(audio ? 'mp3' : 'mp4')
-            .on('end', () => {
-                try { const buf = fs.readFileSync(out); resolve(buf); }
-                catch (e) { reject(e as Error); }
-            })
-            .on('error', (err: Error) => reject(err))
-            .save(out);
-    });
+const INVIDIOUS = ['https://yewtu.be', 'https://vid.puffyan.us', 'https://invidious.privacyredirect.com', 'https://inv.nadeko.net'];
+const PIPED = ['https://pipedapi.kavin.rocks', 'https://pipedapi.adminforge.de', 'https://api.piped.private.coffee'];
+
+// ============ BUSCA (10 estratégias) ============
+export async function searchYouTube(query: string, limit = 15): Promise<SearchResult[]> {
+    const mapYts = (r: any) => r.videos.slice(0, limit).map((v: any) => ({
+        title: v.title, url: v.url, videoId: v.videoId,
+        duration: v.duration?.timestamp || '?:??', seconds: v.seconds || 0,
+        thumbnail: v.thumbnail || '', author: v.author?.name || ''
+    }));
+    const strategies: Strategy<SearchResult[]>[] = [
+        async () => { const r = await yts({ query, pages: 1 }); return { success: r.videos.length > 0, data: mapYts(r), strategyName: 'yt-search' }; },
+        async () => { const r = await yts({ query, pages: 2 }); return { success: r.videos.length > 0, data: mapYts(r), strategyName: 'yt-search 2p' }; },
+        ...INVIDIOUS.map(inst => async (): Promise<StrategyResult<SearchResult[]>> => {
+            const res = await axios.get(inst + '/api/v1/search', { params: { q: query, type: 'video' }, timeout: 8000 });
+            const items = (res.data || []).slice(0, limit);
+            return { success: items.length > 0, data: items.map((v: any) => ({ title: v.title, url: 'https://www.youtube.com/watch?v=' + v.videoId, videoId: v.videoId, duration: Math.floor((v.lengthSeconds || 0) / 60) + ':' + String((v.lengthSeconds || 0) % 60).padStart(2, '0'), seconds: v.lengthSeconds || 0, thumbnail: v.videoThumbnails?.[0]?.url || '', author: v.author || '' })), strategyName: 'Invidious ' + inst };
+        }),
+        ...PIPED.map(inst => async (): Promise<StrategyResult<SearchResult[]>> => {
+            const res = await axios.get(inst + '/search', { params: { q: query, filter: 'videos' }, timeout: 8000 });
+            const items = (res.data?.items || []).slice(0, limit);
+            return { success: items.length > 0, data: items.map((v: any) => ({ title: v.title, url: 'https://www.youtube.com' + (v.url || ''), videoId: (v.url || '').replace('/watch?v=', ''), duration: Math.floor((v.duration || 0) / 60) + ':' + String((v.duration || 0) % 60).padStart(2, '0'), seconds: v.duration || 0, thumbnail: v.thumbnail || '', author: v.uploaderName || '' })), strategyName: 'Piped ' + inst };
+        }),
+        async () => {
+            const res = await axios.get('https://html.duckduckgo.com/html/', { params: { q: query + ' youtube' }, timeout: 6000, headers: { 'User-Agent': 'Mozilla/5.0' } });
+            const m = String(res.data).match(/v=([a-zA-Z0-9_-]{11})/);
+            if (!m) return { success: false, strategyName: 'DuckDuckGo' };
+            return { success: true, data: [{ title: query, url: 'https://www.youtube.com/watch?v=' + m[1], videoId: m[1], duration: '?:??', seconds: 0, thumbnail: '', author: 'YouTube' }], strategyName: 'DuckDuckGo' };
+        }
+    ];
+    return tryStrategies('BUSCA', strategies);
 }
 
-async function getAudioFromInvidious(url: string): Promise<Buffer> {
-    const videoId = ytdl.getVideoID(url);
-    for (const base of INVIDIOUS) {
-        try {
-            const info = await axios.get(`${base}/api/v1/videos/${videoId}`, { headers: { 'User-Agent': USER_AGENT }, timeout: 15000 });
-            const formats = info.data?.adaptiveFormats || info.data?.formatStreams || [];
-            const candidate = formats.find((f: any) => (f.type || '').includes('audio') || (f.mimeType || '').includes('audio')) || formats[0];
-            if (candidate?.url) {
-                const data = await axios.get(candidate.url, { responseType: 'arraybuffer', timeout: 35000, headers: { 'User-Agent': USER_AGENT } });
-                return Buffer.from(data.data);
-            }
-        } catch (e) { }
+// ============ HELPERS ============
+async function ytBuf(url: string, opts: ytdl.downloadOptions, name: string): Promise<StrategyResult<Buffer>> {
+    try {
+        const chunks: Buffer[] = [];
+        await new Promise<void>((res, rej) => {
+            ytdl(url, opts).on('data', c => chunks.push(c)).on('end', () => res()).on('error', rej);
+        });
+        const buf = Buffer.concat(chunks);
+        return buf.length > 5000 ? { success: true, data: buf, strategyName: name } : { success: false, strategyName: name, error: 'muito pequeno' };
+    } catch (e: any) { return { success: false, strategyName: name, error: e.message }; }
+}
+
+async function toMp3(input: Buffer, bitrate: string): Promise<Buffer> {
+    const inP = path.join(TEMP_DIR, 'in_' + Date.now() + '_' + Math.random().toString(36).slice(2, 7));
+    const outP = inP + '.mp3';
+    fs.writeFileSync(inP, input);
+    try {
+        await new Promise<void>((res, rej) => ffmpeg(inP).audioCodec('libmp3lame').audioBitrate(bitrate).toFormat('mp3').on('end', () => res()).on('error', rej).save(outP));
+        return fs.readFileSync(outP);
+    } finally {
+        try { fs.unlinkSync(inP); } catch (e) { }
+        try { fs.unlinkSync(outP); } catch (e) { }
     }
-    throw new Error('Invidious audio fallback falhou');
 }
 
-async function getAudioFromPiped(url: string): Promise<Buffer> {
-    const videoId = ytdl.getVideoID(url);
-    for (const base of PIPED) {
-        try {
-            const { data } = await axios.get(`${base}/streams/${videoId}`, { headers: { 'User-Agent': USER_AGENT }, timeout: 15000 });
-            const candidate = data?.audioStreams?.find((s: any) => s?.url) || data?.audioStreams?.[0];
-            if (candidate?.url) {
-                const res = await axios.get(candidate.url, { responseType: 'arraybuffer', timeout: 35000, headers: { 'User-Agent': USER_AGENT } });
-                return Buffer.from(res.data);
-            }
-        } catch (e) { }
-    }
-    throw new Error('Piped audio fallback falhou');
+async function invidiousStream(url: string, inst: string, kind: 'audio' | 'video'): Promise<StrategyResult<Buffer>> {
+    try {
+        const id = ytdl.getVideoID(url);
+        const api = await axios.get(inst + '/api/v1/videos/' + id, { timeout: 10000 });
+        const list = kind === 'audio' ? (api.data?.adaptiveFormats || []).filter((f: any) => (f.type || '').startsWith('audio/')) : (api.data?.formatStreams || []);
+        const chosen = list[0];
+        if (!chosen?.url) return { success: false, strategyName: 'Invidious ' + kind + ' ' + inst, error: 'sem url' };
+        const dl = await axios.get(chosen.url, { responseType: 'arraybuffer', timeout: 60000 });
+        return { success: true, data: Buffer.from(dl.data), strategyName: 'Invidious ' + kind + ' ' + inst };
+    } catch (e: any) { return { success: false, strategyName: 'Invidious ' + kind + ' ' + inst, error: e.message }; }
 }
 
-async function getAudioFromCobalt(url: string): Promise<Buffer> {
-    const videoId = ytdl.getVideoID(url);
-    for (const host of COBALT) {
-        try {
-            const request = host.includes('/api/json')
-                ? `${host}?url=${encodeURIComponent(url)}&vQuality=720p&format=mp3&aFormat=mp3`
-                : `${host}api/json?url=${encodeURIComponent(url)}&vQuality=720p&format=mp3&aFormat=mp3`;
-            const { data } = await axios.get(request, { headers: { 'User-Agent': USER_AGENT }, timeout: 20000 });
-            const dl = data?.url || data?.streamUrl || data?.output?.url || (data?.url && data.url[0]);
-            if (dl && typeof dl === 'string') {
-                const res = await axios.get(dl, { responseType: 'arraybuffer', timeout: 35000, headers: { 'User-Agent': USER_AGENT } });
-                return Buffer.from(res.data);
-            }
-        } catch (e) { }
-    }
-    throw new Error('Cobalt audio fallback falhou');
+async function pipedStream(url: string, inst: string, kind: 'audio' | 'video'): Promise<StrategyResult<Buffer>> {
+    try {
+        const id = ytdl.getVideoID(url);
+        const api = await axios.get(inst + '/streams/' + id, { timeout: 10000 });
+        const list = kind === 'audio' ? (api.data?.audioStreams || []) : (api.data?.videoStreams || []);
+        const chosen = list[0];
+        if (!chosen?.url) return { success: false, strategyName: 'Piped ' + kind + ' ' + inst, error: 'sem url' };
+        const dl = await axios.get(chosen.url, { responseType: 'arraybuffer', timeout: 60000 });
+        return { success: true, data: Buffer.from(dl.data), strategyName: 'Piped ' + kind + ' ' + inst };
+    } catch (e: any) { return { success: false, strategyName: 'Piped ' + kind + ' ' + inst, error: e.message }; }
 }
 
-async function getVideoFromInvidious(url: string): Promise<Buffer> {
-    const videoId = ytdl.getVideoID(url);
-    for (const base of INVIDIOUS) {
-        try {
-            const info = await axios.get(`${base}/api/v1/videos/${videoId}`, { headers: { 'User-Agent': USER_AGENT }, timeout: 15000 });
-            const formats = info.data?.formatStreams || [];
-            const cand = formats.find((f: any) => (f.type || '').includes('video') && f.url) || formats[0];
-            if (cand?.url) {
-                const res = await axios.get(cand.url, { responseType: 'arraybuffer', timeout: 35000, headers: { 'User-Agent': USER_AGENT } });
-                return Buffer.from(res.data);
-            }
-        } catch (e) { }
-    }
-    throw new Error('Invidious video fallback falhou');
+async function cobalt(url: string, audio: boolean): Promise<StrategyResult<Buffer>> {
+    try {
+        const res = await axios.post('https://api.cobalt.tools/api/json', { url, isAudioOnly: audio }, { headers: { Accept: 'application/json', 'Content-Type': 'application/json' }, timeout: 15000 });
+        if (!res.data?.url) return { success: false, strategyName: 'Cobalt', error: 'sem url' };
+        const dl = await axios.get(res.data.url, { responseType: 'arraybuffer', timeout: 60000 });
+        return { success: true, data: Buffer.from(dl.data), strategyName: 'Cobalt' };
+    } catch (e: any) { return { success: false, strategyName: 'Cobalt', error: e.message }; }
 }
 
-async function getVideoFromPiped(url: string): Promise<Buffer> {
-    const videoId = ytdl.getVideoID(url);
-    for (const base of PIPED) {
-        try {
-            const { data } = await axios.get(`${base}/streams/${videoId}`, { headers: { 'User-Agent': USER_AGENT }, timeout: 15000 });
-            const candidate = data?.videoStreams?.find((s: any) => s?.url) || data?.videoStreams?.[0];
-            if (candidate?.url) {
-                const res = await axios.get(candidate.url, { responseType: 'arraybuffer', timeout: 35000, headers: { 'User-Agent': USER_AGENT } });
-                return Buffer.from(res.data);
-            }
-        } catch (e) { }
-    }
-    throw new Error('Piped video fallback falhou');
-}
-
-async function getVideoFromCobalt(url: string): Promise<Buffer> {
-    for (const host of COBALT) {
-        try {
-            const request = host.includes('/api/json')
-                ? `${host}?url=${encodeURIComponent(url)}&vQuality=720p&format=mp4&aFormat=mp3`
-                : `${host}api/json?url=${encodeURIComponent(url)}&vQuality=720p&format=mp4&aFormat=mp3`;
-            const { data } = await axios.get(request, { headers: { 'User-Agent': USER_AGENT }, timeout: 20000 });
-            const dl = data?.url || data?.streamUrl || data?.output?.url || (data?.url && data.url[0]);
-            if (dl && typeof dl === 'string') {
-                const res = await axios.get(dl, { responseType: 'arraybuffer', timeout: 35000, headers: { 'User-Agent': USER_AGENT } });
-                return Buffer.from(res.data);
-            }
-        } catch (e) { }
-    }
-    throw new Error('Cobalt video fallback falhou');
-}
-
-function makeTempPath(prefix: string): string { return path.join(TEMP_DIR, `${prefix}_${Date.now()}_${Math.random().toString(16).slice(2)}.bin`); }
-
-export async function downloadAudio(url: string): Promise<string> {
-    const outPath = makeTempPath('a');
-    const stream = ytdl(url, { quality: 'highestaudio', filter: 'audioonly' });
-    await new Promise<void>((resolve, reject) => {
-        ffmpeg(stream)
-            .audioBitrate(128)
-            .toFormat('mp3')
-            .on('end', () => resolve())
-            .on('error', (err: Error) => reject(err))
-            .save(outPath);
-    });
-    return outPath;
-}
-
-export async function downloadVideo(url: string): Promise<string> {
-    const outPath = makeTempPath('v');
-    const stream = ytdl(url, { quality: 'highestvideo' });
-    await new Promise<void>((resolve, reject) => {
-        ffmpeg(stream)
-            .videoCodec('libx264')
-            .audioCodec('aac')
-            .format('mp4')
-            .on('end', () => resolve())
-            .on('error', (err: Error) => reject(err))
-            .save(outPath);
-    });
-    return outPath;
-}
-
+// ============ ÁUDIO (15 estratégias) ============
 export async function getAudioBuffer(url: string): Promise<Buffer> {
-    const strategies = [
-        { name: 'ytdl', fn: async () => { const fp = await downloadAudio(url); const buf = fs.readFileSync(fp); fs.unlinkSync(fp); return buf; } },
-        { name: 'invidious_1', fn: async () => getAudioFromInvidious(url) },
-        { name: 'invidious_2', fn: async () => getAudioFromInvidious(url) },
-        { name: 'invidious_3', fn: async () => getAudioFromInvidious(url) },
-        { name: 'invidious_4', fn: async () => getAudioFromInvidious(url) },
-        { name: 'piped_1', fn: async () => getAudioFromPiped(url) },
-        { name: 'piped_2', fn: async () => getAudioFromPiped(url) },
-        { name: 'piped_3', fn: async () => getAudioFromPiped(url) },
-        { name: 'cobalt_1', fn: async () => getAudioFromCobalt(url) },
-        { name: 'cobalt_2', fn: async () => getAudioFromCobalt(url) },
-        { name: 'cobalt_3', fn: async () => getAudioFromCobalt(url) },
-        { name: 'invidious_direct_1', fn: async () => getAudioFromInvidious(url) },
-        { name: 'piped_direct_1', fn: async () => getAudioFromPiped(url) },
-        { name: 'cobalt_direct_1', fn: async () => getAudioFromCobalt(url) },
-        { name: 'ytdl_fallback', fn: async () => { const fp = await downloadAudio(url); const buf = fs.readFileSync(fp); fs.unlinkSync(fp); return buf; } }
+    const strategies: Strategy<Buffer>[] = [
+        async () => { const r = await ytBuf(url, { quality: 'highestaudio', filter: 'audioonly' }, 'ytdl high'); if (!r.data) return r; try { return { success: true, data: await toMp3(r.data, '192'), strategyName: 'ytdl high+mp3 192k' }; } catch (e: any) { return { success: false, strategyName: 'ytdl high+mp3', error: e.message }; } },
+        async () => { const r = await ytBuf(url, { quality: 'highestaudio', filter: 'audioonly' }, 'ytdl high'); if (!r.data) return r; try { return { success: true, data: await toMp3(r.data, '128'), strategyName: 'ytdl high+mp3 128k' }; } catch (e: any) { return { success: false, strategyName: 'ytdl high+mp3 128', error: e.message }; } },
+        async () => { const r = await ytBuf(url, { quality: 'highestaudio', filter: 'audioonly' }, 'ytdl high'); if (!r.data) return r; try { return { success: true, data: await toMp3(r.data, '96'), strategyName: 'ytdl high+mp3 96k' }; } catch (e: any) { return { success: false, strategyName: 'ytdl high+mp3 96', error: e.message }; } },
+        async () => { const r = await ytBuf(url, { quality: 'lowestaudio', filter: 'audioonly' }, 'ytdl low'); if (!r.data) return r; try { return { success: true, data: await toMp3(r.data, '128'), strategyName: 'ytdl low+mp3' }; } catch (e: any) { return { success: false, strategyName: 'ytdl low+mp3', error: e.message }; } },
+        ...INVIDIOUS.map(inst => async () => { const r = await invidiousStream(url, inst, 'audio'); if (!r.data) return r; try { return { success: true, data: await toMp3(r.data, '128'), strategyName: 'Invidious a ' + inst }; } catch (e: any) { return { success: false, strategyName: 'Invidious a ' + inst, error: e.message }; } }),
+        ...PIPED.map(inst => async () => { const r = await pipedStream(url, inst, 'audio'); if (!r.data) return r; try { return { success: true, data: await toMp3(r.data, '128'), strategyName: 'Piped a ' + inst }; } catch (e: any) { return { success: false, strategyName: 'Piped a ' + inst, error: e.message }; } }),
+        async () => cobalt(url, true),
+        async () => ytBuf(url, { quality: 'highestaudio', filter: 'audioonly' }, 'ytdl direto (sem conversão)')
     ];
-    for (const s of strategies) {
-        try {
-            const buffer = await s.fn();
-            if (buffer && buffer.length > 1000) {
-                console.log('[AUDIO] estratégia usada:', s.name);
-                return buffer;
-            }
-        } catch (e) { }
-    }
-    throw new Error('Nenhuma estratégia de áudio funcionou');
+    return tryStrategies('AUDIO', strategies);
 }
 
+// ============ VÍDEO (15 estratégias) ============
 export async function getVideoBuffer(url: string): Promise<Buffer> {
-    const strategies = [
-        { name: 'ytdl', fn: async () => { const fp = await downloadVideo(url); const buf = fs.readFileSync(fp); fs.unlinkSync(fp); return buf; } },
-        { name: 'invidious_1', fn: async () => getVideoFromInvidious(url) },
-        { name: 'invidious_2', fn: async () => getVideoFromInvidious(url) },
-        { name: 'invidious_3', fn: async () => getVideoFromInvidious(url) },
-        { name: 'invidious_4', fn: async () => getVideoFromInvidious(url) },
-        { name: 'piped_1', fn: async () => getVideoFromPiped(url) },
-        { name: 'piped_2', fn: async () => getVideoFromPiped(url) },
-        { name: 'piped_3', fn: async () => getVideoFromPiped(url) },
-        { name: 'cobalt_1', fn: async () => getVideoFromCobalt(url) },
-        { name: 'cobalt_2', fn: async () => getVideoFromCobalt(url) },
-        { name: 'cobalt_3', fn: async () => getVideoFromCobalt(url) },
-        { name: 'itag_22', fn: async () => { const id = ytdl.getVideoID(url); const stream = ytdl(url, { quality: '18' }); const fp = makeTempPath('v22'); await new Promise<void>((resolve, reject) => { ffmpeg(stream).format('mp4').on('end', () => resolve()).on('error', (err: Error) => reject(err)).save(fp); }); const buf = fs.readFileSync(fp); fs.unlinkSync(fp); return buf; } },
-        { name: 'itag_18', fn: async () => { const stream = ytdl(url, { quality: '18' }); const fp = makeTempPath('v18'); await new Promise<void>((resolve, reject) => { ffmpeg(stream).format('mp4').on('end', () => resolve()).on('error', (err: Error) => reject(err)).save(fp); }); const buf = fs.readFileSync(fp); fs.unlinkSync(fp); return buf; } },
-        { name: 'itag_136', fn: async () => { const stream = ytdl(url, { quality: '136' }); const fp = makeTempPath('v136'); await new Promise<void>((resolve, reject) => { ffmpeg(stream).format('mp4').on('end', () => resolve()).on('error', (err: Error) => reject(err)).save(fp); }); const buf = fs.readFileSync(fp); fs.unlinkSync(fp); return buf; } },
-        { name: 'itag_137', fn: async () => { const stream = ytdl(url, { quality: '137' }); const fp = makeTempPath('v137'); await new Promise<void>((resolve, reject) => { ffmpeg(stream).format('mp4').on('end', () => resolve()).on('error', (err: Error) => reject(err)).save(fp); }); const buf = fs.readFileSync(fp); fs.unlinkSync(fp); return buf; } },
-        { name: 'ytdl_fallback', fn: async () => { const fp = await downloadVideo(url); const buf = fs.readFileSync(fp); fs.unlinkSync(fp); return buf; } }
+    const strategies: Strategy<Buffer>[] = [
+        async () => ytBuf(url, { quality: 'highest', filter: 'videoandaudio' }, 'ytdl highest'),
+        async () => ytBuf(url, { quality: 'highestvideo', filter: 'videoandaudio' }, 'ytdl highestvideo'),
+        async () => ytBuf(url, { filter: (f: any) => f.container === 'mp4' && f.hasVideo && f.hasAudio }, 'ytdl mp4+a'),
+        async () => ytBuf(url, { quality: 'lowest', filter: 'videoandaudio' }, 'ytdl lowest'),
+        async () => { const info = await ytdl.getInfo(url); const f = info.formats.find(x => x.qualityLabel === '360p' && x.hasVideo && x.hasAudio); return f ? ytBuf(url, { quality: f.itag }, 'ytdl itag 360p') : { success: false, strategyName: 'itag 360p', error: 'sem formato' }; },
+        async () => { const info = await ytdl.getInfo(url); const f = info.formats.find(x => x.qualityLabel === '480p' && x.hasVideo && x.hasAudio); return f ? ytBuf(url, { quality: f.itag }, 'ytdl itag 480p') : { success: false, strategyName: 'itag 480p', error: 'sem formato' }; },
+        ...INVIDIOUS.map(inst => async () => invidiousStream(url, inst, 'video')),
+        ...PIPED.map(inst => async () => pipedStream(url, inst, 'video')),
+        async () => cobalt(url, false),
+        async () => ytBuf(url, { quality: 'lowestvideo', filter: 'videoandaudio' }, 'ytdl lowestvideo')
     ];
-    for (const s of strategies) {
-        try {
-            const buffer = await s.fn();
-            if (buffer && buffer.length > 1000) {
-                console.log('[VIDEO] estratégia usada:', s.name);
-                return buffer;
-            }
-        } catch (e) { }
-    }
-    throw new Error('Nenhuma estratégia de vídeo funcionou');
+    return tryStrategies('VIDEO', strategies);
 }
 
+// ============ WRAPPERS DE COMPATIBILIDADE ==========
+export async function downloadAudio(url: string): Promise<string> {
+    const buf = await getAudioBuffer(url);
+    const p = path.join(TEMP_DIR, 'a_' + Date.now() + '.mp3');
+    fs.writeFileSync(p, buf);
+    return p;
+}
+export async function downloadVideo(url: string): Promise<string> {
+    const buf = await getVideoBuffer(url);
+    const p = path.join(TEMP_DIR, 'v_' + Date.now() + '.mp4');
+    fs.writeFileSync(p, buf);
+    return p;
+}
