@@ -5652,9 +5652,9 @@
         "total": 38
       },
       "5511927018683": {
-        "text": 62,
-        "media": 7,
-        "total": 69
+        "text": 63,
+        "media": 8,
+        "total": 71
       },
       "120363408512535081": {
         "text": 1,
@@ -9439,7 +9439,8 @@
         "Leandro: Eu te dei adm ontem logo depois de migrar o grupo",
         "Leandro: Tô ficando doido agora...",
         "Camila Designer: Agora perdeu o @166452229341300 não tem mais motivo de ficar no grupo",
-        "Camila Designer: Enviou caixinhas com todo seu veneno"
+        "Camila Designer: Enviou caixinhas com todo seu veneno",
+        "Leandro: Buguei agora"
       ]
     },
     "120363427438126559@g.us": {
@@ -9919,6 +9920,12 @@
         "authorName": "Camila Designer",
         "text": "Enviou caixinhas com todo seu veneno",
         "timestamp": 1788971482156
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Buguei agora",
+        "timestamp": 1788971542962
       }
     ],
     "120363427438126559@g.us": []
@@ -9945,7 +9952,7 @@
     "120363427545094619@g.us": 249,
     "120363023757382018@g.us": 5171,
     "120363426574906687@g.us": 195,
-    "120363408512535081@g.us": 299,
+    "120363408512535081@g.us": 300,
     "120363427438126559@g.us": 321
   },
   "botDisabled": {
@@ -12570,6 +12577,12 @@
         "text": "Enviou caixinhas com todo seu veneno",
         "pushName": "Camila Designer",
         "timestamp": 1788971482156
+      },
+      "AC579B8EE6164F473D500DA0085216A2": {
+        "sender": "54259127210155@lid",
+        "text": "Buguei agora",
+        "pushName": "Leandro",
+        "timestamp": 1788971542962
       }
     },
     "120363427438126559@g.us": {
@@ -12678,7 +12691,7 @@
     "120363427545094619@g.us": 1788969479135,
     "120363023757382018@g.us": 1788971402613,
     "120363426574906687@g.us": 1788915851825,
-    "120363408512535081@g.us": 1788971482156,
+    "120363408512535081@g.us": 1788971542962,
     "120363427438126559@g.us": 1788948060865
   },
   "autoAnimSent": {
