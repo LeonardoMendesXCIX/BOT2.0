@@ -4713,9 +4713,9 @@
         "total": 44
       },
       "92629643563147": {
-        "text": 549,
+        "text": 551,
         "media": 265,
-        "total": 814
+        "total": 816
       },
       "559984624669": {
         "text": 23,
@@ -4753,9 +4753,9 @@
         "total": 3
       },
       "247020967165997": {
-        "text": 491,
+        "text": 492,
         "media": 37,
-        "total": 528
+        "total": 529
       },
       "206966404210884": {
         "text": 5,
@@ -5593,9 +5593,9 @@
         "total": 2
       },
       "102109089378363": {
-        "text": 2,
+        "text": 3,
         "media": 2,
-        "total": 4
+        "total": 5
       }
     },
     "120363426574906687@g.us": {
@@ -5652,9 +5652,9 @@
         "total": 38
       },
       "5511927018683": {
-        "text": 51,
+        "text": 53,
         "media": 5,
-        "total": 56
+        "total": 58
       },
       "120363408512535081": {
         "text": 1,
@@ -8822,7 +8822,11 @@
         "Cristian Sntss: @54259127210155 \nVeja só isso",
         "Camila Designer: @166452229341300 vai querer ou correr?😏😏😏",
         "𝑳𝒂𝒚𝒉🌪🌚: @166452229341300",
-        "Camila Designer: Certinho, queria!🤣🤣🤣"
+        "Camila Designer: Certinho, queria!🤣🤣🤣",
+        "Cafe: Altas declarações aqui hein hahaha",
+        "Gabi 💋: Meu Deus que prato disputado",
+        "Camila Designer: Gente agora tem o Café aqui no grupo!\n@102109089378363",
+        "Camila Designer: Você viu @247020967165997"
       ]
     },
     "120363426574906687@g.us": {
@@ -9301,6 +9305,10 @@
         "Leandro: Tô começando a perder a paciência",
         "Leandro: !megafone Rafael começou a interagir, fiquem atentos",
         "Leandro: 👁️👁️"
+      ],
+      "09/09/2026": [
+        "Leandro: !todos",
+        "Leandro: !horariobot"
       ]
     },
     "120363427438126559@g.us": {
@@ -10079,10 +10087,47 @@
         "authorName": "Camila Designer",
         "text": "Certinho, queria!🤣🤣🤣",
         "timestamp": 1788966212915
+      },
+      {
+        "authorNum": "102109089378363",
+        "authorName": "Cafe",
+        "text": "Altas declarações aqui hein hahaha",
+        "timestamp": 1788966231685
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Meu Deus que prato disputado",
+        "timestamp": 1788966239329
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Gente agora tem o Café aqui no grupo!\n@102109089378363",
+        "timestamp": 1788966247300
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Você viu @247020967165997",
+        "timestamp": 1788966255272
       }
     ],
     "120363426574906687@g.us": [],
-    "120363408512535081@g.us": [],
+    "120363408512535081@g.us": [
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!todos",
+        "timestamp": 1788966252787
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!horariobot",
+        "timestamp": 1788966260583
+      }
+    ],
     "120363427438126559@g.us": []
   },
   "lastJarvisIntervention": {
@@ -10105,9 +10150,9 @@
     "120363409367298221@g.us": 16,
     "120363313059060675@g.us": 1536,
     "120363427545094619@g.us": 228,
-    "120363023757382018@g.us": 5084,
+    "120363023757382018@g.us": 5088,
     "120363426574906687@g.us": 195,
-    "120363408512535081@g.us": 270,
+    "120363408512535081@g.us": 272,
     "120363427438126559@g.us": 321
   },
   "botDisabled": {
@@ -10118,7 +10163,7 @@
     "120363426574906687@g.us": true,
     "120363427545094619@g.us": false,
     "120363023757382018@g.us": false,
-    "120363408512535081@g.us": true
+    "120363408512535081@g.us": false
   },
   "botMusicDisabled": {},
   "closedGroups": {
@@ -11920,10 +11965,47 @@
         "text": "Certinho, queria!🤣🤣🤣",
         "pushName": "Camila Designer",
         "timestamp": 1788966212915
+      },
+      "2A67777557CEDB9AAE44": {
+        "sender": "102109089378363@lid",
+        "text": "Altas declarações aqui hein hahaha",
+        "pushName": "Cafe",
+        "timestamp": 1788966231685
+      },
+      "ACADB299DB904CC637709BDFA5C47964": {
+        "sender": "247020967165997@lid",
+        "text": "Meu Deus que prato disputado",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788966239329
+      },
+      "2A0EC00A5E5AE8702D90": {
+        "sender": "92629643563147@lid",
+        "text": "Gente agora tem o Café aqui no grupo!\n@102109089378363",
+        "pushName": "Camila Designer",
+        "timestamp": 1788966247300
+      },
+      "2AD1225F151831A7115E": {
+        "sender": "92629643563147@lid",
+        "text": "Você viu @247020967165997",
+        "pushName": "Camila Designer",
+        "timestamp": 1788966255272
       }
     },
     "120363426574906687@g.us": {},
-    "120363408512535081@g.us": {},
+    "120363408512535081@g.us": {
+      "AC01CCDFAA1372B065A2715AB5AEC50A": {
+        "sender": "54259127210155@lid",
+        "text": "!todos",
+        "pushName": "Leandro",
+        "timestamp": 1788966252787
+      },
+      "AC25AB1CBF2BAD810F15782623EB58B7": {
+        "sender": "54259127210155@lid",
+        "text": "!horariobot",
+        "pushName": "Leandro",
+        "timestamp": 1788966260583
+      }
+    },
     "120363427438126559@g.us": {
       "A51F8717AC9DF92ED2CCACAC404C234D": {
         "sender": "166452229341300@lid",
@@ -12028,9 +12110,9 @@
     "120363409367298221@g.us": 1788965825075,
     "120363313059060675@g.us": 1788917641021,
     "120363427545094619@g.us": 1788966146002,
-    "120363023757382018@g.us": 1788966221638,
+    "120363023757382018@g.us": 1788966255272,
     "120363426574906687@g.us": 1788915851825,
-    "120363408512535081@g.us": 1788891006125,
+    "120363408512535081@g.us": 1788966260583,
     "120363427438126559@g.us": 1788948060865
   },
   "autoAnimSent": {
