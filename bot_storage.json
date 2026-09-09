@@ -4621,9 +4621,9 @@
         "total": 17
       },
       "5511927018683": {
-        "text": 92,
-        "media": 15,
-        "total": 107
+        "text": 93,
+        "media": 16,
+        "total": 109
       },
       "81991328395336": {
         "text": 36,
@@ -4728,9 +4728,9 @@
         "total": 1
       },
       "182738040713418": {
-        "text": 99,
+        "text": 100,
         "media": 74,
-        "total": 173
+        "total": 174
       },
       "81991328395336": {
         "text": 314,
@@ -5632,14 +5632,14 @@
         "total": 51
       },
       "92629643563147": {
-        "text": 121,
+        "text": 122,
         "media": 26,
-        "total": 147
+        "total": 148
       },
       "81991328395336": {
-        "text": 11,
+        "text": 13,
         "media": 7,
-        "total": 18
+        "total": 20
       },
       "559991116887": {
         "text": 23,
@@ -7355,7 +7355,9 @@
         "Leandro: Eu imagino",
         "Cristian Sntss: Q mulher chata viu",
         "Leandro: Quer atenção",
-        "Leandro: Da uma atenção a ela Lauan"
+        "Leandro: Da uma atenção a ela Lauan",
+        "Leandro: @92629643563147 \n\n@166452229341300",
+        "Leandro: Ihhh começou..."
       ]
     },
     "120363023757382018@g.us": {
@@ -8876,7 +8878,8 @@
         "𝑳𝒂𝒚𝒉🌪🌚: Graças a Deus ninguém cobiça mais o meu @54259127210155",
         "Gabi 💋: A cueca",
         "Wellington: Kkkkkk",
-        "Wellington: Zuera"
+        "Wellington: Zuera",
+        "Wellington: Não me mata"
       ]
     },
     "120363426574906687@g.us": {
@@ -9366,7 +9369,10 @@
         "Leandro: Pois então",
         "Leandro: Minino cobiçado",
         "Camila Designer: Agora serei atacada 🤣🤣🤣",
-        "Camila Designer: Mas não preciso de caixinha para falar 😌😌😌"
+        "Camila Designer: Mas não preciso de caixinha para falar 😌😌😌",
+        "𝑳𝒂𝒚𝒉🌪🌚: O veneno aqui chega escorreu",
+        "𝑳𝒂𝒚𝒉🌪🌚: 😹😹😹",
+        "Camila Designer: Já sabemos quem foi"
       ]
     },
     "120363427438126559@g.us": {
@@ -9759,6 +9765,18 @@
         "authorName": "Leandro",
         "text": "Da uma atenção a ela Lauan",
         "timestamp": 1788966840246
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "@92629643563147 \n\n@166452229341300",
+        "timestamp": 1788967224717
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Ihhh começou...",
+        "timestamp": 1788967233048
       }
     ],
     "120363023757382018@g.us": [
@@ -10319,6 +10337,12 @@
         "authorName": "Wellington",
         "text": "Zuera",
         "timestamp": 1788967200566
+      },
+      {
+        "authorNum": "182738040713418",
+        "authorName": "Wellington",
+        "text": "Não me mata",
+        "timestamp": 1788967216550
       }
     ],
     "120363426574906687@g.us": [],
@@ -10382,6 +10406,24 @@
         "authorName": "Camila Designer",
         "text": "Mas não preciso de caixinha para falar 😌😌😌",
         "timestamp": 1788967151350
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "O veneno aqui chega escorreu",
+        "timestamp": 1788967210052
+      },
+      {
+        "authorNum": "81991328395336",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "😹😹😹",
+        "timestamp": 1788967213801
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Já sabemos quem foi",
+        "timestamp": 1788967230809
       }
     ],
     "120363427438126559@g.us": []
@@ -10405,10 +10447,10 @@
     "120363411043114631@g.us": 20,
     "120363409367298221@g.us": 16,
     "120363313059060675@g.us": 1536,
-    "120363427545094619@g.us": 232,
-    "120363023757382018@g.us": 5134,
+    "120363427545094619@g.us": 234,
+    "120363023757382018@g.us": 5135,
     "120363426574906687@g.us": 195,
-    "120363408512535081@g.us": 280,
+    "120363408512535081@g.us": 283,
     "120363427438126559@g.us": 321
   },
   "botDisabled": {
@@ -10911,6 +10953,18 @@
         "text": "Da uma atenção a ela Lauan",
         "pushName": "Leandro",
         "timestamp": 1788966840246
+      },
+      "AC0D3A236A1D5EA19F4F6EAB7F31AD7C": {
+        "sender": "54259127210155@lid",
+        "text": "@92629643563147 \n\n@166452229341300",
+        "pushName": "Leandro",
+        "timestamp": 1788967224717
+      },
+      "AC955BC9D91279F250A84968C9A8BB93": {
+        "sender": "54259127210155@lid",
+        "text": "Ihhh começou...",
+        "pushName": "Leandro",
+        "timestamp": 1788967233048
       }
     },
     "120363023757382018@g.us": {
@@ -12545,6 +12599,12 @@
         "text": "Zuera",
         "pushName": "Wellington",
         "timestamp": 1788967200566
+      },
+      "ACF44C0C835D542691BF951B9A6E9A80": {
+        "sender": "182738040713418@lid",
+        "text": "Não me mata",
+        "pushName": "Wellington",
+        "timestamp": 1788967216550
       }
     },
     "120363426574906687@g.us": {},
@@ -12608,6 +12668,24 @@
         "text": "Mas não preciso de caixinha para falar 😌😌😌",
         "pushName": "Camila Designer",
         "timestamp": 1788967151350
+      },
+      "ACD3991EF16D2848ECACE6F9D22DFF93": {
+        "sender": "81991328395336@lid",
+        "text": "O veneno aqui chega escorreu",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1788967210052
+      },
+      "ACD1DA029C3D50FB095DA37376B9DD7E": {
+        "sender": "81991328395336@lid",
+        "text": "😹😹😹",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1788967213801
+      },
+      "2A848C8CFC255437D160": {
+        "sender": "92629643563147@lid",
+        "text": "Já sabemos quem foi",
+        "pushName": "Camila Designer",
+        "timestamp": 1788967230809
       }
     },
     "120363427438126559@g.us": {
@@ -12713,10 +12791,10 @@
     "120363411043114631@g.us": 1787897464612,
     "120363409367298221@g.us": 1788965825075,
     "120363313059060675@g.us": 1788917641021,
-    "120363427545094619@g.us": 1788966841414,
-    "120363023757382018@g.us": 1788967200566,
+    "120363427545094619@g.us": 1788967233048,
+    "120363023757382018@g.us": 1788967216550,
     "120363426574906687@g.us": 1788915851825,
-    "120363408512535081@g.us": 1788967197426,
+    "120363408512535081@g.us": 1788967230809,
     "120363427438126559@g.us": 1788948060865
   },
   "autoAnimSent": {
