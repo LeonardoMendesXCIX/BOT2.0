@@ -4621,9 +4621,9 @@
         "total": 17
       },
       "5511927018683": {
-        "text": 89,
+        "text": 90,
         "media": 14,
-        "total": 103
+        "total": 104
       },
       "81991328395336": {
         "text": 36,
@@ -5593,9 +5593,9 @@
         "total": 2
       },
       "102109089378363": {
-        "text": 3,
+        "text": 4,
         "media": 2,
-        "total": 5
+        "total": 6
       }
     },
     "120363426574906687@g.us": {
@@ -5652,9 +5652,9 @@
         "total": 38
       },
       "5511927018683": {
-        "text": 53,
+        "text": 54,
         "media": 5,
-        "total": 58
+        "total": 59
       },
       "120363408512535081": {
         "text": 1,
@@ -7351,7 +7351,8 @@
         "Cristian Sntss: Tá",
         "Leandro: Sabrina quer Deus e o mundo né?",
         "Leandro: Estava com o Lailson, agora querendo o Lauan @81991328395336",
-        "Cristian Sntss: Ela tá mandando várias caixinhas"
+        "Cristian Sntss: Ela tá mandando várias caixinhas",
+        "Leandro: Eu imagino"
       ]
     },
     "120363023757382018@g.us": {
@@ -8826,7 +8827,8 @@
         "Cafe: Altas declarações aqui hein hahaha",
         "Gabi 💋: Meu Deus que prato disputado",
         "Camila Designer: Gente agora tem o Café aqui no grupo!\n@102109089378363",
-        "Camila Designer: Você viu @247020967165997"
+        "Camila Designer: Você viu @247020967165997",
+        "Cafe: 👀"
       ]
     },
     "120363426574906687@g.us": {
@@ -9308,7 +9310,8 @@
       ],
       "09/09/2026": [
         "Leandro: !todos",
-        "Leandro: !horariobot"
+        "Leandro: !horariobot",
+        "Leandro: Quando vocês quiser saber o horário que um grupo vai abrir ou fechar"
       ]
     },
     "120363427438126559@g.us": {
@@ -9701,6 +9704,12 @@
         "authorName": "Cristian Sntss",
         "text": "Ela tá mandando várias caixinhas",
         "timestamp": 1788966146002
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Eu imagino",
+        "timestamp": 1788966312840
       }
     ],
     "120363023757382018@g.us": [
@@ -10111,6 +10120,12 @@
         "authorName": "Camila Designer",
         "text": "Você viu @247020967165997",
         "timestamp": 1788966255272
+      },
+      {
+        "authorNum": "102109089378363",
+        "authorName": "Cafe",
+        "text": "👀",
+        "timestamp": 1788966311869
       }
     ],
     "120363426574906687@g.us": [],
@@ -10126,6 +10141,12 @@
         "authorName": "Leandro",
         "text": "!horariobot",
         "timestamp": 1788966260583
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Quando vocês quiser saber o horário que um grupo vai abrir ou fechar",
+        "timestamp": 1788966294206
       }
     ],
     "120363427438126559@g.us": []
@@ -10149,10 +10170,10 @@
     "120363411043114631@g.us": 20,
     "120363409367298221@g.us": 16,
     "120363313059060675@g.us": 1536,
-    "120363427545094619@g.us": 228,
-    "120363023757382018@g.us": 5088,
+    "120363427545094619@g.us": 229,
+    "120363023757382018@g.us": 5089,
     "120363426574906687@g.us": 195,
-    "120363408512535081@g.us": 272,
+    "120363408512535081@g.us": 273,
     "120363427438126559@g.us": 321
   },
   "botDisabled": {
@@ -10631,6 +10652,12 @@
         "text": "Ela tá mandando várias caixinhas",
         "pushName": "Cristian Sntss",
         "timestamp": 1788966146002
+      },
+      "AC8864057D3D6ED8A9A8661F27A12202": {
+        "sender": "54259127210155@lid",
+        "text": "Eu imagino",
+        "pushName": "Leandro",
+        "timestamp": 1788966312840
       }
     },
     "120363023757382018@g.us": {
@@ -11989,6 +12016,12 @@
         "text": "Você viu @247020967165997",
         "pushName": "Camila Designer",
         "timestamp": 1788966255272
+      },
+      "2A01B7BD894EBD0F7ED6": {
+        "sender": "102109089378363@lid",
+        "text": "👀",
+        "pushName": "Cafe",
+        "timestamp": 1788966311869
       }
     },
     "120363426574906687@g.us": {},
@@ -12004,6 +12037,12 @@
         "text": "!horariobot",
         "pushName": "Leandro",
         "timestamp": 1788966260583
+      },
+      "ACC59554F712AC7B749AE2B5272258EB": {
+        "sender": "54259127210155@lid",
+        "text": "Quando vocês quiser saber o horário que um grupo vai abrir ou fechar",
+        "pushName": "Leandro",
+        "timestamp": 1788966294206
       }
     },
     "120363427438126559@g.us": {
@@ -12109,10 +12148,10 @@
     "120363411043114631@g.us": 1787897464612,
     "120363409367298221@g.us": 1788965825075,
     "120363313059060675@g.us": 1788917641021,
-    "120363427545094619@g.us": 1788966146002,
-    "120363023757382018@g.us": 1788966267095,
+    "120363427545094619@g.us": 1788966312840,
+    "120363023757382018@g.us": 1788966311869,
     "120363426574906687@g.us": 1788915851825,
-    "120363408512535081@g.us": 1788966260583,
+    "120363408512535081@g.us": 1788966294206,
     "120363427438126559@g.us": 1788948060865
   },
   "autoAnimSent": {
