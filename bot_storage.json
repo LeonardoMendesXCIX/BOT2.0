@@ -5652,9 +5652,9 @@
         "total": 38
       },
       "5511927018683": {
-        "text": 63,
+        "text": 65,
         "media": 8,
-        "total": 71
+        "total": 73
       },
       "120363408512535081": {
         "text": 1,
@@ -9442,7 +9442,8 @@
         "Camila Designer: Enviou caixinhas com todo seu veneno",
         "Leandro: Buguei agora",
         "Camila Designer: A Sabrina disse que iria sair",
-        "Camila Designer: Ela estava interessada no @166452229341300"
+        "Camila Designer: Ela estava interessada no @166452229341300",
+        "Leandro: O povo é muito confiante né?"
       ]
     },
     "120363427438126559@g.us": {
@@ -9940,6 +9941,12 @@
         "authorName": "Camila Designer",
         "text": "Ela estava interessada no @166452229341300",
         "timestamp": 1788971583050
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "O povo é muito confiante né?",
+        "timestamp": 1788971602198
       }
     ],
     "120363427438126559@g.us": []
@@ -9966,7 +9973,7 @@
     "120363427545094619@g.us": 249,
     "120363023757382018@g.us": 5171,
     "120363426574906687@g.us": 195,
-    "120363408512535081@g.us": 302,
+    "120363408512535081@g.us": 303,
     "120363427438126559@g.us": 321
   },
   "botDisabled": {
@@ -12609,6 +12616,12 @@
         "text": "Ela estava interessada no @166452229341300",
         "pushName": "Camila Designer",
         "timestamp": 1788971583050
+      },
+      "AC5BE1B13368B002F2F68E02A79D1512": {
+        "sender": "54259127210155@lid",
+        "text": "O povo é muito confiante né?",
+        "pushName": "Leandro",
+        "timestamp": 1788971602198
       }
     },
     "120363427438126559@g.us": {
@@ -12717,7 +12730,7 @@
     "120363427545094619@g.us": 1788969479135,
     "120363023757382018@g.us": 1788971402613,
     "120363426574906687@g.us": 1788915851825,
-    "120363408512535081@g.us": 1788971587098,
+    "120363408512535081@g.us": 1788971620814,
     "120363427438126559@g.us": 1788948060865
   },
   "autoAnimSent": {
