@@ -4611,9 +4611,9 @@
     },
     "120363427545094619@g.us": {
       "166452229341300": {
-        "text": 93,
+        "text": 94,
         "media": 24,
-        "total": 117
+        "total": 118
       },
       "559991116887": {
         "text": 15,
@@ -4621,9 +4621,9 @@
         "total": 17
       },
       "5511927018683": {
-        "text": 98,
+        "text": 100,
         "media": 17,
-        "total": 115
+        "total": 117
       },
       "81991328395336": {
         "text": 36,
@@ -7366,7 +7366,10 @@
         "Leandro: Sim",
         "Cristian Sntss: Gente ele veio no meu PV pra me não fala cm ela",
         "Cristian Sntss: Que era gata dele",
-        "Leandro: Com quem?"
+        "Leandro: Com quem?",
+        "Cristian Sntss: Falando da Andreza",
+        "Leandro: 🙄",
+        "Leandro: Ele que ia atrás dela"
       ]
     },
     "120363023757382018@g.us": {
@@ -9801,27 +9804,27 @@
         "authorName": "Leandro",
         "text": "Com quem?",
         "timestamp": 1788968967345
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Falando da Andreza",
+        "timestamp": 1788968983391
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "🙄",
+        "timestamp": 1788968985481
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Ele que ia atrás dela",
+        "timestamp": 1788969001054
       }
     ],
     "120363023757382018@g.us": [
-      {
-        "authorNum": "81991328395336",
-        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
-        "text": "Graças a Deus ninguém cobiça mais o meu @54259127210155",
-        "timestamp": 1788967043675
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "A cueca",
-        "timestamp": 1788967047912
-      },
-      {
-        "authorNum": "182738040713418",
-        "authorName": "Wellington",
-        "text": "Kkkkkk",
-        "timestamp": 1788967197124
-      },
       {
         "authorNum": "182738040713418",
         "authorName": "Wellington",
@@ -9873,18 +9876,6 @@
     ],
     "120363426574906687@g.us": [],
     "120363408512535081@g.us": [
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Agora serei atacada 🤣🤣🤣",
-        "timestamp": 1788967136823
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Mas não preciso de caixinha para falar 😌😌😌",
-        "timestamp": 1788967151350
-      },
       {
         "authorNum": "81991328395336",
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
@@ -9949,7 +9940,7 @@
     "120363411043114631@g.us": 20,
     "120363409367298221@g.us": 16,
     "120363313059060675@g.us": 1536,
-    "120363427545094619@g.us": 243,
+    "120363427545094619@g.us": 246,
     "120363023757382018@g.us": 5141,
     "120363426574906687@g.us": 195,
     "120363408512535081@g.us": 287,
@@ -10508,6 +10499,24 @@
         "text": "Com quem?",
         "pushName": "Leandro",
         "timestamp": 1788968967345
+      },
+      "A584AC3A4B8992AABF055BC917E28387": {
+        "sender": "166452229341300@lid",
+        "text": "Falando da Andreza",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1788968983391
+      },
+      "AC27602F0E1A94C6D1164A03DB3339D8": {
+        "sender": "54259127210155@lid",
+        "text": "🙄",
+        "pushName": "Leandro",
+        "timestamp": 1788968985481
+      },
+      "AC1C0965E4ACF8AB8E27B279D9FC77DA": {
+        "sender": "54259127210155@lid",
+        "text": "Ele que ia atrás dela",
+        "pushName": "Leandro",
+        "timestamp": 1788969001054
       }
     },
     "120363023757382018@g.us": {
@@ -12394,7 +12403,7 @@
     "120363411043114631@g.us": 1787897464612,
     "120363409367298221@g.us": 1788965825075,
     "120363313059060675@g.us": 1788917641021,
-    "120363427545094619@g.us": 1788968967345,
+    "120363427545094619@g.us": 1788969001054,
     "120363023757382018@g.us": 1788968968616,
     "120363426574906687@g.us": 1788915851825,
     "120363408512535081@g.us": 1788968919328,
