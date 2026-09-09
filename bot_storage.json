@@ -5652,9 +5652,9 @@
         "total": 38
       },
       "5511927018683": {
-        "text": 58,
+        "text": 60,
         "media": 6,
-        "total": 64
+        "total": 66
       },
       "120363408512535081": {
         "text": 1,
@@ -9433,7 +9433,9 @@
         "Leandro: 6 não prestam em",
         "𝑳𝒂𝒚𝒉🌪🌚: ele tá e fofocando por Gabriel hora dessa",
         "𝑳𝒂𝒚𝒉🌪🌚: Ela me falou que irá sai do nosso grupo\nQ já estão com desconfiança dela",
-        "𝑳𝒂𝒚𝒉🌪🌚: Ela me falou que  me tirou sem querer de adm"
+        "𝑳𝒂𝒚𝒉🌪🌚: Ela me falou que  me tirou sem querer de adm",
+        "Leandro: Aham...",
+        "Leandro: Tá bom"
       ]
     },
     "120363427438126559@g.us": {
@@ -9937,6 +9939,18 @@
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
         "text": "Ela me falou que  me tirou sem querer de adm",
         "timestamp": 1788970300789
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Aham...",
+        "timestamp": 1788971367883
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Tá bom",
+        "timestamp": 1788971369877
       }
     ],
     "120363427438126559@g.us": []
@@ -9963,7 +9977,7 @@
     "120363427545094619@g.us": 249,
     "120363023757382018@g.us": 5171,
     "120363426574906687@g.us": 195,
-    "120363408512535081@g.us": 293,
+    "120363408512535081@g.us": 295,
     "120363427438126559@g.us": 321
   },
   "botDisabled": {
@@ -12552,6 +12566,18 @@
         "text": "Ela me falou que  me tirou sem querer de adm",
         "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
         "timestamp": 1788970300789
+      },
+      "ACF8CE3B42A32FDC8B58F569B1C4F85E": {
+        "sender": "54259127210155@lid",
+        "text": "Aham...",
+        "pushName": "Leandro",
+        "timestamp": 1788971367883
+      },
+      "ACE4FE4523861C8392EC6A7034152B74": {
+        "sender": "54259127210155@lid",
+        "text": "Tá bom",
+        "pushName": "Leandro",
+        "timestamp": 1788971369877
       }
     },
     "120363427438126559@g.us": {
@@ -12660,7 +12686,7 @@
     "120363427545094619@g.us": 1788969479135,
     "120363023757382018@g.us": 1788971335175,
     "120363426574906687@g.us": 1788915851825,
-    "120363408512535081@g.us": 1788971229174,
+    "120363408512535081@g.us": 1788971369877,
     "120363427438126559@g.us": 1788948060865
   },
   "autoAnimSent": {
