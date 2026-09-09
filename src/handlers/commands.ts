@@ -119,8 +119,8 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
         if (afterMsg) await sock.sendMessage(targetChat, { text: afterMsg });
         return;
     }
-    const IGNORED_MULTIMEDIA_PREFIXES = ['!p', '!pp', '!v', '!play', '!video', '!playlist', '!musica', '!song', '!msc', '!tocar', '!ytmp3'];
-    if (IGNORED_MULTIMEDIA_PREFIXES.includes(firstWord) || IGNORED_MULTIMEDIA_PREFIXES.some(prefix => textLower.startsWith(prefix + ' ') || textLower.startsWith(prefix + '+'))) return;
+    const IGNORED_MULTIMEDIA_PREFIXES = ['!song', '!msc', '!tocar', '!ytmp3'];
+    if (IGNORED_MULTIMEDIA_PREFIXES.includes(firstWord)) return;
     if (['!desenhe', '!criarimg', '!gerarimg', '!sorteio', '!quiz', '!charada', '!moeda', '!cotacao', '!qrcode', '!antighost', '!alerta'].includes(firstWord)) {
         await sock.sendMessage(chatId, { text: '⚠️ Este comando foi removido do BOT DROPHTTP.' }, { quoted: msg });
         return;
@@ -577,6 +577,18 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
                 }
                 await sock.sendMessage(chatId, { text: '🛡️ *VARREDURA ANTI-FAKE*\n\n📊 Removidos: ' + removedCount + '\n\n' + (removedNames.slice(0, 20).join('\n') || '_Nenhum removido._'), mentions: foreignList.map(target => getUserInfo(target.id).jid).filter(Boolean) });
             } catch (errSweep: any) { await sock.sendMessage(chatId, { text: '❌ Erro na varredura.' }); }
+            return;
+        }
+    }
+    if (['!antiflood'].includes(firstWord)) {
+        const action = parts[1]?.toLowerCase();
+        if (action === 'on' || action === 'off') {
+            if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+            const userRole = parseInt(getUserRole(userId, storage.data.users));
+            if (userRole < 2) { await sock.sendMessage(chatId, { text: '❌ Apenas admins.' }, { quoted: msg }); return; }
+            const enable = action === 'on';
+            storage.setFeatureStatus(chatId, 'antiflood', enable);
+            await sock.sendMessage(chatId, { text: (enable ? '🟢' : '🔴') + ' *Anti-Flood:* ' + (enable ? 'ATIVADO' : 'DESATIVADO') }, { quoted: msg });
             return;
         }
     }

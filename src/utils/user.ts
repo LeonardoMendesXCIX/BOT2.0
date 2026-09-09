@@ -25,7 +25,7 @@ export function rememberProfile(jidOrNum: string, name?: string, realNum?: strin
     if (name && name.trim() && name.trim() !== 'Membro') profilesDB[key].name = name.trim();
     if (realNum) {
         const rn = String(realNum).replace(/\D/g, '');
-        if (rn) profilesDB[key].num = rn;
+        if (rn && rn.length <= 13) profilesDB[key].num = rn;
     }
 }
 

@@ -121,6 +121,10 @@ cron.schedule(
   { timezone: TIMEZONE },
 );
 
+cron.schedule('0 4 * * *', () => {
+  doReboot('reboot diário programado (04:00)');
+}, { timezone: TIMEZONE });
+
 cron.schedule(
   "0 * * * *",
   async () => {

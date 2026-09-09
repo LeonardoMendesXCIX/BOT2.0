@@ -153,10 +153,10 @@ export function setupGroupEvents(sock: WASocket, storage: StorageManager): void 
                         // Mensagem de remoção PERSONALIZÁVEL via !msgremoveadm (padrão: Nome - Número)
                         const removalCfg = storage.data.removalMsgs?.[chatId];
                         const removalText = removalCfg && removalCfg.text
-                            ? removalCfg.text.replace(/\{membro\}/gi, nameAndNum)
-                            : 'Xiii, acho que o integrante ' + nameAndNum + ' fez algo de errado, pois foi removido!';
+                            ? removalCfg.text.replace(/\{membro\}/gi, memberInfo.mention)
+                            : 'Xiii, acho que o integrante ' + memberInfo.nameAndNumber + ' fez algo de errado, pois foi removido!';
 
-                        await sock.sendMessage(chatId, { text: removalText, mentions: allMentions });
+                        await sock.sendMessage(chatId, { text: removalText, mentions: allMentions.includes(memberInfo.jid) ? allMentions : [...allMentions, memberInfo.jid] });
                     } else if (!storage.isFeatureDisabled(chatId, 'exit') && !storage.isGroupClosed(chatId)) {
                         const exitConfig = storage.data.exitMsgs ? storage.data.exitMsgs[chatId] : null;
                         if (exitConfig && exitConfig.text) {
@@ -164,16 +164,16 @@ export function setupGroupEvents(sock: WASocket, storage: StorageManager): void 
                             let finalMsg = '';
 
                             if (userText.includes('{membro}')) {
-                                finalMsg = userText.replace(/\{membro\}/gi, nameAndNum);
+                                finalMsg = userText.replace(/\{membro\}/gi, memberInfo.mention);
                             } else if (userText.includes('{nome}')) {
                                 finalMsg = userText.replace(/\{nome\}/gi, memberInfo.pushName || memberInfo.formattedNum);
                             } else if (userText.includes('{numero}')) {
                                 finalMsg = userText.replace(/\{numero\}/gi, memberInfo.formattedNum);
                             } else {
-                                finalMsg = userText + '\n\n👋 ' + nameAndNum;
+                                finalMsg = userText + '\n\n👋 ' + memberInfo.mention;
                             }
 
-                            await sock.sendMessage(chatId, { text: finalMsg, mentions: allMentions });
+                            await sock.sendMessage(chatId, { text: finalMsg, mentions: allMentions.includes(memberInfo.jid) ? allMentions : [...allMentions, memberInfo.jid] });
                         }
                     }
                 }
