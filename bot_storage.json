@@ -5632,9 +5632,9 @@
         "total": 52
       },
       "92629643563147": {
-        "text": 126,
-        "media": 29,
-        "total": 155
+        "text": 128,
+        "media": 30,
+        "total": 158
       },
       "81991328395336": {
         "text": 21,
@@ -9440,7 +9440,9 @@
         "Leandro: Tô ficando doido agora...",
         "Camila Designer: Agora perdeu o @166452229341300 não tem mais motivo de ficar no grupo",
         "Camila Designer: Enviou caixinhas com todo seu veneno",
-        "Leandro: Buguei agora"
+        "Leandro: Buguei agora",
+        "Camila Designer: A Sabrina disse que iria sair",
+        "Camila Designer: Ela estava interessada no @166452229341300"
       ]
     },
     "120363427438126559@g.us": {
@@ -9926,6 +9928,18 @@
         "authorName": "Leandro",
         "text": "Buguei agora",
         "timestamp": 1788971542962
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "A Sabrina disse que iria sair",
+        "timestamp": 1788971575349
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Ela estava interessada no @166452229341300",
+        "timestamp": 1788971583050
       }
     ],
     "120363427438126559@g.us": []
@@ -9952,7 +9966,7 @@
     "120363427545094619@g.us": 249,
     "120363023757382018@g.us": 5171,
     "120363426574906687@g.us": 195,
-    "120363408512535081@g.us": 300,
+    "120363408512535081@g.us": 302,
     "120363427438126559@g.us": 321
   },
   "botDisabled": {
@@ -12583,6 +12597,18 @@
         "text": "Buguei agora",
         "pushName": "Leandro",
         "timestamp": 1788971542962
+      },
+      "2A321AD954BE0C3B5F40": {
+        "sender": "92629643563147@lid",
+        "text": "A Sabrina disse que iria sair",
+        "pushName": "Camila Designer",
+        "timestamp": 1788971575349
+      },
+      "2A7DB8EBDCF4FDE070C1": {
+        "sender": "92629643563147@lid",
+        "text": "Ela estava interessada no @166452229341300",
+        "pushName": "Camila Designer",
+        "timestamp": 1788971583050
       }
     },
     "120363427438126559@g.us": {
@@ -12691,7 +12717,7 @@
     "120363427545094619@g.us": 1788969479135,
     "120363023757382018@g.us": 1788971402613,
     "120363426574906687@g.us": 1788915851825,
-    "120363408512535081@g.us": 1788971542962,
+    "120363408512535081@g.us": 1788971587098,
     "120363427438126559@g.us": 1788948060865
   },
   "autoAnimSent": {
