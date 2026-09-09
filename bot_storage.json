@@ -5637,9 +5637,9 @@
         "total": 148
       },
       "81991328395336": {
-        "text": 17,
+        "text": 18,
         "media": 8,
-        "total": 25
+        "total": 26
       },
       "559991116887": {
         "text": 23,
@@ -9419,7 +9419,8 @@
         "Leandro: Então... 🌝",
         "𝑳𝒂𝒚𝒉🌪🌚: O Lauan daquela hora AGR q foi lavar o banheiro",
         "𝑳𝒂𝒚𝒉🌪🌚: O Lauan tá comigo esses dias mas ele mora com o pai",
-        "𝑳𝒂𝒚𝒉🌪🌚: Ele tá praticamente morando aqui"
+        "𝑳𝒂𝒚𝒉🌪🌚: Ele tá praticamente morando aqui",
+        "𝑳𝒂𝒚𝒉🌪🌚: A Sabrina sumiu"
       ]
     },
     "120363427438126559@g.us": {
@@ -9978,7 +9979,14 @@
       }
     ],
     "120363426574906687@g.us": [],
-    "120363408512535081@g.us": [],
+    "120363408512535081@g.us": [
+      {
+        "authorNum": "81991328395336",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "A Sabrina sumiu",
+        "timestamp": 1788969945803
+      }
+    ],
     "120363427438126559@g.us": []
   },
   "lastJarvisIntervention": {
@@ -10003,7 +10011,7 @@
     "120363427545094619@g.us": 249,
     "120363023757382018@g.us": 5163,
     "120363426574906687@g.us": 195,
-    "120363408512535081@g.us": 287,
+    "120363408512535081@g.us": 288,
     "120363427438126559@g.us": 321
   },
   "botDisabled": {
@@ -12508,6 +12516,12 @@
         "text": "Ele tá praticamente morando aqui",
         "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
         "timestamp": 1788967611896
+      },
+      "AC81EFB43101392A87B177DEA043ADA3": {
+        "sender": "81991328395336@lid",
+        "text": "A Sabrina sumiu",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1788969945803
       }
     },
     "120363427438126559@g.us": {
@@ -12616,7 +12630,7 @@
     "120363427545094619@g.us": 1788969479135,
     "120363023757382018@g.us": 1788969913854,
     "120363426574906687@g.us": 1788915851825,
-    "120363408512535081@g.us": 1788968919328,
+    "120363408512535081@g.us": 1788969945803,
     "120363427438126559@g.us": 1788948060865
   },
   "autoAnimSent": {
