@@ -124,6 +124,31 @@ export function setupGroupEvents(sock: WASocket, storage: StorageManager): void 
                             storage.flagSave();
                         }
                     }
+
+                    // BLOQUEIO ESTRITO DE LID: se o novo membro entrou como LID sem número
+                    // real resolvido e antifake estrito está ativo, remove.
+                    const _strictLidOn = storage.data.antifakeStrictLid?.[chatId] !== false;
+                    const _antiFakeOn = storage.data.antifake?.[chatId] === true || (!storage.isFeatureDisabled(chatId, 'antifake') && storage.data.antifake?.[chatId] !== false);
+                    if (_antiFakeOn && _strictLidOn && (newMemberId || '').endsWith('@lid')) {
+                        const _resolved = extractRawNumber(realJid);
+                        if (!_resolved || _resolved.length > 13) {
+                            const _botNum = (sock.user?.id || '').split(':')[0].replace(/\D/g, '');
+                            const _botPart = groupMeta?.participants?.find((pp: any) => ((pp.id || '').split(':')[0].replace(/\D/g, '') === _botNum));
+                            if (_botPart?.admin === 'admin' || _botPart?.admin === 'superadmin') {
+                                try {
+                                    await sock.groupParticipantsUpdate(chatId, [newMemberId], 'remove').catch(() => {});
+                                    const _remMsg = storage.data.removalMsgs?.[chatId]?.text;
+                                    const _info = getUserInfo(newMemberId);
+                                    await sock.sendMessage(chatId, {
+                                        text: (_remMsg || '🛡️ *ANTI-FAKE (LID ESTRANGEIRO)*\n\n👤 Removido: ' + _info.nameAndNumber + '\n📝 Motivo: identificador oculto.')
+                                            .replace(/\{membro\}/gi, _info.nameAndNumber),
+                                        mentions: [_info.jid]
+                                    });
+                                } catch (e) { }
+                                continue;
+                            }
+                        }
+                    }
                 }
             }
 
