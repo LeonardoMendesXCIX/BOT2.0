@@ -4377,9 +4377,9 @@
     },
     "120363409367298221@g.us": {
       "5511927018683": {
-        "text": 15,
+        "text": 16,
         "media": 0,
-        "total": 15
+        "total": 16
       }
     },
     "120363313059060675@g.us": {
@@ -4663,9 +4663,9 @@
         "total": 666
       },
       "53537388122141": {
-        "text": 445,
+        "text": 446,
         "media": 71,
-        "total": 516
+        "total": 517
       },
       "129373172711439": {
         "text": 244,
@@ -4714,8 +4714,8 @@
       },
       "92629643563147": {
         "text": 539,
-        "media": 261,
-        "total": 800
+        "media": 262,
+        "total": 801
       },
       "559984624669": {
         "text": 23,
@@ -4729,8 +4729,8 @@
       },
       "182738040713418": {
         "text": 93,
-        "media": 69,
-        "total": 162
+        "media": 70,
+        "total": 163
       },
       "81991328395336": {
         "text": 303,
@@ -4753,9 +4753,9 @@
         "total": 3
       },
       "247020967165997": {
-        "text": 485,
+        "text": 486,
         "media": 37,
-        "total": 522
+        "total": 523
       },
       "206966404210884": {
         "text": 5,
@@ -5862,7 +5862,8 @@
         "Leandro: !status",
         "Leandro: !ajuda",
         "Leandro: !p post manole",
-        "Leandro: 1"
+        "Leandro: 1",
+        "Leandro: !horariobot"
       ]
     },
     "120363313059060675@g.us": {
@@ -8784,7 +8785,9 @@
         "Camila Designer: Você não me entende @108461127897146",
         "jaciara: Eu entendoooo",
         "Gabi 💋: Mais boa sorte",
-        "Camila Designer: Eu acho que essa caixinha não rola porque todas querem o @166452229341300 eu sei 🤣🤣🤣"
+        "Camila Designer: Eu acho que essa caixinha não rola porque todas querem o @166452229341300 eu sei 🤣🤣🤣",
+        "Gabi 💋: Não quero mais",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Fica com o @182738040713418 e a @247020967165997 com o @166452229341300"
       ]
     },
     "120363426574906687@g.us": {
@@ -9628,6 +9631,12 @@
         "authorName": "Leandro",
         "text": "1",
         "timestamp": 1788965002975
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "!horariobot",
+        "timestamp": 1788965825075
       }
     ],
     "120363313059060675@g.us": [],
@@ -9812,6 +9821,18 @@
         "authorName": "Camila Designer",
         "text": "Eu acho que essa caixinha não rola porque todas querem o @166452229341300 eu sei 🤣🤣🤣",
         "timestamp": 1788965808317
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Não quero mais",
+        "timestamp": 1788965818364
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Fica com o @182738040713418 e a @247020967165997 com o @166452229341300",
+        "timestamp": 1788965838024
       }
     ],
     "120363426574906687@g.us": [],
@@ -9835,10 +9856,10 @@
     "120363409024805409@g.us": 177,
     "120363050678635389@g.us": 1,
     "120363411043114631@g.us": 20,
-    "120363409367298221@g.us": 15,
+    "120363409367298221@g.us": 16,
     "120363313059060675@g.us": 1536,
     "120363427545094619@g.us": 225,
-    "120363023757382018@g.us": 5050,
+    "120363023757382018@g.us": 5052,
     "120363426574906687@g.us": 195,
     "120363408512535081@g.us": 270,
     "120363427438126559@g.us": 321
@@ -10083,10 +10104,6 @@
   },
   "pendingBvReminders": [],
   "groupSchedules": {
-    "120363428464897153@g.us": {
-      "openTime": "20:30",
-      "closeTime": "03:00"
-    },
     "120363409024805409@g.us": {
       "openTime": "07:00",
       "closeTime": "02:00"
@@ -10094,10 +10111,6 @@
     "120363023757382018@g.us": {
       "openTime": "23:59",
       "closeTime": "23:58"
-    },
-    "120363313059060675@g.us": {
-      "openTime": "20:30",
-      "closeTime": "22:12"
     },
     "120363427438126559@g.us": {
       "openTime": "20:30",
@@ -10258,6 +10271,12 @@
         "text": "1",
         "pushName": "Leandro",
         "timestamp": 1788965002975
+      },
+      "ACA5381DAEAA16AD1D39F3000F8EF460": {
+        "sender": "54259127210155@lid",
+        "text": "!horariobot",
+        "pushName": "Leandro",
+        "timestamp": 1788965825075
       }
     },
     "120363313059060675@g.us": {},
@@ -11433,6 +11452,18 @@
         "text": "Eu acho que essa caixinha não rola porque todas querem o @166452229341300 eu sei 🤣🤣🤣",
         "pushName": "Camila Designer",
         "timestamp": 1788965808318
+      },
+      "ACF040F8D0DF986123A02DD115E0AB5E": {
+        "sender": "247020967165997@lid",
+        "text": "Não quero mais",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788965818365
+      },
+      "ACBB5A0974FA8AE9E2DE126524F1D0D6": {
+        "sender": "53537388122141@lid",
+        "text": "Fica com o @182738040713418 e a @247020967165997 com o @166452229341300",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1788965838024
       }
     },
     "120363426574906687@g.us": {},
@@ -11538,10 +11569,10 @@
     "120363411246936023@g.us": 1788231210742,
     "120363409024805409@g.us": 1788947972716,
     "120363411043114631@g.us": 1787897464612,
-    "120363409367298221@g.us": 1788965002975,
+    "120363409367298221@g.us": 1788965825075,
     "120363313059060675@g.us": 1788917641021,
     "120363427545094619@g.us": 1788955889344,
-    "120363023757382018@g.us": 1788965808317,
+    "120363023757382018@g.us": 1788965838024,
     "120363426574906687@g.us": 1788915851825,
     "120363408512535081@g.us": 1788891006125,
     "120363427438126559@g.us": 1788948060865
