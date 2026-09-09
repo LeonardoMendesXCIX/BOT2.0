@@ -214,11 +214,30 @@ cron.schedule(
     const currentHHMM = getHHMM();
 
     if (storage.data.groupSchedules) {
+      const orphanChatIds: string[] = [];
       for (const chatId in storage.data.groupSchedules) {
         if (storage.isBotDisabled(chatId)) continue;
         const sched = storage.data.groupSchedules[chatId];
-        if (!sched) continue;
+        if (!sched) {
+          orphanChatIds.push(chatId);
+          continue;
+        }
         if (storage.isFeatureDisabled(chatId, "fechar_abrir")) continue;
+
+        // Valida se o grupo ainda existe antes de tentar abrir/fechar.
+        let meta: any = null;
+        try {
+          meta = await sockInstance.groupMetadata(chatId);
+        } catch (e) {}
+        if (!meta) {
+          orphanChatIds.push(chatId);
+          console.log(
+            "[AGENDA] ⚠️ Grupo " +
+              chatId +
+              " não existe mais — removendo da agenda.",
+          );
+          continue;
+        }
 
         if (sched.openTime === currentHHMM) {
           try {
@@ -255,6 +274,16 @@ cron.schedule(
             console.error("[ERRO AUTO FECHAR GRUPO]", e.message);
           }
         }
+      }
+      // Auto-limpa agendas órfãs.
+      if (orphanChatIds.length > 0) {
+        for (const cid of orphanChatIds) delete storage.data.groupSchedules[cid];
+        storage.flagSave();
+        console.log(
+          "[AGENDA] " +
+            orphanChatIds.length +
+            " grupo(s) órfão(s) removido(s) da agenda.",
+        );
       }
     }
 
