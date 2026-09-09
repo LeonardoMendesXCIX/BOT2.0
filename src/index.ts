@@ -20,6 +20,50 @@ import { startWebServer } from "./services/webServer";
 import { getFunnyMessage } from "./services/funnyMessages";
 import { getHHMM, isWithinWindow } from "./utils/time";
 
+const _logStats = {
+  reconnectCount: 0,
+  lastReconnectLog: 0,
+  successCount: 0,
+  lastSuccessLog: 0,
+};
+
+function logOnce(key: 'reconnect' | 'success', msg: string, force = false): void {
+  const now = Date.now();
+  const COOLDOWN_MS = 30000; // 30s entre logs do mesmo tipo
+  if (key === 'reconnect') {
+    _logStats.reconnectCount++;
+    if (force || now - _logStats.lastReconnectLog > COOLDOWN_MS) {
+      const repeated = _logStats.reconnectCount - 1;
+      if (repeated > 0 && !force) {
+        console.log('[SISTEMA] (+' + repeated + ' reconexões omitidas nos últimos 30s)');
+      }
+      console.log(msg);
+      _logStats.lastReconnectLog = now;
+      _logStats.reconnectCount = 0;
+    }
+  } else if (key === 'success') {
+    _logStats.successCount++;
+    if (force || now - _logStats.lastSuccessLog > COOLDOWN_MS) {
+      const repeated = _logStats.successCount - 1;
+      if (repeated > 0 && !force) {
+        console.log('[SISTEMA] (+' + repeated + ' reconexões bem-sucedidas omitidas nos últimos 30s)');
+      }
+      console.log(msg);
+      _logStats.lastSuccessLog = now;
+      _logStats.successCount = 0;
+    }
+  }
+}
+
+// Reseta contadores a cada 60s para não acumular indefinidamente
+setInterval(() => {
+  if (_logStats.reconnectCount > 0) {
+    console.log('[SISTEMA] ⚠️ Bot em loop de reconexão: ' + _logStats.reconnectCount + ' tentativas no último minuto. Verifique a pasta ./sessions ou feche instâncias duplicadas.');
+    _logStats.reconnectCount = 0;
+  }
+  _logStats.successCount = 0;
+}, 60000);
+
 process.env.TZ = "America/Sao_Paulo";
 const TIMEZONE = "America/Sao_Paulo";
 function greetingByHour(h: number): string {
@@ -363,25 +407,18 @@ async function startBot() {
       const shouldReconnect =
         (lastDisconnect?.error as any)?.output?.statusCode !==
         DisconnectReason.loggedOut;
-      console.log(
-        "[SISTEMA] Conexão fechada. Reconectando em " +
-          reconnectDelay / 1000 +
-          "s...",
-        shouldReconnect,
-      );
+      logOnce('reconnect', '[SISTEMA] Conexão fechada. Reconectando em ' + (reconnectDelay / 1000) + 's... (shouldReconnect=' + shouldReconnect + ')');
       if (shouldReconnect) {
         setTimeout(() => startBot(), reconnectDelay);
         reconnectDelay = Math.min(reconnectDelay * 2, 60000);
       } else {
-        console.log(
-          "[SISTEMA] ⚠️ Desconectado permanentemente. Apague a pasta ./sessions e reinicie para escanear o QR novamente.",
-        );
+        logOnce('reconnect', '[SISTEMA] ⚠️ Desconectado permanentemente. Apague ./sessions e reinicie.', true);
       }
     } else if (connection === "open") {
       reconnectDelay = 3000;
       lastBootAt = Date.now();
       lastProcessedMsg = Date.now();
-      console.log("[SISTEMA] 🎉 BOT DROPHTTP conectado com sucesso!");
+      logOnce('success', '[SISTEMA] 🎉 BOT DROPHTTP conectado com sucesso!');
       if (storage.data.maintenance) {
         console.log(
           "[SISTEMA] ⚠️ Bot em MODO MANUTENÇÃO. Use !botmanutencao off para voltar.",
