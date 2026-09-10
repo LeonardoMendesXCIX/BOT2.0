@@ -5669,9 +5669,9 @@
         "total": 92
       },
       "92629643563147": {
-        "text": 62,
-        "media": 22,
-        "total": 84
+        "text": 65,
+        "media": 23,
+        "total": 88
       },
       "118515428286715": {
         "text": 21,
@@ -5689,9 +5689,9 @@
         "total": 49
       },
       "108461127897146": {
-        "text": 40,
+        "text": 41,
         "media": 9,
-        "total": 49
+        "total": 50
       },
       "182738040713418": {
         "text": 13,
@@ -10058,7 +10058,11 @@
         "Camila Designer: Mas cadê o resto do povo 👀👀👀",
         "Camila Designer: Aposto que tem pessoas que só está no grupo para pegar as figurinhas +18 🤣🤣🤣",
         "Camila Designer: Sei",
-        "Camila Designer: Me prove"
+        "Camila Designer: Me prove",
+        "Camila Designer: @129373172711439 eu apareci e você sumiu ué",
+        "Camila Designer: @108461127897146",
+        "Camila Designer: Está aí?",
+        "jaciara: Eu não vi"
       ]
     }
   },
@@ -10326,6 +10330,30 @@
         "authorName": "Camila Designer",
         "text": "Me prove",
         "timestamp": 1789002579993
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "@129373172711439 eu apareci e você sumiu ué",
+        "timestamp": 1789002610677
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "@108461127897146",
+        "timestamp": 1789002612164
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Está aí?",
+        "timestamp": 1789002615185
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Eu não vi",
+        "timestamp": 1789002634671
       }
     ]
   },
@@ -10352,7 +10380,7 @@
     "120363023757382018@g.us": 5267,
     "120363426574906687@g.us": 195,
     "120363408512535081@g.us": 309,
-    "120363427438126559@g.us": 370
+    "120363427438126559@g.us": 374
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -14519,6 +14547,30 @@
         "text": "Me prove",
         "pushName": "Camila Designer",
         "timestamp": 1789002580000
+      },
+      "2A9DFC0A281E148E91DC": {
+        "sender": "92629643563147@lid",
+        "text": "@129373172711439 eu apareci e você sumiu ué",
+        "pushName": "Camila Designer",
+        "timestamp": 1789002610697
+      },
+      "2A929C56B366EFA7DFFD": {
+        "sender": "92629643563147@lid",
+        "text": "@108461127897146",
+        "pushName": "Camila Designer",
+        "timestamp": 1789002612164
+      },
+      "2AD2EF6FF899EAAC6C1E": {
+        "sender": "92629643563147@lid",
+        "text": "Está aí?",
+        "pushName": "Camila Designer",
+        "timestamp": 1789002615185
+      },
+      "ACC9E9C9F79FBEACC488D40FAFE570ED": {
+        "sender": "108461127897146@lid",
+        "text": "Eu não vi",
+        "pushName": "jaciara",
+        "timestamp": 1789002634673
       }
     }
   },
@@ -14619,7 +14671,7 @@
     "120363023757382018@g.us": 1789000955530,
     "120363426574906687@g.us": 1788915851825,
     "120363408512535081@g.us": 1789001978228,
-    "120363427438126559@g.us": 1789002585025
+    "120363427438126559@g.us": 1789002646713
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
