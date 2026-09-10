@@ -5689,9 +5689,9 @@
         "total": 49
       },
       "108461127897146": {
-        "text": 37,
+        "text": 38,
         "media": 9,
-        "total": 46
+        "total": 47
       },
       "182738040713418": {
         "text": 13,
@@ -10037,7 +10037,8 @@
         "Juliano Perlin: Né",
         "Juliano Perlin: Credo porq?",
         "Celiete Souza: Cansada",
-        "jaciara: Entendo"
+        "jaciara: Entendo",
+        "jaciara: Eu estou com tanta saudade dessa correria"
       ]
     }
   },
@@ -10287,6 +10288,12 @@
         "authorName": "jaciara",
         "text": "Entendo",
         "timestamp": 1789001833680
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Eu estou com tanta saudade dessa correria",
+        "timestamp": 1789001855944
       }
     ]
   },
@@ -10313,7 +10320,7 @@
     "120363023757382018@g.us": 5267,
     "120363426574906687@g.us": 195,
     "120363408512535081@g.us": 309,
-    "120363427438126559@g.us": 359
+    "120363427438126559@g.us": 360
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -14415,6 +14422,12 @@
         "text": "Entendo",
         "pushName": "jaciara",
         "timestamp": 1789001833680
+      },
+      "AC041229E2BFA403CA61E9BDE88A02CB": {
+        "sender": "108461127897146@lid",
+        "text": "Eu estou com tanta saudade dessa correria",
+        "pushName": "jaciara",
+        "timestamp": 1789001855944
       }
     }
   },
@@ -14515,7 +14528,7 @@
     "120363023757382018@g.us": 1789000955530,
     "120363426574906687@g.us": 1788915851825,
     "120363408512535081@g.us": 1789001557628,
-    "120363427438126559@g.us": 1789001833680
+    "120363427438126559@g.us": 1789001855944
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
