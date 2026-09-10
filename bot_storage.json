@@ -5699,9 +5699,9 @@
         "total": 21
       },
       "171214744064197": {
-        "text": 20,
+        "text": 21,
         "media": 0,
-        "total": 20
+        "total": 21
       },
       "155688940625976": {
         "text": 3,
@@ -10004,7 +10004,8 @@
         "Gabi 💋: Doida igual eu",
         "Cafe: Concordo kkk",
         "Victor: kkk sim",
-        "Victor: ta complicado pra vc hoje"
+        "Victor: ta complicado pra vc hoje",
+        "Márcio Bruxel: Bonitas e feias....kkkkk"
       ]
     }
   },
@@ -10122,6 +10123,12 @@
         "authorName": "Victor",
         "text": "ta complicado pra vc hoje",
         "timestamp": 1789000087435
+      },
+      {
+        "authorNum": "171214744064197",
+        "authorName": "Márcio Bruxel",
+        "text": "Bonitas e feias....kkkkk",
+        "timestamp": 1789001183693
       }
     ]
   },
@@ -10148,7 +10155,7 @@
     "120363023757382018@g.us": 5267,
     "120363426574906687@g.us": 195,
     "120363408512535081@g.us": 308,
-    "120363427438126559@g.us": 332
+    "120363427438126559@g.us": 333
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -14082,6 +14089,12 @@
         "text": "ta complicado pra vc hoje",
         "pushName": "Victor",
         "timestamp": 1789000087436
+      },
+      "AC733045F068B0A6AF1CED4080FDCD9A": {
+        "sender": "171214744064197@lid",
+        "text": "Bonitas e feias....kkkkk",
+        "pushName": "Márcio Bruxel",
+        "timestamp": 1789001183693
       }
     }
   },
@@ -14182,7 +14195,7 @@
     "120363023757382018@g.us": 1789000955530,
     "120363426574906687@g.us": 1788915851825,
     "120363408512535081@g.us": 1789000907892,
-    "120363427438126559@g.us": 1789000556712
+    "120363427438126559@g.us": 1789001183693
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
