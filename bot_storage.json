@@ -5669,9 +5669,9 @@
         "total": 92
       },
       "92629643563147": {
-        "text": 58,
-        "media": 18,
-        "total": 76
+        "text": 59,
+        "media": 19,
+        "total": 78
       },
       "118515428286715": {
         "text": 21,
@@ -5710,8 +5710,8 @@
       },
       "252342414905454": {
         "text": 13,
-        "media": 7,
-        "total": 20
+        "media": 9,
+        "total": 22
       },
       "247635785080860": {
         "text": 46,
@@ -10049,7 +10049,8 @@
         "jaciara: Descanse",
         "jaciara: Kkkkkk",
         ": Descanse",
-        "Camila Designer: Gente esses dias complicado acompanhar!"
+        "Camila Designer: Gente esses dias complicado acompanhar!",
+        "Camila Designer: Mas cadê o resto do povo 👀👀👀"
       ]
     }
   },
@@ -10311,6 +10312,12 @@
         "authorName": "Camila Designer",
         "text": "Gente esses dias complicado acompanhar!",
         "timestamp": 1789002200634
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Mas cadê o resto do povo 👀👀👀",
+        "timestamp": 1789002216878
       }
     ]
   },
@@ -10337,7 +10344,7 @@
     "120363023757382018@g.us": 5267,
     "120363426574906687@g.us": 195,
     "120363408512535081@g.us": 309,
-    "120363427438126559@g.us": 366
+    "120363427438126559@g.us": 367
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -14475,6 +14482,12 @@
         "text": "Gente esses dias complicado acompanhar!",
         "pushName": "Camila Designer",
         "timestamp": 1789002200634
+      },
+      "2A748687996E13CA69C9": {
+        "sender": "92629643563147@lid",
+        "text": "Mas cadê o resto do povo 👀👀👀",
+        "pushName": "Camila Designer",
+        "timestamp": 1789002216879
       }
     }
   },
@@ -14575,7 +14588,7 @@
     "120363023757382018@g.us": 1789000955530,
     "120363426574906687@g.us": 1788915851825,
     "120363408512535081@g.us": 1789001978228,
-    "120363427438126559@g.us": 1789002200634
+    "120363427438126559@g.us": 1789002227919
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
