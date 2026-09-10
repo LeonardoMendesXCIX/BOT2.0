@@ -5754,9 +5754,9 @@
         "total": 6
       },
       "59623457439943": {
-        "text": 9,
+        "text": 11,
         "media": 0,
-        "total": 9
+        "total": 11
       },
       "247020967165997": {
         "text": 18,
@@ -9981,7 +9981,9 @@
         "Cristian Sntss: Bom diaaaaa @⁨todos⁩ \n\nQue Deus abençoe o nosso digníssimo dia 🤍",
         "Gabi 💋: Preciso de uma foto Oi usado Marcio",
         "Gabi 💋: Preciso de uma foto ousada por favor",
-        "Cafe: Jaja vou mandar"
+        "Cafe: Jaja vou mandar",
+        "Victor: 10 homens pra 1 mulher no grupo",
+        "Victor: abandonaram vc, gabi"
       ]
     }
   },
@@ -10020,6 +10022,18 @@
         "authorName": "Cafe",
         "text": "Jaja vou mandar",
         "timestamp": 1788999710296
+      },
+      {
+        "authorNum": "59623457439943",
+        "authorName": "Victor",
+        "text": "10 homens pra 1 mulher no grupo",
+        "timestamp": 1788999994712
+      },
+      {
+        "authorNum": "59623457439943",
+        "authorName": "Victor",
+        "text": "abandonaram vc, gabi",
+        "timestamp": 1789000005588
       }
     ]
   },
@@ -10046,7 +10060,7 @@
     "120363023757382018@g.us": 5267,
     "120363426574906687@g.us": 195,
     "120363408512535081@g.us": 303,
-    "120363427438126559@g.us": 324
+    "120363427438126559@g.us": 326
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -13902,6 +13916,18 @@
         "text": "Jaja vou mandar",
         "pushName": "Cafe",
         "timestamp": 1788999710297
+      },
+      "AC66FEA42618E3EB51FA34397152143D": {
+        "sender": "59623457439943@lid",
+        "text": "10 homens pra 1 mulher no grupo",
+        "pushName": "Victor",
+        "timestamp": 1788999994712
+      },
+      "AC4A91DEA673C8A00B69D8F0D5862ED0": {
+        "sender": "59623457439943@lid",
+        "text": "abandonaram vc, gabi",
+        "pushName": "Victor",
+        "timestamp": 1789000005588
       }
     }
   },
@@ -14002,7 +14028,7 @@
     "120363023757382018@g.us": 1788982036142,
     "120363426574906687@g.us": 1788915851825,
     "120363408512535081@g.us": 1788974002108,
-    "120363427438126559@g.us": 1788999733320
+    "120363427438126559@g.us": 1789000005588
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
