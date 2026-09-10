@@ -5759,9 +5759,9 @@
         "total": 11
       },
       "247020967165997": {
-        "text": 18,
+        "text": 19,
         "media": 2,
-        "total": 20
+        "total": 21
       },
       "155503636275307": {
         "text": 5,
@@ -9983,7 +9983,8 @@
         "Gabi 💋: Preciso de uma foto ousada por favor",
         "Cafe: Jaja vou mandar",
         "Victor: 10 homens pra 1 mulher no grupo",
-        "Victor: abandonaram vc, gabi"
+        "Victor: abandonaram vc, gabi",
+        "Gabi 💋: É tô sozinha"
       ]
     }
   },
@@ -10034,6 +10035,12 @@
         "authorName": "Victor",
         "text": "abandonaram vc, gabi",
         "timestamp": 1789000005588
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "É tô sozinha",
+        "timestamp": 1789000030438
       }
     ]
   },
@@ -10060,7 +10067,7 @@
     "120363023757382018@g.us": 5267,
     "120363426574906687@g.us": 195,
     "120363408512535081@g.us": 303,
-    "120363427438126559@g.us": 326
+    "120363427438126559@g.us": 327
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -13928,6 +13935,12 @@
         "text": "abandonaram vc, gabi",
         "pushName": "Victor",
         "timestamp": 1789000005588
+      },
+      "AC996577E0C4D6A351FA7754B6D49F1A": {
+        "sender": "247020967165997@lid",
+        "text": "É tô sozinha",
+        "pushName": "Gabi 💋",
+        "timestamp": 1789000030438
       }
     }
   },
@@ -14028,7 +14041,7 @@
     "120363023757382018@g.us": 1788982036142,
     "120363426574906687@g.us": 1788915851825,
     "120363408512535081@g.us": 1788974002108,
-    "120363427438126559@g.us": 1789000005588
+    "120363427438126559@g.us": 1789000030438
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
