@@ -5689,9 +5689,9 @@
         "total": 49
       },
       "108461127897146": {
-        "text": 36,
+        "text": 37,
         "media": 9,
-        "total": 45
+        "total": 46
       },
       "182738040713418": {
         "text": 13,
@@ -10036,7 +10036,8 @@
         "Juliano Perlin: 🥵🥵",
         "Juliano Perlin: Né",
         "Juliano Perlin: Credo porq?",
-        "Celiete Souza: Cansada"
+        "Celiete Souza: Cansada",
+        "jaciara: Entendo"
       ]
     }
   },
@@ -10095,12 +10096,6 @@
       }
     ],
     "120363427438126559@g.us": [
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "É tô sozinha",
-        "timestamp": 1789000030438
-      },
       {
         "authorNum": "247020967165997",
         "authorName": "Gabi 💋",
@@ -10286,6 +10281,12 @@
         "authorName": "Celiete Souza",
         "text": "Cansada",
         "timestamp": 1789001807120
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Entendo",
+        "timestamp": 1789001833680
       }
     ]
   },
@@ -10312,7 +10313,7 @@
     "120363023757382018@g.us": 5267,
     "120363426574906687@g.us": 195,
     "120363408512535081@g.us": 309,
-    "120363427438126559@g.us": 358
+    "120363427438126559@g.us": 359
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -14408,6 +14409,12 @@
         "text": "Cansada",
         "pushName": "Celiete Souza",
         "timestamp": 1789001807120
+      },
+      "AC18AA2C9E933BC0CCF6B54F7A27CDC1": {
+        "sender": "108461127897146@lid",
+        "text": "Entendo",
+        "pushName": "jaciara",
+        "timestamp": 1789001833680
       }
     }
   },
@@ -14508,7 +14515,7 @@
     "120363023757382018@g.us": 1789000955530,
     "120363426574906687@g.us": 1788915851825,
     "120363408512535081@g.us": 1789001557628,
-    "120363427438126559@g.us": 1789001807120
+    "120363427438126559@g.us": 1789001833680
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
