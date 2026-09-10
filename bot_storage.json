@@ -5664,9 +5664,9 @@
     },
     "120363427438126559@g.us": {
       "129373172711439": {
-        "text": 69,
+        "text": 70,
         "media": 16,
-        "total": 85
+        "total": 86
       },
       "92629643563147": {
         "text": 56,
@@ -5689,9 +5689,9 @@
         "total": 44
       },
       "108461127897146": {
-        "text": 35,
+        "text": 36,
         "media": 9,
-        "total": 44
+        "total": 45
       },
       "182738040713418": {
         "text": 13,
@@ -10028,7 +10028,8 @@
         "Diego: Odeio ainda bem que já estamos em setembro agora tá mais perto do que nunca o verão",
         "Victor: inclusiva ela",
         "jaciara: Estou bem também",
-        "jaciara: Eu posso ser inclusa nas duas opções"
+        "jaciara: Eu posso ser inclusa nas duas opções",
+        "jaciara: @222595437858867 passou o dia sumido"
       ]
     }
   },
@@ -10242,6 +10243,12 @@
         "authorName": "jaciara",
         "text": "Eu posso ser inclusa nas duas opções",
         "timestamp": 1789001621050
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "@222595437858867 passou o dia sumido",
+        "timestamp": 1789001696012
       }
     ]
   },
@@ -10268,7 +10275,7 @@
     "120363023757382018@g.us": 5267,
     "120363426574906687@g.us": 195,
     "120363408512535081@g.us": 309,
-    "120363427438126559@g.us": 350
+    "120363427438126559@g.us": 351
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -14316,6 +14323,12 @@
         "text": "Eu posso ser inclusa nas duas opções",
         "pushName": "jaciara",
         "timestamp": 1789001621050
+      },
+      "AC634959C300A7B1490520C185C562E5": {
+        "sender": "108461127897146@lid",
+        "text": "@222595437858867 passou o dia sumido",
+        "pushName": "jaciara",
+        "timestamp": 1789001696012
       }
     }
   },
@@ -14416,7 +14429,7 @@
     "120363023757382018@g.us": 1789000955530,
     "120363426574906687@g.us": 1788915851825,
     "120363408512535081@g.us": 1789001557628,
-    "120363427438126559@g.us": 1789001632944
+    "120363427438126559@g.us": 1789001696012
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
