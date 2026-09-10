@@ -78,7 +78,6 @@ export interface BotStorage {
     autoTranscribe: Record<string, boolean>;
     antidelete: Record<string, boolean>;
     messageBuffer: Record<string, Record<string, { text: string; sender: string; pushName: string; timestamp: number }>>;
-    bannedWords: Record<string, string[]>;
     groupRules: Record<string, string>;
     warnings: Record<string, Record<string, number>>;
     maxWarnings: Record<string, number>;
@@ -129,7 +128,6 @@ export class StorageManager {
             autoTranscribe: {},
             antidelete: {},
             messageBuffer: {},
-            bannedWords: {},
             groupRules: {},
             warnings: {},
             maxWarnings: {},

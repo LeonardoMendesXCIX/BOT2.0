@@ -121,7 +121,7 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
     }
     const IGNORED_MULTIMEDIA_PREFIXES = ['!song', '!msc', '!tocar', '!ytmp3'];
     if (IGNORED_MULTIMEDIA_PREFIXES.includes(firstWord)) return;
-    if (['!desenhe', '!criarimg', '!gerarimg', '!sorteio', '!quiz', '!charada', '!moeda', '!cotacao', '!qrcode', '!alerta'].includes(firstWord)) {
+    if (['!desenhe', '!criarimg', '!gerarimg', '!sorteio', '!quiz', '!charada', '!moeda', '!cotacao', '!qrcode'].includes(firstWord)) {
         await sock.sendMessage(chatId, { text: '⚠️ Este comando foi removido do BOT DROPHTTP.' }, { quoted: msg });
         return;
     }
