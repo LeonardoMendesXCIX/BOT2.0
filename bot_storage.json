@@ -5689,9 +5689,9 @@
         "total": 40
       },
       "108461127897146": {
-        "text": 29,
-        "media": 7,
-        "total": 36
+        "text": 31,
+        "media": 8,
+        "total": 39
       },
       "182738040713418": {
         "text": 13,
@@ -5794,9 +5794,9 @@
         "total": 3
       },
       "194377938911429": {
-        "text": 1,
+        "text": 2,
         "media": 0,
-        "total": 1
+        "total": 2
       },
       "102109089378363": {
         "text": 4,
@@ -10006,7 +10006,9 @@
         "Victor: kkk sim",
         "Victor: ta complicado pra vc hoje",
         "Márcio Bruxel: Bonitas e feias....kkkkk",
-        "Márcio Bruxel: Oi tudo bem contigo?"
+        "Márcio Bruxel: Oi tudo bem contigo?",
+        "jaciara: Tá bem",
+        "jaciara: Estou bem graças a Deus"
       ]
     }
   },
@@ -10136,6 +10138,18 @@
         "authorName": "Márcio Bruxel",
         "text": "Oi tudo bem contigo?",
         "timestamp": 1789001197557
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Tá bem",
+        "timestamp": 1789001255910
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Estou bem graças a Deus",
+        "timestamp": 1789001262623
       }
     ]
   },
@@ -10162,7 +10176,7 @@
     "120363023757382018@g.us": 5267,
     "120363426574906687@g.us": 195,
     "120363408512535081@g.us": 308,
-    "120363427438126559@g.us": 334
+    "120363427438126559@g.us": 336
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -14108,6 +14122,18 @@
         "text": "Oi tudo bem contigo?",
         "pushName": "Márcio Bruxel",
         "timestamp": 1789001197557
+      },
+      "ACE1FE04E42764ADBA50ECE5AF432A76": {
+        "sender": "108461127897146@lid",
+        "text": "Tá bem",
+        "pushName": "jaciara",
+        "timestamp": 1789001255910
+      },
+      "AC2FAF50E821EC5C73FF898260CDD1B8": {
+        "sender": "108461127897146@lid",
+        "text": "Estou bem graças a Deus",
+        "pushName": "jaciara",
+        "timestamp": 1789001262623
       }
     }
   },
@@ -14208,7 +14234,7 @@
     "120363023757382018@g.us": 1789000955530,
     "120363426574906687@g.us": 1788915851825,
     "120363408512535081@g.us": 1789000907892,
-    "120363427438126559@g.us": 1789001197557
+    "120363427438126559@g.us": 1789001262623
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
