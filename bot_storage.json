@@ -5669,9 +5669,9 @@
         "total": 92
       },
       "92629643563147": {
-        "text": 57,
+        "text": 58,
         "media": 18,
-        "total": 75
+        "total": 76
       },
       "118515428286715": {
         "text": 21,
@@ -5689,9 +5689,9 @@
         "total": 49
       },
       "108461127897146": {
-        "text": 38,
+        "text": 40,
         "media": 9,
-        "total": 47
+        "total": 49
       },
       "182738040713418": {
         "text": 13,
@@ -5817,6 +5817,11 @@
         "text": 4,
         "media": 0,
         "total": 4
+      },
+      "120363427438126559": {
+        "text": 1,
+        "media": 0,
+        "total": 1
       }
     }
   },
@@ -10040,7 +10045,11 @@
         "jaciara: Entendo",
         "jaciara: Eu estou com tanta saudade dessa correria",
         "Celiete Souza: Não estranhem se eu desaparecer",
-        "Camila Designer: Chama suas amigas 🤣🤣🤣"
+        "Camila Designer: Chama suas amigas 🤣🤣🤣",
+        "jaciara: Descanse",
+        "jaciara: Kkkkkk",
+        ": Descanse",
+        "Camila Designer: Gente esses dias complicado acompanhar!"
       ]
     }
   },
@@ -10278,6 +10287,30 @@
         "authorName": "Camila Designer",
         "text": "Chama suas amigas 🤣🤣🤣",
         "timestamp": 1789002076312
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Descanse",
+        "timestamp": 1789002197216
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Kkkkkk",
+        "timestamp": 1789002197684
+      },
+      {
+        "authorNum": "120363427438126559",
+        "authorName": "",
+        "text": "Descanse",
+        "timestamp": 1789002197846
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Gente esses dias complicado acompanhar!",
+        "timestamp": 1789002200634
       }
     ]
   },
@@ -10304,7 +10337,7 @@
     "120363023757382018@g.us": 5267,
     "120363426574906687@g.us": 195,
     "120363408512535081@g.us": 309,
-    "120363427438126559@g.us": 362
+    "120363427438126559@g.us": 366
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -14424,6 +14457,24 @@
         "text": "Chama suas amigas 🤣🤣🤣",
         "pushName": "Camila Designer",
         "timestamp": 1789002076312
+      },
+      "AC064AD806F68B6231F92D5E80023594": {
+        "sender": "120363427438126559@g.us",
+        "text": "Descanse",
+        "pushName": "",
+        "timestamp": 1789002197846
+      },
+      "AC71F025801399FF44C15C03B9F3C99B": {
+        "sender": "108461127897146@lid",
+        "text": "Kkkkkk",
+        "pushName": "jaciara",
+        "timestamp": 1789002197685
+      },
+      "2A2B5849F1917EA10576": {
+        "sender": "92629643563147@lid",
+        "text": "Gente esses dias complicado acompanhar!",
+        "pushName": "Camila Designer",
+        "timestamp": 1789002200634
       }
     }
   },
@@ -14524,7 +14575,7 @@
     "120363023757382018@g.us": 1789000955530,
     "120363426574906687@g.us": 1788915851825,
     "120363408512535081@g.us": 1789001978228,
-    "120363427438126559@g.us": 1789002076312
+    "120363427438126559@g.us": 1789002200634
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
