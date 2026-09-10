@@ -5759,9 +5759,9 @@
         "total": 11
       },
       "247020967165997": {
-        "text": 19,
-        "media": 2,
-        "total": 21
+        "text": 22,
+        "media": 4,
+        "total": 26
       },
       "155503636275307": {
         "text": 5,
@@ -5802,6 +5802,11 @@
         "text": 2,
         "media": 1,
         "total": 3
+      },
+      "168814025171012": {
+        "text": 0,
+        "media": 1,
+        "total": 1
       }
     }
   },
@@ -9984,7 +9989,9 @@
         "Cafe: Jaja vou mandar",
         "Victor: 10 homens pra 1 mulher no grupo",
         "Victor: abandonaram vc, gabi",
-        "Gabi 💋: É tô sozinha"
+        "Gabi 💋: É tô sozinha",
+        "Gabi 💋: Preciso de mais mulheres nesse grupo",
+        "Gabi 💋: Doida igual eu"
       ]
     }
   },
@@ -10041,6 +10048,18 @@
         "authorName": "Gabi 💋",
         "text": "É tô sozinha",
         "timestamp": 1789000030438
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Preciso de mais mulheres nesse grupo",
+        "timestamp": 1789000057132
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Doida igual eu",
+        "timestamp": 1789000059152
       }
     ]
   },
@@ -10067,7 +10086,7 @@
     "120363023757382018@g.us": 5267,
     "120363426574906687@g.us": 195,
     "120363408512535081@g.us": 303,
-    "120363427438126559@g.us": 327
+    "120363427438126559@g.us": 329
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -13941,6 +13960,18 @@
         "text": "É tô sozinha",
         "pushName": "Gabi 💋",
         "timestamp": 1789000030438
+      },
+      "AC8C4B7DCE33EEF0FF559B7AAFC17E4A": {
+        "sender": "247020967165997@lid",
+        "text": "Preciso de mais mulheres nesse grupo",
+        "pushName": "Gabi 💋",
+        "timestamp": 1789000057132
+      },
+      "AC7FE372F2901B48FA46FD7AD0DC42D6": {
+        "sender": "247020967165997@lid",
+        "text": "Doida igual eu",
+        "pushName": "Gabi 💋",
+        "timestamp": 1789000059152
       }
     }
   },
@@ -14041,7 +14072,7 @@
     "120363023757382018@g.us": 1788982036142,
     "120363426574906687@g.us": 1788915851825,
     "120363408512535081@g.us": 1788974002108,
-    "120363427438126559@g.us": 1789000030438
+    "120363427438126559@g.us": 1789000066153
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
