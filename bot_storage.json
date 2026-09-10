@@ -5664,9 +5664,9 @@
     },
     "120363427438126559@g.us": {
       "129373172711439": {
-        "text": 70,
+        "text": 71,
         "media": 16,
-        "total": 86
+        "total": 87
       },
       "92629643563147": {
         "text": 56,
@@ -10029,7 +10029,8 @@
         "Victor: inclusiva ela",
         "jaciara: Estou bem também",
         "jaciara: Eu posso ser inclusa nas duas opções",
-        "jaciara: @222595437858867 passou o dia sumido"
+        "jaciara: @222595437858867 passou o dia sumido",
+        "Celiete Souza: Acho que nós dois né @222595437858867"
       ]
     }
   },
@@ -10249,6 +10250,12 @@
         "authorName": "jaciara",
         "text": "@222595437858867 passou o dia sumido",
         "timestamp": 1789001696012
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Acho que nós dois né @222595437858867",
+        "timestamp": 1789001723992
       }
     ]
   },
@@ -10275,7 +10282,7 @@
     "120363023757382018@g.us": 5267,
     "120363426574906687@g.us": 195,
     "120363408512535081@g.us": 309,
-    "120363427438126559@g.us": 351
+    "120363427438126559@g.us": 352
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -14329,6 +14336,12 @@
         "text": "@222595437858867 passou o dia sumido",
         "pushName": "jaciara",
         "timestamp": 1789001696012
+      },
+      "AC4BF69D3D2D9E71648078A9CFC39DFC": {
+        "sender": "129373172711439@lid",
+        "text": "Acho que nós dois né @222595437858867",
+        "pushName": "Celiete Souza",
+        "timestamp": 1789001723992
       }
     }
   },
@@ -14429,7 +14442,7 @@
     "120363023757382018@g.us": 1789000955530,
     "120363426574906687@g.us": 1788915851825,
     "120363408512535081@g.us": 1789001557628,
-    "120363427438126559@g.us": 1789001696012
+    "120363427438126559@g.us": 1789001723992
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
