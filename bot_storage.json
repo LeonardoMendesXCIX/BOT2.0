@@ -5664,9 +5664,9 @@
     },
     "120363427438126559@g.us": {
       "129373172711439": {
-        "text": 72,
-        "media": 16,
-        "total": 88
+        "text": 74,
+        "media": 17,
+        "total": 91
       },
       "92629643563147": {
         "text": 56,
@@ -5684,9 +5684,9 @@
         "total": 5
       },
       "222595437858867": {
-        "text": 43,
+        "text": 46,
         "media": 3,
-        "total": 46
+        "total": 49
       },
       "108461127897146": {
         "text": 36,
@@ -10033,7 +10033,10 @@
         "Celiete Souza: Acho que nós dois né @222595437858867",
         "Juliano Perlin: Muitos afazeres",
         "Celiete Souza: Estou quase indo de arrasta",
-        "Juliano Perlin: 🥵🥵"
+        "Juliano Perlin: 🥵🥵",
+        "Juliano Perlin: Né",
+        "Juliano Perlin: Credo porq?",
+        "Celiete Souza: Cansada"
       ]
     }
   },
@@ -10092,18 +10095,6 @@
       }
     ],
     "120363427438126559@g.us": [
-      {
-        "authorNum": "59623457439943",
-        "authorName": "Victor",
-        "text": "10 homens pra 1 mulher no grupo",
-        "timestamp": 1788999994712
-      },
-      {
-        "authorNum": "59623457439943",
-        "authorName": "Victor",
-        "text": "abandonaram vc, gabi",
-        "timestamp": 1789000005588
-      },
       {
         "authorNum": "247020967165997",
         "authorName": "Gabi 💋",
@@ -10277,6 +10268,24 @@
         "authorName": "Juliano Perlin",
         "text": "🥵🥵",
         "timestamp": 1789001762152
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Né",
+        "timestamp": 1789001769876
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Credo porq?",
+        "timestamp": 1789001778376
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Cansada",
+        "timestamp": 1789001807120
       }
     ]
   },
@@ -10303,7 +10312,7 @@
     "120363023757382018@g.us": 5267,
     "120363426574906687@g.us": 195,
     "120363408512535081@g.us": 309,
-    "120363427438126559@g.us": 355
+    "120363427438126559@g.us": 358
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -14381,6 +14390,24 @@
         "text": "🥵🥵",
         "pushName": "Juliano Perlin",
         "timestamp": 1789001762152
+      },
+      "AC9BB4E9F41DAB193623C471DFB086F2": {
+        "sender": "222595437858867@lid",
+        "text": "Né",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1789001769876
+      },
+      "AC9034EE69ADFD8D781CBCD56B93C96B": {
+        "sender": "222595437858867@lid",
+        "text": "Credo porq?",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1789001778376
+      },
+      "AC4B11070B53B37A80893F4CD9D3A4C2": {
+        "sender": "129373172711439@lid",
+        "text": "Cansada",
+        "pushName": "Celiete Souza",
+        "timestamp": 1789001807120
       }
     }
   },
@@ -14481,7 +14508,7 @@
     "120363023757382018@g.us": 1789000955530,
     "120363426574906687@g.us": 1788915851825,
     "120363408512535081@g.us": 1789001557628,
-    "120363427438126559@g.us": 1789001762152
+    "120363427438126559@g.us": 1789001807120
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
