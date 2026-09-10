@@ -5754,9 +5754,9 @@
         "total": 6
       },
       "59623457439943": {
-        "text": 11,
+        "text": 13,
         "media": 0,
-        "total": 11
+        "total": 13
       },
       "247020967165997": {
         "text": 22,
@@ -5799,9 +5799,9 @@
         "total": 1
       },
       "102109089378363": {
-        "text": 2,
-        "media": 1,
-        "total": 3
+        "text": 3,
+        "media": 2,
+        "total": 5
       },
       "168814025171012": {
         "text": 0,
@@ -9991,7 +9991,10 @@
         "Victor: abandonaram vc, gabi",
         "Gabi 💋: É tô sozinha",
         "Gabi 💋: Preciso de mais mulheres nesse grupo",
-        "Gabi 💋: Doida igual eu"
+        "Gabi 💋: Doida igual eu",
+        "Cafe: Concordo kkk",
+        "Victor: kkk sim",
+        "Victor: ta complicado pra vc hoje"
       ]
     }
   },
@@ -10060,6 +10063,24 @@
         "authorName": "Gabi 💋",
         "text": "Doida igual eu",
         "timestamp": 1789000059152
+      },
+      {
+        "authorNum": "102109089378363",
+        "authorName": "Cafe",
+        "text": "Concordo kkk",
+        "timestamp": 1789000077779
+      },
+      {
+        "authorNum": "59623457439943",
+        "authorName": "Victor",
+        "text": "kkk sim",
+        "timestamp": 1789000082637
+      },
+      {
+        "authorNum": "59623457439943",
+        "authorName": "Victor",
+        "text": "ta complicado pra vc hoje",
+        "timestamp": 1789000087435
       }
     ]
   },
@@ -10086,7 +10107,7 @@
     "120363023757382018@g.us": 5267,
     "120363426574906687@g.us": 195,
     "120363408512535081@g.us": 303,
-    "120363427438126559@g.us": 329
+    "120363427438126559@g.us": 332
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -13972,6 +13993,24 @@
         "text": "Doida igual eu",
         "pushName": "Gabi 💋",
         "timestamp": 1789000059152
+      },
+      "2A50818C634DD2C267AF": {
+        "sender": "102109089378363@lid",
+        "text": "Concordo kkk",
+        "pushName": "Cafe",
+        "timestamp": 1789000077779
+      },
+      "ACE85660B9EABD79E840467498FD52D8": {
+        "sender": "59623457439943@lid",
+        "text": "kkk sim",
+        "pushName": "Victor",
+        "timestamp": 1789000082637
+      },
+      "AC0B4290A75DB5E7B524FDC5BD40C822": {
+        "sender": "59623457439943@lid",
+        "text": "ta complicado pra vc hoje",
+        "pushName": "Victor",
+        "timestamp": 1789000087436
       }
     }
   },
@@ -14072,7 +14111,7 @@
     "120363023757382018@g.us": 1788982036142,
     "120363426574906687@g.us": 1788915851825,
     "120363408512535081@g.us": 1788974002108,
-    "120363427438126559@g.us": 1789000066153
+    "120363427438126559@g.us": 1789000087435
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
