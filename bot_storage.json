@@ -5664,9 +5664,9 @@
     },
     "120363427438126559@g.us": {
       "129373172711439": {
-        "text": 71,
+        "text": 72,
         "media": 16,
-        "total": 87
+        "total": 88
       },
       "92629643563147": {
         "text": 56,
@@ -5684,9 +5684,9 @@
         "total": 5
       },
       "222595437858867": {
-        "text": 41,
+        "text": 43,
         "media": 3,
-        "total": 44
+        "total": 46
       },
       "108461127897146": {
         "text": 36,
@@ -10030,7 +10030,10 @@
         "jaciara: Estou bem também",
         "jaciara: Eu posso ser inclusa nas duas opções",
         "jaciara: @222595437858867 passou o dia sumido",
-        "Celiete Souza: Acho que nós dois né @222595437858867"
+        "Celiete Souza: Acho que nós dois né @222595437858867",
+        "Juliano Perlin: Muitos afazeres",
+        "Celiete Souza: Estou quase indo de arrasta",
+        "Juliano Perlin: 🥵🥵"
       ]
     }
   },
@@ -10256,6 +10259,24 @@
         "authorName": "Celiete Souza",
         "text": "Acho que nós dois né @222595437858867",
         "timestamp": 1789001723992
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "Muitos afazeres",
+        "timestamp": 1789001754208
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Estou quase indo de arrasta",
+        "timestamp": 1789001756872
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "🥵🥵",
+        "timestamp": 1789001762152
       }
     ]
   },
@@ -10282,7 +10303,7 @@
     "120363023757382018@g.us": 5267,
     "120363426574906687@g.us": 195,
     "120363408512535081@g.us": 309,
-    "120363427438126559@g.us": 352
+    "120363427438126559@g.us": 355
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -14342,6 +14363,24 @@
         "text": "Acho que nós dois né @222595437858867",
         "pushName": "Celiete Souza",
         "timestamp": 1789001723992
+      },
+      "AC16CE516BA63F38ACF40C7F35CCB1C8": {
+        "sender": "222595437858867@lid",
+        "text": "Muitos afazeres",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1789001754208
+      },
+      "ACA4BEAB624FCBBD78C0169A58138044": {
+        "sender": "129373172711439@lid",
+        "text": "Estou quase indo de arrasta",
+        "pushName": "Celiete Souza",
+        "timestamp": 1789001756872
+      },
+      "ACD754D243554D184F872CB6CB5A7620": {
+        "sender": "222595437858867@lid",
+        "text": "🥵🥵",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1789001762152
       }
     }
   },
@@ -14442,7 +14481,7 @@
     "120363023757382018@g.us": 1789000955530,
     "120363426574906687@g.us": 1788915851825,
     "120363408512535081@g.us": 1789001557628,
-    "120363427438126559@g.us": 1789001723992
+    "120363427438126559@g.us": 1789001762152
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
