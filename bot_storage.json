@@ -5814,9 +5814,9 @@
         "total": 1
       },
       "122552932372575": {
-        "text": 1,
+        "text": 2,
         "media": 0,
-        "total": 1
+        "total": 2
       }
     }
   },
@@ -10017,7 +10017,8 @@
         "mnr_edhu_oficial: Trabalho como escravo só faltou o xichite",
         "marciobarcaro98: Sim",
         "Diego: Boa noite gaúcha",
-        "Juliano Perlin: Oii🥰"
+        "Juliano Perlin: Oii🥰",
+        "Diego: Coisa boa se encontramos por aqui de novo"
       ]
     }
   },
@@ -10070,12 +10071,6 @@
       }
     ],
     "120363427438126559@g.us": [
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Preciso de uma foto ousada por favor",
-        "timestamp": 1788999606638
-      },
       {
         "authorNum": "102109089378363",
         "authorName": "Cafe",
@@ -10177,6 +10172,12 @@
         "authorName": "Juliano Perlin",
         "text": "Oii🥰",
         "timestamp": 1789001401911
+      },
+      {
+        "authorNum": "122552932372575",
+        "authorName": "Diego",
+        "text": "Coisa boa se encontramos por aqui de novo",
+        "timestamp": 1789001440111
       }
     ]
   },
@@ -10203,7 +10204,7 @@
     "120363023757382018@g.us": 5267,
     "120363426574906687@g.us": 195,
     "120363408512535081@g.us": 308,
-    "120363427438126559@g.us": 340
+    "120363427438126559@g.us": 341
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -14185,6 +14186,12 @@
         "text": "Oii🥰",
         "pushName": "Juliano Perlin",
         "timestamp": 1789001401911
+      },
+      "AC8464211E132E70F1A69236C0B7B727": {
+        "sender": "122552932372575@lid",
+        "text": "Coisa boa se encontramos por aqui de novo",
+        "pushName": "Diego",
+        "timestamp": 1789001440111
       }
     }
   },
@@ -14285,7 +14292,7 @@
     "120363023757382018@g.us": 1789000955530,
     "120363426574906687@g.us": 1788915851825,
     "120363408512535081@g.us": 1789000907892,
-    "120363427438126559@g.us": 1789001401911
+    "120363427438126559@g.us": 1789001440111
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
