@@ -5759,9 +5759,9 @@
         "total": 9
       },
       "247020967165997": {
-        "text": 15,
+        "text": 17,
         "media": 2,
-        "total": 17
+        "total": 19
       },
       "155503636275307": {
         "text": 5,
@@ -5792,6 +5792,11 @@
         "text": 3,
         "media": 0,
         "total": 3
+      },
+      "194377938911429": {
+        "text": 1,
+        "media": 0,
+        "total": 1
       }
     }
   },
@@ -9968,7 +9973,9 @@
         "Leandro: Psiu @81991328395336",
         "Celiete Souza: Tô tentando",
         "Celiete Souza: Credo klkkkk",
-        "Cristian Sntss: Bom diaaaaa @⁨todos⁩ \n\nQue Deus abençoe o nosso digníssimo dia 🤍"
+        "Cristian Sntss: Bom diaaaaa @⁨todos⁩ \n\nQue Deus abençoe o nosso digníssimo dia 🤍",
+        "Gabi 💋: Preciso de uma foto Oi usado Marcio",
+        "Gabi 💋: Preciso de uma foto ousada por favor"
       ]
     }
   },
@@ -9989,7 +9996,20 @@
     "120363023757382018@g.us": [],
     "120363426574906687@g.us": [],
     "120363408512535081@g.us": [],
-    "120363427438126559@g.us": []
+    "120363427438126559@g.us": [
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Preciso de uma foto Oi usado Marcio",
+        "timestamp": 1788999593315
+      },
+      {
+        "authorNum": "247020967165997",
+        "authorName": "Gabi 💋",
+        "text": "Preciso de uma foto ousada por favor",
+        "timestamp": 1788999606638
+      }
+    ]
   },
   "lastJarvisIntervention": {
     "120363409727467494@g.us": 1786781516987,
@@ -10014,7 +10034,7 @@
     "120363023757382018@g.us": 5267,
     "120363426574906687@g.us": 195,
     "120363408512535081@g.us": 303,
-    "120363427438126559@g.us": 321
+    "120363427438126559@g.us": 323
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -13852,6 +13872,18 @@
         "text": "Bom diaaaaa @⁨todos⁩ \n\nQue Deus abençoe o nosso digníssimo dia 🤍",
         "pushName": "Cristian Sntss",
         "timestamp": 1788947032468
+      },
+      "AC121C76E588DC08EFA326169DBF55CE": {
+        "sender": "247020967165997@lid",
+        "text": "Preciso de uma foto Oi usado Marcio",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788999593316
+      },
+      "AC6391DA35A271F769A72B13C7417959": {
+        "sender": "247020967165997@lid",
+        "text": "Preciso de uma foto ousada por favor",
+        "pushName": "Gabi 💋",
+        "timestamp": 1788999606639
       }
     }
   },
@@ -13952,7 +13984,7 @@
     "120363023757382018@g.us": 1788982036142,
     "120363426574906687@g.us": 1788915851825,
     "120363408512535081@g.us": 1788974002108,
-    "120363427438126559@g.us": 1788978589224
+    "120363427438126559@g.us": 1788999606638
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
