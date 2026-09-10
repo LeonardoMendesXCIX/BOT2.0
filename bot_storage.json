@@ -5689,9 +5689,9 @@
         "total": 43
       },
       "108461127897146": {
-        "text": 33,
+        "text": 34,
         "media": 8,
-        "total": 41
+        "total": 42
       },
       "182738040713418": {
         "text": 13,
@@ -10026,7 +10026,8 @@
         "Celiete Souza: Dor de cabeça horrível, frio não é pra mim",
         "Juliano Perlin: To bem e tu??🤗",
         "Diego: Odeio ainda bem que já estamos em setembro agora tá mais perto do que nunca o verão",
-        "Victor: inclusiva ela"
+        "Victor: inclusiva ela",
+        "jaciara: Estou bem também"
       ]
     }
   },
@@ -10228,6 +10229,12 @@
         "authorName": "Victor",
         "text": "inclusiva ela",
         "timestamp": 1789001536294
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Estou bem também",
+        "timestamp": 1789001599888
       }
     ]
   },
@@ -10254,7 +10261,7 @@
     "120363023757382018@g.us": 5267,
     "120363426574906687@g.us": 195,
     "120363408512535081@g.us": 309,
-    "120363427438126559@g.us": 348
+    "120363427438126559@g.us": 349
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -14290,6 +14297,12 @@
         "text": "inclusiva ela",
         "pushName": "Victor",
         "timestamp": 1789001536295
+      },
+      "ACB642F108A68DD2261B30EFCD8DCF38": {
+        "sender": "108461127897146@lid",
+        "text": "Estou bem também",
+        "pushName": "jaciara",
+        "timestamp": 1789001599888
       }
     }
   },
@@ -14390,7 +14403,7 @@
     "120363023757382018@g.us": 1789000955530,
     "120363426574906687@g.us": 1788915851825,
     "120363408512535081@g.us": 1789001557628,
-    "120363427438126559@g.us": 1789001536294
+    "120363427438126559@g.us": 1789001599888
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
