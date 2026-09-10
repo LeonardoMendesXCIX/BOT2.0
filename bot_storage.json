@@ -5669,9 +5669,9 @@
         "total": 92
       },
       "92629643563147": {
-        "text": 56,
+        "text": 57,
         "media": 18,
-        "total": 74
+        "total": 75
       },
       "118515428286715": {
         "text": 21,
@@ -10039,7 +10039,8 @@
         "Celiete Souza: Cansada",
         "jaciara: Entendo",
         "jaciara: Eu estou com tanta saudade dessa correria",
-        "Celiete Souza: Não estranhem se eu desaparecer"
+        "Celiete Souza: Não estranhem se eu desaparecer",
+        "Camila Designer: Chama suas amigas 🤣🤣🤣"
       ]
     }
   },
@@ -10271,6 +10272,12 @@
         "authorName": "Celiete Souza",
         "text": "Não estranhem se eu desaparecer",
         "timestamp": 1789001897930
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Chama suas amigas 🤣🤣🤣",
+        "timestamp": 1789002076312
       }
     ]
   },
@@ -10297,7 +10304,7 @@
     "120363023757382018@g.us": 5267,
     "120363426574906687@g.us": 195,
     "120363408512535081@g.us": 309,
-    "120363427438126559@g.us": 361
+    "120363427438126559@g.us": 362
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -14411,6 +14418,12 @@
         "text": "Não estranhem se eu desaparecer",
         "pushName": "Celiete Souza",
         "timestamp": 1789001897930
+      },
+      "2A045EB393FB52529753": {
+        "sender": "92629643563147@lid",
+        "text": "Chama suas amigas 🤣🤣🤣",
+        "pushName": "Camila Designer",
+        "timestamp": 1789002076312
       }
     }
   },
@@ -14511,7 +14524,7 @@
     "120363023757382018@g.us": 1789000955530,
     "120363426574906687@g.us": 1788915851825,
     "120363408512535081@g.us": 1789001978228,
-    "120363427438126559@g.us": 1789001897930
+    "120363427438126559@g.us": 1789002076312
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
