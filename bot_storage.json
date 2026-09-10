@@ -5812,6 +5812,11 @@
         "text": 0,
         "media": 1,
         "total": 1
+      },
+      "122552932372575": {
+        "text": 1,
+        "media": 0,
+        "total": 1
       }
     }
   },
@@ -10010,7 +10015,8 @@
         "jaciara: Tá bem",
         "jaciara: Estou bem graças a Deus",
         "mnr_edhu_oficial: Trabalho como escravo só faltou o xichite",
-        "marciobarcaro98: Sim"
+        "marciobarcaro98: Sim",
+        "Diego: Boa noite gaúcha"
       ]
     }
   },
@@ -10164,6 +10170,12 @@
         "authorName": "marciobarcaro98",
         "text": "Sim",
         "timestamp": 1789001278810
+      },
+      {
+        "authorNum": "122552932372575",
+        "authorName": "Diego",
+        "text": "Boa noite gaúcha",
+        "timestamp": 1789001347428
       }
     ]
   },
@@ -10190,7 +10202,7 @@
     "120363023757382018@g.us": 5267,
     "120363426574906687@g.us": 195,
     "120363408512535081@g.us": 308,
-    "120363427438126559@g.us": 338
+    "120363427438126559@g.us": 339
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -14160,6 +14172,12 @@
         "text": "Sim",
         "pushName": "marciobarcaro98",
         "timestamp": 1789001278810
+      },
+      "AC7D63AF70BD682930A44E4D1FB9D3C2": {
+        "sender": "122552932372575@lid",
+        "text": "Boa noite gaúcha",
+        "pushName": "Diego",
+        "timestamp": 1789001347428
       }
     }
   },
@@ -14260,7 +14278,7 @@
     "120363023757382018@g.us": 1789000955530,
     "120363426574906687@g.us": 1788915851825,
     "120363408512535081@g.us": 1789000907892,
-    "120363427438126559@g.us": 1789001278810
+    "120363427438126559@g.us": 1789001347428
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
