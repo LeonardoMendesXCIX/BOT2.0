@@ -5689,9 +5689,9 @@
         "total": 41
       },
       "108461127897146": {
-        "text": 31,
+        "text": 33,
         "media": 8,
-        "total": 39
+        "total": 41
       },
       "182738040713418": {
         "text": 13,
@@ -5814,9 +5814,9 @@
         "total": 1
       },
       "122552932372575": {
-        "text": 2,
+        "text": 3,
         "media": 0,
-        "total": 2
+        "total": 3
       }
     }
   },
@@ -10018,7 +10018,10 @@
         "marciobarcaro98: Sim",
         "Diego: Boa noite gaúcha",
         "Juliano Perlin: Oii🥰",
-        "Diego: Coisa boa se encontramos por aqui de novo"
+        "Diego: Coisa boa se encontramos por aqui de novo",
+        "jaciara: Oiiiii ju",
+        "jaciara: Tá bem ?",
+        "Diego: Tudo bem tirando esse friooo que não acaba nunca"
       ]
     }
   },
@@ -10178,6 +10181,24 @@
         "authorName": "Diego",
         "text": "Coisa boa se encontramos por aqui de novo",
         "timestamp": 1789001440111
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Oiiiii ju",
+        "timestamp": 1789001453252
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Tá bem ?",
+        "timestamp": 1789001462148
+      },
+      {
+        "authorNum": "122552932372575",
+        "authorName": "Diego",
+        "text": "Tudo bem tirando esse friooo que não acaba nunca",
+        "timestamp": 1789001465240
       }
     ]
   },
@@ -10204,7 +10225,7 @@
     "120363023757382018@g.us": 5267,
     "120363426574906687@g.us": 195,
     "120363408512535081@g.us": 308,
-    "120363427438126559@g.us": 341
+    "120363427438126559@g.us": 344
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -14192,6 +14213,24 @@
         "text": "Coisa boa se encontramos por aqui de novo",
         "pushName": "Diego",
         "timestamp": 1789001440111
+      },
+      "AC6E19752AA9CBA37F887F8DA19475CE": {
+        "sender": "108461127897146@lid",
+        "text": "Oiiiii ju",
+        "pushName": "jaciara",
+        "timestamp": 1789001453252
+      },
+      "AC791EE203CF7FB5553A87E0AFCEACA3": {
+        "sender": "108461127897146@lid",
+        "text": "Tá bem ?",
+        "pushName": "jaciara",
+        "timestamp": 1789001462148
+      },
+      "AC61704BDC92B690CEF6417C0728CBEA": {
+        "sender": "122552932372575@lid",
+        "text": "Tudo bem tirando esse friooo que não acaba nunca",
+        "pushName": "Diego",
+        "timestamp": 1789001465240
       }
     }
   },
@@ -14292,7 +14331,7 @@
     "120363023757382018@g.us": 1789000955530,
     "120363426574906687@g.us": 1788915851825,
     "120363408512535081@g.us": 1789000907892,
-    "120363427438126559@g.us": 1789001440111
+    "120363427438126559@g.us": 1789001465240
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
