@@ -5664,9 +5664,9 @@
     },
     "120363427438126559@g.us": {
       "129373172711439": {
-        "text": 68,
+        "text": 69,
         "media": 16,
-        "total": 84
+        "total": 85
       },
       "92629643563147": {
         "text": 56,
@@ -5684,9 +5684,9 @@
         "total": 5
       },
       "222595437858867": {
-        "text": 38,
+        "text": 40,
         "media": 3,
-        "total": 41
+        "total": 43
       },
       "108461127897146": {
         "text": 33,
@@ -5814,9 +5814,9 @@
         "total": 1
       },
       "122552932372575": {
-        "text": 3,
+        "text": 4,
         "media": 0,
-        "total": 3
+        "total": 4
       }
     }
   },
@@ -10021,7 +10021,10 @@
         "Diego: Coisa boa se encontramos por aqui de novo",
         "jaciara: Oiiiii ju",
         "jaciara: Tá bem ?",
-        "Diego: Tudo bem tirando esse friooo que não acaba nunca"
+        "Diego: Tudo bem tirando esse friooo que não acaba nunca",
+        "Celiete Souza: Dor de cabeça horrível, frio não é pra mim",
+        "Juliano Perlin: To bem e tu??🤗",
+        "Diego: Odeio ainda bem que já estamos em setembro agora tá mais perto do que nunca o verão"
       ]
     }
   },
@@ -10074,12 +10077,6 @@
       }
     ],
     "120363427438126559@g.us": [
-      {
-        "authorNum": "102109089378363",
-        "authorName": "Cafe",
-        "text": "Jaja vou mandar",
-        "timestamp": 1788999710296
-      },
       {
         "authorNum": "59623457439943",
         "authorName": "Victor",
@@ -10199,6 +10196,24 @@
         "authorName": "Diego",
         "text": "Tudo bem tirando esse friooo que não acaba nunca",
         "timestamp": 1789001465240
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Dor de cabeça horrível, frio não é pra mim",
+        "timestamp": 1789001491270
+      },
+      {
+        "authorNum": "222595437858867",
+        "authorName": "Juliano Perlin",
+        "text": "To bem e tu??🤗",
+        "timestamp": 1789001501980
+      },
+      {
+        "authorNum": "122552932372575",
+        "authorName": "Diego",
+        "text": "Odeio ainda bem que já estamos em setembro agora tá mais perto do que nunca o verão",
+        "timestamp": 1789001524717
       }
     ]
   },
@@ -10225,7 +10240,7 @@
     "120363023757382018@g.us": 5267,
     "120363426574906687@g.us": 195,
     "120363408512535081@g.us": 308,
-    "120363427438126559@g.us": 344
+    "120363427438126559@g.us": 347
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -14231,6 +14246,24 @@
         "text": "Tudo bem tirando esse friooo que não acaba nunca",
         "pushName": "Diego",
         "timestamp": 1789001465240
+      },
+      "AC23F317677A2829A15DE72E9108CA85": {
+        "sender": "129373172711439@lid",
+        "text": "Dor de cabeça horrível, frio não é pra mim",
+        "pushName": "Celiete Souza",
+        "timestamp": 1789001491270
+      },
+      "AC0DC8A45AF80E85C41DFD526077EC29": {
+        "sender": "222595437858867@lid",
+        "text": "To bem e tu??🤗",
+        "pushName": "Juliano Perlin",
+        "timestamp": 1789001501980
+      },
+      "ACEB3C5E7A4F3D2141CE67BF74C9353E": {
+        "sender": "122552932372575@lid",
+        "text": "Odeio ainda bem que já estamos em setembro agora tá mais perto do que nunca o verão",
+        "pushName": "Diego",
+        "timestamp": 1789001524717
       }
     }
   },
@@ -14331,7 +14364,7 @@
     "120363023757382018@g.us": 1789000955530,
     "120363426574906687@g.us": 1788915851825,
     "120363408512535081@g.us": 1789000907892,
-    "120363427438126559@g.us": 1789001465240
+    "120363427438126559@g.us": 1789001524717
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
