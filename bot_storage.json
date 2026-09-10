@@ -5754,9 +5754,9 @@
         "total": 7
       },
       "59623457439943": {
-        "text": 13,
+        "text": 14,
         "media": 0,
-        "total": 13
+        "total": 14
       },
       "247020967165997": {
         "text": 22,
@@ -10024,7 +10024,8 @@
         "Diego: Tudo bem tirando esse friooo que não acaba nunca",
         "Celiete Souza: Dor de cabeça horrível, frio não é pra mim",
         "Juliano Perlin: To bem e tu??🤗",
-        "Diego: Odeio ainda bem que já estamos em setembro agora tá mais perto do que nunca o verão"
+        "Diego: Odeio ainda bem que já estamos em setembro agora tá mais perto do que nunca o verão",
+        "Victor: inclusiva ela"
       ]
     }
   },
@@ -10214,6 +10215,12 @@
         "authorName": "Diego",
         "text": "Odeio ainda bem que já estamos em setembro agora tá mais perto do que nunca o verão",
         "timestamp": 1789001524717
+      },
+      {
+        "authorNum": "59623457439943",
+        "authorName": "Victor",
+        "text": "inclusiva ela",
+        "timestamp": 1789001536294
       }
     ]
   },
@@ -10240,7 +10247,7 @@
     "120363023757382018@g.us": 5267,
     "120363426574906687@g.us": 195,
     "120363408512535081@g.us": 308,
-    "120363427438126559@g.us": 347
+    "120363427438126559@g.us": 348
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -14264,6 +14271,12 @@
         "text": "Odeio ainda bem que já estamos em setembro agora tá mais perto do que nunca o verão",
         "pushName": "Diego",
         "timestamp": 1789001524717
+      },
+      "AC977DC6089639245384814030B03A93": {
+        "sender": "59623457439943@lid",
+        "text": "inclusiva ela",
+        "pushName": "Victor",
+        "timestamp": 1789001536295
       }
     }
   },
@@ -14364,7 +14377,7 @@
     "120363023757382018@g.us": 1789000955530,
     "120363426574906687@g.us": 1788915851825,
     "120363408512535081@g.us": 1789000907892,
-    "120363427438126559@g.us": 1789001524717
+    "120363427438126559@g.us": 1789001536294
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
