@@ -5664,9 +5664,9 @@
     },
     "120363427438126559@g.us": {
       "129373172711439": {
-        "text": 74,
+        "text": 75,
         "media": 17,
-        "total": 91
+        "total": 92
       },
       "92629643563147": {
         "text": 56,
@@ -10038,7 +10038,8 @@
         "Juliano Perlin: Credo porq?",
         "Celiete Souza: Cansada",
         "jaciara: Entendo",
-        "jaciara: Eu estou com tanta saudade dessa correria"
+        "jaciara: Eu estou com tanta saudade dessa correria",
+        "Celiete Souza: Não estranhem se eu desaparecer"
       ]
     }
   },
@@ -10097,36 +10098,6 @@
       }
     ],
     "120363427438126559@g.us": [
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Preciso de mais mulheres nesse grupo",
-        "timestamp": 1789000057132
-      },
-      {
-        "authorNum": "247020967165997",
-        "authorName": "Gabi 💋",
-        "text": "Doida igual eu",
-        "timestamp": 1789000059152
-      },
-      {
-        "authorNum": "102109089378363",
-        "authorName": "Cafe",
-        "text": "Concordo kkk",
-        "timestamp": 1789000077779
-      },
-      {
-        "authorNum": "59623457439943",
-        "authorName": "Victor",
-        "text": "kkk sim",
-        "timestamp": 1789000082637
-      },
-      {
-        "authorNum": "59623457439943",
-        "authorName": "Victor",
-        "text": "ta complicado pra vc hoje",
-        "timestamp": 1789000087435
-      },
       {
         "authorNum": "171214744064197",
         "authorName": "Márcio Bruxel",
@@ -10294,6 +10265,12 @@
         "authorName": "jaciara",
         "text": "Eu estou com tanta saudade dessa correria",
         "timestamp": 1789001855944
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Não estranhem se eu desaparecer",
+        "timestamp": 1789001897930
       }
     ]
   },
@@ -10320,7 +10297,7 @@
     "120363023757382018@g.us": 5267,
     "120363426574906687@g.us": 195,
     "120363408512535081@g.us": 309,
-    "120363427438126559@g.us": 360
+    "120363427438126559@g.us": 361
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -14428,6 +14405,12 @@
         "text": "Eu estou com tanta saudade dessa correria",
         "pushName": "jaciara",
         "timestamp": 1789001855944
+      },
+      "AC699306455F11503E9CEC26EC4CEE2D": {
+        "sender": "129373172711439@lid",
+        "text": "Não estranhem se eu desaparecer",
+        "pushName": "Celiete Souza",
+        "timestamp": 1789001897930
       }
     }
   },
@@ -14528,7 +14511,7 @@
     "120363023757382018@g.us": 1789000955530,
     "120363426574906687@g.us": 1788915851825,
     "120363408512535081@g.us": 1789001557628,
-    "120363427438126559@g.us": 1789001855944
+    "120363427438126559@g.us": 1789001897930
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
