@@ -5749,9 +5749,9 @@
         "total": 1
       },
       "179040627490824": {
-        "text": 6,
+        "text": 7,
         "media": 0,
-        "total": 6
+        "total": 7
       },
       "59623457439943": {
         "text": 13,
@@ -5804,9 +5804,9 @@
         "total": 6
       },
       "168814025171012": {
-        "text": 0,
+        "text": 1,
         "media": 2,
-        "total": 2
+        "total": 3
       },
       "107061404774480": {
         "text": 0,
@@ -10008,7 +10008,9 @@
         "Márcio Bruxel: Bonitas e feias....kkkkk",
         "Márcio Bruxel: Oi tudo bem contigo?",
         "jaciara: Tá bem",
-        "jaciara: Estou bem graças a Deus"
+        "jaciara: Estou bem graças a Deus",
+        "mnr_edhu_oficial: Trabalho como escravo só faltou o xichite",
+        "marciobarcaro98: Sim"
       ]
     }
   },
@@ -10150,6 +10152,18 @@
         "authorName": "jaciara",
         "text": "Estou bem graças a Deus",
         "timestamp": 1789001262623
+      },
+      {
+        "authorNum": "179040627490824",
+        "authorName": "mnr_edhu_oficial",
+        "text": "Trabalho como escravo só faltou o xichite",
+        "timestamp": 1789001272839
+      },
+      {
+        "authorNum": "168814025171012",
+        "authorName": "marciobarcaro98",
+        "text": "Sim",
+        "timestamp": 1789001278810
       }
     ]
   },
@@ -10176,7 +10190,7 @@
     "120363023757382018@g.us": 5267,
     "120363426574906687@g.us": 195,
     "120363408512535081@g.us": 308,
-    "120363427438126559@g.us": 336
+    "120363427438126559@g.us": 338
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -14134,6 +14148,18 @@
         "text": "Estou bem graças a Deus",
         "pushName": "jaciara",
         "timestamp": 1789001262623
+      },
+      "AC9B5EE8A8800D7D17F5405426B85FEE": {
+        "sender": "179040627490824@lid",
+        "text": "Trabalho como escravo só faltou o xichite",
+        "pushName": "mnr_edhu_oficial",
+        "timestamp": 1789001272839
+      },
+      "AC652193FA944BC1E65C5649D8626DEB": {
+        "sender": "168814025171012@lid",
+        "text": "Sim",
+        "pushName": "marciobarcaro98",
+        "timestamp": 1789001278810
       }
     }
   },
@@ -14234,7 +14260,7 @@
     "120363023757382018@g.us": 1789000955530,
     "120363426574906687@g.us": 1788915851825,
     "120363408512535081@g.us": 1789000907892,
-    "120363427438126559@g.us": 1789001262623
+    "120363427438126559@g.us": 1789001278810
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
