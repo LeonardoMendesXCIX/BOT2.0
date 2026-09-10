@@ -5759,9 +5759,9 @@
         "total": 9
       },
       "247020967165997": {
-        "text": 17,
+        "text": 18,
         "media": 2,
-        "total": 19
+        "total": 20
       },
       "155503636275307": {
         "text": 5,
@@ -5799,9 +5799,9 @@
         "total": 1
       },
       "102109089378363": {
-        "text": 1,
+        "text": 2,
         "media": 1,
-        "total": 2
+        "total": 3
       }
     }
   },
@@ -9980,7 +9980,8 @@
         "Celiete Souza: Credo klkkkk",
         "Cristian Sntss: Bom diaaaaa @⁨todos⁩ \n\nQue Deus abençoe o nosso digníssimo dia 🤍",
         "Gabi 💋: Preciso de uma foto Oi usado Marcio",
-        "Gabi 💋: Preciso de uma foto ousada por favor"
+        "Gabi 💋: Preciso de uma foto ousada por favor",
+        "Cafe: Jaja vou mandar"
       ]
     }
   },
@@ -10013,6 +10014,12 @@
         "authorName": "Gabi 💋",
         "text": "Preciso de uma foto ousada por favor",
         "timestamp": 1788999606638
+      },
+      {
+        "authorNum": "102109089378363",
+        "authorName": "Cafe",
+        "text": "Jaja vou mandar",
+        "timestamp": 1788999710296
       }
     ]
   },
@@ -10039,7 +10046,7 @@
     "120363023757382018@g.us": 5267,
     "120363426574906687@g.us": 195,
     "120363408512535081@g.us": 303,
-    "120363427438126559@g.us": 323
+    "120363427438126559@g.us": 324
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -13889,6 +13896,12 @@
         "text": "Preciso de uma foto ousada por favor",
         "pushName": "Gabi 💋",
         "timestamp": 1788999606639
+      },
+      "2A32C06827D7E7E9FA03": {
+        "sender": "102109089378363@lid",
+        "text": "Jaja vou mandar",
+        "pushName": "Cafe",
+        "timestamp": 1788999710297
       }
     }
   },
@@ -13989,7 +14002,7 @@
     "120363023757382018@g.us": 1788982036142,
     "120363426574906687@g.us": 1788915851825,
     "120363408512535081@g.us": 1788974002108,
-    "120363427438126559@g.us": 1788999680789
+    "120363427438126559@g.us": 1788999733320
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
