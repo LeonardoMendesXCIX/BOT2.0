@@ -5684,14 +5684,14 @@
         "total": 5
       },
       "222595437858867": {
-        "text": 40,
+        "text": 41,
         "media": 3,
-        "total": 43
+        "total": 44
       },
       "108461127897146": {
-        "text": 34,
-        "media": 8,
-        "total": 42
+        "text": 35,
+        "media": 9,
+        "total": 44
       },
       "182738040713418": {
         "text": 13,
@@ -10027,7 +10027,8 @@
         "Juliano Perlin: To bem e tu??🤗",
         "Diego: Odeio ainda bem que já estamos em setembro agora tá mais perto do que nunca o verão",
         "Victor: inclusiva ela",
-        "jaciara: Estou bem também"
+        "jaciara: Estou bem também",
+        "jaciara: Eu posso ser inclusa nas duas opções"
       ]
     }
   },
@@ -10235,6 +10236,12 @@
         "authorName": "jaciara",
         "text": "Estou bem também",
         "timestamp": 1789001599888
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Eu posso ser inclusa nas duas opções",
+        "timestamp": 1789001621050
       }
     ]
   },
@@ -10261,7 +10268,7 @@
     "120363023757382018@g.us": 5267,
     "120363426574906687@g.us": 195,
     "120363408512535081@g.us": 309,
-    "120363427438126559@g.us": 349
+    "120363427438126559@g.us": 350
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -14303,6 +14310,12 @@
         "text": "Estou bem também",
         "pushName": "jaciara",
         "timestamp": 1789001599888
+      },
+      "ACE0A6F76632B2DF57FBDDC460DB9954": {
+        "sender": "108461127897146@lid",
+        "text": "Eu posso ser inclusa nas duas opções",
+        "pushName": "jaciara",
+        "timestamp": 1789001621050
       }
     }
   },
@@ -14403,7 +14416,7 @@
     "120363023757382018@g.us": 1789000955530,
     "120363426574906687@g.us": 1788915851825,
     "120363408512535081@g.us": 1789001557628,
-    "120363427438126559@g.us": 1789001599888
+    "120363427438126559@g.us": 1789001632944
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
