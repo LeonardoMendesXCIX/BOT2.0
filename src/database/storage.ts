@@ -74,6 +74,11 @@ export interface BotStorage {
     antifake: Record<string, boolean>;
     antifakeStrictLid: Record<string, boolean>;
     antiflood: Record<string, boolean>;
+    mutes: Record<string, Record<string, number>>;
+    blacklistWords: Record<string, string[]>;
+    antiForward: Record<string, boolean>;
+    antiStickerFlood: Record<string, boolean>;
+    warnTimestamps: Record<string, Record<string, number[]>>;
     antinsfw: Record<string, boolean>;
     autoTranscribe: Record<string, boolean>;
     antidelete: Record<string, boolean>;
@@ -124,6 +129,11 @@ export class StorageManager {
             antifake: {},
             antifakeStrictLid: {},
             antiflood: {},
+            mutes: {},
+            blacklistWords: {},
+            antiForward: {},
+            antiStickerFlood: {},
+            warnTimestamps: {},
             antinsfw: {},
             autoTranscribe: {},
             antidelete: {},
@@ -256,6 +266,22 @@ export class StorageManager {
         this.flagSave();
     }
 
+    public isMuted(chatId: string, num: string): boolean {
+        const until = this.data.mutes?.[chatId]?.[num];
+        return !!until && until > Date.now();
+    }
+
+    public setMute(chatId: string, num: string, ms: number): void {
+        if (!this.data.mutes) this.data.mutes = {};
+        if (!this.data.mutes[chatId]) this.data.mutes[chatId] = {};
+        this.data.mutes[chatId][num] = Date.now() + ms;
+        this.flagSave();
+    }
+
+    public clearMute(chatId: string, num: string): void {
+        if (this.data.mutes?.[chatId]) { delete this.data.mutes[chatId][num]; this.flagSave(); }
+    }
+
     public isPromoWindowActive(chatId: string): boolean {
         if (!chatId || !this.data.promoSchedule || !this.data.promoSchedule[chatId]) return false;
         const promo = this.data.promoSchedule[chatId];
@@ -352,7 +378,14 @@ export class StorageManager {
         const limit = (this.data.maxWarnings && this.data.maxWarnings[chatId]) || limitDefault;
 
         if (!this.data.warnings[chatId]) this.data.warnings[chatId] = {};
+        if (!this.data.warnTimestamps) this.data.warnTimestamps = {};
+        if (!this.data.warnTimestamps[chatId]) this.data.warnTimestamps[chatId] = {};
+        if (!this.data.warnTimestamps[chatId][targetNum]) this.data.warnTimestamps[chatId][targetNum] = [];
+        const SEVEN = 7 * 24 * 60 * 60 * 1000;
+        this.data.warnTimestamps[chatId][targetNum] = this.data.warnTimestamps[chatId][targetNum].filter(t => Date.now() - t < SEVEN);
+        if (this.data.warnTimestamps[chatId][targetNum].length === 0) this.data.warnings[chatId][targetNum] = 0;
         this.data.warnings[chatId][targetNum] = (this.data.warnings[chatId][targetNum] || 0) + 1;
+        this.data.warnTimestamps[chatId][targetNum].push(Date.now());
 
         const currentWarns = this.data.warnings[chatId][targetNum];
         this.flagSave();

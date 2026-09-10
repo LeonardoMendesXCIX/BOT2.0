@@ -17,6 +17,7 @@ import { getHHMM, isWithinWindow } from '../utils/time';
 import axios from 'axios';
 import { searchYouTube, getAudioBuffer, getVideoBuffer } from '../services/ytDownloader';
 const userMessageHistory: Record<string, number[]> = {};
+const stickerHistory: Record<string, number[]> = {};
 const musicCooldowns: Record<string, number> = {};
 const aiCooldowns: Record<string, Record<string, number>> = {};
 const lastAdminResponse = new Map<string, number>();
@@ -316,6 +317,49 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
                     try { await sock.sendMessage(chatId, { delete: key }); } catch (e) { }
                     userMessageHistory[userKey] = [];
                     await storage.applyWarning(sock, chatId, sender, 'Flood/Spam');
+                    return;
+                }
+            }
+            const userNumMod = userInfo.number;
+            const userRoleMod = parseInt(getUserRole(userId, storage.data.users));
+            const isAdmMod = userRoleMod >= 2;
+
+            if (!isAdmMod && storage.isMuted(chatId, userNumMod)) {
+                try { await sock.sendMessage(chatId, { delete: key }); } catch (e) { }
+                return;
+            }
+
+            const isFwdOn = storage.data.antiForward?.[chatId] === true;
+            if (isFwdOn && !isAdmMod) {
+                const ctx: any = msg.message?.extendedTextMessage?.contextInfo || msg.message?.imageMessage?.contextInfo || msg.message?.videoMessage?.contextInfo || msg.message?.stickerMessage?.contextInfo;
+                const isForwarded = !!(ctx?.isForwarded) || (ctx?.forwardingScore || 0) > 0;
+                if (isForwarded) {
+                    try { await sock.sendMessage(chatId, { delete: key }); } catch (e) { }
+                    await storage.applyWarning(sock, chatId, sender, 'Encaminhamento proibido');
+                    return;
+                }
+            }
+
+            const words = storage.data.blacklistWords?.[chatId] || [];
+            if (words.length && !isAdmMod && text) {
+                const low = text.toLowerCase();
+                if (words.some(w => low.includes(w.toLowerCase()))) {
+                    try { await sock.sendMessage(chatId, { delete: key }); } catch (e) { }
+                    await storage.applyWarning(sock, chatId, sender, 'Palavra proibida');
+                    return;
+                }
+            }
+
+            if (storage.data.antiStickerFlood?.[chatId] === true && !isAdmMod && msg.message?.stickerMessage) {
+                const sk = chatId + '_' + userNumMod;
+                if (!stickerHistory[sk]) stickerHistory[sk] = [];
+                const nowS = Date.now();
+                stickerHistory[sk].push(nowS);
+                stickerHistory[sk] = stickerHistory[sk].filter(t => nowS - t < 5000);
+                if (stickerHistory[sk].length > 3) {
+                    try { await sock.sendMessage(chatId, { delete: key }); } catch (e) { }
+                    stickerHistory[sk] = [];
+                    await storage.applyWarning(sock, chatId, sender, 'Flood de figurinhas');
                     return;
                 }
             }
@@ -1549,6 +1593,54 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
         } catch (e: any) {
             await sock.sendMessage(chatId, { text: '❌ Erro ao processar playlist.' }, { quoted: msg });
         }
+        return;
+    }
+    if (firstWord === '!mute' || firstWord === '!unmute') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        if (parseInt(getUserRole(userId, storage.data.users)) < 2) { await sock.sendMessage(chatId, { text: '❌ Apenas administradores.' }, { quoted: msg }); return; }
+        const ctxI = msg.message?.extendedTextMessage?.contextInfo;
+        const tJid = ctxI?.participant || (text.match(/@(\d+)/)?.[1] ? text.match(/@(\d+)/)![1] + '@s.whatsapp.net' : '');
+        if (!tJid) { await sock.sendMessage(chatId, { text: '❌ Marque o membro.' }, { quoted: msg }); return; }
+        const tNum = extractRawNumber(tJid);
+        const tInfo = getUserInfo(tJid);
+        if (firstWord === '!unmute') { storage.clearMute(chatId, tNum); await sock.sendMessage(chatId, { text: '🔊 ' + tInfo.nameAndNumber + ' desmutado.', mentions: [tInfo.jid] }, { quoted: msg }); return; }
+        const durMatch = text.match(/(\d+)\s*(m|min|h|hr|s)?/i);
+        let ms = 10 * 60 * 1000;
+        if (durMatch) { const v = parseInt(durMatch[1]); const u = (durMatch[2] || 'm').toLowerCase(); ms = u.startsWith('h') ? v * 3600000 : u.startsWith('s') ? v * 1000 : v * 60000; }
+        storage.setMute(chatId, tNum, ms);
+        await sock.sendMessage(chatId, { text: '🔇 ' + tInfo.nameAndNumber + ' mutado por ' + Math.round(ms / 60000) + ' min.', mentions: [tInfo.jid] }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!blacklist') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        if (parseInt(getUserRole(userId, storage.data.users)) < 2) { await sock.sendMessage(chatId, { text: '❌ Apenas administradores.' }, { quoted: msg }); return; }
+        const sub = text.slice(firstWord.length).trim();
+        if (!storage.data.blacklistWords) storage.data.blacklistWords = {};
+        if (!storage.data.blacklistWords[chatId]) storage.data.blacklistWords[chatId] = [];
+        if (sub.toLowerCase().startsWith('remover ')) {
+            const w = sub.slice(8).trim().toLowerCase();
+            storage.data.blacklistWords[chatId] = storage.data.blacklistWords[chatId].filter(x => x !== w);
+            storage.flagSave(); await sock.sendMessage(chatId, { text: '✅ Palavra removida da blacklist.' }, { quoted: msg }); return;
+        }
+        if (sub.toLowerCase() === 'lista') {
+            await sock.sendMessage(chatId, { text: '🚫 *Blacklist:*\n' + (storage.data.blacklistWords[chatId].join(', ') || '_vazia_') }, { quoted: msg }); return;
+        }
+        if (sub.startsWith('+')) {
+            const w = sub.slice(1).trim().toLowerCase();
+            if (w && !storage.data.blacklistWords[chatId].includes(w)) storage.data.blacklistWords[chatId].push(w);
+            storage.flagSave(); await sock.sendMessage(chatId, { text: '✅ Palavra "' + w + '" adicionada à blacklist.' }, { quoted: msg }); return;
+        }
+        await sock.sendMessage(chatId, { text: '🚫 *Uso:*\n`!blacklist + palavra`\n`!blacklist remover palavra`\n`!blacklist lista`' }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!antiforward' || firstWord === '!antistickerflood') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        if (parseInt(getUserRole(userId, storage.data.users)) < 2) { await sock.sendMessage(chatId, { text: '❌ Apenas administradores.' }, { quoted: msg }); return; }
+        const on = !text.slice(firstWord.length).trim().toLowerCase().startsWith('off');
+        if (firstWord === '!antiforward') storage.data.antiForward[chatId] = on;
+        else storage.data.antiStickerFlood[chatId] = on;
+        storage.flagSave();
+        await sock.sendMessage(chatId, { text: (on ? '🟢' : '🔴') + ' ' + firstWord + ' ' + (on ? 'ATIVADO' : 'DESATIVADO') }, { quoted: msg });
         return;
     }
     if (textLower === '!ajuda') {
