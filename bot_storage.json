@@ -5652,9 +5652,9 @@
         "total": 38
       },
       "5511927018683": {
-        "text": 65,
+        "text": 68,
         "media": 8,
-        "total": 73
+        "total": 76
       },
       "120363408512535081": {
         "text": 1,
@@ -5799,9 +5799,9 @@
         "total": 1
       },
       "102109089378363": {
-        "text": 3,
+        "text": 4,
         "media": 2,
-        "total": 5
+        "total": 6
       },
       "168814025171012": {
         "text": 0,
@@ -9656,7 +9656,10 @@
         "Leandro: Buguei agora",
         "Camila Designer: A Sabrina disse que iria sair",
         "Camila Designer: Ela estava interessada no @166452229341300",
-        "Leandro: O povo é muito confiante né?"
+        "Leandro: O povo é muito confiante né?",
+        "Leandro: Rapaz...",
+        "Leandro: Gabi vai toma uma surra de jiromba",
+        "Leandro: Por que os kbra tá tudo em cima dela 😂🤣😂🤣"
       ]
     },
     "120363427438126559@g.us": {
@@ -10014,7 +10017,26 @@
     "120363427545094619@g.us": [],
     "120363023757382018@g.us": [],
     "120363426574906687@g.us": [],
-    "120363408512535081@g.us": [],
+    "120363408512535081@g.us": [
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Rapaz...",
+        "timestamp": 1789000236892
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Gabi vai toma uma surra de jiromba",
+        "timestamp": 1789000250142
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Por que os kbra tá tudo em cima dela 😂🤣😂🤣",
+        "timestamp": 1789000261152
+      }
+    ],
     "120363427438126559@g.us": [
       {
         "authorNum": "247020967165997",
@@ -10106,7 +10128,7 @@
     "120363427545094619@g.us": 351,
     "120363023757382018@g.us": 5267,
     "120363426574906687@g.us": 195,
-    "120363408512535081@g.us": 303,
+    "120363408512535081@g.us": 306,
     "120363427438126559@g.us": 332
   },
   "botDisabled": {
@@ -13937,6 +13959,24 @@
         "text": "O povo é muito confiante né?",
         "pushName": "Leandro",
         "timestamp": 1788971602198
+      },
+      "ACB66D30E428ECA5AA2D298AF7BE6EC1": {
+        "sender": "54259127210155@lid",
+        "text": "Rapaz...",
+        "pushName": "Leandro",
+        "timestamp": 1789000236892
+      },
+      "AC093C1CEE0807BB58091AEAB71506C6": {
+        "sender": "54259127210155@lid",
+        "text": "Gabi vai toma uma surra de jiromba",
+        "pushName": "Leandro",
+        "timestamp": 1789000250142
+      },
+      "AC85600617C343591112C336130B906B": {
+        "sender": "54259127210155@lid",
+        "text": "Por que os kbra tá tudo em cima dela 😂🤣😂🤣",
+        "pushName": "Leandro",
+        "timestamp": 1789000261153
       }
     },
     "120363427438126559@g.us": {
@@ -14110,8 +14150,8 @@
     "120363427545094619@g.us": 1788981988808,
     "120363023757382018@g.us": 1788982036142,
     "120363426574906687@g.us": 1788915851825,
-    "120363408512535081@g.us": 1788974002108,
-    "120363427438126559@g.us": 1789000195216
+    "120363408512535081@g.us": 1789000261152,
+    "120363427438126559@g.us": 1789000259235
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
