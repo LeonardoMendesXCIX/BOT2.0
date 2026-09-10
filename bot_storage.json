@@ -5699,9 +5699,9 @@
         "total": 21
       },
       "171214744064197": {
-        "text": 21,
+        "text": 22,
         "media": 0,
-        "total": 21
+        "total": 22
       },
       "155688940625976": {
         "text": 3,
@@ -10005,7 +10005,8 @@
         "Cafe: Concordo kkk",
         "Victor: kkk sim",
         "Victor: ta complicado pra vc hoje",
-        "Márcio Bruxel: Bonitas e feias....kkkkk"
+        "Márcio Bruxel: Bonitas e feias....kkkkk",
+        "Márcio Bruxel: Oi tudo bem contigo?"
       ]
     }
   },
@@ -10129,6 +10130,12 @@
         "authorName": "Márcio Bruxel",
         "text": "Bonitas e feias....kkkkk",
         "timestamp": 1789001183693
+      },
+      {
+        "authorNum": "171214744064197",
+        "authorName": "Márcio Bruxel",
+        "text": "Oi tudo bem contigo?",
+        "timestamp": 1789001197557
       }
     ]
   },
@@ -10155,7 +10162,7 @@
     "120363023757382018@g.us": 5267,
     "120363426574906687@g.us": 195,
     "120363408512535081@g.us": 308,
-    "120363427438126559@g.us": 333
+    "120363427438126559@g.us": 334
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -14095,6 +14102,12 @@
         "text": "Bonitas e feias....kkkkk",
         "pushName": "Márcio Bruxel",
         "timestamp": 1789001183693
+      },
+      "AC0919FF2643F8FB1421C521252B08DB": {
+        "sender": "171214744064197@lid",
+        "text": "Oi tudo bem contigo?",
+        "pushName": "Márcio Bruxel",
+        "timestamp": 1789001197557
       }
     }
   },
@@ -14195,7 +14208,7 @@
     "120363023757382018@g.us": 1789000955530,
     "120363426574906687@g.us": 1788915851825,
     "120363408512535081@g.us": 1789000907892,
-    "120363427438126559@g.us": 1789001183693
+    "120363427438126559@g.us": 1789001197557
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
