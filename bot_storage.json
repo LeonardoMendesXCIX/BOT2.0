@@ -5652,9 +5652,9 @@
         "total": 38
       },
       "5511927018683": {
-        "text": 68,
+        "text": 69,
         "media": 8,
-        "total": 76
+        "total": 77
       },
       "120363408512535081": {
         "text": 1,
@@ -9671,7 +9671,8 @@
         "Leandro: Gabi vai toma uma surra de jiromba",
         "Leandro: Por que os kbra tá tudo em cima dela 😂🤣😂🤣",
         "Cristian Sntss: E agora",
-        "Cristian Sntss: Onde vamos acha essas mulheres"
+        "Cristian Sntss: Onde vamos acha essas mulheres",
+        "Leandro: Agora complicou"
       ]
     },
     "120363427438126559@g.us": {
@@ -10075,6 +10076,12 @@
         "authorName": "Cristian Sntss",
         "text": "Onde vamos acha essas mulheres",
         "timestamp": 1789000907892
+      },
+      {
+        "authorNum": "5511927018683",
+        "authorName": "Leandro",
+        "text": "Agora complicou",
+        "timestamp": 1789001557629
       }
     ],
     "120363427438126559@g.us": [
@@ -10246,7 +10253,7 @@
     "120363427545094619@g.us": 351,
     "120363023757382018@g.us": 5267,
     "120363426574906687@g.us": 195,
-    "120363408512535081@g.us": 308,
+    "120363408512535081@g.us": 309,
     "120363427438126559@g.us": 348
   },
   "botDisabled": {
@@ -14107,6 +14114,12 @@
         "text": "Onde vamos acha essas mulheres",
         "pushName": "Cristian Sntss",
         "timestamp": 1789000907892
+      },
+      "AC57C7BBA1689A27AB3A997E685806FF": {
+        "sender": "54259127210155@lid",
+        "text": "Agora complicou",
+        "pushName": "Leandro",
+        "timestamp": 1789001557629
       }
     },
     "120363427438126559@g.us": {
@@ -14376,7 +14389,7 @@
     "120363427545094619@g.us": 1788981988808,
     "120363023757382018@g.us": 1789000955530,
     "120363426574906687@g.us": 1788915851825,
-    "120363408512535081@g.us": 1789000907892,
+    "120363408512535081@g.us": 1789001557628,
     "120363427438126559@g.us": 1789001536294
   },
   "autoAnimSent": {
