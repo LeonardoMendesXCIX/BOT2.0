@@ -7372,9 +7372,9 @@
     },
     "120363412202609595@g.us": {
       "92629643563147": {
-        "text": 95,
+        "text": 96,
         "media": 39,
-        "total": 134
+        "total": 135
       },
       "182738040713418": {
         "text": 99,
@@ -7582,9 +7582,9 @@
         "total": 1
       },
       "158381767696617": {
-        "text": 148,
+        "text": 149,
         "media": 5,
-        "total": 153
+        "total": 154
       },
       "237086657491106": {
         "text": 2,
@@ -14862,7 +14862,9 @@
         "jaciara: Bonzinho?",
         "jaciara: Quando a esmola é de mais o santo desconfia",
         "Georg Barão ✌🏻😎: Sim,que faz tudo que ah mulher quer,tipo quando estão se conhecendo",
-        "Camila Designer: Não, meus amigos são todos na época de colegial"
+        "Camila Designer: Não, meus amigos são todos na época de colegial",
+        "Camila Designer: Quando colocamos como amigo é porque não houve conexão",
+        "Georg Barão ✌🏻😎: Kkk,vc sempre se sai bem das perguntas vc não éh um robô não?kkk"
       ]
     }
   },
@@ -15514,6 +15516,18 @@
         "authorName": "Camila Designer",
         "text": "Não, meus amigos são todos na época de colegial",
         "timestamp": 1789492263647
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Quando colocamos como amigo é porque não houve conexão",
+        "timestamp": 1789492280285
+      },
+      {
+        "authorNum": "158381767696617",
+        "authorName": "Georg Barão ✌🏻😎",
+        "text": "Kkk,vc sempre se sai bem das perguntas vc não éh um robô não?kkk",
+        "timestamp": 1789492286980
       }
     ]
   },
@@ -15541,7 +15555,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1551
+    "120363412202609595@g.us": 1553
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -19409,6 +19423,18 @@
         "text": "Não, meus amigos são todos na época de colegial",
         "pushName": "Camila Designer",
         "timestamp": 1789492263647
+      },
+      "2A2051BC546E0EED2619": {
+        "sender": "92629643563147@lid",
+        "text": "Quando colocamos como amigo é porque não houve conexão",
+        "pushName": "Camila Designer",
+        "timestamp": 1789492280286
+      },
+      "AC0E563B77138AC39E23DA89FB0D6A74": {
+        "sender": "158381767696617@lid",
+        "text": "Kkk,vc sempre se sai bem das perguntas vc não éh um robô não?kkk",
+        "pushName": "Georg Barão ✌🏻😎",
+        "timestamp": 1789492286981
       }
     }
   },
@@ -19666,7 +19692,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789492263647
+    "120363412202609595@g.us": 1789492286980
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
