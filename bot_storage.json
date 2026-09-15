@@ -7377,9 +7377,9 @@
         "total": 145
       },
       "182738040713418": {
-        "text": 105,
-        "media": 35,
-        "total": 140
+        "text": 106,
+        "media": 36,
+        "total": 142
       },
       "247020967165997": {
         "text": 134,
@@ -7477,9 +7477,9 @@
         "total": 6
       },
       "27346140700786": {
-        "text": 84,
+        "text": 85,
         "media": 15,
-        "total": 99
+        "total": 100
       },
       "137623771312290": {
         "text": 2,
@@ -7527,9 +7527,9 @@
         "total": 83
       },
       "559984624669": {
-        "text": 151,
+        "text": 152,
         "media": 55,
-        "total": 206
+        "total": 207
       },
       "559991116887": {
         "text": 128,
@@ -7692,9 +7692,9 @@
         "total": 14
       },
       "54259127210155": {
-        "text": 25,
-        "media": 11,
-        "total": 36
+        "text": 26,
+        "media": 12,
+        "total": 38
       },
       "50869659811853": {
         "text": 23,
@@ -14655,8 +14655,6 @@
         "Camila Designer: Só clicar e entrar"
       ],
       "15/09/2026": [
-        "Georg Barão ✌🏻😎: Eu tiro um dia ou dois na semana pra dormir, descansar",
-        "Celiete Souza: Sim teus horários são diferenciados eu entendo",
         "Georg Barão ✌🏻😎: Diferenciados não, são triste msm kkk",
         "Georg Barão ✌🏻😎: Mais se Deus quiser no meio do ano que vem vai mudar",
         "Celiete Souza: Vai dar tudo certo 🙏",
@@ -15154,7 +15152,9 @@
         "jaciara: Meu filho assistiu 4 vezes kkkkk",
         "Wellington: Pow Pink e cérebro",
         "jaciara: Bob esponja",
-        "𝑳𝒂𝒚𝒉🌪🌚: Minha filha foi assistir no dia do aniversário dela"
+        "𝑳𝒂𝒚𝒉🌪🌚: Minha filha foi assistir no dia do aniversário dela",
+        "Diana Shirley: Bob esponja",
+        "LEANDRO M.: Aí é foda em"
       ]
     }
   },
@@ -15177,24 +15177,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "36215264927990",
-        "authorName": ".",
-        "text": "Não",
-        "timestamp": 1789499163134
-      },
-      {
-        "authorNum": "36215264927990",
-        "authorName": ".",
-        "text": "Tem que se apresentar tbm?",
-        "timestamp": 1789499169642
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "Pode se apresentar, por gentileza?",
-        "timestamp": 1789499175030
-      },
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
@@ -15728,6 +15710,18 @@
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
         "text": "Minha filha foi assistir no dia do aniversário dela",
         "timestamp": 1789500950593
+      },
+      {
+        "authorNum": "27346140700786",
+        "authorName": "Diana Shirley",
+        "text": "Bob esponja",
+        "timestamp": 1789500971163
+      },
+      {
+        "authorNum": "54259127210155",
+        "authorName": "LEANDRO M.",
+        "text": "Aí é foda em",
+        "timestamp": 1789500978208
       }
     ]
   },
@@ -15755,7 +15749,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1857
+    "120363412202609595@g.us": 1859
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16432,7 +16426,7 @@
       "140622228942952": 123,
       "108461127897146": 401,
       "69539832270873": 6,
-      "27346140700786": 239,
+      "27346140700786": 247,
       "137623771312290": 12,
       "53537388122141": 720,
       "95125053169759": 41,
@@ -16747,7 +16741,7 @@
       "140622228942952": 23,
       "108461127897146": 80,
       "69539832270873": 1,
-      "27346140700786": 52,
+      "27346140700786": 53,
       "137623771312290": 3,
       "53537388122141": 153,
       "95125053169759": 12,
@@ -21520,6 +21514,18 @@
         "text": "Minha filha foi assistir no dia do aniversário dela",
         "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
         "timestamp": 1789500950594
+      },
+      "AC6EE1E0DB1E0C96D7564F16A4641692": {
+        "sender": "27346140700786@lid",
+        "text": "Bob esponja",
+        "pushName": "Diana Shirley",
+        "timestamp": 1789500971163
+      },
+      "AC962DA35244BA40156FF5C082426E7E": {
+        "sender": "54259127210155@lid",
+        "text": "Aí é foda em",
+        "pushName": "LEANDRO M.",
+        "timestamp": 1789500978208
       }
     }
   },
@@ -21777,7 +21783,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789500956078
+    "120363412202609595@g.us": 1789500985393
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
