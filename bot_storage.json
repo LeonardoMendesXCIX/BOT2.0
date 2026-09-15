@@ -7407,9 +7407,9 @@
         "total": 41
       },
       "108461127897146": {
-        "text": 115,
+        "text": 116,
         "media": 25,
-        "total": 140
+        "total": 141
       },
       "190881986523333": {
         "text": 1,
@@ -7582,9 +7582,9 @@
         "total": 1
       },
       "158381767696617": {
-        "text": 139,
+        "text": 141,
         "media": 5,
-        "total": 144
+        "total": 146
       },
       "237086657491106": {
         "text": 2,
@@ -14845,7 +14845,10 @@
         "Cristian Sntss: @all",
         "jaciara: E nunca consegui ser feliz com ninguém",
         "jaciara: Que graça tem",
-        "Celiete Souza: Jamais, acabou é acabou e pronto"
+        "Celiete Souza: Jamais, acabou é acabou e pronto",
+        "Georg Barão ✌🏻😎: Mulheres posso fazer uma pergunta?",
+        "Georg Barão ✌🏻😎: Vou polemizar agora kkk",
+        "jaciara: Sim amiga , eu sou exatamente assim . Faço de tudo pro relacionamento ir pra frente"
       ]
     }
   },
@@ -14868,24 +14871,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "128810464874577",
-        "authorName": "Nuno",
-        "text": "Oiiiiii",
-        "timestamp": 1789490250377
-      },
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "Tão falando de quem dormi demais",
-        "timestamp": 1789490257340
-      },
-      {
-        "authorNum": "128810464874577",
-        "authorName": "Nuno",
-        "text": "Tuso bem?",
-        "timestamp": 1789490257835
-      },
       {
         "authorNum": "158381767696617",
         "authorName": "Georg Barão ✌🏻😎",
@@ -15419,6 +15404,24 @@
         "authorName": "Celiete Souza",
         "text": "Jamais, acabou é acabou e pronto",
         "timestamp": 1789492047368
+      },
+      {
+        "authorNum": "158381767696617",
+        "authorName": "Georg Barão ✌🏻😎",
+        "text": "Mulheres posso fazer uma pergunta?",
+        "timestamp": 1789492056960
+      },
+      {
+        "authorNum": "158381767696617",
+        "authorName": "Georg Barão ✌🏻😎",
+        "text": "Vou polemizar agora kkk",
+        "timestamp": 1789492067283
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Sim amiga , eu sou exatamente assim . Faço de tudo pro relacionamento ir pra frente",
+        "timestamp": 1789492077275
       }
     ]
   },
@@ -15446,7 +15449,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1534
+    "120363412202609595@g.us": 1537
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16140,7 +16143,7 @@
       "253403338903556": 84,
       "262182034002040": 69,
       "185942488969385": 8,
-      "158381767696617": 531,
+      "158381767696617": 545,
       "237086657491106": 8,
       "72315102593077": 49,
       "255632628252836": 13,
@@ -16451,7 +16454,7 @@
       "253403338903556": 13,
       "262182034002040": 19,
       "185942488969385": 2,
-      "158381767696617": 107,
+      "158381767696617": 110,
       "237086657491106": 2,
       "72315102593077": 8,
       "255632628252836": 5,
@@ -19212,6 +19215,24 @@
         "text": "Jamais, acabou é acabou e pronto",
         "pushName": "Celiete Souza",
         "timestamp": 1789492047368
+      },
+      "AC05AE1601D5399A801E52453EAE65E6": {
+        "sender": "158381767696617@lid",
+        "text": "Mulheres posso fazer uma pergunta?",
+        "pushName": "Georg Barão ✌🏻😎",
+        "timestamp": 1789492056960
+      },
+      "AC3B32FC5DBC3D8E15078DEBAA3FBC52": {
+        "sender": "158381767696617@lid",
+        "text": "Vou polemizar agora kkk",
+        "pushName": "Georg Barão ✌🏻😎",
+        "timestamp": 1789492067284
+      },
+      "AC80B75472A6202A09CA0F356A63365F": {
+        "sender": "108461127897146@lid",
+        "text": "Sim amiga , eu sou exatamente assim . Faço de tudo pro relacionamento ir pra frente",
+        "pushName": "jaciara",
+        "timestamp": 1789492077275
       }
     }
   },
@@ -19469,7 +19490,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789492047540
+    "120363412202609595@g.us": 1789492077275
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
