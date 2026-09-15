@@ -7477,9 +7477,9 @@
         "total": 6
       },
       "27346140700786": {
-        "text": 80,
+        "text": 81,
         "media": 15,
-        "total": 95
+        "total": 96
       },
       "137623771312290": {
         "text": 2,
@@ -15085,7 +15085,8 @@
         "Celiete Souza: Então se cuida né",
         "LEANDRO M.: Tmj! 🤝",
         "LEANDRO M.: Morro não, não por essa causa",
-        "Igor Alexandre: Partiu"
+        "Igor Alexandre: Partiu",
+        "Diana Shirley: Já fui pela manhã"
       ]
     }
   },
@@ -15108,12 +15109,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "187845394358417",
-        "authorName": "Maurício Manú Telecom",
-        "text": "Aí está mais fresco ainda kkkk",
-        "timestamp": 1789496866212
-      },
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
@@ -15557,6 +15552,12 @@
         "authorName": "Igor Alexandre",
         "text": "Partiu",
         "timestamp": 1789498623363
+      },
+      {
+        "authorNum": "27346140700786",
+        "authorName": "Diana Shirley",
+        "text": "Já fui pela manhã",
+        "timestamp": 1789498687262
       }
     ]
   },
@@ -15584,7 +15585,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1749
+    "120363412202609595@g.us": 1750
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -20681,6 +20682,12 @@
         "text": "Partiu",
         "pushName": "Igor Alexandre",
         "timestamp": 1789498623363
+      },
+      "AC7C65A87507702D12997875A64375AC": {
+        "sender": "27346140700786@lid",
+        "text": "Já fui pela manhã",
+        "pushName": "Diana Shirley",
+        "timestamp": 1789498687263
       }
     }
   },
@@ -20938,7 +20945,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789498667044
+    "120363412202609595@g.us": 1789498687262
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
