@@ -7392,9 +7392,9 @@
         "total": 29
       },
       "93836630077600": {
-        "text": 27,
+        "text": 28,
         "media": 1,
-        "total": 28
+        "total": 29
       },
       "81991328395336": {
         "text": 29,
@@ -7452,9 +7452,9 @@
         "total": 15
       },
       "100356960845833": {
-        "text": 111,
+        "text": 112,
         "media": 13,
-        "total": 124
+        "total": 125
       },
       "118528279593092": {
         "text": 1,
@@ -7498,8 +7498,8 @@
       },
       "95125053169759": {
         "text": 17,
-        "media": 3,
-        "total": 20
+        "media": 4,
+        "total": 21
       },
       "188373004222609": {
         "text": 2,
@@ -14678,7 +14678,9 @@
         "𝑳𝒂𝒚𝒉🌪🌚: Tendi",
         "Fabrício: Tudo certo",
         "𝑳𝒂𝒚𝒉🌪🌚: Tudo",
-        "𝑳𝒂𝒚𝒉🌪🌚: Só o calor q tá matando"
+        "𝑳𝒂𝒚𝒉🌪🌚: Só o calor q tá matando",
+        "Rodenilson 🤘🏾👀: E por aqui frio",
+        "Fabrício: Por aqui está mais nublado uma hora chove e para"
       ]
     }
   },
@@ -15043,6 +15045,18 @@
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
         "text": "Só o calor q tá matando",
         "timestamp": 1789488375973
+      },
+      {
+        "authorNum": "100356960845833",
+        "authorName": "Rodenilson 🤘🏾👀",
+        "text": "E por aqui frio",
+        "timestamp": 1789488400182
+      },
+      {
+        "authorNum": "93836630077600",
+        "authorName": "Fabrício",
+        "text": "Por aqui está mais nublado uma hora chove e para",
+        "timestamp": 1789488401113
       }
     ]
   },
@@ -15070,7 +15084,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1383
+    "120363412202609595@g.us": 1385
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -17903,6 +17917,18 @@
         "text": "Só o calor q tá matando",
         "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
         "timestamp": 1789488375973
+      },
+      "AC5B274AEEBB0321CF304FC6963EB161": {
+        "sender": "100356960845833@lid",
+        "text": "E por aqui frio",
+        "pushName": "Rodenilson 🤘🏾👀",
+        "timestamp": 1789488400182
+      },
+      "AC713928B7028249BBE77E6778F58D17": {
+        "sender": "93836630077600@lid",
+        "text": "Por aqui está mais nublado uma hora chove e para",
+        "pushName": "Fabrício",
+        "timestamp": 1789488401113
       }
     }
   },
@@ -18160,7 +18186,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789488375973
+    "120363412202609595@g.us": 1789488422387
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
