@@ -7677,9 +7677,9 @@
         "total": 2
       },
       "187845394358417": {
-        "text": 8,
+        "text": 9,
         "media": 1,
-        "total": 9
+        "total": 10
       },
       "157990959186122": {
         "text": 1,
@@ -15000,7 +15000,8 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Doida pra um verão",
         "Igor Alexandre: Galera, partiu treino",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Inaugurar biquíni",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: E ir pra praia"
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: E ir pra praia",
+        "Maurício Manú Telecom: Verão e praia onde têm né"
       ]
     }
   },
@@ -15130,6 +15131,12 @@
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "text": "E ir pra praia",
         "timestamp": 1789496946930
+      },
+      {
+        "authorNum": "187845394358417",
+        "authorName": "Maurício Manú Telecom",
+        "text": "Verão e praia onde têm né",
+        "timestamp": 1789497004242
       }
     ]
   },
@@ -15157,7 +15164,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1679
+    "120363412202609595@g.us": 1680
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -15863,7 +15870,7 @@
       "36215264927990": 14,
       "133934344065150": 29,
       "120363412202609595": 21,
-      "187845394358417": 11
+      "187845394358417": 16
     }
   },
   "coins": {
@@ -16175,7 +16182,7 @@
       "36215264927990": 2,
       "133934344065150": 7,
       "120363412202609595": 4,
-      "187845394358417": 1
+      "187845394358417": 2
     }
   },
   "dailyRewardClaimed": {
@@ -19803,6 +19810,12 @@
         "text": "E ir pra praia",
         "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "timestamp": 1789496946930
+      },
+      "ACB43BC4292E1A4BA510AD5D7CF816F1": {
+        "sender": "187845394358417@lid",
+        "text": "Verão e praia onde têm né",
+        "pushName": "Maurício Manú Telecom",
+        "timestamp": 1789497004242
       }
     }
   },
@@ -20060,7 +20073,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789496946930
+    "120363412202609595@g.us": 1789497004242
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
