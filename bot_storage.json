@@ -7477,9 +7477,9 @@
         "total": 3
       },
       "27346140700786": {
-        "text": 43,
+        "text": 44,
         "media": 11,
-        "total": 54
+        "total": 55
       },
       "137623771312290": {
         "text": 2,
@@ -7657,9 +7657,9 @@
         "total": 1
       },
       "36215264927990": {
-        "text": 1,
+        "text": 2,
         "media": 2,
-        "total": 3
+        "total": 4
       }
     }
   },
@@ -14663,7 +14663,9 @@
         "Celiete Souza: Coloca uma foto sua \nIdade \nLocal que mora \nE já fica apresentado aqui 🫶🏻",
         ".: Oxi, tem chatbot no grupo???",
         "Rodenilson 🤘🏾👀: As mulheres iam gostar do vídeo que eu  postei,mas de boa",
-        "Claudio: Já segui vc la"
+        "Claudio: Já segui vc la",
+        "Diana Shirley: Gosto",
+        ".: Justificando a ausência de foto do meu perfil, conforme a regra 4.\n  Aqui no meu estado foi submetido à uma eleição suplementar, e durante o período eleitoral fomos submetido a obrigatóridade da foto "
       ]
     }
   },
@@ -14938,6 +14940,18 @@
         "authorName": "Claudio",
         "text": "Já segui vc la",
         "timestamp": 1789487736657
+      },
+      {
+        "authorNum": "27346140700786",
+        "authorName": "Diana Shirley",
+        "text": "Gosto",
+        "timestamp": 1789488016381
+      },
+      {
+        "authorNum": "36215264927990",
+        "authorName": ".",
+        "text": "Justificando a ausência de foto do meu perfil, conforme a regra 4.\n  Aqui no meu estado foi submetido à uma eleição suplementar, e durante o período eleitoral fomos submetido a obrigatóridade da foto de perfil junto com o candidato a governador, os que não tinha vínculo ou aparição de voto a tal candidato, era exonerado/demitido....\n\n    Para prote",
+        "timestamp": 1789488024533
       }
     ]
   },
@@ -14965,7 +14979,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1368
+    "120363412202609595@g.us": 1370
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -15643,7 +15657,7 @@
       "140622228942952": 42,
       "108461127897146": 294,
       "69539832270873": 6,
-      "27346140700786": 135,
+      "27346140700786": 147,
       "137623771312290": 12,
       "53537388122141": 607,
       "95125053169759": 22,
@@ -15668,7 +15682,8 @@
       "126929839591449": 8,
       "149607149498623": 5,
       "106378353996008": 12,
-      "21543589527800": 5
+      "21543589527800": 5,
+      "36215264927990": 14
     }
   },
   "coins": {
@@ -15951,7 +15966,7 @@
       "140622228942952": 7,
       "108461127897146": 66,
       "69539832270873": 1,
-      "27346140700786": 32,
+      "27346140700786": 34,
       "137623771312290": 3,
       "53537388122141": 127,
       "95125053169759": 8,
@@ -15976,7 +15991,8 @@
       "126929839591449": 1,
       "149607149498623": 3,
       "106378353996008": 1,
-      "21543589527800": 3
+      "21543589527800": 3,
+      "36215264927990": 2
     }
   },
   "dailyRewardClaimed": {
@@ -17706,6 +17722,18 @@
         "text": "Já segui vc la",
         "pushName": "Claudio",
         "timestamp": 1789487737441
+      },
+      "AC8BC75957594DB42727C4E04186A16E": {
+        "sender": "27346140700786@lid",
+        "text": "Gosto",
+        "pushName": "Diana Shirley",
+        "timestamp": 1789488016384
+      },
+      "AC73419D9A7AB68DB350BC76A7F9CC94": {
+        "sender": "36215264927990@lid",
+        "text": "Justificando a ausência de foto do meu perfil, conforme a regra 4.\n  Aqui no meu estado foi submetido à uma eleição suplementar, e durante o período eleitoral fomos submetido a obrigatóridade da foto de perfil junto com o candidato a governador, os que não tinha vínculo ou aparição de voto a tal candidato, era exonerado/demitido....\n\n    Para proteger meu emprego, removi a foto de perfil, e até então se encontra removida.\n\n    As eleições de outubro, tbm esteve/está com essa normativa, e só poderei colocar novamente após as eleições. \n\nDesde já agradeço a compreensão chatbot 👍",
+        "pushName": ".",
+        "timestamp": 1789488024533
       }
     }
   },
@@ -17963,7 +17991,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789487982811
+    "120363412202609595@g.us": 1789488024533
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
