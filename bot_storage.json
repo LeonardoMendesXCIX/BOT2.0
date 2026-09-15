@@ -7527,9 +7527,9 @@
         "total": 83
       },
       "559984624669": {
-        "text": 157,
+        "text": 158,
         "media": 56,
-        "total": 213
+        "total": 214
       },
       "559991116887": {
         "text": 141,
@@ -7592,9 +7592,9 @@
         "total": 2
       },
       "72315102593077": {
-        "text": 17,
+        "text": 18,
         "media": 0,
-        "total": 17
+        "total": 18
       },
       "59623457439943": {
         "text": 2,
@@ -14655,8 +14655,6 @@
         "Camila Designer: Só clicar e entrar"
       ],
       "15/09/2026": [
-        "Marcus Vieira: Época de frio é essa kkkk",
-        "Diana Shirley: Aí não, vou congelar",
         "𝑳𝒂𝒚𝒉🌪🌚: O caba pediu pra me divulga eu dei uma risada sincera",
         "Gilvanda Costa: Achei que t conhecia de outro grupo desculpa .",
         "Rodenilson 🤘🏾👀: Sim, é isso mesmo",
@@ -15154,7 +15152,9 @@
         "Celiete Souza: Não curtia eles",
         "Gabriel: Apenas um show graft falas kk",
         "𝑳𝒂𝒚𝒉🌪🌚: Kkkk",
-        "𝑳𝒂𝒚𝒉🌪🌚: Uia eu subi em"
+        "𝑳𝒂𝒚𝒉🌪🌚: Uia eu subi em",
+        "Cristian Sntss: Empate dos irmãos \n@54259127210155",
+        "Gabriel: Oq é isso?"
       ]
     }
   },
@@ -15177,12 +15177,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Ah não, que perigo",
-        "timestamp": 1789500412496
-      },
       {
         "authorNum": "559991116887",
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
@@ -15812,6 +15806,18 @@
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
         "text": "Uia eu subi em",
         "timestamp": 1789502200938
+      },
+      {
+        "authorNum": "559984624669",
+        "authorName": "Cristian Sntss",
+        "text": "Empate dos irmãos \n@54259127210155",
+        "timestamp": 1789502231296
+      },
+      {
+        "authorNum": "72315102593077",
+        "authorName": "Gabriel",
+        "text": "Oq é isso?",
+        "timestamp": 1789502234069
       }
     ]
   },
@@ -15839,7 +15845,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1918
+    "120363412202609595@g.us": 1920
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16524,7 +16530,7 @@
       "128810464874577": 13,
       "4342933360709": 73,
       "247020967165997": 405,
-      "559984624669": 452,
+      "559984624669": 460,
       "163530946961491": 35,
       "559991116887": 454,
       "164398513573978": 13,
@@ -16839,7 +16845,7 @@
       "128810464874577": 3,
       "4342933360709": 17,
       "247020967165997": 79,
-      "559984624669": 89,
+      "559984624669": 92,
       "163530946961491": 8,
       "559991116887": 99,
       "164398513573978": 2,
@@ -21970,6 +21976,18 @@
         "text": "Uia eu subi em",
         "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
         "timestamp": 1789502200938
+      },
+      "A567F6143B6D0B97FC9DE6CC577F7A9F": {
+        "sender": "166452229341300@lid",
+        "text": "Empate dos irmãos \n@54259127210155",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1789502231296
+      },
+      "ACD1501283D246EDFC91542D47BE0BF3": {
+        "sender": "72315102593077@lid",
+        "text": "Oq é isso?",
+        "pushName": "Gabriel",
+        "timestamp": 1789502234069
       }
     }
   },
@@ -22227,7 +22245,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789502204050
+    "120363412202609595@g.us": 1789502234069
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
