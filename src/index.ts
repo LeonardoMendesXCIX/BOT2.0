@@ -622,7 +622,7 @@ async function startBot() {
     printQRInTerminal: false,
     auth: state,
     syncFullHistory: false,
-    browser: Browsers.ubuntu('BOT DROPHTTP'), // Alterado para um browser canônico para evitar rejeição do Pairing Code
+    browser: Browsers.ubuntu('Chrome'), // Navegador canônico para evitar rejeição
     getMessage: async (key) => {
       const msgId = key.id;
       const chatId = key.remoteJid;
@@ -646,9 +646,10 @@ async function startBot() {
   sock.ev.on("creds.update", saveCreds);
 
   sock.ev.on("connection.update", async (update) => {
-    const { connection, lastDisconnect, qr } = update;
+    const { connection, lastDisconnect, qr } = update; // 'qr' adicionado de volta
 
-    // LÓGICA DO PAIRING CODE (SUBSTITUI O QR CODE)
+    // CORRIGIDO: Solicita o código APENAS quando o evento 'qr' for disparado,
+    // garantindo que o WebSocket já esteja pronto para receber o comando.
     if (qr && !sock.authState.creds.registered && !pairingCodeRequested) {
       pairingCodeRequested = true;
       const rl = readline.createInterface({ input: process.stdin, output: process.stdout });
