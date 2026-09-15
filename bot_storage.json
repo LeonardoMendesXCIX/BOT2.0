@@ -7582,9 +7582,9 @@
         "total": 1
       },
       "158381767696617": {
-        "text": 117,
+        "text": 119,
         "media": 4,
-        "total": 121
+        "total": 123
       },
       "237086657491106": {
         "text": 2,
@@ -14649,7 +14649,9 @@
         "Celiete Souza: Ah tarde nunca durmo",
         "Georg Barão ✌🏻😎: Eu tenho que acordar na melhor hora que tem pra dormir kkk",
         "Georg Barão ✌🏻😎: Eu tiro um dia ou dois na semana pra dormir, descansar",
-        "Celiete Souza: Sim teus horários são diferenciados eu entendo"
+        "Celiete Souza: Sim teus horários são diferenciados eu entendo",
+        "Georg Barão ✌🏻😎: Diferenciados não, são triste msm kkk",
+        "Georg Barão ✌🏻😎: Mais se Deus quiser no meio do ano que vem vai mudar"
       ]
     }
   },
@@ -14870,6 +14872,18 @@
         "authorName": "Celiete Souza",
         "text": "Sim teus horários são diferenciados eu entendo",
         "timestamp": 1789487271975
+      },
+      {
+        "authorNum": "158381767696617",
+        "authorName": "Georg Barão ✌🏻😎",
+        "text": "Diferenciados não, são triste msm kkk",
+        "timestamp": 1789487315237
+      },
+      {
+        "authorNum": "158381767696617",
+        "authorName": "Georg Barão ✌🏻😎",
+        "text": "Mais se Deus quiser no meio do ano que vem vai mudar",
+        "timestamp": 1789487334610
       }
     ]
   },
@@ -14897,7 +14911,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1359
+    "120363412202609595@g.us": 1361
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -17584,6 +17598,18 @@
         "text": "Sim teus horários são diferenciados eu entendo",
         "pushName": "Celiete Souza",
         "timestamp": 1789487271975
+      },
+      "ACECBD489AC32FB6F2244FE64B358F3F": {
+        "sender": "158381767696617@lid",
+        "text": "Diferenciados não, são triste msm kkk",
+        "pushName": "Georg Barão ✌🏻😎",
+        "timestamp": 1789487315237
+      },
+      "ACA1007D0BBD925E03890A833EBA305F": {
+        "sender": "158381767696617@lid",
+        "text": "Mais se Deus quiser no meio do ano que vem vai mudar",
+        "pushName": "Georg Barão ✌🏻😎",
+        "timestamp": 1789487334611
       }
     }
   },
@@ -17841,7 +17867,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789487271975
+    "120363412202609595@g.us": 1789487334610
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
