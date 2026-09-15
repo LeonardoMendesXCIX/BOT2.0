@@ -7452,9 +7452,9 @@
         "total": 15
       },
       "100356960845833": {
-        "text": 117,
+        "text": 118,
         "media": 15,
-        "total": 132
+        "total": 133
       },
       "118528279593092": {
         "text": 1,
@@ -7477,9 +7477,9 @@
         "total": 3
       },
       "27346140700786": {
-        "text": 54,
+        "text": 56,
         "media": 11,
-        "total": 65
+        "total": 67
       },
       "137623771312290": {
         "text": 2,
@@ -14722,7 +14722,9 @@
         "Marcus Vieira: Época de frio é essa kkkk",
         "Diana Shirley: Aí não, vou congelar",
         "𝑳𝒂𝒚𝒉🌪🌚: O caba pediu pra me divulga eu dei uma risada sincera",
-        "Gilvanda Costa: Achei que t conhecia de outro grupo desculpa ."
+        "Gilvanda Costa: Achei que t conhecia de outro grupo desculpa .",
+        "Rodenilson 🤘🏾👀: Sim, é isso mesmo",
+        "Diana Shirley: Kkkkkkkkkk, morta😂😂😂😂😂 almoçando, quase me engasgo😂😂😂😂😂😂"
       ]
     }
   },
@@ -15080,6 +15082,18 @@
         "authorName": "Gilvanda Costa",
         "text": "Achei que t conhecia de outro grupo desculpa .",
         "timestamp": 1789489346304
+      },
+      {
+        "authorNum": "100356960845833",
+        "authorName": "Rodenilson 🤘🏾👀",
+        "text": "Sim, é isso mesmo",
+        "timestamp": 1789489380428
+      },
+      {
+        "authorNum": "27346140700786",
+        "authorName": "Diana Shirley",
+        "text": "Kkkkkkkkkk, morta😂😂😂😂😂 almoçando, quase me engasgo😂😂😂😂😂😂",
+        "timestamp": 1789489399622
       }
     ]
   },
@@ -15107,7 +15121,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1422
+    "120363412202609595@g.us": 1424
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -15785,7 +15799,7 @@
       "140622228942952": 42,
       "108461127897146": 331,
       "69539832270873": 6,
-      "27346140700786": 172,
+      "27346140700786": 185,
       "137623771312290": 12,
       "53537388122141": 607,
       "95125053169759": 41,
@@ -16095,7 +16109,7 @@
       "140622228942952": 7,
       "108461127897146": 71,
       "69539832270873": 1,
-      "27346140700786": 39,
+      "27346140700786": 40,
       "137623771312290": 3,
       "53537388122141": 127,
       "95125053169759": 12,
@@ -18176,6 +18190,18 @@
         "text": "Achei que t conhecia de outro grupo desculpa .",
         "pushName": "Gilvanda Costa",
         "timestamp": 1789489346304
+      },
+      "ACEEA04078BDA2CBCC76760983D05946": {
+        "sender": "100356960845833@lid",
+        "text": "Sim, é isso mesmo",
+        "pushName": "Rodenilson 🤘🏾👀",
+        "timestamp": 1789489380428
+      },
+      "ACE00A28D8AA14EA20ED6C899C1CB2AB": {
+        "sender": "27346140700786@lid",
+        "text": "Kkkkkkkkkk, morta😂😂😂😂😂 almoçando, quase me engasgo😂😂😂😂😂😂",
+        "pushName": "Diana Shirley",
+        "timestamp": 1789489399622
       }
     }
   },
@@ -18433,7 +18459,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789489346304
+    "120363412202609595@g.us": 1789489408940
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
