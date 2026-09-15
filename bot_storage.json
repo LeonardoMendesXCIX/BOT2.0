@@ -7378,8 +7378,8 @@
       },
       "182738040713418": {
         "text": 105,
-        "media": 34,
-        "total": 139
+        "media": 35,
+        "total": 140
       },
       "247020967165997": {
         "text": 134,
@@ -7407,9 +7407,9 @@
         "total": 49
       },
       "108461127897146": {
-        "text": 129,
+        "text": 130,
         "media": 27,
-        "total": 156
+        "total": 157
       },
       "190881986523333": {
         "text": 1,
@@ -7532,9 +7532,9 @@
         "total": 206
       },
       "559991116887": {
-        "text": 127,
+        "text": 128,
         "media": 53,
-        "total": 180
+        "total": 181
       },
       "23687415767181": {
         "text": 1,
@@ -14655,8 +14655,6 @@
         "Camila Designer: Só clicar e entrar"
       ],
       "15/09/2026": [
-        "Celiete Souza: Ah tarde nunca durmo",
-        "Georg Barão ✌🏻😎: Eu tenho que acordar na melhor hora que tem pra dormir kkk",
         "Georg Barão ✌🏻😎: Eu tiro um dia ou dois na semana pra dormir, descansar",
         "Celiete Souza: Sim teus horários são diferenciados eu entendo",
         "Georg Barão ✌🏻😎: Diferenciados não, são triste msm kkk",
@@ -15154,7 +15152,9 @@
         "Cristian Sntss: Eu gosto da Peppa",
         "LEANDRO M.: Bob esponja 🤌🏼",
         "jaciara: Meu filho assistiu 4 vezes kkkkk",
-        "Wellington: Pow Pink e cérebro"
+        "Wellington: Pow Pink e cérebro",
+        "jaciara: Bob esponja",
+        "𝑳𝒂𝒚𝒉🌪🌚: Minha filha foi assistir no dia do aniversário dela"
       ]
     }
   },
@@ -15177,12 +15177,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "Se apresentou neste aqui?",
-        "timestamp": 1789499131946
-      },
       {
         "authorNum": "36215264927990",
         "authorName": ".",
@@ -15722,6 +15716,18 @@
         "authorName": "Wellington",
         "text": "Pow Pink e cérebro",
         "timestamp": 1789500926053
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Bob esponja",
+        "timestamp": 1789500935944
+      },
+      {
+        "authorNum": "559991116887",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Minha filha foi assistir no dia do aniversário dela",
+        "timestamp": 1789500950593
       }
     ]
   },
@@ -15749,7 +15755,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1855
+    "120363412202609595@g.us": 1857
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -21502,6 +21508,18 @@
         "text": "Pow Pink e cérebro",
         "pushName": "Wellington",
         "timestamp": 1789500926053
+      },
+      "AC0981DAC72A608D77A314EC1E3E8D65": {
+        "sender": "108461127897146@lid",
+        "text": "Bob esponja",
+        "pushName": "jaciara",
+        "timestamp": 1789500935944
+      },
+      "AC3897DD5D98E2DCD3936C84CFCA36C4": {
+        "sender": "81991328395336@lid",
+        "text": "Minha filha foi assistir no dia do aniversário dela",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1789500950594
       }
     }
   },
@@ -21759,7 +21777,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789500926053
+    "120363412202609595@g.us": 1789500956078
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
