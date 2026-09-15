@@ -7477,9 +7477,9 @@
         "total": 3
       },
       "27346140700786": {
-        "text": 46,
+        "text": 48,
         "media": 11,
-        "total": 57
+        "total": 59
       },
       "137623771312290": {
         "text": 2,
@@ -14705,7 +14705,8 @@
         "Diana Shirley: Inveja eu tenho dó frio 😂",
         "𝑳𝒂𝒚𝒉🌪🌚: Eu amava \nQndo morava lá",
         "Rodenilson 🤘🏾👀: Será que vc irá gostar e aguentar?",
-        "𝑳𝒂𝒚𝒉🌪🌚: Qual cidade aqui do Maranhão?"
+        "𝑳𝒂𝒚𝒉🌪🌚: Qual cidade aqui do Maranhão?",
+        "Diana Shirley: Maranhão de açúcar"
       ]
     }
   },
@@ -14735,24 +14736,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "21543589527800",
-        "authorName": "Leonardo",
-        "text": "Huuu meu do céu",
-        "timestamp": 1789487052405
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
-        "text": "Fica inativo por muito tempo vai de arrasta",
-        "timestamp": 1789487080453
-      },
-      {
-        "authorNum": "158381767696617",
-        "authorName": "Georg Barão ✌🏻😎",
-        "text": "Tá contra mim msm neh kkk",
-        "timestamp": 1789487084313
-      },
       {
         "authorNum": "158381767696617",
         "authorName": "Georg Barão ✌🏻😎",
@@ -15148,6 +15131,12 @@
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
         "text": "Qual cidade aqui do Maranhão?",
         "timestamp": 1789488829096
+      },
+      {
+        "authorNum": "27346140700786",
+        "authorName": "Diana Shirley",
+        "text": "Maranhão de açúcar",
+        "timestamp": 1789488895156
       }
     ]
   },
@@ -15175,7 +15164,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1410
+    "120363412202609595@g.us": 1411
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -15853,7 +15842,7 @@
       "140622228942952": 42,
       "108461127897146": 331,
       "69539832270873": 6,
-      "27346140700786": 147,
+      "27346140700786": 159,
       "137623771312290": 12,
       "53537388122141": 607,
       "95125053169759": 41,
@@ -16162,7 +16151,7 @@
       "140622228942952": 7,
       "108461127897146": 71,
       "69539832270873": 1,
-      "27346140700786": 34,
+      "27346140700786": 37,
       "137623771312290": 3,
       "53537388122141": 127,
       "95125053169759": 12,
@@ -18170,6 +18159,12 @@
         "text": "Qual cidade aqui do Maranhão?",
         "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
         "timestamp": 1789488829096
+      },
+      "AC7160D0C3D1B776CE0A426CDBC14B82": {
+        "sender": "27346140700786@lid",
+        "text": "Maranhão de açúcar",
+        "pushName": "Diana Shirley",
+        "timestamp": 1789488895156
       }
     }
   },
@@ -18427,7 +18422,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789488850155
+    "120363412202609595@g.us": 1789488895156
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
