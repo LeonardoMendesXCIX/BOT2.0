@@ -7677,9 +7677,9 @@
         "total": 2
       },
       "187845394358417": {
-        "text": 1,
+        "text": 3,
         "media": 1,
-        "total": 2
+        "total": 4
       }
     }
   },
@@ -14965,7 +14965,8 @@
         "jaciara: Fortaleza dos nogueiras",
         "Cristian Sntss: @all",
         "Igor Alexandre: Eu tenho 2 amigas em Salvador e 1 em SP",
-        "jaciara: Oh inferno viu"
+        "jaciara: Oh inferno viu",
+        "Maurício Manú Telecom: Isso é em Goiás"
       ]
     }
   },
@@ -14988,12 +14989,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "559984624669",
-        "authorName": "Cristian Sntss",
-        "text": "Quem não levou chifre não vai por ceu",
-        "timestamp": 1789492721591
-      },
       {
         "authorNum": "140622228942952",
         "authorName": "Francisco",
@@ -15449,6 +15444,12 @@
         "authorName": "jaciara",
         "text": "Oh inferno viu",
         "timestamp": 1789494503710
+      },
+      {
+        "authorNum": "187845394358417",
+        "authorName": "Maurício Manú Telecom",
+        "text": "Isso é em Goiás",
+        "timestamp": 1789494534572
       }
     ]
   },
@@ -15476,7 +15477,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1649
+    "120363412202609595@g.us": 1650
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -19930,6 +19931,12 @@
         "text": "Oh inferno viu",
         "pushName": "jaciara",
         "timestamp": 1789494503710
+      },
+      "AC1F622B57F0BE7D88FA0C84F6F1463A": {
+        "sender": "187845394358417@lid",
+        "text": "Isso é em Goiás",
+        "pushName": "Maurício Manú Telecom",
+        "timestamp": 1789494534572
       }
     }
   },
@@ -20187,7 +20194,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789494504794
+    "120363412202609595@g.us": 1789494552340
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
