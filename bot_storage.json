@@ -7452,9 +7452,9 @@
         "total": 15
       },
       "100356960845833": {
-        "text": 115,
+        "text": 116,
         "media": 15,
-        "total": 130
+        "total": 131
       },
       "118528279593092": {
         "text": 1,
@@ -7498,8 +7498,8 @@
       },
       "95125053169759": {
         "text": 24,
-        "media": 5,
-        "total": 29
+        "media": 6,
+        "total": 30
       },
       "188373004222609": {
         "text": 2,
@@ -7532,9 +7532,9 @@
         "total": 136
       },
       "559991116887": {
-        "text": 63,
+        "text": 67,
         "media": 16,
-        "total": 79
+        "total": 83
       },
       "23687415767181": {
         "text": 1,
@@ -14702,7 +14702,10 @@
         "Marcus Vieira: Eu sou do extremo sul e também tá quente kkkk",
         "Fabrício: Eitaa",
         "Rodenilson 🤘🏾👀: Eita",
-        "Diana Shirley: Inveja eu tenho dó frio 😂"
+        "Diana Shirley: Inveja eu tenho dó frio 😂",
+        "𝑳𝒂𝒚𝒉🌪🌚: Eu amava \nQndo morava lá",
+        "Rodenilson 🤘🏾👀: Será que vc irá gostar e aguentar?",
+        "𝑳𝒂𝒚𝒉🌪🌚: Qual cidade aqui do Maranhão?"
       ]
     }
   },
@@ -15127,6 +15130,24 @@
         "authorName": "Diana Shirley",
         "text": "Inveja eu tenho dó frio 😂",
         "timestamp": 1789488786188
+      },
+      {
+        "authorNum": "559991116887",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Eu amava \nQndo morava lá",
+        "timestamp": 1789488810831
+      },
+      {
+        "authorNum": "100356960845833",
+        "authorName": "Rodenilson 🤘🏾👀",
+        "text": "Será que vc irá gostar e aguentar?",
+        "timestamp": 1789488819900
+      },
+      {
+        "authorNum": "559991116887",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Qual cidade aqui do Maranhão?",
+        "timestamp": 1789488829096
       }
     ]
   },
@@ -15154,7 +15175,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1407
+    "120363412202609595@g.us": 1410
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -15836,7 +15857,7 @@
       "137623771312290": 12,
       "53537388122141": 607,
       "95125053169759": 41,
-      "100356960845833": 375,
+      "100356960845833": 382,
       "128810464874577": 7,
       "4342933360709": 57,
       "247020967165997": 405,
@@ -16145,7 +16166,7 @@
       "137623771312290": 3,
       "53537388122141": 127,
       "95125053169759": 12,
-      "100356960845833": 80,
+      "100356960845833": 82,
       "128810464874577": 2,
       "4342933360709": 14,
       "247020967165997": 79,
@@ -18131,6 +18152,24 @@
         "text": "Inveja eu tenho dó frio 😂",
         "pushName": "Diana Shirley",
         "timestamp": 1789488786192
+      },
+      "AC8182D64313D118982D81AFAD23ED5B": {
+        "sender": "81991328395336@lid",
+        "text": "Eu amava \nQndo morava lá",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1789488810831
+      },
+      "AC9E7B5E6E134499E927F750ABF21546": {
+        "sender": "100356960845833@lid",
+        "text": "Será que vc irá gostar e aguentar?",
+        "pushName": "Rodenilson 🤘🏾👀",
+        "timestamp": 1789488819900
+      },
+      "AC57DE0AB14B8687CB19C711AE3DF751": {
+        "sender": "81991328395336@lid",
+        "text": "Qual cidade aqui do Maranhão?",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1789488829096
       }
     }
   },
@@ -18388,7 +18427,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789488804542
+    "120363412202609595@g.us": 1789488850155
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
