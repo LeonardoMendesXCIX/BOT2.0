@@ -7417,9 +7417,9 @@
         "total": 1
       },
       "166452229341300": {
-        "text": 31,
-        "media": 16,
-        "total": 47
+        "text": 32,
+        "media": 17,
+        "total": 49
       },
       "231241810989128": {
         "text": 146,
@@ -7477,9 +7477,9 @@
         "total": 3
       },
       "27346140700786": {
-        "text": 57,
+        "text": 58,
         "media": 12,
-        "total": 69
+        "total": 70
       },
       "137623771312290": {
         "text": 2,
@@ -7487,9 +7487,9 @@
         "total": 2
       },
       "53537388122141": {
-        "text": 202,
+        "text": 204,
         "media": 20,
-        "total": 222
+        "total": 224
       },
       "122552932372575": {
         "text": 2,
@@ -14733,7 +14733,10 @@
         "Georg Barão ✌🏻😎: 👏🏻👏🏻",
         "Georg Barão ✌🏻😎: Acordei pra tomar água kkk",
         "Cristian Sntss: Rpz eu não consigo durmi muito n",
-        "𝑳𝒂𝒚𝒉🌪🌚: Eu n consigo e tenho ódio de quem dormi demais"
+        "𝑳𝒂𝒚𝒉🌪🌚: Eu n consigo e tenho ódio de quem dormi demais",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Aí vai lá e casa com um dorminhoco 😂",
+        "Cristian Sntss: @54804520915168",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Boa tarde, meu povo"
       ]
     }
   },
@@ -15085,6 +15088,24 @@
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
         "text": "Eu n consigo e tenho ódio de quem dormi demais",
         "timestamp": 1789490044063
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Aí vai lá e casa com um dorminhoco 😂",
+        "timestamp": 1789490065809
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "@54804520915168",
+        "timestamp": 1789490068590
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Boa tarde, meu povo",
+        "timestamp": 1789490077508
       }
     ]
   },
@@ -15112,7 +15133,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1432
+    "120363412202609595@g.us": 1435
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -18246,6 +18267,24 @@
         "text": "Eu n consigo e tenho ódio de quem dormi demais",
         "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
         "timestamp": 1789490044063
+      },
+      "ACEC38AFE8990E5857F9F30C1B253030": {
+        "sender": "53537388122141@lid",
+        "text": "Aí vai lá e casa com um dorminhoco 😂",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1789490065809
+      },
+      "A58DFBB477821293138A507A1A72CB1B": {
+        "sender": "166452229341300@lid",
+        "text": "@54804520915168",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1789490068590
+      },
+      "ACC5C490266FC940AA724C38D1D791E3": {
+        "sender": "53537388122141@lid",
+        "text": "Boa tarde, meu povo",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1789490077508
       }
     }
   },
@@ -18503,7 +18542,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789490047435
+    "120363412202609595@g.us": 1789490079741
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
