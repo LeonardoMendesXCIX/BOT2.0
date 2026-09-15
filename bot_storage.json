@@ -7687,9 +7687,9 @@
         "total": 1
       },
       "36589463965754": {
-        "text": 3,
+        "text": 4,
         "media": 4,
-        "total": 7
+        "total": 8
       }
     }
   },
@@ -15015,7 +15015,8 @@
         "Diana Shirley: Bem vindo",
         "WILSON: Obrigada pelo carinho",
         "𝑳𝒂𝒚𝒉🌪🌚: Bem vindo",
-        "Francisco: Só entra homem entra mulher não é"
+        "Francisco: Só entra homem entra mulher não é",
+        "WILSON: Boa tarde amigo"
       ]
     }
   },
@@ -15151,6 +15152,12 @@
         "authorName": "Francisco",
         "text": "Só entra homem entra mulher não é",
         "timestamp": 1789497953920
+      },
+      {
+        "authorNum": "36589463965754",
+        "authorName": "WILSON",
+        "text": "Boa tarde amigo",
+        "timestamp": 1789497980978
       }
     ]
   },
@@ -15178,7 +15185,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1689
+    "120363412202609595@g.us": 1690
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -15884,7 +15891,8 @@
       "36215264927990": 14,
       "133934344065150": 29,
       "120363412202609595": 21,
-      "187845394358417": 16
+      "187845394358417": 16,
+      "36589463965754": 14
     }
   },
   "coins": {
@@ -16196,7 +16204,8 @@
       "36215264927990": 2,
       "133934344065150": 7,
       "120363412202609595": 4,
-      "187845394358417": 2
+      "187845394358417": 2,
+      "36589463965754": 1
     }
   },
   "dailyRewardClaimed": {
@@ -19899,6 +19908,12 @@
         "text": "Só entra homem entra mulher não é",
         "pushName": "Francisco",
         "timestamp": 1789497953920
+      },
+      "ACB9BEC71AD7B4DC987098B98AC35A95": {
+        "sender": "36589463965754@lid",
+        "text": "Boa tarde amigo",
+        "pushName": "WILSON",
+        "timestamp": 1789497980978
       }
     }
   },
@@ -20156,7 +20171,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789497953920
+    "120363412202609595@g.us": 1789497980978
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
