@@ -7402,14 +7402,14 @@
         "total": 47
       },
       "183906892533896": {
-        "text": 41,
+        "text": 42,
         "media": 3,
-        "total": 44
+        "total": 45
       },
       "108461127897146": {
-        "text": 123,
+        "text": 125,
         "media": 27,
-        "total": 150
+        "total": 152
       },
       "190881986523333": {
         "text": 1,
@@ -7433,8 +7433,8 @@
       },
       "129373172711439": {
         "text": 175,
-        "media": 56,
-        "total": 231
+        "media": 57,
+        "total": 232
       },
       "15960484393007": {
         "text": 10,
@@ -7488,8 +7488,8 @@
       },
       "53537388122141": {
         "text": 220,
-        "media": 22,
-        "total": 242
+        "media": 23,
+        "total": 243
       },
       "122552932372575": {
         "text": 2,
@@ -7532,9 +7532,9 @@
         "total": 168
       },
       "559991116887": {
-        "text": 90,
+        "text": 91,
         "media": 41,
-        "total": 131
+        "total": 132
       },
       "23687415767181": {
         "text": 1,
@@ -7662,9 +7662,9 @@
         "total": 9
       },
       "133934344065150": {
-        "text": 5,
+        "text": 6,
         "media": 0,
-        "total": 5
+        "total": 6
       },
       "234368463306803": {
         "text": 1,
@@ -14966,7 +14966,10 @@
         "Cristian Sntss: @all",
         "Igor Alexandre: Eu tenho 2 amigas em Salvador e 1 em SP",
         "jaciara: Oh inferno viu",
-        "Maurício Manú Telecom: Isso é em Goiás"
+        "Maurício Manú Telecom: Isso é em Goiás",
+        "jaciara: Maranhão",
+        "Gilvanda Costa: Aí é complicado.",
+        "jaciara: É que estou passando alguns meses no Maranhão"
       ]
     }
   },
@@ -14989,18 +14992,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "140622228942952",
-        "authorName": "Francisco",
-        "text": "Eu acho qui levei nao tenho certeza",
-        "timestamp": 1789492790292
-      },
-      {
-        "authorNum": "559991116887",
-        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
-        "text": "Rapaz eu acredito pois tenho duas pessoas que são meus melhores amigos e um deles se tornou padrinho do meu filho !!!\n\nDêem a opinião de vocês ?",
-        "timestamp": 1789492800688
-      },
       {
         "authorNum": "559984624669",
         "authorName": "Cristian Sntss",
@@ -15450,6 +15441,24 @@
         "authorName": "Maurício Manú Telecom",
         "text": "Isso é em Goiás",
         "timestamp": 1789494534572
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Maranhão",
+        "timestamp": 1789494595607
+      },
+      {
+        "authorNum": "133934344065150",
+        "authorName": "Gilvanda Costa",
+        "text": "Aí é complicado.",
+        "timestamp": 1789494601199
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "É que estou passando alguns meses no Maranhão",
+        "timestamp": 1789494610356
       }
     ]
   },
@@ -15477,7 +15486,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1650
+    "120363412202609595@g.us": 1653
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16181,7 +16190,7 @@
       "106378353996008": 12,
       "21543589527800": 5,
       "36215264927990": 14,
-      "133934344065150": 19,
+      "133934344065150": 29,
       "120363412202609595": 21
     }
   },
@@ -16492,7 +16501,7 @@
       "106378353996008": 1,
       "21543589527800": 3,
       "36215264927990": 2,
-      "133934344065150": 4,
+      "133934344065150": 7,
       "120363412202609595": 4
     }
   },
@@ -19937,6 +19946,24 @@
         "text": "Isso é em Goiás",
         "pushName": "Maurício Manú Telecom",
         "timestamp": 1789494534572
+      },
+      "ACEF5AE8351BB21717FD3ECF5CDAA308": {
+        "sender": "108461127897146@lid",
+        "text": "Maranhão",
+        "pushName": "jaciara",
+        "timestamp": 1789494595607
+      },
+      "AC1B8EAA6E48384AFF88E6E33C4FA472": {
+        "sender": "133934344065150@lid",
+        "text": "Aí é complicado.",
+        "pushName": "Gilvanda Costa",
+        "timestamp": 1789494601199
+      },
+      "ACEDC1DEA4DAF4C102DCB1933729337A": {
+        "sender": "108461127897146@lid",
+        "text": "É que estou passando alguns meses no Maranhão",
+        "pushName": "jaciara",
+        "timestamp": 1789494610356
       }
     }
   },
@@ -20194,7 +20221,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789494552340
+    "120363412202609595@g.us": 1789494610356
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
