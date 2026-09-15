@@ -7417,9 +7417,9 @@
         "total": 1
       },
       "166452229341300": {
-        "text": 32,
+        "text": 33,
         "media": 17,
-        "total": 49
+        "total": 50
       },
       "231241810989128": {
         "text": 146,
@@ -7427,14 +7427,14 @@
         "total": 161
       },
       "128810464874577": {
-        "text": 18,
+        "text": 20,
         "media": 1,
-        "total": 19
+        "total": 21
       },
       "129373172711439": {
-        "text": 137,
+        "text": 139,
         "media": 44,
-        "total": 181
+        "total": 183
       },
       "15960484393007": {
         "text": 10,
@@ -14743,7 +14743,10 @@
         "Camila Designer: Cheguei pessoal",
         ": Cheguei pessoal",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Oiê",
-        "Camila Designer: Sejam bem vindos todos que entraram!"
+        "Camila Designer: Sejam bem vindos todos que entraram!",
+        "Nuno: Oiiiiii",
+        "Cristian Sntss: Tão falando de quem dormi demais",
+        "Nuno: Tuso bem?"
       ]
     }
   },
@@ -14766,18 +14769,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "100356960845833",
-        "authorName": "Rodenilson 🤘🏾👀",
-        "text": "E por aqui frio",
-        "timestamp": 1789488400182
-      },
-      {
-        "authorNum": "93836630077600",
-        "authorName": "Fabrício",
-        "text": "Por aqui está mais nublado uma hora chove e para",
-        "timestamp": 1789488401113
-      },
       {
         "authorNum": "171086465478763",
         "authorName": "Marcus Vieira",
@@ -15119,6 +15110,24 @@
         "authorName": "Camila Designer",
         "text": "Sejam bem vindos todos que entraram!",
         "timestamp": 1789490198760
+      },
+      {
+        "authorNum": "128810464874577",
+        "authorName": "Nuno",
+        "text": "Oiiiiii",
+        "timestamp": 1789490250377
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Tão falando de quem dormi demais",
+        "timestamp": 1789490257340
+      },
+      {
+        "authorNum": "128810464874577",
+        "authorName": "Nuno",
+        "text": "Tuso bem?",
+        "timestamp": 1789490257835
       }
     ]
   },
@@ -15146,7 +15155,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1442
+    "120363412202609595@g.us": 1445
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -15817,7 +15826,7 @@
       "92629643563147": 252,
       "81991328395336": 99,
       "231241810989128": 566,
-      "166452229341300": 85,
+      "166452229341300": 96,
       "182738040713418": 217,
       "105136689029122": 37,
       "129373172711439": 281,
@@ -15829,7 +15838,7 @@
       "53537388122141": 622,
       "95125053169759": 41,
       "100356960845833": 382,
-      "128810464874577": 7,
+      "128810464874577": 13,
       "4342933360709": 57,
       "247020967165997": 405,
       "559984624669": 269,
@@ -16128,7 +16137,7 @@
       "92629643563147": 52,
       "81991328395336": 20,
       "231241810989128": 125,
-      "166452229341300": 16,
+      "166452229341300": 18,
       "182738040713418": 48,
       "105136689029122": 9,
       "129373172711439": 59,
@@ -16140,7 +16149,7 @@
       "53537388122141": 130,
       "95125053169759": 12,
       "100356960845833": 82,
-      "128810464874577": 2,
+      "128810464874577": 3,
       "4342933360709": 14,
       "247020967165997": 79,
       "559984624669": 49,
@@ -18341,6 +18350,24 @@
         "text": "Sejam bem vindos todos que entraram!",
         "pushName": "Camila Designer",
         "timestamp": 1789490198760
+      },
+      "AC786E8D9087779E8CE3117C67BBB003": {
+        "sender": "128810464874577@lid",
+        "text": "Oiiiiii",
+        "pushName": "Nuno",
+        "timestamp": 1789490250377
+      },
+      "A5BA7F63590318FAA7E7CF8E58C840CF": {
+        "sender": "166452229341300@lid",
+        "text": "Tão falando de quem dormi demais",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1789490257341
+      },
+      "AC55A3FBE50B4CFCD9301B28B0F56275": {
+        "sender": "128810464874577@lid",
+        "text": "Tuso bem?",
+        "pushName": "Nuno",
+        "timestamp": 1789490257835
       }
     }
   },
@@ -18598,7 +18625,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789490234280
+    "120363412202609595@g.us": 1789490259784
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
