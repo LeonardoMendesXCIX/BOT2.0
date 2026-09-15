@@ -7432,9 +7432,9 @@
         "total": 18
       },
       "129373172711439": {
-        "text": 135,
+        "text": 136,
         "media": 44,
-        "total": 179
+        "total": 180
       },
       "15960484393007": {
         "text": 10,
@@ -7654,6 +7654,11 @@
       "185396642205800": {
         "text": 0,
         "media": 1,
+        "total": 1
+      },
+      "36215264927990": {
+        "text": 1,
+        "media": 0,
         "total": 1
       }
     }
@@ -14654,7 +14659,9 @@
         "Georg Barão ✌🏻😎: Mais se Deus quiser no meio do ano que vem vai mudar",
         "Celiete Souza: Vai dar tudo certo 🙏",
         "Georg Barão ✌🏻😎: Vai sim🙏🏻",
-        "Leonardo: Sou rio de janeiro"
+        "Leonardo: Sou rio de janeiro",
+        "Celiete Souza: Coloca uma foto sua \nIdade \nLocal que mora \nE já fica apresentado aqui 🫶🏻",
+        ".: Oxi, tem chatbot no grupo???"
       ]
     }
   },
@@ -14905,6 +14912,18 @@
         "authorName": "Leonardo",
         "text": "Sou rio de janeiro",
         "timestamp": 1789487407099
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Coloca uma foto sua \nIdade \nLocal que mora \nE já fica apresentado aqui 🫶🏻",
+        "timestamp": 1789487520790
+      },
+      {
+        "authorNum": "36215264927990",
+        "authorName": ".",
+        "text": "Oxi, tem chatbot no grupo???",
+        "timestamp": 1789487542053
       }
     ]
   },
@@ -14932,7 +14951,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1364
+    "120363412202609595@g.us": 1366
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -17649,6 +17668,18 @@
         "text": "Sou rio de janeiro",
         "pushName": "Leonardo",
         "timestamp": 1789487407099
+      },
+      "AC89A4A952252B5B0EAF4CD5D7204426": {
+        "sender": "129373172711439@lid",
+        "text": "Coloca uma foto sua \nIdade \nLocal que mora \nE já fica apresentado aqui 🫶🏻",
+        "pushName": "Celiete Souza",
+        "timestamp": 1789487520792
+      },
+      "ACE4C07C94F24E8BFEB35FDA1C7CF3E7": {
+        "sender": "36215264927990@lid",
+        "text": "Oxi, tem chatbot no grupo???",
+        "pushName": ".",
+        "timestamp": 1789487542053
       }
     }
   },
@@ -17906,7 +17937,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789487407099
+    "120363412202609595@g.us": 1789487542053
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
