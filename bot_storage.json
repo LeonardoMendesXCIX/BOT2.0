@@ -7487,9 +7487,9 @@
         "total": 2
       },
       "53537388122141": {
-        "text": 238,
+        "text": 240,
         "media": 23,
-        "total": 261
+        "total": 263
       },
       "122552932372575": {
         "text": 2,
@@ -7527,9 +7527,9 @@
         "total": 83
       },
       "559984624669": {
-        "text": 134,
-        "media": 50,
-        "total": 184
+        "text": 135,
+        "media": 52,
+        "total": 187
       },
       "559991116887": {
         "text": 111,
@@ -15105,7 +15105,10 @@
         ".: Não",
         ".: Tem que se apresentar tbm?",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Pode se apresentar, por gentileza?",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Aqui todos se apresentaram novamente kkk"
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Aqui todos se apresentaram novamente kkk",
+        "Cristian Sntss: Suspeito",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Oxi",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: A pronto"
       ]
     }
   },
@@ -15625,6 +15628,24 @@
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "text": "Aqui todos se apresentaram novamente kkk",
         "timestamp": 1789499186598
+      },
+      {
+        "authorNum": "559984624669",
+        "authorName": "Cristian Sntss",
+        "text": "Suspeito",
+        "timestamp": 1789499225977
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Oxi",
+        "timestamp": 1789499242389
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "A pronto",
+        "timestamp": 1789499249578
       }
     ]
   },
@@ -15652,7 +15673,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1769
+    "120363412202609595@g.us": 1772
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16331,13 +16352,13 @@
       "69539832270873": 6,
       "27346140700786": 213,
       "137623771312290": 12,
-      "53537388122141": 704,
+      "53537388122141": 720,
       "95125053169759": 41,
       "100356960845833": 449,
       "128810464874577": 13,
       "4342933360709": 57,
       "247020967165997": 405,
-      "559984624669": 390,
+      "559984624669": 396,
       "163530946961491": 35,
       "559991116887": 341,
       "164398513573978": 13,
@@ -16646,13 +16667,13 @@
       "69539832270873": 1,
       "27346140700786": 46,
       "137623771312290": 3,
-      "53537388122141": 150,
+      "53537388122141": 153,
       "95125053169759": 12,
       "100356960845833": 94,
       "128810464874577": 3,
       "4342933360709": 14,
       "247020967165997": 79,
-      "559984624669": 75,
+      "559984624669": 77,
       "163530946961491": 8,
       "559991116887": 75,
       "164398513573978": 2,
@@ -20879,6 +20900,24 @@
         "text": "Aqui todos se apresentaram novamente kkk",
         "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "timestamp": 1789499186599
+      },
+      "A533E266C2E272E708434605ECD34D14": {
+        "sender": "166452229341300@lid",
+        "text": "Suspeito",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1789499225977
+      },
+      "ACEA1A065B195BD70364AEE22A5D5A54": {
+        "sender": "53537388122141@lid",
+        "text": "Oxi",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1789499242389
+      },
+      "ACE1B775C95D5348497F223C494FD6B9": {
+        "sender": "53537388122141@lid",
+        "text": "A pronto",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1789499249579
       }
     }
   },
@@ -21136,7 +21175,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789499186598
+    "120363412202609595@g.us": 1789499249578
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
