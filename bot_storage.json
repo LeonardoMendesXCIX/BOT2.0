@@ -7372,9 +7372,9 @@
     },
     "120363412202609595@g.us": {
       "92629643563147": {
-        "text": 107,
-        "media": 41,
-        "total": 148
+        "text": 108,
+        "media": 42,
+        "total": 150
       },
       "182738040713418": {
         "text": 118,
@@ -7452,9 +7452,9 @@
         "total": 28
       },
       "100356960845833": {
-        "text": 149,
+        "text": 150,
         "media": 15,
-        "total": 164
+        "total": 165
       },
       "118528279593092": {
         "text": 1,
@@ -7527,9 +7527,9 @@
         "total": 83
       },
       "559984624669": {
-        "text": 164,
+        "text": 166,
         "media": 56,
-        "total": 220
+        "total": 222
       },
       "559991116887": {
         "text": 145,
@@ -14655,9 +14655,6 @@
         "Camila Designer: Só clicar e entrar"
       ],
       "15/09/2026": [
-        "Cristian Sntss: @54804520915168",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Boa tarde, meu povo",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: 🙆🏻‍♀️",
         "Diana Shirley: 😌",
         "Diana Shirley: Boa tarde!",
         "Camila Designer: Cheguei pessoal",
@@ -15154,7 +15151,10 @@
         "Fabrício: Família camondongo kkkk",
         "𝑳𝒂𝒚𝒉🌪🌚: Achei",
         "Fabrício: Bacana",
-        "Camila Designer: Não é da sua época"
+        "Camila Designer: Não é da sua época",
+        "Camila Designer: Empolguei 🫣🫣🫣",
+        "Cristian Sntss: Eu tinha uma raiva do papaléguas",
+        "Rodenilson 🤘🏾👀: quem é a cantora?"
       ]
     }
   },
@@ -15177,24 +15177,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "559991116887",
-        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
-        "text": "Quem assistiu?",
-        "timestamp": 1789500763734
-      },
-      {
-        "authorNum": "54259127210155",
-        "authorName": "LEANDRO M.",
-        "text": "Num é possível",
-        "timestamp": 1789500770498
-      },
-      {
-        "authorNum": "559984624669",
-        "authorName": "Cristian Sntss",
-        "text": "@all",
-        "timestamp": 1789500777090
-      },
       {
         "authorNum": "27346140700786",
         "authorName": "Diana Shirley",
@@ -15740,6 +15722,24 @@
         "authorName": "Camila Designer",
         "text": "Não é da sua época",
         "timestamp": 1789502534435
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Empolguei 🫣🫣🫣",
+        "timestamp": 1789502570216
+      },
+      {
+        "authorNum": "559984624669",
+        "authorName": "Cristian Sntss",
+        "text": "Eu tinha uma raiva do papaléguas",
+        "timestamp": 1789502586998
+      },
+      {
+        "authorNum": "100356960845833",
+        "authorName": "Rodenilson 🤘🏾👀",
+        "text": "quem é a cantora?",
+        "timestamp": 1789502593664
       }
     ]
   },
@@ -15767,7 +15767,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1933
+    "120363412202609595@g.us": 1936
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16434,7 +16434,7 @@
       "5511927018683": 100,
       "93836630077600": 122,
       "183906892533896": 67,
-      "92629643563147": 321,
+      "92629643563147": 326,
       "81991328395336": 99,
       "231241810989128": 566,
       "166452229341300": 102,
@@ -16448,7 +16448,7 @@
       "137623771312290": 12,
       "53537388122141": 745,
       "95125053169759": 41,
-      "100356960845833": 461,
+      "100356960845833": 474,
       "128810464874577": 13,
       "4342933360709": 73,
       "247020967165997": 405,
@@ -16749,7 +16749,7 @@
       "5511927018683": 20,
       "93836630077600": 29,
       "183906892533896": 16,
-      "92629643563147": 72,
+      "92629643563147": 75,
       "81991328395336": 20,
       "231241810989128": 125,
       "166452229341300": 20,
@@ -16763,7 +16763,7 @@
       "137623771312290": 3,
       "53537388122141": 160,
       "95125053169759": 12,
-      "100356960845833": 100,
+      "100356960845833": 103,
       "128810464874577": 3,
       "4342933360709": 17,
       "247020967165997": 79,
@@ -21988,6 +21988,24 @@
         "text": "Não é da sua época",
         "pushName": "Camila Designer",
         "timestamp": 1789502534435
+      },
+      "2A3E636AE9FC250F3A85": {
+        "sender": "92629643563147@lid",
+        "text": "Empolguei 🫣🫣🫣",
+        "pushName": "Camila Designer",
+        "timestamp": 1789502570242
+      },
+      "A5EC6A4768221E9BB1C7AF711741E94F": {
+        "sender": "166452229341300@lid",
+        "text": "Eu tinha uma raiva do papaléguas",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1789502586998
+      },
+      "AC4115F523133EFA32E02ADF04EC5702": {
+        "sender": "100356960845833@lid",
+        "text": "quem é a cantora?",
+        "pushName": "Rodenilson 🤘🏾👀",
+        "timestamp": 1789502593665
       }
     }
   },
@@ -22245,7 +22263,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789502558993
+    "120363412202609595@g.us": 1789502594717
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
