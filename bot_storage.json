@@ -7532,9 +7532,9 @@
         "total": 180
       },
       "559991116887": {
-        "text": 110,
+        "text": 111,
         "media": 44,
-        "total": 154
+        "total": 155
       },
       "23687415767181": {
         "text": 1,
@@ -15086,7 +15086,8 @@
         "LEANDRO M.: Tmj! 🤝",
         "LEANDRO M.: Morro não, não por essa causa",
         "Igor Alexandre: Partiu",
-        "Diana Shirley: Já fui pela manhã"
+        "Diana Shirley: Já fui pela manhã",
+        "𝑳𝒂𝒚𝒉🌪🌚: Hematologia"
       ]
     }
   },
@@ -15109,30 +15110,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "Doida pra um verão",
-        "timestamp": 1789496935256
-      },
-      {
-        "authorNum": "183906892533896",
-        "authorName": "Igor Alexandre",
-        "text": "Galera, partiu treino",
-        "timestamp": 1789496940935
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "Inaugurar biquíni",
-        "timestamp": 1789496942144
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "E ir pra praia",
-        "timestamp": 1789496946930
-      },
       {
         "authorNum": "187845394358417",
         "authorName": "Maurício Manú Telecom",
@@ -15558,6 +15535,12 @@
         "authorName": "Diana Shirley",
         "text": "Já fui pela manhã",
         "timestamp": 1789498687262
+      },
+      {
+        "authorNum": "559991116887",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Hematologia",
+        "timestamp": 1789498749723
       }
     ]
   },
@@ -15585,7 +15568,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1750
+    "120363412202609595@g.us": 1751
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16272,7 +16255,7 @@
       "247020967165997": 405,
       "559984624669": 373,
       "163530946961491": 35,
-      "559991116887": 328,
+      "559991116887": 341,
       "164398513573978": 13,
       "102109089378363": 253,
       "253403338903556": 84,
@@ -16587,7 +16570,7 @@
       "247020967165997": 79,
       "559984624669": 70,
       "163530946961491": 8,
-      "559991116887": 73,
+      "559991116887": 75,
       "164398513573978": 2,
       "102109089378363": 50,
       "253403338903556": 13,
@@ -20688,6 +20671,12 @@
         "text": "Já fui pela manhã",
         "pushName": "Diana Shirley",
         "timestamp": 1789498687263
+      },
+      "AC149AB1EC2A797671C98F2FCF303293": {
+        "sender": "81991328395336@lid",
+        "text": "Hematologia",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1789498749723
       }
     }
   },
@@ -20945,7 +20934,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789498687262
+    "120363412202609595@g.us": 1789498749723
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
