@@ -7392,9 +7392,9 @@
         "total": 29
       },
       "93836630077600": {
-        "text": 35,
+        "text": 36,
         "media": 1,
-        "total": 36
+        "total": 37
       },
       "81991328395336": {
         "text": 29,
@@ -7497,9 +7497,9 @@
         "total": 6
       },
       "95125053169759": {
-        "text": 21,
+        "text": 22,
         "media": 5,
-        "total": 26
+        "total": 27
       },
       "188373004222609": {
         "text": 2,
@@ -14695,7 +14695,9 @@
         "Fabrício: Como assim?",
         "Kahrina C: Exibindo o calor que ta fazendo ai hahahah",
         "Fabrício: Eu nunca estive aí ..fui no Rio..mato grosso e Maranhão apenas",
-        "Rodenilson 🤘🏾👀: Num é kkkk\nSudeste está frio e chuvoso"
+        "Rodenilson 🤘🏾👀: Num é kkkk\nSudeste está frio e chuvoso",
+        "Kahrina C: Demais slk",
+        "Fabrício: Ata kkkk\nDeixa so o sol aparecer que posto uma foto .."
       ]
     }
   },
@@ -14725,18 +14727,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "27346140700786",
-        "authorName": "Diana Shirley",
-        "text": "Stop😂 nem me assustei",
-        "timestamp": 1789486854030
-      },
-      {
-        "authorNum": "158381767696617",
-        "authorName": "Georg Barão ✌🏻😎",
-        "text": "KKK tá bom",
-        "timestamp": 1789486870530
-      },
       {
         "authorNum": "27346140700786",
         "authorName": "Diana Shirley",
@@ -15114,6 +15104,18 @@
         "authorName": "Rodenilson 🤘🏾👀",
         "text": "Num é kkkk\nSudeste está frio e chuvoso",
         "timestamp": 1789488652143
+      },
+      {
+        "authorNum": "95125053169759",
+        "authorName": "Kahrina C",
+        "text": "Demais slk",
+        "timestamp": 1789488663221
+      },
+      {
+        "authorNum": "93836630077600",
+        "authorName": "Fabrício",
+        "text": "Ata kkkk\nDeixa so o sol aparecer que posto uma foto ..",
+        "timestamp": 1789488671470
       }
     ]
   },
@@ -15141,7 +15143,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1400
+    "120363412202609595@g.us": 1402
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -15822,7 +15824,7 @@
       "27346140700786": 147,
       "137623771312290": 12,
       "53537388122141": 607,
-      "95125053169759": 29,
+      "95125053169759": 41,
       "100356960845833": 359,
       "128810464874577": 7,
       "4342933360709": 57,
@@ -16131,7 +16133,7 @@
       "27346140700786": 34,
       "137623771312290": 3,
       "53537388122141": 127,
-      "95125053169759": 10,
+      "95125053169759": 12,
       "100356960845833": 76,
       "128810464874577": 2,
       "4342933360709": 14,
@@ -18076,6 +18078,18 @@
         "text": "Num é kkkk\nSudeste está frio e chuvoso",
         "pushName": "Rodenilson 🤘🏾👀",
         "timestamp": 1789488652144
+      },
+      "AC7464A1FEAE111511A55919DB3645AC": {
+        "sender": "95125053169759@lid",
+        "text": "Demais slk",
+        "pushName": "Kahrina C",
+        "timestamp": 1789488663222
+      },
+      "AC864AB48F5C96F2EE1A419A22ED3B66": {
+        "sender": "93836630077600@lid",
+        "text": "Ata kkkk\nDeixa so o sol aparecer que posto uma foto ..",
+        "pushName": "Fabrício",
+        "timestamp": 1789488671471
       }
     }
   },
@@ -18333,7 +18347,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789488652143
+    "120363412202609595@g.us": 1789488671470
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
