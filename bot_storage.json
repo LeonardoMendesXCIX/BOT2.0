@@ -7487,9 +7487,9 @@
         "total": 2
       },
       "53537388122141": {
-        "text": 214,
+        "text": 216,
         "media": 22,
-        "total": 236
+        "total": 238
       },
       "122552932372575": {
         "text": 2,
@@ -7582,9 +7582,9 @@
         "total": 1
       },
       "158381767696617": {
-        "text": 161,
+        "text": 162,
         "media": 5,
-        "total": 166
+        "total": 167
       },
       "237086657491106": {
         "text": 2,
@@ -14926,7 +14926,9 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: @all",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Acertou o ninho\nErrou o passarinho",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Ish",
-        "Georg Barão ✌🏻😎: Caramba 😂😂😂"
+        "Georg Barão ✌🏻😎: Caramba 😂😂😂",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Foi mal, só lembrei dessa frase 😂",
+        "Georg Barão ✌🏻😎: Que nada dona de boa kkk"
       ]
     }
   },
@@ -15464,6 +15466,18 @@
         "authorName": "Georg Barão ✌🏻😎",
         "text": "Caramba 😂😂😂",
         "timestamp": 1789493747411
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Foi mal, só lembrei dessa frase 😂",
+        "timestamp": 1789493766277
+      },
+      {
+        "authorNum": "158381767696617",
+        "authorName": "Georg Barão ✌🏻😎",
+        "text": "Que nada dona de boa kkk",
+        "timestamp": 1789493782140
       }
     ]
   },
@@ -15491,7 +15505,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1615
+    "120363412202609595@g.us": 1617
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -19743,6 +19757,18 @@
         "text": "Caramba 😂😂😂",
         "pushName": "Georg Barão ✌🏻😎",
         "timestamp": 1789493747411
+      },
+      "AC370956F4376C22B0097D3B7B7FEC1B": {
+        "sender": "53537388122141@lid",
+        "text": "Foi mal, só lembrei dessa frase 😂",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1789493766277
+      },
+      "AC5A2177BBBA6644027F9C39DF886D37": {
+        "sender": "158381767696617@lid",
+        "text": "Que nada dona de boa kkk",
+        "pushName": "Georg Barão ✌🏻😎",
+        "timestamp": 1789493782140
       }
     }
   },
@@ -20000,7 +20026,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789493747411
+    "120363412202609595@g.us": 1789493786451
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
