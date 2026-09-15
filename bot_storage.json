@@ -7582,9 +7582,9 @@
         "total": 1
       },
       "158381767696617": {
-        "text": 164,
+        "text": 165,
         "media": 5,
-        "total": 169
+        "total": 170
       },
       "237086657491106": {
         "text": 2,
@@ -7602,9 +7602,9 @@
         "total": 4
       },
       "255632628252836": {
-        "text": 15,
+        "text": 16,
         "media": 1,
-        "total": 16
+        "total": 17
       },
       "3766803779717": {
         "text": 1,
@@ -14989,7 +14989,9 @@
         "Rodenilson 🤘🏾👀: Aqui está afetado por causa das doenças respiratórias",
         "𝑳𝒂𝒚𝒉🌪🌚: Mds",
         "𝑳𝒂𝒚𝒉🌪🌚: Aqui eles estão aconselhando a gente coloca água na calçada para os animais",
-        "𝑳𝒂𝒚𝒉🌪🌚: Eu como tenho meu coração mole abro o portão  e deixo entra pra meu quintal que  cheio de árvores e bastante sombra"
+        "𝑳𝒂𝒚𝒉🌪🌚: Eu como tenho meu coração mole abro o portão  e deixo entra pra meu quintal que  cheio de árvores e bastante sombra",
+        "Vanessa Baggio - Psicanalista e Mentora Método 3L: Por que não houve atração física. Mas ela gosta do papo e da atenção.",
+        "Georg Barão ✌🏻😎: Ah"
       ]
     }
   },
@@ -15191,6 +15193,18 @@
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
         "text": "Eu como tenho meu coração mole abro o portão  e deixo entra pra meu quintal que  cheio de árvores e bastante sombra",
         "timestamp": 1789495957719
+      },
+      {
+        "authorNum": "255632628252836",
+        "authorName": "Vanessa Baggio - Psicanalista e Mentora Método 3L",
+        "text": "Por que não houve atração física. Mas ela gosta do papo e da atenção.",
+        "timestamp": 1789496122870
+      },
+      {
+        "authorNum": "158381767696617",
+        "authorName": "Georg Barão ✌🏻😎",
+        "text": "Ah",
+        "timestamp": 1789496152462
       }
     ]
   },
@@ -15218,7 +15232,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1668
+    "120363412202609595@g.us": 1670
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -15914,7 +15928,7 @@
       "158381767696617": 606,
       "237086657491106": 8,
       "72315102593077": 49,
-      "255632628252836": 13,
+      "255632628252836": 20,
       "238440125853754": 24,
       "171086465478763": 7,
       "126929839591449": 8,
@@ -16226,7 +16240,7 @@
       "158381767696617": 125,
       "237086657491106": 2,
       "72315102593077": 8,
-      "255632628252836": 5,
+      "255632628252836": 7,
       "238440125853754": 8,
       "171086465478763": 3,
       "126929839591449": 1,
@@ -19793,6 +19807,18 @@
         "text": "Eu como tenho meu coração mole abro o portão  e deixo entra pra meu quintal que  cheio de árvores e bastante sombra",
         "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
         "timestamp": 1789495957719
+      },
+      "A5692607B99A41EADAE52A1929016115": {
+        "sender": "255632628252836@lid",
+        "text": "Por que não houve atração física. Mas ela gosta do papo e da atenção.",
+        "pushName": "Vanessa Baggio - Psicanalista e Mentora Método 3L",
+        "timestamp": 1789496122871
+      },
+      "ACCBE92318B3AA00FE23FB631366C325": {
+        "sender": "158381767696617@lid",
+        "text": "Ah",
+        "pushName": "Georg Barão ✌🏻😎",
+        "timestamp": 1789496152462
       }
     }
   },
@@ -20050,7 +20076,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789495957719
+    "120363412202609595@g.us": 1789496152462
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
