@@ -7407,9 +7407,9 @@
         "total": 42
       },
       "108461127897146": {
-        "text": 121,
+        "text": 122,
         "media": 27,
-        "total": 148
+        "total": 149
       },
       "190881986523333": {
         "text": 1,
@@ -7473,8 +7473,8 @@
       },
       "120363412202609595": {
         "text": 1,
-        "media": 4,
-        "total": 5
+        "media": 5,
+        "total": 6
       },
       "27346140700786": {
         "text": 70,
@@ -7527,14 +7527,14 @@
         "total": 83
       },
       "559984624669": {
-        "text": 122,
-        "media": 44,
-        "total": 166
+        "text": 123,
+        "media": 45,
+        "total": 168
       },
       "559991116887": {
         "text": 90,
-        "media": 40,
-        "total": 130
+        "media": 41,
+        "total": 131
       },
       "23687415767181": {
         "text": 1,
@@ -14959,7 +14959,11 @@
         "jaciara: Manda pra cá",
         "Celiete Souza: Verdade 👀",
         "Gilvanda Costa: Aqui tá precisando um pouquinho",
-        "Maurício Manú Telecom: Qual cidade é pra mandar kkkk"
+        "Maurício Manú Telecom: Qual cidade é pra mandar kkkk",
+        "𝑳𝒂𝒚𝒉🌪🌚: Gente do céu. Eu nem pra motel tinha ido se só nas conversa tava assim",
+        ": Gente do céu. Eu nem pra motel tinha ido se só nas conversa tava assim",
+        "jaciara: Fortaleza dos nogueiras",
+        "Cristian Sntss: @all"
       ]
     }
   },
@@ -15413,6 +15417,30 @@
         "authorName": "Maurício Manú Telecom",
         "text": "Qual cidade é pra mandar kkkk",
         "timestamp": 1789494449118
+      },
+      {
+        "authorNum": "559991116887",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Gente do céu. Eu nem pra motel tinha ido se só nas conversa tava assim",
+        "timestamp": 1789494467536
+      },
+      {
+        "authorNum": "120363412202609595",
+        "authorName": "",
+        "text": "Gente do céu. Eu nem pra motel tinha ido se só nas conversa tava assim",
+        "timestamp": 1789494468264
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Fortaleza dos nogueiras",
+        "timestamp": 1789494470363
+      },
+      {
+        "authorNum": "559984624669",
+        "authorName": "Cristian Sntss",
+        "text": "@all",
+        "timestamp": 1789494472386
       }
     ]
   },
@@ -15440,7 +15468,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1643
+    "120363412202609595@g.us": 1647
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16115,7 +16143,7 @@
       "105136689029122": 37,
       "129373172711439": 363,
       "140622228942952": 100,
-      "108461127897146": 360,
+      "108461127897146": 368,
       "69539832270873": 6,
       "27346140700786": 207,
       "137623771312290": 12,
@@ -16125,7 +16153,7 @@
       "128810464874577": 13,
       "4342933360709": 57,
       "247020967165997": 405,
-      "559984624669": 345,
+      "559984624669": 355,
       "163530946961491": 35,
       "559991116887": 267,
       "164398513573978": 13,
@@ -16426,7 +16454,7 @@
       "105136689029122": 9,
       "129373172711439": 79,
       "140622228942952": 20,
-      "108461127897146": 75,
+      "108461127897146": 76,
       "69539832270873": 1,
       "27346140700786": 44,
       "137623771312290": 3,
@@ -16436,7 +16464,7 @@
       "128810464874577": 3,
       "4342933360709": 14,
       "247020967165997": 79,
-      "559984624669": 63,
+      "559984624669": 66,
       "163530946961491": 8,
       "559991116887": 60,
       "164398513573978": 2,
@@ -19864,6 +19892,24 @@
         "text": "Qual cidade é pra mandar kkkk",
         "pushName": "Maurício Manú Telecom",
         "timestamp": 1789494449118
+      },
+      "AC0238891364A68D4643581B3BF46C25": {
+        "sender": "120363412202609595@g.us",
+        "text": "Gente do céu. Eu nem pra motel tinha ido se só nas conversa tava assim",
+        "pushName": "",
+        "timestamp": 1789494468264
+      },
+      "AC42B53A7FE738164C7D625B6765980A": {
+        "sender": "108461127897146@lid",
+        "text": "Fortaleza dos nogueiras",
+        "pushName": "jaciara",
+        "timestamp": 1789494470363
+      },
+      "A5124A32ED2E36D463BFF3B30A416B52": {
+        "sender": "166452229341300@lid",
+        "text": "@all",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1789494472386
       }
     }
   },
@@ -20121,7 +20167,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789494449118
+    "120363412202609595@g.us": 1789494476028
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
