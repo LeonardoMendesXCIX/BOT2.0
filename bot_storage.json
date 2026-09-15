@@ -7377,9 +7377,9 @@
         "total": 145
       },
       "182738040713418": {
-        "text": 110,
+        "text": 111,
         "media": 38,
-        "total": 148
+        "total": 149
       },
       "247020967165997": {
         "text": 134,
@@ -7407,9 +7407,9 @@
         "total": 49
       },
       "108461127897146": {
-        "text": 131,
-        "media": 27,
-        "total": 158
+        "text": 132,
+        "media": 28,
+        "total": 160
       },
       "190881986523333": {
         "text": 1,
@@ -7477,9 +7477,9 @@
         "total": 6
       },
       "27346140700786": {
-        "text": 86,
+        "text": 88,
         "media": 15,
-        "total": 101
+        "total": 103
       },
       "137623771312290": {
         "text": 2,
@@ -14655,8 +14655,6 @@
         "Camila Designer: Só clicar e entrar"
       ],
       "15/09/2026": [
-        "Claudio: Já segui vc la",
-        "Diana Shirley: Gosto",
         ".: Justificando a ausência de foto do meu perfil, conforme a regra 4.\n  Aqui no meu estado foi submetido à uma eleição suplementar, e durante o período eleitoral fomos submetido a obrigatóridade da foto ",
         "jaciara: O meu cochilo é de um dia se deixar kkkkkkkkk",
         "jaciara: Eu amo dormi",
@@ -15154,7 +15152,9 @@
         "jaciara: Pode  ser 🥰🫣",
         "Diana Shirley: @182738040713418 achou a chave da sua moto?",
         "Wellington: Achei nada kkk",
-        "Wellington: É Valentina por favor"
+        "Wellington: É Valentina por favor",
+        "Wellington: Ela fica chateada e me deixa na mão kkkk",
+        "Diana Shirley: Desculpa, estava tentando lembrar o nome da princesa"
       ]
     }
   },
@@ -15734,6 +15734,18 @@
         "authorName": "Wellington",
         "text": "É Valentina por favor",
         "timestamp": 1789501121679
+      },
+      {
+        "authorNum": "182738040713418",
+        "authorName": "Wellington",
+        "text": "Ela fica chateada e me deixa na mão kkkk",
+        "timestamp": 1789501134256
+      },
+      {
+        "authorNum": "27346140700786",
+        "authorName": "Diana Shirley",
+        "text": "Desculpa, estava tentando lembrar o nome da princesa",
+        "timestamp": 1789501144926
       }
     ]
   },
@@ -15761,7 +15773,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1867
+    "120363412202609595@g.us": 1869
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16432,13 +16444,13 @@
       "81991328395336": 99,
       "231241810989128": 566,
       "166452229341300": 102,
-      "182738040713418": 245,
+      "182738040713418": 256,
       "105136689029122": 37,
       "129373172711439": 516,
       "140622228942952": 123,
       "108461127897146": 407,
       "69539832270873": 6,
-      "27346140700786": 247,
+      "27346140700786": 260,
       "137623771312290": 12,
       "53537388122141": 720,
       "95125053169759": 41,
@@ -16747,13 +16759,13 @@
       "81991328395336": 20,
       "231241810989128": 125,
       "166452229341300": 20,
-      "182738040713418": 56,
+      "182738040713418": 59,
       "105136689029122": 9,
       "129373172711439": 111,
       "140622228942952": 23,
       "108461127897146": 81,
       "69539832270873": 1,
-      "27346140700786": 53,
+      "27346140700786": 54,
       "137623771312290": 3,
       "53537388122141": 153,
       "95125053169759": 12,
@@ -21586,6 +21598,18 @@
         "text": "É Valentina por favor",
         "pushName": "Wellington",
         "timestamp": 1789501121680
+      },
+      "AC1EB5336091E14CF1B22DAC947645C2": {
+        "sender": "182738040713418@lid",
+        "text": "Ela fica chateada e me deixa na mão kkkk",
+        "pushName": "Wellington",
+        "timestamp": 1789501134256
+      },
+      "AC15E738BF207B0D63ACEB2B698C966F": {
+        "sender": "27346140700786@lid",
+        "text": "Desculpa, estava tentando lembrar o nome da princesa",
+        "pushName": "Diana Shirley",
+        "timestamp": 1789501144926
       }
     }
   },
@@ -21843,7 +21867,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789501121679
+    "120363412202609595@g.us": 1789501144926
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
