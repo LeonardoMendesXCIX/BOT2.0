@@ -7417,9 +7417,9 @@
         "total": 1
       },
       "166452229341300": {
-        "text": 27,
-        "media": 12,
-        "total": 39
+        "text": 29,
+        "media": 13,
+        "total": 42
       },
       "231241810989128": {
         "text": 146,
@@ -7452,9 +7452,9 @@
         "total": 15
       },
       "100356960845833": {
-        "text": 116,
+        "text": 117,
         "media": 15,
-        "total": 131
+        "total": 132
       },
       "118528279593092": {
         "text": 1,
@@ -7477,9 +7477,9 @@
         "total": 3
       },
       "27346140700786": {
-        "text": 50,
+        "text": 51,
         "media": 11,
-        "total": 61
+        "total": 62
       },
       "137623771312290": {
         "text": 2,
@@ -14709,7 +14709,11 @@
         "Diana Shirley: Maranhão de açúcar",
         "𝑳𝒂𝒚𝒉🌪🌚: ??",
         "Marcus Vieira: Eu gosto do friozinho gostoso kkkk",
-        "Diana Shirley: Sim, pq já estive em lugar na época do frio"
+        "Diana Shirley: Sim, pq já estive em lugar na época do frio",
+        "Rodenilson 🤘🏾👀: Então tá de boa",
+        "Cristian Sntss: Vc vem branco por Maranhão",
+        "Diana Shirley: Sim",
+        "Cristian Sntss: Em dia muda de cor"
       ]
     }
   },
@@ -14739,18 +14743,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "81991328395336",
-        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
-        "text": "Noite toda n",
-        "timestamp": 1789487207255
-      },
-      {
-        "authorNum": "158381767696617",
-        "authorName": "Georg Barão ✌🏻😎",
-        "text": "Oh seu éh de 2 horas kkk",
-        "timestamp": 1789487212171
-      },
       {
         "authorNum": "129373172711439",
         "authorName": "Celiete Souza",
@@ -15104,6 +15096,30 @@
         "authorName": "Diana Shirley",
         "text": "Sim, pq já estive em lugar na época do frio",
         "timestamp": 1789488987574
+      },
+      {
+        "authorNum": "100356960845833",
+        "authorName": "Rodenilson 🤘🏾👀",
+        "text": "Então tá de boa",
+        "timestamp": 1789489002556
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Vc vem branco por Maranhão",
+        "timestamp": 1789489013588
+      },
+      {
+        "authorNum": "27346140700786",
+        "authorName": "Diana Shirley",
+        "text": "Sim",
+        "timestamp": 1789489018739
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Em dia muda de cor",
+        "timestamp": 1789489026601
       }
     ]
   },
@@ -15131,7 +15147,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1414
+    "120363412202609595@g.us": 1418
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -15802,14 +15818,14 @@
       "92629643563147": 239,
       "81991328395336": 99,
       "231241810989128": 566,
-      "166452229341300": 63,
+      "166452229341300": 85,
       "182738040713418": 217,
       "105136689029122": 37,
       "129373172711439": 281,
       "140622228942952": 42,
       "108461127897146": 331,
       "69539832270873": 6,
-      "27346140700786": 159,
+      "27346140700786": 167,
       "137623771312290": 12,
       "53537388122141": 607,
       "95125053169759": 41,
@@ -16111,14 +16127,14 @@
       "92629643563147": 49,
       "81991328395336": 20,
       "231241810989128": 125,
-      "166452229341300": 12,
+      "166452229341300": 16,
       "182738040713418": 48,
       "105136689029122": 9,
       "129373172711439": 59,
       "140622228942952": 7,
       "108461127897146": 71,
       "69539832270873": 1,
-      "27346140700786": 37,
+      "27346140700786": 38,
       "137623771312290": 3,
       "53537388122141": 127,
       "95125053169759": 12,
@@ -18150,6 +18166,30 @@
         "text": "Sim, pq já estive em lugar na época do frio",
         "pushName": "Diana Shirley",
         "timestamp": 1789488987576
+      },
+      "AC107A1FBF69E9FBC23E28BD710E141D": {
+        "sender": "100356960845833@lid",
+        "text": "Então tá de boa",
+        "pushName": "Rodenilson 🤘🏾👀",
+        "timestamp": 1789489002556
+      },
+      "A5EDD323DDDF7BD8720ED99FC8EA70B2": {
+        "sender": "166452229341300@lid",
+        "text": "Vc vem branco por Maranhão",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1789489013588
+      },
+      "AC2BDBD64AD9C7FC8EC3297DF3742397": {
+        "sender": "27346140700786@lid",
+        "text": "Sim",
+        "pushName": "Diana Shirley",
+        "timestamp": 1789489018739
+      },
+      "A5F2146CCCCB88303E0E7D1D29E6B62D": {
+        "sender": "166452229341300@lid",
+        "text": "Em dia muda de cor",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1789489026601
       }
     }
   },
@@ -18407,7 +18447,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789488993051
+    "120363412202609595@g.us": 1789489029991
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
