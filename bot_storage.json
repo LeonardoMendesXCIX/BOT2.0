@@ -7432,9 +7432,9 @@
         "total": 23
       },
       "129373172711439": {
-        "text": 198,
+        "text": 200,
         "media": 63,
-        "total": 261
+        "total": 263
       },
       "15960484393007": {
         "text": 10,
@@ -7532,9 +7532,9 @@
         "total": 197
       },
       "559991116887": {
-        "text": 116,
+        "text": 117,
         "media": 48,
-        "total": 164
+        "total": 165
       },
       "23687415767181": {
         "text": 1,
@@ -7697,9 +7697,9 @@
         "total": 27
       },
       "50869659811853": {
-        "text": 11,
+        "text": 12,
         "media": 2,
-        "total": 13
+        "total": 14
       }
     }
   },
@@ -15130,7 +15130,10 @@
         "Cristian Sntss: Nunca entendi isso",
         "Gusta: Água sanitária?",
         "Celiete Souza: Vinagre sim",
-        "Celiete Souza: Eu também guardo na geladeira"
+        "Celiete Souza: Eu também guardo na geladeira",
+        "Gusta: Pq? Kkkkmm",
+        "𝑳𝒂𝒚𝒉🌪🌚: Pq?",
+        "Celiete Souza: Sei lá sempre guardamos"
       ]
     }
   },
@@ -15153,18 +15156,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "27346140700786",
-        "authorName": "Diana Shirley",
-        "text": "Pois é, rolou foto, pedido do pé 😂",
-        "timestamp": 1789498467811
-      },
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "No máximo 2/3 xícaras",
-        "timestamp": 1789498472468
-      },
       {
         "authorNum": "54259127210155",
         "authorName": "LEANDRO M.",
@@ -15578,6 +15569,24 @@
         "authorName": "Celiete Souza",
         "text": "Eu também guardo na geladeira",
         "timestamp": 1789500251697
+      },
+      {
+        "authorNum": "50869659811853",
+        "authorName": "Gusta",
+        "text": "Pq? Kkkkmm",
+        "timestamp": 1789500265500
+      },
+      {
+        "authorNum": "559991116887",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Pq?",
+        "timestamp": 1789500281730
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Sei lá sempre guardamos",
+        "timestamp": 1789500284886
       }
     ]
   },
@@ -15605,7 +15614,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1794
+    "120363412202609595@g.us": 1797
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -20987,6 +20996,24 @@
         "text": "Eu também guardo na geladeira",
         "pushName": "Celiete Souza",
         "timestamp": 1789500251697
+      },
+      "AC974F17055AAF66D2DC4F3C07B7DFB8": {
+        "sender": "50869659811853@lid",
+        "text": "Pq? Kkkkmm",
+        "pushName": "Gusta",
+        "timestamp": 1789500265500
+      },
+      "AC4BC9C470DF854CECD4706CE6FCF7D6": {
+        "sender": "81991328395336@lid",
+        "text": "Pq?",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1789500281730
+      },
+      "AC60CBAB11647843C65588F7E27977B2": {
+        "sender": "129373172711439@lid",
+        "text": "Sei lá sempre guardamos",
+        "pushName": "Celiete Souza",
+        "timestamp": 1789500284886
       }
     }
   },
@@ -21244,7 +21271,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789500251697
+    "120363412202609595@g.us": 1789500284886
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
