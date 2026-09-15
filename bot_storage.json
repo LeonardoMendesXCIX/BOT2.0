@@ -7402,14 +7402,14 @@
         "total": 47
       },
       "183906892533896": {
-        "text": 38,
+        "text": 39,
         "media": 3,
-        "total": 41
+        "total": 42
       },
       "108461127897146": {
-        "text": 120,
+        "text": 121,
         "media": 27,
-        "total": 147
+        "total": 148
       },
       "190881986523333": {
         "text": 1,
@@ -14954,7 +14954,9 @@
         "Georg Barão ✌🏻😎: Mentis tão bem 🎶",
         "Celiete Souza: 🤭🤭🤭🤭",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Quem dera pudesse viajar sempre. Mas viajei pra Brasília, Tocantins.\nFora RS, que tenho parentes por lá",
-        "Celiete Souza: Existe, apesar de muitas das vezes virem decepções pelo caminho"
+        "Celiete Souza: Existe, apesar de muitas das vezes virem decepções pelo caminho",
+        "Igor Alexandre: Homem que é homem precisa ter chifre para poder defender as mulheres kkkkk tive um caso",
+        "jaciara: Manda pra cá"
       ]
     }
   },
@@ -14977,30 +14979,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "158381767696617",
-        "authorName": "Georg Barão ✌🏻😎",
-        "text": "Da uma raiva quando acontece isso kkkk",
-        "timestamp": 1789492516822
-      },
-      {
-        "authorNum": "93836630077600",
-        "authorName": "Fabrício",
-        "text": "Verdade",
-        "timestamp": 1789492541412
-      },
-      {
-        "authorNum": "158381767696617",
-        "authorName": "Georg Barão ✌🏻😎",
-        "text": "Ah mulher fala não,vc vai encontrar alguém que te faça bem feliz,mais nós somos só amigos",
-        "timestamp": 1789492548920
-      },
-      {
-        "authorNum": "93836630077600",
-        "authorName": "Fabrício",
-        "text": "Pra não falar a verdade",
-        "timestamp": 1789492553311
-      },
       {
         "authorNum": "559984624669",
         "authorName": "Cristian Sntss",
@@ -15402,6 +15380,18 @@
         "authorName": "Celiete Souza",
         "text": "Existe, apesar de muitas das vezes virem decepções pelo caminho",
         "timestamp": 1789494282431
+      },
+      {
+        "authorNum": "183906892533896",
+        "authorName": "Igor Alexandre",
+        "text": "Homem que é homem precisa ter chifre para poder defender as mulheres kkkkk tive um caso",
+        "timestamp": 1789494397471
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Manda pra cá",
+        "timestamp": 1789494407704
       }
     ]
   },
@@ -15429,7 +15419,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1638
+    "120363412202609595@g.us": 1640
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -19819,6 +19809,18 @@
         "text": "Existe, apesar de muitas das vezes virem decepções pelo caminho",
         "pushName": "Celiete Souza",
         "timestamp": 1789494282432
+      },
+      "ACB4D7AEC62176AD06E5D495C666E18B": {
+        "sender": "183906892533896@lid",
+        "text": "Homem que é homem precisa ter chifre para poder defender as mulheres kkkkk tive um caso",
+        "pushName": "Igor Alexandre",
+        "timestamp": 1789494397471
+      },
+      "AC5F4651DBFC7367682C590089E0DE5C": {
+        "sender": "108461127897146@lid",
+        "text": "Manda pra cá",
+        "pushName": "jaciara",
+        "timestamp": 1789494407704
       }
     }
   },
@@ -20076,7 +20078,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789494382097
+    "120363412202609595@g.us": 1789494407704
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
