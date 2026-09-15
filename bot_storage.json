@@ -7372,9 +7372,9 @@
     },
     "120363412202609595@g.us": {
       "92629643563147": {
-        "text": 90,
+        "text": 91,
         "media": 33,
-        "total": 123
+        "total": 124
       },
       "182738040713418": {
         "text": 99,
@@ -7527,9 +7527,9 @@
         "total": 83
       },
       "559984624669": {
-        "text": 102,
-        "media": 39,
-        "total": 141
+        "text": 104,
+        "media": 40,
+        "total": 144
       },
       "559991116887": {
         "text": 78,
@@ -14781,7 +14781,10 @@
         "Camila Designer: Homem Mente, Mulher Omite 😌😌😌",
         "Georg Barão ✌🏻😎: Ha ha hay 😂😂",
         "Rodenilson 🤘🏾👀: Os dois mentem e omitem",
-        "Georg Barão ✌🏻😎: Vou éh dormir denovo kkk"
+        "Georg Barão ✌🏻😎: Vou éh dormir denovo kkk",
+        "Cristian Sntss: Eu não minto não",
+        "Cristian Sntss: Falo a verdade nem que doam",
+        "Camila Designer: Inclusive nesse exato momento está mentindo 🤣🤣🤣"
       ]
     }
   },
@@ -15127,6 +15130,24 @@
         "authorName": "Georg Barão ✌🏻😎",
         "text": "Vou éh dormir denovo kkk",
         "timestamp": 1789491118467
+      },
+      {
+        "authorNum": "559984624669",
+        "authorName": "Cristian Sntss",
+        "text": "Eu não minto não",
+        "timestamp": 1789491122837
+      },
+      {
+        "authorNum": "559984624669",
+        "authorName": "Cristian Sntss",
+        "text": "Falo a verdade nem que doam",
+        "timestamp": 1789491129632
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Inclusive nesse exato momento está mentindo 🤣🤣🤣",
+        "timestamp": 1789491141466
       }
     ]
   },
@@ -15154,7 +15175,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1475
+    "120363412202609595@g.us": 1478
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -15822,7 +15843,7 @@
       "5511927018683": 100,
       "93836630077600": 71,
       "183906892533896": 48,
-      "92629643563147": 259,
+      "92629643563147": 269,
       "81991328395336": 99,
       "231241810989128": 566,
       "166452229341300": 102,
@@ -16133,7 +16154,7 @@
       "5511927018683": 20,
       "93836630077600": 16,
       "183906892533896": 11,
-      "92629643563147": 53,
+      "92629643563147": 56,
       "81991328395336": 20,
       "231241810989128": 125,
       "166452229341300": 20,
@@ -18551,6 +18572,24 @@
         "text": "Vou éh dormir denovo kkk",
         "pushName": "Georg Barão ✌🏻😎",
         "timestamp": 1789491118467
+      },
+      "A58C998A25EDD1D623FAC330AF62B649": {
+        "sender": "166452229341300@lid",
+        "text": "Eu não minto não",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1789491122837
+      },
+      "A5880BB76336CED63FE0D9D317B56FA0": {
+        "sender": "166452229341300@lid",
+        "text": "Falo a verdade nem que doam",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1789491129632
+      },
+      "2ADC6D9E78019398E3AC": {
+        "sender": "92629643563147@lid",
+        "text": "Inclusive nesse exato momento está mentindo 🤣🤣🤣",
+        "pushName": "Camila Designer",
+        "timestamp": 1789491141466
       }
     }
   },
@@ -18808,7 +18847,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789491118467
+    "120363412202609595@g.us": 1789491147925
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
