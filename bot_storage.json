@@ -7432,9 +7432,9 @@
         "total": 22
       },
       "129373172711439": {
-        "text": 161,
-        "media": 54,
-        "total": 215
+        "text": 163,
+        "media": 55,
+        "total": 218
       },
       "15960484393007": {
         "text": 10,
@@ -7452,9 +7452,9 @@
         "total": 15
       },
       "100356960845833": {
-        "text": 129,
+        "text": 130,
         "media": 15,
-        "total": 144
+        "total": 145
       },
       "118528279593092": {
         "text": 1,
@@ -14817,7 +14817,10 @@
         "Celiete Souza: Eu sei, estou zoando, mas realmente pintam e bordam para os dois lados",
         "Georg Barão ✌🏻😎: Experiência própria neh kkkk",
         "Rodenilson 🤘🏾👀: Pois é,como confiar em alguém hj né",
-        "Georg Barão ✌🏻😎: Oh meu bem vc já foi?kkk"
+        "Georg Barão ✌🏻😎: Oh meu bem vc já foi?kkk",
+        "Celiete Souza: Bem difícil, eu ando desacreditada",
+        "Celiete Souza: Sempre em alerta",
+        "Rodenilson 🤘🏾👀: Estamos desacreditados"
       ]
     }
   },
@@ -15319,6 +15322,24 @@
         "authorName": "Georg Barão ✌🏻😎",
         "text": "Oh meu bem vc já foi?kkk",
         "timestamp": 1789491477378
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Bem difícil, eu ando desacreditada",
+        "timestamp": 1789491487967
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Sempre em alerta",
+        "timestamp": 1789491500752
+      },
+      {
+        "authorNum": "100356960845833",
+        "authorName": "Rodenilson 🤘🏾👀",
+        "text": "Estamos desacreditados",
+        "timestamp": 1789491503103
       }
     ]
   },
@@ -15346,7 +15367,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1506
+    "120363412202609595@g.us": 1509
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16020,7 +16041,7 @@
       "166452229341300": 102,
       "182738040713418": 217,
       "105136689029122": 37,
-      "129373172711439": 336,
+      "129373172711439": 346,
       "140622228942952": 42,
       "108461127897146": 349,
       "69539832270873": 6,
@@ -16331,7 +16352,7 @@
       "166452229341300": 20,
       "182738040713418": 48,
       "105136689029122": 9,
-      "129373172711439": 71,
+      "129373172711439": 74,
       "140622228942952": 7,
       "108461127897146": 73,
       "69539832270873": 1,
@@ -18929,6 +18950,24 @@
         "text": "Oh meu bem vc já foi?kkk",
         "pushName": "Georg Barão ✌🏻😎",
         "timestamp": 1789491477378
+      },
+      "AC0560439C95CD0A9F31F6BBFE2D929F": {
+        "sender": "129373172711439@lid",
+        "text": "Bem difícil, eu ando desacreditada",
+        "pushName": "Celiete Souza",
+        "timestamp": 1789491487967
+      },
+      "ACBC2F01E98CD43163622D7ADE84AF41": {
+        "sender": "129373172711439@lid",
+        "text": "Sempre em alerta",
+        "pushName": "Celiete Souza",
+        "timestamp": 1789491500752
+      },
+      "AC1CD899B41726A7A1DB03F2800AE916": {
+        "sender": "100356960845833@lid",
+        "text": "Estamos desacreditados",
+        "pushName": "Rodenilson 🤘🏾👀",
+        "timestamp": 1789491503103
       }
     }
   },
@@ -19186,7 +19225,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789491477378
+    "120363412202609595@g.us": 1789491507728
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
