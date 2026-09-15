@@ -7372,9 +7372,9 @@
     },
     "120363412202609595@g.us": {
       "92629643563147": {
-        "text": 94,
+        "text": 95,
         "media": 39,
-        "total": 133
+        "total": 134
       },
       "182738040713418": {
         "text": 99,
@@ -7407,9 +7407,9 @@
         "total": 41
       },
       "108461127897146": {
-        "text": 118,
+        "text": 119,
         "media": 27,
-        "total": 145
+        "total": 146
       },
       "190881986523333": {
         "text": 1,
@@ -7582,9 +7582,9 @@
         "total": 1
       },
       "158381767696617": {
-        "text": 147,
+        "text": 148,
         "media": 5,
-        "total": 152
+        "total": 153
       },
       "237086657491106": {
         "text": 2,
@@ -14859,7 +14859,10 @@
         "Georg Barão ✌🏻😎: Olha que vc já encontrou ee colocou ele como amigo",
         "Georg Barão ✌🏻😎: Quando na vdd oh interesse dele era outro",
         "Georg Barão ✌🏻😎: Toda mulher tem ou já teve um desses um dia",
-        "jaciara: Bonzinho?"
+        "jaciara: Bonzinho?",
+        "jaciara: Quando a esmola é de mais o santo desconfia",
+        "Georg Barão ✌🏻😎: Sim,que faz tudo que ah mulher quer,tipo quando estão se conhecendo",
+        "Camila Designer: Não, meus amigos são todos na época de colegial"
       ]
     }
   },
@@ -15493,6 +15496,24 @@
         "authorName": "jaciara",
         "text": "Bonzinho?",
         "timestamp": 1789492230288
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Quando a esmola é de mais o santo desconfia",
+        "timestamp": 1789492253041
+      },
+      {
+        "authorNum": "158381767696617",
+        "authorName": "Georg Barão ✌🏻😎",
+        "text": "Sim,que faz tudo que ah mulher quer,tipo quando estão se conhecendo",
+        "timestamp": 1789492255687
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Não, meus amigos são todos na época de colegial",
+        "timestamp": 1789492263647
       }
     ]
   },
@@ -15520,7 +15541,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1548
+    "120363412202609595@g.us": 1551
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16214,7 +16235,7 @@
       "253403338903556": 84,
       "262182034002040": 69,
       "185942488969385": 8,
-      "158381767696617": 555,
+      "158381767696617": 566,
       "237086657491106": 8,
       "72315102593077": 49,
       "255632628252836": 13,
@@ -16525,7 +16546,7 @@
       "253403338903556": 13,
       "262182034002040": 19,
       "185942488969385": 2,
-      "158381767696617": 113,
+      "158381767696617": 115,
       "237086657491106": 2,
       "72315102593077": 8,
       "255632628252836": 5,
@@ -19370,6 +19391,24 @@
         "text": "Bonzinho?",
         "pushName": "jaciara",
         "timestamp": 1789492230288
+      },
+      "ACFC121E708DF2B96D88AE79146289DF": {
+        "sender": "108461127897146@lid",
+        "text": "Quando a esmola é de mais o santo desconfia",
+        "pushName": "jaciara",
+        "timestamp": 1789492253041
+      },
+      "AC78A67BB24B65273644D8CC2C397F92": {
+        "sender": "158381767696617@lid",
+        "text": "Sim,que faz tudo que ah mulher quer,tipo quando estão se conhecendo",
+        "pushName": "Georg Barão ✌🏻😎",
+        "timestamp": 1789492255687
+      },
+      "2ADA4970E5487700468C": {
+        "sender": "92629643563147@lid",
+        "text": "Não, meus amigos são todos na época de colegial",
+        "pushName": "Camila Designer",
+        "timestamp": 1789492263647
       }
     }
   },
@@ -19627,7 +19666,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789492230288
+    "120363412202609595@g.us": 1789492263647
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
