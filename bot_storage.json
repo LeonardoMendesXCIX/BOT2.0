@@ -7407,9 +7407,9 @@
         "total": 41
       },
       "108461127897146": {
-        "text": 119,
+        "text": 120,
         "media": 27,
-        "total": 146
+        "total": 147
       },
       "190881986523333": {
         "text": 1,
@@ -7477,9 +7477,9 @@
         "total": 5
       },
       "27346140700786": {
-        "text": 66,
+        "text": 67,
         "media": 14,
-        "total": 80
+        "total": 81
       },
       "137623771312290": {
         "text": 2,
@@ -14891,7 +14891,9 @@
         "Diana Shirley: Mas depois da separação ainda não falamos, tem um ano e seis meses",
         "Diana Shirley: Acredito sim",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Caixinhas estão boas hoje",
-        "Rodenilson 🤘🏾👀: Meu melhor amigo, é uma mulher,pensa num entrosamento, reciprocidade e tudo no maior respeito.Somos amigos há anos e nunca rolou nada, além de amizade"
+        "Rodenilson 🤘🏾👀: Meu melhor amigo, é uma mulher,pensa num entrosamento, reciprocidade e tudo no maior respeito.Somos amigos há anos e nunca rolou nada, além de amizade",
+        "Diana Shirley: Mesmo uma safada se dizendo minha amiga, e amiga dele me traiu, mas enfim",
+        "jaciara: Eu sempre disse isso kkkk"
       ]
     }
   },
@@ -14914,30 +14916,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "158381767696617",
-        "authorName": "Georg Barão ✌🏻😎",
-        "text": "Vou éh dormir denovo kkk",
-        "timestamp": 1789491118467
-      },
-      {
-        "authorNum": "559984624669",
-        "authorName": "Cristian Sntss",
-        "text": "Eu não minto não",
-        "timestamp": 1789491122837
-      },
-      {
-        "authorNum": "559984624669",
-        "authorName": "Cristian Sntss",
-        "text": "Falo a verdade nem que doam",
-        "timestamp": 1789491129632
-      },
-      {
-        "authorNum": "92629643563147",
-        "authorName": "Camila Designer",
-        "text": "Inclusive nesse exato momento está mentindo 🤣🤣🤣",
-        "timestamp": 1789491141466
-      },
       {
         "authorNum": "108461127897146",
         "authorName": "jaciara",
@@ -15549,6 +15527,18 @@
         "authorName": "Rodenilson 🤘🏾👀",
         "text": "Meu melhor amigo, é uma mulher,pensa num entrosamento, reciprocidade e tudo no maior respeito.Somos amigos há anos e nunca rolou nada, além de amizade",
         "timestamp": 1789492909776
+      },
+      {
+        "authorNum": "27346140700786",
+        "authorName": "Diana Shirley",
+        "text": "Mesmo uma safada se dizendo minha amiga, e amiga dele me traiu, mas enfim",
+        "timestamp": 1789492936597
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Eu sempre disse isso kkkk",
+        "timestamp": 1789492947929
       }
     ]
   },
@@ -15576,7 +15566,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1580
+    "120363412202609595@g.us": 1582
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -19618,6 +19608,18 @@
         "text": "Meu melhor amigo, é uma mulher,pensa num entrosamento, reciprocidade e tudo no maior respeito.Somos amigos há anos e nunca rolou nada, além de amizade",
         "pushName": "Rodenilson 🤘🏾👀",
         "timestamp": 1789492909778
+      },
+      "AC31B981CCDB32CF206150E57497C8C3": {
+        "sender": "27346140700786@lid",
+        "text": "Mesmo uma safada se dizendo minha amiga, e amiga dele me traiu, mas enfim",
+        "pushName": "Diana Shirley",
+        "timestamp": 1789492936597
+      },
+      "AC89FD326CB45882D017E404C102AD7F": {
+        "sender": "108461127897146@lid",
+        "text": "Eu sempre disse isso kkkk",
+        "pushName": "jaciara",
+        "timestamp": 1789492947929
       }
     }
   },
@@ -19875,7 +19877,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789492909776
+    "120363412202609595@g.us": 1789492947929
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
