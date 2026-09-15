@@ -7477,9 +7477,9 @@
         "total": 6
       },
       "27346140700786": {
-        "text": 70,
+        "text": 71,
         "media": 14,
-        "total": 84
+        "total": 85
       },
       "137623771312290": {
         "text": 2,
@@ -7487,9 +7487,9 @@
         "total": 2
       },
       "53537388122141": {
-        "text": 221,
+        "text": 222,
         "media": 23,
-        "total": 244
+        "total": 245
       },
       "122552932372575": {
         "text": 2,
@@ -14984,7 +14984,8 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Queria",
         "Maurício Manú Telecom: Aqui estava quase nisso aí, agora foi pra 25",
         "Cristian Sntss: Tomara que venha pra cá",
-        "Cristian Sntss: Pq aqui tá quente \nQue até os hospital tão afetado"
+        "Cristian Sntss: Pq aqui tá quente \nQue até os hospital tão afetado",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: E eu aqui com os meus 19°C"
       ]
     }
   },
@@ -15007,48 +15008,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "140622228942952",
-        "authorName": "Francisco",
-        "text": "Rapaz",
-        "timestamp": 1789493713261
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "@all",
-        "timestamp": 1789493714740
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "Acertou o ninho\nErrou o passarinho",
-        "timestamp": 1789493736789
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "Ish",
-        "timestamp": 1789493737860
-      },
-      {
-        "authorNum": "158381767696617",
-        "authorName": "Georg Barão ✌🏻😎",
-        "text": "Caramba 😂😂😂",
-        "timestamp": 1789493747411
-      },
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "Foi mal, só lembrei dessa frase 😂",
-        "timestamp": 1789493766277
-      },
-      {
-        "authorNum": "158381767696617",
-        "authorName": "Georg Barão ✌🏻😎",
-        "text": "Que nada dona de boa kkk",
-        "timestamp": 1789493782140
-      },
       {
         "authorNum": "27346140700786",
         "authorName": "Diana Shirley",
@@ -15324,6 +15283,12 @@
         "authorName": "Cristian Sntss",
         "text": "Pq aqui tá quente \nQue até os hospital tão afetado",
         "timestamp": 1789495513208
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "E eu aqui com os meus 19°C",
+        "timestamp": 1789495597912
       }
     ]
   },
@@ -15351,7 +15316,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1663
+    "120363412202609595@g.us": 1664
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -19896,6 +19861,12 @@
         "text": "Pq aqui tá quente \nQue até os hospital tão afetado",
         "pushName": "Cristian Sntss",
         "timestamp": 1789495513208
+      },
+      "AC6A5A10BC19D1353E8938522271E71A": {
+        "sender": "53537388122141@lid",
+        "text": "E eu aqui com os meus 19°C",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1789495597913
       }
     }
   },
@@ -20153,7 +20124,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789495513207
+    "120363412202609595@g.us": 1789495602573
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
