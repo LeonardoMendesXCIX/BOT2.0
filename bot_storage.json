@@ -7402,9 +7402,9 @@
         "total": 47
       },
       "183906892533896": {
-        "text": 42,
+        "text": 43,
         "media": 3,
-        "total": 45
+        "total": 46
       },
       "108461127897146": {
         "text": 125,
@@ -7677,9 +7677,9 @@
         "total": 2
       },
       "187845394358417": {
-        "text": 3,
+        "text": 4,
         "media": 1,
-        "total": 4
+        "total": 5
       }
     }
   },
@@ -14969,7 +14969,8 @@
         "Maurício Manú Telecom: Isso é em Goiás",
         "jaciara: Maranhão",
         "Gilvanda Costa: Aí é complicado.",
-        "jaciara: É que estou passando alguns meses no Maranhão"
+        "jaciara: É que estou passando alguns meses no Maranhão",
+        "Maurício Manú Telecom: A sim tendi"
       ]
     }
   },
@@ -14992,12 +14993,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "559984624669",
-        "authorName": "Cristian Sntss",
-        "text": "@all",
-        "timestamp": 1789492811706
-      },
       {
         "authorNum": "27346140700786",
         "authorName": "Diana Shirley",
@@ -15459,6 +15454,12 @@
         "authorName": "jaciara",
         "text": "É que estou passando alguns meses no Maranhão",
         "timestamp": 1789494610356
+      },
+      {
+        "authorNum": "187845394358417",
+        "authorName": "Maurício Manú Telecom",
+        "text": "A sim tendi",
+        "timestamp": 1789494625651
       }
     ]
   },
@@ -15486,7 +15487,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1653
+    "120363412202609595@g.us": 1654
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -19964,6 +19965,12 @@
         "text": "É que estou passando alguns meses no Maranhão",
         "pushName": "jaciara",
         "timestamp": 1789494610356
+      },
+      "AC16FF6BCA92668FA51D9762F72B3BF1": {
+        "sender": "187845394358417@lid",
+        "text": "A sim tendi",
+        "pushName": "Maurício Manú Telecom",
+        "timestamp": 1789494625651
       }
     }
   },
@@ -20221,7 +20228,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789494610356
+    "120363412202609595@g.us": 1789494625651
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
