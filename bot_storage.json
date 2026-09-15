@@ -7477,9 +7477,9 @@
         "total": 3
       },
       "27346140700786": {
-        "text": 49,
+        "text": 50,
         "media": 11,
-        "total": 60
+        "total": 61
       },
       "137623771312290": {
         "text": 2,
@@ -7497,9 +7497,9 @@
         "total": 6
       },
       "95125053169759": {
-        "text": 24,
+        "text": 25,
         "media": 6,
-        "total": 30
+        "total": 31
       },
       "188373004222609": {
         "text": 2,
@@ -7533,8 +7533,8 @@
       },
       "559991116887": {
         "text": 68,
-        "media": 17,
-        "total": 85
+        "media": 18,
+        "total": 86
       },
       "23687415767181": {
         "text": 1,
@@ -14708,7 +14708,8 @@
         "𝑳𝒂𝒚𝒉🌪🌚: Qual cidade aqui do Maranhão?",
         "Diana Shirley: Maranhão de açúcar",
         "𝑳𝒂𝒚𝒉🌪🌚: ??",
-        "Marcus Vieira: Eu gosto do friozinho gostoso kkkk"
+        "Marcus Vieira: Eu gosto do friozinho gostoso kkkk",
+        "Diana Shirley: Sim, pq já estive em lugar na época do frio"
       ]
     }
   },
@@ -14738,18 +14739,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "81991328395336",
-        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
-        "text": "E olha que já passei noites acordada \nTrabalhando em motel",
-        "timestamp": 1789487169992
-      },
-      {
-        "authorNum": "158381767696617",
-        "authorName": "Georg Barão ✌🏻😎",
-        "text": "Vc dormi ah noite toda,eu acordo na melhor hora que tem pra dormir kkk",
-        "timestamp": 1789487182167
-      },
       {
         "authorNum": "81991328395336",
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
@@ -15109,6 +15098,12 @@
         "authorName": "Marcus Vieira",
         "text": "Eu gosto do friozinho gostoso kkkk",
         "timestamp": 1789488962598
+      },
+      {
+        "authorNum": "27346140700786",
+        "authorName": "Diana Shirley",
+        "text": "Sim, pq já estive em lugar na época do frio",
+        "timestamp": 1789488987574
       }
     ]
   },
@@ -15136,7 +15131,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1413
+    "120363412202609595@g.us": 1414
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -18149,6 +18144,12 @@
         "text": "Eu gosto do friozinho gostoso kkkk",
         "pushName": "Marcus Vieira",
         "timestamp": 1789488962598
+      },
+      "AC53E40A02EF489F6F97A7E2314F2355": {
+        "sender": "27346140700786@lid",
+        "text": "Sim, pq já estive em lugar na época do frio",
+        "pushName": "Diana Shirley",
+        "timestamp": 1789488987576
       }
     }
   },
@@ -18406,7 +18407,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789488962598
+    "120363412202609595@g.us": 1789488993051
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
