@@ -7377,9 +7377,9 @@
         "total": 145
       },
       "182738040713418": {
-        "text": 113,
+        "text": 114,
         "media": 40,
-        "total": 153
+        "total": 154
       },
       "247020967165997": {
         "text": 134,
@@ -7527,14 +7527,14 @@
         "total": 83
       },
       "559984624669": {
-        "text": 153,
+        "text": 154,
         "media": 56,
-        "total": 209
+        "total": 210
       },
       "559991116887": {
         "text": 133,
-        "media": 54,
-        "total": 187
+        "media": 55,
+        "total": 188
       },
       "23687415767181": {
         "text": 1,
@@ -7692,9 +7692,9 @@
         "total": 14
       },
       "54259127210155": {
-        "text": 26,
+        "text": 27,
         "media": 12,
-        "total": 38
+        "total": 39
       },
       "50869659811853": {
         "text": 23,
@@ -14655,9 +14655,6 @@
         "Camila Designer: Só clicar e entrar"
       ],
       "15/09/2026": [
-        "Marcus Vieira: Calorão aqui😅",
-        "Fabrício: Vc é de onde mesmo?",
-        "𝑳𝒂𝒚𝒉🌪🌚: Igual aqui",
         "Kahrina C: Guarulhos SP",
         "Fabrício: Aqui na minha cidade apesar de estar nublado e chovendo as vezes o dia amanhece quente daí durante o dia vai mudando",
         "Fabrício: Hj foi assim",
@@ -15154,7 +15151,10 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Bff dela demais. Amor da vida dela\nNé @81991328395336",
         "Claudio: Quem",
         "Marcus Vieira: Trampo finalizado 😜✌🏼",
-        "Celiete Souza: Bom descanso"
+        "Celiete Souza: Bom descanso",
+        "𝑳𝒂𝒚𝒉🌪🌚: Bora lá ?",
+        "Cristian Sntss: @all",
+        "LEANDRO M.: Super choque"
       ]
     }
   },
@@ -15177,12 +15177,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "4342933360709",
-        "authorName": "Claudio",
-        "text": "Boa tarde",
-        "timestamp": 1789499892494
-      },
       {
         "authorNum": "50869659811853",
         "authorName": "Gusta",
@@ -15800,6 +15794,24 @@
         "authorName": "Celiete Souza",
         "text": "Bom descanso",
         "timestamp": 1789501675820
+      },
+      {
+        "authorNum": "559991116887",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Bora lá ?",
+        "timestamp": 1789501728281
+      },
+      {
+        "authorNum": "559984624669",
+        "authorName": "Cristian Sntss",
+        "text": "@all",
+        "timestamp": 1789501738947
+      },
+      {
+        "authorNum": "54259127210155",
+        "authorName": "LEANDRO M.",
+        "text": "Super choque",
+        "timestamp": 1789501744436
       }
     ]
   },
@@ -15827,7 +15839,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1885
+    "120363412202609595@g.us": 1888
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16512,9 +16524,9 @@
       "128810464874577": 13,
       "4342933360709": 73,
       "247020967165997": 405,
-      "559984624669": 417,
+      "559984624669": 430,
       "163530946961491": 35,
-      "559991116887": 393,
+      "559991116887": 407,
       "164398513573978": 13,
       "102109089378363": 253,
       "253403338903556": 84,
@@ -16827,9 +16839,9 @@
       "128810464874577": 3,
       "4342933360709": 17,
       "247020967165997": 79,
-      "559984624669": 84,
+      "559984624669": 86,
       "163530946961491": 8,
-      "559991116887": 88,
+      "559991116887": 91,
       "164398513573978": 2,
       "102109089378363": 50,
       "253403338903556": 13,
@@ -21760,6 +21772,24 @@
         "text": "Bom descanso",
         "pushName": "Celiete Souza",
         "timestamp": 1789501675820
+      },
+      "ACC799CAFDB54357E3443BE175B18FE5": {
+        "sender": "81991328395336@lid",
+        "text": "Bora lá ?",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1789501728282
+      },
+      "A5E58DCA0901D184A8A09B067BAEA206": {
+        "sender": "166452229341300@lid",
+        "text": "@all",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1789501738947
+      },
+      "AC4D1DF0652CD5A5FE31D6EB7FCC156F": {
+        "sender": "54259127210155@lid",
+        "text": "Super choque",
+        "pushName": "LEANDRO M.",
+        "timestamp": 1789501744436
       }
     }
   },
@@ -22017,7 +22047,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789501675820
+    "120363412202609595@g.us": 1789501744435
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
