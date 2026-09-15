@@ -7532,9 +7532,9 @@
         "total": 136
       },
       "559991116887": {
-        "text": 58,
+        "text": 60,
         "media": 15,
-        "total": 73
+        "total": 75
       },
       "23687415767181": {
         "text": 1,
@@ -14676,7 +14676,9 @@
         "Fabrício: Boa tarde galera agitada",
         "𝑳𝒂𝒚𝒉🌪🌚: Boaaaaa",
         "𝑳𝒂𝒚𝒉🌪🌚: Tendi",
-        "Fabrício: Tudo certo"
+        "Fabrício: Tudo certo",
+        "𝑳𝒂𝒚𝒉🌪🌚: Tudo",
+        "𝑳𝒂𝒚𝒉🌪🌚: Só o calor q tá matando"
       ]
     }
   },
@@ -15029,6 +15031,18 @@
         "authorName": "Fabrício",
         "text": "Tudo certo",
         "timestamp": 1789488337464
+      },
+      {
+        "authorNum": "559991116887",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Tudo",
+        "timestamp": 1789488367928
+      },
+      {
+        "authorNum": "559991116887",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Só o calor q tá matando",
+        "timestamp": 1789488375973
       }
     ]
   },
@@ -15056,7 +15070,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1381
+    "120363412202609595@g.us": 1383
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -17877,6 +17891,18 @@
         "text": "Tudo certo",
         "pushName": "Fabrício",
         "timestamp": 1789488337464
+      },
+      "ACB4EB5E9385E82067A17874721DB146": {
+        "sender": "81991328395336@lid",
+        "text": "Tudo",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1789488367928
+      },
+      "AC7C979356E79B65FF61E2C3A4F0A97D": {
+        "sender": "81991328395336@lid",
+        "text": "Só o calor q tá matando",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1789488375973
       }
     }
   },
@@ -18134,7 +18160,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789488337464
+    "120363412202609595@g.us": 1789488375973
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
