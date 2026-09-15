@@ -7487,9 +7487,9 @@
         "total": 2
       },
       "53537388122141": {
-        "text": 241,
+        "text": 243,
         "media": 23,
-        "total": 264
+        "total": 266
       },
       "122552932372575": {
         "text": 2,
@@ -7527,9 +7527,9 @@
         "total": 83
       },
       "559984624669": {
-        "text": 135,
+        "text": 138,
         "media": 52,
-        "total": 187
+        "total": 190
       },
       "559991116887": {
         "text": 112,
@@ -15111,7 +15111,10 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: A pronto",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Se ofendeu pq pedi apresentação do cidadão",
         "𝑳𝒂𝒚𝒉🌪🌚: Não lembro dele nem no outro",
-        "Wellington: Boa boa pessoinhas 🫶🏽🙌🏽"
+        "Wellington: Boa boa pessoinhas 🫶🏽🙌🏽",
+        "Cristian Sntss: Tá por onde",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Sei nem quem é",
+        "Cristian Sntss: S n me engano foi o gay q entrou junto com a Thaynara"
       ]
     }
   },
@@ -15667,6 +15670,24 @@
         "authorName": "Wellington",
         "text": "Boa boa pessoinhas 🫶🏽🙌🏽",
         "timestamp": 1789499379423
+      },
+      {
+        "authorNum": "559984624669",
+        "authorName": "Cristian Sntss",
+        "text": "Tá por onde",
+        "timestamp": 1789499410588
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Sei nem quem é",
+        "timestamp": 1789499418710
+      },
+      {
+        "authorNum": "559984624669",
+        "authorName": "Cristian Sntss",
+        "text": "S n me engano foi o gay q entrou junto com a Thaynara",
+        "timestamp": 1789499443094
       }
     ]
   },
@@ -15694,7 +15715,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1775
+    "120363412202609595@g.us": 1778
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16379,7 +16400,7 @@
       "128810464874577": 13,
       "4342933360709": 57,
       "247020967165997": 405,
-      "559984624669": 396,
+      "559984624669": 404,
       "163530946961491": 35,
       "559991116887": 355,
       "164398513573978": 13,
@@ -16694,7 +16715,7 @@
       "128810464874577": 3,
       "4342933360709": 14,
       "247020967165997": 79,
-      "559984624669": 77,
+      "559984624669": 78,
       "163530946961491": 8,
       "559991116887": 78,
       "164398513573978": 2,
@@ -20957,6 +20978,24 @@
         "text": "Boa boa pessoinhas 🫶🏽🙌🏽",
         "pushName": "Wellington",
         "timestamp": 1789499379423
+      },
+      "A57BE9E3B536ECC2AD471301C93A3151": {
+        "sender": "166452229341300@lid",
+        "text": "Tá por onde",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1789499410588
+      },
+      "ACF37B46F635509013656E016B53CE49": {
+        "sender": "53537388122141@lid",
+        "text": "Sei nem quem é",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1789499418710
+      },
+      "A527C8C6406E7868CDFEAA5CC5ED1538": {
+        "sender": "166452229341300@lid",
+        "text": "S n me engano foi o gay q entrou junto com a Thaynara",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1789499443094
       }
     }
   },
@@ -21214,7 +21253,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789499379423
+    "120363412202609595@g.us": 1789499443094
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
