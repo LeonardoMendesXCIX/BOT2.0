@@ -7487,9 +7487,9 @@
         "total": 2
       },
       "53537388122141": {
-        "text": 231,
+        "text": 232,
         "media": 23,
-        "total": 254
+        "total": 255
       },
       "122552932372575": {
         "text": 2,
@@ -7527,9 +7527,9 @@
         "total": 83
       },
       "559984624669": {
-        "text": 131,
-        "media": 49,
-        "total": 180
+        "text": 133,
+        "media": 50,
+        "total": 183
       },
       "559991116887": {
         "text": 111,
@@ -7657,9 +7657,9 @@
         "total": 1
       },
       "36215264927990": {
-        "text": 9,
+        "text": 10,
         "media": 2,
-        "total": 11
+        "total": 12
       },
       "133934344065150": {
         "text": 7,
@@ -15088,7 +15088,11 @@
         "Igor Alexandre: Partiu",
         "Diana Shirley: Já fui pela manhã",
         "𝑳𝒂𝒚𝒉🌪🌚: Hematologia",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Opa, bem vindo"
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Opa, bem vindo",
+        "Cristian Sntss: O cara AGR pouco abusou da entrada do lado da casa do meu pai",
+        ".: Pois então 🫠",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Abusou?",
+        "Cristian Sntss: Pensa o caos q tá lá"
       ]
     }
   },
@@ -15111,24 +15115,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "36589463965754",
-        "authorName": "WILSON",
-        "text": "SOU Wilson de são Paulo",
-        "timestamp": 1789497070177
-      },
-      {
-        "authorNum": "36589463965754",
-        "authorName": "WILSON",
-        "text": "👆👆",
-        "timestamp": 1789497091979
-      },
-      {
-        "authorNum": "27346140700786",
-        "authorName": "Diana Shirley",
-        "text": "Bem vindo",
-        "timestamp": 1789497113750
-      },
       {
         "authorNum": "36589463965754",
         "authorName": "WILSON",
@@ -15524,6 +15510,30 @@
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "text": "Opa, bem vindo",
         "timestamp": 1789498869769
+      },
+      {
+        "authorNum": "559984624669",
+        "authorName": "Cristian Sntss",
+        "text": "O cara AGR pouco abusou da entrada do lado da casa do meu pai",
+        "timestamp": 1789498906953
+      },
+      {
+        "authorNum": "36215264927990",
+        "authorName": ".",
+        "text": "Pois então 🫠",
+        "timestamp": 1789498913403
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Abusou?",
+        "timestamp": 1789498930587
+      },
+      {
+        "authorNum": "559984624669",
+        "authorName": "Cristian Sntss",
+        "text": "Pensa o caos q tá lá",
+        "timestamp": 1789498934671
       }
     ]
   },
@@ -15551,7 +15561,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1752
+    "120363412202609595@g.us": 1756
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16236,7 +16246,7 @@
       "128810464874577": 13,
       "4342933360709": 57,
       "247020967165997": 405,
-      "559984624669": 373,
+      "559984624669": 390,
       "163530946961491": 35,
       "559991116887": 341,
       "164398513573978": 13,
@@ -16551,7 +16561,7 @@
       "128810464874577": 3,
       "4342933360709": 14,
       "247020967165997": 79,
-      "559984624669": 70,
+      "559984624669": 75,
       "163530946961491": 8,
       "559991116887": 75,
       "164398513573978": 2,
@@ -20671,6 +20681,30 @@
         "text": "Opa, bem vindo",
         "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "timestamp": 1789498869769
+      },
+      "A553942AD5964E1645B3B47F3D24097D": {
+        "sender": "166452229341300@lid",
+        "text": "O cara AGR pouco abusou da entrada do lado da casa do meu pai",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1789498906953
+      },
+      "AC5BE4A82050347F4A3F90590A502C65": {
+        "sender": "36215264927990@lid",
+        "text": "Pois então 🫠",
+        "pushName": ".",
+        "timestamp": 1789498913403
+      },
+      "ACD0A04CA52762972993F5BA4FDF941D": {
+        "sender": "53537388122141@lid",
+        "text": "Abusou?",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1789498930587
+      },
+      "A535E9CA6A0D3A0C727D8F9D197D0A54": {
+        "sender": "166452229341300@lid",
+        "text": "Pensa o caos q tá lá",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1789498934671
       }
     }
   },
@@ -20928,7 +20962,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789498890628
+    "120363412202609595@g.us": 1789498934671
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
