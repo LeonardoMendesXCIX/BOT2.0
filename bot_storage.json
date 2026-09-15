@@ -7527,9 +7527,9 @@
         "total": 83
       },
       "559984624669": {
-        "text": 147,
+        "text": 149,
         "media": 54,
-        "total": 201
+        "total": 203
       },
       "559991116887": {
         "text": 126,
@@ -7692,9 +7692,9 @@
         "total": 14
       },
       "54259127210155": {
-        "text": 22,
+        "text": 23,
         "media": 10,
-        "total": 32
+        "total": 33
       },
       "50869659811853": {
         "text": 23,
@@ -14655,8 +14655,6 @@
         "Camila Designer: Só clicar e entrar"
       ],
       "15/09/2026": [
-        "Georg Barão ✌🏻😎: Já conversei bastante,já postei foto,agora vou dormir não tem mais pq ser removido kkkk",
-        "Leonardo: Huuu meu do céu",
         "𝑳𝒂𝒚𝒉🌪🌚: Fica inativo por muito tempo vai de arrasta",
         "Georg Barão ✌🏻😎: Tá contra mim msm neh kkk",
         "Georg Barão ✌🏻😎: Vai ser no máximo até 6:00 da tarde 😂😂😂",
@@ -15154,7 +15152,9 @@
         "Rai schatz s10: Esse aí é lendário",
         "Diana Shirley: Vc e suas histórias",
         "Wellington: Eu vi e vai quebrar o GTA 6 pow kkk",
-        "𝑳𝒂𝒚𝒉🌪🌚: Quem assistiu?"
+        "𝑳𝒂𝒚𝒉🌪🌚: Quem assistiu?",
+        "LEANDRO M.: Num é possível",
+        "Cristian Sntss: @all"
       ]
     }
   },
@@ -15177,12 +15177,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "Meu pai amado...",
-        "timestamp": 1789498968735
-      },
       {
         "authorNum": "50869659811853",
         "authorName": "Gusta",
@@ -15674,6 +15668,18 @@
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
         "text": "Quem assistiu?",
         "timestamp": 1789500763734
+      },
+      {
+        "authorNum": "54259127210155",
+        "authorName": "LEANDRO M.",
+        "text": "Num é possível",
+        "timestamp": 1789500770498
+      },
+      {
+        "authorNum": "559984624669",
+        "authorName": "Cristian Sntss",
+        "text": "@all",
+        "timestamp": 1789500777090
       }
     ]
   },
@@ -15701,7 +15707,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1840
+    "120363412202609595@g.us": 1842
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -21364,6 +21370,18 @@
         "text": "Quem assistiu?",
         "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
         "timestamp": 1789500763734
+      },
+      "ACA9F138238043814D7BF32A289F26F6": {
+        "sender": "54259127210155@lid",
+        "text": "Num é possível",
+        "pushName": "LEANDRO M.",
+        "timestamp": 1789500770499
+      },
+      "A5D376C42965188950ABDD66528EF0EE": {
+        "sender": "166452229341300@lid",
+        "text": "@all",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1789500777090
       }
     }
   },
@@ -21621,7 +21639,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789500763734
+    "120363412202609595@g.us": 1789500786595
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
