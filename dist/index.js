@@ -38,8 +38,8 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 Object.defineProperty(exports, "__esModule", { value: true });
 const baileys_1 = __importStar(require("@whiskeysockets/baileys"));
 const pino_1 = __importDefault(require("pino"));
-const qrcode_terminal_1 = __importDefault(require("qrcode-terminal"));
 const node_cron_1 = __importDefault(require("node-cron"));
+const readline_1 = __importDefault(require("readline"));
 const storage_1 = require("./database/storage");
 const commands_1 = require("./handlers/commands");
 const events_1 = require("./handlers/events");
@@ -611,6 +611,7 @@ async function syncSchedulesOnBoot(sock) {
 async function startBot() {
     const { state, saveCreds } = await (0, baileys_1.useMultiFileAuthState)("./sessions");
     const { version } = await (0, baileys_1.fetchLatestBaileysVersion)();
+    let pairingCodeRequested = false;
     const sock = (0, baileys_1.default)({
         version,
         logger: (0, pino_1.default)({ level: "silent" }),
@@ -618,7 +619,7 @@ async function startBot() {
         printQRInTerminal: false,
         auth: state,
         syncFullHistory: false,
-        browser: ["BOT DROPHTTP", "Chrome", "2.5.0"],
+        browser: baileys_1.Browsers.ubuntu('BOT DROPHTTP'), // Alterado para um browser canônico para evitar rejeição do Pairing Code
         getMessage: async (key) => {
             const msgId = key.id;
             const chatId = key.remoteJid;
@@ -639,9 +640,25 @@ async function startBot() {
     sock.ev.on("creds.update", saveCreds);
     sock.ev.on("connection.update", async (update) => {
         const { connection, lastDisconnect, qr } = update;
-        if (qr) {
-            qrcode_terminal_1.default.generate(qr, { small: true });
-            console.log("\n[SISTEMA] Escaneie o QR Code acima com seu WhatsApp.");
+        // LÓGICA DO PAIRING CODE (SUBSTITUI O QR CODE)
+        if (qr && !sock.authState.creds.registered && !pairingCodeRequested) {
+            pairingCodeRequested = true;
+            const rl = readline_1.default.createInterface({ input: process.stdin, output: process.stdout });
+            rl.question('📱 Digite o número de telefone (com DDI, ex: 5511999999999): ', async (phoneNumber) => {
+                rl.close();
+                const sanitizedNumber = phoneNumber.replace(/\D/g, ''); // Remove tudo que não for número
+                try {
+                    const code = await sock.requestPairingCode(sanitizedNumber);
+                    console.log(`\n========================================`);
+                    console.log(`🔑 CÓDIGO DE PAREAMENTO: ${code}`);
+                    console.log(`========================================\n`);
+                    console.log('👉 No WhatsApp, vá em: Configurações > Dispositivos Conectados > Conectar um Dispositivo > Conectar com número de telefone');
+                }
+                catch (error) {
+                    console.error('❌ Erro ao solicitar o código de pareamento:', error);
+                    pairingCodeRequested = false; // Permite tentar novamente em caso de erro
+                }
+            });
         }
         if (connection === "close") {
             connectionOpen = false;
