@@ -7432,9 +7432,9 @@
         "total": 23
       },
       "129373172711439": {
-        "text": 183,
-        "media": 60,
-        "total": 243
+        "text": 184,
+        "media": 61,
+        "total": 245
       },
       "15960484393007": {
         "text": 10,
@@ -7452,9 +7452,9 @@
         "total": 26
       },
       "100356960845833": {
-        "text": 143,
+        "text": 144,
         "media": 15,
-        "total": 158
+        "total": 159
       },
       "118528279593092": {
         "text": 1,
@@ -7477,9 +7477,9 @@
         "total": 6
       },
       "27346140700786": {
-        "text": 74,
+        "text": 75,
         "media": 14,
-        "total": 88
+        "total": 89
       },
       "137623771312290": {
         "text": 2,
@@ -7532,9 +7532,9 @@
         "total": 177
       },
       "559991116887": {
-        "text": 100,
+        "text": 102,
         "media": 44,
-        "total": 144
+        "total": 146
       },
       "23687415767181": {
         "text": 1,
@@ -15035,7 +15035,11 @@
         "Celiete Souza: Hora do café",
         "Celiete Souza: Cheguei agora tava na rua",
         "Francisco: Vai engorda viu",
-        "LEANDRO M.: Tá que pariu..."
+        "LEANDRO M.: Tá que pariu...",
+        "𝑳𝒂𝒚𝒉🌪🌚: Te benze viu",
+        "Rodenilson 🤘🏾👀: Hummm",
+        "Celiete Souza: Eu falei café, o rapaz do salgado não tá aqui",
+        "𝑳𝒂𝒚𝒉🌪🌚: Parece que os caba tão querendo virar meu cunhado e n cunhada"
       ]
     }
   },
@@ -15249,6 +15253,30 @@
         "authorName": "LEANDRO M.",
         "text": "Tá que pariu...",
         "timestamp": 1789498289499
+      },
+      {
+        "authorNum": "559991116887",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Te benze viu",
+        "timestamp": 1789498291009
+      },
+      {
+        "authorNum": "100356960845833",
+        "authorName": "Rodenilson 🤘🏾👀",
+        "text": "Hummm",
+        "timestamp": 1789498293353
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Eu falei café, o rapaz do salgado não tá aqui",
+        "timestamp": 1789498299642
+      },
+      {
+        "authorNum": "559991116887",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Parece que os caba tão querendo virar meu cunhado e n cunhada",
+        "timestamp": 1789498305895
       }
     ]
   },
@@ -15276,7 +15304,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1704
+    "120363412202609595@g.us": 1708
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -15949,7 +15977,7 @@
       "166452229341300": 102,
       "182738040713418": 217,
       "105136689029122": 37,
-      "129373172711439": 384,
+      "129373172711439": 396,
       "140622228942952": 109,
       "108461127897146": 368,
       "69539832270873": 6,
@@ -16263,7 +16291,7 @@
       "166452229341300": 20,
       "182738040713418": 48,
       "105136689029122": 9,
-      "129373172711439": 83,
+      "129373172711439": 86,
       "140622228942952": 21,
       "108461127897146": 76,
       "69539832270873": 1,
@@ -20101,6 +20129,30 @@
         "text": "Tá que pariu...",
         "pushName": "LEANDRO M.",
         "timestamp": 1789498289499
+      },
+      "ACFD1180CF9DF5358F84E7D0B192E133": {
+        "sender": "81991328395336@lid",
+        "text": "Te benze viu",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1789498291009
+      },
+      "ACD01128DACDC2C642F9793B837DAD07": {
+        "sender": "100356960845833@lid",
+        "text": "Hummm",
+        "pushName": "Rodenilson 🤘🏾👀",
+        "timestamp": 1789498293353
+      },
+      "AC605290FF7E69DE0E5FCBF36F047225": {
+        "sender": "129373172711439@lid",
+        "text": "Eu falei café, o rapaz do salgado não tá aqui",
+        "pushName": "Celiete Souza",
+        "timestamp": 1789498299642
+      },
+      "AC261EFC8881F148EC0FDEF92E485F4A": {
+        "sender": "81991328395336@lid",
+        "text": "Parece que os caba tão querendo virar meu cunhado e n cunhada",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1789498305895
       }
     }
   },
@@ -20358,7 +20410,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789498289499
+    "120363412202609595@g.us": 1789498311320
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
