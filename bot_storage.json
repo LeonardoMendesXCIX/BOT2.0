@@ -7432,9 +7432,9 @@
         "total": 22
       },
       "129373172711439": {
-        "text": 163,
+        "text": 164,
         "media": 55,
-        "total": 218
+        "total": 219
       },
       "15960484393007": {
         "text": 10,
@@ -7452,9 +7452,9 @@
         "total": 15
       },
       "100356960845833": {
-        "text": 130,
+        "text": 131,
         "media": 15,
-        "total": 145
+        "total": 146
       },
       "118528279593092": {
         "text": 1,
@@ -7582,9 +7582,9 @@
         "total": 1
       },
       "158381767696617": {
-        "text": 135,
+        "text": 136,
         "media": 5,
-        "total": 140
+        "total": 141
       },
       "237086657491106": {
         "text": 2,
@@ -14820,7 +14820,9 @@
         "Georg Barão ✌🏻😎: Oh meu bem vc já foi?kkk",
         "Celiete Souza: Bem difícil, eu ando desacreditada",
         "Celiete Souza: Sempre em alerta",
-        "Rodenilson 🤘🏾👀: Estamos desacreditados"
+        "Rodenilson 🤘🏾👀: Estamos desacreditados",
+        "Rodenilson 🤘🏾👀: Assim tem que ser",
+        "Georg Barão ✌🏻😎: Baixe ah guarda kkk"
       ]
     }
   },
@@ -15340,6 +15342,18 @@
         "authorName": "Rodenilson 🤘🏾👀",
         "text": "Estamos desacreditados",
         "timestamp": 1789491503103
+      },
+      {
+        "authorNum": "100356960845833",
+        "authorName": "Rodenilson 🤘🏾👀",
+        "text": "Assim tem que ser",
+        "timestamp": 1789491516279
+      },
+      {
+        "authorNum": "158381767696617",
+        "authorName": "Georg Barão ✌🏻😎",
+        "text": "Baixe ah guarda kkk",
+        "timestamp": 1789491531352
       }
     ]
   },
@@ -15367,7 +15381,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1509
+    "120363412202609595@g.us": 1511
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -18968,6 +18982,18 @@
         "text": "Estamos desacreditados",
         "pushName": "Rodenilson 🤘🏾👀",
         "timestamp": 1789491503103
+      },
+      "AC7F3D65BCF33E05A8CE9CB9E4B92E54": {
+        "sender": "100356960845833@lid",
+        "text": "Assim tem que ser",
+        "pushName": "Rodenilson 🤘🏾👀",
+        "timestamp": 1789491516279
+      },
+      "AC72B474FAB7954E3427B2ABDA24A4AC": {
+        "sender": "158381767696617@lid",
+        "text": "Baixe ah guarda kkk",
+        "pushName": "Georg Barão ✌🏻😎",
+        "timestamp": 1789491531352
       }
     }
   },
@@ -19225,7 +19251,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789491507728
+    "120363412202609595@g.us": 1789491531352
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
