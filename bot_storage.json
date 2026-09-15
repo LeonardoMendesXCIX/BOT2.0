@@ -7392,9 +7392,9 @@
         "total": 29
       },
       "93836630077600": {
-        "text": 29,
+        "text": 32,
         "media": 1,
-        "total": 30
+        "total": 33
       },
       "81991328395336": {
         "text": 29,
@@ -7417,9 +7417,9 @@
         "total": 1
       },
       "166452229341300": {
-        "text": 26,
+        "text": 27,
         "media": 12,
-        "total": 38
+        "total": 39
       },
       "231241810989128": {
         "text": 146,
@@ -7498,8 +7498,8 @@
       },
       "95125053169759": {
         "text": 18,
-        "media": 4,
-        "total": 22
+        "media": 5,
+        "total": 23
       },
       "188373004222609": {
         "text": 2,
@@ -14684,7 +14684,11 @@
         "Marcus Vieira: Calorão aqui😅",
         "Fabrício: Vc é de onde mesmo?",
         "𝑳𝒂𝒚𝒉🌪🌚: Igual aqui",
-        "Kahrina C: Guarulhos SP"
+        "Kahrina C: Guarulhos SP",
+        "Fabrício: Aqui na minha cidade apesar de estar nublado e chovendo as vezes o dia amanhece quente daí durante o dia vai mudando",
+        "Fabrício: Hj foi assim",
+        "Fabrício: Ah sim bacana",
+        "Cristian Sntss: Aqui no Maranhão o sol e protagonista"
       ]
     }
   },
@@ -14714,18 +14718,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "158381767696617",
-        "authorName": "Georg Barão ✌🏻😎",
-        "text": "Kkk,se assuste não kkk",
-        "timestamp": 1789486747816
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Feliz aniversário , que Deus abençoe grandemente sua vida",
-        "timestamp": 1789486772952
-      },
       {
         "authorNum": "21543589527800",
         "authorName": "Leonardo",
@@ -15067,6 +15059,30 @@
         "authorName": "Kahrina C",
         "text": "Guarulhos SP",
         "timestamp": 1789488543534
+      },
+      {
+        "authorNum": "93836630077600",
+        "authorName": "Fabrício",
+        "text": "Aqui na minha cidade apesar de estar nublado e chovendo as vezes o dia amanhece quente daí durante o dia vai mudando",
+        "timestamp": 1789488556244
+      },
+      {
+        "authorNum": "93836630077600",
+        "authorName": "Fabrício",
+        "text": "Hj foi assim",
+        "timestamp": 1789488560546
+      },
+      {
+        "authorNum": "93836630077600",
+        "authorName": "Fabrício",
+        "text": "Ah sim bacana",
+        "timestamp": 1789488573551
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Aqui no Maranhão o sol e protagonista",
+        "timestamp": 1789488580545
       }
     ]
   },
@@ -15094,7 +15110,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1389
+    "120363412202609595@g.us": 1393
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -15760,7 +15776,7 @@
     },
     "120363412202609595@g.us": {
       "5511927018683": 100,
-      "93836630077600": 46,
+      "93836630077600": 57,
       "183906892533896": 48,
       "92629643563147": 239,
       "81991328395336": 99,
@@ -16069,7 +16085,7 @@
     },
     "120363412202609595@g.us": {
       "5511927018683": 20,
-      "93836630077600": 10,
+      "93836630077600": 13,
       "183906892533896": 11,
       "92629643563147": 49,
       "81991328395336": 20,
@@ -17963,6 +17979,30 @@
         "text": "Guarulhos SP",
         "pushName": "Kahrina C",
         "timestamp": 1789488543534
+      },
+      "AC4E0127CCE557C807BC3CEF23C84C9C": {
+        "sender": "93836630077600@lid",
+        "text": "Aqui na minha cidade apesar de estar nublado e chovendo as vezes o dia amanhece quente daí durante o dia vai mudando",
+        "pushName": "Fabrício",
+        "timestamp": 1789488556244
+      },
+      "ACBADCB0F35414B6D861038B9DCE34FA": {
+        "sender": "93836630077600@lid",
+        "text": "Hj foi assim",
+        "pushName": "Fabrício",
+        "timestamp": 1789488560547
+      },
+      "AC5EB40C7C1BBD6C515DFF2363BBBB24": {
+        "sender": "93836630077600@lid",
+        "text": "Ah sim bacana",
+        "pushName": "Fabrício",
+        "timestamp": 1789488575098
+      },
+      "A5F96FDE7ADEF3CE70031A068202159C": {
+        "sender": "166452229341300@lid",
+        "text": "Aqui no Maranhão o sol e protagonista",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1789488580546
       }
     }
   },
@@ -18220,7 +18260,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789488543534
+    "120363412202609595@g.us": 1789488580545
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
