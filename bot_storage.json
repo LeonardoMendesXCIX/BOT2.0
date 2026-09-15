@@ -7392,9 +7392,9 @@
         "total": 29
       },
       "93836630077600": {
-        "text": 36,
+        "text": 37,
         "media": 1,
-        "total": 37
+        "total": 38
       },
       "81991328395336": {
         "text": 29,
@@ -7452,9 +7452,9 @@
         "total": 15
       },
       "100356960845833": {
-        "text": 113,
+        "text": 114,
         "media": 15,
-        "total": 128
+        "total": 129
       },
       "118528279593092": {
         "text": 1,
@@ -7627,9 +7627,9 @@
         "total": 1
       },
       "171086465478763": {
-        "text": 4,
+        "text": 5,
         "media": 3,
-        "total": 7
+        "total": 8
       },
       "126929839591449": {
         "text": 3,
@@ -14697,7 +14697,10 @@
         "Fabrício: Eu nunca estive aí ..fui no Rio..mato grosso e Maranhão apenas",
         "Rodenilson 🤘🏾👀: Num é kkkk\nSudeste está frio e chuvoso",
         "Kahrina C: Demais slk",
-        "Fabrício: Ata kkkk\nDeixa so o sol aparecer que posto uma foto .."
+        "Fabrício: Ata kkkk\nDeixa so o sol aparecer que posto uma foto ..",
+        "Rodenilson 🤘🏾👀: Muito doido,fora de época",
+        "Marcus Vieira: Eu sou do extremo sul e também tá quente kkkk",
+        "Fabrício: Eitaa"
       ]
     }
   },
@@ -14727,24 +14730,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "27346140700786",
-        "authorName": "Diana Shirley",
-        "text": "Bem vindo Leo",
-        "timestamp": 1789486873372
-      },
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "Foto @21543589527800",
-        "timestamp": 1789486887458
-      },
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Bem vindo 👏🏻\nFaça sua apresentação no grupo",
-        "timestamp": 1789486902333
-      },
       {
         "authorNum": "158381767696617",
         "authorName": "Georg Barão ✌🏻😎",
@@ -15116,6 +15101,24 @@
         "authorName": "Fabrício",
         "text": "Ata kkkk\nDeixa so o sol aparecer que posto uma foto ..",
         "timestamp": 1789488671470
+      },
+      {
+        "authorNum": "100356960845833",
+        "authorName": "Rodenilson 🤘🏾👀",
+        "text": "Muito doido,fora de época",
+        "timestamp": 1789488687840
+      },
+      {
+        "authorNum": "171086465478763",
+        "authorName": "Marcus Vieira",
+        "text": "Eu sou do extremo sul e também tá quente kkkk",
+        "timestamp": 1789488700665
+      },
+      {
+        "authorNum": "93836630077600",
+        "authorName": "Fabrício",
+        "text": "Eitaa",
+        "timestamp": 1789488708767
       }
     ]
   },
@@ -15143,7 +15146,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1402
+    "120363412202609595@g.us": 1405
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -15825,7 +15828,7 @@
       "137623771312290": 12,
       "53537388122141": 607,
       "95125053169759": 41,
-      "100356960845833": 359,
+      "100356960845833": 367,
       "128810464874577": 7,
       "4342933360709": 57,
       "247020967165997": 405,
@@ -16134,7 +16137,7 @@
       "137623771312290": 3,
       "53537388122141": 127,
       "95125053169759": 12,
-      "100356960845833": 76,
+      "100356960845833": 77,
       "128810464874577": 2,
       "4342933360709": 14,
       "247020967165997": 79,
@@ -18090,6 +18093,24 @@
         "text": "Ata kkkk\nDeixa so o sol aparecer que posto uma foto ..",
         "pushName": "Fabrício",
         "timestamp": 1789488671471
+      },
+      "AC93648DEA245E4A1ECA1BF2EF334ED4": {
+        "sender": "100356960845833@lid",
+        "text": "Muito doido,fora de época",
+        "pushName": "Rodenilson 🤘🏾👀",
+        "timestamp": 1789488687840
+      },
+      "3A2DAD9DE1E7D9E874BF": {
+        "sender": "171086465478763@lid",
+        "text": "Eu sou do extremo sul e também tá quente kkkk",
+        "pushName": "Marcus Vieira",
+        "timestamp": 1789488700665
+      },
+      "AC5731FAC048B18087E0B3311B7D8824": {
+        "sender": "93836630077600@lid",
+        "text": "Eitaa",
+        "pushName": "Fabrício",
+        "timestamp": 1789488708767
       }
     }
   },
@@ -18347,7 +18368,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789488671470
+    "120363412202609595@g.us": 1789488708767
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
