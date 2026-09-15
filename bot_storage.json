@@ -7477,9 +7477,9 @@
         "total": 3
       },
       "27346140700786": {
-        "text": 44,
+        "text": 46,
         "media": 11,
-        "total": 55
+        "total": 57
       },
       "137623771312290": {
         "text": 2,
@@ -7497,9 +7497,9 @@
         "total": 6
       },
       "95125053169759": {
-        "text": 22,
+        "text": 24,
         "media": 5,
-        "total": 27
+        "total": 29
       },
       "188373004222609": {
         "text": 2,
@@ -7532,9 +7532,9 @@
         "total": 136
       },
       "559991116887": {
-        "text": 62,
+        "text": 63,
         "media": 16,
-        "total": 78
+        "total": 79
       },
       "23687415767181": {
         "text": 1,
@@ -14701,7 +14701,8 @@
         "Rodenilson 🤘🏾👀: Muito doido,fora de época",
         "Marcus Vieira: Eu sou do extremo sul e também tá quente kkkk",
         "Fabrício: Eitaa",
-        "Rodenilson 🤘🏾👀: Eita"
+        "Rodenilson 🤘🏾👀: Eita",
+        "Diana Shirley: Inveja eu tenho dó frio 😂"
       ]
     }
   },
@@ -14731,12 +14732,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "158381767696617",
-        "authorName": "Georg Barão ✌🏻😎",
-        "text": "Já conversei bastante,já postei foto,agora vou dormir não tem mais pq ser removido kkkk",
-        "timestamp": 1789486959720
-      },
       {
         "authorNum": "21543589527800",
         "authorName": "Leonardo",
@@ -15126,6 +15121,12 @@
         "authorName": "Rodenilson 🤘🏾👀",
         "text": "Eita",
         "timestamp": 1789488750186
+      },
+      {
+        "authorNum": "27346140700786",
+        "authorName": "Diana Shirley",
+        "text": "Inveja eu tenho dó frio 😂",
+        "timestamp": 1789488786188
       }
     ]
   },
@@ -15153,7 +15154,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1406
+    "120363412202609595@g.us": 1407
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -18124,6 +18125,12 @@
         "text": "Eita",
         "pushName": "Rodenilson 🤘🏾👀",
         "timestamp": 1789488750186
+      },
+      "AC3E2E818A8FC1CFDB47F29E72FC6F62": {
+        "sender": "27346140700786@lid",
+        "text": "Inveja eu tenho dó frio 😂",
+        "pushName": "Diana Shirley",
+        "timestamp": 1789488786192
       }
     }
   },
@@ -18381,7 +18388,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789488750186
+    "120363412202609595@g.us": 1789488804542
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
