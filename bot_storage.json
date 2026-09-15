@@ -7507,9 +7507,9 @@
         "total": 2
       },
       "4342933360709": {
-        "text": 11,
+        "text": 12,
         "media": 1,
-        "total": 12
+        "total": 13
       },
       "274384656834700": {
         "text": 4,
@@ -15117,7 +15117,8 @@
         "Cristian Sntss: S n me engano foi o gay q entrou junto com a Thaynara",
         "𝑳𝒂𝒚𝒉🌪🌚: Isso explica muita coisa",
         "Camila Designer: Boa tarde pessoal! Quem entrou seja bem vindo! Kkk",
-        "Cristian Sntss: Agora q vi que e água sanitária"
+        "Cristian Sntss: Agora q vi que e água sanitária",
+        "Claudio: Boa tarde"
       ]
     }
   },
@@ -15140,12 +15141,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "140622228942952",
-        "authorName": "Francisco",
-        "text": "Boa tarde bem vindo",
-        "timestamp": 1789498077252
-      },
       {
         "authorNum": "140622228942952",
         "authorName": "Francisco",
@@ -15679,6 +15674,12 @@
         "authorName": "Cristian Sntss",
         "text": "Agora q vi que e água sanitária",
         "timestamp": 1789499809534
+      },
+      {
+        "authorNum": "4342933360709",
+        "authorName": "Claudio",
+        "text": "Boa tarde",
+        "timestamp": 1789499892494
       }
     ]
   },
@@ -15706,7 +15707,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1781
+    "120363412202609595@g.us": 1782
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -21010,6 +21011,12 @@
         "text": "Agora q vi que e água sanitária",
         "pushName": "Cristian Sntss",
         "timestamp": 1789499809534
+      },
+      "AC3DE4D6BFAE93F5EB0C104CD62BC0E4": {
+        "sender": "4342933360709@lid",
+        "text": "Boa tarde",
+        "pushName": "Claudio",
+        "timestamp": 1789499892494
       }
     }
   },
@@ -21267,7 +21274,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789499809534
+    "120363412202609595@g.us": 1789499892494
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
