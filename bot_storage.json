@@ -7432,9 +7432,9 @@
         "total": 22
       },
       "129373172711439": {
-        "text": 167,
+        "text": 168,
         "media": 55,
-        "total": 222
+        "total": 223
       },
       "15960484393007": {
         "text": 10,
@@ -7582,9 +7582,9 @@
         "total": 1
       },
       "158381767696617": {
-        "text": 141,
+        "text": 142,
         "media": 5,
-        "total": 146
+        "total": 147
       },
       "237086657491106": {
         "text": 2,
@@ -14849,7 +14849,9 @@
         "Georg Barão ✌🏻😎: Mulheres posso fazer uma pergunta?",
         "Georg Barão ✌🏻😎: Vou polemizar agora kkk",
         "jaciara: Sim amiga , eu sou exatamente assim . Faço de tudo pro relacionamento ir pra frente",
-        "jaciara: Porque depois que acabou ,já era ."
+        "jaciara: Porque depois que acabou ,já era .",
+        "Celiete Souza: Sim, meu casamento durou 22 anos",
+        "Georg Barão ✌🏻😎: Vc vai responder kkk"
       ]
     }
   },
@@ -14872,12 +14874,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "158381767696617",
-        "authorName": "Georg Barão ✌🏻😎",
-        "text": "Kkk",
-        "timestamp": 1789490293947
-      },
       {
         "authorNum": "559991116887",
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
@@ -15429,6 +15425,18 @@
         "authorName": "jaciara",
         "text": "Porque depois que acabou ,já era .",
         "timestamp": 1789492088098
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Sim, meu casamento durou 22 anos",
+        "timestamp": 1789492114979
+      },
+      {
+        "authorNum": "158381767696617",
+        "authorName": "Georg Barão ✌🏻😎",
+        "text": "Vc vai responder kkk",
+        "timestamp": 1789492126627
       }
     ]
   },
@@ -15456,7 +15464,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1538
+    "120363412202609595@g.us": 1540
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16150,7 +16158,7 @@
       "253403338903556": 84,
       "262182034002040": 69,
       "185942488969385": 8,
-      "158381767696617": 545,
+      "158381767696617": 555,
       "237086657491106": 8,
       "72315102593077": 49,
       "255632628252836": 13,
@@ -16461,7 +16469,7 @@
       "253403338903556": 13,
       "262182034002040": 19,
       "185942488969385": 2,
-      "158381767696617": 110,
+      "158381767696617": 113,
       "237086657491106": 2,
       "72315102593077": 8,
       "255632628252836": 5,
@@ -19246,6 +19254,18 @@
         "text": "Porque depois que acabou ,já era .",
         "pushName": "jaciara",
         "timestamp": 1789492088099
+      },
+      "ACFE7DB56F50E0169C62C0CC655FF047": {
+        "sender": "129373172711439@lid",
+        "text": "Sim, meu casamento durou 22 anos",
+        "pushName": "Celiete Souza",
+        "timestamp": 1789492114979
+      },
+      "AC55E18F3A1B96D0E39B646F48B9646A": {
+        "sender": "158381767696617@lid",
+        "text": "Vc vai responder kkk",
+        "pushName": "Georg Barão ✌🏻😎",
+        "timestamp": 1789492126628
       }
     }
   },
@@ -19503,7 +19523,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789492102722
+    "120363412202609595@g.us": 1789492126627
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
