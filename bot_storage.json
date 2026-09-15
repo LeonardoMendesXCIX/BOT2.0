@@ -7432,9 +7432,9 @@
         "total": 18
       },
       "129373172711439": {
-        "text": 130,
+        "text": 131,
         "media": 44,
-        "total": 174
+        "total": 175
       },
       "15960484393007": {
         "text": 10,
@@ -7582,9 +7582,9 @@
         "total": 1
       },
       "158381767696617": {
-        "text": 115,
+        "text": 117,
         "media": 4,
-        "total": 119
+        "total": 121
       },
       "237086657491106": {
         "text": 2,
@@ -14645,7 +14645,10 @@
         "𝑳𝒂𝒚𝒉🌪🌚: E olha que já passei noites acordada \nTrabalhando em motel",
         "Georg Barão ✌🏻😎: Vc dormi ah noite toda,eu acordo na melhor hora que tem pra dormir kkk",
         "𝑳𝒂𝒚𝒉🌪🌚: Noite toda n",
-        "Georg Barão ✌🏻😎: Oh seu éh de 2 horas kkk"
+        "Georg Barão ✌🏻😎: Oh seu éh de 2 horas kkk",
+        "Celiete Souza: Ah tarde nunca durmo",
+        "Georg Barão ✌🏻😎: Eu tenho que acordar na melhor hora que tem pra dormir kkk",
+        "Georg Barão ✌🏻😎: Eu tiro um dia ou dois na semana pra dormir, descansar"
       ]
     }
   },
@@ -14842,6 +14845,24 @@
         "authorName": "Georg Barão ✌🏻😎",
         "text": "Oh seu éh de 2 horas kkk",
         "timestamp": 1789487212171
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Ah tarde nunca durmo",
+        "timestamp": 1789487235293
+      },
+      {
+        "authorNum": "158381767696617",
+        "authorName": "Georg Barão ✌🏻😎",
+        "text": "Eu tenho que acordar na melhor hora que tem pra dormir kkk",
+        "timestamp": 1789487242144
+      },
+      {
+        "authorNum": "158381767696617",
+        "authorName": "Georg Barão ✌🏻😎",
+        "text": "Eu tiro um dia ou dois na semana pra dormir, descansar",
+        "timestamp": 1789487258769
       }
     ]
   },
@@ -14869,7 +14890,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1355
+    "120363412202609595@g.us": 1358
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -15563,7 +15584,7 @@
       "253403338903556": 84,
       "262182034002040": 69,
       "185942488969385": 8,
-      "158381767696617": 430,
+      "158381767696617": 437,
       "237086657491106": 8,
       "72315102593077": 49,
       "255632628252836": 13,
@@ -15871,7 +15892,7 @@
       "253403338903556": 13,
       "262182034002040": 19,
       "185942488969385": 2,
-      "158381767696617": 90,
+      "158381767696617": 92,
       "237086657491106": 2,
       "72315102593077": 8,
       "255632628252836": 5,
@@ -17532,6 +17553,24 @@
         "text": "Oh seu éh de 2 horas kkk",
         "pushName": "Georg Barão ✌🏻😎",
         "timestamp": 1789487212171
+      },
+      "AC131B1EAA94FA02D84E533DD9293882": {
+        "sender": "129373172711439@lid",
+        "text": "Ah tarde nunca durmo",
+        "pushName": "Celiete Souza",
+        "timestamp": 1789487235293
+      },
+      "AC09E8CAEA2CDD1034DD6D0919253927": {
+        "sender": "158381767696617@lid",
+        "text": "Eu tenho que acordar na melhor hora que tem pra dormir kkk",
+        "pushName": "Georg Barão ✌🏻😎",
+        "timestamp": 1789487242144
+      },
+      "ACA058739583EE7367E5CBC92EEC790F": {
+        "sender": "158381767696617@lid",
+        "text": "Eu tiro um dia ou dois na semana pra dormir, descansar",
+        "pushName": "Georg Barão ✌🏻😎",
+        "timestamp": 1789487258769
       }
     }
   },
@@ -17789,7 +17828,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789487212171
+    "120363412202609595@g.us": 1789487258769
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
