@@ -7477,9 +7477,9 @@
         "total": 6
       },
       "27346140700786": {
-        "text": 73,
+        "text": 74,
         "media": 14,
-        "total": 87
+        "total": 88
       },
       "137623771312290": {
         "text": 2,
@@ -7657,9 +7657,9 @@
         "total": 1
       },
       "36215264927990": {
-        "text": 7,
+        "text": 8,
         "media": 2,
-        "total": 9
+        "total": 10
       },
       "133934344065150": {
         "text": 7,
@@ -7687,9 +7687,9 @@
         "total": 1
       },
       "36589463965754": {
-        "text": 1,
+        "text": 2,
         "media": 1,
-        "total": 2
+        "total": 3
       }
     }
   },
@@ -15010,7 +15010,9 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Pode ser parque aquático também 😂",
         "Diana Shirley: Do Maranhão 😂",
         "Maurício Manú Telecom: Né",
-        "WILSON: SOU Wilson de são Paulo"
+        "WILSON: SOU Wilson de são Paulo",
+        "WILSON: 👆👆",
+        "Diana Shirley: Bem vindo"
       ]
     }
   },
@@ -15170,6 +15172,18 @@
         "authorName": "WILSON",
         "text": "SOU Wilson de são Paulo",
         "timestamp": 1789497070177
+      },
+      {
+        "authorNum": "36589463965754",
+        "authorName": "WILSON",
+        "text": "👆👆",
+        "timestamp": 1789497091979
+      },
+      {
+        "authorNum": "27346140700786",
+        "authorName": "Diana Shirley",
+        "text": "Bem vindo",
+        "timestamp": 1789497113750
       }
     ]
   },
@@ -15197,7 +15211,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1684
+    "120363412202609595@g.us": 1686
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -19873,6 +19887,18 @@
         "text": "SOU Wilson de são Paulo",
         "pushName": "WILSON",
         "timestamp": 1789497070177
+      },
+      "AC49536ABF4CCFEBEB53489609B5CD6E": {
+        "sender": "36589463965754@lid",
+        "text": "👆👆",
+        "pushName": "WILSON",
+        "timestamp": 1789497091979
+      },
+      "AC4C0BBD397CDB0A46614CD2C1EE173F": {
+        "sender": "27346140700786@lid",
+        "text": "Bem vindo",
+        "pushName": "Diana Shirley",
+        "timestamp": 1789497113750
       }
     }
   },
@@ -20130,7 +20156,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789497070177
+    "120363412202609595@g.us": 1789497113750
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
