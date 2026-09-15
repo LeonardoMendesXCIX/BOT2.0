@@ -7402,9 +7402,9 @@
         "total": 47
       },
       "183906892533896": {
-        "text": 36,
+        "text": 38,
         "media": 3,
-        "total": 39
+        "total": 41
       },
       "108461127897146": {
         "text": 110,
@@ -7432,9 +7432,9 @@
         "total": 22
       },
       "129373172711439": {
-        "text": 160,
+        "text": 161,
         "media": 53,
-        "total": 213
+        "total": 214
       },
       "15960484393007": {
         "text": 10,
@@ -7527,9 +7527,9 @@
         "total": 83
       },
       "559984624669": {
-        "text": 106,
-        "media": 40,
-        "total": 146
+        "text": 108,
+        "media": 41,
+        "total": 149
       },
       "559991116887": {
         "text": 78,
@@ -7657,9 +7657,9 @@
         "total": 1
       },
       "36215264927990": {
-        "text": 2,
+        "text": 3,
         "media": 2,
-        "total": 4
+        "total": 5
       },
       "133934344065150": {
         "text": 3,
@@ -14811,7 +14811,10 @@
         "Celiete Souza: Também não entendemos o porquê que é tão difícil",
         "Cristian Sntss: @all",
         "Rodenilson 🤘🏾👀: Fazem os dois,o que eu tenho de amigas ,que presencio e depois fico sabendo dos casos delas ,não é brincadeira viu",
-        "Celiete Souza: Bem vindo"
+        "Celiete Souza: Bem vindo",
+        "Cristian Sntss: Fi de uma égua",
+        "Cristian Sntss: Merecia um chifre",
+        "Celiete Souza: Eu sei, estou zoando, mas realmente pintam e bordam para os dois lados"
       ]
     }
   },
@@ -15277,6 +15280,24 @@
         "authorName": "Celiete Souza",
         "text": "Bem vindo",
         "timestamp": 1789491387359
+      },
+      {
+        "authorNum": "559984624669",
+        "authorName": "Cristian Sntss",
+        "text": "Fi de uma égua",
+        "timestamp": 1789491406563
+      },
+      {
+        "authorNum": "559984624669",
+        "authorName": "Cristian Sntss",
+        "text": "Merecia um chifre",
+        "timestamp": 1789491409761
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Eu sei, estou zoando, mas realmente pintam e bordam para os dois lados",
+        "timestamp": 1789491416596
       }
     ]
   },
@@ -15304,7 +15325,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1500
+    "120363412202609595@g.us": 1503
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -15990,7 +16011,7 @@
       "128810464874577": 13,
       "4342933360709": 57,
       "247020967165997": 405,
-      "559984624669": 269,
+      "559984624669": 277,
       "163530946961491": 35,
       "559991116887": 214,
       "164398513573978": 13,
@@ -16301,7 +16322,7 @@
       "128810464874577": 3,
       "4342933360709": 14,
       "247020967165997": 79,
-      "559984624669": 49,
+      "559984624669": 51,
       "163530946961491": 8,
       "559991116887": 48,
       "164398513573978": 2,
@@ -18851,6 +18872,24 @@
         "text": "Bem vindo",
         "pushName": "Celiete Souza",
         "timestamp": 1789491387359
+      },
+      "A5AC64B7601A319B15C6F7E5FEBB1CD6": {
+        "sender": "166452229341300@lid",
+        "text": "Fi de uma égua",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1789491406563
+      },
+      "A5CD87644781DEBB2DA5F3F426697343": {
+        "sender": "166452229341300@lid",
+        "text": "Merecia um chifre",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1789491409761
+      },
+      "AC5D65AEC9E34AADF9F4BE0990C5BF79": {
+        "sender": "129373172711439@lid",
+        "text": "Eu sei, estou zoando, mas realmente pintam e bordam para os dois lados",
+        "pushName": "Celiete Souza",
+        "timestamp": 1789491416596
       }
     }
   },
@@ -19108,7 +19147,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789491397428
+    "120363412202609595@g.us": 1789491427116
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
