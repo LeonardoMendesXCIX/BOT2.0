@@ -7507,9 +7507,9 @@
         "total": 2
       },
       "4342933360709": {
-        "text": 10,
+        "text": 11,
         "media": 1,
-        "total": 11
+        "total": 12
       },
       "274384656834700": {
         "text": 4,
@@ -7543,8 +7543,8 @@
       },
       "163530946961491": {
         "text": 8,
-        "media": 1,
-        "total": 9
+        "media": 2,
+        "total": 10
       },
       "207704668774466": {
         "text": 1,
@@ -14669,7 +14669,9 @@
         "jaciara: O meu cochilo é de um dia se deixar kkkkkkkkk",
         "jaciara: Eu amo dormi",
         "jaciara: Só que tenho filho pequeno aí já sabe né",
-        "jaciara: Kkkkkk"
+        "jaciara: Kkkkkk",
+        "willian: Acabou o horário do descanso bora para rua trabalhar que o chicote está esperando",
+        "Claudio: Óia"
       ]
     }
   },
@@ -14980,6 +14982,18 @@
         "authorName": "jaciara",
         "text": "Kkkkkk",
         "timestamp": 1789488066759
+      },
+      {
+        "authorNum": "163530946961491",
+        "authorName": "willian",
+        "text": "Acabou o horário do descanso bora para rua trabalhar que o chicote está esperando",
+        "timestamp": 1789488071145
+      },
+      {
+        "authorNum": "4342933360709",
+        "authorName": "Claudio",
+        "text": "Óia",
+        "timestamp": 1789488090130
       }
     ]
   },
@@ -15007,7 +15021,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1374
+    "120363412202609595@g.us": 1376
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -15694,7 +15708,7 @@
       "4342933360709": 57,
       "247020967165997": 405,
       "559984624669": 269,
-      "163530946961491": 27,
+      "163530946961491": 35,
       "559991116887": 166,
       "164398513573978": 13,
       "102109089378363": 253,
@@ -16003,7 +16017,7 @@
       "4342933360709": 14,
       "247020967165997": 79,
       "559984624669": 49,
-      "163530946961491": 6,
+      "163530946961491": 8,
       "559991116887": 35,
       "164398513573978": 2,
       "102109089378363": 50,
@@ -17786,6 +17800,18 @@
         "text": "Kkkkkk",
         "pushName": "jaciara",
         "timestamp": 1789488066759
+      },
+      "AC3BF050354BFC45BCD2BF1AF3666B90": {
+        "sender": "163530946961491@lid",
+        "text": "Acabou o horário do descanso bora para rua trabalhar que o chicote está esperando",
+        "pushName": "willian",
+        "timestamp": 1789488071145
+      },
+      "AC7F3E7818E1DABE62CC099A540A08CE": {
+        "sender": "4342933360709@lid",
+        "text": "Óia",
+        "pushName": "Claudio",
+        "timestamp": 1789488090130
       }
     }
   },
@@ -18043,7 +18069,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789488066759
+    "120363412202609595@g.us": 1789488090130
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
