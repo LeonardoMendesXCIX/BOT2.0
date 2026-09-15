@@ -7582,9 +7582,9 @@
         "total": 1
       },
       "158381767696617": {
-        "text": 138,
+        "text": 139,
         "media": 5,
-        "total": 143
+        "total": 144
       },
       "237086657491106": {
         "text": 2,
@@ -7657,9 +7657,9 @@
         "total": 1
       },
       "36215264927990": {
-        "text": 6,
+        "text": 7,
         "media": 2,
-        "total": 8
+        "total": 9
       },
       "133934344065150": {
         "text": 3,
@@ -14838,7 +14838,9 @@
         "Georg Barão ✌🏻😎: Simples frase que éh muito verdadeira kkk",
         "jaciara: Graças a Deus eu nunca tive esse negócio de recaída com ex",
         "jaciara: Depois que separei nunca mais pegou nem na minha mão",
-        "Rodenilson 🤘🏾👀: Amor próprio a pessoa não tem né \nMas cada cabeça é uma sentença"
+        "Rodenilson 🤘🏾👀: Amor próprio a pessoa não tem né \nMas cada cabeça é uma sentença",
+        ".: Viu!!",
+        "Georg Barão ✌🏻😎: 👏🏻👏🏻"
       ]
     }
   },
@@ -14861,18 +14863,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "27346140700786",
-        "authorName": "Diana Shirley",
-        "text": "😌",
-        "timestamp": 1789490117731
-      },
-      {
-        "authorNum": "27346140700786",
-        "authorName": "Diana Shirley",
-        "text": "Boa tarde!",
-        "timestamp": 1789490118529
-      },
       {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
@@ -15406,6 +15396,18 @@
         "authorName": "Rodenilson 🤘🏾👀",
         "text": "Amor próprio a pessoa não tem né \nMas cada cabeça é uma sentença",
         "timestamp": 1789491915249
+      },
+      {
+        "authorNum": "36215264927990",
+        "authorName": ".",
+        "text": "Viu!!",
+        "timestamp": 1789491926894
+      },
+      {
+        "authorNum": "158381767696617",
+        "authorName": "Georg Barão ✌🏻😎",
+        "text": "👏🏻👏🏻",
+        "timestamp": 1789491929104
       }
     ]
   },
@@ -15433,7 +15435,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1527
+    "120363412202609595@g.us": 1529
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16127,7 +16129,7 @@
       "253403338903556": 84,
       "262182034002040": 69,
       "185942488969385": 8,
-      "158381767696617": 520,
+      "158381767696617": 531,
       "237086657491106": 8,
       "72315102593077": 49,
       "255632628252836": 13,
@@ -16438,7 +16440,7 @@
       "253403338903556": 13,
       "262182034002040": 19,
       "185942488969385": 2,
-      "158381767696617": 105,
+      "158381767696617": 107,
       "237086657491106": 2,
       "72315102593077": 8,
       "255632628252836": 5,
@@ -17837,6 +17839,11 @@
         "ts": 1789491589268,
         "admin": "1757061070966",
         "action": "ENTROU no grupo"
+      },
+      {
+        "ts": 1789491918487,
+        "admin": "234368463306803",
+        "action": "SAIU do grupo"
       }
     ]
   },
@@ -19147,6 +19154,18 @@
         "text": "Amor próprio a pessoa não tem né \nMas cada cabeça é uma sentença",
         "pushName": "Rodenilson 🤘🏾👀",
         "timestamp": 1789491915249
+      },
+      "AC2E492FEB21C4FB96BCF395E66761EB": {
+        "sender": "36215264927990@lid",
+        "text": "Viu!!",
+        "pushName": ".",
+        "timestamp": 1789491926894
+      },
+      "ACDB8D056965019700F541F8702CBA82": {
+        "sender": "158381767696617@lid",
+        "text": "👏🏻👏🏻",
+        "pushName": "Georg Barão ✌🏻😎",
+        "timestamp": 1789491929104
       }
     }
   },
@@ -19404,7 +19423,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789491915249
+    "120363412202609595@g.us": 1789491929104
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
