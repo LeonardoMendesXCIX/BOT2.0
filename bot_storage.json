@@ -7377,9 +7377,9 @@
         "total": 145
       },
       "182738040713418": {
-        "text": 117,
+        "text": 118,
         "media": 41,
-        "total": 158
+        "total": 159
       },
       "247020967165997": {
         "text": 134,
@@ -7477,9 +7477,9 @@
         "total": 6
       },
       "27346140700786": {
-        "text": 91,
+        "text": 92,
         "media": 15,
-        "total": 106
+        "total": 107
       },
       "137623771312290": {
         "text": 2,
@@ -7527,9 +7527,9 @@
         "total": 83
       },
       "559984624669": {
-        "text": 161,
+        "text": 163,
         "media": 56,
-        "total": 217
+        "total": 219
       },
       "559991116887": {
         "text": 143,
@@ -14656,8 +14656,6 @@
       ],
       "15/09/2026": [
         "Georg Barão ✌🏻😎: 👏🏻👏🏻",
-        "𝑳𝒂𝒚𝒉🌪🌚: Tu já acordou",
-        "Georg Barão ✌🏻😎: 👏🏻👏🏻",
         "Georg Barão ✌🏻😎: Acordei pra tomar água kkk",
         "Cristian Sntss: Rpz eu não consigo durmi muito n",
         "𝑳𝒂𝒚𝒉🌪🌚: Eu n consigo e tenho ódio de quem dormi demais",
@@ -15154,7 +15152,9 @@
         "Gabriel: Att",
         "𝑳𝒂𝒚𝒉🌪🌚: Doido pra jogar em",
         "𝑳𝒂𝒚𝒉🌪🌚: Tinha um desenho dos ratinho que passava no SBT",
-        "Cristian Sntss: Esse não era da minha época"
+        "Cristian Sntss: Esse não era da minha época",
+        "Wellington: É hora de dar tchau kkk",
+        "Diana Shirley: Tom e Jerry?"
       ]
     }
   },
@@ -15177,36 +15177,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "86793403801839",
-        "authorName": "Rai schatz s10",
-        "text": "Winx vai ter um jogo em novembro 😈",
-        "timestamp": 1789500618347
-      },
-      {
-        "authorNum": "100356960845833",
-        "authorName": "Rodenilson 🤘🏾👀",
-        "text": "O que é isso winx?",
-        "timestamp": 1789500619926
-      },
-      {
-        "authorNum": "50869659811853",
-        "authorName": "Gusta",
-        "text": "Só mais corrida maluca",
-        "timestamp": 1789500623022
-      },
-      {
-        "authorNum": "559984624669",
-        "authorName": "Cristian Sntss",
-        "text": "Alguém assistiu filme do Maycon Jackson e bom?",
-        "timestamp": 1789500626387
-      },
-      {
-        "authorNum": "86793403801839",
-        "authorName": "Rai schatz s10",
-        "text": "Esse aí é lendário",
-        "timestamp": 1789500636691
-      },
       {
         "authorNum": "27346140700786",
         "authorName": "Diana Shirley",
@@ -15740,6 +15710,18 @@
         "authorName": "Cristian Sntss",
         "text": "Esse não era da minha época",
         "timestamp": 1789502409467
+      },
+      {
+        "authorNum": "182738040713418",
+        "authorName": "Wellington",
+        "text": "É hora de dar tchau kkk",
+        "timestamp": 1789502433195
+      },
+      {
+        "authorNum": "27346140700786",
+        "authorName": "Diana Shirley",
+        "text": "Tom e Jerry?",
+        "timestamp": 1789502438358
       }
     ]
   },
@@ -15767,7 +15749,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1926
+    "120363412202609595@g.us": 1928
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16438,7 +16420,7 @@
       "81991328395336": 99,
       "231241810989128": 566,
       "166452229341300": 102,
-      "182738040713418": 269,
+      "182738040713418": 274,
       "105136689029122": 37,
       "129373172711439": 569,
       "140622228942952": 123,
@@ -16753,7 +16735,7 @@
       "81991328395336": 20,
       "231241810989128": 125,
       "166452229341300": 20,
-      "182738040713418": 61,
+      "182738040713418": 62,
       "105136689029122": 9,
       "129373172711439": 122,
       "140622228942952": 23,
@@ -21946,6 +21928,18 @@
         "text": "Esse não era da minha época",
         "pushName": "Cristian Sntss",
         "timestamp": 1789502409468
+      },
+      "ACC6A3FD85243662C4C9941947EA5D14": {
+        "sender": "182738040713418@lid",
+        "text": "É hora de dar tchau kkk",
+        "pushName": "Wellington",
+        "timestamp": 1789502433195
+      },
+      "AC7D17205BA073519157A39052B8DFFB": {
+        "sender": "27346140700786@lid",
+        "text": "Tom e Jerry?",
+        "pushName": "Diana Shirley",
+        "timestamp": 1789502438358
       }
     }
   },
@@ -22203,7 +22197,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789502421217
+    "120363412202609595@g.us": 1789502457791
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
