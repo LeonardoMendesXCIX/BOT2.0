@@ -7487,9 +7487,9 @@
         "total": 2
       },
       "53537388122141": {
-        "text": 236,
+        "text": 238,
         "media": 23,
-        "total": 259
+        "total": 261
       },
       "122552932372575": {
         "text": 2,
@@ -7657,9 +7657,9 @@
         "total": 1
       },
       "36215264927990": {
-        "text": 13,
+        "text": 15,
         "media": 3,
-        "total": 16
+        "total": 18
       },
       "133934344065150": {
         "text": 7,
@@ -15101,7 +15101,11 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Opa, boa tarde, tudo bem? Você já se apresentou aqui no grupo?",
         ".: Pq tipo, tem várias outras pessoas ai disponível e tals",
         ".: Sim, eu tava no grupo antes desse",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Se apresentou neste aqui?"
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Se apresentou neste aqui?",
+        ".: Não",
+        ".: Tem que se apresentar tbm?",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Pode se apresentar, por gentileza?",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Aqui todos se apresentaram novamente kkk"
       ]
     }
   },
@@ -15597,6 +15601,30 @@
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "text": "Se apresentou neste aqui?",
         "timestamp": 1789499131946
+      },
+      {
+        "authorNum": "36215264927990",
+        "authorName": ".",
+        "text": "Não",
+        "timestamp": 1789499163134
+      },
+      {
+        "authorNum": "36215264927990",
+        "authorName": ".",
+        "text": "Tem que se apresentar tbm?",
+        "timestamp": 1789499169642
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Pode se apresentar, por gentileza?",
+        "timestamp": 1789499175030
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Aqui todos se apresentaram novamente kkk",
+        "timestamp": 1789499186598
       }
     ]
   },
@@ -15624,7 +15652,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1765
+    "120363412202609595@g.us": 1769
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16303,7 +16331,7 @@
       "69539832270873": 6,
       "27346140700786": 213,
       "137623771312290": 12,
-      "53537388122141": 690,
+      "53537388122141": 704,
       "95125053169759": 41,
       "100356960845833": 449,
       "128810464874577": 13,
@@ -16618,7 +16646,7 @@
       "69539832270873": 1,
       "27346140700786": 46,
       "137623771312290": 3,
-      "53537388122141": 147,
+      "53537388122141": 150,
       "95125053169759": 12,
       "100356960845833": 94,
       "128810464874577": 3,
@@ -20822,6 +20850,30 @@
         "text": "Se apresentou neste aqui?",
         "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "timestamp": 1789499131946
+      },
+      "AC89DB92D22E834AF5272E92F2623B18": {
+        "sender": "36215264927990@lid",
+        "text": "Não",
+        "pushName": ".",
+        "timestamp": 1789499163134
+      },
+      "ACAF3CE6536B7C5280A32502ADFA77F6": {
+        "sender": "36215264927990@lid",
+        "text": "Tem que se apresentar tbm?",
+        "pushName": ".",
+        "timestamp": 1789499169643
+      },
+      "ACF539E2D23EE3B2147DB16EA3108664": {
+        "sender": "53537388122141@lid",
+        "text": "Pode se apresentar, por gentileza?",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1789499175030
+      },
+      "ACE9E49413F3D7E09C0C547428DEEADC": {
+        "sender": "53537388122141@lid",
+        "text": "Aqui todos se apresentaram novamente kkk",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1789499186599
       }
     }
   },
@@ -21079,7 +21131,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789499150149
+    "120363412202609595@g.us": 1789499186598
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
