@@ -7407,9 +7407,9 @@
         "total": 41
       },
       "108461127897146": {
-        "text": 113,
+        "text": 115,
         "media": 25,
-        "total": 138
+        "total": 140
       },
       "190881986523333": {
         "text": 1,
@@ -7432,9 +7432,9 @@
         "total": 22
       },
       "129373172711439": {
-        "text": 166,
+        "text": 167,
         "media": 55,
-        "total": 221
+        "total": 222
       },
       "15960484393007": {
         "text": 10,
@@ -7672,9 +7672,9 @@
         "total": 1
       },
       "240961187770595": {
-        "text": 0,
+        "text": 1,
         "media": 1,
-        "total": 1
+        "total": 2
       }
     }
   },
@@ -14842,7 +14842,10 @@
         ".: Viu!!",
         "Georg Barão ✌🏻😎: 👏🏻👏🏻",
         "𝑳𝒂𝒚𝒉🌪🌚: Uia",
-        "Cristian Sntss: @all"
+        "Cristian Sntss: @all",
+        "jaciara: E nunca consegui ser feliz com ninguém",
+        "jaciara: Que graça tem",
+        "Celiete Souza: Jamais, acabou é acabou e pronto"
       ]
     }
   },
@@ -15398,6 +15401,24 @@
         "authorName": "Cristian Sntss",
         "text": "@all",
         "timestamp": 1789492014625
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "E nunca consegui ser feliz com ninguém",
+        "timestamp": 1789492034738
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Que graça tem",
+        "timestamp": 1789492037824
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Jamais, acabou é acabou e pronto",
+        "timestamp": 1789492047368
       }
     ]
   },
@@ -15425,7 +15446,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1531
+    "120363412202609595@g.us": 1534
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -17834,6 +17855,11 @@
         "ts": 1789491918487,
         "admin": "234368463306803",
         "action": "SAIU do grupo"
+      },
+      {
+        "ts": 1789492038614,
+        "admin": "184378802065445",
+        "action": "SAIU do grupo"
       }
     ]
   },
@@ -19168,6 +19194,24 @@
         "text": "@all",
         "pushName": "Cristian Sntss",
         "timestamp": 1789492014625
+      },
+      "AC79E10E783912AB763C636A5D12E01E": {
+        "sender": "108461127897146@lid",
+        "text": "E nunca consegui ser feliz com ninguém",
+        "pushName": "jaciara",
+        "timestamp": 1789492034738
+      },
+      "ACCFF7FE9151A6E27D3C25C29BB014CA": {
+        "sender": "108461127897146@lid",
+        "text": "Que graça tem",
+        "pushName": "jaciara",
+        "timestamp": 1789492037825
+      },
+      "AC0C132D6224098D29CFC28A1312D023": {
+        "sender": "129373172711439@lid",
+        "text": "Jamais, acabou é acabou e pronto",
+        "pushName": "Celiete Souza",
+        "timestamp": 1789492047368
       }
     }
   },
@@ -19425,7 +19469,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789492014625
+    "120363412202609595@g.us": 1789492047540
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
