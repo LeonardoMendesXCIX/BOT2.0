@@ -7378,8 +7378,8 @@
       },
       "182738040713418": {
         "text": 111,
-        "media": 38,
-        "total": 149
+        "media": 39,
+        "total": 150
       },
       "247020967165997": {
         "text": 134,
@@ -7477,9 +7477,9 @@
         "total": 6
       },
       "27346140700786": {
-        "text": 88,
+        "text": 89,
         "media": 15,
-        "total": 103
+        "total": 104
       },
       "137623771312290": {
         "text": 2,
@@ -7487,9 +7487,9 @@
         "total": 2
       },
       "53537388122141": {
-        "text": 243,
+        "text": 244,
         "media": 23,
-        "total": 266
+        "total": 267
       },
       "122552932372575": {
         "text": 2,
@@ -14655,8 +14655,6 @@
         "Camila Designer: Só clicar e entrar"
       ],
       "15/09/2026": [
-        ".: Justificando a ausência de foto do meu perfil, conforme a regra 4.\n  Aqui no meu estado foi submetido à uma eleição suplementar, e durante o período eleitoral fomos submetido a obrigatóridade da foto ",
-        "jaciara: O meu cochilo é de um dia se deixar kkkkkkkkk",
         "jaciara: Eu amo dormi",
         "jaciara: Só que tenho filho pequeno aí já sabe né",
         "jaciara: Kkkkkk",
@@ -15154,7 +15152,9 @@
         "Wellington: Achei nada kkk",
         "Wellington: É Valentina por favor",
         "Wellington: Ela fica chateada e me deixa na mão kkkk",
-        "Diana Shirley: Desculpa, estava tentando lembrar o nome da princesa"
+        "Diana Shirley: Desculpa, estava tentando lembrar o nome da princesa",
+        "Diana Shirley: Vixe",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Eu não acredito que eu perdi essa maldita aqui no grupo\nSe eu tivesse visto, tinha nem aceitado o convite"
       ]
     }
   },
@@ -15746,6 +15746,18 @@
         "authorName": "Diana Shirley",
         "text": "Desculpa, estava tentando lembrar o nome da princesa",
         "timestamp": 1789501144926
+      },
+      {
+        "authorNum": "27346140700786",
+        "authorName": "Diana Shirley",
+        "text": "Vixe",
+        "timestamp": 1789501171986
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Eu não acredito que eu perdi essa maldita aqui no grupo\nSe eu tivesse visto, tinha nem aceitado o convite",
+        "timestamp": 1789501176937
       }
     ]
   },
@@ -15773,7 +15785,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1869
+    "120363412202609595@g.us": 1871
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16452,7 +16464,7 @@
       "69539832270873": 6,
       "27346140700786": 260,
       "137623771312290": 12,
-      "53537388122141": 720,
+      "53537388122141": 727,
       "95125053169759": 41,
       "100356960845833": 456,
       "128810464874577": 13,
@@ -16767,7 +16779,7 @@
       "69539832270873": 1,
       "27346140700786": 54,
       "137623771312290": 3,
-      "53537388122141": 153,
+      "53537388122141": 155,
       "95125053169759": 12,
       "100356960845833": 97,
       "128810464874577": 3,
@@ -21610,6 +21622,18 @@
         "text": "Desculpa, estava tentando lembrar o nome da princesa",
         "pushName": "Diana Shirley",
         "timestamp": 1789501144926
+      },
+      "ACAFC77CB7D4CFA240994C07153D66E8": {
+        "sender": "27346140700786@lid",
+        "text": "Vixe",
+        "pushName": "Diana Shirley",
+        "timestamp": 1789501171987
+      },
+      "ACAD903FB94857C92F4404743059C9E4": {
+        "sender": "53537388122141@lid",
+        "text": "Eu não acredito que eu perdi essa maldita aqui no grupo\nSe eu tivesse visto, tinha nem aceitado o convite",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1789501176937
       }
     }
   },
@@ -21867,7 +21891,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789501144926
+    "120363412202609595@g.us": 1789501176937
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
