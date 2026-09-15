@@ -7453,8 +7453,8 @@
       },
       "100356960845833": {
         "text": 112,
-        "media": 13,
-        "total": 125
+        "media": 14,
+        "total": 126
       },
       "118528279593092": {
         "text": 1,
@@ -7628,8 +7628,8 @@
       },
       "171086465478763": {
         "text": 4,
-        "media": 1,
-        "total": 5
+        "media": 2,
+        "total": 6
       },
       "126929839591449": {
         "text": 3,
@@ -14680,7 +14680,8 @@
         "𝑳𝒂𝒚𝒉🌪🌚: Tudo",
         "𝑳𝒂𝒚𝒉🌪🌚: Só o calor q tá matando",
         "Rodenilson 🤘🏾👀: E por aqui frio",
-        "Fabrício: Por aqui está mais nublado uma hora chove e para"
+        "Fabrício: Por aqui está mais nublado uma hora chove e para",
+        "Marcus Vieira: Calorão aqui😅"
       ]
     }
   },
@@ -15057,6 +15058,12 @@
         "authorName": "Fabrício",
         "text": "Por aqui está mais nublado uma hora chove e para",
         "timestamp": 1789488401113
+      },
+      {
+        "authorNum": "171086465478763",
+        "authorName": "Marcus Vieira",
+        "text": "Calorão aqui😅",
+        "timestamp": 1789488486532
       }
     ]
   },
@@ -15084,7 +15091,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1385
+    "120363412202609595@g.us": 1386
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -17929,6 +17936,12 @@
         "text": "Por aqui está mais nublado uma hora chove e para",
         "pushName": "Fabrício",
         "timestamp": 1789488401113
+      },
+      "3A05875E186CBB2AA58C": {
+        "sender": "171086465478763@lid",
+        "text": "Calorão aqui😅",
+        "pushName": "Marcus Vieira",
+        "timestamp": 1789488486532
       }
     }
   },
@@ -18186,7 +18199,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789488451002
+    "120363412202609595@g.us": 1789488486532
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
