@@ -7377,9 +7377,9 @@
         "total": 145
       },
       "182738040713418": {
-        "text": 102,
+        "text": 103,
         "media": 34,
-        "total": 136
+        "total": 137
       },
       "247020967165997": {
         "text": 134,
@@ -7432,9 +7432,9 @@
         "total": 23
       },
       "129373172711439": {
-        "text": 213,
+        "text": 214,
         "media": 65,
-        "total": 278
+        "total": 279
       },
       "15960484393007": {
         "text": 10,
@@ -7477,9 +7477,9 @@
         "total": 6
       },
       "27346140700786": {
-        "text": 83,
+        "text": 84,
         "media": 15,
-        "total": 98
+        "total": 99
       },
       "137623771312290": {
         "text": 2,
@@ -7692,9 +7692,9 @@
         "total": 14
       },
       "54259127210155": {
-        "text": 23,
+        "text": 24,
         "media": 10,
-        "total": 33
+        "total": 34
       },
       "50869659811853": {
         "text": 23,
@@ -14655,9 +14655,6 @@
         "Camila Designer: Só clicar e entrar"
       ],
       "15/09/2026": [
-        "𝑳𝒂𝒚𝒉🌪🌚: Fica inativo por muito tempo vai de arrasta",
-        "Georg Barão ✌🏻😎: Tá contra mim msm neh kkk",
-        "Georg Barão ✌🏻😎: Vai ser no máximo até 6:00 da tarde 😂😂😂",
         "Celiete Souza: Gosto de encomodar 🤭",
         "Georg Barão ✌🏻😎: Vc não me incomoda vc sabe disso kkk",
         "Celiete Souza: O bichinho dormi né",
@@ -15154,7 +15151,10 @@
         "Wellington: Eu vi e vai quebrar o GTA 6 pow kkk",
         "𝑳𝒂𝒚𝒉🌪🌚: Quem assistiu?",
         "LEANDRO M.: Num é possível",
-        "Cristian Sntss: @all"
+        "Cristian Sntss: @all",
+        "Diana Shirley: Meu sobrinho assistiu e falou que sim, gostou",
+        "LEANDRO M.: Não sou muito chegado nesses filmes não, mas ouvi pessoas comentando, falando que é bom",
+        "Celiete Souza: Ainda não vi, estou esperando um convite"
       ]
     }
   },
@@ -15680,6 +15680,24 @@
         "authorName": "Cristian Sntss",
         "text": "@all",
         "timestamp": 1789500777090
+      },
+      {
+        "authorNum": "27346140700786",
+        "authorName": "Diana Shirley",
+        "text": "Meu sobrinho assistiu e falou que sim, gostou",
+        "timestamp": 1789500796127
+      },
+      {
+        "authorNum": "54259127210155",
+        "authorName": "LEANDRO M.",
+        "text": "Não sou muito chegado nesses filmes não, mas ouvi pessoas comentando, falando que é bom",
+        "timestamp": 1789500802567
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Ainda não vi, estou esperando um convite",
+        "timestamp": 1789500816872
       }
     ]
   },
@@ -15707,7 +15725,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1842
+    "120363412202609595@g.us": 1845
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16380,11 +16398,11 @@
       "166452229341300": 102,
       "182738040713418": 228,
       "105136689029122": 37,
-      "129373172711439": 498,
+      "129373172711439": 504,
       "140622228942952": 123,
       "108461127897146": 387,
       "69539832270873": 6,
-      "27346140700786": 226,
+      "27346140700786": 239,
       "137623771312290": 12,
       "53537388122141": 720,
       "95125053169759": 41,
@@ -16695,11 +16713,11 @@
       "166452229341300": 20,
       "182738040713418": 52,
       "105136689029122": 9,
-      "129373172711439": 107,
+      "129373172711439": 110,
       "140622228942952": 23,
       "108461127897146": 79,
       "69539832270873": 1,
-      "27346140700786": 49,
+      "27346140700786": 52,
       "137623771312290": 3,
       "53537388122141": 153,
       "95125053169759": 12,
@@ -21382,6 +21400,24 @@
         "text": "@all",
         "pushName": "Cristian Sntss",
         "timestamp": 1789500777090
+      },
+      "AC2BDA21EBCEBA064FC34141EFEF8EB0": {
+        "sender": "27346140700786@lid",
+        "text": "Meu sobrinho assistiu e falou que sim, gostou",
+        "pushName": "Diana Shirley",
+        "timestamp": 1789500796128
+      },
+      "ACE7A21FF2C0E4005791FAFFCF0FB40C": {
+        "sender": "54259127210155@lid",
+        "text": "Não sou muito chegado nesses filmes não, mas ouvi pessoas comentando, falando que é bom",
+        "pushName": "LEANDRO M.",
+        "timestamp": 1789500802568
+      },
+      "AC58994F4A2CD0AF46E45FD94267A3A6": {
+        "sender": "129373172711439@lid",
+        "text": "Ainda não vi, estou esperando um convite",
+        "pushName": "Celiete Souza",
+        "timestamp": 1789500816873
       }
     }
   },
@@ -21639,7 +21675,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789500786595
+    "120363412202609595@g.us": 1789500823255
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
