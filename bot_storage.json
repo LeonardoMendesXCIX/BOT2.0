@@ -7477,9 +7477,9 @@
         "total": 6
       },
       "27346140700786": {
-        "text": 71,
+        "text": 73,
         "media": 14,
-        "total": 85
+        "total": 87
       },
       "137623771312290": {
         "text": 2,
@@ -7487,9 +7487,9 @@
         "total": 2
       },
       "53537388122141": {
-        "text": 228,
+        "text": 229,
         "media": 23,
-        "total": 251
+        "total": 252
       },
       "122552932372575": {
         "text": 2,
@@ -15001,7 +15001,9 @@
         "Igor Alexandre: Galera, partiu treino",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Inaugurar biquíni",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: E ir pra praia",
-        "Maurício Manú Telecom: Verão e praia onde têm né"
+        "Maurício Manú Telecom: Verão e praia onde têm né",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Pode ser parque aquático também 😂",
+        "Diana Shirley: Do Maranhão 😂"
       ]
     }
   },
@@ -15137,6 +15139,18 @@
         "authorName": "Maurício Manú Telecom",
         "text": "Verão e praia onde têm né",
         "timestamp": 1789497004242
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Pode ser parque aquático também 😂",
+        "timestamp": 1789497027367
+      },
+      {
+        "authorNum": "27346140700786",
+        "authorName": "Diana Shirley",
+        "text": "Do Maranhão 😂",
+        "timestamp": 1789497033650
       }
     ]
   },
@@ -15164,7 +15178,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1680
+    "120363412202609595@g.us": 1682
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -15843,7 +15857,7 @@
       "69539832270873": 6,
       "27346140700786": 207,
       "137623771312290": 12,
-      "53537388122141": 677,
+      "53537388122141": 690,
       "95125053169759": 41,
       "100356960845833": 449,
       "128810464874577": 13,
@@ -16155,7 +16169,7 @@
       "69539832270873": 1,
       "27346140700786": 44,
       "137623771312290": 3,
-      "53537388122141": 145,
+      "53537388122141": 147,
       "95125053169759": 12,
       "100356960845833": 94,
       "128810464874577": 3,
@@ -19816,6 +19830,18 @@
         "text": "Verão e praia onde têm né",
         "pushName": "Maurício Manú Telecom",
         "timestamp": 1789497004242
+      },
+      "AC571E8260F904491672D2DBD2872E20": {
+        "sender": "53537388122141@lid",
+        "text": "Pode ser parque aquático também 😂",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1789497027367
+      },
+      "AC633B6FDD8CAE2C8F6D2D02B7069550": {
+        "sender": "27346140700786@lid",
+        "text": "Do Maranhão 😂",
+        "pushName": "Diana Shirley",
+        "timestamp": 1789497033650
       }
     }
   },
@@ -20073,7 +20099,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789497004242
+    "120363412202609595@g.us": 1789497033650
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
