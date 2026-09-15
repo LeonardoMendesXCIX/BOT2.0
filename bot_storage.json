@@ -7447,9 +7447,9 @@
         "total": 10
       },
       "140622228942952": {
-        "text": 15,
+        "text": 16,
         "media": 0,
-        "total": 15
+        "total": 16
       },
       "100356960845833": {
         "text": 134,
@@ -7527,14 +7527,14 @@
         "total": 83
       },
       "559984624669": {
-        "text": 115,
+        "text": 116,
         "media": 43,
-        "total": 158
+        "total": 159
       },
       "559991116887": {
         "text": 81,
-        "media": 31,
-        "total": 112
+        "media": 32,
+        "total": 113
       },
       "23687415767181": {
         "text": 1,
@@ -14884,7 +14884,10 @@
         "Georg Barão ✌🏻😎: Ah mulher fala não,vc vai encontrar alguém que te faça bem feliz,mais nós somos só amigos",
         "Fabrício: Pra não falar a verdade",
         "Cristian Sntss: Aí tu quebra nos",
-        "Cristian Sntss: Quem não levou chifre não vai por ceu"
+        "Cristian Sntss: Quem não levou chifre não vai por ceu",
+        "Francisco: Eu acho qui levei nao tenho certeza",
+        "𝑳𝒂𝒚𝒉🌪🌚: Rapaz eu acredito pois tenho duas pessoas que são meus melhores amigos e um deles se tornou padrinho do meu filho !!!\n\nDêem a opinião de vocês ?",
+        "Cristian Sntss: @all"
       ]
     }
   },
@@ -15518,6 +15521,24 @@
         "authorName": "Cristian Sntss",
         "text": "Quem não levou chifre não vai por ceu",
         "timestamp": 1789492721591
+      },
+      {
+        "authorNum": "140622228942952",
+        "authorName": "Francisco",
+        "text": "Eu acho qui levei nao tenho certeza",
+        "timestamp": 1789492790292
+      },
+      {
+        "authorNum": "559991116887",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Rapaz eu acredito pois tenho duas pessoas que são meus melhores amigos e um deles se tornou padrinho do meu filho !!!\n\nDêem a opinião de vocês ?",
+        "timestamp": 1789492800688
+      },
+      {
+        "authorNum": "559984624669",
+        "authorName": "Cristian Sntss",
+        "text": "@all",
+        "timestamp": 1789492811706
       }
     ]
   },
@@ -15545,7 +15566,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1573
+    "120363412202609595@g.us": 1576
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16233,7 +16254,7 @@
       "247020967165997": 405,
       "559984624669": 310,
       "163530946961491": 35,
-      "559991116887": 233,
+      "559991116887": 247,
       "164398513573978": 13,
       "102109089378363": 253,
       "253403338903556": 84,
@@ -16544,7 +16565,7 @@
       "247020967165997": 79,
       "559984624669": 56,
       "163530946961491": 8,
-      "559991116887": 53,
+      "559991116887": 56,
       "164398513573978": 2,
       "102109089378363": 50,
       "253403338903556": 13,
@@ -19545,6 +19566,24 @@
         "text": "Quem não levou chifre não vai por ceu",
         "pushName": "Cristian Sntss",
         "timestamp": 1789492721591
+      },
+      "ACA2362600842C658B5A915A8B98FE52": {
+        "sender": "140622228942952@lid",
+        "text": "Eu acho qui levei nao tenho certeza",
+        "pushName": "Francisco",
+        "timestamp": 1789492790293
+      },
+      "AC3D5E2AF026A7A1981EA72854637083": {
+        "sender": "81991328395336@lid",
+        "text": "Rapaz eu acredito pois tenho duas pessoas que são meus melhores amigos e um deles se tornou padrinho do meu filho !!!\n\nDêem a opinião de vocês ?",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1789492800690
+      },
+      "A55874A132C96F069225190AE2CF39FC": {
+        "sender": "166452229341300@lid",
+        "text": "@all",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1789492811706
       }
     }
   },
@@ -19802,7 +19841,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789492721591
+    "120363412202609595@g.us": 1789492811706
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
