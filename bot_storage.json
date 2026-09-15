@@ -7592,9 +7592,9 @@
         "total": 2
       },
       "72315102593077": {
-        "text": 8,
+        "text": 11,
         "media": 0,
-        "total": 8
+        "total": 11
       },
       "59623457439943": {
         "text": 2,
@@ -7637,6 +7637,11 @@
         "total": 3
       },
       "199733712785531": {
+        "text": 1,
+        "media": 0,
+        "total": 1
+      },
+      "6099558248675": {
         "text": 1,
         "media": 0,
         "total": 1
@@ -14596,7 +14601,11 @@
         "Rodenilson 🤘🏾👀: Bora tentar dormir",
         "Georg Barão ✌🏻😎: 👀",
         "Nuno: Bom dia",
-        ".: Bom dia pessoas , tenham um excelente dia!! 🙏🏻"
+        ".: Bom dia pessoas , tenham um excelente dia!! 🙏🏻",
+        "Gabriel: Bom dia",
+        "Gabriel: Q horas é onde vcs moram agr?",
+        "Gabriel: Aqui são 4:50",
+        "Não Sei Meu Nome: 6:56"
       ]
     }
   },
@@ -14630,6 +14639,30 @@
         "authorName": ".",
         "text": "Bom dia pessoas , tenham um excelente dia!! 🙏🏻",
         "timestamp": 1789462197630
+      },
+      {
+        "authorNum": "72315102593077",
+        "authorName": "Gabriel",
+        "text": "Bom dia",
+        "timestamp": 1789462561680
+      },
+      {
+        "authorNum": "72315102593077",
+        "authorName": "Gabriel",
+        "text": "Q horas é onde vcs moram agr?",
+        "timestamp": 1789462562394
+      },
+      {
+        "authorNum": "72315102593077",
+        "authorName": "Gabriel",
+        "text": "Aqui são 4:50",
+        "timestamp": 1789462562872
+      },
+      {
+        "authorNum": "6099558248675",
+        "authorName": "Não Sei Meu Nome",
+        "text": "6:56",
+        "timestamp": 1789462585533
       }
     ]
   },
@@ -14657,7 +14690,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1322
+    "120363412202609595@g.us": 1326
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -15348,7 +15381,7 @@
       "185942488969385": 8,
       "158381767696617": 407,
       "237086657491106": 8,
-      "72315102593077": 22,
+      "72315102593077": 49,
       "255632628252836": 13,
       "238440125853754": 24,
       "171086465478763": 7,
@@ -15655,7 +15688,7 @@
       "185942488969385": 2,
       "158381767696617": 86,
       "237086657491106": 2,
-      "72315102593077": 3,
+      "72315102593077": 8,
       "255632628252836": 5,
       "238440125853754": 8,
       "171086465478763": 3,
@@ -17109,6 +17142,30 @@
         "text": "Bom dia pessoas , tenham um excelente dia!! 🙏🏻",
         "pushName": ".",
         "timestamp": 1789462197631
+      },
+      "AC50D461FD41C0D43D11321C9DBB1911": {
+        "sender": "72315102593077@lid",
+        "text": "Bom dia",
+        "pushName": "Gabriel",
+        "timestamp": 1789462561680
+      },
+      "AC0D32F530B8A3EE5C4D5222C068EAD4": {
+        "sender": "72315102593077@lid",
+        "text": "Q horas é onde vcs moram agr?",
+        "pushName": "Gabriel",
+        "timestamp": 1789462562394
+      },
+      "ACCF7E8940D4B6F76B807C21B27823F4": {
+        "sender": "72315102593077@lid",
+        "text": "Aqui são 4:50",
+        "pushName": "Gabriel",
+        "timestamp": 1789462562872
+      },
+      "ACA350D1EDD5C7144CFA72389E199A32": {
+        "sender": "6099558248675@lid",
+        "text": "6:56",
+        "pushName": "Não Sei Meu Nome",
+        "timestamp": 1789462585533
       }
     }
   },
@@ -17334,7 +17391,8 @@
       "4342933360709": true,
       "559984624669": true,
       "559991116887": true,
-      "3766803779717": true
+      "3766803779717": true,
+      "6099558248675": true
     }
   },
   "bjHands": {},
@@ -17362,7 +17420,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789462197630
+    "120363412202609595@g.us": 1789462585533
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
