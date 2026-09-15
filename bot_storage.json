@@ -7447,9 +7447,9 @@
         "total": 10
       },
       "140622228942952": {
-        "text": 21,
+        "text": 22,
         "media": 0,
-        "total": 21
+        "total": 22
       },
       "100356960845833": {
         "text": 135,
@@ -7487,9 +7487,9 @@
         "total": 2
       },
       "53537388122141": {
-        "text": 211,
+        "text": 212,
         "media": 22,
-        "total": 233
+        "total": 234
       },
       "122552932372575": {
         "text": 2,
@@ -14921,7 +14921,9 @@
         "𝑳𝒂𝒚𝒉🌪🌚: Kkkk",
         "𝑳𝒂𝒚𝒉🌪🌚: @54804520915168",
         "Georg Barão ✌🏻😎: Esse Francisco éh mais um daqueles caras que não vou nem falar oh que ele éh kkk",
-        "Georg Barão ✌🏻😎: Já dá pra perceber"
+        "Georg Barão ✌🏻😎: Já dá pra perceber",
+        "Francisco: Rapaz",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: @all"
       ]
     }
   },
@@ -14944,18 +14946,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Graças a Deus eu nunca tive esse negócio de recaída com ex",
-        "timestamp": 1789491901910
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Depois que separei nunca mais pegou nem na minha mão",
-        "timestamp": 1789491913166
-      },
       {
         "authorNum": "100356960845833",
         "authorName": "Rodenilson 🤘🏾👀",
@@ -15459,6 +15449,18 @@
         "authorName": "Georg Barão ✌🏻😎",
         "text": "Já dá pra perceber",
         "timestamp": 1789493689815
+      },
+      {
+        "authorNum": "140622228942952",
+        "authorName": "Francisco",
+        "text": "Rapaz",
+        "timestamp": 1789493713261
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "@all",
+        "timestamp": 1789493714740
       }
     ]
   },
@@ -15486,7 +15488,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1610
+    "120363412202609595@g.us": 1612
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16161,7 +16163,7 @@
       "182738040713418": 217,
       "105136689029122": 37,
       "129373172711439": 351,
-      "140622228942952": 86,
+      "140622228942952": 100,
       "108461127897146": 360,
       "69539832270873": 6,
       "27346140700786": 199,
@@ -16472,7 +16474,7 @@
       "182738040713418": 48,
       "105136689029122": 9,
       "129373172711439": 77,
-      "140622228942952": 18,
+      "140622228942952": 20,
       "108461127897146": 75,
       "69539832270873": 1,
       "27346140700786": 41,
@@ -19708,6 +19710,18 @@
         "text": "Já dá pra perceber",
         "pushName": "Georg Barão ✌🏻😎",
         "timestamp": 1789493689815
+      },
+      "ACF7A35380803C37DC07240D91958225": {
+        "sender": "140622228942952@lid",
+        "text": "Rapaz",
+        "pushName": "Francisco",
+        "timestamp": 1789493713261
+      },
+      "ACACD50BC30AC58F5EF582D82866E4B2": {
+        "sender": "53537388122141@lid",
+        "text": "@all",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1789493714740
       }
     }
   },
@@ -19965,7 +19979,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789493692440
+    "120363412202609595@g.us": 1789493714740
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
