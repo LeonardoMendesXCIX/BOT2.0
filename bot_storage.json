@@ -7402,14 +7402,14 @@
         "total": 47
       },
       "183906892533896": {
-        "text": 39,
+        "text": 41,
         "media": 3,
-        "total": 42
+        "total": 44
       },
       "108461127897146": {
-        "text": 122,
+        "text": 123,
         "media": 27,
-        "total": 149
+        "total": 150
       },
       "190881986523333": {
         "text": 1,
@@ -14963,7 +14963,9 @@
         "𝑳𝒂𝒚𝒉🌪🌚: Gente do céu. Eu nem pra motel tinha ido se só nas conversa tava assim",
         ": Gente do céu. Eu nem pra motel tinha ido se só nas conversa tava assim",
         "jaciara: Fortaleza dos nogueiras",
-        "Cristian Sntss: @all"
+        "Cristian Sntss: @all",
+        "Igor Alexandre: Eu tenho 2 amigas em Salvador e 1 em SP",
+        "jaciara: Oh inferno viu"
       ]
     }
   },
@@ -14986,12 +14988,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "559984624669",
-        "authorName": "Cristian Sntss",
-        "text": "Aí tu quebra nos",
-        "timestamp": 1789492699310
-      },
       {
         "authorNum": "559984624669",
         "authorName": "Cristian Sntss",
@@ -15441,6 +15437,18 @@
         "authorName": "Cristian Sntss",
         "text": "@all",
         "timestamp": 1789494472386
+      },
+      {
+        "authorNum": "183906892533896",
+        "authorName": "Igor Alexandre",
+        "text": "Eu tenho 2 amigas em Salvador e 1 em SP",
+        "timestamp": 1789494484792
+      },
+      {
+        "authorNum": "108461127897146",
+        "authorName": "jaciara",
+        "text": "Oh inferno viu",
+        "timestamp": 1789494503710
       }
     ]
   },
@@ -15468,7 +15476,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1647
+    "120363412202609595@g.us": 1649
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -19910,6 +19918,18 @@
         "text": "@all",
         "pushName": "Cristian Sntss",
         "timestamp": 1789494472386
+      },
+      "AC2B697DB3FE99627A40531FBA497926": {
+        "sender": "183906892533896@lid",
+        "text": "Eu tenho 2 amigas em Salvador e 1 em SP",
+        "pushName": "Igor Alexandre",
+        "timestamp": 1789494484792
+      },
+      "AC98CE0BBC316B118260168D8A2D5FC0": {
+        "sender": "108461127897146@lid",
+        "text": "Oh inferno viu",
+        "pushName": "jaciara",
+        "timestamp": 1789494503710
       }
     }
   },
@@ -20167,7 +20187,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789494476028
+    "120363412202609595@g.us": 1789494504794
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
