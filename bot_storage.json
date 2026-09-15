@@ -7432,9 +7432,9 @@
         "total": 23
       },
       "129373172711439": {
-        "text": 185,
+        "text": 186,
         "media": 61,
-        "total": 246
+        "total": 247
       },
       "15960484393007": {
         "text": 10,
@@ -7447,9 +7447,9 @@
         "total": 10
       },
       "140622228942952": {
-        "text": 26,
+        "text": 27,
         "media": 0,
-        "total": 26
+        "total": 27
       },
       "100356960845833": {
         "text": 145,
@@ -7532,9 +7532,9 @@
         "total": 177
       },
       "559991116887": {
-        "text": 103,
+        "text": 104,
         "media": 44,
-        "total": 147
+        "total": 148
       },
       "23687415767181": {
         "text": 1,
@@ -7692,9 +7692,9 @@
         "total": 14
       },
       "54259127210155": {
-        "text": 6,
+        "text": 9,
         "media": 3,
-        "total": 9
+        "total": 12
       }
     }
   },
@@ -15042,7 +15042,13 @@
         "𝑳𝒂𝒚𝒉🌪🌚: Parece que os caba tão querendo virar meu cunhado e n cunhada",
         "𝑳𝒂𝒚𝒉🌪🌚: Café engorda?",
         "LEANDRO M.: Lauan, Lauan...",
-        "Diana Shirley: Vc então conversou com ele😂"
+        "Diana Shirley: Vc então conversou com ele😂",
+        "LEANDRO M.: Até onde eu sei, não",
+        "Celiete Souza: Que eu saiba não, se não eu estarei igual a dona redonda",
+        "LEANDRO M.: Só dá ansiedade",
+        "Francisco: Ne não",
+        "𝑳𝒂𝒚𝒉🌪🌚: Ele se entregando",
+        "LEANDRO M.: Já era hora né 🌝"
       ]
     }
   },
@@ -15065,12 +15071,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "559991116887",
-        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
-        "text": "Meu filho n aguenta mais",
-        "timestamp": 1789496574092
-      },
       {
         "authorNum": "187845394358417",
         "authorName": "Maurício Manú Telecom",
@@ -15292,6 +15292,42 @@
         "authorName": "Diana Shirley",
         "text": "Vc então conversou com ele😂",
         "timestamp": 1789498349611
+      },
+      {
+        "authorNum": "54259127210155",
+        "authorName": "LEANDRO M.",
+        "text": "Até onde eu sei, não",
+        "timestamp": 1789498351300
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Que eu saiba não, se não eu estarei igual a dona redonda",
+        "timestamp": 1789498361738
+      },
+      {
+        "authorNum": "54259127210155",
+        "authorName": "LEANDRO M.",
+        "text": "Só dá ansiedade",
+        "timestamp": 1789498364855
+      },
+      {
+        "authorNum": "140622228942952",
+        "authorName": "Francisco",
+        "text": "Ne não",
+        "timestamp": 1789498371212
+      },
+      {
+        "authorNum": "559991116887",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Ele se entregando",
+        "timestamp": 1789498371271
+      },
+      {
+        "authorNum": "54259127210155",
+        "authorName": "LEANDRO M.",
+        "text": "Já era hora né 🌝",
+        "timestamp": 1789498376133
       }
     ]
   },
@@ -15319,7 +15355,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1711
+    "120363412202609595@g.us": 1717
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -15992,8 +16028,8 @@
       "166452229341300": 102,
       "182738040713418": 217,
       "105136689029122": 37,
-      "129373172711439": 396,
-      "140622228942952": 109,
+      "129373172711439": 405,
+      "140622228942952": 123,
       "108461127897146": 368,
       "69539832270873": 6,
       "27346140700786": 213,
@@ -16027,7 +16063,7 @@
       "120363412202609595": 21,
       "187845394358417": 16,
       "36589463965754": 14,
-      "54259127210155": 42
+      "54259127210155": 50
     }
   },
   "coins": {
@@ -16306,8 +16342,8 @@
       "166452229341300": 20,
       "182738040713418": 48,
       "105136689029122": 9,
-      "129373172711439": 86,
-      "140622228942952": 21,
+      "129373172711439": 87,
+      "140622228942952": 23,
       "108461127897146": 76,
       "69539832270873": 1,
       "27346140700786": 46,
@@ -16341,7 +16377,7 @@
       "120363412202609595": 4,
       "187845394358417": 2,
       "36589463965754": 1,
-      "54259127210155": 7
+      "54259127210155": 8
     }
   },
   "dailyRewardClaimed": {
@@ -20186,6 +20222,42 @@
         "text": "Vc então conversou com ele😂",
         "pushName": "Diana Shirley",
         "timestamp": 1789498349611
+      },
+      "AC3248200268A5920729B39C8DED78BB": {
+        "sender": "54259127210155@lid",
+        "text": "Até onde eu sei, não",
+        "pushName": "LEANDRO M.",
+        "timestamp": 1789498351301
+      },
+      "AC491242F0F5F58A1D96E4EE9C8C3E57": {
+        "sender": "129373172711439@lid",
+        "text": "Que eu saiba não, se não eu estarei igual a dona redonda",
+        "pushName": "Celiete Souza",
+        "timestamp": 1789498361738
+      },
+      "ACF715583D11E5DB710EFF74EAF9616E": {
+        "sender": "54259127210155@lid",
+        "text": "Só dá ansiedade",
+        "pushName": "LEANDRO M.",
+        "timestamp": 1789498365725
+      },
+      "ACDA9AF273314DF9884E0BA768AE4233": {
+        "sender": "140622228942952@lid",
+        "text": "Ne não",
+        "pushName": "Francisco",
+        "timestamp": 1789498371212
+      },
+      "AC18F56E5D342208F76A1DBA2828C725": {
+        "sender": "81991328395336@lid",
+        "text": "Ele se entregando",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1789498371271
+      },
+      "AC02DFE6192F85B89F7D6E24E6AE806D": {
+        "sender": "54259127210155@lid",
+        "text": "Já era hora né 🌝",
+        "pushName": "LEANDRO M.",
+        "timestamp": 1789498376133
       }
     }
   },
@@ -20443,7 +20515,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789498349611
+    "120363412202609595@g.us": 1789498376133
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
