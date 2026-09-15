@@ -7372,9 +7372,9 @@
     },
     "120363412202609595@g.us": {
       "92629643563147": {
-        "text": 101,
-        "media": 39,
-        "total": 140
+        "text": 102,
+        "media": 40,
+        "total": 142
       },
       "182738040713418": {
         "text": 99,
@@ -7487,9 +7487,9 @@
         "total": 2
       },
       "53537388122141": {
-        "text": 209,
+        "text": 210,
         "media": 22,
-        "total": 231
+        "total": 232
       },
       "122552932372575": {
         "text": 2,
@@ -7527,9 +7527,9 @@
         "total": 83
       },
       "559984624669": {
-        "text": 117,
+        "text": 119,
         "media": 43,
-        "total": 160
+        "total": 162
       },
       "559991116887": {
         "text": 81,
@@ -14903,7 +14903,11 @@
         "Cristian Sntss: @all",
         "Camila Designer: Sim",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Existir, existe. Mas é raro. Inveja é o que mais tem, principalmente em relacionamento. Já passei por isso, não tenho mais nenhum tipo de contato com a pessoa",
-        "𝑳𝒂𝒚𝒉🌪🌚: Mds 🤡"
+        "𝑳𝒂𝒚𝒉🌪🌚: Mds 🤡",
+        "Cristian Sntss: @all",
+        "Camila Designer: Fez bem 🤣🤣🤣",
+        "Cristian Sntss: Uma verdade",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: E tem explicação uma porra dessa??"
       ]
     }
   },
@@ -14926,12 +14930,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "100356960845833",
-        "authorName": "Rodenilson 🤘🏾👀",
-        "text": "Isso é pura pilantragem,esses tipos de homem,que fazem a nossa má fama",
-        "timestamp": 1789491570117
-      },
       {
         "authorNum": "36215264927990",
         "authorName": ".",
@@ -15411,6 +15409,30 @@
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
         "text": "Mds 🤡",
         "timestamp": 1789493353703
+      },
+      {
+        "authorNum": "559984624669",
+        "authorName": "Cristian Sntss",
+        "text": "@all",
+        "timestamp": 1789493367698
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Fez bem 🤣🤣🤣",
+        "timestamp": 1789493371584
+      },
+      {
+        "authorNum": "559984624669",
+        "authorName": "Cristian Sntss",
+        "text": "Uma verdade",
+        "timestamp": 1789493373360
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "E tem explicação uma porra dessa??",
+        "timestamp": 1789493375160
       }
     ]
   },
@@ -15438,7 +15460,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1592
+    "120363412202609595@g.us": 1596
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16118,13 +16140,13 @@
       "69539832270873": 6,
       "27346140700786": 199,
       "137623771312290": 12,
-      "53537388122141": 635,
+      "53537388122141": 646,
       "95125053169759": 41,
       "100356960845833": 428,
       "128810464874577": 13,
       "4342933360709": 57,
       "247020967165997": 405,
-      "559984624669": 310,
+      "559984624669": 321,
       "163530946961491": 35,
       "559991116887": 247,
       "164398513573978": 13,
@@ -16429,13 +16451,13 @@
       "69539832270873": 1,
       "27346140700786": 41,
       "137623771312290": 3,
-      "53537388122141": 133,
+      "53537388122141": 135,
       "95125053169759": 12,
       "100356960845833": 90,
       "128810464874577": 3,
       "4342933360709": 14,
       "247020967165997": 79,
-      "559984624669": 56,
+      "559984624669": 57,
       "163530946961491": 8,
       "559991116887": 56,
       "164398513573978": 2,
@@ -19552,6 +19574,30 @@
         "text": "Mds 🤡",
         "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
         "timestamp": 1789493353703
+      },
+      "A5614AA9262B39A3DDB0153DEA975692": {
+        "sender": "166452229341300@lid",
+        "text": "@all",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1789493367699
+      },
+      "2AA89212A18E4EFE9D32": {
+        "sender": "92629643563147@lid",
+        "text": "Fez bem 🤣🤣🤣",
+        "pushName": "Camila Designer",
+        "timestamp": 1789493371585
+      },
+      "A5150764FCB7EA7C87CE94561D306A1D": {
+        "sender": "166452229341300@lid",
+        "text": "Uma verdade",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1789493373360
+      },
+      "ACB03099C098C2C1E66142D0A6082C17": {
+        "sender": "53537388122141@lid",
+        "text": "E tem explicação uma porra dessa??",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1789493375160
       }
     }
   },
@@ -19809,7 +19855,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789493353703
+    "120363412202609595@g.us": 1789493375160
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
