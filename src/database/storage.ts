@@ -79,6 +79,26 @@ export interface BotStorage {
     antiForward: Record<string, boolean>;
     antiStickerFlood: Record<string, boolean>;
     warnTimestamps: Record<string, Record<string, number[]>>;
+    raidMode: Record<string, boolean>;
+    raidHistory: Record<string, number[]>;
+    captcha: Record<string, boolean>;
+    pendingCaptcha: Record<string, Record<string, { code: string; expires: number }>>;
+    autoApprove: Record<string, boolean>;
+    dailyQuota: Record<string, number>;
+    dailyQuotaCount: Record<string, Record<string, { count: number; date: string }>>;
+    xp: Record<string, Record<string, number>>;
+    coins: Record<string, Record<string, number>>;
+    dailyRewardClaimed: Record<string, Record<string, string>>;
+    autoReaction: Record<string, Record<string, string>>;
+    birthdays: Record<string, Record<string, string>>;
+    countdowns: Record<string, Record<string, { name: string; date: string }>>;
+    perguntaDia: Record<string, { question: string; date: string }>;
+    sorteios: Record<string, { prize: string; participants: string[]; endsAt: number; ended: boolean }>;
+    autoRemoveInactive: Record<string, number>;
+    autoRemoveWarned: Record<string, string[]>;
+    adminLog: Record<string, Array<{ ts: number; admin: string; action: string; target?: string }>>;
+    lockMedia: Record<string, boolean>;
+    purgeSchedule: Record<string, { hour: number; olderThanHrs: number }>;
     antinsfw: Record<string, boolean>;
     autoTranscribe: Record<string, boolean>;
     antidelete: Record<string, boolean>;
@@ -87,6 +107,17 @@ export interface BotStorage {
     warnings: Record<string, Record<string, number>>;
     maxWarnings: Record<string, number>;
     activeQuiz: Record<string, { question: string; answer: string; startedBy?: string; date?: number; timeout?: any }>;
+    goalAlerts: Record<string, Record<string, { home: string; away: string; lastScore: string }>>;
+    reminders: Array<{ id: string; chatId: string; userJid: string; text: string; runAt: number }>;
+    faqEnabled: Record<string, boolean>;
+    lastFaqAnswer: Record<string, number>;
+    businessHours: { open: string; close: string; msg: string } | null;
+    activeTicket: { userJid: string; openedAt: number } | null;
+    hangman: Record<string, { word: string; guessed: string[]; misses: number; by: string }>;
+    tictactoe: Record<string, { board: string[]; turn: string; p1: string; p2: string }>;
+    marriages: Record<string, Record<string, string>>;
+    firstMsgSeen: Record<string, Record<string, boolean>>;
+    bjHands: Record<string, Record<string, { player: number[]; bot: number[]; bet: number; done: boolean }>>;
     autoAnim: Record<string, boolean>;
     lastGroupActivity: Record<string, number>;
     autoAnimSent: Record<string, boolean>;
@@ -134,6 +165,26 @@ export class StorageManager {
             antiForward: {},
             antiStickerFlood: {},
             warnTimestamps: {},
+            raidMode: {},
+            raidHistory: {},
+            captcha: {},
+            pendingCaptcha: {},
+            autoApprove: {},
+            dailyQuota: {},
+            dailyQuotaCount: {},
+            xp: {},
+            coins: {},
+            dailyRewardClaimed: {},
+            autoReaction: {},
+            birthdays: {},
+            countdowns: {},
+            perguntaDia: {},
+            sorteios: {},
+            autoRemoveInactive: {},
+            autoRemoveWarned: {},
+            adminLog: {},
+            lockMedia: {},
+            purgeSchedule: {},
             antinsfw: {},
             autoTranscribe: {},
             antidelete: {},
@@ -142,6 +193,17 @@ export class StorageManager {
             warnings: {},
             maxWarnings: {},
             activeQuiz: {},
+            goalAlerts: {},
+            reminders: [],
+            faqEnabled: {},
+            lastFaqAnswer: {},
+            businessHours: null,
+            activeTicket: null,
+            hangman: {},
+            tictactoe: {},
+            marriages: {},
+            firstMsgSeen: {},
+            bjHands: {},
             autoAnim: {},
             lastGroupActivity: {},
             autoAnimSent: {},
@@ -234,6 +296,33 @@ export class StorageManager {
         this.flagSave();
     }
 
+    public addXp(chatId: string, num: string, amount: number): number {
+        if (!this.data.xp) this.data.xp = {};
+        if (!this.data.xp[chatId]) this.data.xp[chatId] = {};
+        this.data.xp[chatId][num] = (this.data.xp[chatId][num] || 0) + amount;
+        this.flagSave();
+        return this.data.xp[chatId][num];
+    }
+
+    public getLevel(xp: number): number { return Math.floor(Math.sqrt(xp / 50)) + 1; }
+
+    public getRoleByLevel(level: number): string {
+        if (level >= 20) return '👑 Lenda';
+        if (level >= 15) return '💎 Diamante';
+        if (level >= 10) return '🥇 Ouro';
+        if (level >= 5) return '🥈 Prata';
+        if (level >= 2) return '🥉 Bronze';
+        return '🌱 Iniciante';
+    }
+
+    public addCoins(chatId: string, num: string, amount: number): number {
+        if (!this.data.coins) this.data.coins = {};
+        if (!this.data.coins[chatId]) this.data.coins[chatId] = {};
+        this.data.coins[chatId][num] = (this.data.coins[chatId][num] || 0) + amount;
+        this.flagSave();
+        return this.data.coins[chatId][num];
+    }
+
     public isBotDisabled(chatId: string): boolean {
         if (!chatId) return false;
         return this.data.botDisabled?.[chatId] === true;
@@ -280,6 +369,41 @@ export class StorageManager {
 
     public clearMute(chatId: string, num: string): void {
         if (this.data.mutes?.[chatId]) { delete this.data.mutes[chatId][num]; this.flagSave(); }
+    }
+
+    public logAdminAction(chatId: string, adminNum: string, action: string, target?: string): void {
+        if (!this.data.adminLog) this.data.adminLog = {};
+        if (!this.data.adminLog[chatId]) this.data.adminLog[chatId] = [];
+        this.data.adminLog[chatId].push({ ts: Date.now(), admin: adminNum, action, target });
+        if (this.data.adminLog[chatId].length > 100) this.data.adminLog[chatId] = this.data.adminLog[chatId].slice(-100);
+        this.flagSave();
+    }
+
+    public checkDailyQuota(chatId: string, userNum: string): { allowed: boolean; limit: number; used: number } {
+        const limit = this.data.dailyQuota?.[chatId] || 0;
+        if (!limit) return { allowed: true, limit: 0, used: 0 };
+        if (!this.data.dailyQuotaCount) this.data.dailyQuotaCount = {};
+        if (!this.data.dailyQuotaCount[chatId]) this.data.dailyQuotaCount[chatId] = {};
+        const today = new Date().toLocaleDateString('pt-BR');
+        const entry = this.data.dailyQuotaCount[chatId][userNum];
+        if (!entry || entry.date !== today) {
+            this.data.dailyQuotaCount[chatId][userNum] = { count: 1, date: today };
+            this.flagSave();
+            return { allowed: true, limit, used: 1 };
+        }
+        entry.count++;
+        this.flagSave();
+        return { allowed: entry.count <= limit, limit, used: entry.count };
+    }
+
+    public detectRaid(chatId: string): boolean {
+        if (!this.data.raidHistory) this.data.raidHistory = {};
+        if (!this.data.raidHistory[chatId]) this.data.raidHistory[chatId] = [];
+        const now = Date.now();
+        this.data.raidHistory[chatId].push(now);
+        this.data.raidHistory[chatId] = this.data.raidHistory[chatId].filter(t => now - t < 60000);
+        this.flagSave();
+        return this.data.raidHistory[chatId].length >= 5;
     }
 
     public isPromoWindowActive(chatId: string): boolean {
@@ -354,6 +478,10 @@ export class StorageManager {
         if (featureKey === 'audio_transcribe') this.data.autoTranscribe[chatId] = enabled;
         if (featureKey === 'antidelete') this.data.antidelete[chatId] = enabled;
         if (featureKey === 'auto') this.data.autoAnim[chatId] = enabled;
+        if (featureKey === 'raidmode') this.data.raidMode[chatId] = enabled;
+        if (featureKey === 'captcha') this.data.captcha[chatId] = enabled;
+        if (featureKey === 'autoaprovar') this.data.autoApprove[chatId] = enabled;
+        if (featureKey === 'lockmedia') this.data.lockMedia[chatId] = enabled;
 
         this.flagSave();
     }
@@ -393,9 +521,9 @@ export class StorageManager {
         // Mensagem pública SEM mencionar a política de remoção
         await sock.sendMessage(chatId, {
             text: '⚠️ *ADVERTÊNCIA REGISTRADA (' + currentWarns + '/' + limit + ')*\n\n' +
-                '👤 *Membro:* ' + targetInfo.mention + '\n' +
+                '👤 *Membro:* ' + targetInfo.smartMention + '\n' +
                 '📝 *Motivo:* ' + reason,
-            mentions: [targetInfo.jid]
+            mentions: [targetInfo.mentionJid, targetInfo.jid]
         });
 
         // 3ª advertência: remoção automática silenciosa
@@ -407,10 +535,10 @@ export class StorageManager {
 
                 const removalCfg = this.data.removalMsgs?.[chatId];
                 const removalText = removalCfg && removalCfg.text
-                    ? removalCfg.text.replace(/\{membro\}/gi, targetInfo.mention)
-                    : 'Xiii, acho que o integrante ' + targetInfo.mention + ' fez algo de errado, pois foi removido!';
+                    ? removalCfg.text.replace(/\{membro\}/gi, targetInfo.smartMention)
+                    : 'Xiii, acho que o integrante ' + targetInfo.smartMention + ' fez algo de errado, pois foi removido!';
 
-                await sock.sendMessage(chatId, { text: removalText, mentions: [targetInfo.jid] });
+                await sock.sendMessage(chatId, { text: removalText, mentions: [targetInfo.mentionJid, targetInfo.jid] });
             } catch (e: any) {
                 console.error('[ERRO AUTO-REMOVE WARN]', e.message);
             }

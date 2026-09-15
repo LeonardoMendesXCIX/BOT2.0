@@ -13,9 +13,13 @@ export function setupGroupEvents(sock: WASocket, storage: StorageManager): void 
 
             if (storage.isBotDisabled(chatId)) return;
 
-            await new Promise(r => setTimeout(r, 1500));
+            await new Promise(r => setTimeout(r, 800));
 
-            const groupMeta = await sock.groupMetadata(chatId).catch(() => null);
+            let groupMeta = await sock.groupMetadata(chatId).catch(() => null);
+            if (!groupMeta) {
+                await new Promise(r => setTimeout(r, 1000));
+                groupMeta = await sock.groupMetadata(chatId).catch(() => null);
+            }
             if (groupMeta?.participants) {
                 updateLidMapping(groupMeta.participants);
             }
@@ -55,6 +59,7 @@ export function setupGroupEvents(sock: WASocket, storage: StorageManager): void 
                     }
 
                     const memberInfo = getUserInfo(realJid, memberPushName);
+                    const rawNum = extractRawNumber(realJid);
 
                     const isAntiFakeActive = storage.data.antifake?.[chatId] === true || (!storage.isFeatureDisabled(chatId, 'antifake') && storage.data.antifake?.[chatId] !== false);
                     const joinIsPn = (realJid || '').endsWith('@s.whatsapp.net');
@@ -66,9 +71,15 @@ export function setupGroupEvents(sock: WASocket, storage: StorageManager): void 
                             const botNumClean = (sock.user?.id || '').split(':')[0].replace(/\D/g, '');
                             const botPart = groupMeta?.participants?.find((p: any) => ((p.id || '').split(':')[0].replace(/\D/g, '') === botNumClean));
                             if (botPart?.admin === 'admin' || botPart?.admin === 'superadmin') {
-                                await sock.groupParticipantsUpdate(chatId, [newMemberId], 'remove').catch(() => {});
-                                await sock.sendMessage(chatId, { text: '🛡️ *ANTI-FAKE* 🛡️\n\n👤 *Removido:* ' + memberInfo.nameAndNumber + '\n📱 *DDI:* +' + pnDigits + '\n📝 *Motivo:* número estrangeiro (apenas +55).', mentions: [memberInfo.jid] });
-                                continue;
+                                let removed = false;
+                                try {
+                                    await sock.groupParticipantsUpdate(chatId, [newMemberId], 'remove');
+                                    removed = true;
+                                } catch (e) { }
+                                if (removed) {
+                                    await sock.sendMessage(chatId, { text: '🛡️ *ANTI-FAKE* 🛡️\n\n👤 *Removido:* ' + memberInfo.smartMention + '\n📱 *DDI:* +' + pnDigits + '\n📝 *Motivo:* número estrangeiro (apenas +55).', mentions: [memberInfo.mentionJid, memberInfo.jid, newMemberId, realJid].filter(Boolean) });
+                                    continue;
+                                }
                             }
                         } catch (e) { }
                     }
@@ -84,27 +95,36 @@ export function setupGroupEvents(sock: WASocket, storage: StorageManager): void 
                         continue;
                     }
 
+                    const bday = storage.data.birthdays?.[chatId]?.[rawNum];
+                    if (bday) {
+                        const today = new Date().toLocaleDateString('pt-BR', { day: '2-digit', month: '2-digit' });
+                        if (bday === today) {
+                            await sock.sendMessage(chatId, {
+                                text: '🎂🎉 *FELIZ ANIVERSÁRIO!* 🎉\n\nHoje é o dia de ' + memberInfo.smartMention + '! Parabéns! 🥳🎈',
+                                mentions: [memberInfo.mentionJid, memberInfo.jid]
+                            });
+                        }
+                    }
+
                     if (!storage.isFeatureDisabled(chatId, 'sa')) {
                         const savedWelcomeText = storage.data.welcomeMsgs?.[chatId]?.text?.trim();
                         const defaultWelcome = 'Seja muito bem-vindo(a) ao grupo!';
                         let userText = savedWelcomeText || defaultWelcome;
 
-                        const numeroReal = extractRawNumber(realJid);
-                        const memberMentionJid = numeroReal + '@s.whatsapp.net';
                         const memberName = memberInfo.pushName || memberInfo.formattedNum;
                         const groupTitle = groupMeta?.subject || 'nosso grupo';
                         let processedText = userText.replace(/\{grupo\}/gi, groupTitle);
 
                         const hasMemberVariable = /\{membro\}/i.test(processedText);
                         processedText = processedText
-                            .replace(/\{membro\}/gi, '@' + numeroReal)
+                            .replace(/\{membro\}/gi, memberInfo.smartMention)
                             .replace(/\{nome\}/gi, memberName)
                             .replace(/\{numero\}/gi, memberInfo.formattedNum);
 
                         const finalMsg = hasMemberVariable
                             ? processedText
-                            : processedText + '\n\n👋 @' + numeroReal;
-                        const allMentions = Array.from(new Set([memberMentionJid, memberInfo.jid, newMemberId, realJid])).filter(Boolean);
+                            : processedText + '\n\n👋 ' + memberInfo.smartMention;
+                        const allMentions = Array.from(new Set([memberInfo.mentionJid, memberInfo.jid, newMemberId, realJid])).filter(Boolean);
                         await sock.sendMessage(chatId, { text: finalMsg, mentions: allMentions });
                     }
 
@@ -135,19 +155,48 @@ export function setupGroupEvents(sock: WASocket, storage: StorageManager): void 
                             const _botNum = (sock.user?.id || '').split(':')[0].replace(/\D/g, '');
                             const _botPart = groupMeta?.participants?.find((pp: any) => ((pp.id || '').split(':')[0].replace(/\D/g, '') === _botNum));
                             if (_botPart?.admin === 'admin' || _botPart?.admin === 'superadmin') {
+                                let removed = false;
                                 try {
-                                    await sock.groupParticipantsUpdate(chatId, [newMemberId], 'remove').catch(() => {});
+                                    await sock.groupParticipantsUpdate(chatId, [newMemberId], 'remove');
+                                    removed = true;
                                     const _remMsg = storage.data.removalMsgs?.[chatId]?.text;
                                     const _info = getUserInfo(newMemberId);
                                     await sock.sendMessage(chatId, {
-                                        text: (_remMsg || '🛡️ *ANTI-FAKE (LID ESTRANGEIRO)*\n\n👤 Removido: ' + _info.nameAndNumber + '\n📝 Motivo: identificador oculto.')
-                                            .replace(/\{membro\}/gi, _info.nameAndNumber),
-                                        mentions: [_info.jid]
+                                        text: (_remMsg || '🛡️ *ANTI-FAKE (LID ESTRANGEIRO)*\n\n👤 Removido: ' + _info.smartMention + '\n📝 Motivo: identificador oculto.')
+                                            .replace(/\{membro\}/gi, _info.smartMention),
+                                        mentions: Array.from(new Set([_info.mentionJid, _info.jid, newMemberId, realJid])).filter(Boolean)
                                     });
                                 } catch (e) { }
-                                continue;
+                                if (removed) continue;
                             }
                         }
+
+                        const rawNum = extractRawNumber(realJid);
+                        if (storage.data.raidMode?.[chatId] !== false) {
+                            const isRaid = storage.detectRaid(chatId);
+                            if (isRaid && !storage.isGroupClosed(chatId)) {
+                                try {
+                                    await sock.groupSettingUpdate(chatId, 'announcement');
+                                    storage.setGroupClosed(chatId, true);
+                                    await sock.sendMessage(chatId, { text: '🚨 *RAID DETECTADO!* 🚨\n\n5+ entradas em 60 segundos. Grupo trancado automaticamente.\nUse `!abrir` para reabrir manualmente.' });
+                                    storage.logAdminAction(chatId, 'BOT', 'RAID-MODE: grupo trancado');
+                                } catch (e) { }
+                            }
+                        }
+
+                        if (storage.data.captcha?.[chatId] === true) {
+                            const code = String(Math.floor(1000 + Math.random() * 9000));
+                            if (!storage.data.pendingCaptcha) storage.data.pendingCaptcha = {};
+                            if (!storage.data.pendingCaptcha[chatId]) storage.data.pendingCaptcha[chatId] = {};
+                            storage.data.pendingCaptcha[chatId][rawNum] = { code, expires: Date.now() + 120000 };
+                            storage.flagSave();
+                            await sock.sendMessage(chatId, {
+                                text: '🔐 *VERIFICAÇÃO DE SEGURANÇA*\n\n' + memberInfo.smartMention + ', digite o código abaixo em até 2 minutos para permanecer no grupo:\n\n🔑 *' + code + '*',
+                                mentions: [memberInfo.mentionJid, memberInfo.jid]
+                            });
+                        }
+
+                        storage.logAdminAction(chatId, rawNum, 'ENTROU no grupo');
                     }
                 }
             }
@@ -155,7 +204,7 @@ export function setupGroupEvents(sock: WASocket, storage: StorageManager): void 
             if (action === 'remove') {
                 for (const leftMemberId of participants) {
                     const rawNum = extractRawNumber(leftMemberId);
-                    const realJid = rawNum + '@s.whatsapp.net';
+                    const realJid = leftMemberId.includes('@') ? leftMemberId : rawNum + '@s.whatsapp.net';
                     const memberInfo = getUserInfo(leftMemberId);
 
                     if (storage.data.queuedWelcomes?.[chatId]) {
@@ -171,17 +220,17 @@ export function setupGroupEvents(sock: WASocket, storage: StorageManager): void 
                     }
 
                     const isRemovedByAdmin = author && author !== leftMemberId && author !== realJid;
-                    const nameAndNum = memberInfo.mention;
-                    const allMentions = Array.from(new Set([memberInfo.jid, leftMemberId, realJid])).filter(Boolean);
+                    const allMentions = Array.from(new Set([memberInfo.mentionJid, memberInfo.jid, leftMemberId, realJid])).filter(Boolean);
+                    storage.logAdminAction(chatId, extractRawNumber(leftMemberId), isRemovedByAdmin ? 'REMOVIDO por admin' : 'SAIU do grupo');
 
                     if (isRemovedByAdmin) {
                         // Mensagem de remoção PERSONALIZÁVEL via !msgremoveadm (padrão: Nome - Número)
                         const removalCfg = storage.data.removalMsgs?.[chatId];
                         const removalText = removalCfg && removalCfg.text
                             ? removalCfg.text.replace(/\{membro\}/gi, memberInfo.mention)
-                            : 'Xiii, acho que o integrante ' + memberInfo.nameAndNumber + ' fez algo de errado, pois foi removido!';
+                            : 'Xiii, acho que o integrante ' + memberInfo.mention + ' fez algo de errado, pois foi removido!';
 
-                        await sock.sendMessage(chatId, { text: removalText, mentions: allMentions.includes(memberInfo.jid) ? allMentions : [...allMentions, memberInfo.jid] });
+                        await sock.sendMessage(chatId, { text: removalText, mentions: [memberInfo.mentionJid] });
                     } else if (!storage.isFeatureDisabled(chatId, 'exit') && !storage.isGroupClosed(chatId)) {
                         const exitConfig = storage.data.exitMsgs ? storage.data.exitMsgs[chatId] : null;
                         if (exitConfig && exitConfig.text) {
@@ -189,13 +238,13 @@ export function setupGroupEvents(sock: WASocket, storage: StorageManager): void 
                             let finalMsg = '';
 
                             if (userText.includes('{membro}')) {
-                                finalMsg = userText.replace(/\{membro\}/gi, memberInfo.mention);
+                                finalMsg = userText.replace(/\{membro\}/gi, memberInfo.smartMention);
                             } else if (userText.includes('{nome}')) {
                                 finalMsg = userText.replace(/\{nome\}/gi, memberInfo.pushName || memberInfo.formattedNum);
                             } else if (userText.includes('{numero}')) {
                                 finalMsg = userText.replace(/\{numero\}/gi, memberInfo.formattedNum);
                             } else {
-                                finalMsg = userText + '\n\n👋 ' + memberInfo.mention;
+                                finalMsg = userText + '\n\n👋 ' + memberInfo.smartMention;
                             }
 
                             await sock.sendMessage(chatId, { text: finalMsg, mentions: allMentions.includes(memberInfo.jid) ? allMentions : [...allMentions, memberInfo.jid] });

@@ -12,7 +12,8 @@ import { fetchFootballData } from '../services/football';
 import { fetchWikipedia } from '../services/wikipedia';
 import { imageToStickerBuffer, stickerToImageBuffer } from '../utils/sticker';
 import { getUserInfo, updateLidMapping, extractRawNumber, UserDisplayInfo, lidMap, contactCache } from '../utils/user';
-import { generateNglCard } from '../services/nglCard';
+import { generateNglCard, generateProfileCard, generateMemeCard, generateQuoteCard, generateTextSticker } from '../services/nglCard';
+import { downloadMedia, getYoutubeInfo, translateText, defineWord, removeBackground, fetchLiveMatches } from '../services/media';
 import { getHHMM, isWithinWindow } from '../utils/time';
 import axios from 'axios';
 import { searchYouTube, getAudioBuffer, getVideoBuffer } from '../services/ytDownloader';
@@ -21,6 +22,31 @@ const stickerHistory: Record<string, number[]> = {};
 const musicCooldowns: Record<string, number> = {};
 const aiCooldowns: Record<string, Record<string, number>> = {};
 const lastAdminResponse = new Map<string, number>();
+const DDI_COUNTRIES: Record<string, string> = {
+    '246': 'Diego Garcia', '993': 'Turcomenistão', '682': 'Ilhas Cook', '351': 'Portugal',
+    '256': 'Uganda', '252': 'Somália', '243': 'RD Congo', '240': 'Guiné Equatorial',
+    '237': 'Camarões', '234': 'Nigéria', '93': 'Afeganistão', '92': 'Paquistão',
+    '91': 'Índia', '90': 'Turquia', '86': 'China', '81': 'Japão', '64': 'Nova Zelândia',
+    '62': 'Indonésia', '58': 'Venezuela', '54': 'Argentina', '53': 'Cuba', '49': 'Alemanha',
+    '47': 'Noruega', '44': 'Reino Unido', '39': 'Itália', '34': 'Espanha', '33': 'França',
+    '32': 'Bélgica', '27': 'África do Sul', '20': 'Egito', '7': 'Rússia',
+    '1': 'EUA/Canadá', '55': 'Brasil'
+};
+function ddiCountry(num: string): string {
+    const prefixes = Object.keys(DDI_COUNTRIES).sort((a, b) => b.length - a.length);
+    for (const prefix of prefixes) {
+        if (num.startsWith(prefix)) return DDI_COUNTRIES[prefix];
+    }
+    return 'Desconhecido';
+}
+function resolveTargetJid(msg: any, text: string): string {
+    const ctx = msg.message?.extendedTextMessage?.contextInfo;
+    if (ctx?.mentionedJid && ctx.mentionedJid[0]) return ctx.mentionedJid[0];
+    if (ctx?.participant) return ctx.participant;
+    const m = text.match(/@(\d{6,})/);
+    if (m) return m[1] + '@s.whatsapp.net';
+    return '';
+}
 function levenshteinDistance(a: string, b: string): number {
     const matrix: number[][] = [];
     for (let i = 0; i <= b.length; i++) matrix[i] = [i];
@@ -90,6 +116,18 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
         await sock.sendMessage(chatId, { text: '⚠️ *Bot em modo offline (MANUTENÇÃO)*\n\nO BOT DROPHTTP foi temporariamente desativado para manutenção.\n_Use `!botmanutencao off` para voltar ao normal._' });
         return;
     }
+    if (!isGroup && !key.fromMe) {
+        const creatorNum = '5511927018683';
+        if (userInfo.number === creatorNum && storage.data.activeTicket && text && !text.startsWith('!')) {
+            try { await sock.sendMessage(storage.data.activeTicket.userJid, { text: '🎫 *SUPORTE:*\n' + text }); } catch (e) { }
+            return;
+        }
+        const businessHours = storage.data.businessHours;
+        if (businessHours && text && !text.startsWith('!') && !isWithinWindow(businessHours.open, businessHours.close, getHHMM())) {
+            await sock.sendMessage(chatId, { text: businessHours.msg + '\n\n🕐 Atendimento: ' + businessHours.open + ' às ' + businessHours.close + '.' }).catch(() => {});
+            return;
+        }
+    }
     if (state && state.mode === 'inativos_confirm_removal') {
         const answer = textLower.trim();
         const isYes = ['sim', '1', 's', 'yes', 'si'].includes(answer);
@@ -109,7 +147,8 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
             try {
                 await sock.groupParticipantsUpdate(targetChat, [removeJid], 'remove');
                 removedCount++;
-                removedNames.push('• ' + u.mention);
+                removedNames.push('• ' + u.smartMention);
+                if (u.mentionJid) removedMentions.push(u.mentionJid);
                 if (u.jid) removedMentions.push(u.jid);
                 await new Promise(r => setTimeout(r, 600));
             } catch (e: any) { console.error('[ERRO REMOVER INATIVO]', e.message); }
@@ -267,42 +306,120 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
             return;
         }
     }
-    const isAdminQuery = /(quem\s+(é|eh|sao|são)\s+(os|o)?\s*(admin|admins|administrador|administradores|adm|adms)|quem\s+manda|admins\s+do\s+grupo|administradores\s+do\s+grupo|marcar\s+adms|chama\s+os\s+adms)/i.test(textLower) || ['!admins', '!adms'].includes(firstWord);
-    if (isGroup && isAdminQuery && !storage.isFeatureDisabled(chatId, 'admins')) {
-        const lastTime = lastAdminResponse.get(chatId) || 0;
-        const now = Date.now();
-        if (now - lastTime < 10000) return;
-        try {
-            const groupMeta = await sock.groupMetadata(chatId);
-            const botIdClean = sock.user?.id ? sock.user.id.split(':')[0].replace(/\D/g, '') : '';
-            const botLidClean = (sock.user as any)?.lid ? (sock.user as any).lid.split(':')[0].replace(/\D/g, '') : '';
-            const admins = groupMeta.participants.filter(p => {
-                const isAdm = p.admin === 'admin' || p.admin === 'superadmin';
-                if (!isAdm) return false;
-                const pNum = p.id ? p.id.split('@')[0].split(':')[0].replace(/\D/g, '') : '';
-                const pLid = (p as any).lid ? (p as any).lid.split('@')[0].split(':')[0].replace(/\D/g, '') : '';
-                if (botIdClean && (checkMatch(botIdClean, pNum) || checkMatch(botIdClean, pLid))) return false;
-                if (botLidClean && (checkMatch(botLidClean, pNum) || checkMatch(botLidClean, pLid))) return false;
-                return true;
+    const wantsAdmins = firstWord === '!admins' || firstWord === '!adms' || (isGroup && textLower.includes('quem manda'));
+    if (wantsAdmins && isGroup) {
+        const roleNames: Record<string, string> = { '5': 'Super Admin', '4': 'Gestor', '3': 'Parceiro', '2': 'Admin' };
+        const meta = await sock.groupMetadata(chatId).catch(() => null);
+        const mentions: string[] = [];
+        let txt = '👑 *ADMINISTRADORES*\n\n📱 *Do WhatsApp:*\n';
+        if (meta) {
+            const wa = meta.participants.filter((p: any) => p.admin);
+            if (!wa.length) txt += '_nenhum_\n';
+            for (const p of wa) {
+                const i = getUserInfo(p.id);
+                txt += '• ' + i.smartMention + (p.admin === 'superadmin' ? ' (dono)' : '') + '\n';
+                if (i.mentionJid) mentions.push(i.mentionJid);
+            }
+        } else {
+            txt += '_não foi possível ler o grupo_\n';
+        }
+        txt += '\n🤖 *Do Bot (cadastrados):*\n';
+        let anyBot = false;
+        const usersDb = storage.data.users || {};
+        for (const num in usersDb) {
+            const lvl = parseInt(usersDb[num]);
+            if (!(lvl >= 2)) continue;
+            anyBot = true;
+            const inputJid = num.length > 15 ? num + '@lid' : num + '@s.whatsapp.net';
+            const i = getUserInfo(inputJid);
+            const inGroup = !!meta && meta.participants.some((p: any) => {
+                const pid = (p.id || '').split('@')[0].split(':')[0].replace(/\D/g, '');
+                const plid = (((p as any).lid || '') + '').split('@')[0].split(':')[0].replace(/\D/g, '');
+                return pid === num || plid === num || pid === i.number || plid === i.number;
             });
-            if (!admins || admins.length === 0) { await sock.sendMessage(chatId, { text: 'ℹ️ Nenhum administrador humano localizado.' }, { quoted: msg }); return; }
-            let adminReport = '🛡️ *ADMINISTRADORES DO GRUPO* 🛡️\n\n';
-            const mentionsArr: string[] = [];
-            admins.forEach((adm, idx) => {
-                const admInfo = getUserInfo(adm.id, adm.name || (adm as any).notify || '');
-                const isCreator = checkMatch('5511927018683', admInfo.number) || checkMatch(RBAC.superAdmin, admInfo.number);
-                const badge = isCreator || adm.admin === 'superadmin' ? '👑 Criador' : '⭐ Admin';
-                adminReport += (idx + 1) + 'º 👉 ' + admInfo.mention + ' — ' + badge + '\n';
-                if (admInfo.jid) mentionsArr.push(admInfo.jid);
-                if (adm.id) mentionsArr.push(adm.id);
-            });
-            adminReport += '\n_Total: ' + admins.length + ' admin(s)._';
-            lastAdminResponse.set(chatId, now);
-            await sock.sendMessage(chatId, { text: adminReport, mentions: Array.from(new Set(mentionsArr)) }, { quoted: msg });
-            return;
-        } catch (e: any) { console.error('[ERRO BUSCAR ADMINS]', e.message); }
+            if (inGroup) {
+                txt += '• ' + i.smartMention + ' (' + (roleNames[String(lvl)] || '') + ')\n';
+                if (i.mentionJid) mentions.push(i.mentionJid);
+            } else {
+                txt += '• ' + (i.pushName || i.formattedNum || '+' + num) + ' (' + (roleNames[String(lvl)] || '') + ') — _fora deste grupo_\n';
+            }
+        }
+        if (!anyBot) txt += '_nenhum_\n';
+        await sock.sendMessage(chatId, { text: txt, mentions: Array.from(new Set(mentions)) }, { quoted: msg });
+        return;
     }
     if (isGroup && !key.fromMe) {
+        if (text && Math.random() < 0.4) {
+            const gainedXp = 5 + Math.floor(Math.random() * 10);
+            const gainedCoins = 1 + Math.floor(Math.random() * 3);
+            const newXp = storage.addXp(chatId, userInfo.number, gainedXp);
+            storage.addCoins(chatId, userInfo.number, gainedCoins);
+            const newLevel = storage.getLevel(newXp);
+            const prevLevel = storage.getLevel(newXp - gainedXp);
+            if (newLevel > prevLevel) {
+                const role = storage.getRoleByLevel(newLevel);
+                await sock.sendMessage(chatId, {
+                    text: '🎉 *LEVEL UP!* ' + userInfo.smartMention + ' subiu para o *Nível ' + newLevel + '* (' + role + ')!',
+                    mentions: [userInfo.mentionJid, userInfo.jid]
+                }).catch(() => {});
+            }
+        }
+        if (text && !key.fromMe && text.trim().endsWith('?') && !text.startsWith('!') && storage.data.faqEnabled?.[chatId]) {
+            const last = storage.data.lastFaqAnswer?.[chatId] || 0;
+            if (Date.now() - last > 60000) {
+                storage.data.lastFaqAnswer[chatId] = Date.now();
+                storage.flagSave();
+                const answer = await callAI('Responda de forma curta e útil (máx 2 linhas) à pergunta do grupo: ' + text);
+                if (answer && !answer.toLowerCase().startsWith('erro')) {
+                    await sock.sendMessage(chatId, { text: '🤖 *FAQ:*\n' + answer, mentions: [userInfo.jid] }).catch(() => {});
+                }
+            }
+        }
+
+        const pc = storage.data.pendingCaptcha?.[chatId]?.[userInfo.number];
+        if (pc) {
+            if (Date.now() > pc.expires) {
+                delete storage.data.pendingCaptcha[chatId][userInfo.number];
+                storage.flagSave();
+                try {
+                    await sock.groupParticipantsUpdate(chatId, [sender], 'remove');
+                    await sock.sendMessage(chatId, { text: '⏰ ' + userInfo.smartMention + ' não respondeu o captcha a tempo. Removido.', mentions: [userInfo.mentionJid, userInfo.jid] });
+                } catch (e) { }
+                return;
+            }
+            if (text.trim() === pc.code) {
+                delete storage.data.pendingCaptcha[chatId][userInfo.number];
+                storage.flagSave();
+                await sock.sendMessage(chatId, { text: '✅ ' + userInfo.smartMention + ' verificado com sucesso! Bem-vindo(a)! 🎉', mentions: [userInfo.mentionJid, userInfo.jid] });
+                return;
+            }
+        }
+
+        if (storage.data.dailyQuota?.[chatId]) {
+            const roleQ = parseInt(getUserRole(userId, storage.data.users));
+            if (roleQ < 2) {
+                const q = storage.checkDailyQuota(chatId, userInfo.number);
+                if (!q.allowed) {
+                    try { await sock.sendMessage(chatId, { delete: key }); } catch (e) { }
+                    if (q.used === q.limit + 1) {
+                        await sock.sendMessage(chatId, { text: '🛑 ' + userInfo.smartMention + ', você atingiu o limite de *' + q.limit + ' mensagens/dia* neste grupo.', mentions: [userInfo.mentionJid, userInfo.jid] });
+                    }
+                    return;
+                }
+            }
+        }
+
+        if (storage.data.lockMedia?.[chatId] === true) {
+            const roleM = parseInt(getUserRole(userId, storage.data.users));
+            if (roleM < 2) {
+                const hasLockedMedia = !!(msg.message?.imageMessage || msg.message?.videoMessage || msg.message?.audioMessage || msg.message?.documentMessage || msg.message?.stickerMessage);
+                if (hasLockedMedia) {
+                    try { await sock.sendMessage(chatId, { delete: key }); } catch (e) { }
+                    return;
+                }
+            }
+        }
+
         const userRole = getUserRole(userId, storage.data.users);
         const isUserAdmin = parseInt(userRole) >= 2;
         if (!isUserAdmin) {
@@ -329,7 +446,7 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
                 return;
             }
 
-            const isFwdOn = storage.data.antiForward?.[chatId] === true;
+            const isFwdOn = !storage.isFeatureDisabled(chatId, 'antiforward');
             if (isFwdOn && !isAdmMod) {
                 const ctx: any = msg.message?.extendedTextMessage?.contextInfo || msg.message?.imageMessage?.contextInfo || msg.message?.videoMessage?.contextInfo || msg.message?.stickerMessage?.contextInfo;
                 const isForwarded = !!(ctx?.isForwarded) || (ctx?.forwardingScore || 0) > 0;
@@ -350,7 +467,7 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
                 }
             }
 
-            if (storage.data.antiStickerFlood?.[chatId] === true && !isAdmMod && msg.message?.stickerMessage) {
+            if (!storage.isFeatureDisabled(chatId, 'antistickerflood') && !isAdmMod && msg.message?.stickerMessage) {
                 const sk = chatId + '_' + userNumMod;
                 if (!stickerHistory[sk]) stickerHistory[sk] = [];
                 const nowS = Date.now();
@@ -371,7 +488,7 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
                     try { await sock.sendMessage(chatId, { delete: key }); } catch (e) { }
                     try {
                         await sock.groupParticipantsUpdate(chatId, [sender], 'remove');
-                        await sock.sendMessage(chatId, { text: '🚫 *ANTI-LINK (EXPULSÃO AUTOMÁTICA)* 🚫\n\n👤 ' + userInfo.mention + '\n📝 Envio de link não autorizado.', mentions: [userInfo.jid] });
+                        await sock.sendMessage(chatId, { text: '🚫 *ANTI-LINK (EXPULSÃO AUTOMÁTICA)* 🚫\n\n👤 ' + userInfo.smartMention + '\n📝 Envio de link não autorizado.', mentions: [userInfo.mentionJid, userInfo.jid] });
                         return;
                     } catch (errKick: any) { console.error('[ERRO KICK ANTI-LINK]', errKick.message); }
                 }
@@ -408,7 +525,7 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
                 if (audioBuffer) {
                     const transcript = await transcribeAudio(audioBuffer);
                     if (transcript && transcript.length > 3) {
-                        await sock.sendMessage(chatId, { text: '🎙️ *TRANSCRIÇÃO AUTOMÁTICA*\n👤 ' + userInfo.mention + '\n\n📝 "' + transcript + '"', mentions: [userInfo.jid] }, { quoted: msg });
+                        await sock.sendMessage(chatId, { text: '🎙️ *TRANSCRIÇÃO AUTOMÁTICA*\n👤 ' + userInfo.smartMention + '\n\n📝 "' + transcript + '"', mentions: [userInfo.mentionJid, userInfo.jid] }, { quoted: msg });
                     }
                 }
             } catch (e) { }
@@ -437,6 +554,24 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
             if (storage.data.chatHistory[chatId][dateStrLog].length > 500) storage.data.chatHistory[chatId][dateStrLog].shift();
         }
         storage.flagSave();
+    }
+    if (isGroup && !key.fromMe && userInfo.number && userInfo.number.length <= 13) {
+        if (!storage.data.firstMsgSeen) storage.data.firstMsgSeen = {};
+        if (!storage.data.firstMsgSeen[chatId]) storage.data.firstMsgSeen[chatId] = {};
+        if (!storage.data.firstMsgSeen[chatId][userInfo.number]) {
+            storage.data.firstMsgSeen[chatId][userInfo.number] = true;
+            storage.flagSave();
+            const pais = ddiCountry(userInfo.number);
+            const isBR = userInfo.number.startsWith('55');
+            await sock.sendMessage(chatId, {
+                text: '🌐 *PRIMEIRA MENSAGEM DETECTADA*\n\n👤 ' + userInfo.smartMention +
+                    '\n📍 Número registrado em: *' + pais + '* (DDI +' + userInfo.number.slice(0, 2) + ')' +
+                    '\n🌍 Origem: ' + (isBR ? '🇧🇷 Brasil' : '🌍 Exterior') +
+                    '\n🕐 Primeira msg no grupo: ' + new Date().toLocaleString('pt-BR') +
+                    '\n\n_(O WhatsApp não expõe a data de criação da conta nem a localização GPS real; mostramos o país de registro do número.)_',
+                mentions: [userInfo.mentionJid]
+            }).catch(() => {});
+        }
     }
     if (!text) return;
     if (key.fromMe && !text.startsWith('!')) return;
@@ -536,7 +671,7 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
                 if (transcript) {
                     const audioAuthor = targetMsg.key.participant || sender;
                     const authorInfo = getUserInfo(audioAuthor);
-                    await sock.sendMessage(chatId, { text: '🎙️ *TRANSCRIÇÃO*\n\n👤 ' + authorInfo.mention + '\n\n📝 "' + transcript + '"', mentions: [authorInfo.jid] }, { quoted: msg });
+                    await sock.sendMessage(chatId, { text: '🎙️ *TRANSCRIÇÃO*\n\n👤 ' + authorInfo.smartMention + '\n\n📝 "' + transcript + '"', mentions: [authorInfo.mentionJid, authorInfo.jid] }, { quoted: msg });
                 } else { await sock.sendMessage(chatId, { text: '❌ Áudio inaudível.' }, { quoted: msg }); }
             }
         } catch (e: any) { await sock.sendMessage(chatId, { text: '❌ Erro ao transcrever.' }, { quoted: msg }); }
@@ -615,11 +750,11 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
                         await sock.groupParticipantsUpdate(chatId, [target.id], 'remove');
                         removedCount++;
                         const info = getUserInfo(target.id, target.name || (target as any).notify || '');
-                        removedNames.push('• ' + info.mention);
+                        removedNames.push('• ' + info.smartMention);
                         await new Promise(r => setTimeout(r, 600));
                     } catch (errRemove: any) { console.error('[ERRO REMOVER FAKE]', errRemove.message); }
                 }
-                await sock.sendMessage(chatId, { text: '🛡️ *VARREDURA ANTI-FAKE*\n\n📊 Removidos: ' + removedCount + '\n\n' + (removedNames.slice(0, 20).join('\n') || '_Nenhum removido._'), mentions: foreignList.map(target => getUserInfo(target.id).jid).filter(Boolean) });
+                await sock.sendMessage(chatId, { text: '🛡️ *VARREDURA ANTI-FAKE*\n\n📊 Removidos: ' + removedCount + '\n\n' + (removedNames.slice(0, 20).join('\n') || '_Nenhum removido._'), mentions: foreignList.flatMap(target => { const info = getUserInfo(target.id); return [info.mentionJid, info.jid]; }).filter(Boolean) });
             } catch (errSweep: any) { await sock.sendMessage(chatId, { text: '❌ Erro na varredura.' }); }
             return;
         }
@@ -750,10 +885,7 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
         return;
     }
     if (textLower === '!id') {
-        const contextInfo = msg.message?.extendedTextMessage?.contextInfo;
-        const mentioned = contextInfo?.mentionedJid?.[0] || "";
-        const quoted = contextInfo?.participant || "";
-        const target = mentioned || quoted || sender;
+        const target = resolveTargetJid(msg, text) || sender;
         const info = getUserInfo(target, target === sender ? pushNameRaw : "");
         const role = getUserRole(info.number || userId, storage.data.users);
         const roleNames: Record<string, string> = {
@@ -800,7 +932,7 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
                 storage.data.users[targetId] = targetRole;
                 storage.flagSave();
                 const targetInfo = getUserInfo(targetId + '@s.whatsapp.net');
-                await sock.sendMessage(chatId, { text: '✅ ' + targetInfo.mention + ' agora é Nível ' + targetRole, mentions: [targetInfo.jid] });
+                await sock.sendMessage(chatId, { text: '✅ ' + targetInfo.smartMention + ' agora é Nível ' + targetRole, mentions: [targetInfo.mentionJid, targetInfo.jid] });
                 return;
             }
         }
@@ -826,7 +958,7 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
         delete storage.data.states[userId];
         storage.flagSave();
         const targetInfo = getUserInfo(targetId + '@s.whatsapp.net');
-        await sock.sendMessage(chatId, { text: '✅ ' + targetInfo.mention + ' cadastrado como Nível ' + targetRole, mentions: [targetInfo.jid] });
+        await sock.sendMessage(chatId, { text: '✅ ' + targetInfo.smartMention + ' cadastrado como Nível ' + targetRole, mentions: [targetInfo.mentionJid, targetInfo.jid] });
         return;
     }
     if (textLower === '!remover') {
@@ -846,21 +978,19 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
         if (foundKey) delete storage.data.users[foundKey];
         delete storage.data.states[userId];
         storage.flagSave();
-        await sock.sendMessage(chatId, { text: '✅ ' + targetInfo.mention + ' removido.', mentions: [targetInfo.jid] });
+        await sock.sendMessage(chatId, { text: '✅ ' + targetInfo.smartMention + ' removido.', mentions: [targetInfo.mentionJid, targetInfo.jid] });
         return;
     }
     if (['!warn', '!advertir', '!warns', '!advertencias', '!unwarn'].includes(firstWord)) {
         if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
         if (!storage.data.warnings[chatId]) storage.data.warnings[chatId] = {};
-        const contextInfo = msg.message?.extendedTextMessage?.contextInfo;
-        const mentioned = text.match(/@(\d+)/)?.[1];
-        const targetJid = contextInfo?.participant || (mentioned ? mentioned + '@s.whatsapp.net' : '');
+        const targetJid = resolveTargetJid(msg, text);
         const targetNum = targetJid ? extractRawNumber(targetJid) : userInfo.number;
         const targetInfo = getUserInfo(targetJid || sender);
         if (firstWord === '!warns' || firstWord === '!advertencias') {
             const warns = storage.data.warnings[chatId][targetNum] || 0;
             const limit = storage.data.maxWarnings[chatId] || 3;
-            await sock.sendMessage(chatId, { text: '⚠️ ' + targetInfo.mention + ' — ' + warns + '/' + limit, mentions: [targetInfo.jid] });
+            await sock.sendMessage(chatId, { text: '⚠️ ' + targetInfo.smartMention + ' — ' + warns + '/' + limit, mentions: [targetInfo.mentionJid, targetInfo.jid] });
             return;
         }
         if (firstWord === '!unwarn') {
@@ -868,7 +998,7 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
             if (storage.data.warnings[chatId][targetNum] && storage.data.warnings[chatId][targetNum] > 0) {
                 storage.data.warnings[chatId][targetNum]--;
                 storage.flagSave();
-                await sock.sendMessage(chatId, { text: '✅ Advertência removida de ' + targetInfo.mention, mentions: [targetInfo.jid] });
+                await sock.sendMessage(chatId, { text: '✅ Advertência removida de ' + targetInfo.smartMention, mentions: [targetInfo.mentionJid, targetInfo.jid] });
                 return;
             }
             await sock.sendMessage(chatId, { text: 'ℹ️ Sem advertências.' });
@@ -885,9 +1015,7 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
         if (!isGroup) return;
         const userRole = parseInt(getUserRole(userId, storage.data.users));
         if (userRole < 2) { await sock.sendMessage(chatId, { text: '❌ Apenas administradores.' }, { quoted: msg }); return; }
-        const contextInfo = msg.message?.extendedTextMessage?.contextInfo;
-        const mentioned = text.match(/@(\d+)/)?.[1];
-        const targetJid = contextInfo?.participant || (mentioned ? mentioned + '@s.whatsapp.net' : '');
+        const targetJid = resolveTargetJid(msg, text);
         if (!targetJid) { await sock.sendMessage(chatId, { text: '❌ Marque o membro.' }, { quoted: msg }); return; }
         try {
             const groupMeta = await sock.groupMetadata(chatId);
@@ -899,12 +1027,12 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
             const customRemoval = storage.data.removalMsgs?.[chatId]?.text;
             if (customRemoval) {
                 const finalText = customRemoval
-                    .replace(/\{membro\}/gi, targetInfo.mention)
+                    .replace(/\{membro\}/gi, targetInfo.smartMention)
                     .replace(/\{nome\}/gi, targetInfo.pushName || targetInfo.formattedNum)
                     .replace(/\{numero\}/gi, targetInfo.formattedNum);
-                await sock.sendMessage(chatId, { text: finalText, mentions: [targetInfo.jid] });
+                await sock.sendMessage(chatId, { text: finalText, mentions: [targetInfo.mentionJid, targetInfo.jid] });
             } else {
-                await sock.sendMessage(chatId, { text: '🚫 ' + targetInfo.mention + ' foi removido.', mentions: [targetInfo.jid] });
+                await sock.sendMessage(chatId, { text: '🚫 ' + targetInfo.smartMention + ' foi removido.', mentions: [targetInfo.mentionJid, targetInfo.jid] });
             }
         } catch (e: any) { await sock.sendMessage(chatId, { text: '❌ Não foi possível remover.' }); }
         return;
@@ -918,9 +1046,9 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
         let rankMsg = '🏆 *RANKING*\n\n';
         sorted.forEach((num, i) => {
             const uInfo = getUserInfo(num + '@s.whatsapp.net', storage.data.cache?.names?.[num] || '');
-            rankMsg += medals[i] + ' ' + uInfo.mention + ' — ' + stats[num].total + ' msgs\n';
+            rankMsg += medals[i] + ' ' + uInfo.smartMention + ' — ' + stats[num].total + ' msgs\n';
         });
-        await sock.sendMessage(chatId, { text: rankMsg, mentions: sorted.map(num => getUserInfo(num + '@s.whatsapp.net', storage.data.cache?.names?.[num] || '').jid).filter(Boolean) });
+        await sock.sendMessage(chatId, { text: rankMsg, mentions: sorted.flatMap(num => { const info = getUserInfo(num + '@s.whatsapp.net', storage.data.cache?.names?.[num] || ''); return [info.mentionJid, info.jid]; }).filter(Boolean) });
         return;
     }
     if (textLower === '!m') {
@@ -934,7 +1062,8 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
             const s = stats[authorNum];
             const cachedName = storage.data.cache?.names?.[authorNum] || '';
             const uInfo = getUserInfo(authorNum + '@s.whatsapp.net', cachedName);
-            report += (index + 1) + 'º ' + uInfo.mention + ' — ' + s.total + ' msg(s)\n';
+            report += (index + 1) + 'º ' + uInfo.smartMention + ' — ' + s.total + ' msg(s)\n';
+            if (uInfo.mentionJid) mentionsArr.push(uInfo.mentionJid);
             if (uInfo.jid) mentionsArr.push(uInfo.jid);
         });
         await sock.sendMessage(chatId, { text: report, mentions: mentionsArr });
@@ -1050,8 +1179,8 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
             storage.data.states[userId] = { mode: 'inativos_confirm_removal', targetChat: chatId, inactiveList: inactiveList, date: Date.now() };
             storage.flagSave();
             let listReport = '👻 *INATIVOS (' + inactiveList.length + ')* 👻\n\n🏢 ' + groupMeta.subject + '\n\n';
-            const inactiveMentions = inactiveList.map(u => u.jid).filter(Boolean);
-            inactiveList.forEach((u, idx) => { listReport += (idx + 1) + ' - ' + u.mention + '\n'; });
+            const inactiveMentions = inactiveList.flatMap(u => [u.mentionJid, u.jid]).filter(Boolean);
+            inactiveList.forEach((u, idx) => { listReport += (idx + 1) + ' - ' + u.smartMention + '\n'; });
             listReport += '\n⚠️ *Remover todos?*\n\nResponda: *SIM* (1) ou *NÃO* (2)';
             await sock.sendMessage(chatId, { text: listReport, mentions: inactiveMentions }, { quoted: msg });
         } catch (e: any) {
@@ -1098,9 +1227,7 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
         return;
     }
     if (firstWord === '!anonimo' || firstWord === '!correio') {
-        const contextInfo = msg.message?.extendedTextMessage?.contextInfo;
-        let receiverJid = contextInfo?.mentionedJid?.[0] || '';
-        if (!receiverJid) { const mm = text.match(/@(\d+)/); if (mm) receiverJid = mm[1] + '@s.whatsapp.net'; }
+        const receiverJid = resolveTargetJid(msg, text);
         if (!receiverJid) { await sock.sendMessage(chatId, { text: '🎭 *CORREIO ANÔNIMO*\n\n`!anonimo @pessoa mensagem`\n\n🌐 Ou pela página: `!linkcorreio`' }, { quoted: msg }); return; }
         if (receiverJid === sender) { await sock.sendMessage(chatId, { text: '❌ Não pode enviar para si mesmo.' }, { quoted: msg }); return; }
         const anonText = text.replace(firstWord, '').replace(/@\d+/, '').trim();
@@ -1112,7 +1239,7 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
         storage.flagSave();
         try {
             await sock.sendMessage(receiverJid, { text: '🎭 ━ *CORREIO ANÔNIMO* ━ \n\n💬 *"' + anonText + '"*\n\n🕵️ *Remetente:* _Alguém secreto_\n🔖 *ID:* #' + anonId + '\n\n━━━━━━━━━━\n↩️ Responder: `!responder ' + anonId + ' sua resposta`' });
-            await sock.sendMessage(chatId, { text: '💌 *Correio enviado!*\n📮 Para: ' + receiverInfo.mention + '\n🔖 #' + anonId, mentions: [receiverInfo.jid] }, { quoted: msg });
+            await sock.sendMessage(chatId, { text: '💌 *Correio enviado!*\n📮 Para: ' + receiverInfo.smartMention + '\n🔖 #' + anonId, mentions: [receiverInfo.mentionJid, receiverInfo.jid] }, { quoted: msg });
         } catch (e) { await sock.sendMessage(chatId, { text: '❌ Não foi possível entregar.' }, { quoted: msg }); return; }
         const adminGroup = storage.data.cache?.adminGroupId;
         if (adminGroup) {
@@ -1120,7 +1247,7 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
                 const timeStr = new Date().toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' });
                 const footer = '📱 ' + userInfo.formattedNum + '   •   🕒 ' + timeStr;
                 const card = await generateNglCard(anonText, footer);
-                await sock.sendMessage(adminGroup, { image: card, caption: '🎭 *NOVO CORREIO ANÔNIMO*\n\n💬 "' + anonText + '"\n🕒 *Horário:* ' + timeStr + '\n👤 *Remetente:* ' + userInfo.mention, mentions: [userInfo.jid] });
+                await sock.sendMessage(adminGroup, { image: card, caption: '🎭 *NOVO CORREIO ANÔNIMO*\n\n💬 "' + anonText + '"\n🕒 *Horário:* ' + timeStr + '\n👤 *Remetente:* ' + userInfo.smartMention, mentions: [userInfo.mentionJid, userInfo.jid] });
             } catch (e) { console.error('[ERRO CARD NGL]', (e as any).message); }
         }
         return;
@@ -1340,12 +1467,6 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
         } catch (e) { await sock.sendMessage(chatId, { text: '❌ Cidade não encontrada.' }); }
         return;
     }
-    if (textLower === '!f') {
-        storage.data.states[userId] = { mode: 'football_menu' };
-        storage.flagSave();
-        await sock.sendMessage(chatId, { text: '⚽ *FUTEBOL*\n\n1 - Brasileirão A\n2 - Copa do Brasil\n3 - Libertadores\n4 - Paulistão\n5 - Champions', mentions: [userInfo.jid] });
-        return;
-    }
     if (state && state.mode === 'football_menu') {
         const champObj = FOOTBALL_CHAMPIONSHIPS[text];
         if (!champObj) return;
@@ -1518,97 +1639,19 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
         await sock.sendMessage(chatId, { text: '🎛️ *Bot de Música:* ' + (off ? '🔴 DESLIGADO' : '🟢 LIGADO') + '\n\n`!botmusica on` / `!botmusica off`' }, { quoted: msg });
         return;
     }
-    if (['!p', '!play', '!musica', '!v', '!video'].includes(firstWord)) {
-        if (storage.isMusicDisabled(chatId)) {
-            await sock.sendMessage(chatId, { text: '🔇 *Bot de Música DESLIGADO neste chat.*\nUse `!botmusica on` para reativar.' }, { quoted: msg });
-            return;
-        }
-        const lastUse = musicCooldowns[userId] || 0;
-        if (Date.now() - lastUse < 30000) {
-            const wait = Math.ceil((30000 - (Date.now() - lastUse)) / 1000);
-            await sock.sendMessage(chatId, { text: '⏳ Aguarde ' + wait + 's antes de baixar outra música.' }, { quoted: msg });
-            return;
-        }
-        let query = '';
-        if (text.includes('+')) query = text.slice(text.indexOf('+') + 1).trim();
-        else query = text.slice(firstWord.length).trim();
-        if (!query) {
-            await sock.sendMessage(chatId, { text: '⚠️ *Use:*\n`!p nome da música`\n`!v nome do vídeo`\n`!p https://youtube.com/watch?v=...`' }, { quoted: msg });
-            return;
-        }
-        const isVideo = ['!v', '!video'].includes(firstWord);
-        if (query.startsWith('http://') || query.startsWith('https://')) {
-            musicCooldowns[userId] = Date.now();
-            await sock.sendMessage(chatId, { text: '⏳ Baixando do link direto...' }, { quoted: msg });
-            try {
-                if (isVideo) {
-                    const buf = await getVideoBuffer(query);
-                    await sock.sendMessage(chatId, { video: buf, mimetype: 'video/mp4', caption: '🎬 Vídeo baixado com sucesso' });
-                } else {
-                    const buf = await getAudioBuffer(query);
-                    await sock.sendMessage(chatId, { audio: buf, mimetype: 'audio/mpeg', ptt: false });
-                }
-            } catch (e: any) {
-                await sock.sendMessage(chatId, { text: '❌ Erro: ' + (e.message || 'link inválido') }, { quoted: msg });
-            }
-            return;
-        }
-        try {
-            await sock.sendMessage(chatId, { text: '🔎 *Buscando no YouTube:* _' + query + '_...' }, { quoted: msg });
-            const results = await searchYouTube(query, 15);
-            if (!results || results.length === 0) {
-                await sock.sendMessage(chatId, { text: '❌ Nenhum resultado encontrado.' }, { quoted: msg });
-                return;
-            }
-            let menu = '🔎 *RESULTADOS (1-' + results.length + ')*\n📝 _' + query + '_\n\n';
-            const emojis = ['1️⃣','2️⃣','3️⃣','4️⃣','5️⃣','6️⃣','7️⃣','8️⃣','9️⃣','🔟','1️⃣1️⃣','1️⃣2️⃣','1️⃣3️⃣','1️⃣4️⃣','1️⃣5️⃣'];
-            results.forEach((r: any, i: number) => {
-                menu += (emojis[i] || '*' + (i + 1) + '*') + ' - ' + r.title + ' _(' + r.duration + ')_\n\n';
-            });
-            menu += '⏱️ *Responda com o NÚMERO (1-' + results.length + ') para baixar.*\n`!cancelar` para cancelar.';
-            storage.data.states[userId] = { mode: 'music_selection', options: results, mediaType: isVideo ? 'video' : 'audio', chatId: chatId };
-            storage.flagSave();
-            await sock.sendMessage(chatId, { text: menu }, { quoted: msg });
-        } catch (e: any) {
-            console.error('[YT SEARCH ERR]', e.message);
-            await sock.sendMessage(chatId, { text: '❌ Erro na busca do YouTube.' }, { quoted: msg });
-        }
-        return;
-    }
-    if (['!pp', '!playlist'].includes(firstWord)) {
-        if (storage.isMusicDisabled(chatId)) {
-            await sock.sendMessage(chatId, { text: '🔇 Bot de Música DESLIGADO.' }, { quoted: msg });
-            return;
-        }
-        const link = text.slice(firstWord.length).trim();
-        if (!link || !link.startsWith('http')) {
-            await sock.sendMessage(chatId, { text: '⚠️ Envie o link da playlist:\n`!pp https://youtube.com/playlist?list=...`' }, { quoted: msg });
-            return;
-        }
-        musicCooldowns[userId] = Date.now();
-        await sock.sendMessage(chatId, { text: '⏳ Processando primeira faixa da playlist...' }, { quoted: msg });
-        try {
-            const buf = await getAudioBuffer(link);
-            await sock.sendMessage(chatId, { audio: buf, mimetype: 'audio/mpeg', ptt: false });
-        } catch (e: any) {
-            await sock.sendMessage(chatId, { text: '❌ Erro ao processar playlist.' }, { quoted: msg });
-        }
-        return;
-    }
     if (firstWord === '!mute' || firstWord === '!unmute') {
         if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
         if (parseInt(getUserRole(userId, storage.data.users)) < 2) { await sock.sendMessage(chatId, { text: '❌ Apenas administradores.' }, { quoted: msg }); return; }
-        const ctxI = msg.message?.extendedTextMessage?.contextInfo;
-        const tJid = ctxI?.participant || (text.match(/@(\d+)/)?.[1] ? text.match(/@(\d+)/)![1] + '@s.whatsapp.net' : '');
+        const tJid = resolveTargetJid(msg, text);
         if (!tJid) { await sock.sendMessage(chatId, { text: '❌ Marque o membro.' }, { quoted: msg }); return; }
         const tNum = extractRawNumber(tJid);
         const tInfo = getUserInfo(tJid);
-        if (firstWord === '!unmute') { storage.clearMute(chatId, tNum); await sock.sendMessage(chatId, { text: '🔊 ' + tInfo.nameAndNumber + ' desmutado.', mentions: [tInfo.jid] }, { quoted: msg }); return; }
+        if (firstWord === '!unmute') { storage.clearMute(chatId, tNum); await sock.sendMessage(chatId, { text: '🔊 ' + tInfo.smartMention + ' desmutado.', mentions: [tInfo.mentionJid, tInfo.jid] }, { quoted: msg }); return; }
         const durMatch = text.match(/(\d+)\s*(m|min|h|hr|s)?/i);
         let ms = 10 * 60 * 1000;
         if (durMatch) { const v = parseInt(durMatch[1]); const u = (durMatch[2] || 'm').toLowerCase(); ms = u.startsWith('h') ? v * 3600000 : u.startsWith('s') ? v * 1000 : v * 60000; }
         storage.setMute(chatId, tNum, ms);
-        await sock.sendMessage(chatId, { text: '🔇 ' + tInfo.nameAndNumber + ' mutado por ' + Math.round(ms / 60000) + ' min.', mentions: [tInfo.jid] }, { quoted: msg });
+        await sock.sendMessage(chatId, { text: '🔇 ' + tInfo.smartMention + ' mutado por ' + Math.round(ms / 60000) + ' min.', mentions: [tInfo.mentionJid, tInfo.jid] }, { quoted: msg });
         return;
     }
     if (firstWord === '!blacklist') {
@@ -1637,10 +1680,723 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
         if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
         if (parseInt(getUserRole(userId, storage.data.users)) < 2) { await sock.sendMessage(chatId, { text: '❌ Apenas administradores.' }, { quoted: msg }); return; }
         const on = !text.slice(firstWord.length).trim().toLowerCase().startsWith('off');
-        if (firstWord === '!antiforward') storage.data.antiForward[chatId] = on;
-        else storage.data.antiStickerFlood[chatId] = on;
-        storage.flagSave();
+        const featKey = firstWord === '!antiforward' ? 'antiforward' : 'antistickerflood';
+        storage.setFeatureStatus(chatId, featKey, on);
         await sock.sendMessage(chatId, { text: (on ? '🟢' : '🔴') + ' ' + firstWord + ' ' + (on ? 'ATIVADO' : 'DESATIVADO') }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!raidmode') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        if (parseInt(getUserRole(userId, storage.data.users)) < 2) { await sock.sendMessage(chatId, { text: '❌ Apenas administradores.' }, { quoted: msg }); return; }
+        const on = !text.slice(firstWord.length).trim().toLowerCase().startsWith('off');
+        storage.data.raidMode[chatId] = on;
+        storage.flagSave();
+        storage.logAdminAction(chatId, userInfo.number, 'raidmode ' + (on ? 'ON' : 'OFF'));
+        await sock.sendMessage(chatId, { text: (on ? '🟢' : '🔴') + ' *Raid-Mode:* ' + (on ? 'ATIVADO (5+ entradas/min → grupo tranca)' : 'DESATIVADO') }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!captcha') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        if (parseInt(getUserRole(userId, storage.data.users)) < 2) { await sock.sendMessage(chatId, { text: '❌ Apenas administradores.' }, { quoted: msg }); return; }
+        const on = !text.slice(firstWord.length).trim().toLowerCase().startsWith('off');
+        storage.data.captcha[chatId] = on;
+        storage.flagSave();
+        storage.logAdminAction(chatId, userInfo.number, 'captcha ' + (on ? 'ON' : 'OFF'));
+        await sock.sendMessage(chatId, { text: (on ? '🟢' : '🔴') + ' *Captcha:* ' + (on ? 'ATIVADO (novo membro digita código em 2min)' : 'DESATIVADO') }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!autoaprovar') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        if (parseInt(getUserRole(userId, storage.data.users)) < 2) { await sock.sendMessage(chatId, { text: '❌ Apenas administradores.' }, { quoted: msg }); return; }
+        const on = !text.slice(firstWord.length).trim().toLowerCase().startsWith('off');
+        storage.data.autoApprove[chatId] = on;
+        storage.flagSave();
+        storage.logAdminAction(chatId, userInfo.number, 'autoaprovar ' + (on ? 'ON' : 'OFF'));
+        await sock.sendMessage(chatId, { text: (on ? '🟢' : '🔴') + ' *Auto-Aprovar:* ' + (on ? 'ATIVADO (solicitações aceitas automaticamente)' : 'DESATIVADO') }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!cota') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        if (parseInt(getUserRole(userId, storage.data.users)) < 2) { await sock.sendMessage(chatId, { text: '❌ Apenas administradores.' }, { quoted: msg }); return; }
+        const arg = text.slice(firstWord.length).trim().toLowerCase();
+        if (arg === 'off') {
+            delete storage.data.dailyQuota[chatId];
+            storage.flagSave();
+            await sock.sendMessage(chatId, { text: '🔴 *Cota diária:* DESATIVADA' }, { quoted: msg });
+            return;
+        }
+        const num = parseInt(arg);
+        if (!num || num < 1) { await sock.sendMessage(chatId, { text: '❌ *Uso:* `!cota 50` ou `!cota off`' }, { quoted: msg }); return; }
+        storage.data.dailyQuota[chatId] = num;
+        storage.flagSave();
+        storage.logAdminAction(chatId, userInfo.number, 'cota ' + num);
+        await sock.sendMessage(chatId, { text: '🟢 *Cota diária:* ' + num + ' mensagens/dia por membro.' }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!autoremove') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        if (parseInt(getUserRole(userId, storage.data.users)) < 2) { await sock.sendMessage(chatId, { text: '❌ Apenas administradores.' }, { quoted: msg }); return; }
+        const arg = text.slice(firstWord.length).trim().toLowerCase();
+        if (arg === 'off') {
+            delete storage.data.autoRemoveInactive[chatId];
+            storage.flagSave();
+            await sock.sendMessage(chatId, { text: '🔴 *Auto-remove inativos:* DESATIVADO' }, { quoted: msg });
+            return;
+        }
+        const dias = parseInt(arg);
+        if (!dias || dias < 1) { await sock.sendMessage(chatId, { text: '❌ *Uso:* `!autoremove 7` (dias) ou `!autoremove off`' }, { quoted: msg }); return; }
+        storage.data.autoRemoveInactive[chatId] = dias;
+        storage.flagSave();
+        storage.logAdminAction(chatId, userInfo.number, 'autoremove ' + dias + ' dias');
+        await sock.sendMessage(chatId, { text: '🟢 *Auto-remove:* membros inativos há *' + dias + ' dias* serão avisados e removidos.' }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!logadmin') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        if (parseInt(getUserRole(userId, storage.data.users)) < 2) { await sock.sendMessage(chatId, { text: '❌ Apenas administradores.' }, { quoted: msg }); return; }
+        const logs = storage.data.adminLog?.[chatId] || [];
+        if (!logs.length) { await sock.sendMessage(chatId, { text: '📋 Nenhum log registrado.' }, { quoted: msg }); return; }
+        const last20 = logs.slice(-20);
+        let logText = '📋 *LOG DE AÇÕES (últimos 20)*\n\n';
+        for (const l of last20) {
+            const d = new Date(l.ts);
+            const hh = d.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' });
+            const dd = d.toLocaleDateString('pt-BR');
+            logText += dd + ' ' + hh + ' — ' + l.admin + ': ' + l.action + (l.target ? ' → ' + l.target : '') + '\n';
+        }
+        await sock.sendMessage(chatId, { text: logText }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!lockmedia') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        if (parseInt(getUserRole(userId, storage.data.users)) < 2) { await sock.sendMessage(chatId, { text: '❌ Apenas administradores.' }, { quoted: msg }); return; }
+        const on = !text.slice(firstWord.length).trim().toLowerCase().startsWith('off');
+        storage.data.lockMedia[chatId] = on;
+        storage.flagSave();
+        storage.logAdminAction(chatId, userInfo.number, 'lockmedia ' + (on ? 'ON' : 'OFF'));
+        await sock.sendMessage(chatId, { text: (on ? '🟢' : '🔴') + ' *Lock Mídia:* ' + (on ? 'ATIVADO (apenas texto permitido)' : 'DESATIVADO') }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!purge') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        if (parseInt(getUserRole(userId, storage.data.users)) < 2) { await sock.sendMessage(chatId, { text: '❌ Apenas administradores.' }, { quoted: msg }); return; }
+        const arg = text.slice(firstWord.length).trim().toLowerCase();
+        if (arg === 'off') {
+            delete storage.data.purgeSchedule[chatId];
+            storage.flagSave();
+            await sock.sendMessage(chatId, { text: '🔴 *Purge agendado:* DESATIVADO' }, { quoted: msg });
+            return;
+        }
+        const hrs = parseInt(arg);
+        if (!hrs || hrs < 1) { await sock.sendMessage(chatId, { text: '❌ *Uso:* `!purge 24` (apaga msgs +24h diariamente às 04:00) ou `!purge off`' }, { quoted: msg }); return; }
+        storage.data.purgeSchedule[chatId] = { hour: 4, olderThanHrs: hrs };
+        storage.flagSave();
+        storage.logAdminAction(chatId, userInfo.number, 'purge ' + hrs + 'h');
+        await sock.sendMessage(chatId, { text: '🟢 *Purge agendado:* mensagens com mais de *' + hrs + 'h* serão limpas diariamente às 04:00.' }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!level' || firstWord === '!nivel') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        const tJid = resolveTargetJid(msg, text) || sender;
+        const tNum = extractRawNumber(tJid);
+        const tInfo = getUserInfo(tJid, tJid === sender ? pushNameRaw : '');
+        const xpVal = storage.data.xp?.[chatId]?.[tNum] || 0;
+        const lvl = storage.getLevel(xpVal);
+        const role = storage.getRoleByLevel(lvl);
+        const coinsVal = storage.data.coins?.[chatId]?.[tNum] || 0;
+        await sock.sendMessage(chatId, {
+            text: '📊 *NÍVEL DE ' + tInfo.pushName.toUpperCase() + '*\n\n⭐ Nível: *' + lvl + '* (' + role + ')\n✨ XP: ' + xpVal + '\n💰 Moedas: ' + coinsVal,
+            mentions: [tInfo.mentionJid, tInfo.jid]
+        }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!pay') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        const tJid = resolveTargetJid(msg, text);
+        const amtMatch = text.match(/(\d+)/);
+        if (!tJid || !amtMatch) { await sock.sendMessage(chatId, { text: '❌ *Uso:* `!pay @membro 100`' }, { quoted: msg }); return; }
+        const amt = parseInt(amtMatch[1]);
+        const fromNum = userInfo.number;
+        const toNum = extractRawNumber(tJid);
+        const fromCoins = storage.data.coins?.[chatId]?.[fromNum] || 0;
+        if (fromCoins < amt) { await sock.sendMessage(chatId, { text: '❌ Saldo insuficiente. Você tem 💰' + fromCoins }, { quoted: msg }); return; }
+        storage.addCoins(chatId, fromNum, -amt);
+        storage.addCoins(chatId, toNum, amt);
+        const toInfo = getUserInfo(tJid);
+        await sock.sendMessage(chatId, {
+            text: '💸 ' + userInfo.smartMention + ' enviou *💰' + amt + '* para ' + toInfo.smartMention + '!\n\n💰 Saldo atual: ' + (fromCoins - amt),
+            mentions: [userInfo.mentionJid, userInfo.jid, toInfo.mentionJid, toInfo.jid]
+        }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!shop') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        const myCoins = storage.data.coins?.[chatId]?.[userInfo.number] || 0;
+        await sock.sendMessage(chatId, {
+            text: '🛒 *LOJA DO GRUPO*\n\n💰 Seu saldo: *' + myCoins + ' moedas*\n\n📦 *Itens disponíveis:*\n• 🎨 Figurinha custom — 50 moedas (em breve)\n• ⭐ Destaque no ranking — 200 moedas (em breve)\n• 🎁 Presente surpresa — 100 moedas (em breve)\n\n_Use `!pay @membro valor` para transferir._',
+        }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!reaction') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        if (parseInt(getUserRole(userId, storage.data.users)) < 2) { await sock.sendMessage(chatId, { text: '❌ Apenas administradores.' }, { quoted: msg }); return; }
+        const arg = text.slice(firstWord.length).trim();
+        if (!storage.data.autoReaction) storage.data.autoReaction = {};
+        if (!storage.data.autoReaction[chatId]) storage.data.autoReaction[chatId] = {};
+        if (arg.toLowerCase() === 'lista') {
+            const entries = Object.entries(storage.data.autoReaction[chatId]);
+            await sock.sendMessage(chatId, { text: '😄 *Reações automáticas:*\n' + (entries.length ? entries.map(([k, v]) => k + ' → ' + v).join('\n') : '_nenhuma_') }, { quoted: msg });
+            return;
+        }
+        if (arg.toLowerCase() === 'off' || arg.toLowerCase() === 'limpar') {
+            storage.data.autoReaction[chatId] = {};
+            storage.flagSave();
+            await sock.sendMessage(chatId, { text: '🗑️ Reações automáticas limpas.' }, { quoted: msg });
+            return;
+        }
+        const parts = arg.split(/\s+/);
+        if (parts.length < 2) { await sock.sendMessage(chatId, { text: '❌ *Uso:* `!reaction palavra emoji`\nEx: `!reaction bomdia ☀️`\n`!reaction lista`\n`!reaction limpar`' }, { quoted: msg }); return; }
+        const emoji = parts.pop()!;
+        const keyword = parts.join(' ').toLowerCase();
+        storage.data.autoReaction[chatId][keyword] = emoji;
+        storage.flagSave();
+        await sock.sendMessage(chatId, { text: '✅ Reação cadastrada: "' + keyword + '" → ' + emoji }, { quoted: msg });
+        return;
+    }
+    if (isGroup && !key.fromMe && text && storage.data.autoReaction?.[chatId]) {
+        const low = text.toLowerCase();
+        for (const kw in storage.data.autoReaction[chatId]) {
+            if (low.includes(kw)) {
+                try {
+                    await sock.sendMessage(chatId, { react: { text: storage.data.autoReaction[chatId][kw], key } });
+                } catch (e) { }
+                break;
+            }
+        }
+    }
+    if (firstWord === '!aniversario' || firstWord === '!aniversário') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        const arg = text.slice(firstWord.length).trim();
+        const match = arg.match(/(\d{1,2})\/(\d{1,2})/);
+        if (!match) { await sock.sendMessage(chatId, { text: '❌ *Uso:* `!aniversario DD/MM`\nEx: `!aniversario 25/12`' }, { quoted: msg }); return; }
+        const dd = match[1].padStart(2, '0');
+        const mm = match[2].padStart(2, '0');
+        if (!storage.data.birthdays) storage.data.birthdays = {};
+        if (!storage.data.birthdays[chatId]) storage.data.birthdays[chatId] = {};
+        storage.data.birthdays[chatId][userInfo.number] = dd + '/' + mm;
+        storage.flagSave();
+        await sock.sendMessage(chatId, { text: '🎂 Aniversário de ' + userInfo.smartMention + ' cadastrado: *' + dd + '/' + mm + '*! Você será parabenizado automaticamente. 🎉', mentions: [userInfo.mentionJid, userInfo.jid] }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!countdown') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        if (parseInt(getUserRole(userId, storage.data.users)) < 2) { await sock.sendMessage(chatId, { text: '❌ Apenas administradores.' }, { quoted: msg }); return; }
+        const arg = text.slice(firstWord.length).trim();
+        const dateMatch = arg.match(/(\d{4}-\d{2}-\d{2})/);
+        if (!dateMatch) { await sock.sendMessage(chatId, { text: '❌ *Uso:* `!countdown nome YYYY-MM-DD`\nEx: `!countdown Natal 2026-12-25`' }, { quoted: msg }); return; }
+        const name = arg.replace(dateMatch[0], '').trim() || 'Evento';
+        if (!storage.data.countdowns) storage.data.countdowns = {};
+        if (!storage.data.countdowns[chatId]) storage.data.countdowns[chatId] = {};
+        const key = name.toLowerCase().replace(/\s+/g, '_');
+        storage.data.countdowns[chatId][key] = { name, date: dateMatch[0] };
+        storage.flagSave();
+        const target = new Date(dateMatch[0] + 'T00:00:00-03:00').getTime();
+        const days = Math.ceil((target - Date.now()) / (1000 * 60 * 60 * 24));
+        await sock.sendMessage(chatId, { text: '⏳ *Countdown cadastrado:* ' + name + ' — faltam *' + days + ' dias*! Atualização diária às 07:00.' }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!pergunta') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        if (parseInt(getUserRole(userId, storage.data.users)) < 2) { await sock.sendMessage(chatId, { text: '❌ Apenas administradores.' }, { quoted: msg }); return; }
+        const q = text.slice(firstWord.length).trim();
+        if (!q) { await sock.sendMessage(chatId, { text: '❌ *Uso:* `!pergunta Qual seu filme favorito?`' }, { quoted: msg }); return; }
+        if (!storage.data.perguntaDia) storage.data.perguntaDia = {};
+        storage.data.perguntaDia[chatId] = { question: q, date: new Date().toLocaleDateString('pt-BR') };
+        storage.flagSave();
+        await sock.sendMessage(chatId, { text: '🤔 *Pergunta do dia cadastrada!*\n\n"' + q + '"\n\nSerá disparada diariamente às 08:00.' }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!verdade' || firstWord === '!desafio') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        const verdades = ['Qual foi a maior mentira que você já contou?', 'Qual seu maior medo?', 'Qual foi a coisa mais vergonhosa que você fez?', 'Se pudesse trocar de vida com alguém do grupo, quem seria?', 'Qual seu maior arrependimento?', 'Qual foi o último sonho que você teve?', 'Qual segredo você nunca contou pra ninguém?', 'Se tivesse que deletar um app do celular, qual seria?', 'Qual foi a última vez que você chorou?', 'Qual sua maior qualidade e defeito?'];
+        const desafios = ['Mande um áudio cantando o refrão da música que está tocando agora', 'Troque sua foto de perfil por um meme por 1 hora', 'Mande o print da última conversa do seu WhatsApp', 'Imite um animal por 10 segundos em áudio', 'Mande uma selfie fazendo careta', 'Deixe o próximo membro escolher sua foto de perfil', 'Conte uma piada ruim em áudio', 'Mande o último print da sua galeria', 'Fale 30 segundos sem parar sobre qualquer tema', 'Marque 3 pessoas e diga algo bonito sobre cada uma'];
+        const isVerdade = firstWord === '!verdade';
+        const list = isVerdade ? verdades : desafios;
+        const pick = list[Math.floor(Math.random() * list.length)];
+        const tJid = resolveTargetJid(msg, text);
+        const tInfo = tJid ? getUserInfo(tJid) : null;
+        const prefix = isVerdade ? '🔮 *VERDADE*' : '🔥 *DESAFIO*';
+        const target = tInfo ? ' para ' + tInfo.smartMention : '';
+        await sock.sendMessage(chatId, {
+            text: prefix + target + ':\n\n' + pick,
+            mentions: tInfo ? [tInfo.mentionJid, tInfo.jid] : []
+        }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!sorteio') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        const arg = text.slice(firstWord.length).trim().toLowerCase();
+        if (arg === 'participar' || arg === 'entrar') {
+            const s = storage.data.sorteios?.[chatId];
+            if (!s || s.ended) { await sock.sendMessage(chatId, { text: '❌ Nenhum sorteio ativo.' }, { quoted: msg }); return; }
+            if (s.participants.includes(sender)) { await sock.sendMessage(chatId, { text: 'ℹ️ Você já está participando!' }, { quoted: msg }); return; }
+            s.participants.push(sender);
+            storage.flagSave();
+            await sock.sendMessage(chatId, { text: '✅ ' + userInfo.smartMention + ' entrou no sorteio! (*' + s.participants.length + '* participantes)', mentions: [userInfo.mentionJid, userInfo.jid] }, { quoted: msg });
+            return;
+        }
+        if (parseInt(getUserRole(userId, storage.data.users)) < 2) { await sock.sendMessage(chatId, { text: '❌ Apenas administradores podem criar sorteios.' }, { quoted: msg }); return; }
+        const timeMatch = text.match(/(\d+)\s*(m|min|h|hr)/i);
+        let ms = 600000;
+        if (timeMatch) { const v = parseInt(timeMatch[1]); const u = timeMatch[2].toLowerCase(); ms = u.startsWith('h') ? v * 3600000 : v * 60000; }
+        const prize = text.replace(firstWord, '').replace(timeMatch?.[0] || '', '').trim() || 'Prêmio surpresa';
+        if (!storage.data.sorteios) storage.data.sorteios = {};
+        storage.data.sorteios[chatId] = { prize, participants: [], endsAt: Date.now() + ms, ended: false };
+        storage.flagSave();
+        await sock.sendMessage(chatId, { text: '🎲 *NOVO SORTEIO!* 🎲\n\n🏆 *Prêmio:* ' + prize + '\n⏰ *Encerra em:* ' + Math.round(ms / 60000) + ' min\n\n👉 Digite `!sorteio participar` para entrar!' }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!recompensa' || firstWord === '!daily') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        if (!storage.data.dailyRewardClaimed) storage.data.dailyRewardClaimed = {};
+        if (!storage.data.dailyRewardClaimed[chatId]) storage.data.dailyRewardClaimed[chatId] = {};
+        const today = new Date().toLocaleDateString('pt-BR');
+        if (storage.data.dailyRewardClaimed[chatId][userInfo.number] === today) {
+            await sock.sendMessage(chatId, { text: 'ℹ️ Você já resgatou sua recompensa hoje! Volte amanhã. 🕐' }, { quoted: msg });
+            return;
+        }
+        const reward = 20 + Math.floor(Math.random() * 30);
+        storage.addCoins(chatId, userInfo.number, reward);
+        storage.data.dailyRewardClaimed[chatId][userInfo.number] = today;
+        storage.flagSave();
+        const newBal = storage.data.coins[chatId][userInfo.number];
+        await sock.sendMessage(chatId, { text: '🎁 *RECOMPENSA DIÁRIA!*\n\n' + userInfo.smartMention + ' recebeu *💰' + reward + ' moedas*!\n💰 Saldo atual: ' + newBal, mentions: [userInfo.mentionJid, userInfo.jid] }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!forca' || firstWord === '!f') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        const words = ['banana','computador','whatsapp','javascript','cachorro','pipoca','girassol','teclado','montanha','chocolate'];
+        const arg = text.slice(firstWord.length).trim().toLowerCase();
+        if (!storage.data.hangman) storage.data.hangman = {};
+        const cur = storage.data.hangman[chatId];
+        if (!arg || arg === 'nova') {
+            const w = words[Math.floor(Math.random() * words.length)];
+            storage.data.hangman[chatId] = { word: w, guessed: [], misses: 0, by: userInfo.number };
+            storage.flagSave();
+            await sock.sendMessage(chatId, { text: '🎯 *FORCA INICIADA!*\n\nPalavra: ' + w.split('').map(() => '_').join(' ') + '\n\nUse `!forca <letra>` ou `!forca palavra <palavra>`' }, { quoted: msg });
+            return;
+        }
+        if (!cur) { await sock.sendMessage(chatId, { text: '❌ Nenhuma forca ativa. Use `!forca nova`.' }, { quoted: msg }); return; }
+        if (arg.startsWith('palavra ')) {
+            const guess = arg.slice(8).trim();
+            if (guess === cur.word) {
+                delete storage.data.hangman[chatId]; storage.flagSave();
+                await sock.sendMessage(chatId, { text: '🎉 *ACERTOU!* A palavra era "' + cur.word.toUpperCase() + '". Parabéns ' + userInfo.smartMention + '!', mentions: [userInfo.mentionJid, userInfo.jid] }, { quoted: msg });
+            } else {
+                cur.misses++; storage.flagSave();
+                await sock.sendMessage(chatId, { text: '❌ Errou! (' + cur.misses + '/6 erros)' }, { quoted: msg });
+                if (cur.misses >= 6) { delete storage.data.hangman[chatId]; storage.flagSave(); await sock.sendMessage(chatId, { text: '💀 *ENFORCADO!* A palavra era "' + cur.word.toUpperCase() + '".' }, { quoted: msg }); }
+            }
+            return;
+        }
+        const letter = arg[0];
+        if (!letter) return;
+        if (cur.guessed.includes(letter)) { await sock.sendMessage(chatId, { text: 'ℹ️ Letra "' + letter + '" já tentada.' }, { quoted: msg }); return; }
+        cur.guessed.push(letter);
+        if (!cur.word.includes(letter)) cur.misses++;
+        storage.flagSave();
+        const display = cur.word.split('').map(c => cur.guessed.includes(c) ? c : '_').join(' ');
+        const won = !display.includes('_');
+        if (won) { delete storage.data.hangman[chatId]; storage.flagSave(); await sock.sendMessage(chatId, { text: '🎉 *COMPLETOU!* "' + cur.word.toUpperCase() + '" — vitória de ' + userInfo.smartMention + '!', mentions: [userInfo.mentionJid, userInfo.jid] }, { quoted: msg }); return; }
+        if (cur.misses >= 6) { delete storage.data.hangman[chatId]; storage.flagSave(); await sock.sendMessage(chatId, { text: '💀 *ENFORCADO!* A palavra era "' + cur.word.toUpperCase() + '".' }, { quoted: msg }); return; }
+        await sock.sendMessage(chatId, { text: '🎯 Palavra: ' + display + '\n❌ Erros: ' + cur.misses + '/6\n🔤 Tentadas: ' + cur.guessed.join(', ') }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!jogo') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        if (!storage.data.tictactoe) storage.data.tictactoe = {};
+        const arg = text.slice(firstWord.length).trim();
+        const cur = storage.data.tictactoe[chatId];
+        if (!cur) {
+            const tJid = resolveTargetJid(msg, text);
+            if (!tJid) { await sock.sendMessage(chatId, { text: '❌ *Uso:* `!jogo @membro` para iniciar.' }, { quoted: msg }); return; }
+            storage.data.tictactoe[chatId] = { board: ['1','2','3','4','5','6','7','8','9'], turn: sender, p1: sender, p2: tJid };
+            storage.flagSave();
+            const senderInfo = getUserInfo(sender);
+            const targetInfo = getUserInfo(tJid);
+            await sock.sendMessage(chatId, { text: '❌ *JOGO DA VELHA!*\n\n' + senderInfo.smartMention + ' vs ' + targetInfo.smartMention + '\n\n1|2|3\n4|5|6\n7|8|9\n\nVez de ' + senderInfo.pushName + '. Use `!jogo <posição>`.', mentions: [senderInfo.mentionJid, senderInfo.jid, targetInfo.mentionJid, targetInfo.jid] }, { quoted: msg });
+            return;
+        }
+        const pos = parseInt(arg);
+        if (!pos || pos < 1 || pos > 9) { await sock.sendMessage(chatId, { text: '❌ Use `!jogo <1-9>`.' }, { quoted: msg }); return; }
+        if (sender !== cur.turn) { await sock.sendMessage(chatId, { text: '⏳ Não é sua vez!' }, { quoted: msg }); return; }
+        if (!/^[1-9]$/.test(cur.board[pos-1])) { await sock.sendMessage(chatId, { text: '❌ Casa ocupada.' }, { quoted: msg }); return; }
+        const mark = cur.turn === cur.p1 ? 'X' : 'O';
+        cur.board[pos-1] = mark;
+        const wins = [[0,1,2],[3,4,5],[6,7,8],[0,3,6],[1,4,7],[2,5,8],[0,4,8],[2,4,6]];
+        let winner = '';
+        for (const w of wins) { if (cur.board[w[0]] !== '' && cur.board[w[0]] === cur.board[w[1]] && cur.board[w[1]] === cur.board[w[2]]) { winner = cur.turn; break; } }
+        const full = cur.board.every(c => c === 'X' || c === 'O');
+        if (winner || full) {
+            delete storage.data.tictactoe[chatId]; storage.flagSave();
+            const winnerInfo = winner ? getUserInfo(winner) : null;
+            await sock.sendMessage(chatId, { text: winnerInfo ? '🏆 *VITÓRIA de ' + winnerInfo.smartMention + '!*' : '🤝 *EMPATE!*', mentions: winnerInfo ? [winnerInfo.mentionJid, winnerInfo.jid] : undefined }, { quoted: msg });
+            return;
+        }
+        cur.turn = cur.turn === cur.p1 ? cur.p2 : cur.p1;
+        storage.flagSave();
+        await sock.sendMessage(chatId, { text: cur.board.slice(0,3).join('|') + '\n' + cur.board.slice(3,6).join('|') + '\n' + cur.board.slice(6,9).join('|') + '\n\nVez de ' + getUserInfo(cur.turn).pushName }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!roleta') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        const m = text.match(/(\d+)\s+(vermelho|preto|verde|\d+)/i);
+        if (!m) { await sock.sendMessage(chatId, { text: '❌ *Uso:* `!roleta 50 vermelho` / `preto` / `verde` / número' }, { quoted: msg }); return; }
+        const bet = parseInt(m[1]); const choice = m[2].toLowerCase();
+        const bal = storage.data.coins?.[chatId]?.[userInfo.number] || 0;
+        if (bal < bet) { await sock.sendMessage(chatId, { text: '❌ Saldo insuficiente (💰' + bal + ').' }, { quoted: msg }); return; }
+        const num = Math.floor(Math.random() * 37);
+        const reds = [1,3,5,7,9,12,14,16,18,19,21,23,25,27,30,32,34,36];
+        const color = num === 0 ? 'verde' : reds.includes(num) ? 'vermelho' : 'preto';
+        let mult = 0;
+        if (choice === 'verde' && num === 0) mult = 14;
+        else if ((choice === 'vermelho' || choice === 'preto') && color === choice) mult = 2;
+        else if (/^\d+$/.test(choice) && parseInt(choice) === num) mult = 36;
+        const delta = mult > 0 ? bet * (mult - 1) : -bet;
+        storage.addCoins(chatId, userInfo.number, delta);
+        await sock.sendMessage(chatId, { text: '🎰 *ROLETA:* caiu *' + num + ' ' + color.toUpperCase() + '*\n\n' + (mult > 0 ? '🎉 Você GANHOU 💰' + (bet * mult) + '!' : '💸 Você perdeu 💰' + bet + '.') + '\n💰 Saldo: ' + (bal + delta) }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!bj') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        if (!storage.data.bjHands) storage.data.bjHands = {};
+        if (!storage.data.bjHands[chatId]) storage.data.bjHands[chatId] = {};
+        const arg = text.slice(firstWord.length).trim().toLowerCase();
+        const hand = storage.data.bjHands[chatId][userInfo.number];
+        const val = (cards: number[]) => { let s = cards.reduce((a,b)=>a+b,0); let aces = cards.filter(c=>c===11).length; while (s>21 && aces>0){s-=10;aces--;} return s; };
+        const draw = () => { const r = Math.floor(Math.random()*13)+1; return r>10?10:r===1?11:r; };
+        if (!hand || arg.match(/^\d+/)) {
+            const bet = parseInt(arg) || 10;
+            const bal = storage.data.coins?.[chatId]?.[userInfo.number] || 0;
+            if (bal < bet) { await sock.sendMessage(chatId, { text: '❌ Saldo insuficiente (💰' + bal + ').' }, { quoted: msg }); return; }
+            storage.data.bjHands[chatId][userInfo.number] = { player: [draw(), draw()], bot: [draw(), draw()], bet, done: false };
+            storage.flagSave();
+            const h = storage.data.bjHands[chatId][userInfo.number];
+            await sock.sendMessage(chatId, { text: '🃏 *BLACKJACK* (aposta 💰' + bet + ')\n\nSua mão: ' + h.player.join(', ') + ' = *' + val(h.player) + '*\nBot: ' + h.bot[0] + ', ?\n\n`!bj hit` ou `!bj stand`' }, { quoted: msg });
+            return;
+        }
+        if (!hand) { await sock.sendMessage(chatId, { text: '❌ Nenhuma mão ativa. Use `!bj <aposta>`.' }, { quoted: msg }); return; }
+        if (arg === 'hit') {
+            hand.player.push(draw()); storage.flagSave();
+            if (val(hand.player) > 21) { storage.addCoins(chatId, userInfo.number, -hand.bet); delete storage.data.bjHands[chatId][userInfo.number]; storage.flagSave(); await sock.sendMessage(chatId, { text: '💥 *ESTOUROU!* (' + val(hand.player) + ') Você perdeu 💰' + hand.bet }, { quoted: msg }); return; }
+            await sock.sendMessage(chatId, { text: '🃏 Sua mão: ' + hand.player.join(', ') + ' = *' + val(hand.player) + '*\n\n`!bj hit` ou `!bj stand`' }, { quoted: msg }); return;
+        }
+        if (arg === 'stand') {
+            while (val(hand.bot) < 17) hand.bot.push(draw());
+            const pv = val(hand.player), bv = val(hand.bot);
+            let delta = 0; let res = '';
+            if (bv > 21 || pv > bv) { delta = hand.bet; res = '🎉 VOCÊ VENCEU!'; }
+            else if (pv === bv) { delta = 0; res = '🤝 EMPATE'; }
+            else { delta = -hand.bet; res = '💸 BOT VENCEU'; }
+            storage.addCoins(chatId, userInfo.number, delta);
+            delete storage.data.bjHands[chatId][userInfo.number]; storage.flagSave();
+            await sock.sendMessage(chatId, { text: '🃏 Você: ' + pv + ' | Bot: ' + bv + '\n\n' + res + (delta !== 0 ? ' (' + (delta>0?'+':'') + delta + ')' : '') }, { quoted: msg }); return;
+        }
+        return;
+    }
+    if (firstWord === '!marry' || firstWord === '!casar' || firstWord === '!namorar' || firstWord === '!conhecer') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        const tJid = resolveTargetJid(msg, text);
+        if (!tJid || tJid === sender) { await sock.sendMessage(chatId, { text: '❌ *Uso:* `' + firstWord + ' @pessoa`' }, { quoted: msg }); return; }
+        if (!storage.data.marriages) storage.data.marriages = {};
+        if (!storage.data.marriages[chatId]) storage.data.marriages[chatId] = {};
+        const get = (n: string): any => {
+            const value = (storage.data.marriages[chatId] as any)[n];
+            if (!value) return null;
+            return typeof value === 'string' ? { partner: value, type: 'casado' } : value;
+        };
+        const a = userInfo.number, b = extractRawNumber(tJid);
+        if (get(a) || get(b)) { await sock.sendMessage(chatId, { text: '❌ Um de vocês já está em um relacionamento!' }, { quoted: msg }); return; }
+        const type = firstWord === '!marry' || firstWord === '!casar' ? 'casado' : firstWord === '!namorar' ? 'namorando' : 'conhecendo';
+        const emoji = type === 'casado' ? '💍' : type === 'namorando' ? '❤️' : '🤝';
+        const verb = type === 'casado' ? 'CASAMENTO' : type === 'namorando' ? 'NAMORO' : 'NOVO CONHECIMENTO';
+        (storage.data.marriages[chatId] as any)[a] = { partner: b, type };
+        (storage.data.marriages[chatId] as any)[b] = { partner: a, type };
+        storage.flagSave();
+        const partnerInfo = getUserInfo(tJid);
+        await sock.sendMessage(chatId, { text: emoji + ' *' + verb + '* ' + emoji + '\n\n' + userInfo.smartMention + ' 💞 ' + partnerInfo.smartMention + '\n\nFelicidades ao casal! 🎉', mentions: [userInfo.mentionJid, userInfo.jid, partnerInfo.mentionJid, partnerInfo.jid] }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!divorciar' || firstWord === '!terminar') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        const a = userInfo.number;
+        const value = storage.data.marriages?.[chatId]?.[a] as any;
+        const relationship = typeof value === 'string' ? { partner: value, type: 'casado' } : value;
+        if (!relationship?.partner) { await sock.sendMessage(chatId, { text: '❌ Você não está em um relacionamento.' }, { quoted: msg }); return; }
+        delete storage.data.marriages[chatId][a];
+        delete storage.data.marriages[chatId][relationship.partner];
+        storage.flagSave();
+        const partnerInfo = getUserInfo(relationship.partner + '@s.whatsapp.net');
+        await sock.sendMessage(chatId, { text: '💔 Relacionamento encerrado entre ' + userInfo.smartMention + ' e ' + partnerInfo.smartMention + '.', mentions: [userInfo.mentionJid, userInfo.jid, partnerInfo.mentionJid, partnerInfo.jid] }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!profile' || firstWord === '!perfil') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        const tJid = resolveTargetJid(msg, text) || sender;
+        const tNum = extractRawNumber(tJid);
+        const tInfo = getUserInfo(tJid, tJid === sender ? pushNameRaw : '');
+        const xpV = storage.data.xp?.[chatId]?.[tNum] || 0;
+        const lvl = storage.getLevel(xpV); const role = storage.getRoleByLevel(lvl);
+        const coinsV = storage.data.coins?.[chatId]?.[tNum] || 0;
+        const partnerValue = storage.data.marriages?.[chatId]?.[tNum] as any;
+        const partner = typeof partnerValue === 'string' ? { partner: partnerValue, type: 'casado' } : partnerValue;
+        const buf = await generateProfileCard(tInfo.pushName || 'Membro', lvl, role + (partner ? ' 💍' : ''), xpV, coinsV);
+        await sock.sendMessage(chatId, { image: buf, caption: '📇 *PERFIL DE ' + (tInfo.pushName || 'MEMBRO').toUpperCase() + '*' }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!meme') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        const parts = text.slice(firstWord.length).split('|');
+        const top = (parts[0] || 'QUANDO O BOT').trim().toUpperCase();
+        const bottom = (parts[1] || 'FUNCIONA DE PRIMEIRA').trim().toUpperCase();
+        const buf = await generateMemeCard(top, bottom);
+        await sock.sendMessage(chatId, { image: buf, caption: '😂 *MEME*' }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!quote' || firstWord === '!citacao') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        const ctxQ = msg.message?.extendedTextMessage?.contextInfo;
+        const qText = ctxQ?.quotedMessage?.conversation || ctxQ?.quotedMessage?.extendedTextMessage?.text || '';
+        const qFrom = ctxQ?.participant || '';
+        if (!qText) { await sock.sendMessage(chatId, { text: '❌ Responda uma mensagem com `!quote`.' }, { quoted: msg }); return; }
+        const qInfo = qFrom ? getUserInfo(qFrom) : null;
+        const buf = await generateQuoteCard(qInfo ? (qInfo.pushName || 'Membro') : 'Membro', qText.slice(0, 80));
+        await sock.sendMessage(chatId, { image: buf, caption: '💬 *CITAÇÃO*' }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!sfont') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        const arg = text.slice(firstWord.length).trim();
+        if (!arg) { await sock.sendMessage(chatId, { text: '❌ *Uso:* `!sfont seu texto` (vira figurinha)' }, { quoted: msg }); return; }
+        const colors = ['#7b2ff7', '#f107a3', '#00c853', '#ff6d00', '#2979ff'];
+        const bg = colors[Math.floor(Math.random() * colors.length)];
+        const buf = await generateTextSticker(arg.slice(0, 20), bg);
+        await sock.sendMessage(chatId, { sticker: buf }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!yt' || firstWord === '!youtube') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        const q = text.slice(firstWord.length).trim();
+        if (!q) { await sock.sendMessage(chatId, { text: '❌ *Uso:* `!yt nome da música`' }, { quoted: msg }); return; }
+        await sock.sendMessage(chatId, { text: '⏳ Buscando "' + q + '"...' }, { quoted: msg });
+        const info = await getYoutubeInfo(q);
+        if (!info) { await sock.sendMessage(chatId, { text: '❌ Não encontrei resultados.' }, { quoted: msg }); return; }
+        await sock.sendMessage(chatId, { text: '🎬 *YouTube:*\n\n🔍 ' + q + '\n🔗 ' + info.url + '\n\n_(Download direto requer yt-dlp instalado no servidor. Link de busca acima.)_' }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!tiktok' || firstWord === '!tt' || firstWord === '!insta' || firstWord === '!ig') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        const url = text.slice(firstWord.length).trim();
+        if (!url.startsWith('http')) { await sock.sendMessage(chatId, { text: '❌ *Uso:* `!tiktok <link>` ou `!insta <link>`' }, { quoted: msg }); return; }
+        await sock.sendMessage(chatId, { text: '⏳ Baixando mídia... (requer API de download configurada)' }, { quoted: msg });
+        await sock.sendMessage(chatId, { text: '⚠️ Download direto ainda não configurado. Cole o link manualmente:\n' + url }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!musica' || firstWord === '!music') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        const q = text.slice(firstWord.length).trim();
+        if (!q) { await sock.sendMessage(chatId, { text: '❌ *Uso:* `!musica nome`' }, { quoted: msg }); return; }
+        await sock.sendMessage(chatId, { text: '🎵 Buscando "' + q + '" no YouTube...\n🔗 https://youtube.com/results?search_query=' + encodeURIComponent(q) }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!bg' || firstWord === '!fundo') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        const ctxI = msg.message?.extendedTextMessage?.contextInfo;
+        const qMsg = ctxI?.quotedMessage;
+        const imgBuf = qMsg?.imageMessage ? await (sock as any).downloadMediaMessage?.({ message: qMsg, key: { remoteJid: chatId, id: ctxI.stanzaId, fromMe: false } }).catch(() => null) : null;
+        if (!imgBuf) { await sock.sendMessage(chatId, { text: '❌ Responda uma IMAGEM com `!bg`.' }, { quoted: msg }); return; }
+        const out = await removeBackground(imgBuf);
+        if (!out) { await sock.sendMessage(chatId, { text: '⚠️ Remoção de fundo requer API (remove.bg) configurada.' }, { quoted: msg }); return; }
+        await sock.sendMessage(chatId, { image: out, caption: '🖼️ Fundo removido!' }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!traduzir' || firstWord === '!translate') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        const ctxT = msg.message?.extendedTextMessage?.contextInfo;
+        const qText = ctxT?.quotedMessage?.conversation || ctxT?.quotedMessage?.extendedTextMessage?.text || '';
+        const lang = text.slice(firstWord.length).trim().toLowerCase() || 'pt';
+        if (!qText) { await sock.sendMessage(chatId, { text: '❌ Responda uma mensagem com `!traduzir [idioma]` (padrão: pt).' }, { quoted: msg }); return; }
+        await sock.sendMessage(chatId, { text: '⏳ Traduzindo...' }, { quoted: msg });
+        const tr = await translateText(qText, lang);
+        await sock.sendMessage(chatId, { text: tr ? '🌐 *Tradução (' + lang + '):*\n\n' + tr : '❌ Falha na tradução.' }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!dicionario' || firstWord === '!definicao') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        const w = text.slice(firstWord.length).trim();
+        if (!w) { await sock.sendMessage(chatId, { text: '❌ *Uso:* `!dicionario palavra`' }, { quoted: msg }); return; }
+        const def = await defineWord(w);
+        await sock.sendMessage(chatId, { text: def ? '📖 *' + w.toUpperCase() + '*\n\n' + def : '❌ Palavra não encontrada.' }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!signos' || firstWord === '!compatibilidade') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        const signs = ['aries','touro','gemeos','cancer','leao','virgem','libra','escorpiao','sagitario','capricornio','aquario','peixes'];
+        const arg = text.slice(firstWord.length).toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+        const parts = arg.split(/\s+/).filter(Boolean);
+        if (parts.length < 2) { await sock.sendMessage(chatId, { text: '❌ *Uso:* `!signos aries leao`' }, { quoted: msg }); return; }
+        const a = signs.indexOf(parts[0]); const b = signs.indexOf(parts[1]);
+        if (a < 0 || b < 0) { await sock.sendMessage(chatId, { text: '❌ Signos: ' + signs.join(', ') }, { quoted: msg }); return; }
+        const compat = [98,72,88,55,90,65,78,45,82,60,70,95,72,96,60,85,50,92,68,80,58,75,88,62,88,60,94,70,82,55,90,48,85,63,76,80,55,85,70,97,62,88,72,90,65,82,58,78,90,50,82,62,95,68,80,52,88,60,74,85,65,92,55,88,68,96,72,85,60,90,66,82,78,68,90,72,80,72,93,58,86,64,79,88,45,80,48,90,52,85,58,96,62,88,70,82,82,58,85,65,88,60,86,62,94,68,80,75,60,75,63,82,60,90,64,88,68,92,72,86,70,88,76,58,74,66,79,70,80,72,90,68,95,62,80,78,85,82,88,82,75,86,68,97];
+        const idx = a * 12 + b;
+        const pct = compat[idx] || 70;
+        let verdict = pct >= 85 ? '💘 ALTA COMPATIBILIDADE!' : pct >= 65 ? '❤️ Boa combinação.' : pct >= 45 ? '🤔 Requer esforço.' : '💔 Baixa compatibilidade.';
+        await sock.sendMessage(chatId, { text: '✨ *COMPATIBILIDADE*\n\n' + parts[0] + ' × ' + parts[1] + ' = *' + pct + '%*\n\n' + verdict }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!apelido') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        const prefixes = ['Mestre','Lenda','Rei','Rainha','Capitão','Doutor','Professor','Ninja','Turbo','Mega','Super','Ultra','Divino','Épico','Supremo'];
+        const suffixes = ['do Grupo','das Galáxias','Supremo','Invencível','Lendário','dos Memes','da Madrugada','Imbatível','Sombrio','Radiante'];
+        const nick = prefixes[Math.floor(Math.random()*prefixes.length)] + ' ' + userInfo.pushName + ' ' + suffixes[Math.floor(Math.random()*suffixes.length)];
+        await sock.sendMessage(chatId, { text: '🎭 Seu novo apelido: *' + nick + '* 😎', mentions: [userInfo.jid] }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!exportar') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        if (parseInt(getUserRole(userId, storage.data.users)) < 2) { await sock.sendMessage(chatId, { text: '❌ Apenas administradores.' }, { quoted: msg }); return; }
+        const hist = storage.data.chatHistory?.[chatId] || {};
+        let txt = 'EXPORT DE CONVERSA - ' + chatId + '\nGerado em ' + new Date().toLocaleString('pt-BR') + '\n\n';
+        for (const date in hist) { for (const line of (hist[date] || [])) { txt += '[' + date + '] ' + line + '\n'; } }
+        const buf = Buffer.from(txt, 'utf8');
+        await sock.sendMessage(chatId, { document: buf, mimetype: 'text/plain', fileName: 'conversa_' + chatId.replace(/\D/g,'') + '.txt', caption: '📄 Export da conversa em TXT' }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!broadcast') {
+        if (parseInt(getUserRole(userId, storage.data.users)) < 5) { await sock.sendMessage(chatId, { text: '❌ Apenas Super Admin.' }, { quoted: msg }); return; }
+        const bcMsg = text.slice(firstWord.length).trim();
+        if (!bcMsg) { await sock.sendMessage(chatId, { text: '❌ *Uso:* `!broadcast mensagem` (envia a todos os grupos)' }, { quoted: msg }); return; }
+        const groups = Object.keys(storage.data.groupStats || {});
+        let ok = 0;
+        for (const g of groups) { try { await sock.sendMessage(g, { text: '📢 *BROADCAST*\n\n' + bcMsg }); ok++; } catch (e) { } }
+        await sock.sendMessage(chatId, { text: '✅ Broadcast enviado para *' + ok + '/' + groups.length + '* grupos.' }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!gol') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        if (parseInt(getUserRole(userId, storage.data.users)) < 2) { await sock.sendMessage(chatId, { text: '❌ Apenas administradores.' }, { quoted: msg }); return; }
+        const on = !text.slice(firstWord.length).trim().toLowerCase().startsWith('off');
+        if (!storage.data.goalAlerts) storage.data.goalAlerts = {};
+        if (on) { storage.data.goalAlerts[chatId] = {}; storage.flagSave(); await sock.sendMessage(chatId, { text: '⚽ *Alertas de GOL ativados!* Notificações a cada minuto quando houver partidas ao vivo. (Requer API-Football configurada.)' }, { quoted: msg }); }
+        else { delete storage.data.goalAlerts[chatId]; storage.flagSave(); await sock.sendMessage(chatId, { text: '⚽ Alertas de GOL desativados.' }, { quoted: msg }); }
+        return;
+    }
+    if (firstWord === '!remind' || firstWord === '!lembrete') {
+        const reminderMatch = text.match(/(\d+)\s*(s|m|min|h|hr)/i);
+        if (!reminderMatch) { await sock.sendMessage(chatId, { text: '❌ *Uso:* `!remind 10m texto do lembrete`' }, { quoted: msg }); return; }
+        const value = parseInt(reminderMatch[1], 10);
+        const unit = reminderMatch[2].toLowerCase();
+        const duration = unit.startsWith('h') ? value * 3600000 : unit.startsWith('s') ? value * 1000 : value * 60000;
+        const reminderText = text.replace(reminderMatch[0], '').trim() || 'Seu lembrete!';
+        storage.data.reminders.push({ id: Date.now() + '_' + userInfo.number, chatId, userJid: sender, text: reminderText, runAt: Date.now() + duration });
+        storage.flagSave();
+        await sock.sendMessage(chatId, { text: '⏰ Lembrete agendado para daqui a *' + value + unit + '*:\n"' + reminderText + '"', mentions: [userInfo.jid] }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!relatorio') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        if (parseInt(getUserRole(userId, storage.data.users)) < 2) { await sock.sendMessage(chatId, { text: '❌ Apenas administradores.' }, { quoted: msg }); return; }
+        const stats = storage.data.groupStats?.[chatId] || {};
+        const entries = Object.entries(stats).map(([num, stat]) => ({ num, total: stat.total || 0 })).sort((a, b) => b.total - a.total).slice(0, 5);
+        const totalMessages = Object.values(stats).reduce((total, stat) => total + (stat.total || 0), 0);
+        const logs = storage.data.adminLog?.[chatId] || [];
+        const week = Date.now() - 7 * 24 * 60 * 60 * 1000;
+        const recent = logs.filter(log => log.ts > week);
+        const joins = recent.filter(log => log.action.includes('ENTROU')).length;
+        const leaves = recent.filter(log => log.action.includes('SAIU') || log.action.includes('REMOVIDO')).length;
+        const warns = recent.filter(log => /advert|warn/i.test(log.action)).length;
+        const mentions: string[] = [];
+        let report = '📊 *RELATÓRIO SEMANAL*\n\n💬 Total de mensagens: *' + totalMessages + '*\n👥 Entraram: ' + joins + ' | Saíram/Removidos: ' + leaves + '\n⚠️ Advertências: ' + warns + '\n\n🏆 *TOP 5 ATIVOS:*\n';
+        entries.forEach((entry, index) => {
+            const info = getUserInfo(entry.num + '@s.whatsapp.net', storage.data.cache?.names?.[entry.num] || '');
+            report += (index + 1) + '. ' + info.smartMention + ' — ' + entry.total + ' msgs\n';
+            if (info.mentionJid) mentions.push(info.mentionJid);
+            if (info.jid) mentions.push(info.jid);
+        });
+        await sock.sendMessage(chatId, { text: report, mentions }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!log') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        if (parseInt(getUserRole(userId, storage.data.users)) < 2) { await sock.sendMessage(chatId, { text: '❌ Apenas administradores.' }, { quoted: msg }); return; }
+        const logs = (storage.data.adminLog?.[chatId] || []).filter(log => log.action.includes('ENTROU') || log.action.includes('SAIU') || log.action.includes('REMOVIDO')).slice(-20);
+        if (!logs.length) { await sock.sendMessage(chatId, { text: '📋 Sem registros de entrada/saída.' }, { quoted: msg }); return; }
+        let report = '📋 *LOG DE MEMBROS (últimos 20)*\n\n';
+        for (const log of logs) {
+            const date = new Date(log.ts);
+            report += date.toLocaleDateString('pt-BR') + ' ' + date.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' }) + ' — ' + log.action + (log.target ? ' (+' + log.target + ')' : '') + '\n';
+        }
+        await sock.sendMessage(chatId, { text: report }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!faq') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        if (parseInt(getUserRole(userId, storage.data.users)) < 2) { await sock.sendMessage(chatId, { text: '❌ Apenas administradores.' }, { quoted: msg }); return; }
+        const enabled = !text.slice(firstWord.length).trim().toLowerCase().startsWith('off');
+        storage.data.faqEnabled[chatId] = enabled;
+        storage.flagSave();
+        await sock.sendMessage(chatId, { text: (enabled ? '🟢' : '🔴') + ' *FAQ IA:* ' + (enabled ? 'ATIVADO (responde perguntas automaticamente, 1x/min)' : 'DESATIVADO') }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!clima') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
+        const buffer = storage.data.messageBuffer?.[chatId] || {};
+        const texts = Object.values(buffer).map(message => (message.text || '').toLowerCase()).slice(-30);
+        const positive = ['bom', 'boa', 'otimo', 'ótima', 'feliz', 'amor', 'top', 'legal', 'obrigado', 'parabéns', 'gratidão', '🎉', '❤️', '😂', '👏', '😊'];
+        const negative = ['ruim', 'péssimo', 'pessimo', 'odio', 'ódio', 'triste', 'raiva', 'chato', 'lixo', '😡', '😞'];
+        let positiveCount = 0;
+        let negativeCount = 0;
+        for (const message of texts) {
+            for (const word of positive) if (message.includes(word)) positiveCount++;
+            for (const word of negative) if (message.includes(word)) negativeCount++;
+        }
+        const total = positiveCount + negativeCount || 1;
+        const percentage = Math.round((positiveCount / total) * 100);
+        const mood = percentage >= 70 ? '😄 Clima POSITIVO e animado!' : percentage >= 40 ? '😐 Clima NEUTRO.' : '😟 Clima TENSO / negativo.';
+        await sock.sendMessage(chatId, { text: '🌡️ *CLIMA DO GRUPO*\n\n😊 Positivo: ' + percentage + '%\n😞 Negativo: ' + (100 - percentage) + '%\n\n' + mood + '\n_(baseado nas últimas ' + texts.length + ' msgs)_' }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!ticket') {
+        const ticketMessage = text.slice(firstWord.length).trim();
+        if (!ticketMessage) { await sock.sendMessage(chatId, { text: '❌ *Uso:* `!ticket descrição do problema`' }, { quoted: msg }); return; }
+        if (storage.data.activeTicket) { await sock.sendMessage(chatId, { text: '⚠️ Já existe um ticket aberto. Aguarde atendimento.' }, { quoted: msg }); return; }
+        storage.data.activeTicket = { userJid: sender, openedAt: Date.now() };
+        storage.flagSave();
+        const creator = '5511927018683@s.whatsapp.net';
+        try { await sock.sendMessage(creator, { text: '🎫 *NOVO TICKET DE SUPORTE*\n\n👤 De: ' + userInfo.nameAndNumber + '\n💬 ' + ticketMessage + '\n\n_Responda aqui no privado para atender. Use `!fecharticket` para encerrar._' }); } catch (e) { }
+        await sock.sendMessage(chatId, { text: '🎫 Ticket aberto! O suporte foi notificado no privado e responderá em breve.', mentions: [userInfo.jid] }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!fecharticket') {
+        if (userInfo.number !== '5511927018683') { await sock.sendMessage(chatId, { text: '❌ Apenas o suporte pode encerrar tickets.' }, { quoted: msg }); return; }
+        if (!storage.data.activeTicket) { await sock.sendMessage(chatId, { text: 'ℹ️ Nenhum ticket aberto.' }, { quoted: msg }); return; }
+        const ticketUser = storage.data.activeTicket.userJid;
+        storage.data.activeTicket = null;
+        storage.flagSave();
+        try { await sock.sendMessage(ticketUser, { text: '✅ Seu ticket foi ENCERRADO. Obrigado pelo contato!' }); } catch (e) { }
+        await sock.sendMessage(chatId, { text: '✅ Ticket encerrado.' }, { quoted: msg });
+        return;
+    }
+    if (firstWord === '!horario') {
+        if (parseInt(getUserRole(userId, storage.data.users)) < 5) { await sock.sendMessage(chatId, { text: '❌ Apenas Super Admin.' }, { quoted: msg }); return; }
+        const argument = text.slice(firstWord.length).trim();
+        if (argument.toLowerCase() === 'off') { storage.data.businessHours = null; storage.flagSave(); await sock.sendMessage(chatId, { text: '🔴 Auto-resposta de horário DESATIVADA.' }, { quoted: msg }); return; }
+        const hours = argument.match(/(\d{2}:\d{2})\s*(\d{2}:\d{2})/);
+        if (!hours) { await sock.sendMessage(chatId, { text: '❌ *Uso:* `!horario 08:00 18:00 mensagem fora do horário`' }, { quoted: msg }); return; }
+        const messageOut = argument.replace(hours[0], '').trim() || '⏰ Estamos fora do horário de atendimento agora.';
+        storage.data.businessHours = { open: hours[1], close: hours[2], msg: messageOut };
+        storage.flagSave();
+        await sock.sendMessage(chatId, { text: '🟢 Horário comercial: ' + hours[1] + ' às ' + hours[2] + '. Fora disso, auto-resposta no privado.' }, { quoted: msg });
         return;
     }
     if (textLower === '!ajuda') {
@@ -1655,17 +2411,55 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
         menu += '`!ia [pergunta]` - Consulta IA\n';
         menu += '`!status` - Painel\n';
         menu += '`!horariobot` - Debug\n\n';
-        menu += '*🎨 DIVERSÃO*\n';
+        menu += '*🎮 DIVERSÃO / ENGAJAMENTO*\n';
+        menu += '`!level` / `!nivel` — Seu nível e XP\n';
+        menu += '`!recompensa` — Resgatar moedas diárias\n';
+        menu += '`!pay @membro valor` — Transferir moedas\n';
+        menu += '`!shop` — Loja do grupo\n';
+        menu += '`!reaction palavra emoji` — Auto-reação\n';
+        menu += '`!aniversario DD/MM` — Cadastrar aniversário\n';
+        menu += '`!countdown nome YYYY-MM-DD` — Contagem regressiva\n';
+        menu += '`!pergunta texto` — Pergunta do dia (08:00)\n';
+        menu += '`!verdade` / `!desafio` — Brincadeiras\n';
+        menu += '`!sorteio prêmio 10m` — Criar sorteio\n';
+        menu += '`!sorteio participar` — Entrar no sorteio\n';
+        menu += '`!forca nova` / `!forca letra` — Jogo da forca\n';
+        menu += '`!jogo @membro` / `!jogo 1-9` — Jogo da velha\n';
+        menu += '`!roleta 50 vermelho` — Roleta de moedas\n';
+        menu += '`!bj 20` / `!bj hit` / `!bj stand` — Blackjack\n';
+        menu += '`!marry @membro` / `!divorciar` — Casamento\n';
+        menu += '`!profile` / `!perfil` — Card em imagem\n';
+        menu += '`!meme topo | fundo` — Meme em imagem\n';
+        menu += '`!quote` (responder) — Citação em card\n';
+        menu += '`!sfont texto` — Texto vira figurinha\n';
+        menu += '\n*🎨 DIVERSÃO*\n';
         menu += '`!s` `!s2img` - Figurinhas\n';
         menu += '`!wiki` `!rank`\n';
         menu += '`!enquete Pergunta | Op1 | Op2`\n\n';
         menu += '*🎵 MÚSICA*\n';
-        menu += '`!p [nome]` - Buscar música\n';
-        menu += '`!v [nome]` - Buscar vídeo\n';
-        menu += '`!pp [link]` - Playlist\n';
+        menu += '`!musica [nome]` - Buscar música\n';
         if (isAdmin) menu += '`!botmusica on/off`\n\n';
-        menu += '*📰 UTIL*\n';
-        menu += '`!n` `!h` `!t` `!f`\n';
+        menu += '*�️ UTILIDADE / MÍDIA*\n';
+        menu += '`!yt nome` — Buscar no YouTube\n';
+        menu += '`!tiktok link` / `!insta link` — Download\n';
+        menu += '`!musica nome` — Preview de música\n';
+        menu += '`!bg` (responder imagem) — Remover fundo\n';
+        menu += '`!traduzir [idioma]` (responder) — Traduzir\n';
+        menu += '`!dicionario palavra` — Definição\n';
+        menu += '`!signos aries leao` — Compatibilidade\n';
+        menu += '`!apelido` — Gerador de apelido\n';
+        menu += '`!exportar` — Conversa em TXT (admin)\n';
+        menu += '`!broadcast msg` — Enviar a todos os grupos (super admin)\n';
+        menu += '`!gol on/off` — Alertas de gol ao vivo (admin)\n';
+        menu += '`!remind 10m texto` — Lembrete único\n';
+        menu += '`!relatorio` — Balanço semanal (admin)\n';
+        menu += '`!log` — Entradas/saídas (admin)\n';
+        menu += '`!faq on/off` — IA responde perguntas (admin)\n';
+        menu += '`!clima` — Sentimento do grupo\n';
+        menu += '`!ticket descrição` — Suporte no privado\n';
+        menu += '`!horario 08:00 18:00 msg` — Auto-resposta (super admin)\n';
+        menu += '\n*�📰 UTIL*\n';
+        menu += '`!n` `!h` `!t`\n';
         menu += '`!regras` `!id`';
         if (isAdmin) {
             menu += '\n\n*🛡️ ADMIN*\n';
@@ -1674,6 +2468,18 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
             menu += '`!antilink on/off`\n';
             menu += '`!antifake on/off`\n';
             menu += '`!antinsfw on/off`\n';
+            menu += '`!mute @membro 10m` / `!unmute`\n';
+            menu += '`!blacklist + palavra` / `lista` / `remover`\n';
+            menu += '`!antiforward on/off`\n';
+            menu += '`!antistickerflood on/off`\n';
+            menu += '`!raidmode on/off` — Tranca grupo em raid\n';
+            menu += '`!captcha on/off` — Código de verificação\n';
+            menu += '`!autoaprovar on/off` — Auto-aceitar solicitações\n';
+            menu += '`!cota 50` / `off` — Limite diário de mensagens\n';
+            menu += '`!autoremove 7` / `off` — Remove inativos (dias)\n';
+            menu += '`!logadmin` — Log de ações de admin\n';
+            menu += '`!lockmedia on/off` — Só texto permitido\n';
+            menu += '`!purge 24` / `off` — Limpa msgs antigas diariamente\n';
             menu += '`!warn @membro`\n';
             menu += '`!ban @membro`\n';
             menu += '`!fechar` `!abrir`\n';

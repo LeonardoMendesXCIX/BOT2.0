@@ -43,51 +43,276 @@ const node_cron_1 = __importDefault(require("node-cron"));
 const storage_1 = require("./database/storage");
 const commands_1 = require("./handlers/commands");
 const events_1 = require("./handlers/events");
-const ai_1 = require("./services/ai");
 const user_1 = require("./utils/user");
 const rbac_1 = require("./config/rbac");
-process.env.TZ = 'America/Sao_Paulo';
-// Suprime dumps repetitivos de criptografia do libsignal no terminal
+const webServer_1 = require("./services/webServer");
+const funnyMessages_1 = require("./services/funnyMessages");
+const time_1 = require("./utils/time");
+const media_1 = require("./services/media");
+const _logStats = {
+    reconnectCount: 0,
+    lastReconnectLog: 0,
+    successCount: 0,
+    lastSuccessLog: 0,
+};
+function logOnce(key, msg, force = false) {
+    const now = Date.now();
+    const COOLDOWN_MS = 30000; // 30s entre logs do mesmo tipo
+    if (key === 'reconnect') {
+        _logStats.reconnectCount++;
+        if (force || now - _logStats.lastReconnectLog > COOLDOWN_MS) {
+            const repeated = _logStats.reconnectCount - 1;
+            if (repeated > 0 && !force) {
+                console.log('[SISTEMA] (+' + repeated + ' reconexões omitidas nos últimos 30s)');
+            }
+            console.log(msg);
+            _logStats.lastReconnectLog = now;
+            _logStats.reconnectCount = 0;
+        }
+    }
+    else if (key === 'success') {
+        _logStats.successCount++;
+        if (force || now - _logStats.lastSuccessLog > COOLDOWN_MS) {
+            const repeated = _logStats.successCount - 1;
+            if (repeated > 0 && !force) {
+                console.log('[SISTEMA] (+' + repeated + ' reconexões bem-sucedidas omitidas nos últimos 30s)');
+            }
+            console.log(msg);
+            _logStats.lastSuccessLog = now;
+            _logStats.successCount = 0;
+        }
+    }
+}
+// Reseta contadores a cada 60s para não acumular indefinidamente
+setInterval(() => {
+    if (_logStats.reconnectCount > 0) {
+        console.log('[SISTEMA] ⚠️ Bot em loop de reconexão: ' + _logStats.reconnectCount + ' tentativas no último minuto. Verifique a pasta ./sessions ou feche instâncias duplicadas.');
+        _logStats.reconnectCount = 0;
+    }
+    _logStats.successCount = 0;
+}, 60000);
+process.env.TZ = "America/Sao_Paulo";
+const TIMEZONE = "America/Sao_Paulo";
+function greetingByHour(h) {
+    if (h >= 5 && h < 12)
+        return "BOM DIA";
+    if (h >= 12 && h < 18)
+        return "BOA TARDE";
+    return "BOA NOITE";
+}
+const CREATOR_JID = "5511927018683@s.whatsapp.net";
 const originalConsoleError = console.error;
 console.error = (...args) => {
-    const msg = args.map(a => a?.message || a?.toString() || '').join(' ');
-    if (msg.includes('MessageCounterError') || msg.includes('Failed to decrypt') || msg.includes('Bad MAC')) {
+    const msg = args.map((a) => a?.message || a?.toString() || "").join(" ");
+    if (msg.includes("MessageCounterError") ||
+        msg.includes("Failed to decrypt") ||
+        msg.includes("Bad MAC")) {
         return;
     }
     originalConsoleError(...args);
 };
-process.on('unhandledRejection', (reason) => {
-    const errStr = reason?.message || reason?.toString() || '';
-    if (errStr.includes('Bad MAC') || errStr.includes('MessageCounterError') || errStr.includes('Failed to decrypt')) {
+process.on("unhandledRejection", (reason) => {
+    const errStr = reason?.message || reason?.toString() || "";
+    if (errStr.includes("Bad MAC") ||
+        errStr.includes("MessageCounterError") ||
+        errStr.includes("Failed to decrypt")) {
         return;
     }
-    console.log('[SISTEMA] Rejeição assíncrona interceptada:', reason?.message || reason);
+    console.log("[SISTEMA] Rejeição assíncrona interceptada:", reason?.message || reason);
 });
-process.on('uncaughtException', (error) => {
-    const errStr = error?.message || error?.toString() || '';
-    if (errStr.includes('Bad MAC') || errStr.includes('MessageCounterError') || errStr.includes('Failed to decrypt')) {
+process.on("uncaughtException", (error) => {
+    const errStr = error?.message || error?.toString() || "";
+    if (errStr.includes("Bad MAC") ||
+        errStr.includes("MessageCounterError") ||
+        errStr.includes("Failed to decrypt")) {
         return;
     }
-    console.log('[ERRO CRÍTICO] Exceção não tratada:', error?.message || error);
+    console.error("[ERRO CRÍTICO] Exceção não tratada:", error?.message || error);
 });
 const storage = new storage_1.StorageManager();
 let sockInstance = null;
-// Cron 1: Mensagens Automáticas Programadas (!ma) a cada hora
-node_cron_1.default.schedule('0 * * * *', async () => {
+let connectionOpen = false;
+let reconnectDelay = 3000;
+let lastDisconnectAt = 0;
+let downStartStr = "";
+let watchdogNotified = false;
+let lastProcessedMsg = Date.now();
+let lastBootAt = Date.now();
+let rebooting = false;
+const AUTO_REBOOT_MS = 0;
+setInterval(() => {
+    if (sockInstance && connectionOpen) {
+        sockInstance.sendPresenceUpdate?.('available').catch(() => { });
+    }
+}, 30000);
+async function doReboot(reason) {
+    if (rebooting)
+        return;
+    rebooting = true;
+    console.log('[REBOOT] ' + reason);
+    try {
+        sockInstance?.end?.(undefined);
+    }
+    catch (e) { }
+    sockInstance = null;
+    setTimeout(() => { rebooting = false; lastBootAt = Date.now(); startBot(); }, 2000);
+}
+// Banco de contatos próprio (substitui o makeInMemoryStore, que não existe nesta versão do Baileys)
+const contactsDB = {};
+(0, user_1.setContactsLookup)((jid) => {
+    const c = contactsDB[jid];
+    if (c && (c.name || c.notify))
+        return { name: c.name || c.notify };
+    return null;
+});
+(0, webServer_1.startWebServer)(() => sockInstance, storage, parseInt(process.env.WEB_PORT || "3000", 10));
+process.on("SIGINT", () => {
+    console.log("\n[SISTEMA] Encerrando... salvando dados.");
+    storage.shutdown();
+    process.exit(0);
+});
+process.on("SIGTERM", () => {
+    storage.shutdown();
+    process.exit(0);
+});
+node_cron_1.default.schedule("0 3 * * *", () => {
+    storage.pruneStorage();
+}, { timezone: TIMEZONE });
+node_cron_1.default.schedule('0 4 * * *', () => {
+    doReboot('reboot diário programado (04:00)');
+}, { timezone: TIMEZONE });
+node_cron_1.default.schedule('0 8 * * *', async () => {
+    if (!sockInstance)
+        return;
+    for (const chatId in storage.data.perguntaDia) {
+        if (storage.isBotDisabled(chatId))
+            continue;
+        const p = storage.data.perguntaDia[chatId];
+        if (p && p.question) {
+            await sockInstance.sendMessage(chatId, { text: '🤔 *PERGUNTA DO DIA*\n\n' + p.question + '\n\n_Responda e interaja com o grupo!_' }).catch(() => { });
+        }
+    }
+}, { timezone: TIMEZONE });
+node_cron_1.default.schedule('0 9 * * *', async () => {
+    if (!sockInstance)
+        return;
+    const today = new Date().toLocaleDateString('pt-BR', { day: '2-digit', month: '2-digit' });
+    for (const chatId in storage.data.birthdays) {
+        if (storage.isBotDisabled(chatId))
+            continue;
+        for (const num in storage.data.birthdays[chatId]) {
+            if (storage.data.birthdays[chatId][num] === today) {
+                const info = (0, user_1.getUserInfo)(num + '@s.whatsapp.net');
+                await sockInstance.sendMessage(chatId, {
+                    text: '🎂🎉 *FELIZ ANIVERSÁRIO!* 🎉\n\nHoje é o dia de ' + info.smartMention + '! Parabéns! 🥳🎈',
+                    mentions: [info.mentionJid, info.jid]
+                }).catch(() => { });
+            }
+        }
+    }
+}, { timezone: TIMEZONE });
+node_cron_1.default.schedule('0 7 * * *', async () => {
+    if (!sockInstance)
+        return;
+    for (const chatId in storage.data.countdowns) {
+        if (storage.isBotDisabled(chatId))
+            continue;
+        for (const key in storage.data.countdowns[chatId]) {
+            const c = storage.data.countdowns[chatId][key];
+            const target = new Date(c.date + 'T00:00:00-03:00').getTime();
+            const diff = target - Date.now();
+            if (diff <= 0) {
+                await sockInstance.sendMessage(chatId, { text: '🎉 *' + c.name.toUpperCase() + '* — É HOJE!' }).catch(() => { });
+                delete storage.data.countdowns[chatId][key];
+                storage.flagSave();
+            }
+            else {
+                const days = Math.ceil(diff / (1000 * 60 * 60 * 24));
+                await sockInstance.sendMessage(chatId, { text: '⏳ *COUNTDOWN:* ' + c.name + ' — faltam *' + days + ' dias*!' }).catch(() => { });
+            }
+        }
+    }
+}, { timezone: TIMEZONE });
+setInterval(async () => {
+    if (!sockInstance || !storage.data.sorteios)
+        return;
+    const now = Date.now();
+    for (const chatId in storage.data.sorteios) {
+        const s = storage.data.sorteios[chatId];
+        if (!s || s.ended || now < s.endsAt)
+            continue;
+        s.ended = true;
+        storage.flagSave();
+        if (!s.participants.length) {
+            await sockInstance.sendMessage(chatId, { text: '🎲 Sorteio de "' + s.prize + '" encerrado sem participantes.' }).catch(() => { });
+            continue;
+        }
+        const winner = s.participants[Math.floor(Math.random() * s.participants.length)];
+        const info = (0, user_1.getUserInfo)(winner);
+        await sockInstance.sendMessage(chatId, {
+            text: '🎉 *SORTEIO ENCERRADO!* 🎉\n\n🏆 *Prêmio:* ' + s.prize + '\n👑 *Vencedor:* ' + info.smartMention + '\n\nParabéns! 🥳',
+            mentions: [info.mentionJid, info.jid]
+        }).catch(() => { });
+    }
+}, 30000);
+setInterval(async () => {
+    if (!sockInstance || !storage.data.goalAlerts)
+        return;
+    const matches = await (0, media_1.fetchLiveMatches)();
+    if (!matches.length)
+        return;
+    for (const chatId in storage.data.goalAlerts) {
+        if (storage.isBotDisabled(chatId))
+            continue;
+        for (const m of matches) {
+            const key = m.home + '_' + m.away;
+            const prev = storage.data.goalAlerts[chatId][key];
+            if (!prev) {
+                storage.data.goalAlerts[chatId][key] = { home: m.home, away: m.away, lastScore: m.score };
+                storage.flagSave();
+                continue;
+            }
+            if (prev.lastScore !== m.score) {
+                await sockInstance.sendMessage(chatId, { text: '⚽ *GOL!* ' + m.home + ' ' + m.score + ' ' + m.away + ' (' + m.minute + ')' }).catch(() => { });
+                storage.data.goalAlerts[chatId][key].lastScore = m.score;
+                storage.flagSave();
+            }
+        }
+    }
+}, 60000);
+setInterval(async () => {
+    if (!sockInstance || !storage.data.reminders || !storage.data.reminders.length)
+        return;
+    const now = Date.now();
+    const due = storage.data.reminders.filter(reminder => now >= reminder.runAt);
+    if (!due.length)
+        return;
+    storage.data.reminders = storage.data.reminders.filter(reminder => now < reminder.runAt);
+    storage.flagSave();
+    for (const reminder of due) {
+        const info = (0, user_1.getUserInfo)(reminder.userJid);
+        await sockInstance.sendMessage(reminder.chatId, {
+            text: '⏰ *LEMBRETE* para ' + info.nameAndNumber + ':\n"' + reminder.text + '"',
+            mentions: [info.mentionJid, info.jid]
+        }).catch(() => { });
+    }
+}, 15000);
+node_cron_1.default.schedule("0 * * * *", async () => {
     if (!storage.data.scheduledMsgs || storage.data.scheduledMsgs.length === 0)
         return;
     const now = new Date();
     const currentHour = now.getHours();
-    const dateStr = now.toLocaleDateString('pt-BR');
+    const dateStr = now.toLocaleDateString("pt-BR");
     let modified = false;
     for (let i = 0; i < storage.data.scheduledMsgs.length; i++) {
         const sched = storage.data.scheduledMsgs[i];
-        if (storage.isBotDisabled(sched.chatId) || storage.isFeatureDisabled(sched.chatId, 'ma'))
+        if (storage.isBotDisabled(sched.chatId) ||
+            storage.isFeatureDisabled(sched.chatId, "ma"))
             continue;
         if (sched.hours.includes(currentHour)) {
             if (!sched.lastSent)
                 sched.lastSent = {};
-            const sentKey = `${dateStr}-${currentHour}`;
+            const sentKey = dateStr + "-" + currentHour;
             if (!sched.lastSent[sentKey]) {
                 try {
                     await sockInstance?.sendMessage(sched.chatId, { text: sched.text });
@@ -95,103 +320,305 @@ node_cron_1.default.schedule('0 * * * *', async () => {
                     modified = true;
                 }
                 catch (e) {
-                    console.error('[ERRO AUTO MSG CRON]', e.message);
+                    console.error("[ERRO AUTO MSG CRON]", e.message);
                 }
             }
         }
     }
     if (modified)
         storage.flagSave();
-}, { timezone: "America/Sao_Paulo" });
-// Cron 2: Agendador Diário de Abertura/Fechamento & Divulgações Programadas
-node_cron_1.default.schedule('* * * * *', async () => {
+}, { timezone: TIMEZONE });
+node_cron_1.default.schedule("* * * * *", async () => {
     if (!sockInstance)
         return;
-    const now = new Date();
-    const currentHHMM = now.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit', hour12: false });
-    // A. Abertura / Fechamento de Grupos
+    const currentHHMM = (0, time_1.getHHMM)();
     if (storage.data.groupSchedules) {
+        const orphanChatIds = [];
         for (const chatId in storage.data.groupSchedules) {
-            if (storage.isBotDisabled(chatId) || storage.isGroupClosed(chatId))
+            if (storage.isBotDisabled(chatId))
                 continue;
             const sched = storage.data.groupSchedules[chatId];
-            if (!sched)
+            if (!sched) {
+                orphanChatIds.push(chatId);
                 continue;
-            if (sched.openTime === currentHHMM && !storage.isFeatureDisabled(chatId, 'fechar_abrir')) {
+            }
+            if (storage.isFeatureDisabled(chatId, "fechar_abrir"))
+                continue;
+            // Valida se o grupo ainda existe antes de tentar abrir/fechar.
+            let meta = null;
+            try {
+                meta = await sockInstance.groupMetadata(chatId);
+            }
+            catch (e) { }
+            if (!meta) {
+                orphanChatIds.push(chatId);
+                console.log("[AGENDA] ⚠️ Grupo " +
+                    chatId +
+                    " não existe mais — removendo da agenda.");
+                continue;
+            }
+            if (sched.openTime === currentHHMM) {
                 try {
-                    await sockInstance.groupSettingUpdate(chatId, 'not_announcement');
+                    await sockInstance.groupSettingUpdate(chatId, "not_announcement");
                     storage.setGroupClosed(chatId, false);
                     await sockInstance.sendMessage(chatId, {
-                        text: `🔓 *BOM DIA! PROTOCOLO JARVIS DE ABERTURA:*
-
-O chat foi liberado para todos os membros conversarem conforme o horário programado (${sched.openTime}).`
+                        text: "🔓 *" + greetingByHour(new Date().getHours()) + "! PROTOCOLO BOT DROPHTTP DE ABERTURA:*\n\nO chat foi liberado para todos os membros conversarem conforme o horário programado (" +
+                            sched.openTime +
+                            ").",
                     });
-                    console.log(`[HORÁRIO AUTOMÁTICO] Grupo ${chatId} aberto às ${currentHHMM}`);
+                    console.log("[AGENDA] Grupo " + chatId + " aberto às " + currentHHMM);
                 }
                 catch (e) {
-                    console.error('[ERRO AUTO ABRIR GRUPO]', e.message);
+                    console.error("[ERRO AUTO ABRIR GRUPO]", e.message);
                 }
             }
-            if (sched.closeTime === currentHHMM && !storage.isFeatureDisabled(chatId, 'fechar_abrir')) {
+            if (sched.closeTime === currentHHMM) {
                 try {
-                    await sockInstance.groupSettingUpdate(chatId, 'announcement');
+                    await sockInstance.groupSettingUpdate(chatId, "announcement");
                     storage.setGroupClosed(chatId, true);
                     await sockInstance.sendMessage(chatId, {
-                        text: `🔒 *BOA NOITE! PROTOCOLO JARVIS DE FECHAMENTO:*
-
-O chat foi fechado para descanso/manutenção conforme o horário programado (${sched.closeTime}). Apenas administradores podem enviar mensagens neste momento.`
+                        text: "🔒 *" + greetingByHour(new Date().getHours()) + "! PROTOCOLO BOT DROPHTTP DE FECHAMENTO:*\n\nO chat foi fechado para descanso/manutenção conforme o horário programado (" +
+                            sched.closeTime +
+                            "). Apenas administradores podem enviar mensagens neste momento.",
                     });
-                    console.log(`[HORÁRIO AUTOMÁTICO] Grupo ${chatId} fechado às ${currentHHMM}`);
+                    console.log("[AGENDA] Grupo " + chatId + " fechado às " + currentHHMM);
                 }
                 catch (e) {
-                    console.error('[ERRO AUTO FECHAR GRUPO]', e.message);
+                    console.error("[ERRO AUTO FECHAR GRUPO]", e.message);
                 }
             }
         }
+        // Auto-limpa agendas órfãs.
+        if (orphanChatIds.length > 0) {
+            for (const cid of orphanChatIds)
+                delete storage.data.groupSchedules[cid];
+            storage.flagSave();
+            console.log("[AGENDA] " +
+                orphanChatIds.length +
+                " grupo(s) órfão(s) removido(s) da agenda.");
+        }
     }
-    // B. Divulgações Programadas (!divulga)
     if (storage.data.promoSchedule) {
         for (const chatId in storage.data.promoSchedule) {
-            if (storage.isBotDisabled(chatId) || storage.isFeatureDisabled(chatId, 'divulga'))
+            if (storage.isBotDisabled(chatId) ||
+                storage.isFeatureDisabled(chatId, "divulga"))
                 continue;
             const promo = storage.data.promoSchedule[chatId];
             if (!promo || !promo.active)
                 continue;
-            // Início do Horário de Divulgação
             if (promo.startTime === currentHHMM) {
                 try {
                     await sockInstance.sendMessage(chatId, {
-                        text: `📢 *HORÁRIO DE DIVULGAÇÕES ABERTO!* (${promo.startTime} às ${promo.endTime})\n\n${promo.content}\n\n🛡️ *Atenção:* O envio de links está liberado para todos os membros durante este período sem risco de remoção!`
+                        text: "📢 *HORÁRIO DE DIVULGAÇÕES ABERTO!* (" +
+                            promo.startTime +
+                            " às " +
+                            promo.endTime +
+                            ")\n\n" +
+                            promo.content +
+                            "\n\n🛡️ *Atenção:* O envio de links está liberado para todos os membros durante este período sem risco de remoção!",
                     });
                 }
                 catch (e) { }
             }
-            // Fim do Horário de Divulgação
             if (promo.endTime === currentHHMM) {
                 try {
                     await sockInstance.sendMessage(chatId, {
-                        text: `🔒 *HORÁRIO DE DIVULGAÇÕES ENCERRADO!*\n\n_O Anti-Link voltou a operar normalmente com expulsão automática para quem enviar links._`
+                        text: "🔒 *HORÁRIO DE DIVULGAÇÕES ENCERRADO!*\n\n_O Anti-Link voltou a operar normalmente com expulsão automática para quem enviar links._",
                     });
                 }
                 catch (e) { }
             }
         }
     }
-}, { timezone: "America/Sao_Paulo" });
-// Cron 3: Limpeza e Purga Contínua dos Clusters de Memória (> 30 Minutos)
-node_cron_1.default.schedule('*/5 * * * *', () => {
+}, { timezone: TIMEZONE });
+node_cron_1.default.schedule("*/5 * * * *", () => {
     storage.purgeExpiredClusters();
 });
+setInterval(async () => {
+    if (!sockInstance)
+        return;
+    for (const chatId in storage.data.autoApprove) {
+        if (!storage.data.autoApprove[chatId] || storage.isBotDisabled(chatId))
+            continue;
+        try {
+            const pending = await sockInstance.groupRequestParticipantsList?.(chatId);
+            if (!pending || !pending.length)
+                continue;
+            for (const req of pending) {
+                const jid = req.jid || req.id;
+                if (!jid)
+                    continue;
+                await sockInstance.groupRequestParticipantsUpdate?.(chatId, [jid], 'approve').catch(() => { });
+                storage.logAdminAction(chatId, 'BOT', 'AUTO-APROVADO', (0, user_1.extractRawNumber)(jid));
+            }
+        }
+        catch (e) { }
+    }
+}, 30000);
+setInterval(async () => {
+    if (!sockInstance || !storage.data.pendingCaptcha)
+        return;
+    const now = Date.now();
+    for (const chatId in storage.data.pendingCaptcha) {
+        for (const num in storage.data.pendingCaptcha[chatId]) {
+            const entry = storage.data.pendingCaptcha[chatId][num];
+            if (now > entry.expires) {
+                delete storage.data.pendingCaptcha[chatId][num];
+                storage.flagSave();
+                const jid = num + '@s.whatsapp.net';
+                const info = (0, user_1.getUserInfo)(jid);
+                try {
+                    await sockInstance.groupParticipantsUpdate(chatId, [jid], 'remove');
+                    await sockInstance.sendMessage(chatId, { text: '⏰ ' + info.smartMention + ' não respondeu o captcha a tempo. Removido.', mentions: [info.mentionJid, info.jid] });
+                    storage.logAdminAction(chatId, 'BOT', 'CAPTCHA EXPIRADO → removido', num);
+                }
+                catch (e) { }
+            }
+        }
+    }
+}, 30000);
+node_cron_1.default.schedule('0 3 * * *', async () => {
+    if (!sockInstance)
+        return;
+    for (const chatId in storage.data.autoRemoveInactive) {
+        if (storage.isBotDisabled(chatId))
+            continue;
+        const dias = storage.data.autoRemoveInactive[chatId];
+        if (!dias)
+            continue;
+        try {
+            const meta = await sockInstance.groupMetadata(chatId).catch(() => null);
+            if (!meta)
+                continue;
+            const stats = storage.data.groupStats?.[chatId] || {};
+            const cutoff = Date.now() - (dias * 24 * 60 * 60 * 1000);
+            if (!storage.data.autoRemoveWarned)
+                storage.data.autoRemoveWarned = {};
+            if (!storage.data.autoRemoveWarned[chatId])
+                storage.data.autoRemoveWarned[chatId] = [];
+            for (const p of meta.participants) {
+                if (p.admin)
+                    continue;
+                const num = (0, user_1.extractRawNumber)(p.id);
+                if (!num)
+                    continue;
+                const userStat = stats[num];
+                const lastActive = userStat ? userStat.lastSeen || 0 : 0;
+                if (lastActive && lastActive > cutoff)
+                    continue;
+                if (!userStat || (userStat.total || 0) === 0 || lastActive < cutoff) {
+                    const alreadyWarned = storage.data.autoRemoveWarned[chatId].includes(num);
+                    const info = (0, user_1.getUserInfo)(p.id);
+                    if (!alreadyWarned) {
+                        storage.data.autoRemoveWarned[chatId].push(num);
+                        storage.flagSave();
+                        await sockInstance.sendMessage(chatId, {
+                            text: '⚠️ ' + info.smartMention + ', você está inativo há mais de *' + dias + ' dias*. Se não interagir em 24h, será removido automaticamente.',
+                            mentions: [info.mentionJid, info.jid]
+                        }).catch(() => { });
+                    }
+                    else {
+                        try {
+                            await sockInstance.groupParticipantsUpdate(chatId, [p.id], 'remove');
+                            storage.data.autoRemoveWarned[chatId] = storage.data.autoRemoveWarned[chatId].filter(n => n !== num);
+                            storage.flagSave();
+                            storage.logAdminAction(chatId, 'BOT', 'AUTO-REMOVE inativo ' + dias + 'd', num);
+                        }
+                        catch (e) { }
+                    }
+                }
+            }
+        }
+        catch (e) { }
+    }
+}, { timezone: TIMEZONE });
+node_cron_1.default.schedule('0 * * * *', async () => {
+    if (!sockInstance)
+        return;
+    const now = new Date();
+    for (const chatId in storage.data.purgeSchedule) {
+        const config = storage.data.purgeSchedule[chatId];
+        if (storage.isBotDisabled(chatId) || !config || config.hour !== now.getHours())
+            continue;
+        const cutoff = Date.now() - config.olderThanHrs * 60 * 60 * 1000;
+        const buffered = storage.data.messageBuffer?.[chatId] || {};
+        for (const id in buffered) {
+            const item = buffered[id];
+            if (item.timestamp >= cutoff)
+                continue;
+            try {
+                await sockInstance.sendMessage(chatId, { delete: { remoteJid: chatId, id, participant: item.sender } });
+            }
+            catch (e) { }
+            delete buffered[id];
+        }
+        storage.flagSave();
+        storage.logAdminAction(chatId, 'BOT', 'PURGE mensagens +' + config.olderThanHrs + 'h');
+    }
+}, { timezone: TIMEZONE });
+setInterval(() => {
+    if (lastDisconnectAt > 0) {
+        const downMs = Date.now() - lastDisconnectAt;
+        if (downMs >= 5 * 60 * 1000 && !watchdogNotified) {
+            watchdogNotified = true;
+            console.log("[WATCHDOG] ⚠️ Bot fora do ar há mais de 5 minutos (desde " +
+                downStartStr +
+                "). O criador será notificado no privado assim que reconectar.");
+        }
+    }
+}, 60000);
+setInterval(() => {
+    if (AUTO_REBOOT_MS > 0 && (Date.now() - lastBootAt) > AUTO_REBOOT_MS) {
+        doReboot('auto-reboot programado');
+        return;
+    }
+    if (!connectionOpen && lastDisconnectAt > 0 && (Date.now() - lastDisconnectAt) > 120000 && !rebooting) {
+        doReboot('conexão não restabelecida há 2min');
+    }
+}, 60000);
+async function syncSchedulesOnBoot(sock) {
+    try {
+        if (!storage.data.groupSchedules)
+            return;
+        const currentHHMM = (0, time_1.getHHMM)();
+        for (const chatId in storage.data.groupSchedules) {
+            const sched = storage.data.groupSchedules[chatId];
+            if (!sched ||
+                storage.isBotDisabled(chatId) ||
+                storage.isFeatureDisabled(chatId, "fechar_abrir"))
+                continue;
+            const shouldOpen = (0, time_1.isWithinWindow)(sched.openTime, sched.closeTime, currentHHMM);
+            const meta = await sock.groupMetadata(chatId).catch(() => null);
+            if (!meta)
+                continue;
+            const isAnnouncement = meta.announce === true;
+            if (shouldOpen && isAnnouncement) {
+                await sock.groupSettingUpdate(chatId, "not_announcement");
+                storage.setGroupClosed(chatId, false);
+                console.log("[AGENDA BOOT] Grupo " + chatId + " deveria estar ABERTO → aberto.");
+            }
+            else if (!shouldOpen && !isAnnouncement && sched.closeTime) {
+                await sock.groupSettingUpdate(chatId, "announcement");
+                storage.setGroupClosed(chatId, true);
+                console.log("[AGENDA BOOT] Grupo " + chatId + " deveria estar FECHADO → fechado.");
+            }
+        }
+    }
+    catch (e) {
+        console.error("[ERRO AGENDA BOOT]", e.message);
+    }
+}
 async function startBot() {
-    const { state, saveCreds } = await (0, baileys_1.useMultiFileAuthState)('./sessions');
+    const { state, saveCreds } = await (0, baileys_1.useMultiFileAuthState)("./sessions");
     const { version } = await (0, baileys_1.fetchLatestBaileysVersion)();
     const sock = (0, baileys_1.default)({
         version,
-        logger: (0, pino_1.default)({ level: 'silent' }),
+        logger: (0, pino_1.default)({ level: "silent" }),
+        keepAliveIntervalMs: 10000,
         printQRInTerminal: false,
         auth: state,
         syncFullHistory: false,
-        browser: ['JARVIS AUTONOMOUS', 'Chrome', '2.5.0'],
+        browser: ["BOT DROPHTTP", "Chrome", "2.5.0"],
         getMessage: async (key) => {
             const msgId = key.id;
             const chatId = key.remoteJid;
@@ -199,41 +626,99 @@ async function startBot() {
                 return { conversation: storage.data.messageBuffer[chatId][msgId].text };
             }
             return undefined;
-        }
+        },
     });
     sockInstance = sock;
-    sock.ev.on('creds.update', saveCreds);
-    sock.ev.on('connection.update', (update) => {
+    // Alimenta o banco de contatos próprio (nomes registrados no WhatsApp)
+    sock.ev.on("contacts.upsert", (contacts) => {
+        for (const c of contacts) {
+            contactsDB[c.id] = { name: c.name, notify: c.notify };
+            (0, user_1.rememberProfile)(c.id, c.name || c.notify);
+        }
+    });
+    sock.ev.on("creds.update", saveCreds);
+    sock.ev.on("connection.update", async (update) => {
         const { connection, lastDisconnect, qr } = update;
         if (qr) {
             qrcode_terminal_1.default.generate(qr, { small: true });
-            console.log('\n[SISTEMA] Escaneie o QR Code acima com seu WhatsApp.');
+            console.log("\n[SISTEMA] Escaneie o QR Code acima com seu WhatsApp.");
         }
-        if (connection === 'close') {
-            const shouldReconnect = lastDisconnect?.error?.output?.statusCode !== baileys_1.DisconnectReason.loggedOut;
-            console.log('[SISTEMA] Conexão fechada. Reconectando em 3 segundos...', shouldReconnect);
+        if (connection === "close") {
+            connectionOpen = false;
+            if (!lastDisconnectAt) {
+                lastDisconnectAt = Date.now();
+                downStartStr = (0, time_1.getHHMM)();
+            }
+            const shouldReconnect = lastDisconnect?.error?.output?.statusCode !==
+                baileys_1.DisconnectReason.loggedOut;
+            logOnce('reconnect', '[SISTEMA] Conexão fechada. Reconectando em ' + (reconnectDelay / 1000) + 's... (shouldReconnect=' + shouldReconnect + ')');
             if (shouldReconnect) {
-                setTimeout(() => startBot(), 3000);
+                setTimeout(() => startBot(), reconnectDelay);
+                reconnectDelay = Math.min(reconnectDelay * 2, 30000);
+            }
+            else {
+                logOnce('reconnect', '[SISTEMA] ⚠️ Desconectado permanentemente. Apague ./sessions e reinicie.', true);
             }
         }
-        else if (connection === 'open') {
-            console.log('[SISTEMA] JARVIS BOT2.0 conectado com sucesso!');
+        else if (connection === "open") {
+            connectionOpen = true;
+            reconnectDelay = 3000;
+            lastBootAt = Date.now();
+            lastProcessedMsg = Date.now();
+            logOnce('success', '[SISTEMA] 🎉 BOT DROPHTTP conectado com sucesso!');
+            if (storage.data.maintenance) {
+                console.log("[SISTEMA] ⚠️ Bot em MODO MANUTENÇÃO. Use !botmanutencao off para voltar.");
+            }
+            if (lastDisconnectAt > 0) {
+                const downMs = Date.now() - lastDisconnectAt;
+                lastDisconnectAt = 0;
+                if (downMs >= 5 * 60 * 1000 || watchdogNotified) {
+                    const downMin = Math.max(1, Math.round(downMs / 60000));
+                    try {
+                        sock.sendMessage(CREATOR_JID, {
+                            text: "🟢 *BOT DROPHTTP VOLTOU ONLINE*\n\n" +
+                                "⚠️ Fiquei fora do ar por cerca de *" +
+                                downMin +
+                                " min*.\n" +
+                                "🕒 Queda às " +
+                                downStartStr +
+                                " → retorno às " +
+                                (0, time_1.getHHMM)() +
+                                ".\n\n" +
+                                "_Se isso se repetir, verifique se o PC/servidor está ligado e com internet._",
+                        });
+                    }
+                    catch (e) { }
+                }
+                watchdogNotified = false;
+            }
+            syncSchedulesOnBoot(sock);
         }
     });
-    // Listener Anti-Delete (Detecção de Mensagens Apagadas no Grupo)
-    sock.ev.on('messages.update', async (updates) => {
+    sock.ev.on("messages.update", async (updates) => {
         for (const update of updates) {
-            if (update.update?.messageStubType === 1 || update.update?.message === null) {
-                const chatId = update.key.remoteJid || '';
-                const msgId = update.key.id || '';
-                if (chatId.endsWith('@g.us') && !storage.isBotDisabled(chatId) && !storage.isFeatureDisabled(chatId, 'antidelete') && storage.data.antidelete?.[chatId] !== false) {
+            if (update.update?.messageStubType === 1 ||
+                update.update?.message === null) {
+                const chatId = update.key.remoteJid || "";
+                const msgId = update.key.id || "";
+                if (chatId.endsWith("@g.us") &&
+                    !storage.isBotDisabled(chatId) &&
+                    !storage.isFeatureDisabled(chatId, "antidelete") &&
+                    storage.data.antidelete?.[chatId] !== false) {
                     const buffered = storage.data.messageBuffer?.[chatId]?.[msgId];
-                    if (buffered && (Date.now() - buffered.timestamp < 15 * 60 * 1000)) {
+                    if (buffered && Date.now() - buffered.timestamp < 15 * 60 * 1000) {
                         const authorInfo = (0, user_1.getUserInfo)(buffered.sender);
-                        const deletedMsg = `🗑️ *ANTI-DELETE (MENSAGEM APAGADA DETECTADA)* 🗑️\n\n` +
-                            `👤 *Autor:* ${authorInfo.nameAndNumber}\n` +
-                            `💬 *Conteúdo Apagado:*\n"${buffered.text}"`;
-                        await sock.sendMessage(chatId, { text: deletedMsg, mentions: [authorInfo.jid] });
+                        const deletedMsg = "🗑️ *ANTI-DELETE (MENSAGEM APAGADA DETECTADA)* 🗑️\n\n" +
+                            "👤 *Autor:* " +
+                            authorInfo.smartMention +
+                            "\n" +
+                            '💬 *Conteúdo Apagado:*\n"' +
+                            buffered.text +
+                            '"';
+                        await sock.sendMessage(chatId, {
+                            text: deletedMsg,
+                            mentions: [authorInfo.mentionJid, authorInfo.jid],
+                        });
                         delete storage.data.messageBuffer[chatId][msgId];
                         storage.flagSave();
                     }
@@ -242,9 +727,22 @@ async function startBot() {
         }
     });
     (0, events_1.setupGroupEvents)(sock, storage);
-    sock.ev.on('messages.upsert', async (m) => {
+    sock.ev.on("messages.upsert", async (m) => {
+        if (m.type !== 'notify')
+            return;
         for (const msg of m.messages) {
+            if (!msg.message || msg.key.fromMe || !msg.key.remoteJid)
+                continue;
+            const senderPn = msg.key.senderPn;
+            if (msg.pushName)
+                (0, user_1.rememberProfile)(msg.key.participant || msg.key.remoteJid, msg.pushName, senderPn);
+            const rawTs = msg.messageTimestamp;
+            const tsSec = typeof rawTs === 'number' ? rawTs : (rawTs?.low ?? rawTs?.toNumber?.() ?? 0);
+            const msgTime = Number(tsSec) * 1000;
+            if (msgTime && Date.now() - msgTime > 10 * 60 * 1000)
+                continue;
             try {
+                lastProcessedMsg = Date.now();
                 await (0, commands_1.handleCommand)(sock, msg, storage);
             }
             catch (err) {
@@ -252,51 +750,9 @@ async function startBot() {
             }
         }
     });
-    // Verificador 1: Sistema Anti-Ghost (10 minutos para apresentação)
     setInterval(async () => {
-        if (!storage.data.pendingPresentations || storage.data.pendingPresentations.length === 0)
-            return;
-        const now = Date.now();
-        const remaining = [];
-        for (const item of storage.data.pendingPresentations) {
-            if (now >= item.deadline) {
-                try {
-                    const chatId = item.chatId;
-                    if (storage.isBotDisabled(chatId) || storage.isGroupClosed(chatId))
-                        continue;
-                    const isAntiGhostActive = !storage.isFeatureDisabled(chatId, 'antighost') && storage.data.antighost[chatId] !== false;
-                    if (isAntiGhostActive) {
-                        const groupMeta = await sock.groupMetadata(chatId).catch(() => null);
-                        const isStillInGroup = groupMeta?.participants?.some(p => p.id === item.memberId || (0, rbac_1.checkMatch)(p.id.split('@')[0], item.memberNum));
-                        if (isStillInGroup) {
-                            await sock.groupParticipantsUpdate(chatId, [item.memberId], 'remove');
-                            await sock.sendMessage(chatId, {
-                                text: `👻 *JARVIS SECURITY (ANTI-GHOST):*\n\n` +
-                                    `👤 *Membro:* @${item.memberNum} (*${item.memberName}*)\n` +
-                                    `⏰ *Motivo:* Não enviou mensagem de apresentação no prazo de 10 minutos após entrar no grupo.\n\n` +
-                                    `_O grupo mantém apenas integrantes participativos._`,
-                                mentions: [item.memberId]
-                            });
-                            console.log(`[ANTI-GHOST] Membro @${item.memberNum} removido.`);
-                        }
-                    }
-                }
-                catch (e) {
-                    console.error('[ERRO AUTO KICK ANTI-GHOST]', e.message);
-                }
-            }
-            else {
-                remaining.push(item);
-            }
-        }
-        if (remaining.length !== storage.data.pendingPresentations.length) {
-            storage.data.pendingPresentations = remaining;
-            storage.flagSave();
-        }
-    }, 30000);
-    // Verificador 2: Lembrete de Boas-Vindas (!bv - 15 minutos com Verificação de Permanência)
-    setInterval(async () => {
-        if (!storage.data.pendingBvReminders || storage.data.pendingBvReminders.length === 0)
+        if (!storage.data.pendingBvReminders ||
+            storage.data.pendingBvReminders.length === 0)
             return;
         const now = Date.now();
         const remaining = [];
@@ -304,11 +760,16 @@ async function startBot() {
             if (now >= reminder.runAt) {
                 try {
                     const chatId = reminder.chatId;
-                    if (storage.isBotDisabled(chatId) || storage.isFeatureDisabled(chatId, 'bv'))
+                    if (storage.isBotDisabled(chatId) ||
+                        storage.isFeatureDisabled(chatId, "bv"))
                         continue;
-                    const bvConfig = storage.data.welcomeReminders ? storage.data.welcomeReminders[chatId] : null;
+                    const bvConfig = storage.data.welcomeReminders
+                        ? storage.data.welcomeReminders[chatId]
+                        : null;
                     if (bvConfig && bvConfig.text) {
-                        const groupMeta = await sockInstance?.groupMetadata(chatId).catch(() => null);
+                        const groupMeta = await sockInstance
+                            ?.groupMetadata(chatId)
+                            .catch(() => null);
                         if (!groupMeta || !groupMeta.participants) {
                             remaining.push(reminder);
                             continue;
@@ -316,34 +777,36 @@ async function startBot() {
                         const rawMemberNum = (0, user_1.extractRawNumber)(reminder.newMemberId);
                         const isStillInGroup = groupMeta.participants.some((p) => p.id === reminder.newMemberId ||
                             p.lid === reminder.newMemberId ||
-                            (p.id && (0, rbac_1.checkMatch)(p.id.split('@')[0], rawMemberNum)) ||
-                            (p.lid && (0, rbac_1.checkMatch)(p.lid.split('@')[0], rawMemberNum)));
+                            (p.id && (0, rbac_1.checkMatch)(p.id.split("@")[0], rawMemberNum)) ||
+                            (p.lid &&
+                                (0, rbac_1.checkMatch)(p.lid.split("@")[0], rawMemberNum)));
                         if (!isStillInGroup) {
-                            console.log(`[LEMBRETE BV CANCELADO] O membro +${rawMemberNum} não está mais no grupo ${chatId}.`);
                             continue;
                         }
                         const memberInfo = (0, user_1.getUserInfo)(reminder.newMemberId);
                         let userText = bvConfig.text.trim();
-                        if (userText.includes('{membro}')) {
-                            userText = userText.replace(/\{membro\}/gi, memberInfo.nameAndNumber);
+                        if (userText.includes("{membro}")) {
+                            userText = userText.replace(/\{membro\}/gi, memberInfo.smartMention);
                         }
-                        else if (userText.includes('{nome}')) {
+                        else if (userText.includes("{nome}")) {
                             userText = userText.replace(/\{nome\}/gi, memberInfo.pushName || memberInfo.formattedNum);
                         }
-                        else if (userText.includes('{numero}')) {
+                        else if (userText.includes("{numero}")) {
                             userText = userText.replace(/\{numero\}/gi, memberInfo.formattedNum);
                         }
                         else {
-                            userText = `👋 ${memberInfo.nameAndNumber}\n\n${userText}`;
+                            userText = userText + "\n\n👋 " + memberInfo.smartMention;
                         }
-                        const fullText = `📢 @todos @all\n\n${userText}`;
-                        const allMentions = Array.from(new Set([memberInfo.jid, reminder.newMemberId])).filter(Boolean);
-                        await sockInstance?.sendMessage(chatId, { text: fullText, mentions: allMentions });
-                        console.log(`[LEMBRETE BV ENVIADO] Lembrete disparado para ${memberInfo.nameAndNumber} no grupo ${chatId}`);
+                        const fullText = "📢 @todos @all\n\n" + userText;
+                        const allMentions = Array.from(new Set([memberInfo.mentionJid, memberInfo.jid, reminder.newMemberId])).filter(Boolean);
+                        await sockInstance?.sendMessage(chatId, {
+                            text: fullText,
+                            mentions: allMentions,
+                        });
                     }
                 }
                 catch (e) {
-                    console.error('[ERRO LEMBRETE BV]', e.message);
+                    console.error("[ERRO LEMBRETE BV]", e.message);
                 }
             }
             else {
@@ -355,32 +818,31 @@ async function startBot() {
             storage.flagSave();
         }
     }, 30000);
-    // Verificador 3: Inatividade de 20 Minutos com Intervenção Contextual Jarvis
     setInterval(async () => {
         if (!storage.data.autoAnim)
             return;
         const now = Date.now();
-        const INACTIVITY_LIMIT = 20 * 60 * 1000;
+        const INACTIVITY_LIMIT = 30 * 60 * 1000;
         for (const chatId in storage.data.autoAnim) {
             if (storage.isBotDisabled(chatId) || storage.isGroupClosed(chatId))
                 continue;
-            if (storage.data.autoAnim[chatId] === true && !storage.isFeatureDisabled(chatId, 'auto')) {
+            if (storage.data.autoAnim[chatId] === true &&
+                !storage.isFeatureDisabled(chatId, "auto")) {
                 const lastActive = storage.data.lastGroupActivity[chatId] || 0;
                 const alreadySent = storage.data.autoAnimSent[chatId] || false;
-                if (lastActive > 0 && (now - lastActive >= INACTIVITY_LIMIT) && !alreadySent) {
+                if (lastActive > 0 &&
+                    now - lastActive >= INACTIVITY_LIMIT &&
+                    !alreadySent) {
                     try {
                         storage.data.autoAnimSent[chatId] = true;
                         storage.flagSave();
-                        const cluster = storage.data.memoryCluster?.[chatId] || [];
-                        const clusterStrings = cluster.map(m => `${m.authorName} (+${m.authorNum}): ${m.text}`);
-                        const promptAnim = `O grupo ficou completamente em silêncio por mais de 20 minutos.\n` +
-                            `Como Jarvis, faça uma intervenção curta, perspicaz, elegante ou descontraída para reativar as conversas no grupo.\n` +
-                            `Regra: Máximo 2 a 3 linhas com emojis.`;
-                        const aiAnim = await (0, ai_1.callAI)(promptAnim, clusterStrings);
-                        await sock.sendMessage(chatId, { text: `📢 @todos @all\n\n🤖 *Jarvis:* ${aiAnim}` });
+                        const funny = (0, funnyMessages_1.getFunnyMessage)(storage);
+                        await sock.sendMessage(chatId, {
+                            text: "📢 @todos @all\n\n🤖 *BOT DROPHTTP:* " + funny,
+                        });
                     }
                     catch (e) {
-                        console.error('[ERRO AUTO ANIM]', e.message);
+                        console.error("[ERRO AUTO ANIM]", e.message);
                     }
                 }
             }

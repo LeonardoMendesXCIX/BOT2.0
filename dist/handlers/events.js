@@ -12,22 +12,21 @@ function setupGroupEvents(sock, storage) {
             const author = event.author;
             if (storage.isBotDisabled(chatId))
                 return;
-            // Aguarda 1.5 segundo para o WhatsApp sincronizar os metadados do novo integrante
-            await new Promise(r => setTimeout(r, 1500));
-            const groupMeta = await sock.groupMetadata(chatId).catch(() => null);
+            await new Promise(r => setTimeout(r, 800));
+            let groupMeta = await sock.groupMetadata(chatId).catch(() => null);
+            if (!groupMeta) {
+                await new Promise(r => setTimeout(r, 1000));
+                groupMeta = await sock.groupMetadata(chatId).catch(() => null);
+            }
             if (groupMeta?.participants) {
                 (0, user_1.updateLidMapping)(groupMeta.participants);
             }
-            // Sincroniza o estado de grupo fechado com o status real do WhatsApp
             if (groupMeta) {
                 const isActuallyAnnouncement = groupMeta.announce === true;
                 if (isActuallyAnnouncement !== storage.isGroupClosed(chatId)) {
                     storage.setGroupClosed(chatId, isActuallyAnnouncement);
                 }
             }
-            // =================================================================
-            // 1. ENTRADA DE NOVO INTEGRANTE NO GRUPO
-            // =================================================================
             if (action === 'add') {
                 for (const newMemberId of participants) {
                     let realJid = newMemberId;
@@ -50,46 +49,32 @@ function setupGroupEvents(sock, storage) {
                             memberPushName = contacts[realJid]?.name || contacts[realJid]?.notify || contacts[newMemberId]?.name || contacts[newMemberId]?.notify || '';
                         }
                     }
-                    const rawNum = (0, user_1.extractRawNumber)(realJid);
                     const memberInfo = (0, user_1.getUserInfo)(realJid, memberPushName);
-                    // Validação de número real brasileiro (+55, 12 ou 13 dígitos)
-                    const isRealPhoneNumber = rawNum.length >= 10 && rawNum.length <= 13;
-                    const isBrazilianPhone = rawNum.startsWith('55') && (rawNum.length === 12 || rawNum.length === 13);
-                    const isLidNumber = rawNum.length > 13; // Identificador interno LID criptográfico
-                    // A. Filtro Anti-Fake / DDI +55 (Remove números estrangeiros reais não-+55)
+                    const rawNum = (0, user_1.extractRawNumber)(realJid);
                     const isAntiFakeActive = storage.data.antifake?.[chatId] === true || (!storage.isFeatureDisabled(chatId, 'antifake') && storage.data.antifake?.[chatId] !== false);
-                    if (isAntiFakeActive && isRealPhoneNumber && !isBrazilianPhone && !isLidNumber) {
+                    const joinIsPn = (realJid || '').endsWith('@s.whatsapp.net');
+                    const pnDigits = joinIsPn ? (0, user_1.extractRawNumber)(realJid) : '';
+                    const isBr = pnDigits.startsWith('55') && (pnDigits.length === 12 || pnDigits.length === 13);
+                    const isForeign = joinIsPn && pnDigits !== '' && !isBr;
+                    if (isAntiFakeActive && isForeign) {
                         try {
-                            const botNum = sock.user?.id?.split(':')[0].replace(/\D/g, '') || '';
-                            const botParticipant = groupMeta?.participants?.find(p => p.id.split('@')[0].replace(/\D/g, '') === botNum || (p.lid && p.lid.split('@')[0].replace(/\D/g, '') === botNum));
-                            const isBotAdmin = botParticipant?.admin === 'admin' || botParticipant?.admin === 'superadmin';
-                            if (isBotAdmin) {
+                            const botNumClean = (sock.user?.id || '').split(':')[0].replace(/\D/g, '');
+                            const botPart = groupMeta?.participants?.find((p) => ((p.id || '').split(':')[0].replace(/\D/g, '') === botNumClean));
+                            if (botPart?.admin === 'admin' || botPart?.admin === 'superadmin') {
+                                let removed = false;
                                 try {
                                     await sock.groupParticipantsUpdate(chatId, [newMemberId], 'remove');
+                                    removed = true;
                                 }
-                                catch (e) {
-                                    await sock.groupParticipantsUpdate(chatId, [realJid], 'remove').catch(() => { });
+                                catch (e) { }
+                                if (removed) {
+                                    await sock.sendMessage(chatId, { text: '🛡️ *ANTI-FAKE* 🛡️\n\n👤 *Removido:* ' + memberInfo.smartMention + '\n📱 *DDI:* +' + pnDigits + '\n📝 *Motivo:* número estrangeiro (apenas +55).', mentions: [memberInfo.mentionJid, memberInfo.jid, newMemberId, realJid].filter(Boolean) });
+                                    continue;
                                 }
-                                const displayName = memberInfo.nameAndNumber;
-                                const ddiDisplay = `+${rawNum}`;
-                                await sock.sendMessage(chatId, {
-                                    text: `🛡️ *JARVIS SECURITY (ANTI-FAKE / DDI)* 🛡️\n\n` +
-                                        `👤 *Infrator:* ${displayName}\n` +
-                                        `📱 *Identificação:* ${ddiDisplay}\n` +
-                                        `📝 *Motivo:* Entrada bloqueada por possuir DDI estrangeiro não autorizado (apenas números do Brasil +55 são permitidos).`
-                                });
-                                console.log(`[ANTI-FAKE] Número estrangeiro ${newMemberId} (+${rawNum}) removido do grupo ${chatId}.`);
-                                continue;
-                            }
-                            else {
-                                console.log(`[ANTI-FAKE ALERTA] Número estrangeiro +${rawNum} entrou no grupo ${chatId}, mas o bot precisa ser Administrador para removê-lo.`);
                             }
                         }
-                        catch (errKick) {
-                            console.error('[ERRO KICK ANTI-FAKE]', errKick.message);
-                        }
+                        catch (e) { }
                     }
-                    // B. Se o grupo estiver fechado para conversas no momento: guarda na fila para envio na reabertura
                     const isGroupActuallyClosed = groupMeta?.announce === true || storage.isGroupClosed(chatId);
                     if (isGroupActuallyClosed) {
                         if (!storage.data.queuedWelcomes)
@@ -100,65 +85,114 @@ function setupGroupEvents(sock, storage) {
                             storage.data.queuedWelcomes[chatId].push(realJid);
                             storage.flagSave();
                         }
-                        console.log(`[GRUPO FECHADO] Novo membro ${memberInfo.nameAndNumber} guardado na fila para abertura.`);
                         continue;
                     }
-                    // C. Disparo Imediato da Saudação Automática (!sa) com formato 'Nome - +55...' no final
+                    const bday = storage.data.birthdays?.[chatId]?.[rawNum];
+                    if (bday) {
+                        const today = new Date().toLocaleDateString('pt-BR', { day: '2-digit', month: '2-digit' });
+                        if (bday === today) {
+                            await sock.sendMessage(chatId, {
+                                text: '🎂🎉 *FELIZ ANIVERSÁRIO!* 🎉\n\nHoje é o dia de ' + memberInfo.smartMention + '! Parabéns! 🥳🎈',
+                                mentions: [memberInfo.mentionJid, memberInfo.jid]
+                            });
+                        }
+                    }
                     if (!storage.isFeatureDisabled(chatId, 'sa')) {
-                        const welcomeConfig = storage.data.welcomeMsgs ? storage.data.welcomeMsgs[chatId] : null;
-                        const defaultWelcome = `Seja muito bem-vindo(a) ao grupo!`;
-                        let userText = welcomeConfig && welcomeConfig.text ? welcomeConfig.text.trim() : defaultWelcome;
-                        const nameAndNum = memberInfo.nameAndNumber;
+                        const savedWelcomeText = storage.data.welcomeMsgs?.[chatId]?.text?.trim();
+                        const defaultWelcome = 'Seja muito bem-vindo(a) ao grupo!';
+                        let userText = savedWelcomeText || defaultWelcome;
+                        const memberName = memberInfo.pushName || memberInfo.formattedNum;
                         const groupTitle = groupMeta?.subject || 'nosso grupo';
                         let processedText = userText.replace(/\{grupo\}/gi, groupTitle);
-                        if (processedText.includes('{membro}')) {
-                            processedText = processedText.replace(/\{membro\}/gi, nameAndNum);
-                        }
-                        if (processedText.includes('{nome}')) {
-                            processedText = processedText.replace(/\{nome\}/gi, memberInfo.pushName || memberInfo.formattedNum);
-                        }
-                        if (processedText.includes('{numero}')) {
-                            processedText = processedText.replace(/\{numero\}/gi, memberInfo.formattedNum);
-                        }
-                        // Garante que SEMPRE no final da mensagem personalizada puxe: Nome - +55...
-                        let finalMsg = '';
-                        if (processedText.includes(nameAndNum)) {
-                            finalMsg = processedText;
-                        }
-                        else {
-                            finalMsg = `${processedText}\n\n👋 ${nameAndNum}`;
-                        }
-                        const allMentions = Array.from(new Set([memberInfo.jid, newMemberId, realJid])).filter(Boolean);
+                        const hasMemberVariable = /\{membro\}/i.test(processedText);
+                        processedText = processedText
+                            .replace(/\{membro\}/gi, memberInfo.smartMention)
+                            .replace(/\{nome\}/gi, memberName)
+                            .replace(/\{numero\}/gi, memberInfo.formattedNum);
+                        const finalMsg = hasMemberVariable
+                            ? processedText
+                            : processedText + '\n\n👋 ' + memberInfo.smartMention;
+                        const allMentions = Array.from(new Set([memberInfo.mentionJid, memberInfo.jid, newMemberId, realJid])).filter(Boolean);
                         await sock.sendMessage(chatId, { text: finalMsg, mentions: allMentions });
-                        console.log(`[SAUDAÇÃO ENVIADA] Mensagem enviada para ${memberInfo.nameAndNumber} no grupo ${chatId}`);
                     }
-                    // D. Agendamento do Lembrete de Boas-Vindas (!bv - 15min)
+                    // LEMBRETE BV: agora 5 MINUTOS após a entrada
                     if (!storage.isFeatureDisabled(chatId, 'bv')) {
                         const bvConfig = storage.data.welcomeReminders ? storage.data.welcomeReminders[chatId] : null;
                         if (bvConfig && bvConfig.text) {
                             if (!storage.data.pendingBvReminders)
                                 storage.data.pendingBvReminders = [];
-                            const runAtTime = Date.now() + 15 * 60 * 1000;
+                            const runAtTime = Date.now() + 5 * 60 * 1000;
                             storage.data.pendingBvReminders.push({
-                                id: `${Date.now()}_${realJid}`,
+                                id: Date.now() + '_' + realJid,
                                 chatId: chatId,
                                 newMemberId: realJid,
                                 runAt: runAtTime
                             });
                             storage.flagSave();
-                            console.log(`[LEMBRETE BV AGENDADO] Lembrete programado para daqui a 15min para ${memberInfo.nameAndNumber}`);
                         }
+                    }
+                    // BLOQUEIO ESTRITO DE LID: se o novo membro entrou como LID sem número
+                    // real resolvido e antifake estrito está ativo, remove.
+                    const _strictLidOn = storage.data.antifakeStrictLid?.[chatId] !== false;
+                    const _antiFakeOn = storage.data.antifake?.[chatId] === true || (!storage.isFeatureDisabled(chatId, 'antifake') && storage.data.antifake?.[chatId] !== false);
+                    if (_antiFakeOn && _strictLidOn && (newMemberId || '').endsWith('@lid')) {
+                        const _resolved = (0, user_1.extractRawNumber)(realJid);
+                        if (!_resolved || _resolved.length > 13) {
+                            const _botNum = (sock.user?.id || '').split(':')[0].replace(/\D/g, '');
+                            const _botPart = groupMeta?.participants?.find((pp) => ((pp.id || '').split(':')[0].replace(/\D/g, '') === _botNum));
+                            if (_botPart?.admin === 'admin' || _botPart?.admin === 'superadmin') {
+                                let removed = false;
+                                try {
+                                    await sock.groupParticipantsUpdate(chatId, [newMemberId], 'remove');
+                                    removed = true;
+                                    const _remMsg = storage.data.removalMsgs?.[chatId]?.text;
+                                    const _info = (0, user_1.getUserInfo)(newMemberId);
+                                    await sock.sendMessage(chatId, {
+                                        text: (_remMsg || '🛡️ *ANTI-FAKE (LID ESTRANGEIRO)*\n\n👤 Removido: ' + _info.smartMention + '\n📝 Motivo: identificador oculto.')
+                                            .replace(/\{membro\}/gi, _info.smartMention),
+                                        mentions: Array.from(new Set([_info.mentionJid, _info.jid, newMemberId, realJid])).filter(Boolean)
+                                    });
+                                }
+                                catch (e) { }
+                                if (removed)
+                                    continue;
+                            }
+                        }
+                        const rawNum = (0, user_1.extractRawNumber)(realJid);
+                        if (storage.data.raidMode?.[chatId] !== false) {
+                            const isRaid = storage.detectRaid(chatId);
+                            if (isRaid && !storage.isGroupClosed(chatId)) {
+                                try {
+                                    await sock.groupSettingUpdate(chatId, 'announcement');
+                                    storage.setGroupClosed(chatId, true);
+                                    await sock.sendMessage(chatId, { text: '🚨 *RAID DETECTADO!* 🚨\n\n5+ entradas em 60 segundos. Grupo trancado automaticamente.\nUse `!abrir` para reabrir manualmente.' });
+                                    storage.logAdminAction(chatId, 'BOT', 'RAID-MODE: grupo trancado');
+                                }
+                                catch (e) { }
+                            }
+                        }
+                        if (storage.data.captcha?.[chatId] === true) {
+                            const code = String(Math.floor(1000 + Math.random() * 9000));
+                            if (!storage.data.pendingCaptcha)
+                                storage.data.pendingCaptcha = {};
+                            if (!storage.data.pendingCaptcha[chatId])
+                                storage.data.pendingCaptcha[chatId] = {};
+                            storage.data.pendingCaptcha[chatId][rawNum] = { code, expires: Date.now() + 120000 };
+                            storage.flagSave();
+                            await sock.sendMessage(chatId, {
+                                text: '🔐 *VERIFICAÇÃO DE SEGURANÇA*\n\n' + memberInfo.smartMention + ', digite o código abaixo em até 2 minutos para permanecer no grupo:\n\n🔑 *' + code + '*',
+                                mentions: [memberInfo.mentionJid, memberInfo.jid]
+                            });
+                        }
+                        storage.logAdminAction(chatId, rawNum, 'ENTROU no grupo');
                     }
                 }
             }
-            // =================================================================
-            // 2. SAÍDA OU REMOÇÃO DE MEMBRO DO GRUPO
-            // =================================================================
             if (action === 'remove') {
                 for (const leftMemberId of participants) {
                     const rawNum = (0, user_1.extractRawNumber)(leftMemberId);
-                    const realJid = `${rawNum}@s.whatsapp.net`;
-                    const memberInfo = (0, user_1.getUserInfo)(realJid);
+                    const realJid = leftMemberId.includes('@') ? leftMemberId : rawNum + '@s.whatsapp.net';
+                    const memberInfo = (0, user_1.getUserInfo)(leftMemberId);
                     if (storage.data.queuedWelcomes?.[chatId]) {
                         storage.data.queuedWelcomes[chatId] = storage.data.queuedWelcomes[chatId].filter(id => id !== realJid && id !== leftMemberId);
                         storage.flagSave();
@@ -168,13 +202,15 @@ function setupGroupEvents(sock, storage) {
                         storage.flagSave();
                     }
                     const isRemovedByAdmin = author && author !== leftMemberId && author !== realJid;
-                    const nameAndNum = memberInfo.nameAndNumber;
-                    const allMentions = Array.from(new Set([memberInfo.jid, leftMemberId, realJid])).filter(Boolean);
+                    const allMentions = Array.from(new Set([memberInfo.mentionJid, memberInfo.jid, leftMemberId, realJid])).filter(Boolean);
+                    storage.logAdminAction(chatId, (0, user_1.extractRawNumber)(leftMemberId), isRemovedByAdmin ? 'REMOVIDO por admin' : 'SAIU do grupo');
                     if (isRemovedByAdmin) {
-                        await sock.sendMessage(chatId, {
-                            text: `Xiii, acho que o integrante ${nameAndNum} fez algo de errado, pois foi removido!`,
-                            mentions: allMentions
-                        });
+                        // Mensagem de remoção PERSONALIZÁVEL via !msgremoveadm (padrão: Nome - Número)
+                        const removalCfg = storage.data.removalMsgs?.[chatId];
+                        const removalText = removalCfg && removalCfg.text
+                            ? removalCfg.text.replace(/\{membro\}/gi, memberInfo.mention)
+                            : 'Xiii, acho que o integrante ' + memberInfo.mention + ' fez algo de errado, pois foi removido!';
+                        await sock.sendMessage(chatId, { text: removalText, mentions: [memberInfo.mentionJid] });
                     }
                     else if (!storage.isFeatureDisabled(chatId, 'exit') && !storage.isGroupClosed(chatId)) {
                         const exitConfig = storage.data.exitMsgs ? storage.data.exitMsgs[chatId] : null;
@@ -182,7 +218,7 @@ function setupGroupEvents(sock, storage) {
                             let userText = exitConfig.text.trim();
                             let finalMsg = '';
                             if (userText.includes('{membro}')) {
-                                finalMsg = userText.replace(/\{membro\}/gi, nameAndNum);
+                                finalMsg = userText.replace(/\{membro\}/gi, memberInfo.smartMention);
                             }
                             else if (userText.includes('{nome}')) {
                                 finalMsg = userText.replace(/\{nome\}/gi, memberInfo.pushName || memberInfo.formattedNum);
@@ -191,9 +227,9 @@ function setupGroupEvents(sock, storage) {
                                 finalMsg = userText.replace(/\{numero\}/gi, memberInfo.formattedNum);
                             }
                             else {
-                                finalMsg = `${userText}\n\n👋 ${nameAndNum}`;
+                                finalMsg = userText + '\n\n👋 ' + memberInfo.smartMention;
                             }
-                            await sock.sendMessage(chatId, { text: finalMsg, mentions: allMentions });
+                            await sock.sendMessage(chatId, { text: finalMsg, mentions: allMentions.includes(memberInfo.jid) ? allMentions : [...allMentions, memberInfo.jid] });
                         }
                     }
                 }

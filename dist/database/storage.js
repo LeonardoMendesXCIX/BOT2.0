@@ -23,40 +23,77 @@ class StorageManager {
             lastJarvisIntervention: {},
             messageCountSinceLastJarvis: {},
             botDisabled: {},
+            botMusicDisabled: {},
             closedGroups: {},
             queuedWelcomes: {},
             promoSchedule: {},
             welcomeMsgs: {},
             welcomeReminders: {},
             pendingBvReminders: [],
-            pendingPresentations: [],
             groupSchedules: {},
             exitMsgs: {},
+            removalMsgs: {},
             inativosMsgs: {},
             antilink: {},
             antifake: {},
+            antifakeStrictLid: {},
             antiflood: {},
-            antighost: {},
+            mutes: {},
+            blacklistWords: {},
+            antiForward: {},
+            antiStickerFlood: {},
+            warnTimestamps: {},
+            raidMode: {},
+            raidHistory: {},
+            captcha: {},
+            pendingCaptcha: {},
+            autoApprove: {},
+            dailyQuota: {},
+            dailyQuotaCount: {},
+            xp: {},
+            coins: {},
+            dailyRewardClaimed: {},
+            autoReaction: {},
+            birthdays: {},
+            countdowns: {},
+            perguntaDia: {},
+            sorteios: {},
+            autoRemoveInactive: {},
+            autoRemoveWarned: {},
+            adminLog: {},
+            lockMedia: {},
+            purgeSchedule: {},
             antinsfw: {},
             autoTranscribe: {},
             antidelete: {},
             messageBuffer: {},
-            jarvisMode: {},
-            bannedWords: {},
             groupRules: {},
             warnings: {},
             maxWarnings: {},
             activeQuiz: {},
+            goalAlerts: {},
+            reminders: [],
+            faqEnabled: {},
+            lastFaqAnswer: {},
+            businessHours: null,
+            activeTicket: null,
+            hangman: {},
+            tictactoe: {},
+            marriages: {},
+            firstMsgSeen: {},
+            bjHands: {},
             autoAnim: {},
             lastGroupActivity: {},
             autoAnimSent: {},
-            disabledFeatures: {}
+            disabledFeatures: {},
+            anonMsgs: [],
+            anonCounter: 1000,
+            maintenance: false
         };
         this.load();
         setInterval(() => {
             if (this.pendingSave) {
                 this.saveSync();
-                this.pendingSave = false;
             }
         }, 15000);
     }
@@ -76,21 +113,95 @@ class StorageManager {
     }
     saveSync() {
         try {
-            const tmpFile = `${STORAGE_FILE}.tmp`;
-            fs_1.default.writeFile(tmpFile, JSON.stringify(this.data, null, 2), (err) => {
-                if (err) {
-                    console.error('[ERRO STORAGE] Gravação temporária:', err.message);
-                    return;
-                }
-                fs_1.default.rename(tmpFile, STORAGE_FILE, (renameErr) => {
-                    if (renameErr)
-                        console.error('[ERRO STORAGE] Renomeação atômica:', renameErr.message);
-                });
-            });
+            const tmpFile = STORAGE_FILE + '.tmp';
+            fs_1.default.writeFileSync(tmpFile, JSON.stringify(this.data, null, 2));
+            try {
+                fs_1.default.renameSync(tmpFile, STORAGE_FILE);
+                this.pendingSave = false;
+            }
+            catch (renameErr) {
+                setTimeout(() => {
+                    try {
+                        if (fs_1.default.existsSync(tmpFile))
+                            fs_1.default.renameSync(tmpFile, STORAGE_FILE);
+                        this.pendingSave = false;
+                    }
+                    catch (e2) {
+                        console.error('[ERRO STORAGE] Renomeação após retry:', e2.message);
+                    }
+                }, 500);
+            }
         }
         catch (e) {
             console.error('[ERRO STORAGE]', e.message);
         }
+    }
+    shutdown() {
+        try {
+            this.saveSync();
+        }
+        catch (e) { }
+    }
+    pruneStorage() {
+        const now = Date.now();
+        const SEVEN_DAYS = 7 * 24 * 60 * 60 * 1000;
+        const FIFTEEN_MIN = 15 * 60 * 1000;
+        if (this.data.chatHistory) {
+            for (const chatId in this.data.chatHistory) {
+                const days = this.data.chatHistory[chatId];
+                for (const dateKey in days) {
+                    const [d, m, y] = dateKey.split('/').map((n) => parseInt(n, 10));
+                    const t = new Date(y || 2026, (m || 1) - 1, d || 1).getTime();
+                    if (now - t > SEVEN_DAYS)
+                        delete days[dateKey];
+                }
+            }
+        }
+        if (this.data.messageBuffer) {
+            for (const chatId in this.data.messageBuffer) {
+                const buf = this.data.messageBuffer[chatId];
+                for (const msgId in buf) {
+                    if (now - (buf[msgId].timestamp || 0) > FIFTEEN_MIN)
+                        delete buf[msgId];
+                }
+            }
+        }
+        if (this.data.anonMsgs && this.data.anonMsgs.length > 500) {
+            this.data.anonMsgs = this.data.anonMsgs.slice(-500);
+        }
+        this.flagSave();
+    }
+    addXp(chatId, num, amount) {
+        if (!this.data.xp)
+            this.data.xp = {};
+        if (!this.data.xp[chatId])
+            this.data.xp[chatId] = {};
+        this.data.xp[chatId][num] = (this.data.xp[chatId][num] || 0) + amount;
+        this.flagSave();
+        return this.data.xp[chatId][num];
+    }
+    getLevel(xp) { return Math.floor(Math.sqrt(xp / 50)) + 1; }
+    getRoleByLevel(level) {
+        if (level >= 20)
+            return '👑 Lenda';
+        if (level >= 15)
+            return '💎 Diamante';
+        if (level >= 10)
+            return '🥇 Ouro';
+        if (level >= 5)
+            return '🥈 Prata';
+        if (level >= 2)
+            return '🥉 Bronze';
+        return '🌱 Iniciante';
+    }
+    addCoins(chatId, num, amount) {
+        if (!this.data.coins)
+            this.data.coins = {};
+        if (!this.data.coins[chatId])
+            this.data.coins[chatId] = {};
+        this.data.coins[chatId][num] = (this.data.coins[chatId][num] || 0) + amount;
+        this.flagSave();
+        return this.data.coins[chatId][num];
     }
     isBotDisabled(chatId) {
         if (!chatId)
@@ -103,6 +214,15 @@ class StorageManager {
         this.data.botDisabled[chatId] = disabled;
         this.flagSave();
     }
+    isMusicDisabled(chatId) {
+        return this.data.botMusicDisabled?.[chatId] === true;
+    }
+    setMusicDisabled(chatId, disabled) {
+        if (!this.data.botMusicDisabled)
+            this.data.botMusicDisabled = {};
+        this.data.botMusicDisabled[chatId] = disabled;
+        this.flagSave();
+    }
     isGroupClosed(chatId) {
         if (!chatId)
             return false;
@@ -113,6 +233,64 @@ class StorageManager {
             this.data.closedGroups = {};
         this.data.closedGroups[chatId] = closed;
         this.flagSave();
+    }
+    isMuted(chatId, num) {
+        const until = this.data.mutes?.[chatId]?.[num];
+        return !!until && until > Date.now();
+    }
+    setMute(chatId, num, ms) {
+        if (!this.data.mutes)
+            this.data.mutes = {};
+        if (!this.data.mutes[chatId])
+            this.data.mutes[chatId] = {};
+        this.data.mutes[chatId][num] = Date.now() + ms;
+        this.flagSave();
+    }
+    clearMute(chatId, num) {
+        if (this.data.mutes?.[chatId]) {
+            delete this.data.mutes[chatId][num];
+            this.flagSave();
+        }
+    }
+    logAdminAction(chatId, adminNum, action, target) {
+        if (!this.data.adminLog)
+            this.data.adminLog = {};
+        if (!this.data.adminLog[chatId])
+            this.data.adminLog[chatId] = [];
+        this.data.adminLog[chatId].push({ ts: Date.now(), admin: adminNum, action, target });
+        if (this.data.adminLog[chatId].length > 100)
+            this.data.adminLog[chatId] = this.data.adminLog[chatId].slice(-100);
+        this.flagSave();
+    }
+    checkDailyQuota(chatId, userNum) {
+        const limit = this.data.dailyQuota?.[chatId] || 0;
+        if (!limit)
+            return { allowed: true, limit: 0, used: 0 };
+        if (!this.data.dailyQuotaCount)
+            this.data.dailyQuotaCount = {};
+        if (!this.data.dailyQuotaCount[chatId])
+            this.data.dailyQuotaCount[chatId] = {};
+        const today = new Date().toLocaleDateString('pt-BR');
+        const entry = this.data.dailyQuotaCount[chatId][userNum];
+        if (!entry || entry.date !== today) {
+            this.data.dailyQuotaCount[chatId][userNum] = { count: 1, date: today };
+            this.flagSave();
+            return { allowed: true, limit, used: 1 };
+        }
+        entry.count++;
+        this.flagSave();
+        return { allowed: entry.count <= limit, limit, used: entry.count };
+    }
+    detectRaid(chatId) {
+        if (!this.data.raidHistory)
+            this.data.raidHistory = {};
+        if (!this.data.raidHistory[chatId])
+            this.data.raidHistory[chatId] = [];
+        const now = Date.now();
+        this.data.raidHistory[chatId].push(now);
+        this.data.raidHistory[chatId] = this.data.raidHistory[chatId].filter(t => now - t < 60000);
+        this.flagSave();
+        return this.data.raidHistory[chatId].length >= 5;
     }
     isPromoWindowActive(chatId) {
         if (!chatId || !this.data.promoSchedule || !this.data.promoSchedule[chatId])
@@ -182,52 +360,75 @@ class StorageManager {
             this.data.antifake[chatId] = enabled;
         if (featureKey === 'antiflood')
             this.data.antiflood[chatId] = enabled;
-        if (featureKey === 'antighost')
-            this.data.antighost[chatId] = enabled;
         if (featureKey === 'antinsfw')
             this.data.antinsfw[chatId] = enabled;
         if (featureKey === 'audio_transcribe')
             this.data.autoTranscribe[chatId] = enabled;
         if (featureKey === 'antidelete')
             this.data.antidelete[chatId] = enabled;
-        if (featureKey === 'jarvis')
-            this.data.jarvisMode[chatId] = enabled;
         if (featureKey === 'auto')
             this.data.autoAnim[chatId] = enabled;
+        if (featureKey === 'raidmode')
+            this.data.raidMode[chatId] = enabled;
+        if (featureKey === 'captcha')
+            this.data.captcha[chatId] = enabled;
+        if (featureKey === 'autoaprovar')
+            this.data.autoApprove[chatId] = enabled;
+        if (featureKey === 'lockmedia')
+            this.data.lockMedia[chatId] = enabled;
         this.flagSave();
     }
-    async applyWarning(sock, chatId, targetJid, reason, limitDefault = 2) {
+    generateAnonId() {
+        if (!this.data.anonCounter)
+            this.data.anonCounter = 1000;
+        this.data.anonCounter++;
+        this.flagSave();
+        return 'A' + this.data.anonCounter;
+    }
+    // ADVERTÊNCIAS: 3 advertências = remoção SILENCIOSA (sem aviso público da política)
+    async applyWarning(sock, chatId, targetJid, reason, limitDefault = 3) {
         const targetNum = targetJid.split('@')[0].split(':')[0].replace(/\D/g, '');
         const targetInfo = (0, user_1.getUserInfo)(targetJid);
         const limit = (this.data.maxWarnings && this.data.maxWarnings[chatId]) || limitDefault;
         if (!this.data.warnings[chatId])
             this.data.warnings[chatId] = {};
+        if (!this.data.warnTimestamps)
+            this.data.warnTimestamps = {};
+        if (!this.data.warnTimestamps[chatId])
+            this.data.warnTimestamps[chatId] = {};
+        if (!this.data.warnTimestamps[chatId][targetNum])
+            this.data.warnTimestamps[chatId][targetNum] = [];
+        const SEVEN = 7 * 24 * 60 * 60 * 1000;
+        this.data.warnTimestamps[chatId][targetNum] = this.data.warnTimestamps[chatId][targetNum].filter(t => Date.now() - t < SEVEN);
+        if (this.data.warnTimestamps[chatId][targetNum].length === 0)
+            this.data.warnings[chatId][targetNum] = 0;
         this.data.warnings[chatId][targetNum] = (this.data.warnings[chatId][targetNum] || 0) + 1;
+        this.data.warnTimestamps[chatId][targetNum].push(Date.now());
         const currentWarns = this.data.warnings[chatId][targetNum];
         this.flagSave();
+        // Mensagem pública SEM mencionar a política de remoção
+        await sock.sendMessage(chatId, {
+            text: '⚠️ *ADVERTÊNCIA REGISTRADA (' + currentWarns + '/' + limit + ')*\n\n' +
+                '👤 *Membro:* ' + targetInfo.smartMention + '\n' +
+                '📝 *Motivo:* ' + reason,
+            mentions: [targetInfo.mentionJid, targetInfo.jid]
+        });
+        // 3ª advertência: remoção automática silenciosa
         if (currentWarns >= limit) {
             try {
                 await sock.groupParticipantsUpdate(chatId, [targetInfo.jid], 'remove');
                 delete this.data.warnings[chatId][targetNum];
                 this.flagSave();
-                await sock.sendMessage(chatId, {
-                    text: `🛡️ *JARVIS SECURITY (AUTO-BAN):*\n\nO integrante ${targetInfo.mentionTag} (*${targetInfo.pushName}*) atingiu o limite de ${currentWarns}/${limit} advertências e foi removido do grupo.\n📱 *Número:* ${targetInfo.formattedNum}\n📝 *Última infração:* ${reason}`,
-                    mentions: [targetInfo.jid]
-                });
-                return;
+                const removalCfg = this.data.removalMsgs?.[chatId];
+                const removalText = removalCfg && removalCfg.text
+                    ? removalCfg.text.replace(/\{membro\}/gi, targetInfo.smartMention)
+                    : 'Xiii, acho que o integrante ' + targetInfo.smartMention + ' fez algo de errado, pois foi removido!';
+                await sock.sendMessage(chatId, { text: removalText, mentions: [targetInfo.mentionJid, targetInfo.jid] });
             }
-            catch (err) {
-                console.error('[ERRO AUTO-BAN]', err.message);
+            catch (e) {
+                console.error('[ERRO AUTO-REMOVE WARN]', e.message);
             }
         }
-        await sock.sendMessage(chatId, {
-            text: `⚠️ *ADVERTÊNCIA REGISTRADA (${currentWarns}/${limit})*\n\n` +
-                `👤 *Membro:* ${targetInfo.mentionTag} (*${targetInfo.pushName}*)\n` +
-                `📱 *Número:* ${targetInfo.formattedNum}\n` +
-                `📝 *Motivo:* ${reason}\n\n` +
-                `_Jarvis Alerta: Ao atingir ${limit} advertências, o protocolo de remoção automática será acionado._`,
-            mentions: [targetInfo.jid]
-        });
     }
 }
 exports.StorageManager = StorageManager;
