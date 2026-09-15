@@ -7432,9 +7432,9 @@
         "total": 23
       },
       "129373172711439": {
-        "text": 190,
+        "text": 191,
         "media": 61,
-        "total": 251
+        "total": 252
       },
       "15960484393007": {
         "text": 10,
@@ -7692,9 +7692,14 @@
         "total": 14
       },
       "54259127210155": {
-        "text": 11,
-        "media": 4,
-        "total": 15
+        "text": 13,
+        "media": 5,
+        "total": 18
+      },
+      "50869659811853": {
+        "text": 0,
+        "media": 1,
+        "total": 1
       }
     }
   },
@@ -15056,7 +15061,10 @@
         "Celiete Souza: Tu tem o borogodó",
         "LEANDRO M.: Fala a bagaceira que é @81991328395336",
         "Diana Shirley: Pois é, rolou foto, pedido do pé 😂",
-        "Celiete Souza: No máximo 2/3 xícaras"
+        "Celiete Souza: No máximo 2/3 xícaras",
+        "LEANDRO M.: Ahh, então tá tranquilo",
+        "Gusta: Gustavo \n25 anos \nRio de janeiro \nHétero \nPV on",
+        "LEANDRO M.: Eu sou de 2 a 3 garrafas por dia"
       ]
     }
   },
@@ -15384,6 +15392,24 @@
         "authorName": "Celiete Souza",
         "text": "No máximo 2/3 xícaras",
         "timestamp": 1789498472468
+      },
+      {
+        "authorNum": "54259127210155",
+        "authorName": "LEANDRO M.",
+        "text": "Ahh, então tá tranquilo",
+        "timestamp": 1789498490974
+      },
+      {
+        "authorNum": "50869659811853",
+        "authorName": "Gusta",
+        "text": "Gustavo \n25 anos \nRio de janeiro \nHétero \nPV on",
+        "timestamp": 1789498496089
+      },
+      {
+        "authorNum": "54259127210155",
+        "authorName": "LEANDRO M.",
+        "text": "Eu sou de 2 a 3 garrafas por dia",
+        "timestamp": 1789498505444
       }
     ]
   },
@@ -15411,7 +15437,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1725
+    "120363412202609595@g.us": 1728
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16119,7 +16145,8 @@
       "120363412202609595": 21,
       "187845394358417": 16,
       "36589463965754": 14,
-      "54259127210155": 61
+      "54259127210155": 61,
+      "50869659811853": 5
     }
   },
   "coins": {
@@ -16433,7 +16460,8 @@
       "120363412202609595": 4,
       "187845394358417": 2,
       "36589463965754": 1,
-      "54259127210155": 11
+      "54259127210155": 11,
+      "50869659811853": 2
     }
   },
   "dailyRewardClaimed": {
@@ -20362,6 +20390,24 @@
         "text": "No máximo 2/3 xícaras",
         "pushName": "Celiete Souza",
         "timestamp": 1789498472468
+      },
+      "AC402FE4DA63116803B1953DFA233007": {
+        "sender": "54259127210155@lid",
+        "text": "Ahh, então tá tranquilo",
+        "pushName": "LEANDRO M.",
+        "timestamp": 1789498490974
+      },
+      "ACDE9945E8A47F0A402DB919E1D039F6": {
+        "sender": "50869659811853@lid",
+        "text": "Gustavo \n25 anos \nRio de janeiro \nHétero \nPV on",
+        "pushName": "Gusta",
+        "timestamp": 1789498496089
+      },
+      "ACC09CDB723DCFAD391299CC0D5FEC77": {
+        "sender": "54259127210155@lid",
+        "text": "Eu sou de 2 a 3 garrafas por dia",
+        "pushName": "LEANDRO M.",
+        "timestamp": 1789498505444
       }
     }
   },
@@ -20619,7 +20665,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789498482592
+    "120363412202609595@g.us": 1789498508340
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
