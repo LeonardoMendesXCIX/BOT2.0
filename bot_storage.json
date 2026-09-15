@@ -7432,9 +7432,9 @@
         "total": 23
       },
       "129373172711439": {
-        "text": 194,
+        "text": 195,
         "media": 61,
-        "total": 255
+        "total": 256
       },
       "15960484393007": {
         "text": 10,
@@ -7477,9 +7477,9 @@
         "total": 6
       },
       "27346140700786": {
-        "text": 78,
+        "text": 79,
         "media": 15,
-        "total": 93
+        "total": 94
       },
       "137623771312290": {
         "text": 2,
@@ -7532,9 +7532,9 @@
         "total": 180
       },
       "559991116887": {
-        "text": 107,
+        "text": 109,
         "media": 44,
-        "total": 151
+        "total": 153
       },
       "23687415767181": {
         "text": 1,
@@ -7692,14 +7692,14 @@
         "total": 14
       },
       "54259127210155": {
-        "text": 15,
-        "media": 5,
-        "total": 20
+        "text": 18,
+        "media": 7,
+        "total": 25
       },
       "50869659811853": {
-        "text": 3,
+        "text": 4,
         "media": 1,
-        "total": 4
+        "total": 5
       }
     }
   },
@@ -15078,7 +15078,12 @@
         "Camila Designer: De nada 😌",
         "𝑳𝒂𝒚𝒉🌪🌚: Parece meu professor moço",
         "Diana Shirley: Seja bem vindo",
-        "Gusta: Tmj brother"
+        "Gusta: Tmj brother",
+        "LEANDRO M.: Eu sou um noia então",
+        "𝑳𝒂𝒚𝒉🌪🌚: Sejam bem vindo",
+        "Gusta: Kkkkk depende da matéria",
+        "Celiete Souza: Então se cuida né",
+        "LEANDRO M.: Tmj! 🤝"
       ]
     }
   },
@@ -15508,6 +15513,36 @@
         "authorName": "Gusta",
         "text": "Tmj brother",
         "timestamp": 1789498574752
+      },
+      {
+        "authorNum": "54259127210155",
+        "authorName": "LEANDRO M.",
+        "text": "Eu sou um noia então",
+        "timestamp": 1789498576564
+      },
+      {
+        "authorNum": "559991116887",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Sejam bem vindo",
+        "timestamp": 1789498579012
+      },
+      {
+        "authorNum": "50869659811853",
+        "authorName": "Gusta",
+        "text": "Kkkkk depende da matéria",
+        "timestamp": 1789498587811
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Então se cuida né",
+        "timestamp": 1789498590612
+      },
+      {
+        "authorNum": "54259127210155",
+        "authorName": "LEANDRO M.",
+        "text": "Tmj! 🤝",
+        "timestamp": 1789498595943
       }
     ]
   },
@@ -15535,7 +15570,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1742
+    "120363412202609595@g.us": 1747
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16243,7 +16278,7 @@
       "120363412202609595": 21,
       "187845394358417": 16,
       "36589463965754": 14,
-      "54259127210155": 61,
+      "54259127210155": 69,
       "50869659811853": 5
     }
   },
@@ -16558,7 +16593,7 @@
       "120363412202609595": 4,
       "187845394358417": 2,
       "36589463965754": 1,
-      "54259127210155": 11,
+      "54259127210155": 14,
       "50869659811853": 2
     }
   },
@@ -20590,6 +20625,36 @@
         "text": "Tmj brother",
         "pushName": "Gusta",
         "timestamp": 1789498574752
+      },
+      "AC73ACE7CF36B89AA1EC291158441772": {
+        "sender": "54259127210155@lid",
+        "text": "Eu sou um noia então",
+        "pushName": "LEANDRO M.",
+        "timestamp": 1789498576564
+      },
+      "AC7DDA9C5FBC3C9B8508D895647FE792": {
+        "sender": "81991328395336@lid",
+        "text": "Sejam bem vindo",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1789498579012
+      },
+      "ACC462CEFE3FA97FF82CBB7EB64EC1FA": {
+        "sender": "50869659811853@lid",
+        "text": "Kkkkk depende da matéria",
+        "pushName": "Gusta",
+        "timestamp": 1789498587811
+      },
+      "AC9508D04E522BDEA38EC6345EAD78CB": {
+        "sender": "129373172711439@lid",
+        "text": "Então se cuida né",
+        "pushName": "Celiete Souza",
+        "timestamp": 1789498590612
+      },
+      "AC67297FD44BD277AD60DA419430938E": {
+        "sender": "54259127210155@lid",
+        "text": "Tmj! 🤝",
+        "pushName": "LEANDRO M.",
+        "timestamp": 1789498595943
       }
     }
   },
@@ -20847,7 +20912,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789498574752
+    "120363412202609595@g.us": 1789498595943
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
