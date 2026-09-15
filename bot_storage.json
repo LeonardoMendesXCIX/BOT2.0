@@ -7372,9 +7372,9 @@
     },
     "120363412202609595@g.us": {
       "92629643563147": {
-        "text": 91,
+        "text": 92,
         "media": 33,
-        "total": 124
+        "total": 125
       },
       "182738040713418": {
         "text": 99,
@@ -7432,9 +7432,9 @@
         "total": 22
       },
       "129373172711439": {
-        "text": 153,
+        "text": 154,
         "media": 52,
-        "total": 205
+        "total": 206
       },
       "15960484393007": {
         "text": 10,
@@ -7452,9 +7452,9 @@
         "total": 15
       },
       "100356960845833": {
-        "text": 125,
+        "text": 126,
         "media": 15,
-        "total": 140
+        "total": 141
       },
       "118528279593092": {
         "text": 1,
@@ -14789,7 +14789,9 @@
         "Georg Barão ✌🏻😎: Sempre rola uma dr 🎶",
         "Celiete Souza: Muito verdade isso",
         "Rodenilson 🤘🏾👀: Kkkk,pior que sabe,tem os mestres",
-        "Celiete Souza: Experiência viva aqui 🤦🏼‍♀️\nEu via isso kkkk"
+        "Celiete Souza: Experiência viva aqui 🤦🏼‍♀️\nEu via isso kkkk",
+        "Celiete Souza: Eu ainda dizia, da próxima vez disfarçar só um pouquinho 😂",
+        "Camila Designer: Homem é igual melancia 🍉"
       ]
     }
   },
@@ -15165,6 +15167,18 @@
         "authorName": "Celiete Souza",
         "text": "Experiência viva aqui 🤦🏼‍♀️\nEu via isso kkkk",
         "timestamp": 1789491213716
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Eu ainda dizia, da próxima vez disfarçar só um pouquinho 😂",
+        "timestamp": 1789491238410
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Homem é igual melancia 🍉",
+        "timestamp": 1789491252453
       }
     ]
   },
@@ -15192,7 +15206,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1483
+    "120363412202609595@g.us": 1485
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -15860,7 +15874,7 @@
       "5511927018683": 100,
       "93836630077600": 71,
       "183906892533896": 48,
-      "92629643563147": 269,
+      "92629643563147": 279,
       "81991328395336": 99,
       "231241810989128": 566,
       "166452229341300": 102,
@@ -16171,7 +16185,7 @@
       "5511927018683": 20,
       "93836630077600": 16,
       "183906892533896": 11,
-      "92629643563147": 56,
+      "92629643563147": 58,
       "81991328395336": 20,
       "231241810989128": 125,
       "166452229341300": 20,
@@ -18637,6 +18651,18 @@
         "text": "Experiência viva aqui 🤦🏼‍♀️\nEu via isso kkkk",
         "pushName": "Celiete Souza",
         "timestamp": 1789491213716
+      },
+      "AC635DB54A21492B76E52038423C534E": {
+        "sender": "129373172711439@lid",
+        "text": "Eu ainda dizia, da próxima vez disfarçar só um pouquinho 😂",
+        "pushName": "Celiete Souza",
+        "timestamp": 1789491238410
+      },
+      "2ADBE31D1CC56AD49270": {
+        "sender": "92629643563147@lid",
+        "text": "Homem é igual melancia 🍉",
+        "pushName": "Camila Designer",
+        "timestamp": 1789491252453
       }
     }
   },
@@ -18894,7 +18920,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789491213716
+    "120363412202609595@g.us": 1789491252453
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
