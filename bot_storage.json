@@ -7432,9 +7432,9 @@
         "total": 23
       },
       "129373172711439": {
-        "text": 204,
+        "text": 208,
         "media": 65,
-        "total": 269
+        "total": 273
       },
       "15960484393007": {
         "text": 10,
@@ -7532,9 +7532,9 @@
         "total": 197
       },
       "559991116887": {
-        "text": 118,
+        "text": 119,
         "media": 48,
-        "total": 166
+        "total": 167
       },
       "23687415767181": {
         "text": 1,
@@ -15146,7 +15146,10 @@
         "Gusta: Sou eu e vc daqui um tempo?",
         "Gusta: Kkkkkk",
         "𝑳𝒂𝒚𝒉🌪🌚: Eu pensei q era água sanitária",
-        "Gusta: Brincadeira kkkkkk"
+        "Gusta: Brincadeira kkkkkk",
+        "Celiete Souza: Agora nunca tomei um copo de vinagre 🤣",
+        "𝑳𝒂𝒚𝒉🌪🌚: Pq no Maranhão e a água sanitária q o povo guarda",
+        "Celiete Souza: Ah não, que perigo"
       ]
     }
   },
@@ -15169,42 +15172,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "50869659811853",
-        "authorName": "Gusta",
-        "text": "Tmj brother",
-        "timestamp": 1789498574752
-      },
-      {
-        "authorNum": "54259127210155",
-        "authorName": "LEANDRO M.",
-        "text": "Eu sou um noia então",
-        "timestamp": 1789498576564
-      },
-      {
-        "authorNum": "559991116887",
-        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
-        "text": "Sejam bem vindo",
-        "timestamp": 1789498579012
-      },
-      {
-        "authorNum": "50869659811853",
-        "authorName": "Gusta",
-        "text": "Kkkkk depende da matéria",
-        "timestamp": 1789498587811
-      },
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Então se cuida né",
-        "timestamp": 1789498590612
-      },
-      {
-        "authorNum": "54259127210155",
-        "authorName": "LEANDRO M.",
-        "text": "Tmj! 🤝",
-        "timestamp": 1789498595943
-      },
       {
         "authorNum": "54259127210155",
         "authorName": "LEANDRO M.",
@@ -15582,6 +15549,24 @@
         "authorName": "Gusta",
         "text": "Brincadeira kkkkkk",
         "timestamp": 1789500374259
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Agora nunca tomei um copo de vinagre 🤣",
+        "timestamp": 1789500376033
+      },
+      {
+        "authorNum": "559991116887",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Pq no Maranhão e a água sanitária q o povo guarda",
+        "timestamp": 1789500385170
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Ah não, que perigo",
+        "timestamp": 1789500412496
       }
     ]
   },
@@ -15609,7 +15594,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1810
+    "120363412202609595@g.us": 1813
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16282,7 +16267,7 @@
       "166452229341300": 102,
       "182738040713418": 222,
       "105136689029122": 37,
-      "129373172711439": 463,
+      "129373172711439": 471,
       "140622228942952": 123,
       "108461127897146": 368,
       "69539832270873": 6,
@@ -16296,7 +16281,7 @@
       "247020967165997": 405,
       "559984624669": 410,
       "163530946961491": 35,
-      "559991116887": 355,
+      "559991116887": 365,
       "164398513573978": 13,
       "102109089378363": 253,
       "253403338903556": 84,
@@ -16597,7 +16582,7 @@
       "166452229341300": 20,
       "182738040713418": 51,
       "105136689029122": 9,
-      "129373172711439": 99,
+      "129373172711439": 102,
       "140622228942952": 23,
       "108461127897146": 76,
       "69539832270873": 1,
@@ -16611,7 +16596,7 @@
       "247020967165997": 79,
       "559984624669": 81,
       "163530946961491": 8,
-      "559991116887": 78,
+      "559991116887": 80,
       "164398513573978": 2,
       "102109089378363": 50,
       "253403338903556": 13,
@@ -21087,6 +21072,24 @@
         "text": "Brincadeira kkkkkk",
         "pushName": "Gusta",
         "timestamp": 1789500374260
+      },
+      "AC6DF0389160453BE92D177253C0C877": {
+        "sender": "129373172711439@lid",
+        "text": "Agora nunca tomei um copo de vinagre 🤣",
+        "pushName": "Celiete Souza",
+        "timestamp": 1789500376033
+      },
+      "AC03D2378A5840D4DDC96C8A5A31931F": {
+        "sender": "81991328395336@lid",
+        "text": "Pq no Maranhão e a água sanitária q o povo guarda",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1789500385170
+      },
+      "AC9F4178386B367008B511301FA46E7F": {
+        "sender": "129373172711439@lid",
+        "text": "Ah não, que perigo",
+        "pushName": "Celiete Souza",
+        "timestamp": 1789500412496
       }
     }
   },
@@ -21344,7 +21347,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789500374259
+    "120363412202609595@g.us": 1789500412496
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
