@@ -7452,9 +7452,9 @@
         "total": 15
       },
       "100356960845833": {
-        "text": 121,
+        "text": 122,
         "media": 15,
-        "total": 136
+        "total": 137
       },
       "118528279593092": {
         "text": 1,
@@ -7582,9 +7582,9 @@
         "total": 1
       },
       "158381767696617": {
-        "text": 124,
+        "text": 125,
         "media": 4,
-        "total": 128
+        "total": 129
       },
       "237086657491106": {
         "text": 2,
@@ -14761,7 +14761,9 @@
         "Cristian Sntss: @54804520915168 \n\n\n\nResponda essa meu patrão",
         "Camila Designer: Esse assunto eu domino kkk",
         "Rodenilson 🤘🏾👀: Hj em dia tá difícil de saber quem mente mais,homem ou mulher",
-        "Celiete Souza: Já comi os meus 🫠"
+        "Celiete Souza: Já comi os meus 🫠",
+        "Rodenilson 🤘🏾👀: Gulosa e nem me ofereceu",
+        "Georg Barão ✌🏻😎: Somos 2 eu tbm kkk"
       ]
     }
   },
@@ -14784,18 +14786,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "171086465478763",
-        "authorName": "Marcus Vieira",
-        "text": "Eu gosto do friozinho gostoso kkkk",
-        "timestamp": 1789488962598
-      },
-      {
-        "authorNum": "27346140700786",
-        "authorName": "Diana Shirley",
-        "text": "Sim, pq já estive em lugar na época do frio",
-        "timestamp": 1789488987574
-      },
       {
         "authorNum": "100356960845833",
         "authorName": "Rodenilson 🤘🏾👀",
@@ -15071,6 +15061,18 @@
         "authorName": "Celiete Souza",
         "text": "Já comi os meus 🫠",
         "timestamp": 1789490753053
+      },
+      {
+        "authorNum": "100356960845833",
+        "authorName": "Rodenilson 🤘🏾👀",
+        "text": "Gulosa e nem me ofereceu",
+        "timestamp": 1789490769421
+      },
+      {
+        "authorNum": "158381767696617",
+        "authorName": "Georg Barão ✌🏻😎",
+        "text": "Somos 2 eu tbm kkk",
+        "timestamp": 1789490801212
       }
     ]
   },
@@ -15098,7 +15100,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1460
+    "120363412202609595@g.us": 1462
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -15780,7 +15782,7 @@
       "137623771312290": 12,
       "53537388122141": 622,
       "95125053169759": 41,
-      "100356960845833": 382,
+      "100356960845833": 388,
       "128810464874577": 13,
       "4342933360709": 57,
       "247020967165997": 405,
@@ -16091,7 +16093,7 @@
       "137623771312290": 3,
       "53537388122141": 130,
       "95125053169759": 12,
-      "100356960845833": 82,
+      "100356960845833": 84,
       "128810464874577": 3,
       "4342933360709": 14,
       "247020967165997": 79,
@@ -18405,6 +18407,18 @@
         "text": "Já comi os meus 🫠",
         "pushName": "Celiete Souza",
         "timestamp": 1789490753053
+      },
+      "ACCFA363B4A9DF759BDDBF316F47E805": {
+        "sender": "100356960845833@lid",
+        "text": "Gulosa e nem me ofereceu",
+        "pushName": "Rodenilson 🤘🏾👀",
+        "timestamp": 1789490769421
+      },
+      "ACE91CC59CCB75D3FB2C9CF29844884B": {
+        "sender": "158381767696617@lid",
+        "text": "Somos 2 eu tbm kkk",
+        "pushName": "Georg Barão ✌🏻😎",
+        "timestamp": 1789490801212
       }
     }
   },
@@ -18662,7 +18676,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789490753053
+    "120363412202609595@g.us": 1789490801212
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
