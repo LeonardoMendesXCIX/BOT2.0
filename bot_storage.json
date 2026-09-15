@@ -7627,9 +7627,9 @@
         "total": 1
       },
       "171086465478763": {
-        "text": 6,
-        "media": 4,
-        "total": 10
+        "text": 7,
+        "media": 5,
+        "total": 12
       },
       "126929839591449": {
         "text": 3,
@@ -14713,7 +14713,8 @@
         "Rodenilson 🤘🏾👀: Então tá de boa",
         "Cristian Sntss: Vc vem branco por Maranhão",
         "Diana Shirley: Sim",
-        "Cristian Sntss: Em dia muda de cor"
+        "Cristian Sntss: Em dia muda de cor",
+        "Marcus Vieira: Época de frio é essa kkkk"
       ]
     }
   },
@@ -14743,18 +14744,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Ah tarde nunca durmo",
-        "timestamp": 1789487235293
-      },
-      {
-        "authorNum": "158381767696617",
-        "authorName": "Georg Barão ✌🏻😎",
-        "text": "Eu tenho que acordar na melhor hora que tem pra dormir kkk",
-        "timestamp": 1789487242144
-      },
       {
         "authorNum": "158381767696617",
         "authorName": "Georg Barão ✌🏻😎",
@@ -15120,6 +15109,12 @@
         "authorName": "Cristian Sntss",
         "text": "Em dia muda de cor",
         "timestamp": 1789489026601
+      },
+      {
+        "authorNum": "171086465478763",
+        "authorName": "Marcus Vieira",
+        "text": "Época de frio é essa kkkk",
+        "timestamp": 1789489043629
       }
     ]
   },
@@ -15147,7 +15142,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1418
+    "120363412202609595@g.us": 1419
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -18190,6 +18185,12 @@
         "text": "Em dia muda de cor",
         "pushName": "Cristian Sntss",
         "timestamp": 1789489026601
+      },
+      "3A6702270A609386D318": {
+        "sender": "171086465478763@lid",
+        "text": "Época de frio é essa kkkk",
+        "pushName": "Marcus Vieira",
+        "timestamp": 1789489043629
       }
     }
   },
@@ -18447,7 +18448,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789489029991
+    "120363412202609595@g.us": 1789489051080
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
