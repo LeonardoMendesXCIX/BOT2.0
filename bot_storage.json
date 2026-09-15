@@ -7432,9 +7432,9 @@
         "total": 22
       },
       "129373172711439": {
-        "text": 165,
+        "text": 166,
         "media": 55,
-        "total": 220
+        "total": 221
       },
       "15960484393007": {
         "text": 10,
@@ -7527,14 +7527,14 @@
         "total": 83
       },
       "559984624669": {
-        "text": 110,
+        "text": 111,
         "media": 42,
-        "total": 152
+        "total": 153
       },
       "559991116887": {
-        "text": 79,
+        "text": 80,
         "media": 27,
-        "total": 106
+        "total": 107
       },
       "23687415767181": {
         "text": 1,
@@ -7582,9 +7582,9 @@
         "total": 1
       },
       "158381767696617": {
-        "text": 137,
+        "text": 138,
         "media": 5,
-        "total": 142
+        "total": 143
       },
       "237086657491106": {
         "text": 2,
@@ -14832,7 +14832,10 @@
         "Cristian Sntss: @all",
         "Cristian Sntss: Ser corna amante o fim da picada",
         "Georg Barão ✌🏻😎: 😂😂😂😂",
-        "jaciara: Se ex fosse bom Deus não mandava amar o próximo"
+        "jaciara: Se ex fosse bom Deus não mandava amar o próximo",
+        "Cristian Sntss: 🫡",
+        "Celiete Souza: Eu passei por traição patrimonial pra ti ter uma ideia, existem vários tipos de traições 😕",
+        "Georg Barão ✌🏻😎: Simples frase que éh muito verdadeira kkk"
       ]
     }
   },
@@ -14855,18 +14858,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "Aí vai lá e casa com um dorminhoco 😂",
-        "timestamp": 1789490065809
-      },
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "@54804520915168",
-        "timestamp": 1789490068590
-      },
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
@@ -15388,6 +15379,24 @@
         "authorName": "jaciara",
         "text": "Se ex fosse bom Deus não mandava amar o próximo",
         "timestamp": 1789491850526
+      },
+      {
+        "authorNum": "559984624669",
+        "authorName": "Cristian Sntss",
+        "text": "🫡",
+        "timestamp": 1789491861035
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Eu passei por traição patrimonial pra ti ter uma ideia, existem vários tipos de traições 😕",
+        "timestamp": 1789491861886
+      },
+      {
+        "authorNum": "158381767696617",
+        "authorName": "Georg Barão ✌🏻😎",
+        "text": "Simples frase que éh muito verdadeira kkk",
+        "timestamp": 1789491870371
       }
     ]
   },
@@ -15415,7 +15424,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1521
+    "120363412202609595@g.us": 1524
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16109,7 +16118,7 @@
       "253403338903556": 84,
       "262182034002040": 69,
       "185942488969385": 8,
-      "158381767696617": 512,
+      "158381767696617": 520,
       "237086657491106": 8,
       "72315102593077": 49,
       "255632628252836": 13,
@@ -16420,7 +16429,7 @@
       "253403338903556": 13,
       "262182034002040": 19,
       "185942488969385": 2,
-      "158381767696617": 103,
+      "158381767696617": 105,
       "237086657491106": 2,
       "72315102593077": 8,
       "255632628252836": 5,
@@ -19093,6 +19102,24 @@
         "text": "Se ex fosse bom Deus não mandava amar o próximo",
         "pushName": "jaciara",
         "timestamp": 1789491850526
+      },
+      "A5221D7923A335BF256082862EBDB7D4": {
+        "sender": "166452229341300@lid",
+        "text": "🫡",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1789491861036
+      },
+      "ACFD13F0F20C6E1B05F4916369B170BE": {
+        "sender": "129373172711439@lid",
+        "text": "Eu passei por traição patrimonial pra ti ter uma ideia, existem vários tipos de traições 😕",
+        "pushName": "Celiete Souza",
+        "timestamp": 1789491861886
+      },
+      "AC8E391E9FF50CB4EC866B80DA2339AF": {
+        "sender": "158381767696617@lid",
+        "text": "Simples frase que éh muito verdadeira kkk",
+        "pushName": "Georg Barão ✌🏻😎",
+        "timestamp": 1789491870371
       }
     }
   },
@@ -19350,7 +19377,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789491850526
+    "120363412202609595@g.us": 1789491872723
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
