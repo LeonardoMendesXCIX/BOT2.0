@@ -7402,9 +7402,9 @@
         "total": 47
       },
       "183906892533896": {
-        "text": 34,
+        "text": 35,
         "media": 3,
-        "total": 37
+        "total": 38
       },
       "108461127897146": {
         "text": 108,
@@ -7432,9 +7432,9 @@
         "total": 22
       },
       "129373172711439": {
-        "text": 156,
+        "text": 157,
         "media": 53,
-        "total": 209
+        "total": 210
       },
       "15960484393007": {
         "text": 10,
@@ -14797,7 +14797,9 @@
         "Camila Designer: Semente pra caramba!",
         "Georg Barão ✌🏻😎: Rapaz kkk",
         "Georg Barão ✌🏻😎: Toda poeta ela, pena que falou ah frase errada kkk",
-        "Rodenilson 🤘🏾👀: Como se mulher não mentisse tanto tbm kkkk"
+        "Rodenilson 🤘🏾👀: Como se mulher não mentisse tanto tbm kkkk",
+        "Celiete Souza: Não mentimos \nOmitimos",
+        "Igor Alexandre: Se puxar as estatísticas do grupo, vocês percebem que a maioria que sai do grupo ou é removido são homens. Eu realmente não consigo entender pq os homens não podem respeitar os limites de uma mulher. "
       ]
     }
   },
@@ -15221,6 +15223,18 @@
         "authorName": "Rodenilson 🤘🏾👀",
         "text": "Como se mulher não mentisse tanto tbm kkkk",
         "timestamp": 1789491302140
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Não mentimos \nOmitimos",
+        "timestamp": 1789491327360
+      },
+      {
+        "authorNum": "183906892533896",
+        "authorName": "Igor Alexandre",
+        "text": "Se puxar as estatísticas do grupo, vocês percebem que a maioria que sai do grupo ou é removido são homens. Eu realmente não consigo entender pq os homens não podem respeitar os limites de uma mulher. O tempo da mulher servir um homem, já passou. Estamos em 2026. Eu foco sempre no respeito e no limite de todos, independente quem seja. #Ficaadica",
+        "timestamp": 1789491332447
       }
     ]
   },
@@ -15248,7 +15262,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1491
+    "120363412202609595@g.us": 1493
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -15915,7 +15929,7 @@
     "120363412202609595@g.us": {
       "5511927018683": 100,
       "93836630077600": 71,
-      "183906892533896": 48,
+      "183906892533896": 54,
       "92629643563147": 279,
       "81991328395336": 99,
       "231241810989128": 566,
@@ -16226,7 +16240,7 @@
     "120363412202609595@g.us": {
       "5511927018683": 20,
       "93836630077600": 16,
-      "183906892533896": 11,
+      "183906892533896": 14,
       "92629643563147": 58,
       "81991328395336": 20,
       "231241810989128": 125,
@@ -18741,6 +18755,18 @@
         "text": "Como se mulher não mentisse tanto tbm kkkk",
         "pushName": "Rodenilson 🤘🏾👀",
         "timestamp": 1789491302140
+      },
+      "AC8D8E6A0C163F637CE8C4EA6AABCA56": {
+        "sender": "129373172711439@lid",
+        "text": "Não mentimos \nOmitimos",
+        "pushName": "Celiete Souza",
+        "timestamp": 1789491327361
+      },
+      "ACF41041C664159BD5AE8E22EDF58088": {
+        "sender": "183906892533896@lid",
+        "text": "Se puxar as estatísticas do grupo, vocês percebem que a maioria que sai do grupo ou é removido são homens. Eu realmente não consigo entender pq os homens não podem respeitar os limites de uma mulher. O tempo da mulher servir um homem, já passou. Estamos em 2026. Eu foco sempre no respeito e no limite de todos, independente quem seja. #Ficaadica",
+        "pushName": "Igor Alexandre",
+        "timestamp": 1789491333143
       }
     }
   },
@@ -18998,7 +19024,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789491306954
+    "120363412202609595@g.us": 1789491332447
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
