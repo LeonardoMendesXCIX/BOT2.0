@@ -7527,9 +7527,9 @@
         "total": 83
       },
       "559984624669": {
-        "text": 158,
+        "text": 160,
         "media": 56,
-        "total": 214
+        "total": 216
       },
       "559991116887": {
         "text": 141,
@@ -7592,9 +7592,9 @@
         "total": 2
       },
       "72315102593077": {
-        "text": 18,
+        "text": 19,
         "media": 0,
-        "total": 18
+        "total": 19
       },
       "59623457439943": {
         "text": 2,
@@ -14655,9 +14655,6 @@
         "Camila Designer: Só clicar e entrar"
       ],
       "15/09/2026": [
-        "𝑳𝒂𝒚𝒉🌪🌚: O caba pediu pra me divulga eu dei uma risada sincera",
-        "Gilvanda Costa: Achei que t conhecia de outro grupo desculpa .",
-        "Rodenilson 🤘🏾👀: Sim, é isso mesmo",
         "Diana Shirley: Kkkkkkkkkk, morta😂😂😂😂😂 almoçando, quase me engasgo😂😂😂😂😂😂",
         "Cristian Sntss: @54804520915168 \nJá tenho um emprego pra ti aqui",
         "Diana Shirley: Tão bom quando existe🥰",
@@ -15154,7 +15151,10 @@
         "𝑳𝒂𝒚𝒉🌪🌚: Kkkk",
         "𝑳𝒂𝒚𝒉🌪🌚: Uia eu subi em",
         "Cristian Sntss: Empate dos irmãos \n@54259127210155",
-        "Gabriel: Oq é isso?"
+        "Gabriel: Oq é isso?",
+        "Cristian Sntss: @54259127210155 o jogo tá prestando ?",
+        "Cristian Sntss: Tua interação no grupo",
+        "Gabriel: Att"
       ]
     }
   },
@@ -15177,12 +15177,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "559991116887",
-        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
-        "text": "Votem",
-        "timestamp": 1789500445325
-      },
       {
         "authorNum": "559984624669",
         "authorName": "Cristian Sntss",
@@ -15818,6 +15812,24 @@
         "authorName": "Gabriel",
         "text": "Oq é isso?",
         "timestamp": 1789502234069
+      },
+      {
+        "authorNum": "559984624669",
+        "authorName": "Cristian Sntss",
+        "text": "@54259127210155 o jogo tá prestando ?",
+        "timestamp": 1789502243549
+      },
+      {
+        "authorNum": "559984624669",
+        "authorName": "Cristian Sntss",
+        "text": "Tua interação no grupo",
+        "timestamp": 1789502254104
+      },
+      {
+        "authorNum": "72315102593077",
+        "authorName": "Gabriel",
+        "text": "Att",
+        "timestamp": 1789502262287
       }
     ]
   },
@@ -15845,7 +15857,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1920
+    "120363412202609595@g.us": 1923
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16540,7 +16552,7 @@
       "185942488969385": 8,
       "158381767696617": 606,
       "237086657491106": 8,
-      "72315102593077": 66,
+      "72315102593077": 73,
       "255632628252836": 20,
       "238440125853754": 24,
       "171086465478763": 31,
@@ -16855,7 +16867,7 @@
       "185942488969385": 2,
       "158381767696617": 125,
       "237086657491106": 2,
-      "72315102593077": 11,
+      "72315102593077": 14,
       "255632628252836": 7,
       "238440125853754": 8,
       "171086465478763": 6,
@@ -21988,6 +22000,24 @@
         "text": "Oq é isso?",
         "pushName": "Gabriel",
         "timestamp": 1789502234069
+      },
+      "A54876B782988D240292BA372FC37F70": {
+        "sender": "166452229341300@lid",
+        "text": "@54259127210155 o jogo tá prestando ?",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1789502243550
+      },
+      "A5F8A0941035FCCF0076437EE123E6CD": {
+        "sender": "166452229341300@lid",
+        "text": "Tua interação no grupo",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1789502254104
+      },
+      "ACF596261195B6DE22BA19D72A7726FC": {
+        "sender": "72315102593077@lid",
+        "text": "Att",
+        "pushName": "Gabriel",
+        "timestamp": 1789502262287
       }
     }
   },
@@ -22245,7 +22275,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789502234069
+    "120363412202609595@g.us": 1789502262287
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
