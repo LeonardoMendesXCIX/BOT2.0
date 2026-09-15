@@ -7372,9 +7372,9 @@
     },
     "120363412202609595@g.us": {
       "92629643563147": {
-        "text": 97,
+        "text": 99,
         "media": 39,
-        "total": 136
+        "total": 138
       },
       "182738040713418": {
         "text": 99,
@@ -7582,9 +7582,9 @@
         "total": 1
       },
       "158381767696617": {
-        "text": 149,
+        "text": 150,
         "media": 5,
-        "total": 154
+        "total": 155
       },
       "237086657491106": {
         "text": 2,
@@ -14865,7 +14865,10 @@
         "Camila Designer: Não, meus amigos são todos na época de colegial",
         "Camila Designer: Quando colocamos como amigo é porque não houve conexão",
         "Georg Barão ✌🏻😎: Kkk,vc sempre se sai bem das perguntas vc não éh um robô não?kkk",
-        "Camila Designer: Contar algo para vocês, eu tinha um amigo que estudamos desde o pré, um belo dia na época da pré-adolescência resolvemos nos beijar e juro era como se tivesse beijado meu irmão, não rolou!"
+        "Camila Designer: Contar algo para vocês, eu tinha um amigo que estudamos desde o pré, um belo dia na época da pré-adolescência resolvemos nos beijar e juro era como se tivesse beijado meu irmão, não rolou!",
+        "Camila Designer: Permanecemos amigos e somos até hoje",
+        "Georg Barão ✌🏻😎: Mais tipo na maioria das vezes esse homem faz tudo do que vcs dizem que era oh que queria em um homem",
+        "Camila Designer: Será????"
       ]
     }
   },
@@ -15529,6 +15532,24 @@
         "authorName": "Camila Designer",
         "text": "Contar algo para vocês, eu tinha um amigo que estudamos desde o pré, um belo dia na época da pré-adolescência resolvemos nos beijar e juro era como se tivesse beijado meu irmão, não rolou!",
         "timestamp": 1789492330398
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Permanecemos amigos e somos até hoje",
+        "timestamp": 1789492338767
+      },
+      {
+        "authorNum": "158381767696617",
+        "authorName": "Georg Barão ✌🏻😎",
+        "text": "Mais tipo na maioria das vezes esse homem faz tudo do que vcs dizem que era oh que queria em um homem",
+        "timestamp": 1789492342403
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Será????",
+        "timestamp": 1789492350514
       }
     ]
   },
@@ -15556,7 +15577,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1554
+    "120363412202609595@g.us": 1557
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16224,7 +16245,7 @@
       "5511927018683": 100,
       "93836630077600": 71,
       "183906892533896": 54,
-      "92629643563147": 297,
+      "92629643563147": 315,
       "81991328395336": 99,
       "231241810989128": 566,
       "166452229341300": 102,
@@ -16250,7 +16271,7 @@
       "253403338903556": 84,
       "262182034002040": 69,
       "185942488969385": 8,
-      "158381767696617": 566,
+      "158381767696617": 574,
       "237086657491106": 8,
       "72315102593077": 49,
       "255632628252836": 13,
@@ -16535,7 +16556,7 @@
       "5511927018683": 20,
       "93836630077600": 16,
       "183906892533896": 14,
-      "92629643563147": 64,
+      "92629643563147": 70,
       "81991328395336": 20,
       "231241810989128": 125,
       "166452229341300": 20,
@@ -16561,7 +16582,7 @@
       "253403338903556": 13,
       "262182034002040": 19,
       "185942488969385": 2,
-      "158381767696617": 115,
+      "158381767696617": 117,
       "237086657491106": 2,
       "72315102593077": 8,
       "255632628252836": 5,
@@ -19442,6 +19463,24 @@
         "text": "Contar algo para vocês, eu tinha um amigo que estudamos desde o pré, um belo dia na época da pré-adolescência resolvemos nos beijar e juro era como se tivesse beijado meu irmão, não rolou!",
         "pushName": "Camila Designer",
         "timestamp": 1789492330398
+      },
+      "2AD6AC4327533CE771AA": {
+        "sender": "92629643563147@lid",
+        "text": "Permanecemos amigos e somos até hoje",
+        "pushName": "Camila Designer",
+        "timestamp": 1789492338767
+      },
+      "AC131107CD2FF9194A9EDE20A16A6FC5": {
+        "sender": "158381767696617@lid",
+        "text": "Mais tipo na maioria das vezes esse homem faz tudo do que vcs dizem que era oh que queria em um homem",
+        "pushName": "Georg Barão ✌🏻😎",
+        "timestamp": 1789492342404
+      },
+      "2AABC42D75BB76011F6E": {
+        "sender": "92629643563147@lid",
+        "text": "Será????",
+        "pushName": "Camila Designer",
+        "timestamp": 1789492350514
       }
     }
   },
@@ -19699,7 +19738,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789492330398
+    "120363412202609595@g.us": 1789492350514
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
