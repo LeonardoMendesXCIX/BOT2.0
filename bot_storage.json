@@ -7660,6 +7660,11 @@
         "text": 2,
         "media": 2,
         "total": 4
+      },
+      "133934344065150": {
+        "text": 1,
+        "media": 0,
+        "total": 1
       }
     }
   },
@@ -14716,7 +14721,8 @@
         "Cristian Sntss: Em dia muda de cor",
         "Marcus Vieira: Época de frio é essa kkkk",
         "Diana Shirley: Aí não, vou congelar",
-        "𝑳𝒂𝒚𝒉🌪🌚: O caba pediu pra me divulga eu dei uma risada sincera"
+        "𝑳𝒂𝒚𝒉🌪🌚: O caba pediu pra me divulga eu dei uma risada sincera",
+        "Gilvanda Costa: Achei que t conhecia de outro grupo desculpa ."
       ]
     }
   },
@@ -14739,18 +14745,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Coloca uma foto sua \nIdade \nLocal que mora \nE já fica apresentado aqui 🫶🏻",
-        "timestamp": 1789487520790
-      },
-      {
-        "authorNum": "36215264927990",
-        "authorName": ".",
-        "text": "Oxi, tem chatbot no grupo???",
-        "timestamp": 1789487542053
-      },
       {
         "authorNum": "100356960845833",
         "authorName": "Rodenilson 🤘🏾👀",
@@ -15080,6 +15074,12 @@
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
         "text": "O caba pediu pra me divulga eu dei uma risada sincera",
         "timestamp": 1789489284505
+      },
+      {
+        "authorNum": "133934344065150",
+        "authorName": "Gilvanda Costa",
+        "text": "Achei que t conhecia de outro grupo desculpa .",
+        "timestamp": 1789489346304
       }
     ]
   },
@@ -15107,7 +15107,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1421
+    "120363412202609595@g.us": 1422
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -15811,7 +15811,8 @@
       "149607149498623": 5,
       "106378353996008": 12,
       "21543589527800": 5,
-      "36215264927990": 14
+      "36215264927990": 14,
+      "133934344065150": 11
     }
   },
   "coins": {
@@ -16120,7 +16121,8 @@
       "149607149498623": 3,
       "106378353996008": 1,
       "21543589527800": 3,
-      "36215264927990": 2
+      "36215264927990": 2,
+      "133934344065150": 1
     }
   },
   "dailyRewardClaimed": {
@@ -18168,6 +18170,12 @@
         "text": "O caba pediu pra me divulga eu dei uma risada sincera",
         "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
         "timestamp": 1789489284505
+      },
+      "AC4F7255DD001F3C8BC26658BA959A1A": {
+        "sender": "133934344065150@lid",
+        "text": "Achei que t conhecia de outro grupo desculpa .",
+        "pushName": "Gilvanda Costa",
+        "timestamp": 1789489346304
       }
     }
   },
@@ -18425,7 +18433,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789489287718
+    "120363412202609595@g.us": 1789489346304
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
