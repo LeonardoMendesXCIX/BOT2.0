@@ -7417,9 +7417,9 @@
         "total": 1
       },
       "166452229341300": {
-        "text": 30,
-        "media": 15,
-        "total": 45
+        "text": 31,
+        "media": 16,
+        "total": 47
       },
       "231241810989128": {
         "text": 146,
@@ -14731,7 +14731,8 @@
         "Georg Barão ✌🏻😎: 👏🏻👏🏻",
         "𝑳𝒂𝒚𝒉🌪🌚: Tu já acordou",
         "Georg Barão ✌🏻😎: 👏🏻👏🏻",
-        "Georg Barão ✌🏻😎: Acordei pra tomar água kkk"
+        "Georg Barão ✌🏻😎: Acordei pra tomar água kkk",
+        "Cristian Sntss: Rpz eu não consigo durmi muito n"
       ]
     }
   },
@@ -14754,12 +14755,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "100356960845833",
-        "authorName": "Rodenilson 🤘🏾👀",
-        "text": "De banana né \nGosto daquele de côco",
-        "timestamp": 1789488181688
-      },
       {
         "authorNum": "93836630077600",
         "authorName": "Fabrício",
@@ -15077,6 +15072,12 @@
         "authorName": "Georg Barão ✌🏻😎",
         "text": "Acordei pra tomar água kkk",
         "timestamp": 1789489968567
+      },
+      {
+        "authorNum": "166452229341300",
+        "authorName": "Cristian Sntss",
+        "text": "Rpz eu não consigo durmi muito n",
+        "timestamp": 1789490003298
       }
     ]
   },
@@ -15104,7 +15105,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1430
+    "120363412202609595@g.us": 1431
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -18226,6 +18227,12 @@
         "text": "Acordei pra tomar água kkk",
         "pushName": "Georg Barão ✌🏻😎",
         "timestamp": 1789489968567
+      },
+      "A5C0B7A77CF079F046CFAA380481F854": {
+        "sender": "166452229341300@lid",
+        "text": "Rpz eu não consigo durmi muito n",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1789490003298
       }
     }
   },
@@ -18483,7 +18490,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789489968567
+    "120363412202609595@g.us": 1789490003298
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
