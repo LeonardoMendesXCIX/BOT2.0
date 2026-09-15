@@ -7432,9 +7432,9 @@
         "total": 23
       },
       "129373172711439": {
-        "text": 173,
+        "text": 175,
         "media": 56,
-        "total": 229
+        "total": 231
       },
       "15960484393007": {
         "text": 10,
@@ -7662,9 +7662,9 @@
         "total": 9
       },
       "133934344065150": {
-        "text": 4,
+        "text": 5,
         "media": 0,
-        "total": 4
+        "total": 5
       },
       "234368463306803": {
         "text": 1,
@@ -7677,9 +7677,9 @@
         "total": 2
       },
       "187845394358417": {
-        "text": 0,
+        "text": 1,
         "media": 1,
-        "total": 1
+        "total": 2
       }
     }
   },
@@ -14956,7 +14956,10 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Quem dera pudesse viajar sempre. Mas viajei pra Brasília, Tocantins.\nFora RS, que tenho parentes por lá",
         "Celiete Souza: Existe, apesar de muitas das vezes virem decepções pelo caminho",
         "Igor Alexandre: Homem que é homem precisa ter chifre para poder defender as mulheres kkkkk tive um caso",
-        "jaciara: Manda pra cá"
+        "jaciara: Manda pra cá",
+        "Celiete Souza: Verdade 👀",
+        "Gilvanda Costa: Aqui tá precisando um pouquinho",
+        "Maurício Manú Telecom: Qual cidade é pra mandar kkkk"
       ]
     }
   },
@@ -15392,6 +15395,24 @@
         "authorName": "jaciara",
         "text": "Manda pra cá",
         "timestamp": 1789494407704
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Verdade 👀",
+        "timestamp": 1789494441087
+      },
+      {
+        "authorNum": "133934344065150",
+        "authorName": "Gilvanda Costa",
+        "text": "Aqui tá precisando um pouquinho",
+        "timestamp": 1789494447711
+      },
+      {
+        "authorNum": "187845394358417",
+        "authorName": "Maurício Manú Telecom",
+        "text": "Qual cidade é pra mandar kkkk",
+        "timestamp": 1789494449118
       }
     ]
   },
@@ -15419,7 +15440,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1640
+    "120363412202609595@g.us": 1643
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -15608,7 +15629,6 @@
     ],
     "120363313059060675@g.us": [],
     "120363427438126559@g.us": [
-      "102109089378363@lid",
       "66447808172080@lid",
       "100356960845833@lid",
       "105136689029122@lid",
@@ -16093,7 +16113,7 @@
       "166452229341300": 102,
       "182738040713418": 217,
       "105136689029122": 37,
-      "129373172711439": 358,
+      "129373172711439": 363,
       "140622228942952": 100,
       "108461127897146": 360,
       "69539832270873": 6,
@@ -16124,7 +16144,7 @@
       "106378353996008": 12,
       "21543589527800": 5,
       "36215264927990": 14,
-      "133934344065150": 11,
+      "133934344065150": 19,
       "120363412202609595": 21
     }
   },
@@ -16404,7 +16424,7 @@
       "166452229341300": 20,
       "182738040713418": 48,
       "105136689029122": 9,
-      "129373172711439": 78,
+      "129373172711439": 79,
       "140622228942952": 20,
       "108461127897146": 75,
       "69539832270873": 1,
@@ -16435,7 +16455,7 @@
       "106378353996008": 1,
       "21543589527800": 3,
       "36215264927990": 2,
-      "133934344065150": 1,
+      "133934344065150": 4,
       "120363412202609595": 4
     }
   },
@@ -16461,11 +16481,6 @@
   "autoRemoveWarned": {},
   "adminLog": {
     "120363427438126559@g.us": [
-      {
-        "ts": 1789229173719,
-        "admin": "262912430080093",
-        "action": "SAIU do grupo"
-      },
       {
         "ts": 1789252545162,
         "admin": "BOT",
@@ -16975,6 +16990,11 @@
       {
         "ts": 1789446289825,
         "admin": "140622228942952",
+        "action": "SAIU do grupo"
+      },
+      {
+        "ts": 1789494446989,
+        "admin": "102109089378363",
         "action": "SAIU do grupo"
       }
     ],
@@ -17832,6 +17852,11 @@
       {
         "ts": 1789492038614,
         "admin": "184378802065445",
+        "action": "SAIU do grupo"
+      },
+      {
+        "ts": 1789494435884,
+        "admin": "102109089378363",
         "action": "SAIU do grupo"
       }
     ]
@@ -19821,6 +19846,24 @@
         "text": "Manda pra cá",
         "pushName": "jaciara",
         "timestamp": 1789494407704
+      },
+      "ACC00736FCB62559C59A26BD43F4615B": {
+        "sender": "129373172711439@lid",
+        "text": "Verdade 👀",
+        "pushName": "Celiete Souza",
+        "timestamp": 1789494441087
+      },
+      "AC3CBFDDC5E9CEFB3F43A078F18B3FA6": {
+        "sender": "133934344065150@lid",
+        "text": "Aqui tá precisando um pouquinho",
+        "pushName": "Gilvanda Costa",
+        "timestamp": 1789494447711
+      },
+      "AC0A91F2A8CE0A26E87132C2516B3384": {
+        "sender": "187845394358417@lid",
+        "text": "Qual cidade é pra mandar kkkk",
+        "pushName": "Maurício Manú Telecom",
+        "timestamp": 1789494449118
       }
     }
   },
@@ -20078,7 +20121,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789494407704
+    "120363412202609595@g.us": 1789494449118
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
