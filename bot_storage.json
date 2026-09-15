@@ -7372,9 +7372,9 @@
     },
     "120363412202609595@g.us": {
       "92629643563147": {
-        "text": 102,
+        "text": 103,
         "media": 40,
-        "total": 142
+        "total": 143
       },
       "182738040713418": {
         "text": 99,
@@ -7432,9 +7432,9 @@
         "total": 23
       },
       "129373172711439": {
-        "text": 191,
+        "text": 193,
         "media": 61,
-        "total": 252
+        "total": 254
       },
       "15960484393007": {
         "text": 10,
@@ -7447,9 +7447,9 @@
         "total": 10
       },
       "140622228942952": {
-        "text": 27,
+        "text": 28,
         "media": 0,
-        "total": 27
+        "total": 28
       },
       "100356960845833": {
         "text": 145,
@@ -7692,9 +7692,9 @@
         "total": 14
       },
       "54259127210155": {
-        "text": 13,
+        "text": 14,
         "media": 5,
-        "total": 18
+        "total": 19
       },
       "50869659811853": {
         "text": 0,
@@ -15064,7 +15064,12 @@
         "Celiete Souza: No máximo 2/3 xícaras",
         "LEANDRO M.: Ahh, então tá tranquilo",
         "Gusta: Gustavo \n25 anos \nRio de janeiro \nHétero \nPV on",
-        "LEANDRO M.: Eu sou de 2 a 3 garrafas por dia"
+        "LEANDRO M.: Eu sou de 2 a 3 garrafas por dia",
+        "LEANDRO M.: Bem vindo jovem! 🫡🤝",
+        "Celiete Souza: Ah não, daí o coração fica a mil né",
+        "Francisco: Café e igual a droga vicia",
+        "Camila Designer: Bem vindo! Sorriso bunito 😃",
+        "Celiete Souza: Bem vindo Carioca"
       ]
     }
   },
@@ -15410,6 +15415,36 @@
         "authorName": "LEANDRO M.",
         "text": "Eu sou de 2 a 3 garrafas por dia",
         "timestamp": 1789498505444
+      },
+      {
+        "authorNum": "54259127210155",
+        "authorName": "LEANDRO M.",
+        "text": "Bem vindo jovem! 🫡🤝",
+        "timestamp": 1789498521651
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Ah não, daí o coração fica a mil né",
+        "timestamp": 1789498524389
+      },
+      {
+        "authorNum": "140622228942952",
+        "authorName": "Francisco",
+        "text": "Café e igual a droga vicia",
+        "timestamp": 1789498537773
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Bem vindo! Sorriso bunito 😃",
+        "timestamp": 1789498540294
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Bem vindo Carioca",
+        "timestamp": 1789498540354
       }
     ]
   },
@@ -15437,7 +15472,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1728
+    "120363412202609595@g.us": 1733
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16110,7 +16145,7 @@
       "166452229341300": 102,
       "182738040713418": 217,
       "105136689029122": 37,
-      "129373172711439": 437,
+      "129373172711439": 443,
       "140622228942952": 123,
       "108461127897146": 368,
       "69539832270873": 6,
@@ -16425,7 +16460,7 @@
       "166452229341300": 20,
       "182738040713418": 48,
       "105136689029122": 9,
-      "129373172711439": 93,
+      "129373172711439": 95,
       "140622228942952": 23,
       "108461127897146": 76,
       "69539832270873": 1,
@@ -20408,6 +20443,36 @@
         "text": "Eu sou de 2 a 3 garrafas por dia",
         "pushName": "LEANDRO M.",
         "timestamp": 1789498505444
+      },
+      "ACBDBE557649E47C4E812866382299DE": {
+        "sender": "54259127210155@lid",
+        "text": "Bem vindo jovem! 🫡🤝",
+        "pushName": "LEANDRO M.",
+        "timestamp": 1789498521651
+      },
+      "AC3005B9202223CFE69BBE619FC64C3F": {
+        "sender": "129373172711439@lid",
+        "text": "Ah não, daí o coração fica a mil né",
+        "pushName": "Celiete Souza",
+        "timestamp": 1789498524389
+      },
+      "AC3AF4FC8E274ABC82A428402D86745B": {
+        "sender": "140622228942952@lid",
+        "text": "Café e igual a droga vicia",
+        "pushName": "Francisco",
+        "timestamp": 1789498537774
+      },
+      "2A1687EF1C052D7D8C3F": {
+        "sender": "92629643563147@lid",
+        "text": "Bem vindo! Sorriso bunito 😃",
+        "pushName": "Camila Designer",
+        "timestamp": 1789498540294
+      },
+      "AC5A3533BFC096C0B1A2F17B2DF5FB13": {
+        "sender": "129373172711439@lid",
+        "text": "Bem vindo Carioca",
+        "pushName": "Celiete Souza",
+        "timestamp": 1789498540354
       }
     }
   },
@@ -20665,7 +20730,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789498508340
+    "120363412202609595@g.us": 1789498540354
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
