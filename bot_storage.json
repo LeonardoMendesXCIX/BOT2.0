@@ -7647,9 +7647,9 @@
         "total": 2
       },
       "21543589527800": {
-        "text": 3,
+        "text": 4,
         "media": 0,
-        "total": 3
+        "total": 4
       },
       "185396642205800": {
         "text": 0,
@@ -14653,7 +14653,8 @@
         "Georg Barão ✌🏻😎: Diferenciados não, são triste msm kkk",
         "Georg Barão ✌🏻😎: Mais se Deus quiser no meio do ano que vem vai mudar",
         "Celiete Souza: Vai dar tudo certo 🙏",
-        "Georg Barão ✌🏻😎: Vai sim🙏🏻"
+        "Georg Barão ✌🏻😎: Vai sim🙏🏻",
+        "Leonardo: Sou rio de janeiro"
       ]
     }
   },
@@ -14898,6 +14899,12 @@
         "authorName": "Georg Barão ✌🏻😎",
         "text": "Vai sim🙏🏻",
         "timestamp": 1789487381192
+      },
+      {
+        "authorNum": "21543589527800",
+        "authorName": "Leonardo",
+        "text": "Sou rio de janeiro",
+        "timestamp": 1789487407099
       }
     ]
   },
@@ -14925,7 +14932,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1363
+    "120363412202609595@g.us": 1364
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -17636,6 +17643,12 @@
         "text": "Vai sim🙏🏻",
         "pushName": "Georg Barão ✌🏻😎",
         "timestamp": 1789487381192
+      },
+      "AC97BA2ACBC022B4691E1F6693BBBAEF": {
+        "sender": "21543589527800@lid",
+        "text": "Sou rio de janeiro",
+        "pushName": "Leonardo",
+        "timestamp": 1789487407099
       }
     }
   },
@@ -17893,7 +17906,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789487381192
+    "120363412202609595@g.us": 1789487407099
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
