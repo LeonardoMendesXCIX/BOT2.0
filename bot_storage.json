@@ -7487,9 +7487,9 @@
         "total": 2
       },
       "53537388122141": {
-        "text": 232,
+        "text": 233,
         "media": 23,
-        "total": 255
+        "total": 256
       },
       "122552932372575": {
         "text": 2,
@@ -15093,7 +15093,8 @@
         ".: Pois então 🫠",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Abusou?",
         "Cristian Sntss: Pensa o caos q tá lá",
-        "Cristian Sntss: Sim\nUma menina de 8 anos"
+        "Cristian Sntss: Sim\nUma menina de 8 anos",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Meu pai amado..."
       ]
     }
   },
@@ -15541,6 +15542,12 @@
         "authorName": "Cristian Sntss",
         "text": "Sim\nUma menina de 8 anos",
         "timestamp": 1789498946216
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Meu pai amado...",
+        "timestamp": 1789498968735
       }
     ]
   },
@@ -15568,7 +15575,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1757
+    "120363412202609595@g.us": 1758
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -20718,6 +20725,12 @@
         "text": "Sim\nUma menina de 8 anos",
         "pushName": "Cristian Sntss",
         "timestamp": 1789498946216
+      },
+      "AC897D8E3603BDDAF6D83D908A8A0549": {
+        "sender": "53537388122141@lid",
+        "text": "Meu pai amado...",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1789498968735
       }
     }
   },
@@ -20975,7 +20988,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789498946216
+    "120363412202609595@g.us": 1789498968735
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
