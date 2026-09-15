@@ -7447,9 +7447,9 @@
         "total": 10
       },
       "140622228942952": {
-        "text": 16,
+        "text": 17,
         "media": 0,
-        "total": 16
+        "total": 17
       },
       "100356960845833": {
         "text": 135,
@@ -7487,9 +7487,9 @@
         "total": 2
       },
       "53537388122141": {
-        "text": 207,
+        "text": 208,
         "media": 22,
-        "total": 229
+        "total": 230
       },
       "122552932372575": {
         "text": 2,
@@ -14893,7 +14893,9 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Caixinhas estão boas hoje",
         "Rodenilson 🤘🏾👀: Meu melhor amigo, é uma mulher,pensa num entrosamento, reciprocidade e tudo no maior respeito.Somos amigos há anos e nunca rolou nada, além de amizade",
         "Diana Shirley: Mesmo uma safada se dizendo minha amiga, e amiga dele me traiu, mas enfim",
-        "jaciara: Eu sempre disse isso kkkk"
+        "jaciara: Eu sempre disse isso kkkk",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Gostaria de ter. Mas ultimamente, tá meio que impossível, um homem não querer algo a mais com uma mulher\nSó tive com gays, até o momento. Um deles sou amiga até hoje, desde 2017",
+        "Francisco: Por isso vcs leva freche"
       ]
     }
   },
@@ -14916,30 +14918,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Homem sabe nem olhar pra  outra mulher  disfarçadamente",
-        "timestamp": 1789491171662
-      },
-      {
-        "authorNum": "158381767696617",
-        "authorName": "Georg Barão ✌🏻😎",
-        "text": "Sempre rola uma dr 🎶",
-        "timestamp": 1789491182208
-      },
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Muito verdade isso",
-        "timestamp": 1789491183983
-      },
-      {
-        "authorNum": "100356960845833",
-        "authorName": "Rodenilson 🤘🏾👀",
-        "text": "Kkkk,pior que sabe,tem os mestres",
-        "timestamp": 1789491203361
-      },
       {
         "authorNum": "129373172711439",
         "authorName": "Celiete Souza",
@@ -15539,6 +15517,18 @@
         "authorName": "jaciara",
         "text": "Eu sempre disse isso kkkk",
         "timestamp": 1789492947929
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Gostaria de ter. Mas ultimamente, tá meio que impossível, um homem não querer algo a mais com uma mulher\nSó tive com gays, até o momento. Um deles sou amiga até hoje, desde 2017",
+        "timestamp": 1789492982023
+      },
+      {
+        "authorNum": "140622228942952",
+        "authorName": "Francisco",
+        "text": "Por isso vcs leva freche",
+        "timestamp": 1789493010417
       }
     ]
   },
@@ -15566,7 +15556,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1582
+    "120363412202609595@g.us": 1584
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -19620,6 +19610,18 @@
         "text": "Eu sempre disse isso kkkk",
         "pushName": "jaciara",
         "timestamp": 1789492947929
+      },
+      "AC88F0738FBE17062CB00749B38F4F9C": {
+        "sender": "53537388122141@lid",
+        "text": "Gostaria de ter. Mas ultimamente, tá meio que impossível, um homem não querer algo a mais com uma mulher\nSó tive com gays, até o momento. Um deles sou amiga até hoje, desde 2017",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1789492982024
+      },
+      "ACA6421A9CF5EB520E8FAF83394C9636": {
+        "sender": "140622228942952@lid",
+        "text": "Por isso vcs leva freche",
+        "pushName": "Francisco",
+        "timestamp": 1789493010417
       }
     }
   },
@@ -19877,7 +19879,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789492947929
+    "120363412202609595@g.us": 1789493010417
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
