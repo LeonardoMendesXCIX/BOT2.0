@@ -7432,9 +7432,9 @@
         "total": 23
       },
       "129373172711439": {
-        "text": 203,
-        "media": 63,
-        "total": 266
+        "text": 204,
+        "media": 64,
+        "total": 268
       },
       "15960484393007": {
         "text": 10,
@@ -7697,9 +7697,9 @@
         "total": 27
       },
       "50869659811853": {
-        "text": 16,
+        "text": 17,
         "media": 2,
-        "total": 18
+        "total": 19
       }
     }
   },
@@ -15139,7 +15139,9 @@
         "Gusta: ?",
         "Celiete Souza: Vinagreeeee",
         "Gusta: Ata kkkkkkkk",
-        "Celiete Souza: Água sanitária naoooo"
+        "Celiete Souza: Água sanitária naoooo",
+        "Gusta: Mas pq na geladeira???",
+        "Celiete Souza: Pq fica geladinho"
       ]
     }
   },
@@ -15162,18 +15164,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "54259127210155",
-        "authorName": "LEANDRO M.",
-        "text": "Bem vindo jovem! 🫡🤝",
-        "timestamp": 1789498521651
-      },
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Ah não, daí o coração fica a mil né",
-        "timestamp": 1789498524389
-      },
       {
         "authorNum": "140622228942952",
         "authorName": "Francisco",
@@ -15611,6 +15601,18 @@
         "authorName": "Celiete Souza",
         "text": "Água sanitária naoooo",
         "timestamp": 1789500311820
+      },
+      {
+        "authorNum": "50869659811853",
+        "authorName": "Gusta",
+        "text": "Mas pq na geladeira???",
+        "timestamp": 1789500317637
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Pq fica geladinho",
+        "timestamp": 1789500336738
       }
     ]
   },
@@ -15638,7 +15640,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1803
+    "120363412202609595@g.us": 1805
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -21074,6 +21076,18 @@
         "text": "Água sanitária naoooo",
         "pushName": "Celiete Souza",
         "timestamp": 1789500311820
+      },
+      "AC21720D9224F5AE51DB0C7D004D5D94": {
+        "sender": "50869659811853@lid",
+        "text": "Mas pq na geladeira???",
+        "pushName": "Gusta",
+        "timestamp": 1789500317637
+      },
+      "AC081DB66C1706B8BD32F1E5510F734A": {
+        "sender": "129373172711439@lid",
+        "text": "Pq fica geladinho",
+        "pushName": "Celiete Souza",
+        "timestamp": 1789500336738
       }
     }
   },
@@ -21331,7 +21345,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789500311820
+    "120363412202609595@g.us": 1789500336738
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
