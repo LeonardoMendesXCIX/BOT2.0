@@ -7377,9 +7377,9 @@
         "total": 145
       },
       "182738040713418": {
-        "text": 114,
+        "text": 115,
         "media": 40,
-        "total": 154
+        "total": 155
       },
       "247020967165997": {
         "text": 134,
@@ -7627,9 +7627,9 @@
         "total": 1
       },
       "171086465478763": {
-        "text": 7,
+        "text": 8,
         "media": 6,
-        "total": 13
+        "total": 14
       },
       "126929839591449": {
         "text": 3,
@@ -14655,8 +14655,6 @@
         "Camila Designer: Só clicar e entrar"
       ],
       "15/09/2026": [
-        "Kahrina C: Guarulhos SP",
-        "Fabrício: Aqui na minha cidade apesar de estar nublado e chovendo as vezes o dia amanhece quente daí durante o dia vai mudando",
         "Fabrício: Hj foi assim",
         "Fabrício: Ah sim bacana",
         "Cristian Sntss: Aqui no Maranhão o sol e protagonista",
@@ -15154,7 +15152,9 @@
         "Celiete Souza: Bom descanso",
         "𝑳𝒂𝒚𝒉🌪🌚: Bora lá ?",
         "Cristian Sntss: @all",
-        "LEANDRO M.: Super choque"
+        "LEANDRO M.: Super choque",
+        "Wellington: Super choque easy",
+        "Marcus Vieira: Muito obrigado vizinha kkk"
       ]
     }
   },
@@ -15812,6 +15812,18 @@
         "authorName": "LEANDRO M.",
         "text": "Super choque",
         "timestamp": 1789501744436
+      },
+      {
+        "authorNum": "182738040713418",
+        "authorName": "Wellington",
+        "text": "Super choque easy",
+        "timestamp": 1789501772456
+      },
+      {
+        "authorNum": "171086465478763",
+        "authorName": "Marcus Vieira",
+        "text": "Muito obrigado vizinha kkk",
+        "timestamp": 1789501782389
       }
     ]
   },
@@ -15839,7 +15851,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1888
+    "120363412202609595@g.us": 1890
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16510,7 +16522,7 @@
       "81991328395336": 99,
       "231241810989128": 566,
       "166452229341300": 102,
-      "182738040713418": 256,
+      "182738040713418": 261,
       "105136689029122": 37,
       "129373172711439": 516,
       "140622228942952": 123,
@@ -16825,7 +16837,7 @@
       "81991328395336": 20,
       "231241810989128": 125,
       "166452229341300": 20,
-      "182738040713418": 59,
+      "182738040713418": 60,
       "105136689029122": 9,
       "129373172711439": 111,
       "140622228942952": 23,
@@ -21790,6 +21802,18 @@
         "text": "Super choque",
         "pushName": "LEANDRO M.",
         "timestamp": 1789501744436
+      },
+      "AC9132633733A212D9FD307588BD2A1D": {
+        "sender": "182738040713418@lid",
+        "text": "Super choque easy",
+        "pushName": "Wellington",
+        "timestamp": 1789501772456
+      },
+      "3A6E7816DC69C32FE309": {
+        "sender": "171086465478763@lid",
+        "text": "Muito obrigado vizinha kkk",
+        "pushName": "Marcus Vieira",
+        "timestamp": 1789501782389
       }
     }
   },
@@ -22047,7 +22071,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789501744435
+    "120363412202609595@g.us": 1789501782389
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
