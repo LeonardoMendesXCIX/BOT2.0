@@ -7377,9 +7377,9 @@
         "total": 145
       },
       "182738040713418": {
-        "text": 111,
-        "media": 39,
-        "total": 150
+        "text": 112,
+        "media": 40,
+        "total": 152
       },
       "247020967165997": {
         "text": 134,
@@ -7487,9 +7487,9 @@
         "total": 2
       },
       "53537388122141": {
-        "text": 245,
+        "text": 246,
         "media": 23,
-        "total": 268
+        "total": 269
       },
       "122552932372575": {
         "text": 2,
@@ -14655,8 +14655,6 @@
         "Camila Designer: Só clicar e entrar"
       ],
       "15/09/2026": [
-        "Rodenilson 🤘🏾👀: De banana né \nGosto daquele de côco",
-        "Fabrício: Boa tarde galera agitada",
         "𝑳𝒂𝒚𝒉🌪🌚: Boaaaaa",
         "𝑳𝒂𝒚𝒉🌪🌚: Tendi",
         "Fabrício: Tudo certo",
@@ -15154,7 +15152,9 @@
         "Diana Shirley: Boa tarde",
         "Claudio: Oi gatinha linda",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Eu tomei detergente achando que era água. Tava numa garrafa pet\nEra da moça da limpeza do supermercado 🤡",
-        "Claudio: Gostei do nome e sobrenome"
+        "Claudio: Gostei do nome e sobrenome",
+        "Wellington: É nada que a bff da @81991328395336 tava aqui",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Atacante"
       ]
     }
   },
@@ -15177,12 +15177,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "559984624669",
-        "authorName": "Cristian Sntss",
-        "text": "S n me engano foi o gay q entrou junto com a Thaynara",
-        "timestamp": 1789499443094
-      },
       {
         "authorNum": "559991116887",
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
@@ -15770,6 +15764,18 @@
         "authorName": "Claudio",
         "text": "Gostei do nome e sobrenome",
         "timestamp": 1789501239600
+      },
+      {
+        "authorNum": "182738040713418",
+        "authorName": "Wellington",
+        "text": "É nada que a bff da @81991328395336 tava aqui",
+        "timestamp": 1789501248218
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Atacante",
+        "timestamp": 1789501276178
       }
     ]
   },
@@ -15797,7 +15803,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1876
+    "120363412202609595@g.us": 1878
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -21676,6 +21682,18 @@
         "text": "Gostei do nome e sobrenome",
         "pushName": "Claudio",
         "timestamp": 1789501239600
+      },
+      "ACA67B79C857BEC5EFAB3F8C3F0A5F76": {
+        "sender": "182738040713418@lid",
+        "text": "É nada que a bff da @81991328395336 tava aqui",
+        "pushName": "Wellington",
+        "timestamp": 1789501248219
+      },
+      "ACD53CB178523D94F5A6B70DA45CC1F2": {
+        "sender": "53537388122141@lid",
+        "text": "Atacante",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1789501276178
       }
     }
   },
@@ -21933,7 +21951,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789501239635
+    "120363412202609595@g.us": 1789501276178
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
