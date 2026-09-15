@@ -7432,9 +7432,9 @@
         "total": 21
       },
       "129373172711439": {
-        "text": 144,
-        "media": 46,
-        "total": 190
+        "text": 145,
+        "media": 47,
+        "total": 192
       },
       "15960484393007": {
         "text": 10,
@@ -14763,7 +14763,8 @@
         "Rodenilson 🤘🏾👀: Hj em dia tá difícil de saber quem mente mais,homem ou mulher",
         "Celiete Souza: Já comi os meus 🫠",
         "Rodenilson 🤘🏾👀: Gulosa e nem me ofereceu",
-        "Georg Barão ✌🏻😎: Somos 2 eu tbm kkk"
+        "Georg Barão ✌🏻😎: Somos 2 eu tbm kkk",
+        "Celiete Souza: Os dois mentem, mas o homem têm mais facilidade pra disfarçar, porém a mulher tem mais chance de descobrir 🥱"
       ]
     }
   },
@@ -14786,24 +14787,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "100356960845833",
-        "authorName": "Rodenilson 🤘🏾👀",
-        "text": "Então tá de boa",
-        "timestamp": 1789489002556
-      },
-      {
-        "authorNum": "166452229341300",
-        "authorName": "Cristian Sntss",
-        "text": "Vc vem branco por Maranhão",
-        "timestamp": 1789489013588
-      },
-      {
-        "authorNum": "27346140700786",
-        "authorName": "Diana Shirley",
-        "text": "Sim",
-        "timestamp": 1789489018739
-      },
       {
         "authorNum": "166452229341300",
         "authorName": "Cristian Sntss",
@@ -15073,6 +15056,12 @@
         "authorName": "Georg Barão ✌🏻😎",
         "text": "Somos 2 eu tbm kkk",
         "timestamp": 1789490801212
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Os dois mentem, mas o homem têm mais facilidade pra disfarçar, porém a mulher tem mais chance de descobrir 🥱",
+        "timestamp": 1789490819844
       }
     ]
   },
@@ -15100,7 +15089,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1462
+    "120363412202609595@g.us": 1463
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -15774,7 +15763,7 @@
       "166452229341300": 102,
       "182738040713418": 217,
       "105136689029122": 37,
-      "129373172711439": 286,
+      "129373172711439": 295,
       "140622228942952": 42,
       "108461127897146": 331,
       "69539832270873": 6,
@@ -16085,7 +16074,7 @@
       "166452229341300": 20,
       "182738040713418": 48,
       "105136689029122": 9,
-      "129373172711439": 61,
+      "129373172711439": 63,
       "140622228942952": 7,
       "108461127897146": 71,
       "69539832270873": 1,
@@ -18419,6 +18408,12 @@
         "text": "Somos 2 eu tbm kkk",
         "pushName": "Georg Barão ✌🏻😎",
         "timestamp": 1789490801212
+      },
+      "ACF3F16F6AD90E25D7E3368F58F3EF33": {
+        "sender": "129373172711439@lid",
+        "text": "Os dois mentem, mas o homem têm mais facilidade pra disfarçar, porém a mulher tem mais chance de descobrir 🥱",
+        "pushName": "Celiete Souza",
+        "timestamp": 1789490819844
       }
     }
   },
@@ -18676,7 +18671,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789490801212
+    "120363412202609595@g.us": 1789490833714
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
