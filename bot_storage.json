@@ -7432,9 +7432,9 @@
         "total": 23
       },
       "129373172711439": {
-        "text": 177,
-        "media": 58,
-        "total": 235
+        "text": 178,
+        "media": 59,
+        "total": 237
       },
       "15960484393007": {
         "text": 10,
@@ -7452,9 +7452,9 @@
         "total": 25
       },
       "100356960845833": {
-        "text": 142,
+        "text": 143,
         "media": 15,
-        "total": 157
+        "total": 158
       },
       "118528279593092": {
         "text": 1,
@@ -7532,9 +7532,9 @@
         "total": 173
       },
       "559991116887": {
-        "text": 99,
+        "text": 100,
         "media": 43,
-        "total": 142
+        "total": 143
       },
       "23687415767181": {
         "text": 1,
@@ -15025,7 +15025,8 @@
         "LEANDRO M.: É tá difícil",
         "Francisco: Boa tarde bem vindo",
         "Francisco: Ne isso",
-        "Celiete Souza: Eu tô recusando os árabes"
+        "Celiete Souza: Eu tô recusando os árabes",
+        "Celiete Souza: Não aguento mais bloquear essas pragas"
       ]
     }
   },
@@ -15179,6 +15180,12 @@
         "authorName": "Celiete Souza",
         "text": "Eu tô recusando os árabes",
         "timestamp": 1789498152234
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Não aguento mais bloquear essas pragas",
+        "timestamp": 1789498184504
       }
     ]
   },
@@ -15206,7 +15213,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1694
+    "120363412202609595@g.us": 1695
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -19971,6 +19978,12 @@
         "text": "Eu tô recusando os árabes",
         "pushName": "Celiete Souza",
         "timestamp": 1789498152234
+      },
+      "AC0E8C826F10A576C916C2F6DD1107A8": {
+        "sender": "129373172711439@lid",
+        "text": "Não aguento mais bloquear essas pragas",
+        "pushName": "Celiete Souza",
+        "timestamp": 1789498184505
       }
     }
   },
@@ -20228,7 +20241,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789498154445
+    "120363412202609595@g.us": 1789498184504
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
