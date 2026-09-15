@@ -7487,9 +7487,9 @@
         "total": 2
       },
       "53537388122141": {
-        "text": 210,
+        "text": 211,
         "media": 22,
-        "total": 232
+        "total": 233
       },
       "122552932372575": {
         "text": 2,
@@ -7527,14 +7527,14 @@
         "total": 83
       },
       "559984624669": {
-        "text": 119,
+        "text": 120,
         "media": 43,
-        "total": 162
+        "total": 163
       },
       "559991116887": {
-        "text": 81,
+        "text": 82,
         "media": 36,
-        "total": 117
+        "total": 118
       },
       "23687415767181": {
         "text": 1,
@@ -14907,7 +14907,9 @@
         "Cristian Sntss: @all",
         "Camila Designer: Fez bem 🤣🤣🤣",
         "Cristian Sntss: Uma verdade",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: E tem explicação uma porra dessa??"
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: E tem explicação uma porra dessa??",
+        "Cristian Sntss: Siow tu já entrou",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Eu juro que iria ficar curiosa só pela explicação mesmo 😂"
       ]
     }
   },
@@ -14930,12 +14932,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "36215264927990",
-        "authorName": ".",
-        "text": "Gente, vcs tem que ter noção, homem e mulher casado, namorando e tals....sempre vai trair seu/a  parceiro/a.... SEMPRE!!  Pode ser qualquer tipo de traição, mais vai traição.",
-        "timestamp": 1789491593087
-      },
       {
         "authorNum": "559991116887",
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
@@ -15433,6 +15429,18 @@
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "text": "E tem explicação uma porra dessa??",
         "timestamp": 1789493375160
+      },
+      {
+        "authorNum": "559984624669",
+        "authorName": "Cristian Sntss",
+        "text": "Siow tu já entrou",
+        "timestamp": 1789493387235
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Eu juro que iria ficar curiosa só pela explicação mesmo 😂",
+        "timestamp": 1789493400119
       }
     ]
   },
@@ -15460,7 +15468,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1596
+    "120363412202609595@g.us": 1598
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16146,7 +16154,7 @@
       "128810464874577": 13,
       "4342933360709": 57,
       "247020967165997": 405,
-      "559984624669": 321,
+      "559984624669": 329,
       "163530946961491": 35,
       "559991116887": 247,
       "164398513573978": 13,
@@ -16457,7 +16465,7 @@
       "128810464874577": 3,
       "4342933360709": 14,
       "247020967165997": 79,
-      "559984624669": 57,
+      "559984624669": 58,
       "163530946961491": 8,
       "559991116887": 56,
       "164398513573978": 2,
@@ -19598,6 +19606,18 @@
         "text": "E tem explicação uma porra dessa??",
         "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "timestamp": 1789493375160
+      },
+      "A5B62AB98AE03B9D4353F677C515AF26": {
+        "sender": "166452229341300@lid",
+        "text": "Siow tu já entrou",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1789493387235
+      },
+      "ACD7F1A02FCD48ECDAEB1E3B2E22C306": {
+        "sender": "53537388122141@lid",
+        "text": "Eu juro que iria ficar curiosa só pela explicação mesmo 😂",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1789493400119
       }
     }
   },
@@ -19855,7 +19875,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789493375160
+    "120363412202609595@g.us": 1789493411878
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
