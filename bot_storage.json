@@ -7432,9 +7432,9 @@
         "total": 21
       },
       "129373172711439": {
-        "text": 140,
+        "text": 141,
         "media": 45,
-        "total": 185
+        "total": 186
       },
       "15960484393007": {
         "text": 10,
@@ -14748,7 +14748,8 @@
         "Cristian Sntss: Tão falando de quem dormi demais",
         "Nuno: Tuso bem?",
         "Georg Barão ✌🏻😎: Kkk",
-        "𝑳𝒂𝒚𝒉🌪🌚: Esse não entra mais"
+        "𝑳𝒂𝒚𝒉🌪🌚: Esse não entra mais",
+        "Celiete Souza: Ratiou 👊"
       ]
     }
   },
@@ -14771,24 +14772,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "93836630077600",
-        "authorName": "Fabrício",
-        "text": "Eitaa",
-        "timestamp": 1789488708767
-      },
-      {
-        "authorNum": "100356960845833",
-        "authorName": "Rodenilson 🤘🏾👀",
-        "text": "Eita",
-        "timestamp": 1789488750186
-      },
-      {
-        "authorNum": "27346140700786",
-        "authorName": "Diana Shirley",
-        "text": "Inveja eu tenho dó frio 😂",
-        "timestamp": 1789488786188
-      },
       {
         "authorNum": "559991116887",
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
@@ -15028,6 +15011,12 @@
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
         "text": "Esse não entra mais",
         "timestamp": 1789490500744
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Ratiou 👊",
+        "timestamp": 1789490604817
       }
     ]
   },
@@ -15055,7 +15044,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1447
+    "120363412202609595@g.us": 1448
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -17449,6 +17438,11 @@
         "ts": 1789490276407,
         "admin": "264308512522409",
         "action": "SAIU do grupo"
+      },
+      {
+        "ts": 1789490581806,
+        "admin": "21543589527800",
+        "action": "REMOVIDO por admin"
       }
     ]
   },
@@ -18285,6 +18279,12 @@
         "text": "Esse não entra mais",
         "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
         "timestamp": 1789490501459
+      },
+      "AC09BA8DCE0D8963BF937B0D58C882F5": {
+        "sender": "129373172711439@lid",
+        "text": "Ratiou 👊",
+        "pushName": "Celiete Souza",
+        "timestamp": 1789490604817
       }
     }
   },
@@ -18542,7 +18542,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789490500744
+    "120363412202609595@g.us": 1789490604817
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
