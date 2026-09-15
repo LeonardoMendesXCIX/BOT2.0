@@ -7432,9 +7432,9 @@
         "total": 23
       },
       "129373172711439": {
-        "text": 188,
+        "text": 190,
         "media": 61,
-        "total": 249
+        "total": 251
       },
       "15960484393007": {
         "text": 10,
@@ -7477,9 +7477,9 @@
         "total": 6
       },
       "27346140700786": {
-        "text": 76,
+        "text": 77,
         "media": 14,
-        "total": 90
+        "total": 91
       },
       "137623771312290": {
         "text": 2,
@@ -7693,8 +7693,8 @@
       },
       "54259127210155": {
         "text": 11,
-        "media": 3,
-        "total": 14
+        "media": 4,
+        "total": 15
       }
     }
   },
@@ -15054,7 +15054,9 @@
         "Cristian Sntss: Óia a outra",
         "LEANDRO M.: Toma café demais pra tu ver 🌝",
         "Celiete Souza: Tu tem o borogodó",
-        "LEANDRO M.: Fala a bagaceira que é @81991328395336"
+        "LEANDRO M.: Fala a bagaceira que é @81991328395336",
+        "Diana Shirley: Pois é, rolou foto, pedido do pé 😂",
+        "Celiete Souza: No máximo 2/3 xícaras"
       ]
     }
   },
@@ -15370,6 +15372,18 @@
         "authorName": "LEANDRO M.",
         "text": "Fala a bagaceira que é @81991328395336",
         "timestamp": 1789498446568
+      },
+      {
+        "authorNum": "27346140700786",
+        "authorName": "Diana Shirley",
+        "text": "Pois é, rolou foto, pedido do pé 😂",
+        "timestamp": 1789498467811
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "No máximo 2/3 xícaras",
+        "timestamp": 1789498472468
       }
     ]
   },
@@ -15397,7 +15411,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1723
+    "120363412202609595@g.us": 1725
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16070,7 +16084,7 @@
       "166452229341300": 102,
       "182738040713418": 217,
       "105136689029122": 37,
-      "129373172711439": 424,
+      "129373172711439": 437,
       "140622228942952": 123,
       "108461127897146": 368,
       "69539832270873": 6,
@@ -16384,7 +16398,7 @@
       "166452229341300": 20,
       "182738040713418": 48,
       "105136689029122": 9,
-      "129373172711439": 92,
+      "129373172711439": 93,
       "140622228942952": 23,
       "108461127897146": 76,
       "69539832270873": 1,
@@ -20336,6 +20350,18 @@
         "text": "Fala a bagaceira que é @81991328395336",
         "pushName": "LEANDRO M.",
         "timestamp": 1789498446569
+      },
+      "AC3B4FE8D406AFBB59B87FCB67789EC3": {
+        "sender": "27346140700786@lid",
+        "text": "Pois é, rolou foto, pedido do pé 😂",
+        "pushName": "Diana Shirley",
+        "timestamp": 1789498467812
+      },
+      "ACDE30C86D806132A5A57DA8AE1E25E3": {
+        "sender": "129373172711439@lid",
+        "text": "No máximo 2/3 xícaras",
+        "pushName": "Celiete Souza",
+        "timestamp": 1789498472468
       }
     }
   },
@@ -20593,7 +20619,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789498446568
+    "120363412202609595@g.us": 1789498482592
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
