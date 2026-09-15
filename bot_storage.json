@@ -7532,9 +7532,9 @@
         "total": 193
       },
       "559991116887": {
-        "text": 114,
+        "text": 115,
         "media": 48,
-        "total": 162
+        "total": 163
       },
       "23687415767181": {
         "text": 1,
@@ -7697,9 +7697,9 @@
         "total": 27
       },
       "50869659811853": {
-        "text": 6,
+        "text": 8,
         "media": 2,
-        "total": 8
+        "total": 10
       }
     }
   },
@@ -15118,7 +15118,9 @@
         "𝑳𝒂𝒚𝒉🌪🌚: Isso explica muita coisa",
         "Camila Designer: Boa tarde pessoal! Quem entrou seja bem vindo! Kkk",
         "Cristian Sntss: Agora q vi que e água sanitária",
-        "Claudio: Boa tarde"
+        "Claudio: Boa tarde",
+        "Gusta: Gostei do drink",
+        "Gusta: Bom que limpa tudin"
       ]
     }
   },
@@ -15141,30 +15143,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "54259127210155",
-        "authorName": "LEANDRO M.",
-        "text": "Não sei de onde tá vindo essas coisas mandadas do além",
-        "timestamp": 1789498205961
-      },
-      {
-        "authorNum": "95125053169759",
-        "authorName": "Kahrina C",
-        "text": "Acredito sim",
-        "timestamp": 1789498218733
-      },
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "O carioca me enviou nudes",
-        "timestamp": 1789498219627
-      },
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Hora do café",
-        "timestamp": 1789498251376
-      },
       {
         "authorNum": "129373172711439",
         "authorName": "Celiete Souza",
@@ -15650,6 +15628,18 @@
         "authorName": "Claudio",
         "text": "Boa tarde",
         "timestamp": 1789499892494
+      },
+      {
+        "authorNum": "50869659811853",
+        "authorName": "Gusta",
+        "text": "Gostei do drink",
+        "timestamp": 1789500043126
+      },
+      {
+        "authorNum": "50869659811853",
+        "authorName": "Gusta",
+        "text": "Bom que limpa tudin",
+        "timestamp": 1789500054866
       }
     ]
   },
@@ -15677,7 +15667,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1782
+    "120363412202609595@g.us": 1784
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -20987,6 +20977,18 @@
         "text": "Boa tarde",
         "pushName": "Claudio",
         "timestamp": 1789499892494
+      },
+      "AC737F446DF9FDAC1721D7584A9E7B21": {
+        "sender": "50869659811853@lid",
+        "text": "Gostei do drink",
+        "pushName": "Gusta",
+        "timestamp": 1789500043126
+      },
+      "AC0B7C564106A9E14D570F4D8A0FBAAD": {
+        "sender": "50869659811853@lid",
+        "text": "Bom que limpa tudin",
+        "pushName": "Gusta",
+        "timestamp": 1789500054867
       }
     }
   },
@@ -21244,7 +21246,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789499912248
+    "120363412202609595@g.us": 1789500054866
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
