@@ -7432,9 +7432,9 @@
         "total": 23
       },
       "129373172711439": {
-        "text": 182,
+        "text": 183,
         "media": 60,
-        "total": 242
+        "total": 243
       },
       "15960484393007": {
         "text": 10,
@@ -7447,9 +7447,9 @@
         "total": 10
       },
       "140622228942952": {
-        "text": 25,
+        "text": 26,
         "media": 0,
-        "total": 25
+        "total": 26
       },
       "100356960845833": {
         "text": 143,
@@ -7533,8 +7533,8 @@
       },
       "559991116887": {
         "text": 100,
-        "media": 43,
-        "total": 143
+        "media": 44,
+        "total": 144
       },
       "23687415767181": {
         "text": 1,
@@ -7692,9 +7692,9 @@
         "total": 14
       },
       "54259127210155": {
-        "text": 3,
-        "media": 1,
-        "total": 4
+        "text": 4,
+        "media": 2,
+        "total": 6
       }
     }
   },
@@ -15032,7 +15032,10 @@
         "LEANDRO M.: Não sei de onde tá vindo essas coisas mandadas do além",
         "Kahrina C: Acredito sim",
         "Celiete Souza: O carioca me enviou nudes",
-        "Celiete Souza: Hora do café"
+        "Celiete Souza: Hora do café",
+        "Celiete Souza: Cheguei agora tava na rua",
+        "Francisco: Vai engorda viu",
+        "LEANDRO M.: Tá que pariu..."
       ]
     }
   },
@@ -15228,6 +15231,24 @@
         "authorName": "Celiete Souza",
         "text": "Hora do café",
         "timestamp": 1789498251376
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Cheguei agora tava na rua",
+        "timestamp": 1789498268518
+      },
+      {
+        "authorNum": "140622228942952",
+        "authorName": "Francisco",
+        "text": "Vai engorda viu",
+        "timestamp": 1789498275985
+      },
+      {
+        "authorNum": "54259127210155",
+        "authorName": "LEANDRO M.",
+        "text": "Tá que pariu...",
+        "timestamp": 1789498289499
       }
     ]
   },
@@ -15255,7 +15276,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1701
+    "120363412202609595@g.us": 1704
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -15963,7 +15984,7 @@
       "120363412202609595": 21,
       "187845394358417": 16,
       "36589463965754": 14,
-      "54259127210155": 22
+      "54259127210155": 28
     }
   },
   "coins": {
@@ -16277,7 +16298,7 @@
       "120363412202609595": 4,
       "187845394358417": 2,
       "36589463965754": 1,
-      "54259127210155": 4
+      "54259127210155": 6
     }
   },
   "dailyRewardClaimed": {
@@ -20062,6 +20083,24 @@
         "text": "Hora do café",
         "pushName": "Celiete Souza",
         "timestamp": 1789498251376
+      },
+      "AC9DFEA646AD74BF6ED26288337569B0": {
+        "sender": "129373172711439@lid",
+        "text": "Cheguei agora tava na rua",
+        "pushName": "Celiete Souza",
+        "timestamp": 1789498268518
+      },
+      "AC150E633418272CED94A10FF7AD7122": {
+        "sender": "140622228942952@lid",
+        "text": "Vai engorda viu",
+        "pushName": "Francisco",
+        "timestamp": 1789498275985
+      },
+      "ACF46C18E078496E3C2EFDE8A3E9D616": {
+        "sender": "54259127210155@lid",
+        "text": "Tá que pariu...",
+        "pushName": "LEANDRO M.",
+        "timestamp": 1789498289499
       }
     }
   },
@@ -20319,7 +20358,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789498255932
+    "120363412202609595@g.us": 1789498289499
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
