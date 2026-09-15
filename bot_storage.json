@@ -7487,9 +7487,9 @@
         "total": 2
       },
       "53537388122141": {
-        "text": 244,
+        "text": 245,
         "media": 23,
-        "total": 267
+        "total": 268
       },
       "122552932372575": {
         "text": 2,
@@ -7507,9 +7507,9 @@
         "total": 2
       },
       "4342933360709": {
-        "text": 13,
-        "media": 1,
-        "total": 14
+        "text": 15,
+        "media": 2,
+        "total": 17
       },
       "274384656834700": {
         "text": 4,
@@ -7532,9 +7532,9 @@
         "total": 209
       },
       "559991116887": {
-        "text": 130,
-        "media": 53,
-        "total": 183
+        "text": 132,
+        "media": 54,
+        "total": 186
       },
       "23687415767181": {
         "text": 1,
@@ -14655,9 +14655,6 @@
         "Camila Designer: Só clicar e entrar"
       ],
       "15/09/2026": [
-        "jaciara: Kkkkkk",
-        "willian: Acabou o horário do descanso bora para rua trabalhar que o chicote está esperando",
-        "Claudio: Óia",
         "Rodenilson 🤘🏾👀: De banana né \nGosto daquele de côco",
         "Fabrício: Boa tarde galera agitada",
         "𝑳𝒂𝒚𝒉🌪🌚: Boaaaaa",
@@ -15154,7 +15151,10 @@
         "Diana Shirley: Vixe",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Eu não acredito que eu perdi essa maldita aqui no grupo\nSe eu tivesse visto, tinha nem aceitado o convite",
         "Claudio: Boa tarde",
-        "Diana Shirley: Boa tarde"
+        "Diana Shirley: Boa tarde",
+        "Claudio: Oi gatinha linda",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Eu tomei detergente achando que era água. Tava numa garrafa pet\nEra da moça da limpeza do supermercado 🤡",
+        "Claudio: Gostei do nome e sobrenome"
       ]
     }
   },
@@ -15177,12 +15177,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "Sei nem quem é",
-        "timestamp": 1789499418710
-      },
       {
         "authorNum": "559984624669",
         "authorName": "Cristian Sntss",
@@ -15758,6 +15752,24 @@
         "authorName": "Diana Shirley",
         "text": "Boa tarde",
         "timestamp": 1789501212995
+      },
+      {
+        "authorNum": "4342933360709",
+        "authorName": "Claudio",
+        "text": "Oi gatinha linda",
+        "timestamp": 1789501221217
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Eu tomei detergente achando que era água. Tava numa garrafa pet\nEra da moça da limpeza do supermercado 🤡",
+        "timestamp": 1789501233877
+      },
+      {
+        "authorNum": "4342933360709",
+        "authorName": "Claudio",
+        "text": "Gostei do nome e sobrenome",
+        "timestamp": 1789501239600
       }
     ]
   },
@@ -15785,7 +15797,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1873
+    "120363412202609595@g.us": 1876
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16464,11 +16476,11 @@
       "69539832270873": 6,
       "27346140700786": 260,
       "137623771312290": 12,
-      "53537388122141": 727,
+      "53537388122141": 732,
       "95125053169759": 41,
       "100356960845833": 456,
       "128810464874577": 13,
-      "4342933360709": 57,
+      "4342933360709": 65,
       "247020967165997": 405,
       "559984624669": 417,
       "163530946961491": 35,
@@ -16779,11 +16791,11 @@
       "69539832270873": 1,
       "27346140700786": 54,
       "137623771312290": 3,
-      "53537388122141": 155,
+      "53537388122141": 158,
       "95125053169759": 12,
       "100356960845833": 97,
       "128810464874577": 3,
-      "4342933360709": 14,
+      "4342933360709": 15,
       "247020967165997": 79,
       "559984624669": 84,
       "163530946961491": 8,
@@ -21646,6 +21658,24 @@
         "text": "Boa tarde",
         "pushName": "Diana Shirley",
         "timestamp": 1789501212995
+      },
+      "AC2AFC02C444334EB8E8759D41578210": {
+        "sender": "4342933360709@lid",
+        "text": "Oi gatinha linda",
+        "pushName": "Claudio",
+        "timestamp": 1789501221217
+      },
+      "ACB47A38416F3C5C3FAF978F22D1B213": {
+        "sender": "53537388122141@lid",
+        "text": "Eu tomei detergente achando que era água. Tava numa garrafa pet\nEra da moça da limpeza do supermercado 🤡",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1789501233877
+      },
+      "ACE45CCE084F76AE38AF05BB712A2865": {
+        "sender": "4342933360709@lid",
+        "text": "Gostei do nome e sobrenome",
+        "pushName": "Claudio",
+        "timestamp": 1789501239600
       }
     }
   },
@@ -21903,7 +21933,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789501212995
+    "120363412202609595@g.us": 1789501239635
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
