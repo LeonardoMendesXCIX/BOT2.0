@@ -7527,9 +7527,9 @@
         "total": 83
       },
       "559984624669": {
-        "text": 114,
+        "text": 115,
         "media": 43,
-        "total": 157
+        "total": 158
       },
       "559991116887": {
         "text": 81,
@@ -14883,7 +14883,8 @@
         "Fabrício: Verdade",
         "Georg Barão ✌🏻😎: Ah mulher fala não,vc vai encontrar alguém que te faça bem feliz,mais nós somos só amigos",
         "Fabrício: Pra não falar a verdade",
-        "Cristian Sntss: Aí tu quebra nos"
+        "Cristian Sntss: Aí tu quebra nos",
+        "Cristian Sntss: Quem não levou chifre não vai por ceu"
       ]
     }
   },
@@ -14906,12 +14907,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Bem por ai",
-        "timestamp": 1789490901932
-      },
       {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
@@ -15517,6 +15512,12 @@
         "authorName": "Cristian Sntss",
         "text": "Aí tu quebra nos",
         "timestamp": 1789492699310
+      },
+      {
+        "authorNum": "559984624669",
+        "authorName": "Cristian Sntss",
+        "text": "Quem não levou chifre não vai por ceu",
+        "timestamp": 1789492721591
       }
     ]
   },
@@ -15544,7 +15545,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1572
+    "120363412202609595@g.us": 1573
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16230,7 +16231,7 @@
       "128810464874577": 13,
       "4342933360709": 57,
       "247020967165997": 405,
-      "559984624669": 303,
+      "559984624669": 310,
       "163530946961491": 35,
       "559991116887": 233,
       "164398513573978": 13,
@@ -16541,7 +16542,7 @@
       "128810464874577": 3,
       "4342933360709": 14,
       "247020967165997": 79,
-      "559984624669": 54,
+      "559984624669": 56,
       "163530946961491": 8,
       "559991116887": 53,
       "164398513573978": 2,
@@ -19538,6 +19539,12 @@
         "text": "Aí tu quebra nos",
         "pushName": "Cristian Sntss",
         "timestamp": 1789492699310
+      },
+      "A5AA07098EF9A457528CB4516C780094": {
+        "sender": "166452229341300@lid",
+        "text": "Quem não levou chifre não vai por ceu",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1789492721591
       }
     }
   },
@@ -19795,7 +19802,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789492703136
+    "120363412202609595@g.us": 1789492721591
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
