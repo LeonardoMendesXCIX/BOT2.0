@@ -7392,9 +7392,9 @@
         "total": 29
       },
       "93836630077600": {
-        "text": 25,
+        "text": 26,
         "media": 1,
-        "total": 26
+        "total": 27
       },
       "81991328395336": {
         "text": 29,
@@ -7532,9 +7532,9 @@
         "total": 136
       },
       "559991116887": {
-        "text": 55,
+        "text": 56,
         "media": 15,
-        "total": 70
+        "total": 71
       },
       "23687415767181": {
         "text": 1,
@@ -14672,7 +14672,9 @@
         "jaciara: Kkkkkk",
         "willian: Acabou o horário do descanso bora para rua trabalhar que o chicote está esperando",
         "Claudio: Óia",
-        "Rodenilson 🤘🏾👀: De banana né \nGosto daquele de côco"
+        "Rodenilson 🤘🏾👀: De banana né \nGosto daquele de côco",
+        "Fabrício: Boa tarde galera agitada",
+        "𝑳𝒂𝒚𝒉🌪🌚: Boaaaaa"
       ]
     }
   },
@@ -15001,6 +15003,18 @@
         "authorName": "Rodenilson 🤘🏾👀",
         "text": "De banana né \nGosto daquele de côco",
         "timestamp": 1789488181688
+      },
+      {
+        "authorNum": "93836630077600",
+        "authorName": "Fabrício",
+        "text": "Boa tarde galera agitada",
+        "timestamp": 1789488284119
+      },
+      {
+        "authorNum": "559991116887",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Boaaaaa",
+        "timestamp": 1789488289015
       }
     ]
   },
@@ -15028,7 +15042,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1377
+    "120363412202609595@g.us": 1379
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -15716,7 +15730,7 @@
       "247020967165997": 405,
       "559984624669": 269,
       "163530946961491": 35,
-      "559991116887": 166,
+      "559991116887": 176,
       "164398513573978": 13,
       "102109089378363": 253,
       "253403338903556": 84,
@@ -16025,7 +16039,7 @@
       "247020967165997": 79,
       "559984624669": 49,
       "163530946961491": 8,
-      "559991116887": 35,
+      "559991116887": 38,
       "164398513573978": 2,
       "102109089378363": 50,
       "253403338903556": 13,
@@ -17825,6 +17839,18 @@
         "text": "De banana né \nGosto daquele de côco",
         "pushName": "Rodenilson 🤘🏾👀",
         "timestamp": 1789488181688
+      },
+      "AC7ADE1D06A767701F55AC2973DED2CE": {
+        "sender": "93836630077600@lid",
+        "text": "Boa tarde galera agitada",
+        "pushName": "Fabrício",
+        "timestamp": 1789488284120
+      },
+      "AC43185C006AD8EB2D637DEB9C3E81B2": {
+        "sender": "81991328395336@lid",
+        "text": "Boaaaaa",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1789488289015
       }
     }
   },
@@ -18082,7 +18108,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789488203616
+    "120363412202609595@g.us": 1789488289015
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
