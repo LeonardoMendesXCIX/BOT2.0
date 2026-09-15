@@ -7532,9 +7532,9 @@
         "total": 172
       },
       "559991116887": {
-        "text": 98,
+        "text": 99,
         "media": 42,
-        "total": 140
+        "total": 141
       },
       "23687415767181": {
         "text": 1,
@@ -7687,9 +7687,9 @@
         "total": 1
       },
       "36589463965754": {
-        "text": 2,
-        "media": 1,
-        "total": 3
+        "text": 3,
+        "media": 3,
+        "total": 6
       }
     }
   },
@@ -15012,7 +15012,9 @@
         "Maurício Manú Telecom: Né",
         "WILSON: SOU Wilson de são Paulo",
         "WILSON: 👆👆",
-        "Diana Shirley: Bem vindo"
+        "Diana Shirley: Bem vindo",
+        "WILSON: Obrigada pelo carinho",
+        "𝑳𝒂𝒚𝒉🌪🌚: Bem vindo"
       ]
     }
   },
@@ -15035,24 +15037,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "559991116887",
-        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
-        "text": "Mds",
-        "timestamp": 1789495877287
-      },
-      {
-        "authorNum": "559991116887",
-        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
-        "text": "Aqui eles estão aconselhando a gente coloca água na calçada para os animais",
-        "timestamp": 1789495893621
-      },
-      {
-        "authorNum": "559991116887",
-        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
-        "text": "Eu como tenho meu coração mole abro o portão  e deixo entra pra meu quintal que  cheio de árvores e bastante sombra",
-        "timestamp": 1789495957719
-      },
       {
         "authorNum": "255632628252836",
         "authorName": "Vanessa Baggio - Psicanalista e Mentora Método 3L",
@@ -15160,6 +15144,18 @@
         "authorName": "Diana Shirley",
         "text": "Bem vindo",
         "timestamp": 1789497113750
+      },
+      {
+        "authorNum": "36589463965754",
+        "authorName": "WILSON",
+        "text": "Obrigada pelo carinho",
+        "timestamp": 1789497782542
+      },
+      {
+        "authorNum": "559991116887",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Bem vindo",
+        "timestamp": 1789497795181
       }
     ]
   },
@@ -15187,7 +15183,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1686
+    "120363412202609595@g.us": 1688
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -19880,6 +19876,18 @@
         "text": "Bem vindo",
         "pushName": "Diana Shirley",
         "timestamp": 1789497113750
+      },
+      "AC7A6A5FA565996E0044FD110D68B600": {
+        "sender": "36589463965754@lid",
+        "text": "Obrigada pelo carinho",
+        "pushName": "WILSON",
+        "timestamp": 1789497782542
+      },
+      "AC9273700FD4E0FFEC3FFB66A350F4A3": {
+        "sender": "81991328395336@lid",
+        "text": "Bem vindo",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1789497795181
       }
     }
   },
@@ -20137,7 +20145,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789497113750
+    "120363412202609595@g.us": 1789497795181
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
