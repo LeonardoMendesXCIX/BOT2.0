@@ -7432,9 +7432,9 @@
         "total": 23
       },
       "129373172711439": {
-        "text": 208,
+        "text": 209,
         "media": 65,
-        "total": 273
+        "total": 274
       },
       "15960484393007": {
         "text": 10,
@@ -7533,8 +7533,8 @@
       },
       "559991116887": {
         "text": 119,
-        "media": 48,
-        "total": 167
+        "media": 49,
+        "total": 168
       },
       "23687415767181": {
         "text": 1,
@@ -15149,7 +15149,8 @@
         "Gusta: Brincadeira kkkkkk",
         "Celiete Souza: Agora nunca tomei um copo de vinagre 🤣",
         "𝑳𝒂𝒚𝒉🌪🌚: Pq no Maranhão e a água sanitária q o povo guarda",
-        "Celiete Souza: Ah não, que perigo"
+        "Celiete Souza: Ah não, que perigo",
+        "𝑳𝒂𝒚𝒉🌪🌚: Votem"
       ]
     }
   },
@@ -15172,18 +15173,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "54259127210155",
-        "authorName": "LEANDRO M.",
-        "text": "Morro não, não por essa causa",
-        "timestamp": 1789498615231
-      },
-      {
-        "authorNum": "183906892533896",
-        "authorName": "Igor Alexandre",
-        "text": "Partiu",
-        "timestamp": 1789498623363
-      },
       {
         "authorNum": "27346140700786",
         "authorName": "Diana Shirley",
@@ -15567,6 +15556,12 @@
         "authorName": "Celiete Souza",
         "text": "Ah não, que perigo",
         "timestamp": 1789500412496
+      },
+      {
+        "authorNum": "559991116887",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Votem",
+        "timestamp": 1789500445325
       }
     ]
   },
@@ -15594,7 +15589,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1813
+    "120363412202609595@g.us": 1814
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -21090,6 +21085,12 @@
         "text": "Ah não, que perigo",
         "pushName": "Celiete Souza",
         "timestamp": 1789500412496
+      },
+      "ACA9839CB7F4EEAFED6A49D446CEDE1E": {
+        "sender": "81991328395336@lid",
+        "text": "Votem",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1789500445326
       }
     }
   },
@@ -21347,7 +21348,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789500412496
+    "120363412202609595@g.us": 1789500445325
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
