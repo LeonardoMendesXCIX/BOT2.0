@@ -7392,9 +7392,9 @@
         "total": 29
       },
       "93836630077600": {
-        "text": 32,
+        "text": 34,
         "media": 1,
-        "total": 33
+        "total": 35
       },
       "81991328395336": {
         "text": 29,
@@ -7497,9 +7497,9 @@
         "total": 6
       },
       "95125053169759": {
-        "text": 18,
+        "text": 20,
         "media": 5,
-        "total": 23
+        "total": 25
       },
       "188373004222609": {
         "text": 2,
@@ -7628,8 +7628,8 @@
       },
       "171086465478763": {
         "text": 4,
-        "media": 2,
-        "total": 6
+        "media": 3,
+        "total": 7
       },
       "126929839591449": {
         "text": 3,
@@ -14688,7 +14688,11 @@
         "Fabrício: Aqui na minha cidade apesar de estar nublado e chovendo as vezes o dia amanhece quente daí durante o dia vai mudando",
         "Fabrício: Hj foi assim",
         "Fabrício: Ah sim bacana",
-        "Cristian Sntss: Aqui no Maranhão o sol e protagonista"
+        "Cristian Sntss: Aqui no Maranhão o sol e protagonista",
+        "Fabrício: São Paulo tem costume d ser mais frio né?",
+        "Kahrina C: Vcs são muito exibidos",
+        "Kahrina C: Sim !",
+        "Fabrício: Como assim?"
       ]
     }
   },
@@ -14718,18 +14722,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "21543589527800",
-        "authorName": "Leonardo",
-        "text": "Boa tarde galera  me chamo  Leonardo",
-        "timestamp": 1789486787038
-      },
-      {
-        "authorNum": "81991328395336",
-        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
-        "text": "Feliz aniversário meu amor \nQue você possa realizar todos teus sonhos e objetivos 🎉",
-        "timestamp": 1789486808789
-      },
       {
         "authorNum": "158381767696617",
         "authorName": "Georg Barão ✌🏻😎",
@@ -15083,6 +15075,30 @@
         "authorName": "Cristian Sntss",
         "text": "Aqui no Maranhão o sol e protagonista",
         "timestamp": 1789488580545
+      },
+      {
+        "authorNum": "93836630077600",
+        "authorName": "Fabrício",
+        "text": "São Paulo tem costume d ser mais frio né?",
+        "timestamp": 1789488587729
+      },
+      {
+        "authorNum": "95125053169759",
+        "authorName": "Kahrina C",
+        "text": "Vcs são muito exibidos",
+        "timestamp": 1789488596538
+      },
+      {
+        "authorNum": "95125053169759",
+        "authorName": "Kahrina C",
+        "text": "Sim !",
+        "timestamp": 1789488607681
+      },
+      {
+        "authorNum": "93836630077600",
+        "authorName": "Fabrício",
+        "text": "Como assim?",
+        "timestamp": 1789488610667
       }
     ]
   },
@@ -15110,7 +15126,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1393
+    "120363412202609595@g.us": 1397
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -15776,7 +15792,7 @@
     },
     "120363412202609595@g.us": {
       "5511927018683": 100,
-      "93836630077600": 57,
+      "93836630077600": 71,
       "183906892533896": 48,
       "92629643563147": 239,
       "81991328395336": 99,
@@ -15791,7 +15807,7 @@
       "27346140700786": 147,
       "137623771312290": 12,
       "53537388122141": 607,
-      "95125053169759": 22,
+      "95125053169759": 29,
       "100356960845833": 352,
       "128810464874577": 7,
       "4342933360709": 57,
@@ -16085,7 +16101,7 @@
     },
     "120363412202609595@g.us": {
       "5511927018683": 20,
-      "93836630077600": 13,
+      "93836630077600": 16,
       "183906892533896": 11,
       "92629643563147": 49,
       "81991328395336": 20,
@@ -16100,7 +16116,7 @@
       "27346140700786": 34,
       "137623771312290": 3,
       "53537388122141": 127,
-      "95125053169759": 8,
+      "95125053169759": 10,
       "100356960845833": 73,
       "128810464874577": 2,
       "4342933360709": 14,
@@ -18003,6 +18019,30 @@
         "text": "Aqui no Maranhão o sol e protagonista",
         "pushName": "Cristian Sntss",
         "timestamp": 1789488580546
+      },
+      "ACB82000304DABB461FF2C1EECA34FE0": {
+        "sender": "93836630077600@lid",
+        "text": "São Paulo tem costume d ser mais frio né?",
+        "pushName": "Fabrício",
+        "timestamp": 1789488587729
+      },
+      "ACEF71757782011EA0973B6D654F858F": {
+        "sender": "95125053169759@lid",
+        "text": "Vcs são muito exibidos",
+        "pushName": "Kahrina C",
+        "timestamp": 1789488596538
+      },
+      "ACF2AEB3799D6A16E5E1D9BB75FAAB6D": {
+        "sender": "95125053169759@lid",
+        "text": "Sim !",
+        "pushName": "Kahrina C",
+        "timestamp": 1789488607681
+      },
+      "ACAD3BBB042975C8E5B491A2F6A223EE": {
+        "sender": "93836630077600@lid",
+        "text": "Como assim?",
+        "pushName": "Fabrício",
+        "timestamp": 1789488610668
       }
     }
   },
@@ -18260,7 +18300,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789488580545
+    "120363412202609595@g.us": 1789488610667
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
