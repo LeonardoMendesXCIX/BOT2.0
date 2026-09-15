@@ -7657,9 +7657,9 @@
         "total": 1
       },
       "36215264927990": {
-        "text": 10,
+        "text": 11,
         "media": 2,
-        "total": 12
+        "total": 13
       },
       "133934344065150": {
         "text": 7,
@@ -7697,9 +7697,9 @@
         "total": 27
       },
       "50869659811853": {
-        "text": 4,
+        "text": 6,
         "media": 1,
-        "total": 5
+        "total": 7
       }
     }
   },
@@ -15094,7 +15094,10 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Abusou?",
         "Cristian Sntss: Pensa o caos q tá lá",
         "Cristian Sntss: Sim\nUma menina de 8 anos",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Meu pai amado..."
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Meu pai amado...",
+        "Gusta: Ata kkkk",
+        "Gusta: Obrigado moça",
+        ".: Cara, o que leva uma pessoa a fazer isso??"
       ]
     }
   },
@@ -15548,6 +15551,24 @@
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "text": "Meu pai amado...",
         "timestamp": 1789498968735
+      },
+      {
+        "authorNum": "50869659811853",
+        "authorName": "Gusta",
+        "text": "Ata kkkk",
+        "timestamp": 1789499034821
+      },
+      {
+        "authorNum": "50869659811853",
+        "authorName": "Gusta",
+        "text": "Obrigado moça",
+        "timestamp": 1789499050916
+      },
+      {
+        "authorNum": "36215264927990",
+        "authorName": ".",
+        "text": "Cara, o que leva uma pessoa a fazer isso??",
+        "timestamp": 1789499052152
       }
     ]
   },
@@ -15575,7 +15596,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1758
+    "120363412202609595@g.us": 1761
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16284,7 +16305,7 @@
       "187845394358417": 16,
       "36589463965754": 14,
       "54259127210155": 69,
-      "50869659811853": 5
+      "50869659811853": 18
     }
   },
   "coins": {
@@ -16599,7 +16620,7 @@
       "187845394358417": 2,
       "36589463965754": 1,
       "54259127210155": 14,
-      "50869659811853": 2
+      "50869659811853": 4
     }
   },
   "dailyRewardClaimed": {
@@ -20731,6 +20752,24 @@
         "text": "Meu pai amado...",
         "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "timestamp": 1789498968735
+      },
+      "AC901BA147D9ABF6F567729E7D6E5AD4": {
+        "sender": "50869659811853@lid",
+        "text": "Ata kkkk",
+        "pushName": "Gusta",
+        "timestamp": 1789499034821
+      },
+      "AC9EF6BE6CAE830327853567A3F9819E": {
+        "sender": "50869659811853@lid",
+        "text": "Obrigado moça",
+        "pushName": "Gusta",
+        "timestamp": 1789499050916
+      },
+      "AC71A84572048CB9B06676E5507C8011": {
+        "sender": "36215264927990@lid",
+        "text": "Cara, o que leva uma pessoa a fazer isso??",
+        "pushName": ".",
+        "timestamp": 1789499052152
       }
     }
   },
@@ -20988,7 +21027,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789499006383
+    "120363412202609595@g.us": 1789499052152
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
