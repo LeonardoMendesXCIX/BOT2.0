@@ -7532,9 +7532,9 @@
         "total": 198
       },
       "559991116887": {
-        "text": 122,
+        "text": 123,
         "media": 49,
-        "total": 171
+        "total": 172
       },
       "23687415767181": {
         "text": 1,
@@ -7612,9 +7612,9 @@
         "total": 1
       },
       "86793403801839": {
-        "text": 0,
+        "text": 1,
         "media": 1,
-        "total": 1
+        "total": 2
       },
       "238440125853754": {
         "text": 5,
@@ -14655,8 +14655,6 @@
         "Camila Designer: Só clicar e entrar"
       ],
       "15/09/2026": [
-        "Gabriel: Bom dia",
-        "Gabriel: Q horas é onde vcs moram agr?",
         "Gabriel: Aqui são 4:50",
         "Não Sei Meu Nome: 6:56",
         "Georg Barão ✌🏻😎: 5:56",
@@ -15154,7 +15152,9 @@
         "𝑳𝒂𝒚𝒉🌪🌚: Oiê",
         "Celiete Souza: Winx 👀",
         "𝑳𝒂𝒚𝒉🌪🌚: Minha vó guarda",
-        "𝑳𝒂𝒚𝒉🌪🌚: Guarda açúcar"
+        "𝑳𝒂𝒚𝒉🌪🌚: Guarda açúcar",
+        "Rai schatz s10: Nenhum dos 2 kkkkk princesinha Sofia e melhor 👍",
+        "𝑳𝒂𝒚𝒉🌪🌚: Eu gosto"
       ]
     }
   },
@@ -15177,12 +15177,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "559991116887",
-        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
-        "text": "Hematologia",
-        "timestamp": 1789498749723
-      },
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
@@ -15608,6 +15602,18 @@
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
         "text": "Guarda açúcar",
         "timestamp": 1789500540560
+      },
+      {
+        "authorNum": "86793403801839",
+        "authorName": "Rai schatz s10",
+        "text": "Nenhum dos 2 kkkkk princesinha Sofia e melhor 👍",
+        "timestamp": 1789500554720
+      },
+      {
+        "authorNum": "559991116887",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Eu gosto",
+        "timestamp": 1789500567288
       }
     ]
   },
@@ -15635,7 +15641,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1822
+    "120363412202609595@g.us": 1824
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -21190,6 +21196,18 @@
         "text": "Guarda açúcar",
         "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
         "timestamp": 1789500540561
+      },
+      "ACD503AFE7AC7D39378AD960A3EA37BC": {
+        "sender": "86793403801839@lid",
+        "text": "Nenhum dos 2 kkkkk princesinha Sofia e melhor 👍",
+        "pushName": "Rai schatz s10",
+        "timestamp": 1789500554720
+      },
+      "AC065F9A4DC3287B1B809D7728FE4DCF": {
+        "sender": "81991328395336@lid",
+        "text": "Eu gosto",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1789500567288
       }
     }
   },
@@ -21447,7 +21465,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789500540560
+    "120363412202609595@g.us": 1789500567288
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
