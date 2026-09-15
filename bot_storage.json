@@ -7432,9 +7432,9 @@
         "total": 23
       },
       "129373172711439": {
-        "text": 223,
+        "text": 225,
         "media": 65,
-        "total": 288
+        "total": 290
       },
       "15960484393007": {
         "text": 10,
@@ -7592,9 +7592,9 @@
         "total": 2
       },
       "72315102593077": {
-        "text": 12,
+        "text": 14,
         "media": 0,
-        "total": 12
+        "total": 14
       },
       "59623457439943": {
         "text": 2,
@@ -14655,7 +14655,6 @@
         "Camila Designer: Só clicar e entrar"
       ],
       "15/09/2026": [
-        "Rodenilson 🤘🏾👀: Será que vc irá gostar e aguentar?",
         "𝑳𝒂𝒚𝒉🌪🌚: Qual cidade aqui do Maranhão?",
         "Diana Shirley: Maranhão de açúcar",
         "𝑳𝒂𝒚𝒉🌪🌚: ??",
@@ -15154,7 +15153,8 @@
         "Wellington: Depende do Power Rangers se for força animal sim se não liga da justiça",
         "Rodenilson 🤘🏾👀: Kkkk",
         "𝑳𝒂𝒚𝒉🌪🌚: Minha irmã queria ser a rosa",
-        "Celiete Souza: Eu também 🤭"
+        "Celiete Souza: Eu também 🤭",
+        "Celiete Souza: Cavalo de fogo\nPunk"
       ]
     }
   },
@@ -15177,24 +15177,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "50869659811853",
-        "authorName": "Gusta",
-        "text": "Virou igual um shot",
-        "timestamp": 1789500210975
-      },
-      {
-        "authorNum": "559984624669",
-        "authorName": "Cristian Sntss",
-        "text": "Aqui no Maranhão povo costuma guardar dentro da geladeira",
-        "timestamp": 1789500228223
-      },
-      {
-        "authorNum": "559984624669",
-        "authorName": "Cristian Sntss",
-        "text": "Nunca entendi isso",
-        "timestamp": 1789500233026
-      },
       {
         "authorNum": "129373172711439",
         "authorName": "Celiete Souza",
@@ -15896,6 +15878,12 @@
         "authorName": "Celiete Souza",
         "text": "Eu também 🤭",
         "timestamp": 1789502009027
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Cavalo de fogo\nPunk",
+        "timestamp": 1789502040671
       }
     ]
   },
@@ -15923,7 +15911,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1908
+    "120363412202609595@g.us": 1909
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16596,7 +16584,7 @@
       "166452229341300": 102,
       "182738040713418": 269,
       "105136689029122": 37,
-      "129373172711439": 546,
+      "129373172711439": 551,
       "140622228942952": 123,
       "108461127897146": 407,
       "69539832270873": 6,
@@ -16911,7 +16899,7 @@
       "166452229341300": 20,
       "182738040713418": 61,
       "105136689029122": 9,
-      "129373172711439": 117,
+      "129373172711439": 119,
       "140622228942952": 23,
       "108461127897146": 81,
       "69539832270873": 1,
@@ -21994,6 +21982,12 @@
         "text": "Eu também 🤭",
         "pushName": "Celiete Souza",
         "timestamp": 1789502009027
+      },
+      "AC053F755B749A91480AAC32794BE3E7": {
+        "sender": "129373172711439@lid",
+        "text": "Cavalo de fogo\nPunk",
+        "pushName": "Celiete Souza",
+        "timestamp": 1789502040671
       }
     }
   },
@@ -22251,7 +22245,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789502009027
+    "120363412202609595@g.us": 1789502040671
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
