@@ -7447,9 +7447,9 @@
         "total": 10
       },
       "140622228942952": {
-        "text": 20,
+        "text": 21,
         "media": 0,
-        "total": 20
+        "total": 21
       },
       "100356960845833": {
         "text": 135,
@@ -7533,8 +7533,8 @@
       },
       "559991116887": {
         "text": 85,
-        "media": 37,
-        "total": 122
+        "media": 38,
+        "total": 123
       },
       "23687415767181": {
         "text": 1,
@@ -14916,7 +14916,9 @@
         "𝑳𝒂𝒚𝒉🌪🌚: Não com traição",
         "𝑳𝒂𝒚𝒉🌪🌚: Só abre as 22 horas",
         "Francisco: Aí ai",
-        "Georg Barão ✌🏻😎: Isso não éh hora de cabaré não kkk"
+        "Georg Barão ✌🏻😎: Isso não éh hora de cabaré não kkk",
+        "Francisco: I tem hora pá cabaré toda hora e hora k",
+        "𝑳𝒂𝒚𝒉🌪🌚: Kkkk"
       ]
     }
   },
@@ -14939,36 +14941,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "559984624669",
-        "authorName": "Cristian Sntss",
-        "text": "Ser corna amante o fim da picada",
-        "timestamp": 1789491821500
-      },
-      {
-        "authorNum": "158381767696617",
-        "authorName": "Georg Barão ✌🏻😎",
-        "text": "😂😂😂😂",
-        "timestamp": 1789491829902
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Se ex fosse bom Deus não mandava amar o próximo",
-        "timestamp": 1789491850526
-      },
-      {
-        "authorNum": "559984624669",
-        "authorName": "Cristian Sntss",
-        "text": "🫡",
-        "timestamp": 1789491861035
-      },
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Eu passei por traição patrimonial pra ti ter uma ideia, existem vários tipos de traições 😕",
-        "timestamp": 1789491861886
-      },
       {
         "authorNum": "158381767696617",
         "authorName": "Georg Barão ✌🏻😎",
@@ -15460,6 +15432,18 @@
         "authorName": "Georg Barão ✌🏻😎",
         "text": "Isso não éh hora de cabaré não kkk",
         "timestamp": 1789493607668
+      },
+      {
+        "authorNum": "140622228942952",
+        "authorName": "Francisco",
+        "text": "I tem hora pá cabaré toda hora e hora k",
+        "timestamp": 1789493652822
+      },
+      {
+        "authorNum": "559991116887",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Kkkk",
+        "timestamp": 1789493665432
       }
     ]
   },
@@ -15487,7 +15471,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1605
+    "120363412202609595@g.us": 1607
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16162,7 +16146,7 @@
       "182738040713418": 217,
       "105136689029122": 37,
       "129373172711439": 351,
-      "140622228942952": 74,
+      "140622228942952": 86,
       "108461127897146": 360,
       "69539832270873": 6,
       "27346140700786": 199,
@@ -16473,7 +16457,7 @@
       "182738040713418": 48,
       "105136689029122": 9,
       "129373172711439": 77,
-      "140622228942952": 15,
+      "140622228942952": 18,
       "108461127897146": 75,
       "69539832270873": 1,
       "27346140700786": 41,
@@ -19679,6 +19663,18 @@
         "text": "Isso não éh hora de cabaré não kkk",
         "pushName": "Georg Barão ✌🏻😎",
         "timestamp": 1789493607668
+      },
+      "AC199E1A312B3FFBF4E2C378AA1979C3": {
+        "sender": "140622228942952@lid",
+        "text": "I tem hora pá cabaré toda hora e hora k",
+        "pushName": "Francisco",
+        "timestamp": 1789493652823
+      },
+      "AC86790C808C8A8078ECB35C266307E5": {
+        "sender": "81991328395336@lid",
+        "text": "Kkkk",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1789493665432
       }
     }
   },
@@ -19936,7 +19932,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789493607668
+    "120363412202609595@g.us": 1789493665432
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
