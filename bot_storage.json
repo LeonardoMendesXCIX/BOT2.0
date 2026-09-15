@@ -7432,9 +7432,9 @@
         "total": 23
       },
       "129373172711439": {
-        "text": 200,
+        "text": 203,
         "media": 63,
-        "total": 263
+        "total": 266
       },
       "15960484393007": {
         "text": 10,
@@ -7697,9 +7697,9 @@
         "total": 27
       },
       "50869659811853": {
-        "text": 12,
+        "text": 16,
         "media": 2,
-        "total": 14
+        "total": 18
       }
     }
   },
@@ -15133,7 +15133,13 @@
         "Celiete Souza: Eu também guardo na geladeira",
         "Gusta: Pq? Kkkkmm",
         "𝑳𝒂𝒚𝒉🌪🌚: Pq?",
-        "Celiete Souza: Sei lá sempre guardamos"
+        "Celiete Souza: Sei lá sempre guardamos",
+        "Gusta: Água sanitária",
+        "Gusta: Na geladeira",
+        "Gusta: ?",
+        "Celiete Souza: Vinagreeeee",
+        "Gusta: Ata kkkkkkkk",
+        "Celiete Souza: Água sanitária naoooo"
       ]
     }
   },
@@ -15156,24 +15162,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "54259127210155",
-        "authorName": "LEANDRO M.",
-        "text": "Ahh, então tá tranquilo",
-        "timestamp": 1789498490974
-      },
-      {
-        "authorNum": "50869659811853",
-        "authorName": "Gusta",
-        "text": "Gustavo \n25 anos \nRio de janeiro \nHétero \nPV on",
-        "timestamp": 1789498496089
-      },
-      {
-        "authorNum": "54259127210155",
-        "authorName": "LEANDRO M.",
-        "text": "Eu sou de 2 a 3 garrafas por dia",
-        "timestamp": 1789498505444
-      },
       {
         "authorNum": "54259127210155",
         "authorName": "LEANDRO M.",
@@ -15587,6 +15575,42 @@
         "authorName": "Celiete Souza",
         "text": "Sei lá sempre guardamos",
         "timestamp": 1789500284886
+      },
+      {
+        "authorNum": "50869659811853",
+        "authorName": "Gusta",
+        "text": "Água sanitária",
+        "timestamp": 1789500294299
+      },
+      {
+        "authorNum": "50869659811853",
+        "authorName": "Gusta",
+        "text": "Na geladeira",
+        "timestamp": 1789500296843
+      },
+      {
+        "authorNum": "50869659811853",
+        "authorName": "Gusta",
+        "text": "?",
+        "timestamp": 1789500298159
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Vinagreeeee",
+        "timestamp": 1789500305346
+      },
+      {
+        "authorNum": "50869659811853",
+        "authorName": "Gusta",
+        "text": "Ata kkkkkkkk",
+        "timestamp": 1789500309485
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Água sanitária naoooo",
+        "timestamp": 1789500311820
       }
     ]
   },
@@ -15614,7 +15638,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1797
+    "120363412202609595@g.us": 1803
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16287,7 +16311,7 @@
       "166452229341300": 102,
       "182738040713418": 222,
       "105136689029122": 37,
-      "129373172711439": 452,
+      "129373172711439": 463,
       "140622228942952": 123,
       "108461127897146": 368,
       "69539832270873": 6,
@@ -16323,7 +16347,7 @@
       "187845394358417": 16,
       "36589463965754": 14,
       "54259127210155": 69,
-      "50869659811853": 34
+      "50869659811853": 56
     }
   },
   "coins": {
@@ -16602,7 +16626,7 @@
       "166452229341300": 20,
       "182738040713418": 51,
       "105136689029122": 9,
-      "129373172711439": 96,
+      "129373172711439": 99,
       "140622228942952": 23,
       "108461127897146": 76,
       "69539832270873": 1,
@@ -16638,7 +16662,7 @@
       "187845394358417": 2,
       "36589463965754": 1,
       "54259127210155": 14,
-      "50869659811853": 7
+      "50869659811853": 10
     }
   },
   "dailyRewardClaimed": {
@@ -21014,6 +21038,42 @@
         "text": "Sei lá sempre guardamos",
         "pushName": "Celiete Souza",
         "timestamp": 1789500284886
+      },
+      "AC2EE0AD899CC7B5B60987DBA1B89472": {
+        "sender": "50869659811853@lid",
+        "text": "Água sanitária",
+        "pushName": "Gusta",
+        "timestamp": 1789500294299
+      },
+      "AC3AD7A7EA7616C52FAF6EE4D806BDD7": {
+        "sender": "50869659811853@lid",
+        "text": "Na geladeira",
+        "pushName": "Gusta",
+        "timestamp": 1789500296843
+      },
+      "AC37A942E79DF31A9900CF6EE6E8E416": {
+        "sender": "50869659811853@lid",
+        "text": "?",
+        "pushName": "Gusta",
+        "timestamp": 1789500298711
+      },
+      "AC2FBEB3CDCCF45791D8EC4CEC64A650": {
+        "sender": "129373172711439@lid",
+        "text": "Vinagreeeee",
+        "pushName": "Celiete Souza",
+        "timestamp": 1789500305347
+      },
+      "AC027FF86AC1BA1C5EF48F8F4FB6AF67": {
+        "sender": "50869659811853@lid",
+        "text": "Ata kkkkkkkk",
+        "pushName": "Gusta",
+        "timestamp": 1789500309485
+      },
+      "AC544C6463421FAE5445DE42C9EB7D6A": {
+        "sender": "129373172711439@lid",
+        "text": "Água sanitária naoooo",
+        "pushName": "Celiete Souza",
+        "timestamp": 1789500311820
       }
     }
   },
@@ -21271,7 +21331,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789500284886
+    "120363412202609595@g.us": 1789500311820
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
