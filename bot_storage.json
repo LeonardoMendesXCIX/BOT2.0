@@ -7487,9 +7487,9 @@
         "total": 2
       },
       "53537388122141": {
-        "text": 235,
+        "text": 236,
         "media": 23,
-        "total": 258
+        "total": 259
       },
       "122552932372575": {
         "text": 2,
@@ -7533,8 +7533,8 @@
       },
       "559991116887": {
         "text": 111,
-        "media": 44,
-        "total": 155
+        "media": 45,
+        "total": 156
       },
       "23687415767181": {
         "text": 1,
@@ -7658,8 +7658,8 @@
       },
       "36215264927990": {
         "text": 13,
-        "media": 2,
-        "total": 15
+        "media": 3,
+        "total": 16
       },
       "133934344065150": {
         "text": 7,
@@ -15100,7 +15100,8 @@
         ".: Cara, o que leva uma pessoa a fazer isso??",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Opa, boa tarde, tudo bem? Você já se apresentou aqui no grupo?",
         ".: Pq tipo, tem várias outras pessoas ai disponível e tals",
-        ".: Sim, eu tava no grupo antes desse"
+        ".: Sim, eu tava no grupo antes desse",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Se apresentou neste aqui?"
       ]
     }
   },
@@ -15590,6 +15591,12 @@
         "authorName": ".",
         "text": "Sim, eu tava no grupo antes desse",
         "timestamp": 1789499112089
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Se apresentou neste aqui?",
+        "timestamp": 1789499131946
       }
     ]
   },
@@ -15617,7 +15624,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1764
+    "120363412202609595@g.us": 1765
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -20809,6 +20816,12 @@
         "text": "Sim, eu tava no grupo antes desse",
         "pushName": ".",
         "timestamp": 1789499112089
+      },
+      "AC1F0784C480B5D9E69C0FCCD1BEC56A": {
+        "sender": "53537388122141@lid",
+        "text": "Se apresentou neste aqui?",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1789499131946
       }
     }
   },
@@ -21066,7 +21079,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789499112089
+    "120363412202609595@g.us": 1789499150149
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
