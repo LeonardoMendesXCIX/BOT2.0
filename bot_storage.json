@@ -7477,9 +7477,9 @@
         "total": 6
       },
       "27346140700786": {
-        "text": 82,
+        "text": 83,
         "media": 15,
-        "total": 97
+        "total": 98
       },
       "137623771312290": {
         "text": 2,
@@ -14655,7 +14655,6 @@
         "Camila Designer: Só clicar e entrar"
       ],
       "15/09/2026": [
-        "Diana Shirley: Bem vindo Leo",
         "Cristian Sntss: Foto @21543589527800",
         "Celiete Souza: Bem vindo 👏🏻\nFaça sua apresentação no grupo",
         "Georg Barão ✌🏻😎: Já conversei bastante,já postei foto,agora vou dormir não tem mais pq ser removido kkkk",
@@ -15154,7 +15153,8 @@
         "Rodenilson 🤘🏾👀: O que é isso winx?",
         "Gusta: Só mais corrida maluca",
         "Cristian Sntss: Alguém assistiu filme do Maycon Jackson e bom?",
-        "Rai schatz s10: Esse aí é lendário"
+        "Rai schatz s10: Esse aí é lendário",
+        "Diana Shirley: Vc e suas histórias"
       ]
     }
   },
@@ -15177,12 +15177,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "53537388122141",
-        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
-        "text": "Opa, bem vindo",
-        "timestamp": 1789498869769
-      },
       {
         "authorNum": "559984624669",
         "authorName": "Cristian Sntss",
@@ -15692,6 +15686,12 @@
         "authorName": "Rai schatz s10",
         "text": "Esse aí é lendário",
         "timestamp": 1789500636691
+      },
+      {
+        "authorNum": "27346140700786",
+        "authorName": "Diana Shirley",
+        "text": "Vc e suas histórias",
+        "timestamp": 1789500682689
       }
     ]
   },
@@ -15719,7 +15719,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1837
+    "120363412202609595@g.us": 1838
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16396,7 +16396,7 @@
       "140622228942952": 123,
       "108461127897146": 387,
       "69539832270873": 6,
-      "27346140700786": 213,
+      "27346140700786": 226,
       "137623771312290": 12,
       "53537388122141": 720,
       "95125053169759": 41,
@@ -16711,7 +16711,7 @@
       "140622228942952": 23,
       "108461127897146": 79,
       "69539832270873": 1,
-      "27346140700786": 46,
+      "27346140700786": 49,
       "137623771312290": 3,
       "53537388122141": 153,
       "95125053169759": 12,
@@ -21364,6 +21364,12 @@
         "text": "Esse aí é lendário",
         "pushName": "Rai schatz s10",
         "timestamp": 1789500636691
+      },
+      "AC5AA43EDC3553FE31AF533348E24224": {
+        "sender": "27346140700786@lid",
+        "text": "Vc e suas histórias",
+        "pushName": "Diana Shirley",
+        "timestamp": 1789500682690
       }
     }
   },
@@ -21621,7 +21627,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789500666336
+    "120363412202609595@g.us": 1789500682689
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
