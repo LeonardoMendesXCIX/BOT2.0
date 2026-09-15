@@ -7527,9 +7527,9 @@
         "total": 83
       },
       "559984624669": {
-        "text": 152,
-        "media": 55,
-        "total": 207
+        "text": 153,
+        "media": 56,
+        "total": 209
       },
       "559991116887": {
         "text": 129,
@@ -14655,7 +14655,6 @@
         "Camila Designer: Só clicar e entrar"
       ],
       "15/09/2026": [
-        "Celiete Souza: Vai dar tudo certo 🙏",
         "Georg Barão ✌🏻😎: Vai sim🙏🏻",
         "Leonardo: Sou rio de janeiro",
         "Celiete Souza: Coloca uma foto sua \nIdade \nLocal que mora \nE já fica apresentado aqui 🫶🏻",
@@ -15154,7 +15153,8 @@
         "Diana Shirley: Bob esponja",
         "LEANDRO M.: Aí é foda em",
         "Wellington: Tô analisando ainda calma",
-        "𝑳𝒂𝒚𝒉🌪🌚: Esse do cérebro nunca vi"
+        "𝑳𝒂𝒚𝒉🌪🌚: Esse do cérebro nunca vi",
+        "Cristian Sntss: Jaciara"
       ]
     }
   },
@@ -15177,12 +15177,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "559984624669",
-        "authorName": "Cristian Sntss",
-        "text": "Suspeito",
-        "timestamp": 1789499225977
-      },
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
@@ -15728,6 +15722,12 @@
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
         "text": "Esse do cérebro nunca vi",
         "timestamp": 1789501004871
+      },
+      {
+        "authorNum": "559984624669",
+        "authorName": "Cristian Sntss",
+        "text": "Jaciara",
+        "timestamp": 1789501039887
       }
     ]
   },
@@ -15755,7 +15755,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1861
+    "120363412202609595@g.us": 1862
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -21544,6 +21544,12 @@
         "text": "Esse do cérebro nunca vi",
         "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
         "timestamp": 1789501004871
+      },
+      "A569837949393CB9396FC3EC4E1DB178": {
+        "sender": "166452229341300@lid",
+        "text": "Jaciara",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1789501039888
       }
     }
   },
@@ -21801,7 +21807,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789501010418
+    "120363412202609595@g.us": 1789501040185
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
