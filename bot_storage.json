@@ -7427,9 +7427,9 @@
         "total": 161
       },
       "128810464874577": {
-        "text": 17,
+        "text": 18,
         "media": 1,
-        "total": 18
+        "total": 19
       },
       "129373172711439": {
         "text": 137,
@@ -7532,9 +7532,9 @@
         "total": 136
       },
       "559991116887": {
-        "text": 72,
-        "media": 20,
-        "total": 92
+        "text": 73,
+        "media": 21,
+        "total": 94
       },
       "23687415767181": {
         "text": 1,
@@ -14732,7 +14732,8 @@
         "𝑳𝒂𝒚𝒉🌪🌚: Tu já acordou",
         "Georg Barão ✌🏻😎: 👏🏻👏🏻",
         "Georg Barão ✌🏻😎: Acordei pra tomar água kkk",
-        "Cristian Sntss: Rpz eu não consigo durmi muito n"
+        "Cristian Sntss: Rpz eu não consigo durmi muito n",
+        "𝑳𝒂𝒚𝒉🌪🌚: Eu n consigo e tenho ódio de quem dormi demais"
       ]
     }
   },
@@ -15078,6 +15079,12 @@
         "authorName": "Cristian Sntss",
         "text": "Rpz eu não consigo durmi muito n",
         "timestamp": 1789490003298
+      },
+      {
+        "authorNum": "559991116887",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Eu n consigo e tenho ódio de quem dormi demais",
+        "timestamp": 1789490044063
       }
     ]
   },
@@ -15105,7 +15112,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1431
+    "120363412202609595@g.us": 1432
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -18233,6 +18240,12 @@
         "text": "Rpz eu não consigo durmi muito n",
         "pushName": "Cristian Sntss",
         "timestamp": 1789490003298
+      },
+      "ACD19FCA596BA538048EE3211AC631F7": {
+        "sender": "81991328395336@lid",
+        "text": "Eu n consigo e tenho ódio de quem dormi demais",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1789490044063
       }
     }
   },
@@ -18490,7 +18503,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789490003298
+    "120363412202609595@g.us": 1789490047435
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
