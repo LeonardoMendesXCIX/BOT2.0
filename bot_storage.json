@@ -7657,9 +7657,9 @@
         "total": 1
       },
       "36215264927990": {
-        "text": 3,
+        "text": 4,
         "media": 2,
-        "total": 5
+        "total": 6
       },
       "133934344065150": {
         "text": 3,
@@ -14823,7 +14823,8 @@
         "Rodenilson 🤘🏾👀: Estamos desacreditados",
         "Rodenilson 🤘🏾👀: Assim tem que ser",
         "Georg Barão ✌🏻😎: Baixe ah guarda kkk",
-        "Rodenilson 🤘🏾👀: Isso é pura pilantragem,esses tipos de homem,que fazem a nossa má fama"
+        "Rodenilson 🤘🏾👀: Isso é pura pilantragem,esses tipos de homem,que fazem a nossa má fama",
+        ".: Gente, vcs tem que ter noção, homem e mulher casado, namorando e tals....sempre vai trair seu/a  parceiro/a.... SEMPRE!!  Pode ser qualquer tipo de traição, mais vai traição."
       ]
     }
   },
@@ -15361,6 +15362,12 @@
         "authorName": "Rodenilson 🤘🏾👀",
         "text": "Isso é pura pilantragem,esses tipos de homem,que fazem a nossa má fama",
         "timestamp": 1789491570117
+      },
+      {
+        "authorNum": "36215264927990",
+        "authorName": ".",
+        "text": "Gente, vcs tem que ter noção, homem e mulher casado, namorando e tals....sempre vai trair seu/a  parceiro/a.... SEMPRE!!  Pode ser qualquer tipo de traição, mais vai traição.",
+        "timestamp": 1789491593087
       }
     ]
   },
@@ -15388,7 +15395,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1512
+    "120363412202609595@g.us": 1513
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -15775,7 +15782,7 @@
       1789431148985
     ],
     "120363412202609595@g.us": [
-      1789438074362
+      1789491589268
     ]
   },
   "captcha": {},
@@ -17787,6 +17794,11 @@
         "ts": 1789490581806,
         "admin": "21543589527800",
         "action": "REMOVIDO por admin"
+      },
+      {
+        "ts": 1789491589268,
+        "admin": "1757061070966",
+        "action": "ENTROU no grupo"
       }
     ]
   },
@@ -19007,6 +19019,12 @@
         "text": "Isso é pura pilantragem,esses tipos de homem,que fazem a nossa má fama",
         "pushName": "Rodenilson 🤘🏾👀",
         "timestamp": 1789491570117
+      },
+      "ACD20F2B4B48D87DAB4CE65D5D948F05": {
+        "sender": "36215264927990@lid",
+        "text": "Gente, vcs tem que ter noção, homem e mulher casado, namorando e tals....sempre vai trair seu/a  parceiro/a.... SEMPRE!!  Pode ser qualquer tipo de traição, mais vai traição.",
+        "pushName": ".",
+        "timestamp": 1789491593088
       }
     }
   },
@@ -19264,7 +19282,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789491570117
+    "120363412202609595@g.us": 1789491593087
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
