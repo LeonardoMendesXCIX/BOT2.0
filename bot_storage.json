@@ -7487,9 +7487,9 @@
         "total": 2
       },
       "53537388122141": {
-        "text": 233,
+        "text": 235,
         "media": 23,
-        "total": 256
+        "total": 258
       },
       "122552932372575": {
         "text": 2,
@@ -7657,9 +7657,9 @@
         "total": 1
       },
       "36215264927990": {
-        "text": 11,
+        "text": 12,
         "media": 2,
-        "total": 13
+        "total": 14
       },
       "133934344065150": {
         "text": 7,
@@ -15097,7 +15097,9 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Meu pai amado...",
         "Gusta: Ata kkkk",
         "Gusta: Obrigado moça",
-        ".: Cara, o que leva uma pessoa a fazer isso??"
+        ".: Cara, o que leva uma pessoa a fazer isso??",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Opa, boa tarde, tudo bem? Você já se apresentou aqui no grupo?",
+        ".: Pq tipo, tem várias outras pessoas ai disponível e tals"
       ]
     }
   },
@@ -15569,6 +15571,18 @@
         "authorName": ".",
         "text": "Cara, o que leva uma pessoa a fazer isso??",
         "timestamp": 1789499052152
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Opa, boa tarde, tudo bem? Você já se apresentou aqui no grupo?",
+        "timestamp": 1789499070155
+      },
+      {
+        "authorNum": "36215264927990",
+        "authorName": ".",
+        "text": "Pq tipo, tem várias outras pessoas ai disponível e tals",
+        "timestamp": 1789499075415
       }
     ]
   },
@@ -15596,7 +15610,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1761
+    "120363412202609595@g.us": 1763
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16299,7 +16313,7 @@
       "149607149498623": 5,
       "106378353996008": 12,
       "21543589527800": 5,
-      "36215264927990": 14,
+      "36215264927990": 27,
       "133934344065150": 29,
       "120363412202609595": 21,
       "187845394358417": 16,
@@ -16614,7 +16628,7 @@
       "149607149498623": 3,
       "106378353996008": 1,
       "21543589527800": 3,
-      "36215264927990": 2,
+      "36215264927990": 3,
       "133934344065150": 7,
       "120363412202609595": 4,
       "187845394358417": 2,
@@ -20770,6 +20784,18 @@
         "text": "Cara, o que leva uma pessoa a fazer isso??",
         "pushName": ".",
         "timestamp": 1789499052152
+      },
+      "AC1B5BEED11831D6F57F473CC4D76970": {
+        "sender": "53537388122141@lid",
+        "text": "Opa, boa tarde, tudo bem? Você já se apresentou aqui no grupo?",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1789499070155
+      },
+      "ACB1DEA195CE510B8601C43DA9727833": {
+        "sender": "36215264927990@lid",
+        "text": "Pq tipo, tem várias outras pessoas ai disponível e tals",
+        "pushName": ".",
+        "timestamp": 1789499075415
       }
     }
   },
@@ -21027,7 +21053,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789499052152
+    "120363412202609595@g.us": 1789499075415
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
