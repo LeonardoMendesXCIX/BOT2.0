@@ -7392,9 +7392,9 @@
         "total": 29
       },
       "93836630077600": {
-        "text": 37,
+        "text": 38,
         "media": 1,
-        "total": 38
+        "total": 39
       },
       "81991328395336": {
         "text": 32,
@@ -7477,9 +7477,9 @@
         "total": 5
       },
       "27346140700786": {
-        "text": 61,
+        "text": 62,
         "media": 14,
-        "total": 75
+        "total": 76
       },
       "137623771312290": {
         "text": 2,
@@ -7527,14 +7527,14 @@
         "total": 83
       },
       "559984624669": {
-        "text": 112,
+        "text": 113,
         "media": 42,
-        "total": 154
+        "total": 155
       },
       "559991116887": {
         "text": 80,
-        "media": 29,
-        "total": 109
+        "media": 30,
+        "total": 110
       },
       "23687415767181": {
         "text": 1,
@@ -7582,9 +7582,9 @@
         "total": 1
       },
       "158381767696617": {
-        "text": 150,
+        "text": 151,
         "media": 5,
-        "total": 155
+        "total": 156
       },
       "237086657491106": {
         "text": 2,
@@ -14868,7 +14868,10 @@
         "Camila Designer: Contar algo para vocês, eu tinha um amigo que estudamos desde o pré, um belo dia na época da pré-adolescência resolvemos nos beijar e juro era como se tivesse beijado meu irmão, não rolou!",
         "Camila Designer: Permanecemos amigos e somos até hoje",
         "Georg Barão ✌🏻😎: Mais tipo na maioria das vezes esse homem faz tudo do que vcs dizem que era oh que queria em um homem",
-        "Camila Designer: Será????"
+        "Camila Designer: Será????",
+        "𝑳𝒂𝒚𝒉🌪🌚: Eu e vcs?",
+        "Georg Barão ✌🏻😎: Tenho minhas dúvidas kkk",
+        "Cristian Sntss: @all"
       ]
     }
   },
@@ -15550,6 +15553,24 @@
         "authorName": "Camila Designer",
         "text": "Será????",
         "timestamp": 1789492350514
+      },
+      {
+        "authorNum": "559991116887",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Eu e vcs?",
+        "timestamp": 1789492370509
+      },
+      {
+        "authorNum": "158381767696617",
+        "authorName": "Georg Barão ✌🏻😎",
+        "text": "Tenho minhas dúvidas kkk",
+        "timestamp": 1789492379419
+      },
+      {
+        "authorNum": "559984624669",
+        "authorName": "Cristian Sntss",
+        "text": "@all",
+        "timestamp": 1789492393199
       }
     ]
   },
@@ -15577,7 +15598,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1557
+    "120363412202609595@g.us": 1560
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -19481,6 +19502,24 @@
         "text": "Será????",
         "pushName": "Camila Designer",
         "timestamp": 1789492350514
+      },
+      "AC26E76F04D830649E1CA58D5BD8F8B4": {
+        "sender": "81991328395336@lid",
+        "text": "Eu e vcs?",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1789492370509
+      },
+      "AC6B12B7E57932FE798D7DF3F6C125CC": {
+        "sender": "158381767696617@lid",
+        "text": "Tenho minhas dúvidas kkk",
+        "pushName": "Georg Barão ✌🏻😎",
+        "timestamp": 1789492379419
+      },
+      "A5E2720413DED95A409308E3967CD2FF": {
+        "sender": "166452229341300@lid",
+        "text": "@all",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1789492393199
       }
     }
   },
@@ -19738,7 +19777,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789492350514
+    "120363412202609595@g.us": 1789492393199
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
