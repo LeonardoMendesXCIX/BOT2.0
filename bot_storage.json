@@ -7392,9 +7392,9 @@
         "total": 29
       },
       "93836630077600": {
-        "text": 28,
+        "text": 29,
         "media": 1,
-        "total": 29
+        "total": 30
       },
       "81991328395336": {
         "text": 29,
@@ -7453,8 +7453,8 @@
       },
       "100356960845833": {
         "text": 112,
-        "media": 14,
-        "total": 126
+        "media": 15,
+        "total": 127
       },
       "118528279593092": {
         "text": 1,
@@ -7532,9 +7532,9 @@
         "total": 136
       },
       "559991116887": {
-        "text": 61,
+        "text": 62,
         "media": 16,
-        "total": 77
+        "total": 78
       },
       "23687415767181": {
         "text": 1,
@@ -14681,7 +14681,9 @@
         "𝑳𝒂𝒚𝒉🌪🌚: Só o calor q tá matando",
         "Rodenilson 🤘🏾👀: E por aqui frio",
         "Fabrício: Por aqui está mais nublado uma hora chove e para",
-        "Marcus Vieira: Calorão aqui😅"
+        "Marcus Vieira: Calorão aqui😅",
+        "Fabrício: Vc é de onde mesmo?",
+        "𝑳𝒂𝒚𝒉🌪🌚: Igual aqui"
       ]
     }
   },
@@ -14711,18 +14713,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "27346140700786",
-        "authorName": "Diana Shirley",
-        "text": "😂",
-        "timestamp": 1789486696496
-      },
-      {
-        "authorNum": "100356960845833",
-        "authorName": "Rodenilson 🤘🏾👀",
-        "text": "Parabéns, muitas felicidades, sucesso, realizações, saúde e paz,Deus te abençoe",
-        "timestamp": 1789486702798
-      },
       {
         "authorNum": "27346140700786",
         "authorName": "Diana Shirley",
@@ -15064,6 +15054,18 @@
         "authorName": "Marcus Vieira",
         "text": "Calorão aqui😅",
         "timestamp": 1789488486532
+      },
+      {
+        "authorNum": "93836630077600",
+        "authorName": "Fabrício",
+        "text": "Vc é de onde mesmo?",
+        "timestamp": 1789488512462
+      },
+      {
+        "authorNum": "559991116887",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Igual aqui",
+        "timestamp": 1789488519265
       }
     ]
   },
@@ -15091,7 +15093,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1386
+    "120363412202609595@g.us": 1388
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -15779,7 +15781,7 @@
       "247020967165997": 405,
       "559984624669": 269,
       "163530946961491": 35,
-      "559991116887": 176,
+      "559991116887": 185,
       "164398513573978": 13,
       "102109089378363": 253,
       "253403338903556": 84,
@@ -16088,7 +16090,7 @@
       "247020967165997": 79,
       "559984624669": 49,
       "163530946961491": 8,
-      "559991116887": 38,
+      "559991116887": 41,
       "164398513573978": 2,
       "102109089378363": 50,
       "253403338903556": 13,
@@ -17942,6 +17944,18 @@
         "text": "Calorão aqui😅",
         "pushName": "Marcus Vieira",
         "timestamp": 1789488486532
+      },
+      "ACFDAF398AA5BB21D78603C9E2EB4C09": {
+        "sender": "93836630077600@lid",
+        "text": "Vc é de onde mesmo?",
+        "pushName": "Fabrício",
+        "timestamp": 1789488512462
+      },
+      "AC9ADA287F223B8759A22B1AA209A616": {
+        "sender": "81991328395336@lid",
+        "text": "Igual aqui",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1789488519265
       }
     }
   },
@@ -18199,7 +18213,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789488486532
+    "120363412202609595@g.us": 1789488519265
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
