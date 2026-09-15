@@ -7392,9 +7392,9 @@
         "total": 29
       },
       "93836630077600": {
-        "text": 34,
+        "text": 35,
         "media": 1,
-        "total": 35
+        "total": 36
       },
       "81991328395336": {
         "text": 29,
@@ -7452,9 +7452,9 @@
         "total": 15
       },
       "100356960845833": {
-        "text": 112,
+        "text": 113,
         "media": 15,
-        "total": 127
+        "total": 128
       },
       "118528279593092": {
         "text": 1,
@@ -7497,9 +7497,9 @@
         "total": 6
       },
       "95125053169759": {
-        "text": 20,
+        "text": 21,
         "media": 5,
-        "total": 25
+        "total": 26
       },
       "188373004222609": {
         "text": 2,
@@ -14692,7 +14692,10 @@
         "Fabrício: São Paulo tem costume d ser mais frio né?",
         "Kahrina C: Vcs são muito exibidos",
         "Kahrina C: Sim !",
-        "Fabrício: Como assim?"
+        "Fabrício: Como assim?",
+        "Kahrina C: Exibindo o calor que ta fazendo ai hahahah",
+        "Fabrício: Eu nunca estive aí ..fui no Rio..mato grosso e Maranhão apenas",
+        "Rodenilson 🤘🏾👀: Num é kkkk\nSudeste está frio e chuvoso"
       ]
     }
   },
@@ -14722,12 +14725,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "158381767696617",
-        "authorName": "Georg Barão ✌🏻😎",
-        "text": "😛😂😂",
-        "timestamp": 1789486835083
-      },
       {
         "authorNum": "27346140700786",
         "authorName": "Diana Shirley",
@@ -15099,6 +15096,24 @@
         "authorName": "Fabrício",
         "text": "Como assim?",
         "timestamp": 1789488610667
+      },
+      {
+        "authorNum": "95125053169759",
+        "authorName": "Kahrina C",
+        "text": "Exibindo o calor que ta fazendo ai hahahah",
+        "timestamp": 1789488632559
+      },
+      {
+        "authorNum": "93836630077600",
+        "authorName": "Fabrício",
+        "text": "Eu nunca estive aí ..fui no Rio..mato grosso e Maranhão apenas",
+        "timestamp": 1789488639857
+      },
+      {
+        "authorNum": "100356960845833",
+        "authorName": "Rodenilson 🤘🏾👀",
+        "text": "Num é kkkk\nSudeste está frio e chuvoso",
+        "timestamp": 1789488652143
       }
     ]
   },
@@ -15126,7 +15141,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1397
+    "120363412202609595@g.us": 1400
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -15808,7 +15823,7 @@
       "137623771312290": 12,
       "53537388122141": 607,
       "95125053169759": 29,
-      "100356960845833": 352,
+      "100356960845833": 359,
       "128810464874577": 7,
       "4342933360709": 57,
       "247020967165997": 405,
@@ -16117,7 +16132,7 @@
       "137623771312290": 3,
       "53537388122141": 127,
       "95125053169759": 10,
-      "100356960845833": 73,
+      "100356960845833": 76,
       "128810464874577": 2,
       "4342933360709": 14,
       "247020967165997": 79,
@@ -18043,6 +18058,24 @@
         "text": "Como assim?",
         "pushName": "Fabrício",
         "timestamp": 1789488610668
+      },
+      "AC2F92D20964288F177A9150DB512D1B": {
+        "sender": "95125053169759@lid",
+        "text": "Exibindo o calor que ta fazendo ai hahahah",
+        "pushName": "Kahrina C",
+        "timestamp": 1789488632559
+      },
+      "AC5C8DAF39C79BAEFC1895FF8977F55A": {
+        "sender": "93836630077600@lid",
+        "text": "Eu nunca estive aí ..fui no Rio..mato grosso e Maranhão apenas",
+        "pushName": "Fabrício",
+        "timestamp": 1789488639857
+      },
+      "AC83AB922FBD38D89F0DA263F4613D5C": {
+        "sender": "100356960845833@lid",
+        "text": "Num é kkkk\nSudeste está frio e chuvoso",
+        "pushName": "Rodenilson 🤘🏾👀",
+        "timestamp": 1789488652144
       }
     }
   },
@@ -18300,7 +18333,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789488610667
+    "120363412202609595@g.us": 1789488652143
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
