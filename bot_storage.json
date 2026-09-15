@@ -7497,9 +7497,9 @@
         "total": 6
       },
       "95125053169759": {
-        "text": 17,
+        "text": 18,
         "media": 4,
-        "total": 21
+        "total": 22
       },
       "188373004222609": {
         "text": 2,
@@ -14683,7 +14683,8 @@
         "Fabrício: Por aqui está mais nublado uma hora chove e para",
         "Marcus Vieira: Calorão aqui😅",
         "Fabrício: Vc é de onde mesmo?",
-        "𝑳𝒂𝒚𝒉🌪🌚: Igual aqui"
+        "𝑳𝒂𝒚𝒉🌪🌚: Igual aqui",
+        "Kahrina C: Guarulhos SP"
       ]
     }
   },
@@ -14713,12 +14714,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "27346140700786",
-        "authorName": "Diana Shirley",
-        "text": "Olha ele🤜🤛",
-        "timestamp": 1789486722329
-      },
       {
         "authorNum": "158381767696617",
         "authorName": "Georg Barão ✌🏻😎",
@@ -15066,6 +15061,12 @@
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
         "text": "Igual aqui",
         "timestamp": 1789488519265
+      },
+      {
+        "authorNum": "95125053169759",
+        "authorName": "Kahrina C",
+        "text": "Guarulhos SP",
+        "timestamp": 1789488543534
       }
     ]
   },
@@ -15093,7 +15094,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1388
+    "120363412202609595@g.us": 1389
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -17956,6 +17957,12 @@
         "text": "Igual aqui",
         "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
         "timestamp": 1789488519265
+      },
+      "ACECD6F024F21B050CCE2E28CA718DD1": {
+        "sender": "95125053169759@lid",
+        "text": "Guarulhos SP",
+        "pushName": "Kahrina C",
+        "timestamp": 1789488543534
       }
     }
   },
@@ -18213,7 +18220,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789488519265
+    "120363412202609595@g.us": 1789488543534
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
