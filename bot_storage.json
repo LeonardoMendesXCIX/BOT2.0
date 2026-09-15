@@ -7487,9 +7487,9 @@
         "total": 2
       },
       "53537388122141": {
-        "text": 229,
+        "text": 230,
         "media": 23,
-        "total": 252
+        "total": 253
       },
       "122552932372575": {
         "text": 2,
@@ -7677,14 +7677,19 @@
         "total": 2
       },
       "187845394358417": {
-        "text": 9,
+        "text": 10,
         "media": 1,
-        "total": 10
+        "total": 11
       },
       "157990959186122": {
         "text": 1,
         "media": 0,
         "total": 1
+      },
+      "36589463965754": {
+        "text": 1,
+        "media": 1,
+        "total": 2
       }
     }
   },
@@ -15003,7 +15008,9 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: E ir pra praia",
         "Maurício Manú Telecom: Verão e praia onde têm né",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Pode ser parque aquático também 😂",
-        "Diana Shirley: Do Maranhão 😂"
+        "Diana Shirley: Do Maranhão 😂",
+        "Maurício Manú Telecom: Né",
+        "WILSON: SOU Wilson de são Paulo"
       ]
     }
   },
@@ -15151,6 +15158,18 @@
         "authorName": "Diana Shirley",
         "text": "Do Maranhão 😂",
         "timestamp": 1789497033650
+      },
+      {
+        "authorNum": "187845394358417",
+        "authorName": "Maurício Manú Telecom",
+        "text": "Né",
+        "timestamp": 1789497056478
+      },
+      {
+        "authorNum": "36589463965754",
+        "authorName": "WILSON",
+        "text": "SOU Wilson de são Paulo",
+        "timestamp": 1789497070177
       }
     ]
   },
@@ -15178,7 +15197,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1682
+    "120363412202609595@g.us": 1684
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -19842,6 +19861,18 @@
         "text": "Do Maranhão 😂",
         "pushName": "Diana Shirley",
         "timestamp": 1789497033650
+      },
+      "AC4C357C9B5E0EAF4FE5CDC159F162EC": {
+        "sender": "187845394358417@lid",
+        "text": "Né",
+        "pushName": "Maurício Manú Telecom",
+        "timestamp": 1789497056478
+      },
+      "ACD9BA96D7914EA449F4BAF0C580978D": {
+        "sender": "36589463965754@lid",
+        "text": "SOU Wilson de são Paulo",
+        "pushName": "WILSON",
+        "timestamp": 1789497070177
       }
     }
   },
@@ -20099,7 +20130,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789497033650
+    "120363412202609595@g.us": 1789497070177
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
