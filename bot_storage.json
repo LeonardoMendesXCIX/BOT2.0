@@ -7477,9 +7477,9 @@
         "total": 3
       },
       "27346140700786": {
-        "text": 58,
-        "media": 12,
-        "total": 70
+        "text": 59,
+        "media": 13,
+        "total": 72
       },
       "137623771312290": {
         "text": 2,
@@ -14737,7 +14737,9 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Aí vai lá e casa com um dorminhoco 😂",
         "Cristian Sntss: @54804520915168",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Boa tarde, meu povo",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: 🙆🏻‍♀️"
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: 🙆🏻‍♀️",
+        "Diana Shirley: 😌",
+        "Diana Shirley: Boa tarde!"
       ]
     }
   },
@@ -14760,12 +14762,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "559991116887",
-        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
-        "text": "Tendi",
-        "timestamp": 1789488303018
-      },
       {
         "authorNum": "93836630077600",
         "authorName": "Fabrício",
@@ -15101,6 +15097,18 @@
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "text": "🙆🏻‍♀️",
         "timestamp": 1789490084370
+      },
+      {
+        "authorNum": "27346140700786",
+        "authorName": "Diana Shirley",
+        "text": "😌",
+        "timestamp": 1789490117731
+      },
+      {
+        "authorNum": "27346140700786",
+        "authorName": "Diana Shirley",
+        "text": "Boa tarde!",
+        "timestamp": 1789490118529
       }
     ]
   },
@@ -15128,7 +15136,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1436
+    "120363412202609595@g.us": 1438
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -18291,6 +18299,18 @@
         "text": "🙆🏻‍♀️",
         "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "timestamp": 1789490084372
+      },
+      "AC33A631FC0B69BEA56573CD4213ED8A": {
+        "sender": "27346140700786@lid",
+        "text": "😌",
+        "pushName": "Diana Shirley",
+        "timestamp": 1789490117732
+      },
+      "AC2F1770537A65D70D423ADA6BDCCE14": {
+        "sender": "27346140700786@lid",
+        "text": "Boa tarde!",
+        "pushName": "Diana Shirley",
+        "timestamp": 1789490118529
       }
     }
   },
@@ -18548,7 +18568,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789490084370
+    "120363412202609595@g.us": 1789490118529
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
