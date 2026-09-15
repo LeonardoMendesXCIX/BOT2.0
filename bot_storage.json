@@ -7432,9 +7432,9 @@
         "total": 23
       },
       "129373172711439": {
-        "text": 178,
-        "media": 59,
-        "total": 237
+        "text": 181,
+        "media": 60,
+        "total": 241
       },
       "15960484393007": {
         "text": 10,
@@ -7497,9 +7497,9 @@
         "total": 6
       },
       "95125053169759": {
-        "text": 25,
+        "text": 26,
         "media": 6,
-        "total": 31
+        "total": 32
       },
       "188373004222609": {
         "text": 2,
@@ -7527,9 +7527,9 @@
         "total": 83
       },
       "559984624669": {
-        "text": 127,
-        "media": 46,
-        "total": 173
+        "text": 128,
+        "media": 47,
+        "total": 175
       },
       "559991116887": {
         "text": 100,
@@ -7688,13 +7688,13 @@
       },
       "36589463965754": {
         "text": 5,
-        "media": 7,
-        "total": 12
+        "media": 9,
+        "total": 14
       },
       "54259127210155": {
-        "text": 1,
-        "media": 0,
-        "total": 1
+        "text": 3,
+        "media": 1,
+        "total": 4
       }
     }
   },
@@ -15026,7 +15026,12 @@
         "Francisco: Boa tarde bem vindo",
         "Francisco: Ne isso",
         "Celiete Souza: Eu tô recusando os árabes",
-        "Celiete Souza: Não aguento mais bloquear essas pragas"
+        "Celiete Souza: Não aguento mais bloquear essas pragas",
+        "LEANDRO M.: Continue, por favor",
+        "Cristian Sntss: Aquele que tava de manhã pediu foto do meu pé",
+        "LEANDRO M.: Não sei de onde tá vindo essas coisas mandadas do além",
+        "Kahrina C: Acredito sim",
+        "Celiete Souza: O carioca me enviou nudes"
       ]
     }
   },
@@ -15186,6 +15191,36 @@
         "authorName": "Celiete Souza",
         "text": "Não aguento mais bloquear essas pragas",
         "timestamp": 1789498184504
+      },
+      {
+        "authorNum": "54259127210155",
+        "authorName": "LEANDRO M.",
+        "text": "Continue, por favor",
+        "timestamp": 1789498186243
+      },
+      {
+        "authorNum": "559984624669",
+        "authorName": "Cristian Sntss",
+        "text": "Aquele que tava de manhã pediu foto do meu pé",
+        "timestamp": 1789498199968
+      },
+      {
+        "authorNum": "54259127210155",
+        "authorName": "LEANDRO M.",
+        "text": "Não sei de onde tá vindo essas coisas mandadas do além",
+        "timestamp": 1789498205961
+      },
+      {
+        "authorNum": "95125053169759",
+        "authorName": "Kahrina C",
+        "text": "Acredito sim",
+        "timestamp": 1789498218733
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "O carioca me enviou nudes",
+        "timestamp": 1789498219627
       }
     ]
   },
@@ -15213,7 +15248,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1695
+    "120363412202609595@g.us": 1700
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -15921,7 +15956,7 @@
       "120363412202609595": 21,
       "187845394358417": 16,
       "36589463965754": 14,
-      "54259127210155": 11
+      "54259127210155": 22
     }
   },
   "coins": {
@@ -16235,7 +16270,7 @@
       "120363412202609595": 4,
       "187845394358417": 2,
       "36589463965754": 1,
-      "54259127210155": 1
+      "54259127210155": 4
     }
   },
   "dailyRewardClaimed": {
@@ -19984,6 +20019,36 @@
         "text": "Não aguento mais bloquear essas pragas",
         "pushName": "Celiete Souza",
         "timestamp": 1789498184505
+      },
+      "AC743C8F5380C9049FA732C7B157B195": {
+        "sender": "54259127210155@lid",
+        "text": "Continue, por favor",
+        "pushName": "LEANDRO M.",
+        "timestamp": 1789498186243
+      },
+      "A5C42209C58C34302136BB128278F199": {
+        "sender": "166452229341300@lid",
+        "text": "Aquele que tava de manhã pediu foto do meu pé",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1789498199968
+      },
+      "AC62C97F0F7EA25C10C1F6E11F8404DC": {
+        "sender": "54259127210155@lid",
+        "text": "Não sei de onde tá vindo essas coisas mandadas do além",
+        "pushName": "LEANDRO M.",
+        "timestamp": 1789498205961
+      },
+      "ACA5836BAB46055DBEC8DFDBC245EE31": {
+        "sender": "95125053169759@lid",
+        "text": "Acredito sim",
+        "pushName": "Kahrina C",
+        "timestamp": 1789498218734
+      },
+      "ACAB2D51D7DDDF90FDD5B9F7406D6D6B": {
+        "sender": "129373172711439@lid",
+        "text": "O carioca me enviou nudes",
+        "pushName": "Celiete Souza",
+        "timestamp": 1789498219627
       }
     }
   },
@@ -20241,7 +20306,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789498184504
+    "120363412202609595@g.us": 1789498224117
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
