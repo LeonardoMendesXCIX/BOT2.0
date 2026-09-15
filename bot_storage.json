@@ -7447,9 +7447,9 @@
         "total": 10
       },
       "140622228942952": {
-        "text": 24,
+        "text": 25,
         "media": 0,
-        "total": 24
+        "total": 25
       },
       "100356960845833": {
         "text": 142,
@@ -7688,8 +7688,8 @@
       },
       "36589463965754": {
         "text": 5,
-        "media": 4,
-        "total": 9
+        "media": 7,
+        "total": 12
       },
       "54259127210155": {
         "text": 1,
@@ -15023,7 +15023,8 @@
         "Francisco: Só entra homem entra mulher não é",
         "WILSON: Boa tarde amigo",
         "LEANDRO M.: É tá difícil",
-        "Francisco: Boa tarde bem vindo"
+        "Francisco: Boa tarde bem vindo",
+        "Francisco: Ne isso"
       ]
     }
   },
@@ -15171,6 +15172,12 @@
         "authorName": "Francisco",
         "text": "Boa tarde bem vindo",
         "timestamp": 1789498077252
+      },
+      {
+        "authorNum": "140622228942952",
+        "authorName": "Francisco",
+        "text": "Ne isso",
+        "timestamp": 1789498116489
       }
     ]
   },
@@ -15198,7 +15205,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1692
+    "120363412202609595@g.us": 1693
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -15584,7 +15591,7 @@
       1789431148985
     ],
     "120363412202609595@g.us": [
-      1789497909013
+      1789498122444
     ]
   },
   "captcha": {},
@@ -17646,6 +17653,11 @@
       {
         "ts": 1789497909013,
         "admin": "175703521767508",
+        "action": "ENTROU no grupo"
+      },
+      {
+        "ts": 1789498122444,
+        "admin": "21101862215695",
         "action": "ENTROU no grupo"
       }
     ]
@@ -19941,6 +19953,12 @@
         "text": "Boa tarde bem vindo",
         "pushName": "Francisco",
         "timestamp": 1789498077252
+      },
+      "ACF69D2471F1D8E1D8501CF56EBBAB48": {
+        "sender": "140622228942952@lid",
+        "text": "Ne isso",
+        "pushName": "Francisco",
+        "timestamp": 1789498116489
       }
     }
   },
@@ -20198,7 +20216,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789498092488
+    "120363412202609595@g.us": 1789498116489
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
