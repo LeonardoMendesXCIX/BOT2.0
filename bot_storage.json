@@ -7528,8 +7528,8 @@
       },
       "559984624669": {
         "text": 140,
-        "media": 53,
-        "total": 193
+        "media": 54,
+        "total": 194
       },
       "559991116887": {
         "text": 115,
@@ -7697,9 +7697,9 @@
         "total": 27
       },
       "50869659811853": {
-        "text": 8,
+        "text": 9,
         "media": 2,
-        "total": 10
+        "total": 11
       }
     }
   },
@@ -15120,7 +15120,8 @@
         "Cristian Sntss: Agora q vi que e água sanitária",
         "Claudio: Boa tarde",
         "Gusta: Gostei do drink",
-        "Gusta: Bom que limpa tudin"
+        "Gusta: Bom que limpa tudin",
+        "Gusta: Deixa tudo transparente kkkkkkk"
       ]
     }
   },
@@ -15640,6 +15641,12 @@
         "authorName": "Gusta",
         "text": "Bom que limpa tudin",
         "timestamp": 1789500054866
+      },
+      {
+        "authorNum": "50869659811853",
+        "authorName": "Gusta",
+        "text": "Deixa tudo transparente kkkkkkk",
+        "timestamp": 1789500061398
       }
     ]
   },
@@ -15667,7 +15674,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1784
+    "120363412202609595@g.us": 1785
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16376,7 +16383,7 @@
       "187845394358417": 16,
       "36589463965754": 14,
       "54259127210155": 69,
-      "50869659811853": 18
+      "50869659811853": 28
     }
   },
   "coins": {
@@ -16691,7 +16698,7 @@
       "187845394358417": 2,
       "36589463965754": 1,
       "54259127210155": 14,
-      "50869659811853": 4
+      "50869659811853": 6
     }
   },
   "dailyRewardClaimed": {
@@ -20989,6 +20996,12 @@
         "text": "Bom que limpa tudin",
         "pushName": "Gusta",
         "timestamp": 1789500054867
+      },
+      "AC390CD179A0ED8398341A33DA34FBFC": {
+        "sender": "50869659811853@lid",
+        "text": "Deixa tudo transparente kkkkkkk",
+        "pushName": "Gusta",
+        "timestamp": 1789500061398
       }
     }
   },
@@ -21246,7 +21259,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789500054866
+    "120363412202609595@g.us": 1789500067405
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
