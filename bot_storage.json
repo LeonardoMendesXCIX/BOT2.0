@@ -7487,9 +7487,9 @@
         "total": 2
       },
       "53537388122141": {
-        "text": 212,
+        "text": 214,
         "media": 22,
-        "total": 234
+        "total": 236
       },
       "122552932372575": {
         "text": 2,
@@ -7532,9 +7532,9 @@
         "total": 163
       },
       "559991116887": {
-        "text": 87,
+        "text": 88,
         "media": 38,
-        "total": 125
+        "total": 126
       },
       "23687415767181": {
         "text": 1,
@@ -7582,9 +7582,9 @@
         "total": 1
       },
       "158381767696617": {
-        "text": 160,
+        "text": 161,
         "media": 5,
-        "total": 165
+        "total": 166
       },
       "237086657491106": {
         "text": 2,
@@ -14923,7 +14923,10 @@
         "Georg Barão ✌🏻😎: Esse Francisco éh mais um daqueles caras que não vou nem falar oh que ele éh kkk",
         "Georg Barão ✌🏻😎: Já dá pra perceber",
         "Francisco: Rapaz",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: @all"
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: @all",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Acertou o ninho\nErrou o passarinho",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Ish",
+        "Georg Barão ✌🏻😎: Caramba 😂😂😂"
       ]
     }
   },
@@ -14946,24 +14949,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "100356960845833",
-        "authorName": "Rodenilson 🤘🏾👀",
-        "text": "Amor próprio a pessoa não tem né \nMas cada cabeça é uma sentença",
-        "timestamp": 1789491915249
-      },
-      {
-        "authorNum": "36215264927990",
-        "authorName": ".",
-        "text": "Viu!!",
-        "timestamp": 1789491926894
-      },
-      {
-        "authorNum": "158381767696617",
-        "authorName": "Georg Barão ✌🏻😎",
-        "text": "👏🏻👏🏻",
-        "timestamp": 1789491929104
-      },
       {
         "authorNum": "559991116887",
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
@@ -15461,6 +15446,24 @@
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "text": "@all",
         "timestamp": 1789493714740
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Acertou o ninho\nErrou o passarinho",
+        "timestamp": 1789493736789
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Ish",
+        "timestamp": 1789493737860
+      },
+      {
+        "authorNum": "158381767696617",
+        "authorName": "Georg Barão ✌🏻😎",
+        "text": "Caramba 😂😂😂",
+        "timestamp": 1789493747411
       }
     ]
   },
@@ -15488,7 +15491,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1612
+    "120363412202609595@g.us": 1615
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16182,7 +16185,7 @@
       "253403338903556": 84,
       "262182034002040": 69,
       "185942488969385": 8,
-      "158381767696617": 595,
+      "158381767696617": 606,
       "237086657491106": 8,
       "72315102593077": 49,
       "255632628252836": 13,
@@ -16493,7 +16496,7 @@
       "253403338903556": 13,
       "262182034002040": 19,
       "185942488969385": 2,
-      "158381767696617": 122,
+      "158381767696617": 125,
       "237086657491106": 2,
       "72315102593077": 8,
       "255632628252836": 5,
@@ -19722,6 +19725,24 @@
         "text": "@all",
         "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "timestamp": 1789493714740
+      },
+      "ACB649BA43C3A2766A30B017B3AAFC9A": {
+        "sender": "53537388122141@lid",
+        "text": "Acertou o ninho\nErrou o passarinho",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1789493736789
+      },
+      "ACC66E1C79544CAD6BBDA164C3F9F013": {
+        "sender": "53537388122141@lid",
+        "text": "Ish",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1789493737860
+      },
+      "AC7A80DB57084EE1AB5A940CA2E8AE0C": {
+        "sender": "158381767696617@lid",
+        "text": "Caramba 😂😂😂",
+        "pushName": "Georg Barão ✌🏻😎",
+        "timestamp": 1789493747411
       }
     }
   },
@@ -19979,7 +20000,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789493714740
+    "120363412202609595@g.us": 1789493747411
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
