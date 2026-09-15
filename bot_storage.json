@@ -7507,9 +7507,9 @@
         "total": 2
       },
       "4342933360709": {
-        "text": 9,
+        "text": 10,
         "media": 1,
-        "total": 10
+        "total": 11
       },
       "274384656834700": {
         "text": 4,
@@ -7602,9 +7602,9 @@
         "total": 4
       },
       "255632628252836": {
-        "text": 10,
+        "text": 15,
         "media": 1,
-        "total": 11
+        "total": 16
       },
       "3766803779717": {
         "text": 1,
@@ -14662,7 +14662,8 @@
         "Leonardo: Sou rio de janeiro",
         "Celiete Souza: Coloca uma foto sua \nIdade \nLocal que mora \nE já fica apresentado aqui 🫶🏻",
         ".: Oxi, tem chatbot no grupo???",
-        "Rodenilson 🤘🏾👀: As mulheres iam gostar do vídeo que eu  postei,mas de boa"
+        "Rodenilson 🤘🏾👀: As mulheres iam gostar do vídeo que eu  postei,mas de boa",
+        "Claudio: Já segui vc la"
       ]
     }
   },
@@ -14931,6 +14932,12 @@
         "authorName": "Rodenilson 🤘🏾👀",
         "text": "As mulheres iam gostar do vídeo que eu  postei,mas de boa",
         "timestamp": 1789487612867
+      },
+      {
+        "authorNum": "4342933360709",
+        "authorName": "Claudio",
+        "text": "Já segui vc la",
+        "timestamp": 1789487736657
       }
     ]
   },
@@ -14958,7 +14965,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1367
+    "120363412202609595@g.us": 1368
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -15642,7 +15649,7 @@
       "95125053169759": 22,
       "100356960845833": 352,
       "128810464874577": 7,
-      "4342933360709": 49,
+      "4342933360709": 57,
       "247020967165997": 405,
       "559984624669": 269,
       "163530946961491": 27,
@@ -15950,7 +15957,7 @@
       "95125053169759": 8,
       "100356960845833": 73,
       "128810464874577": 2,
-      "4342933360709": 12,
+      "4342933360709": 14,
       "247020967165997": 79,
       "559984624669": 49,
       "163530946961491": 6,
@@ -17693,6 +17700,12 @@
         "text": "As mulheres iam gostar do vídeo que eu  postei,mas de boa",
         "pushName": "Rodenilson 🤘🏾👀",
         "timestamp": 1789487612868
+      },
+      "AC310409F07B3C6FD82E6E51D090009D": {
+        "sender": "4342933360709@lid",
+        "text": "Já segui vc la",
+        "pushName": "Claudio",
+        "timestamp": 1789487737441
       }
     }
   },
@@ -17950,7 +17963,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789487612867
+    "120363412202609595@g.us": 1789487736657
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
