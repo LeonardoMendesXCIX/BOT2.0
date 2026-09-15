@@ -7527,9 +7527,9 @@
         "total": 83
       },
       "559984624669": {
-        "text": 140,
+        "text": 141,
         "media": 54,
-        "total": 194
+        "total": 195
       },
       "559991116887": {
         "text": 115,
@@ -15121,7 +15121,8 @@
         "Claudio: Boa tarde",
         "Gusta: Gostei do drink",
         "Gusta: Bom que limpa tudin",
-        "Gusta: Deixa tudo transparente kkkkkkk"
+        "Gusta: Deixa tudo transparente kkkkkkk",
+        "Cristian Sntss: Eu tomei um copo de vinagre uma vez pensando que era água"
       ]
     }
   },
@@ -15144,30 +15145,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Cheguei agora tava na rua",
-        "timestamp": 1789498268518
-      },
-      {
-        "authorNum": "140622228942952",
-        "authorName": "Francisco",
-        "text": "Vai engorda viu",
-        "timestamp": 1789498275985
-      },
-      {
-        "authorNum": "54259127210155",
-        "authorName": "LEANDRO M.",
-        "text": "Tá que pariu...",
-        "timestamp": 1789498289499
-      },
-      {
-        "authorNum": "559991116887",
-        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
-        "text": "Te benze viu",
-        "timestamp": 1789498291009
-      },
       {
         "authorNum": "100356960845833",
         "authorName": "Rodenilson 🤘🏾👀",
@@ -15647,6 +15624,12 @@
         "authorName": "Gusta",
         "text": "Deixa tudo transparente kkkkkkk",
         "timestamp": 1789500061398
+      },
+      {
+        "authorNum": "559984624669",
+        "authorName": "Cristian Sntss",
+        "text": "Eu tomei um copo de vinagre uma vez pensando que era água",
+        "timestamp": 1789500092053
       }
     ]
   },
@@ -15674,7 +15657,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1785
+    "120363412202609595@g.us": 1786
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -21002,6 +20985,12 @@
         "text": "Deixa tudo transparente kkkkkkk",
         "pushName": "Gusta",
         "timestamp": 1789500061398
+      },
+      "A5E2677BC244CF962FAEA8004C8190EA": {
+        "sender": "166452229341300@lid",
+        "text": "Eu tomei um copo de vinagre uma vez pensando que era água",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1789500092053
       }
     }
   },
@@ -21259,7 +21248,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789500067405
+    "120363412202609595@g.us": 1789500092053
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
