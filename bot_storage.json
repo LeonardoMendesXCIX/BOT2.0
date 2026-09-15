@@ -7402,9 +7402,9 @@
         "total": 47
       },
       "183906892533896": {
-        "text": 43,
+        "text": 44,
         "media": 3,
-        "total": 46
+        "total": 47
       },
       "108461127897146": {
         "text": 125,
@@ -7487,9 +7487,9 @@
         "total": 2
       },
       "53537388122141": {
-        "text": 225,
+        "text": 228,
         "media": 23,
-        "total": 248
+        "total": 251
       },
       "122552932372575": {
         "text": 2,
@@ -14996,7 +14996,11 @@
         "Cristian Sntss: Mais tbm quando começa a chover",
         "𝑳𝒂𝒚𝒉🌪🌚: Que comece logo",
         "𝑳𝒂𝒚𝒉🌪🌚: Meu filho n aguenta mais",
-        "Maurício Manú Telecom: Aí está mais fresco ainda kkkk"
+        "Maurício Manú Telecom: Aí está mais fresco ainda kkkk",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Doida pra um verão",
+        "Igor Alexandre: Galera, partiu treino",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Inaugurar biquíni",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: E ir pra praia"
       ]
     }
   },
@@ -15102,6 +15106,30 @@
         "authorName": "Maurício Manú Telecom",
         "text": "Aí está mais fresco ainda kkkk",
         "timestamp": 1789496866212
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Doida pra um verão",
+        "timestamp": 1789496935256
+      },
+      {
+        "authorNum": "183906892533896",
+        "authorName": "Igor Alexandre",
+        "text": "Galera, partiu treino",
+        "timestamp": 1789496940935
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Inaugurar biquíni",
+        "timestamp": 1789496942144
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "E ir pra praia",
+        "timestamp": 1789496946930
       }
     ]
   },
@@ -15129,7 +15157,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1675
+    "120363412202609595@g.us": 1679
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -15515,7 +15543,7 @@
       1789431148985
     ],
     "120363412202609595@g.us": [
-      1789495478565
+      1789496942346
     ]
   },
   "captcha": {},
@@ -15808,7 +15836,7 @@
       "69539832270873": 6,
       "27346140700786": 207,
       "137623771312290": 12,
-      "53537388122141": 663,
+      "53537388122141": 677,
       "95125053169759": 41,
       "100356960845833": 449,
       "128810464874577": 13,
@@ -16120,7 +16148,7 @@
       "69539832270873": 1,
       "27346140700786": 44,
       "137623771312290": 3,
-      "53537388122141": 142,
+      "53537388122141": 145,
       "95125053169759": 12,
       "100356960845833": 94,
       "128810464874577": 3,
@@ -17553,6 +17581,11 @@
       {
         "ts": 1789495478565,
         "admin": "157990959186122",
+        "action": "ENTROU no grupo"
+      },
+      {
+        "ts": 1789496942346,
+        "admin": "36589463965754",
         "action": "ENTROU no grupo"
       }
     ]
@@ -19746,6 +19779,30 @@
         "text": "Aí está mais fresco ainda kkkk",
         "pushName": "Maurício Manú Telecom",
         "timestamp": 1789496866212
+      },
+      "AC0E8C536D7B0D724879F0868A70DD2A": {
+        "sender": "53537388122141@lid",
+        "text": "Doida pra um verão",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1789496935256
+      },
+      "AC28E7A4AA52C04049E15A88E7D1B1FD": {
+        "sender": "183906892533896@lid",
+        "text": "Galera, partiu treino",
+        "pushName": "Igor Alexandre",
+        "timestamp": 1789496940935
+      },
+      "AC47E3B9E9B106CA346279D75537E043": {
+        "sender": "53537388122141@lid",
+        "text": "Inaugurar biquíni",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1789496942144
+      },
+      "ACA0F8699BDCBFA9947082BD6897B9B7": {
+        "sender": "53537388122141@lid",
+        "text": "E ir pra praia",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1789496946930
       }
     }
   },
@@ -20003,7 +20060,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789496866212
+    "120363412202609595@g.us": 1789496946930
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
