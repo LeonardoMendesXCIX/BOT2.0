@@ -7432,9 +7432,9 @@
         "total": 23
       },
       "129373172711439": {
-        "text": 217,
+        "text": 218,
         "media": 65,
-        "total": 282
+        "total": 283
       },
       "15960484393007": {
         "text": 10,
@@ -7627,9 +7627,9 @@
         "total": 1
       },
       "171086465478763": {
-        "text": 8,
+        "text": 9,
         "media": 6,
-        "total": 14
+        "total": 15
       },
       "126929839591449": {
         "text": 3,
@@ -14655,8 +14655,6 @@
         "Camila Designer: Só clicar e entrar"
       ],
       "15/09/2026": [
-        "Fabrício: Hj foi assim",
-        "Fabrício: Ah sim bacana",
         "Cristian Sntss: Aqui no Maranhão o sol e protagonista",
         "Fabrício: São Paulo tem costume d ser mais frio né?",
         "Kahrina C: Vcs são muito exibidos",
@@ -15154,7 +15152,9 @@
         "Cristian Sntss: @all",
         "LEANDRO M.: Super choque",
         "Wellington: Super choque easy",
-        "Marcus Vieira: Muito obrigado vizinha kkk"
+        "Marcus Vieira: Muito obrigado vizinha kkk",
+        "Marcus Vieira: Só por chegar em casa tomar uma verdinha kkkk",
+        "Celiete Souza: Gente sem opção não sou dessa era 🤣"
       ]
     }
   },
@@ -15824,6 +15824,18 @@
         "authorName": "Marcus Vieira",
         "text": "Muito obrigado vizinha kkk",
         "timestamp": 1789501782389
+      },
+      {
+        "authorNum": "171086465478763",
+        "authorName": "Marcus Vieira",
+        "text": "Só por chegar em casa tomar uma verdinha kkkk",
+        "timestamp": 1789501799382
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Gente sem opção não sou dessa era 🤣",
+        "timestamp": 1789501810608
       }
     ]
   },
@@ -15851,7 +15863,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1890
+    "120363412202609595@g.us": 1892
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -21814,6 +21826,18 @@
         "text": "Muito obrigado vizinha kkk",
         "pushName": "Marcus Vieira",
         "timestamp": 1789501782389
+      },
+      "3ADCD0ABFAAC69D77DE8": {
+        "sender": "171086465478763@lid",
+        "text": "Só por chegar em casa tomar uma verdinha kkkk",
+        "pushName": "Marcus Vieira",
+        "timestamp": 1789501799382
+      },
+      "ACB6EDB46608B86D2E3DC3C38D682440": {
+        "sender": "129373172711439@lid",
+        "text": "Gente sem opção não sou dessa era 🤣",
+        "pushName": "Celiete Souza",
+        "timestamp": 1789501810608
       }
     }
   },
@@ -22071,7 +22095,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789501782389
+    "120363412202609595@g.us": 1789501810608
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
