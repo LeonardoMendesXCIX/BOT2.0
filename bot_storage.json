@@ -7392,9 +7392,9 @@
         "total": 29
       },
       "93836630077600": {
-        "text": 44,
+        "text": 45,
         "media": 1,
-        "total": 45
+        "total": 46
       },
       "81991328395336": {
         "text": 32,
@@ -7527,9 +7527,9 @@
         "total": 83
       },
       "559984624669": {
-        "text": 163,
+        "text": 164,
         "media": 56,
-        "total": 219
+        "total": 220
       },
       "559991116887": {
         "text": 143,
@@ -14655,8 +14655,6 @@
         "Camila Designer: Só clicar e entrar"
       ],
       "15/09/2026": [
-        "Georg Barão ✌🏻😎: 👏🏻👏🏻",
-        "Georg Barão ✌🏻😎: Acordei pra tomar água kkk",
         "Cristian Sntss: Rpz eu não consigo durmi muito n",
         "𝑳𝒂𝒚𝒉🌪🌚: Eu n consigo e tenho ódio de quem dormi demais",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Aí vai lá e casa com um dorminhoco 😂",
@@ -15154,7 +15152,9 @@
         "𝑳𝒂𝒚𝒉🌪🌚: Tinha um desenho dos ratinho que passava no SBT",
         "Cristian Sntss: Esse não era da minha época",
         "Wellington: É hora de dar tchau kkk",
-        "Diana Shirley: Tom e Jerry?"
+        "Diana Shirley: Tom e Jerry?",
+        "Cristian Sntss: Eu gostava",
+        "Fabrício: Família camondongo kkkk"
       ]
     }
   },
@@ -15722,6 +15722,18 @@
         "authorName": "Diana Shirley",
         "text": "Tom e Jerry?",
         "timestamp": 1789502438358
+      },
+      {
+        "authorNum": "559984624669",
+        "authorName": "Cristian Sntss",
+        "text": "Eu gostava",
+        "timestamp": 1789502478518
+      },
+      {
+        "authorNum": "93836630077600",
+        "authorName": "Fabrício",
+        "text": "Família camondongo kkkk",
+        "timestamp": 1789502481397
       }
     ]
   },
@@ -15749,7 +15761,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1928
+    "120363412202609595@g.us": 1930
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16414,7 +16426,7 @@
     },
     "120363412202609595@g.us": {
       "5511927018683": 100,
-      "93836630077600": 98,
+      "93836630077600": 109,
       "183906892533896": 67,
       "92629643563147": 315,
       "81991328395336": 99,
@@ -16729,7 +16741,7 @@
     },
     "120363412202609595@g.us": {
       "5511927018683": 20,
-      "93836630077600": 24,
+      "93836630077600": 27,
       "183906892533896": 16,
       "92629643563147": 70,
       "81991328395336": 20,
@@ -21940,6 +21952,18 @@
         "text": "Tom e Jerry?",
         "pushName": "Diana Shirley",
         "timestamp": 1789502438358
+      },
+      "A5555746B50AC9BF0B2A4D9EFB0E4A4C": {
+        "sender": "166452229341300@lid",
+        "text": "Eu gostava",
+        "pushName": "Cristian Sntss",
+        "timestamp": 1789502478519
+      },
+      "AC1D1579ED8C2E48DEB6F24FF463A937": {
+        "sender": "93836630077600@lid",
+        "text": "Família camondongo kkkk",
+        "pushName": "Fabrício",
+        "timestamp": 1789502481397
       }
     }
   },
@@ -22197,7 +22221,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789502457791
+    "120363412202609595@g.us": 1789502481397
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
