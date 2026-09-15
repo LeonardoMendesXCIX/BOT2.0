@@ -7372,9 +7372,9 @@
     },
     "120363412202609595@g.us": {
       "92629643563147": {
-        "text": 92,
-        "media": 33,
-        "total": 125
+        "text": 93,
+        "media": 34,
+        "total": 127
       },
       "182738040713418": {
         "text": 99,
@@ -7432,9 +7432,9 @@
         "total": 22
       },
       "129373172711439": {
-        "text": 154,
-        "media": 52,
-        "total": 206
+        "text": 155,
+        "media": 53,
+        "total": 208
       },
       "15960484393007": {
         "text": 10,
@@ -7582,9 +7582,9 @@
         "total": 1
       },
       "158381767696617": {
-        "text": 129,
+        "text": 131,
         "media": 5,
-        "total": 134
+        "total": 136
       },
       "237086657491106": {
         "text": 2,
@@ -14791,7 +14791,11 @@
         "Rodenilson 🤘🏾👀: Kkkk,pior que sabe,tem os mestres",
         "Celiete Souza: Experiência viva aqui 🤦🏼‍♀️\nEu via isso kkkk",
         "Celiete Souza: Eu ainda dizia, da próxima vez disfarçar só um pouquinho 😂",
-        "Camila Designer: Homem é igual melancia 🍉"
+        "Camila Designer: Homem é igual melancia 🍉",
+        "Celiete Souza: Pra não ficar tão feio",
+        "Georg Barão ✌🏻😎: Pq?kkk",
+        "Camila Designer: Semente pra caramba!",
+        "Georg Barão ✌🏻😎: Rapaz kkk"
       ]
     }
   },
@@ -15179,6 +15183,30 @@
         "authorName": "Camila Designer",
         "text": "Homem é igual melancia 🍉",
         "timestamp": 1789491252453
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Pra não ficar tão feio",
+        "timestamp": 1789491261529
+      },
+      {
+        "authorNum": "158381767696617",
+        "authorName": "Georg Barão ✌🏻😎",
+        "text": "Pq?kkk",
+        "timestamp": 1789491266935
+      },
+      {
+        "authorNum": "92629643563147",
+        "authorName": "Camila Designer",
+        "text": "Semente pra caramba!",
+        "timestamp": 1789491268111
+      },
+      {
+        "authorNum": "158381767696617",
+        "authorName": "Georg Barão ✌🏻😎",
+        "text": "Rapaz kkk",
+        "timestamp": 1789491273518
       }
     ]
   },
@@ -15206,7 +15234,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1485
+    "120363412202609595@g.us": 1489
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -15900,7 +15928,7 @@
       "253403338903556": 84,
       "262182034002040": 69,
       "185942488969385": 8,
-      "158381767696617": 476,
+      "158381767696617": 500,
       "237086657491106": 8,
       "72315102593077": 49,
       "255632628252836": 13,
@@ -16211,7 +16239,7 @@
       "253403338903556": 13,
       "262182034002040": 19,
       "185942488969385": 2,
-      "158381767696617": 98,
+      "158381767696617": 102,
       "237086657491106": 2,
       "72315102593077": 8,
       "255632628252836": 5,
@@ -18663,6 +18691,30 @@
         "text": "Homem é igual melancia 🍉",
         "pushName": "Camila Designer",
         "timestamp": 1789491252453
+      },
+      "AC171825941ECC5A91500B57FE0BBB6F": {
+        "sender": "129373172711439@lid",
+        "text": "Pra não ficar tão feio",
+        "pushName": "Celiete Souza",
+        "timestamp": 1789491261529
+      },
+      "ACCE029C7FFB9FD979B27FBCC27C5FB7": {
+        "sender": "158381767696617@lid",
+        "text": "Pq?kkk",
+        "pushName": "Georg Barão ✌🏻😎",
+        "timestamp": 1789491266935
+      },
+      "2A6415BCFD3BC16AF356": {
+        "sender": "92629643563147@lid",
+        "text": "Semente pra caramba!",
+        "pushName": "Camila Designer",
+        "timestamp": 1789491268111
+      },
+      "ACC17753CBBBBA5D3788F6B102078CAF": {
+        "sender": "158381767696617@lid",
+        "text": "Rapaz kkk",
+        "pushName": "Georg Barão ✌🏻😎",
+        "timestamp": 1789491273518
       }
     }
   },
@@ -18920,7 +18972,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789491252453
+    "120363412202609595@g.us": 1789491274660
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
