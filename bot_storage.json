@@ -7487,9 +7487,9 @@
         "total": 2
       },
       "53537388122141": {
-        "text": 246,
+        "text": 247,
         "media": 23,
-        "total": 269
+        "total": 270
       },
       "122552932372575": {
         "text": 2,
@@ -14655,7 +14655,6 @@
         "Camila Designer: Só clicar e entrar"
       ],
       "15/09/2026": [
-        "𝑳𝒂𝒚𝒉🌪🌚: Tendi",
         "Fabrício: Tudo certo",
         "𝑳𝒂𝒚𝒉🌪🌚: Tudo",
         "𝑳𝒂𝒚𝒉🌪🌚: Só o calor q tá matando",
@@ -15154,7 +15153,8 @@
         "Claudio: Gostei do nome e sobrenome",
         "Wellington: É nada que a bff da @81991328395336 tava aqui",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Atacante",
-        "Wellington: Atacante o menino"
+        "Wellington: Atacante o menino",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Puts, é foda"
       ]
     }
   },
@@ -15177,12 +15177,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "559991116887",
-        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
-        "text": "Isso explica muita coisa",
-        "timestamp": 1789499497457
-      },
       {
         "authorNum": "92629643563147",
         "authorName": "Camila Designer",
@@ -15782,6 +15776,12 @@
         "authorName": "Wellington",
         "text": "Atacante o menino",
         "timestamp": 1789501294187
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Puts, é foda",
+        "timestamp": 1789501329046
       }
     ]
   },
@@ -15809,7 +15809,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1879
+    "120363412202609595@g.us": 1880
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -21706,6 +21706,12 @@
         "text": "Atacante o menino",
         "pushName": "Wellington",
         "timestamp": 1789501294187
+      },
+      "AC8BA9D4D18AD251F5E7B20F88BB872C": {
+        "sender": "53537388122141@lid",
+        "text": "Puts, é foda",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1789501329046
       }
     }
   },
@@ -21963,7 +21969,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789501294187
+    "120363412202609595@g.us": 1789501329046
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
