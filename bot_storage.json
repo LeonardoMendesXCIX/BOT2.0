@@ -7477,9 +7477,9 @@
         "total": 3
       },
       "27346140700786": {
-        "text": 53,
+        "text": 54,
         "media": 11,
-        "total": 64
+        "total": 65
       },
       "137623771312290": {
         "text": 2,
@@ -14714,7 +14714,8 @@
         "Cristian Sntss: Vc vem branco por Maranhão",
         "Diana Shirley: Sim",
         "Cristian Sntss: Em dia muda de cor",
-        "Marcus Vieira: Época de frio é essa kkkk"
+        "Marcus Vieira: Época de frio é essa kkkk",
+        "Diana Shirley: Aí não, vou congelar"
       ]
     }
   },
@@ -14744,18 +14745,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "158381767696617",
-        "authorName": "Georg Barão ✌🏻😎",
-        "text": "Eu tiro um dia ou dois na semana pra dormir, descansar",
-        "timestamp": 1789487258769
-      },
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Sim teus horários são diferenciados eu entendo",
-        "timestamp": 1789487271975
-      },
       {
         "authorNum": "158381767696617",
         "authorName": "Georg Barão ✌🏻😎",
@@ -15115,6 +15104,12 @@
         "authorName": "Marcus Vieira",
         "text": "Época de frio é essa kkkk",
         "timestamp": 1789489043629
+      },
+      {
+        "authorNum": "27346140700786",
+        "authorName": "Diana Shirley",
+        "text": "Aí não, vou congelar",
+        "timestamp": 1789489111846
       }
     ]
   },
@@ -15142,7 +15137,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1419
+    "120363412202609595@g.us": 1420
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -15820,7 +15815,7 @@
       "140622228942952": 42,
       "108461127897146": 331,
       "69539832270873": 6,
-      "27346140700786": 167,
+      "27346140700786": 172,
       "137623771312290": 12,
       "53537388122141": 607,
       "95125053169759": 41,
@@ -16129,7 +16124,7 @@
       "140622228942952": 7,
       "108461127897146": 71,
       "69539832270873": 1,
-      "27346140700786": 38,
+      "27346140700786": 39,
       "137623771312290": 3,
       "53537388122141": 127,
       "95125053169759": 12,
@@ -18191,6 +18186,12 @@
         "text": "Época de frio é essa kkkk",
         "pushName": "Marcus Vieira",
         "timestamp": 1789489043629
+      },
+      "AC4B4FCB83082B93BE3B44F050FA73B1": {
+        "sender": "27346140700786@lid",
+        "text": "Aí não, vou congelar",
+        "pushName": "Diana Shirley",
+        "timestamp": 1789489111846
       }
     }
   },
@@ -18448,7 +18449,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789489104419
+    "120363412202609595@g.us": 1789489111846
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
