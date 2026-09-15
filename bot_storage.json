@@ -7452,9 +7452,9 @@
         "total": 22
       },
       "100356960845833": {
-        "text": 138,
+        "text": 139,
         "media": 15,
-        "total": 153
+        "total": 154
       },
       "118528279593092": {
         "text": 1,
@@ -7662,9 +7662,9 @@
         "total": 9
       },
       "133934344065150": {
-        "text": 6,
+        "text": 7,
         "media": 0,
-        "total": 6
+        "total": 7
       },
       "234368463306803": {
         "text": 1,
@@ -14970,7 +14970,8 @@
         "jaciara: Maranhão",
         "Gilvanda Costa: Aí é complicado.",
         "jaciara: É que estou passando alguns meses no Maranhão",
-        "Maurício Manú Telecom: A sim tendi"
+        "Maurício Manú Telecom: A sim tendi",
+        "Rodenilson 🤘🏾👀: Tem coisas que nem da pra comentar"
       ]
     }
   },
@@ -15460,6 +15461,12 @@
         "authorName": "Maurício Manú Telecom",
         "text": "A sim tendi",
         "timestamp": 1789494625651
+      },
+      {
+        "authorNum": "100356960845833",
+        "authorName": "Rodenilson 🤘🏾👀",
+        "text": "Tem coisas que nem da pra comentar",
+        "timestamp": 1789494662707
       }
     ]
   },
@@ -15487,7 +15494,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1654
+    "120363412202609595@g.us": 1655
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -19971,6 +19978,12 @@
         "text": "A sim tendi",
         "pushName": "Maurício Manú Telecom",
         "timestamp": 1789494625651
+      },
+      "AC53412C52DFF6F8E4754EE4520D06E3": {
+        "sender": "100356960845833@lid",
+        "text": "Tem coisas que nem da pra comentar",
+        "pushName": "Rodenilson 🤘🏾👀",
+        "timestamp": 1789494662707
       }
     }
   },
@@ -20228,7 +20241,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789494625651
+    "120363412202609595@g.us": 1789494662707
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
