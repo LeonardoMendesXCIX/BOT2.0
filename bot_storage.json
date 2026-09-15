@@ -7532,9 +7532,9 @@
         "total": 163
       },
       "559991116887": {
-        "text": 85,
+        "text": 87,
         "media": 38,
-        "total": 123
+        "total": 125
       },
       "23687415767181": {
         "text": 1,
@@ -7582,9 +7582,9 @@
         "total": 1
       },
       "158381767696617": {
-        "text": 158,
+        "text": 160,
         "media": 5,
-        "total": 163
+        "total": 165
       },
       "237086657491106": {
         "text": 2,
@@ -14918,7 +14918,10 @@
         "Francisco: Aí ai",
         "Georg Barão ✌🏻😎: Isso não éh hora de cabaré não kkk",
         "Francisco: I tem hora pá cabaré toda hora e hora k",
-        "𝑳𝒂𝒚𝒉🌪🌚: Kkkk"
+        "𝑳𝒂𝒚𝒉🌪🌚: Kkkk",
+        "𝑳𝒂𝒚𝒉🌪🌚: @54804520915168",
+        "Georg Barão ✌🏻😎: Esse Francisco éh mais um daqueles caras que não vou nem falar oh que ele éh kkk",
+        "Georg Barão ✌🏻😎: Já dá pra perceber"
       ]
     }
   },
@@ -14941,12 +14944,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "158381767696617",
-        "authorName": "Georg Barão ✌🏻😎",
-        "text": "Simples frase que éh muito verdadeira kkk",
-        "timestamp": 1789491870371
-      },
       {
         "authorNum": "108461127897146",
         "authorName": "jaciara",
@@ -15444,6 +15441,24 @@
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
         "text": "Kkkk",
         "timestamp": 1789493665432
+      },
+      {
+        "authorNum": "559991116887",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "@54804520915168",
+        "timestamp": 1789493677362
+      },
+      {
+        "authorNum": "158381767696617",
+        "authorName": "Georg Barão ✌🏻😎",
+        "text": "Esse Francisco éh mais um daqueles caras que não vou nem falar oh que ele éh kkk",
+        "timestamp": 1789493685026
+      },
+      {
+        "authorNum": "158381767696617",
+        "authorName": "Georg Barão ✌🏻😎",
+        "text": "Já dá pra perceber",
+        "timestamp": 1789493689815
       }
     ]
   },
@@ -15471,7 +15486,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1607
+    "120363412202609595@g.us": 1610
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16165,7 +16180,7 @@
       "253403338903556": 84,
       "262182034002040": 69,
       "185942488969385": 8,
-      "158381767696617": 585,
+      "158381767696617": 595,
       "237086657491106": 8,
       "72315102593077": 49,
       "255632628252836": 13,
@@ -16476,7 +16491,7 @@
       "253403338903556": 13,
       "262182034002040": 19,
       "185942488969385": 2,
-      "158381767696617": 119,
+      "158381767696617": 122,
       "237086657491106": 2,
       "72315102593077": 8,
       "255632628252836": 5,
@@ -19675,6 +19690,24 @@
         "text": "Kkkk",
         "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
         "timestamp": 1789493665432
+      },
+      "ACFFC9C655770F0D13622A7A89974508": {
+        "sender": "81991328395336@lid",
+        "text": "@54804520915168",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1789493677363
+      },
+      "AC21A4FCB3B046C551F0F536C1067E0C": {
+        "sender": "158381767696617@lid",
+        "text": "Esse Francisco éh mais um daqueles caras que não vou nem falar oh que ele éh kkk",
+        "pushName": "Georg Barão ✌🏻😎",
+        "timestamp": 1789493685026
+      },
+      "AC3E1896CB904AE9FC27B933BF2BA4B1": {
+        "sender": "158381767696617@lid",
+        "text": "Já dá pra perceber",
+        "pushName": "Georg Barão ✌🏻😎",
+        "timestamp": 1789493689815
       }
     }
   },
@@ -19932,7 +19965,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789493665432
+    "120363412202609595@g.us": 1789493692440
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
