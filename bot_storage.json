@@ -7487,9 +7487,9 @@
         "total": 2
       },
       "53537388122141": {
-        "text": 247,
+        "text": 248,
         "media": 23,
-        "total": 270
+        "total": 271
       },
       "122552932372575": {
         "text": 2,
@@ -7532,9 +7532,9 @@
         "total": 209
       },
       "559991116887": {
-        "text": 132,
+        "text": 133,
         "media": 54,
-        "total": 186
+        "total": 187
       },
       "23687415767181": {
         "text": 1,
@@ -14655,7 +14655,6 @@
         "Camila Designer: Só clicar e entrar"
       ],
       "15/09/2026": [
-        "Fabrício: Tudo certo",
         "𝑳𝒂𝒚𝒉🌪🌚: Tudo",
         "𝑳𝒂𝒚𝒉🌪🌚: Só o calor q tá matando",
         "Rodenilson 🤘🏾👀: E por aqui frio",
@@ -15154,7 +15153,8 @@
         "Wellington: É nada que a bff da @81991328395336 tava aqui",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Atacante",
         "Wellington: Atacante o menino",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Puts, é foda"
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Puts, é foda",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: É bom, pessoal"
       ]
     }
   },
@@ -15782,6 +15782,12 @@
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "text": "Puts, é foda",
         "timestamp": 1789501329046
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "É bom, pessoal",
+        "timestamp": 1789501352871
       }
     ]
   },
@@ -15809,7 +15815,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1880
+    "120363412202609595@g.us": 1881
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -21712,6 +21718,12 @@
         "text": "Puts, é foda",
         "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "timestamp": 1789501329046
+      },
+      "AC3A8079611FB77C21A64CFE2096B91A": {
+        "sender": "53537388122141@lid",
+        "text": "É bom, pessoal",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1789501352871
       }
     }
   },
@@ -21969,7 +21981,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789501329046
+    "120363412202609595@g.us": 1789501356283
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
