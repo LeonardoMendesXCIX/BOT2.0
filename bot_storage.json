@@ -7377,9 +7377,9 @@
         "total": 145
       },
       "182738040713418": {
-        "text": 108,
+        "text": 110,
         "media": 38,
-        "total": 146
+        "total": 148
       },
       "247020967165997": {
         "text": 134,
@@ -14655,8 +14655,6 @@
         "Camila Designer: Só clicar e entrar"
       ],
       "15/09/2026": [
-        ".: Oxi, tem chatbot no grupo???",
-        "Rodenilson 🤘🏾👀: As mulheres iam gostar do vídeo que eu  postei,mas de boa",
         "Claudio: Já segui vc la",
         "Diana Shirley: Gosto",
         ".: Justificando a ausência de foto do meu perfil, conforme a regra 4.\n  Aqui no meu estado foi submetido à uma eleição suplementar, e durante o período eleitoral fomos submetido a obrigatóridade da foto ",
@@ -15154,7 +15152,9 @@
         "Cristian Sntss: Jaciara",
         "Wellington: Isso já tô fazendo kkkk",
         "jaciara: Pode  ser 🥰🫣",
-        "Diana Shirley: @182738040713418 achou a chave da sua moto?"
+        "Diana Shirley: @182738040713418 achou a chave da sua moto?",
+        "Wellington: Achei nada kkk",
+        "Wellington: É Valentina por favor"
       ]
     }
   },
@@ -15722,6 +15722,18 @@
         "authorName": "Diana Shirley",
         "text": "@182738040713418 achou a chave da sua moto?",
         "timestamp": 1789501081105
+      },
+      {
+        "authorNum": "182738040713418",
+        "authorName": "Wellington",
+        "text": "Achei nada kkk",
+        "timestamp": 1789501107914
+      },
+      {
+        "authorNum": "182738040713418",
+        "authorName": "Wellington",
+        "text": "É Valentina por favor",
+        "timestamp": 1789501121679
       }
     ]
   },
@@ -15749,7 +15761,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1865
+    "120363412202609595@g.us": 1867
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -21562,6 +21574,18 @@
         "text": "@182738040713418 achou a chave da sua moto?",
         "pushName": "Diana Shirley",
         "timestamp": 1789501081105
+      },
+      "ACF96841C9B9BD48A704BFDE048E669A": {
+        "sender": "182738040713418@lid",
+        "text": "Achei nada kkk",
+        "pushName": "Wellington",
+        "timestamp": 1789501107914
+      },
+      "ACF7B5E96AEB3486C5445796E8A83ED1": {
+        "sender": "182738040713418@lid",
+        "text": "É Valentina por favor",
+        "pushName": "Wellington",
+        "timestamp": 1789501121680
       }
     }
   },
@@ -21819,7 +21843,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789501085889
+    "120363412202609595@g.us": 1789501121679
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
