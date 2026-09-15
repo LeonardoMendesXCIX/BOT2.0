@@ -7487,9 +7487,9 @@
         "total": 2
       },
       "53537388122141": {
-        "text": 240,
+        "text": 241,
         "media": 23,
-        "total": 263
+        "total": 264
       },
       "122552932372575": {
         "text": 2,
@@ -7532,9 +7532,9 @@
         "total": 187
       },
       "559991116887": {
-        "text": 111,
-        "media": 45,
-        "total": 156
+        "text": 112,
+        "media": 46,
+        "total": 158
       },
       "23687415767181": {
         "text": 1,
@@ -15108,7 +15108,9 @@
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Aqui todos se apresentaram novamente kkk",
         "Cristian Sntss: Suspeito",
         "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Oxi",
-        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: A pronto"
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: A pronto",
+        "Sabrina R. Bartolucci ✨🙆🏻‍♀️: Se ofendeu pq pedi apresentação do cidadão",
+        "𝑳𝒂𝒚𝒉🌪🌚: Não lembro dele nem no outro"
       ]
     }
   },
@@ -15646,6 +15648,18 @@
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "text": "A pronto",
         "timestamp": 1789499249578
+      },
+      {
+        "authorNum": "53537388122141",
+        "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "text": "Se ofendeu pq pedi apresentação do cidadão",
+        "timestamp": 1789499256721
+      },
+      {
+        "authorNum": "559991116887",
+        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "text": "Não lembro dele nem no outro",
+        "timestamp": 1789499280533
       }
     ]
   },
@@ -15673,7 +15687,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1772
+    "120363412202609595@g.us": 1774
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16360,7 +16374,7 @@
       "247020967165997": 405,
       "559984624669": 396,
       "163530946961491": 35,
-      "559991116887": 341,
+      "559991116887": 355,
       "164398513573978": 13,
       "102109089378363": 253,
       "253403338903556": 84,
@@ -16675,7 +16689,7 @@
       "247020967165997": 79,
       "559984624669": 77,
       "163530946961491": 8,
-      "559991116887": 75,
+      "559991116887": 78,
       "164398513573978": 2,
       "102109089378363": 50,
       "253403338903556": 13,
@@ -20918,6 +20932,18 @@
         "text": "A pronto",
         "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
         "timestamp": 1789499249579
+      },
+      "AC6636D2EEEE1FB7A888EEEB28EBC4CB": {
+        "sender": "53537388122141@lid",
+        "text": "Se ofendeu pq pedi apresentação do cidadão",
+        "pushName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
+        "timestamp": 1789499256721
+      },
+      "AC89FBA7BC9B1C33036378A84F0EFC83": {
+        "sender": "81991328395336@lid",
+        "text": "Não lembro dele nem no outro",
+        "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
+        "timestamp": 1789499280533
       }
     }
   },
@@ -21175,7 +21201,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789499249578
+    "120363412202609595@g.us": 1789499280533
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
