@@ -7432,9 +7432,9 @@
         "total": 18
       },
       "129373172711439": {
-        "text": 131,
+        "text": 132,
         "media": 44,
-        "total": 175
+        "total": 176
       },
       "15960484393007": {
         "text": 10,
@@ -14648,7 +14648,8 @@
         "Georg Barão ✌🏻😎: Oh seu éh de 2 horas kkk",
         "Celiete Souza: Ah tarde nunca durmo",
         "Georg Barão ✌🏻😎: Eu tenho que acordar na melhor hora que tem pra dormir kkk",
-        "Georg Barão ✌🏻😎: Eu tiro um dia ou dois na semana pra dormir, descansar"
+        "Georg Barão ✌🏻😎: Eu tiro um dia ou dois na semana pra dormir, descansar",
+        "Celiete Souza: Sim teus horários são diferenciados eu entendo"
       ]
     }
   },
@@ -14863,6 +14864,12 @@
         "authorName": "Georg Barão ✌🏻😎",
         "text": "Eu tiro um dia ou dois na semana pra dormir, descansar",
         "timestamp": 1789487258769
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Sim teus horários são diferenciados eu entendo",
+        "timestamp": 1789487271975
       }
     ]
   },
@@ -14890,7 +14897,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1358
+    "120363412202609595@g.us": 1359
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -15564,7 +15571,7 @@
       "166452229341300": 63,
       "182738040713418": 217,
       "105136689029122": 37,
-      "129373172711439": 263,
+      "129373172711439": 274,
       "140622228942952": 42,
       "108461127897146": 294,
       "69539832270873": 6,
@@ -15872,7 +15879,7 @@
       "166452229341300": 12,
       "182738040713418": 48,
       "105136689029122": 9,
-      "129373172711439": 56,
+      "129373172711439": 57,
       "140622228942952": 7,
       "108461127897146": 66,
       "69539832270873": 1,
@@ -17571,6 +17578,12 @@
         "text": "Eu tiro um dia ou dois na semana pra dormir, descansar",
         "pushName": "Georg Barão ✌🏻😎",
         "timestamp": 1789487258769
+      },
+      "AC7B44F38F4341AC7429244ABB7C3761": {
+        "sender": "129373172711439@lid",
+        "text": "Sim teus horários são diferenciados eu entendo",
+        "pushName": "Celiete Souza",
+        "timestamp": 1789487271975
       }
     }
   },
@@ -17828,7 +17841,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789487258769
+    "120363412202609595@g.us": 1789487271975
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
