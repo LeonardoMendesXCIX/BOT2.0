@@ -7432,9 +7432,9 @@
         "total": 23
       },
       "129373172711439": {
-        "text": 195,
+        "text": 196,
         "media": 62,
-        "total": 257
+        "total": 258
       },
       "15960484393007": {
         "text": 10,
@@ -7697,9 +7697,9 @@
         "total": 27
       },
       "50869659811853": {
-        "text": 9,
+        "text": 10,
         "media": 2,
-        "total": 11
+        "total": 12
       }
     }
   },
@@ -15123,7 +15123,9 @@
         "Gusta: Bom que limpa tudin",
         "Gusta: Deixa tudo transparente kkkkkkk",
         "Cristian Sntss: Eu tomei um copo de vinagre uma vez pensando que era água",
-        "𝑳𝒂𝒚𝒉🌪🌚: Então"
+        "𝑳𝒂𝒚𝒉🌪🌚: Então",
+        "Celiete Souza: Tu tomou o copo todo?",
+        "Gusta: Virou igual um shot"
       ]
     }
   },
@@ -15146,18 +15148,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "559991116887",
-        "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
-        "text": "Essa e a nova",
-        "timestamp": 1789498390267
-      },
-      {
-        "authorNum": "129373172711439",
-        "authorName": "Celiete Souza",
-        "text": "Sério? Eu tenho se não tomar kkkkkk",
-        "timestamp": 1789498401542
-      },
       {
         "authorNum": "559984624669",
         "authorName": "Cristian Sntss",
@@ -15565,6 +15555,18 @@
         "authorName": "𝑳𝒂𝒚𝒉🌪🌚",
         "text": "Então",
         "timestamp": 1789500186052
+      },
+      {
+        "authorNum": "129373172711439",
+        "authorName": "Celiete Souza",
+        "text": "Tu tomou o copo todo?",
+        "timestamp": 1789500198289
+      },
+      {
+        "authorNum": "50869659811853",
+        "authorName": "Gusta",
+        "text": "Virou igual um shot",
+        "timestamp": 1789500210975
       }
     ]
   },
@@ -15592,7 +15594,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1787
+    "120363412202609595@g.us": 1789
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -20932,6 +20934,18 @@
         "text": "Então",
         "pushName": "𝑳𝒂𝒚𝒉🌪🌚",
         "timestamp": 1789500186052
+      },
+      "AC23A00258E997F3F5A27288D1CD9C0A": {
+        "sender": "129373172711439@lid",
+        "text": "Tu tomou o copo todo?",
+        "pushName": "Celiete Souza",
+        "timestamp": 1789500198289
+      },
+      "AC4D0430FFE3C20AC2B9C13C0D7B756F": {
+        "sender": "50869659811853@lid",
+        "text": "Virou igual um shot",
+        "pushName": "Gusta",
+        "timestamp": 1789500210975
       }
     }
   },
@@ -21189,7 +21203,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789500186052
+    "120363412202609595@g.us": 1789500210975
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
