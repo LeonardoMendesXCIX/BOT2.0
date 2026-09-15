@@ -7677,9 +7677,9 @@
         "total": 2
       },
       "187845394358417": {
-        "text": 4,
+        "text": 5,
         "media": 1,
-        "total": 5
+        "total": 6
       }
     }
   },
@@ -14972,7 +14972,8 @@
         "jaciara: É que estou passando alguns meses no Maranhão",
         "Maurício Manú Telecom: A sim tendi",
         "Rodenilson 🤘🏾👀: Tem coisas que nem da pra comentar",
-        "Cristian Sntss: Do msm jeito tem mulher q sai com o cara só pra fala do ex"
+        "Cristian Sntss: Do msm jeito tem mulher q sai com o cara só pra fala do ex",
+        "Maurício Manú Telecom: Aqui estava um calor de rachar, agora choveu e esfriou"
       ]
     }
   },
@@ -14995,18 +14996,6 @@
     "120363408512535081@g.us": [],
     "120363427438126559@g.us": [],
     "120363412202609595@g.us": [
-      {
-        "authorNum": "27346140700786",
-        "authorName": "Diana Shirley",
-        "text": "Mesmo uma safada se dizendo minha amiga, e amiga dele me traiu, mas enfim",
-        "timestamp": 1789492936597
-      },
-      {
-        "authorNum": "108461127897146",
-        "authorName": "jaciara",
-        "text": "Eu sempre disse isso kkkk",
-        "timestamp": 1789492947929
-      },
       {
         "authorNum": "53537388122141",
         "authorName": "Sabrina R. Bartolucci ✨🙆🏻‍♀️",
@@ -15450,6 +15439,12 @@
         "authorName": "Cristian Sntss",
         "text": "Do msm jeito tem mulher q sai com o cara só pra fala do ex",
         "timestamp": 1789494720286
+      },
+      {
+        "authorNum": "187845394358417",
+        "authorName": "Maurício Manú Telecom",
+        "text": "Aqui estava um calor de rachar, agora choveu e esfriou",
+        "timestamp": 1789494764414
       }
     ]
   },
@@ -15477,7 +15472,7 @@
     "120363426574906687@g.us": 481,
     "120363408512535081@g.us": 677,
     "120363427438126559@g.us": 3187,
-    "120363412202609595@g.us": 1656
+    "120363412202609595@g.us": 1657
   },
   "botDisabled": {
     "120363412288900422@g.us": false,
@@ -16182,7 +16177,8 @@
       "21543589527800": 5,
       "36215264927990": 14,
       "133934344065150": 29,
-      "120363412202609595": 21
+      "120363412202609595": 21,
+      "187845394358417": 11
     }
   },
   "coins": {
@@ -16493,7 +16489,8 @@
       "21543589527800": 3,
       "36215264927990": 2,
       "133934344065150": 7,
-      "120363412202609595": 4
+      "120363412202609595": 4,
+      "187845394358417": 1
     }
   },
   "dailyRewardClaimed": {
@@ -19973,6 +19970,12 @@
         "text": "Do msm jeito tem mulher q sai com o cara só pra fala do ex",
         "pushName": "Cristian Sntss",
         "timestamp": 1789494720287
+      },
+      "AC02C775F3EC35D33FBDC2C9AF853CAD": {
+        "sender": "187845394358417@lid",
+        "text": "Aqui estava um calor de rachar, agora choveu e esfriou",
+        "pushName": "Maurício Manú Telecom",
+        "timestamp": 1789494764414
       }
     }
   },
@@ -20230,7 +20233,7 @@
     "120363426574906687@g.us": 1789219293599,
     "120363408512535081@g.us": 1789391591677,
     "120363427438126559@g.us": 1789447934983,
-    "120363412202609595@g.us": 1789494720286
+    "120363412202609595@g.us": 1789494764414
   },
   "autoAnimSent": {
     "120363432018531082@g.us": false,
