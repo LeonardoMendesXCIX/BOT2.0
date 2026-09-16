@@ -1,6 +1,6 @@
 import { WASocket } from '@whiskeysockets/baileys';
 import { StorageManager } from '../database/storage';
-import { getUserInfo, updateLidMapping, extractRawNumber } from '../utils/user';
+import { getUserInfo, updateLidMapping, extractRawNumber, detectBrazilianNumber } from '../utils/user';
 import { checkMatch } from '../config/rbac';
 
 export function setupGroupEvents(sock: WASocket, storage: StorageManager): void {
@@ -64,8 +64,11 @@ export function setupGroupEvents(sock: WASocket, storage: StorageManager): void 
                     const isAntiFakeActive = storage.data.antifake?.[chatId] === true || (!storage.isFeatureDisabled(chatId, 'antifake') && storage.data.antifake?.[chatId] !== false);
                     const joinIsPn = (realJid || '').endsWith('@s.whatsapp.net');
                     const pnDigits = joinIsPn ? extractRawNumber(realJid) : '';
-                    const isBr = pnDigits.startsWith('55') && (pnDigits.length === 12 || pnDigits.length === 13);
+                    
+                    // CORREÇÃO 3: Uso da função robusta detectBrazilianNumber
+                    const isBr = detectBrazilianNumber(pnDigits);
                     const isForeign = joinIsPn && pnDigits !== '' && !isBr;
+
                     if (isAntiFakeActive && isForeign) {
                         try {
                             const botNumClean = (sock.user?.id || '').split(':')[0].replace(/\D/g, '');
@@ -77,7 +80,7 @@ export function setupGroupEvents(sock: WASocket, storage: StorageManager): void 
                                     removed = true;
                                 } catch (e) { }
                                 if (removed) {
-                                    await sock.sendMessage(chatId, { text: '🛡️ *ANTI-FAKE* 🛡️\n\n👤 *Removido:* ' + memberInfo.smartMention + '\n📱 *DDI:* +' + pnDigits + '\n📝 *Motivo:* número estrangeiro (apenas +55).', mentions: [memberInfo.mentionJid, memberInfo.jid, newMemberId, realJid].filter(Boolean) });
+                                    await sock.sendMessage(chatId, { text: '🛡️ *ANTI-FAKE* 🛡️\n\n👤 *Removido:* ' + memberInfo.smartMention + '\n📱 *DDI:* +' + pnDigits.substring(0, 2) + '\n📝 *Motivo:* número estrangeiro (apenas +55).', mentions: [memberInfo.mentionJid, memberInfo.jid, newMemberId, realJid].filter(Boolean) });
                                     continue;
                                 }
                             }
@@ -151,7 +154,9 @@ export function setupGroupEvents(sock: WASocket, storage: StorageManager): void 
                     const _antiFakeOn = storage.data.antifake?.[chatId] === true || (!storage.isFeatureDisabled(chatId, 'antifake') && storage.data.antifake?.[chatId] !== false);
                     if (_antiFakeOn && _strictLidOn && (newMemberId || '').endsWith('@lid')) {
                         const _resolved = extractRawNumber(realJid);
-                        if (!_resolved || _resolved.length > 13) {
+                        // CORREÇÃO 3: Uso da função robusta para checar se o número resolvido é brasileiro
+                        const _isBr = detectBrazilianNumber(_resolved);
+                        if (!_resolved || (!_isBr && _resolved.length > 13)) {
                             const _botNum = (sock.user?.id || '').split(':')[0].replace(/\D/g, '');
                             const _botPart = groupMeta?.participants?.find((pp: any) => ((pp.id || '').split(':')[0].replace(/\D/g, '') === _botNum));
                             if (_botPart?.admin === 'admin' || _botPart?.admin === 'superadmin') {
