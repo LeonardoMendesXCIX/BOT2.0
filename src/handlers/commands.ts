@@ -43,13 +43,10 @@ function ddiCountry(num: string): string {
     return 'Desconhecido';
 }
 
-// CORREÇÃO 3: Função robusta para detectar números brasileiros com ou sem DDI
 function detectBrazilianNumber(num: string): boolean {
     if (!num) return false;
     const cleanNum = num.replace(/\D/g, '');
-    // Com DDI 55 (12 ou 13 dígitos)
     if (cleanNum.startsWith('55') && (cleanNum.length === 12 || cleanNum.length === 13)) return true;
-    // Sem DDI (10 ou 11 dígitos, DDD entre 11 e 99)
     if ((cleanNum.length === 10 || cleanNum.length === 11) && parseInt(cleanNum.substring(0, 2)) >= 11 && parseInt(cleanNum.substring(0, 2)) <= 99) return true;
     return false;
 }
@@ -350,7 +347,6 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
             const wa = meta.participants.filter((p: any) => p.admin);
             if (!wa.length) txt += '_nenhum_\n';
             for (const p of wa) {
-                // CORREÇÃO 2: Força o formato @numero para ser clicável
                 const numOnly = p.id.split('@')[0].split(':')[0].replace(/\D/g, '');
                 txt += '• @' + numOnly + (p.admin === 'superadmin' ? ' (dono)' : '') + '\n';
                 mentions.push(p.id);
@@ -369,19 +365,21 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
             anyBot = true;
             const inputJid = num.length > 15 ? num + '@lid' : num + '@s.whatsapp.net';
             const i = getUserInfo(inputJid);
+            const numOnly = i.number || num;
+            
             const inGroup = !!meta && meta.participants.some((p: any) => {
                 const pid = (p.id || '').split('@')[0].split(':')[0].replace(/\D/g, '');
                 const plid = (((p as any).lid || '') + '').split('@')[0].split(':')[0].replace(/\D/g, '');
-                return pid === num || plid === num || pid === i.number || plid === i.number;
+                return pid === numOnly || plid === numOnly || pid === i.number || plid === i.number;
             });
             
             if (inGroup) {
-                // CORREÇÃO 2: Força o formato @numero para ser clicável
-                const numOnly = i.number || num;
                 txt += '• @' + numOnly + ' (' + (roleNames[String(lvl)] || '') + ')\n';
                 mentions.push(inputJid);
             } else {
-                txt += '• ' + (i.pushName || i.formattedNum || '+' + num) + ' (' + (roleNames[String(lvl)] || '') + ') — _fora deste grupo_\n';
+                // CORREÇÃO FINAL: Força @numero mesmo para quem está fora do grupo e adiciona ao array de menções
+                txt += '• @' + numOnly + ' (' + (roleNames[String(lvl)] || '') + ') — _fora deste grupo_\n';
+                mentions.push(inputJid);
             }
         }
         if (!anyBot) txt += '_nenhum_\n';
@@ -598,7 +596,6 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
         storage.flagSave();
     }
 
-    // CORREÇÃO 3: Lógica de primeira mensagem com detecção correta de DDI
     if (isGroup && !key.fromMe && userInfo.number && userInfo.number.length <= 13) {
         if (!storage.data.firstMsgSeen) storage.data.firstMsgSeen = {};
         if (!storage.data.firstMsgSeen[chatId]) storage.data.firstMsgSeen[chatId] = {};
@@ -1021,7 +1018,6 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
         return;
     }
     
-    // CORREÇÃO 1: Lógica de remoção de admin com feedback e salvamento garantido
     if (textLower === '!remover') {
         if (!isSuperAdmin(userId, storage.data.users)) return;
         storage.data.states[userId] = { mode: 'remover_waiting_id' };
