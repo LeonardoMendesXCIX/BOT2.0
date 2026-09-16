@@ -40,7 +40,7 @@ export function formatPhoneNumber(rawNum: string): string {
     return '+' + num;
 }
 
-// CORREÇÃO 3: Função robusta para detectar números brasileiros
+// Função robusta para detectar números brasileiros
 export function detectBrazilianNumber(num: string): boolean {
     if (!num) return false;
     const cleanNum = num.replace(/\D/g, '');
@@ -68,7 +68,6 @@ export function getUserInfo(userIdOrMention: string, pushNameHint: string = ''):
     const inputLocal = inputJid.split('@')[0].split(':')[0];
     const inputIsLid = inputJid.endsWith('@lid');
 
-    // DECISÃO PELO DOMÍNIO (não pelo comprimento):
     const mappedLid = inputIsLid ? (lidMap[inputLocal] || (profilesDB[inputLocal] && profilesDB[inputLocal].num) || '') : '';
     const resolvedAll = extractRawNumber(userIdOrMention);
     const looksPhone = !!resolvedAll && resolvedAll.length >= 8 && resolvedAll.length <= 15;
@@ -95,7 +94,7 @@ export function getUserInfo(userIdOrMention: string, pushNameHint: string = ''):
     let humanDisplay: string;
 
     if (isPhone) {
-        // CORREÇÃO 2: Sempre usar @numero para ser clicável, independente de ser BR ou estrangeiro
+        // SEMPRE usar @numero para ser clicável, independente de ser BR ou estrangeiro
         smartDisplay = '@' + realNum;
         humanDisplay = pushName ? pushName + ' - ' + formattedNum : formattedNum;
     } else {
