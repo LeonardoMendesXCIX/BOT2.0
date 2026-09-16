@@ -17,11 +17,13 @@ import { downloadMedia, getYoutubeInfo, translateText, defineWord, removeBackgro
 import { getHHMM, isWithinWindow } from '../utils/time';
 import axios from 'axios';
 import { searchYouTube, getAudioBuffer, getVideoBuffer } from '../services/ytDownloader';
+
 const userMessageHistory: Record<string, number[]> = {};
 const stickerHistory: Record<string, number[]> = {};
 const musicCooldowns: Record<string, number> = {};
 const aiCooldowns: Record<string, Record<string, number>> = {};
 const lastAdminResponse = new Map<string, number>();
+
 const DDI_COUNTRIES: Record<string, string> = {
     '246': 'Diego Garcia', '993': 'Turcomenistão', '682': 'Ilhas Cook', '351': 'Portugal',
     '256': 'Uganda', '252': 'Somália', '243': 'RD Congo', '240': 'Guiné Equatorial',
@@ -32,6 +34,7 @@ const DDI_COUNTRIES: Record<string, string> = {
     '32': 'Bélgica', '27': 'África do Sul', '20': 'Egito', '7': 'Rússia',
     '1': 'EUA/Canadá', '55': 'Brasil'
 };
+
 function ddiCountry(num: string): string {
     const prefixes = Object.keys(DDI_COUNTRIES).sort((a, b) => b.length - a.length);
     for (const prefix of prefixes) {
@@ -39,6 +42,18 @@ function ddiCountry(num: string): string {
     }
     return 'Desconhecido';
 }
+
+// CORREÇÃO 3: Função robusta para detectar números brasileiros com ou sem DDI
+function detectBrazilianNumber(num: string): boolean {
+    if (!num) return false;
+    const cleanNum = num.replace(/\D/g, '');
+    // Com DDI 55 (12 ou 13 dígitos)
+    if (cleanNum.startsWith('55') && (cleanNum.length === 12 || cleanNum.length === 13)) return true;
+    // Sem DDI (10 ou 11 dígitos, DDD entre 11 e 99)
+    if ((cleanNum.length === 10 || cleanNum.length === 11) && parseInt(cleanNum.substring(0, 2)) >= 11 && parseInt(cleanNum.substring(0, 2)) <= 99) return true;
+    return false;
+}
+
 function resolveTargetJid(msg: any, text: string): string {
     const ctx = msg.message?.extendedTextMessage?.contextInfo;
     if (ctx?.mentionedJid && ctx.mentionedJid[0]) return ctx.mentionedJid[0];
@@ -47,6 +62,7 @@ function resolveTargetJid(msg: any, text: string): string {
     if (m) return m[1] + '@s.whatsapp.net';
     return '';
 }
+
 function levenshteinDistance(a: string, b: string): number {
     const matrix: number[][] = [];
     for (let i = 0; i <= b.length; i++) matrix[i] = [i];
@@ -59,6 +75,7 @@ function levenshteinDistance(a: string, b: string): number {
     }
     return matrix[b.length][a.length];
 }
+
 function findSuggestedCommand(inputCmd: string): string | null {
     const validCmds = Object.keys(FEATURE_MAP);
     let bestMatch: string | null = null;
@@ -69,6 +86,7 @@ function findSuggestedCommand(inputCmd: string): string | null {
     }
     return bestMatch;
 }
+
 export function getMessageText(msg: proto.IWebMessageInfo): string {
     const m = msg.message;
     if (!m) return '';
@@ -81,6 +99,7 @@ export function getMessageText(msg: proto.IWebMessageInfo): string {
     if (m.viewOnceMessageV2?.message) return getMessageText({ ...msg, message: m.viewOnceMessageV2.message });
     return '';
 }
+
 export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, storage: StorageManager): Promise<void> {
     const key = msg.key;
     const chatId = key.remoteJid || '';
@@ -94,7 +113,9 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
     const text = messageText.trim();
     const textLower = text.toLowerCase();
     const firstWord = text.split(/[\s+]+/)[0].toLowerCase();
+
     if (storage.data.maintenance === true && firstWord !== '!botmanutencao') return;
+
     if (firstWord === '!botmanutencao') {
         const subArg = text.slice(firstWord.length).trim().toLowerCase();
         if (subArg === 'off') {
@@ -116,6 +137,7 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
         await sock.sendMessage(chatId, { text: '⚠️ *Bot em modo offline (MANUTENÇÃO)*\n\nO BOT DROPHTTP foi temporariamente desativado para manutenção.\n_Use `!botmanutencao off` para voltar ao normal._' });
         return;
     }
+
     if (!isGroup && !key.fromMe) {
         const creatorNum = '5511927018683';
         if (userInfo.number === creatorNum && storage.data.activeTicket && text && !text.startsWith('!')) {
@@ -128,6 +150,7 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
             return;
         }
     }
+
     if (state && state.mode === 'inativos_confirm_removal') {
         const answer = textLower.trim();
         const isYes = ['sim', '1', 's', 'yes', 'si'].includes(answer);
@@ -159,16 +182,20 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
         if (afterMsg) await sock.sendMessage(targetChat, { text: afterMsg });
         return;
     }
+
     const IGNORED_MULTIMEDIA_PREFIXES = ['!song', '!msc', '!tocar', '!ytmp3'];
     if (IGNORED_MULTIMEDIA_PREFIXES.includes(firstWord)) return;
+
     if (['!desenhe', '!criarimg', '!gerarimg', '!sorteio', '!quiz', '!charada', '!moeda', '!cotacao', '!qrcode'].includes(firstWord)) {
         await sock.sendMessage(chatId, { text: '⚠️ Este comando foi removido do BOT DROPHTTP.' }, { quoted: msg });
         return;
     }
+
     if (textLower.startsWith('!jarvis on') || textLower.startsWith('!jarvis off')) {
         await sock.sendMessage(chatId, { text: '⚠️ O comando !jarvis on/off foi removido do BOT DROPHTTP.' }, { quoted: msg });
         return;
     }
+
     if (firstWord === '!bot') {
         const parts = text.trim().split(/\s+/);
         const action = parts[1]?.toLowerCase();
@@ -186,9 +213,11 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
             return;
         }
     }
+
     if (isGroup && storage.isBotDisabled(chatId)) {
         return;
     }
+
     if (['!cancelar', 'cancelar', 'sair', '!sair'].includes(textLower)) {
         if (state && state.mode) {
             delete storage.data.states[userId];
@@ -197,6 +226,7 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
             return;
         }
     }
+
     if (isGroup) {
         storage.data.lastGroupActivity[chatId] = Date.now();
         storage.data.autoAnimSent[chatId] = false;
@@ -214,7 +244,8 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
         }
         if (text && !key.fromMe) storage.addMessageToCluster(chatId, userInfo.number, userInfo.pushName, text);
     }
-        if (state && state.mode && state.mode.startsWith('divulga_')) {
+
+    if (state && state.mode && state.mode.startsWith('divulga_')) {
         const inputClean = text.trim();
         if (state.mode === 'divulga_waiting_time') {
             const timeMatch = inputClean.match(/(\d{1,2}:\d{2})\s*(?:às|as|a|-|ate|até)\s*(\d{1,2}:\d{2})/i);
@@ -236,6 +267,7 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
             return;
         }
     }
+
     if (state && state.mode && state.mode.startsWith('ma_')) {
         const inputClean = text.trim();
         if (state.mode === 'ma_menu_main') {
@@ -306,26 +338,31 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
             return;
         }
     }
+
     const wantsAdmins = firstWord === '!admins' || firstWord === '!adms' || (isGroup && textLower.includes('quem manda'));
     if (wantsAdmins && isGroup) {
         const roleNames: Record<string, string> = { '5': 'Super Admin', '4': 'Gestor', '3': 'Parceiro', '2': 'Admin' };
         const meta = await sock.groupMetadata(chatId).catch(() => null);
         const mentions: string[] = [];
         let txt = '👑 *ADMINISTRADORES*\n\n📱 *Do WhatsApp:*\n';
+        
         if (meta) {
             const wa = meta.participants.filter((p: any) => p.admin);
             if (!wa.length) txt += '_nenhum_\n';
             for (const p of wa) {
-                const i = getUserInfo(p.id);
-                txt += '• ' + i.smartMention + (p.admin === 'superadmin' ? ' (dono)' : '') + '\n';
-                if (i.mentionJid) mentions.push(i.mentionJid);
+                // CORREÇÃO 2: Força o formato @numero para ser clicável
+                const numOnly = p.id.split('@')[0].split(':')[0].replace(/\D/g, '');
+                txt += '• @' + numOnly + (p.admin === 'superadmin' ? ' (dono)' : '') + '\n';
+                mentions.push(p.id);
             }
         } else {
             txt += '_não foi possível ler o grupo_\n';
         }
+        
         txt += '\n🤖 *Do Bot (cadastrados):*\n';
         let anyBot = false;
         const usersDb = storage.data.users || {};
+        
         for (const num in usersDb) {
             const lvl = parseInt(usersDb[num]);
             if (!(lvl >= 2)) continue;
@@ -337,17 +374,22 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
                 const plid = (((p as any).lid || '') + '').split('@')[0].split(':')[0].replace(/\D/g, '');
                 return pid === num || plid === num || pid === i.number || plid === i.number;
             });
+            
             if (inGroup) {
-                txt += '• ' + i.smartMention + ' (' + (roleNames[String(lvl)] || '') + ')\n';
-                if (i.mentionJid) mentions.push(i.mentionJid);
+                // CORREÇÃO 2: Força o formato @numero para ser clicável
+                const numOnly = i.number || num;
+                txt += '• @' + numOnly + ' (' + (roleNames[String(lvl)] || '') + ')\n';
+                mentions.push(inputJid);
             } else {
                 txt += '• ' + (i.pushName || i.formattedNum || '+' + num) + ' (' + (roleNames[String(lvl)] || '') + ') — _fora deste grupo_\n';
             }
         }
         if (!anyBot) txt += '_nenhum_\n';
+        
         await sock.sendMessage(chatId, { text: txt, mentions: Array.from(new Set(mentions)) }, { quoted: msg });
         return;
     }
+
     if (isGroup && !key.fromMe) {
         if (text && Math.random() < 0.4) {
             const gainedXp = 5 + Math.floor(Math.random() * 10);
@@ -555,17 +597,33 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
         }
         storage.flagSave();
     }
+
+    // CORREÇÃO 3: Lógica de primeira mensagem com detecção correta de DDI
     if (isGroup && !key.fromMe && userInfo.number && userInfo.number.length <= 13) {
         if (!storage.data.firstMsgSeen) storage.data.firstMsgSeen = {};
         if (!storage.data.firstMsgSeen[chatId]) storage.data.firstMsgSeen[chatId] = {};
         if (!storage.data.firstMsgSeen[chatId][userInfo.number]) {
             storage.data.firstMsgSeen[chatId][userInfo.number] = true;
             storage.flagSave();
-            const pais = ddiCountry(userInfo.number);
-            const isBR = userInfo.number.startsWith('55');
+            
+            const isBR = detectBrazilianNumber(userInfo.number);
+            let pais = 'Desconhecido';
+            let ddi = '??';
+
+            if (isBR) {
+                pais = 'Brasil';
+                ddi = '55';
+            } else {
+                pais = ddiCountry(userInfo.number);
+                const prefixes = Object.keys(DDI_COUNTRIES).sort((a, b) => b.length - a.length);
+                for (const prefix of prefixes) {
+                    if (userInfo.number.startsWith(prefix)) { ddi = prefix; break; }
+                }
+            }
+
             await sock.sendMessage(chatId, {
                 text: '🌐 *PRIMEIRA MENSAGEM DETECTADA*\n\n👤 ' + userInfo.smartMention +
-                    '\n📍 Número registrado em: *' + pais + '* (DDI +' + userInfo.number.slice(0, 2) + ')' +
+                    '\n📍 Número registrado em: *' + pais + '* (DDI +' + ddi + ')' +
                     '\n🌍 Origem: ' + (isBR ? '🇧🇷 Brasil' : '🌍 Exterior') +
                     '\n🕐 Primeira msg no grupo: ' + new Date().toLocaleString('pt-BR') +
                     '\n\n_(O WhatsApp não expõe a data de criação da conta nem a localização GPS real; mostramos o país de registro do número.)_',
@@ -573,6 +631,7 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
             }).catch(() => {});
         }
     }
+
     if (!text) return;
     if (key.fromMe && !text.startsWith('!')) return;
     if (isGroup && !storage.isGroupClosed(chatId) && !text.startsWith('!')) {
@@ -693,7 +752,7 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
         }
         return;
     }
-        if (['!divulga', '!divulgar'].includes(firstWord)) {
+    if (['!divulga', '!divulgar'].includes(firstWord)) {
         if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
         const userRole = parseInt(getUserRole(userId, storage.data.users));
         if (userRole < 2) { await sock.sendMessage(chatId, { text: '❌ Apenas administradores.' }, { quoted: msg }); return; }
@@ -961,6 +1020,8 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
         await sock.sendMessage(chatId, { text: '✅ ' + targetInfo.smartMention + ' cadastrado como Nível ' + targetRole, mentions: [targetInfo.mentionJid, targetInfo.jid] });
         return;
     }
+    
+    // CORREÇÃO 1: Lógica de remoção de admin com feedback e salvamento garantido
     if (textLower === '!remover') {
         if (!isSuperAdmin(userId, storage.data.users)) return;
         storage.data.states[userId] = { mode: 'remover_waiting_id' };
@@ -975,12 +1036,20 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
             if (checkMatch(dbNum, targetId)) { foundKey = dbNum; break; }
         }
         const targetInfo = getUserInfo(targetId + '@s.whatsapp.net');
-        if (foundKey) delete storage.data.users[foundKey];
-        delete storage.data.states[userId];
-        storage.flagSave();
-        await sock.sendMessage(chatId, { text: '✅ ' + targetInfo.smartMention + ' removido.', mentions: [targetInfo.mentionJid, targetInfo.jid] });
+        
+        if (foundKey) {
+            delete storage.data.users[foundKey];
+            delete storage.data.states[userId];
+            storage.flagSave();
+            await sock.sendMessage(chatId, { text: '✅ ' + targetInfo.smartMention + ' removido com sucesso do banco de dados de admins.', mentions: [targetInfo.mentionJid, targetInfo.jid] });
+        } else {
+            delete storage.data.states[userId];
+            storage.flagSave();
+            await sock.sendMessage(chatId, { text: '⚠️ Número ' + targetId + ' não encontrado no banco de dados de admins.' });
+        }
         return;
     }
+    
     if (['!warn', '!advertir', '!warns', '!advertencias', '!unwarn'].includes(firstWord)) {
         if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
         if (!storage.data.warnings[chatId]) storage.data.warnings[chatId] = {};
@@ -1315,7 +1384,7 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
                 } catch (e) { }
                 if (shouldOpen !== internalOpen) report += '⚠️ *DIVERGÊNCIA INTERNA:* agenda e estado interno não batem.\n';
             } else {
-                                report += '\n📅 *Agenda deste grupo:* nenhuma configurada.\n';
+                report += '\n📅 *Agenda deste grupo:* nenhuma configurada.\n';
             }
         }
         report += '\n⚙️ Agendar: `!abrir HH:MM` / `!fechar HH:MM`';
@@ -2439,7 +2508,7 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
         menu += '*🎵 MÚSICA*\n';
         menu += '`!musica [nome]` - Buscar música\n';
         if (isAdmin) menu += '`!botmusica on/off`\n\n';
-        menu += '*�️ UTILIDADE / MÍDIA*\n';
+        menu += '*📰 UTILIDADE / MÍDIA*\n';
         menu += '`!yt nome` — Buscar no YouTube\n';
         menu += '`!tiktok link` / `!insta link` — Download\n';
         menu += '`!musica nome` — Preview de música\n';
@@ -2458,7 +2527,7 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
         menu += '`!clima` — Sentimento do grupo\n';
         menu += '`!ticket descrição` — Suporte no privado\n';
         menu += '`!horario 08:00 18:00 msg` — Auto-resposta (super admin)\n';
-        menu += '\n*�📰 UTIL*\n';
+        menu += '\n*📰 UTIL*\n';
         menu += '`!n` `!h` `!t`\n';
         menu += '`!regras` `!id`';
         if (isAdmin) {
