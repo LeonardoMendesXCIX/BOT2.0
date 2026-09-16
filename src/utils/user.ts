@@ -40,6 +40,17 @@ export function formatPhoneNumber(rawNum: string): string {
     return '+' + num;
 }
 
+// CORREÇÃO 3: Função robusta para detectar números brasileiros
+export function detectBrazilianNumber(num: string): boolean {
+    if (!num) return false;
+    const cleanNum = num.replace(/\D/g, '');
+    // Com DDI 55 (12 ou 13 dígitos)
+    if (cleanNum.startsWith('55') && (cleanNum.length === 12 || cleanNum.length === 13)) return true;
+    // Sem DDI (10 ou 11 dígitos, DDD entre 11 e 99)
+    if ((cleanNum.length === 10 || cleanNum.length === 11) && parseInt(cleanNum.substring(0, 2)) >= 11 && parseInt(cleanNum.substring(0, 2)) <= 99) return true;
+    return false;
+}
+
 export function extractRawNumber(userIdOrMention: string): string {
     if (!userIdOrMention) return '';
     const part = userIdOrMention.split('@')[0].split(':')[0];
@@ -80,10 +91,30 @@ export function getUserInfo(userIdOrMention: string, pushNameHint: string = ''):
     if (pushName) { contactCache[cacheKey] = { name: pushName, time: Date.now() }; rememberProfile(cacheKey, pushName, realNum || undefined); }
     if (pushName.startsWith('@') || pushName === cacheKey) pushName = '';
 
-    let display: string;
-    if (isPhone && realNum.startsWith('55')) display = '@' + realNum;              // BR: clicável
-    else if (isPhone) display = pushName ? pushName + ' - ' + formattedNum : formattedNum; // estrangeiro: texto limpo
-    else display = '@' + inputLocal;                                                // LID: clicável
+    let smartDisplay: string;
+    let humanDisplay: string;
 
-    return { jid, number: realNum || inputLocal, formattedNum, pushName, fullDisplay: display, nameAndNumber: display, mentionTag: display, mention: display, mentionJid: jid, smartMention: display, isLid: inputIsLid && !isPhone };
+    if (isPhone) {
+        // CORREÇÃO 2: Sempre usar @numero para ser clicável, independente de ser BR ou estrangeiro
+        smartDisplay = '@' + realNum;
+        humanDisplay = pushName ? pushName + ' - ' + formattedNum : formattedNum;
+    } else {
+        // LID: clicável
+        smartDisplay = '@' + inputLocal;
+        humanDisplay = pushName ? pushName + ' - LID' : 'LID';
+    }
+
+    return { 
+        jid, 
+        number: realNum || inputLocal, 
+        formattedNum, 
+        pushName, 
+        fullDisplay: humanDisplay, 
+        nameAndNumber: humanDisplay, 
+        mentionTag: smartDisplay, 
+        mention: smartDisplay, 
+        mentionJid: jid, 
+        smartMention: smartDisplay, 
+        isLid: inputIsLid && !isPhone 
+    };
 }
