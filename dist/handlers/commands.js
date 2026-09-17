@@ -440,10 +440,9 @@ async function handleCommand(sock, msg, storage) {
             if (!wa.length)
                 txt += '_nenhum_\n';
             for (const p of wa) {
-                const i = (0, user_1.getUserInfo)(p.id);
-                txt += '• ' + i.smartMention + (p.admin === 'superadmin' ? ' (dono)' : '') + '\n';
-                if (i.mentionJid)
-                    mentions.push(i.mentionJid);
+                const numOnly = p.id.split('@')[0].split(':')[0].replace(/\D/g, '');
+                txt += '• @' + numOnly + (p.admin === 'superadmin' ? ' (dono)' : '') + '\n';
+                mentions.push(p.id);
             }
         }
         else {
@@ -459,10 +458,11 @@ async function handleCommand(sock, msg, storage) {
             anyBot = true;
             const inputJid = num.length > 15 ? num + '@lid' : num + '@s.whatsapp.net';
             const i = (0, user_1.getUserInfo)(inputJid);
+            const numOnly = i.number || num;
             const inGroup = !!meta && meta.participants.some((p) => {
                 const pid = (p.id || '').split('@')[0].split(':')[0].replace(/\D/g, '');
                 const plid = ((p.lid || '') + '').split('@')[0].split(':')[0].replace(/\D/g, '');
-                return pid === num || plid === num || pid === i.number || plid === i.number;
+                return pid === numOnly || plid === numOnly || pid === i.number || plid === i.number;
             });
             if (inGroup) {
                 txt += '• ' + i.smartMention + ' (' + (roleNames[String(lvl)] || '') + ')\n';
@@ -470,7 +470,9 @@ async function handleCommand(sock, msg, storage) {
                     mentions.push(i.mentionJid);
             }
             else {
-                txt += '• ' + (i.pushName || i.formattedNum || '+' + num) + ' (' + (roleNames[String(lvl)] || '') + ') — _fora deste grupo_\n';
+                txt += '• ' + i.smartMention + ' (' + (roleNames[String(lvl)] || '') + ') — _fora deste grupo_\n';
+                if (i.mentionJid)
+                    mentions.push(i.mentionJid);
             }
         }
         if (!anyBot)
@@ -733,11 +735,26 @@ async function handleCommand(sock, msg, storage) {
         if (!storage.data.firstMsgSeen[chatId][userInfo.number]) {
             storage.data.firstMsgSeen[chatId][userInfo.number] = true;
             storage.flagSave();
-            const pais = ddiCountry(userInfo.number);
-            const isBR = userInfo.number.startsWith('55');
+            const isBR = (0, user_1.detectBrazilianNumber)(userInfo.number);
+            let pais = 'Desconhecido';
+            let ddi = '??';
+            if (isBR) {
+                pais = 'Brasil';
+                ddi = '55';
+            }
+            else {
+                pais = ddiCountry(userInfo.number);
+                const prefixes = Object.keys(DDI_COUNTRIES).sort((a, b) => b.length - a.length);
+                for (const prefix of prefixes) {
+                    if (userInfo.number.startsWith(prefix)) {
+                        ddi = prefix;
+                        break;
+                    }
+                }
+            }
             await sock.sendMessage(chatId, {
                 text: '🌐 *PRIMEIRA MENSAGEM DETECTADA*\n\n👤 ' + userInfo.smartMention +
-                    '\n📍 Número registrado em: *' + pais + '* (DDI +' + userInfo.number.slice(0, 2) + ')' +
+                    '\n📍 Número registrado em: *' + pais + '* (DDI +' + ddi + ')' +
                     '\n🌍 Origem: ' + (isBR ? '🇧🇷 Brasil' : '🌍 Exterior') +
                     '\n🕐 Primeira msg no grupo: ' + new Date().toLocaleString('pt-BR') +
                     '\n\n_(O WhatsApp não expõe a data de criação da conta nem a localização GPS real; mostramos o país de registro do número.)_',
@@ -981,7 +998,7 @@ async function handleCommand(sock, msg, storage) {
                         : (resolved && resolved.length <= 13 ? resolved : '');
                     if (!effectiveNum)
                         continue;
-                    const isBr = effectiveNum.startsWith('55') && (effectiveNum.length === 12 || effectiveNum.length === 13);
+                    const isBr = (0, user_1.detectBrazilianNumber)(effectiveNum);
                     if (!isBr)
                         foreignList.push(p);
                 }
@@ -1321,11 +1338,18 @@ async function handleCommand(sock, msg, storage) {
             }
         }
         const targetInfo = (0, user_1.getUserInfo)(targetId + '@s.whatsapp.net');
-        if (foundKey)
+        if (foundKey) {
             delete storage.data.users[foundKey];
-        delete storage.data.states[userId];
-        storage.flagSave();
-        await sock.sendMessage(chatId, { text: '✅ ' + targetInfo.smartMention + ' removido.', mentions: [targetInfo.mentionJid, targetInfo.jid] });
+            delete storage.data.states[userId];
+            storage.flagSave();
+            storage.saveSync();
+            await sock.sendMessage(chatId, { text: '✅ ' + targetInfo.smartMention + ' removido com sucesso do banco de dados de admins.', mentions: [targetInfo.mentionJid, targetInfo.jid] });
+        }
+        else {
+            delete storage.data.states[userId];
+            storage.flagSave();
+            await sock.sendMessage(chatId, { text: '⚠️ Número ' + targetId + ' não encontrado no banco de dados de admins.' });
+        }
         return;
     }
     if (['!warn', '!advertir', '!warns', '!advertencias', '!unwarn'].includes(firstWord)) {
@@ -3096,12 +3120,22 @@ async function handleCommand(sock, msg, storage) {
             return;
         }
         await sock.sendMessage(chatId, { text: '⏳ Buscando "' + q + '"...' }, { quoted: msg });
-        const info = await (0, media_1.getYoutubeInfo)(q);
-        if (!info) {
-            await sock.sendMessage(chatId, { text: '❌ Não encontrei resultados.' }, { quoted: msg });
-            return;
+        try {
+            const results = await (0, ytDownloader_1.searchYouTube)(q, 1);
+            const chosen = results[0];
+            if (!chosen?.url) {
+                await sock.sendMessage(chatId, { text: '❌ Não encontrei resultados.' }, { quoted: msg });
+                return;
+            }
+            const audio = await (0, ytDownloader_1.getAudioBuffer)(chosen.url);
+            if (!audio.length)
+                throw new Error('áudio vazio');
+            await sock.sendMessage(chatId, { audio, mimetype: 'audio/mpeg', fileName: chosen.title.slice(0, 80) + '.mp3' }, { quoted: msg });
         }
-        await sock.sendMessage(chatId, { text: '🎬 *YouTube:*\n\n🔍 ' + q + '\n🔗 ' + info.url + '\n\n_(Download direto requer yt-dlp instalado no servidor. Link de busca acima.)_' }, { quoted: msg });
+        catch (error) {
+            console.error('[ERRO YT]', error?.message || error);
+            await sock.sendMessage(chatId, { text: '❌ Não foi possível baixar o áudio agora.' }, { quoted: msg });
+        }
         return;
     }
     if (firstWord === '!tiktok' || firstWord === '!tt' || firstWord === '!insta' || firstWord === '!ig') {
@@ -3495,7 +3529,7 @@ async function handleCommand(sock, msg, storage) {
         menu += '`!musica [nome]` - Buscar música\n';
         if (isAdmin)
             menu += '`!botmusica on/off`\n\n';
-        menu += '*�️ UTILIDADE / MÍDIA*\n';
+        menu += '*📰 UTILIDADE / MÍDIA*\n';
         menu += '`!yt nome` — Buscar no YouTube\n';
         menu += '`!tiktok link` / `!insta link` — Download\n';
         menu += '`!musica nome` — Preview de música\n';
@@ -3514,7 +3548,7 @@ async function handleCommand(sock, msg, storage) {
         menu += '`!clima` — Sentimento do grupo\n';
         menu += '`!ticket descrição` — Suporte no privado\n';
         menu += '`!horario 08:00 18:00 msg` — Auto-resposta (super admin)\n';
-        menu += '\n*�📰 UTIL*\n';
+        menu += '\n*📰 UTIL*\n';
         menu += '`!n` `!h` `!t`\n';
         menu += '`!regras` `!id`';
         if (isAdmin) {

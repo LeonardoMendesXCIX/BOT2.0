@@ -11,7 +11,7 @@ import { fetchNews } from '../services/news';
 import { fetchFootballData } from '../services/football';
 import { fetchWikipedia } from '../services/wikipedia';
 import { imageToStickerBuffer, stickerToImageBuffer } from '../utils/sticker';
-import { getUserInfo, updateLidMapping, extractRawNumber, UserDisplayInfo, lidMap, contactCache } from '../utils/user';
+import { getUserInfo, updateLidMapping, extractRawNumber, detectBrazilianNumber, UserDisplayInfo, lidMap, contactCache } from '../utils/user';
 import { generateNglCard, generateProfileCard, generateMemeCard, generateQuoteCard, generateTextSticker } from '../services/nglCard';
 import { downloadMedia, getYoutubeInfo, translateText, defineWord, removeBackground, fetchLiveMatches } from '../services/media';
 import { getHHMM, isWithinWindow } from '../utils/time';
@@ -41,14 +41,6 @@ function ddiCountry(num: string): string {
         if (num.startsWith(prefix)) return DDI_COUNTRIES[prefix];
     }
     return 'Desconhecido';
-}
-
-function detectBrazilianNumber(num: string): boolean {
-    if (!num) return false;
-    const cleanNum = num.replace(/\D/g, '');
-    if (cleanNum.startsWith('55') && (cleanNum.length === 12 || cleanNum.length === 13)) return true;
-    if ((cleanNum.length === 10 || cleanNum.length === 11) && parseInt(cleanNum.substring(0, 2)) >= 11 && parseInt(cleanNum.substring(0, 2)) <= 99) return true;
-    return false;
 }
 
 function resolveTargetJid(msg: any, text: string): string {
@@ -374,12 +366,11 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
             });
             
             if (inGroup) {
-                txt += '• @' + numOnly + ' (' + (roleNames[String(lvl)] || '') + ')\n';
-                mentions.push(inputJid);
+                txt += '• ' + i.smartMention + ' (' + (roleNames[String(lvl)] || '') + ')\n';
+                if (i.mentionJid) mentions.push(i.mentionJid);
             } else {
-                // CORREÇÃO FINAL: Força @numero mesmo para quem está fora do grupo e adiciona ao array de menções
-                txt += '• @' + numOnly + ' (' + (roleNames[String(lvl)] || '') + ') — _fora deste grupo_\n';
-                mentions.push(inputJid);
+                txt += '• ' + i.smartMention + ' (' + (roleNames[String(lvl)] || '') + ') — _fora deste grupo_\n';
+                if (i.mentionJid) mentions.push(i.mentionJid);
             }
         }
         if (!anyBot) txt += '_nenhum_\n';
@@ -795,7 +786,7 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
                         ? resolved
                         : (resolved && resolved.length <= 13 ? resolved : '');
                     if (!effectiveNum) continue;
-                    const isBr = effectiveNum.startsWith('55') && (effectiveNum.length === 12 || effectiveNum.length === 13);
+                    const isBr = detectBrazilianNumber(effectiveNum);
                     if (!isBr) foreignList.push(p);
                 }
                 if (foreignList.length === 0) { await sock.sendMessage(chatId, { text: '✅ Nenhum número estrangeiro encontrado.' }); return; }
@@ -1037,6 +1028,7 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
             delete storage.data.users[foundKey];
             delete storage.data.states[userId];
             storage.flagSave();
+            storage.saveSync();
             await sock.sendMessage(chatId, { text: '✅ ' + targetInfo.smartMention + ' removido com sucesso do banco de dados de admins.', mentions: [targetInfo.mentionJid, targetInfo.jid] });
         } else {
             delete storage.data.states[userId];
@@ -2254,9 +2246,17 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
         const q = text.slice(firstWord.length).trim();
         if (!q) { await sock.sendMessage(chatId, { text: '❌ *Uso:* `!yt nome da música`' }, { quoted: msg }); return; }
         await sock.sendMessage(chatId, { text: '⏳ Buscando "' + q + '"...' }, { quoted: msg });
-        const info = await getYoutubeInfo(q);
-        if (!info) { await sock.sendMessage(chatId, { text: '❌ Não encontrei resultados.' }, { quoted: msg }); return; }
-        await sock.sendMessage(chatId, { text: '🎬 *YouTube:*\n\n🔍 ' + q + '\n🔗 ' + info.url + '\n\n_(Download direto requer yt-dlp instalado no servidor. Link de busca acima.)_' }, { quoted: msg });
+        try {
+            const results = await searchYouTube(q, 1);
+            const chosen = results[0];
+            if (!chosen?.url) { await sock.sendMessage(chatId, { text: '❌ Não encontrei resultados.' }, { quoted: msg }); return; }
+            const audio = await getAudioBuffer(chosen.url);
+            if (!audio.length) throw new Error('áudio vazio');
+            await sock.sendMessage(chatId, { audio, mimetype: 'audio/mpeg', fileName: chosen.title.slice(0, 80) + '.mp3' }, { quoted: msg });
+        } catch (error: any) {
+            console.error('[ERRO YT]', error?.message || error);
+            await sock.sendMessage(chatId, { text: '❌ Não foi possível baixar o áudio agora.' }, { quoted: msg });
+        }
         return;
     }
     if (firstWord === '!tiktok' || firstWord === '!tt' || firstWord === '!insta' || firstWord === '!ig') {

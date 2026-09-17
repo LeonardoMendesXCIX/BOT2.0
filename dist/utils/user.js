@@ -5,6 +5,7 @@ exports.setContactsLookup = setContactsLookup;
 exports.rememberProfile = rememberProfile;
 exports.updateLidMapping = updateLidMapping;
 exports.formatPhoneNumber = formatPhoneNumber;
+exports.detectBrazilianNumber = detectBrazilianNumber;
 exports.extractRawNumber = extractRawNumber;
 exports.getUserInfo = getUserInfo;
 exports.contactCache = {};
@@ -63,6 +64,30 @@ function formatPhoneNumber(rawNum) {
     }
     return '+' + num;
 }
+const BRAZILIAN_AREA_CODES = new Set([
+    11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 24, 27, 28,
+    31, 32, 33, 34, 35, 37, 38, 41, 42, 43, 44, 45, 46, 47, 48,
+    49, 51, 53, 54, 55, 61, 62, 63, 64, 65, 66, 67, 68, 69, 71,
+    73, 74, 75, 77, 79, 81, 82, 83, 84, 85, 86, 87, 88, 89, 91,
+    92, 93, 94, 95, 96, 97, 98, 99
+]);
+function detectBrazilianNumber(num) {
+    if (!num)
+        return false;
+    const cleanNum = num.replace(/\D/g, '');
+    const nationalNumber = cleanNum.startsWith('55') && (cleanNum.length === 12 || cleanNum.length === 13)
+        ? cleanNum.slice(2)
+        : cleanNum;
+    if (nationalNumber.length !== 10 && nationalNumber.length !== 11)
+        return false;
+    const areaCode = Number(nationalNumber.slice(0, 2));
+    if (!BRAZILIAN_AREA_CODES.has(areaCode))
+        return false;
+    const subscriber = nationalNumber.slice(2);
+    if (subscriber.length === 9)
+        return subscriber.startsWith('9');
+    return subscriber.length === 8 && !subscriber.startsWith('0');
+}
 function extractRawNumber(userIdOrMention) {
     if (!userIdOrMention)
         return '';
@@ -81,12 +106,14 @@ function getUserInfo(userIdOrMention, pushNameHint = '') {
     const inputJid = userIdOrMention.includes('@') ? userIdOrMention : userIdOrMention + '@s.whatsapp.net';
     const inputLocal = inputJid.split('@')[0].split(':')[0];
     const inputIsLid = inputJid.endsWith('@lid');
-    // DECISÃO PELO DOMÍNIO (não pelo comprimento):
     const mappedLid = inputIsLid ? (exports.lidMap[inputLocal] || (exports.profilesDB[inputLocal] && exports.profilesDB[inputLocal].num) || '') : '';
     const resolvedAll = extractRawNumber(userIdOrMention);
     const looksPhone = !!resolvedAll && resolvedAll.length >= 8 && resolvedAll.length <= 15;
     const isPhone = inputIsLid ? (!!mappedLid && mappedLid.length >= 8 && mappedLid.length <= 15) : looksPhone;
-    const realNum = isPhone ? (inputIsLid ? mappedLid : resolvedAll) : '';
+    const detectedNum = isPhone ? (inputIsLid ? mappedLid : resolvedAll) : '';
+    const realNum = detectedNum && detectBrazilianNumber(detectedNum) && !detectedNum.startsWith('55')
+        ? '55' + detectedNum
+        : detectedNum;
     const jid = isPhone ? realNum + '@s.whatsapp.net' : inputJid;
     const formattedNum = realNum ? formatPhoneNumber(realNum) : '';
     if (realNum === '5511927018683' || realNum === '54259127210155') {
@@ -112,12 +139,29 @@ function getUserInfo(userIdOrMention, pushNameHint = '') {
     }
     if (pushName.startsWith('@') || pushName === cacheKey)
         pushName = '';
-    let display;
-    if (isPhone && realNum.startsWith('55'))
-        display = '@' + realNum; // BR: clicável
-    else if (isPhone)
-        display = pushName ? pushName + ' - ' + formattedNum : formattedNum; // estrangeiro: texto limpo
-    else
-        display = '@' + inputLocal; // LID: clicável
-    return { jid, number: realNum || inputLocal, formattedNum, pushName, fullDisplay: display, nameAndNumber: display, mentionTag: display, mention: display, mentionJid: jid, smartMention: display, isLid: inputIsLid && !isPhone };
+    let smartDisplay;
+    let humanDisplay;
+    if (isPhone) {
+        // SEMPRE usar @numero para ser clicável, independente de ser BR ou estrangeiro
+        smartDisplay = '@' + realNum;
+        humanDisplay = pushName ? pushName + ' - ' + formattedNum : formattedNum;
+    }
+    else {
+        // LID: clicável
+        smartDisplay = '@' + inputLocal;
+        humanDisplay = pushName ? pushName + ' - LID' : 'LID';
+    }
+    return {
+        jid,
+        number: realNum || inputLocal,
+        formattedNum,
+        pushName,
+        fullDisplay: humanDisplay,
+        nameAndNumber: humanDisplay,
+        mentionTag: smartDisplay,
+        mention: smartDisplay,
+        mentionJid: jid,
+        smartMention: smartDisplay,
+        isLid: inputIsLid && !isPhone
+    };
 }

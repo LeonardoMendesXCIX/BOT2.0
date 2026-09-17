@@ -2,8 +2,8 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.FEATURE_NAMES = exports.FEATURE_MAP = exports.QUIZ_DATABASE = exports.NEWS_TOPICS = exports.FOOTBALL_CHAMPIONSHIPS = exports.SIGNS = exports.SETTINGS = void 0;
 exports.SETTINGS = {
-    GROQ_API_KEY: process.env.GROQ_API_KEY || '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',
-    API_FOOTBALL_KEY: process.env.API_FOOTBALL_KEY || '6b653386f3a3cb5592e98f59d3521b12',
+    GROQ_API_KEY: process.env.GROQ_API_KEY || '',
+    API_FOOTBALL_KEY: process.env.API_FOOTBALL_KEY || '',
     CURRENT_SEASON: new Date().getFullYear(),
     CACHE_TTL: 30 * 60 * 1000,
     CREATOR_NUMBER: '5511927018683',

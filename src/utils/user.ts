@@ -40,15 +40,26 @@ export function formatPhoneNumber(rawNum: string): string {
     return '+' + num;
 }
 
-// Função robusta para detectar números brasileiros
+const BRAZILIAN_AREA_CODES = new Set([
+    11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 24, 27, 28,
+    31, 32, 33, 34, 35, 37, 38, 41, 42, 43, 44, 45, 46, 47, 48,
+    49, 51, 53, 54, 55, 61, 62, 63, 64, 65, 66, 67, 68, 69, 71,
+    73, 74, 75, 77, 79, 81, 82, 83, 84, 85, 86, 87, 88, 89, 91,
+    92, 93, 94, 95, 96, 97, 98, 99
+]);
+
 export function detectBrazilianNumber(num: string): boolean {
     if (!num) return false;
     const cleanNum = num.replace(/\D/g, '');
-    // Com DDI 55 (12 ou 13 dígitos)
-    if (cleanNum.startsWith('55') && (cleanNum.length === 12 || cleanNum.length === 13)) return true;
-    // Sem DDI (10 ou 11 dígitos, DDD entre 11 e 99)
-    if ((cleanNum.length === 10 || cleanNum.length === 11) && parseInt(cleanNum.substring(0, 2)) >= 11 && parseInt(cleanNum.substring(0, 2)) <= 99) return true;
-    return false;
+    const nationalNumber = cleanNum.startsWith('55') && (cleanNum.length === 12 || cleanNum.length === 13)
+        ? cleanNum.slice(2)
+        : cleanNum;
+    if (nationalNumber.length !== 10 && nationalNumber.length !== 11) return false;
+    const areaCode = Number(nationalNumber.slice(0, 2));
+    if (!BRAZILIAN_AREA_CODES.has(areaCode)) return false;
+    const subscriber = nationalNumber.slice(2);
+    if (subscriber.length === 9) return subscriber.startsWith('9');
+    return subscriber.length === 8 && !subscriber.startsWith('0');
 }
 
 export function extractRawNumber(userIdOrMention: string): string {
@@ -72,7 +83,10 @@ export function getUserInfo(userIdOrMention: string, pushNameHint: string = ''):
     const resolvedAll = extractRawNumber(userIdOrMention);
     const looksPhone = !!resolvedAll && resolvedAll.length >= 8 && resolvedAll.length <= 15;
     const isPhone = inputIsLid ? (!!mappedLid && mappedLid.length >= 8 && mappedLid.length <= 15) : looksPhone;
-    const realNum = isPhone ? (inputIsLid ? mappedLid : resolvedAll) : '';
+    const detectedNum = isPhone ? (inputIsLid ? mappedLid : resolvedAll) : '';
+    const realNum = detectedNum && detectBrazilianNumber(detectedNum) && !detectedNum.startsWith('55')
+        ? '55' + detectedNum
+        : detectedNum;
     const jid = isPhone ? realNum + '@s.whatsapp.net' : inputJid;
     const formattedNum = realNum ? formatPhoneNumber(realNum) : '';
 

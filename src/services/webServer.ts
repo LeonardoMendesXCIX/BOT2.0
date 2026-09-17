@@ -2,7 +2,9 @@ import http from 'http';
 import crypto from 'crypto';
 import { StorageManager } from '../database/storage';
 import { getUserInfo } from '../utils/user';
-const tokenMap: Record<string, string> = {};
+const tokenMap = new Map<string, { jid: string; expiresAt: number }>();
+const TOKEN_TTL_MS = 15 * 60 * 1000;
+const MAX_TOKENS = 5000;
 function getSlugs(storage: StorageManager): Record<string, string> {
     if (!storage.data.cache) storage.data.cache = {};
     if (!storage.data.cache.anonSlugs) storage.data.cache.anonSlugs = {};
@@ -32,7 +34,11 @@ export function startWebServer(getSock: () => any, storage: StorageManager, port
                 const membros = meta.participants.map((p: any) => {
                     const info = getUserInfo(p.id, p.name || (p as any).notify || '');
                     const token = crypto.randomBytes(6).toString('hex');
-                    tokenMap[token] = p.id;
+                    if (tokenMap.size >= MAX_TOKENS) {
+                        const oldest = tokenMap.keys().next().value;
+                        if (oldest) tokenMap.delete(oldest);
+                    }
+                    tokenMap.set(token, { jid: p.id, expiresAt: Date.now() + TOKEN_TTL_MS });
                     return { token: token, nome: info.pushName || info.formattedNum || 'Membro' };
                 });
                 const botNum = sock.user && sock.user.id ? sock.user.id.split(':')[0].replace(/\D/g, '') : '';
@@ -41,15 +47,25 @@ export function startWebServer(getSock: () => any, storage: StorageManager, port
             }
             if (req.method === 'POST' && path === '/api/enviar') {
                 let body = '';
+                let tooLarge = false;
                 req.on('data', c => { body += c; });
+                req.on('data', () => {
+                    if (Buffer.byteLength(body, 'utf8') > 16 * 1024 && !tooLarge) {
+                        tooLarge = true;
+                        json(res, 413, { error: 'Mensagem muito grande.' });
+                        req.destroy();
+                    }
+                });
                 req.on('end', () => {
+                    if (tooLarge) return;
                     try {
                         const data = JSON.parse(body || '{}');
                         const sock = getSock();
-                        const destJid = tokenMap[data.token];
+                        const token = typeof data.token === 'string' ? tokenMap.get(data.token) : undefined;
                         const msgTxt = String(data.msg || '').trim();
-                        if (!destJid || !msgTxt || !sock) { json(res, 400, { error: 'Dados inválidos.' }); return; }
-                        const destNum = destJid.split('@')[0].split(':')[0].replace(/\D/g, '');
+                        if (!token || token.expiresAt < Date.now() || !msgTxt || msgTxt.length > 2000 || !sock) { json(res, 400, { error: 'Dados inválidos.' }); return; }
+                        if (token.expiresAt < Date.now()) tokenMap.delete(data.token);
+                        const destNum = token.jid.split('@')[0].split(':')[0].replace(/\D/g, '');
                         const botNum = sock.user && sock.user.id ? sock.user.id.split(':')[0].replace(/\D/g, '') : '';
                         const waLink = 'https://wa.me/' + botNum + '?text=' + encodeURIComponent('!anonimo @' + destNum + ' ' + msgTxt);
                         json(res, 200, { waLink: waLink });

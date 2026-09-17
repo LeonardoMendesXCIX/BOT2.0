@@ -9,10 +9,8 @@ exports.downloadMusicById = downloadMusicById;
 exports.fetchMusic = fetchMusic;
 const axios_1 = __importDefault(require("axios"));
 const child_process_1 = require("child_process");
-const util_1 = __importDefault(require("util"));
 const fs_1 = __importDefault(require("fs"));
 const path_1 = __importDefault(require("path"));
-const execPromise = util_1.default.promisify(child_process_1.exec);
 const MEDIA_DIR = path_1.default.join(__dirname, '..', '..', 'tmp-media');
 if (!fs_1.default.existsSync(MEDIA_DIR)) {
     fs_1.default.mkdirSync(MEDIA_DIR, { recursive: true });
@@ -83,21 +81,37 @@ async function searchMusicList(query, limit = 10) {
 function getBinaryCommands() {
     const rootDir = path_1.default.join(__dirname, '..', '..');
     const binDir = path_1.default.join(rootDir, 'bin');
-    let ytDlpCmd = 'yt-dlp';
+    let command = 'yt-dlp';
     if (fs_1.default.existsSync(path_1.default.join(binDir, 'yt-dlp.exe'))) {
-        ytDlpCmd = `"${path_1.default.join(binDir, 'yt-dlp.exe')}"`;
+        command = path_1.default.join(binDir, 'yt-dlp.exe');
     }
     else if (fs_1.default.existsSync(path_1.default.join(rootDir, 'yt-dlp.exe'))) {
-        ytDlpCmd = `"${path_1.default.join(rootDir, 'yt-dlp.exe')}"`;
+        command = path_1.default.join(rootDir, 'yt-dlp.exe');
     }
-    let ffmpegParam = '';
+    let ffmpegLocation;
     if (fs_1.default.existsSync(path_1.default.join(binDir, 'ffmpeg.exe'))) {
-        ffmpegParam = `--ffmpeg-location "${binDir}"`;
+        ffmpegLocation = binDir;
     }
     else if (fs_1.default.existsSync(path_1.default.join(rootDir, 'ffmpeg.exe'))) {
-        ffmpegParam = `--ffmpeg-location "${rootDir}"`;
+        ffmpegLocation = rootDir;
     }
-    return { ytDlpCmd, ffmpegParam };
+    return { command, ffmpegLocation };
+}
+function runDownloader(command, args, timeout) {
+    return new Promise((resolve, reject) => {
+        const child = (0, child_process_1.spawn)(command, args, { windowsHide: true, stdio: ['ignore', 'ignore', 'pipe'] });
+        let stderr = '';
+        const timer = setTimeout(() => { child.kill('SIGKILL'); reject(new Error('timeout')); }, timeout);
+        child.stderr.on('data', chunk => { stderr += String(chunk); });
+        child.once('error', error => { clearTimeout(timer); reject(error); });
+        child.once('close', code => {
+            clearTimeout(timer);
+            if (code === 0)
+                resolve();
+            else
+                reject(new Error(stderr.trim() || 'yt-dlp exited with code ' + code));
+        });
+    });
 }
 // 3. Matriz de 20 Tentativas Sucessivas de Download
 async function downloadMusicById(videoId, titleHint = 'Música', artistHint = 'Artista', durationHint = '3:00', urlHint = '') {
@@ -116,39 +130,32 @@ async function downloadMusicById(videoId, titleHint = 'Música', artistHint = 'A
             thumbBuffer = Buffer.from(thumbRes.data);
     }
     catch (e) { }
-    const { ytDlpCmd, ffmpegParam } = getBinaryCommands();
+    const { command, ffmpegLocation } = getBinaryCommands();
     const tempFileBase = path_1.default.join(MEDIA_DIR, `media_${Date.now()}_${Math.floor(Math.random() * 1000)}`);
     const MAX_RETRIES = 20;
     for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
         try {
             // TENTATIVAS 1 A 7: yt-dlp Local com Diferentes Estratégias e Clientes Mobile/Web
             if (attempt === 1) {
-                const cmd = `${ytDlpCmd} ${ffmpegParam} --no-check-certificates --no-warnings --extractor-args "youtube:player_client=android,web" -x --audio-format mp3 --audio-quality 0 -o "${tempFileBase}.%(ext)s" "${videoUrl}"`;
-                await execPromise(cmd, { timeout: 45000, windowsHide: true });
+                await runDownloader(command, ['--no-check-certificates', '--no-warnings', '--extractor-args', 'youtube:player_client=android,web', '-x', '--audio-format', 'mp3', '--audio-quality', '0', ...(ffmpegLocation ? ['--ffmpeg-location', ffmpegLocation] : []), '-o', `${tempFileBase}.%(ext)s`, videoUrl], 45000);
             }
             else if (attempt === 2) {
-                const cmd = `${ytDlpCmd} --no-check-certificates --no-warnings --extractor-args "youtube:player_client=ios,mweb" -f "ba[ext=m4a]/ba/best" -o "${tempFileBase}.%(ext)s" "${videoUrl}"`;
-                await execPromise(cmd, { timeout: 45000, windowsHide: true });
+                await runDownloader(command, ['--no-check-certificates', '--no-warnings', '--extractor-args', 'youtube:player_client=ios,mweb', '-f', 'ba[ext=m4a]/ba/best', '-o', `${tempFileBase}.%(ext)s`, videoUrl], 45000);
             }
             else if (attempt === 3) {
-                const cmd = `${ytDlpCmd} ${ffmpegParam} --no-check-certificates --no-warnings --extractor-args "youtube:player_client=tv_embedded,web_creator" -x --audio-format mp3 -o "${tempFileBase}.%(ext)s" "${videoUrl}"`;
-                await execPromise(cmd, { timeout: 45000, windowsHide: true });
+                await runDownloader(command, ['--no-check-certificates', '--no-warnings', '--extractor-args', 'youtube:player_client=tv_embedded,web_creator', '-x', '--audio-format', 'mp3', ...(ffmpegLocation ? ['--ffmpeg-location', ffmpegLocation] : []), '-o', `${tempFileBase}.%(ext)s`, videoUrl], 45000);
             }
             else if (attempt === 4) {
-                const cmd = `${ytDlpCmd} --no-check-certificates --no-warnings --extractor-args "youtube:player_client=android_creator,mweb" -f "ba/best" -o "${tempFileBase}.%(ext)s" "${videoUrl}"`;
-                await execPromise(cmd, { timeout: 45000, windowsHide: true });
+                await runDownloader(command, ['--no-check-certificates', '--no-warnings', '--extractor-args', 'youtube:player_client=android_creator,mweb', '-f', 'ba/best', '-o', `${tempFileBase}.%(ext)s`, videoUrl], 45000);
             }
             else if (attempt === 5) {
-                const cmd = `${ytDlpCmd} --no-check-certificates --no-warnings --extractor-args "youtube:player_client=ios" -f "ba" -o "${tempFileBase}.%(ext)s" "${videoUrl}"`;
-                await execPromise(cmd, { timeout: 45000, windowsHide: true });
+                await runDownloader(command, ['--no-check-certificates', '--no-warnings', '--extractor-args', 'youtube:player_client=ios', '-f', 'ba', '-o', `${tempFileBase}.%(ext)s`, videoUrl], 45000);
             }
             else if (attempt === 6) {
-                const cmd = `${ytDlpCmd} ${ffmpegParam} --no-check-certificates --no-warnings --extract-audio --audio-format m4a -o "${tempFileBase}.%(ext)s" "${videoUrl}"`;
-                await execPromise(cmd, { timeout: 45000, windowsHide: true });
+                await runDownloader(command, ['--no-check-certificates', '--no-warnings', '--extract-audio', '--audio-format', 'm4a', ...(ffmpegLocation ? ['--ffmpeg-location', ffmpegLocation] : []), '-o', `${tempFileBase}.%(ext)s`, videoUrl], 45000);
             }
             else if (attempt === 7) {
-                const cmd = `${ytDlpCmd} --no-check-certificates --no-warnings -f "bestaudio" -o "${tempFileBase}.%(ext)s" "${videoUrl}"`;
-                await execPromise(cmd, { timeout: 45000, windowsHide: true });
+                await runDownloader(command, ['--no-check-certificates', '--no-warnings', '-f', 'bestaudio', '-o', `${tempFileBase}.%(ext)s`, videoUrl], 45000);
             }
             // Se for tentativa local 1 a 7, checa se o arquivo foi criado em tmp-media
             if (attempt >= 1 && attempt <= 7) {

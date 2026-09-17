@@ -1,6 +1,6 @@
 export const SETTINGS = {
-    GROQ_API_KEY: process.env.GROQ_API_KEY || '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',
-    API_FOOTBALL_KEY: process.env.API_FOOTBALL_KEY || '6b653386f3a3cb5592e98f59d3521b12',
+    GROQ_API_KEY: process.env.GROQ_API_KEY || '',
+    API_FOOTBALL_KEY: process.env.API_FOOTBALL_KEY || '',
     CURRENT_SEASON: new Date().getFullYear(),
     CACHE_TTL: 30 * 60 * 1000,
     CREATOR_NUMBER: '5511927018683',
