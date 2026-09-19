@@ -23,6 +23,7 @@ const media_1 = require("../services/media");
 const time_1 = require("../utils/time");
 const axios_1 = __importDefault(require("axios"));
 const ytDownloader_1 = require("../services/ytDownloader");
+const n8n_1 = require("../utils/n8n");
 const userMessageHistory = {};
 const stickerHistory = {};
 const musicCooldowns = {};
@@ -436,13 +437,18 @@ async function handleCommand(sock, msg, storage) {
         const mentions = [];
         let txt = '👑 *ADMINISTRADORES*\n\n📱 *Do WhatsApp:*\n';
         if (meta) {
+            (0, user_1.updateLidMapping)(meta.participants);
             const wa = meta.participants.filter((p) => p.admin);
             if (!wa.length)
                 txt += '_nenhum_\n';
             for (const p of wa) {
-                const numOnly = p.id.split('@')[0].split(':')[0].replace(/\D/g, '');
-                txt += '• @' + numOnly + (p.admin === 'superadmin' ? ' (dono)' : '') + '\n';
-                mentions.push(p.id);
+                const participantName = p.name || p.notify || p.verifiedName || '';
+                const info = (0, user_1.getUserInfo)(p.id, participantName);
+                const numOnly = info.number || p.id.split('@')[0].split(':')[0].replace(/\D/g, '');
+                const displayName = info.pushName || info.formattedNum || p.id;
+                const mentionJid = info.mentionJid || p.id;
+                txt += '• @' + numOnly + ' (' + displayName + ')' + (p.admin === 'superadmin' ? ' (dono)' : '') + '\n';
+                mentions.push(mentionJid);
             }
         }
         else {
@@ -457,20 +463,21 @@ async function handleCommand(sock, msg, storage) {
                 continue;
             anyBot = true;
             const inputJid = num.length > 15 ? num + '@lid' : num + '@s.whatsapp.net';
-            const i = (0, user_1.getUserInfo)(inputJid);
+            const i = (0, user_1.getUserInfo)(inputJid, storage.data.cache?.names?.[num] || '');
             const numOnly = i.number || num;
+            const displayName = i.pushName || i.formattedNum || numOnly || inputJid;
             const inGroup = !!meta && meta.participants.some((p) => {
                 const pid = (p.id || '').split('@')[0].split(':')[0].replace(/\D/g, '');
                 const plid = ((p.lid || '') + '').split('@')[0].split(':')[0].replace(/\D/g, '');
                 return pid === numOnly || plid === numOnly || pid === i.number || plid === i.number;
             });
             if (inGroup) {
-                txt += '• ' + i.smartMention + ' (' + (roleNames[String(lvl)] || '') + ')\n';
+                txt += '• @' + numOnly + ' (' + displayName + ') (' + (roleNames[String(lvl)] || '') + ')\n';
                 if (i.mentionJid)
                     mentions.push(i.mentionJid);
             }
             else {
-                txt += '• ' + i.smartMention + ' (' + (roleNames[String(lvl)] || '') + ') — _fora deste grupo_\n';
+                txt += '• @' + numOnly + ' (' + displayName + ') (' + (roleNames[String(lvl)] || '') + ') — _fora deste grupo_\n';
                 if (i.mentionJid)
                     mentions.push(i.mentionJid);
             }
@@ -3119,7 +3126,7 @@ async function handleCommand(sock, msg, storage) {
             await sock.sendMessage(chatId, { text: '❌ *Uso:* `!yt nome da música`' }, { quoted: msg });
             return;
         }
-        await sock.sendMessage(chatId, { text: '⏳ Buscando "' + q + '"...' }, { quoted: msg });
+        await sock.sendMessage(chatId, { text: '⏳ Buscando e baixando "' + q + '"...' }, { quoted: msg });
         try {
             const results = await (0, ytDownloader_1.searchYouTube)(q, 1);
             const chosen = results[0];
@@ -3128,13 +3135,18 @@ async function handleCommand(sock, msg, storage) {
                 return;
             }
             const audio = await (0, ytDownloader_1.getAudioBuffer)(chosen.url);
-            if (!audio.length)
-                throw new Error('áudio vazio');
+            if (!Buffer.isBuffer(audio) || audio.length < 5000)
+                throw new Error('áudio vazio ou inválido');
             await sock.sendMessage(chatId, { audio, mimetype: 'audio/mpeg', fileName: chosen.title.slice(0, 80) + '.mp3' }, { quoted: msg });
         }
         catch (error) {
             console.error('[ERRO YT]', error?.message || error);
-            await sock.sendMessage(chatId, { text: '❌ Não foi possível baixar o áudio agora.' }, { quoted: msg });
+            const reason = String(error?.message || '').toLowerCase();
+            const detail = reason.includes('timeout') ? 'o download excedeu 60 segundos' :
+                reason.includes('private') || reason.includes('unavailable') ? 'o vídeo está privado ou indisponível' :
+                    reason.includes('age') ? 'o vídeo possui restrição de idade' :
+                        'a rede ou o YouTube recusou o download';
+            await sock.sendMessage(chatId, { text: '❌ Não foi possível baixar o áudio: ' + detail + '.' }, { quoted: msg });
         }
         return;
     }
@@ -3592,6 +3604,11 @@ async function handleCommand(sock, msg, storage) {
     }
     if (firstWord.startsWith('!') && !isNavigatingMenu) {
         const suggestion = findSuggestedCommand(firstWord);
+        const n8nSuggestion = await (0, n8n_1.consultarN8nSugestao)(text, userId, chatId);
+        if (n8nSuggestion?.action === 'reply') {
+            await sock.sendMessage(chatId, { text: n8nSuggestion.message, mentions: n8nSuggestion.mentions }, { quoted: msg });
+            return;
+        }
         if (suggestion) {
             await sock.sendMessage(chatId, { text: '💡 Você quis dizer `' + suggestion + '`?' }, { quoted: msg });
             return;

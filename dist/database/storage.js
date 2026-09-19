@@ -1,16 +1,19 @@
 "use strict";
-var __importDefault = (this && this.__importDefault) || function (mod) {
-    return (mod && mod.__esModule) ? mod : { "default": mod };
-};
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.StorageManager = void 0;
-const fs_1 = __importDefault(require("fs"));
-const path_1 = __importDefault(require("path"));
+const pg_1 = require("pg");
 const user_1 = require("../utils/user");
-const STORAGE_FILE = path_1.default.join(__dirname, '..', '..', 'bot_storage.json');
+const storagePool = new pg_1.Pool({
+    host: process.env.DB_HOST || 'localhost',
+    port: Number(process.env.DB_PORT || 5432),
+    user: process.env.DB_USER || 'postgres',
+    password: process.env.DB_PASSWORD || '',
+    database: process.env.DB_NAME || 'bot2',
+});
 class StorageManager {
     data;
     pendingSave = false;
+    ready;
     constructor() {
         this.data = {
             states: {},
@@ -90,57 +93,70 @@ class StorageManager {
             anonCounter: 1000,
             maintenance: false
         };
-        this.load();
+        this.ready = this.load();
         setInterval(() => {
             if (this.pendingSave) {
                 this.saveSync();
             }
         }, 15000);
     }
-    load() {
-        if (fs_1.default.existsSync(STORAGE_FILE)) {
-            try {
-                const raw = JSON.parse(fs_1.default.readFileSync(STORAGE_FILE, 'utf8'));
-                this.data = { ...this.data, ...raw };
+    async load() {
+        try {
+            await storagePool.query(`CREATE TABLE IF NOT EXISTS bot_storage (key TEXT PRIMARY KEY, value JSONB NOT NULL)`);
+            const result = await storagePool.query('SELECT key, value FROM bot_storage');
+            for (const row of result.rows) {
+                if (row.key in this.data) {
+                    this.data[row.key] = row.value;
+                }
             }
-            catch (e) {
-                console.error('[ERRO STORAGE] Falha ao ler bot_storage.json, iniciando limpo.');
-            }
+        }
+        catch (e) {
+            console.error('[ERRO STORAGE] Falha ao carregar PostgreSQL:', e.message);
         }
     }
     flagSave() {
         this.pendingSave = true;
     }
     saveSync() {
+        void this.save();
+    }
+    async save() {
+        if (!this.pendingSave)
+            return;
         try {
-            const tmpFile = STORAGE_FILE + '.tmp';
-            fs_1.default.writeFileSync(tmpFile, JSON.stringify(this.data, null, 2));
+            await this.ready;
+            const client = await storagePool.connect();
             try {
-                fs_1.default.renameSync(tmpFile, STORAGE_FILE);
+                await client.query('BEGIN');
+                for (const [key, value] of Object.entries(this.data)) {
+                    await client.query('INSERT INTO bot_storage (key, value) VALUES ($1, $2) ON CONFLICT (key) DO UPDATE SET value = EXCLUDED.value', [key, JSON.stringify(value)]);
+                }
+                await client.query('COMMIT');
                 this.pendingSave = false;
             }
-            catch (renameErr) {
-                setTimeout(() => {
-                    try {
-                        if (fs_1.default.existsSync(tmpFile))
-                            fs_1.default.renameSync(tmpFile, STORAGE_FILE);
-                        this.pendingSave = false;
-                    }
-                    catch (e2) {
-                        console.error('[ERRO STORAGE] Renomeação após retry:', e2.message);
-                    }
-                }, 500);
+            catch (error) {
+                await client.query('ROLLBACK');
+                throw error;
+            }
+            finally {
+                client.release();
             }
         }
         catch (e) {
-            console.error('[ERRO STORAGE]', e.message);
+            console.error('[ERRO STORAGE] Falha ao salvar PostgreSQL:', e.message);
         }
     }
-    shutdown() {
-        try {
-            this.saveSync();
-        }
-        catch (e) { }
+    async shutdown() {
+        await this.ready;
+        await this.save();
+        await storagePool.end();
+    }
+    getData(key) {
+        return this.data[key];
+    }
+    setData(key, value) {
+        this.data[key] = value;
+        this.flagSave();
     }
     pruneStorage() {
         const now = Date.now();

@@ -2,6 +2,7 @@ import { WASocket } from '@whiskeysockets/baileys';
 import { StorageManager } from '../database/storage';
 import { getUserInfo, updateLidMapping, extractRawNumber, detectBrazilianNumber } from '../utils/user';
 import { checkMatch } from '../config/rbac';
+import { sendToN8N } from '../utils/n8n';
 
 export function setupGroupEvents(sock: WASocket, storage: StorageManager): void {
     sock.ev.on('group-participants.update', async (event) => {
@@ -60,6 +61,15 @@ export function setupGroupEvents(sock: WASocket, storage: StorageManager): void 
 
                     const memberInfo = getUserInfo(realJid, memberPushName);
                     const rawNum = extractRawNumber(realJid);
+
+                    void sendToN8N({
+                        action: 'group_member_added',
+                        chatId,
+                        memberId: realJid,
+                        memberName: memberInfo.pushName,
+                        memberNumber: rawNum,
+                        groupName: groupMeta?.subject || '',
+                    });
 
                     const isAntiFakeActive = storage.data.antifake?.[chatId] === true || (!storage.isFeatureDisabled(chatId, 'antifake') && storage.data.antifake?.[chatId] !== false);
                     const joinIsPn = (realJid || '').endsWith('@s.whatsapp.net');

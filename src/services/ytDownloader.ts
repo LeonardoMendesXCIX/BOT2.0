@@ -5,6 +5,7 @@ import ffmpegStatic from 'ffmpeg-static';
 import fs from 'fs';
 import path from 'path';
 import axios from 'axios';
+import { spawn } from 'child_process';
 
 ffmpeg.setFfmpegPath(ffmpegStatic || 'ffmpeg');
 
@@ -27,11 +28,12 @@ export interface SearchResult {
     title: string; url: string; videoId: string;
     duration: string; seconds: number; thumbnail: string; author: string;
 }
-interface StrategyResult<T> { success: boolean; data?: T; error?: string; strategyName: string; }
+interface StrategyResult<T> { success: boolean; data?: T; error?: string | Error; strategyName: string; }
 type Strategy<T> = () => Promise<StrategyResult<T>>;
 
 async function tryStrategies<T>(name: string, strategies: Strategy<T>[]): Promise<T> {
-    let lastError = 'todas as estratégias falharam';
+    let lastError: string | Error = 'todas as estratégias falharam';
+    let firstDetailedError: Error | undefined;
     for (let i = 0; i < strategies.length; i++) {
         try {
             const r = await strategies[i]();
@@ -39,9 +41,15 @@ async function tryStrategies<T>(name: string, strategies: Strategy<T>[]): Promis
                 console.log('[YT ' + name + '] ✅ estratégia ' + (i + 1) + '/' + strategies.length + ': ' + r.strategyName);
                 return r.data;
             }
+            if (r.error instanceof Error && !firstDetailedError) firstDetailedError = r.error;
             lastError = r.error || 'falha';
-        } catch (e: any) { lastError = e?.message || 'erro'; }
+        } catch (e: any) {
+            lastError = e instanceof Error ? e : (e?.message || 'erro');
+            if (e instanceof Error && !firstDetailedError) firstDetailedError = e;
+        }
     }
+    if (firstDetailedError) throw firstDetailedError;
+    if (lastError instanceof Error) throw lastError;
     throw new Error(name + ': ' + lastError);
 }
 
@@ -103,6 +111,75 @@ async function toMp3(input: Buffer, bitrate: string): Promise<Buffer> {
     }
 }
 
+export class YtDlpError extends Error {
+    constructor(
+        message: string,
+        public readonly stderr = '',
+        public readonly exitCode: number | null = null,
+        public readonly timedOut = false
+    ) {
+        super(message);
+        this.name = 'YtDlpError';
+        Object.setPrototypeOf(this, YtDlpError.prototype);
+    }
+}
+
+function downloadWithYtDlp(url: string): Promise<Buffer> {
+    return new Promise((resolve, reject) => {
+        const command = process.env.YT_DLP_PATH || 'yt-dlp';
+        const args = [
+            '-x', '--audio-format', 'mp3', '--no-playlist',
+            '--no-check-certificate',
+            '--extractor-args', 'youtube:player-client=web,default',
+            '--user-agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+            '--no-warnings', '--socket-timeout', '30', '-o', '-', '--', url
+        ];
+        console.log('[YT yt-dlp] iniciando download:', url);
+        const child = spawn(command, args, { stdio: ['ignore', 'pipe', 'pipe'] });
+        const chunks: Buffer[] = [];
+        let stderr = '';
+        let settled = false;
+        const timeout = setTimeout(() => {
+            if (settled) return;
+            settled = true;
+            child.kill('SIGKILL');
+            const detail = stderr.trim().replace(/\s+/g, ' ').slice(-1000);
+            console.error('[YT yt-dlp] timeout após 60 segundos:', detail || 'sem stderr');
+            reject(new YtDlpError(
+                'timeout do yt-dlp após 60 segundos' + (detail ? ': ' + detail : ''),
+                stderr,
+                null,
+                true
+            ));
+        }, 60000);
+
+        child.stdout.on('data', chunk => chunks.push(Buffer.from(chunk)));
+        child.stderr.on('data', chunk => { stderr += String(chunk); });
+        child.once('error', error => {
+            if (settled) return;
+            settled = true;
+            clearTimeout(timeout);
+            const message = 'falha ao iniciar yt-dlp: ' + error.message;
+            console.error('[YT yt-dlp] ' + message);
+            reject(new YtDlpError(message, stderr));
+        });
+        child.once('close', code => {
+            if (settled) return;
+            settled = true;
+            clearTimeout(timeout);
+            const output = Buffer.concat(chunks);
+            if (code === 0 && output.length > 5000) {
+                console.log('[YT yt-dlp] download concluído:', output.length, 'bytes');
+                resolve(output);
+                return;
+            }
+            const detail = stderr.trim().replace(/\s+/g, ' ').slice(-1000) || 'saída vazia';
+            console.error('[YT yt-dlp] falhou (code=' + code + '):', detail);
+            reject(new YtDlpError('yt-dlp falhou: ' + detail, stderr, code));
+        });
+    });
+}
+
 async function invidiousStream(url: string, inst: string, kind: 'audio' | 'video'): Promise<StrategyResult<Buffer>> {
     try {
         const id = ytdl.getVideoID(url);
@@ -139,6 +216,13 @@ async function cobalt(url: string, audio: boolean): Promise<StrategyResult<Buffe
 // ============ ÁUDIO (15 estratégias) ============
 export async function getAudioBuffer(url: string): Promise<Buffer> {
     const strategies: Strategy<Buffer>[] = [
+        async () => {
+            try {
+                return { success: true, data: await downloadWithYtDlp(url), strategyName: 'yt-dlp stdout mp3' };
+            } catch (e: any) {
+                return { success: false, strategyName: 'yt-dlp stdout mp3', error: e instanceof Error ? e : new Error(e?.message || 'erro desconhecido') };
+            }
+        },
         async () => { const r = await ytBuf(url, { quality: 'highestaudio', filter: 'audioonly' }, 'ytdl high'); if (!r.data) return r; try { return { success: true, data: await toMp3(r.data, '192'), strategyName: 'ytdl high+mp3 192k' }; } catch (e: any) { return { success: false, strategyName: 'ytdl high+mp3', error: e.message }; } },
         async () => { const r = await ytBuf(url, { quality: 'highestaudio', filter: 'audioonly' }, 'ytdl high'); if (!r.data) return r; try { return { success: true, data: await toMp3(r.data, '128'), strategyName: 'ytdl high+mp3 128k' }; } catch (e: any) { return { success: false, strategyName: 'ytdl high+mp3 128', error: e.message }; } },
         async () => { const r = await ytBuf(url, { quality: 'highestaudio', filter: 'audioonly' }, 'ytdl high'); if (!r.data) return r; try { return { success: true, data: await toMp3(r.data, '96'), strategyName: 'ytdl high+mp3 96k' }; } catch (e: any) { return { success: false, strategyName: 'ytdl high+mp3 96', error: e.message }; } },

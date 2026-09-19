@@ -3,6 +3,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.YtDlpError = void 0;
 exports.searchYouTube = searchYouTube;
 exports.getAudioBuffer = getAudioBuffer;
 exports.getVideoBuffer = getVideoBuffer;
@@ -15,6 +16,7 @@ const ffmpeg_static_1 = __importDefault(require("ffmpeg-static"));
 const fs_1 = __importDefault(require("fs"));
 const path_1 = __importDefault(require("path"));
 const axios_1 = __importDefault(require("axios"));
+const child_process_1 = require("child_process");
 fluent_ffmpeg_1.default.setFfmpegPath(ffmpeg_static_1.default || 'ffmpeg');
 const TEMP_DIR = path_1.default.join(__dirname, '..', '..', 'temp');
 if (!fs_1.default.existsSync(TEMP_DIR))
@@ -35,6 +37,7 @@ setInterval(() => {
 }, 5 * 60 * 1000);
 async function tryStrategies(name, strategies) {
     let lastError = 'todas as estratégias falharam';
+    let firstDetailedError;
     for (let i = 0; i < strategies.length; i++) {
         try {
             const r = await strategies[i]();
@@ -42,12 +45,20 @@ async function tryStrategies(name, strategies) {
                 console.log('[YT ' + name + '] ✅ estratégia ' + (i + 1) + '/' + strategies.length + ': ' + r.strategyName);
                 return r.data;
             }
+            if (r.error instanceof Error && !firstDetailedError)
+                firstDetailedError = r.error;
             lastError = r.error || 'falha';
         }
         catch (e) {
-            lastError = e?.message || 'erro';
+            lastError = e instanceof Error ? e : (e?.message || 'erro');
+            if (e instanceof Error && !firstDetailedError)
+                firstDetailedError = e;
         }
     }
+    if (firstDetailedError)
+        throw firstDetailedError;
+    if (lastError instanceof Error)
+        throw lastError;
     throw new Error(name + ': ' + lastError);
 }
 const INVIDIOUS = ['https://yewtu.be', 'https://vid.puffyan.us', 'https://invidious.privacyredirect.com', 'https://inv.nadeko.net'];
@@ -115,6 +126,72 @@ async function toMp3(input, bitrate) {
         catch (e) { }
     }
 }
+class YtDlpError extends Error {
+    stderr;
+    exitCode;
+    timedOut;
+    constructor(message, stderr = '', exitCode = null, timedOut = false) {
+        super(message);
+        this.stderr = stderr;
+        this.exitCode = exitCode;
+        this.timedOut = timedOut;
+        this.name = 'YtDlpError';
+        Object.setPrototypeOf(this, YtDlpError.prototype);
+    }
+}
+exports.YtDlpError = YtDlpError;
+function downloadWithYtDlp(url) {
+    return new Promise((resolve, reject) => {
+        const command = process.env.YT_DLP_PATH || 'yt-dlp';
+        const args = [
+            '-x', '--audio-format', 'mp3', '--no-playlist',
+            '--no-check-certificate',
+            '--extractor-args', 'youtube:player-client=web,default',
+            '--user-agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+            '--no-warnings', '--socket-timeout', '30', '-o', '-', '--', url
+        ];
+        console.log('[YT yt-dlp] iniciando download:', url);
+        const child = (0, child_process_1.spawn)(command, args, { stdio: ['ignore', 'pipe', 'pipe'] });
+        const chunks = [];
+        let stderr = '';
+        let settled = false;
+        const timeout = setTimeout(() => {
+            if (settled)
+                return;
+            settled = true;
+            child.kill('SIGKILL');
+            const detail = stderr.trim().replace(/\s+/g, ' ').slice(-1000);
+            console.error('[YT yt-dlp] timeout após 60 segundos:', detail || 'sem stderr');
+            reject(new YtDlpError('timeout do yt-dlp após 60 segundos' + (detail ? ': ' + detail : ''), stderr, null, true));
+        }, 60000);
+        child.stdout.on('data', chunk => chunks.push(Buffer.from(chunk)));
+        child.stderr.on('data', chunk => { stderr += String(chunk); });
+        child.once('error', error => {
+            if (settled)
+                return;
+            settled = true;
+            clearTimeout(timeout);
+            const message = 'falha ao iniciar yt-dlp: ' + error.message;
+            console.error('[YT yt-dlp] ' + message);
+            reject(new YtDlpError(message, stderr));
+        });
+        child.once('close', code => {
+            if (settled)
+                return;
+            settled = true;
+            clearTimeout(timeout);
+            const output = Buffer.concat(chunks);
+            if (code === 0 && output.length > 5000) {
+                console.log('[YT yt-dlp] download concluído:', output.length, 'bytes');
+                resolve(output);
+                return;
+            }
+            const detail = stderr.trim().replace(/\s+/g, ' ').slice(-1000) || 'saída vazia';
+            console.error('[YT yt-dlp] falhou (code=' + code + '):', detail);
+            reject(new YtDlpError('yt-dlp falhou: ' + detail, stderr, code));
+        });
+    });
+}
 async function invidiousStream(url, inst, kind) {
     try {
         const id = ytdl_core_1.default.getVideoID(url);
@@ -160,6 +237,14 @@ async function cobalt(url, audio) {
 // ============ ÁUDIO (15 estratégias) ============
 async function getAudioBuffer(url) {
     const strategies = [
+        async () => {
+            try {
+                return { success: true, data: await downloadWithYtDlp(url), strategyName: 'yt-dlp stdout mp3' };
+            }
+            catch (e) {
+                return { success: false, strategyName: 'yt-dlp stdout mp3', error: e instanceof Error ? e : new Error(e?.message || 'erro desconhecido') };
+            }
+        },
         async () => { const r = await ytBuf(url, { quality: 'highestaudio', filter: 'audioonly' }, 'ytdl high'); if (!r.data)
             return r; try {
             return { success: true, data: await toMp3(r.data, '192'), strategyName: 'ytdl high+mp3 192k' };

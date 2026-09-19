@@ -3,6 +3,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.setupGroupEvents = setupGroupEvents;
 const user_1 = require("../utils/user");
 const rbac_1 = require("../config/rbac");
+const n8n_1 = require("../utils/n8n");
 function setupGroupEvents(sock, storage) {
     sock.ev.on('group-participants.update', async (event) => {
         try {
@@ -51,6 +52,14 @@ function setupGroupEvents(sock, storage) {
                     }
                     const memberInfo = (0, user_1.getUserInfo)(realJid, memberPushName);
                     const rawNum = (0, user_1.extractRawNumber)(realJid);
+                    void (0, n8n_1.sendToN8N)({
+                        action: 'group_member_added',
+                        chatId,
+                        memberId: realJid,
+                        memberName: memberInfo.pushName,
+                        memberNumber: rawNum,
+                        groupName: groupMeta?.subject || '',
+                    });
                     const isAntiFakeActive = storage.data.antifake?.[chatId] === true || (!storage.isFeatureDisabled(chatId, 'antifake') && storage.data.antifake?.[chatId] !== false);
                     const joinIsPn = (realJid || '').endsWith('@s.whatsapp.net');
                     const pnDigits = joinIsPn ? (0, user_1.extractRawNumber)(realJid) : '';

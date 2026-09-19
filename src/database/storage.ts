@@ -1,6 +1,5 @@
-import fs from 'fs';
-import path from 'path';
 import { WASocket } from '@whiskeysockets/baileys';
+import { Pool } from 'pg';
 import { getUserInfo } from '../utils/user';
 
 export interface ClusterMessage {
@@ -127,11 +126,18 @@ export interface BotStorage {
     maintenance: boolean;
 }
 
-const STORAGE_FILE = path.join(__dirname, '..', '..', 'bot_storage.json');
+const storagePool = new Pool({
+    host: process.env.DB_HOST || 'localhost',
+    port: Number(process.env.DB_PORT || 5432),
+    user: process.env.DB_USER || 'postgres',
+    password: process.env.DB_PASSWORD || '',
+    database: process.env.DB_NAME || 'bot2',
+});
 
 export class StorageManager {
     public data: BotStorage;
     private pendingSave = false;
+    public readonly ready: Promise<void>;
 
     constructor() {
         this.data = {
@@ -212,7 +218,7 @@ export class StorageManager {
             anonCounter: 1000,
             maintenance: false
         };
-        this.load();
+        this.ready = this.load();
 
         setInterval(() => {
             if (this.pendingSave) {
@@ -221,14 +227,17 @@ export class StorageManager {
         }, 15000);
     }
 
-    private load(): void {
-        if (fs.existsSync(STORAGE_FILE)) {
-            try {
-                const raw = JSON.parse(fs.readFileSync(STORAGE_FILE, 'utf8'));
-                this.data = { ...this.data, ...raw };
-            } catch (e) {
-                console.error('[ERRO STORAGE] Falha ao ler bot_storage.json, iniciando limpo.');
+    private async load(): Promise<void> {
+        try {
+            await storagePool.query(`CREATE TABLE IF NOT EXISTS bot_storage (key TEXT PRIMARY KEY, value JSONB NOT NULL)`);
+            const result = await storagePool.query<{ key: string; value: BotStorage[keyof BotStorage] }>('SELECT key, value FROM bot_storage');
+            for (const row of result.rows) {
+                if (row.key in this.data) {
+                    (this.data as any)[row.key] = row.value;
+                }
             }
+        } catch (e: any) {
+            console.error('[ERRO STORAGE] Falha ao carregar PostgreSQL:', e.message);
         }
     }
 
@@ -237,31 +246,48 @@ export class StorageManager {
     }
 
     public saveSync(): void {
+        void this.save();
+    }
+
+    private async save(): Promise<void> {
+        if (!this.pendingSave) return;
         try {
-            const tmpFile = STORAGE_FILE + '.tmp';
-            fs.writeFileSync(tmpFile, JSON.stringify(this.data, null, 2));
+            await this.ready;
+            const client = await storagePool.connect();
             try {
-                fs.renameSync(tmpFile, STORAGE_FILE);
+                await client.query('BEGIN');
+                for (const [key, value] of Object.entries(this.data)) {
+                    await client.query(
+                        'INSERT INTO bot_storage (key, value) VALUES ($1, $2) ON CONFLICT (key) DO UPDATE SET value = EXCLUDED.value',
+                        [key, JSON.stringify(value)],
+                    );
+                }
+                await client.query('COMMIT');
                 this.pendingSave = false;
-            } catch (renameErr: any) {
-                setTimeout(() => {
-                    try {
-                        if (fs.existsSync(tmpFile)) fs.renameSync(tmpFile, STORAGE_FILE);
-                        this.pendingSave = false;
-                    } catch (e2: any) {
-                        console.error('[ERRO STORAGE] Renomeação após retry:', e2.message);
-                    }
-                }, 500);
+            } catch (error) {
+                await client.query('ROLLBACK');
+                throw error;
+            } finally {
+                client.release();
             }
         } catch (e: any) {
-            console.error('[ERRO STORAGE]', e.message);
+            console.error('[ERRO STORAGE] Falha ao salvar PostgreSQL:', e.message);
         }
     }
 
-    public shutdown(): void {
-        try {
-            this.saveSync();
-        } catch (e) { }
+    public async shutdown(): Promise<void> {
+        await this.ready;
+        await this.save();
+        await storagePool.end();
+    }
+
+    public getData<T = any>(key: keyof BotStorage): T {
+        return (this.data as any)[key] as T;
+    }
+
+    public setData<K extends keyof BotStorage>(key: K, value: BotStorage[K]): void {
+        this.data[key] = value;
+        this.flagSave();
     }
 
     public pruneStorage(): void {

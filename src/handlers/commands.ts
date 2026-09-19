@@ -13,10 +13,11 @@ import { fetchWikipedia } from '../services/wikipedia';
 import { imageToStickerBuffer, stickerToImageBuffer } from '../utils/sticker';
 import { getUserInfo, updateLidMapping, extractRawNumber, detectBrazilianNumber, UserDisplayInfo, lidMap, contactCache } from '../utils/user';
 import { generateNglCard, generateProfileCard, generateMemeCard, generateQuoteCard, generateTextSticker } from '../services/nglCard';
-import { downloadMedia, getYoutubeInfo, translateText, defineWord, removeBackground, fetchLiveMatches } from '../services/media';
+import { downloadMedia, translateText, defineWord, removeBackground, fetchLiveMatches } from '../services/media';
 import { getHHMM, isWithinWindow } from '../utils/time';
 import axios from 'axios';
 import { searchYouTube, getAudioBuffer, getVideoBuffer } from '../services/ytDownloader';
+import { consultarN8nSugestao } from '../utils/n8n';
 
 const userMessageHistory: Record<string, number[]> = {};
 const stickerHistory: Record<string, number[]> = {};
@@ -336,12 +337,17 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
         let txt = '👑 *ADMINISTRADORES*\n\n📱 *Do WhatsApp:*\n';
         
         if (meta) {
+            updateLidMapping(meta.participants);
             const wa = meta.participants.filter((p: any) => p.admin);
             if (!wa.length) txt += '_nenhum_\n';
             for (const p of wa) {
-                const numOnly = p.id.split('@')[0].split(':')[0].replace(/\D/g, '');
-                txt += '• @' + numOnly + (p.admin === 'superadmin' ? ' (dono)' : '') + '\n';
-                mentions.push(p.id);
+                const participantName = p.name || p.notify || p.verifiedName || '';
+                const info = getUserInfo(p.id, participantName);
+                const numOnly = info.number || p.id.split('@')[0].split(':')[0].replace(/\D/g, '');
+                const displayName = info.pushName || info.formattedNum || p.id;
+                const mentionJid = info.mentionJid || p.id;
+                txt += '• @' + numOnly + ' (' + displayName + ')' + (p.admin === 'superadmin' ? ' (dono)' : '') + '\n';
+                mentions.push(mentionJid);
             }
         } else {
             txt += '_não foi possível ler o grupo_\n';
@@ -356,8 +362,9 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
             if (!(lvl >= 2)) continue;
             anyBot = true;
             const inputJid = num.length > 15 ? num + '@lid' : num + '@s.whatsapp.net';
-            const i = getUserInfo(inputJid);
+            const i = getUserInfo(inputJid, storage.data.cache?.names?.[num] || '');
             const numOnly = i.number || num;
+            const displayName = i.pushName || i.formattedNum || numOnly || inputJid;
             
             const inGroup = !!meta && meta.participants.some((p: any) => {
                 const pid = (p.id || '').split('@')[0].split(':')[0].replace(/\D/g, '');
@@ -366,10 +373,10 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
             });
             
             if (inGroup) {
-                txt += '• ' + i.smartMention + ' (' + (roleNames[String(lvl)] || '') + ')\n';
+                txt += '• @' + numOnly + ' (' + displayName + ') (' + (roleNames[String(lvl)] || '') + ')\n';
                 if (i.mentionJid) mentions.push(i.mentionJid);
             } else {
-                txt += '• ' + i.smartMention + ' (' + (roleNames[String(lvl)] || '') + ') — _fora deste grupo_\n';
+                txt += '• @' + numOnly + ' (' + displayName + ') (' + (roleNames[String(lvl)] || '') + ') — _fora deste grupo_\n';
                 if (i.mentionJid) mentions.push(i.mentionJid);
             }
         }
@@ -2245,17 +2252,22 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
         if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg }); return; }
         const q = text.slice(firstWord.length).trim();
         if (!q) { await sock.sendMessage(chatId, { text: '❌ *Uso:* `!yt nome da música`' }, { quoted: msg }); return; }
-        await sock.sendMessage(chatId, { text: '⏳ Buscando "' + q + '"...' }, { quoted: msg });
+        await sock.sendMessage(chatId, { text: '⏳ Buscando e baixando "' + q + '"...' }, { quoted: msg });
         try {
             const results = await searchYouTube(q, 1);
             const chosen = results[0];
             if (!chosen?.url) { await sock.sendMessage(chatId, { text: '❌ Não encontrei resultados.' }, { quoted: msg }); return; }
             const audio = await getAudioBuffer(chosen.url);
-            if (!audio.length) throw new Error('áudio vazio');
+            if (!Buffer.isBuffer(audio) || audio.length < 5000) throw new Error('áudio vazio ou inválido');
             await sock.sendMessage(chatId, { audio, mimetype: 'audio/mpeg', fileName: chosen.title.slice(0, 80) + '.mp3' }, { quoted: msg });
         } catch (error: any) {
             console.error('[ERRO YT]', error?.message || error);
-            await sock.sendMessage(chatId, { text: '❌ Não foi possível baixar o áudio agora.' }, { quoted: msg });
+            const reason = String(error?.message || '').toLowerCase();
+            const detail = reason.includes('timeout') ? 'o download excedeu 60 segundos' :
+                reason.includes('private') || reason.includes('unavailable') ? 'o vídeo está privado ou indisponível' :
+                reason.includes('age') ? 'o vídeo possui restrição de idade' :
+                'a rede ou o YouTube recusou o download';
+            await sock.sendMessage(chatId, { text: '❌ Não foi possível baixar o áudio: ' + detail + '.' }, { quoted: msg });
         }
         return;
     }
@@ -2567,6 +2579,11 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
     }
     if (firstWord.startsWith('!') && !isNavigatingMenu) {
         const suggestion = findSuggestedCommand(firstWord);
+        const n8nSuggestion = await consultarN8nSugestao(text, userId, chatId);
+        if (n8nSuggestion?.action === 'reply') {
+            await sock.sendMessage(chatId, { text: n8nSuggestion.message, mentions: n8nSuggestion.mentions }, { quoted: msg });
+            return;
+        }
         if (suggestion) {
             await sock.sendMessage(chatId, { text: '💡 Você quis dizer `' + suggestion + '`?' }, { quoted: msg });
             return;

@@ -37,6 +37,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 const baileys_1 = __importStar(require("@whiskeysockets/baileys"));
+const postgres_baileys_1 = require("postgres-baileys");
 const pino_1 = __importDefault(require("pino"));
 const node_cron_1 = __importDefault(require("node-cron"));
 const readline_1 = __importDefault(require("readline"));
@@ -166,13 +167,13 @@ const contactsDB = {};
     return null;
 });
 (0, webServer_1.startWebServer)(() => sockInstance, storage, parseInt(process.env.WEB_PORT || "3000", 10));
-process.on("SIGINT", () => {
+process.on("SIGINT", async () => {
     console.log("\n[SISTEMA] Encerrando... salvando dados.");
-    storage.shutdown();
+    await storage.shutdown();
     process.exit(0);
 });
-process.on("SIGTERM", () => {
-    storage.shutdown();
+process.on("SIGTERM", async () => {
+    await storage.shutdown();
     process.exit(0);
 });
 node_cron_1.default.schedule("0 3 * * *", () => {
@@ -609,7 +610,14 @@ async function syncSchedulesOnBoot(sock) {
     }
 }
 async function startBot() {
-    const { state, saveCreds } = await (0, baileys_1.useMultiFileAuthState)("./sessions");
+    await storage.ready;
+    const { state, saveCreds } = await (0, postgres_baileys_1.usePostgreSQLAuthState)({
+        host: process.env.DB_HOST || 'localhost',
+        port: Number(process.env.DB_PORT || 5432),
+        user: process.env.DB_USER || 'postgres',
+        password: process.env.DB_PASSWORD || '',
+        database: process.env.DB_NAME || 'bot2',
+    }, process.env.WHATSAPP_SESSION_ID || 'bot2.0');
     const { version } = await (0, baileys_1.fetchLatestBaileysVersion)();
     let pairingCodeRequested = false;
     const sock = (0, baileys_1.default)({

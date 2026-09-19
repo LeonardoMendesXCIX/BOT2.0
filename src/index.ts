@@ -1,9 +1,9 @@
 import makeWASocket, {
-    useMultiFileAuthState,
     DisconnectReason,
     fetchLatestBaileysVersion,
     Browsers
 } from '@whiskeysockets/baileys';
+import { usePostgreSQLAuthState } from 'postgres-baileys';
 import pino from 'pino';
 import cron from 'node-cron';
 import readline from 'readline';
@@ -156,13 +156,13 @@ startWebServer(
   parseInt(process.env.WEB_PORT || "3000", 10),
 );
 
-process.on("SIGINT", () => {
+process.on("SIGINT", async () => {
   console.log("\n[SISTEMA] Encerrando... salvando dados.");
-  storage.shutdown();
+  await storage.shutdown();
   process.exit(0);
 });
-process.on("SIGTERM", () => {
-  storage.shutdown();
+process.on("SIGTERM", async () => {
+  await storage.shutdown();
   process.exit(0);
 });
 
@@ -610,7 +610,14 @@ async function syncSchedulesOnBoot(sock: any) {
 }
 
 async function startBot() {
-  const { state, saveCreds } = await useMultiFileAuthState("./sessions");
+  await storage.ready;
+  const { state, saveCreds } = await usePostgreSQLAuthState({
+    host: process.env.DB_HOST || 'localhost',
+    port: Number(process.env.DB_PORT || 5432),
+    user: process.env.DB_USER || 'postgres',
+    password: process.env.DB_PASSWORD || '',
+    database: process.env.DB_NAME || 'bot2',
+  }, process.env.WHATSAPP_SESSION_ID || 'bot2.0');
   const { version } = await fetchLatestBaileysVersion();
 
   let pairingCodeRequested = false;
