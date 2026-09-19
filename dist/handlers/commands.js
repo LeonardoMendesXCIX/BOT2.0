@@ -11,7 +11,6 @@ const settings_1 = require("../config/settings");
 const ai_1 = require("../services/ai");
 const nsfw_1 = require("../services/nsfw");
 const transcription_1 = require("../services/transcription");
-const tts_1 = require("../services/tts");
 const horoscope_1 = require("../services/horoscope");
 const news_1 = require("../services/news");
 const football_1 = require("../services/football");
@@ -856,52 +855,8 @@ async function handleCommand(sock, msg, storage) {
             return;
         }
     }
-    if (['!voz', '!falar'].includes(firstWord)) {
-        const queryVoz = text.slice(firstWord.length).trim();
-        if (!queryVoz) {
-            await sock.sendMessage(chatId, { text: '🗣️ *COMO USAR:*\n\n`!voz texto aqui`' }, { quoted: msg });
-            return;
-        }
-        await sock.sendMessage(chatId, { text: '🗣️ *BOT DROPHTTP:* Sintetizando voz...' }, { quoted: msg });
-        try {
-            const audioBuffer = await (0, tts_1.generateTTS)(queryVoz);
-            if (audioBuffer)
-                await sock.sendMessage(chatId, { audio: audioBuffer, mimetype: 'audio/mpeg' }, { quoted: msg });
-            else
-                await sock.sendMessage(chatId, { text: '❌ Não foi possível sintetizar.' });
-        }
-        catch (e) {
-            await sock.sendMessage(chatId, { text: '❌ Erro no motor de voz.' });
-        }
-        return;
-    }
-    if (['!transcrever', '!ouvir', '!audio'].includes(firstWord)) {
-        const targetMsg = msg.message?.extendedTextMessage?.contextInfo?.quotedMessage ? {
-            key: { remoteJid: chatId, id: msg.message.extendedTextMessage.contextInfo.stanzaId, participant: msg.message.extendedTextMessage.contextInfo.participant },
-            message: msg.message.extendedTextMessage.contextInfo.quotedMessage
-        } : msg;
-        const isAudio = targetMsg.message?.audioMessage;
-        if (!isAudio) {
-            await sock.sendMessage(chatId, { text: '🎙️ Responda a um áudio com `!transcrever`' }, { quoted: msg });
-            return;
-        }
-        try {
-            const audioBuffer = await (0, baileys_1.downloadMediaMessage)(targetMsg, 'buffer', {});
-            if (audioBuffer) {
-                const transcript = await (0, transcription_1.transcribeAudio)(audioBuffer);
-                if (transcript) {
-                    const audioAuthor = targetMsg.key.participant || sender;
-                    const authorInfo = (0, user_1.getUserInfo)(audioAuthor);
-                    await sock.sendMessage(chatId, { text: '🎙️ *TRANSCRIÇÃO*\n\n👤 ' + authorInfo.smartMention + '\n\n📝 "' + transcript + '"', mentions: [authorInfo.mentionJid, authorInfo.jid] }, { quoted: msg });
-                }
-                else {
-                    await sock.sendMessage(chatId, { text: '❌ Áudio inaudível.' }, { quoted: msg });
-                }
-            }
-        }
-        catch (e) {
-            await sock.sendMessage(chatId, { text: '❌ Erro ao transcrever.' }, { quoted: msg });
-        }
+    if (['!voz', '!falar', '!transcrever', '!ouvir', '!audio'].includes(firstWord)) {
+        await sock.sendMessage(chatId, { text: '⚠️ Este comando está temporariamente desativado para manutenção.' }, { quoted: msg });
         return;
     }
     if (['!enquete', '!votacao'].includes(firstWord)) {
@@ -3116,85 +3071,8 @@ async function handleCommand(sock, msg, storage) {
         await sock.sendMessage(chatId, { sticker: buf }, { quoted: msg });
         return;
     }
-    if (firstWord === '!yt' || firstWord === '!youtube') {
-        if (!isGroup) {
-            await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg });
-            return;
-        }
-        const q = text.slice(firstWord.length).trim();
-        if (!q) {
-            await sock.sendMessage(chatId, { text: '❌ *Uso:* `!yt nome da música`' }, { quoted: msg });
-            return;
-        }
-        await sock.sendMessage(chatId, { text: '⏳ Buscando e baixando "' + q + '"...' }, { quoted: msg });
-        try {
-            const results = await (0, ytDownloader_1.searchYouTube)(q, 1);
-            const chosen = results[0];
-            if (!chosen?.url) {
-                await sock.sendMessage(chatId, { text: '❌ Não encontrei resultados.' }, { quoted: msg });
-                return;
-            }
-            const audio = await (0, ytDownloader_1.getAudioBuffer)(chosen.url);
-            if (!Buffer.isBuffer(audio) || audio.length < 5000)
-                throw new Error('áudio vazio ou inválido');
-            await sock.sendMessage(chatId, { audio, mimetype: 'audio/mpeg', fileName: chosen.title.slice(0, 80) + '.mp3' }, { quoted: msg });
-        }
-        catch (error) {
-            console.error('[ERRO YT]', error?.message || error);
-            const reason = String(error?.message || '').toLowerCase();
-            const detail = reason.includes('timeout') ? 'o download excedeu 60 segundos' :
-                reason.includes('private') || reason.includes('unavailable') ? 'o vídeo está privado ou indisponível' :
-                    reason.includes('age') ? 'o vídeo possui restrição de idade' :
-                        'a rede ou o YouTube recusou o download';
-            await sock.sendMessage(chatId, { text: '❌ Não foi possível baixar o áudio: ' + detail + '.' }, { quoted: msg });
-        }
-        return;
-    }
-    if (firstWord === '!tiktok' || firstWord === '!tt' || firstWord === '!insta' || firstWord === '!ig') {
-        if (!isGroup) {
-            await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg });
-            return;
-        }
-        const url = text.slice(firstWord.length).trim();
-        if (!url.startsWith('http')) {
-            await sock.sendMessage(chatId, { text: '❌ *Uso:* `!tiktok <link>` ou `!insta <link>`' }, { quoted: msg });
-            return;
-        }
-        await sock.sendMessage(chatId, { text: '⏳ Baixando mídia... (requer API de download configurada)' }, { quoted: msg });
-        await sock.sendMessage(chatId, { text: '⚠️ Download direto ainda não configurado. Cole o link manualmente:\n' + url }, { quoted: msg });
-        return;
-    }
-    if (firstWord === '!musica' || firstWord === '!music') {
-        if (!isGroup) {
-            await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg });
-            return;
-        }
-        const q = text.slice(firstWord.length).trim();
-        if (!q) {
-            await sock.sendMessage(chatId, { text: '❌ *Uso:* `!musica nome`' }, { quoted: msg });
-            return;
-        }
-        await sock.sendMessage(chatId, { text: '🎵 Buscando "' + q + '" no YouTube...\n🔗 https://youtube.com/results?search_query=' + encodeURIComponent(q) }, { quoted: msg });
-        return;
-    }
-    if (firstWord === '!bg' || firstWord === '!fundo') {
-        if (!isGroup) {
-            await sock.sendMessage(chatId, { text: '❌ Só em grupos.' }, { quoted: msg });
-            return;
-        }
-        const ctxI = msg.message?.extendedTextMessage?.contextInfo;
-        const qMsg = ctxI?.quotedMessage;
-        const imgBuf = qMsg?.imageMessage ? await sock.downloadMediaMessage?.({ message: qMsg, key: { remoteJid: chatId, id: ctxI.stanzaId, fromMe: false } }).catch(() => null) : null;
-        if (!imgBuf) {
-            await sock.sendMessage(chatId, { text: '❌ Responda uma IMAGEM com `!bg`.' }, { quoted: msg });
-            return;
-        }
-        const out = await (0, media_1.removeBackground)(imgBuf);
-        if (!out) {
-            await sock.sendMessage(chatId, { text: '⚠️ Remoção de fundo requer API (remove.bg) configurada.' }, { quoted: msg });
-            return;
-        }
-        await sock.sendMessage(chatId, { image: out, caption: '🖼️ Fundo removido!' }, { quoted: msg });
+    if (['!yt', '!youtube', '!tiktok', '!tt', '!insta', '!ig', '!musica', '!music', '!bg', '!fundo'].includes(firstWord)) {
+        await sock.sendMessage(chatId, { text: '⚠️ Este comando está temporariamente desativado para manutenção.' }, { quoted: msg });
         return;
     }
     if (firstWord === '!traduzir' || firstWord === '!translate') {
