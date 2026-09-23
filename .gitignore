@@ -7,3 +7,9 @@ sessions/
 node_modules/
 .webjs_cache/
 bot_storage.json
+# Dados sensiveis
+auth_info_baileys/
+bot_storage.json
+.env
+data/
+sessions/
