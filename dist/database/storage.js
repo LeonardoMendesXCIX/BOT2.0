@@ -91,6 +91,8 @@ class StorageManager {
             disabledFeatures: {},
             anonMsgs: [],
             anonCounter: 1000,
+            reportAdminGroup: null,
+            pendingReports: {},
             maintenance: false
         };
         this.ready = this.load();

@@ -785,6 +785,61 @@ async function startBot() {
       const tsSec = typeof rawTs === 'number' ? rawTs : (rawTs?.low ?? rawTs?.toNumber?.() ?? 0);
       const msgTime = Number(tsSec) * 1000;
       if (msgTime && Date.now() - msgTime > 10 * 60 * 1000) continue;
+
+      const reportUserId = (msg.key.participant || msg.key.remoteJid || '').split('@')[0].split(':')[0];
+      const pendingReport = storage.data.pendingReports?.[reportUserId];
+
+      if (pendingReport && pendingReport.step === 'waiting_evidence' && msg.message?.imageMessage) {
+        try {
+          const { downloadMediaMessage } = await import('@whiskeysockets/baileys');
+          const { extractPhoneFromImage } = await import('./services/reportService');
+
+          const chatId = msg.key.remoteJid || '';
+          const buffer = await downloadMediaMessage(msg as any, 'buffer', {});
+          if (!buffer) {
+            await sock.sendMessage(chatId, { text: '❌ Não consegui baixar a imagem.' });
+            return;
+          }
+
+          const base64 = Buffer.from(buffer).toString('base64');
+          await sock.sendMessage(chatId, { text: '🔍 Analisando a imagem...' });
+
+          const numeros = await extractPhoneFromImage(base64);
+
+          if (numeros.length === 0) {
+            await sock.sendMessage(chatId, { text: '❌ Não encontrei nenhum número de telefone na imagem. Tente enviar um print mais claro.' });
+            return;
+          }
+
+          const numeroExtraido = numeros[0];
+          const adminGroup = storage.data.reportAdminGroup;
+
+          if (adminGroup) {
+            const caption = '📸 *NOVA DENÚNCIA*\n\n' +
+              '👤 *Denunciado:* +' + numeroExtraido + '\n' +
+              '🏢 *Grupo:* ' + (pendingReport.groupName || 'Desconhecido') + '\n' +
+              '📅 *Data:* ' + new Date().toLocaleString('pt-BR') + '\n\n' +
+              '⚠️ *Remover do grupo?*\n' +
+              '1 - ✅ Sim\n' +
+              '2 - ❌ Não';
+
+            await sock.sendMessage(adminGroup, { image: buffer, caption });
+            pendingReport.step = 'waiting_admin_decision';
+            pendingReport.extractedNumber = numeroExtraido;
+            storage.flagSave();
+
+            await sock.sendMessage(chatId, { text: '✅ *DENÚNCIA ENVIADA*\n\nOs administradores irão analisar. Obrigado!' });
+          } else {
+            await sock.sendMessage(chatId, { text: '❌ Grupo de denúncias não configurado.' });
+          }
+          return;
+        } catch (e: any) {
+          console.error('[REPORT] Erro:', e.message);
+          await sock.sendMessage(msg.key.remoteJid || '', { text: '❌ Erro ao processar denúncia.' });
+          return;
+        }
+      }
+
       try { lastProcessedMsg = Date.now(); await handleCommand(sock, msg, storage); }
       catch (err: any) { console.error('[ERRO PROCESSANDO MENSAGEM]', err.message); }
     }

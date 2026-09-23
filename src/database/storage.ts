@@ -123,6 +123,16 @@ export interface BotStorage {
     disabledFeatures: Record<string, Record<string, boolean>>;
     anonMsgs: AnonMessage[];
     anonCounter: number;
+    reportAdminGroup: string | null;
+    pendingReports: Record<string, {
+        userId: string;
+        chatId: string;
+        step: 'waiting_evidence' | 'waiting_admin_decision';
+        messageId?: string;
+        extractedNumber?: string;
+        reporterJid?: string;
+        groupName?: string;
+    }>;
     maintenance: boolean;
 }
 
@@ -216,6 +226,8 @@ export class StorageManager {
             disabledFeatures: {},
             anonMsgs: [],
             anonCounter: 1000,
+            reportAdminGroup: null,
+            pendingReports: {},
             maintenance: false
         };
         this.ready = this.load();

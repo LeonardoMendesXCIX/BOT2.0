@@ -18,6 +18,7 @@ import { getHHMM, isWithinWindow } from '../utils/time';
 import axios from 'axios';
 import { searchYouTube, getAudioBuffer, getVideoBuffer } from '../services/ytDownloader';
 import { consultarN8nSugestao } from '../utils/n8n';
+import { extractPhoneFromImage } from '../services/reportService';
 
 const userMessageHistory: Record<string, number[]> = {};
 const stickerHistory: Record<string, number[]> = {};
@@ -2404,6 +2405,79 @@ export async function handleCommand(sock: WASocket, msg: proto.IWebMessageInfo, 
         await sock.sendMessage(chatId, { text: '🟢 Horário comercial: ' + hours[1] + ' às ' + hours[2] + '. Fora disso, auto-resposta no privado.' }, { quoted: msg });
         return;
     }
+    // ===== SISTEMA DE DENÚNCIA =====
+
+    if (firstWord === '!cadastrogrupodenuncia') {
+        if (!isGroup) { await sock.sendMessage(chatId, { text: '❌ Use este comando dentro do grupo que receberá as denúncias.' }, { quoted: msg }); return; }
+        if (!isSuperAdmin(userId, storage.data.users)) { await sock.sendMessage(chatId, { text: '❌ Apenas super admin.' }, { quoted: msg }); return; }
+        storage.data.reportAdminGroup = chatId;
+        storage.flagSave();
+        await sock.sendMessage(chatId, { text: '✅ *GRUPO DE DENÚNCIAS REGISTRADO!*\n\nEste grupo receberá todas as denúncias com evidências.' }, { quoted: msg });
+        return;
+    }
+
+    if (firstWord === '!denunciar') {
+        if (!storage.data.reportAdminGroup) {
+            await sock.sendMessage(chatId, { text: '❌ Sistema de denúncias não configurado. Avise um admin.' }, { quoted: msg });
+            return;
+        }
+        storage.data.pendingReports[userId] = {
+            userId,
+            chatId,
+            step: 'waiting_evidence',
+            reporterJid: sender,
+            groupName: isGroup ? (await sock.groupMetadata(chatId).catch(() => null))?.subject || 'Desconhecido' : 'Privado'
+        };
+        storage.flagSave();
+        await sock.sendMessage(chatId, { text: '📎 *DENÚNCIA INICIADA*\n\nAnexe uma imagem como evidência (print, foto, etc).\n\n_O número do infrator será extraído automaticamente e enviado aos administradores._' }, { quoted: msg });
+        return;
+    }
+
+    if (!firstWord.startsWith('!') && textLower.includes('denuncia') && !storage.data.pendingReports[userId]) {
+        await sock.sendMessage(chatId, { text: '⚠️ *DENÚNCIA*\n\nPara registrar uma denúncia, responda com *!denunciar*\n\n_Você poderá anexar uma imagem como evidência._' }, { quoted: msg });
+        return;
+    }
+
+    if (storage.data.reportAdminGroup && chatId === storage.data.reportAdminGroup && !key.fromMe) {
+        const resposta = text.trim();
+        if (resposta === '1' || resposta === '2') {
+            const adminRole = parseInt(getUserRole(userId, storage.data.users));
+            if (adminRole < 2) return;
+
+            const entries = Object.entries(storage.data.pendingReports).filter(([_, r]) => r.step === 'waiting_admin_decision');
+            if (entries.length === 0) return;
+
+            const [reportKey, report] = entries[entries.length - 1];
+
+            if (resposta === '1' && report.extractedNumber) {
+                try {
+                    const meta = await sock.groupMetadata(report.chatId).catch(() => null);
+                    if (meta) {
+                        const alvo = meta.participants.find((p: any) => {
+                            const pid = (p.id || '').split('@')[0].split(':')[0].replace(/\D/g, '');
+                            const plid = (((p as any).lid || '') + '').split('@')[0].split(':')[0].replace(/\D/g, '');
+                            return pid === report.extractedNumber || plid === report.extractedNumber || pid.endsWith(report.extractedNumber!) || plid.endsWith(report.extractedNumber!);
+                        });
+                        if (alvo) {
+                            await sock.groupParticipantsUpdate(report.chatId, [alvo.id], 'remove');
+                            await sock.sendMessage(chatId, { text: '✅ Usuário *' + report.extractedNumber + '* removido do grupo *' + report.groupName + '*.' });
+                        } else {
+                            await sock.sendMessage(chatId, { text: '⚠️ Não encontrei o número *' + report.extractedNumber + '* no grupo. Talvez já tenha saído.' });
+                        }
+                    }
+                } catch (e: any) {
+                    await sock.sendMessage(chatId, { text: '❌ Erro ao remover: ' + e.message });
+                }
+            } else {
+                await sock.sendMessage(chatId, { text: '❌ Remoção cancelada.' });
+            }
+
+            delete storage.data.pendingReports[reportKey];
+            storage.flagSave();
+            return;
+        }
+    }
+
     if (textLower === '!ajuda') {
         const userRole = parseInt(getUserRole(userId, storage.data.users));
         const isAdmin = userRole >= 2;
