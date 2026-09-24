@@ -1,9 +1,9 @@
+import { useMultiFileAuthState } from '@whiskeysockets/baileys';
 import makeWASocket, {
     DisconnectReason,
     fetchLatestBaileysVersion,
     Browsers
 } from '@whiskeysockets/baileys';
-import { usePostgreSQLAuthState } from 'postgres-baileys';
 import pino from 'pino';
 import cron from 'node-cron';
 import readline from 'readline';
@@ -611,13 +611,7 @@ async function syncSchedulesOnBoot(sock: any) {
 
 async function startBot() {
   await storage.ready;
-  const { state, saveCreds } = await usePostgreSQLAuthState({
-    host: process.env.DB_HOST || 'localhost',
-    port: Number(process.env.DB_PORT || 5432),
-    user: process.env.DB_USER || 'postgres',
-    password: process.env.DB_PASSWORD || '',
-    database: process.env.DB_NAME || 'bot2',
-  }, process.env.WHATSAPP_SESSION_ID || 'bot2.0');
+  const { state, saveCreds } = await useMultiFileAuthState('auth_info_baileys');
   const { version } = await fetchLatestBaileysVersion();
 
   let pairingCodeRequested = false;

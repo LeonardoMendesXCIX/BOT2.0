@@ -1,58 +1,19 @@
 import { WASocket } from '@whiskeysockets/baileys';
-import { Pool } from 'pg';
+import * as fs from 'fs';
+import * as path from 'path';
 import { getUserInfo } from '../utils/user';
 
-export interface ClusterMessage {
-    authorNum: string;
-    authorName: string;
-    text: string;
-    timestamp: number;
-}
-
-export interface PromoSchedule {
-    startTime: string;
-    endTime: string;
-    content: string;
-    setBy: string;
-    active: boolean;
-}
-
-export interface UserStats {
-    text: number;
-    media: number;
-    total: number;
-}
-
-export interface AnonMessage {
-    id: string;
-    chatId: string;
-    senderJid: string;
-    senderNum: string;
-    senderName: string;
-    receiverJid: string;
-    receiverNum: string;
-    receiverName: string;
-    text: string;
-    timestamp: number;
-    type: 'anonimo' | 'resposta';
-    replyToId?: string;
-}
+export interface ClusterMessage { authorNum: string; authorName: string; text: string; timestamp: number; }
+export interface PromoSchedule { startTime: string; endTime: string; content: string; setBy: string; active: boolean; }
+export interface UserStats { text: number; media: number; total: number; }
+export interface AnonMessage { id: string; chatId: string; senderJid: string; senderNum: string; senderName: string; receiverJid: string; receiverNum: string; receiverName: string; text: string; timestamp: number; type: 'anonimo' | 'resposta'; replyToId?: string; }
 
 export interface BotStorage {
     states: Record<string, any>;
     cache: Record<string, any>;
     users: Record<string, string>;
     groupStats: Record<string, Record<string, UserStats>>;
-    scheduledMsgs: Array<{
-        id: string;
-        chatId: string;
-        authorId: string;
-        authorNum: string;
-        text: string;
-        hours: number[];
-        isReps: boolean;
-        lastSent: Record<string, boolean>;
-    }>;
+    scheduledMsgs: Array<{ id: string; chatId: string; authorId: string; authorNum: string; text: string; hours: number[]; isReps: boolean; lastSent: Record<string, boolean>; }>;
     chatHistory: Record<string, Record<string, string[]>>;
     memoryCluster: Record<string, ClusterMessage[]>;
     lastJarvisIntervention: Record<string, number>;
@@ -123,26 +84,11 @@ export interface BotStorage {
     disabledFeatures: Record<string, Record<string, boolean>>;
     anonMsgs: AnonMessage[];
     anonCounter: number;
-    reportAdminGroup: string | null;
-    pendingReports: Record<string, {
-        userId: string;
-        chatId: string;
-        step: 'waiting_evidence' | 'waiting_admin_decision';
-        messageId?: string;
-        extractedNumber?: string;
-        reporterJid?: string;
-        groupName?: string;
-    }>;
     maintenance: boolean;
+    nonFakeNumbers: Record<string, Record<string, { addedBy: string; addedAt: string }>>;
 }
 
-const storagePool = new Pool({
-    host: process.env.DB_HOST || 'localhost',
-    port: Number(process.env.DB_PORT || 5432),
-    user: process.env.DB_USER || 'postgres',
-    password: process.env.DB_PASSWORD || '',
-    database: process.env.DB_NAME || 'bot2',
-});
+const STORAGE_FILE = path.join(process.cwd(), 'bot_storage.json');
 
 export class StorageManager {
     public data: BotStorage;
@@ -151,162 +97,70 @@ export class StorageManager {
 
     constructor() {
         this.data = {
-            states: {},
-            cache: {},
-            users: {},
-            groupStats: {},
-            scheduledMsgs: [],
-            chatHistory: {},
-            memoryCluster: {},
-            lastJarvisIntervention: {},
-            messageCountSinceLastJarvis: {},
-            botDisabled: {},
-            botMusicDisabled: {},
-            closedGroups: {},
-            queuedWelcomes: {},
-            promoSchedule: {},
-            welcomeMsgs: {},
-            welcomeReminders: {},
-            pendingBvReminders: [],
-            groupSchedules: {},
-            exitMsgs: {},
-            removalMsgs: {},
-            inativosMsgs: {},
-            antilink: {},
-            antifake: {},
-            antifakeStrictLid: {},
-            antiflood: {},
-            mutes: {},
-            blacklistWords: {},
-            antiForward: {},
-            antiStickerFlood: {},
-            warnTimestamps: {},
-            raidMode: {},
-            raidHistory: {},
-            captcha: {},
-            pendingCaptcha: {},
-            autoApprove: {},
-            dailyQuota: {},
-            dailyQuotaCount: {},
-            xp: {},
-            coins: {},
-            dailyRewardClaimed: {},
-            autoReaction: {},
-            birthdays: {},
-            countdowns: {},
-            perguntaDia: {},
-            sorteios: {},
-            autoRemoveInactive: {},
-            autoRemoveWarned: {},
-            adminLog: {},
-            lockMedia: {},
-            purgeSchedule: {},
-            antinsfw: {},
-            autoTranscribe: {},
-            antidelete: {},
-            messageBuffer: {},
-            groupRules: {},
-            warnings: {},
-            maxWarnings: {},
-            activeQuiz: {},
-            goalAlerts: {},
-            reminders: [],
-            faqEnabled: {},
-            lastFaqAnswer: {},
-            businessHours: null,
-            activeTicket: null,
-            hangman: {},
-            tictactoe: {},
-            marriages: {},
-            firstMsgSeen: {},
-            bjHands: {},
-            autoAnim: {},
-            lastGroupActivity: {},
-            autoAnimSent: {},
-            disabledFeatures: {},
-            anonMsgs: [],
-            anonCounter: 1000,
-            reportAdminGroup: null,
-            pendingReports: {},
-            maintenance: false
+            states: {}, cache: {}, users: {}, groupStats: {},
+            scheduledMsgs: [], chatHistory: {}, memoryCluster: {},
+            lastJarvisIntervention: {}, messageCountSinceLastJarvis: {},
+            botDisabled: {}, botMusicDisabled: {}, closedGroups: {},
+            queuedWelcomes: {}, promoSchedule: {}, welcomeMsgs: {},
+            welcomeReminders: {}, pendingBvReminders: [], groupSchedules: {},
+            exitMsgs: {}, removalMsgs: {}, inativosMsgs: {}, antilink: {},
+            antifake: {}, antifakeStrictLid: {}, antiflood: {}, mutes: {},
+            blacklistWords: {}, antiForward: {}, antiStickerFlood: {},
+            warnTimestamps: {}, raidMode: {}, raidHistory: {}, captcha: {},
+            pendingCaptcha: {}, autoApprove: {}, dailyQuota: {},
+            dailyQuotaCount: {}, xp: {}, coins: {}, dailyRewardClaimed: {},
+            autoReaction: {}, birthdays: {}, countdowns: {}, perguntaDia: {},
+            sorteios: {}, autoRemoveInactive: {}, autoRemoveWarned: {},
+            adminLog: {}, lockMedia: {}, purgeSchedule: {}, antinsfw: {},
+            autoTranscribe: {}, antidelete: {}, messageBuffer: {},
+            groupRules: {}, warnings: {}, maxWarnings: {}, activeQuiz: {},
+            goalAlerts: {}, reminders: [], faqEnabled: {}, lastFaqAnswer: {},
+            businessHours: null, activeTicket: null, hangman: {}, tictactoe: {},
+            marriages: {}, firstMsgSeen: {}, bjHands: {}, autoAnim: {},
+            lastGroupActivity: {}, autoAnimSent: {}, disabledFeatures: {},
+            anonMsgs: [], anonCounter: 1000, maintenance: false,
+            nonFakeNumbers: {}
         };
         this.ready = this.load();
-
-        setInterval(() => {
-            if (this.pendingSave) {
-                this.saveSync();
-            }
-        }, 15000);
+        setInterval(() => { if (this.pendingSave) this.saveSync(); }, 15000);
     }
 
     private async load(): Promise<void> {
         try {
-            await storagePool.query(`CREATE TABLE IF NOT EXISTS bot_storage (key TEXT PRIMARY KEY, value JSONB NOT NULL)`);
-            const result = await storagePool.query<{ key: string; value: BotStorage[keyof BotStorage] }>('SELECT key, value FROM bot_storage');
-            for (const row of result.rows) {
-                if (row.key in this.data) {
-                    (this.data as any)[row.key] = row.value;
-                }
+            if (!fs.existsSync(STORAGE_FILE)) {
+                console.log('[STORAGE] Arquivo bot_storage.json nao existe. Criando novo...');
+                fs.writeFileSync(STORAGE_FILE, JSON.stringify(this.data, null, 2), 'utf-8');
+                return;
             }
+            const content = fs.readFileSync(STORAGE_FILE, 'utf-8');
+            if (!content.trim()) return;
+            const parsed = JSON.parse(content);
+            for (const key of Object.keys(this.data)) {
+                if (key in parsed) (this.data as any)[key] = parsed[key];
+            }
+            console.log('[STORAGE] Dados carregados com sucesso de bot_storage.json');
         } catch (e: any) {
-            console.error('[ERRO STORAGE] Falha ao carregar PostgreSQL:', e.message);
+            console.error('[ERRO STORAGE] Falha ao carregar JSON:', e.message);
         }
     }
 
-    public flagSave(): void {
-        this.pendingSave = true;
-    }
+    public flagSave(): void { this.pendingSave = true; }
 
     public saveSync(): void {
-        void this.save();
-    }
-
-    private async save(): Promise<void> {
-        if (!this.pendingSave) return;
         try {
-            await this.ready;
-            const client = await storagePool.connect();
-            try {
-                await client.query('BEGIN');
-                for (const [key, value] of Object.entries(this.data)) {
-                    await client.query(
-                        'INSERT INTO bot_storage (key, value) VALUES ($1, $2) ON CONFLICT (key) DO UPDATE SET value = EXCLUDED.value',
-                        [key, JSON.stringify(value)],
-                    );
-                }
-                await client.query('COMMIT');
-                this.pendingSave = false;
-            } catch (error) {
-                await client.query('ROLLBACK');
-                throw error;
-            } finally {
-                client.release();
-            }
-        } catch (e: any) {
-            console.error('[ERRO STORAGE] Falha ao salvar PostgreSQL:', e.message);
-        }
+            fs.writeFileSync(STORAGE_FILE, JSON.stringify(this.data, null, 2), 'utf-8');
+            this.pendingSave = false;
+        } catch (e: any) { console.error('[ERRO STORAGE] Falha ao salvar JSON:', e.message); }
     }
 
-    public async shutdown(): Promise<void> {
-        await this.ready;
-        await this.save();
-        await storagePool.end();
-    }
-
-    public getData<T = any>(key: keyof BotStorage): T {
-        return (this.data as any)[key] as T;
-    }
-
-    public setData<K extends keyof BotStorage>(key: K, value: BotStorage[K]): void {
-        this.data[key] = value;
-        this.flagSave();
-    }
+    public async shutdown(): Promise<void> { this.saveSync(); }
+    public getData<T = any>(key: keyof BotStorage): T { return (this.data as any)[key] as T; }
+    public setData<K extends keyof BotStorage>(key: K, value: BotStorage[K]): void { this.data[key] = value; this.flagSave(); }
 
     public pruneStorage(): void {
         const now = Date.now();
         const SEVEN_DAYS = 7 * 24 * 60 * 60 * 1000;
         const FIFTEEN_MIN = 15 * 60 * 1000;
-
         if (this.data.chatHistory) {
             for (const chatId in this.data.chatHistory) {
                 const days = this.data.chatHistory[chatId];
@@ -317,20 +171,13 @@ export class StorageManager {
                 }
             }
         }
-
         if (this.data.messageBuffer) {
             for (const chatId in this.data.messageBuffer) {
                 const buf = this.data.messageBuffer[chatId];
-                for (const msgId in buf) {
-                    if (now - (buf[msgId].timestamp || 0) > FIFTEEN_MIN) delete buf[msgId];
-                }
+                for (const msgId in buf) { if (now - (buf[msgId].timestamp || 0) > FIFTEEN_MIN) delete buf[msgId]; }
             }
         }
-
-        if (this.data.anonMsgs && this.data.anonMsgs.length > 500) {
-            this.data.anonMsgs = this.data.anonMsgs.slice(-500);
-        }
-
+        if (this.data.anonMsgs && this.data.anonMsgs.length > 500) this.data.anonMsgs = this.data.anonMsgs.slice(-500);
         this.flagSave();
     }
 
@@ -345,12 +192,12 @@ export class StorageManager {
     public getLevel(xp: number): number { return Math.floor(Math.sqrt(xp / 50)) + 1; }
 
     public getRoleByLevel(level: number): string {
-        if (level >= 20) return '👑 Lenda';
-        if (level >= 15) return '💎 Diamante';
-        if (level >= 10) return '🥇 Ouro';
-        if (level >= 5) return '🥈 Prata';
-        if (level >= 2) return '🥉 Bronze';
-        return '🌱 Iniciante';
+        if (level >= 20) return 'Lenda';
+        if (level >= 15) return 'Diamante';
+        if (level >= 10) return 'Ouro';
+        if (level >= 5) return 'Prata';
+        if (level >= 2) return 'Bronze';
+        return 'Iniciante';
     }
 
     public addCoins(chatId: string, num: string, amount: number): number {
@@ -361,54 +208,37 @@ export class StorageManager {
         return this.data.coins[chatId][num];
     }
 
-    public isBotDisabled(chatId: string): boolean {
-        if (!chatId) return false;
-        return this.data.botDisabled?.[chatId] === true;
-    }
-
+    public isBotDisabled(chatId: string): boolean { return this.data.botDisabled?.[chatId] === true; }
     public setBotDisabled(chatId: string, disabled: boolean): void {
         if (!this.data.botDisabled) this.data.botDisabled = {};
         this.data.botDisabled[chatId] = disabled;
         this.flagSave();
     }
-
-    public isMusicDisabled(chatId: string): boolean {
-        return this.data.botMusicDisabled?.[chatId] === true;
-    }
-
+    public isMusicDisabled(chatId: string): boolean { return this.data.botMusicDisabled?.[chatId] === true; }
     public setMusicDisabled(chatId: string, disabled: boolean): void {
         if (!this.data.botMusicDisabled) this.data.botMusicDisabled = {};
         this.data.botMusicDisabled[chatId] = disabled;
         this.flagSave();
     }
-
-    public isGroupClosed(chatId: string): boolean {
-        if (!chatId) return false;
-        return this.data.closedGroups?.[chatId] === true;
-    }
-
+    public isGroupClosed(chatId: string): boolean { return this.data.closedGroups?.[chatId] === true; }
     public setGroupClosed(chatId: string, closed: boolean): void {
         if (!this.data.closedGroups) this.data.closedGroups = {};
         this.data.closedGroups[chatId] = closed;
         this.flagSave();
     }
-
     public isMuted(chatId: string, num: string): boolean {
         const until = this.data.mutes?.[chatId]?.[num];
         return !!until && until > Date.now();
     }
-
     public setMute(chatId: string, num: string, ms: number): void {
         if (!this.data.mutes) this.data.mutes = {};
         if (!this.data.mutes[chatId]) this.data.mutes[chatId] = {};
         this.data.mutes[chatId][num] = Date.now() + ms;
         this.flagSave();
     }
-
     public clearMute(chatId: string, num: string): void {
         if (this.data.mutes?.[chatId]) { delete this.data.mutes[chatId][num]; this.flagSave(); }
     }
-
     public logAdminAction(chatId: string, adminNum: string, action: string, target?: string): void {
         if (!this.data.adminLog) this.data.adminLog = {};
         if (!this.data.adminLog[chatId]) this.data.adminLog[chatId] = [];
@@ -416,7 +246,6 @@ export class StorageManager {
         if (this.data.adminLog[chatId].length > 100) this.data.adminLog[chatId] = this.data.adminLog[chatId].slice(-100);
         this.flagSave();
     }
-
     public checkDailyQuota(chatId: string, userNum: string): { allowed: boolean; limit: number; used: number } {
         const limit = this.data.dailyQuota?.[chatId] || 0;
         if (!limit) return { allowed: true, limit: 0, used: 0 };
@@ -433,7 +262,6 @@ export class StorageManager {
         this.flagSave();
         return { allowed: entry.count <= limit, limit, used: entry.count };
     }
-
     public detectRaid(chatId: string): boolean {
         if (!this.data.raidHistory) this.data.raidHistory = {};
         if (!this.data.raidHistory[chatId]) this.data.raidHistory[chatId] = [];
@@ -443,72 +271,47 @@ export class StorageManager {
         this.flagSave();
         return this.data.raidHistory[chatId].length >= 5;
     }
-
     public isPromoWindowActive(chatId: string): boolean {
         if (!chatId || !this.data.promoSchedule || !this.data.promoSchedule[chatId]) return false;
         const promo = this.data.promoSchedule[chatId];
         if (!promo.active || !promo.startTime || !promo.endTime) return false;
-
         const now = new Date();
         const currentHHMM = now.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit', hour12: false });
-
-        if (promo.startTime <= promo.endTime) {
-            return currentHHMM >= promo.startTime && currentHHMM < promo.endTime;
-        } else {
-            return currentHHMM >= promo.startTime || currentHHMM < promo.endTime;
-        }
+        if (promo.startTime <= promo.endTime) return currentHHMM >= promo.startTime && currentHHMM < promo.endTime;
+        return currentHHMM >= promo.startTime || currentHHMM < promo.endTime;
     }
-
     public addMessageToCluster(chatId: string, authorNum: string, authorName: string, text: string): void {
         if (!this.data.memoryCluster) this.data.memoryCluster = {};
         if (!this.data.memoryCluster[chatId]) this.data.memoryCluster[chatId] = [];
-
         const now = Date.now();
         const THIRTY_MINUTES = 30 * 60 * 1000;
-
-        this.data.memoryCluster[chatId].push({
-            authorNum,
-            authorName,
-            text: text.substring(0, 350),
-            timestamp: now
-        });
-
-        this.data.memoryCluster[chatId] = this.data.memoryCluster[chatId].filter(
-            m => (now - m.timestamp) <= THIRTY_MINUTES
-        );
-
+        this.data.memoryCluster[chatId].push({ authorNum, authorName, text: text.substring(0, 350), timestamp: now });
+        this.data.memoryCluster[chatId] = this.data.memoryCluster[chatId].filter(m => (now - m.timestamp) <= THIRTY_MINUTES);
         if (!this.data.messageCountSinceLastJarvis) this.data.messageCountSinceLastJarvis = {};
         this.data.messageCountSinceLastJarvis[chatId] = (this.data.messageCountSinceLastJarvis[chatId] || 0) + 1;
         this.flagSave();
     }
-
     public purgeExpiredClusters(): void {
         if (!this.data.memoryCluster) return;
         const now = Date.now();
         const THIRTY_MINUTES = 30 * 60 * 1000;
         let modified = false;
-
         for (const chatId in this.data.memoryCluster) {
             const beforeLen = this.data.memoryCluster[chatId].length;
-            this.data.memoryCluster[chatId] = this.data.memoryCluster[chatId].filter(
-                m => (now - m.timestamp) <= THIRTY_MINUTES
-            );
+            this.data.memoryCluster[chatId] = this.data.memoryCluster[chatId].filter(m => (now - m.timestamp) <= THIRTY_MINUTES);
             if (this.data.memoryCluster[chatId].length !== beforeLen) modified = true;
         }
         if (modified) this.flagSave();
     }
-
     public isFeatureDisabled(chatId: string, featureKey: string): boolean {
         if (!chatId || !featureKey) return false;
         if (!this.data.disabledFeatures || !this.data.disabledFeatures[chatId]) return false;
         return this.data.disabledFeatures[chatId][featureKey] === true;
     }
-
     public setFeatureStatus(chatId: string, featureKey: string, enabled: boolean): void {
         if (!this.data.disabledFeatures) this.data.disabledFeatures = {};
         if (!this.data.disabledFeatures[chatId]) this.data.disabledFeatures[chatId] = {};
         this.data.disabledFeatures[chatId][featureKey] = !enabled;
-
         if (featureKey === 'antilink') this.data.antilink[chatId] = enabled;
         if (featureKey === 'antifake') this.data.antifake[chatId] = enabled;
         if (featureKey === 'antiflood') this.data.antiflood[chatId] = enabled;
@@ -520,29 +323,18 @@ export class StorageManager {
         if (featureKey === 'captcha') this.data.captcha[chatId] = enabled;
         if (featureKey === 'autoaprovar') this.data.autoApprove[chatId] = enabled;
         if (featureKey === 'lockmedia') this.data.lockMedia[chatId] = enabled;
-
         this.flagSave();
     }
-
     public generateAnonId(): string {
         if (!this.data.anonCounter) this.data.anonCounter = 1000;
         this.data.anonCounter++;
         this.flagSave();
         return 'A' + this.data.anonCounter;
     }
-
-    // ADVERTÊNCIAS: 3 advertências = remoção SILENCIOSA (sem aviso público da política)
-    public async applyWarning(
-        sock: WASocket,
-        chatId: string,
-        targetJid: string,
-        reason: string,
-        limitDefault: number = 3
-    ): Promise<void> {
+    public async applyWarning(sock: WASocket, chatId: string, targetJid: string, reason: string, limitDefault: number = 3): Promise<void> {
         const targetNum = targetJid.split('@')[0].split(':')[0].replace(/\D/g, '');
         const targetInfo = getUserInfo(targetJid);
         const limit = (this.data.maxWarnings && this.data.maxWarnings[chatId]) || limitDefault;
-
         if (!this.data.warnings[chatId]) this.data.warnings[chatId] = {};
         if (!this.data.warnTimestamps) this.data.warnTimestamps = {};
         if (!this.data.warnTimestamps[chatId]) this.data.warnTimestamps[chatId] = {};
@@ -552,34 +344,23 @@ export class StorageManager {
         if (this.data.warnTimestamps[chatId][targetNum].length === 0) this.data.warnings[chatId][targetNum] = 0;
         this.data.warnings[chatId][targetNum] = (this.data.warnings[chatId][targetNum] || 0) + 1;
         this.data.warnTimestamps[chatId][targetNum].push(Date.now());
-
         const currentWarns = this.data.warnings[chatId][targetNum];
         this.flagSave();
-
-        // Mensagem pública SEM mencionar a política de remoção
         await sock.sendMessage(chatId, {
-            text: '⚠️ *ADVERTÊNCIA REGISTRADA (' + currentWarns + '/' + limit + ')*\n\n' +
-                '👤 *Membro:* ' + targetInfo.smartMention + '\n' +
-                '📝 *Motivo:* ' + reason,
+            text: 'ADVERTENCIA REGISTRADA (' + currentWarns + '/' + limit + ')\n\nMembro: ' + targetInfo.smartMention + '\nMotivo: ' + reason,
             mentions: [targetInfo.mentionJid, targetInfo.jid]
         });
-
-        // 3ª advertência: remoção automática silenciosa
         if (currentWarns >= limit) {
             try {
                 await sock.groupParticipantsUpdate(chatId, [targetInfo.jid], 'remove');
                 delete this.data.warnings[chatId][targetNum];
                 this.flagSave();
-
                 const removalCfg = this.data.removalMsgs?.[chatId];
                 const removalText = removalCfg && removalCfg.text
                     ? removalCfg.text.replace(/\{membro\}/gi, targetInfo.smartMention)
                     : 'Xiii, acho que o integrante ' + targetInfo.smartMention + ' fez algo de errado, pois foi removido!';
-
                 await sock.sendMessage(chatId, { text: removalText, mentions: [targetInfo.mentionJid, targetInfo.jid] });
-            } catch (e: any) {
-                console.error('[ERRO AUTO-REMOVE WARN]', e.message);
-            }
+            } catch (e: any) { console.error('[ERRO AUTO-REMOVE WARN]', e.message); }
         }
     }
 }
