@@ -86,6 +86,16 @@ export interface BotStorage {
     anonCounter: number;
     maintenance: boolean;
     nonFakeNumbers: Record<string, Record<string, { addedBy: string; addedAt: string }>>;
+    reportAdminGroup: string | null;
+    pendingReports: Record<string, {
+        userId: string;
+        chatId: string;
+        step: 'waiting_evidence' | 'waiting_admin_decision';
+        messageId?: string;
+        extractedNumber?: string;
+        reporterJid?: string;
+        groupName?: string;
+    }>;
 }
 
 const STORAGE_FILE = path.join(process.cwd(), 'bot_storage.json');
@@ -119,7 +129,9 @@ export class StorageManager {
             marriages: {}, firstMsgSeen: {}, bjHands: {}, autoAnim: {},
             lastGroupActivity: {}, autoAnimSent: {}, disabledFeatures: {},
             anonMsgs: [], anonCounter: 1000, maintenance: false,
-            nonFakeNumbers: {}
+            nonFakeNumbers: {},
+            reportAdminGroup: null,
+            pendingReports: {}
         };
         this.ready = this.load();
         setInterval(() => { if (this.pendingSave) this.saveSync(); }, 15000);

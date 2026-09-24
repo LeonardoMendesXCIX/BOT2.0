@@ -4,6 +4,20 @@ import { getUserInfo, updateLidMapping, extractRawNumber, detectBrazilianNumber 
 import { checkMatch } from '../config/rbac';
 import { sendToN8N } from '../utils/n8n';
 
+const BOT_START_TIME = Date.now();
+const EVENT_GRACE_PERIOD_MS = 90000; // 90s: ignora eventos antigos na reconexao
+const MAX_WELCOMES_PER_MINUTE = 5; // limite de boas-vindas por minuto
+
+let welcomeCountWindow: number[] = [];
+
+function isFloodWelcome(): boolean {
+    const now = Date.now();
+    welcomeCountWindow = welcomeCountWindow.filter(t => now - t < 60000);
+    if (welcomeCountWindow.length >= MAX_WELCOMES_PER_MINUTE) return true;
+    welcomeCountWindow.push(now);
+    return false;
+}
+
 export function setupGroupEvents(sock: WASocket, storage: StorageManager): void {
     sock.ev.on('group-participants.update', async (event) => {
         try {
@@ -33,6 +47,18 @@ export function setupGroupEvents(sock: WASocket, storage: StorageManager): void 
             }
 
             if (action === 'add') {
+                // Ignora eventos que chegaram logo apos o boot (backlog do WhatsApp)
+                if (Date.now() - BOT_START_TIME < EVENT_GRACE_PERIOD_MS) {
+                    console.log('[EVENTS] Ignorando evento add (dentro do grace period pos-reboot)');
+                    return;
+                }
+
+                // Ignora se estourou o limite de boas-vindas por minuto (anti-flood)
+                if (isFloodWelcome()) {
+                    console.log('[EVENTS] Flood de boas-vindas detectado, ignorando novos membros');
+                    return;
+                }
+
                 for (const newMemberId of participants) {
                     let realJid = newMemberId;
                     let memberPushName = '';
